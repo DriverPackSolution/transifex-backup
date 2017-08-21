@@ -1,0 +1,1015 @@
+# Translators:
+# Nadia Tegeneva <nadia@drp.su>, 2017
+# Matyáš Koc <admin@sufix.cz>, 2017
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-08-10 10:22+0000\n"
+"PO-Revision-Date: 2016-09-23 09:12+0000\n"
+"Last-Translator: Matyáš Koc <admin@sufix.cz>, 2017\n"
+"Language-Team: Czech (https://www.transifex.com/driverpack-solution/teams/75453/cs/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: cs\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+#. i18n: EN: Example: VENDOR.NAME=Asus; RU: Пример: VENDOR.NAME=Asus;
+msgid "seo_vendor-footer-anchor"
+msgstr "{{VENDOR.NAME}}"
+
+msgid "seo_devicegroups-footer-anchor"
+msgstr "{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
+
+#. i18n: EN: Example: NAME=Acer E230H; RU: Пример: NAME=Acer E230H;
+msgid "seo_devicegroup-footer-anchor"
+msgstr "{{NAME}}"
+
+#. i18n: EN: Example: NAME=Asus X550EA; RU: Пример: NAME=Asus X550EA;
+msgid "seo_notebookvendor-footer-anchor"
+msgstr "{{NOTEBOOK.VENDOR.NAME}} laptopy"
+
+msgid "seo_notebook-footer-anchor"
+msgstr "{{NAME}} laptopy"
+
+msgid "seo_notebookdevices-footer-anchor"
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} {{CLASS.PLURAL.MAIN}}"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
+#. CLASS.PLURAL.FOR=мониторов|модемов;
+msgid "seo_deviceclass-footer-anchor"
+msgstr "{{CLASS.PLURAL.MAIN}}"
+
+msgid "seo_hwidos-footer-anchor"
+msgstr "Verze ovladače pro Windows {{OS.NAME}}"
+
+msgid "seo_main-title"
+msgstr "DriverPack Solution — automatická instalace a aktualizace ovladačů | Stahujte zdarma"
+
+msgid "seo_main-description"
+msgstr "DriverPack Solution navrhuje instalaci ovladačů pro vaše zařízení nebo stahování softwaru pro automatickou instalaci a aktualizaci."
+
+msgid "seo_main-keywords"
+msgstr "stáhnout ovladač balíček windows 7 8 10 64 ovladače laptop zdarma ovladač instalátor ovladač instalace software"
+
+msgid "seo_mainos-title"
+msgstr "Stáhnout ovladače pro Windows {{OS.VERSION}} | DriverPack Solution"
+
+msgid "seo_mainos-description"
+msgstr "Aktualizovat ovladače pro Windows {{OS.VERSION}} x64 a x86 zdarma"
+
+msgid "seo_mainos-h1"
+msgstr "Windows {{OS.VERSION}} ovladače"
+
+msgid "seo_mainos-keywords"
+msgstr "Windows {{OS.VERSION}} stáhnout instalovat 64 86 ovladače DriverPack Solution zdarma"
+
+msgid "seo_mainos-h3"
+msgstr "Největší sbírka ovladačů pro Windows {{OS.VERSION}} v jedné jednoduché aplikaci zdarma"
+
+msgid "seo_mainlanding-title"
+msgstr "DriverPack Solution - software pro aktualizaci počítačů | Stáhnout pro Windows 7, XP, 10, 8 a 8.1"
+
+msgid "seo_mainlanding-description"
+msgstr "DriverPack Solution – program zdarma pro automatickou instalaci a aktualizaci ovladačů na vašem laptopu a PC. Možnost stáhnout si ovladače pro Windows XP, 7, 8, 8.1 a 10 z našeho katalogu je také možné."
+
+msgid "seo_mainlanding-keywords"
+msgstr "stáhnout ovladače auto-instalace aktualizace Windows 7, XP, 10, 8 a 8.1 software pro instalaci ovladačů"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
+#. CLASS.PLURAL.FOR=мониторов|модемов;
+msgid "seo_deviceclass-title"
+msgstr "Stáhnout {{CLASS.SINGLE.FOR}} ovladače | Windows"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
+#. CLASS.PLURAL.FOR=мониторов|модемов;
+msgid "seo_deviceclass-description"
+msgstr "Stáhnout {{CLASS.SINGLE.FOR}} ovladače pro Windows 7, XP, 10, 8 a 8.1, nebo stáhnout program DriverPack Solution pro automatickou instalaci a aktualizaci ovladačů"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
+#. CLASS.PLURAL.FOR=мониторов|модемов;
+msgid "seo_deviceclass-h1"
+msgstr "<span class='bold'>{{CLASS.SINGLE.FOR}}</span> ovladače"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
+#. CLASS.PLURAL.FOR=мониторов|модемов;
+msgid "seo_deviceclass-keywords"
+msgstr "{{CLASS.SINGLE.FOR}} ovladače windows 7 64 8 10 stáhnout stáhnout"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
+#. CLASS.PLURAL.FOR=мониторов|модемов;
+msgid "seo_deviceclass-footer-description"
+msgstr "Stáhnout ovladače pro {{CLASS.PLURAL.FOR}} zdarma"
+
+msgid "seo_deviceclass-footer-application-category"
+msgstr "Kategorie: <span itemprop='applicationCategory'>Zařízení</span>"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=monitors|modem; RU: Пример:
+#. CLASS.PLURAL.MAIN=мониторы|модемы;
+msgid "seo_deviceclass-footer-application-subcategory"
+msgstr "Podkategorie: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+
+msgid "seo_vendors-title"
+msgstr "Stáhnout ovladače pro počítač, laptop a notebook | Windows"
+
+msgid "seo_vendors-description"
+msgstr "Nainstalujte ovladače pro PC, laptop nebo netbook zdarma, nebo si stáhněte software pro automatickou aktualizaci a instalaci"
+
+msgid "seo_vendors-h1"
+msgstr "Výrobci hardwaru"
+
+msgid "seo_vendors-keywords"
+msgstr "ovladače ovladače windows 7 8 10 64 stáhnout stáhnout"
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_vendor-title"
+msgstr "Stáhnout {{VENDOR.NAME}} ovladače pro Windows zdarma"
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_vendor-description"
+msgstr "Nainstalujte {{VENDOR.NAME}} ovladače pro Windows 7, XP, 10, 8 a 8.1 zdarma, nebo si stáhněte program DriverPack Solution pro automatickou instalaci ovladačů"
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_vendor-h1"
+msgstr "<span class='bold'>{{VENDOR.NAME}}</span> ovladače zařízení"
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_vendor-keywords"
+msgstr "ovladače windows 7 8 10 64 stáhnout stáhnout {{VENDOR.NAME}}"
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_vendor-footer-description"
+msgstr "Stáhnout ovladače pro {{VENDOR.NAME}} zařízení zdarma"
+
+msgid "seo_vendor-footer-application-category"
+msgstr "Kategorie: <span itemprop='applicationCategory'>Zařízení</span>"
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_vendor-footer-application-subcategory"
+msgstr "Podkategorie: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} zařízení</span>"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|monitors; VENDOR.NAME=Acer;
+#. RU: Пример: CLASS.PLURAL.FOR=видеокарт|мониторов; VENDOR.NAME=Acer;
+msgid "seo_devicegroups-title"
+msgstr "Stáhnout {{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} ovladače pro Windows zdarma"
+
+#. i18n: EN: Example: CLASS.SINGLE.FOR=videocard|monitor; VENDOR.NAME=Acer;
+#. RU: Пример: CLASS.SINGLE.FOR=видеокарты|монитора; VENDOR.NAME=Acer;
+msgid "seo_devicegroups-description"
+msgstr "Tady můžete nainstalovat {{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} ovladače pro Windows 7, XP, 10, 8 a 8.1, nebo si stáhnout program DriverPack Solution pro automatickou instalaci ovladačů"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|monitors; VENDOR.NAME=Acer;
+#. RU: Пример: CLASS.PLURAL.FOR=видеокарт|мониторов; VENDOR.NAME=Acer;
+msgid "seo_devicegroups-h1"
+msgstr "<span class='bold'>{{VENDOR.NAME}}</span> {{CLASS.SINGLE.FOR}} ovladače"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|monitors; VENDOR.NAME=Acer;
+#. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|мониторы; VENDOR.NAME=Acer;
+msgid "seo_devicegroups-keywords"
+msgstr "ovladače windows 7 8 10 64 stáhnout stáhnout PC {{CLASS.PLURAL.MAIN}} {{VENDOR.NAME}}"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|monitors; VENDOR.NAME=Acer;
+#. RU: Пример: CLASS.PLURAL.FOR=видеокарт|мониторов; VENDOR.NAME=Acer;
+msgid "seo_devicegroups-footer-description"
+msgstr "Stáhnout ovladače pro {{VENDOR.NAME}} {{CLASS.PLURAL.FOR}}"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|monitors; RU: Пример:
+#. CLASS.PLURAL.MAIN=видеокарты|мониторы;
+msgid "seo_devicegroups-footer-application-category"
+msgstr "Kategorie: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|monitors; VENDOR.NAME=Acer;
+#. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|мониторы; VENDOR.NAME=Acer;
+msgid "seo_devicegroups-footer-application-subcategory"
+msgstr "Podkategorie: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}} </span>"
+
+#. i18n: EN: Example: CLASS.SINGLE.FOR=videocard|monitor; VENDOR.NAME=Acer;
+#. RU: Пример: CLASS.SINGLE.FOR=видеокарты|монитора; VENDOR.NAME=Acer;
+msgid "seo_devicegroups-footer-content"
+msgstr "Stáhnout ovladače pro {{VENDOR.NAME}} {{CLASS.SINGLE.FOR}}, nebo nainstalovat DriverPack Solution pro automatické stažení a aktualizaci ovladačů"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
+#. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
+#. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
+#. GROUP.NAME=GeForce 210;
+msgid "seo_devicegroup-title"
+msgstr "Stáhnout {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.SINGLE.FOR}} ovladače pro Windows zdarma"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
+#. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
+#. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
+#. GROUP.NAME=GeForce 210;
+msgid "seo_devicegroup-description"
+msgstr "Načíst a nainstalovat {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.SINGLE.FOR}} ovladače pro Windows 7, XP, 10, 8, a 8.1, nebo stáhnout program DriverPack Solution pro automatickou instalaci ovladačů"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
+#. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
+#. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
+#. GROUP.NAME=GeForce 210;
+msgid "seo_devicegroup-h1"
+msgstr "<span class='bold'>{{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.SINGLE.FOR}}</span> ovladače"
+
+#. i18n: EN: Example: GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU:
+#. Пример: GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210;
+msgid "seo_devicegroup-keywords"
+msgstr "ovladače windows 7 8 10 64 stáhnout stáhnout PC {{GROUP.VENDOR.NAME}} {{GROUP.NAME}}"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
+#. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
+#. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
+#. GROUP.NAME=GeForce 210;
+msgid "seo_devicegroup-footer-description"
+msgstr "Stáhnout ovladače pro {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.PLURAL.FOR}} zdarma"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
+#. GROUP.VENDOR.NAME=Nvidia; RU: Пример: CLASS.PLURAL.FOR=видеокарт|чипсетов;
+#. GROUP.VENDOR.NAME=Nvidia;
+msgid "seo_devicegroup-footer-application-category"
+msgstr "Kategorie: <span itemprop='applicationCategory'>{{GROUP.VENDOR.NAME}} {{CLASS.PLURAL.MAIN}} </span>"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets;
+#. GROUP.NAME=GeForce 210; RU: Пример: CLASS.PLURAL.MAIN=видеокарты|чипсеты;
+#. GROUP.NAME=GeForce 210;
+msgid "seo_devicegroup-footer-application-subcategory"
+msgstr "Podkategorie: <span itemprop='applicationSubCategory'>{{GROUP.NAME}} {{CLASS.PLURAL.MAIN}} </span>"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
+#. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
+#. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
+#. GROUP.NAME=GeForce 210;
+msgid "seo_devicegroup-footer-content"
+msgstr "Stáhnout ovladače pro {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.SINGLE.FOR}} nebo stáhnout program DriverPack Solution pro automatické stažení a aktualizaci ovladačů"
+
+msgid "seo_hwids-title"
+msgstr "Stáhnout ovladače zařízení podle Device_id | DriverPack Solution | Stránka {{PAGE}}"
+
+msgid "seo_hwids-description"
+msgstr "Stáhnout ovladače zařízení podle Device_id"
+
+msgid "seo_hwids-h1"
+msgstr "Všechny ovladače pro zařízení"
+
+#. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+#. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+msgid "seo_hwid-title"
+msgstr "{{DEVICE.DEVICEID}} ovladače ke stažení zdarma"
+
+#. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+#. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+msgid "seo_hwid-description"
+msgstr "{{DEVICE.DEVICEID}} zařízení ovladač pro Windows 7, XP, 10, 8 a 8.1"
+
+#. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+#. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+msgid "seo_hwid-h1"
+msgstr "<span class='bold'>{{DEVICE.DEVICEID}}</span>"
+
+#. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+#. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+msgid "seo_hwid-keywords"
+msgstr "ovladače windows 7 8 10 64 stáhnout stáhnout PC {{DEVICE.DEVICEID}}"
+
+#. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+#. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+msgid "seo_hwid-footer-description"
+msgstr "Stáhnout ovladače pro {{DEVICE.DEVICEID}} zařízení zdarma"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets; RU: Пример:
+#. CLASS.PLURAL.MAIN=видеокарты|чипсеты;
+msgid "seo_hwid-footer-application-category"
+msgstr "Kategorie: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets; VENDOR.NAME=Acer;
+#. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|чипсеты; VENDOR.NAME=Acer;
+msgid "seo_hwid-footer-application-subcategory"
+msgstr "Podkategorie: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}} </span>"
+
+#. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+#. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+msgid "seo_hwid-footer-content"
+msgstr "Stáhnout {{DEVICE.DEVICEID}} ovladač, nebo nainstalovat program DriverPack Solution pro automatický výběr a aktualizaci ovladače"
+
+msgid "seo_notebooks-title"
+msgstr "Stáhnout ovladače pro všechny modely laptopů pro Windows OS"
+
+msgid "seo_notebooks-description"
+msgstr "Načíst a nainstalovat ovladače pro všechny modely laptopů a netbooků pro Windows 7, XP, 10, 8 a 8.1, nebo si stáhněte program DriverPack Solution pro automatickou aktualizaci a instalaci ovladačů"
+
+msgid "seo_notebooks-h1"
+msgstr "Ovladače pro laptop a netbook"
+
+msgid "seo_notebooks-keywords"
+msgstr "ovladače ovladače laptop notebook laptop netbook netbook windows 7 8 10 64 stáhnout stáhnout"
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_notebookvendor-title"
+msgstr "Stáhnout {{VENDOR.NAME}} ovladače laptopů | Windows"
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_notebookvendor-description"
+msgstr "Načíst a nainstalovat {{VENDOR.NAME}} laptop a netbook ovladače pro Windows 7, XP, 10, 8, a 8.1, nebo si stáhněte program DriverPack Solution pro automatickou aktualizaci a instalaci ovladačů"
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_notebookvendor-h1"
+msgstr "<span class='bold'>{{VENDOR.NAME}}</span> ovladače pro laptopy a netbooky"
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_notebookvendor-keywords"
+msgstr "ovladače ovladače laptop notebook laptop netbook netbook windows 7 8 10 64 stáhnout stáhnout {{VENDOR.NAME}}"
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_notebookvendor-footer-description"
+msgstr "Stáhnout ovladače pro {{VENDOR.NAME}} laptopy zdarma"
+
+msgid "seo_notebookvendor-footer-application-category"
+msgstr "Kategorie: <span itemprop='applicationCategory'>Laptopy</span>"
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_notebookvendor-footer-application-subcategory"
+msgstr "Podkategorie: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} laptopy</span>"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
+#. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+msgid "seo_notebook-title"
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} ovladače laptopu | Stáhnout pro Windows"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
+#. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+msgid "seo_notebook-description"
+msgstr "Načíst a nainstalovat {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptop a netbook ovladače pro Windows 7, XP, 10, 8, a 8.1, nebo si stáhněte program DriverPack Solution pro automatickou aktualizaci a instalaci ovladačů"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
+#. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+msgid "seo_notebook-h1"
+msgstr "<span class='bold'>{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}</span> ovladače pro laptop"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
+#. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+msgid "seo_notebook-keywords"
+msgstr "ovladače ovladače laptop notebook laptop netbook netbook windows 7 8 10 64 stáhnout stáhnout {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
+#. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+msgid "seo_notebook-footer-description"
+msgstr "Stáhnout ovladače pro {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptopy zdarma"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; RU: Пример:
+#. NOTEBOOK.VENDOR.NAME=Acer;
+msgid "seo_notebook-footer-application-category"
+msgstr "Kategorie: <span itemprop='applicationCategory'>{{NOTEBOOK.VENDOR.NAME}} laptopy</span>"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
+#. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+msgid "seo_notebook-footer-application-subcategory"
+msgstr "Podkategorie: <span itemprop='applicationSubCategory'>{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptopy</span>"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
+#. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+msgid "seo_notebook-footer-content"
+msgstr "Zde můžete stáhnout ovladače pro {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptop, nebo stáhnout software pro automatickou instalaci a aktualizaci od DriverPack Solution"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+#. CLASS.SINGLE.FOR=videocart|soundcart; RU: Пример:
+#. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+#. CLASS.SINGLE.FOR=видеокарты|звуковой карты;
+msgid "seo_notebookdevices-title"
+msgstr "{{CLASS.SINGLE.FOR}} ovladače pro {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptop | Stáhnout pro Windows"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+#. CLASS.SINGLE.FOR=videocart|soundcart; RU: Пример:
+#. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+#. CLASS.SINGLE.FOR=видеокарты|звуковой карты;
+msgid "seo_notebookdevices-description"
+msgstr "Stáhnout a nainstalovat {{CLASS.SINGLE.FOR}} ovladače pro {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptop pro Windows 7, XP, 10, 8, a 8.1, nebo stáhnout program DriverPack Solution pro automatickou instalaci a aktualizaci ovladačů"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+#. CLASS.PLURAL.FOR=videocarts|soundcarts; RU: Пример:
+#. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+#. CLASS.PLURAL.FOR=видеокарт|звуковых карт;
+msgid "seo_notebookdevices-h1"
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptop {{CLASS.SINGLE.FOR}} ovladače"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets;
+#. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU: Пример:
+#. CLASS.PLURAL.MAIN=видеокарты|чипсеты; NOTEBOOK.VENDOR.NAME=Acer;
+#. NOTEBOOK.NAME=AO533;
+msgid "seo_notebookdevices-keywords"
+msgstr "ovladače ovladače laptop notebook laptop netbook {{CLASS.PLURAL.MAIN}} netbook windows 7 8 10 64 stáhnout stáhnout {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+#. CLASS.PLURAL.FOR=videocarts|soundcarts; RU: Пример:
+#. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+#. CLASS.PLURAL.FOR=видеокарт|звуковых карт;
+msgid "seo_notebookdevices-footer-description"
+msgstr "Stáhnout ovladače pro {{CLASS.PLURAL.FOR}} pro {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptop zdarma."
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
+#. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+msgid "seo_notebookdevices-footer-application-category"
+msgstr "Kategorie: <span itemprop='applicationCategory'> {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptopy</span>"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets;
+#. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU: Пример:
+#. CLASS.PLURAL.MAIN=видеокарты|чипсеты; NOTEBOOK.VENDOR.NAME=Acer;
+#. NOTEBOOK.NAME=AO533;
+msgid "seo_notebookdevices-footer-application-subcategory"
+msgstr "Podkategorie: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}} pro {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}</span>"
+
+#. i18n: EN: Example: CLASS.SINGLE.FOR=videocard|chipset;
+#. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU: Пример:
+#. CLASS.SINGLE.FOR=видеокарты|чипсета; NOTEBOOK.VENDOR.NAME=Acer;
+#. NOTEBOOK.NAME=AO533;
+msgid "seo_notebookdevices-footer-content"
+msgstr "Stáhnout ovladače pro {{CLASS.SINGLE.FOR}} pro {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptop pro Windows 7, XP, 10, 8, a 8.1, nebo stáhnout program DriverPack Solution pro automatickou aktualizaci ovladačů"
+
+msgid "seo_search-title"
+msgstr "Výsledky hledání pro řetězec: {{QUERY}} | DriverPack Solution"
+
+msgid "seo_devicegroupos-title"
+msgstr "Stáhnout {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} ovladače pro Windows {{OS}}"
+
+msgid "seo_devicegroupos-description"
+msgstr "Instalovat {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} ovladač pro Windows {{OS}}, nebo stáhnout program DriverPack Solution pro automatickou instalaci a aktualizaci ovladačů."
+
+msgid "seo_devicegroupos-h1"
+msgstr "{{GROUP.VENDOR.NAME}} {{GROUP.NAME}} ovladače pro Windows {{OS}}"
+
+msgid "seo_devicegroupos-keywords"
+msgstr "ovladače Windows {{OS}} ovladače ovladače PC {{GROUP.NAME}} {{GROUP.VENDOR.NAME}}"
+
+msgid "seo_devicegroupos-footer-description"
+msgstr "Stáhnout {{CLASS.SINGLE.FOR}} ovladače pro {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} pro Windows {{OS}} zdarma"
+
+msgid "seo_devicegroupos-footer-application-category"
+msgstr "Kategorie: <span itemprop='applicationCategory'>{{GROUP.VENDOR.NAME}} {{CLASS.PLURAL.MAIN}} </span>"
+
+msgid "seo_devicegroupos-footer-application-subcategory"
+msgstr "Podkategorie: <span itemprop='applicationSubCategory'>{{GROUP.NAME}} {{CLASS.PLURAL.MAIN}} </span>"
+
+msgid "seo_devicegroupos-footer-content"
+msgstr "Stáhnout ovladače pro {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.PLURAL.FOR}} (Windows {{OS}}), nebo nainstalovat program DriverPack Solution pro automatické stažení a aktualizací ovladačů"
+
+msgid "seo_notebookos-title"
+msgstr "Stáhnout {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} ovladače pro laptop pro Windows {{OS}}"
+
+msgid "seo_notebookos-description"
+msgstr "Instalovat {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptop ovladače pro Windows {{OS}}, nebo stáhnout program DriverPack Solution pro automatickou instalaci a aktualizaci ovladačů"
+
+msgid "seo_notebookos-h1"
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} ovladače pro laptop pro Windows {{OS}}"
+
+msgid "seo_notebookos-keywords"
+msgstr "ovladače ovladače laptop notebook laptop netbook netbook Windows {{OS}} stáhnout stáhnout {{NOTEBOOK.NAME}} {{NOTEBOOK.VENDOR.NAME}}"
+
+msgid "seo_notebookos-footer-description"
+msgstr "Stáhnout ovladače pro {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptopy pro Windows {{OS}} zdarma"
+
+msgid "seo_notebookos-footer-application-category"
+msgstr "Kategorie: <span itemprop='applicationCategory'>{{NOTEBOOK.VENDOR.NAME}} laptopy</span>"
+
+msgid "seo_notebookos-footer-application-subcategory"
+msgstr "Podkategorie: <span itemprop='applicationSubCategory'>{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptopy</span>"
+
+msgid "seo_notebookos-footer-content"
+msgstr "Zde můžete stáhnout ovladače pro {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptop (Windows {{OS}}), nebo stáhnout program pro automatickou instalaci a aktualizaci ovladačů od DriverPack Solution"
+
+msgid "seo_deviceclassos-title"
+msgstr "Stáhnout {{CLASS.SINGLE.FOR}} ovladače pro Windows {{OS}}"
+
+msgid "seo_deviceclassos-description"
+msgstr "Instalovat {{CLASS.SINGLE.FOR}} ovladače pro Windows {{OS}}, nebo stáhnout program DriverPack Solution pro automatickou instalaci a aktualizaci ovladačů"
+
+msgid "seo_deviceclassos-h1"
+msgstr "{{CLASS.SINGLE.FOR}} ovladače pro Windows {{OS}}"
+
+msgid "seo_deviceclassos-keywords"
+msgstr "{{CLASS.SINGLE.FOR}} ovladače Windows {{OS}} stáhnout stáhnout"
+
+msgid "seo_deviceclassos-footer-description"
+msgstr "Stáhnout {{CLASS.SINGLE.FOR}} ovladače pro Windows {{OS}} zdarma"
+
+msgid "seo_deviceclassos-footer-application-category"
+msgstr "Kategorie: <span itemprop='applicationCategory'>Zařízení</span>"
+
+msgid "seo_deviceclassos-footer-application-subcategory"
+msgstr "Podkategorie: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+
+msgid "seo_devicegroupsos-title"
+msgstr "Stáhnout {{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} ovladače pro Windows {{OS}}"
+
+msgid "seo_devicegroupsos-description"
+msgstr "Stáhnout {{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} ovladače pro Windows {{OS}}, nebo stáhnout program DriverPack Solution pro automatickou instalaci a aktualizaci ovladačů"
+
+msgid "seo_devicegroupsos-h1"
+msgstr "{{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} ovladače pro Windows {{OS}}"
+
+msgid "seo_devicegroupsos-keywords"
+msgstr "ovladače Windows {{OS}} stáhnout stáhnout PC {{CLASS.PLURAL.MAIN}} {{VENDOR.NAME}}"
+
+msgid "seo_devicegroupsos-footer-description"
+msgstr "Stáhnout {{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} ovladače pro Windows {{OS}}"
+
+msgid "seo_devicegroupsos-footer-application-category"
+msgstr "Kategorie: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+
+msgid "seo_devicegroupsos-footer-application-subcategory"
+msgstr "Podkategorie: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}} </span>"
+
+msgid "seo_devicegroupsos-footer-content"
+msgstr "Stáhnout ovladače pro {{VENDOR.NAME}} {{CLASS.PLURAL.FOR}} (Windows {{OS}}) zdarma, nebo nainstalovat program DriverPack Solution pro automatické stažení a aktualizaci ovladačů"
+
+msgid "seo_notebookvendoros-title"
+msgstr "Stáhnout {{VENDOR.NAME}} laptop ovladače pro Windows {{OS}}"
+
+msgid "seo_notebookvendoros-description"
+msgstr "Stáhnout ovladače pro {{VENDOR.NAME}} laptop pro Windows {{OS}}, nebo stáhnout program DriverPack Solution pro automatickou instalaci a aktualizaci ovladačů"
+
+msgid "seo_notebookvendoros-h1"
+msgstr "{{VENDOR.NAME}} laptop ovladače pro Windows {{OS}}"
+
+msgid "seo_notebookvendoros-keywords"
+msgstr "ovladače ovladače laptop notebook laptop netbook netbook Windows {{OS}} stáhnout stáhnout {{VENDOR.NAME}}"
+
+msgid "seo_notebookvendoros-footer-description"
+msgstr "Stáhnout ovladače pro {{VENDOR.NAME}} laptopy pro Windows {{OS}} zdarma"
+
+msgid "seo_notebookvendoros-footer-application-category"
+msgstr "Kategorie: <span itemprop='applicationCategory'>Laptopy</span>"
+
+msgid "seo_notebookvendoros-footer-application-subcategory"
+msgstr "Podkategorie: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} laptopy</span>"
+
+msgid "seo_notebookvendoros-footer-content"
+msgstr "Stáhnout ovladače pro {{VENDOR.NAME}} laptop pro Windows {{OS}} zdarma, nebo stáhnout program DriverPack Solution pro automatickou instalaci a aktualizaci ovladačů"
+
+msgid "seo_hwidos-title"
+msgstr "{{DEVICE.DEVICEID}} stáhnout ovladač pro Windows {{OS}}"
+
+msgid "seo_hwidos-description"
+msgstr "Stáhnout {{DEVICE.DEVICEID}} ovladač ve Windows {{OS}} verzi zdarma"
+
+msgid "seo_hwidos-h1"
+msgstr "{{DEVICE.DEVICEID}} ovladače zařízení pro Windows {{OS}}"
+
+msgid "seo_hwidos-keywords"
+msgstr "ovladače Windows {{OS}} stáhnout stáhnout PC {{DEVICE.DEVICEID}}"
+
+msgid "seo_hwidos-footer-description"
+msgstr "Stáhnout {{DEVICE.DEVICEID}} ovladače zařízení pro Windows {{OS}} zdarma"
+
+msgid "seo_hwidos-footer-application-category"
+msgstr "Kategorie: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+
+msgid "seo_hwidos-footer-application-subcategory"
+msgstr "Podkategorie: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}} </span>"
+
+msgid "seo_hwidos-footer-content"
+msgstr "Stáhnout ovladač pro {{DEVICE.DEVICEID}} zařízení pro Windows {{OS}}, nebo stáhnout program DriverPack Solution pro automatickou instalaci a aktualizaci ovladačů."
+
+msgid "seo_notebookdevicesos-title"
+msgstr "{{CLASS.SINGLE.FOR}} ovladače pro {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptop | Stáhnout pro Windows {{OS}}"
+
+msgid "seo_notebookdevicesos-description"
+msgstr "Instalovat {{CLASS.SINGLE.FOR}} ovladače pro {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptop pro Windows {{OS}}, nebo stáhnout program DriverPack Solution pro automatickou instalaci a aktualizaci ovladačů"
+
+msgid "seo_notebookdevicesos-h1"
+msgstr "Ovladače pro {{CLASS.PLURAL.FOR}} pro {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptopy | Windows {{OS}}"
+
+msgid "seo_notebookdevicesos-keywords"
+msgstr "ovladače ovladače laptop notebook laptop netbook netbook {{CLASS.PLURAL.MAIN}} Windows {{OS}} stáhnout stáhnout {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
+
+msgid "seo_notebookdevicesos-footer-description"
+msgstr "Stáhnout {{CLASS.SINGLE.FOR}} ovladače pro {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptopy pro Windows {{OS}} zdarma"
+
+msgid "seo_notebookdevicesos-footer-application-category"
+msgstr "Kategorie: <span itemprop='applicationCategory'> {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptopy</span>"
+
+msgid "seo_notebookdevicesos-footer-application-subcategory"
+msgstr "Podkategorie: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}} pro {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}</span>"
+
+msgid "seo_notebookdevicesos-footer-content"
+msgstr "Stáhnout ovladače pro {{CLASS.SINGLE.FOR}} pro {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptop (Windows {{OS}}), nebo stáhnout program DriverPack Solution pro aktualizaci ovladačů"
+
+msgid "seo_promopage_title"
+msgstr "DriverPack – instalace ovladačů zdarma"
+
+msgid "seo_promo-description"
+msgstr "DriverPack Solution nabízí instalaci ovladačů pro vaše zařízení zdarma, nebo stažení softwaru pro automatickou instalaci a aktualizaci ovladačů"
+
+msgid "seo_promo-keywords"
+msgstr "stáhnout ovladač balíček ovladače windows 7 8 10 64 laptop pro zdarma ovladač instalátor ovladač instalační program"
+
+msgid "seo_promodevice_title"
+msgstr "Stáhnout ovladače pro USB, Bluetooth, tiskárny, Wi-Fi a videokarty zdarma"
+
+msgid "seo_promodevice-description"
+msgstr "DriverPack Solution zaktualizuje ovladače vašeho USB, Bluetooth, tiskárny, Wi-Fi a video karty na poslední verzi"
+
+msgid "seo_promodevice-keywords"
+msgstr "ovladače, bluetooth, tiskárna, zvuková karta, webkamera, myš, ovladač pro video"
+
+msgid "seo_promovendors_title"
+msgstr "Stáhnout ovladač pro Lenovo, Samsung, Acer, Asus, a Dell zdarma"
+
+msgid "seo_promovendors-description"
+msgstr "DriverPack zaktualizuje Lenovo, Samsung, Acer, Asus, a Dell na poslední verzi"
+
+msgid "seo_promovendors-keywords"
+msgstr "ovladač, dell, samsung, lenovo, asus, acer, toshiba, asus"
+
+msgid "seo_promodrivers_title"
+msgstr "Stáhnout a instalovat ovladače pro Windows 7, 10, XP, 8"
+
+msgid "seo_promodrivers-description"
+msgstr "DriverPack zaktualizuje Windows 7, Windows 10, Windows XP a Windows 8 ovladače zdarma"
+
+msgid "seo_promodrivers-keywords"
+msgstr "windows 7 ovladač, stáhnout ovladač, windows 10 ovladač, aktualizace ovladačů, ovladače zdarma"
+
+msgid "seo_forgamers-description"
+msgstr "Instalovat ovladače videokarty pro Windows 7, XP, 10, 8 a 8.1 nebo stáhnout DriverPack Solution pro automatickou instalaci a aktualizaci ovladačů"
+
+msgid "seo_forgamers-keywords"
+msgstr "video karta ovladače windows 7 64 8 10 stáhnout stáhnout"
+
+msgid "seo_wannacrypt_title"
+msgstr "Virus WannaCry - jak chránit vaše PC a laptop?"
+
+msgid "seo_wannacrypt-description"
+msgstr "Stáhnout zdarma ochranu proti viru WannaCry pro váš PC a laptop"
+
+msgid "seo_license_title"
+msgstr "Licenční podmínky | DriverPack Solution"
+
+msgid "seo_license-description"
+msgstr ""
+
+msgid "seo_license-keywords"
+msgstr "ovladače stáhnout zdarma windows 7 XP 8 10 DriverPack Solution"
+
+msgid "seo_standards_title"
+msgstr "Doporučené softwarové standardy | DriverPack Solution"
+
+msgid "seo_standards-description"
+msgstr "Normy a požadavky na software doporučovaný programem DriverPack"
+
+msgid "seo_standards-keywords"
+msgstr "standardy softwaru SW DriverPack"
+
+msgid "seo_deviceclass-footer-content-bluetooth"
+msgstr "V této sekci můžete stáhnout <strong>ovladače pro Bluetooth</strong> pro všechny verze operačního systému Windows. Jak ovladače od známých výrobců (jako Hewlett Packard, Qcom a Celink), tak i od málo známých výrobců jsou k dispozici. Celkově můžete v tomto katalogu <b>stáhnout ovladače pro Bluetooth</b> od více než 90 výrobců.<br />Pokud se vám nepodařilo najít ovladač, který potřebujete, nainstalujte náš software DriverPack Solution pro automatickou aktualizaci ovladačů - je to naprosto zdarma!"
+
+msgid "seo_deviceclass-footer-content-cardreader"
+msgstr "Čtečky karet jsou zařízení pro čtení informací z paměťové karty. Pokud potřebujete přesunout soubory z videokamery nebo fotoaparátu do počítače, pomůže vám toto zařízení. <strong>V této části jsou k dispozici ovladače čteček karet.</strong> Řada ovladačů od více než 50 výrobců pro všechny oblíbené verze operačního systému Windows jsou zde zastoupeny. Můžete si stáhnout konkrétní <b>ovladače pro čtečky karet</b>, stejně jako (pokud se z nějakého důvodu stane, že zde nenaleznete ovladač, který potřebujete) nainstalujte program pro aktualizaci ovladače DriverPack Solution. Tento software bude pro vás zcela zdarma!"
+
+msgid "seo_deviceclass-footer-content-chipset"
+msgstr "Tato část obsahuje <strong>ovladače pro čipsety</strong> od nejrozšířenějších výrobců hardwaru tohoto typu, jako jsou Exar a Prolific. K dispozici jsou ovladače pro čipové sady pro všechny verze systému Windows, které se nyní používají, jako jsou Windows XP, Windows 7, 8, 8.1 a 10 ve x64 i x86, a dokonce i ovladače čipových sad pro systém Windows Vista, který dnes není moc populární. Pokud se z nějakého důvodu nepodařilo najít nebo stáhnout <b>ovladač čipové sady</b>, který vás zajímá, použijte náš software pro aktualizaci ovladačů DriverPack Solution - je to naprosto zdarma a udělá vše za vás!"
+
+msgid "seo_deviceclass-footer-content-inputdev"
+msgstr "Protože existuje tak velká škála typů vstupních zařízení (myši, klávesnice, joysticky atd.) a jejich výrobců, stává se výzvou výběr požadovaného ovladače. Tento problém vyřešíme pro vás - v této části můžete vybrat a stáhnout <strong>ovladače pro vstupní zařízení</strong> zcela zdarma. Pokud se z nějakého důvodu nepodařilo najít <b>ovladač vstupního zařízení</b>, který potřebujete v našem katalogu, stáhněte si zdarma software DriverPack Solution - vyhodnotí vaši hardwarovou konfiguraci a automaticky vybere všechny ovladače potřebné pro vaše vstupní zařízení."
+
+msgid "seo_deviceclass-footer-content-lan"
+msgstr "Bez správného výběru <b>ovladače síťové karty</b> bude dobrý přístup k internetu bude obtížný, nebo vůbec nemožný. Tato část našich webových stránek vám pomůže vybrat perfektní ovladač pro konfiguraci vašeho síťového hardwaru bez ohledu na to, kdo je jeho výrobcem - řady ovladačů od více než 80 výrobců síťového hardwaru jsou zde zastoupeny ve variantách pro všechny verze operačního systému Windows, které se nyní používají. Pokud se z nějakého důvodu nepodařilo najít <b>ovladač síťové karty</b> vašeho konkrétního výrobce, použijte náš software pro automatickou aktualizaci ovladačů DriverPack Solution - pro vás to zdarma vyřeší problém s výběrem ovladače!"
+
+msgid "seo_deviceclass-footer-content-massstorage"
+msgstr "V této sekci můžete <b>stáhnout ovladač pro řadič</b> pro všechny verze operačního systému Windows, které jsou v provozu nyní zcela zdarma. Nenašli jste ovladač, který potřebujete? Použijte náš vyhledávací a instalační software DriverPack Solution - je naprosto zdarma a udělá vše pro vás!"
+
+msgid "seo_deviceclass-footer-content-modem"
+msgstr "V této sekci můžete najít a <strong>stáhnout ovladače pro modemy</strong>, pro všechny dostupné verze operačního systému Windows a od všech významných výrobců hardwaru tohoto typu, a to nejen. Ovladače od výrobců, jako jsou Smartlink, AVM, Agere, a více než 50 dalších výrobců. Nepodařilo se vám vybrat ovladač, který potřebujete? Použijte náš univerzální a naprosto bezplatný software DriverPack Solution pro automatickou aktualizaci ovladačů."
+
+msgid "seo_deviceclass-footer-content-monitor"
+msgstr "Obvykle jsou <b>ovladače monitorů</b> zaznamenány na disku dodávaném s novým monitorem, ale situace může být odlišná, pokud je váš monitor z druhé ruky. To je důvod, proč i váš monitor vypadá, že je v pořádku a funguje dobře, ale systémová deska ho nemusí identifikovat. V tomto případě můžete vždy získat nápovědu v této sekci našeho webu - zde můžete vždy stáhnout nejnovější <b>ovladače pro monitory</b> pro vaší konfiguraci pro všechny verze operačního systému Windows, které jsou dnes k dispozici. Nepodařilo se vám najít ovladač, který potřebujete? Pak vám doporučujeme použít náš bezplatný software DriverPack Solution - umožní snadnější vyhledávání a aktualizaci ovladače monitoru."
+
+msgid "seo_deviceclass-footer-content-tvtuner"
+msgstr "Potřebujete <b>stáhnout ovladač pro tv-tuner</b>? Pak jste v pravém oddílu - zde můžete stáhnout a <b>nainstalovat ovladače pro tv-tuner</b> v nejnovějších verzích pro všechny varianty operačního systému Windows, které jsou nyní používány. Nenašli jste ovladač, který potřebujete? Žádný problém! Stáhněte si náš bezplatný software DriverPack Solution - vybere přesný ovladač čipů tv-tuneru, který potřebujete, a to provede automaticky, rychle a bez problémů!"
+
+msgid "seo_deviceclass-footer-content-sound"
+msgstr "Na počítači nefunguje zvuk? Jak dlouho zpátky jste aktualizovali <strong>ovladač zvukové karty</strong>? Stáhněte si nejnovější ovladače zvukových karet v této sekci našeho webu nebo nainstalujte bezplatný software pro automatickou aktualizaci ovladačů DriverPack Solution - vyřeší všechny vaše problémy s ovladači vaší zvukové karty!"
+
+msgid "seo_deviceclass-footer-content-video"
+msgstr "Hra nefunguje? Je obraz zobrazen s artefakty? Pak vám doporučujeme stáhnout <strong>ovladače pro grafickou kartu</strong> z našeho webu - velmi často je právě s nimi problém. V tomto oddíle jsou zastoupeny ovladače od 43 výrobců. Zde můžete snadno vybrat ovladač pro libovolnou verzi operačního systému Windows, která se nyní používá. Nepodařilo se vám najít a stáhnout <b>ovladač grafické karty</b>, kterou potřebujete? Použijte náš software pro aktualizaci ovladačů DriverPack Solution - je to naprosto zdarma!"
+
+msgid "seo_deviceclass-footer-content-wifi"
+msgstr "V této části si můžete stáhnout ovladač Wi-Fi jak pro standard 802.11n, tak i standard 802.11g pro všechny pokročilé verze operačního systému Windows. Ovladače nejnovější konfigurace, opakovaně ověřené našimi odborníky, jsou k dispozici zde. Pokud se vám nepodařilo <b>nainstalovat ovladač Wi-Fi</b> sami, nezoufejte - stáhněte si nejnovější verzi softwaru DriverPack Solution - automaticky zvolí ovladače přesně pro hardwarovou konfiguraci."
+
+msgid "seo_deviceclass-footer-content-phone"
+msgstr "Potřebujete ovladače pro telefon nebo smartphone? Žádný problém - v této části můžete <b>stáhnout a nainstalovat ovladače pro smartphone</b> téměř jakéhokoli modelu a od všech nejobvyklejších výrobců na dnešním trhu smartphonů. Naše ovladače jsou ověřené a spolehlivé!"
+
+msgid "seo_notebookvendor-footer-content-asus"
+msgstr ""
+
+msgid "seo_notebookvendor-footer-content-lg"
+msgstr ""
+
+msgid "seo_notebookvendor-footer-content-sony"
+msgstr ""
+
+msgid "seo_notebookvendor-footer-content-lenovo"
+msgstr ""
+
+msgid "seo_notebookvendor-footer-content-samsung"
+msgstr ""
+
+msgid "seo_notebookvendor-footer-content-msi"
+msgstr ""
+
+msgid "seo_notebookvendor-footer-content-toshiba"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-video-amd"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-video-nvidia"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-video-intel"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-chipset-intel"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-chipset-asus"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-chipset-amd"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-sound-msi"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-monitor-acer"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-monitor-asus"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-monitor-benq"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-monitor-compaq"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-monitor-dell"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-monitor-hp"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-monitor-lg"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-monitor-panasonic"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-monitor-samsung"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-monitor-sony"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-monitor-viewsonic"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-monitor-sharp"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-monitor-philips"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-modem-d-link"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-tvtuner-avermedia"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-tvtuner-beholder"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-tvtuner-pinnacle"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-tvtuner-philips"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-tvtuner-kworld"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-tvtuner-compro"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-phone-htc"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-phone-huawei"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-phone-nokia"
+msgstr ""
+
+msgid "seo_devicegroup-footer-content-video-nvidia-nvidia-geforce-9600-gt"
+msgstr ""
+
+msgid "seo_devicegroup-footer-content-monitor-samsung-syncmaster-740n-179n-syncmaster-magic-cx721n-cx714n"
+msgstr ""
+
+msgid "seo_notebook-footer-content-acer-aspire-5560g"
+msgstr ""
+
+msgid "seo_notebook-footer-content-aspire-5750g"
+msgstr ""
+
+msgid "seo_notebook-footer-content-acer-aspire-5100"
+msgstr ""
+
+msgid "seo_notebook-footer-content-acer-aspire-5553g"
+msgstr ""
+
+msgid "seo_notebook-footer-content-acer-aspire-7750g"
+msgstr ""
+
+msgid "seo_notebook-footer-content-acer-aspire-5551g"
+msgstr ""
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-x550cc"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-x550cl"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-x540sa"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-x540sc"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-x540la"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-k50c"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-x553ma"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-x541sa"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-k52jc"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-k52jr"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-x101ch"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-k50ij"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-x551ma"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-k53ta"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-x550ca"
+msgstr ""
+
+msgid "seo_notebook-footer-content-lenovo-g580"
+msgstr ""
+
+msgid "seo_notebook-footer-content-lenovo-b590"
+msgstr ""
+
+msgid "seo_notebook-footer-content-hp-pavilion-g6-chipset"
+msgstr ""
+
+msgid "seo_notebook-footer-content-lenovo-g580-wifi"
+msgstr ""
+
+msgid "seo_notebook-footer-content-lenovo-b590-wifi"
+msgstr ""
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g-wifi"
+msgstr ""
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g-video"
+msgstr ""
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g-sound"
+msgstr ""
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g-inputdev"
+msgstr ""
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g-lan"
+msgstr ""
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g-cardreader"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-x550cc-wifi"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-x550cc-lan"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-k50c-video"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-k50c-wifi"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-x553ma-video"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-x101ch-video"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-k50ij-wifi"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-x551ma-lan"
+msgstr ""
+
+msgid "seo_notebook-footer-content-lenovo-g580-lan"
+msgstr ""
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g-7-x86"
+msgstr ""
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g-8-x86"
+msgstr ""
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g-8.1-x86"
+msgstr ""
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g-10-x86"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-x550cc-7-x86"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-x550cc-7-x64"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-x550cl-7-x64"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-x540sa-7-x64"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-x540sa-8.1-x64"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-x540sa-10-x64"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-x540sc-7-x64"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-x540sc-8.1-x64"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-x540la-7-x64"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-k50c-xp-x86"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-x553ma-7-x64"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-x101ch-xp-x86"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-k50ij-7-x64"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-k50ij-xp-x86"
+msgstr ""
+
+msgid "seo_notebook-footer-content-lenovo-g580-7-x64"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-x550cc-sound-10-x64"
+msgstr ""
+
+msgid "seo_mainos-content-xp"
+msgstr ""
+
+msgid "seo_mainos-content-7"
+msgstr ""
+
+msgid "seo_mainos-content-8"
+msgstr ""
+
+msgid "seo_mainos-content-8.1"
+msgstr ""
+
+msgid "seo_mainos-content-10"
+msgstr ""

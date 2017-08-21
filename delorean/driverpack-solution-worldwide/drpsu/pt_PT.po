@@ -1,0 +1,1057 @@
+# Translators:
+# José Cunha <appsejogos97@gmail.com>, 2017
+# Jorge Carvalho <jorge.p.carvalho@gmail.com>, 2017
+# Nadia Tegeneva <nadia@drp.su>, 2017
+# Francisco Sousa <franciscojasousa@gmail.com>, 2017
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-08-16 09:41+0000\n"
+"PO-Revision-Date: 2016-09-23 09:12+0000\n"
+"Last-Translator: Francisco Sousa <franciscojasousa@gmail.com>, 2017\n"
+"Language-Team: Portuguese (Portugal) (https://www.transifex.com/driverpack-solution/teams/75453/pt_PT/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt_PT\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "adminlandingpage_title"
+msgstr "DriverPack para profissionais - instalação automática de controladores em qualquer computador"
+
+msgid "admincackle_dialog-star"
+msgstr "Por favor avalie o funcionamento do DriverPack"
+
+msgid "admindriverpacks_landing-title"
+msgstr "Driverpacks (pacotes de controladores)"
+
+msgid "admindriverpacks_landing-subtitle"
+msgstr "Os nossos driverpacks contém  1,131,989 controladores que foram manualmente selecionados e testados"
+
+msgid "admindriverpacks_downloaded"
+msgstr "Descarregamentos:"
+
+msgid "admindriverpacks_download"
+msgstr "Descarregamento"
+
+msgid "adminfaq_landing-title"
+msgstr "Respondemos às suas questões"
+
+msgid "adminfaq_landing-subtitle"
+msgstr "Questiona com frequência sobre o DriverPack — Nós respondemos às mais populares"
+
+msgid "adminheader_cta-text"
+msgstr "O DriverPack foi criado para administradores mas é fácil de usar mesmo para inexperientes"
+
+msgid "adminheader_cta-btn"
+msgstr "Descarregue o DriverPack Online"
+
+msgid "adminheader_products-caption"
+msgstr "Qualquer DriverPack configura o seu computador em menos de nada. Apenas escolha o pacote que precisa:"
+
+msgid "search_noresult"
+msgstr "Descarregue o DriverPack Online"
+
+msgid "adminpromo_landing-title"
+msgstr "O novo DriverPack 18 está em desenvolvimento"
+
+msgid "adminpromo_landing-subtitle"
+msgstr "A nova versão é desenhada especificamente para administradores e tem as suas necessidades em conta"
+
+msgid "adminpromo_banner-text"
+msgstr "O novo DriverPack 18 foi redesenhado a partir das versões anteriores que já provaram a sua estabilidade excecional. O lançamento da nova versão está agendado para o ano de 2017."
+
+msgid "adminpromo_list-item-speed"
+msgstr "A velocidade de instalação e inicialização da aplicação foi otimizada."
+
+msgid "adminpromo_list-item-ui"
+msgstr "O interface do separador Controladores foi redesenhado e é agora mais informativo para administradores de sistemas"
+
+msgid "adminpromo_list-item-settings"
+msgstr "A extensão de definições foi ampliada e a opção de Personalização Individual foi adicionada."
+
+msgid "adminpromo_list-item-soft"
+msgstr "A instalação forçada de programas por defeito está OFF"
+
+msgid "adminpromo_list-item-packs"
+msgstr "A abordagem base aos driverpacks foi alterada numa tentativa de eliminar os casos de erro \"ecrâ azul da morte\" e outros problemas."
+
+msgid "adminpromo_list-item-device-support"
+msgstr "O alcance de controladores foi significativamente expandido a mais tipos de hardware (incluindo hardware muito antigo)"
+
+msgid "adminpromo_list-item-expert-mode"
+msgstr "O Modo Especialista está ativo por defeito"
+
+msgid "adminpromo_list-item-stable-db"
+msgstr "Foi criada uma base de dados de controladores mais estável. O formato da base de dados de controladores foi atualizado."
+
+msgid "adminpromo_list-item-full-db"
+msgstr "A maior e única base de dados de controladores do mundo foi criada"
+
+msgid "buttonsplitdropdown_main-button"
+msgstr "Descarregamento"
+
+msgid "breadcrumbs_main-text"
+msgstr "Página Principal"
+
+msgid "breadcrumbs_vendors-text"
+msgstr "Fabricantes"
+
+#. i18n: EN: Example: VENDOR.NAME=Lenovo; RU: Пример: VENDOR.NAME=Lenovo;
+msgid "breadcrumbs_vendor-text"
+msgstr "{{VENDOR.NAME}}"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=cardreaders|monitors; RU: Пример:
+#. CLASS.PLURAL.MAIN=картридеры|мониторы;
+msgid "breadcrumbs_deviceclass-text"
+msgstr "{{CLASS.PLURAL.MAIN}}"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=cardreaders|monitors,
+#. VENDOR.NAME=Realtek; RU: Пример: CLASS.PLURAL.MAIN=картридеры|мониторы;
+#. VENDOR.NAME=Realtek;
+msgid "breadcrumbs_devicegroups-text"
+msgstr "{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
+
+#. i18n: EN: Example: GROUP.VENDOR.NAME=Nvidia, GROUP.NAME=GeForce 210; RU:
+#. Пример: GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210;
+msgid "breadcrumbs_devicegroup-text"
+msgstr "{{GROUP.VENDOR.NAME}} {{GROUP.NAME}}"
+
+msgid "breadcrumbs_notebooks-text"
+msgstr "Portáteis"
+
+#. i18n: EN: Example: VENDOR.NAME=Asus; RU: Пример: VENDOR.NAME=Asus;
+msgid "breadcrumbs_notebookvendor-text"
+msgstr "{{VENDOR.NAME}} portáteis"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=X1 carbon;
+#. RU: Пример: NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=X1 carbon;
+msgid "breadcrumbs_notebook-text"
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=Videocards|Chipsets ,
+#. NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=G580; RU: Пример:
+#. CLASS.PLURAL.MAIN=видеокарты|чипсеты, NOTEBOOK.VENDOR.NAME=Lenovo,
+#. NOTEBOOK.NAME=G580;
+msgid "breadcrumbs_notebookdevices-text"
+msgstr "{{CLASS.PLURAL.MAIN}} of {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} portátil"
+
+msgid "devicecard_download-btn"
+msgstr "Descarregar controlador"
+
+#. i18n: EN: Example: NAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10 x86; Text
+#. for {{DOWNLOAD}} is in key drivercard_no-results_download-link; RU: Пример:
+#. NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10 x86; Текст для
+#. {{DOWNLOAD}} находится в ключе drivercard_no-results_download-link;
+msgid "devicecard_details_no-results-text"
+msgstr "Os controladores para {{NAME}} para Windows {{OSVERSIONS}} não foram encontrados no catálogo. {{DOWNLOAD}} para automaticamente selecionar um controlador."
+
+msgid "devicecard_details_no-results_download-link"
+msgstr "Descarregar DriverPack"
+
+msgid "devicecard_details-content-text"
+msgstr "Dados a carregar..."
+
+msgid "devicecard_details_all-systems"
+msgstr "todos os sistemas"
+
+msgid "devicecard_details-content-label-version"
+msgstr "Versão:"
+
+msgid "devicecard_details-content-label-version-recommended"
+msgstr "recomendado"
+
+msgid "devicecard_details-content-label-date"
+msgstr "Data:"
+
+msgid "devicecard_details-content-label-type"
+msgstr "Tipo de Controlador:"
+
+msgid "devicecard_details-content-label-manufacturer"
+msgstr "Fabricante:"
+
+msgid "devicecard_details-content-label-systems"
+msgstr "Sistemas Operativos:"
+
+msgid "devicecard_details-content-label-deviceid"
+msgstr "Device ID:"
+
+msgid "devicecard_details-content-label-inf"
+msgstr "Ficheiro *.inf:"
+
+msgid "devicecard_details-content-label-section"
+msgstr "Categoria:"
+
+msgid "devicecard_details-links-merged_label"
+msgstr "Se o Device ID que precisa não existe na lista, insira-o na linha de busca"
+
+msgid "devicecard_details-links-notebook_device"
+msgstr "Ver todos os controladores"
+
+msgid "devicecard_details-links"
+msgstr "Ver todos os controladores para"
+
+#. i18n: EN: Example: DEVICENAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10
+#. x86; Text for {{DOWNLOAD}} is in key devicecardlist_no-result_download-
+#. link; RU: Пример: NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10
+#. x86; Текст для {{DOWNLOAD}} находится в ключе devicecardlist_no-
+#. result_download-link;
+msgid "devicecardlist_no-results-device-text"
+msgstr "Se os controladores para {{DEVICENAME}} para Windows {{OSVERSIONS}} não foram encontrados no catálogo. {{DOWNLOAD}} para selecionar automaticamente o controlador."
+
+#. i18n: EN: Example: DEVICECLASS=chipsets|videocards; NOTEBOOK=Acer AO521;
+#. OSVERSIONS=Windows 10 x86; Text for {{DOWNLOAD}} is in key
+#. devicecardlist_no-result_download-link; RU: Пример:
+#. DEVICECLASS=чипсета|видеокарты; NOTEBOOK=Acer AO521; Пример:
+#. OSVERSIONS=Windows 10 x86; Текст для {{DOWNLOAD}} находится в ключе
+#. devicecardlist_no-result_download-link;
+msgid "devicecardlist_no-results-notebook-text"
+msgstr "Os controladores para {{NOTEBOOK}} portátil para Windows {{OSVERSIONS}} não foram encontrados no catálogo. {{DOWNLOAD}} para selecionar automaticamnete o controlador."
+
+#. i18n: EN: Example: NOTEBOOK=Acer AO521; OSVERSIONS=Windows 10 x86; Text for
+#. {{DOWNLOAD}} is in key devicecardlist_no-result_download-link; RU: Пример:
+#. NOTEBOOK=Acer AO521; Пример: OSVERSIONS=Windows 10 x86; Текст для
+#. {{DOWNLOAD}} находится в ключе devicecardlist_no-result_download-link;
+msgid "devicecardlist_no-results-notebook-device-class-text"
+msgstr "OS controladores para {{DEVICECLASS}} para {{NOTEBOOK}} portáil para Windows {{OSVERSIONS}} não foram encontrados. {{DOWNLOAD}} para selecionar automaticamente um controlador."
+
+msgid "devicecardlist_no-result_download-link"
+msgstr "Descarregar DriverPack"
+
+msgid "devicegrouppage_all-systems"
+msgstr "todos os sistemas"
+
+msgid "notebookpage_all-systems"
+msgstr "todos os sistemas"
+
+msgid "devicegroupfilters_filter-title"
+msgstr "Controladores disponíveis"
+
+msgid "deviceidfilters-filter-label-version"
+msgstr "Versão do Controlador:"
+
+msgid "deviceidheader_caption-single"
+msgstr "Nome do Dispositivo:"
+
+msgid "deviceidheader_caption-many"
+msgstr "O dispositivo também é conhecido como:"
+
+msgid "devicetypelist_title_os"
+msgstr "Controlador para dispositivos no {{OS}}"
+
+msgid "devicetypelist_title"
+msgstr "Pesquisa de controladores para dispositivos"
+
+#. i18n: EN: Example: NAME=Acer Aspire 4830TG; OSVERSIONS=Windows 10 x86; Text
+#. for {{DOWNLOAD}} is in key drivercard_no-results_download-link; RU: Пример:
+#. NAME=Acer Aspire 4830TG; Пример: OSVERSIONS=Windows 10 x86; Текст для
+#. {{DOWNLOAD}} находится в ключе drivercard_no-results_download-link;
+msgid "drivercard_no-results-text"
+msgstr "Os controladores para {{NAME}} para Windows {{OSVERSIONS}} não foram encontrados no catálogo. {{DOWNLOAD}} para automaticamente selecionar um controlador."
+
+msgid "drivercard_no-results_download-link"
+msgstr "Descarregar DriverPack"
+
+msgid "drivercard_caption-version"
+msgstr "Versão:"
+
+msgid "drivercard_caption-version-recommended"
+msgstr "recomendado"
+
+msgid "drivercard_caption-date"
+msgstr "Data:"
+
+msgid "drivercard_caption-class"
+msgstr "Tipo de Dispositivo:"
+
+msgid "drivercard_caption-manufacturer"
+msgstr "Fabricante:"
+
+msgid "drivercard_caption-os"
+msgstr "Sistemas Operativos:"
+
+msgid "drivercard_caption-deviceid"
+msgstr "Device ID:"
+
+msgid "drivercard_caption-inf"
+msgstr "Ficheiro *.inf:"
+
+msgid "drivercard_caption-section"
+msgstr "Categoria:"
+
+msgid "drivercard_caption-btn"
+msgstr "Descarregar controlador"
+
+msgid "deviceidpage_all-systems"
+msgstr "todos os sistemas"
+
+msgid "dropdowndriverversion_no-results"
+msgstr "Os controladores para o SO escolhido não foram encontrados"
+
+msgid "dropdownos_current"
+msgstr "atual"
+
+msgid "footer_banner-title"
+msgstr "Está cansado de procurar controladores para os seus dispositivos?"
+
+msgid "footer_banner-caption"
+msgstr "DriverPack Online <span style='color: {{COLOR}}'>encontra e instala</span> automaticamente os controladores que precisa"
+
+msgid "footer_banner_btn"
+msgstr "Descarregue <span class='bold'>o DriverPack Online</span> de graça"
+
+msgid "footer_translate-feedback"
+msgstr "Encontrou alguma gralha ou engano?<br />Selecione-a e pressione {{HOTKEY}}"
+
+msgid "header_search-title"
+msgstr "<span class='bold'>Pesquisa de controladores na</span> na maior base de dados — mais de um milhão de controladores"
+
+msgid "header_search-examples"
+msgstr "Por exemplo:"
+
+msgid "header_cta-text"
+msgstr "Descarregue o DriverPack para uma seleção automática de conroladores"
+
+msgid "header_cta-btn"
+msgstr "Instalar os controladores automaticamente "
+
+msgid "header_cta-label-1"
+msgstr "Será <span style='color: {{COLOR}}'>descarregado</span> instantâneamente"
+
+msgid "header_cta-label-2"
+msgstr "Irá <span style='color: {{COLOR}}'>selecionar e instalar</span> os controladores automaticamente"
+
+msgid "headerbutton_title"
+msgstr "Instalar os controladores automaticamente "
+
+msgid "headerbutton_label"
+msgstr "O programa DriverPack é absolutamente livre de custos"
+
+msgid "headeros_cta-btn"
+msgstr "Instalar controladores para <span class='HeaderOs__cta-btn-marked'>{{OS}}</span>"
+
+msgid "headeros_search-text"
+msgstr "Ou use a pesquisa na nossa enorme base de dados de controladores"
+
+msgid "landingdevicetypelist_landing-title"
+msgstr "O DriverPack é indicado para qualquer dispositivo"
+
+msgid "landingdevicetypelist_landing-subtitle"
+msgstr "Mesmo para USB 3.0 no Windows 7 SP1"
+
+msgid "landingdevicetypelist_cta-btn"
+msgstr "Instalar todos os controladores necessários"
+
+msgid "landingdevicetypelist_versions"
+msgstr "Outras versões do DriverPack"
+
+msgid "landingfeatures_landing-title"
+msgstr "O DriverPack é a maneira mais conveniente e rápida de configurar um computador"
+
+msgid "landingfeatures_landing-subtitle"
+msgstr "O programa é disponibilizado de graça, e é indicado tanto para profissionais como para inexperientes"
+
+msgid "landingfeatures_item-title-free"
+msgstr "Gratuito"
+
+msgid "landingfeatures_item-caption-free"
+msgstr "O DriverPack é disponibilizado de graça"
+
+msgid "landingfeatures_item-title-safe"
+msgstr "Seguro"
+
+msgid "landingfeatures_item-caption-safe"
+msgstr "O DriverPack coopera oficialmente com fabricantes de programas de antivírus, e protege o seu computador"
+
+msgid "landingfeatures_item-title-for-all-devices"
+msgstr "Para todos os dispositivos"
+
+msgid "landingfeatures_item-caption-for-all-devices"
+msgstr "O DriverPack tem a maior base de dados de controladores do mundo, e pode ser usada para configurar qualquer computador"
+
+msgid "landingheader_cta-text"
+msgstr "O DriverPack instalará controladores de graça e resolverá problemas de controladores em qualquer dispositivo"
+
+msgid "landingheader_cta-btn"
+msgstr "Instalar todos os controladores necessários"
+
+msgid "landingheadernav_wannacrypt"
+msgstr "Proteção contra o WannaCry"
+
+msgid "landingheadernav_search"
+msgstr "Pesquisa de Controlador"
+
+msgid "landingheadernav_foradmin"
+msgstr "Para Administradores de Sistemas"
+
+msgid "landingintroduction_author-title"
+msgstr "Olá! O meu nome é Artur Kuzyakov. Sou o autor e fundador do DriverPack"
+
+msgid "landingintroduction_author-speech"
+msgstr "De um pequeno programa escrito por puro entusiasmo há 8 anos atrás, transformamo-nos numa companhia que já ajudou mais de 40 milhões de pessoas no mundo inteiro a configurar os seus computadores!<br /><br />Durante este tempo, a nossa plataforma tornou-se incrivelmente rápida e inteligente. Hoje, o DriverPack é a maior base de dados de controladores do mundo, colocada em servidores ultra rápidos por todo o mundo. De forma a responder sempre rápido e com a mais elevada qualidade ao processo de instalação de controladores, usamos tecnologia de aprendizagem de máquina o que torna o nosso algoritmo de seleção ainda melhor e mais preciso. Conseguimos atingir tudo isto de uma forma que permite que a platforma seja absolutamente livre de custos, e qualquer um a pode usar. <br /><br />A minha equipa e eu estamos orglhosos do nosso produto, e esperamos que ele se torne o seu assistente fiável na configuração de qualquer computador no mais curto espaço de tempo."
+
+msgid "landingintroduction_author-speech-marked"
+msgstr "Nós gastamos todo o nosso tempo de modo a que possa poupar o seu!"
+
+msgid "landingintroduction_video-caption"
+msgstr "E aqui está o que Dmitry Medvedev, o Primeiro Ministro da Federação Russa, pensa acerca do DriverPack Solution"
+
+msgid "landingnotebookvendorslist_landing-title"
+msgstr "O DriverPack é indicado para qualquer computador"
+
+msgid "landingnotebookvendorslist_landing-subtitle"
+msgstr "Sim, para QUALQUER computador - nós verificamos!"
+
+msgid "landingnotebookvendorslist_cta-btn"
+msgstr "Instalar todos os controladores necessários"
+
+msgid "landingnotebookvendorslist_versions"
+msgstr "Outras versões do DriverPack"
+
+msgid "landingproducts_item-title-online"
+msgstr "DriverPack Online"
+
+msgid "landingproducts_item-caption-online"
+msgstr "É descarregado instantaneamente, e descarregará todos os controladores em falta durante a instalação"
+
+msgid "landingproducts_item-version"
+msgstr "Versão:"
+
+msgid "landingproducts_item-button"
+msgstr "Descarregamento"
+
+msgid "landingproducts_item-title-network"
+msgstr "DriverPack Network"
+
+msgid "landingproducts_item-caption-network"
+msgstr "É descarregado rapidamente, e já contém os controladores de placas de rede"
+
+msgid "landingproducts_item-title-offline"
+msgstr "DriverPack Offline"
+
+msgid "landingproducts_item-caption-offline"
+msgstr "Pode funcionar sem ligação à Internet mas o tamanho é de 13.9 GB (útil para administradores de sistemas)"
+
+msgid "landingpublications__landing-title"
+msgstr "Publicações dos meios de comunicação acerca do DriverPack"
+
+msgid "landingscreenshots_landing-title"
+msgstr "O DriverPack é a maneira mais conveniente e rápida de configurar um computador"
+
+msgid "landingscreenshots_landing-subtitle"
+msgstr "O programa é disponibilizado de graça, e é indicado tanto para profissionais como para inexperientes"
+
+msgid "landingseofooter_landing-subtitle-notebooks"
+msgstr "O DriverPack é indicado para todos os modelos de computadores e portáteis"
+
+msgid "landingseofooter_landing-subtitle-devices"
+msgstr "O DriverPack contém controladores para todos os dispositivos"
+
+msgid "landingsocial_landing-title"
+msgstr "Junte-se à comunidade DriverPack"
+
+msgid "landingsocial_landing-subtitle"
+msgstr "Siga as notícias e participe nas discussões"
+
+msgid "landingusers_cta"
+msgstr "O número de utilizadores do DriverPack por todo o mundo continua a crescer a cada segundo"
+
+msgid "landingusers_cta-btn"
+msgstr "Instalar todos os controladores necessários"
+
+msgid "landingusers_versions"
+msgstr "Outras versões do DriverPack"
+
+msgid "landingwizard_landing-title"
+msgstr "Agora é possível configurar um computador com um clique"
+
+msgid "landingwizard_item-caption-download"
+msgstr "Descarregue e inicie o DriverPack Online"
+
+msgid "landingwizard_item-caption-setup"
+msgstr "Configure o seu computador com uma ação simples"
+
+msgid "landingwizard_item-caption-profit"
+msgstr "Parabéns! Agora o seu computador corre como novo!"
+
+msgid "landingwizard_cta-btn"
+msgstr "Instalar todos os controladores necessários"
+
+msgid "navbar_download-link-short"
+msgstr "Descarregamento"
+
+msgid "navbar_download-link"
+msgstr "Descarregue o DriverPack Online"
+
+msgid "notfound_cta-text"
+msgstr "Pode encontrar e instalar automaticamente os controladores usando o DriverPack Online de graça"
+
+msgid "notfound_cta-btn"
+msgstr "Descarregue o DriverPack Online"
+
+msgid "notfound_info-404"
+msgstr "{{404}} — a página que procura não existe"
+
+msgid "notfound_info-500"
+msgstr "{{500}} — aconteceu algum problema (erro do servidor)"
+
+msgid "notebookfilters-title"
+msgstr "Controladores disponíveis"
+
+msgid "notebookvendorslist_other-text"
+msgstr "Outros fabricantes"
+
+msgid "notebookvendorslist_title_os"
+msgstr "Controladores para portáteis com {{OS}}"
+
+msgid "notebookvendorslist_title"
+msgstr "Pesquisa de controladores para portáteis"
+
+msgid "promoheader_cta-text-gamers"
+msgstr "O seu é mais poderoso do que pensa: atualize todos os controladores de graça"
+
+msgid "promoheader_cta-text-gamers-caption"
+msgstr "Se gosta de jogos de computador, recomendamos que atualize os controladores do seu computador com mais frequência de modo a conseguir a mais alta eficiência do seu hardware. Até 37% mais FPS - a melhor exeriência de jogo e novas conquistas com o DriverPack."
+
+msgid "promoheader_cta-text"
+msgstr "O DriverPack instalará controladores de graça e resolverá problemas de controladores em qualquer dispositivo"
+
+msgid "promoheader_cta-btn"
+msgstr "Instalar todos os controladores necessários"
+
+msgid "promoheader_size"
+msgstr "Tamanho do Ficheiro: {{SIZE}} KB"
+
+msgid "promoheader_license"
+msgstr "Acordo da Licença"
+
+msgid "promoheader_os-versions"
+msgstr "O programa é compatível com o Windows 10, 8.1, 8, 7, Vista, XP"
+
+msgid "promoheader_uninstall"
+msgstr "Remoção do DriverPack"
+
+msgid "reviewheader_cta-text"
+msgstr "Junte-se à comunidade DriverPack nas redes sociais e siga as notícias acerca do produto e participe nas discussões"
+
+msgid "reviewheader_cta"
+msgstr "Dê a sua opinião ou sugestão para melhorar o DriverPack"
+
+msgid "search_input-placeholder"
+msgstr "Pesquise por nome de controlador, portátil ou DeviceID"
+
+msgid "search_btn-text"
+msgstr "Pesquise"
+
+msgid "searchformitem_type-section"
+msgstr "Categoria"
+
+msgid "searchformitem_type-notebook"
+msgstr "portátil"
+
+msgid "searchformitem_type-device"
+msgstr "dispositivo"
+
+msgid "searchformitem_type-free"
+msgstr "de graça"
+
+#. i18n: EN: Example: NAME=Acer; RU: Пример: NAME=Acer;
+msgid "generatesearchitemname_notebookvendor"
+msgstr "{{NAME}} portáteis"
+
+#. i18n: EN: Example: NAME=Asus; RU: Пример: NAME=Asus;
+msgid "generatesearchitemname_vendor"
+msgstr "{{NAME}} dispositivos"
+
+msgid "deviceclasses_bluetooth-single-main"
+msgstr "Dispositivo Bluetooth"
+
+msgid "deviceclasses_bluetooth-single-for"
+msgstr "Dispositivo Bluetooth"
+
+msgid "deviceclasses_bluetooth-plural-main"
+msgstr "Dispositivos Bluetooth"
+
+msgid "deviceclasses_bluetooth-plural-for"
+msgstr "Dispositivos Bluetooth"
+
+msgid "deviceclasses_cardreader-single-main"
+msgstr "Leitor de Cartões"
+
+msgid "deviceclasses_cardreader-single-for"
+msgstr "Leitor de Cartões"
+
+msgid "deviceclasses_cardreader-plural-main"
+msgstr "Leitores de Cartões"
+
+msgid "deviceclasses_cardreader-plural-for"
+msgstr "Leitores de Cartões"
+
+msgid "deviceclasses_chipset-single-main"
+msgstr "chipset"
+
+msgid "deviceclasses_chipset-single-for"
+msgstr "chipset"
+
+msgid "deviceclasses_chipset-plural-main"
+msgstr "chipsets"
+
+msgid "deviceclasses_chipset-plural-for"
+msgstr "chipsets"
+
+msgid "deviceclasses_inputdev-single-main"
+msgstr "dispositivo de entrada"
+
+msgid "deviceclasses_inputdev-single-for"
+msgstr "dispositivo de entrada"
+
+msgid "deviceclasses_inputdev-plural-main"
+msgstr "dispositivos de entrada"
+
+msgid "deviceclasses_inputdev-plural-for"
+msgstr "dispositivos de entrada"
+
+msgid "deviceclasses_lan-single-main"
+msgstr "placa de rede"
+
+msgid "deviceclasses_lan-single-for"
+msgstr "placa de rede"
+
+msgid "deviceclasses_lan-plural-main"
+msgstr "placas de rede"
+
+msgid "deviceclasses_lan-plural-for"
+msgstr "placas de rede"
+
+msgid "deviceclasses_massstorage-single-main"
+msgstr "controlador"
+
+msgid "deviceclasses_massstorage-single-for"
+msgstr "controlador"
+
+msgid "deviceclasses_massstorage-plural-main"
+msgstr "controladores"
+
+msgid "deviceclasses_massstorage-plural-for"
+msgstr "controladores"
+
+msgid "deviceclasses_modem-single-main"
+msgstr "modem"
+
+msgid "deviceclasses_modem-single-for"
+msgstr "modem"
+
+msgid "deviceclasses_modem-plural-main"
+msgstr "modems"
+
+msgid "deviceclasses_modem-plural-for"
+msgstr "modems"
+
+msgid "deviceclasses_monitor-single-main"
+msgstr "monitor"
+
+msgid "deviceclasses_monitor-single-for"
+msgstr "monitor"
+
+msgid "deviceclasses_monitor-plural-main"
+msgstr "monitores"
+
+msgid "deviceclasses_monitor-plural-for"
+msgstr "monitores"
+
+msgid "deviceclasses_phone-single-main"
+msgstr "smartphone"
+
+msgid "deviceclasses_phone-single-for"
+msgstr "smartphone"
+
+msgid "deviceclasses_phone-plural-main"
+msgstr "smartphones"
+
+msgid "deviceclasses_phone-plural-for"
+msgstr "smartphones"
+
+msgid "deviceclasses_sound-single-main"
+msgstr "placa de som"
+
+msgid "deviceclasses_sound-single-for"
+msgstr "placa de som"
+
+msgid "deviceclasses_sound-plural-main"
+msgstr "placas de som"
+
+msgid "deviceclasses_sound-plural-for"
+msgstr "placas de som"
+
+msgid "deviceclasses_tvtuner-single-main"
+msgstr "sintonizador de TV"
+
+msgid "deviceclasses_tvtuner-single-for"
+msgstr "sintonizador de TV"
+
+msgid "deviceclasses_tvtuner-plural-main"
+msgstr "sintonizadores de TV"
+
+msgid "deviceclasses_tvtuner-plural-for"
+msgstr "sintonizadores de TV"
+
+msgid "deviceclasses_video-single-main"
+msgstr "placa de vídeo"
+
+msgid "deviceclasses_video-single-for"
+msgstr "placa de vídeo"
+
+msgid "deviceclasses_video-plural-main"
+msgstr "placas de vídeo"
+
+msgid "deviceclasses_video-plural-for"
+msgstr "placas de vídeo"
+
+msgid "deviceclasses_webcamera-single-main"
+msgstr "câmara"
+
+msgid "deviceclasses_webcamera-single-for"
+msgstr "câmara"
+
+msgid "deviceclasses_webcamera-plural-main"
+msgstr "câmaras"
+
+msgid "deviceclasses_webcamera-plural-for"
+msgstr "câmaras"
+
+msgid "deviceclasses_wifi-single-main"
+msgstr "dispositivos Wi-Fi"
+
+msgid "deviceclasses_wifi-single-for"
+msgstr "dispositivos Wi-Fi"
+
+msgid "deviceclasses_wifi-plural-main"
+msgstr "dispositivos Wi-Fi"
+
+msgid "deviceclasses_wifi-plural-for"
+msgstr "dispositivos Wi-Fi"
+
+msgid "deviceclasses_other-single-main"
+msgstr "outro dispositivo"
+
+msgid "deviceclasses_other-single-for"
+msgstr "outro dispositivo"
+
+msgid "deviceclasses_other-plural-main"
+msgstr "outros dispositivos"
+
+msgid "deviceclasses_other-plural-for"
+msgstr "outros dispositivos"
+
+msgid "searchheader_caption-subtitle"
+msgstr "Pesquisa de controlador na query:"
+
+msgid "searchheader_caption-filter-label"
+msgstr "O controlador será descarregado para o SO escolhido"
+
+#. i18n: EN: Example: NOTEBOOK=Acer AO521; Text for {{DOWNLOAD}} is in key
+#. searchresult_details-content_download-link; RU: Пример: NOTEBOOK=Acer
+#. AO521; Текст для {{DOWNLOAD}} находится в ключе searchresult_details-
+#. content_download-link
+msgid "searchresult_details-content-notebook-text"
+msgstr "{{DOWNLOAD}} de modo a identificar e instalar automaticamente os controladores necessários, ou vá a {{NOTEBOOK}} página e selecione anualmente o controlador necessário"
+
+msgid "searchresult_details-content_download-link"
+msgstr "Descarregar DriverPack"
+
+msgid "searchresult_notebook"
+msgstr "Portátil"
+
+msgid "searchresult_download-btn"
+msgstr "Instalar o controlador automaticamente"
+
+msgid "searchresult_details-content-text-placeholder"
+msgstr "Dados a carregar..."
+
+msgid "searchresult_details-content-label-1"
+msgstr "SO"
+
+msgid "searchresult_details-content-label-2"
+msgstr "todos os sistemas"
+
+#. i18n: EN: Example: DEVICE=NVIDIA GeForce 205; Text for {{DOWNLOAD}} is in
+#. key searchresult_details-content_download-link; RU: Пример: DEVICE=NVIDIA
+#. GeForce 205; Текст для {{DOWNLOAD}} находится в ключе searchresult_details-
+#. content_download-link
+msgid "searchresult_details-content-group-text"
+msgstr "{{DOWNLOAD}} de modo a identificar e instalar automaticamente os controladores necessários, ou vá a {{DEVICE}} página e selecione anualmente o controlador necessário"
+
+#. i18n: EN: Example: CLASS.SINGLE.MAIN=monitor|chipset; COUNT=12; RU: Пример:
+#. CLASS.SINGLE.MAIN=монитор|чипсет; COUNT=12;
+msgid "searchresult_device"
+msgstr "{{CLASS.SINGLE.MAIN}} ({{COUNT}} resultados foram encontrados)"
+
+msgid "searchresult_details-content-text-many"
+msgstr "Foram encontrados vários controladores diferentes para este dispositivo"
+
+msgid "seofooter_os-list-title"
+msgstr "Versões de Sistemas Operativos: <span itemprop='operatingSystem'>{{OSLIST}}</span>"
+
+msgid "seofooter_offers-title"
+msgstr "<span itemprop='offers' itemscope='' itemtype='http://schema.org/Offer'>Disponível <meta itemprop='price' content='0' />de graça</span>"
+
+msgid "seofooter_driver-description-title"
+msgstr "Descrição do Controlador"
+
+msgid "seofooter_popular-drivers-title"
+msgstr "Controladores Populares"
+
+msgid "sidebanner_title"
+msgstr "Está cansado de procurar controladores?"
+
+msgid "sidebanner_caption"
+msgstr "O DriverPack irá automaticamente <span class='SideBanner__caption-marked'>selecionar e instalar</span> os controladores necessários"
+
+msgid "translationheader_cta-text"
+msgstr "Participe na tradução da página do DriverPack e ajude milhões de utilizadores no mundo todo"
+
+msgid "translationheader_bubble-team"
+msgstr "Quer fazer parte da equipa de tradutores do maior serviço de configuração automática de computadores do mundo?"
+
+msgid "translationheader_bubble-languages"
+msgstr "É fluente em Inglês ou Russo, de modo a que possa traduzir de uma delas para a sua língua?"
+
+msgid "translationheader_bubble-experience"
+msgstr "Tem alguma experiência com programas óu páginas web de tradução usando serviços de tradução online?"
+
+msgid "translationheader_bubble-email"
+msgstr "Se as suas respostas são SIM a todas as três perguntas, por favor, envie-nos um e-mail para {{EMAIL}} com '{{SUBJECT}}' no assunto e deixe-nos saber que língua para a qual está apto a traduzir."
+
+msgid "translationlist_title"
+msgstr "Lista de Tradutores Autorizados do DriverPack"
+
+msgid "translationtool_text-transifex"
+msgstr "Na DriverPack Solution usamos o serviço da transifex.com para traduções:"
+
+msgid "translationtool_example-ru-to-en"
+msgstr "Linhas para tradução de Russo (RU) para Inglês (EN), e linguagens CIS (CIS)"
+
+msgid "translationtool_example-en-to-all"
+msgstr "Linhas para tradução de Inglês (EN) para outras línguas do mundo"
+
+msgid "language_title"
+msgstr "Portuguese (Portugal)"
+
+msgid "landingPagePublications_rbk"
+msgstr "O DriverPack é um programa que consiste de controladores para Windows meticulosamente selecionados e testados pela equipa de Artur Kuzyakov. Esta aplicação analisa o computador do utilizador e instala no mesmo os controladores necessários, o que lhe permite resolver dois problemas: primeiro, acelerar o processo de configuração do computador (o que é especialmente importante se existem dúzias de computadores num sistema); e segundo, melhorar os níveis de operacionalidade."
+
+msgid "landingPagePublications_secretfirmy"
+msgstr "Hoje, o DriverPack tem a maior base de dados de controladores do mundo, está traduzido para 45 línguas e opera nos computadores de mais de 42 milhões de utilizadores."
+
+msgid "landingPagePublications_cnews"
+msgstr "Desde o momento da primeira criação do programa, o DriverPack Solution tem sido muito popular junto dos utilizadores. O programa está disponível para descarregar completamente livre. Isto distingue o DriverPack Solution dos seus competidores e atrai mais e mais utilizadores."
+
+msgid "landingPagePublications_xbit"
+msgstr "O DriverPack Solution é uma aplicação interessante, contém um conjunto de opções que outras soluções aplicacionais do mesmo tipo não facultam. Qualquer utilizador consegue corrigir todos os erros e estabelecer adequada operação de um sistema e seus dispositivos com dois cliques apenas. De momento, o número de controladores na base de dados do DriverPack já excedeu 1.1 milhão de entradas, e todos foram testados se seguros."
+
+msgid "landingPagePublications_chip"
+msgstr "Com o DriverPack encontrar as últimas versões dos controladores para os componentes do seu PC não é um desafio. O aspeto mais agradável é que o utilizador não tem de fazer nada. Esta ferramenta é completamente automática e conveniente na sua operação."
+
+msgid "landingPagePublications_pcmag"
+msgstr "O DriverPack Protect irá ajudar a proteger o seu computador contra programas, módulos e extensões maliciosas, que mesmo antivírus e ferramentas de bloqueio de publicidade intrusiva falham em parar."
+
+msgid "landingPagePublications_habr"
+msgstr "A necessidade de procurar e instalar controladores sempre que se reinstala o Windows é, na minha opinião, uma das falhas mais significativas de toda a família Windows. Há alguns anos atrás, 2008, decidi solucionar este problema e escrevi o meu próprio programa que chamei de DriverPack. Hoje, a minha aplicação é usada por 40 milhões de utilizadores pelo mundo inteiro, e eu considero que o problemas de controladores no Windows está resolvido, não obstante com recurso a uma solução de terceiros."
+
+msgid "landingPagePublications_computerra"
+msgstr "A nova versão traz ao utilizador mais ferramentas para que possa criar a sua própria seleçºao de controladores. É um tema especialmente premente para aqueles que fazem manutenção a computadores e administram  uma miríade de hardware diferente. É agora possível integrar com o DriverPack qualquer dos driverpacks alternativos em vez de apenas se remover o desnecessário."
+
+msgid "landingPagePublications_vc"
+msgstr "Graças ao boca em boca, este produto foi traduzido por utilizadores em 45 línguas sem a participação da nossa equipa."
+
+msgid "adminpagefaq_official_vendors-q"
+msgstr "Antes do DriverPack, eu descarregava os controladores das páginas oficiais mas tinha problemas mesmo assim. Porque é que os controladores do DriverPack são mais fiáveis que os dos fabricantes?"
+
+msgid "adminpagefaq_official_vendors-a"
+msgstr "De modo a que a nossa base de dados de controladores seja não só a maior mas também a mais fiável, continuamos a melhorá-la permanentemente, e corrigimos inclusive problemas que os fabricantes oficiais deixam passar! Usamos tecnologia de aprendizagem de máquina e graças a isso, o nosso algoritmo de seleção está em constante melhoria. E é exatamente por isso que os controladores do DriverPack são os mais estáveis :-)"
+
+msgid "adminpagefaq_database-q"
+msgstr "Como é que a base de dados do DriverPack cresce? Posso de facto encontrar os controladores que preciso?"
+
+msgid "adminpagefaq_database-a"
+msgstr "Neste momento, a nossa base de dados de controladores é a maior do mundo, e é por isso que conseguirá encontrar controladores para qualquer dispositivo com uma taxa de sucesso superior a 99%. De modo a continuar a coligir e manter esta base de dados, cooperamos diretamente com os fabricantes dos dispositivos e programadores de controladores. Agregamos e testamos controladores de páginas oficiais assim como de sítios FTP privados, e levamos também em conta as recomendações de utilizadores ativos."
+
+msgid "adminpagefaq_free-q"
+msgstr "É verdade que o DriverPack é absolutamente livre de custo?"
+
+msgid "adminpagefaq_free-a"
+msgstr "Todo os nossos programas são absolutamente livres de custo! Mas se quer ajudar a suportar o nosso projeto, pode instalar os programas úteis que oferecemos, e recomendar o DriverPack aos seus amigos :-)"
+
+msgid "adminpagefaq_antivirus-q"
+msgstr "O meu antivírus descobriu um vírus no DriverPack - como pôde isso acontecer?"
+
+msgid "adminpagefaq_antivirus-a"
+msgstr "O mais provável é ser um falso positivo, já que todas as versões do DriverPack são sujeitas a intenso escrutínio e acreditação pelo Laboratório Kaspersky. A nossa companhia coopera com fabricantes de muitos antivírus tais como Avast, e o 360 Total Security. De modo a que funcione corretamente, adicione o DriverPack à lista de permitidos do seu antivírus. Agradecemos também que reporte isso como um falso positivo à companhia do seu antivírus assim como ao nosso Serviço de Suporte."
+
+msgid "adminpagefaq_expert_mode-q"
+msgstr "Qual o modo mais conveniente para se usar o DriverPack?"
+
+msgid "adminpagefaq_expert_mode-a"
+msgstr "Por defeito, o DriverPack é iniciado em modo automático, desenhado para ser compreensível e conveniente mesmo para utilizadores inexperientes. Contudo, para conveniência dos utilizadores avançados e administradores de sistemas, desenvolvemos o Modo Especialista que contêm definições avançadas e opções de personalização. De modo a ativar este modo, basta apenas clicar no botão correspondente que se encontra ao fundo do ecrã."
+
+msgid "adminpagefaq_stable-q"
+msgstr "O controlador não foi bem instalado e agora o meu computador tem problemas. Como posso corrigir esta situação?"
+
+msgid "adminpagefaq_stable-a"
+msgstr "O funcionamento estável do programa DriverPack é uma das nossas maiores prioridades mas pequenos problemas podem ocorrer, apesar de raramente. É por isso que criamos um ponto de restauro que lhe permitirá voltar a ter tudo como tinha. De modo a prevenir que um problema similar ocorra no futuro, recomendamos que vá ao Menu do DriverPack e envie o relatório que foi criado automaticamente pela plataforma, para os nosso serviços técnicos."
+
+msgid "devicegrouppage_show-more-link"
+msgstr "Ver mais"
+
+msgid "devicestypepage_subtitle"
+msgstr "Todos os {{CLASS.SINGLE.FOR}} fabricantes"
+
+msgid "devicetypevendorpage_subtitle-popular"
+msgstr "Popular {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
+
+msgid "devicetypevendorpage_subtitle-all"
+msgstr "Todos os {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
+
+msgid "drop-down-language_not-found"
+msgstr "Haven't found your language?"
+
+msgid "errorpage_title"
+msgstr "Erro 500: Erro interno do servidor"
+
+msgid "landingfooter_landing-subtitle"
+msgstr "O DriverPack contém controladores para todas as versões populares de Windows"
+
+msgid "landing-footer_catalog-os"
+msgstr "controladores para {{OS}}"
+
+msgid "landing-footer_download"
+msgstr "Descarregar DriverPack"
+
+msgid "landing-footer_versions"
+msgstr "Todas as versões da aplicação"
+
+msgid "landing-footer_catalog"
+msgstr "Pesquisa de Controlador"
+
+msgid "landing-footer_drivers-catalog"
+msgstr "Catálogo de Controladores"
+
+msgid "landing-footer_for-admin"
+msgstr "Para administradores de sistemas"
+
+msgid "landing-footer_for-translators"
+msgstr "Para tradutores"
+
+msgid "landing-footer_drivers-for-laptops"
+msgstr "Controladores para Portáteis"
+
+msgid "landing-footer_hwids"
+msgstr "Device ID"
+
+msgid "landing-footer_license"
+msgstr "Acordo da Licença"
+
+msgid "landing-footer_remove"
+msgstr "Remoção do DriverPack"
+
+msgid "notfoundpage_title"
+msgstr "Erro 404: esta página não foi encontrada"
+
+msgid "notebookpage_show-more-link"
+msgstr "Ver mais"
+
+msgid "notebookpage_all-devices"
+msgstr "para todos os dispositivos"
+
+msgid "notebookspage_subtitle"
+msgstr "Lista de todos os fabricantes de Portáteis e Netbooks"
+
+msgid "notebooksvendorpage_subtitle-popular"
+msgstr "Portáteis e netbooks da populares da {{VENDOR.NAME}}"
+
+msgid "notebooksvendorpage_subtitle-all"
+msgstr "Todos os portáteis e netbooks da {{VENDOR.NAME}} "
+
+msgid "reviewpage_title"
+msgstr "Contributos e sugestões para a melhoria do DriverPack"
+
+msgid "searchpage_show-more-link"
+msgstr "Ver mais"
+
+#. i18n: EN: text for {{LINK}} is in key thankyoupopup_download-link; RU:
+#. текст для {{LINK}} находится в ключе thankyoupopup_download-link;
+msgid "thankyoupopup_download-text"
+msgstr "O descarregamento ainda ainda não começou? Clique aqui {{LINK}}"
+
+msgid "thankyoupopup_title"
+msgstr "Inicie o DriverPack"
+
+msgid "thankyoupopup_cta-text"
+msgstr "para começar a selecionar e instalar os controladores para o seu computador"
+
+msgid "thankyoupopup_download-link"
+msgstr "descarregar"
+
+msgid "translate-feedback-header_caption"
+msgstr "Esta página foi traduzida recentemente. Encontrou alguma gralha? Selecione-a e pressione  {{HOTKEY}}"
+
+msgid "translate-feedback-popup_title-error"
+msgstr "Alguma coisa correu mal"
+
+msgid "translate-feedback-popup_description-error"
+msgstr "O texto selecionado não foi enviado devido a problemas no servidor. <br />Por favor, tente mais tarde."
+
+msgid "translate-feedback-popup_title-success"
+msgstr "Obrigado"
+
+msgid "translate-feedback-popup_description-success"
+msgstr "O texto selecionado foi enviado para o editor"
+
+msgid "translate-feedback-popup_description-join-us"
+msgstr "Ajude-nos, por favor, a traduzir para a sua língua."
+
+msgid "translate-feedback-popup_description-join-link"
+msgstr "Junte-se à nossa equipa de tradutores!"
+
+msgid "translationlandingpage_title"
+msgstr "Tradução do DriverPack"
+
+msgid "vendorpage_subtitle-popular"
+msgstr "Dispositivos populares {{VENDOR.NAME}}"
+
+msgid "wannacryptpromopage_cta-text"
+msgstr "Vírus encriptador WannaCrypt — como proteger o seu computador contra o maior ataque da história?"
+
+msgid "wannacryptpromopage_cta-subtext"
+msgstr "O DriverPack contém meios para eliminar vulnerabilidades entre as ferramentas de configuração do computador. Pode descarregar proteção livre contra o vírus WannaCry, que irá proteger o seu computador de secretária ou portátil."
+
+msgid "wannacryptpromopage_cta-btn"
+msgstr "Configure o seu computador e proteja-o contra o WannaCry"
+
+msgid "wannacryptpromopage_caption-text"
+msgstr "Esta plataforma é disponibilizada de graça"
+
+msgid "wannacryptpromopage_info-text-title-1"
+msgstr "O que é o WannaCrypt?"
+
+msgid "wannacryptpromopage_info-text-1"
+msgstr "O vírus chantagista WannaCrypt (renomeado espontaneamente pelas vítimas de WannaCry) atacou computadores por todo o mundo no dia 12 de maio, e infetou dispositivos a mais de 300.000 utilizadores em 150 países. A Europa de Oeste, Rússia e China foram os mais atingidos. Na Inglaterra, o vírus desabilitou redes do Ministério da Saúde e parou a operação de hospitais por todo o país. Na China, o ataque afetou computadores obsoletos em fábricas parando várias indústrias.<br/><br/> A maneira como este vírus funciona é simples: entra no seu computador de secretária ou portátil, encripta absolutamente todos os documentos, ficheiros, e conteúdos que encontra, e torna-os indisponíveis a uso. Os intrusos exigem depois uma quantia substancial de dinheiro para a desencriptação dos mesmos — cerca de 300 dólares. Contudo, não existe garantia de que conseguirá aceder aos seus ficheiros novamente. Atualmente, não existe forma de desencriptar os ficheiros pessoalmente, e as soluções oferecidas na Internet  neste momento são esquemas de roubo de identidade, propagação de outro vírus, ou não funcionam a 100%."
+
+msgid "wannacryptpromopage_info-text-title-2"
+msgstr "Quem está em risco?"
+
+msgid "wannacryptpromopage_info-text-2"
+msgstr "Os computadores com sistema operativo anterior ao Windows 10 e com portas SMB abertas são os mais vulneráveis. Atualmente, metade de todos os utilizadores de Windows estão em risco — 18% dos utilizadores usa cópias d versões pirata do Windows (colocados automaticamente em risco), 23% dos utilizadores desabilita o seu serviço de Atualizações do Windows (o que os inibe de receber as últimas correções da Microsoft), e outros 6% usam versões de SO obsoleto que não recebem simplesmente mais atualizações. <br/><br/> A conclusão de tudo isto é que as redes de várias firmas e empresas que ainda usam Sistemas Operativos como o Windows XP estão em risco mais elevado. Em ataques a estas redes, a perda de dados pode ser devastadora e o custo exorbitante, já que cada pedido de resgate tem de ser pago separadamente por cada computador."
+
+msgid "wannacryptpromopage_info-text-title-3"
+msgstr "Como proteger o seu negócio — a solução da DriverPack Solution"
+
+msgid "wannacryptpromopage_info-text-3"
+msgstr "A principal razão do perigo do vírus WannaCrypt (WannaCry) é que se propaga usando vulnerabilidades no protocolo SMBv1 do sistemas de segurança MS17-010. De facto torna o WannaCry invisível aos antivírus. A solução da DriverPack Solution habilita-o a instalar uma atualização para correção de vulnerabilidades críticas do seu sistema, e desabilitar protocolos obsoletos que são a ameaça, independentemente do seu histórico de licenciamento e versão de SO."
+
+msgid "wannacryptpromopage_links-text"
+msgstr "O desenvolvimento desta solução foi baseado nos seguintes materiais"
+
+msgid "wannacryptpromopage_link-smb"
+msgstr "Como habilitar e desabilitar as versões 1, 2 e 3 dos protocolos SMB do Windows e Windows Server"

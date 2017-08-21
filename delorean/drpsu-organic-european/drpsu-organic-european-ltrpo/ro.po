@@ -1,0 +1,1018 @@
+# Translators:
+# Nadia Tegeneva <nadia@drp.su>, 2017
+# Silviu Sorin <m.ssilviu@yahoo.com>, 2017
+# Bogdan Tudorica <bogdan.tudorica@upg-ploiesti.ro>, 2017
+# Cetina Alexandru <cetina_alexandru95@yahoo.com>, 2017
+# Driver Pack <team@drp.su>, 2017
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-08-10 10:22+0000\n"
+"PO-Revision-Date: 2016-09-23 09:12+0000\n"
+"Last-Translator: Driver Pack <team@drp.su>, 2017\n"
+"Language-Team: Romanian (https://www.transifex.com/driverpack-solution/teams/75453/ro/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ro\n"
+"Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
+
+#. i18n: EN: Example: VENDOR.NAME=Asus; RU: Пример: VENDOR.NAME=Asus;
+msgid "seo_vendor-footer-anchor"
+msgstr "{{VENDOR.NAME}}"
+
+msgid "seo_devicegroups-footer-anchor"
+msgstr "{{VENDOR.NAME}}{{CLASS.PLURAL.MAIN}}"
+
+#. i18n: EN: Example: NAME=Acer E230H; RU: Пример: NAME=Acer E230H;
+msgid "seo_devicegroup-footer-anchor"
+msgstr "{{NAME}}"
+
+#. i18n: EN: Example: NAME=Asus X550EA; RU: Пример: NAME=Asus X550EA;
+msgid "seo_notebookvendor-footer-anchor"
+msgstr "Laptopuri {{NOTEBOOK.VENDOR.NAME}}"
+
+msgid "seo_notebook-footer-anchor"
+msgstr "Laptopuri {{NAME}}"
+
+msgid "seo_notebookdevices-footer-anchor"
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} {{CLASS.PLURAL.MAIN}}"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
+#. CLASS.PLURAL.FOR=мониторов|модемов;
+msgid "seo_deviceclass-footer-anchor"
+msgstr "{{CLASS.PLURAL.MAIN}}"
+
+msgid "seo_hwidos-footer-anchor"
+msgstr "Versiune de driver pentru Windows {{OS.NAME}}"
+
+msgid "seo_main-title"
+msgstr "DriverPack Solution — instalare și update de drivere automată | Descarcă gratuit"
+
+msgid "seo_main-description"
+msgstr "DriverPack Solution sugerează să instalați driverele dispozitivului dumneavoastră gratuit, sau să descărcați programul pentru instalarea driverelor și actualizarea automată."
+
+msgid "seo_main-keywords"
+msgstr "descarcă driver pack windows 7 8 10 64 drivere laptop gratuit driver instalare driver instalare software"
+
+msgid "seo_mainos-title"
+msgstr "Descarcă drivere pentru Windows {{OS.VERSION}}| DriverPack Solution "
+
+msgid "seo_mainos-description"
+msgstr "Actualizează drivere pentru Windows {{OS.VERSION}} x64 și x86 gratuit"
+
+msgid "seo_mainos-h1"
+msgstr "Drivere Windows {{OS.VERSION}}"
+
+msgid "seo_mainos-keywords"
+msgstr "Windows {{OS.VERSION}} descarcă instalează 64 86 drivere DriverPack Solution gratuit"
+
+msgid "seo_mainos-h3"
+msgstr "Cea mai mare colecție de drivere pentru Windows {{OS.VERSION}} într-o singură simplă aplicație gratuită"
+
+msgid "seo_mainlanding-title"
+msgstr "DriverPack Solution - software de actualizare a driverelor | Descarcă drivere pentru Windows 7, XP, 10, 8, și 8.1."
+
+msgid "seo_mainlanding-description"
+msgstr "DriverPack Solution – software gratuit pentru instalare și update automat de drivere pe laptopul și computerul tău. Acum poți să selectezi driverele pentru Windows XP, 7, 8, 8.1, 10 pe care le dorești direct din baza noastră de date."
+
+msgid "seo_mainlanding-keywords"
+msgstr "descărcare drivere auto-instalare actualizare Windows 7, XP, 10, 8, și 8.1 driver actualizare program"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
+#. CLASS.PLURAL.FOR=мониторов|модемов;
+msgid "seo_deviceclass-title"
+msgstr "Descarcă drivere pentru{{CLASS.SINGLE.FOR}} | Windows"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
+#. CLASS.PLURAL.FOR=мониторов|модемов;
+msgid "seo_deviceclass-description"
+msgstr "Instalează {{CLASS.SINGLE.FOR}} drivere pentru Windows 7, XP, 10, 8, and 8.1, sau descarcă programul DriverPack Solution pentru instalare si update automat"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
+#. CLASS.PLURAL.FOR=мониторов|модемов;
+msgid "seo_deviceclass-h1"
+msgstr "<span class='bold'>{{CLASS.SINGLE.FOR}}</span> drivere"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
+#. CLASS.PLURAL.FOR=мониторов|модемов;
+msgid "seo_deviceclass-keywords"
+msgstr "{{CLASS.SINGLE.FOR}}drivere windows 7 64 8 10 descarcă descarcă"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
+#. CLASS.PLURAL.FOR=мониторов|модемов;
+msgid "seo_deviceclass-footer-description"
+msgstr "Descarcă driverele pentru {{CLASS.PLURAL.FOR}} gratuit"
+
+msgid "seo_deviceclass-footer-application-category"
+msgstr "Categoria: <span itemprop='applicationCategory'>Dispozitive</span>"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=monitors|modem; RU: Пример:
+#. CLASS.PLURAL.MAIN=мониторы|модемы;
+msgid "seo_deviceclass-footer-application-subcategory"
+msgstr "Subcategorie: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+
+msgid "seo_vendors-title"
+msgstr "Descarcă drivere pentru PC, laptop sau netbook | Windows"
+
+msgid "seo_vendors-description"
+msgstr "Instalează drivere gratuit pentru PC, laptop si netbook, sau descarcă programul pentru instalare si update automat"
+
+msgid "seo_vendors-h1"
+msgstr "Producători de componente"
+
+msgid "seo_vendors-keywords"
+msgstr "drivere drivere windows 7 8 10 64 descarcă descarcă "
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_vendor-title"
+msgstr "Descarcă {{VENDOR.NAME}} drivere pentru Windows gratuit"
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_vendor-description"
+msgstr "Instalează {{VENDOR.NAME}}drivere pentru  Windows 7, XP, 10, 8, and 8.1 gratuit, sau descarcă programul DriverPack Solution pentu instalare automată de drivere"
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_vendor-h1"
+msgstr "<span class='bold'>{{VENDOR.NAME}}</span>dispozitive drivere"
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_vendor-keywords"
+msgstr "drivere windows 7 8 10 64 descarcă descarcă {{VENDOR.NAME}}"
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_vendor-footer-description"
+msgstr "Descarcă drivere pentru {{VENDOR.NAME}} dispozitive gratuit"
+
+msgid "seo_vendor-footer-application-category"
+msgstr "Categoria: <span itemprop='applicationCategory'>Dispozitive</span>"
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_vendor-footer-application-subcategory"
+msgstr "Subcategorie: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}}dispozitive</span>"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|monitors; VENDOR.NAME=Acer;
+#. RU: Пример: CLASS.PLURAL.FOR=видеокарт|мониторов; VENDOR.NAME=Acer;
+msgid "seo_devicegroups-title"
+msgstr "Descarcă {{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} drivere pentru Windows gratuit"
+
+#. i18n: EN: Example: CLASS.SINGLE.FOR=videocard|monitor; VENDOR.NAME=Acer;
+#. RU: Пример: CLASS.SINGLE.FOR=видеокарты|монитора; VENDOR.NAME=Acer;
+msgid "seo_devicegroups-description"
+msgstr "Aici poți instala {{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} drivere pentru Windows 7, XP, 10, 8, and 8.1, sau descarcă programul DriverPack Solution pentru instalare de drivere automată"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|monitors; VENDOR.NAME=Acer;
+#. RU: Пример: CLASS.PLURAL.FOR=видеокарт|мониторов; VENDOR.NAME=Acer;
+msgid "seo_devicegroups-h1"
+msgstr "<span class='bold'>{{VENDOR.NAME}}</span> {{CLASS.SINGLE.FOR}}drivere"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|monitors; VENDOR.NAME=Acer;
+#. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|мониторы; VENDOR.NAME=Acer;
+msgid "seo_devicegroups-keywords"
+msgstr "drivere windows 7 8 10 64 descarcă descarcă PC {{CLASS.PLURAL.MAIN}} {{VENDOR.NAME}}"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|monitors; VENDOR.NAME=Acer;
+#. RU: Пример: CLASS.PLURAL.FOR=видеокарт|мониторов; VENDOR.NAME=Acer;
+msgid "seo_devicegroups-footer-description"
+msgstr "Descarcă drivere pentru {{VENDOR.NAME}} {{CLASS.PLURAL.FOR}}"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|monitors; RU: Пример:
+#. CLASS.PLURAL.MAIN=видеокарты|мониторы;
+msgid "seo_devicegroups-footer-application-category"
+msgstr "Categoria: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|monitors; VENDOR.NAME=Acer;
+#. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|мониторы; VENDOR.NAME=Acer;
+msgid "seo_devicegroups-footer-application-subcategory"
+msgstr "Subcategoria: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
+
+#. i18n: EN: Example: CLASS.SINGLE.FOR=videocard|monitor; VENDOR.NAME=Acer;
+#. RU: Пример: CLASS.SINGLE.FOR=видеокарты|монитора; VENDOR.NAME=Acer;
+msgid "seo_devicegroups-footer-content"
+msgstr "Descarcă drivere pentru {{VENDOR.NAME}} {{CLASS.SINGLE.FOR}}, sau instalează programul DriverPack Solution pentru descărcare și update automat"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
+#. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
+#. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
+#. GROUP.NAME=GeForce 210;
+msgid "seo_devicegroup-title"
+msgstr "Descarcă {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.SINGLE.FOR}} drivere pentru Windows gratuit"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
+#. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
+#. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
+#. GROUP.NAME=GeForce 210;
+msgid "seo_devicegroup-description"
+msgstr "Încarcă și instalează {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.SINGLE.FOR}} drivere pentru Windows 7, XP, 10, 8, and 8.1, sau descarcă programul DriverPack Solution pentru instalare automată a driverelor"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
+#. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
+#. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
+#. GROUP.NAME=GeForce 210;
+msgid "seo_devicegroup-h1"
+msgstr "<span class='bold'>{{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.SINGLE.FOR}}</span> drivere"
+
+#. i18n: EN: Example: GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU:
+#. Пример: GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210;
+msgid "seo_devicegroup-keywords"
+msgstr "driver-i Windows 7 8 10 64 download download PC {{GROUP.VENDOR.NAME}} {{GROUP.NAME}}"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
+#. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
+#. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
+#. GROUP.NAME=GeForce 210;
+msgid "seo_devicegroup-footer-description"
+msgstr "Descarcă drivere pentru {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.PLURAL.FOR}} gratuit"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
+#. GROUP.VENDOR.NAME=Nvidia; RU: Пример: CLASS.PLURAL.FOR=видеокарт|чипсетов;
+#. GROUP.VENDOR.NAME=Nvidia;
+msgid "seo_devicegroup-footer-application-category"
+msgstr "Categoria: <span itemprop='applicationCategory'>  {{CLASS.PLURAL.MAIN}} {{GROUP.VENDOR.NAME}} </span>"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets;
+#. GROUP.NAME=GeForce 210; RU: Пример: CLASS.PLURAL.MAIN=видеокарты|чипсеты;
+#. GROUP.NAME=GeForce 210;
+msgid "seo_devicegroup-footer-application-subcategory"
+msgstr "Subcategoria: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}} {{GROUP.NAME}}   </span>"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
+#. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
+#. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
+#. GROUP.NAME=GeForce 210;
+msgid "seo_devicegroup-footer-content"
+msgstr "Descarcă drivere pentru {{CLASS.SINGLE.FOR}} {{GROUP.VENDOR.NAME}} {{GROUP.NAME}}, sau descarcă DriverPack Solution pentru descărcarea si actualizarea automată a driverelor "
+
+msgid "seo_hwids-title"
+msgstr "Descarcă drivere pentru device după Device_id | DriverPack Solution | Pagina {{PAGE}}"
+
+msgid "seo_hwids-description"
+msgstr "Descarcă drivere pentru device după device_id"
+
+msgid "seo_hwids-h1"
+msgstr "Toate driverele pentru dispozitive"
+
+#. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+#. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+msgid "seo_hwid-title"
+msgstr "{{DEVICE.DEVICEID}} descărcare driver gratuit"
+
+#. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+#. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+msgid "seo_hwid-description"
+msgstr "{{DEVICE.DEVICEID}} driver pentru dispozitiv cu Windows 7, XP, 10, 8, și 8.1"
+
+#. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+#. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+msgid "seo_hwid-h1"
+msgstr "<span class='bold'>{{DEVICE.DEVICEID}}</span>"
+
+#. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+#. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+msgid "seo_hwid-keywords"
+msgstr "drivere windows 7 8 10 64 descarcă descarcă PC {{DEVICE.DEVICEID}}"
+
+#. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+#. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+msgid "seo_hwid-footer-description"
+msgstr "Descarcă drivere pentru {{DEVICE.DEVICEID}} gratuit"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets; RU: Пример:
+#. CLASS.PLURAL.MAIN=видеокарты|чипсеты;
+msgid "seo_hwid-footer-application-category"
+msgstr "Categoria: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets; VENDOR.NAME=Acer;
+#. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|чипсеты; VENDOR.NAME=Acer;
+msgid "seo_hwid-footer-application-subcategory"
+msgstr "Subcategoria: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}} {{VENDOR.NAME}}</span>"
+
+#. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+#. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+msgid "seo_hwid-footer-content"
+msgstr "Descarcă driver {{DEVICE.DEVICEID}}, sau instalează DriverPack Solution pentru descărcarea și actualizarea automată a driverelor"
+
+msgid "seo_notebooks-title"
+msgstr "Descarcă drivere pentru toate modelele de laptop-uri cu Windows OS"
+
+msgid "seo_notebooks-description"
+msgstr "Încarcă și instalează drivere pentru toate modelele de laptop și netbook pentru Windows 7, XP, 10, 8 și 8.1, sau descarcă DriverPack Solution pentru instalare și actualizare driver automat"
+
+msgid "seo_notebooks-h1"
+msgstr "Drivere laptop și netbook"
+
+msgid "seo_notebooks-keywords"
+msgstr "drivere drivere laptop notebook laptop netbook netbook windows 7 8 10 64 descarcă descarcă"
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_notebookvendor-title"
+msgstr "Descarcă drivere laptop {{VENDOR.NAME}} | Windows"
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_notebookvendor-description"
+msgstr "Încărcați și instalați driver-ii pentru laptop-urile și netbook-urile {{VENDOR.NAME}} și Windows 7, XP, 10, 8 și 8.1, sau descărcați DriverPack Solution pentru instalarea și actualizarea automată a driver-ilor."
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_notebookvendor-h1"
+msgstr "Drivere laptop și netbook <span class='bold'>{{VENDOR.NAME}}</span>"
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_notebookvendor-keywords"
+msgstr "drivers drivers laptop notebook laptop netbook netbook windows 7 8 10 64 descarcă descarcă {{VENDOR.NAME}}"
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_notebookvendor-footer-description"
+msgstr "Descarcă drivere pentru laptopuri {{VENDOR.NAME}} gratuit"
+
+msgid "seo_notebookvendor-footer-application-category"
+msgstr "Categorie: <span itemprop='applicationCategory'>Laptop-uri</span>"
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_notebookvendor-footer-application-subcategory"
+msgstr "Subcategorie: <span itemprop='applicationSubCategory'>Laptop-uri {{VENDOR.NAME}}</span>"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
+#. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+msgid "seo_notebook-title"
+msgstr "Drivere laptop {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} | Descarcă pentru Windows"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
+#. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+msgid "seo_notebook-description"
+msgstr "Încărcați și instalați driver-ii pentru laptop-urile și netbook-urile {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} și Windows 7, XP, 10, 8 și 8.1, sau descărcați DriverPack Solution pentru instalarea și actualizarea automată a driver-ilor."
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
+#. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+msgid "seo_notebook-h1"
+msgstr "Drivere laptop <span class='bold'>{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}</span>"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
+#. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+msgid "seo_notebook-keywords"
+msgstr "drivere drivere laptop notebook laptop netbook netbook windows7 8 10 64 descarcă descarcă {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
+#. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+msgid "seo_notebook-footer-description"
+msgstr "Descarcă drivere pentru laptopul {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} gratuit"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; RU: Пример:
+#. NOTEBOOK.VENDOR.NAME=Acer;
+msgid "seo_notebook-footer-application-category"
+msgstr "Categorie: <span itemprop='applicationCategory'>Laptopuri {{NOTEBOOK.VENDOR.NAME}}</span>"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
+#. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+msgid "seo_notebook-footer-application-subcategory"
+msgstr "Subcategoria: <span itemprop='applicationSubCategory'>Laptopuri {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}</span>"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
+#. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+msgid "seo_notebook-footer-content"
+msgstr "Aici poți incepe descărcarea driverelor pentru laptopul {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}}, sau descarcă DriverPack Solution pentru instalarea și actualizarea driverelor automat"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+#. CLASS.SINGLE.FOR=videocart|soundcart; RU: Пример:
+#. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+#. CLASS.SINGLE.FOR=видеокарты|звуковой карты;
+msgid "seo_notebookdevices-title"
+msgstr "Drivere {{CLASS.SINGLE.FOR}} pentru laptopul {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} | Descarcă pentru Windows"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+#. CLASS.SINGLE.FOR=videocart|soundcart; RU: Пример:
+#. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+#. CLASS.SINGLE.FOR=видеокарты|звуковой карты;
+msgid "seo_notebookdevices-description"
+msgstr "Descarcă și instalează drivere {{CLASS.SINGLE.FOR}} pentru laptop {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} pentru Windows 7, XP, 10, 8, și 8.1, sau descarcă DriverPack Solution pentru  instalare și actualizare driver automat"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+#. CLASS.PLURAL.FOR=videocarts|soundcarts; RU: Пример:
+#. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+#. CLASS.PLURAL.FOR=видеокарт|звуковых карт;
+msgid "seo_notebookdevices-h1"
+msgstr "Drivere {{CLASS.SINGLE.FOR}} laptop {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets;
+#. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU: Пример:
+#. CLASS.PLURAL.MAIN=видеокарты|чипсеты; NOTEBOOK.VENDOR.NAME=Acer;
+#. NOTEBOOK.NAME=AO533;
+msgid "seo_notebookdevices-keywords"
+msgstr "drivere drivere laptop notebook laptop netbook {{CLASS.PLURAL.MAIN}} netbook windows 7 8  10 64 descarcă descarcă {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+#. CLASS.PLURAL.FOR=videocarts|soundcarts; RU: Пример:
+#. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+#. CLASS.PLURAL.FOR=видеокарт|звуковых карт;
+msgid "seo_notebookdevices-footer-description"
+msgstr "Descarcă drivere {{CLASS.PLURAL.FOR}} pentru laptopuri {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} gratuit."
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
+#. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+msgid "seo_notebookdevices-footer-application-category"
+msgstr "Categorie: <span itemprop='applicationCategory'>laptopuri {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}</span>"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets;
+#. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU: Пример:
+#. CLASS.PLURAL.MAIN=видеокарты|чипсеты; NOTEBOOK.VENDOR.NAME=Acer;
+#. NOTEBOOK.NAME=AO533;
+msgid "seo_notebookdevices-footer-application-subcategory"
+msgstr "Subcategorie: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}} pentru {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}</span>"
+
+#. i18n: EN: Example: CLASS.SINGLE.FOR=videocard|chipset;
+#. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU: Пример:
+#. CLASS.SINGLE.FOR=видеокарты|чипсета; NOTEBOOK.VENDOR.NAME=Acer;
+#. NOTEBOOK.NAME=AO533;
+msgid "seo_notebookdevices-footer-content"
+msgstr "Descarcă drivere pentru {{CLASS.SINGLE.FOR}} pentru laptop {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} pentru Windows 7, XP, 10, 8, și 8.1, sau descarcă DriverPack Solution pentru actualizare driver"
+
+msgid "seo_search-title"
+msgstr "Rezultatele căutării pentru: {{QUERY}} | DriverPack Solution "
+
+msgid "seo_devicegroupos-title"
+msgstr "Descarcă drivere {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} pentru Windows {{OS}}"
+
+msgid "seo_devicegroupos-description"
+msgstr "Instalează driver pentru {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} pentru Windows {{OS}}, sau descarcă DriverPack Solution pentru instalare și actualizare drivere automat."
+
+msgid "seo_devicegroupos-h1"
+msgstr "Drivere {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} pentru Windows {{OS}}"
+
+msgid "seo_devicegroupos-keywords"
+msgstr "drivere Windows {{OS}} descarcă descarcă PC {{GROUP.NAME}} {{GROUP.VENDOR.NAME}}"
+
+msgid "seo_devicegroupos-footer-description"
+msgstr "Descarcă drivere pentru {{CLASS.SINGLE.FOR}} {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} pentru Windows {{OS}} gratuit"
+
+msgid "seo_devicegroupos-footer-application-category"
+msgstr "Categoria: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}} {{GROUP.VENDOR.NAME}}</span>"
+
+msgid "seo_devicegroupos-footer-application-subcategory"
+msgstr "Subcategoria: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}} {{GROUP.NAME}}</span>"
+
+msgid "seo_devicegroupos-footer-content"
+msgstr "Descarcă drivere {{CLASS.PLURAL.FOR}} pentru {{GROUP.VENDOR.NAME}} {{GROUP.NAME}}  (Windows {{OS}}),sau instalează DriverPack Solution pentru instalare și actualizare driver automat"
+
+msgid "seo_notebookos-title"
+msgstr "Descarcă drivere laptop {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} pentru Windows {{OS}}"
+
+msgid "seo_notebookos-description"
+msgstr "Instalează {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} drivere de laptop pentru Windows {{OS}}, sau descarcă programul DriverPack Solution pentru instalare și update automat. "
+
+msgid "seo_notebookos-h1"
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} drivere de laptop pentru Windows {{OS}}"
+
+msgid "seo_notebookos-keywords"
+msgstr "drivere drivere laptop notebook laptop netbook netbook Windows {{OS}} descarcă descarcă {{NOTEBOOK.NAME}} {{NOTEBOOK.VENDOR.NAME}} "
+
+msgid "seo_notebookos-footer-description"
+msgstr "Descarcă drivere pentru {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptopuri pentru Windows {{OS}} gratuit"
+
+msgid "seo_notebookos-footer-application-category"
+msgstr "Categoria: <span itemprop='applicationCategory'>Laptopuri {{NOTEBOOK.VENDOR.NAME}}</span>"
+
+msgid "seo_notebookos-footer-application-subcategory"
+msgstr "Subcategoria: <span itemprop='applicationSubCategory'>Laptopuri {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}</span>"
+
+msgid "seo_notebookos-footer-content"
+msgstr "Aici poți descărca drivere pentru {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptop (Windows {{OS}}), sau poți să descarci un program pentru instalare și update de la DriverPack Solution"
+
+msgid "seo_deviceclassos-title"
+msgstr "Descarcă drivere {{CLASS.SINGLE.FOR}} pentru Windows {{OS}}"
+
+msgid "seo_deviceclassos-description"
+msgstr "Instalează {{CLASS.SINGLE.FOR}} drivere pentru Windows {{OS}}, sau descarcă programul  DriverPack Solution pentru instalare și update automat de drivere"
+
+msgid "seo_deviceclassos-h1"
+msgstr "Drivere {{CLASS.SINGLE.FOR}} pentru Windows {{OS}}"
+
+msgid "seo_deviceclassos-keywords"
+msgstr "{{CLASS.SINGLE.FOR}} drivere Windows {{OS}} descarcă descarcă"
+
+msgid "seo_deviceclassos-footer-description"
+msgstr "Descarcă drivere {{CLASS.SINGLE.FOR}} pentru Windows {{OS}} gratuit"
+
+msgid "seo_deviceclassos-footer-application-category"
+msgstr "Categoria: <span itemprop='applicationCategory'>Dispozitive</span>"
+
+msgid "seo_deviceclassos-footer-application-subcategory"
+msgstr "Subcategoria: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+
+msgid "seo_devicegroupsos-title"
+msgstr "Descarcă drivere {{CLASS.SINGLE.FOR}} {{VENDOR.NAME}} pentru Windows {{OS}}"
+
+msgid "seo_devicegroupsos-description"
+msgstr "Instalează {{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} drivere pentru Windows {{OS}}, sau descarcă programul DriverPack Solution pentru instalare și update automat de drivere"
+
+msgid "seo_devicegroupsos-h1"
+msgstr "Drivere {{CLASS.SINGLE.FOR}} {{VENDOR.NAME}} pentru Windows {{OS}}"
+
+msgid "seo_devicegroupsos-keywords"
+msgstr "drivere Windows {{OS}} descarcă descarcă PC {{CLASS.PLURAL.MAIN}} {{VENDOR.NAME}}"
+
+msgid "seo_devicegroupsos-footer-description"
+msgstr "Descarcă drivere {{CLASS.SINGLE.FOR}} {{VENDOR.NAME}} pentru Windows {{OS}}"
+
+msgid "seo_devicegroupsos-footer-application-category"
+msgstr "Categoria: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+
+msgid "seo_devicegroupsos-footer-application-subcategory"
+msgstr "Subcategoria: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
+
+msgid "seo_devicegroupsos-footer-content"
+msgstr "Descarcă drivere pentru {{VENDOR.NAME}} {{CLASS.PLURAL.FOR}} (Windows  {{OS}}) gratuit, sau instalează programul DriverPack Solution pentru descărcare și update de drivere"
+
+msgid "seo_notebookvendoros-title"
+msgstr "Descarcă drivere laptop {{VENDOR.NAME}} pentru Windows {{OS}}"
+
+msgid "seo_notebookvendoros-description"
+msgstr "Instalează {{VENDOR.NAME}} drivere de laptop pentru Windows {{OS}}, sau descarcă programul DriverPack Solution pentru instalare și update automat de drivere"
+
+msgid "seo_notebookvendoros-h1"
+msgstr "Drivere laptop {{VENDOR.NAME}} pentru Windows {{OS}}"
+
+msgid "seo_notebookvendoros-keywords"
+msgstr "drivere drivere laptop notebook laptop netbook Windows {{OS}} descarcă descarcă {{VENDOR.NAME}}"
+
+msgid "seo_notebookvendoros-footer-description"
+msgstr "Descarcă drivere pentru laptopuri {{VENDOR.NAME}} Windows {{OS}} gratuit"
+
+msgid "seo_notebookvendoros-footer-application-category"
+msgstr "Categorie: <span itemprop='applicationCategory'>Laptop-uri</span>"
+
+msgid "seo_notebookvendoros-footer-application-subcategory"
+msgstr "Subcategoria: <span itemprop='applicationSubCategory'>Laptop-uri{{VENDOR.NAME}} </span>"
+
+msgid "seo_notebookvendoros-footer-content"
+msgstr "Descarcă {{VENDOR.NAME}} drivere de laptop pentru Windows {{OS}} gratuit, sau instalează programul DriverPack Solution pentru descărcare și update automat de drivere"
+
+msgid "seo_hwidos-title"
+msgstr "Descarcă drivere {{DEVICE.DEVICEID}} pentru Windows {{OS}}"
+
+msgid "seo_hwidos-description"
+msgstr "Descarcă {{DEVICE.DEVICEID}} driver în versiunea de Windows {{OS}} gratuit"
+
+msgid "seo_hwidos-h1"
+msgstr "Drivere {{DEVICE.DEVICEID}} pentru Windows {{OS}}"
+
+msgid "seo_hwidos-keywords"
+msgstr "drivere Windows {{OS}} descarcă descarcă PC {{DEVICE.DEVICEID}}"
+
+msgid "seo_hwidos-footer-description"
+msgstr "Descarcă {{DEVICE.DEVICEID}} dispozitiv drivere pentru Windows {{OS}} gratuit"
+
+msgid "seo_hwidos-footer-application-category"
+msgstr "Categoria: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+
+msgid "seo_hwidos-footer-application-subcategory"
+msgstr "Subcategoria: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}} {{VENDOR.NAME}}</span>"
+
+msgid "seo_hwidos-footer-content"
+msgstr "Descarcă driverul pentru {{DEVICE.DEVICEID}} dispozitiv pentru Windows {{OS}}, sau instalează DriverPack Solution pentru descărcare și update automat de drivere"
+
+msgid "seo_notebookdevicesos-title"
+msgstr "{{CLASS.SINGLE.FOR}} drivere pentru {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptop | Descarcă pentru Windows {{OS}} "
+
+msgid "seo_notebookdevicesos-description"
+msgstr "Instalează drivere {{CLASS.SINGLE.FOR}} pentru laptopuri {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} pentru Windows {{OS}},  sau descarcă DriverPack Solution pentru instalare și actualizare drivere automat"
+
+msgid "seo_notebookdevicesos-h1"
+msgstr "Drivere {{CLASS.PLURAL.FOR}} pentru laptopuri {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}  | Windows {{OS}}"
+
+msgid "seo_notebookdevicesos-keywords"
+msgstr "drivere drivere laptop notebook laptop netbook netbook {{CLASS.PLURAL.MAIN}} Windows {{OS}} descarcă descarcă {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
+
+msgid "seo_notebookdevicesos-footer-description"
+msgstr "Descarcă drivere {{CLASS.SINGLE.FOR}} pentru laptop {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} pentru Windows {{OS}} gratuit"
+
+msgid "seo_notebookdevicesos-footer-application-category"
+msgstr "Categorie: <span itemprop='applicationCategory'> laptopuri {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}</span>"
+
+msgid "seo_notebookdevicesos-footer-application-subcategory"
+msgstr "Subcategorie: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}} pentru {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}</span>"
+
+msgid "seo_notebookdevicesos-footer-content"
+msgstr "Descarcă drivere pentru {{CLASS.SINGLE.FOR}} pentru laptop {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} (Windows {{OS}}), sau descarcă DriverPack Solution pentru actualizare driver"
+
+msgid "seo_promopage_title"
+msgstr "DriverPack – instalare drivere gratuit"
+
+msgid "seo_promo-description"
+msgstr "DriverPack Solution îți sugerează să instalezi drivere gratuit pentru dispozitivul tău, sau să îl descarci pentru instalare și update automat de drivere"
+
+msgid "seo_promo-keywords"
+msgstr "descarcă driver pachet drivere windows 7 8 10 64 laptop gratuit driver instalare driver instalare software"
+
+msgid "seo_promodevice_title"
+msgstr "Descarcă drivere pentru usb, bluetooth, imprimante, Wi-Fi, și plăci video gratuit"
+
+msgid "seo_promodevice-description"
+msgstr "DriverPack Solution va actualiza driverele usb, bluetooth, imprimantă, Wi-Fi, si placa video la ultima versiune"
+
+msgid "seo_promodevice-keywords"
+msgstr "driver, bluetooth, imprimanta, placă de sunet, cameră web, mouse, placă video"
+
+msgid "seo_promovendors_title"
+msgstr "Descarcă drivere pentru Lenovo, Samsung, Acer, Asus, și Dell gratuit"
+
+msgid "seo_promovendors-description"
+msgstr "DriverPack va actualiza driverele pentru Lenovo, Samsung, Acer, Asus, și Dell la ultima versiune"
+
+msgid "seo_promovendors-keywords"
+msgstr "driver, dell, samsung, lenovo, asus, acer, toshiba, asus"
+
+msgid "seo_promodrivers_title"
+msgstr "Descarcă și instalează drivere pentru Windows 7, 10, XP, 8"
+
+msgid "seo_promodrivers-description"
+msgstr "DriverPack va actualiza drivere pentru Windows 7, Windows 10, Windows XP, Windows 8 gratuit"
+
+msgid "seo_promodrivers-keywords"
+msgstr "driver windows 7, descarcă driver, driver windows 10, actualizare driver, driver windows, drivere gratuite"
+
+msgid "seo_forgamers-description"
+msgstr "Instalează drivere placă video pentru Windows 7, XP, 10, 8, și 8.1, sau descarcă DriverPack Solution pentru instalarea și actualizarea driverelor automat"
+
+msgid "seo_forgamers-keywords"
+msgstr "video placă drivere windows 7 64 8 10 descarcă descarcă"
+
+msgid "seo_wannacrypt_title"
+msgstr "Virusul WannaСry - cum să îți protejezi calculatorul și laptopul?"
+
+msgid "seo_wannacrypt-description"
+msgstr "Descarcă protecție gratuită împotriva virusului WannaCry pentru calculatorul și laptopul tău"
+
+msgid "seo_license_title"
+msgstr "Acord de Licență | DriverPack Solution"
+
+msgid "seo_license-description"
+msgstr "Acord de Licență și Termeni de Utilizare ai software-ului care se transmit folosind DriverPack Solution"
+
+msgid "seo_license-keywords"
+msgstr "drivere descărcare gratuită windows 7 XP 8 10 DriverPack Solution"
+
+msgid "seo_standards_title"
+msgstr "Standarde software recomandate | DriverPack Solution"
+
+msgid "seo_standards-description"
+msgstr "Standarde și cerințe pentru software recomandate de DriverPack"
+
+msgid "seo_standards-keywords"
+msgstr "standarde software SW DriverPack"
+
+msgid "seo_deviceclass-footer-content-bluetooth"
+msgstr "În această secțiune puteți descărca <strong>driver-i pentru Bluetooth</strong> pentru toate versiunile de sisteme de operare Windows. Sunt disponibili atât driver-i pentru fabricanți bine cunoscuți (cum ar fi Hewlett Packard, Qcom și Celink) cât și pentru fabricanți mai puțin cunoscuți. În total, puteți <b>descărca driver-i pentru Bluetooth</b> de la mai mult de 90 de fabricanți disponibili în acest catalog <br />Daca nu ați reușit să găsiți driver-ul de care aveți nevoie, instalați aplicația noastră DriverPack Solution pentru actualizarea automată a driver-ilor - este absolut gratuită!"
+
+msgid "seo_deviceclass-footer-content-cardreader"
+msgstr "Cititoarele de card-uri sunt echipamente proiectate pentru citirea informațiilor stocate pe un card de memorie. Un astfel de echipament vă va ajuta dacă aveți nevoie să mutați fișiere din camera video pe computer. <strong>Driver-ii pentru cititoarele de card-uri</strong> sunt disponibile în această secțiune. Driver-ii pentru mai mult de 50 de fabricanți și pentru toate versiunile populare de Windows sunt reprezentați aici. Puteți descărca <b>driver-i pentru un anumit cititor de card-uri</b> dar puteți de asemenea (dacă dintr-un motiv oarecare driver-ul de care aveți nevoie nu este prezent aici) să instalați aplicația DriverPack Solution pentru actualizarea driver-ilor. Această aplicație va fi aboslut gratuită pentru dvs.!"
+
+msgid "seo_deviceclass-footer-content-chipset"
+msgstr "Această secțiune include <strong>driver-i pentru chipset-urile</strong> celor mai cunoscuți fabricanți ai acestui tip de hardware, precum Exar și Prolific. Driver-i pentru chipset-uri și pentru toate versiunile de Windows utilizate, cum ar fi Windows XP, Windows 7, 8, 8.1 și 10, chiar și Vista, în ciuda popularității sale mai reduse la momentul de fața, pe 32 și 64 de biți, sunt reprezentate aici . Dacă, dintr-un motiv oarecare nu ați reușit să găsiți sau să descărcați <b>driver-ul de chipset</b> pe care îl căutați, utilizați aplicația noastră DriverPack Solution de actualizare automată a driver-ilor - este absolut gratuită și va executa toate operațiile necesare pentru dvs.!"
+
+msgid "seo_deviceclass-footer-content-inputdev"
+msgstr "Din pricina faptului că există o largă varietate de periferice de intrare (mouși, tastaturi, joystick-uri etc.) și de fabricanți pentru ele, selectarea driver-ului cerut devine o provocare . Noi rezolvăm această problemă pentru dvs. - în această secțiune puteți selecta și descărca în mod absolut gratuit <strong>driver-i pentru periferice de intrare</strong>. Dacă, dintr-un motiv oarecare nu ați reușit să găsiți <b>driver-ul de periferic de intrare</b> de care aveți nevoie în catalogul nostru, descărcați gratuit aplicația DriverPack Solution - va evalua configurația dvs. hardware și va selecta automat driver-ii necesari pentru perifericele dvs. de intrare."
+
+msgid "seo_deviceclass-footer-content-lan"
+msgstr "Fără selectarea corectă a <b>driverului cardului de rețea</b> corectarea accesului la Internet va fi fie dificilă, fie imposibilă. Această secțiune a site-ului nostru vă va ajuta să selectați driverul perfect pentru configurația hardware a rețelei dvs., indiferent cine este producătorul său - driverele de la mai mult de 80 de producători de hardware de rețea sunt reprezentate aici în versiunile pentru toate versiunile de Windows OS care sunt în uz acum . Dacă, din anumite motive, nu ați reușit să găsiți <b>driverul cardului de rețea</b> al producătorului dvs., utilizați  DriverPack Solution pentru actualizarea automată a driverului - acesta va rezolva gratuit problema de selecție a driverului!"
+
+msgid "seo_deviceclass-footer-content-massstorage"
+msgstr "În acestă secșiune puteți <b>descărca driver-i de controller</b> pentru toate versiuniele de Windows care sunt utilizate, în mod absolut gratuit. Nu ați găsit driver-ul necesar? Utilizați aplicația noastră DriverPack Solution pentru căutarea și instalarea de driver-i - este absolut gratuită și va executa toate operațiile necesare pentru dvs.!"
+
+msgid "seo_deviceclass-footer-content-modem"
+msgstr "În această secțiune puteți găsi și <strong>descărca driver-i pentru modem-uri</strong> pentru toate versiunile de sistem de operare Windows disponibile în acest moment și pentru toți fabricanții importanți ai acestui tip de hardware și nu numai. Driver-i pentru echipamentele unor fabricanți precum Smartlink, AVM, Agere și peste 50 de alte companii sunt reprezentați aici. Nu ați reușit să selectați driver-ul dorit? Utilizați aplicația noastră universală și absolut gratuită DriverPack Solution pentru actualizarea automată a driver-ilor."
+
+msgid "seo_deviceclass-footer-content-monitor"
+msgstr "De obicei, <b>driverele pentru monitoare</b> sunt înregistrate pe discul furnizat cu noul monitor, dar situația poate fi diferită dacă monitorul dvs. este second-hand. De aceea, chiar dacă monitorul pare să fie in regulă și funcționează bine, este posibil ca placa de sistem să nu îl identifice. În acest caz, puteți obține întotdeauna ajutor în această Secțiune a site-ului nostru - aici puteți descărca întotdeauna cele mai recente <b>drivere pentru monitoare</b> ale configurației dvs. pentru toate versiunile Windows OS disponibile astăzi. Nu ați reușit să găsiți driverul de care aveți nevoie? Atunci vă sugerăm să utilizați software-ul nostru gratuit DriverPack Solution - acesta va face mai ușor procesul de căutare și actualizare a driverului monitorului."
+
+msgid "seo_deviceclass-footer-content-tvtuner"
+msgstr "Ai nevoie <b>să descarci driverul pentru tv-tuner</b>? Atunci vă aflați în Secțiunea corectă - de aici puteți descărca și <b>instala driverele pentru tv-tuner</b> în cele mai recente versiuni pentru toate variantele de sistem de operare Windows care sunt în uz. Nu ați găsit driverul de care aveți nevoie? Nici o problema! Descărcați software-ul nostru DriverPack Solution gratuit  - acesta va selecta driverul TV-tuner de care aveți nevoie și va face acest lucru automat, rapid și fără probleme!"
+
+msgid "seo_deviceclass-footer-content-sound"
+msgstr "Nu aveți sunet la calculator? De cât timp nu ați mai actualizat <strong>driver-ul adaptorului de sunet</strong>? Descărcați cei mai recenți driver-i pentru adaptoare de sunet în această secțiune a site-ului nostru, sau instalați gratuit aplicația DriverPack Solution pentru actualizare automată a driver-ilor - va rezolva toate problemele dvs. legate de driver-i pentru adaptoare de sunet!"
+
+msgid "seo_deviceclass-footer-content-video"
+msgstr "Nu funcționează un joc? Este afișată imaginea cu artefacte? Atunci vă recomandăm să descărcați <strong>driverele pentru card</strong> de pe site-ul nostru - foarte des problema este cu ele. Driverele de la 43 de producători sunt reprezentate în această Secțiune. De aici puteți selecta cu ușurință driverul pentru orice versiune de sistem de operare Windows utilizată acum. Nu ați reușit să găsiți și să descărcați <b>driverul plăcii video</b> de care aveți nevoie? Utilizați software-ul de actualizare automata a driverului, DriverPack Solution  - este absolut gratuit!"
+
+msgid "seo_deviceclass-footer-content-wifi"
+msgstr "În această Secțiune puteți descărca driverul Wi-Fi atât pentru standardul 802.11n, cât și pentru standardul 802.11g pentru toate versiunile avansate ale sistemului de operare Windows. Driverele celei mai recente configurații, verificate în mod repetat de experții noștri, sunt disponibile aici. Dacă nu ați reușit <b>să instalați singur driverul Wi-Fi</b> nu vă panicați - descărcați cea mai recentă versiune a software-ului DriverPack Solution - acesta va selecta automat driverele pentru configurația dvs. hardware."
+
+msgid "seo_deviceclass-footer-content-phone"
+msgstr "Aveți nevoie de driver-i pentru un telefon sau un smartphone? Nici o problemă - în această secțiune puteți <b>descărca și instala driver-i pentru un smartphone</b> de orice model și de la oricare dintre fabricanții comun întâlniți pe piața de telefoane a acestui moment. Driver-ii noștri sunt verificați și de încredere!"
+
+msgid "seo_notebookvendor-footer-content-asus"
+msgstr "Cele mai recente și cele mai fiabile <strong>drivere pentru laptopurile Asus</strong> pentru toate versiunile de Windows OS care sunt în uz (Windows XP, Windows 7, 8, 8.1 și 10) sunt reprezentate în catalogul nostru. Dacă dintr-un anumit motiv nu sunteți mulțumit de <b>driverele de laptop Asus</b> sau dacă v-ați confruntat cu problema găsirii driverului pentru modelul dvs. de laptop, utilizați software-ul DriverPack Solution pentru actualizarea driverului - este gratuit și va face totul pentru dvs. !"
+
+msgid "seo_notebookvendor-footer-content-lg"
+msgstr "Cele mai recente <strong>drivere pentru laptop-uri LG</strong> pentru toate versiunile de Windows  OS care sunt utilizate acum sunt reprezentate în această Secțiune. De asemenea, puteți utiliza  DriverPack Solution pentru instalarea automată a driverului, dacă nu ați reușit să găsiți <b>drivere pentru laptop LG</b>exact pentru modelul dvs. - software-ul nostru este gratuit și va face totul singur!"
+
+msgid "seo_notebookvendor-footer-content-sony"
+msgstr "Ați cumpărat un laptop nou de la Sony, dar ați întâmpinat probleme cu operabilitatea acestuia? În această Secțiune puteți descărca toate <strong>driverele pentru laptop-uri Sony</strong> care sunt compatibile cu sistemul dvs. de operare. <b>Driverele laptopurilor Sony Vaio</b> care sunt potrivite pentru mai mult de 200 de modele de la producător sunt reprezentate aici. Dacă din anumite motive nu ați reușit să găsiți driverul necesar în lista noastră, utilizați software-ul nostru pentru actualizarea driverelor - este absolut gratuit și va selecta driverul potrivit pentru configurația laptopului dvs."
+
+msgid "seo_notebookvendor-footer-content-lenovo"
+msgstr "<strong>Driverele laptopurilor Lenovo</strong>pot fi descărcate în această Secțiune a site-ului nostru - sunt prezentate aici driverele pentru toate modelele populare și nu foarte populare ale acestui producător (Ideapad, Thinkpad, etc.). Pe site-ul nostru puteți găsi driverele care se vor potrivi exact versiunii sistemului de operare Windows. În cazul în care căutarea dvs. proprie a<b>driverelor pentru laptop Lenovo</b>  nu a avut succes, utilizați software-ul nostru de actualizare a driverelor - va face totul rapid și în mod automat."
+
+msgid "seo_notebookvendor-footer-content-samsung"
+msgstr "Ați cumpărat laptop Samsung și acum aveți nevoie de driverele pentru acesta? Cele mai recente <strong>drivers pentru laptopul Samsung</strong> pentru toate versiunile de Windows utilizate acum sunt prezentate aici. Există drivere pentru mai mult de 100 de modele laptop și netbook ale acestui producător în catalogul nostru, iar lista se extinde zilnic. Dacă nu ați reușit să descărcați manual <b>driverele pentru laptopul Samsung</b>, puteți utiliza întotdeauna software-ul DriverPack Solution pentru căutare și instalare automată a driverului - este gratuit!"
+
+msgid "seo_notebookvendor-footer-content-msi"
+msgstr "Aici puteți găsi și descărca <strong>driverele pentru laptop MSI</strong> al modelului dvs. pentru orice versiune de sistem de operare Windows utilizată acum (inclusiv o versiune mai rară precum Vista). Dacă nu ați reușit să găsiți driverul de care aveți nevoie în catalogul nostru manual, descărcați software-ul DriverPack Solution pentru căutare și instalare automată a driverului - este absolut gratuit!"
+
+msgid "seo_notebookvendor-footer-content-toshiba"
+msgstr "În această secțiune puteți descărca <b>driver-ii pentru laptop-urile Toshiba</b> pentru absolut toate versiunile de sisteme de operare Windows care sunt în uz acum. Mai mult de 300 de modele ale acestui fabricant sunt reprezentate în catalogul nostru și această listă continuă să crească în fiecare zi. Nu ați găsit modelul de care aveți nevoie în catalogul nostru? Descărcați aplicația DriverPack Solution pentru căutarea și instalarea automată a driver-ilor - va face totul în mod automat și fără ajutor."
+
+msgid "seo_deviceclass-footer-content-video-amd"
+msgstr "Nu pornește un joc de pe placa video AMD? În această Secțiune puteți <b>actualiza driverele plăcii video AMD Radeon</b> la ultima versiune. De aici puteți descărca driverele pentru placa video AMD Radeon (inclusiv cele pentru seria AMD Radeon HD) pentru toate versiunile de Windows OS existente. Nu ați reușit să găsiți driverul de care aveți nevoie manual? Utilizați software-ul nostru gratuit DriverPack Solution - acesta va actualiza <b>driverele AMD ale plăcii video</b> și ATI în mod automat, fără a fi nevoie de nici o intervenție din partea dvs."
+
+msgid "seo_deviceclass-footer-content-video-nvidia"
+msgstr "Nu funcționează un joc? Problema ar putea fi driverele pentru placa video. Încercați <b> și actualizați driverele pentru placa video Nvidia</b> descărcând cea mai recentă versiune de pe site-ul nostru. Aici puteți, de asemenea <b>descărca driverele pentru placa grafică Nvidia Geforce</b> din cele mai recente serii pentru toate versiunile de Windows OS care sunt în uz gratuit. Dacă dintr-un anumit motiv nu ați reușit să găsiți driverele potrivite pentru placa video Nvidia în catalogul nostru, utilizați software-ul gratuit DriverPack Solution pentru căutarea și actualizarea driverului - este absolut gratuit și va selecta automat driver-ul pentru configurația dvs. fără nici o întârziere."
+
+msgid "seo_deviceclass-footer-content-video-intel"
+msgstr "Aveți nevoie de driver-i pentru adaptoarele video Intel HD Graphics? În această secțiune puteți descărca absolut gratuit driver-i pentru această serie de adaptoare video. Dacă nu ați reușit să găsiți singuri și să <b>descărcați driver-i pentru adaptoarele video Intel</b>, utilizați aplicația noastră gratuită DriverPack Solution pentru căutarea și actualizarea automată a driver-ilor - va face toate operațiile necesare pentru dvs."
+
+msgid "seo_deviceclass-footer-content-chipset-intel"
+msgstr "Aveți întrebări legate de <b>cum se instalează driver-ul pentru un chipset Intel</b> pentru calculatorul dvs.? În această secțiune puteți găsi și<b> descărca driver-i pentru chipset-uri Intel</b> fără mari probleme. Dacă pentru un motiv oarecare nu ați reușit să descărcați driver-ul pentru un chipset Inteldin catalogul nostru, descărcați aplicația noastră gratuită DriverPack Solution pentru actualizarea driver-ilor."
+
+msgid "seo_deviceclass-footer-content-chipset-asus"
+msgstr "În această secțiune puteți <b>descărca driver-i pentru chipset-uri Asus</b> absolut gratuit. <b>Driver-ii pentru chipset-uri Asus</b> pentru toate versiunile de sistem de operare Windows (10, 7, 8.1  etc.) care sunt utilizate în acest moment sunt reprezentați aici. Sau utilizați aplicația noastră automată DriverPack Solution - ea va selecta driver-ul cerut pentru chipset Asus în mod automat, fără ajutorul dvs.."
+
+msgid "seo_deviceclass-footer-content-chipset-amd"
+msgstr "În această Secțiune vă sugerăm să <b>descărcați driverul chipset-ului AMD</b> gratuit. Versiunile driverului pentru chipset-ul AMD pentru toate versiunile de sisteme de operare Windows care sunt în uz sunt prezentate aici, inclusiv Windows 7, Windows 10, Windows 8.1 etc. Dacă în mod neașteptat nu ați putut găsi și <b>instalați driverul pentru chipset-ul AMD</b> manual, nici o problemă - utilizați DriverPack Solution, software-ul nostru de selectare automată a driverului. Software-ul nostru este absolut gratuit și va face totul pentru tine!"
+
+msgid "seo_deviceclass-footer-content-sound-msi"
+msgstr "Aveți probleme cu funcționarea plăcii de sunet a companiei Msi? Atunci vă sugerăm să actualizați driverele pentru aceasta - foarte des problema este versiunea învechită a driverului . În această Secțiune puteți găsi și <b>descărca driverul plăcii de sunet  Msi</b> absolut gratuit pentru toate versiunile de sisteme de operare Windows care sunt în uz. Nu ați reușit să găsiți driverul de care aveți nevoie manual? Utilizați software-ul DriverPack Solution pentru căutarea și instalarea driverului - funcționează în mod automat și este gratuit!"
+
+msgid "seo_deviceclass-footer-content-monitor-acer"
+msgstr "Aveți o întrebare legată de cum se instalează un monitor Acer? În această secțiune puteți găsi <b>driver-ul pentru un monitor Acer</b>, cea mai nouă versiune, pentru toate versiunile de sistem de operare Windows care sunt utilizate acum. Puteți de asemenea <b>să actualizați driver-ii pentru un monitor Acer</b> în mod automat, utilizând aplicația noastră gratuită DriverPack Solution."
+
+msgid "seo_deviceclass-footer-content-monitor-asus"
+msgstr "Aveți probleme cu funcționalitatea monitorului Asus? Atunci problema ar putea fi în driverul monitorului. Utilizați catalogul nostru unde puteți găsi și <b>descărca driverul pentru monitorul Asus</b> al oricărui model ce vă interesează. Dacă dintr-un anumit motiv nu ați putut găsi driverul pentru modelul dorit manual, descărcați software-ul DriverPack Solution - acesta va selecta driverul necesar automat pe baza analizei configurației dvs. hardware."
+
+msgid "seo_deviceclass-footer-content-monitor-benq"
+msgstr "Aveți probleme cu funcționalitatea monitorului? Aveți nevoie <b>să descărcați driverul pentru monitorul Benq</b>? În catalogul nostru veți găsi driverele celei mai recente pentru toate modelele de monitor BenQ. Dacă nu ați găsit driverul pentru modelul dorit, nu disperați. Utilizați software-ul DriverPack Solution pentru căutarea și actualizarea driverului - acesta va găsi driverul necesar automat, fără implicarea dvs.!"
+
+msgid "seo_deviceclass-footer-content-monitor-compaq"
+msgstr "Aveți  nevoie de <b>driver-ul pentru un monitor Compaq</b>? Vă sugerăm să descărcați în mod absolut gratuit driver-i pentru monitoare Compaq, fără înregistrare, direct din catalogul nostru. Puteți de asemenea să utilizați aplicația noastră DriverPack Solution pentru căutarea și actualizarea driver-ilor - va selecta cel mai recent driver pentru monitorul dvs. în mod automat."
+
+msgid "seo_deviceclass-footer-content-monitor-dell"
+msgstr "Apar probleme în funcționarea monitorului dvs. Dell? Diferite artefacte apar pe ecran? Atunci, cel mai probabil problema este de la driverele învechite. Puteți <b>descărca driverul pentru monitorul Dell</b> având cea mai recentă configurație pentru toate versiunile de Windows OS din catalogul nostru. Dacă nu ați reușit să găsiți driverul de care aveți nevoie manual, descărcați software-ul DriverPack Solution - este gratuit și va face toată munca pentru selectarea automată a driverelor necesare!"
+
+msgid "seo_deviceclass-footer-content-monitor-hp"
+msgstr "Aveți nevoie <b>să descărcați driverul pentru monitorul HP</b>? În această Secțiune veți găsi cele mai recente și actualizate drivere pentru monitorul HP pentru toate cele mai recente versiuni ale sistemului de operare Window. Toate driverele reprezentate în această Secțiune au fost selectate și verificate de experții noștri pentru operabilitate și siguranță. Dacă nu ați putut găsi driverul de care aveți nevoie manual, utilizați software-ul DriverPack Solution - acesta va face totul rapid și fără implicarea dvs.!"
+
+msgid "seo_deviceclass-footer-content-monitor-lg"
+msgstr "Este <b>driverul tău pentru monitorul LG</b> învechit? Vă apar artefacte în imagine sau monitorul vă refuză să funcționeze? Utilizați catalogul nostru uriaș de unde puteți <b>descărca driverul pentru monitorul LG Flatron</b> fără probleme și dificultăți! Dacă nu aveți timp să căutați manual driverul necesar, utilizați software-ul DriverPack Solution - acesta va selecta toate driverele necesare automat."
+
+msgid "seo_deviceclass-footer-content-monitor-panasonic"
+msgstr "Apar probleme cu funcționalitatea monitorului Panasonic? Problema ar putea fi cu driverele. În catalogul nostru puteți <b>descărca driverul pentru monitorul Panasonic</b> absolut gratuit și fără probleme suplimentare! Dacă dintr-un anumit motiv nu ați găsit driverul necesar modelului dvs. de monitor Panasonic, descărcați software-ul DriverPack Solution pentru căutarea și actualizarea acestora - este absolut gratuit!"
+
+msgid "seo_deviceclass-footer-content-monitor-samsung"
+msgstr "În această Secțiune puteți <b>descărca driverul pentru monitorul Samsung Syncmaster gratuit</b>. Driverele pentru cele mai recente versiuni de sistem de operare Windows sunt prezentate aici. Dacă dintr-un anumit motiv nu ați găsit driverul de care aveți nevoie, utilizați software-ul DriverPack Solution - este gratuit și va face totul automat."
+
+msgid "seo_deviceclass-footer-content-monitor-sony"
+msgstr "De aici puteți <b>descărca gratuit driverele pentru monitorul Sony</b> cu cea mai recentă configurație pentru toate versiunile sistemelor de operare Windows gratuit. Nu doriți să căutați  singur driverele necesare? Atunci descărcați software-ul DriverPack Solution pentru căutarea și actualizarea driverului - va face totul automat!"
+
+msgid "seo_deviceclass-footer-content-monitor-viewsonic"
+msgstr "În această Secțiune puteți <b>descărca driverul pentru monitorul Viewsonic</b> pentru toate modelele disponibile, absolut gratuit și fără înregistrare. Driverele pentru toate versiunile avansate de sisteme de operare Windows sunt disponibile în catalogul nostru. Sau descărcați software-ul DriverPack Solution - este gratuit și va găsi driverele compatibile necesare în mod automat."
+
+msgid "seo_deviceclass-footer-content-monitor-sharp"
+msgstr "Au apărut unele probleme legate de funcționalitatea monitorului dvs. Sharp? Problema ar putea fi driverele învechite. Descărcați driverul din catalogul nostru manual sau folosiți software-ul DriverPack Solution - va face totul rapid și fără probleme! Toate driverele noastre au fost verificate pentru operabilitate și siguranță!"
+
+msgid "seo_deviceclass-footer-content-monitor-philips"
+msgstr "Nu știți de unde <b>să descărcați driverul pentru monitorul Philips</b>? În această Secțiune veți găsi toate cele mai recente și actualizate drivere pentru monitoarele Philips pentru toate versiunile de Windows OS. Dacă dintr-un anumit motiv nu ați reușit să găsiți driverul de care aveți nevoie manual, utilizați software-ul nostru DriverPack Solution - este absolut gratuit și va selecta driverul de care aveți nevoie în cel mai scurt timp."
+
+msgid "seo_deviceclass-footer-content-modem-d-link"
+msgstr "În această Secțiune puteți <b>descărca driverul modem d-link</b> pentru toate versiunile sistemului de operare Windows disponibile acum. Catalogul nostru este aranjat simplu și ușor de înțeles, astfel încât vă va fi ușor să găsiți driverul de care aveți nevoie. Cu toate acestea, dacă din anumite motive nu ați reușit să găsiți driverul pentru d-link-ul configurației necesare, utilizați software-ul DriverPack Solution - este absolut gratuit și va descărca automat toate driverele de care aveți nevoie."
+
+msgid "seo_deviceclass-footer-content-tvtuner-avermedia"
+msgstr "Există probleme în funcționalitatea tv-tuner-ului dvs. Avermedia? Problema ar putea fi driverele învechite. În această Secțiune puteți <b>descărca gratuit driverul pentru tv-tuner-ul Avermedia</b> din catalogul nostru clar și la îndemână. Puteți utiliza, de asemenea, software-ul gratuit DriverPack Solution - va face totul rapid și vă va salva din timpul de căutare după driverul necesar."
+
+msgid "seo_deviceclass-footer-content-tvtuner-beholder"
+msgstr "Este ceva în neregulă cu tv-tunerul Beholder? Problema foarte probabil ar putea fi rezolvată prin actualizarea driverelor la ultima versiune. Aici puteți <b>descărca driverul tv-tuner-ului Beholder</b> rapid, ușor și absolut gratuit! Dacă nu ați reușit să descărcați driverul de care aveți nevoie manual, utilizați software-ul nostru DriverPack Solution - acesta va selecta driver-ul necesar automat în funcție de configurația hardware."
+
+msgid "seo_deviceclass-footer-content-tvtuner-pinnacle"
+msgstr "Aveți nevoie de <b>driverele pentru tv-tunerurile Pinnacle</b>? În acest catalog puteți găsi și descărca cu ușurință driverele pentru tv-tuner-ul Pinnacle gratuit . Dacă dinntr-un anumit motiv nu ați reușit să găsiți driverul de care aveți nevoie, instalați software-ul gratuit DriverPack Solution - acesta va analiza configurația dvs. hardware și va instala tot ce este necesar pentru funcționarea corectă."
+
+msgid "seo_deviceclass-footer-content-tvtuner-philips"
+msgstr "Apar probleme în funcționalitatea tv-tuner-ului Philips? Problema ar putea fi driverele învechite. Aici puteți <b>descărca driverele tv-tuner-ului Philips</b> pentru toate versiunile de Windows OS care sunt în uz. Sau instalați software-ul DriverPack Solution - este gratuit și va face totul pentru tine."
+
+msgid "seo_deviceclass-footer-content-tvtuner-kworld"
+msgstr "Aveți nevoie să <b>descărcați driverele pentru tv-tuner-ul Kworld</b> dar nu știți de unde? Atunci sunteți în locul potrivit! Aici puteți descărca <b>driverele tv-tuner-ul Kworldde</b> în cea mai recentă versiune pentru toate versiunile disponibile ale sistemului de operare Windows. Nu ați reușit să găsiți driverul de care aveți nevoie în catalogul nostru? Utilizați software-ul nostru gratuit DriverPack Solution - va face totul în mod automat, rapid și eficient."
+
+msgid "seo_deviceclass-footer-content-tvtuner-compro"
+msgstr "În această Secțiune puteți să <b>descărcați driverul tv-tuner-ului Compro</b> pentru toate versiunile disponibile ale sistemului de operare Windows absolut gratuit. Toate driverele din catalogul nostru au fost verificate de către experți pentru operabilitate și siguranță. Nu ați reușit să găsiți ceea ce căutați? Descărcați software-ul DriverPack Solution - va face totul automat, rapid și fără probleme."
+
+msgid "seo_deviceclass-footer-content-phone-htc"
+msgstr "Aveți probleme cu funcționalitatea unității de telefon de la HTC? Nu există nicio posibilitate să vă conectați smartphone-ul la computer? În această secțiune puteți <b>descărca singur driverele pentru telefonul mobil HTC</b> manual. Cele mai recente și cele mai actualizate drivere pentru telefoanele HTC sunt reprezentate aici."
+
+msgid "seo_deviceclass-footer-content-phone-huawei"
+msgstr "Nu știți de unde <b>să descărcați driverul pentru telefonul Huawei</b>. În această Secțiune veți găsi driverele pentru toate modelele diferite de telefoane Huawei. Toate driverele noastre au fost verificate pentru operabilitate și siguranță!"
+
+msgid "seo_deviceclass-footer-content-phone-nokia"
+msgstr "În această Secțiune puteți <b>descărca driverul pentru telefonul Nokia</b> absolut gratuit și fără înregistrare. Driverele pentru toate modelele de telefoane Nokia sunt reprezentate aici. De asemenea, toate driverele au fost verificate de experți pentru siguranță și operabilitate."
+
+msgid "seo_devicegroup-footer-content-video-nvidia-nvidia-geforce-9600-gt"
+msgstr "Aveți nevoie de driverele pentru placa video Nvidia Geforce 9600 GT? Sunteți în locul potrivit! În această Secțiune puteți descărca <b>driverele pentru placa video Nvidia Geforce 9600 GT</b> pentru toate versiunile sistemului de operare Windows care există și sunt în uz. Dacă dintr-un anumit motiv nu ați reușit să găsiți driverele de care aveți nevoie în catalog, utilizați software-ul DriverPack Solution pentru căutarea și actualizarea driverului absolut gratuit și funcționează în mod automat."
+
+msgid "seo_devicegroup-footer-content-monitor-samsung-syncmaster-740n-179n-syncmaster-magic-cx721n-cx714n"
+msgstr "Aveți dificultăți în conectarea monitorului Samsung Syncmaster 740n la computer? Apar diferite artefacte pe ecran cand monitorului afișează informații? În această Secțiune puteți găsi și <b>descărca driverul pentru monitorul Samsung Syncmaster 740n</b> cu cea mai recentă configurație pentru toate versiunile de Windows care sunt în uz. Dacă nu ați putut selecta driverul de care aveți nevoie utilizând catalogul nostru, utilizați gratuit  software-ul DriverPack Solution -  este creat special pentru actualizarea automată a driverelor pe computer-ul dvs."
+
+msgid "seo_notebook-footer-content-acer-aspire-5560g"
+msgstr "În această Secțiune puteți descărca driverele pentru laptopul Acer Aspire 5560g pentru Windows XP, 7, 8, 8.1 și 10. Toate driverele au fost verificate de experții noștri pentru operabilitate și siguranță. Dacă nu ați putut găsi driverul de care aveți nevoie, utilizați software-ul DriverPack Solution - este absolut gratuit și va face totul pentru dvs.!"
+
+msgid "seo_notebook-footer-content-aspire-5750g"
+msgstr "Aveți nevoie să descărcați driverele pentru laptopul Acer Aspire 5750g? Driverele pentru Windows XP, 7, 8, 8.1 și 10 sunt reprezentate în această Secțiune. Driverele noastre au fost verificate de antivirus și sunt 100% sigure. Nu doriți să căutați driverul de care aveți nevoie manual? Atunci descărcați software-ul DriverPack Solution - este gratuit și va putea selecta tot ce aveți nevoie automat."
+
+msgid "seo_notebook-footer-content-acer-aspire-5100"
+msgstr "În această Secțiune puteți descărca gratuit driverele pentru laptopul Acer Aspire 5100 (Windows XP, 7, 8, 8.1, 10). Dacă din anumite motive nu ați reușit să găsiți driverul de care aveți nevoie în catalogul nostru, nu disperați - descărcați software-ul DriverPack Solution. Va face totul pentru dvs."
+
+msgid "seo_notebook-footer-content-acer-aspire-5553g"
+msgstr "Aveți nevoie să descărcați driverele pentru laptopul Acer Aspire 5553g? În această Secțiune veți găsi toate driverele necesare pentru următoarele versiuni de Windows: XP, 7, 8, 8.1, 10. Nu l-ați găsit pe cel de care aveți nevoie? Descărcați software-ul gratuit DriverPack Solution pentru actualizarea driverului - acesta va face totul pentru dvs.!"
+
+msgid "seo_notebook-footer-content-acer-aspire-7750g"
+msgstr "În această Secțiune puteți descărca driverele pentru laptopul Acer Aspire 7750g absolut gratuit. Toate driverele noastre au fost verificate pentru siguranță și operabilitate. Nu există driverul de care aveți nevoie în catalogul nostru? Descărcați software-ul DriverPack Solution - acesta va găsi tot ceea ce aveți nevoie în câteva minute!"
+
+msgid "seo_notebook-footer-content-acer-aspire-5551g"
+msgstr "Vă sugerăm să descărcați driverele pentru laptopul Acer Aspire 5551g pentru toate versiunile de sisteme de operare Windows care sunt în uz, gratuit. Nu ați găsit driverul de care aveți nevoie în catalogul nostru? Descărcați gratuit software-ul DriverPack Solution - acesta va actualiza toate driverele la ultima versiune."
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g"
+msgstr "Laptopul Acer Aspire v3 571g nu pornește? Ar putea fi problemă cu driverele. În această Secțiune puteți descărca gratuit driverele pentru Acer Aspire v3 571g. Sunt prezente aici driverele pentru toate versiunile Windows - XP, 7, 8, 8.1 și 10 care sunt în uz. Nu ați reușit să rezolvați problema manual? Descărcați software-ul DriverPack Solution - acesta va găsi driverul necesar și îl va actualiza la versiunea operabilă automat."
+
+msgid "seo_notebook-footer-content-asus-x550cc"
+msgstr "Aveti nevoie de drivere pentru laptop Asus X550CC? În această Secțiune a site-ului nostru veți găsi tot ce aveți nevoie pentru operarea laptopului. Toate pachetele noastre au fost verificate pentru siguranță și operabilitate. Dacă nu ați putut găsi driverul necesar, descărcați software-ul DriverPack Solution - acesta va evalua starea actuală a driverelor de pe computerul dvs. și le va actualiza la cea mai recentă versiune."
+
+msgid "seo_notebook-footer-content-asus-x550cl"
+msgstr "Aici puteți descărca driverele pentru laptop Asus X550CL pentru Windows XP, 7, 8, 8.1 și 10 absolut gratuit. Toate driverele noastre au fost verificate pentru operabilitate și siguranță. Dacă, din anumite motive, nu ați găsit driverul de care aveți nevoie, utilizați software-ul DriverPack Solution - va face totul automat."
+
+msgid "seo_notebook-footer-content-asus-x540sa"
+msgstr "Aici poți descărca gratuit driverele laptopului Asus X540SA pentru Windows XP, 7, 8, 8.1 și 10. Dacă din anumite motive nu ați putut selecta driverul de care aveți nevoie în catalogul nostru, descărcați software-ul gratuit DriverPack Solution pentru actualizarea driverului - va face totul automat."
+
+msgid "seo_notebook-footer-content-asus-x540sc"
+msgstr "Aici puteți descărca gratuit driverele laptopului Asus X540SC pentru Windows XP, 7, 8, 8.1 și 10. Nu ați reușit să găsiți ceea ce căutați? Descărcați software-ul DriverPack Solution pentru actualizarea automată a driverelor - vă va evalua hardware-ul și va selecta rapid driverele necesare."
+
+msgid "seo_notebook-footer-content-asus-x540la"
+msgstr "Aici puteți descărca gratuit driverele laptopului Asus X540LA pentru Windows XP, 7, 8, 8.1 și 10. De asemenea, puteți descărca software-ul DriverPack Solution pentru actualizarea gratuită a driverelor - va evalua starea actuală a driverelor de pe computer și le va actualiza automat la cea mai recentă versiune."
+
+msgid "seo_notebook-footer-content-asus-k50c"
+msgstr "Aveți nevoie de driverele pentru laptop Asus K50c pentru Windows XP, 7, 8, 8.1 sau 10? În această secțiune puteți descărca gratuit driverele pentru Asus K50c sau, dacă nu ați reușit să selectați driverul de care aveți nevoie, instalați software-ul DriverPack Solution, care va analiza hardware-ul laptopului și va selecta toate driverele de care aveți nevoie automat."
+
+msgid "seo_notebook-footer-content-asus-x553ma"
+msgstr "Aveți nevoie de driverele pentru laptop Asus X553MA pentru Windows XP, 7, 8, 8.1 sau 10? În această Secțiune puteți descărca driverele pentru Asus X553MA sau, dacă nu ați reușit să selectați driverul de care aveți nevoie, instalați software-ul DriverPack Solution, care va testa hardware-ul computerului și va selecta automat driverele necesare."
+
+msgid "seo_notebook-footer-content-asus-x541sa"
+msgstr "Aici puteți descărca gratuit driverele pentru laptop Asus X541SA pentru Windows XP, 7, 8, 8.1 și 10. Dacă din anumite motive nu ați găsit driverul de care aveți nevoie în catalogul nostru, descărcați software-ul gratuit DriverPack Solution pentru actualizarea driverului - va face totul automat."
+
+msgid "seo_notebook-footer-content-asus-k52jc"
+msgstr "Aici puteți descărca gratuit driverele pentru laptopurile Asus k52jc pentru Windows XP, 7, 8, 8.1 și 10. Dacă nu ați găsit driverul de care aveți nevoie în catalogul nostru, instalați DriverPack Solution pentru actualizarea driverului - va face totul pentru dvs."
+
+msgid "seo_notebook-footer-content-asus-k52jr"
+msgstr "Aici puteți descărca gratuit driverele pentru laptop Asus k52jr pentru Windows XP, 7, 8, 8.1 și 10. Toate driverele au fost verificate pentru siguranță și operabilitate de către cei mai buni experți."
+
+msgid "seo_notebook-footer-content-asus-x101ch"
+msgstr "Aici puteți descărca gratuit driverele pentru laptopurile Asus X101CH pentru Windows XP, 7, 8, 8.1 și 10. Nu ați găsit driverul de care aveți nevoie în catalogul nostru? Nici o problemă - descărcați software-ul DriverPack Solution pentru instalarea automată a driverului - acesta va selecta driverul pentru dispozitivul dorit singur și fără probleme suplimentare."
+
+msgid "seo_notebook-footer-content-asus-k50ij"
+msgstr "Aici puteți descărca driverele pentru laptop Asus K50ij pentru Windows XP, 7, 8, 8.1 sau 10. Dacă nu ați reușit să selectați driverul de care aveți nevoie în catalogul nostru, utilizați software-ul DriverPack Solution pentru căutare și instalare de drivere - este gratuit și va face totul pentru dvs."
+
+msgid "seo_notebook-footer-content-asus-x551ma"
+msgstr "Nu reușiți să instalați driverul pentru network controller-ul Asus x551ma? Descărcați driverul necesar pentru Windows XP, 7, 8, 8.1 sau 10 manual sau utilizați software-ul DriverPack Solution pentru actualizarea driverului gratuit."
+
+msgid "seo_notebook-footer-content-asus-k53ta"
+msgstr "Aici puteți descărca gratuit driverele pentru laptop Asus k53ta pentru Windows XP, 7, 8, 8.1 sau 10. Dacă din anumite motive nu ați reușit să găsiți driverul de care aveți nevoie, utilizați software-ul DriverPack Solution - acesta va selecta driverul necesar sau compatibil cu configurația dvs. automat."
+
+msgid "seo_notebook-footer-content-asus-x550ca"
+msgstr "De aici puteți descărca gratuit driverele pentru laptopul Asus x550ca pentru Windows XP, 7, 8, 8.1 sau 10 gratuit. Toate driverele noastre au fost verificate pentru operabilitate și siguranță."
+
+msgid "seo_notebook-footer-content-lenovo-g580"
+msgstr "Aici puteți descărca driverele pentru laptop Lenovo g580 pentru Windows XP, 7, 8, 8.1 sau 10 absolut gratuit. Toate driverele au fost verificate de antivirus. Nu ați găsit driverul de care aveți nevoie? Descărcați și instalați software-ul DriverPack Solution - este gratuit și va face totul pentru dvs."
+
+msgid "seo_notebook-footer-content-lenovo-b590"
+msgstr "Descărcați driverele pentru laptopul Lenovo b590 pentru Windows XP, 7, 8, 8.1 sau 10 gratuit chiar aici. Toate driverele noastre au fost verificate de antivirus și sunt sigure."
+
+msgid "seo_notebook-footer-content-hp-pavilion-g6-chipset"
+msgstr "În această Secțiune puteți <b>descărca driverele de chipset Pavilion G6</b> gratuit fără înregistrare pentru toate versiunile sistemului de operare Windows care sunt în uz. Dacă din anumite motive nu ați reușit să găsiți și să descărcați manual driverele de chipset pentru laptopul HP Pavilion G6, utilizați software-ul DriverPack Solution - va face totul automat."
+
+msgid "seo_notebook-footer-content-lenovo-g580-wifi"
+msgstr "Aveți nevoie de driverul Wi-Fi pentru laptopul Lenovo g580 pentru Windows XP, 7, 8, 8.1 sau 10? Descărcați-l direct din catalogul nostru. Toate driverele noastre sunt complet operaționale și sigure."
+
+msgid "seo_notebook-footer-content-lenovo-b590-wifi"
+msgstr "De aici puteți descărca driverul Wi-Fi  pentru laptop Lenovo b590 pentru Windows XP, 7, 8, 8.1 sau 10. Întregul nostru catalog a fost verificat de către antivirus."
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g-wifi"
+msgstr "De aici poţi descărca gratuit drivere Wi-Fi pentru laptop Acer Aspire v3 571g pentru Windows XP, 7, 8, 8.1, şi 10."
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g-video"
+msgstr "În această Secțiune puteți descărca gratuit driverele pentru placa video a laptopului Acer Aspire v3 571g. Nu ești mulțumit de rezultat? Folosește software-ul DriverPack Solution - acesta va selecta driverul care este cel mai compatibil cu configurația dvs."
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g-sound"
+msgstr "În această Secțiune puteți descărca driverele de sunet pentru laptopul Acer Aspire v3 571g pentru toate versiunile de Windows care sunt în uz. Driverele noastre sunt absolut sigure și funcționează excelent!"
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g-inputdev"
+msgstr "Aici puteți descărca driverul pentru tastatură și alte dispozitive de intrare ale laptopului Acer Aspire v3 571g pentru Windows XP, 7, 8, 8.1 și 10 absolut gratuit. Toate driverele noastre au fost verificate pentru siguranță și operabilitate!"
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g-lan"
+msgstr "Aici puteți descărca driverul netcard al laptopului Acer Aspire v3 571g pentru Windows XP, 7, 8, 8.1 și 10. Nu ați găsit driverul de care aveți nevoie manual? Utilizați software-ul DriverPack Solution - acesta va selecta tot ceea ce este necesar automat."
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g-cardreader"
+msgstr "În această Secțiune puteți descărca driverul pentru cititorul de carduri de la laptopul Acer Aspire v3 571g pentru Windows XP, 7, 8, 8.1 și 10 fără probleme suplimentare. Aici puteți descărca și software-ul DriverPack Solution - acesta va analiza configurația dvs. hardware, va selecta și instala driverul necesar automat."
+
+msgid "seo_notebook-footer-content-asus-x550cc-wifi"
+msgstr "Nu funcționează Wi-Fi pe laptopul Asus X550CC? Problema ar putea fi driverele învechite - descărcați cea mai recentă versiune a driverului Wi-Fi pentru laptopul Asus X550CC sau instalați software-ul gratuit DriverPack Solution - va face totul în modul automat."
+
+msgid "seo_notebook-footer-content-asus-x550cc-lan"
+msgstr "Aici puteți descărca gratuit drivere de rețea pentru laptopul Asus X550CC pentru Windows XP, 7, 8, 8.1 și 10. Dacă dintr-un motiv oarecare nu sunteți mulțumit de aceste drivere, utilizați software-ul DriverPack Solution - este gratuit și va face totul pentru dvs."
+
+msgid "seo_notebook-footer-content-asus-k50c-video"
+msgstr "Nu pornește un joc pe laptopul Asus K50c? Aici puteți descărca driverul plăcii video pentru Asus k50c pentru Windows XP, 7, 8, 8.1 sau 10."
+
+msgid "seo_notebook-footer-content-asus-k50c-wifi"
+msgstr "Aveți probleme cu accesul la Internet prin Wi-Fi? Aici puteți descărca driverele Wi-Fi pentru laptopul Asus k50c pentru Windows XP, 7, 8, 8.1 sau 10 - ar putea rezolva problema!"
+
+msgid "seo_notebook-footer-content-asus-x553ma-video"
+msgstr "Sunt driverele plăcii video de pe laptopul Asus x553ma învechite? Aici puteți descărca driverul pentru Asus X553MA pentru Windows XP, 7, 8, 8.1 sau 10."
+
+msgid "seo_notebook-footer-content-asus-x101ch-video"
+msgstr "Nu pornești jocul pe laptopul Asus X101CH? Aici puteți descărca gratuit driverul plăcii video pentru Asus X101CH pentru Windows XP, 7, 8, 8.1 sau 10 - ar putea rezolva problema!"
+
+msgid "seo_notebook-footer-content-asus-k50ij-wifi"
+msgstr "Aveți nevoie de driverul Wi-Fi pentru laptopul Asus k50ij pentru Windows XP, 7, 8, 8.1 sau 10? Descărcați-l direct din catalogul nostru sau instalați software-ul DriverPack Solution pentru actualizarea automată a driverului - este absolut gratuit."
+
+msgid "seo_notebook-footer-content-asus-x551ma-lan"
+msgstr "Nu reușiți să instalați driverul pentru network controller-ul Asus x551ma? Descărcați driverul necesar pentru Windows XP, 7, 8, 8.1 sau 10 manual, sau utilizați software-ul gratuit DriverPack Solution pentru actualizarea driverului."
+
+msgid "seo_notebook-footer-content-lenovo-g580-lan"
+msgstr "De aici puteți descărca drivere de rețea pentru laptop Lenovo g580 pentru Windows XP, 7, 8, 8.1 sau 10. Nu ați găsit driverul de care aveți nevoie? Descărcați și instalați software-ul DriverPack Solution - este gratuit și va selecta tot ce aveți nevoie pentru funcționarea corectă a laptopului automat."
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g-7-x86"
+msgstr "În această Secțiune puteți descărca driverele laptop Acer Aspire v3 571g pentru Windows 7. Toate driverele noastre au fost verificate de către experți și sunt complet operabile."
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g-8-x86"
+msgstr "De aici puteți descărca driverele pentru laptop Acer Aspire v3 571g pentru Windows 8 sau puteți instala software-ul DriverPack Solution pentru actualizarea automată a driverului."
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g-8.1-x86"
+msgstr "În această Secțiune, driverele pentru laptop Acer Aspire v3 571g pentru Windows 8 sunt disponibile pentru descărcare. Aici puteți descărca software-ul DriverPack Solution - acesta va verifica configurația hardware și va instala driverul necesar."
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g-10-x86"
+msgstr "De aici puteți descărca driverele pentru laptop Acer Aspire v3 571g pentru Windows 10. Driverele noastre sunt complet operabile și au fost verificate de către antivirus."
+
+msgid "seo_notebook-footer-content-asus-x550cc-7-x86"
+msgstr "În această Secțiune puteți descărca driverele pentru laptop Asus X550CC pentru Windows 7x86. Toate driverele noastre au fost verificate pentru siguranță de către antivirus!"
+
+msgid "seo_notebook-footer-content-asus-x550cc-7-x64"
+msgstr "În această Secțiune puteți descărca drivere pentru laptop Asus X550CC pentru Windows 7x64 gratuit. Dacă dintr-un motiv anume nu sunteți mulțumit de acesta, utilizați software-ul DriverPack Solution - acesta va actualiza driverele de pe laptop la ultima versiune existentă."
+
+msgid "seo_notebook-footer-content-asus-x550cl-7-x64"
+msgstr "De aici poți descărca drivere pentru laptop Asus X550CL  pentru Windows 7x64 gratuit. Toate driverele noastre au fost verificate de către experți pentru operabilitate."
+
+msgid "seo_notebook-footer-content-asus-x540sa-7-x64"
+msgstr "Ai nevoie de drivere pentru laptop Asus X540SA pentru Windows 7x64? Veți găsi tot ce aveți nevoie în această Secțiune. Toate driverele au fost verificate de către experții noștri pentru siguranță și operabilitate."
+
+msgid "seo_notebook-footer-content-asus-x540sa-8.1-x64"
+msgstr "Ai nevoie de drivere pentru laptop Asus x540sa pentru Windows 8.1x64? Aici veți găsi tot ce aveți nevoie. Driverele noastre au fost verificate pentru operabilitate și siguranță de către cei mai buni experți."
+
+msgid "seo_notebook-footer-content-asus-x540sa-10-x64"
+msgstr "Ai nevoie să descarci drivere pentru laptop Asus X540SA pentru Windows 10x64? Sunteți în locul potrivit! Dacă dintr-un motiv anume nu ați găsit driverul de care aveți nevoie în catalog, descărcați software-ul DriverPack Solution - acesta va găsi toate cele mai recente versiuni și le va instala singur pe laptopul dvs. !"
+
+msgid "seo_notebook-footer-content-asus-x540sc-7-x64"
+msgstr "Aveți nevoie să descărcați driver-i pentru laptop-ul Asus X540SC și Windows 7 pe 64 de biți? Aici veți găsi tot ce aveți nevoie. Toate pachetele noastre de driveri au fost verificate din punct de vedere al siguranței și funcționalității"
+
+msgid "seo_notebook-footer-content-asus-x540sc-8.1-x64"
+msgstr "Aici puteți descărca absolut gratuit driver-i pentru laptop-ul Asus X540SC și Windows 8.1 pe 64 de biți. Dacă nu ați putut găsi singuri driver-ul de care aveți nevoie, e suficient să descărcați aplicația DriverPack pentru actualizarea driver-ilor - va face totul repede și sigur!"
+
+msgid "seo_notebook-footer-content-asus-x540la-7-x64"
+msgstr "În această secțiune puteți descărca gratuit driver-i pentru laptop-ul Asus X540LA și Windows 7 pe 64 de biți x64 fără a avea nevoie de înregistrare. Toți driver-ii noștri sunt absolut siguri și compet funcționali."
+
+msgid "seo_notebook-footer-content-asus-k50c-xp-x86"
+msgstr "În această secțiune puteți descărca absolut gratuit driver-i pentru laptop-ul Asus k50c și Windows XP fără a avea nevoie de înregistrare. De asemenea vă sugerăm și să descărcați aplicația DriverPack Solution pentru instalarea automată a driver-ilor - va face toate aceste operații pentru dvs.!"
+
+msgid "seo_notebook-footer-content-asus-x553ma-7-x64"
+msgstr "Aici puteți descărca driver-i pentru laptop-ul Asus X553MA și Windows 7 pe 64 de biți. Toate pachetele noastre de driver-i au fost testate de către experți din punct de vedere al siguranței și funcționalității."
+
+msgid "seo_notebook-footer-content-asus-x101ch-xp-x86"
+msgstr "Aici puteți descărca gratuit driver-i pentru laptop-ul Asus X101CH și Windows XP fără a avea nevoie de înregistrare. Toți driver-ii noștri sunt complet funcționali și siguri pentru laptop-ul dvs.!"
+
+msgid "seo_notebook-footer-content-asus-k50ij-7-x64"
+msgstr "Aici puteți descărca absolut gratuit driver-i pentru laptop-ul Asus Asus k50ij și Windows 7 pe 64 de biți. Nu sunteți satisfăcuți de driver? Nici o problemă - utilizați aplicația DriverPack Solution pentru actualizarea driver-ilor - este absolut gratuită și va face totul automat!"
+
+msgid "seo_notebook-footer-content-asus-k50ij-xp-x86"
+msgstr "Aveți nevoie să descărcați driver-i pentru laptop-ul Asus k50ij și Windows XP? Utilizați catalogul nostru - veți găsi tot ce aveți nevoie chiar aici. Nu v-a fost de ajtor? Atunci descărcați aplicația DriverPack Solution pentru actulizarea driver-ilor - va analiza hardware laptop-ului dvs. și va selecta cei mai compatibili driver-i."
+
+msgid "seo_notebook-footer-content-lenovo-g580-7-x64"
+msgstr "Driver-i pentru laptop-ul Lenovo g580 laptop și Windows XP, 7, 8, 8.1 și 10 sunt disponibili pentru descărcare chiar aici. Nu sunteți satisfăcuți de driver? Atunci utilizați aplicația DriverPack Solution pentru căutarea și instalarea driver-ilor - va face totul fără ajutorul dvs.."
+
+msgid "seo_notebook-footer-content-asus-x550cc-sound-10-x64"
+msgstr "Aici puteți descărca gratuit driver-i pentru laptop-ul Asus X550CC și Windows 10 pe 64 de biți. De asemenea puteți descărca aplicația DriverPack Solution - ea va evalua starea curentă a driver-ilor instalați pe laptop-ul dvs. și îi va actualiza la cea mai recentă versiune."
+
+msgid "seo_mainos-content-xp"
+msgstr "Windows XP este un \"veteran\" onorat printre toate sistemele de operare ale familiei Windows NT, lansat pe 25 octombrie 2001 și este încă unul dintre cele mai populare sisteme de operare din lume până în prezent. Aproximativ 7% din toate PC-urile din întreaga lume funcționează încă pe Windows XP, după 16 ani de la lansare. Referința, în mare parte, se face la mașinile și mașinile învechite cu eficiență scăzută. Și deși suportul pentru acest sistem de operare a încetat în 2014, este evident că utilizarea acestui sistem va mai dura ceva timp. Puteți descărca cele mai recente versiuni actualizate ale driverelor pentru Windows XP fie direct din catalogul nostru, fie prin descărcarea software-ului DriverPack Solution."
+
+msgid "seo_mainos-content-7"
+msgstr "Windows 7 este un sistem de operare din familia Windows NT care a fost lansat după Windows Vista, dar înainte de Windows 8. Potrivit datelor din vara anului 2017, Windows 7 este cel mai popular sistem de operare din lume. Conform datelor din iulie 2017, Windows 7 este utilizat pe 48,91% din toate PC-urile din întreaga lume. Acest sistem de operare a intrat în vânzare în data de 22 octombrie 2009, la mai puțin de 3 ani după lansarea eșecului Windows Vista. Imaginile de instalare ale versiunii finale a sistemului au fost disponibile pe Internet din 21 iulie, același an. Puteți descărca cele mai recente drivere actualizate pentru Windows 7 aici."
+
+msgid "seo_mainos-content-8"
+msgstr "Windows 8 este un sistem de operare din familia Microsoft Windows care a fost lansat după Windows 7 și a fost dezvoltat de Microsoft Corporation. Versiunea de bază este 6.2. Windows 8 a apărut spre vânzare pe data de 26 octombrie 2012. Potrivit datelor din vara anului 2017, acest sistem de operare este utilizat pe aproximativ 5% din toate PC-urile din lume. Windows Server 2012 este o ediție de server. Noua interfață Metro a fost utilizată în această versiune de sistem de operare. Vânzările sale au încetat în data de 12 ianuarie 2016, dar puteți descărca toate cele mai recente drivere lansate pentru Windows 8 în această secțiune."
+
+msgid "seo_mainos-content-8.1"
+msgstr "Sistemul de operare Windows 8.1 (familia NT) a fost lansat după Windows 8 și a fost destinat stațiilor de lucru, PC-urilor și dispozitivelor mobile. Windows Server 2012 R2 este o ediție de server a Windows 8.1. Acest sistem de operare diferă de Windows 8 prin unele schimbări în interacțiunea cu interfața grafică a utilizatorului. Windows 8.1 este, de asemenea, destinat operării cu touchscreens. Conform datelor din vara anului 2017, 6,48% din toate PC-urile din lume operează pe acest sistem de operare. Puteți descărca cele mai recente drivere actualizate pentru Windows 8.1 direct din catalogul nostru."
+
+msgid "seo_mainos-content-10"
+msgstr "Windows 10 trebuia să devină sistemul de operare universal pentru PC-uri, smartphone-uri, tablete și chiar pentru consola Xbox One. A fost lansat după Windows 8.1 și aparține familiei NT. În prezent, 27% din toate dispozitivele din întreaga lume operează pe sistemul de operare Windows 10 și toată lumea își poate actualiza gratuit copiile licențiate de Windows 7, Windows 8.1 și Windows Phone 8.1 până la Windows 10 în primele 6 luni de existență. Puteți descărca driverele pentru toate dispozitivele pe care rulează pe Windows 10 chiar din catalogul DriverPack Solution. Diferența dintre Windows 10 și predecesorul său este existenta unei opțiuni de a crea mai multe desktop-uri, și are, de asemenea, asistență vocală Cortana."

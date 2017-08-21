@@ -1,0 +1,975 @@
+# Translators:
+# Nadia Tegeneva <nadia@drp.su>, 2017
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-07-05 14:09+0000\n"
+"PO-Revision-Date: 2016-09-23 09:12+0000\n"
+"Last-Translator: Nadia Tegeneva <nadia@drp.su>, 2017\n"
+"Language-Team: Chinese (https://www.transifex.com/driverpack-solution/teams/75453/zh/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. i18n: EN: Example: VENDOR.NAME=Asus; RU: Пример: VENDOR.NAME=Asus;
+msgid "seo_vendor-footer-anchor"
+msgstr "{{VENDOR.NAME}}"
+
+msgid "seo_devicegroups-footer-anchor"
+msgstr "{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
+
+#. i18n: EN: Example: NAME=Acer E230H; RU: Пример: NAME=Acer E230H;
+msgid "seo_devicegroup-footer-anchor"
+msgstr "{{NAME}}"
+
+#. i18n: EN: Example: NAME=Asus X550EA; RU: Пример: NAME=Asus X550EA;
+msgid "seo_notebookvendor-footer-anchor"
+msgstr "{{NOTEBOOK.VENDOR.NAME}} 筆記型電腦"
+
+msgid "seo_notebook-footer-anchor"
+msgstr " {{NAME}} 筆記型電腦"
+
+msgid "seo_notebookdevices-footer-anchor"
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} {{CLASS.PLURAL.MAIN}}"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
+#. CLASS.PLURAL.FOR=мониторов|модемов;
+msgid "seo_deviceclass-footer-anchor"
+msgstr "{{CLASS.PLURAL.MAIN}}"
+
+msgid "seo_hwidos-footer-anchor"
+msgstr "Windows {{OS.NAME}} 驅動程式版本"
+
+msgid "seo_main-title"
+msgstr "DriverPack Solution - 自动驱动程序更新| 免费下载"
+
+msgid "seo_main-description"
+msgstr "DriverPack Solution - 免费的驱动程序更新并安装到您的设备。"
+
+msgid "seo_main-keywords"
+msgstr "Windows 7 8 10 64 驱动程序包安装程序下载"
+
+msgid "seo_mainlanding-title"
+msgstr "DriverPack Solution - 驱动更新软件| 下载适用于 Windows 7，XP，10，8 和 8.1"
+
+msgid "seo_mainlanding-description"
+msgstr "DriverPack Solution – 免費軟體，用於在筆記型電腦和電腦上自動安裝和更新驅動程式。也可以從我們的目錄頁面下載 Windows XP、7、8、8.1、10 的驅動程式。"
+
+msgid "seo_mainlanding-keywords"
+msgstr "自动安装下载 Windows 7，XP，10，8 和 8.1 驱动程序包更新"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
+#. CLASS.PLURAL.FOR=мониторов|модемов;
+msgid "seo_deviceclass-title"
+msgstr "{{CLASS.SINGLE.FOR}}驱动 | Windows 下载"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
+#. CLASS.PLURAL.FOR=мониторов|модемов;
+msgid "seo_deviceclass-description"
+msgstr "安裝  Windows 7, XP, 10, 8, 和 8.1 的 {{CLASS.SINGLE.FOR}} 驅動程式，或下載 DriverPack Solution 軟體供自動驅動程式安裝和更新"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
+#. CLASS.PLURAL.FOR=мониторов|модемов;
+msgid "seo_deviceclass-h1"
+msgstr "<span class='bold'>{{CLASS.SINGLE.FOR}}</span> 驅動程式"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
+#. CLASS.PLURAL.FOR=мониторов|модемов;
+msgid "seo_deviceclass-keywords"
+msgstr "Windows 7 64 8 10 {{CLASS.SINGLE.FOR}}驱动程序包下载"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
+#. CLASS.PLURAL.FOR=мониторов|модемов;
+msgid "seo_deviceclass-footer-description"
+msgstr "免費下載 {{CLASS.PLURAL.FOR}} 驅動程式"
+
+msgid "seo_deviceclass-footer-application-category"
+msgstr "類別: <span itemprop='applicationCategory'>裝置</span>"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=monitors|modem; RU: Пример:
+#. CLASS.PLURAL.MAIN=мониторы|модемы;
+msgid "seo_deviceclass-footer-application-subcategory"
+msgstr "子類別: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+
+msgid "seo_vendors-title"
+msgstr "PC，laptop，和笔记本驱动程序| Windows 下载"
+
+msgid "seo_vendors-description"
+msgstr "免費安裝電腦、筆記型電腦和迷你筆記型電腦驅動程式，或者下載用於自動驅動程式更新和安裝的軟體"
+
+msgid "seo_vendors-h1"
+msgstr "硬體製造商"
+
+msgid "seo_vendors-keywords"
+msgstr "PC laptop 厂商驱动下载"
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_vendor-title"
+msgstr "{{VENDOR.NAME}} Windows 驱动 | 免费下载"
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_vendor-description"
+msgstr "安裝 Windows 7, XP, 10, 8, 和 8.1 的 {{VENDOR.NAME}} 驅動程式，或下載 DriverPack Solution 軟體供自動驅動程式安裝"
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_vendor-h1"
+msgstr "<span class='bold'>{{VENDOR.NAME}}</span> 裝置驅動程式"
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_vendor-keywords"
+msgstr "下载 {{VENDOR.NAME}} 驱动"
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_vendor-footer-description"
+msgstr "免費下載 {{VENDOR.NAME}} 裝置的驅動程式"
+
+msgid "seo_vendor-footer-application-category"
+msgstr "類別: <span itemprop='applicationCategory'>裝置</span>"
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_vendor-footer-application-subcategory"
+msgstr "子類別: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} 裝置 </span>"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|monitors; VENDOR.NAME=Acer;
+#. RU: Пример: CLASS.PLURAL.FOR=видеокарт|мониторов; VENDOR.NAME=Acer;
+msgid "seo_devicegroups-title"
+msgstr "{{VENDOR.NAME}}{{CLASS.SINGLE.FOR}}驱动 | Windows 下载"
+
+#. i18n: EN: Example: CLASS.SINGLE.FOR=videocard|monitor; VENDOR.NAME=Acer;
+#. RU: Пример: CLASS.SINGLE.FOR=видеокарты|монитора; VENDOR.NAME=Acer;
+msgid "seo_devicegroups-description"
+msgstr "在這裡您可以下載 Windows 7, XP, 10, 8, 和 8.1 {{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} 驅動程式，或下載 DriverPack Solution 軟體供自動驅動程式安裝"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|monitors; VENDOR.NAME=Acer;
+#. RU: Пример: CLASS.PLURAL.FOR=видеокарт|мониторов; VENDOR.NAME=Acer;
+msgid "seo_devicegroups-h1"
+msgstr "<span class='bold'>{{VENDOR.NAME}}</span> {{CLASS.SINGLE.FOR}} 驅動程式"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|monitors; VENDOR.NAME=Acer;
+#. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|мониторы; VENDOR.NAME=Acer;
+msgid "seo_devicegroups-keywords"
+msgstr "PC 驱动 {{CLASS.PLURAL.MAIN}} {{VENDOR.NAME}} 下载"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|monitors; VENDOR.NAME=Acer;
+#. RU: Пример: CLASS.PLURAL.FOR=видеокарт|мониторов; VENDOR.NAME=Acer;
+msgid "seo_devicegroups-footer-description"
+msgstr "下載 {{VENDOR.NAME}} {{CLASS.PLURAL.FOR}} 驅動程式"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|monitors; RU: Пример:
+#. CLASS.PLURAL.MAIN=видеокарты|мониторы;
+msgid "seo_devicegroups-footer-application-category"
+msgstr "類別: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|monitors; VENDOR.NAME=Acer;
+#. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|мониторы; VENDOR.NAME=Acer;
+msgid "seo_devicegroups-footer-application-subcategory"
+msgstr "子類別: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}} </span>"
+
+#. i18n: EN: Example: CLASS.SINGLE.FOR=videocard|monitor; VENDOR.NAME=Acer;
+#. RU: Пример: CLASS.SINGLE.FOR=видеокарты|монитора; VENDOR.NAME=Acer;
+msgid "seo_devicegroups-footer-content"
+msgstr "下載 {{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} 驅動程式，或安裝 DriverPack Solution 軟體來自動下載驅動程式和更新"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
+#. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
+#. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
+#. GROUP.NAME=GeForce 210;
+msgid "seo_devicegroup-title"
+msgstr "{{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.SINGLE.FOR}} 驱动 | Windows 下载"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
+#. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
+#. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
+#. GROUP.NAME=GeForce 210;
+msgid "seo_devicegroup-description"
+msgstr "載入並安裝  Windows 7, XP, 10, 8, 和 8.1 {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.SINGLE.FOR}} 驅動程式，或下載 DriverPack Solution 軟體來自動安裝驅動程式"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
+#. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
+#. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
+#. GROUP.NAME=GeForce 210;
+msgid "seo_devicegroup-h1"
+msgstr "<span class='bold'>{{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.SINGLE.FOR}}</span> 驅動程式"
+
+#. i18n: EN: Example: GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU:
+#. Пример: GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210;
+msgid "seo_devicegroup-keywords"
+msgstr "免费下载 {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} 驱动"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
+#. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
+#. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
+#. GROUP.NAME=GeForce 210;
+msgid "seo_devicegroup-footer-description"
+msgstr "免費下載 {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.PLURAL.FOR}} 驅動程式"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
+#. GROUP.VENDOR.NAME=Nvidia; RU: Пример: CLASS.PLURAL.FOR=видеокарт|чипсетов;
+#. GROUP.VENDOR.NAME=Nvidia;
+msgid "seo_devicegroup-footer-application-category"
+msgstr "類別: <span itemprop='applicationCategory'>{{GROUP.VENDOR.NAME}} {{CLASS.PLURAL.MAIN}} </span>"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets;
+#. GROUP.NAME=GeForce 210; RU: Пример: CLASS.PLURAL.MAIN=видеокарты|чипсеты;
+#. GROUP.NAME=GeForce 210;
+msgid "seo_devicegroup-footer-application-subcategory"
+msgstr "子類別: <span itemprop='applicationSubCategory'>{{GROUP.NAME}} {{CLASS.PLURAL.MAIN}} </span>"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
+#. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
+#. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
+#. GROUP.NAME=GeForce 210;
+msgid "seo_devicegroup-footer-content"
+msgstr "下載 {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.SINGLE.FOR}} 驅動程式，或下載 DriverPack Solution 軟體來自動下載、更新驅動程式"
+
+msgid "seo_hwids-title"
+msgstr "依 Device_id 下載裝置驅動程式 | DriverPack Solution | 頁面\n{{PAGE}}"
+
+msgid "seo_hwids-description"
+msgstr "依 device_id 下載裝置驅動程式"
+
+msgid "seo_hwids-h1"
+msgstr "裝置的所有驅動程式"
+
+#. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+#. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+msgid "seo_hwid-title"
+msgstr "免費下載 {{DEVICE.DEVICEID}} 驅動程式"
+
+#. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+#. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+msgid "seo_hwid-description"
+msgstr "Windows 7, XP, 10, 8, 和 8.1 {{DEVICE.DEVICEID}} 裝置驅動程式"
+
+#. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+#. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+msgid "seo_hwid-h1"
+msgstr "<span class='bold'>{{DEVICE.DEVICEID}}</span>"
+
+#. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+#. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+msgid "seo_hwid-keywords"
+msgstr "下载 PC {{DEVICE.DEVICEID}} 驱动"
+
+#. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+#. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+msgid "seo_hwid-footer-description"
+msgstr "免費下載 {{DEVICE.DEVICEID}} 裝置驅動程式"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets; RU: Пример:
+#. CLASS.PLURAL.MAIN=видеокарты|чипсеты;
+msgid "seo_hwid-footer-application-category"
+msgstr "類別: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets; VENDOR.NAME=Acer;
+#. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|чипсеты; VENDOR.NAME=Acer;
+msgid "seo_hwid-footer-application-subcategory"
+msgstr "子類別: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}} </span>"
+
+#. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+#. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+msgid "seo_hwid-footer-content"
+msgstr "下載 {{DEVICE.DEVICEID}} 驅動程式，或安裝 DriverPack Solution 軟體來自動下載、更新驅動程式"
+
+msgid "seo_notebooks-title"
+msgstr "笔记本电脑驱动程序| Windows 操作系统下载"
+
+msgid "seo_notebooks-description"
+msgstr "載入並安裝 Windows 7, XP, 10, 8, 和 8.1 的所有筆記型電腦和迷你筆記型電腦型號的驅動程式，或下載 DriverPack Solution 軟體來自動更新、安裝驅動程式"
+
+msgid "seo_notebooks-h1"
+msgstr "筆記型電腦和迷你筆記型電腦驅動程式"
+
+msgid "seo_notebooks-keywords"
+msgstr "laptop 笔记本驱动下载"
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_notebookvendor-title"
+msgstr "{{VENDOR.NAME}} laptop 驱动 | Windows 下载"
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_notebookvendor-description"
+msgstr "載入並安裝  Windows 7, XP, 10, 8, 和 8.1 {{VENDOR.NAME}} 筆記型電腦和迷你筆記型電腦驅動程式，或下載 DriverPack Solution 軟體來自動安裝、更新驅動程式"
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_notebookvendor-h1"
+msgstr "<span class='bold'>{{VENDOR.NAME}}</span> 筆記型電腦和迷你筆記型電腦驅動程式"
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_notebookvendor-keywords"
+msgstr "laptop 驱动 {{VENDOR.NAME}} 下载"
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_notebookvendor-footer-description"
+msgstr "免費下載 {{VENDOR.NAME}} 筆記型電腦驅動程式"
+
+msgid "seo_notebookvendor-footer-application-category"
+msgstr "類別: <span itemprop='applicationCategory'>筆記型電腦</span>"
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_notebookvendor-footer-application-subcategory"
+msgstr "子類別: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}}筆記型電腦</span>"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
+#. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+msgid "seo_notebook-title"
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} 筆記型電腦驅動程式 | Download for Windows"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
+#. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+msgid "seo_notebook-description"
+msgstr "載入並安裝  Windows 7, XP, 10, 8, 和 8.1 {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} 筆記型電腦和迷你筆記型電腦驅動程式，或下載 DriverPack Solution 軟體來自動安裝、更新驅動程式"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
+#. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+msgid "seo_notebook-h1"
+msgstr "<span class='bold'>{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}</span> 筆記型電腦驅動程式"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
+#. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+msgid "seo_notebook-keywords"
+msgstr ""
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
+#. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+msgid "seo_notebook-footer-description"
+msgstr "免費下載 {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} 筆記型電腦驅動程式"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; RU: Пример:
+#. NOTEBOOK.VENDOR.NAME=Acer;
+msgid "seo_notebook-footer-application-category"
+msgstr "類別: <span itemprop='applicationCategory'>{{NOTEBOOK.VENDOR.NAME}} 筆記型電腦</span>"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
+#. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+msgid "seo_notebook-footer-application-subcategory"
+msgstr "子類別: <span itemprop='applicationSubCategory'>{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}筆記型電腦</span>"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
+#. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+msgid "seo_notebook-footer-content"
+msgstr "在這裡您可以下載 {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} 筆記型電腦驅動程式，或下載 DriverPack Solution 來自動安裝、更新驅動程式"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+#. CLASS.SINGLE.FOR=videocart|soundcart; RU: Пример:
+#. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+#. CLASS.SINGLE.FOR=видеокарты|звуковой карты;
+msgid "seo_notebookdevices-title"
+msgstr "{{CLASS.SINGLE.FOR}} {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} 筆記型電腦驅動程式 | Download for Windows"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+#. CLASS.SINGLE.FOR=videocart|soundcart; RU: Пример:
+#. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+#. CLASS.SINGLE.FOR=видеокарты|звуковой карты;
+msgid "seo_notebookdevices-description"
+msgstr "下載並安裝  Windows 7, XP, 10, 8, 和 8.1 {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} 筆記型電腦 {{CLASS.SINGLE.FOR}} 驅動程式，或下載 DriverPack Solution 來自動安裝、更新驅動程式"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+#. CLASS.PLURAL.FOR=videocarts|soundcarts; RU: Пример:
+#. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+#. CLASS.PLURAL.FOR=видеокарт|звуковых карт;
+msgid "seo_notebookdevices-h1"
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} 筆記型電腦 {{CLASS.SINGLE.FOR}} 驅動程式"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets;
+#. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU: Пример:
+#. CLASS.PLURAL.MAIN=видеокарты|чипсеты; NOTEBOOK.VENDOR.NAME=Acer;
+#. NOTEBOOK.NAME=AO533;
+msgid "seo_notebookdevices-keywords"
+msgstr ""
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+#. CLASS.PLURAL.FOR=videocarts|soundcarts; RU: Пример:
+#. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+#. CLASS.PLURAL.FOR=видеокарт|звуковых карт;
+msgid "seo_notebookdevices-footer-description"
+msgstr "免費下載 {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} 筆記型電腦 {{CLASS.PLURAL.FOR}} 驅動程式"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
+#. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+msgid "seo_notebookdevices-footer-application-category"
+msgstr "類別: <span itemprop='applicationCategory'> {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} 筆記型電腦</span>"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets;
+#. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU: Пример:
+#. CLASS.PLURAL.MAIN=видеокарты|чипсеты; NOTEBOOK.VENDOR.NAME=Acer;
+#. NOTEBOOK.NAME=AO533;
+msgid "seo_notebookdevices-footer-application-subcategory"
+msgstr "子類別: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}} 適用於 {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}</span>"
+
+#. i18n: EN: Example: CLASS.SINGLE.FOR=videocard|chipset;
+#. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU: Пример:
+#. CLASS.SINGLE.FOR=видеокарты|чипсета; NOTEBOOK.VENDOR.NAME=Acer;
+#. NOTEBOOK.NAME=AO533;
+msgid "seo_notebookdevices-footer-content"
+msgstr "下載 Windows 7, XP, 10, 8, 和 8.1 {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} 筆記型電腦 {{CLASS.SINGLE.FOR}} 驅動程式，或下載 DriverPack Solution 軟體來更新驅動程式"
+
+msgid "seo_search-title"
+msgstr "在短語上搜尋結果: {{QUERY}} | DriverPack Solution "
+
+msgid "seo_devicegroupos-title"
+msgstr ""
+
+msgid "seo_devicegroupos-description"
+msgstr "安裝 Windows {{OS}} {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} 驅動程式，或下載 DriverPack Solution 軟體來自動安裝、更新驅動程式"
+
+msgid "seo_devicegroupos-h1"
+msgstr "適用於 Windows {{OS}} {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} 驅動程式"
+
+msgid "seo_devicegroupos-keywords"
+msgstr ""
+
+msgid "seo_devicegroupos-footer-description"
+msgstr "免費下載 Windows {{OS}} {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.SINGLE.FOR}} 驅動程式"
+
+msgid "seo_devicegroupos-footer-application-category"
+msgstr "類別: <span itemprop='applicationCategory'>{{GROUP.VENDOR.NAME}} {{CLASS.PLURAL.MAIN}} </span>"
+
+msgid "seo_devicegroupos-footer-application-subcategory"
+msgstr "子類別: <span itemprop='applicationSubCategory'>{{GROUP.NAME}} {{CLASS.PLURAL.MAIN}} </span>"
+
+msgid "seo_devicegroupos-footer-content"
+msgstr "下載 {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.PLURAL.FOR}} (Windows {{OS}}) 驅動程式，或下載 DriverPack Solution 軟體來自動下載、更新驅動程式"
+
+msgid "seo_notebookos-title"
+msgstr ""
+
+msgid "seo_notebookos-description"
+msgstr "安裝適用於 Windows {{OS}} 的 {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} 的筆記型電腦驅動程式，或下載 DriverPack Solution 軟體來自動安裝、更新驅動程式"
+
+msgid "seo_notebookos-h1"
+msgstr "適用於 Windows {{OS}} 的 {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} 筆記型電腦驅動程式"
+
+msgid "seo_notebookos-keywords"
+msgstr ""
+
+msgid "seo_notebookos-footer-description"
+msgstr "免費下載適用於 Windows {{OS}} 的 {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} 筆記型電腦驅動程式"
+
+msgid "seo_notebookos-footer-application-category"
+msgstr "類別: <span itemprop='applicationCategory'>{{NOTEBOOK.VENDOR.NAME}} 筆記型電腦</span>"
+
+msgid "seo_notebookos-footer-application-subcategory"
+msgstr "子類別: <span itemprop='applicationSubCategory'>{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}筆記型電腦</span>"
+
+msgid "seo_notebookos-footer-content"
+msgstr "在這裡您可以下載 {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} 筆記型電腦 (Windows {{OS}})驅動程式，或下載 DriverPack Solution 軟體來自動安裝、更新驅動程式"
+
+msgid "seo_deviceclassos-title"
+msgstr ""
+
+msgid "seo_deviceclassos-description"
+msgstr "安裝適用於 Windows {{OS}} 的 {{CLASS.SINGLE.FOR}} 驅動程式，或下載 DriverPack Solution 軟體來自動安裝、更新驅動程式"
+
+msgid "seo_deviceclassos-h1"
+msgstr "適用於 Windows {{OS}} 的 {{CLASS.SINGLE.FOR}} 驅動程式"
+
+msgid "seo_deviceclassos-keywords"
+msgstr ""
+
+msgid "seo_deviceclassos-footer-description"
+msgstr "下載適用於 Windows {{OS}} 的 {{CLASS.SINGLE.FOR}} 驅動程式"
+
+msgid "seo_deviceclassos-footer-application-category"
+msgstr "類別: <span itemprop='applicationCategory'>裝置</span>"
+
+msgid "seo_deviceclassos-footer-application-subcategory"
+msgstr "子類別: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+
+msgid "seo_devicegroupsos-title"
+msgstr ""
+
+msgid "seo_devicegroupsos-description"
+msgstr "安裝適用於 Windows {{OS}} 的 {{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} 驅動程式，或下載 DriverPack Solution 軟體來自動安裝、更新驅動程式"
+
+msgid "seo_devicegroupsos-h1"
+msgstr "適用於 Windows {{OS}} 的 {{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} 驅動程式"
+
+msgid "seo_devicegroupsos-keywords"
+msgstr ""
+
+msgid "seo_devicegroupsos-footer-description"
+msgstr "下載適用於 Windows {{OS}} 的 {{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} 驅動程式"
+
+msgid "seo_devicegroupsos-footer-application-category"
+msgstr "類別: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+
+msgid "seo_devicegroupsos-footer-application-subcategory"
+msgstr "子類別: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}} </span>"
+
+msgid "seo_devicegroupsos-footer-content"
+msgstr "免費下載適用於 {{VENDOR.NAME}} {{CLASS.PLURAL.FOR}} (Windows {{OS}}) 的驅動程式，或安裝 DriverPack Solution 軟體來下載、更新驅動程式"
+
+msgid "seo_notebookvendoros-title"
+msgstr ""
+
+msgid "seo_notebookvendoros-description"
+msgstr "安裝適用於 Windows {{OS}} 的 {{VENDOR.NAME}} 驅動程式，或下載 DriverPack Solution 軟體來自動安裝、更新驅動程式"
+
+msgid "seo_notebookvendoros-h1"
+msgstr "適用於 Windows {{OS}} 的 {{VENDOR.NAME}} 筆記型電腦驅動程式"
+
+msgid "seo_notebookvendoros-keywords"
+msgstr ""
+
+msgid "seo_notebookvendoros-footer-description"
+msgstr "免費下載適用於 Windows {{OS}} 的 {{VENDOR.NAME}} 筆記型電腦驅動程式"
+
+msgid "seo_notebookvendoros-footer-application-category"
+msgstr "類別: <span itemprop='applicationCategory'>筆記型電腦</span>"
+
+msgid "seo_notebookvendoros-footer-application-subcategory"
+msgstr "子類別: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}}筆記型電腦</span>"
+
+msgid "seo_notebookvendoros-footer-content"
+msgstr "免費下載適用於 Windows {{OS}} 的 {{VENDOR.NAME}} 驅動程式，或下載 DriverPack Solution 軟體來自動下載、更新驅動程式"
+
+msgid "seo_hwidos-title"
+msgstr "下載適用於 Windows {{OS}} 的 {{DEVICE.DEVICEID}} 驅動程式"
+
+msgid "seo_hwidos-description"
+msgstr "免費下載適用於 Windows {{OS}} 版本的 {{DEVICE.DEVICEID}} 驅動程式"
+
+msgid "seo_hwidos-h1"
+msgstr "適用於 Windows {{OS}} 的 {{DEVICE.DEVICEID}} 裝置驅動程式"
+
+msgid "seo_hwidos-keywords"
+msgstr "下载用于 {{DEVICE.DEVICEID}} Windows {{OS}} 驱动程序"
+
+msgid "seo_hwidos-footer-description"
+msgstr "免費下載適用於 Windows {{OS}} 的 {{DEVICE.DEVICEID}} 裝置驅動程式"
+
+msgid "seo_hwidos-footer-application-category"
+msgstr "類別: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+
+msgid "seo_hwidos-footer-application-subcategory"
+msgstr "子類別: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}} </span>"
+
+msgid "seo_hwidos-footer-content"
+msgstr "下載適用於 Windows {{OS}} 的 {{DEVICE.DEVICEID}} 裝置驅動程式，或安裝 DriverPack Solution 軟體來自動下載、更新驅動程式"
+
+msgid "seo_notebookdevicesos-title"
+msgstr "適用於 {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} 筆記型電腦的 {{CLASS.SINGLE.FOR}} 驅動程式 | 下載適用於 Windows {{OS}}"
+
+msgid "seo_notebookdevicesos-description"
+msgstr "安裝適用於 Windows {{OS}} 的 {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} 筆記型電腦的 {{CLASS.SINGLE.FOR}} 驅動程式，或下載 DriverPack Solution 軟體來自動安裝、更新驅動程式"
+
+msgid "seo_notebookdevicesos-h1"
+msgstr "適用於 {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} 筆記型電腦 {{CLASS.PLURAL.FOR}} 驅動程式 | Windows {{OS}}"
+
+msgid "seo_notebookdevicesos-keywords"
+msgstr "驱动 {{CLASS.PLURAL.MAIN}} laptop {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} 笔记本 Windows {{OS}} 下载"
+
+msgid "seo_notebookdevicesos-footer-description"
+msgstr "免費下載適用於 Windows {{OS}} 的 {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}  {{CLASS.SINGLE.FOR}} 驅動程式"
+
+msgid "seo_notebookdevicesos-footer-application-category"
+msgstr "類別: <span itemprop='applicationCategory'> {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} 筆記型電腦</span>"
+
+msgid "seo_notebookdevicesos-footer-application-subcategory"
+msgstr "子類別: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}} 適用於 {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}</span>"
+
+msgid "seo_notebookdevicesos-footer-content"
+msgstr "下載適用於 {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} 筆記型電腦 (Windows {{OS}}) {{CLASS.SINGLE.FOR}} 驅動程式，或下載 DriverPack Solution 軟體來更新驅動程式"
+
+msgid "seo_promopage_title"
+msgstr "DriverPack – 免费驱动更新和安装"
+
+msgid "seo_promo-description"
+msgstr "DriverPack Solution 建議您免費為裝置安裝驅動程式，或下載軟體進行自動驅動程式安裝和更新。"
+
+msgid "seo_promo-keywords"
+msgstr "免费下载 laptop 驱动包安装软件"
+
+msgid "seo_promodevice_title"
+msgstr "usb，蓝牙，打印机，Wi-Fi 和显卡驱动免费"
+
+msgid "seo_promodevice-description"
+msgstr "DriverPack Solution 將您的USB、藍牙 Bluetooth、印表機、Wi-Fi 和顯示卡驅動程式更新成最新版本"
+
+msgid "seo_promodevice-keywords"
+msgstr "蓝牙打印机声卡网络摄像头鼠标视频驱动"
+
+msgid "seo_promovendors_title"
+msgstr "Lenovo, Samsung, Acer, Asus, 和 Dell 免费驱动"
+
+msgid "seo_promovendors-description"
+msgstr "DriverPack 將 Lenovo、Samsung、Acer、Asus 和 Dell 驅動程式更新成最新版本"
+
+msgid "seo_promovendors-keywords"
+msgstr "dell samsung lenovo asus acer toshiba asus 驱动"
+
+msgid "seo_promodrivers_title"
+msgstr "Windows 7, 10, XP, 8 驱动 | 下载并安装"
+
+msgid "seo_promodrivers-description"
+msgstr "DriverPack 將免費更新 Windows 7、Windows 10、Windows XP、Windows 8 驅動程式"
+
+msgid "seo_promodrivers-keywords"
+msgstr "免费下载 Windows 7 驱动程序 Windows 10 驱动程序驱动程序更新 Windows 驱动程序"
+
+msgid "seo_forgamers-description"
+msgstr "安裝  Windows 7, XP, 10, 8, 和 8.1 的顯示卡驅動程式，或下載 DriverPack Solution 軟體來自動安裝、更新驅動程式"
+
+msgid "seo_forgamers-keywords"
+msgstr "顯示卡 驅動程式 windows 7 64 8 10 下載 下載"
+
+msgid "seo_wannacrypt_title"
+msgstr "WannaСry 勒索病毒 - 如何保護您的電腦和筆記型電腦?"
+
+msgid "seo_wannacrypt-description"
+msgstr "免費為您的電腦和筆記型電腦下載對抗 WannaCry 勒索病毒的免費保護"
+
+msgid "seo_license_title"
+msgstr "DriverPack Solution"
+
+msgid "seo_license-description"
+msgstr "使用 DriverPack Solution 散佈的軟體授權合約和使用條款"
+
+msgid "seo_license-keywords"
+msgstr "驱动程序包许可协议"
+
+msgid "seo_deviceclass-footer-content-bluetooth"
+msgstr "在这里，您可以下载所有 Windows 操作系统版本的蓝牙驱动程序。 来自著名制造商（如惠普，Qcom 和 Celink）以及知名厂商的驱动都可以使用。 总而言之，您可以从本目录中的 90 多个制造商下载蓝牙驱动程序。<br />如果您找不到所需的驱动程序，请安装我们的 DriverPack Solution 软件以进行自动驱动程序更新 - 它是绝对免费的！"
+
+msgid "seo_deviceclass-footer-content-cardreader"
+msgstr "读卡器是用于从存储卡读取信息的设备。 如果您需要将文件从摄像机或相机移动到计算机上，此设备将帮助您。 本节提供读卡器的驱动程序。 来自超过50家制造商的驱动程序适用于所有受欢迎的 Windows 操作系统版本。 您可以下载特定的读卡器驱动程序，以及（如果由于某种原因您需要的驱动程序在这里找不到）安装驱动程序更新的自动 DriverPack Solution 软件。 这个软件是绝对免费的，并尽最大努力帮助你完成驱动更新！"
+
+msgid "seo_deviceclass-footer-content-chipset"
+msgstr "这部分包括来自最类似硬件的分布式制造商（如 Exar 和 Prolific）的芯片组驱动程序。 现在使用的所有 Windows 版本的芯片组驱动程序现在都在使用，如 64 位或 86 位的 Windows XP，Windows 7，8，和8.1，以及 Windows Vista 等系统的芯片组驱动程序。尽管如此，如果由于某种原因您未能找到或下载您感兴趣的芯片组驱动程序，请使用我们的自动 DriverPack Solution 驱动程序更新软件 - 这个软件是绝对免费的，并尽最大努力帮助你完成驱动更新！"
+
+msgid "seo_deviceclass-footer-content-inputdev"
+msgstr "虽然输入设备类型（鼠标，键盘，操纵杆等）和其制造商的种类很多，但是选择所需驱动程序成为一个挑战。 我们为您解决这个问题 - 在本节中，您可以绝对免费选择和下载输入设备的驱动程序。 如果由于某些原因您未能在我们的目录中找到所需的输入设备驱动程序，请免费下载 DriverPack Solution 软件 - 它将评估您的硬件配置，并自动选择输入设备所需的所有驱动程序。"
+
+msgid "seo_deviceclass-footer-content-lan"
+msgstr "沒有正確選擇<b>網卡驅動程式</b>，正確的網路存取將是相當困難或根本不可能的。我們網站的這一部分將幫您為您的網路硬體組態選擇完美的驅動程式，無論是誰的製造商 - 來自 80 多個網路硬體製造商的驅動程式，支援所有Windows 作業系統版本。如果由於某些原因找不到特定廠商的<b>網卡驅動程式</b>，請使用我們的 DriverPack Solution 驅動程式自動更新軟體 - 它將免費為您解決驅動程式選擇問題!"
+
+msgid "seo_deviceclass-footer-content-massstorage"
+msgstr "在本节中，您可以下载所有使用的 Windows 操作系统版本的控制器驱动程序，绝对免费。 你没有找到你需要的驱动吗? 使用我们的 DriverPack Solution 驱动程序搜索并安装软件 - 它是绝对免费的，我们会尽最大努力帮助你完成驱动更新！"
+
+msgid "seo_deviceclass-footer-content-modem"
+msgstr "在本节中，您可以找到并下载适用于所有 Windows 操作系统版本的调制解调器驱动程序，并且可以从这种类型硬件的所有主要制造商下载。 来自 Smartlink，AVM，Agere 等制造商的驱动程序以及其他 50 多家制造商的驱动。 你没有选择你需要的驱动程序吗? 使用我们且绝对免费的 DriverPack Solution 自动驱动程序更新软件。"
+
+msgid "seo_deviceclass-footer-content-monitor"
+msgstr "通常，显示器的驱动程序会记录在随附全新显示器的光盘上，但如果您的显示器是二手的，情况可能会有所不同。 这就是为什么即使你的显示器似乎没问题，操作正常，系统主板也许不会识别它。 在这种情况下，您可以随时在我们网站的这一部分获得帮助 - 在这里，您可以随时下载适用于当前可用的所有 Windows 操作系统版本的配置监视器的最新驱动程序。 你找不到需要的驱动吗? 我们建议您使用我们免费的 DriverPack Solution 软件 - 这将使您更容易搜索和更新显示器驱动程序。"
+
+msgid "seo_deviceclass-footer-content-tvtuner"
+msgstr "您需要下载电视调谐器的驱动程序吗? 然后你在右边部分 - 在这里，您可以下载并安装最新版本的所有 Windows 操作系统的 tv-tuner 驱动程序。 你没有找到你需要的驱动吗? 没问题！ 下载我们的免费 DriverPack Solution 软件 - 它将选择您需要的精确的电视调谐器芯片驱动程序，它将自动，快速，无问题地执行此操作！"
+
+msgid "seo_deviceclass-footer-content-sound"
+msgstr "电脑上没声音?你更新声卡驱动程序的时间是多久? 在我们网站的这一部分中下载最新的最新的声卡驱动程序，或者安装免费的 DriverPack Solution 驱动程序更新软件 - 它会解决您的声卡驱动程序的所有问题！"
+
+msgid "seo_deviceclass-footer-content-video"
+msgstr "游戏不运行吗? 图像是否显示有人物?  然后我们建议您从我们的网站下载视频卡的驱动程序。 本节列出了 43 家制造商的驱动。 在这里，您可以轻松地为现在使用的任何 Windows 操作系统版本选择驱动程序。 您是否找不到需要的视频卡驱动程序? 使用我们的自动 DriverPack Solution 驱动程序更新软件 - 它是绝对免费的！"
+
+msgid "seo_deviceclass-footer-content-wifi"
+msgstr "在本节中，您可以下载所有高级 Windows 操作系统版本的标准 802.11n 以及标准 802.11g 的 Wi-Fi 驱动程序。 最新配置的驱动程序，由我们的专家反复验证。 如果您自己无法安装 Wi-Fi 驱动程序，请不要绝望 - 下载最新版本的DriverPack Solution 软件 - 它会自动为您的硬件配置选择驱动程序。"
+
+msgid "seo_deviceclass-footer-content-phone"
+msgstr "您需要手机或智能手机的驱动程序吗? 没有问题 - 在本节中，您可以下载并安装几乎任何型号的智能手机以及当今智能手机市场上所有最常见的制造商的驱动程序。 我们的驱动经过验证并可靠！"
+
+msgid "seo_notebookvendor-footer-content-asus"
+msgstr "现在使用的所有 Windows 操作系统版本（Windows XP，Windows 7，8，8.1和 10）的华硕笔记本电脑的最新和最可靠的驱动程序都在我们的目录中。 如果由于某些原因您对华硕笔记本电脑驱动程序感到不满意，或者如果您在找到特定笔记本电脑型号的驱动程序时遇到问题，请使用我们的 DriverPack Solution 软件进行驱动程序更新 - 它是完全免费的！"
+
+msgid "seo_notebookvendor-footer-content-lg"
+msgstr "所有现在使用的所有 Windows 操作系统版本的 LG laptops 的所有最新驱动程序都在本节中有所体现。 如果您找不到完全符合您 <b>LG laptop drivers</b> 的驱动。您也可以使用我们的 DriverPack Solution 软件进行自动驱动安装 - 我们的软件是免费的！"
+
+msgid "seo_notebookvendor-footer-content-sony"
+msgstr "你是否从 Sony 购买了一台新的笔记本电脑，但是面临着可操作性的问题? 在本节中，您可以下载所有与您的操作系统兼容的 Sony 笔记本电脑的最新驱动程序。 Sony Vaio 笔记本电脑驱动程序适用于来自该制造商的200多款型号。 如果由于某种原因，您未能在列表中找到您需要的确切驱动程序，请使用我们的软件进行驱动程序更新 - 它是绝对免费的，将选择适合您笔记本电脑配置的驱动程序。"
+
+msgid "seo_notebookvendor-footer-content-lenovo"
+msgstr "Lenovo 笔记本电脑的驱动程序可以在我们网站的这一部分下载 - 这个制造商（Ideapad，Thinkpad 等）的所有流行和不是很受欢迎的型号的驱动程序在这里。 在我们的网站上，您可以找到适合您的 Windows 操作系统版本的驱动程序。 如果您通过自己的努力搜索 Lenovo 笔记本电脑所需的驱动程序并不成功，请使用我们的驱动程序更新软件 - 它会快速，自动地执行所有操作。"
+
+msgid "seo_notebookvendor-footer-content-samsung"
+msgstr "您购买了 Samsung laptop，现在你需要驱动程序吗? 所有最新的三星笔记本电脑所有 Windows 版本驱动程序都在这个列表内。 在我们的目录中有这个制造商的 100 多台笔记本电脑和上网本型号的驱动程序，这个列表每天都在扩展。 如果您自己没有下载 Samsung laptop 的驱动程序，那么您可以随时使用 DriverPack Solution 软件进行自动驱动程序搜索和安装 - 它是绝对免费的！"
+
+msgid "seo_notebookvendor-footer-content-msi"
+msgstr "在这里，您可以找到并下载适用于您现在正在使用的任何 Windows 操作系统版本的 MSI 笔记本电脑的驱动程序（包括今天的 Vista 这样罕见的版本）。 如果您未能在自己的目录中找到您需要的驱动程序，请下载我们的DriverPack Solution 软件以进行自动驱动程序搜索和安装 - 它是绝对免费的！"
+
+msgid "seo_notebookvendor-footer-content-toshiba"
+msgstr "在本节中，您可以下载 Toshiba laptops 的驱动程序，绝对是所有现在使用的Windows 操作系统版本。 这个制造商的 300 多台笔记本电脑型号在我们的目录中，这而且个列表每天都在增加。 你没有找到我们目录中需要的型号吗? 下载用于自动驱动程序搜索和安装的 DriverPack Solution 软件 - 它将在自动模式下自动执行所有操作。"
+
+msgid "seo_deviceclass-footer-content-video-amd"
+msgstr "AMD 显卡上没有启动游戏吗? 在本节中，您可以将 AMD Radeon 显卡驱动程序更新为最新的最新版本。 在这里您可以下载适用于所有 Windows 操作系统版本的 AMD Radeon 显卡（包括 AMD Radeon HD 系列）的驱动程序。 你没有找到自己需要的驱动吗?使用我们免费的 DriverPack Solution 软件 - 它将以自动模式更新 AMD 显卡驱动程序和 ATI，无需您的任何手动管理。"
+
+msgid "seo_deviceclass-footer-content-video-nvidia"
+msgstr "游戏不运行吗? 这个问题可能是因为您的显卡驱动程序。 尝试从我们的网站下载最新版本并更新 Nvidia 显卡驱动程序。 在这里您还可以下载适用于所有Windows 操作系统版本的最新系列 Nvidia Geforce 显卡的驱动程序，这些版本现在绝对免费。 如果由于某些原因您未能在我们的目录中找到适合您的Nvidia 显卡的驱动程序，请使用我们免费的 DriverPack Solution 软件进行驱动程序搜索和更新 - 它是绝对免费的，它将自行选择所需配置的驱动程序， 没有任何延误。"
+
+msgid "seo_deviceclass-footer-content-video-intel"
+msgstr "您需要 Intel HD Graphics 显卡驱动程序吗? 在本节中，您可以免费下载此系列显卡的驱动程序。 如果您自己找不到和下载 Intel 显卡驱动程序，请使用我们的免费的 DriverPack Solution 软件进行驱动程序搜索和更新 - 它将为您做所有事情！"
+
+msgid "seo_deviceclass-footer-content-chipset-intel"
+msgstr "如何为您的计算机安装英特尔芯片组驱动程序? 在本节中，您可以找到并下载英特尔芯片组驱动程序。 如果由于某种原因您没有从我们的目录下载英特尔芯片组的驱动程序，请使用我们免费的自动 DriverPack Solution 驱动程序更新软件。"
+
+msgid "seo_deviceclass-footer-content-chipset-asus"
+msgstr "在本节中，您可以免费下载 Asus 芯片组的驱动。 所有现在使用的所有Windows 操作系统版本（7,8.1等）的 Asus 芯片组驱动程序也在此处显示。 或者，使用我们的自动 DriverPack Solution 软件 - 它将在自动模式下选择 Asus 芯片组所需的驱动程序，无需您参与。"
+
+msgid "seo_deviceclass-footer-content-chipset-amd"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-sound-msi"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-monitor-acer"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-monitor-asus"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-monitor-benq"
+msgstr "顯示器的操作是否有任何問題?您需要<b>下載 Benq 顯示器驅動程式</b>嗎?在我們的目錄中，您將找到所有 BenQ 顯示器型號的最新組態的驅動程式。如果您還沒有找到所需型號的驅動程式，請不要絕望。使用我們的 DriverPack Solution 驅動程式搜尋和更新軟體 - 它會自動找到所需的驅動程式，無需您的參與!"
+
+msgid "seo_deviceclass-footer-content-monitor-compaq"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-monitor-dell"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-monitor-hp"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-monitor-lg"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-monitor-panasonic"
+msgstr "松下公司的顯示器操作是否出現問題?問題可能出在驅動程式。在我們的目錄中，您可以免費<b>下載 Panasonic 顯示器驅動程式</b>，無需額外的煩惱! 如果由於某些原因您找不到 Panasonic 顯示器型號所需的驅動程式，請下載我們的 DriverPack Solution 驅動程式搜尋和更新軟體 - 它是絕對免費的!"
+
+msgid "seo_deviceclass-footer-content-monitor-samsung"
+msgstr "在本部分中，您可以免費<b>下載 Samsung Syncmaster 顯示器驅動程式</b>。 所有最新 Windows 作業系統版本的驅動程式都在此處呈現。如果由於某種原因您找不到所需的驅動程式，請使用我們的 DriverPack Solution 軟體 - 它是免費的，它將自動執行所有操作。"
+
+msgid "seo_deviceclass-footer-content-monitor-sony"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-monitor-viewsonic"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-monitor-sharp"
+msgstr "夏普公司的顯示器出現問題嗎? 問題可能是過時的驅動程式。自己從我們的目錄下載驅動程式，或使用我們的 DriverPack Solution 軟體 - 它會盡快做到，沒有問題!我們的所有驅動程式都經過驗證可操作性和安全性!"
+
+msgid "seo_deviceclass-footer-content-monitor-philips"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-modem-d-link"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-tvtuner-avermedia"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-tvtuner-beholder"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-tvtuner-pinnacle"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-tvtuner-philips"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-tvtuner-kworld"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-tvtuner-compro"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-phone-htc"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-phone-huawei"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-phone-nokia"
+msgstr ""
+
+msgid "seo_devicegroup-footer-content-video-nvidia-nvidia-geforce-9600-gt"
+msgstr ""
+
+msgid "seo_devicegroup-footer-content-monitor-samsung-syncmaster-740n-179n-syncmaster-magic-cx721n-cx714n"
+msgstr ""
+
+msgid "seo_notebook-footer-content-acer-aspire-5560g"
+msgstr "在本部分中，您可以下載適用於 Windows XP,7,8,8.1 和 10 的 Acer Aspire 5560g 筆記型電腦驅動程式。所有驅動程式已由我們的專家驗證可操作性和安全性。如果您找不到自己需要的驅動程式，請使用我們的 DriverPack Solution 軟體 - 它是絕對免費的，它會為您做一切!"
+
+msgid "seo_notebook-footer-content-aspire-5750g"
+msgstr "您是否需要下載 Acer Aspire 5750g 筆記型電腦驅動程式?Windows XP,7,8,8.1 和 10 的驅動程式在本部分中列出。我們的驅動程式已被防毒軟體檢查過，並且是 100％ 安全的。您不想自己尋找您需要的驅動程式嗎?那麼下載我們的 DriverPack Solution 軟體 - 它是免費的，它將能夠自動選擇您需要的一切。"
+
+msgid "seo_notebook-footer-content-acer-aspire-5100"
+msgstr "在本部分中，您可以免費下載 Acer Aspire 5100 筆記型電腦驅動程式(Windows XP,7,8,8.1,10)。如果由於某種原因您找不到我們目錄中需要的驅動程式，請不要絕望 - 下載我們的 DriverPack Solution 軟體。它會為你做一切!"
+
+msgid "seo_notebook-footer-content-acer-aspire-5553g"
+msgstr "是否需要下載 Acer Aspire 5553g 筆記型電腦的驅動程式?在本部分中，您將找到以下 Windows 版本:XP,7,8,8.1,10 的所有驅動程式。您是否找不到需要的驅動程式?下載我們的免費 DriverPack Solution 軟體來更新驅動程式 - 它會為您做一切!"
+
+msgid "seo_notebook-footer-content-acer-aspire-7750g"
+msgstr "在本部分中，您可以直接下載 Acer Aspire 7750g 筆記型電腦的驅動程式。 我們的所有驅動程式都經過驗證以確保安全性和可操作性。在我們的目錄中是否沒有您需要的驅動程式?下載 DriverPack Solution 軟體 - 它將在幾分鐘內找到您需要的一切!"
+
+msgid "seo_notebook-footer-content-acer-aspire-5551g"
+msgstr "我們建議您下載適用於所有現在使用的 Windows 作業系統版本的 Acer Aspire 5551g 筆記型電腦的驅動程式。您在我們的目錄中找不到您需要的驅動程式嗎?下載免費的 DriverPack Solution 軟體 - 它將您的所有驅動程式更新到最新的版本。"
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g"
+msgstr "您的 Acer Aspire v3 571g 筆記型電腦是否沒有啟動?問題可能是驅動程式。 在本部分中，您可以免費下載 Acer Aspire v3 571g 的驅動程式。現在使用所有 Windows - XP,7,8,8.1 和 10 版本的驅動程式都在這裡列出。您自己無法解決問題嗎?下載我們的 DriverPack Solution 軟體 - 它會找到所需的驅動程式，並將其更新為可操作的版本。"
+
+msgid "seo_notebook-footer-content-asus-x550cc"
+msgstr "您需要華碩 X550CC 筆記型電腦的驅動程式嗎?在我們網站的這一部分，您會發現筆記型電腦操作所需的一切。我們的所有驅動程式包已經過驗證安全性和可操作性。如果您找不到您需要的驅動程式，請下載我們的 DriverPack Solution 軟體 - 它將評估電腦上驅動程式的目前狀態並將其更新為最新版本。"
+
+msgid "seo_notebook-footer-content-asus-x550cl"
+msgstr "在這裡您可以下載適用於 Windows XP,7,8,8.1 和 10 的華碩 X550CL 筆記型電腦驅動程式，絕對免費。我們所有驅動程式已被驗證過操作性和安全性。如果由於某些原因您找不到自己需要的驅動程式，請使用我們的 DriverPack Solution 軟體 - 它會自動執行所有操作。"
+
+msgid "seo_notebook-footer-content-asus-x540sa"
+msgstr "在這裡您可以免費下載適用於 Windows XP,7,8,8.1 和 10 的華碩 X540SA 筆記型電腦驅動程式。如果由於某種原因，您無法在我們的目錄中選擇您需要的驅動程式，請下載我們免費的 DriverPack Solution 軟體以進行驅動程式更新 - 它將自動執行所有操作。"
+
+msgid "seo_notebook-footer-content-asus-x540sc"
+msgstr "在這裡您可以下載適用於 Windows XP,7,8,8.1 和 10 的華碩 X540SC 筆記型電腦驅動程式，絕對免費。您找不到您想要的驅動程式嗎?下載我們的 DriverPack Solution 軟體，進行自動驅動程式更新 - 它將評估您的硬體，並快速選擇所需的驅動程式。"
+
+msgid "seo_notebook-footer-content-asus-x540la"
+msgstr "在這裡您可以下載適用於 Windows XP,7,8,8.1 和 10 的 Asus X540LA 筆記型電腦驅動程式。您還可以下載 DriverPack Solution 軟體，使驅動程式更新絕對免費 - 它將評估電腦上驅動程式的目前狀態，並將其自動更新到最新的版本。"
+
+msgid "seo_notebook-footer-content-asus-k50c"
+msgstr "您是否需要適用於 Windows XP,7,8,8.1 或 10 的華碩 k50c 筆記型電腦的驅動程式?在本部分中，您可以免費下載 Asus k50c 的驅動程式，或者如果您無法自行選擇需要的驅動程式，請安裝 DriverPack Solution 軟體，該軟體將分析筆記型電腦上的硬體，並自行選擇所需的所有驅動程式。"
+
+msgid "seo_notebook-footer-content-asus-x553ma"
+msgstr "您是否需要適用於 Windows XP,7,8,8.1 或 10 的華碩 X553MA 筆記型電腦的驅動程式?在本部分中，您可以下載華碩 X553MA 的驅動程式，或者如果您無法自行選擇需要的驅動程式，請安裝 DriverPack Solution 軟體，該軟體將測試電腦上的硬體並自動選擇所需的驅動程式。"
+
+msgid "seo_notebook-footer-content-asus-x541sa"
+msgstr "在這裡您可以下載適用於 Windows XP,7,8,8.1 和 10 的華碩 X541SA 筆記型電腦的驅動程式。如果由於某些原因您沒有在我們的目錄中找到您需要的驅動程式，請下載我們免費的 DriverPack Solution 軟體以進行驅動程式更新 - 它將自動執行所有操作。"
+
+msgid "seo_notebook-footer-content-asus-k52jc"
+msgstr "在這裡您可以免費下載適用於 Windows XP,7,8,8.1 和 10 的 Asus k52jc 筆記型電腦的驅動程式。如果您在我們的目錄中找不到您需要的驅動程式，請安裝 DriverPack Solution 以進行驅動程式更新 - 它將為您做所有事情。"
+
+msgid "seo_notebook-footer-content-asus-k52jr"
+msgstr "在這裡您可以免費下載適用於 Windows XP,7,8,8.1 和 10 的 Asus k52jr 筆記型電腦驅動程式。所有驅動程式已通過最佳專家驗證其安全性和可操作性。"
+
+msgid "seo_notebook-footer-content-asus-x101ch"
+msgstr "在這裡您可以免費下載適用於 Windows XP,7,8,8.1 和 10 的華碩 X101CH 筆記型電腦驅動程式。在我們的目錄中找不到您需要的驅動程式嗎?沒有問題 - 下載用於自動驅動程式安裝的 DriverPack Solution 軟體 - 它將自動選擇所需裝置的驅動程式，而不會有任何額外的問題。"
+
+msgid "seo_notebook-footer-content-asus-k50ij"
+msgstr "在這裡，您可以下載適用於 Windows XP,7,8,8.1 或 10 的 Asus K50ij 筆記型電腦的驅動程式。如果您未能在我們的目錄中選擇所需的驅動程式，請使用 DriverPack Solution 軟體進行驅動程式搜尋和安裝 - 它是免費的，它會為你做一切。"
+
+msgid "seo_notebook-footer-content-asus-x551ma"
+msgstr "您是否無法安裝華碩 x551ma 網路控制器的驅動程式?自己下載適用於 Windows XP,7,8,8.1 或 10 所需的驅動程式，或使用我們免費的 DriverPack Solution 軟體進行驅動程式更新。"
+
+msgid "seo_notebook-footer-content-asus-k53ta"
+msgstr "在這裡您可以下載適用於 Windows XP,7,8,8.1 或 10 的 Asus k53ta 筆記型電腦的驅動程式。如果由於某種原因您找不到自己需要的驅動程式，請使用我們的 DriverPack Solution 軟體 - 它將自動選擇所需或與組態相容的驅動程式。"
+
+msgid "seo_notebook-footer-content-asus-x550ca"
+msgstr "在這裡您可以下載適用於 Windows XP,7,8,8.1 或 10 的 Asus x550ca 筆記型電腦的驅動程式。我們所有驅動程式的操作性和安全性已被驗證。"
+
+msgid "seo_notebook-footer-content-lenovo-g580"
+msgstr "在這裡您可以下載適用於 Windows XP,7,8,8.1 或 10 的 Lenovo g580 筆記型電腦的驅動程式。所有驅動程式都經防毒軟體檢查過。您找不到您需要的驅動程式嗎?下載並安裝 DriverPack Solution 軟體 - 它是免費的，它將為您做所有事情。"
+
+msgid "seo_notebook-footer-content-lenovo-b590"
+msgstr "在這裡下載適用於 Windows XP,7,8,8.1 或 10 的 Lenovo b590 筆記型電腦的驅動程式，絕對免費。我們所有的驅動程式經防毒軟體檢查過，絕對安全。"
+
+msgid "seo_notebook-footer-content-hp-pavilion-g6-chipset"
+msgstr ""
+
+msgid "seo_notebook-footer-content-lenovo-g580-wifi"
+msgstr "您是否需要適用於 Windows XP, 7, 8, 8.1 或 10 的 Lenovo g580 筆記型電腦的 Wi-Fi 驅動程式?直接從我們的目錄下載。我們所有的驅動程式都是完全可操作和安全的。"
+
+msgid "seo_notebook-footer-content-lenovo-b590-wifi"
+msgstr "在這裡，您可以下載適用於 Windows XP,7,8,8.1 或 10 的 Lenovo b590 筆記型電腦 Wi-Fi 驅動程式。我們的整個目錄經防毒軟體檢查過。"
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g-wifi"
+msgstr "在這裡，您可以免費下載適用於 Windows XP,7,8,8.1 和 10 的 Acer Aspire v3 571g 筆記型電腦的 Wi-Fi 驅動程式。"
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g-video"
+msgstr "在本部分中，您可以免費下載 Acer Aspire v3 571g 筆記型電腦顯示卡的驅動程式。您不滿意嗎?使用我們的 DriverPack Solution 軟體 - 它將選擇與您的組態最相容的驅動程式。"
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g-sound"
+msgstr "在本部分中，您可以下載適用於所有正在使用的 Windows 版本的 Acer Aspire v3 571g 筆記型電腦的音效卡驅動程式。我們的驅動程式是絕對安全的，操作非常好!"
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g-inputdev"
+msgstr "在這裡，您可以下載適用於 Windows XP,7,8,8.1 和 10 的 Acer Aspire v3 571g 筆記型電腦的鍵盤和其他輸入裝置的驅動程式。我們的所有驅動程式已驗證過安全性和可操作性!"
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g-lan"
+msgstr "在這裡您可以下載適用於 Windows XP,7,8,8.1 和 10 的 Acer Aspire v3 571g 筆記型電腦的網路卡驅動程式。您是否找不到自己需要的驅動程式?使用我們的 DriverPack Solution 軟體 - 它將選擇自己需要的一切。"
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g-cardreader"
+msgstr "在本部分中，您可以下載適用於 Windows XP,7,8,8.1 和 10 的 Acer Aspire v3 571g 筆記型電腦的讀卡器驅動程式，無需額外的麻煩。在這裡，您還可以下載我們的 DriverPack Solution 軟體 - 它將分析您的硬體組態，自行選擇並安裝所需的驅動程式。"
+
+msgid "seo_notebook-footer-content-asus-x550cc-wifi"
+msgstr "Wi-Fi 無法在華碩 X550CC 筆記型電腦上操作嗎?問題可能與已過期的驅動程式有關 - 下載華碩 X550CC 筆記型電腦的 Wi-Fi 驅動程式最新版本，或安裝免費的 DriverPack Solution 軟體 - 它會以自動模式做所有事情。"
+
+msgid "seo_notebook-footer-content-asus-x550cc-lan"
+msgstr "在這裡，您可以免費下載適用於 Windows XP,7,8,8.1 和 10 的華碩 X550CC 筆記型電腦的網路驅動程式。如果由於某些原因，您對這些驅動程式不滿意，請使用我們的 DriverPack Solution 軟體 - 它是免費的，將為您做所有事情。"
+
+msgid "seo_notebook-footer-content-asus-k50c-video"
+msgstr "無法在華碩 k50c 筆記型電腦上啟動遊戲嗎?在這裡，您可以下載適用於 Windows XP,7,8,8.1 或 10 的 Asus k50c 的顯示卡驅動程式。"
+
+msgid "seo_notebook-footer-content-asus-k50c-wifi"
+msgstr "您是否遇到透過 Wi-Fi 上網的任何問題?在這裡您可以下載適用於 Windows XP,7,8,8.1 或 10 的 Asus k50c 筆記型電腦的 Wi-Fi 驅動程式 - 它可能會解決問題!"
+
+msgid "seo_notebook-footer-content-asus-x553ma-video"
+msgstr "您的華碩 x553ma 筆記型電腦的顯示卡驅動程式是否過期?在這裡，您可以下載適用於 Windows XP,7,8,8.1 或 10 的 Asus X553MA 驅動程式。"
+
+msgid "seo_notebook-footer-content-asus-x101ch-video"
+msgstr "您的遊戲無法在華碩 X101CH 筆記型電腦上啟動?在這裡，您可以免費下載適用於 Windows XP,7,8,8.1 或 10 的華碩 X101CH 的顯示卡驅動程式，這可能會解決問題!"
+
+msgid "seo_notebook-footer-content-asus-k50ij-wifi"
+msgstr "您需要適用於 Windows XP,7,8,8.1 或 10 的華碩 k50ij 筆記型電腦的 Wi-Fi 驅動程式嗎?從我們的目錄下載，或安裝 DriverPack Solution 軟體進行自動驅動程式更新 - 它是絕對免費的。"
+
+msgid "seo_notebook-footer-content-asus-x551ma-lan"
+msgstr "您是否無法安裝華碩 x551ma 網路控制器的驅動程式?自己下載適用於 Windows XP,7,8,8.1 或 10 所需的驅動程式，或使用我們免費的 DriverPack Solution 軟體進行驅動程式更新。"
+
+msgid "seo_notebook-footer-content-lenovo-g580-lan"
+msgstr "在這裡，您可以下載適用於 Windows XP,7,8,8.1 或 10 的聯想 g580 筆記型電腦的網路驅動程式。您找不到需要的驅動程式?下載並安裝 DriverPack Solution 軟體 - 它是免費的，將自動選擇您需要的一切，以便讓您的筆記型電腦正常運作。"
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g-7-x86"
+msgstr "在本部分中，您可以下載適用於 Windows 7 的 Acer Aspire v3 571g 筆記型電腦驅動程式。所有我們的驅動程式已經過專家驗證，可以完全工作。"
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g-8-x86"
+msgstr "在這裡您可以下載適用於 Windows 8 的 Acer Aspire v3 571g 筆記型電腦驅動程式，或者安裝 DriverPack Solution 軟體以進行自動驅動程式更新。"
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g-8.1-x86"
+msgstr "在這部分適用於 Windows 8 的 Acer Aspire v3 571g 筆記型電腦驅動程式可供下載。在這裡您還可以下載 DriverPack Solution 軟體 - 它將檢查您的硬體組態並安裝所需的驅動程式。"
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g-10-x86"
+msgstr "在這裡您可以下載適用於 Windows 10 的 Acer Aspire v3 571g 筆記型電腦驅動程式。我們的驅動程式完全可操作，並已被防毒軟體檢查過。"
+
+msgid "seo_notebook-footer-content-asus-x550cc-7-x86"
+msgstr "在本部分中，您可以下載適用於 Windows 7x86 的華碩 X550CC 筆記型電腦驅動程式。我們所有的驅動程式已被防毒軟體檢查過是安全的!"
+
+msgid "seo_notebook-footer-content-asus-x550cc-7-x64"
+msgstr "在本部分中您可以下載適用於 Windows 7x64 的華碩 X550CC 筆記型電腦驅動程式，絕對免費。如果由於某些原因您對本部分的驅動程式感到不滿意，請使用我們的 DriverPack Solution 軟體 - 它會將筆記型電腦上的驅動程式更新為最新的版本。"
+
+msgid "seo_notebook-footer-content-asus-x550cl-7-x64"
+msgstr "在這裡您可以下載適用於 Windows 7x64 的華碩 X550CL 筆記型電腦驅動程式，絕對免費。我們的所有驅動程式都經專家的驗證過可操作性。"
+
+msgid "seo_notebook-footer-content-asus-x540sa-7-x64"
+msgstr "您需要適用於 Windows 7x64 的 Asus X540SA 筆記型電腦驅動程式嗎?您將在本部分中找到您需要的一切。我們的專家已經驗證過所有驅動程式的安全性和可操作性。"
+
+msgid "seo_notebook-footer-content-asus-x540sa-8.1-x64"
+msgstr "您需要適用於 Windows 8.1x64 的 Asus X540SA 筆記型電腦驅動程式嗎?您將在本部分中找到您需要的一切。我們的專家已經驗證過所有驅動程式的安全性和可操作性。"
+
+msgid "seo_notebook-footer-content-asus-x540sa-10-x64"
+msgstr "您需要下載適用於 Windows 10x64 的 Asus X540SA 筆記型電腦驅動程式嗎?如果由於某種原因您在目錄中找不到您需要的驅動程式，請下載我們的 DriverPack Solution 軟體 - 它將找到所有最新版本，並將其自行安裝到您的筆記型電腦上!"
+
+msgid "seo_notebook-footer-content-asus-x540sc-7-x64"
+msgstr "您需要下載適用於 Windows 7x64 的華碩 X540SC 筆記型電腦驅動程式嗎?在這裡您將發現您需要的一切。我們的所有驅動程式包已驗證過安全性和可操作性!"
+
+msgid "seo_notebook-footer-content-asus-x540sc-8.1-x64"
+msgstr "在這裡您可以下載適用於 Windows 8.1x64 的華碩 X540SC 筆記型電腦驅動程式，絕對免費。如果您在我們的目錄中找不到您需要的驅動程式，只需下載 DriverPack 軟體即可進行驅動程式更新 - 它將快速可靠地完成所有操作!"
+
+msgid "seo_notebook-footer-content-asus-x540la-7-x64"
+msgstr "在本部分中，您可以免費下載適用於 Windows 7x64 的 Asus X540LA 筆記型電腦驅動程式，無需其他註冊。我們所有的驅動程式絕對安全，完全可操作。"
+
+msgid "seo_notebook-footer-content-asus-k50c-xp-x86"
+msgstr "在本部分中，您可以下載適用於 Windows XP 的華碩 k50c 筆記型電腦的驅動程式，無需額外註冊。我們還建議您下載用於自動驅動程式安裝的 DriverPack Solution 軟體 - 它將為您做所有事情!"
+
+msgid "seo_notebook-footer-content-asus-x553ma-7-x64"
+msgstr "在這裡您可以下載適用於 Windows 7x64 的 Asus X553MA 筆記型電腦的驅動程式。我們的所有驅動程式包都經過專家測試過安全性和可操作性。"
+
+msgid "seo_notebook-footer-content-asus-x101ch-xp-x86"
+msgstr "在這裡，您可以免費下載華碩 X101CH 筆記型電腦驅動程式，無需額外的註冊。我們所有的驅動程式完全適用於您的筆記型電腦，其可操作和安全的!"
+
+msgid "seo_notebook-footer-content-asus-k50ij-7-x64"
+msgstr "在這裡您可以下載並安裝適用於 Windows 7x64 的 Asus k50ij 筆記型電腦的驅動程式。您對驅動程式不滿意嗎?沒問題 - 使用我們的 DriverPack Solution 軟體進行驅動程式更新 - 它是絕對免費的，將自動完成所有操作!"
+
+msgid "seo_notebook-footer-content-asus-k50ij-xp-x86"
+msgstr "您需要下載適用於 Windows XP 的 Asus k50ij 筆記型電腦的驅動程式?使用我們的目錄 - 您將發現您需要的一切。沒有幫助?那麼下載 DriverPack Solution 軟體來進行驅動程式更新 - 它將分析筆記型電腦上的硬體，並選擇最相容的驅動程式。"
+
+msgid "seo_notebook-footer-content-lenovo-g580-7-x64"
+msgstr "適用於 Windows XP,7,8,8 或 8.1 或 10 的 Lenovo g580 筆記型電腦的驅動程式可在此處下載。您對驅動程式不滿意嗎?那麼使用 DriverPack Solution 軟體進行驅動程式搜尋和安裝 - 它將自動執行所有操作。"
+
+msgid "seo_notebook-footer-content-asus-x550cc-sound-10-x64"
+msgstr "在這裡您可以免費下載適用於 Windows 10x64 的 Asus X550CC 筆記型電腦的驅動程式。您還可以下載 DriverPack Solution 軟體 - 它將評估筆記型電腦上驅動程式的目前狀態，並將其更新為最新的版本。"

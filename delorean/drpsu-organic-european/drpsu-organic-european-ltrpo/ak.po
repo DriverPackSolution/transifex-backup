@@ -1,0 +1,1015 @@
+# Translators:
+# kojofosu edue <kojofosube@gmail.com>, 2017
+# Nadia Tegeneva <nadia@drp.su>, 2017
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-08-10 10:22+0000\n"
+"PO-Revision-Date: 2016-09-23 09:12+0000\n"
+"Last-Translator: Nadia Tegeneva <nadia@drp.su>, 2017\n"
+"Language-Team: Akan (https://www.transifex.com/driverpack-solution/teams/75453/ak/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ak\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+
+#. i18n: EN: Example: VENDOR.NAME=Asus; RU: Пример: VENDOR.NAME=Asus;
+msgid "seo_vendor-footer-anchor"
+msgstr "{{VENDOR.NAME}}"
+
+msgid "seo_devicegroups-footer-anchor"
+msgstr "{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}} "
+
+#. i18n: EN: Example: NAME=Acer E230H; RU: Пример: NAME=Acer E230H;
+msgid "seo_devicegroup-footer-anchor"
+msgstr "{{NAME}}"
+
+#. i18n: EN: Example: NAME=Asus X550EA; RU: Пример: NAME=Asus X550EA;
+msgid "seo_notebookvendor-footer-anchor"
+msgstr "{{NOTEBOOK.VENDOR.NAME}}kͻmputa korokorowa "
+
+msgid "seo_notebook-footer-anchor"
+msgstr "{{NAME}}kͻmputa korokorowa "
+
+msgid "seo_notebookdevices-footer-anchor"
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} {{CLASS.PLURAL.MAIN}}"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
+#. CLASS.PLURAL.FOR=мониторов|модемов;
+msgid "seo_deviceclass-footer-anchor"
+msgstr "{{CLASS.PLURAL.MAIN}}"
+
+msgid "seo_hwidos-footer-anchor"
+msgstr "Driver su εma Windows {{OS.NAME}}"
+
+msgid "seo_main-title"
+msgstr "DriverPack Solution — Driver amonomuho nsieε  ne ne ho foforo nhyehyεε | Twe abra sika nka ho"
+
+msgid "seo_main-description"
+msgstr "DriverPack bε pε sεε wo bε si drivers ama w’afidie a sika nka ho, anaa nso sεε wo bε twe yεn nhehyεε no ama n’asi driver no ama w’afidie no amonomuhͻa"
+
+msgid "seo_main-keywords"
+msgstr ""
+
+msgid "seo_mainos-title"
+msgstr "Twe drivers εma Windows {{OS.VERSION}} | DriverPack Solution"
+
+msgid "seo_mainos-description"
+msgstr ""
+
+msgid "seo_mainos-h1"
+msgstr "Drivers εma Windows {{OS.VERSION}}"
+
+msgid "seo_mainos-keywords"
+msgstr ""
+
+msgid "seo_mainos-h3"
+msgstr "Driver ho anoboa kεseε εma Windows {{OS.VERSION}} εwͻ nhyehyεε baako a sika nka ho mu"
+
+msgid "seo_mainlanding-title"
+msgstr "DriverPack Solution - nhyehyεε ma driver foforo ho ntweε | Twe driver εma Windows 7, XP, 10, 8, ne 8.1."
+
+msgid "seo_mainlanding-description"
+msgstr "DriverPack Solution – nhyehyεε a yε de ma kwa ma asi drivers ne ne ho foforo εma wo kͻmputa ne wo kͻmputa korokorowa amonomuhͻa. Ɛma ho kwan nso ma wo tumi twe drivers εma Windows XP, 7, 8, 8.1, 10 a nni yεn nhoma-mmoano mu."
+
+msgid "seo_mainlanding-keywords"
+msgstr ""
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
+#. CLASS.PLURAL.FOR=мониторов|модемов;
+msgid "seo_deviceclass-title"
+msgstr "Twe {{CLASS.SINGLE.FOR}} ho drivers | Windows"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
+#. CLASS.PLURAL.FOR=мониторов|модемов;
+msgid "seo_deviceclass-description"
+msgstr "Si {{CLASS.SINGLE.FOR}} ho drivers εma Windows 7, XP, 10, 8, ne 8.1, anaa nso twe DriverPack Solution ho nhyehyεε na εnsi drivers mma wo amonomuhͻa"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
+#. CLASS.PLURAL.FOR=мониторов|модемов;
+msgid "seo_deviceclass-h1"
+msgstr "<span class='bold'>{{CLASS.SINGLE.FOR}}</span> drivers"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
+#. CLASS.PLURAL.FOR=мониторов|модемов;
+msgid "seo_deviceclass-keywords"
+msgstr ""
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
+#. CLASS.PLURAL.FOR=мониторов|модемов;
+msgid "seo_deviceclass-footer-description"
+msgstr "Twe {{CLASS.PLURAL.FOR}} ho drivers a sika nka ho"
+
+msgid "seo_deviceclass-footer-application-category"
+msgstr "Nsεso: <span itemprop='applicationCategory'>Nfidie</span>"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=monitors|modem; RU: Пример:
+#. CLASS.PLURAL.MAIN=мониторы|модемы;
+msgid "seo_deviceclass-footer-application-subcategory"
+msgstr "Nsεso-kumaa: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+
+msgid "seo_vendors-title"
+msgstr "Twe wo kͻmputa, kͻmputa korokorowa, ne ne ho ketewa so drivers | Windows"
+
+msgid "seo_vendors-description"
+msgstr "Si drivers εma wo kͻmputa, kͻmputa korokorowa, ne ne so ketewa a sika nka ho, anaa nso twe yεn hyehyεε na εnsi drivers mma wo amonomuhͻa"
+
+msgid "seo_vendors-h1"
+msgstr "Nnadeguade abͻfo"
+
+msgid "seo_vendors-keywords"
+msgstr ""
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_vendor-title"
+msgstr "Twe driver εma {{VENDOR.NAME}} wͻ Windows so a sika nka ho"
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_vendor-description"
+msgstr "Si {{VENDOR.NAME}} ho drivers εma Windows 7, XP, 10, 8, ne 8.1 a sika nka ho, anaa nso tweDriverPack Solution ho nhyεhyεε na εnsi driver mma wo amonomuhͻa"
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_vendor-h1"
+msgstr "<span class='bold'>{{VENDOR.NAME}}</span>afidie ho drivers"
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_vendor-keywords"
+msgstr ""
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_vendor-footer-description"
+msgstr "Twe drivers εma {{VENDOR.NAME}} ho afidie a sika nka ho"
+
+msgid "seo_vendor-footer-application-category"
+msgstr "Nsεso: <span itemprop='applicationCategory'>Nfidie</span>"
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_vendor-footer-application-subcategory"
+msgstr "Nsεso-kumaa: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} ho nfidie</span>"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|monitors; VENDOR.NAME=Acer;
+#. RU: Пример: CLASS.PLURAL.FOR=видеокарт|мониторов; VENDOR.NAME=Acer;
+msgid "seo_devicegroups-title"
+msgstr "Twe {{CLASS.SINGLE.FOR}} ho drivers εma {{VENDOR.NAME}} wͻ Windows a sika nka ho"
+
+#. i18n: EN: Example: CLASS.SINGLE.FOR=videocard|monitor; VENDOR.NAME=Acer;
+#. RU: Пример: CLASS.SINGLE.FOR=видеокарты|монитора; VENDOR.NAME=Acer;
+msgid "seo_devicegroups-description"
+msgstr ""
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|monitors; VENDOR.NAME=Acer;
+#. RU: Пример: CLASS.PLURAL.FOR=видеокарт|мониторов; VENDOR.NAME=Acer;
+msgid "seo_devicegroups-h1"
+msgstr "<span class='bold'>{{VENDOR.NAME}}</span> {{CLASS.SINGLE.FOR}} drivers"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|monitors; VENDOR.NAME=Acer;
+#. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|мониторы; VENDOR.NAME=Acer;
+msgid "seo_devicegroups-keywords"
+msgstr ""
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|monitors; VENDOR.NAME=Acer;
+#. RU: Пример: CLASS.PLURAL.FOR=видеокарт|мониторов; VENDOR.NAME=Acer;
+msgid "seo_devicegroups-footer-description"
+msgstr "Twe {{VENDOR.NAME}} ho {{CLASS.PLURAL.FOR}} drivers"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|monitors; RU: Пример:
+#. CLASS.PLURAL.MAIN=видеокарты|мониторы;
+msgid "seo_devicegroups-footer-application-category"
+msgstr "Nsεso: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|monitors; VENDOR.NAME=Acer;
+#. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|мониторы; VENDOR.NAME=Acer;
+msgid "seo_devicegroups-footer-application-subcategory"
+msgstr "Nsεso-kumaa: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}} </span>"
+
+#. i18n: EN: Example: CLASS.SINGLE.FOR=videocard|monitor; VENDOR.NAME=Acer;
+#. RU: Пример: CLASS.SINGLE.FOR=видеокарты|монитора; VENDOR.NAME=Acer;
+msgid "seo_devicegroups-footer-content"
+msgstr "Twe {{CLASS.SINGLE.FOR}} ho drivers εma {{VENDOR.NAME}}, anaa si DriverPack Solution ho nhyehyεε na εnsi drivers mma wo amonomuhͻa"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
+#. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
+#. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
+#. GROUP.NAME=GeForce 210;
+msgid "seo_devicegroup-title"
+msgstr "Twe {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.SINGLE.FOR}} ho drivers εma Windows abra yεn gye wo sika"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
+#. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
+#. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
+#. GROUP.NAME=GeForce 210;
+msgid "seo_devicegroup-description"
+msgstr ""
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
+#. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
+#. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
+#. GROUP.NAME=GeForce 210;
+msgid "seo_devicegroup-h1"
+msgstr "<span class='bold'>{{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.SINGLE.FOR}}</span> drivers"
+
+#. i18n: EN: Example: GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU:
+#. Пример: GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210;
+msgid "seo_devicegroup-keywords"
+msgstr ""
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
+#. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
+#. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
+#. GROUP.NAME=GeForce 210;
+msgid "seo_devicegroup-footer-description"
+msgstr "Twe drivers εma {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} ho {{CLASS.PLURAL.FOR}} drivers a sika nka ho"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
+#. GROUP.VENDOR.NAME=Nvidia; RU: Пример: CLASS.PLURAL.FOR=видеокарт|чипсетов;
+#. GROUP.VENDOR.NAME=Nvidia;
+msgid "seo_devicegroup-footer-application-category"
+msgstr "Nsεso: <span itemprop='applicationCategory'>{{GROUP.VENDOR.NAME}}  {{CLASS.PLURAL.MAIN}} </span>"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets;
+#. GROUP.NAME=GeForce 210; RU: Пример: CLASS.PLURAL.MAIN=видеокарты|чипсеты;
+#. GROUP.NAME=GeForce 210;
+msgid "seo_devicegroup-footer-application-subcategory"
+msgstr "Nsεso-kumaa: <span itemprop='applicationSubCategory'>{{GROUP.NAME}}  {{CLASS.PLURAL.MAIN}}</span>"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
+#. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
+#. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
+#. GROUP.NAME=GeForce 210;
+msgid "seo_devicegroup-footer-content"
+msgstr "Twe drivers εma {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.SINGLE.FOR}}, anaa nso twe DriverPack Solution nhyehyεε na εnsi drivers mma wo amonomuhͻa"
+
+msgid "seo_hwids-title"
+msgstr ""
+
+msgid "seo_hwids-description"
+msgstr ""
+
+msgid "seo_hwids-h1"
+msgstr "Drivers nyinara εma afidie"
+
+#. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+#. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+msgid "seo_hwid-title"
+msgstr "{{DEVICE.DEVICEID}} twe ho driver a sika nka ho"
+
+#. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+#. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+msgid "seo_hwid-description"
+msgstr "{{DEVICE.DEVICEID}} afidie ho driver εma Windows 7, XP, 10, 8, ne 8.1"
+
+#. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+#. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+msgid "seo_hwid-h1"
+msgstr "<span class='bold'>{{DEVICE.DEVICEID}}</span>"
+
+#. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+#. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+msgid "seo_hwid-keywords"
+msgstr ""
+
+#. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+#. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+msgid "seo_hwid-footer-description"
+msgstr "Twe drivers εma {{DEVICE.DEVICEID}} afidie a sika nka ho"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets; RU: Пример:
+#. CLASS.PLURAL.MAIN=видеокарты|чипсеты;
+msgid "seo_hwid-footer-application-category"
+msgstr "Nsεso: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets; VENDOR.NAME=Acer;
+#. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|чипсеты; VENDOR.NAME=Acer;
+msgid "seo_hwid-footer-application-subcategory"
+msgstr "Nsεso-kumaa: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}}  {{CLASS.PLURAL.MAIN}} </span>"
+
+#. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+#. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+msgid "seo_hwid-footer-content"
+msgstr "Twe {{DEVICE.DEVICEID}} ho driver, anaa si DriverPack Solution nhyehyεε na εnsi drivers mma wo amonomuhͻa"
+
+msgid "seo_notebooks-title"
+msgstr "Twe drivers εma wo kͻmputa korokorowa nhwεso nyinara wͻ Windows dwumdie nhyehyεε so"
+
+msgid "seo_notebooks-description"
+msgstr ""
+
+msgid "seo_notebooks-h1"
+msgstr "Kͻmputa korokorowa ne ne so ketewa ho drivers"
+
+msgid "seo_notebooks-keywords"
+msgstr ""
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_notebookvendor-title"
+msgstr "Twe {{VENDOR.NAME}} kͻmputa korokorowa ho drivers | Windows"
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_notebookvendor-description"
+msgstr ""
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_notebookvendor-h1"
+msgstr "<span class='bold'>{{VENDOR.NAME}}</span> kͻmputa korokorowa ne ne so ketewa ho drivers"
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_notebookvendor-keywords"
+msgstr ""
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_notebookvendor-footer-description"
+msgstr "Twe drivers εma {{VENDOR.NAME}} kͻmputa korokorowa a sika nka ho"
+
+msgid "seo_notebookvendor-footer-application-category"
+msgstr "Nsεso: <span itemprop='applicationCategory'>kͻmputa korokorowa</span>"
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_notebookvendor-footer-application-subcategory"
+msgstr "Nsεso-kumaa: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}}kͻmputa korokorowa</span>"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
+#. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+msgid "seo_notebook-title"
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} kͻmputa korokorowa ho drivers | Twe εma Windows"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
+#. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+msgid "seo_notebook-description"
+msgstr ""
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
+#. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+msgid "seo_notebook-h1"
+msgstr "<span class='bold'>{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}</span> kͻmputa korokorowa  ho drivers"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
+#. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+msgid "seo_notebook-keywords"
+msgstr ""
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
+#. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+msgid "seo_notebook-footer-description"
+msgstr "Twe drivers εma {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} kͻmputa korokorowa a sika nka ho"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; RU: Пример:
+#. NOTEBOOK.VENDOR.NAME=Acer;
+msgid "seo_notebook-footer-application-category"
+msgstr "Nsεso: <span itemprop='applicationCategory'>{{NOTEBOOK.VENDOR.NAME}} kͻmputa korokorowa</span>"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
+#. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+msgid "seo_notebook-footer-application-subcategory"
+msgstr "Nsεso-kumaa: <span itemprop='applicationSubCategory'>{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} kͻmputa korokorowa</span>"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
+#. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+msgid "seo_notebook-footer-content"
+msgstr "Wo tumi twe drivers wͻha εma {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} kͻmputa korokorowa, anaa twe yεn hyehyεε a efiri DriverPack Solution na εnsi drivers mma wo amonomuhͻa"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+#. CLASS.SINGLE.FOR=videocart|soundcart; RU: Пример:
+#. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+#. CLASS.SINGLE.FOR=видеокарты|звуковой карты;
+msgid "seo_notebookdevices-title"
+msgstr "{{CLASS.SINGLE.FOR}} ho drivers εma {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} kͻmputa korokorowa | Twe εma Windows"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+#. CLASS.SINGLE.FOR=videocart|soundcart; RU: Пример:
+#. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+#. CLASS.SINGLE.FOR=видеокарты|звуковой карты;
+msgid "seo_notebookdevices-description"
+msgstr ""
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+#. CLASS.PLURAL.FOR=videocarts|soundcarts; RU: Пример:
+#. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+#. CLASS.PLURAL.FOR=видеокарт|звуковых карт;
+msgid "seo_notebookdevices-h1"
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} kͻmputa korokorowa {{CLASS.SINGLE.FOR}} ho drivers"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets;
+#. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU: Пример:
+#. CLASS.PLURAL.MAIN=видеокарты|чипсеты; NOTEBOOK.VENDOR.NAME=Acer;
+#. NOTEBOOK.NAME=AO533;
+msgid "seo_notebookdevices-keywords"
+msgstr ""
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+#. CLASS.PLURAL.FOR=videocarts|soundcarts; RU: Пример:
+#. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+#. CLASS.PLURAL.FOR=видеокарт|звуковых карт;
+msgid "seo_notebookdevices-footer-description"
+msgstr "Twe {{CLASS.PLURAL.FOR}} ho drivers εma {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} kͻmputa korokorowa a sika nka ho."
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
+#. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+msgid "seo_notebookdevices-footer-application-category"
+msgstr "Nsεso: <span itemprop='applicationCategory'> {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} kͻmputa korokorowa</span>"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets;
+#. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU: Пример:
+#. CLASS.PLURAL.MAIN=видеокарты|чипсеты; NOTEBOOK.VENDOR.NAME=Acer;
+#. NOTEBOOK.NAME=AO533;
+msgid "seo_notebookdevices-footer-application-subcategory"
+msgstr "Nsεso-kumaa: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}} εma {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}</span> "
+
+#. i18n: EN: Example: CLASS.SINGLE.FOR=videocard|chipset;
+#. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU: Пример:
+#. CLASS.SINGLE.FOR=видеокарты|чипсета; NOTEBOOK.VENDOR.NAME=Acer;
+#. NOTEBOOK.NAME=AO533;
+msgid "seo_notebookdevices-footer-content"
+msgstr "Twe {{CLASS.SINGLE.FOR}} ho drivers εma {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} kͻmputa korokorowa wͻ Windows 7, XP, 10, 8, ne 8.1, anaa twe DriverPack Solution hyehyεε na twe driver foforo"
+
+msgid "seo_search-title"
+msgstr "Nhwehwεε ho awieε wͻ kasatͻmmε yi so: {{QUERY}} | DriverPack Solution"
+
+msgid "seo_devicegroupos-title"
+msgstr "Twe {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} ho drivers εma Windows {{OS}} "
+
+msgid "seo_devicegroupos-description"
+msgstr ""
+
+msgid "seo_devicegroupos-h1"
+msgstr "{{GROUP.VENDOR.NAME}} {{GROUP.NAME}} drivers εma Windows {{OS}}"
+
+msgid "seo_devicegroupos-keywords"
+msgstr ""
+
+msgid "seo_devicegroupos-footer-description"
+msgstr "Twe {{CLASS.SINGLE.FOR}} ho drivers εma {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} wͻ Windows {{OS}} a sika nka ho"
+
+msgid "seo_devicegroupos-footer-application-category"
+msgstr "Nsεso: <span itemprop='applicationCategory'>{{GROUP.VENDOR.NAME}}  {{CLASS.PLURAL.MAIN}} </span>"
+
+msgid "seo_devicegroupos-footer-application-subcategory"
+msgstr "Nsεso:-kumaa: <span itemprop='applicationSubCategory'>{{GROUP.NAME}}  {{CLASS.PLURAL.MAIN}} </span>"
+
+msgid "seo_devicegroupos-footer-content"
+msgstr "Twe drivers εma {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.PLURAL.FOR}} (Windows {{OS}}), anaa si DriverPack Solution nhyehyεε na εnsi drivers mma wo amonomuhͻa"
+
+msgid "seo_notebookos-title"
+msgstr "Twe {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} kͻmputa korokorowa ho drivers εma Windows {{OS}}"
+
+msgid "seo_notebookos-description"
+msgstr ""
+
+msgid "seo_notebookos-h1"
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} kͻmputa korokorowa ho drivers εma Windows {{OS}}"
+
+msgid "seo_notebookos-keywords"
+msgstr ""
+
+msgid "seo_notebookos-footer-description"
+msgstr "Twe drivers εma {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} kͻmputa korokorowa wͻ Windows {{OS}} so a sika nka ho"
+
+msgid "seo_notebookos-footer-application-category"
+msgstr "Nsεso: <span itemprop='applicationCategory'>{{NOTEBOOK.VENDOR.NAME}} kͻmputa korokorowa</span>"
+
+msgid "seo_notebookos-footer-application-subcategory"
+msgstr "Nsεso-kumaa: <span itemprop='applicationSubCategory'>{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} kͻmputa korokorowa</span>"
+
+msgid "seo_notebookos-footer-content"
+msgstr "Wo tumi twe drivers wͻha εma {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} kͻmputa korokorowa (Windows {{OS}}), anaa twe yεn hyehyεε a efiri DriverPack Solution na εnsi drivers mma wo amonomuhͻa"
+
+msgid "seo_deviceclassos-title"
+msgstr "Twe {{CLASS.SINGLE.FOR}} ho drivers εma Windows {{OS}}"
+
+msgid "seo_deviceclassos-description"
+msgstr ""
+
+msgid "seo_deviceclassos-h1"
+msgstr "{{CLASS.SINGLE.FOR}} drivers εma Windows {{OS}}"
+
+msgid "seo_deviceclassos-keywords"
+msgstr ""
+
+msgid "seo_deviceclassos-footer-description"
+msgstr "Twe {{CLASS.SINGLE.FOR}} ho drivers εma Windows {{OS}} a sika nka ho"
+
+msgid "seo_deviceclassos-footer-application-category"
+msgstr "Nsεso: <span itemprop='applicationCategory'>Nfidie</span>"
+
+msgid "seo_deviceclassos-footer-application-subcategory"
+msgstr "Nsεso-kumaa: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+
+msgid "seo_devicegroupsos-title"
+msgstr "Twe {{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} ho drivers εma Windows {{OS}}"
+
+msgid "seo_devicegroupsos-description"
+msgstr ""
+
+msgid "seo_devicegroupsos-h1"
+msgstr "{{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} drivers εma Windows {{OS}}"
+
+msgid "seo_devicegroupsos-keywords"
+msgstr ""
+
+msgid "seo_devicegroupsos-footer-description"
+msgstr "Twe {{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} ho drivers εma Windows {{OS}}"
+
+msgid "seo_devicegroupsos-footer-application-category"
+msgstr "Nsεso: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+
+msgid "seo_devicegroupsos-footer-application-subcategory"
+msgstr "Nsεso-kumaa: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
+
+msgid "seo_devicegroupsos-footer-content"
+msgstr "Twe drivers εma {{VENDOR.NAME}} {{CLASS.PLURAL.FOR}} (Windows {{OS}}) abra yεn gye wo sika, anaa si DriverPack Solution hyehyεε na εnsi drivers mma wo."
+
+msgid "seo_notebookvendoros-title"
+msgstr "Twe {{VENDOR.NAME}} kͻmputa korokorowa ho drivers εma Windows {{OS}}"
+
+msgid "seo_notebookvendoros-description"
+msgstr ""
+
+msgid "seo_notebookvendoros-h1"
+msgstr "{{VENDOR.NAME}} kͻmputa korokorowa ho drivers εma Windows {{OS}}"
+
+msgid "seo_notebookvendoros-keywords"
+msgstr ""
+
+msgid "seo_notebookvendoros-footer-description"
+msgstr "Twe drivers εma {{VENDOR.NAME}} kͻmputa korokorowa εma Windows {{OS}} a sika nka ho"
+
+msgid "seo_notebookvendoros-footer-application-category"
+msgstr "Nsεso: <span itemprop='applicationCategory'>kͻmputa korokorowa</span>"
+
+msgid "seo_notebookvendoros-footer-application-subcategory"
+msgstr "Nsεso-kumaa: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} kͻmputa korokorowa</span>"
+
+msgid "seo_notebookvendoros-footer-content"
+msgstr "Twe {{VENDOR.NAME}} kͻmputa korokorowa ho drivers εma Windows {{OS}} a sika nka ho, anaa si DriverPack Solution nhyehyεε na εnsi drivers mma wo amonomuhͻa"
+
+msgid "seo_hwidos-title"
+msgstr "Twe {{DEVICE.DEVICEID}} ho driver εma Windows {{OS}}"
+
+msgid "seo_hwidos-description"
+msgstr "Twe {{DEVICE.DEVICEID}} ho driver εwͻ Windows {{OS}} su mu a sika nka ho"
+
+msgid "seo_hwidos-h1"
+msgstr "{{DEVICE.DEVICEID}} afidie ho drivers εma Windows {{OS}}"
+
+msgid "seo_hwidos-keywords"
+msgstr ""
+
+msgid "seo_hwidos-footer-description"
+msgstr "Twe {{DEVICE.DEVICEID}} afidie ho driver εma Windows {{OS}} a sika nka ho"
+
+msgid "seo_hwidos-footer-application-category"
+msgstr "Nsεso: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+
+msgid "seo_hwidos-footer-application-subcategory"
+msgstr "Nsεso-kumaa: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}} </span>"
+
+msgid "seo_hwidos-footer-content"
+msgstr "Twe driver εma {{DEVICE.DEVICEID}} afidie wͻ Windows {{OS}}, anaa si DriverPack Solution nhyehyεε na εnsi drivers mma wo amonomuhͻa"
+
+msgid "seo_notebookdevicesos-title"
+msgstr "{{CLASS.SINGLE.FOR}} ho drivers εma {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} kͻmputa korokorowa | Twe εma Windows {{OS}}"
+
+msgid "seo_notebookdevicesos-description"
+msgstr ""
+
+msgid "seo_notebookdevicesos-h1"
+msgstr "{{CLASS.PLURAL.FOR}} drivers εma {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} kͻmputa korokorowa | Windows {{OS}}"
+
+msgid "seo_notebookdevicesos-keywords"
+msgstr ""
+
+msgid "seo_notebookdevicesos-footer-description"
+msgstr "Twe {{CLASS.SINGLE.FOR}} ho drivers εma {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} kͻmputa korokorwa wͻ Windows {{OS}} a sika nka ho"
+
+msgid "seo_notebookdevicesos-footer-application-category"
+msgstr "Nsεso: <span itemprop='applicationCategory'> {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} kͻmputa korokorowa</span>"
+
+msgid "seo_notebookdevicesos-footer-application-subcategory"
+msgstr "Nsεso-kumaa: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}} εma {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}</span>"
+
+msgid "seo_notebookdevicesos-footer-content"
+msgstr "Twe {{CLASS.SINGLE.FOR}} ho drivers εma {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} kͻmputa korokorowa (Windows {{OS}}), anaa twe DriverPack Solution na twe driver foforo"
+
+msgid "seo_promopage_title"
+msgstr "DriverPack – driver nsieε a sika nka ho"
+
+msgid "seo_promo-description"
+msgstr ""
+
+msgid "seo_promo-keywords"
+msgstr ""
+
+msgid "seo_promodevice_title"
+msgstr "Twe driver εma usb, bluetooth, printers, Wi-Fi, ne video cards a sika nka ho"
+
+msgid "seo_promodevice-description"
+msgstr ""
+
+msgid "seo_promodevice-keywords"
+msgstr ""
+
+msgid "seo_promovendors_title"
+msgstr "Twe driver εma Lenovo, Samsung, Acer, Asus, ne Dell  a sika nka ho"
+
+msgid "seo_promovendors-description"
+msgstr ""
+
+msgid "seo_promovendors-keywords"
+msgstr ""
+
+msgid "seo_promodrivers_title"
+msgstr "Twe n’asi drivers εma Windows 7, 10, XP, 8"
+
+msgid "seo_promodrivers-description"
+msgstr ""
+
+msgid "seo_promodrivers-keywords"
+msgstr ""
+
+msgid "seo_forgamers-description"
+msgstr ""
+
+msgid "seo_forgamers-keywords"
+msgstr ""
+
+msgid "seo_wannacrypt_title"
+msgstr "WannaCry virus - Sεneε wo bε bͻ wo kͻmputa ne wo kͻmputa korokorowa ho ban"
+
+msgid "seo_wannacrypt-description"
+msgstr ""
+
+msgid "seo_license_title"
+msgstr "Kwanma-nhoma apam | DriverPack Solution"
+
+msgid "seo_license-description"
+msgstr ""
+
+msgid "seo_license-keywords"
+msgstr ""
+
+msgid "seo_standards_title"
+msgstr ""
+
+msgid "seo_standards-description"
+msgstr ""
+
+msgid "seo_standards-keywords"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-bluetooth"
+msgstr "Wͻ ha wo tumi twe <strong>drivers εma Bluetooth</strong> wͻ Windows dwumadie nhyehyεε su nyinara. Drivers a efiri abͻfo a wͻn agye din (te sεε Hewlett Packard, Qcom, ne Celink) εne abͻfo a wͻn nhyεda nngye din nyinara wͻ ha. Ni nyinara mu nyinara no, wo tumi <b>twe drivers εma Bluetooth</b> a efiri abͻfo a wͻn bε boro 90 wͻ yεn nhoma-mmoano mu.<br />Sε wo εntumi enya driver a wopε a, si yεn DriverPack Solution na εnsi driver mma wo amonomuhͻa – sika biara nka ho"
+
+msgid "seo_deviceclass-footer-content-cardreader"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-chipset"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-inputdev"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-lan"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-massstorage"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-modem"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-monitor"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-tvtuner"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-sound"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-video"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-wifi"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-phone"
+msgstr ""
+
+msgid "seo_notebookvendor-footer-content-asus"
+msgstr ""
+
+msgid "seo_notebookvendor-footer-content-lg"
+msgstr ""
+
+msgid "seo_notebookvendor-footer-content-sony"
+msgstr ""
+
+msgid "seo_notebookvendor-footer-content-lenovo"
+msgstr ""
+
+msgid "seo_notebookvendor-footer-content-samsung"
+msgstr ""
+
+msgid "seo_notebookvendor-footer-content-msi"
+msgstr ""
+
+msgid "seo_notebookvendor-footer-content-toshiba"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-video-amd"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-video-nvidia"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-video-intel"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-chipset-intel"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-chipset-asus"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-chipset-amd"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-sound-msi"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-monitor-acer"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-monitor-asus"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-monitor-benq"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-monitor-compaq"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-monitor-dell"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-monitor-hp"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-monitor-lg"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-monitor-panasonic"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-monitor-samsung"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-monitor-sony"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-monitor-viewsonic"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-monitor-sharp"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-monitor-philips"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-modem-d-link"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-tvtuner-avermedia"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-tvtuner-beholder"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-tvtuner-pinnacle"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-tvtuner-philips"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-tvtuner-kworld"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-tvtuner-compro"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-phone-htc"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-phone-huawei"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-phone-nokia"
+msgstr ""
+
+msgid "seo_devicegroup-footer-content-video-nvidia-nvidia-geforce-9600-gt"
+msgstr ""
+
+msgid "seo_devicegroup-footer-content-monitor-samsung-syncmaster-740n-179n-syncmaster-magic-cx721n-cx714n"
+msgstr ""
+
+msgid "seo_notebook-footer-content-acer-aspire-5560g"
+msgstr ""
+
+msgid "seo_notebook-footer-content-aspire-5750g"
+msgstr ""
+
+msgid "seo_notebook-footer-content-acer-aspire-5100"
+msgstr ""
+
+msgid "seo_notebook-footer-content-acer-aspire-5553g"
+msgstr ""
+
+msgid "seo_notebook-footer-content-acer-aspire-7750g"
+msgstr ""
+
+msgid "seo_notebook-footer-content-acer-aspire-5551g"
+msgstr ""
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-x550cc"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-x550cl"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-x540sa"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-x540sc"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-x540la"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-k50c"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-x553ma"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-x541sa"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-k52jc"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-k52jr"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-x101ch"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-k50ij"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-x551ma"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-k53ta"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-x550ca"
+msgstr ""
+
+msgid "seo_notebook-footer-content-lenovo-g580"
+msgstr ""
+
+msgid "seo_notebook-footer-content-lenovo-b590"
+msgstr ""
+
+msgid "seo_notebook-footer-content-hp-pavilion-g6-chipset"
+msgstr ""
+
+msgid "seo_notebook-footer-content-lenovo-g580-wifi"
+msgstr ""
+
+msgid "seo_notebook-footer-content-lenovo-b590-wifi"
+msgstr ""
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g-wifi"
+msgstr ""
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g-video"
+msgstr ""
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g-sound"
+msgstr ""
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g-inputdev"
+msgstr ""
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g-lan"
+msgstr ""
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g-cardreader"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-x550cc-wifi"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-x550cc-lan"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-k50c-video"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-k50c-wifi"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-x553ma-video"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-x101ch-video"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-k50ij-wifi"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-x551ma-lan"
+msgstr ""
+
+msgid "seo_notebook-footer-content-lenovo-g580-lan"
+msgstr ""
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g-7-x86"
+msgstr ""
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g-8-x86"
+msgstr ""
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g-8.1-x86"
+msgstr ""
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g-10-x86"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-x550cc-7-x86"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-x550cc-7-x64"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-x550cl-7-x64"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-x540sa-7-x64"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-x540sa-8.1-x64"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-x540sa-10-x64"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-x540sc-7-x64"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-x540sc-8.1-x64"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-x540la-7-x64"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-k50c-xp-x86"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-x553ma-7-x64"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-x101ch-xp-x86"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-k50ij-7-x64"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-k50ij-xp-x86"
+msgstr "Wo bε pε sεε wo bε twe drivers ama Asus k50ij kͻmputa korokorowa ma Windows XP? Fa yεn nhoma-mmoano no di dwuma - anboa wo anaa? Ɛneε twe DriverPack Solution hyehyεε ma drivers foforo - εbε hwehwε kͻmputa afidie na ayi drivers a εne no fa."
+
+msgid "seo_notebook-footer-content-lenovo-g580-7-x64"
+msgstr "Lenovo g580 kͻmputa korokorowa ho drivers wͻ Windows XP, 7, 8, 8.1 ne 10 so wͻ ha yia. Wo bo ntͻͻ wo wͻ driver no ho? Ɛneε fa DriverPack Solution nhyehyεε di dwuma na fa hwehwε n’asi driver – εno ankasa na εbε yε adwuma no."
+
+msgid "seo_notebook-footer-content-asus-x550cc-sound-10-x64"
+msgstr "Wo tumi twe drivers εma Asus X550CC kͻmputa korokorowa wͻ Windows 10x64 a sika nka ho. Wo tumi twe DriverPack Solution nhyehyεε – εbε hwε wo driver ho noͻma wͻ wo kͻmputa korokorowa so na asi wͻn su foforo a aba no ama wo."
+
+msgid "seo_mainos-content-xp"
+msgstr ""
+
+msgid "seo_mainos-content-7"
+msgstr ""
+
+msgid "seo_mainos-content-8"
+msgstr "Windows 8 yε dwumadie nhyehyεε  a efiri Microsoft Windows abusua no mu na epie Windows 7 akyi, na Microsofr Corporation na εbͻͻε. Esu no mu pa ara ne 6.2 su. October bosome a εtͻ so 26, 2011 na wͻn hyεε ase tͻn Windows 8. 2017 ahohurubere mu no, nnipa beyε 5% wͻ wiase yi mu na εde dwumadie nhyehyεε yi dii dwuma. Windows 2012 yε server mu su. Metro interface foforo na wͻn de yεε dwumadie nhyehyεε yi su. January bosome a εtͻ so 12, 2016 na wͻn gyae tͻn nanso wo tumi twe yεn driver foforo a aba εma Windows 8 wͻ fa ha."
+
+msgid "seo_mainos-content-8.1"
+msgstr "Windows 8.1 Dwumadie Nhyehyεε (NT abusua) no bε pie Windows 8 akyi na wͻn nhyεaseε no wͻn yε maa workstations, kͻmputa ne ahomatorofoͻ. Windows server 2012 R2 yε server su ma Windows 8.1. Dwumadie nhyehyεε yi ne Windows 8.1 nyε pε nsesaε εwͻ ho ne ausafoͻ bͻ amaneε. Wͻn sane susu ma Windows 8.1 sεε εbεdi dwuma wͻ afidie a yε de yεn nsa fa anim. 2017 ahohurubere no, kͻmputa 6.48% na εde dwumadie nhyehyεε yi di dwuma. Wo tumi twe drivers foforo ma Windows 8.1 wͻ yεn nhoma-mmoano."
+
+msgid "seo_mainos-content-10"
+msgstr "Na yε susu sεε Windows 10 dwumadie nhyhyεε no bε yε ewiase mu dwumadie nhyehyεε ma kͻmputa, ahomatorofoͻ, ne ne so kεse ne mpo Xbox One agorͻ afidie. Ɛpie Windows 8.1 akyi, na εyε NT abusua no deε. Sesei deε, nnfidie 27% a εwͻ wiase mu na εde Windows 10 dwumadie nhyehyεε no di dwuma, ma obiara tumi twe kwanma-nhoma  foforo a aba εma Windows 7, Windows 8.1, ne Windows ahomatorofoͻ 8.1 kͻ si Windows 10 a sika nka ho εwͻ bosome 6 a wͻn hyεε dumadie no asi. Wo tumi twe drivers εma nnfidie biara a wͻ de Windows 10 de dwuma wͻ DriverPack Solution nhoma-mmoano mu. Nsusuaε a εda Windows 10 ne dwumadie nhyehyεε a adi n’akyi ne sεε εma wo kwan ma wo si desk pii, na εsan nso wͻ Cortana εne mmoaε."

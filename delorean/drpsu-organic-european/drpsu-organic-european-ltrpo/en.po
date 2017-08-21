@@ -1,0 +1,1016 @@
+# Translators:
+# Drafu <egor@4ek.ru>, 2016
+# Nadia Tegeneva <nadia@drp.su>, 2016
+# Артур Кузяков <artx@drp.su>, 2016
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-08-10 10:22+0000\n"
+"PO-Revision-Date: 2016-09-23 09:12+0000\n"
+"Last-Translator: Артур Кузяков <artx@drp.su>, 2016\n"
+"Language-Team: English (https://www.transifex.com/driverpack-solution/teams/75452/en/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. i18n: EN: Example: VENDOR.NAME=Asus; RU: Пример: VENDOR.NAME=Asus;
+msgid "seo_vendor-footer-anchor"
+msgstr "{{VENDOR.NAME}}"
+
+msgid "seo_devicegroups-footer-anchor"
+msgstr "{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}} "
+
+#. i18n: EN: Example: NAME=Acer E230H; RU: Пример: NAME=Acer E230H;
+msgid "seo_devicegroup-footer-anchor"
+msgstr "{{NAME}}"
+
+#. i18n: EN: Example: NAME=Asus X550EA; RU: Пример: NAME=Asus X550EA;
+msgid "seo_notebookvendor-footer-anchor"
+msgstr "{{NOTEBOOK.VENDOR.NAME}} laptops"
+
+msgid "seo_notebook-footer-anchor"
+msgstr "{{NAME}} laptops"
+
+msgid "seo_notebookdevices-footer-anchor"
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} {{CLASS.PLURAL.MAIN}}"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
+#. CLASS.PLURAL.FOR=мониторов|модемов;
+msgid "seo_deviceclass-footer-anchor"
+msgstr "{{CLASS.PLURAL.MAIN}}"
+
+msgid "seo_hwidos-footer-anchor"
+msgstr "Driver version for Windows {{OS.NAME}}"
+
+msgid "seo_main-title"
+msgstr "DriverPack Solution — automatic driver installation and update | Download for free"
+
+msgid "seo_main-description"
+msgstr "DriverPack Solution suggests you installing the drivers for your device for free, or downloading the software for automatic driver installation and update."
+
+msgid "seo_main-keywords"
+msgstr "download driver pack windows 7 8 10 64 drivers laptop for free driver installer driver installation software"
+
+msgid "seo_mainos-title"
+msgstr "Download drivers for Windows {{OS.VERSION}} | DriverPack Solution"
+
+msgid "seo_mainos-description"
+msgstr "Update drivers for Windows {{OS.VERSION}} x64 and x86 for free"
+
+msgid "seo_mainos-h1"
+msgstr "Windows {{OS.VERSION}} drivers"
+
+msgid "seo_mainos-keywords"
+msgstr "Windows {{OS.VERSION}} download install 64 86 drivers DriverPack Solution free"
+
+msgid "seo_mainos-h3"
+msgstr "The biggest driver collection for Windows {{OS.VERSION}} in one simple free app"
+
+msgid "seo_mainlanding-title"
+msgstr "DriverPack Solution - driver update software | Download Windows 7, XP, 10, 8, and 8.1 drivers."
+
+msgid "seo_mainlanding-description"
+msgstr "DriverPack Solution – free software for automatic driver installation and update on your laptop and PC. The opportunity to download drivers for Windows XP, 7, 8, 8.1, 10 off our catalog pages is also available."
+
+msgid "seo_mainlanding-keywords"
+msgstr "download drivers auto-installation update Windows 7, XP, 10, 8, and 8.1 driver update software"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
+#. CLASS.PLURAL.FOR=мониторов|модемов;
+msgid "seo_deviceclass-title"
+msgstr "Download {{CLASS.SINGLE.FOR}} drivers | Windows"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
+#. CLASS.PLURAL.FOR=мониторов|модемов;
+msgid "seo_deviceclass-description"
+msgstr "Install {{CLASS.SINGLE.FOR}} drivers for Windows 7, XP, 10, 8, and 8.1, or download DriverPack Solution software for automatic driver installation and update"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
+#. CLASS.PLURAL.FOR=мониторов|модемов;
+msgid "seo_deviceclass-h1"
+msgstr "<span class='bold'>{{CLASS.SINGLE.FOR}}</span> drivers"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
+#. CLASS.PLURAL.FOR=мониторов|модемов;
+msgid "seo_deviceclass-keywords"
+msgstr "{{CLASS.SINGLE.FOR}} drivers windows 7 64 8 10 download download"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
+#. CLASS.PLURAL.FOR=мониторов|модемов;
+msgid "seo_deviceclass-footer-description"
+msgstr "Download drivers for {{CLASS.PLURAL.FOR}} for free"
+
+msgid "seo_deviceclass-footer-application-category"
+msgstr "Category: <span itemprop='applicationCategory'>Devices</span>"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=monitors|modem; RU: Пример:
+#. CLASS.PLURAL.MAIN=мониторы|модемы;
+msgid "seo_deviceclass-footer-application-subcategory"
+msgstr "Subcategory: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+
+msgid "seo_vendors-title"
+msgstr "Download PC, laptop, and netbook drivers | Windows"
+
+msgid "seo_vendors-description"
+msgstr "Install PC, laptop, and netbook drivers for free, or download the software for automatic driver update and installation"
+
+msgid "seo_vendors-h1"
+msgstr "Hardware manufacturers"
+
+msgid "seo_vendors-keywords"
+msgstr "drivers drivers windows 7 8 10 64 download download"
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_vendor-title"
+msgstr "Download {{VENDOR.NAME}} drivers for Windows for free"
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_vendor-description"
+msgstr "Install {{VENDOR.NAME}} drivers for Windows 7, XP, 10, 8, and 8.1 for free, or download DriverPack Solution software for automatic driver installation"
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_vendor-h1"
+msgstr "<span class='bold'>{{VENDOR.NAME}}</span> devices drivers"
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_vendor-keywords"
+msgstr "drivers windows 7 8 10 64 download download {{VENDOR.NAME}}"
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_vendor-footer-description"
+msgstr "Download drivers for {{VENDOR.NAME}} devices for free"
+
+msgid "seo_vendor-footer-application-category"
+msgstr "Category: <span itemprop='applicationCategory'>Devices</span>"
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_vendor-footer-application-subcategory"
+msgstr "Subcategory: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} devices</span>"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|monitors; VENDOR.NAME=Acer;
+#. RU: Пример: CLASS.PLURAL.FOR=видеокарт|мониторов; VENDOR.NAME=Acer;
+msgid "seo_devicegroups-title"
+msgstr "Download {{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} drivers for Windows for free"
+
+#. i18n: EN: Example: CLASS.SINGLE.FOR=videocard|monitor; VENDOR.NAME=Acer;
+#. RU: Пример: CLASS.SINGLE.FOR=видеокарты|монитора; VENDOR.NAME=Acer;
+msgid "seo_devicegroups-description"
+msgstr "Here you can install {{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} drivers for Windows 7, XP, 10, 8, and 8.1, or download DriverPack Solution software for automatic driver installation"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|monitors; VENDOR.NAME=Acer;
+#. RU: Пример: CLASS.PLURAL.FOR=видеокарт|мониторов; VENDOR.NAME=Acer;
+msgid "seo_devicegroups-h1"
+msgstr "<span class='bold'>{{VENDOR.NAME}}</span> {{CLASS.SINGLE.FOR}} drivers"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|monitors; VENDOR.NAME=Acer;
+#. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|мониторы; VENDOR.NAME=Acer;
+msgid "seo_devicegroups-keywords"
+msgstr " drivers windows 7 8 10 64 download download PC {{CLASS.PLURAL.MAIN}} {{VENDOR.NAME}}"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|monitors; VENDOR.NAME=Acer;
+#. RU: Пример: CLASS.PLURAL.FOR=видеокарт|мониторов; VENDOR.NAME=Acer;
+msgid "seo_devicegroups-footer-description"
+msgstr "Download drivers for {{VENDOR.NAME}} {{CLASS.PLURAL.FOR}}"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|monitors; RU: Пример:
+#. CLASS.PLURAL.MAIN=видеокарты|мониторы;
+msgid "seo_devicegroups-footer-application-category"
+msgstr "Category: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|monitors; VENDOR.NAME=Acer;
+#. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|мониторы; VENDOR.NAME=Acer;
+msgid "seo_devicegroups-footer-application-subcategory"
+msgstr "Subcategory: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}} </span>"
+
+#. i18n: EN: Example: CLASS.SINGLE.FOR=videocard|monitor; VENDOR.NAME=Acer;
+#. RU: Пример: CLASS.SINGLE.FOR=видеокарты|монитора; VENDOR.NAME=Acer;
+msgid "seo_devicegroups-footer-content"
+msgstr "Download drivers for {{VENDOR.NAME}} {{CLASS.SINGLE.FOR}}, or install DriverPack Solution software for automatic driver download and update"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
+#. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
+#. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
+#. GROUP.NAME=GeForce 210;
+msgid "seo_devicegroup-title"
+msgstr "Download {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.SINGLE.FOR}} drivers for Windows for free"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
+#. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
+#. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
+#. GROUP.NAME=GeForce 210;
+msgid "seo_devicegroup-description"
+msgstr "Load and install {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.SINGLE.FOR}} drivers for Windows 7, XP, 10, 8, and 8.1, or download DriverPack Solution software for automatic driver installation"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
+#. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
+#. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
+#. GROUP.NAME=GeForce 210;
+msgid "seo_devicegroup-h1"
+msgstr "<span class='bold'>{{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.SINGLE.FOR}}</span> drivers"
+
+#. i18n: EN: Example: GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU:
+#. Пример: GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210;
+msgid "seo_devicegroup-keywords"
+msgstr "drivers windows 7 8 10 64 download download PC {{GROUP.VENDOR.NAME}} {{GROUP.NAME}}"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
+#. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
+#. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
+#. GROUP.NAME=GeForce 210;
+msgid "seo_devicegroup-footer-description"
+msgstr "Download drivers for {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.PLURAL.FOR}} for free"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
+#. GROUP.VENDOR.NAME=Nvidia; RU: Пример: CLASS.PLURAL.FOR=видеокарт|чипсетов;
+#. GROUP.VENDOR.NAME=Nvidia;
+msgid "seo_devicegroup-footer-application-category"
+msgstr "Category: <span itemprop='applicationCategory'>{{GROUP.VENDOR.NAME}}  {{CLASS.PLURAL.MAIN}} </span>"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets;
+#. GROUP.NAME=GeForce 210; RU: Пример: CLASS.PLURAL.MAIN=видеокарты|чипсеты;
+#. GROUP.NAME=GeForce 210;
+msgid "seo_devicegroup-footer-application-subcategory"
+msgstr "Subcategory: <span itemprop='applicationSubCategory'>{{GROUP.NAME}}  {{CLASS.PLURAL.MAIN}} </span>"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
+#. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
+#. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
+#. GROUP.NAME=GeForce 210;
+msgid "seo_devicegroup-footer-content"
+msgstr "Download drivers for {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.SINGLE.FOR}}, or download DriverPack Solution software for automatic driver download and update"
+
+msgid "seo_hwids-title"
+msgstr "Download device drivers by its Device_id | DriverPack Solution | Page {{PAGE}}"
+
+msgid "seo_hwids-description"
+msgstr "Download device drivers by its device_id"
+
+msgid "seo_hwids-h1"
+msgstr "All drivers for devices"
+
+#. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+#. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+msgid "seo_hwid-title"
+msgstr "{{DEVICE.DEVICEID}} driver download for free"
+
+#. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+#. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+msgid "seo_hwid-description"
+msgstr "{{DEVICE.DEVICEID}} device driver for Windows 7, XP, 10, 8, and 8.1"
+
+#. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+#. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+msgid "seo_hwid-h1"
+msgstr "<span class='bold'>{{DEVICE.DEVICEID}}</span>"
+
+#. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+#. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+msgid "seo_hwid-keywords"
+msgstr "drivers windows 7 8 10 64 download download PC {{DEVICE.DEVICEID}}"
+
+#. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+#. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+msgid "seo_hwid-footer-description"
+msgstr "Download drivers for {{DEVICE.DEVICEID}} device for free"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets; RU: Пример:
+#. CLASS.PLURAL.MAIN=видеокарты|чипсеты;
+msgid "seo_hwid-footer-application-category"
+msgstr "Category: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets; VENDOR.NAME=Acer;
+#. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|чипсеты; VENDOR.NAME=Acer;
+msgid "seo_hwid-footer-application-subcategory"
+msgstr "Subcategory: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}}  {{CLASS.PLURAL.MAIN}} </span>"
+
+#. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+#. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+msgid "seo_hwid-footer-content"
+msgstr "Download {{DEVICE.DEVICEID}} driver, or install DriverPack Solution software for automatic driver download and update"
+
+msgid "seo_notebooks-title"
+msgstr "Download all laptop models' drivers for Windows OS"
+
+msgid "seo_notebooks-description"
+msgstr "Load and install drivers for all laptop and netbook modes for Windows 7, XP, 10, 8, and 8.1, or download DriverPack Solution software for automatic driver update and installation"
+
+msgid "seo_notebooks-h1"
+msgstr "Laptop and netbook drivers"
+
+msgid "seo_notebooks-keywords"
+msgstr "drivers drivers laptop notebook laptop netbook netbook windows 7 8 10 64 download download"
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_notebookvendor-title"
+msgstr "Download {{VENDOR.NAME}} laptop drivers | Windows"
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_notebookvendor-description"
+msgstr "Load and install {{VENDOR.NAME}} laptop and netbook drivers for Windows 7, XP, 10, 8, and 8.1, or download DriverPack Solution for automatic driver installation and update"
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_notebookvendor-h1"
+msgstr "<span class='bold'>{{VENDOR.NAME}}</span> laptop and netbook drivers"
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_notebookvendor-keywords"
+msgstr "drivers drivers laptop notebook laptop netbook netbook windows 7 8 10 64 download download {{VENDOR.NAME}}"
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_notebookvendor-footer-description"
+msgstr "Download drivers for {{VENDOR.NAME}} laptops for free"
+
+msgid "seo_notebookvendor-footer-application-category"
+msgstr "Category: <span itemprop='applicationCategory'>Laptops</span>"
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_notebookvendor-footer-application-subcategory"
+msgstr "Subcategory: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} laptops</span>"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
+#. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+msgid "seo_notebook-title"
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptop drivers | Download for Windows"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
+#. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+msgid "seo_notebook-description"
+msgstr "Load and install {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptop and netbook drivers for Windows 7, XP, 10, 8, and 8.1, or download DriverPack Solution software for automatic driver installation and update"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
+#. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+msgid "seo_notebook-h1"
+msgstr "<span class='bold'>{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}</span> laptop drivers"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
+#. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+msgid "seo_notebook-keywords"
+msgstr "drivers drivers laptop notebook laptop netbook netbook windows 7 8 10 64 download download {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
+#. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+msgid "seo_notebook-footer-description"
+msgstr "Download drivers for {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptops for free"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; RU: Пример:
+#. NOTEBOOK.VENDOR.NAME=Acer;
+msgid "seo_notebook-footer-application-category"
+msgstr "Category: <span itemprop='applicationCategory'>{{NOTEBOOK.VENDOR.NAME}} laptops</span>"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
+#. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+msgid "seo_notebook-footer-application-subcategory"
+msgstr "Subcategory: <span itemprop='applicationSubCategory'>{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptops</span>"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
+#. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+msgid "seo_notebook-footer-content"
+msgstr "Here you can download drivers for {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptop, or download software for automatic driver installation and update from DriverPack Solution"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+#. CLASS.SINGLE.FOR=videocart|soundcart; RU: Пример:
+#. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+#. CLASS.SINGLE.FOR=видеокарты|звуковой карты;
+msgid "seo_notebookdevices-title"
+msgstr "{{CLASS.SINGLE.FOR}} drivers for {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptop | Download for Windows"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+#. CLASS.SINGLE.FOR=videocart|soundcart; RU: Пример:
+#. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+#. CLASS.SINGLE.FOR=видеокарты|звуковой карты;
+msgid "seo_notebookdevices-description"
+msgstr "Download and install {{CLASS.SINGLE.FOR}} drivers for {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptop for Windows 7, XP, 10, 8, and 8.1, or download DriverPack Solution software for automatic driver installation and update"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+#. CLASS.PLURAL.FOR=videocarts|soundcarts; RU: Пример:
+#. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+#. CLASS.PLURAL.FOR=видеокарт|звуковых карт;
+msgid "seo_notebookdevices-h1"
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptop {{CLASS.SINGLE.FOR}} drivers"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets;
+#. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU: Пример:
+#. CLASS.PLURAL.MAIN=видеокарты|чипсеты; NOTEBOOK.VENDOR.NAME=Acer;
+#. NOTEBOOK.NAME=AO533;
+msgid "seo_notebookdevices-keywords"
+msgstr "drivers drivers laptop notebook laptop netbook {{CLASS.PLURAL.MAIN}} netbook windows 7 8 10 64 download download {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+#. CLASS.PLURAL.FOR=videocarts|soundcarts; RU: Пример:
+#. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+#. CLASS.PLURAL.FOR=видеокарт|звуковых карт;
+msgid "seo_notebookdevices-footer-description"
+msgstr "Download drivers for {{CLASS.PLURAL.FOR}} for {{NOTEBOOK.VENDOR.NAME}}  {{NOTEBOOK.NAME}} laptops for free."
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
+#. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+msgid "seo_notebookdevices-footer-application-category"
+msgstr "Category: <span itemprop='applicationCategory'> {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptops</span>"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets;
+#. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU: Пример:
+#. CLASS.PLURAL.MAIN=видеокарты|чипсеты; NOTEBOOK.VENDOR.NAME=Acer;
+#. NOTEBOOK.NAME=AO533;
+msgid "seo_notebookdevices-footer-application-subcategory"
+msgstr "Subcategory: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}} for {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}</span>"
+
+#. i18n: EN: Example: CLASS.SINGLE.FOR=videocard|chipset;
+#. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU: Пример:
+#. CLASS.SINGLE.FOR=видеокарты|чипсета; NOTEBOOK.VENDOR.NAME=Acer;
+#. NOTEBOOK.NAME=AO533;
+msgid "seo_notebookdevices-footer-content"
+msgstr "Download drivers for {{CLASS.SINGLE.FOR}} for {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptop for Windows 7, XP, 10, 8, and 8.1, or download DriverPack Solution software for driver update"
+
+msgid "seo_search-title"
+msgstr "Search results on phrase: {{QUERY}} | DriverPack Solution "
+
+msgid "seo_devicegroupos-title"
+msgstr "Download {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} drivers for Windows {{OS}}"
+
+msgid "seo_devicegroupos-description"
+msgstr "Install {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} driver for Windows {{OS}}, or download DriverPack Solution software for automatic driver installation and update."
+
+msgid "seo_devicegroupos-h1"
+msgstr " {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} drivers for Windows {{OS}}"
+
+msgid "seo_devicegroupos-keywords"
+msgstr "drivers Windows {{OS}} download download PC {{GROUP.NAME}} {{GROUP.VENDOR.NAME}}"
+
+msgid "seo_devicegroupos-footer-description"
+msgstr "Download {{CLASS.SINGLE.FOR}} drivers for {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} for Windows {{OS}} for free"
+
+msgid "seo_devicegroupos-footer-application-category"
+msgstr "Category: <span itemprop='applicationCategory'>{{GROUP.VENDOR.NAME}}  {{CLASS.PLURAL.MAIN}} </span>"
+
+msgid "seo_devicegroupos-footer-application-subcategory"
+msgstr "Subcategory: <span itemprop='applicationSubCategory'>{{GROUP.NAME}}  {{CLASS.PLURAL.MAIN}} </span>"
+
+msgid "seo_devicegroupos-footer-content"
+msgstr "Download drivers for {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.PLURAL.FOR}} (Windows {{OS}}), or install DriverPack Solution software for automatic driver download and update"
+
+msgid "seo_notebookos-title"
+msgstr "Download {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptop drivers for Windows {{OS}}"
+
+msgid "seo_notebookos-description"
+msgstr "Install {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptop drivers for Windows {{OS}}, or download DriverPack Solution software for automatic drivers intallation and update"
+
+msgid "seo_notebookos-h1"
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptop drivers for Windows {{OS}}"
+
+msgid "seo_notebookos-keywords"
+msgstr "drivers drivers laptop notebook laptop netbook netbook Windows {{OS}} download download {{NOTEBOOK.NAME}} {{NOTEBOOK.VENDOR.NAME}}"
+
+msgid "seo_notebookos-footer-description"
+msgstr "Download drivers for {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptops for Windows {{OS}} for free"
+
+msgid "seo_notebookos-footer-application-category"
+msgstr "Category: <span itemprop='applicationCategory'>{{NOTEBOOK.VENDOR.NAME}} laptops</span>"
+
+msgid "seo_notebookos-footer-application-subcategory"
+msgstr "Subcategory: <span itemprop='applicationSubCategory'>{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptops</span>"
+
+msgid "seo_notebookos-footer-content"
+msgstr "Here you can download drivers for {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptop (Windows {{OS}}), or download the software for automatic driver installation and update from DriverPack Solution"
+
+msgid "seo_deviceclassos-title"
+msgstr "Download {{CLASS.SINGLE.FOR}} drivers for Windows {{OS}}"
+
+msgid "seo_deviceclassos-description"
+msgstr "Install {{CLASS.SINGLE.FOR}} drivers for Windows {{OS}}, or download DriverPack Solution software for automatic driver installation and update "
+
+msgid "seo_deviceclassos-h1"
+msgstr "{{CLASS.SINGLE.FOR}} drivers for Windows {{OS}}"
+
+msgid "seo_deviceclassos-keywords"
+msgstr "{{CLASS.SINGLE.FOR}} drivers Windows {{OS}} download download"
+
+msgid "seo_deviceclassos-footer-description"
+msgstr "Download {{CLASS.SINGLE.FOR}} drivers for Windows {{OS}} for free"
+
+msgid "seo_deviceclassos-footer-application-category"
+msgstr "Category: <span itemprop='applicationCategory'>Devices</span>"
+
+msgid "seo_deviceclassos-footer-application-subcategory"
+msgstr "Subcategory: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+
+msgid "seo_devicegroupsos-title"
+msgstr "Download {{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} drivers for Windows {{OS}}"
+
+msgid "seo_devicegroupsos-description"
+msgstr "Install {{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} drivers for Windows {{OS}}, or download DriverPack Solution software for automatic driver installation and update"
+
+msgid "seo_devicegroupsos-h1"
+msgstr "{{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} drivers for Windows {{OS}}"
+
+msgid "seo_devicegroupsos-keywords"
+msgstr "drivers Windows {{OS}} download download PC {{CLASS.PLURAL.MAIN}} {{VENDOR.NAME}}"
+
+msgid "seo_devicegroupsos-footer-description"
+msgstr "Download {{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} drivers for Windows {{OS}}"
+
+msgid "seo_devicegroupsos-footer-application-category"
+msgstr "Category: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+
+msgid "seo_devicegroupsos-footer-application-subcategory"
+msgstr "Subcategory: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}} </span>"
+
+msgid "seo_devicegroupsos-footer-content"
+msgstr "Download drivers for {{VENDOR.NAME}} {{CLASS.PLURAL.FOR}} (Windows {{OS}}) for free, or install DriverPack Solution software for driver download and update"
+
+msgid "seo_notebookvendoros-title"
+msgstr "Download {{VENDOR.NAME}} laptop drivers for Windows {{OS}}"
+
+msgid "seo_notebookvendoros-description"
+msgstr "Install {{VENDOR.NAME}} laptop drivers for Windows {{OS}}, or download DriverPack Solution software for automatic driver installation and update"
+
+msgid "seo_notebookvendoros-h1"
+msgstr "{{VENDOR.NAME}} laptop drivers for Windows {{OS}}"
+
+msgid "seo_notebookvendoros-keywords"
+msgstr "drivers drivers laptop notebook laptop netbook netbook Windows {{OS}} download download {{VENDOR.NAME}}"
+
+msgid "seo_notebookvendoros-footer-description"
+msgstr "Download drivers for {{VENDOR.NAME}} laptops for Windows {{OS}} for free"
+
+msgid "seo_notebookvendoros-footer-application-category"
+msgstr "Category: <span itemprop='applicationCategory'>Laptops</span>"
+
+msgid "seo_notebookvendoros-footer-application-subcategory"
+msgstr "Subcategory: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} laptops</span>"
+
+msgid "seo_notebookvendoros-footer-content"
+msgstr "Download {{VENDOR.NAME}} laptop drivers for Windows {{OS}} for free, or install DriverPack Solution software for automatic driver download and update"
+
+msgid "seo_hwidos-title"
+msgstr "{{DEVICE.DEVICEID}} download driver for Windows {{OS}}"
+
+msgid "seo_hwidos-description"
+msgstr "Download {{DEVICE.DEVICEID}} driver in Windows {{OS}} version for free"
+
+msgid "seo_hwidos-h1"
+msgstr "{{DEVICE.DEVICEID}} device driver for Windows {{OS}}"
+
+msgid "seo_hwidos-keywords"
+msgstr "drivers Windows {{OS}} download download PC {{DEVICE.DEVICEID}}"
+
+msgid "seo_hwidos-footer-description"
+msgstr "Download {{DEVICE.DEVICEID}} device drivers for Windows {{OS}} for free"
+
+msgid "seo_hwidos-footer-application-category"
+msgstr "Category: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+
+msgid "seo_hwidos-footer-application-subcategory"
+msgstr "Subcategory: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}}  {{CLASS.PLURAL.MAIN}} </span>"
+
+msgid "seo_hwidos-footer-content"
+msgstr "Download driver for {{DEVICE.DEVICEID}} device for Windows {{OS}}, or install DriverPack Solution software for automatic driver download and update"
+
+msgid "seo_notebookdevicesos-title"
+msgstr "{{CLASS.SINGLE.FOR}} drivers for {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptop | Download for Windows {{OS}}"
+
+msgid "seo_notebookdevicesos-description"
+msgstr "Install {{CLASS.SINGLE.FOR}} drivers for {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptop for Windows {{OS}}, or download DriverPack Solution software for automatic driver installation and update"
+
+msgid "seo_notebookdevicesos-h1"
+msgstr "Drivers for {{CLASS.PLURAL.FOR}} for {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptops | Windows {{OS}}"
+
+msgid "seo_notebookdevicesos-keywords"
+msgstr "drivers drivers laptop notebook laptop netbook netbook {{CLASS.PLURAL.MAIN}} Windows {{OS}} download download {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
+
+msgid "seo_notebookdevicesos-footer-description"
+msgstr "Download {{CLASS.SINGLE.FOR}} drivers for {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptops for Windows {{OS}} for free"
+
+msgid "seo_notebookdevicesos-footer-application-category"
+msgstr "Category: <span itemprop='applicationCategory'> {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptops</span>"
+
+msgid "seo_notebookdevicesos-footer-application-subcategory"
+msgstr "Subcategory: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}} for {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}</span>"
+
+msgid "seo_notebookdevicesos-footer-content"
+msgstr "Download drivers for {{CLASS.SINGLE.FOR}} for {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptop (Windows {{OS}}), or download DriverPack Solution software for driver update"
+
+msgid "seo_promopage_title"
+msgstr "DriverPack – free driver installation"
+
+msgid "seo_promo-description"
+msgstr "DriverPack Solution suggests you installing the drivers for your device for free, or downloading the software for automatic driver installation and update"
+
+msgid "seo_promo-keywords"
+msgstr "download driver pack drivers windows 7 8 10 64 laptop for free driver installer driver installation software"
+
+msgid "seo_promodevice_title"
+msgstr "Download drivers for usb, bluetooth, printers, Wi-Fi, and video cards for free"
+
+msgid "seo_promodevice-description"
+msgstr "DriverPack Solution will update your usb, bluetooth, printer, Wi-Fi, and video card drivers to the latest version"
+
+msgid "seo_promodevice-keywords"
+msgstr "driver, bluetooth, printer, sound card, webcam, mouse, video driver"
+
+msgid "seo_promovendors_title"
+msgstr "Download driver for Lenovo, Samsung, Acer, Asus, and Dell for free"
+
+msgid "seo_promovendors-description"
+msgstr "DriverPack will update Lenovo, Samsung, Acer, Asus, and Dell drivers to the latest version"
+
+msgid "seo_promovendors-keywords"
+msgstr "driver, dell, samsung, lenovo, asus, acer, toshiba, asus"
+
+msgid "seo_promodrivers_title"
+msgstr "Download and install drivers for Windows 7, 10, XP, 8"
+
+msgid "seo_promodrivers-description"
+msgstr "DriverPack will update Windows 7, Windows 10, Windows XP, Windows 8 drivers for free"
+
+msgid "seo_promodrivers-keywords"
+msgstr "windows 7 driver, download driver, windows 10 driver, driver update, windows driver, drivers for free"
+
+msgid "seo_forgamers-description"
+msgstr "Install video card drivers for Windows 7, XP, 10, 8, and 8.1, or download DriverPack Solution software for automatic driver installation and update"
+
+msgid "seo_forgamers-keywords"
+msgstr "video card drivers windows 7 64 8 10 download download"
+
+msgid "seo_wannacrypt_title"
+msgstr "WannaСry virus - how to protect your PC and laptop?"
+
+msgid "seo_wannacrypt-description"
+msgstr "Download free protection against WannaCry virus for your PC and laptop"
+
+msgid "seo_license_title"
+msgstr "License Agreement | DriverPack Solution"
+
+msgid "seo_license-description"
+msgstr "License Agreement and Terms of Use of the software which is spread by using DriverPack Solution"
+
+msgid "seo_license-keywords"
+msgstr "drivers download for free windows 7 XP 8 10 DriverPack Solution"
+
+msgid "seo_standards_title"
+msgstr "Recommended software standards | DriverPack Solution"
+
+msgid "seo_standards-description"
+msgstr "Standards and requirements to the software recommended by DriverPack"
+
+msgid "seo_standards-keywords"
+msgstr "software standards SW DriverPack"
+
+msgid "seo_deviceclass-footer-content-bluetooth"
+msgstr "In this Section you can download <strong>drivers for Bluetooth</strong> for all Windows Operating System versions. Both the drivers from the famous manufacturers (such as Hewlett Packard, Qcom, and Celink) as well as from the little-known manufacturers are available. All in all, you can <b>download drivers for Bluetooth</b> from more than 90 manufacturers available in this catalog.<br />If you have failed to find the the driver you need, install our DriverPack Solution software for automatic driver update - it is absolutely free!"
+
+msgid "seo_deviceclass-footer-content-cardreader"
+msgstr "Card readers are the devices intended for reading information off a memory card. If you need to move your files from video camera or camera onto your computer, this device will help you. <strong>The drivers for card readers</strong> are available in this Section. The drivers from more than 50 manufacturers for all popular Windows OS versions are represented here. You can download specific <b>drivers for card readers</b> as well as (if for some reason the driver you need is not found here) install automatic DriverPack Solution software for driver update. This software will be absolutely free for you!"
+
+msgid "seo_deviceclass-footer-content-chipset"
+msgstr "This Section includes <strong>the drivers for chipsets</strong> from the most distributed manufacturers of this type hardware such as Exar, and Prolific. The drivers for chipsets for all Windows versions which are in use now such as Windows XP, Windows 7, 8, 8.1, and 10 in bitness 64 or 86 bit are represented here, and even chipset drivers for such system as Windows Vista, despite it is not much popular today. If for some reason you have failed to find or download <b>the chipset driver</b> you are interested in, use our automatic DriverPack Solution driver update software - it is absolutely free and it will do everything for you!"
+
+msgid "seo_deviceclass-footer-content-inputdev"
+msgstr "While there is such a great variety of input device types (mice, keyboards, joysticks, etc) and of their manufacturers, it becomes a challenge to select the required driver. We solve this problem for you - in this Section you can select and download <strong>the drivers for the input devices</strong> absolutely free. If in some reason you have failed to find <b>the input device driver</b> you need in our catalog, download DriverPack Solution software for free - it will assess your hardware configuraion and select all the drivers required for your input devices automatically."
+
+msgid "seo_deviceclass-footer-content-lan"
+msgstr "Without proper selection of <b>the network card driver</b> correct Internet access will be either rather difficult, or impossible at all. This section of our website will help you select the perfect driver for your network hardware configuration, no matter who is its manufacturer - the drivers from more than 80 network hardware manufacturers are represented here in the variants for all Windows OS versions which are in use now. If for some reason you have failed to find <b>the network card driver</b> of your specific manufacturer, use our DriverPack Solution automatic driver update software - it will solve the driver selection problem for you for free!"
+
+msgid "seo_deviceclass-footer-content-massstorage"
+msgstr "In this Section you can <b>download controller driver</b> for all Windows OS versions which are in use now absolutely free. Have you not found the driver you need? Use our DriverPack Solution driver search and installation software - it is absolutely free and it will do everything for you!"
+
+msgid "seo_deviceclass-footer-content-modem"
+msgstr "In this Section you can find and <strong>download the drivers for modems</strong> for all Windows OS versions available now, and from all major manufacturers of this type hardware, and not only. The drivers from such manufacturers as Smartlink, AVM, Agere, and more than 50 other manufacturers are represented here. Have you failed to select the driver you need? Use our universal and absolutely free DriverPack Solution automatic driver update software."
+
+msgid "seo_deviceclass-footer-content-monitor"
+msgstr "Usually <b>the drivers for monitors</b> are recorded on the disc supplied with a brand new monitor, but the situation can be different if your monitor is second-hand. That's why even if your monitor seems to be okay and operates fine, the system board might not identify it. In this case, you can always get help in this Section of our website - here you can always download the latest up-to-date <b>drivers for monitors</b> of your configuration for all Windows OS versions available today. Have you failed to find the driver you need? Then we suggest you using our free DriverPack Solution software - it will make your process of searching and updating the monitor driver easier."
+
+msgid "seo_deviceclass-footer-content-tvtuner"
+msgstr "Do you need <b>to download the driver for tv-tuner</b>? Then you are in the right Section - here you can download and <b>install the drivers for tv-tuner</b> in the latest versions for all Windows operating system variants which are in use now. Have you not found the driver you need? No problem! Download our free DriverPack Solution software - it will select the exact tv-tuner chip driver you need, and it will do this automatically, quickly and without problems!"
+
+msgid "seo_deviceclass-footer-content-sound"
+msgstr "No sound on the computer? How long ago did you update <strong>the sound card driver</strong>? Download the latest up-to-date sound card drivers in this Sections of our site, or install free automatic DriverPack Solution driver update software - it will solve all your problems with drivers for your sound card!"
+
+msgid "seo_deviceclass-footer-content-video"
+msgstr "Does a game not operate? Is image displayed with artifacts? Then we recommend you to download <strong>the drivers for video card</strong> from our site - very often the problem is exactly with them. The drivers from 43 manufacturers are represented in this Section. Here you can easily select the driver for any Windows OS version which is in use now. Have you failed to find and download <b>the video card driver</b> you need? Use our automatic DriverPack Solution driver update software - it is absolutely free!"
+
+msgid "seo_deviceclass-footer-content-wifi"
+msgstr "In this Section you can download the Wi-Fi driver of both Standard 802.11n as well as of Standard 802.11g for all advanced Windows OS versions. The drivers of the latest configuration, repeatedly verified by our experts, are available here. If you have failed <b>to install Wi-Fi driver</b> by yourself, don't despair - download the latest version of our DriverPack Solution software - it will select the drivers exactly for your hardware configuration automatically."
+
+msgid "seo_deviceclass-footer-content-phone"
+msgstr "Do you need the drivers for a phone or a smartphone? No problem - in this Section you can <b>download and install the drivers for a smartphone</b> of almost any model and from all the most common manufacturers on the today smartphone market. Our drivers are verified and reliable!"
+
+msgid "seo_notebookvendor-footer-content-asus"
+msgstr "The latest and the most reliable <strong>drivers for Asus laptops</strong> for all Windows OS versions which are in use now (Windows XP, Windows 7, 8, 8.1, and 10) are represented in our catalog. If for some reason you are not satisfied with <b>the Asus laptop drivers</b>, or if you have faced a problem with finding the driver for your specific laptop model, use our DriverPack Solution software for driver update - it is free and it will do everything for you!  "
+
+msgid "seo_notebookvendor-footer-content-lg"
+msgstr "All the latest up-to-date <strong>drivers for LG laptops</strong> for all Windows OS versions which are in use now are represented in this Section. You can also use our DriverPack Solution software for automatic driver installation, if you have unexpectedly failed to find <b>LG laptop drivers</b> of exactly your model - our software is free of charge and it will do everything by self!"
+
+msgid "seo_notebookvendor-footer-content-sony"
+msgstr "Have you bought a new laptop from Sony but faced problems with its operability? In this Section you can download all up-to-date <strong>drivers for Sony laptops</strong> which are compatible with exactly your OS. <b>Sony Vaio laptop drivers</b> which are suitable for more than 200 models from this manufacturer are represented here. If for some reason you have failed to find the exact driver you need in our list, use our software for driver update - it is absolutely free and will select the driver suitable exactly for your laptop configuration."
+
+msgid "seo_notebookvendor-footer-content-lenovo"
+msgstr "<strong>The drivers for Lenovo laptop</strong> can be downloaded in this Section of our site - the drivers for all popular and not very much popular models of this manufacturer  (Ideapad, Thinkpad, etc.) are represented here. On our site you can find the drivers which will suit exactly your Windows operating system version. If your search for the required <b>drivers for Lenovo laptop</b> by your own efforts was not successful, use our driver update software - it will do everything quickly and in automatic mode. "
+
+msgid "seo_notebookvendor-footer-content-samsung"
+msgstr "Have you bought Samsung laptop and now you need the drivers for it? All the latest up-to-date <strong>drivers for Samsung laptop</strong> for all Windows versions which are in use now are represented here. There are the drivers for more than 100 laptop and netbook models of this manufacturer in our catalog, and this list is extending every day. If you have failed to download <b>the drivers for Samsung laptops</b> by yourself, then you can always use DriverPack Solution software for automatic driver search and installation - it is absolutely free!"
+
+msgid "seo_notebookvendor-footer-content-msi"
+msgstr "Here you can find and download <strong>the drivers for MSI laptop</strong> of your model for any Windows OS version which is in use now (including such a rare version for today as Vista). If you have failed to find the driver you need in our catalog by your own efforts, download our DriverPack Solution software for automatic driver search and installation - it is absolutely free! "
+
+msgid "seo_notebookvendor-footer-content-toshiba"
+msgstr "In this Section you can download <b>the drivers for Toshiba laptops</b> for absolutely all Window OS versions which are in use now. More than 300 laptop models of this manufacturer are represented in our catalog, and this list only keeps increasing every day. Have you failed to find the model you need in our catalog? Download DriverPack Solution software for automatic driver search and installation - it will do everything by self in automatic mode."
+
+msgid "seo_deviceclass-footer-content-video-amd"
+msgstr "Does a game not start up on AMD video card? In this Section you can <b>update AMD Radeon video card drivers</b> to the latest up-to-date version. Here you can download the drivers for AMD Radeon video card (including those for AMD Radeon HD series) for all Windows OS versions which exist now. Have you failed to find the driver you need by yourself? Use our free DriverPack Solution software - it will update <b>AMD video card drivers</b> and ATI in automatic mode with no need of any manual management from your part."
+
+msgid "seo_deviceclass-footer-content-video-nvidia"
+msgstr "Does a game not operate? The matter might be in the drivers for your video card. Try <b>and update Nvidia video card drivers</b> by downloading their latest version from our site. Here you can also <b>download the drivers for Nvidia Geforce video card</b> of the latest series for all Windows OS versions which are in use now absolutely free. If in some reason you have failed to find the drivers suitable for your Nvidia video card in our catalog, use our free DriverPack Solution software for driver search and update - it is absolutely free and it will select the driver of the required configuration by self and without any delay. "
+
+msgid "seo_deviceclass-footer-content-video-intel"
+msgstr "Do you need Intel HD Graphics video card drivers? In this Section you can download drivers for this series video cards absolutely free. If you couldn't find and <b>download Intel video card drivers</b> by yourself, use our free automatic DriverPack Solution software for driver search and update - it will do everything for you!"
+
+msgid "seo_deviceclass-footer-content-chipset-intel"
+msgstr "Do you have a question <b>how to install Intel chipset driver</b> for your computer? In this Section you can find and<b> download Intel chipset driver</b> without much trouble. If for some reason you have failed to download the driver for Intel chipset from our catalog, use our free automatic DriverPack Solution driver update software."
+
+msgid "seo_deviceclass-footer-content-chipset-asus"
+msgstr "In this Section you can <b>download the driver for Asus chipset</b> absolutely free. <b>The Asus chipset drivers</b> for all Windows operating system versions (7, 8.1, etc.) which are in use now are also represented here. Or, use our automatic DriverPack Solution software - it will select the driver required for Asus chipset in automatic mode without your participation."
+
+msgid "seo_deviceclass-footer-content-chipset-amd"
+msgstr "In this Section we suggest you <b>downloading AMD chipset driver</b> absolutely free. Versions of the driver for AMD chipset for all Windows OS versions which are in use now are represented here including Windows 7, Windows 10, Windows 8.1, etc. If you unexpectedly couldn't find and <b>install the driver for AMD chipset</b> by yourself, no problem - use our automatic DriverPack Solution driver selection software. Our software is absolutely free and it will do everything for you!"
+
+msgid "seo_deviceclass-footer-content-sound-msi"
+msgstr "Do you have any problems in operation of the sound card from Msi company? Then we suggest you updating the drivers for it - very often the problem is exactly with the out-of-date driver version. In this Section you can find and <b>download Msi sound card driver</b> absolutely free for all Windows OS versions which are in use now. Have you failed to find the driver you need by yourself? Use our DriverPack Solution software for driver search and installation - it operates in automatic mode and is absolutely free!"
+
+msgid "seo_deviceclass-footer-content-monitor-acer"
+msgstr "Do you have a question how to install the driver for Acer monitor? In this Section you can find <b>the driver for Acer monitor</b> in the latest version for all Windows operating system versions which are in use now. You can also <b>update the drivers for Acer monitor</b> in automatic mode by using our free DriverPack Solution software."
+
+msgid "seo_deviceclass-footer-content-monitor-asus"
+msgstr "Do you have any problems in operation of the monitors from Asus company? Then the matter might be in the monitor driver. Use our catalog where you can find and <b>download the driver for Asus monitor</b> of any model you are interested in. If in some reason you couldn't find the driver for the required model by yourself, download our DriverPack Solution software - it will select the required driver automatically on the base of analysis of your hardware configuration."
+
+msgid "seo_deviceclass-footer-content-monitor-benq"
+msgstr "Do you have any problems in operation of the monitor? Do you need <b>to download the driver for Benq monitor</b>? In our catalog you will find the drivers of the latest configuration for all BenQ monitor models. If you have not found the driver for the required model, don't despair. Use our DriverPack Solution driver search and update software - it will find the required driver automatically, without your participation!"
+
+msgid "seo_deviceclass-footer-content-monitor-compaq"
+msgstr "Do you need <b>the driver for Compaq monitor</b>? We suggest you downloading Compaq monitor drivers absolutely free and without registration right from our catalog. You also can use our DriverPack Solution driver search and update software - it will select the latest driver for your monitor in automatic mode."
+
+msgid "seo_deviceclass-footer-content-monitor-dell"
+msgstr "Do any problems arise in operation of your Dell monitor? Do various artifacts start appearing on the screen? Then the problem very likely might be with out-of-date drivers. You can <b>download the driver for Dell monitor</b> of the latest configuration for all Windows OS versions from our catalog. If you could not find the driver you need by yourself, download our DriverPack Solution software - it is free and it will do all the work on selecting the required drivers automatically!"
+
+msgid "seo_deviceclass-footer-content-monitor-hp"
+msgstr "Do you need <b>to download the driver for HP monitor</b>? In this Section you will find all the latest and up-to-date HP monitor drivers for all the latest Window operating system versions. All the drivers represented in this Section have been selected and verified by our experts for operability and safety. If you couldn't find the driver you need by your own efforts, use our DriverPack Solution software - it will do everything quickly and without your participation!"
+
+msgid "seo_deviceclass-footer-content-monitor-lg"
+msgstr "Is your<b> driver for LG monitor</b> out-of-date? Do some artifacts appear in the image, or the monitor just refuses to operate? Use our huge catalog where you can <b>download the driver for LG Flatron monitor</b> without any troubles and difficulties! If you have no time to look for the required driver by yourself, use our DriverPack Solution software - it will select all the required drivers by self."
+
+msgid "seo_deviceclass-footer-content-monitor-panasonic"
+msgstr "Do any problems arise with operation of the monitor from Panasonic company?The problem might be with the drivers. In our catalog you can <b>download the driver for Panasonic monitor</b> absolutely free and without extra troubles! If in some reason you have not found the driver required for your Panasonic monitor model, download our DriverPack Solution driver search and update software - it is absolutely free!"
+
+msgid "seo_deviceclass-footer-content-monitor-samsung"
+msgstr "In this Section you can <b>download the driver for Samsung Syncmaster monitor for free</b>. The drivers for all the latest Windows OS versions are represented here. If in some reason you have not found the driver you need, use our DriverPack Solution software - it is free and it will do everything automatically."
+
+msgid "seo_deviceclass-footer-content-monitor-sony"
+msgstr "Here you can <b>download Sony monitor drivers</b> of the latest configuration for all up-to-date Windows operating system versions for free. Do you not want to look for the required driver by yourself? Then download our DriverPack Solution software for driver search and update - it will do everything automatically!"
+
+msgid "seo_deviceclass-footer-content-monitor-viewsonic"
+msgstr "In this Section you can <b>download the driver for Viewsonic monitor</b> for all available models absolutely free and without registration. The drivers for all advanced Windows operating system versions are available in our catalog. Or, download our DriverPack Solution software - it is free and it will find the required compatible drivers in automatic mode."
+
+msgid "seo_deviceclass-footer-content-monitor-sharp"
+msgstr "Have some problems appeared in operation of your monitor from Sharp company? The problem might be with out-of-date drivers. Download the driver from our catalog by yourself, or use our DriverPack Solution software - it will do everything quickly and with no problem! All our drivers have been verified for operability and safety! "
+
+msgid "seo_deviceclass-footer-content-monitor-philips"
+msgstr "Do you not know where <b>to download the driver for Philips monitor</b>? In this Section you will find all the latest and up-to-date drivers for Philips monitors for all Windows OS vertions. If in some reason you could not find the driver you need by yourself, use our  DriverPack Solution software - it is absolutely free and will select the driver you need in no time."
+
+msgid "seo_deviceclass-footer-content-modem-d-link"
+msgstr "In this Section you can download <b>d-link modem driver</b> for all Windows operating system versions which are available now. Our catalog is simply arranged and easy to understand, so it will be easy for you to find the driver you need. However, if in some reason you have failed to find the driver for d-link link of the required configuration, use our DriverPack Solution software - it is absolutely free and it will download all the drivers you need automatically."
+
+msgid "seo_deviceclass-footer-content-tvtuner-avermedia"
+msgstr "Are there any problems in operation of your tv-tuner from Avermedia? The problem very likely might be with out-of-date drivers. In this Section you can <b>download the driver for Avermedia tv-tuner</b> from our handy and clear catalog for free. You can also use free DriverPack Solution software - it will do everything quickly and will save you need to look for the required driver by yourself."
+
+msgid "seo_deviceclass-footer-content-tvtuner-beholder"
+msgstr "Is something wrong with your tv-tuner from Beholder company? The problem very likely might be solved by updating the drivers to the latest version. Here you can <b>download Beholder tv-tuner driver</b> quickly, easy and absolutely free! If  you have unexpectedly failed to download the driver you need by yourself, use our DriverPack Solution software - it will select the required driver by self based on your hardware configuration."
+
+msgid "seo_deviceclass-footer-content-tvtuner-pinnacle"
+msgstr "Do you need <b>the drivers for Pinnacle tv-tuners</b>? In this catalog you can easily find the drivers for Pinnacle tv-tuner and download them for free. If in some reason you have failed to find the driver you need by yourself, install our free DriverPack Solution software - it will analyse your hardware configuration and install everything required for its proper operation."
+
+msgid "seo_deviceclass-footer-content-tvtuner-philips"
+msgstr "Do any troubles appear in operation of your Philips tv-tuner? The problem might be with out-of-date drivers. Here you can <b>download Philips tv-tuner drivers</b> for all Windows OS versions which are in use now. Or install DriverPack Solution software - it is free of charge and it will do everything for you."
+
+msgid "seo_deviceclass-footer-content-tvtuner-kworld"
+msgstr "Do you need <b>to download the drivers for Kworld tv-tuner</b> but you don't know where from? Then you are in the right place! Here you can download <b>Kworld tv-tuner drivers</b> of the latest version for all available Windows operating system versions. Have you failed to find the driver you need in our catalog? Use our free DriverPack Solution software - it will do everything automatically, quickly and efficiently."
+
+msgid "seo_deviceclass-footer-content-tvtuner-compro"
+msgstr "In this Section you can <b>download Compro tv-tuner driver</b> for all available Windows OS versions absolutely free. All drivers from our catalog have been verified by experts for operability and safety. Have you failed to find what you looked for? Download DriverPack Solution software - it will do everything automatically, fast and without problems."
+
+msgid "seo_deviceclass-footer-content-phone-htc"
+msgstr "Do you have any problems with operation of your telephone unit from HTC? Is there no opportunity to connect your smartphone to the computer? In this Section you can <b>download the drivers for the HTC mobil phone</b> by yourself. The latest and the most up-to-date drivers for HTC phones are represented here."
+
+msgid "seo_deviceclass-footer-content-phone-huawei"
+msgstr "You don't know where <b>to download the driver for your Huawei phone</b>. In this Section you will find the drivers for all various Huawei phone models. All our drivers have been verified for operability and safety!"
+
+msgid "seo_deviceclass-footer-content-phone-nokia"
+msgstr "In this Section you can <b>download the driver for Nokia phone</b> absolutely free and without registration. The drivers for all various Nokia phone models are represented here. Also, all our drivers have been verified by experts for safety and operability."
+
+msgid "seo_devicegroup-footer-content-video-nvidia-nvidia-geforce-9600-gt"
+msgstr "Do you need the drivers for Nvidia Geforce 9600 GT video card? You are in the right place! In this Section you can download <b>Nvidia Geforce 9600 GT video card drivers</b> for all Windows operating system versions which exist and are in use now. If in some reason you could not find the drivers you need by yourself in our catalog, use our DriverPack Solution software for driver search and update as it is absolutely free and it operates in automatic mode."
+
+msgid "seo_devicegroup-footer-content-monitor-samsung-syncmaster-740n-179n-syncmaster-magic-cx721n-cx714n"
+msgstr "Do you have any difficulties with connecting Samsung Syncmaster 740n monitor to your computer? Do various artifacts appear on the screen of your monitor when it displays information? In this Section you can find and <b>download the driver for Samsung Syncmaster 740n monitor</b> of the latest configuration for all Window OS versions which are in use now. If you could not select the driver you need by using our catalog, use our DriverPack Solution software - it is free and is created specifically for automatic driver update on your computer."
+
+msgid "seo_notebook-footer-content-acer-aspire-5560g"
+msgstr "In this Section you can download the drivers for Acer Aspire 5560g laptop for Windows XP, 7, 8, 8.1, and 10. All the drivers have been verified by our experts for operability and safety. If you could not find the driver you need by yourself, use our DriverPack Solution software - it is absolutely free and it will do everything for you!"
+
+msgid "seo_notebook-footer-content-aspire-5750g"
+msgstr "Do you need to download the drivers for Acer Aspire 5750g laptop? The drivers for Windows OS XP, 7, 8, 8.1, and 10 are represented in this Section. Our drivers have been checked by antivirus and are 100% safe. Do you not want to look for the driver you need by yourself? Then download our DriverPack Solution software - it is free of charge and it will be able to select everything you need automatically."
+
+msgid "seo_notebook-footer-content-acer-aspire-5100"
+msgstr "In this Section you can download the drivers for Acer Aspire 5100 laptop (Windows XP, 7, 8, 8.1, 10) for free. If for some reason you have failed to find the driver you need in our catalog, don't despair -  download our DriverPack Solution software. It will do everything for you."
+
+msgid "seo_notebook-footer-content-acer-aspire-5553g"
+msgstr "Do you need to download the drivers for Acer Aspire 5553g laptop? In this Section you will find all required drivers for the following Windows versions: XP, 7, 8, 8.1, 10. Have you not found the one you need? Download our free DriverPack Solution software for driver update - it will do everything for you!"
+
+msgid "seo_notebook-footer-content-acer-aspire-7750g"
+msgstr "In this Section you can download the drivers for Acer Aspire 7750g laptop absolutely free. All our drivers have been verified for safety and operability. Is there no driver you need in our catalog? Download DriverPack Solution software - it will find everything you need for few minutes!"
+
+msgid "seo_notebook-footer-content-acer-aspire-5551g"
+msgstr "We suggest you downloading the drivers for Acer Aspire 5551g laptop for all Window OS versions which are in use now absolutely free. Have you not found the driver you need in our catalog? Download free DriverPack Solution software - it will update all your drivers to the latest up-to-date version."
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g"
+msgstr "Does your Acer Aspire v3 571g laptop not start up? The problem might be with drivers. In this Section you can download the drivers for Acer Aspire v3 571g for free. The drivers for all Windows - XP, 7, 8, 8.1, and 10 versions which are in use now are represented here. Have you failed to solve the problem by yourself? Download our DriverPack Solution software - it will find the required driver and update it to the operable version by self."
+
+msgid "seo_notebook-footer-content-asus-x550cc"
+msgstr "Do you need the drivers for Asus X550CC laptop? In this Section of our site you will find everything you need for your laptop operation. All our packs have been verified for safety and operability. If you could not find the driver you need by yourself, download our DriverPack Solution software - it will assess the current state of the drivers on your computer and update them to the latest version."
+
+msgid "seo_notebook-footer-content-asus-x550cl"
+msgstr "Here you can download Asus X550CL laptop drivers for Windows XP, 7, 8, 8.1, and 10 absolutely free. All our drivers have been verified for operability and safety. If for some reason you have not found the driver you need by yourself, use our DriverPack Solution software - it will do everything automatically."
+
+msgid "seo_notebook-footer-content-asus-x540sa"
+msgstr "Here you can download Asus X540SA laptop drivers for Windows XP, 7, 8, 8.1, and 10 for free. If for some reason you couldn't select the driver you need in our catalog, download our free DriverPack Solution software for driver update - it will do everything automatically."
+
+msgid "seo_notebook-footer-content-asus-x540sc"
+msgstr "Here you can download Asus X540SC laptop drivers for Windows XP, 7, 8, 8.1, and 10 absolutely free. Have you failed to find what you looked for? Download our DriverPack Solution software for automatic driver update - it will assess your hardware, and quickly select the required drivers."
+
+msgid "seo_notebook-footer-content-asus-x540la"
+msgstr "Here you can download Asus X540LA laptop drivers for Windows XP, 7, 8, 8.1, and 10 for free. You can also download DriverPack Solution software for driver update absolutely free, too - it will assess the current state of the drivers on your computer and update them to the latest up-to-date version automatically."
+
+msgid "seo_notebook-footer-content-asus-k50c"
+msgstr "Do you need the drivers for Asus k50c laptop for Windows XP, 7, 8, 8.1 or 10? In this Section you can download the drivers for Asus k50c for free, or, if you have failed to select the driver you need by yourself, install DriverPack Solution software which will analyse the hardware on your laptop and select all the drivers you need by self. "
+
+msgid "seo_notebook-footer-content-asus-x553ma"
+msgstr "Do you need the drivers for Asus X553MA laptop for Windows XP, 7, 8, 8.1 or 10? In this Section you can download the drivers for Asus X553MA, or, if you have failed to select the driver you need by yourself, install DriverPack Solution software which will test the hardware on your computer and select the required drivers automatically."
+
+msgid "seo_notebook-footer-content-asus-x541sa"
+msgstr "Here you can download the drivers for Asus X541SA laptop for Windows XP, 7, 8, 8.1, and 10 for free. If for some reason you have not found the driver you need in our catalog, download our free DriverPack Solution software for driver update - it will do everything automatically."
+
+msgid "seo_notebook-footer-content-asus-k52jc"
+msgstr "Here you can download the drivers for Asus k52jc laptops for Windows XP, 7, 8, 8.1, and 10 for free. If you have not found the driver you need in our catalog, install DriverPack Solution for driver update - it will do everything for you. "
+
+msgid "seo_notebook-footer-content-asus-k52jr"
+msgstr "Here you can download the drivers for Asus k52jr laptop for Windows XP, 7, 8, 8.1, and 10 for free. All drivers have been verified for safety and operability by our best experts. "
+
+msgid "seo_notebook-footer-content-asus-x101ch"
+msgstr "Here you can download the drivers for Asus X101CH laptops for Windows XP, 7, 8, 8.1, and 10 for free. Have you not found the driver you need in our catalog? No problem - download DriverPack Solution software for automatic driver installation - it will select the driver for the required device by self and without any extra problems."
+
+msgid "seo_notebook-footer-content-asus-k50ij"
+msgstr "Here you can download the drivers for Asus K50ij laptop for Windows XP, 7, 8, 8.1 or 10. If you have failed to select the driver you need in our catalog, use DriverPack Solution software for driver search and installation - it is free and it will do everything for you. "
+
+msgid "seo_notebook-footer-content-asus-x551ma"
+msgstr "Do you fail to install the driver for Asus x551ma network controller? Download the driver required for Windows XP, 7, 8, 8.1 or 10 by yourself, or use our free DriverPack Solution software for driver update."
+
+msgid "seo_notebook-footer-content-asus-k53ta"
+msgstr "Here you can download the drivers for Asus k53ta laptop for Windows XP, 7, 8, 8.1 or 10 for free. If for some reason you have failed to find the driver you need by yourself, use our DriverPack Solution software - it will select the driver which is required or compatible with your configuration as much as possible automatically. "
+
+msgid "seo_notebook-footer-content-asus-x550ca"
+msgstr "Here you can download the drivers for Asus x550ca laptop for Windows XP, 7, 8, 8.1 or 10 for free. All our drivers have been verified for operability and safety."
+
+msgid "seo_notebook-footer-content-lenovo-g580"
+msgstr "Here you can download the drivers for Lenovo g580 laptop for Windows XP, 7, 8, 8.1 or 10 absolutely free. All drivers have been checked by antivirus. Have you not found the driver you need? Download and install DriverPack Solution software - it is free and it will do everything for you."
+
+msgid "seo_notebook-footer-content-lenovo-b590"
+msgstr "Download the drivers for Lenovo b590 laptop for Windows XP, 7, 8, 8.1 or 10 right here and absolutely free. All our drivers have been checked by antivirus and are absolutely safe."
+
+msgid "seo_notebook-footer-content-hp-pavilion-g6-chipset"
+msgstr "In this Section you can <b>download Pavilion G6 chipset drivers</b> for free and without registration for all Windows operating system versions which are in use now. If for some reason you couldn't find and download the chipset drivers for HP Pavilion G6 laptop by yourself, use our DriverPack Solution software - it will do everything automatically."
+
+msgid "seo_notebook-footer-content-lenovo-g580-wifi"
+msgstr "Do you need the Wi-Fi driver for Lenovo g580 laptop for Windows XP, 7, 8, 8.1 or 10? Download it directly from our catalog. All our drivers are completely operable and safe. "
+
+msgid "seo_notebook-footer-content-lenovo-b590-wifi"
+msgstr "Here you can download Lenovo b590 laptop driver for Wi-Fi for Windows XP, 7, 8, 8.1 or 10. Our entire catalog has been checked by antivirus."
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g-wifi"
+msgstr "Here you can download Wi-Fi drivers for Acer Aspire v3 571g laptop for Windows XP, 7, 8, 8.1, and 10 for free."
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g-video"
+msgstr "In this Section you can download the drivers for Acer Aspire v3 571g laptop video card for free. Are you not satisfied with it? Use our DriverPack Solution software - it will select the driver which is the most compatible with your configuration."
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g-sound"
+msgstr "In this Section you can download sound drivers for Acer Aspire v3 571g laptop for all Windows versions which are in use now. Our drivers are absolutely safe and operate just excellent!"
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g-inputdev"
+msgstr "Here you can download the driver for the keyboard and other input devices of Acer Aspire v3 571g laptop for Windows XP, 7, 8, 8.1, and 10 absolutely free. All our drivers have been verified for safety and operability!"
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g-lan"
+msgstr "Here you can download the netcard driver of Acer Aspire v3 571g laptop for Windows XP, 7, 8, 8.1, and 10. Have you not found the driver you need by yourself? Use our DriverPack Solution software - it will select everything required by self."
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g-cardreader"
+msgstr "In this Section you can download the driver for card reader of Acer Aspire v3 571g laptop for Windows XP, 7, 8, 8.1, and 10 without extra troubles. Here you can also download our DriverPack Solution software - it will analyse your hardware configuration, select and install the required driver by self."
+
+msgid "seo_notebook-footer-content-asus-x550cc-wifi"
+msgstr "Does Wi-Fi not operate on Asus X550CC laptop? The problem might be with out-of-date drivers - download the latest version of the Wi-Fi driver for Asus X550CC laptop, or install free DriverPack Solution software - it will do everything in automatic mode."
+
+msgid "seo_notebook-footer-content-asus-x550cc-lan"
+msgstr "Here you can download network drivers for Asus X550CC laptop for Windows XP, 7, 8, 8.1, and 10 for free. If for some reason you are not satisfied with these drivers, use our DriverPack Solution software - it is free and will do everything for you."
+
+msgid "seo_notebook-footer-content-asus-k50c-video"
+msgstr "Does a game not start up on Asus k50c laptop? Here you can download video card driver for Asus k50c for Windows XP, 7, 8, 8.1 or 10."
+
+msgid "seo_notebook-footer-content-asus-k50c-wifi"
+msgstr "Do you experience any problems with Internet access through Wi-Fi? Here you can download the Wi-Fi drivers for Asus k50c laptop for Windows XP, 7, 8, 8.1 or 10 - it might fix the issue! "
+
+msgid "seo_notebook-footer-content-asus-x553ma-video"
+msgstr "Are the video card drivers on your Asus x553ma laptop out-of-date? Here you can download the driver for Asus X553MA for Windows XP, 7, 8, 8.1 or 10."
+
+msgid "seo_notebook-footer-content-asus-x101ch-video"
+msgstr "Does your game not start up on Asus X101CH laptop? Here you can download video card driver for Asus X101CH for Windows XP, 7, 8, 8.1 or 10 for free - it might fix the issue!"
+
+msgid "seo_notebook-footer-content-asus-k50ij-wifi"
+msgstr "Do you need the Wi-Fi driver for Asus k50ij laptop for Windows XP, 7, 8, 8.1, or 10? Download it right from our catalog, or install DriverPack Solution software for automatic driver update - it is absolutely free. "
+
+msgid "seo_notebook-footer-content-asus-x551ma-lan"
+msgstr "Do you fail to install the driver for Asus x551ma network controller? Download the driver required for Windows XP, 7, 8, 8.1 or 10 by yourself, or use our free DriverPack Solution software for driver update."
+
+msgid "seo_notebook-footer-content-lenovo-g580-lan"
+msgstr "Here you can download network drivers for Lenovo g580 laptop for Windows XP, 7, 8, 8.1 or 10. Have you not found the driver you need? Download and install DriverPack Solution software - it is free and will select everything you need for proper operation of your laptop automatically."
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g-7-x86"
+msgstr "In this Section you can download Acer Aspire v3 571g laptop drivers for Windows 7. All our drivers have been verified by experts and are completely operable. "
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g-8-x86"
+msgstr "Here you can download Acer Aspire v3 571g laptop drivers for Windows 8, or install DriverPack Solution software for automatic driver update."
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g-8.1-x86"
+msgstr "In this Section Acer Aspire v3 571g laptop drivers for Windows 8 are available for download. Here you can also download DriverPack Solution software - it will check your hardware configuration and install the required driver."
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g-10-x86"
+msgstr "Here you can download Acer Aspire v3 571g laptop drivers for Windows 10. Our drivers are completely operable and have been checked by antivirus. "
+
+msgid "seo_notebook-footer-content-asus-x550cc-7-x86"
+msgstr "In this Section you can download Asus X550CC laptop drivers for Windows 7x86. All our drivers have been checked for safety by antivirus!"
+
+msgid "seo_notebook-footer-content-asus-x550cc-7-x64"
+msgstr "In this Section you can download Asus X550CC laptop drivers for Windows 7x64 absolutely free. If for some reason you are not satisfied with the driver from this Section, use our  DriverPack Solution software - it will update the drivers on your laptop to the latest up-to-date version."
+
+msgid "seo_notebook-footer-content-asus-x550cl-7-x64"
+msgstr "Here you can download Asus X550CL laptop drivers for Windows 7x64 absolutely free. All our drivers have been verified for operability by the experts. "
+
+msgid "seo_notebook-footer-content-asus-x540sa-7-x64"
+msgstr "Do you need Asus X540SA laptop drivers for Windows 7x64? You will find everything you need in this Section. All drivers have been verified for safety and operability by our experts. "
+
+msgid "seo_notebook-footer-content-asus-x540sa-8.1-x64"
+msgstr "Do you need Asus x540sa laptop drivers for Windows 8.1x64? Here you will find everything you need. Our drivers have been verified for operability and safety by the best experts. "
+
+msgid "seo_notebook-footer-content-asus-x540sa-10-x64"
+msgstr "Do you need to download Asus X540SA laptop drivers for Windows 10x64? You are at the right place! If for some reason you have not found the driver you need in the catalog, download our DriverPack Solution software - it will find all latest versions and install them onto your laptop by self! "
+
+msgid "seo_notebook-footer-content-asus-x540sc-7-x64"
+msgstr "Do you need to download Asus X540SC laptop drivers for Windows 7x64? Here you will find everything you need. All our driver packs have been verified for safety and operability!"
+
+msgid "seo_notebook-footer-content-asus-x540sc-8.1-x64"
+msgstr "Here you can download Asus X540SC laptop drivers for Windows 8.1x64 absolutely free. If you couldn't find the driver you need in our catalog by yourself, just download DriverPack software for driver update - it will do everything quickly and reliably!"
+
+msgid "seo_notebook-footer-content-asus-x540la-7-x64"
+msgstr "In this Section you can download Asus X540LA laptop drivers for Windows 7x64 for free and without additional registration. All our drivers are absolutely safe and completely operable."
+
+msgid "seo_notebook-footer-content-asus-k50c-xp-x86"
+msgstr "In this Section you can download drivers for Asus k50c laptop for Windows XP absolutely free without additional registration. We also suggest you downloading DriverPack Solution software for automatic driver installation - it will do everything for you!"
+
+msgid "seo_notebook-footer-content-asus-x553ma-7-x64"
+msgstr "Here you can download drivers for Asus X553MA laptop for Windows 7x64. All our driver packs have been tested for safety and operability by the experts."
+
+msgid "seo_notebook-footer-content-asus-x101ch-xp-x86"
+msgstr "Here you can download Asus X101CH laptop driver for Windows XP for free and without additional registration. All our drivers are completely operable and safe for your laptop!"
+
+msgid "seo_notebook-footer-content-asus-k50ij-7-x64"
+msgstr "Here you can download and install drivers for Asus k50ij laptop for Windows 7x64 absolutely free. Are you not satisfied with the driver? No problem - use our DriverPack Solution software for driver update - it is absolutely free and will do everything automatically!"
+
+msgid "seo_notebook-footer-content-asus-k50ij-xp-x86"
+msgstr "Do you need to download the drivers for Asus k50ij laptop for Windows XP? Use our catalog - you will find everything you need over there. It is no help? Then download DriverPack Solution software for driver update - it will analyse the hardware on your laptop and select the most compatible drivers."
+
+msgid "seo_notebook-footer-content-lenovo-g580-7-x64"
+msgstr "The drivers for Lenovo g580 laptop for Windows XP, 7, 8, 8.1 or 10 are available for download right here. Are you not satisfied with the driver? Then use DriverPack Solution software for driver search and installation - it will do everything by self."
+
+msgid "seo_notebook-footer-content-asus-x550cc-sound-10-x64"
+msgstr "Here you can download the drivers for Asus X550CC laptop for Windows 10x64 for free. You can also download DriverPack Solution software - it will assess the current state of the drivers on your laptop and update them to the latest up-to-date version."
+
+msgid "seo_mainos-content-xp"
+msgstr "Windows XP is an honored \"veteran\" among all operating systems of Windows NT family, released on October 25th, 2001, and it’s still one of the most popular operating systems in the world till now. About 7% of all PCs all over the world still operate on Windows XP, 16 years later after its release. It concerns mostly the out-of-date machines and machines with low efficiency. And although support for this OS was ceased back in 2014, it is obvious that the use of this system will last long. You can download the latest up-to-date versions of the drivers for Windows XP either directly from our catalog, or through downloading DriverPack Solution software."
+
+msgid "seo_mainos-content-7"
+msgstr "Windows 7 is an operating system of Windows NT family which was released after Windows Vista but before Windows 8. According to the data on summer of 2017, Windows 7 is the most popular operating system in the world. According to the data on July, 2017, Windows 7 is used on 48.91% of all PCs worldwide. This OS went on sale on October, 22nd, 2009, it's less than 3 years later after the failed Windows Vista release. The installation images of the final system version were available in the Internet since July 21st, the same year. You can download the latest up-to-date drivers for Windows 7 here."
+
+msgid "seo_mainos-content-8"
+msgstr "Windows 8 is an operating system from Microsoft Windows family which was released after Windows 7, and it was developed by Microsoft Corporation. The core version is 6.2. Windows 8 appeared on sale on October 26th, 2012. According to the data on summer of 2017, this operating system is used on about 5% of all PCs in the world. Windows Server 2012 is a server edition. New Metro interface was used in this OS version. Its sales stopped back on January 12th, 2016, but you still can download all the latest released drivers for Windows 8 in this section."
+
+msgid "seo_mainos-content-8.1"
+msgstr "Windows 8.1 Operating System (NT family) was released after Windows 8 and was intended for workstations, PCs and mobile devices. Windows Server 2012 R2 is a server edition of Windows 8.1. This operating system differs from Windows 8 by some changes in interaction with graphical user interface. Windows 8.1 is also intended for operating with touchscreens. According to the data on summer of 2017, 6.48% of all PCs in the world operate on this OS. You can download the latest updated drivers for Windows 8.1 right from our catalog."
+
+msgid "seo_mainos-content-10"
+msgstr "Windows 10 operating system was supposed to become the universal OS for PCs, smartphones, tablets and even for Xbox One game console. It was released after Windows 8.1, and it belongs to NT family. At the present, 27% of all devices worldwide operate on Windows 10 OS, and everyone could update their licensed copies of Windows 7, Windows 8.1 and Windows Phone 8.1 up to Windows 10 for free during the first 6 months of its existence. You can download the drivers for all devices operating on Windows 10 right from DriverPack Solution’s catalog. The difference of Windows 10 from its predecessor is that it has an option to create multiple desktops, and it also has Cortana voice assistant."

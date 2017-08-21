@@ -1,0 +1,1017 @@
+# Translators:
+# Nadia Tegeneva <nadia@drp.su>, 2017
+# BouRock <hitowerdigit@hotmail.com>, 2017
+# ᅠOrrhan <ofy.site@outlook.com>, 2017
+# Driver Pack <team@drp.su>, 2017
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-08-10 10:22+0000\n"
+"PO-Revision-Date: 2016-09-23 09:12+0000\n"
+"Last-Translator: Driver Pack <team@drp.su>, 2017\n"
+"Language-Team: Turkish (https://www.transifex.com/driverpack-solution/teams/75453/tr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: tr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. i18n: EN: Example: VENDOR.NAME=Asus; RU: Пример: VENDOR.NAME=Asus;
+msgid "seo_vendor-footer-anchor"
+msgstr "{{VENDOR.NAME}}"
+
+msgid "seo_devicegroups-footer-anchor"
+msgstr "{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}} "
+
+#. i18n: EN: Example: NAME=Acer E230H; RU: Пример: NAME=Acer E230H;
+msgid "seo_devicegroup-footer-anchor"
+msgstr "{{NAME}}"
+
+#. i18n: EN: Example: NAME=Asus X550EA; RU: Пример: NAME=Asus X550EA;
+msgid "seo_notebookvendor-footer-anchor"
+msgstr "{{NOTEBOOK.VENDOR.NAME}} dizüstüleri"
+
+msgid "seo_notebook-footer-anchor"
+msgstr "{{NAME}} dizüstüleri"
+
+msgid "seo_notebookdevices-footer-anchor"
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} {{CLASS.PLURAL.MAIN}}"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
+#. CLASS.PLURAL.FOR=мониторов|модемов;
+msgid "seo_deviceclass-footer-anchor"
+msgstr "{{CLASS.PLURAL.MAIN}}"
+
+msgid "seo_hwidos-footer-anchor"
+msgstr "Windows {{OS.NAME}} için sürücü sürümü"
+
+msgid "seo_main-title"
+msgstr "DriverPack Solution — otomatik sürücü kurulumu ve güncelleme | Ücretsiz indirin"
+
+msgid "seo_main-description"
+msgstr "DriverPack Solution, aygıtınız için sürücüleri ücretsiz yüklemeyi, ya da otomatik sürücü kurulumu ve güncellemesi için yazılımı indirmeyi öneriyor."
+
+msgid "seo_main-keywords"
+msgstr "indirin driver pack windows 7 8 10 64 sürücüleri dizüstü ücretsiz sürücü yükleyici sürücü kurulum yazılım"
+
+msgid "seo_mainos-title"
+msgstr "Windows {{OS.VERSION}} için sürücüleri indirin | DriverPack Solution"
+
+msgid "seo_mainos-description"
+msgstr "Windows {{OS.VERSION}} x64 ve x86 için sürücüleri ücretsiz güncelleyin"
+
+msgid "seo_mainos-h1"
+msgstr "Windows {{OS.VERSION}} sürücüleri"
+
+msgid "seo_mainos-keywords"
+msgstr "Windows {{OS.VERSION}} indir yükle 64 86 sürücüler DriverPack Solution ücretsiz"
+
+msgid "seo_mainos-h3"
+msgstr "Tek bir ücretsiz uygulamada Windows {{OS.VERSION}} için en büyük sürücü koleksiyonu"
+
+msgid "seo_mainlanding-title"
+msgstr "DriverPack Solution - sürücü güncelleme yazılımı | 7, XP, 10, 8 ve 8.1 sürücülerini indirin."
+
+msgid "seo_mainlanding-description"
+msgstr "DriverPack Solution – dizüstünüz ve PC'nizde otomatik sürücü kurulumu ve güncelleme için ücretsiz yazılım. Windows XP, 7, 8, 8.1, 10 için sürücüleri indirme fırsatı bunun dışında katalog sayfalarımız da mevcuttur."
+
+msgid "seo_mainlanding-keywords"
+msgstr "sürücüleri indirin otomatik kurulum güncelleme Windows 7, XP, 10, 8 ve 8.1 sürücü güncelleme yazılımı"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
+#. CLASS.PLURAL.FOR=мониторов|модемов;
+msgid "seo_deviceclass-title"
+msgstr "{{CLASS.SINGLE.FOR}} sürücülerini indirin | Windows"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
+#. CLASS.PLURAL.FOR=мониторов|модемов;
+msgid "seo_deviceclass-description"
+msgstr "Windows 7, XP, 10, 8, ve 8.1 için {{CLASS.SINGLE.FOR}} sürücülerini yükleyin, ya da otomatik sürücü kurulumu ve güncelleme için DriverPack Solution yazılımını indirin"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
+#. CLASS.PLURAL.FOR=мониторов|модемов;
+msgid "seo_deviceclass-h1"
+msgstr "<span class='bold'>{{CLASS.SINGLE.FOR}}</span> sürücüleri"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
+#. CLASS.PLURAL.FOR=мониторов|модемов;
+msgid "seo_deviceclass-keywords"
+msgstr "{{CLASS.SINGLE.FOR}} sürücüleri windows 7 64 8 10 indirme indirme"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
+#. CLASS.PLURAL.FOR=мониторов|модемов;
+msgid "seo_deviceclass-footer-description"
+msgstr "{{CLASS.PLURAL.FOR}} için ücretsiz sürücüleri indirin"
+
+msgid "seo_deviceclass-footer-application-category"
+msgstr "Kategori: <span itemprop='applicationCategory'>Aygıtlar</span>"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=monitors|modem; RU: Пример:
+#. CLASS.PLURAL.MAIN=мониторы|модемы;
+msgid "seo_deviceclass-footer-application-subcategory"
+msgstr "Alt kategori: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+
+msgid "seo_vendors-title"
+msgstr "PC, dizüstü, ve elüstü sürücülerini indirin | Windows"
+
+msgid "seo_vendors-description"
+msgstr "PC, dizüstü ve elüstü sürücülerini ücretsiz yükleyin, ya da otomatik sürücü güncelleme ve kurulum için yazılımı indirin"
+
+msgid "seo_vendors-h1"
+msgstr "Donanım üreticileri"
+
+msgid "seo_vendors-keywords"
+msgstr "sürücüler sürücüler windows 7 8 10 64 indirin indirin"
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_vendor-title"
+msgstr "Windows için {{VENDOR.NAME}} sürücülerini ücretsiz indirin"
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_vendor-description"
+msgstr "Windows 7, XP, 10, 8, ve 8.1 için {{VENDOR.NAME}} sürücülerini ücretsiz yükleyin, ya da otomatik sürücü kurulumu için DriverPack Solution yazılımını indirin"
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_vendor-h1"
+msgstr "<span class='bold'>{{VENDOR.NAME}}</span> aygıtları sürücüleri"
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_vendor-keywords"
+msgstr "sürücüler windows 7 8 10 64 indirin indirin {{VENDOR.NAME}}"
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_vendor-footer-description"
+msgstr "{{VENDOR.NAME}} aygıtları için sürücüleri ücretsiz indirin"
+
+msgid "seo_vendor-footer-application-category"
+msgstr "Kategori: <span itemprop='applicationCategory'>Aygıtlar</span>"
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_vendor-footer-application-subcategory"
+msgstr "Alt kategori: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} aygıtları</span>"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|monitors; VENDOR.NAME=Acer;
+#. RU: Пример: CLASS.PLURAL.FOR=видеокарт|мониторов; VENDOR.NAME=Acer;
+msgid "seo_devicegroups-title"
+msgstr "Windows için {{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} sürücülerini ücretsiz indirin"
+
+#. i18n: EN: Example: CLASS.SINGLE.FOR=videocard|monitor; VENDOR.NAME=Acer;
+#. RU: Пример: CLASS.SINGLE.FOR=видеокарты|монитора; VENDOR.NAME=Acer;
+msgid "seo_devicegroups-description"
+msgstr "Buradan, Windows 7, XP, 10, 8, ve 8.1 için {{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} sürücülerini yükleyebilir ya da otomatik sürücü kurulumu için DriverPack Solution yazılımını indirebilirsiniz"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|monitors; VENDOR.NAME=Acer;
+#. RU: Пример: CLASS.PLURAL.FOR=видеокарт|мониторов; VENDOR.NAME=Acer;
+msgid "seo_devicegroups-h1"
+msgstr "<span class='bold'>{{VENDOR.NAME}}</span> {{CLASS.SINGLE.FOR}} sürücüleri"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|monitors; VENDOR.NAME=Acer;
+#. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|мониторы; VENDOR.NAME=Acer;
+msgid "seo_devicegroups-keywords"
+msgstr "sürücüler windows 7 8 10 64 indirin indirin PC {{CLASS.PLURAL.MAIN}} {{VENDOR.NAME}}"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|monitors; VENDOR.NAME=Acer;
+#. RU: Пример: CLASS.PLURAL.FOR=видеокарт|мониторов; VENDOR.NAME=Acer;
+msgid "seo_devicegroups-footer-description"
+msgstr "{{VENDOR.NAME}} {{CLASS.PLURAL.FOR}} için sürücüleri indirin"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|monitors; RU: Пример:
+#. CLASS.PLURAL.MAIN=видеокарты|мониторы;
+msgid "seo_devicegroups-footer-application-category"
+msgstr "Kategori: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|monitors; VENDOR.NAME=Acer;
+#. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|мониторы; VENDOR.NAME=Acer;
+msgid "seo_devicegroups-footer-application-subcategory"
+msgstr "Alt kategori: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}} </span>"
+
+#. i18n: EN: Example: CLASS.SINGLE.FOR=videocard|monitor; VENDOR.NAME=Acer;
+#. RU: Пример: CLASS.SINGLE.FOR=видеокарты|монитора; VENDOR.NAME=Acer;
+msgid "seo_devicegroups-footer-content"
+msgstr "{{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} için sürücüleri indirin, ya da otomatik sürücü indirme ve güncelleme için DriverPack Solution yazılımını yükleyin"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
+#. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
+#. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
+#. GROUP.NAME=GeForce 210;
+msgid "seo_devicegroup-title"
+msgstr "Windows için {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.SINGLE.FOR}} sürücülerini ücretsiz indirin"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
+#. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
+#. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
+#. GROUP.NAME=GeForce 210;
+msgid "seo_devicegroup-description"
+msgstr "Windows 7, XP, 10, 8, ve 8.1 için {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.SINGLE.FOR}} sürücülerini indirin ve yükleyin, ya da otomatik sürücü kurulumu için DriverPack Solution yazılımını indirin"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
+#. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
+#. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
+#. GROUP.NAME=GeForce 210;
+msgid "seo_devicegroup-h1"
+msgstr "<span class='bold'>{{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.SINGLE.FOR}}</span> sürücüleri"
+
+#. i18n: EN: Example: GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU:
+#. Пример: GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210;
+msgid "seo_devicegroup-keywords"
+msgstr "sürücüler windows 7 8 10 64 indirin indirin PC {{GROUP.VENDOR.NAME}} {{GROUP.NAME}}"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
+#. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
+#. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
+#. GROUP.NAME=GeForce 210;
+msgid "seo_devicegroup-footer-description"
+msgstr "{{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.PLURAL.FOR}} için sürücüleri ücretsiz indirin"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
+#. GROUP.VENDOR.NAME=Nvidia; RU: Пример: CLASS.PLURAL.FOR=видеокарт|чипсетов;
+#. GROUP.VENDOR.NAME=Nvidia;
+msgid "seo_devicegroup-footer-application-category"
+msgstr "Kategori: <span itemprop='applicationCategory'>{{GROUP.VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets;
+#. GROUP.NAME=GeForce 210; RU: Пример: CLASS.PLURAL.MAIN=видеокарты|чипсеты;
+#. GROUP.NAME=GeForce 210;
+msgid "seo_devicegroup-footer-application-subcategory"
+msgstr "Alt kategori: <span itemprop='applicationSubCategory'>{{GROUP.NAME}} {{CLASS.PLURAL.MAIN}} </span>"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
+#. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
+#. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
+#. GROUP.NAME=GeForce 210;
+msgid "seo_devicegroup-footer-content"
+msgstr "{{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.SINGLE.FOR}} için sürücüleri indirin, ya da otomatik sürücü indirme ve güncelleme için DriverPack Solution yazılımını indirin"
+
+msgid "seo_hwids-title"
+msgstr "Aygıt sürücülerini Device_id'sine göre indirin | DriverPack Solution | Sayfa {{PAGE}}"
+
+msgid "seo_hwids-description"
+msgstr "Aygıt sürücülerini Device_id'sine göre indirin"
+
+msgid "seo_hwids-h1"
+msgstr "Ayıgtlar için tüm sürücüler"
+
+#. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+#. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+msgid "seo_hwid-title"
+msgstr "{{DEVICE.DEVICEID}} sürücüsünü ücretsiz indirin"
+
+#. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+#. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+msgid "seo_hwid-description"
+msgstr "Windows 7, XP, 10, 8, ve 8.1 için {{DEVICE.DEVICEID}} aygıtı sürücüsü"
+
+#. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+#. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+msgid "seo_hwid-h1"
+msgstr "<span class='bold'>{{DEVICE.DEVICEID}}</span>"
+
+#. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+#. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+msgid "seo_hwid-keywords"
+msgstr "sürücüler windows 7 8 10 64 indirin PC {{DEVICE.DEVICEID}}"
+
+#. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+#. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+msgid "seo_hwid-footer-description"
+msgstr "{{DEVICE.DEVICEID}} aygıtı için sürücüleri ücretsiz indirin"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets; RU: Пример:
+#. CLASS.PLURAL.MAIN=видеокарты|чипсеты;
+msgid "seo_hwid-footer-application-category"
+msgstr "Kategori: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets; VENDOR.NAME=Acer;
+#. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|чипсеты; VENDOR.NAME=Acer;
+msgid "seo_hwid-footer-application-subcategory"
+msgstr "Alt kategori: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}} </span>"
+
+#. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+#. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+msgid "seo_hwid-footer-content"
+msgstr "{{DEVICE.DEVICEID}} sürücüsünü indirin, ya da otomatik sürücü indirme ve güncelleme için DriverPack Solution yazılımını yükleyin"
+
+msgid "seo_notebooks-title"
+msgstr "Windows İS için tüm dizüstü modellerinin sürücülerini indirin"
+
+msgid "seo_notebooks-description"
+msgstr "Windows 7, XP, 10, 8, ve 8.1 için tüm dizüstü ve elüstü modellerinin sürücülerini indirin ve yükleyin, ya da otomatik sürücü güncelleme ve kurulum için DriverPack Solution yazılımını indirin"
+
+msgid "seo_notebooks-h1"
+msgstr "Dizüstü ve elüstü sürücüleri"
+
+msgid "seo_notebooks-keywords"
+msgstr "sürücüler sürücüler dizüstü dizüstü dizüstü elüstü elüstü windows 7 8 10 64 indirin indirin"
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_notebookvendor-title"
+msgstr "{{VENDOR.NAME}} dizüstü sürücülerini indirin | Windows"
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_notebookvendor-description"
+msgstr "Windows 7, XP, 10, 8, ve 8.1 için {{VENDOR.NAME}} dizüstü ve elüstü sürücülerini indirin ve yükleyin, ya da otomatik sürücü kurulumu ve güncelleme için DriverPack Solution yazılımını indirin"
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_notebookvendor-h1"
+msgstr "<span class='bold'>{{VENDOR.NAME}}</span> dizüstü ve elüstü sürücüleri"
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_notebookvendor-keywords"
+msgstr "sürücüler dizüstü elüstü windows 7 8 10 64 indirin {{VENDOR.NAME}}"
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_notebookvendor-footer-description"
+msgstr "{{VENDOR.NAME}} dizüstüleri için sürücüleri ücretsiz indirin"
+
+msgid "seo_notebookvendor-footer-application-category"
+msgstr "Kategori: <span itemprop='applicationCategory'>Dizüstüler</span>"
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_notebookvendor-footer-application-subcategory"
+msgstr "Alt kategori: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} dizüstüleri</span>"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
+#. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+msgid "seo_notebook-title"
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} dizüstü sürücüleri | Windows için indirin"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
+#. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+msgid "seo_notebook-description"
+msgstr "Windows 7, XP, 10, 8, ve 8.1 için {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} dizüstü ve elüstü sürücülerini indirin ve yükleyin, ya da otomatik sürücü kurulumu ve güncelleme için DriverPack Solution yazılımını indirin"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
+#. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+msgid "seo_notebook-h1"
+msgstr "<span class='bold'>{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}</span> dizüstü sürücüleri"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
+#. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+msgid "seo_notebook-keywords"
+msgstr "sürücüler sürücüler dizüstü dizüstü dizüstü elüstü elüstü windows 7 8 10 64 indirin indirin {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
+#. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+msgid "seo_notebook-footer-description"
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} dizüstüleri için sürücüleri ücretsiz indirin"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; RU: Пример:
+#. NOTEBOOK.VENDOR.NAME=Acer;
+msgid "seo_notebook-footer-application-category"
+msgstr "Kategori: <span itemprop='applicationCategory'>{{NOTEBOOK.VENDOR.NAME}} dizüstüleri</span>"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
+#. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+msgid "seo_notebook-footer-application-subcategory"
+msgstr "Alt kategori: <span itemprop='applicationSubCategory'>{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} dizüstüleri</span>"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
+#. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+msgid "seo_notebook-footer-content"
+msgstr "Buradan {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} dizüstü için sürücüleri indirebilirsiniz, ya da DriverPack Solution sitesinden otomatik sürücü kurulumu ve güncelleme için yazılımı indirin"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+#. CLASS.SINGLE.FOR=videocart|soundcart; RU: Пример:
+#. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+#. CLASS.SINGLE.FOR=видеокарты|звуковой карты;
+msgid "seo_notebookdevices-title"
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} dizüstü için {{CLASS.SINGLE.FOR}} sürücüleri | Windows için indirin"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+#. CLASS.SINGLE.FOR=videocart|soundcart; RU: Пример:
+#. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+#. CLASS.SINGLE.FOR=видеокарты|звуковой карты;
+msgid "seo_notebookdevices-description"
+msgstr "Windows 7, XP, 10, 8, ve 8.1 için {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} dizüstünün {{CLASS.SINGLE.FOR}} sürücülerini indirin ve yükleyin, ya da otomatik sürücü kurulumu ve güncelleme için DriverPack Solution yazılımını indirin"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+#. CLASS.PLURAL.FOR=videocarts|soundcarts; RU: Пример:
+#. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+#. CLASS.PLURAL.FOR=видеокарт|звуковых карт;
+msgid "seo_notebookdevices-h1"
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} dizüstü {{CLASS.SINGLE.FOR}} sürücüleri"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets;
+#. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU: Пример:
+#. CLASS.PLURAL.MAIN=видеокарты|чипсеты; NOTEBOOK.VENDOR.NAME=Acer;
+#. NOTEBOOK.NAME=AO533;
+msgid "seo_notebookdevices-keywords"
+msgstr "sürücüler sürücüler dizüstü dizüstü dizüstü elüstü {{CLASS.PLURAL.MAIN}} elüstü windows 7 8 10 64 indirin indirin {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+#. CLASS.PLURAL.FOR=videocarts|soundcarts; RU: Пример:
+#. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+#. CLASS.PLURAL.FOR=видеокарт|звуковых карт;
+msgid "seo_notebookdevices-footer-description"
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} dizüstülerinin {{CLASS.PLURAL.FOR}} için sürücülerini ücretsiz indirin."
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
+#. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+msgid "seo_notebookdevices-footer-application-category"
+msgstr "Kategori: <span itemprop='applicationCategory'> {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} dizüstüleri</span>"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets;
+#. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU: Пример:
+#. CLASS.PLURAL.MAIN=видеокарты|чипсеты; NOTEBOOK.VENDOR.NAME=Acer;
+#. NOTEBOOK.NAME=AO533;
+msgid "seo_notebookdevices-footer-application-subcategory"
+msgstr "Alt kategori: <span itemprop='applicationSubCategory'>{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} için {{CLASS.PLURAL.MAIN}}</span>"
+
+#. i18n: EN: Example: CLASS.SINGLE.FOR=videocard|chipset;
+#. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU: Пример:
+#. CLASS.SINGLE.FOR=видеокарты|чипсета; NOTEBOOK.VENDOR.NAME=Acer;
+#. NOTEBOOK.NAME=AO533;
+msgid "seo_notebookdevices-footer-content"
+msgstr "Windows 7, XP, 10, 8, ve 8.1 için {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} dizüstünün {{CLASS.SINGLE.FOR}} sürücülerini indirin, ya da sürücü güncellemesi için DriverPack Solution yazılımını indirin"
+
+msgid "seo_search-title"
+msgstr "{{QUERY}} ifadesine dair arama sonuçları | DriverPack Solution "
+
+msgid "seo_devicegroupos-title"
+msgstr "Windows {{OS}} için {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} sürücülerini indirin"
+
+msgid "seo_devicegroupos-description"
+msgstr "Windows {{OS}} için {{GROUP.VENDOR.NAME}} {{GROUP.NAME}}  sürücüsünü yükleyin, ya da otomatik sürücü kurulumu ve güncelleme için DriverPack Solution yazılımını indirin."
+
+msgid "seo_devicegroupos-h1"
+msgstr "Windows {{OS}} için {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} sürücüleri"
+
+msgid "seo_devicegroupos-keywords"
+msgstr "sürücüler Windows {{OS}} indirin indirin PC {{GROUP.NAME}} {{GROUP.VENDOR.NAME}}"
+
+msgid "seo_devicegroupos-footer-description"
+msgstr "Windows {{OS}} için {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.SINGLE.FOR}} sürücülerini ücretsiz indirin"
+
+msgid "seo_devicegroupos-footer-application-category"
+msgstr "Kategori: <span itemprop='applicationCategory'>{{GROUP.VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
+
+msgid "seo_devicegroupos-footer-application-subcategory"
+msgstr "Alt kategori: <span itemprop='applicationSubCategory'>{{GROUP.NAME}} {{CLASS.PLURAL.MAIN}} </span>"
+
+msgid "seo_devicegroupos-footer-content"
+msgstr "{{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.PLURAL.FOR}} (Windows {{OS}}) için sürücüleri indirin, ya da otomatik sürücü indirme ve güncelleme için DriverPack Solution yazılımını yükleyin"
+
+msgid "seo_notebookos-title"
+msgstr "Windows {{OS}} için {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} dizüstü sürücülerini indirin"
+
+msgid "seo_notebookos-description"
+msgstr "Windows {{OS}} için {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} dizüstü sürücülerini yükleyin, ya da otomatik sürücü kurulumu ve güncelleme için DriverPack Solution yazılımını indirin"
+
+msgid "seo_notebookos-h1"
+msgstr "Windows {{OS}} için {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} dizüstü sürücüleri"
+
+msgid "seo_notebookos-keywords"
+msgstr "sürücüler sürücüler dizüstü dizüstü dizüstü elüstü elüstü Windows {{OS}} indirin indirin {{NOTEBOOK.NAME}} {{NOTEBOOK.VENDOR.NAME}}"
+
+msgid "seo_notebookos-footer-description"
+msgstr "Windows {{OS}} için {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} dizüstüleri sürücülerini ücretsiz indirin"
+
+msgid "seo_notebookos-footer-application-category"
+msgstr "Kategori: <span itemprop='applicationCategory'>{{NOTEBOOK.VENDOR.NAME}} dizüstüleri</span>"
+
+msgid "seo_notebookos-footer-application-subcategory"
+msgstr "Alt kategori: <span itemprop='applicationSubCategory'>{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} dizüstüleri</span>"
+
+msgid "seo_notebookos-footer-content"
+msgstr "Buradan {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} dizüstü (Windows {{OS}}) için sürücüleri indirebilirsiniz, ya da DriverPack Solution sitesinden otomatik sürücü kurulumu ve güncelleme için yazılımı indirin"
+
+msgid "seo_deviceclassos-title"
+msgstr "Windows {{OS}} için {{CLASS.SINGLE.FOR}} sürücülerini indirin"
+
+msgid "seo_deviceclassos-description"
+msgstr "Windows {{OS}} için {{CLASS.SINGLE.FOR}} sürücülerini yükleyin, ya da otomatik sürücü kurulumu ve güncelleme için DriverPack Solution yazılımını indirin."
+
+msgid "seo_deviceclassos-h1"
+msgstr "Windows {{OS}} için {{CLASS.SINGLE.FOR}} sürücüleri"
+
+msgid "seo_deviceclassos-keywords"
+msgstr "{{CLASS.SINGLE.FOR}} sürücüleri Windows {{OS}} indirme indirme"
+
+msgid "seo_deviceclassos-footer-description"
+msgstr "Windows {{OS}} için {{CLASS.SINGLE.FOR}} sürücülerini ücretsiz indirin"
+
+msgid "seo_deviceclassos-footer-application-category"
+msgstr "Kategori: <span itemprop='applicationCategory'>Aygıtlar</span>"
+
+msgid "seo_deviceclassos-footer-application-subcategory"
+msgstr "Alt kategori: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+
+msgid "seo_devicegroupsos-title"
+msgstr "Windows {{OS}} için {{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} sürücülerini indirin"
+
+msgid "seo_devicegroupsos-description"
+msgstr "Windows {{OS}} için {{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} sürücülerini yükleyin, ya da otomatik sürücü kurulumu ve güncelleme için DriverPack Solution yazılımını indirin"
+
+msgid "seo_devicegroupsos-h1"
+msgstr "Windows {{OS}} için {{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} sürücüleri"
+
+msgid "seo_devicegroupsos-keywords"
+msgstr "sürücüler Windows {{OS}} indirin indirin PC {{CLASS.PLURAL.MAIN}} {{VENDOR.NAME}}"
+
+msgid "seo_devicegroupsos-footer-description"
+msgstr "Windows {{OS}} için {{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} sürücülerini indirin"
+
+msgid "seo_devicegroupsos-footer-application-category"
+msgstr "Kategori: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+
+msgid "seo_devicegroupsos-footer-application-subcategory"
+msgstr "Alt kategori: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}} </span>"
+
+msgid "seo_devicegroupsos-footer-content"
+msgstr "{{VENDOR.NAME}} {{CLASS.PLURAL.FOR}} (Windows {{OS}}) için sürücüleri ücretsiz indirin, ya da sürücü indirmek ve güncellemek için DriverPack Solution yazılımını yükleyin"
+
+msgid "seo_notebookvendoros-title"
+msgstr "Windows {{OS}} için {{VENDOR.NAME}} dizüstü sürücülerini indirin"
+
+msgid "seo_notebookvendoros-description"
+msgstr "Windows {{OS}} için {{VENDOR.NAME}} dizüstü sürücülerini yükleyin, ya da otomatik sürücü kurulumu ve güncelleme için DriverPack Solution yazılımını indirin"
+
+msgid "seo_notebookvendoros-h1"
+msgstr "Windows {{OS}} için {{VENDOR.NAME}} dizüstü sürücüleri"
+
+msgid "seo_notebookvendoros-keywords"
+msgstr "sürücüler sürücüler dizüstü dizüstü dizüstü elüstü elüstü Windows {{OS}} indirin indirin {{VENDOR.NAME}}"
+
+msgid "seo_notebookvendoros-footer-description"
+msgstr "Windows {{OS}} için {{VENDOR.NAME}} dizüstüleri sürücülerini ücretsiz indirin"
+
+msgid "seo_notebookvendoros-footer-application-category"
+msgstr "Kategori: <span itemprop='applicationCategory'>Dizüstüler</span>"
+
+msgid "seo_notebookvendoros-footer-application-subcategory"
+msgstr "Alt kategori: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} dizüstüleri</span>"
+
+msgid "seo_notebookvendoros-footer-content"
+msgstr "Windows {{OS}} için {{VENDOR.NAME}} dizüstü sürücülerini ücretsiz indirin, ya da otomatik sürücü kurulumu ve güncelleme için DriverPack Solution yazılımını yükleyin"
+
+msgid "seo_hwidos-title"
+msgstr "Windows {{OS}} için {{DEVICE.DEVICEID}} sürücüsünü indirin"
+
+msgid "seo_hwidos-description"
+msgstr "Windows {{OS}} sürümü için {{DEVICE.DEVICEID}} sürücüsünü ücretsiz indirin"
+
+msgid "seo_hwidos-h1"
+msgstr "Windows {{OS}} için {{DEVICE.DEVICEID}} aygıtı sürücüsü"
+
+msgid "seo_hwidos-keywords"
+msgstr "sürücüler Windows {{OS}} indirin indirin PC {{DEVICE.DEVICEID}}"
+
+msgid "seo_hwidos-footer-description"
+msgstr "Windows {{OS}} için {{DEVICE.DEVICEID}} aygıtı sürücülerini ücretsiz indirin"
+
+msgid "seo_hwidos-footer-application-category"
+msgstr "Kategori: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+
+msgid "seo_hwidos-footer-application-subcategory"
+msgstr "Alt kategori: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}} </span>"
+
+msgid "seo_hwidos-footer-content"
+msgstr "Windows {{OS}} için {{DEVICE.DEVICEID}} aygıtının sürücüsünü indirin, ya da otomatik sürücü kurulumu ve güncelleme için DriverPack Solution yazılımını yükleyin"
+
+msgid "seo_notebookdevicesos-title"
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} dizüstü için {{CLASS.SINGLE.FOR}} sürücüleri | Windows {{OS}} için indirin"
+
+msgid "seo_notebookdevicesos-description"
+msgstr "Windows {{OS}} için {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} dizüstünün {{CLASS.SINGLE.FOR}} sürücülerini yükleyin, ya da otomatik sürücü kurulumu ve güncelleme için DriverPack Solution yazılımını indirin"
+
+msgid "seo_notebookdevicesos-h1"
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} dizüstülerinin {{CLASS.PLURAL.FOR}} için sürücüleri | Windows {{OS}}"
+
+msgid "seo_notebookdevicesos-keywords"
+msgstr "sürücüler sürücüler dizüstü dizüstü dizüstü elüstü elüstü {{CLASS.PLURAL.MAIN}} Windows {{OS}} indirin indirin {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
+
+msgid "seo_notebookdevicesos-footer-description"
+msgstr "Windows {{OS}} için {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} dizüstülerinin {{CLASS.SINGLE.FOR}} sürücülerini ücretsiz indirin"
+
+msgid "seo_notebookdevicesos-footer-application-category"
+msgstr "Kategori: <span itemprop='applicationCategory'> {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} dizüstüleri</span>"
+
+msgid "seo_notebookdevicesos-footer-application-subcategory"
+msgstr "Alt kategori: <span itemprop='applicationSubCategory'>{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} için {{CLASS.PLURAL.MAIN}}</span>"
+
+msgid "seo_notebookdevicesos-footer-content"
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} dizüstünün (Windows {{OS}}) {{CLASS.SINGLE.FOR}} için sürücüleri indirin, ya da sürücü güncellemesi için DriverPack Solution yazılımını indirin"
+
+msgid "seo_promopage_title"
+msgstr "DriverPack – ücretsiz sürücü kurulumu"
+
+msgid "seo_promo-description"
+msgstr "DriverPack Solution, aygıtınız için sürücüleri ücretsiz yüklemeyi, ya da otomatik sürücü kurulumu ve güncelleme için yazılımı indirmeyi öneriyor"
+
+msgid "seo_promo-keywords"
+msgstr "indirin driver pack sürücüler windows 7 8 10 64 dizüstü ücretsiz sürücü yükleyici sürücü kurulum yazılım"
+
+msgid "seo_promodevice_title"
+msgstr "Usb, bluetooth, yazıcılar, Wi-Fi, ve görüntü kartları için sürücüleri ücretsiz indirin"
+
+msgid "seo_promodevice-description"
+msgstr "DriverPack Solution usb, bluetooth, yazıcı, Wi-Fi, ve görüntü kartı sürücülerinizi en son sürümüne güncelleyecek"
+
+msgid "seo_promodevice-keywords"
+msgstr "sürücü, bluetooth, yazıcı, ses kartı, web kamera, fare, görüntü sürücüsü"
+
+msgid "seo_promovendors_title"
+msgstr "Lenovo, Samsung, Acer, Asus, ve Dell için sürücüleri ücretsiz indirin"
+
+msgid "seo_promovendors-description"
+msgstr "DriverPack Lenovo, Samsung, Acer, Asus, ve Dell sürücülerini en son sürüme güncelleyecek"
+
+msgid "seo_promovendors-keywords"
+msgstr "sürücü, dell, samsung, lenovo, asus, acer, toshiba, asus"
+
+msgid "seo_promodrivers_title"
+msgstr "Windows 7, 10, XP, 8 için sürücüleri indirin ve yükleyin"
+
+msgid "seo_promodrivers-description"
+msgstr "DriverPack Windows 7, Windows 10, Windows XP, Windows 8 sürücülerini ücretsiz güncelleyecek"
+
+msgid "seo_promodrivers-keywords"
+msgstr "windows 7 sürücüsü, sürücü indirin, windows 10 sürücüsü, sürücü güncellemesi, windows sürücüsü, ücretsiz sürücüler"
+
+msgid "seo_forgamers-description"
+msgstr "Windows 7, XP, 10, 8, ve 8.1 için görüntü kartı sürücülerini yükleyin, ya da otomatik sürücü kurulumu ve güncelleme için DriverPack Solution yazılımını indirin"
+
+msgid "seo_forgamers-keywords"
+msgstr "görüntü kartı sürücüleri windows 7 8 10 64 indirin indirin"
+
+msgid "seo_wannacrypt_title"
+msgstr "WannaСry virüsü - PC ve dizüstünüzü nasıl korursunuz?"
+
+msgid "seo_wannacrypt-description"
+msgstr "PC ve dizüstünüz için WannaCry virüsüne karşı ücretsiz korumayı indirin"
+
+msgid "seo_license_title"
+msgstr "Lisans Sözleşmesi | DriverPack Solution"
+
+msgid "seo_license-description"
+msgstr "DriverPack Solution kullanılarak dağıtılan yazılımın Lisans Sözleşmesi ve Kullanım Koşulları"
+
+msgid "seo_license-keywords"
+msgstr "sürücüler indirme ücretsiz windows 7 XP 8 10 DriverPack Solution"
+
+msgid "seo_standards_title"
+msgstr "Önerilen yazılım standartları | DriverPack Solution"
+
+msgid "seo_standards-description"
+msgstr "DriverPack tarafından yazılım için önerilen standartlar ve gereksinimler"
+
+msgid "seo_standards-keywords"
+msgstr "yazılım standartları SW DriverPack"
+
+msgid "seo_deviceclass-footer-content-bluetooth"
+msgstr "Bu Bölümde, tüm Windows İşletim Sistemi sürümleri için <strong>Bluetooth sürücülerini</strong> indirebilirsiniz. Sürücüler hem iyi bilinen üreticilerden (Hewlett Packard, Qcom ve Celink gibi), hem de daha az bilinen markalardan temin edilir. Toplamda, bu katalogda mevcut 90'dan fazla üreticiden gelen <b>Bluetooth sürücülerini indirebilirsiniz</b>.<br />Eğer ihtiyacınız olan sürücüyü bulmada başarısız olduysanız, otomatik sürücü güncelleme için DriverPack Solution yazılımımızı yükleyin - kesinlikle ücretsizdir!"
+
+msgid "seo_deviceclass-footer-content-cardreader"
+msgstr "Kart okuyucular, bellek kartının bilgilerini okuyan aygıtlardır. Eğer dosyalarınızı video kameradan ya da bilgisayarınızdaki kameradan taşımanız gerekirse, bu aygıt size yardımcı olacaktır. <strong>Kart okuyucular için sürücüler</strong> bu Bölümde mevcuttur. Burada tüm popüler Windows İS sürümleri için 50'den fazla üreticiden gelen sürücüler bulunmaktadır. Belirli <b>kart okuyucular için sürücüleri</b> indirebilmenizin yanı sıra (eğer bazı nedenlerden dolayı ihtiyacınız olan sürücüyü burada bulamıyorsanız) otomatik sürücü güncelleme için DriverPack Solution yazılımını yükleyebilirsiniz. Bu yazılım sizin için kesinlikle ücretsiz olacaktır!"
+
+msgid "seo_deviceclass-footer-content-chipset"
+msgstr "Bu Bölüm, Exar ve Prolific gibi bu tür donanımın en çok dağıtımını yapan üreticilerin <strong>yonga setleri için sürücüleri</strong> içerir. 64 veya 86 bitlik Windows XP, Windows 7, 8, 8.1 ve 10 gibi şu anda kullanılan tüm Windows sürümleri için yonga seti sürücüleri burada temsil edilir, ve hatta bugün o kadar popüler olmasa da Windows Vista gibi bir sistem için yonga seti sürücüleri bile. Eğer bazı nedenlerden dolayı ilgilendiğiniz <b>yonga seti sürücüsünü</b> bulmada ve indirmede başarısız olursanız, DriverPack Solution otomatik sürücü güncelleme yazılımımızı kullanın - kesinlikle ücretsizdir ve sizin için herşeyi yapacaktır!"
+
+msgid "seo_deviceclass-footer-content-inputdev"
+msgstr "Giriş aygıtı türlerinin (fareler, klavyeler, oyun çubukları, vb.) böyle geniş bir yelpazesi ve bunların üreticileri varken, gerekli sürücüyü seçmek zorlaşır. Biz bu sorunu sizin için çözüyoruz - bu Bölümde <strong>giriş aygıtlarının sürücülerini</strong> seçebilir ve kesinlikle ücretsiz indirebilirsiniz. Eğer bazı nedenlerden dolayı ihtiyacınız olan <b>giriş aygıtı sürücüsünü</b> kataloğumuzda bulmada başarısız olursanız, ücretsiz DriverPack Solution yazılımını indirin - otomatik olarak donanım yapılandırmanıza erişecek ve giriş aygıtlarınız için tüm gerekli sürücüleri seçecek."
+
+msgid "seo_deviceclass-footer-content-lan"
+msgstr "Düzgün <b>ağ kartı sürücüsü</b> seçimi olmadan, doğru Internet erişimi ya zor olacak, ya da tamamen imkansız olacaktır. Web sitemizin bu bölümü, üreticisinin kim olduğuna bakmaksızın ağ donanım yapılandırmanız için mükemmel sürücüyü seçmenize yardımcı olacak - 80'den fazla ağ donanım üreticilerinden gelen sürücüler, şu anda kullanılmakta olan tüm Windows İS sürümleri çeşitleri içinde burada temsil edilir. Eğer bazı nedenlerden dolayı üreticinizin belirli bir <b>ağ kartı sürücüsünü</b> bulmada başarısız olduysanız, DriverPack Solution otomatik sürücü güncelleme yazılımımızı kullanın - sizin için sürücü seçim sorununu ücretsiz çözecek!"
+
+msgid "seo_deviceclass-footer-content-massstorage"
+msgstr "Bu Bölümde şu anda kullanımı kesinlikle ücretsiz olan tüm Windows İS sürümleri için <b>denetleyici sürücüsünü indirebilirsiniz</b>. İhtiyacınız olan sürücüyü bulamadınız mı? DriverPack Solution sürücü arama ve kurulum yazılımımızı kullanın - kesinlikle ücretsizdir ve sizin için herşeyi yapacaktır!"
+
+msgid "seo_deviceclass-footer-content-modem"
+msgstr "Bu Bölümde, bu donanım türünün tüm büyük üreticilerinden gelen ve üstelik şu anda mevcut tüm Windows İS sürümleri için <strong>modem sürücülerini bulabilir ve indirebilirsiniz</strong>. Burada, Smartlink, AVM, Agere ve 50'den fazla bu gibi üreticilerden gelen sürücüler temsil edilir. İhtiyacınız olan sürücüyü seçmede başarısız mı oldunuz? Evrensel ve kesinikle ücretsiz olan DriverPack Solution otomatik sürücü güncelleme yazılımımızı kullanın."
+
+msgid "seo_deviceclass-footer-content-monitor"
+msgstr "Genellikle, <b>monitörler için sürücüler</b> herhangi bir monitör ile verilen disklerde kayıtlıdır, ancak monitörünüz ikinci el ise durum farklı olabilir. Bu nedenle, monitörünüz tamam ve sorunsuz çalışıyor görünse de sistem anakartı tanımayabilir. Bu durumda, web sitemizin bu Bölümü içinde her zaman yardım alabilirsiniz - burada her zaman bugün mevcut tüm Windows İS sürümleri ve yapılandırmanız için en son güncel <b>monitör sürücülerini</b> indirebilirsiniz. İhtiyacınız olan sürücüyü bulmada başarısız mı oldunuz? O zaman ücretsiz DriverPack Solution yazılımımızı kullanmanızı öneririz - bu, monitör sürücüsünü arama ve güncelleme işleminizi daha kolay hale getirecek."
+
+msgid "seo_deviceclass-footer-content-tvtuner"
+msgstr "<b>TV kartınız için sürücü indirmeye</b> mi ihtiyacınız var? O zaman doğru Bölümdesiniz - burada şu anda kullanılmakta olan tüm Windows işletim sistemi çeşitleri için en son sürümlerde <b>TV kartı sürücülerini indirebilir ve yükleyebilirsiniz</b>. İhtiyacınız olan sürücüyü bulmadınız mı? Sorun değil! Ücretsiz DriverPack Solution yazılımımızı indirin - ihtiyacınız olan doğru TV kartı çip sürücüsünü seçecek, ve bunu otomatik olarak, hızlıca ve sorunsuz olarak yapacak!"
+
+msgid "seo_deviceclass-footer-content-sound"
+msgstr "Bilgisayarda hiç ses yok mu? <strong>Ses kartı sürücüsünü</strong> ne kadar zaman önce güncellediniz? Sitemizin bu Bölümünde en son güncel ses kartı sürücülerini indirin, ya da ücretsiz DriverPack Solution otomatik sürücü güncelleme yazılımını yükleyin - ses kartınızın sürücüsü ile olan tüm sorunlarınızı çözecek!"
+
+msgid "seo_deviceclass-footer-content-video"
+msgstr "Oyun çalışmıyor mu? Resim yapay mı görüntüleniyor? O zaman sitemizden <strong>görüntü kartı için sürücüleri</strong> indirmenizi öneriyoruz. Çok sık olan sorunlar tam olarak bunlardandır. 43 üreticiden gelen sürücüler bu Bölümde temsil edilir. Burada, şu anda kullanılmakta olan herhangi bir Windows İS sürümü için sürücüyü kolayca seçebilirsiniz. İhtiyacınız olan <b>görüntü kartı sürücüsünü</b> bulmada ve indirmede başarısız mı oldunuz? DriverPack Solution otomatik sürücü güncelleme yazılımımızı kullanın - kesinlikle ücretsizdir!"
+
+msgid "seo_deviceclass-footer-content-wifi"
+msgstr "Bu Bölümde, tüm gelişmiş Windows İS sürümleri için her iki 802.11g Standartının yanı sıra 802.11n Standartının Kablosuz Ağ sürücüsünü indirebilirsiniz. Uzmanlarımız tarafından tekrar tekrar doğrulanan, en son sürücü yapılandırması burada mevcuttur. Eğer kendiniz <b>Kablosuz Ağ sürücüsünü yüklemede</b> başarısız olduysanız, umutsuzluğa kapılmayın - DriverPack Solution yazılımımızın en son sürümünü indirin - otomatik olarak donanımınız için tümüyle sürücüleri seçecektir."
+
+msgid "seo_deviceclass-footer-content-phone"
+msgstr "Bir telefon veya bir akıllı telefon için sürücülere mi ihtiyacınız var? Sorun değil - bu Bölümde, bugünkü akıllı telefon pazarındaki tüm en genel üreticilerden gelen ve hemen hemen herhangi bir model <b>akıllı telefon için sürücüleri indirebilir ve yükleyebilirsiniz</b>. Tüm sürücülerimiz doğrulanmış ve güvenilirdir!"
+
+msgid "seo_notebookvendor-footer-content-asus"
+msgstr "Şu anda kullanılmakta olan tüm Windows İS sürümlerinin (Windows XP, Windows 7, 8, 8.1 ve 10) en son ve en güvenilir <strong>Asus dizüstüleri için sürücüleri</strong> kataloğumuzda temsil edilir. Eğer bazı nedenlerden dolayı <b>Asus dizüstü sürücülerinden</b> memnun kalmadıysanız veya belirli dizüstü modeliniz için sürücüyü bulmada bir sorunla karşılaştıysanız, sürücü güncellemesi için DriverPack Solution yazılımımızı kullanın - ücretsizdir ve sizin için herşeyi yapacaktır!"
+
+msgid "seo_notebookvendor-footer-content-lg"
+msgstr "Şu anda kullanılmakta olan tüm Windows İS sürümleri için tüm en son güncel <strong>LG dizüstü sürücüleri</strong> bu Bölümde temsil edilir. Ayrıca, tam olarak modelinizin <b>LG dizüstü sürücülerini</b> bulmada beklenmedik bir şekilde başarısız olursanız, otomatik sürücü kurulumu için DriverPack Solution yazılımımızı kullanabilirsiniz - yazılımımız ücretsizdir ve sizin için herşeyi yapacaktır!"
+
+msgid "seo_notebookvendor-footer-content-sony"
+msgstr "Sony'den yeni bir dizüstü mü satın aldınız, ancak işleyişi ile ilgili sorunlarla mı karşılaştınız? Bu Bölümde, tam olarak İS ile uyumlu olan tüm güncel <strong>Sony dizüstüleri için sürücüleri</strong> indirebilirsiniz. Bu üreticiden gelen 200'den fazla model için uygun olan <b>Sony VAIO dizüstü sürücüleri</b> burada temsil edilir. Eğer bazı nedenlerden dolayı ihtiyacınız olan doğru sürücüyü listemizde bulmada başarısız olursanız, sürücü güncellemesi için yazılımımızı kullanın - kesinlikle ücretsizdir ve dizüstü yapılandırmanız için tam olarak uygun olan sürücüyü seçecektir."
+
+msgid "seo_notebookvendor-footer-content-lenovo"
+msgstr "<strong>Lenovo dizüstü için sürücüler</strong> sitemizin bu Bölümünde indirilebilir - bu üreticinin (Ideapad, Thinkpad, vb.) tüm popüler ve çok popüler olmayan modelleri için sürücüler burada temsil edilir. Sitemizde, Windows işletim sistemi sürümünüz için tam olarak uygun olacak sürücüleri bulabilirsiniz. Eğer kendi çabanızla gerekli <b>Lenovo dizüstü için sürücüleri</b> aramanız başarılı olmadıysa, sürücü güncelleme yazılımımızı kullanın - herşeyi hızlıca ve otomatik kipte yapacak."
+
+msgid "seo_notebookvendor-footer-content-samsung"
+msgstr "Samsung dizüstü mü satın aldınız ve şu an bunun için sürücülere mi ihtiyacınız var? Şu anda kullanılmakta olan tüm Windows sürümleri için tüm en son güncel <strong>Samsung dizüstü için sürücüler</strong> burada temsil edilir. Kataloğumuzda bu üreticinin 100'den fazla dizüstü ve elüstü modelleri için sürücüleri vardır, ve liste her geçen gün büyümektedir. Eğer kendiniz <b>Samsung dizüstüleri için sürücüleri</b> indiremede başarısız olduysanız, o zaman otomatik sürücü arama ve kurulum için her zaman DriverPack Solution yazılımını kullanabilirsiniz - kesinlikle ücretsizdir!"
+
+msgid "seo_notebookvendor-footer-content-msi"
+msgstr "Burada, şu an kullanılmakta olan (Vista gibi bugün için nadir olan sürümler dahil) herhangi bir Windows İS sürümü için modelinizin <strong>MSI dizüstü sürücülerini</strong> bulabilir ve indirebilirsiniz. Eğer kendi çabanızla kataloğumuzda ihtiyacınız olan sürücüleri bulmada başarısız olursanız, otomatik sürücü arama ve kurulum için DriverPack Solution yazılımımızı indirin - kesinlikle ücretsizdir!"
+
+msgid "seo_notebookvendor-footer-content-toshiba"
+msgstr "Bu Bölümde, şu an kullanılmakta olan kesinlikle tüm Windows İS sürümleri için <b>Toshiba dizüstü sürücülerini</b> indirebilirsiniz. Bu üreticinin 300'den fazla dizüstü modeli kataloğumuzda temsil edilir, ve liste her geçen gün büyümektedir. İhtiyacınız olan modeli kataloğumuzda bulmada başarısız mı oldunuz? Otomatik sürücü arama ve kurulum için DriverPack Solution yazılımını indirin - otomatik kipte kendi başına herşeyi yapacaktır."
+
+msgid "seo_deviceclass-footer-content-video-amd"
+msgstr "Bir oyun AMD görüntü kartında başlamıyor mu? Bu Bölümde, <b>AMD Radeon görüntü kartı sürücülerini</b> en son güncel sürüme güncelleyebilirsiniz. Burada şu an mevcut olan tüm Windows İS sürümleri için AMD Radeon görüntü kartı (AMD Radeon HD serisi için olanlar da dahil) sürücülerini indirebilirsiniz. İhtiyacınız olan sürücüyü kendi başınıza bulmada başarısız mı oldunuz? Ücretsiz DriverPack Solution yazılımımızı kullanın - <b>AMD görüntü kartı sürücülerini</b> ve ATI'yi herhangi bir el ile müdahaleye gerek kalmadan otomatik kipte güncelleyecek."
+
+msgid "seo_deviceclass-footer-content-video-nvidia"
+msgstr "Bir oyun işlemiyor mu? Sorun görüntü kartınızın sürücülerinden olabilir. Sitemizden en son sürümünü indirerek <b>Nvidia görüntü kartı sürücülerini</b> güncelleyin ve deneyin. Ayrıca burada şu anda kullanımı kesinlikle ücretsiz olan tüm Windows İS sürümleri için en son seri <b>Nvidia Geforce görüntü kartı sürücülerini</b> indirebilirsiniz. Eğer bazı nedenlerden dolayı kataloğumuzda Nvidia görüntü kartınız için uygun olan sürücüleri bulmada başarısız olduysanız, sürücü aramak ve güncellemek için ücretsiz DriverPack Solution yazılımımızı kullanın - kesinlikle ücretsizdir ve gereken yapılandırma sürücüsünü kendiliğinden ve herhangi bir gecikme olmadan seçecektir."
+
+msgid "seo_deviceclass-footer-content-video-intel"
+msgstr "Intel HD Graphics görüntü kartı sürücülerine mi ihtiyacınız var? Bu Bölümde kesinlikle ücretsiz olan bu seri görüntü kartları için sürücüleri indirebilirsiniz. Eğer keniniz <b>Intel görüntü kartı sürücülerini</b> bulamadıysanız ve indiremediyseniz, otomatik sürücü arama ve güncelleme için ücretsiz DriverPack Solution yazılımımızı kullanın - sizin için herşeyi yapacak!"
+
+msgid "seo_deviceclass-footer-content-chipset-intel"
+msgstr "Bilgisayarınız için <b>Intel yonga seti sürücüsünün</b> nasıl yükleneceğiyle ilgili bir sorunuz mu var? Bu Bölümde, çok sorun yaşamadan <b>Intel yonga seti sürücüsünü</b> bulabilir ve indirebilirsiniz. Eğer bazı nedenlerden dolayı kataloğumuzdan Intel yonga seti için sürücü indirmede başarısız olduysanız, ücretsiz DriverPack Solution otomatik sürücü güncelleme yazılımımızı kullanın."
+
+msgid "seo_deviceclass-footer-content-chipset-asus"
+msgstr "Bu Bölümde kesinlikle ücretsiz olan <b>Asus yonga seti sürücülerini indirebilirsiniz</b>. Şu anda kullanılmakta olan tüm Windows işletim sistemi sürümleri (7, 8.1, vb.) için <b>Asus yonga seti sürücüleri</b> burada temsil edilir. Veya otomatik DriverPack Solution yazılımımızı kullanın - müdahale etmeden otomatik kipte Asus yonga seti için gereken sürücüyü seçecek."
+
+msgid "seo_deviceclass-footer-content-chipset-amd"
+msgstr "Bu Bölümde kesinlikle ücretsiz olan <b>AMD yonga seti sürücüsünü indirmenizi</b> öneriyoruz. Windows 7, Windows 10, Windows 8.1, vb. dahil şu anda kullanılmakta olan tüm Windows İS sürümleri için AMD yonga seti sürücülerinin sürümleri burada temsil edilir. Eğer kendiniz beklenmedik bir şekilde <b>AMD yonga seti için sürücüyü</b> bulumadınız ve yükleyemediyseniz, sorun değil - DriverPack Solution otomatik sürücü seçme yazılımımızı kullanın. Yazılımımız kesinlikle ücretsizdir ve sizin için herşeyi yapacak!"
+
+msgid "seo_deviceclass-footer-content-sound-msi"
+msgstr "MSI firmasından gelen ses kartının işleyişinde herhangi bir sorununuz mu var? O zaman sürücülerini güncellemenizi öneririz - çoğunlukla sorun tam olarak güncel olmayan sürücü sürümüdür. Bu Bölümde şu anda kullanılmakta olan tüm Windows İS sürümleri için kesinlikle ücretsiz olan <b>MSI ses kartı sürücüsünü bulabilir ve indirebilirsiniz</b>. Kendiniz ihtiyacınız olan sürücüyü bulmada başarısız mı oldunuz? Sürücü arama ve kurulum için DriverPack Solution yazılımımızı kullanın - otomatik kipte çalışır ve kesinlikle ücretsizdir!"
+
+msgid "seo_deviceclass-footer-content-monitor-acer"
+msgstr "Acer monitör için sürücünün nasıl yükleneceğiyle ilgili sorunuz mu var? Bu Bölümde, şu an kullanılmakta olan tüm Windows işletim sistemi sürümleri için en son sürüm <b>Acer monitör sürücülerini</b> bulabilirsiniz. Ayrıca ücretsiz DriverPack Solution yazılımımızı kullanarak da otomatik kipte <b>Acer monitör sürücülerini güncelleyebilirsiniz</b>."
+
+msgid "seo_deviceclass-footer-content-monitor-asus"
+msgstr "Asus firmasından gelen monitörlerin işleyişiyle ilgili herhangi bir sorununuz mu var? O zaman sorun monitör sürücüsünde olabilir. İlgilendiğiniz herhangi bir modelin <b>Asus monitör için sürücüsünü bulabileceğiniz ve indirebileceğiniz</b> kataloğumuzu kullanın. Eğer bazı nedenlerden dolayı kendiniz gereken model için sürücüyü bulamadıysanız, DriverPack Solution yazılımımızı indirin - donanım yapılandırmanızın temel incelemesi üzerine otomatik olarak gereken sürücüyü seçecek."
+
+msgid "seo_deviceclass-footer-content-monitor-benq"
+msgstr "Monitörün işleyişinde herhangi bir sorununuz mu var? <b>Benq monitör için sürücü indirmeniz</b> mi gerekiyor? Kataloğumuzda tüm BenQ monitör modelleri için en son yapılandırma sürücülerini bulacaksınız. Eğer gereken model için sürücüyü bulamadıysanız, ümidinizi kaybetmeyin. DriverPack Solution sürücü arama ve güncelleme yazılımımızı kullanın - müdahale etmeden gereken sürücüyü otomatik olarak bulacak!"
+
+msgid "seo_deviceclass-footer-content-monitor-compaq"
+msgstr "<b>Compaq monitör için sürücüye</b> mi ihtiyacınız var? Kayıt olmadan ve kesinlikle ücretsiz olan Compaq monitör sürücülerini kataloğumuzdan indirmenizi öneririz. Ayrıca DriverPack Solution sürücü arama ve güncelleme yazılımımızı da kullanabilirsiniz - monitörünüz için en son sürücüyü otomatik kipte seçecektir."
+
+msgid "seo_deviceclass-footer-content-monitor-dell"
+msgstr "Dell monitörünüzün işleyişinde herhangi bir sorun mu meydana geliyor? Ekranda çeşitli izler mi görünmeye başlıyor? O zaman sorun büyük bir olasılıkla eskimiş sürücüler olabilir. Kataloğumuzdan tüm Windows İS sürümleri için en son yapılandırılan <b>Dell monitörü sürücüsünü indirebilirsiniz</b>. Eğer ihtiyacınız olan sürücüyü kendiniz bulamadıysanız, DriverPack Solution yazılımımızı indirin - ücretsizdir ve gereken sürücüleri otomatik olarak seçilmesinde tüm işi yapacak!"
+
+msgid "seo_deviceclass-footer-content-monitor-hp"
+msgstr "<b>HP monitör için sürücü indirmeye</b> mi ihtiyacınız var? Bu Bölümde tüm en son Windows işletim sistemi sürümleri için tüm en son ve güncel HP monitör sürücülerini bulacaksınız. Bu Bölümde temsil edilen tüm sürücüler işleyebilirlik ve güvenlik için uzmanlarımız tarafından seçildi ve doğrulandı. Kendi çabanızla ihitiyacınız olan sürücüyü bulamadıysanız, DriverPack Solution yazılımımızı kullanın - müdahale etmeden ve hızlıca herşeyi yapacak!"
+
+msgid "seo_deviceclass-footer-content-monitor-lg"
+msgstr "<b>LG monitör için sürücünüz</b> eskimiş mi? Resimlerde izler mi görünüyor, yoksa monitör sadece çalışmayı mı reddediyor? Hiçbir sorun ve zorluk olmadan <b>LG Flatron monitör için sürücü indirebileceğiniz</b> büyük kataloğumuzu kullanın! Gereken sürücüyü kendi başınıza aramanız için vaktiniz yoksa, DriverPack Solution yazılımımızı kullanın - tüm gereken sürücüleri kendisi seçecek."
+
+msgid "seo_deviceclass-footer-content-monitor-panasonic"
+msgstr "Panasonic firmasından gelen monitörün işleşiyle ilgili herhangi bir sorun mu çıktı? Sorun sürücüler ile ilgili olabilir. Kataloğumuzda kesinlikle ücretsiz olan ve ilave sorunlar olmadan <b>Panasonic monitör için sürücüyü indirebilirsiniz</b>! Eğer bazı nedenlerden dolayı Panasonic monitör modeliniz için gereken sürücüyü bulamazsanız, DriverPack Solution sürücü arama ve güncelleme yazılımımızı indirin - kesinlikle ücretsizdir!"
+
+msgid "seo_deviceclass-footer-content-monitor-samsung"
+msgstr "Bu Bölümde <b>Samsung Syncmaster monitör için sürücüyü ücretsiz indirilebilirsiniz</b>. Tüm en son Windows İS sürümleri için sürücüler burada temsil edilir. Eğer bazı nedenlerden dolayı ihtiyacınız olan sürücüyü bulamazsanız, DriverPack Solution yazılımımızı kullanın - ücretsizdir ve herşeyi otomatik olarak yapacaktır."
+
+msgid "seo_deviceclass-footer-content-monitor-sony"
+msgstr "Burada tüm güncel Windows işletim sistemi sürümleri için en son yapılandırılan <b>Sony monitör sürücülerini</b> ücretsiz indirebilirsiniz. Gereken sürücüyü kendiniz aramak istemiyor musunuz? O zaman sürücü arama ve güncelleme için DriverPack Solution yazılımımızı indirin - herşeyi otomatik olarak yapacak!"
+
+msgid "seo_deviceclass-footer-content-monitor-viewsonic"
+msgstr "Bu Bölümde kayıt olmadan ve kesinlikle ücretsiz olan tüm mevcut modeller için <b>Viewsonic monitör sürücüsünü indirilebilirsiniz</b>. Tüm gelişmiş Windows işletim sistemi sürümleri için sürücüler kataloğumuzda mevcuttur. Ya da DriverPack Solution yazılımımızı indirin - ücretsizdir ve gereken uyumlu sürücüleri otomatik kipte bulacaktır."
+
+msgid "seo_deviceclass-footer-content-monitor-sharp"
+msgstr "Sharp firmasından gelen monitörünüzün işleyişinde bazı sorunlar mı gözüküyor? Sorun eskimiş sürücüler ile ilgili olabilir. Sürücüyü kataloğumuzdan kendiniz indirin, ya da DriverPack Solution yazılımımızı kullanın - herşeyi hızlıca ve sorunsuz yapacaktır! Tüm sürücülerimiz işleyebilirlik ve güvenlik için doğrulanmıştır!"
+
+msgid "seo_deviceclass-footer-content-monitor-philips"
+msgstr "<b>Philips monitör için sürücüyü</b> nereden indireceğinizi bilmiyor musunuz? Bu Bölümde tüm Windows İS sürümleri için Philips monitörlerin tüm en son ve güncel sürücülerini bulacaksınız. Eğer bazı nedenlerden dolayı ihtiyacınız olan sürücüyü kendiniz bulamadıysanız, DriverPack Solution yazılımımızı kullanın - kesinlikle ücretsizdir ve ihtiyacınız olan sürücüyü vakit kaybetmeden seçecektir."
+
+msgid "seo_deviceclass-footer-content-modem-d-link"
+msgstr "Bu Bölümde şu anda mevcut olan tüm Windows işletim sistemi sürümleri için <b>D-Link modem sürücüsünü</b> indirilebilirsiniz. Kataloğumuz basitçe dizili ve anlaması kolaydır, böylece ihtiyacınız olan sürücüyü bulması sizin için kolay olacaktır. Fakat, bazı nedenlerden dolayı gereken yapılandırma için D-Link modem sürücüsünü bulmada başarısız olursanız, DriverPack Solution yazılımımızı kullanın - kesinlikle ücretsizdir ve ihtiyacınız olan tüm sürücüleri otomatik olarak indirecektir."
+
+msgid "seo_deviceclass-footer-content-tvtuner-avermedia"
+msgstr "Avermedia'dan gelen tv kartınızın işleyişinde herhangi bir sorun mu var? Sorun büyük bir olasılıkla eskimiş sürücüler olabilir. Bu Bölümde kullanışlı ve açık kataloğumuzdan ücretsiz <b>Avermedia tv kartı için sürücüyü indirebilirsiniz</b>. Aynı zamanda ücretsiz DriverPack Solution yazılımımızı kullanabilirsiniz - herşeyi hızlıca yapacak ve gereken sürücüyü kendi başınıza arama ihtiyacından sizi kurtaracak!"
+
+msgid "seo_deviceclass-footer-content-tvtuner-beholder"
+msgstr "Beholder firmasından gelen tv kartınız ile ilgili birşey mi yanlış? Sorun büyük bir olasılıkla sürücüler en son sürüme güncellenerek çözülebilir. Burada hızlıca, kolay ve kesinlikle ücretsiz olarak <b>Beholder tv kartı sürücüsünü indirebilirsiniz</b>! Eğer beklenmedik bir şekilde ihtiyacınız olan sürücüyü kendiniz indirmede başarısız olduysanız, DriverPack Solution yazılımımızı kullanın - donanım yapılandırmanıza dayanarak kendi başına gereken sürücüyü seçecek."
+
+msgid "seo_deviceclass-footer-content-tvtuner-pinnacle"
+msgstr "<b>Pinnacle tv kartları için sürücülere</b> mi ihtiyacınız var? Bu katalogta Pinnacle tv kartı için sürücüleri kolayca bulabilir ve bunları ücretsiz indirebilirsiniz. Eğer bazı nedenlerden dolayı ihtiyacınız olan sürücüyü kendiniz bulmada başarısız olduysanız, ücretsiz DriverPack Solution yazılımımızı yükleyin - donanım yapılandırmanızı inceleyecek ve düzgün işlemesi için gereken herşeyi yükleyecek."
+
+msgid "seo_deviceclass-footer-content-tvtuner-philips"
+msgstr "Philips'ten gelen tv kartınızın işleyişinde herhangi bir sorun mu görünüyor? Sorun büyük bir olasılıkla eskimiş sürücüler olabilir. Burada şu an kullanılmakta olan tüm Windows işletim sistemi sürümleri için <b>Philips tv kartı sürücülerini indirebilirsiniz</b>. Veya DriverPack Solution yazılımımızı yükleyin - ücretsizdir ve sizin için herşeyi yapacak!"
+
+msgid "seo_deviceclass-footer-content-tvtuner-kworld"
+msgstr "<b>Kworld tv kartı için sürücü indirmeye</b> mi ihtiyacınız var ama nereden bilmiyor musunuz? O zaman doğru yerdesiniz! Burada tüm mevcut Windows işletim sistemi sürümleri için en son sürüm <b>Kworld tv kartı sürücülerini</b> indirebilirsiniz. İhtiyacınız olan sürücüyü kataloğumuzda bulmada başarısız mı oldunuz? Ücretsiz DriverPack Solution yazılımımızı kullanın - herşeyi otomatik olarak, hızlıca ve etkili biçimde yapacak."
+
+msgid "seo_deviceclass-footer-content-tvtuner-compro"
+msgstr "Bu Bölümde tüm mevcut Windows İS sürümleri için kesinlikle ücretsiz <b>Compro tv kartı sürücüsünü indirebilirsiniz</b>. Kataloğumuzdaki tüm sürücüler işleyebilirlik ve güvenlik için uzmanlarımız tarafından doğrulanmıştır. Aradığınızı bulmada başarısız mı oldunuz? DriverPack Solution yazılımımızı indirin - herşeyi otomatik olarak, hızlı ve sorunsuz olarak yapacak!"
+
+msgid "seo_deviceclass-footer-content-phone-htc"
+msgstr "HTC'den gelen telefonunuzun işleyişiyle ilgili herhangi bir sorununuz mu var? Akıllı telefonunuzu bilgisayara bağlamak için hiç fırsatınız mı yok? Bu Bölümde kendi başınıza <b>HTC mobil telefon için sürücüleri indirebilirsiniz</b>. HTC telefonlar için en son ve en güncel sürücüler burada temsil edilir."
+
+msgid "seo_deviceclass-footer-content-phone-huawei"
+msgstr "<b>Huawei telefonunuz için sürücüyü nereden indireceğinizi</b> bilmiyorsunuz. Bu Bölümde tüm çeşitli Huawei telefon modelleri için sürücüleri bulacaksınız. Tüm sürücülerimiz işleyebilirlik ve güvenlik için doğrulanmıştır!"
+
+msgid "seo_deviceclass-footer-content-phone-nokia"
+msgstr "Bu Bölümde kayıt olmadan ve kesinlikle ücretsiz olan <b>Nokia telefon için sürücüyü indirebilirsiniz</b>.  Tüm çeşitli Nokia telefon modelleri için sürücüler burada temsil edilir. Ayrıca, tüm sürücülerimiz işleyebilirlik ve güvenlik için uzmanlarımız tarafından doğrulanmıştır!"
+
+msgid "seo_devicegroup-footer-content-video-nvidia-nvidia-geforce-9600-gt"
+msgstr "Nvidia Geforce 9600 GT ekran kartı için sürücü mü arıyorsunuz? Doğru yerdesiniz! Bu Bölümden <b>Nvidia Geforce 9600 GT ekran kartı sürücülerini</b> şu anda var ve kullanılmakta olan bütün Windows sürümlerine indirebilirsiniz. Eğer herhangi bir nedenden dolayı sürücüleri kataloğumuzda bulamıyorsanız, DriverPack Solution yazılımımızı kullanın - kesinlikle ücretsizdir ve otomatik olarak çalışır."
+
+msgid "seo_devicegroup-footer-content-monitor-samsung-syncmaster-740n-179n-syncmaster-magic-cx721n-cx714n"
+msgstr "Samsung Syncmaster 740n monitörünüzü bilgisayara bağlamakta sıkıntı mı yaşıyorsunuz? Kullanımınız sırasında ekranınızda çeşitli şekiller mi beliriyor? Kataloğumuzdan tüm Windows İS sürümleri için en son yapılandırılan <b>Samsung Syncmaster 740n monitör'ün sürücülerini indirebilirsiniz</b>. Eğer aradığınız sürücüyü kataloğumuzdan seçemezseniz, DriverPack Solution yazılımımızı kullanın - ücretsizdir ve otomatik sürücü güncelleştirmesi için oluşturulmuştur."
+
+msgid "seo_notebook-footer-content-acer-aspire-5560g"
+msgstr "Bu Bölümde Windows XP, 7, 8, 8.1 ve 10 için Acer Aspire 5560g dizüstü sürücülerini indirebilirsiniz. Tüm sürücüler işleyebilirlik ve güvenlik için uzmanlarımız tarafından doğrulanmıştır. Eğer ihtiyacınız olan sürücüyü kendiniz bulamadıysanız, DriverPack Solution yazılımımızı kullanın - kesinlikle ücretsizdir ve sizin için herşeyi yapacaktır!"
+
+msgid "seo_notebook-footer-content-aspire-5750g"
+msgstr "Acer Aspire 5750g dizüstü için sürücüleri indirmeniz mi gerekiyor? Windows İS XP, 7, 8, 8.1 ve 10 için sürücüler bu Bölümde temsil edilir. Sürücülerimiz antivirüs yazılımı tarafından kontrol edilmiş ve %100 güvenlidir. İhtiyacınız olan sürücüyü kendiniz aramak istemiyor musunuz? O zaman DriverPack Solution yazılımımızı indirin - ücretsizdir ve ihtiyacınız olan herşeyi otomatik olarak seçebilecektir."
+
+msgid "seo_notebook-footer-content-acer-aspire-5100"
+msgstr "Bu Bölümde Acer Aspire 5100 dizüstü (Windows XP, 7, 8, 8.1, 10) için sürücüleri ücretsiz indirebilirsiniz. Eğer bazı nedenlerden dolayı ihtiyacınız olan sürücüyü kataloğumuzda bulmada başarısız olursanız, ümidinizi kaybetmeyin - DriverPack Solution yazılımımızı indirin. Sizin için herşeyi yapacak!"
+
+msgid "seo_notebook-footer-content-acer-aspire-5553g"
+msgstr "Acer Aspire 5553g dizüstü için sürücüleri indirmeniz mi gerekiyor? Bu Bölümde Windows XP, 7, 8, 8.1 ve 10 sürümleri için tüm gerekli sürücüleri bulacaksınız. İhtiyacınız olanı bulamadnız mı? Sürücü güncellemesi için ücretsiz DriverPack Solution yazılımımızı indirin - sizin için herşeyi yapacak!"
+
+msgid "seo_notebook-footer-content-acer-aspire-7750g"
+msgstr "Bu Bölümde Acer Aspire 7750g dizüstü için sürücüleri kesinlikle ücretsiz  indirebilirsiniz. Tüm sürücülerimiz işleyebilirlik ve güvenlik için doğrulanmıştır. İhtiyacınız olan sürücü kataloğumuzda yok mu? DriverPack Solution yazılımını indirin - ihtiyacınız olan herşeyi birkaç dakika içinde bulacaktır!"
+
+msgid "seo_notebook-footer-content-acer-aspire-5551g"
+msgstr "Bu Bölümde şu anda kullanımı kesinlikle ücretsiz olan tüm Windows İS sürümleri için Acer Aspire 5551g dizüstü sürücülerini indirmenizi öneririz. İhtiyacınız olan sürücüyü kataloğomuzda bulamadınız mı? Ücretsiz DriverPack Solution yazılımımızı indirin - tüm sürücülerinizi en son güncel sürüme güncelleyecek."
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g"
+msgstr "Acer Aspire v3 571g dizüstünüz açılmıyor mu? Sorun sürücüler olabilir. Bu Bölümde Acer Aspire v3 571g için sürücüleri ücretsiz indirebilirsiniz. Şu an kullanılmakta olan tüm Windows - XP, 7, 8, 8.1, ve 10 sürümleri için sürücüler burada temsil edilir. Sorunu kendiniz çözmede başarısız mı oldunuz? DriverPack Solution yazılımımızı indirin - gereken sürücüyü bulacak ve kendi başına çalışabilen sürüme güncelleyecek."
+
+msgid "seo_notebook-footer-content-asus-x550cc"
+msgstr "Asus X550CC dizüstü için sürücüleri indirmeniz mi gerekiyor? Sitemizin bu Bölümünde dizüstü işleminiz için ihtiyacınız olan herşeyi bulacaksınız. Tüm paketlerimiz işleyebilirlik ve güvenlik için doğrulanmıştır. Kendiniz ihitiyacınız olan sürücüyü bulamadıysanız, DriverPack Solution yazılımımızı indirin - bilgisayarınızdaki sürücülerin şu anki durumuna erişecek ve bunları en son sürümüne güncelleyecek."
+
+msgid "seo_notebook-footer-content-asus-x550cl"
+msgstr "Burada Windows XP, 7, 8, 8.1 ve 10 için Asus X550CL dizüstü sürücülerini kesinlikle ücretsiz indirebilirsiniz. Tüm sürücülerimiz işleyebilirlik ve güvenlik için doğrulanmıştır. Eğer bazı nedenlerden dolayı ihtiyacınız olan sürücüyü kendiniz bulamadıysanız, DriverPack Solution yazılımımızı kullanın - sizin için herşeyi yapacak."
+
+msgid "seo_notebook-footer-content-asus-x540sa"
+msgstr "Burada Windows XP, 7, 8, 8.1 ve 10 için Asus X540SA dizüstü sürücülerini ücretsiz indirebilirsiniz. Eğer bazı nedenlerden dolayı ihtiyacınız olan sürücüyü kataloğumuzda bulamadıysanız, sürücü güncellemesi için ücretsiz DriverPack Solution yazılımımızı indirin - herşeyi otomatik olarak yapacak."
+
+msgid "seo_notebook-footer-content-asus-x540sc"
+msgstr "Burada Windows XP, 7, 8, 8.1 ve 10 için Asus X540SC dizüstü sürücülerini kesinlikle ücretsiz indirebilirsiniz. Aradığınızı bulmada başarısız mı oldunuz?  Otomatik sürücü güncellemesi için ücretsiz DriverPack Solution yazılımımızı indirin - donanımınıza erişecek, ve gereken sürücüleri hızlıca seçecek."
+
+msgid "seo_notebook-footer-content-asus-x540la"
+msgstr "Buradan Windows XP, 7, 8, 8.1, ve 10 için ASUS X540LA dizüstü sürücülerini ücretsiz olarak indirebilirsiniz. Aynı zamanda sürücü güncelleştirmeleri için kesinlikle ücretsiz olan DriverPack Solution yazılımımızı da indirebilirsiniz, bu program sürücülerin şu andaki versiyonlarını en son güncellenen halleri ile karşılaştırarak otomatik olarak günceller."
+
+msgid "seo_notebook-footer-content-asus-k50c"
+msgstr "Windows XP, 7, 8, 8.1 veya 10 uyumlu Asus k50c dizüstü sürücülerine mi ihtiyacınız var? Bu bölümden Asus k50c sürücülerini ücretsiz olarak indirebilirsiniz, veya kendiniz bulamadıysanız, DriverPack Solution yazılımımızı indirebilirsiniz, donanımınızı tarayıp gerekli olan sürücüleri otomatik olarak bulur."
+
+msgid "seo_notebook-footer-content-asus-x553ma"
+msgstr "Windows XP, 7, 8, 8.1 veya 10 uyumlu Asus X553MA dizüstü sürücülerine mi ihtiyaıcnız var? Bu bölümden Asus X553MA için sürücüleri indirebilirsiniz. Eğer kendiniz kurarken sorun yaşıyorsanız, DriverPack Solution yazılımımızı yükleyebilirsiniz, donanımınızı tarayıp gerekli sürücüleri otomatik olarak bulur."
+
+msgid "seo_notebook-footer-content-asus-x541sa"
+msgstr "Buradan Windows XP, 7, 8, 8.1, ve 10 için Asus X541SA dizüstü sürücülerini ücretsiz olarak indirebilirsiniz. Eğer herhangi bir nedenden dolayı sürücüleri kataloğumuzda bulamadıysanız, sürücü güncellemeleri için DriverPack Solution yazılımımızı kullanabilirsiniz - gerekli herşeyi kendiliğinden halleder."
+
+msgid "seo_notebook-footer-content-asus-k52jc"
+msgstr "Buradan Asus k52jc dizüstüler için Windows XP, 7, 8, 8.1 veya 10 uyumlu sürücüleri ücretsiz olarak indirebilirsiniz. Eğer ihtiyacınız olan sürücüyü kataloğumuzda bulamadıysanız, DriverPack Solution yazılımımızı yükleyin - sizin için herşeyi kendiliğinden olarak yapacaktır."
+
+msgid "seo_notebook-footer-content-asus-k52jr"
+msgstr "Buradan Asus k52jr dizüstünüz için Windows XP, 7, 8, 8.1 veya 10 uyumlu sürücüleri ücretsiz olarak indirebilirsiniz. Tüm sürücülerimizin çalışabilirliği ve güvenliği uzmanlarımız tarafından denetlenmiştir."
+
+msgid "seo_notebook-footer-content-asus-x101ch"
+msgstr "Buradan Windows XP, 7, 8, 8.1, ve 10 uyumlu Asus X101CH dizüstü sürücülerini indirebilirsiniz. Gereken sürücüyü kataloğumuzda bulamadınız mı? Sorun değil - sürücüleri otomatik yüklemek için DriverPack Solution yazılımımızı indirin - cihaz için gerekli sürücüleri kendiliğinden bulup başka sıkıntılar çıkarmadan kendiliğinden yükler."
+
+msgid "seo_notebook-footer-content-asus-k50ij"
+msgstr "Buradan Asus K50ij dizüstünüz için Windows XP, 7, 8, 8.1 veya 10 uyumlu sürücüleri indirebilirsiniz. Eğer ihtiyacınız olan sürücüyü kataloğumuzda bulamadıysanız, DriverPack Solution yazılımımızı kullanabilirsiniz - ücretsizdir ve herşeyi kendiliğinden yapar."
+
+msgid "seo_notebook-footer-content-asus-x551ma"
+msgstr "Asus x551ma ağ denetleyicinizin sürücülerini yüklerken sıkıntı mı yaşıyorsunuz? Windows XP, 7, 8, 8.1 veya 10 sürümlerine uyumlu sürücüyü kendiniz indirin, ya da ücretsiz sürücü güncellemeleri için DriverPack Solution yazılımımızı kullanın."
+
+msgid "seo_notebook-footer-content-asus-k53ta"
+msgstr "Buradan Windows XP, 7, 8, 8.1 veya 10 uyumlu Asus k53ta sürücülerini ücretsiz olarak indirebilirsiniz. Eğer herhangi bir sebepten dolayı gerekli sürücüyü kendiniz bulamıyorsanız, DriverPack Solution yazılımımızı kullanın - gerekli sürücüleri otomatik olarak seçer, ve bilgisayar yapılandırmanıza en uygun bir şekilde kurar."
+
+msgid "seo_notebook-footer-content-asus-x550ca"
+msgstr "Buradan Asus x550ca dizüstünüz için Windows XP, 7, 8, 8.1 veya 10 uyumlu sürücüleri indirebilirsiniz. Tüm sürücülerimizin çalışabilirliği ve güvenliği denetlenmiştir. "
+
+msgid "seo_notebook-footer-content-lenovo-g580"
+msgstr "Buradan Windows XP, 7, 8, 8.1 veya 10 uyumlu Lenovo G580 dizüstü sürücülerini kesinlikle ücretsiz olarak indirebilirsiniz. Tüm sürücülerimiz antivirüs tarafından kontrol edilmiştir. Aradığınız sürücüyü bulamadınız mı? DriverPack Solution yazılımımızı indirin - ücretsizdir ve gerekli herşeyi sizin için yapacaktır."
+
+msgid "seo_notebook-footer-content-lenovo-b590"
+msgstr "Buradan Asus b590 dizüstünüz için Windows XP, 7, 8, 8.1 veya 10 uyumlu sürücüleri indirebilirsiniz. Tüm sürücülerimizin güvenliği antivirüsümüz tarafından denetlenmiştir. "
+
+msgid "seo_notebook-footer-content-hp-pavilion-g6-chipset"
+msgstr "Bu Bölümde <b>Pavilion G6 yongaseti sürücülerini kaydolmadan ücretsiz indirebilirsiniz</b>. Şu anda kullanımda olan bütün Windows işletim sistemleri ile uyumludur. Eğer herhangi bir nedenden dolayı HP Pavilion G6 dizüstünüze yongaseti sürücülerini bulamıyor ve indiremiyorsanız, DriverPack Solution yazılımımızı indirin - herşeyi kendiliğinden yapacaktır."
+
+msgid "seo_notebook-footer-content-lenovo-g580-wifi"
+msgstr "Lenovo g580 dizüstünüz için Windows XP, 7, 8, 8.1 veya 10 için Wi-Fi sürücüsü mü arıyorsunuz? Hemen şimdi kataloğumuzdan indirin. Tüm sürücülerimiz tamamen çalışır ve güvenlidir."
+
+msgid "seo_notebook-footer-content-lenovo-b590-wifi"
+msgstr "Buradan Lenovo b590 dizüstü için Windows XP, 7, 8, 8.1 veya 10 için Wi-Fi sürücülerini indirebilirsiniz. Tüm kataloğumuz antivirüs tarafından kontrol edilmiştir."
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g-wifi"
+msgstr "Acer Aspire v3 571g dizüstü için Windows XP, 7, 8, 8.1 ve 10 uyumlu Wi-Fi sürücülerini buradan ücretsiz olarak indirebilirsiniz."
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g-video"
+msgstr "Bu bölümden Acer Aspire v3 571g dizüstünüz için ekran kartı sürücülerini ücretsiz olarak indirebilirsiniz. Memnun kalmadınız mı? DriverPack Solution yazılımımızı indirin - bilgisayarınız ile uyumlu en iyi sürücüyü otomatik olarak seçip yükleyecektir."
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g-sound"
+msgstr "Acer Aspire v3 571g dizüstü için şu anda kullanımda olan tüm Windows sürümleriyle uyumlu ses sürücülerini indirebilirsiniz. Tüm sürücülerimiz kesinlikle güvenli ve mükemmel bir çalışabilirliğe sahiptir."
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g-inputdev"
+msgstr "Buradan Acer Aspire v3 571g dizüstünüz için klavye ve diğer giriş cihazlarınıza Windows XP, 7, 8, 8.1 ve 10 uyumlu sürücüleri indirebilirsiniz. Tüm sürücülerimiz çalışır ve güvenlidir."
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g-lan"
+msgstr "Buradan Windows XP, 7, 8, 8.1, ve 10 uyumlu Acer Aspire v3 571g ağ denetleyicisi sürücüsünü indirebilirsiniz. İstediğiniz sürücüyü kendiniz bulamadınız mı? DriverPack Solution yazılımımızı kullanın - gerekli olan herşeyi kendiliğinden seçer."
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g-cardreader"
+msgstr "Bu bölümden Windows XP, 7, 8, 8.1, ve 10 uyumlu Acer Aspire v3 571g kart okuyucu sürücülerini sorunsuz indirebilirsiniz. Aynı zamanda DriverPack Solution yazılımımızı da indirebilirsiniz - donanım yapılandırmanızı analiz edip, gerekli sürücüleri kendiliğinden yükleyecektir."
+
+msgid "seo_notebook-footer-content-asus-x550cc-wifi"
+msgstr "Asus X550CC dizüstünüzde Wi-Fi çalışmıyor mu? Sorun eskimiş sürücülerden kaynaklanıyor olabilir - Asus X550CC için en güncel Wi-Fi sürücülerini indirin, veya ücretsiz DriverPack Solution yazılımımızı - program gerekli herşeyi kendiliğinden yapar."
+
+msgid "seo_notebook-footer-content-asus-x550cc-lan"
+msgstr "Buradan Windows XP, 7, 8, 8.1, ve 10 uyumlu Asus X550CC ağ bağdaştırıcısı sürücülerini ücretsiz olarak indirebilirsiniz. Eğer herhangi bir nedenden dolayı sürücüden memnun kalmadıysanız, DriverPack Solution yazılımımızı kullanın - ücretsizdir ve gerekli herşeyi sizin için yapar."
+
+msgid "seo_notebook-footer-content-asus-k50c-video"
+msgstr "Asus k50c dizüstünüzde bazı oyunlar açılmıyor mu? Buradan Windows XP, 7, 8, 8.1 veya 10 uyumlu ekran kartı sürücülerini indirebilirsiniz."
+
+msgid "seo_notebook-footer-content-asus-k50c-wifi"
+msgstr "Wi-Fi üzerinden İnternet erişiminde sorun mu yaşıyorsunuz? Buradan Asus k50c dizüstü için Windows XP, 7, 8, 8.1 veya 10 uyumlu Wi-Fi sürücülerini indirebilirsiniz - bu sorunu çözebilir!"
+
+msgid "seo_notebook-footer-content-asus-x553ma-video"
+msgstr "Asus x553ma dizüstünüzdeki ekran kartı sürücüleriniz eskidi mi? Buradan Asus X553MA için Windows XP, 7, 8, 8.1 veya 10 uyumlu sürücüyü indirebilirsiniz."
+
+msgid "seo_notebook-footer-content-asus-x101ch-video"
+msgstr "Asus X101CH dizüstünüzde oyunlar açılmıyor mu? Sıkıntıyı çözmede yararlı olabilecek olan Windows XP, 7, 8, 8.1 veya 10 uyumlu Asus X101CH ekran kartı sürücüsünü buradan indirebilirsiniz."
+
+msgid "seo_notebook-footer-content-asus-k50ij-wifi"
+msgstr "Asus k50ij dizüstünüz için Windows XP, 7, 8, 8.1 veya 10 uyumlu Wi-Fi sürücülerine mi ihtiyacınız var? Direk kataloğumuzdan indirin, veya otomatik sürücü güncelleştirmeleri için kesinlikle ücretsiz olan DriverPack Solution yazılımımızı yükleyin."
+
+msgid "seo_notebook-footer-content-asus-x551ma-lan"
+msgstr "Asus x551ma ağ bağdaştırıcısı için sürücü yüklemekte sorun mu yaşıyorsunuz? Gerekli sürücüyü Windows XP, 7, 8, 8.1, veya 10 ile uyumlu sürücüleri kendiniz yükleyin, veya ücretsiz DriverPack Solution yazılımımızı kullanın."
+
+msgid "seo_notebook-footer-content-lenovo-g580-lan"
+msgstr "Buradan Windows XP, 7, 8, 8.1 veya 10 uyumlu Lenovo g580 ağ bağdaştırıcısı sürücülerini indirebilirsiniz. Aradığınız sürücüyü bulamadınız mı? DriverPack Solution yazılımımızı indirin - ücretsizdir ve dizüstünüzün düzgün çalışabilirliği için gerekli herşeyi otomatik olarak yükler."
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g-7-x86"
+msgstr "Bu bölümden Acer Aspire v3 571g dizüstü için Windows 7 uyumlu sürücüleri indirebilirsiniz. Tüm sürücülerimiz uzmanlar tarafından onaylanmış ve tamamen çalışabilirdir."
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g-8-x86"
+msgstr "Windows 8 için Acer Aspire v3 571g dizüstü sürücülerini ücretsiz indirin, ya da otomatik sürücü kurulumu ve güncellemesi için DriverPack Solution yazılımını yükleyin."
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g-8.1-x86"
+msgstr "Bu bölümden Windows 8 uyumlu Acer Asprie v3 571g dizüstü sürücülerini indirebilirsiniz. Aynı zamanda DriverPack Solution yazılımını da indirebilirsiniz - bu yazılım donanımınızı kontrol edip gerekli sürücüleri yükleyecektir."
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g-10-x86"
+msgstr "Buradan Windows 10 uyumlu Acer Aspire v3 571g dizüstü sürücülerini indirebilirsiniz. Tüm sürücülerimiz çalışır ve antivirüs tarafından kontrol edilmiştir."
+
+msgid "seo_notebook-footer-content-asus-x550cc-7-x86"
+msgstr "Bu bölümden Windows7x86 uyumlu Asus X550CC dizüstü sürücülerini indirebilirsiniz. Tüm sürücüler güvenlik için antivirüs tarafından kontrol edilmiştir."
+
+msgid "seo_notebook-footer-content-asus-x550cc-7-x64"
+msgstr "Bu bölümden Windows 7x64 uyumlu Asus X550CC dizüstü sürücülerini ücretsiz olarak indirebilirsiniz. Eğer bir nedenden dolayı sürücülerden memnun değilseniz, DriverPack Solution yazılımımızı kullanın - dizüstünüz için gerekli olan güncel sürücüleri otomatik olarak seçip yükleyecektir."
+
+msgid "seo_notebook-footer-content-asus-x550cl-7-x64"
+msgstr "Buradan Windows7x64 uyumlu Asus X550CL dizüstü sürücülerini ücretsiz olarak indirebilirsiniz. Tüm sürücülerimizin çalışabilirliği uzmanlar tarafından onaylanmıştır."
+
+msgid "seo_notebook-footer-content-asus-x540sa-7-x64"
+msgstr "Windows7x64 uyumlu Asus X540SA dizüstü sürücülerine mi ihtiyacınız var? İhtiyacınız olan herşeyi bu bölümde bulabilirsiniz. Tüm sürücülerimizin güvenliği ve çalışabilirliği uzmanlarımız tarafından onaylanmıştır."
+
+msgid "seo_notebook-footer-content-asus-x540sa-8.1-x64"
+msgstr "Windows8.1x64 uyumlu Asus X540SA dizüstü sürücülerine mi ihtiyacınız var? İhtiyacınız olan herşeyi burada bulabilirsiniz. Tüm sürücülerimizin güvenliği ve çalışabilirliği uzmanlar tarafından onaylanmıştır."
+
+msgid "seo_notebook-footer-content-asus-x540sa-10-x64"
+msgstr "Windows 10x64 uyumlu Asus X540SA dizüstü sürücülerini mi arıyorsunuz? Doğru yerdesiniz! Eğer aradığınız sürücüyü katalogda bulamadıysanız, DriverPack Solution yazılımımızı indirin - sürücülerin en son sürümünü arayıp otomatik olarak dizüstünüze yükleyecektir!"
+
+msgid "seo_notebook-footer-content-asus-x540sc-7-x64"
+msgstr "Windows7x64 uyumlu Asus X540SC dizüstü sürücülerine mi ihtiyacınız var? İhtiyacınız olan herşeyi bu bölümde bulabilirsiniz. Tüm sürücülerimizin güvenliği ve çalışabilirliği onaylanmıştır!"
+
+msgid "seo_notebook-footer-content-asus-x540sc-8.1-x64"
+msgstr "Buradan Windows8.1x64 uyumlu Asus X540SC dizüstü sürücülerini ücretsiz olarak indirebilirsiniz. Eğer ihtiyacınız olan sürücüyü kataloğumuzda bulamadıysanız, sürücü güncelleştirmeleriniz için DriverPack yazılımımızı indirebilirsiniz - sizin için herşeyi hızlı ve güvenilir bir şekilde yapacaktır!"
+
+msgid "seo_notebook-footer-content-asus-x540la-7-x64"
+msgstr "Buradan Windows 7x64 uyumlu Asus X540LA dizüstü sürücülerini kaydolmaya gerek duymadan indirebilirsiniz. Tüm sürücülerimiz çalışır ve güvenlidir. "
+
+msgid "seo_notebook-footer-content-asus-k50c-xp-x86"
+msgstr "Bu bölümden Asus k50c dizüstünüz için Windows XP uyumlu sürücüleri ücretsiz ve kayıt olmadan indirebilirsiniz. Aynı zamanda otomatik sürücü yüklemeleri için DriverPack Solution yazılımını da öneririz - gerekli herşeyi sizin yerinize yapar!"
+
+msgid "seo_notebook-footer-content-asus-x553ma-7-x64"
+msgstr "Buradan Windows7x64 uyumlu Asus X553MA dizüstü sürücülerini indirebilirsiniz. Tüm sürücülerimizin çalışabilirliği ve güvenliği uzmanlar tarafından test edilmiştir."
+
+msgid "seo_notebook-footer-content-asus-x101ch-xp-x86"
+msgstr "Buradan Windows XP uyumlu Asus X101CH dizüstü sürücülerini kaydolmaya gerek duymadan indirebilirsiniz. Tüm sürücülerimiz çalışır ve dizüstünüz için güvenlidir."
+
+msgid "seo_notebook-footer-content-asus-k50ij-7-x64"
+msgstr "Buradan Asus k50ij dizüstü için Windows 7x64 uyumlu sürücüleri ücretsiz olarak indirebilirsiniz. Sürücülerden memnun kalmadınız mı? Hiç sorun değil - sürücü güncelleştirmeleri için DriverPack Solution yazılımımızı kullanın - ücretsizdir ve herşeyi sizin için otomatik olarak yapar."
+
+msgid "seo_notebook-footer-content-asus-k50ij-xp-x86"
+msgstr "Windows XP uyumlu Asus k50ij dizüstü sürücülerine mi ihtiyacınız var? Kataloğumuza göz atın - ihtiyacınız olan herşeyi orada bulabilirsiniz. Yardımcı olmadı mı? O zaman sürücü güncelleştirmeleriniz için DriverPack Solution yazılımını kullanın - dizüstünüzün donanımlarını analiz edip en uygun sürücüleri kendiliğinden seçecektir."
+
+msgid "seo_notebook-footer-content-lenovo-g580-7-x64"
+msgstr "Lenovo G580 dizüstü için Windows XP, 7, 8, 8.1, veya 10 ile uyumlu sürücüleri buradan indirebilirsiniz. Sürücüden memnun kalmadınız mı? Sürücü arama ve yüklemesi için DriverPack Solution yazılımını kullanın - gerekli tüm işlemleri kendisi yapar."
+
+msgid "seo_notebook-footer-content-asus-x550cc-sound-10-x64"
+msgstr "Buradan Windows10x64 uyumlu Asus X550CC dizüstü sürücülerini ücretsiz olarak indirebilirsiniz. Aynı zamanda DriverPack Solution yazılımını da indirebilirsiniz, bu program sürücülerin şu andaki versiyonlarını en son güncellenen halleri ile karşılaştırarak otomatik olarak günceller."
+
+msgid "seo_mainos-content-xp"
+msgstr "Windows XP, Windows NT ailesinin tüm işletim sistemleri arasında \"kıdemli\" olarak onurlandırılır, 25 Eylül 2001  tarihinde yayımlanan, ve hala şimdiye kadar dünyanın en popüler işletim sistemlerinden biridir. Dünya çapındaki tüm PC'lerin yaklaşık %7'si, yayımlanmasından 16 yıl sonra sonra, hala Windows XP üzerinde çalışır. Çoğunlukla eskimiş ve düşük verimliliği olan makineleri ilgilendirir. Ve bu İS için desteğe 2014 yılında son verilmiş olmasına rağmen, bu sistemin kullanımının uzun ömürlü olacağı açıktır. Windows XP için sürücülerin en güncel sürümlerini ya doğrudan kataloğumuzdan, ya da DriverPack Solution yazılımını indirme yoluyla indirebilirsiniz."
+
+msgid "seo_mainos-content-7"
+msgstr "Windows 7, Windows Vista'dan sonra ancak Windows 8'den önce yayımlanmış Windows NT ailesinin bir işletim sistemidir. 2017 yazının verilerine göre, Windows 7 dünyanın en popüler işletim sistemidir. Temmuz 2017 verilerine göre, Windows 7 dünya çapındaki tüm PC'lerin %48.91'i üzerinde kullanılmaktadır. Bu İS, 22 Ekim 2009 tarihinde satışa çıktı, başarısız Windows Vista yayımından en az 3 yıl sonradır. Son sistem sürümünün kurulum imajları, aynı yıl, 21 Temmuz'dan bu yana Internet'te mevcuttur. Burada Windows 7 için en son güncel sürücüleri indirebilirsiniz."
+
+msgid "seo_mainos-content-8"
+msgstr "Windows 8, Windows 7'den sonra yayımlanmış Microsoft Windows ailesinden gelen bir işletim sistemidir ve Microsoft Corporation tarafından geliştirilmiştir. Çekirdek sürümü 6.2'dir. Windows 8 satışa, 26 Ekim 2012 tarihinde çıktı. 2017 yazının verilerine göre, bu işletim sistemi dünyadaki tüm PC'lerin yaklaşık %5'inde kullanılmaktadır. Windows Server 2012 bir sunucu sürümüdür. Yeni Metro arayüzü bu İS sürümünde kullanılmıştır. Onun satışı 12 Ocak 2016 tarihinde durduruldu, ama hala bu bölümde Windows 8 için tüm son yayımlanan sürücüleri indirebilirsiniz."
+
+msgid "seo_mainos-content-8.1"
+msgstr "Windows 8.1 İşletim Sistemi (NT ailesi) Windows 8'den sonra yayımlanmıştır ve iş istasyonları, PC'ler ve mobil cihazlar için tasarlanmıştır. Windows Server 2012 R2, Windows 8.1'in bir sunucu sürümüdür. Bu işletim sistemi, grafiksel kullanıcı arayüzü ile etkileşimindeki bazı değişikliklere göre Windows 8'den farklıdır. Windows 8.1 aynı zamanda dokunmatik ekran ile çalışması için tasarlanmıştır. 2017 yazının verilerine göre, dünyadaki tüm PC'lerin %6.48'i bu İS üzerinde çalışır. Windows 8.1 için en son güncellenmiş sürücüleri kataloğumuzdan indirebilirsiniz."
+
+msgid "seo_mainos-content-10"
+msgstr "Windows 10 işletim sisteminin PC'ler, akıllı telefonlar, tabletler ve hatta Xbox One oyun konsolu için bile evrensel İS olması gerekiyordu. Windows 8.1'den sonra yayımlanmıştır, ve NT ailesine aittir. Günümüzde, dünya çapında tüm cihazların %27'si Windows 10 İS üzerinde çalışır, ve herkes Windows 7, Windows 8.1 ve Windows Phone 8.1 lisanslı kopyalarını çıktığı günden itibaren ilk 6 ay boyunca ücretsiz olarak Windows 10'a güncelleyebilirdi. DriverPack Solution'ın kataloğundan Windows 10'da çalışan tüm agıtlar için sürücüleri indirebilirsiniz. Windows 10'un önceki kuşaklarından farkı, birden çok masaüstü oluşturmak için bir seçeneğe ve aynı zamanda Cortana ses yardımcısına sahip olmasıdır."

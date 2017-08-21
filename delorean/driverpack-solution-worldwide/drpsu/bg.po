@@ -1,0 +1,1058 @@
+# Translators:
+# Златомир Пенев <studiobox@abv.bg>, 2017
+# Deyan Mitev <mitevd@gmail.com>, 2017
+# Артур Кузяков <artx@drp.su>, 2017
+# Nadia Tegeneva <nadia@drp.su>, 2017
+# Stoyan <stoqnvv94@gmail.com>, 2017
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-08-16 09:41+0000\n"
+"PO-Revision-Date: 2016-09-23 09:12+0000\n"
+"Last-Translator: Stoyan <stoqnvv94@gmail.com>, 2017\n"
+"Language-Team: Bulgarian (https://www.transifex.com/driverpack-solution/teams/75453/bg/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: bg\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "adminlandingpage_title"
+msgstr "DriverPack за професионалисти - автоматично инсталиране на драйвери за всеки компютър"
+
+msgid "admincackle_dialog-star"
+msgstr "Оценете работата на DriverPack, моля"
+
+msgid "admindriverpacks_landing-title"
+msgstr "Драйверпакети (пакети от драйвери)"
+
+msgid "admindriverpacks_landing-subtitle"
+msgstr "Нашите драйверпакети съдържат 1,131,989 драйвери, които ръчно сме ги избрали и тествали"
+
+msgid "admindriverpacks_downloaded"
+msgstr "Изтеглени:"
+
+msgid "admindriverpacks_download"
+msgstr "Изтегляне"
+
+msgid "adminfaq_landing-title"
+msgstr "Ние отговаряме на твоите въпроси"
+
+msgid "adminfaq_landing-subtitle"
+msgstr "Вие често задавате въпроси за DriverPack — Ние отговаряме на най-популярните от тях"
+
+msgid "adminheader_cta-text"
+msgstr "DriverPack е направен за администратори, но е лесен за използване дори за начинаещи"
+
+msgid "adminheader_cta-btn"
+msgstr "Изтегли DriverPack Online"
+
+msgid "adminheader_products-caption"
+msgstr "Всеки DriverPack ще настрои компютъра ти бързо. Само избери пакета, който ти е нужен:"
+
+msgid "search_noresult"
+msgstr "Изтегли DriverPack Online"
+
+msgid "adminpromo_landing-title"
+msgstr "Нов DriverPack 18 се разработва"
+
+msgid "adminpromo_landing-subtitle"
+msgstr "Новата версия е проектирана специално за админи и отчита техните нужди"
+
+msgid "adminpromo_banner-text"
+msgstr "Новия DriverPack 18 е препроектиран на базата на предните версии, които са доказали тяхната изключителна стабилност. Пускането на новата версия е насрочено за 2017 година."
+
+msgid "adminpromo_list-item-speed"
+msgstr "Скоростта на инсталиране и стартиране на приложението е оптимизирана"
+
+msgid "adminpromo_list-item-ui"
+msgstr "Интерфейсът на раздел Драйвери е преработен и сега е по-информативен за системни администратори"
+
+msgid "adminpromo_list-item-settings"
+msgstr "Обхватът на настройките е разширен, добавена е опция Индивидуално Персонализиране"
+
+msgid "adminpromo_list-item-soft"
+msgstr "Принудителното инсталиране на софтуер е изключена по подразбиране"
+
+msgid "adminpromo_list-item-packs"
+msgstr "Основния подходът към драйверпакети е променен, за да се избегне повреди причиняващи 'синия екран на смъртта' и други проблеми"
+
+msgid "adminpromo_list-item-device-support"
+msgstr "Диапазона на драйверите обхваща значително повече хардуерно разнообразие (включително много стар хардуер)"
+
+msgid "adminpromo_list-item-expert-mode"
+msgstr "Експертният Режим е активен по подразбиране"
+
+msgid "adminpromo_list-item-stable-db"
+msgstr "Създадена се най-стабилната база данни от драйвери. Форматът на базата данни от драйверите е променена."
+
+msgid "adminpromo_list-item-full-db"
+msgstr "Създадена е най-голямата и уникална база данни за драйвери в света"
+
+msgid "buttonsplitdropdown_main-button"
+msgstr "Изтегляне"
+
+msgid "breadcrumbs_main-text"
+msgstr "Начална страница"
+
+msgid "breadcrumbs_vendors-text"
+msgstr "Производители"
+
+#. i18n: EN: Example: VENDOR.NAME=Lenovo; RU: Пример: VENDOR.NAME=Lenovo;
+msgid "breadcrumbs_vendor-text"
+msgstr "{{VENDOR.NAME}}"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=cardreaders|monitors; RU: Пример:
+#. CLASS.PLURAL.MAIN=картридеры|мониторы;
+msgid "breadcrumbs_deviceclass-text"
+msgstr "{{CLASS.PLURAL.MAIN}}"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=cardreaders|monitors,
+#. VENDOR.NAME=Realtek; RU: Пример: CLASS.PLURAL.MAIN=картридеры|мониторы;
+#. VENDOR.NAME=Realtek;
+msgid "breadcrumbs_devicegroups-text"
+msgstr "{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
+
+#. i18n: EN: Example: GROUP.VENDOR.NAME=Nvidia, GROUP.NAME=GeForce 210; RU:
+#. Пример: GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210;
+msgid "breadcrumbs_devicegroup-text"
+msgstr "{{GROUP.VENDOR.NAME}} {{GROUP.NAME}}"
+
+msgid "breadcrumbs_notebooks-text"
+msgstr "Лаптопи"
+
+#. i18n: EN: Example: VENDOR.NAME=Asus; RU: Пример: VENDOR.NAME=Asus;
+msgid "breadcrumbs_notebookvendor-text"
+msgstr "{{VENDOR.NAME}} лаптопи"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=X1 carbon;
+#. RU: Пример: NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=X1 carbon;
+msgid "breadcrumbs_notebook-text"
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=Videocards|Chipsets ,
+#. NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=G580; RU: Пример:
+#. CLASS.PLURAL.MAIN=видеокарты|чипсеты, NOTEBOOK.VENDOR.NAME=Lenovo,
+#. NOTEBOOK.NAME=G580;
+msgid "breadcrumbs_notebookdevices-text"
+msgstr "{{CLASS.PLURAL.MAIN}} от {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} лаптоп"
+
+msgid "devicecard_download-btn"
+msgstr "Изтегли драйвер"
+
+#. i18n: EN: Example: NAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10 x86; Text
+#. for {{DOWNLOAD}} is in key drivercard_no-results_download-link; RU: Пример:
+#. NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10 x86; Текст для
+#. {{DOWNLOAD}} находится в ключе drivercard_no-results_download-link;
+msgid "devicecard_details_no-results-text"
+msgstr "Драйверите за {{NAME}} за Windows {{OSVERSIONS}} не са намерени в каталога. {{DOWNLOAD}} за да избере драйвера автоматично."
+
+msgid "devicecard_details_no-results_download-link"
+msgstr "Изтегли DriverPack"
+
+msgid "devicecard_details-content-text"
+msgstr "Данните се зареждат ..."
+
+msgid "devicecard_details_all-systems"
+msgstr "всички системи"
+
+msgid "devicecard_details-content-label-version"
+msgstr "Версия:"
+
+msgid "devicecard_details-content-label-version-recommended"
+msgstr "препоръчан"
+
+msgid "devicecard_details-content-label-date"
+msgstr "Дата:"
+
+msgid "devicecard_details-content-label-type"
+msgstr "Тип на драйвера:"
+
+msgid "devicecard_details-content-label-manufacturer"
+msgstr "Производител:"
+
+msgid "devicecard_details-content-label-systems"
+msgstr "Операционни системи:"
+
+msgid "devicecard_details-content-label-deviceid"
+msgstr "Device ID:"
+
+msgid "devicecard_details-content-label-inf"
+msgstr "*.inf файл:"
+
+msgid "devicecard_details-content-label-section"
+msgstr "Категория:"
+
+msgid "devicecard_details-links-merged_label"
+msgstr "ID на устройството което търсиш не е намерено в списъка, въведете го в полето за търсене"
+
+msgid "devicecard_details-links-notebook_device"
+msgstr "Виж всички драйвери"
+
+msgid "devicecard_details-links"
+msgstr "Виж всички драйвери за"
+
+#. i18n: EN: Example: DEVICENAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10
+#. x86; Text for {{DOWNLOAD}} is in key devicecardlist_no-result_download-
+#. link; RU: Пример: NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10
+#. x86; Текст для {{DOWNLOAD}} находится в ключе devicecardlist_no-
+#. result_download-link;
+msgid "devicecardlist_no-results-device-text"
+msgstr "Драйверите за {{DEVICENAME}} за Windows {{OSVERSIONS}} не са намерени в каталога. {{DOWNLOAD}} за да избере драйвера автоматично."
+
+#. i18n: EN: Example: DEVICECLASS=chipsets|videocards; NOTEBOOK=Acer AO521;
+#. OSVERSIONS=Windows 10 x86; Text for {{DOWNLOAD}} is in key
+#. devicecardlist_no-result_download-link; RU: Пример:
+#. DEVICECLASS=чипсета|видеокарты; NOTEBOOK=Acer AO521; Пример:
+#. OSVERSIONS=Windows 10 x86; Текст для {{DOWNLOAD}} находится в ключе
+#. devicecardlist_no-result_download-link;
+msgid "devicecardlist_no-results-notebook-text"
+msgstr "Драйверите за {{NOTEBOOK}} лаптоп за Windows {{OSVERSIONS}} не са намерени в каталога. {{DOWNLOAD}} за да избере драйвера автоматично."
+
+#. i18n: EN: Example: NOTEBOOK=Acer AO521; OSVERSIONS=Windows 10 x86; Text for
+#. {{DOWNLOAD}} is in key devicecardlist_no-result_download-link; RU: Пример:
+#. NOTEBOOK=Acer AO521; Пример: OSVERSIONS=Windows 10 x86; Текст для
+#. {{DOWNLOAD}} находится в ключе devicecardlist_no-result_download-link;
+msgid "devicecardlist_no-results-notebook-device-class-text"
+msgstr "Драйверите за {{DEVICECLASS}} за {{NOTEBOOK}} лаптоп за Windows {{OSVERSIONS}} не са намерени. {{DOWNLOAD}} за да избере драйвера автоматично."
+
+msgid "devicecardlist_no-result_download-link"
+msgstr "Изтегли DriverPack"
+
+msgid "devicegrouppage_all-systems"
+msgstr "всички системи"
+
+msgid "notebookpage_all-systems"
+msgstr "всички системи"
+
+msgid "devicegroupfilters_filter-title"
+msgstr "Налични драйвери"
+
+msgid "deviceidfilters-filter-label-version"
+msgstr "Версия на драйвера:"
+
+msgid "deviceidheader_caption-single"
+msgstr "Име на устройството:"
+
+msgid "deviceidheader_caption-many"
+msgstr "Това устройство е известен също като:"
+
+msgid "devicetypelist_title_os"
+msgstr "Драйвери за устройства за {{OS}}"
+
+msgid "devicetypelist_title"
+msgstr "Търсене на драйвери за устройства"
+
+#. i18n: EN: Example: NAME=Acer Aspire 4830TG; OSVERSIONS=Windows 10 x86; Text
+#. for {{DOWNLOAD}} is in key drivercard_no-results_download-link; RU: Пример:
+#. NAME=Acer Aspire 4830TG; Пример: OSVERSIONS=Windows 10 x86; Текст для
+#. {{DOWNLOAD}} находится в ключе drivercard_no-results_download-link;
+msgid "drivercard_no-results-text"
+msgstr "Драйверите за {{NAME}} за Windows {{OSVERSIONS}} не са намерени в каталога. {{DOWNLOAD}} за да избере драйвера автоматично."
+
+msgid "drivercard_no-results_download-link"
+msgstr "Изтегли DriverPack"
+
+msgid "drivercard_caption-version"
+msgstr "Версия:"
+
+msgid "drivercard_caption-version-recommended"
+msgstr "препоръчан"
+
+msgid "drivercard_caption-date"
+msgstr "Дата:"
+
+msgid "drivercard_caption-class"
+msgstr "Тип на устройството:"
+
+msgid "drivercard_caption-manufacturer"
+msgstr "Производител:"
+
+msgid "drivercard_caption-os"
+msgstr "Операционна системи:"
+
+msgid "drivercard_caption-deviceid"
+msgstr "Device ID:"
+
+msgid "drivercard_caption-inf"
+msgstr "*.inf файл:"
+
+msgid "drivercard_caption-section"
+msgstr "Категория:"
+
+msgid "drivercard_caption-btn"
+msgstr "Изтегли драйвер"
+
+msgid "deviceidpage_all-systems"
+msgstr "всички системи"
+
+msgid "dropdowndriverversion_no-results"
+msgstr "Не са намерени драйвери за посочената OS"
+
+msgid "dropdownos_current"
+msgstr "текущ"
+
+msgid "footer_banner-title"
+msgstr "Уморени ли сте от търсенето на драйвери за вашите устройства?"
+
+msgid "footer_banner-caption"
+msgstr "DriverPack Online <span style='color: {{COLOR}}'>ще намери и инсталира</span> нужните драйвери автоматично"
+
+msgid "footer_banner_btn"
+msgstr "Изтегли <span class='bold'>DriverPack Online</span> безплатно"
+
+msgid "footer_translate-feedback"
+msgstr "Намерихте ли някаква печатна или правописна грешка?<br />Маркирайте я и цъкнете върху нея {{HOTKEY}}"
+
+msgid "header_search-title"
+msgstr "<span class='bold'>Търсенето на драйвери приключи</span> най-голямата база данни — повече от един милион драйвера"
+
+msgid "header_search-examples"
+msgstr "Например:"
+
+msgid "header_cta-text"
+msgstr "Изтегли DriverPack за автоматично засичане на драйвери"
+
+msgid "header_cta-btn"
+msgstr "Инсталирай драйверите автоматично"
+
+msgid "header_cta-label-1"
+msgstr "То <span style='color: {{COLOR}}'>ще се изтегли</span> незабавно"
+
+msgid "header_cta-label-2"
+msgstr "То <span style='color: {{COLOR}}'>ще избере и инсталира</span> драйверите автоматично"
+
+msgid "headerbutton_title"
+msgstr "Инсталирай драйверите автоматично"
+
+msgid "headerbutton_label"
+msgstr "Софтуерът DriverPack е абсолютно безплатен"
+
+msgid "headeros_cta-btn"
+msgstr "Инсталирай драйвери за <span class='HeaderOs__cta-btn-marked'>{{OS}}</span>"
+
+msgid "headeros_search-text"
+msgstr "Или използвайте търсенето в нашата огромна база данни с драйвери"
+
+msgid "landingdevicetypelist_landing-title"
+msgstr "DriverPack е подходящ за всяко устройство"
+
+msgid "landingdevicetypelist_landing-subtitle"
+msgstr "Дори за USB 3.0 на Windows 7 SP1"
+
+msgid "landingdevicetypelist_cta-btn"
+msgstr "Инсталирайте всички необходими драйвери"
+
+msgid "landingdevicetypelist_versions"
+msgstr "Други версии на DriverPack"
+
+msgid "landingfeatures_landing-title"
+msgstr "DriverPack е най-удобният и най-бързият начин за конфигуриране на компютър"
+
+msgid "landingfeatures_landing-subtitle"
+msgstr "Софтуерът се разпространява безплатно и е подходящ както за професионалисти, така и за начинаещи"
+
+msgid "landingfeatures_item-title-free"
+msgstr "Безплатен"
+
+msgid "landingfeatures_item-caption-free"
+msgstr "DriverPack се разпространява безплатно"
+
+msgid "landingfeatures_item-title-safe"
+msgstr "Безопасен"
+
+msgid "landingfeatures_item-caption-safe"
+msgstr "DriverPack официално си сътрудничи с производителите на антивирусен софтуер и защитава компютъра"
+
+msgid "landingfeatures_item-title-for-all-devices"
+msgstr "За всички устройства"
+
+msgid "landingfeatures_item-caption-for-all-devices"
+msgstr "DriverPack притежава най-голямата база данни от драйвери в света и може да настрои всеки компютър"
+
+msgid "landingheader_cta-text"
+msgstr "DriverPack ще инсталира драйверите безплатно и ще реши проблеми с драйвери за всякакви устройства"
+
+msgid "landingheader_cta-btn"
+msgstr "Инсталирайте всички необходими драйвери"
+
+msgid "landingheadernav_wannacrypt"
+msgstr "Защита срещу WannaCry"
+
+msgid "landingheadernav_search"
+msgstr "Търсене на драйвери"
+
+msgid "landingheadernav_foradmin"
+msgstr "За Системни Администратори"
+
+msgid "landingintroduction_author-title"
+msgstr "Здравей! Казвам се Артур Кузяков. Аз съм автор и основател на DriverPack"
+
+msgid "landingintroduction_author-speech"
+msgstr "От малко парче софтуер, написан от чист ентусиазъм преди 8 години, ние го превърнахме в компанията, която помага на повече от 40 милиона души по целия свят да настроят своите компютри!<br /><br />За тези години нашият софтуер се превърна в невероятно бърз и умен. Днес, DriverPack е най-голямата база данни за уникални драйвери в света, която се намира на високоскоростни сървъри по целия свят. За да направим процеса на инсталиране на драйвери не само бързо, но и с възможно най-високо качество, ние използваме технологии за машинно обучение, които правят нашия алгоритъм за избор още по-добър и по-точни. Освен това ние успяхме, да направим така, че софтуерът да остане абсолютно безплатен, така че всеки да може да го използва. <br /><br />Моят екип и аз се гордеем с нашия продукт и се надяваме, че той ще стане вашият надежден асистент, който ще може бързо да настрои компютъра ви."
+
+msgid "landingintroduction_author-speech-marked"
+msgstr "Ние изразходваме цялото си време, за да спестите вашето!"
+
+msgid "landingintroduction_video-caption"
+msgstr "И ето какво мисли Дмитрий Медведев, министър-председателят на Руската федерация, за решението DriverPack"
+
+msgid "landingnotebookvendorslist_landing-title"
+msgstr "DriverPack е подходящ за всеки компютър"
+
+msgid "landingnotebookvendorslist_landing-subtitle"
+msgstr "Да, за ВСЕКИ един - който проверихме"
+
+msgid "landingnotebookvendorslist_cta-btn"
+msgstr "Инсталирайте всички необходими драйвери"
+
+msgid "landingnotebookvendorslist_versions"
+msgstr "Други версии на DriverPack"
+
+msgid "landingproducts_item-title-online"
+msgstr "DriverPack Online"
+
+msgid "landingproducts_item-caption-online"
+msgstr "Изтегля се много бързо и ще изтегли всички липсващи нужни драйвери по време на инсталацията"
+
+msgid "landingproducts_item-version"
+msgstr "Версия:"
+
+msgid "landingproducts_item-button"
+msgstr "Изтегляне"
+
+msgid "landingproducts_item-title-network"
+msgstr "DriverPack Network"
+
+msgid "landingproducts_item-caption-network"
+msgstr "Изтегля се бързо и съдържа драйверите за мрежовия хардуер"
+
+msgid "landingproducts_item-title-offline"
+msgstr "DriverPack Offline"
+
+msgid "landingproducts_item-caption-offline"
+msgstr "Той работи без Интернет връзка, но размерът му е 13.9 GB (вариант за системни администратори)"
+
+msgid "landingpublications__landing-title"
+msgstr "Медийни публикации за DriverPack"
+
+msgid "landingscreenshots_landing-title"
+msgstr "DriverPack е най-удобният и бърз начин за настройка на компютър"
+
+msgid "landingscreenshots_landing-subtitle"
+msgstr "Софтуерът се разпространява безплатно и е подходящ както за професионалисти, така и за начинаещи"
+
+msgid "landingseofooter_landing-subtitle-notebooks"
+msgstr "DriverPack е подходящ за всички модели компютри и лаптопи"
+
+msgid "landingseofooter_landing-subtitle-devices"
+msgstr ""
+
+msgid "landingsocial_landing-title"
+msgstr "Присъединете се към общността на DriverPack"
+
+msgid "landingsocial_landing-subtitle"
+msgstr "Следете новините и участвайте в дискусиите"
+
+msgid "landingusers_cta"
+msgstr "Броят на потребителите на DriverPack по целия свят се увеличава с всяка изминала секунда"
+
+msgid "landingusers_cta-btn"
+msgstr "Инсталирай всички необходими драйвери"
+
+msgid "landingusers_versions"
+msgstr "Други версии на DriverPack"
+
+msgid "landingwizard_landing-title"
+msgstr "Сега е възможно да настроите компютъра с едно кликване"
+
+msgid "landingwizard_item-caption-download"
+msgstr "Изтегли и стартирай DriverPack Online"
+
+msgid "landingwizard_item-caption-setup"
+msgstr "Настрой компютъра си с едно просто действие"
+
+msgid "landingwizard_item-caption-profit"
+msgstr "Ура! Сега компютърът ми работи като чисто нов!"
+
+msgid "landingwizard_cta-btn"
+msgstr "Инсталирайте всички необходими драйвери"
+
+msgid "navbar_download-link-short"
+msgstr "Изтегляне"
+
+msgid "navbar_download-link"
+msgstr "Изтегли DriverPack Online"
+
+msgid "notfound_cta-text"
+msgstr "Може да намериш и инсталираш драйвери автоматично, като използваш DriverPack Online безплатно"
+
+msgid "notfound_cta-btn"
+msgstr "Изтегли DriverPack Online"
+
+msgid "notfound_info-404"
+msgstr "{{404}} — търсената страница не е намерена"
+
+msgid "notfound_info-500"
+msgstr "{{500}} — нещо се обърка (сървърна грешка)"
+
+msgid "notebookfilters-title"
+msgstr "Налични драйвери"
+
+msgid "notebookvendorslist_other-text"
+msgstr "  Други производители"
+
+msgid "notebookvendorslist_title_os"
+msgstr "Драйвери за лаптопи за {{OS}}"
+
+msgid "notebookvendorslist_title"
+msgstr "Търсене на драйвери за лаптопи"
+
+msgid "promoheader_cta-text-gamers"
+msgstr "Вашият компютър е по-мощен, отколкото си мислите: актуализирай всички драйвери безплатно"
+
+msgid "promoheader_cta-text-gamers-caption"
+msgstr "Ако харесвате компютърни игри, препоръчваме Ви да актуализирате драйверите на компютъра по-често, за да постигнете възможно най-висока ефективност на вашия хардуер. До 37% повече FPS - добро игрово преживяване и нови постижения с DriverPack."
+
+msgid "promoheader_cta-text"
+msgstr "DriverPack ще инсталира драйверите безплатно и ще реши проблеми с драйвери за всякакви устройства"
+
+msgid "promoheader_cta-btn"
+msgstr "Инсталирайте всички необходими драйвери"
+
+msgid "promoheader_size"
+msgstr "Големина на файла: {{SIZE}} KB"
+
+msgid "promoheader_license"
+msgstr "Лицензни условия"
+
+msgid "promoheader_os-versions"
+msgstr "Софтуерът е подходящ за Windows 10, 8.1, 8, 7, Vista, XP"
+
+msgid "promoheader_uninstall"
+msgstr "Премахване на DriverPack"
+
+msgid "reviewheader_cta-text"
+msgstr "Присъединете се към общността на DriverPack в социалната мрежа, за да следите новините за продукта и да участвате в дискусиите"
+
+msgid "reviewheader_cta"
+msgstr "Добавете вашето мнение или предложение, за подобряване на DriverPack"
+
+msgid "search_input-placeholder"
+msgstr "Потърсете името на драйвер, лаптоп или DeviceID"
+
+msgid "search_btn-text"
+msgstr "Търси"
+
+msgid "searchformitem_type-section"
+msgstr "Категория"
+
+msgid "searchformitem_type-notebook"
+msgstr "лаптоп"
+
+msgid "searchformitem_type-device"
+msgstr "устройство"
+
+msgid "searchformitem_type-free"
+msgstr "безплатно"
+
+#. i18n: EN: Example: NAME=Acer; RU: Пример: NAME=Acer;
+msgid "generatesearchitemname_notebookvendor"
+msgstr "{{NAME}} лаптопи"
+
+#. i18n: EN: Example: NAME=Asus; RU: Пример: NAME=Asus;
+msgid "generatesearchitemname_vendor"
+msgstr "{{NAME}} устройства"
+
+msgid "deviceclasses_bluetooth-single-main"
+msgstr "Bluetooth устройство"
+
+msgid "deviceclasses_bluetooth-single-for"
+msgstr "Bluetooth устройство"
+
+msgid "deviceclasses_bluetooth-plural-main"
+msgstr "Bluetooth устройства"
+
+msgid "deviceclasses_bluetooth-plural-for"
+msgstr "Bluetooth устройства"
+
+msgid "deviceclasses_cardreader-single-main"
+msgstr "четец на карти"
+
+msgid "deviceclasses_cardreader-single-for"
+msgstr "четец на карти"
+
+msgid "deviceclasses_cardreader-plural-main"
+msgstr "четеци на карти"
+
+msgid "deviceclasses_cardreader-plural-for"
+msgstr "четеци на карти"
+
+msgid "deviceclasses_chipset-single-main"
+msgstr "чипсет"
+
+msgid "deviceclasses_chipset-single-for"
+msgstr "чипсет"
+
+msgid "deviceclasses_chipset-plural-main"
+msgstr "чипсети"
+
+msgid "deviceclasses_chipset-plural-for"
+msgstr "чипсети"
+
+msgid "deviceclasses_inputdev-single-main"
+msgstr "входно устройство"
+
+msgid "deviceclasses_inputdev-single-for"
+msgstr "входно устройство"
+
+msgid "deviceclasses_inputdev-plural-main"
+msgstr "входни устройства"
+
+msgid "deviceclasses_inputdev-plural-for"
+msgstr "входни устройства"
+
+msgid "deviceclasses_lan-single-main"
+msgstr "мрежова карта"
+
+msgid "deviceclasses_lan-single-for"
+msgstr "мрежова карта"
+
+msgid "deviceclasses_lan-plural-main"
+msgstr "мрежови карти"
+
+msgid "deviceclasses_lan-plural-for"
+msgstr "мрежови карти"
+
+msgid "deviceclasses_massstorage-single-main"
+msgstr "контролер"
+
+msgid "deviceclasses_massstorage-single-for"
+msgstr "контролер"
+
+msgid "deviceclasses_massstorage-plural-main"
+msgstr "контролери"
+
+msgid "deviceclasses_massstorage-plural-for"
+msgstr "контролери"
+
+msgid "deviceclasses_modem-single-main"
+msgstr "модем"
+
+msgid "deviceclasses_modem-single-for"
+msgstr "модем"
+
+msgid "deviceclasses_modem-plural-main"
+msgstr "модеми"
+
+msgid "deviceclasses_modem-plural-for"
+msgstr "модеми"
+
+msgid "deviceclasses_monitor-single-main"
+msgstr "монитор"
+
+msgid "deviceclasses_monitor-single-for"
+msgstr "монитор"
+
+msgid "deviceclasses_monitor-plural-main"
+msgstr "монитори"
+
+msgid "deviceclasses_monitor-plural-for"
+msgstr "монитор"
+
+msgid "deviceclasses_phone-single-main"
+msgstr "смартфон"
+
+msgid "deviceclasses_phone-single-for"
+msgstr "смартфон"
+
+msgid "deviceclasses_phone-plural-main"
+msgstr "смартфони"
+
+msgid "deviceclasses_phone-plural-for"
+msgstr "смартфони"
+
+msgid "deviceclasses_sound-single-main"
+msgstr "звукова карта"
+
+msgid "deviceclasses_sound-single-for"
+msgstr "звукова карта"
+
+msgid "deviceclasses_sound-plural-main"
+msgstr "звукови карти"
+
+msgid "deviceclasses_sound-plural-for"
+msgstr "звукови карти"
+
+msgid "deviceclasses_tvtuner-single-main"
+msgstr "TV-тунер"
+
+msgid "deviceclasses_tvtuner-single-for"
+msgstr "TV-тунер"
+
+msgid "deviceclasses_tvtuner-plural-main"
+msgstr "TV-тунери"
+
+msgid "deviceclasses_tvtuner-plural-for"
+msgstr "TV-тунери"
+
+msgid "deviceclasses_video-single-main"
+msgstr "видео карта"
+
+msgid "deviceclasses_video-single-for"
+msgstr "видео карта"
+
+msgid "deviceclasses_video-plural-main"
+msgstr "видео карти"
+
+msgid "deviceclasses_video-plural-for"
+msgstr "видео карти"
+
+msgid "deviceclasses_webcamera-single-main"
+msgstr "уеб камера"
+
+msgid "deviceclasses_webcamera-single-for"
+msgstr "уеб камера"
+
+msgid "deviceclasses_webcamera-plural-main"
+msgstr "уеб камери"
+
+msgid "deviceclasses_webcamera-plural-for"
+msgstr "уеб камери"
+
+msgid "deviceclasses_wifi-single-main"
+msgstr "Wi-Fi устройство"
+
+msgid "deviceclasses_wifi-single-for"
+msgstr "Wi-Fi устройство"
+
+msgid "deviceclasses_wifi-plural-main"
+msgstr "Wi-Fi устройства"
+
+msgid "deviceclasses_wifi-plural-for"
+msgstr "Wi-Fi устройства"
+
+msgid "deviceclasses_other-single-main"
+msgstr "друго устройство"
+
+msgid "deviceclasses_other-single-for"
+msgstr "друго устройство"
+
+msgid "deviceclasses_other-plural-main"
+msgstr "други устройства"
+
+msgid "deviceclasses_other-plural-for"
+msgstr "други устройства"
+
+msgid "searchheader_caption-subtitle"
+msgstr "Намерени драйвери по заявка:"
+
+msgid "searchheader_caption-filter-label"
+msgstr "Ще се изтегли драйвер за избраната OS"
+
+#. i18n: EN: Example: NOTEBOOK=Acer AO521; Text for {{DOWNLOAD}} is in key
+#. searchresult_details-content_download-link; RU: Пример: NOTEBOOK=Acer
+#. AO521; Текст для {{DOWNLOAD}} находится в ключе searchresult_details-
+#. content_download-link
+msgid "searchresult_details-content-notebook-text"
+msgstr "{{DOWNLOAD}} за да идентифицирате и инсталирате необходимите драйвери автоматично или да отидете на страницата на{{NOTEBOOK}} и изберете нужния драйвер ръчно"
+
+msgid "searchresult_details-content_download-link"
+msgstr "Изтегли DriverPack"
+
+msgid "searchresult_notebook"
+msgstr "Лаптоп"
+
+msgid "searchresult_download-btn"
+msgstr "Инсталирай драйвера автоматично"
+
+msgid "searchresult_details-content-text-placeholder"
+msgstr "Данните се зареждат ..."
+
+msgid "searchresult_details-content-label-1"
+msgstr "OS"
+
+msgid "searchresult_details-content-label-2"
+msgstr "всички системи"
+
+#. i18n: EN: Example: DEVICE=NVIDIA GeForce 205; Text for {{DOWNLOAD}} is in
+#. key searchresult_details-content_download-link; RU: Пример: DEVICE=NVIDIA
+#. GeForce 205; Текст для {{DOWNLOAD}} находится в ключе searchresult_details-
+#. content_download-link
+msgid "searchresult_details-content-group-text"
+msgstr "{{DOWNLOAD}} за да идентифицирате и инсталирате необходимите драйвери автоматично или да отидете на страницата на {{DEVICE}} и изберете нужния драйвер ръчно"
+
+#. i18n: EN: Example: CLASS.SINGLE.MAIN=monitor|chipset; COUNT=12; RU: Пример:
+#. CLASS.SINGLE.MAIN=монитор|чипсет; COUNT=12;
+msgid "searchresult_device"
+msgstr "{{CLASS.SINGLE.MAIN}} ({{COUNT}} намерени резултата)"
+
+msgid "searchresult_details-content-text-many"
+msgstr "Намерени са няколко различни драйвера за това устройство"
+
+msgid "seofooter_os-list-title"
+msgstr "Версия на Операционните Системи: <span itemprop='operatingSystem'>{{OSLIST}}</span>"
+
+msgid "seofooter_offers-title"
+msgstr "<span itemprop='offers' itemscope='' itemtype='http://schema.org/Offer'>разпространява се <meta itemprop='price' content='0' />безплатно</span>"
+
+msgid "seofooter_driver-description-title"
+msgstr "Описание на драйвера"
+
+msgid "seofooter_popular-drivers-title"
+msgstr "Популярни драйвери"
+
+msgid "sidebanner_title"
+msgstr "Писна ли ти да търсиш драйвери?"
+
+msgid "sidebanner_caption"
+msgstr "DriverPack автоматично ще <span class='SideBanner__caption-marked'>избере и инсталира</span> нужните драйвери"
+
+msgid "translationheader_cta-text"
+msgstr "Участвайте в превеждането на уеб сайта на DriverPack и помагайте на милиони потребители по целия свят"
+
+msgid "translationheader_bubble-team"
+msgstr "Искате ли да бъдете част от екипа на преводачите за най-голямата световна услуга за автоматична компютърна настройка?"
+
+msgid "translationheader_bubble-languages"
+msgstr "Знаете ли добре английски или руски, значи сте готов да превеждате от единия от тях на родния си език?"
+
+msgid "translationheader_bubble-experience"
+msgstr "Имате ли опит в превода на софтуер или уеб-сайтове с помощта на онлайн преводачи?"
+
+msgid "translationheader_bubble-email"
+msgstr "Ако отговорите са ДА на трите въпроса, моля, изпратете ни имейл{{EMAIL}} с '{{SUBJECT}}' в темата на писмото и напишете вашия език, с който сте готови да се справите."
+
+msgid "translationlist_title"
+msgstr "Списък с Одобрени Преводачи на DriverPack"
+
+msgid "translationtool_text-transifex"
+msgstr "В DriverPack Solution превеждаме съответния език с помощта на услугата на transifex.com:"
+
+msgid "translationtool_example-ru-to-en"
+msgstr "Канал за превод от руски (RU) на английски (EN) и CIS езици (CIS)"
+
+msgid "translationtool_example-en-to-all"
+msgstr "Канал за превод от Английски (EN) на други езици"
+
+msgid "language_title"
+msgstr "Bulgarian"
+
+msgid "landingPagePublications_rbk"
+msgstr "Driverpack е софтуерът, който съдържа драйвери за Windows, подбрани и тествани от екипа на Артър Кузяков. Това приложение анализира потребителския компютър и инсталира необходимите драйвери, което позволява да се решат два въпроса: първо, да се ускори процесът на конфигуриране на компютъра (което е особено важно, ако в една система има десетки компютри) и на второ място, да подобри качеството на работата му."
+
+msgid "landingPagePublications_secretfirmy"
+msgstr "Днес DriverPack има най-голямата база данни за драйвери в света, която се превежда на 45 езика и работи на компютрите на повече от 42 милиона потребители."
+
+msgid "landingPagePublications_cnews"
+msgstr "От момента, в който е създадена първата версия на софтуера, DriverPack Solution е много популярен сред потребителите. Софтуерът е достъпен за изтегляне абсолютно безплатно. Това отличава DriverPack Solution от своите конкуренти и привлича все повече и повече нови потребители."
+
+msgid "landingPagePublications_xbit"
+msgstr "DriverPack Solution е интересно приложение с набор от опции, които не се предлагат от друг софтуер от същия тип. Всеки потребител ще може да поправи всички грешки, да настрои правилните драйвери за всички устройства на системата с две кликвания. В момента броят на драйверите в базата данни на DriverPack вече е надхвърлил 1,1 милиона позиции и всички те са тествани за безопасност."
+
+msgid "landingPagePublications_chip"
+msgstr "С DriverPack изобщо не е усилие да намерите всички най-нови версии на драйверите за компонентите на вашите PC. Най-приятното е, че потребителят дори не трябва да полага усилия. Този инструмент е напълно автоматизиран и удобен за работа."
+
+msgid "landingPagePublications_pcmag"
+msgstr "DriverPack Protect ще ви помогне да защитите компютъра си от злонамерен код, рекламни програми и приставки, които дори антивирусния софтуер и инструментите за блокиране на реклами често не успяват."
+
+msgid "landingPagePublications_habr"
+msgstr "Необходимостта да търсите и инсталирате драйвери всеки път, когато преинсталирате Windows, според мен е една от най-значителните недостатъци на цялото семейство на Windows. Въпреки това, още през 2008 г. реших да отстраня този проблем и написах собствен софтуер, който получи името DriverPack. Днес продуктът ми се използва от 40 милиона потребители по целия свят и според мен може да се приеме, че проблемът с драйверите в Windows е решен, макар и с решение на трета страна."
+
+msgid "landingPagePublications_computerra"
+msgstr "Новата версия предоставя на потребителя повече средства за създаване на собствен подбор. Това е особено актуална тема за онези, които се занимават с обслужване на компютри и управляват много различен хардуер. Сега е възможно да се интегрират всякакви алтернативни драйверпакети в DriverPack, а не просто да се премахнат ненужните."
+
+msgid "landingPagePublications_vc"
+msgstr "Благодарение на виното, продуктът е преведен от потребителите на 45 езика без участието на нашия екип."
+
+msgid "adminpagefaq_official_vendors-q"
+msgstr "Преди DriverPack, аз изтеглех драйверите от официалните сайтове, но имах проблеми дори и с тях. Защо драйверите в DriverPack са по-надеждни от тези на производителите?"
+
+msgid "adminpagefaq_official_vendors-a"
+msgstr "За да превърнем нашата база данни за драйвери не само най-голямата, но и най-стабилната, ние продължаваме да работим усилено за нейното постоянно подобрение и ние дори поправяме грешките, които не са отстранени от официалните производители! Използваме технологията за машинно обучение и благодарение на нея алгоритъмът ни за подбор постоянно се подобрява. И точно затова драйверите от DriverPack са най-надеждните :-)"
+
+msgid "adminpagefaq_database-q"
+msgstr "Как се разшири базата данни на DriverPack? Мога ли наистина да намеря водачите, от които се нуждая?"
+
+msgid "adminpagefaq_database-a"
+msgstr "Досега нашата база данни с драйвери се явява най-голямата в света, затова ще можем да намерим драйвери за всяко устройство с над 99% успех. За да продължим да събираме и поддържаме такава база данни, ние си сътрудничим директно с производителите на устройства и разработчиците на драйвери. Ние събираме и тестваме драйверите от официалните сайтове, както и от частни FTP сървъри, като вземаме предвид и препоръките на активните ползватели."
+
+msgid "adminpagefaq_free-q"
+msgstr "Наистина ли DriverPack е безплатен?"
+
+msgid "adminpagefaq_free-a"
+msgstr "Всичкият ни софтуерът е абсолютно безплатен! Но ако искате да подкрепите проекта ни, можете сами да си инсталирате полезния софтуер, който предлагаме и да препоръчате DriverPack на вашите приятели :-)"
+
+msgid "adminpagefaq_antivirus-q"
+msgstr "Моята антивирусна открива вирус в DriverPack - как е възможно това да се случи?"
+
+msgid "adminpagefaq_antivirus-a"
+msgstr "Това най-вероятно е положително фалшива информация, тъй като всички версии на DriverPack подлежат на задълбочен преглед и акредитация от Kaspersky Laboratory. Нашата компания си сътрудничи с много доставчици на антивирусни програми като Avast и 360 Total Security. За да продължите да работите, просто добавете DriverPack в белия списък на антивирусната. Също така ще Ви благодарим, ако съобщите това като положително фалшиво за вашата антивирусна компания, както и на нашата служба за поддръжка."
+
+msgid "adminpagefaq_expert_mode-q"
+msgstr "Кой режим на DriverPack е най-удобен за използване?"
+
+msgid "adminpagefaq_expert_mode-a"
+msgstr "По подразбиране DriverPack се стартира в автоматичен режим, създаден е да бъде разбираем и удобен за употреба дори и за нови потребители. Както и да е, за удобство на напредналите потребители и системните администратори, разработихме Експертния режим, който съдържа разширени настройки и опции за персонализиране. За да активирате този режим, достатъчно е за цъкнете върху бутона в долната част на екрана."
+
+msgid "adminpagefaq_stable-q"
+msgstr "Драйверът не е инсталиран правилно и сега компютърът ми вече има проблеми. Как мога да поправя тази ситуация?"
+
+msgid "adminpagefaq_stable-a"
+msgstr "Стабилността на работата на софтуера DriverPack е един от основните ни приоритети, но незначителни повреди все още се случват, въпреки че те са рядкост. Ето защо създаваме точка за възстановяване, която ще ви позволи да върнете всичко обратно на предишното конфигурирано състояние. За да се предотврати подобен проблем в бъдеще, ние Ви препоръчваме да отидете в Менюто на DriverPack и изпратете на доклад, който се създава автоматично от софтуера, за нашите технически сътрудници."
+
+msgid "devicegrouppage_show-more-link"
+msgstr "Виж още"
+
+msgid "devicestypepage_subtitle"
+msgstr "Всички {{CLASS.SINGLE.FOR}} производители"
+
+msgid "devicetypevendorpage_subtitle-popular"
+msgstr "Популярни {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
+
+msgid "devicetypevendorpage_subtitle-all"
+msgstr "Всички {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
+
+msgid "drop-down-language_not-found"
+msgstr "Haven't found your language?"
+
+msgid "errorpage_title"
+msgstr "Грешка 500: вътрешна грешка на сървъра"
+
+msgid "landingfooter_landing-subtitle"
+msgstr ""
+
+msgid "landing-footer_catalog-os"
+msgstr "драйвери за {{OS}}"
+
+msgid "landing-footer_download"
+msgstr "Изтегли DriverPack"
+
+msgid "landing-footer_versions"
+msgstr "Всички версии на приложението"
+
+msgid "landing-footer_catalog"
+msgstr "Търсене на драйвери"
+
+msgid "landing-footer_drivers-catalog"
+msgstr "Каталог за Драйвери"
+
+msgid "landing-footer_for-admin"
+msgstr "За системни администратори"
+
+msgid "landing-footer_for-translators"
+msgstr "За преводачи"
+
+msgid "landing-footer_drivers-for-laptops"
+msgstr "Драйвери за Лаптопи"
+
+msgid "landing-footer_hwids"
+msgstr "Device ID"
+
+msgid "landing-footer_license"
+msgstr "Лицензионни условия"
+
+msgid "landing-footer_remove"
+msgstr "Премахване на DriverPack"
+
+msgid "notfoundpage_title"
+msgstr "Грешка 404: страницата не е намерена"
+
+msgid "notebookpage_show-more-link"
+msgstr "Виж още"
+
+msgid "notebookpage_all-devices"
+msgstr "виж всички устройства"
+
+msgid "notebookspage_subtitle"
+msgstr "Списък на всички Лаптоп и Нетбук Производители"
+
+msgid "notebooksvendorpage_subtitle-popular"
+msgstr "Популярни {{VENDOR.NAME}} лаптопи и нетбуци"
+
+msgid "notebooksvendorpage_subtitle-all"
+msgstr "Всички {{VENDOR.NAME}} лаптопи и нетбуци "
+
+msgid "reviewpage_title"
+msgstr "Обратна връзка и предложения за подобряване на DriverPack"
+
+msgid "searchpage_show-more-link"
+msgstr "Виж още"
+
+#. i18n: EN: text for {{LINK}} is in key thankyoupopup_download-link; RU:
+#. текст для {{LINK}} находится в ключе thankyoupopup_download-link;
+msgid "thankyoupopup_download-text"
+msgstr "Изтеглянето не е ли стартирало? Цъкнете тук {{LINK}}"
+
+msgid "thankyoupopup_title"
+msgstr "Стартирай DriverPack"
+
+msgid "thankyoupopup_cta-text"
+msgstr "за да започне избирането и инсталирането на драйвери на вашия компютър"
+
+msgid "thankyoupopup_download-link"
+msgstr "изтегли"
+
+msgid "translate-feedback-header_caption"
+msgstr "Тази страница току що беше преведена. Намерихте ли печатна грешка? Маркирайте я и натиснете {{HOTKEY}}"
+
+msgid "translate-feedback-popup_title-error"
+msgstr "Нещо се обърка"
+
+msgid "translate-feedback-popup_description-error"
+msgstr "Маркираният текст не е изпратен поради проблеми на сървъра. <br />Опитайте отново по-късно, моля."
+
+msgid "translate-feedback-popup_title-success"
+msgstr "Благодаря"
+
+msgid "translate-feedback-popup_description-success"
+msgstr "Маркираният текст беше изпратен на редактора."
+
+msgid "translate-feedback-popup_description-join-us"
+msgstr "Моля, помогнете ни с превода на твоя роден език."
+
+msgid "translate-feedback-popup_description-join-link"
+msgstr "Присъединете се към нашия екип от преводачи!"
+
+msgid "translationlandingpage_title"
+msgstr "DriverPack Превод"
+
+msgid "vendorpage_subtitle-popular"
+msgstr "Популярни {{VENDOR.NAME}} устройства"
+
+msgid "wannacryptpromopage_cta-text"
+msgstr "WannaCrypt крипто вирус — как да защитите компютъра от най-голямата атака в историята?"
+
+msgid "wannacryptpromopage_cta-subtext"
+msgstr "DriverPack съдържа конкретни средства за елиминиране на уязвимости между инструментите за конфигурация на компютъра. Можете да изтеглите безплатна защита срещу вируса WannaCry, който ще защити вашия компютър или лаптоп."
+
+msgid "wannacryptpromopage_cta-btn"
+msgstr "Настрой компютъра и го защити срещу WannaCry"
+
+msgid "wannacryptpromopage_caption-text"
+msgstr "Този софтуер се предоставя безплатно"
+
+msgid "wannacryptpromopage_info-text-title-1"
+msgstr "Какво е WannaCrypt?"
+
+msgid "wannacryptpromopage_info-text-1"
+msgstr "WannaCrypt изнудващия вирус (спонтанно преименуван на WannaCry от жертвите) атакува компютрите по целия свят на 12 май и инфектира устройствата на повече от 300 000 потребители в 150 държави. Западна Европа, Русия и Китай бяха най-силно засегнати. Във Великобритания вирусът е деактивирал мрежите на здравното министерство и е спрял дейността на болниците в цялата страна. В Китай нападението засяга стари компютри в заводи, които са спрели няколко индустрии.<br/><br/>Основнния способ по който работи този вирус е прост: той прониква във вашия компютър или лаптоп и кодира абсолютно всички документи, файлове и материали, които може да намери, и ги прави недостъпни за употреба. След това нападателите изискват значителна сума пари за декодиране — около $ 300. Въпреки това, няма гаранция, че ще получите обратно достъп до вашите файлове. Понастоящем няма как да декодирате файловете сами, а решенията които се предлагат в Интернет в момента са или fishing, или разпространение на друг вирус, или просто не работят със 100% сигурност."
+
+msgid "wannacryptpromopage_info-text-title-2"
+msgstr "Кой е изложен на риск?"
+
+msgid "wannacryptpromopage_info-text-2"
+msgstr "Компонентите с операционна система, по-стари от Windows 10 с отворени SMB портове, са най-рискови. Понастоящем половината от потребителите на Windows са изложени на риск — 18% от потребителите използват нелицензирани копия на Windows (автоматично ги излагат на риск), 23% от потребителите са деактивирали услугата Windows Update (което им пречи да изтеглят най-новите &#147;горещи кръпки&#148; от Microsoft), а още 6% използват остарели версии на OS, които просто не получават актуализации. <br/><br/>Изводът от всичко това е, че мрежите на различните фирми и предприятия, които все още използват операционни системи като Windows XP, са изложени на най-голям риск. При атаки срещу тези мрежи загубата на данни може да бъде осакатяваща и цената ще бъде огромна, тъй като всеки &#147;откуп&#148; ще трябва да бъде платен за всеки отделен компютър."
+
+msgid "wannacryptpromopage_info-text-title-3"
+msgstr "Как да защитиш бизнеса си — решение от DriverPack Solution"
+
+msgid "wannacryptpromopage_info-text-3"
+msgstr "Основната причина за опасността от вируса WannaCrypt (WannaCry) е, че се разпространява чрез използване на критични уязвимости в SMBv1 протокола на системата за сигурност MS17-010. Това прави WannaCry всъщност невидим за антивирусите. Решението от DriverPack Solution ви позволява да инсталирате актуализация, която защитава критичните уязвимости на вашата система и незабавно да деактивира остарелия протокол, който е заплахата, независимо от валидността на вашия лиценз и вашата версия на операционната система."
+
+msgid "wannacryptpromopage_links-text"
+msgstr "В разработването на това решение са използвани на следните материали"
+
+msgid "wannacryptpromopage_link-smb"
+msgstr "Как да активирате и деактивирате версии 1, 2 и 3 на SMB протоколи за Windows и Windows Server"

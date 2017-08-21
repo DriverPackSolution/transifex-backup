@@ -1,0 +1,1058 @@
+# Translators:
+# D.O <inactive+Sir_Drinksalot@transifex.com>, 2017
+# Артур Кузяков <artx@drp.su>, 2017
+# D O <ozzimek1@gmail.com>, 2017
+# Srbastjan Colnaric <seba1.colnaric17@gmail.com>, 2017
+# Nadia Tegeneva <nadia@drp.su>, 2017
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-08-16 09:41+0000\n"
+"PO-Revision-Date: 2016-09-23 09:12+0000\n"
+"Last-Translator: Nadia Tegeneva <nadia@drp.su>, 2017\n"
+"Language-Team: Slovenian (https://www.transifex.com/driverpack-solution/teams/75453/sl/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sl\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3);\n"
+
+msgid "adminlandingpage_title"
+msgstr "DriverPack za profesionalce – samodejna namestitev gonilnikov na kateri koli računalnik"
+
+msgid "admincackle_dialog-star"
+msgstr ""
+
+msgid "admindriverpacks_landing-title"
+msgstr "Driverpacks (paketi gonilnikov)"
+
+msgid "admindriverpacks_landing-subtitle"
+msgstr ""
+
+msgid "admindriverpacks_downloaded"
+msgstr "Prenosi:"
+
+msgid "admindriverpacks_download"
+msgstr "Prenesi"
+
+msgid "adminfaq_landing-title"
+msgstr "Odgovarjamo na vaša vprašanja"
+
+msgid "adminfaq_landing-subtitle"
+msgstr ""
+
+msgid "adminheader_cta-text"
+msgstr ""
+
+msgid "adminheader_cta-btn"
+msgstr "Prenesite DriverPack Online"
+
+msgid "adminheader_products-caption"
+msgstr ""
+
+msgid "search_noresult"
+msgstr "Prenesite DriverPack Online"
+
+msgid "adminpromo_landing-title"
+msgstr "Nova različica DriverPack 18 je v razvoju."
+
+msgid "adminpromo_landing-subtitle"
+msgstr "Nova različica je zasnovana posebej za skrbnike in upošteva njihove potrebe."
+
+msgid "adminpromo_banner-text"
+msgstr ""
+
+msgid "adminpromo_list-item-speed"
+msgstr ""
+
+msgid "adminpromo_list-item-ui"
+msgstr ""
+
+msgid "adminpromo_list-item-settings"
+msgstr ""
+
+msgid "adminpromo_list-item-soft"
+msgstr ""
+
+msgid "adminpromo_list-item-packs"
+msgstr ""
+
+msgid "adminpromo_list-item-device-support"
+msgstr ""
+
+msgid "adminpromo_list-item-expert-mode"
+msgstr "Napredni način je privzeto aktiviran."
+
+msgid "adminpromo_list-item-stable-db"
+msgstr ""
+
+msgid "adminpromo_list-item-full-db"
+msgstr ""
+
+msgid "buttonsplitdropdown_main-button"
+msgstr "Prenesi"
+
+msgid "breadcrumbs_main-text"
+msgstr "Domča stran"
+
+msgid "breadcrumbs_vendors-text"
+msgstr "Proizvajalci"
+
+#. i18n: EN: Example: VENDOR.NAME=Lenovo; RU: Пример: VENDOR.NAME=Lenovo;
+msgid "breadcrumbs_vendor-text"
+msgstr "{{VENDOR.NAME}}"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=cardreaders|monitors; RU: Пример:
+#. CLASS.PLURAL.MAIN=картридеры|мониторы;
+msgid "breadcrumbs_deviceclass-text"
+msgstr "{{CLASS.PLURAL.MAIN}}"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=cardreaders|monitors,
+#. VENDOR.NAME=Realtek; RU: Пример: CLASS.PLURAL.MAIN=картридеры|мониторы;
+#. VENDOR.NAME=Realtek;
+msgid "breadcrumbs_devicegroups-text"
+msgstr "{{CLASS.PLURAL.MAIN}}{{VENDOR.NAME}} "
+
+#. i18n: EN: Example: GROUP.VENDOR.NAME=Nvidia, GROUP.NAME=GeForce 210; RU:
+#. Пример: GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210;
+msgid "breadcrumbs_devicegroup-text"
+msgstr "{{GROUP.VENDOR.NAME}} {{GROUP.NAME}}"
+
+msgid "breadcrumbs_notebooks-text"
+msgstr "Prenosni računalniki"
+
+#. i18n: EN: Example: VENDOR.NAME=Asus; RU: Пример: VENDOR.NAME=Asus;
+msgid "breadcrumbs_notebookvendor-text"
+msgstr "Prenosniki {{VENDOR.NAME}}"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=X1 carbon;
+#. RU: Пример: NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=X1 carbon;
+msgid "breadcrumbs_notebook-text"
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=Videocards|Chipsets ,
+#. NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=G580; RU: Пример:
+#. CLASS.PLURAL.MAIN=видеокарты|чипсеты, NOTEBOOK.VENDOR.NAME=Lenovo,
+#. NOTEBOOK.NAME=G580;
+msgid "breadcrumbs_notebookdevices-text"
+msgstr "{{CLASS.PLURAL.MAIN}} za prenosnik {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
+
+msgid "devicecard_download-btn"
+msgstr "Prenesi gonilnik"
+
+#. i18n: EN: Example: NAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10 x86; Text
+#. for {{DOWNLOAD}} is in key drivercard_no-results_download-link; RU: Пример:
+#. NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10 x86; Текст для
+#. {{DOWNLOAD}} находится в ключе drivercard_no-results_download-link;
+msgid "devicecard_details_no-results-text"
+msgstr ""
+
+msgid "devicecard_details_no-results_download-link"
+msgstr "Prenesite DriverPack"
+
+msgid "devicecard_details-content-text"
+msgstr "Nalaganje podatkov ..."
+
+msgid "devicecard_details_all-systems"
+msgstr "Vsi sistemi"
+
+msgid "devicecard_details-content-label-version"
+msgstr "Različica:"
+
+msgid "devicecard_details-content-label-version-recommended"
+msgstr "priporočeno"
+
+msgid "devicecard_details-content-label-date"
+msgstr "Datum:"
+
+msgid "devicecard_details-content-label-type"
+msgstr "Vrsta voznika"
+
+msgid "devicecard_details-content-label-manufacturer"
+msgstr "Proizvajalec:"
+
+msgid "devicecard_details-content-label-systems"
+msgstr "Operacijski sistemi:"
+
+msgid "devicecard_details-content-label-deviceid"
+msgstr "Device ID:"
+
+msgid "devicecard_details-content-label-inf"
+msgstr "Datotka * .inf:"
+
+msgid "devicecard_details-content-label-section"
+msgstr "Kategorija:"
+
+msgid "devicecard_details-links-merged_label"
+msgstr "Če Device ID, ki ga potrebujete, ni na seznamu, ga vnesite v vrstico iskanja."
+
+msgid "devicecard_details-links-notebook_device"
+msgstr "Oglejte si vse voznike:"
+
+msgid "devicecard_details-links"
+msgstr ""
+
+#. i18n: EN: Example: DEVICENAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10
+#. x86; Text for {{DOWNLOAD}} is in key devicecardlist_no-result_download-
+#. link; RU: Пример: NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10
+#. x86; Текст для {{DOWNLOAD}} находится в ключе devicecardlist_no-
+#. result_download-link;
+msgid "devicecardlist_no-results-device-text"
+msgstr ""
+
+#. i18n: EN: Example: DEVICECLASS=chipsets|videocards; NOTEBOOK=Acer AO521;
+#. OSVERSIONS=Windows 10 x86; Text for {{DOWNLOAD}} is in key
+#. devicecardlist_no-result_download-link; RU: Пример:
+#. DEVICECLASS=чипсета|видеокарты; NOTEBOOK=Acer AO521; Пример:
+#. OSVERSIONS=Windows 10 x86; Текст для {{DOWNLOAD}} находится в ключе
+#. devicecardlist_no-result_download-link;
+msgid "devicecardlist_no-results-notebook-text"
+msgstr ""
+
+#. i18n: EN: Example: NOTEBOOK=Acer AO521; OSVERSIONS=Windows 10 x86; Text for
+#. {{DOWNLOAD}} is in key devicecardlist_no-result_download-link; RU: Пример:
+#. NOTEBOOK=Acer AO521; Пример: OSVERSIONS=Windows 10 x86; Текст для
+#. {{DOWNLOAD}} находится в ключе devicecardlist_no-result_download-link;
+msgid "devicecardlist_no-results-notebook-device-class-text"
+msgstr ""
+
+msgid "devicecardlist_no-result_download-link"
+msgstr "Prenesite DriverPack"
+
+msgid "devicegrouppage_all-systems"
+msgstr "Vsi sistemi"
+
+msgid "notebookpage_all-systems"
+msgstr "Vsi sistemi"
+
+msgid "devicegroupfilters_filter-title"
+msgstr "Razpoložljivi vozniki:"
+
+msgid "deviceidfilters-filter-label-version"
+msgstr "Različica gonilnika:"
+
+msgid "deviceidheader_caption-single"
+msgstr "Ime naprave:"
+
+msgid "deviceidheader_caption-many"
+msgstr ""
+
+msgid "devicetypelist_title_os"
+msgstr ""
+
+msgid "devicetypelist_title"
+msgstr "Iskanje gonilnikov za naprave"
+
+#. i18n: EN: Example: NAME=Acer Aspire 4830TG; OSVERSIONS=Windows 10 x86; Text
+#. for {{DOWNLOAD}} is in key drivercard_no-results_download-link; RU: Пример:
+#. NAME=Acer Aspire 4830TG; Пример: OSVERSIONS=Windows 10 x86; Текст для
+#. {{DOWNLOAD}} находится в ключе drivercard_no-results_download-link;
+msgid "drivercard_no-results-text"
+msgstr ""
+
+msgid "drivercard_no-results_download-link"
+msgstr "Prenesite DriverPack"
+
+msgid "drivercard_caption-version"
+msgstr "Trenutna različica:"
+
+msgid "drivercard_caption-version-recommended"
+msgstr "Priporoča"
+
+msgid "drivercard_caption-date"
+msgstr "Datum:"
+
+msgid "drivercard_caption-class"
+msgstr "Vrsta naprave:"
+
+msgid "drivercard_caption-manufacturer"
+msgstr "Proizvajalec:"
+
+msgid "drivercard_caption-os"
+msgstr "Operacijski sistemi:"
+
+msgid "drivercard_caption-deviceid"
+msgstr "Device ID:"
+
+msgid "drivercard_caption-inf"
+msgstr "Datotka * .inf:"
+
+msgid "drivercard_caption-section"
+msgstr "Kategorija:"
+
+msgid "drivercard_caption-btn"
+msgstr "Prenos voznikov"
+
+msgid "deviceidpage_all-systems"
+msgstr "Vsi sistemi"
+
+msgid "dropdowndriverversion_no-results"
+msgstr ""
+
+msgid "dropdownos_current"
+msgstr "Sedanji"
+
+msgid "footer_banner-title"
+msgstr ""
+
+msgid "footer_banner-caption"
+msgstr "DriverPack Online samodejno <span style='color: {{COLOR}}'>poišče in namesti</span> gonilnike, ki jih potrebujete."
+
+msgid "footer_banner_btn"
+msgstr "Brezplačno prenesite <span class='bold'>DriverPack Online</span>"
+
+msgid "footer_translate-feedback"
+msgstr ""
+
+msgid "header_search-title"
+msgstr ""
+
+msgid "header_search-examples"
+msgstr "Naprimer:"
+
+msgid "header_cta-text"
+msgstr ""
+
+msgid "header_cta-btn"
+msgstr "Samodejno namesti gonilnike"
+
+msgid "header_cta-label-1"
+msgstr "T o<span style='color: {{COLOR}}'>Bo prenos</span>Takoj"
+
+msgid "header_cta-label-2"
+msgstr "To <span style='color: {{COLOR}}'> jazberi v Namesti </span> samodejno naloži voznike"
+
+msgid "headerbutton_title"
+msgstr "Samodejno namesti gonilnike"
+
+msgid "headerbutton_label"
+msgstr "Programska oprema DriverPack je povsem brezplačna."
+
+msgid "headeros_cta-btn"
+msgstr ""
+
+msgid "headeros_search-text"
+msgstr ""
+
+msgid "landingdevicetypelist_landing-title"
+msgstr "DriverPack je primeren za vsako napravo."
+
+msgid "landingdevicetypelist_landing-subtitle"
+msgstr "Tudi za USB 3.0 na Windows 7 SP1"
+
+msgid "landingdevicetypelist_cta-btn"
+msgstr "Namesti vse potrebne gonilnike"
+
+msgid "landingdevicetypelist_versions"
+msgstr ""
+
+msgid "landingfeatures_landing-title"
+msgstr ""
+
+msgid "landingfeatures_landing-subtitle"
+msgstr ""
+
+msgid "landingfeatures_item-title-free"
+msgstr ""
+
+msgid "landingfeatures_item-caption-free"
+msgstr ""
+
+msgid "landingfeatures_item-title-safe"
+msgstr "Varno"
+
+msgid "landingfeatures_item-caption-safe"
+msgstr ""
+
+msgid "landingfeatures_item-title-for-all-devices"
+msgstr "Za vse naprave"
+
+msgid "landingfeatures_item-caption-for-all-devices"
+msgstr ""
+
+msgid "landingheader_cta-text"
+msgstr ""
+
+msgid "landingheader_cta-btn"
+msgstr "Namesti vse potrebne gonilnike"
+
+msgid "landingheadernav_wannacrypt"
+msgstr "Zaščita pred WannaCry"
+
+msgid "landingheadernav_search"
+msgstr "Poišči gonilnike"
+
+msgid "landingheadernav_foradmin"
+msgstr "Za skrbnike sistemov"
+
+msgid "landingintroduction_author-title"
+msgstr ""
+
+msgid "landingintroduction_author-speech"
+msgstr ""
+
+msgid "landingintroduction_author-speech-marked"
+msgstr ""
+
+msgid "landingintroduction_video-caption"
+msgstr ""
+
+msgid "landingnotebookvendorslist_landing-title"
+msgstr "DriverPack je primeren za vse računalnike"
+
+msgid "landingnotebookvendorslist_landing-subtitle"
+msgstr ""
+
+msgid "landingnotebookvendorslist_cta-btn"
+msgstr "Namesti vse potrebne gonilnike"
+
+msgid "landingnotebookvendorslist_versions"
+msgstr ""
+
+msgid "landingproducts_item-title-online"
+msgstr "DriverPack Online"
+
+msgid "landingproducts_item-caption-online"
+msgstr ""
+
+msgid "landingproducts_item-version"
+msgstr "Trenutna različica:"
+
+msgid "landingproducts_item-button"
+msgstr "Prenos"
+
+msgid "landingproducts_item-title-network"
+msgstr "DriverPack Network"
+
+msgid "landingproducts_item-caption-network"
+msgstr ""
+
+msgid "landingproducts_item-title-offline"
+msgstr "DriverPack Offline"
+
+msgid "landingproducts_item-caption-offline"
+msgstr ""
+
+msgid "landingpublications__landing-title"
+msgstr "Množičnih medijskih objav o DriverPack"
+
+msgid "landingscreenshots_landing-title"
+msgstr ""
+
+msgid "landingscreenshots_landing-subtitle"
+msgstr ""
+
+msgid "landingseofooter_landing-subtitle-notebooks"
+msgstr "DriverPack je primeren za vse modele računalnikov in prenosnikov"
+
+msgid "landingseofooter_landing-subtitle-devices"
+msgstr ""
+
+msgid "landingsocial_landing-title"
+msgstr "Pridružite se skupnosti DriverPack"
+
+msgid "landingsocial_landing-subtitle"
+msgstr "Spremljajte novice in sodelujte v razpravah."
+
+msgid "landingusers_cta"
+msgstr ""
+
+msgid "landingusers_cta-btn"
+msgstr "Namesti vse potrebne gonilnike"
+
+msgid "landingusers_versions"
+msgstr ""
+
+msgid "landingwizard_landing-title"
+msgstr ""
+
+msgid "landingwizard_item-caption-download"
+msgstr ""
+
+msgid "landingwizard_item-caption-setup"
+msgstr ""
+
+msgid "landingwizard_item-caption-profit"
+msgstr ""
+
+msgid "landingwizard_cta-btn"
+msgstr "Namesti vse potrebne gonilnike"
+
+msgid "navbar_download-link-short"
+msgstr "Prenos"
+
+msgid "navbar_download-link"
+msgstr "Prenesite DriverPack Online"
+
+msgid "notfound_cta-text"
+msgstr ""
+
+msgid "notfound_cta-btn"
+msgstr "Prenesite DriverPack Online"
+
+msgid "notfound_info-404"
+msgstr " \"{{404}}' — zahteva se stran v Jo NI Bilo mogoče najti"
+
+msgid "notfound_info-500"
+msgstr "\"{{500}} — kaj je šlo narobe ( napaka strežnika )\" "
+
+msgid "notebookfilters-title"
+msgstr "Razpoložljivi vozniki:"
+
+msgid "notebookvendorslist_other-text"
+msgstr ""
+
+msgid "notebookvendorslist_title_os"
+msgstr ""
+
+msgid "notebookvendorslist_title"
+msgstr "Iskanje gonilnikov za prenosne računalnike"
+
+msgid "promoheader_cta-text-gamers"
+msgstr ""
+
+msgid "promoheader_cta-text-gamers-caption"
+msgstr "Če so vam všeč računalniške igre, vam priporočamo, da posodobite gonilnike na vašem računalniku in to bolj pogosto, da bi dosegli največjo možno učinkovitost vaše strojne opreme. Do kar do 37% več FPS-ja - najboljše izkušenje in novi dosežki iger z DriverPack. "
+
+msgid "promoheader_cta-text"
+msgstr ""
+
+msgid "promoheader_cta-btn"
+msgstr "Namesti vse potrebne gonilnike"
+
+msgid "promoheader_size"
+msgstr "Velikost datoteke: {{SIZE}} KB"
+
+msgid "promoheader_license"
+msgstr "Licenčna pogodba"
+
+msgid "promoheader_os-versions"
+msgstr "Programska oprema je primerna za Widows XP, Vista, 7, 8 ,8.1, 10"
+
+msgid "promoheader_uninstall"
+msgstr "Odstranitev programa DriverPack"
+
+msgid "reviewheader_cta-text"
+msgstr ""
+
+msgid "reviewheader_cta"
+msgstr ""
+
+msgid "search_input-placeholder"
+msgstr ""
+
+msgid "search_btn-text"
+msgstr "Poišči"
+
+msgid "searchformitem_type-section"
+msgstr "Kategorija"
+
+msgid "searchformitem_type-notebook"
+msgstr "prenosnik"
+
+msgid "searchformitem_type-device"
+msgstr "naprava"
+
+msgid "searchformitem_type-free"
+msgstr "brezplačno"
+
+#. i18n: EN: Example: NAME=Acer; RU: Пример: NAME=Acer;
+msgid "generatesearchitemname_notebookvendor"
+msgstr "Prenosniki {{NAME}}"
+
+#. i18n: EN: Example: NAME=Asus; RU: Пример: NAME=Asus;
+msgid "generatesearchitemname_vendor"
+msgstr "Naprave {{NAME}}"
+
+msgid "deviceclasses_bluetooth-single-main"
+msgstr "naprava Bluetooth"
+
+msgid "deviceclasses_bluetooth-single-for"
+msgstr "Naprava Bluetooth"
+
+msgid "deviceclasses_bluetooth-plural-main"
+msgstr "naprave Bluetooth"
+
+msgid "deviceclasses_bluetooth-plural-for"
+msgstr "naprave Bluetooth"
+
+msgid "deviceclasses_cardreader-single-main"
+msgstr "bralnik kartic"
+
+msgid "deviceclasses_cardreader-single-for"
+msgstr "bralnik kartic"
+
+msgid "deviceclasses_cardreader-plural-main"
+msgstr "bralniki kartic"
+
+msgid "deviceclasses_cardreader-plural-for"
+msgstr "bralnike kartic"
+
+msgid "deviceclasses_chipset-single-main"
+msgstr ""
+
+msgid "deviceclasses_chipset-single-for"
+msgstr ""
+
+msgid "deviceclasses_chipset-plural-main"
+msgstr ""
+
+msgid "deviceclasses_chipset-plural-for"
+msgstr ""
+
+msgid "deviceclasses_inputdev-single-main"
+msgstr "Vhodna naprava"
+
+msgid "deviceclasses_inputdev-single-for"
+msgstr "Vhodno napravo"
+
+msgid "deviceclasses_inputdev-plural-main"
+msgstr "Vhodne naprave"
+
+msgid "deviceclasses_inputdev-plural-for"
+msgstr "Vhodne naprave"
+
+msgid "deviceclasses_lan-single-main"
+msgstr ""
+
+msgid "deviceclasses_lan-single-for"
+msgstr ""
+
+msgid "deviceclasses_lan-plural-main"
+msgstr ""
+
+msgid "deviceclasses_lan-plural-for"
+msgstr ""
+
+msgid "deviceclasses_massstorage-single-main"
+msgstr "Krmilnik"
+
+msgid "deviceclasses_massstorage-single-for"
+msgstr "Krmilnik"
+
+msgid "deviceclasses_massstorage-plural-main"
+msgstr "Krmilniki"
+
+msgid "deviceclasses_massstorage-plural-for"
+msgstr "Krmilniki"
+
+msgid "deviceclasses_modem-single-main"
+msgstr "modem"
+
+msgid "deviceclasses_modem-single-for"
+msgstr "modem"
+
+msgid "deviceclasses_modem-plural-main"
+msgstr "Modemi"
+
+msgid "deviceclasses_modem-plural-for"
+msgstr "Modemi"
+
+msgid "deviceclasses_monitor-single-main"
+msgstr "Monitor"
+
+msgid "deviceclasses_monitor-single-for"
+msgstr "monitor"
+
+msgid "deviceclasses_monitor-plural-main"
+msgstr "Monitorji"
+
+msgid "deviceclasses_monitor-plural-for"
+msgstr "Monitorji"
+
+msgid "deviceclasses_phone-single-main"
+msgstr "pametni telefon"
+
+msgid "deviceclasses_phone-single-for"
+msgstr "pametni telefon"
+
+msgid "deviceclasses_phone-plural-main"
+msgstr "pametni telefoni"
+
+msgid "deviceclasses_phone-plural-for"
+msgstr "pametne telefone"
+
+msgid "deviceclasses_sound-single-main"
+msgstr "zvočna kartica"
+
+msgid "deviceclasses_sound-single-for"
+msgstr "zvočno kartico"
+
+msgid "deviceclasses_sound-plural-main"
+msgstr "zvočne kartice"
+
+msgid "deviceclasses_sound-plural-for"
+msgstr "zvočne kartice"
+
+msgid "deviceclasses_tvtuner-single-main"
+msgstr "TV-sprejemnik"
+
+msgid "deviceclasses_tvtuner-single-for"
+msgstr "TV-sprejemnik"
+
+msgid "deviceclasses_tvtuner-plural-main"
+msgstr "TV-sprejemnik"
+
+msgid "deviceclasses_tvtuner-plural-for"
+msgstr "TV-sprejemnik"
+
+msgid "deviceclasses_video-single-main"
+msgstr "grafična kartica"
+
+msgid "deviceclasses_video-single-for"
+msgstr "grafično kartico"
+
+msgid "deviceclasses_video-plural-main"
+msgstr "grafične kartice"
+
+msgid "deviceclasses_video-plural-for"
+msgstr "grafične kartice"
+
+msgid "deviceclasses_webcamera-single-main"
+msgstr "spletna kamera"
+
+msgid "deviceclasses_webcamera-single-for"
+msgstr "spletno kamero"
+
+msgid "deviceclasses_webcamera-plural-main"
+msgstr "spletne kamere"
+
+msgid "deviceclasses_webcamera-plural-for"
+msgstr "spletne kamere"
+
+msgid "deviceclasses_wifi-single-main"
+msgstr "Wi-Fi naprava"
+
+msgid "deviceclasses_wifi-single-for"
+msgstr "Wi-Fi naprava"
+
+msgid "deviceclasses_wifi-plural-main"
+msgstr "Wi-Fi naprave"
+
+msgid "deviceclasses_wifi-plural-for"
+msgstr "Wi-Fi naprave"
+
+msgid "deviceclasses_other-single-main"
+msgstr "druga naprava"
+
+msgid "deviceclasses_other-single-for"
+msgstr "druge naprave"
+
+msgid "deviceclasses_other-plural-main"
+msgstr "druge naprave"
+
+msgid "deviceclasses_other-plural-for"
+msgstr "druge naprave"
+
+msgid "searchheader_caption-subtitle"
+msgstr "Izkanje voznika na poizvedbo"
+
+msgid "searchheader_caption-filter-label"
+msgstr "Vozniki se bodo prenessli v izbranem OS"
+
+#. i18n: EN: Example: NOTEBOOK=Acer AO521; Text for {{DOWNLOAD}} is in key
+#. searchresult_details-content_download-link; RU: Пример: NOTEBOOK=Acer
+#. AO521; Текст для {{DOWNLOAD}} находится в ключе searchresult_details-
+#. content_download-link
+msgid "searchresult_details-content-notebook-text"
+msgstr ""
+
+msgid "searchresult_details-content_download-link"
+msgstr "Prenesite DriverPack"
+
+msgid "searchresult_notebook"
+msgstr "Prenosni računalnik"
+
+msgid "searchresult_download-btn"
+msgstr "Samodejno namesti gonilnik"
+
+msgid "searchresult_details-content-text-placeholder"
+msgstr "Nalaganje podatkov ..."
+
+msgid "searchresult_details-content-label-1"
+msgstr "Operacijski sistem"
+
+msgid "searchresult_details-content-label-2"
+msgstr "Vsi sistemi"
+
+#. i18n: EN: Example: DEVICE=NVIDIA GeForce 205; Text for {{DOWNLOAD}} is in
+#. key searchresult_details-content_download-link; RU: Пример: DEVICE=NVIDIA
+#. GeForce 205; Текст для {{DOWNLOAD}} находится в ключе searchresult_details-
+#. content_download-link
+msgid "searchresult_details-content-group-text"
+msgstr "{{DOWNLOAD}}za samodejno prepoznavanje in namestitev potrebnih gonilnikov ali pojdite na stran naprave {{DEVICE}} in ročno izberite potreben gonilnik. "
+
+#. i18n: EN: Example: CLASS.SINGLE.MAIN=monitor|chipset; COUNT=12; RU: Пример:
+#. CLASS.SINGLE.MAIN=монитор|чипсет; COUNT=12;
+msgid "searchresult_device"
+msgstr ""
+
+msgid "searchresult_details-content-text-many"
+msgstr ""
+
+msgid "seofooter_os-list-title"
+msgstr "Različice operacijskega SISTEMA:<span itemprop='operatingSystem'>{{OSLIST}}</span>"
+
+msgid "seofooter_offers-title"
+msgstr ""
+
+msgid "seofooter_driver-description-title"
+msgstr "Opis gonilnikov"
+
+msgid "seofooter_popular-drivers-title"
+msgstr "Priljubljeni gonilniki"
+
+msgid "sidebanner_title"
+msgstr ""
+
+msgid "sidebanner_caption"
+msgstr ""
+
+msgid "translationheader_cta-text"
+msgstr ""
+
+msgid "translationheader_bubble-team"
+msgstr "Želite biti del prevajalcev ekipe za svetovno največji storitev samodejnega računalniškega set-up?"
+
+msgid "translationheader_bubble-languages"
+msgstr "Ali znate, Angleški ali Ruski jezik zelo dobro, tako da ste pripravljeni prevajati iz enega od njih v svoj materni jezik?"
+
+msgid "translationheader_bubble-experience"
+msgstr "Ali imate izkušnje pri prevajanju programske opreme ali spletnih strani s pomočjo spletnih prevajalskih storitev?"
+
+msgid "translationheader_bubble-email"
+msgstr ""
+
+msgid "translationlist_title"
+msgstr "Seznam pooblaščenih prevajalcev programa DriverPack"
+
+msgid "translationtool_text-transifex"
+msgstr "V DriverPack rešitev bomo naše lokalizacijo s pomočjo transifex.com  storitve:"
+
+msgid "translationtool_example-ru-to-en"
+msgstr "Proge za prevod iz Ruščine (RU) v angleščino (EN) in neodvisnih jezikov (CIS)."
+
+msgid "translationtool_example-en-to-all"
+msgstr "Proge za prevod iz angleščine (EN) v druge svetovne jezike"
+
+msgid "language_title"
+msgstr "Slovenian"
+
+msgid "landingPagePublications_rbk"
+msgstr ""
+
+msgid "landingPagePublications_secretfirmy"
+msgstr ""
+
+msgid "landingPagePublications_cnews"
+msgstr ""
+
+msgid "landingPagePublications_xbit"
+msgstr ""
+
+msgid "landingPagePublications_chip"
+msgstr ""
+
+msgid "landingPagePublications_pcmag"
+msgstr ""
+
+msgid "landingPagePublications_habr"
+msgstr ""
+
+msgid "landingPagePublications_computerra"
+msgstr ""
+
+msgid "landingPagePublications_vc"
+msgstr ""
+
+msgid "adminpagefaq_official_vendors-q"
+msgstr ""
+
+msgid "adminpagefaq_official_vendors-a"
+msgstr ""
+
+msgid "adminpagefaq_database-q"
+msgstr ""
+
+msgid "adminpagefaq_database-a"
+msgstr ""
+
+msgid "adminpagefaq_free-q"
+msgstr "Je pa res, da DriverPack je popolnoma brezplačen"
+
+msgid "adminpagefaq_free-a"
+msgstr ""
+
+msgid "adminpagefaq_antivirus-q"
+msgstr "Moj antivirus je odkril virus v DriverPack - kako bi se lahko to zgodilo?"
+
+msgid "adminpagefaq_antivirus-a"
+msgstr ""
+
+msgid "adminpagefaq_expert_mode-q"
+msgstr ""
+
+msgid "adminpagefaq_expert_mode-a"
+msgstr ""
+
+msgid "adminpagefaq_stable-q"
+msgstr ""
+
+msgid "adminpagefaq_stable-a"
+msgstr ""
+
+msgid "devicegrouppage_show-more-link"
+msgstr "Poglej več"
+
+msgid "devicestypepage_subtitle"
+msgstr ""
+
+msgid "devicetypevendorpage_subtitle-popular"
+msgstr ""
+
+msgid "devicetypevendorpage_subtitle-all"
+msgstr ""
+
+msgid "drop-down-language_not-found"
+msgstr "Haven't found your language?"
+
+msgid "errorpage_title"
+msgstr ""
+
+msgid "landingfooter_landing-subtitle"
+msgstr ""
+
+msgid "landing-footer_catalog-os"
+msgstr ""
+
+msgid "landing-footer_download"
+msgstr "Prenesite DriverPack"
+
+msgid "landing-footer_versions"
+msgstr ""
+
+msgid "landing-footer_catalog"
+msgstr "Poišči gonilnike"
+
+msgid "landing-footer_drivers-catalog"
+msgstr ""
+
+msgid "landing-footer_for-admin"
+msgstr ""
+
+msgid "landing-footer_for-translators"
+msgstr ""
+
+msgid "landing-footer_drivers-for-laptops"
+msgstr ""
+
+msgid "landing-footer_hwids"
+msgstr ""
+
+msgid "landing-footer_license"
+msgstr "Licenčna pogodba"
+
+msgid "landing-footer_remove"
+msgstr "Odstranitev programa DriverPack"
+
+msgid "notfoundpage_title"
+msgstr ""
+
+msgid "notebookpage_show-more-link"
+msgstr "Poglej več"
+
+msgid "notebookpage_all-devices"
+msgstr ""
+
+msgid "notebookspage_subtitle"
+msgstr ""
+
+msgid "notebooksvendorpage_subtitle-popular"
+msgstr ""
+
+msgid "notebooksvendorpage_subtitle-all"
+msgstr ""
+
+msgid "reviewpage_title"
+msgstr ""
+
+msgid "searchpage_show-more-link"
+msgstr "Poglej več"
+
+#. i18n: EN: text for {{LINK}} is in key thankyoupopup_download-link; RU:
+#. текст для {{LINK}} находится в ключе thankyoupopup_download-link;
+msgid "thankyoupopup_download-text"
+msgstr ""
+
+msgid "thankyoupopup_title"
+msgstr ""
+
+msgid "thankyoupopup_cta-text"
+msgstr ""
+
+msgid "thankyoupopup_download-link"
+msgstr ""
+
+msgid "translate-feedback-header_caption"
+msgstr ""
+
+msgid "translate-feedback-popup_title-error"
+msgstr ""
+
+msgid "translate-feedback-popup_description-error"
+msgstr ""
+
+msgid "translate-feedback-popup_title-success"
+msgstr ""
+
+msgid "translate-feedback-popup_description-success"
+msgstr ""
+
+msgid "translate-feedback-popup_description-join-us"
+msgstr ""
+
+msgid "translate-feedback-popup_description-join-link"
+msgstr ""
+
+msgid "translationlandingpage_title"
+msgstr ""
+
+msgid "vendorpage_subtitle-popular"
+msgstr ""
+
+msgid "wannacryptpromopage_cta-text"
+msgstr ""
+
+msgid "wannacryptpromopage_cta-subtext"
+msgstr ""
+
+msgid "wannacryptpromopage_cta-btn"
+msgstr ""
+
+msgid "wannacryptpromopage_caption-text"
+msgstr ""
+
+msgid "wannacryptpromopage_info-text-title-1"
+msgstr ""
+
+msgid "wannacryptpromopage_info-text-1"
+msgstr ""
+
+msgid "wannacryptpromopage_info-text-title-2"
+msgstr ""
+
+msgid "wannacryptpromopage_info-text-2"
+msgstr ""
+
+msgid "wannacryptpromopage_info-text-title-3"
+msgstr ""
+
+msgid "wannacryptpromopage_info-text-3"
+msgstr ""
+
+msgid "wannacryptpromopage_links-text"
+msgstr ""
+
+msgid "wannacryptpromopage_link-smb"
+msgstr ""

@@ -1,0 +1,1013 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-08-10 10:22+0000\n"
+"PO-Revision-Date: 2016-09-23 09:12+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ru\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);\n"
+
+#. i18n: EN: Example: VENDOR.NAME=Asus; RU: Пример: VENDOR.NAME=Asus;
+msgid "seo_vendor-footer-anchor"
+msgstr "{{VENDOR.NAME}}"
+
+msgid "seo_devicegroups-footer-anchor"
+msgstr "{{CLASS.PLURAL.MAIN}} {{VENDOR.NAME}}"
+
+#. i18n: EN: Example: NAME=Acer E230H; RU: Пример: NAME=Acer E230H;
+msgid "seo_devicegroup-footer-anchor"
+msgstr "{{NAME}}"
+
+#. i18n: EN: Example: NAME=Asus X550EA; RU: Пример: NAME=Asus X550EA;
+msgid "seo_notebookvendor-footer-anchor"
+msgstr "Ноутбуки {{NOTEBOOK.VENDOR.NAME}}"
+
+msgid "seo_notebook-footer-anchor"
+msgstr "Ноутбуки {{NAME}}"
+
+msgid "seo_notebookdevices-footer-anchor"
+msgstr "{{CLASS.PLURAL.MAIN}} {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
+#. CLASS.PLURAL.FOR=мониторов|модемов;
+msgid "seo_deviceclass-footer-anchor"
+msgstr "{{CLASS.PLURAL.MAIN}}"
+
+msgid "seo_hwidos-footer-anchor"
+msgstr "Версия драйвера для Windows {{OS.NAME}}"
+
+msgid "seo_main-title"
+msgstr "DriverPack Solution — автоматическое обновление драйверов | Скачать бесплатно"
+
+msgid "seo_main-description"
+msgstr "DriverPack Solution предлагает Вам бесплатно установить драйвера для Вашего устройства или скачать программу для автоматической установки и обновления драйверов"
+
+msgid "seo_main-keywords"
+msgstr "скачать драйвер пак драйвера windows 7 8 10 64 скачать download ПК ноутбук бесплатно установщик драйверов программа для установки драйверов"
+
+msgid "seo_mainos-title"
+msgstr "Скачать драйвера для Windows {{OS.VERSION}} | DriverPack Solution"
+
+msgid "seo_mainos-description"
+msgstr "Обновите бесплатно драйвера для Windows {{OS.VERSION}} x64 или x86 в нашем каталоге"
+
+msgid "seo_mainos-h1"
+msgstr "Драйвера для Windows {{OS.VERSION}}"
+
+msgid "seo_mainos-keywords"
+msgstr "Windows {{OS.VERSION}} скачать 64 86 драйвера DriverPack Solution"
+
+msgid "seo_mainos-h3"
+msgstr "Самая большая база драйверов для Windows {{OS.VERSION}} в одном бесплатном приложении DriverPack Online"
+
+msgid "seo_mainlanding-title"
+msgstr "DriverPack Solution - программа для обновления драйверов | Скачать для Windows 7, XP, 10, 8 и 8.1"
+
+msgid "seo_mainlanding-description"
+msgstr "DriverPack Solution – это бесплатная программа для автоматической установки и обновления драйверов на вашем ноутбуке и ПК. Также доступна возможность самостоятельно скачать драйвера для Windows XP, 7, 8, 8.1, 10 со страниц нашего каталога"
+
+msgid "seo_mainlanding-keywords"
+msgstr "скачать драйвера автоустановка обновление программа для обновления драйверов Windows 7, XP, 10, 8 и 8.1"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
+#. CLASS.PLURAL.FOR=мониторов|модемов;
+msgid "seo_deviceclass-title"
+msgstr "Скачать драйвера для {{CLASS.PLURAL.FOR}} | DriverPack Solution"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
+#. CLASS.PLURAL.FOR=мониторов|модемов;
+msgid "seo_deviceclass-description"
+msgstr "Установите драйвера {{CLASS.PLURAL.FOR}} для Windows 7, XP, 10, 8 и 8.1 или скачайте программу для автоматической установки и обновления драйверов DriverPack Solution"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
+#. CLASS.PLURAL.FOR=мониторов|модемов;
+msgid "seo_deviceclass-h1"
+msgstr "Драйверы для <span class='bold'>{{CLASS.PLURAL.FOR}}</span>"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
+#. CLASS.PLURAL.FOR=мониторов|модемов;
+msgid "seo_deviceclass-keywords"
+msgstr "драйвера {{CLASS.PLURAL.FOR}} windows 7 64 8 10 скачать download "
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
+#. CLASS.PLURAL.FOR=мониторов|модемов;
+msgid "seo_deviceclass-footer-description"
+msgstr "Скачайте драйвера {{CLASS.PLURAL.FOR}} для Windows"
+
+msgid "seo_deviceclass-footer-application-category"
+msgstr "Раздел: <span itemprop='applicationCategory'>устройства</span>"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=monitors|modem; RU: Пример:
+#. CLASS.PLURAL.MAIN=мониторы|модемы;
+msgid "seo_deviceclass-footer-application-subcategory"
+msgstr "Подраздел: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+
+msgid "seo_vendors-title"
+msgstr "Скачать драйвера для ПК, ноутбука и нетбука | DriverPack Solution"
+
+msgid "seo_vendors-description"
+msgstr "Установите бесплатно драйвера для ПК, ноутбука или нетбука или скачайте программу для автоматического обновления и установки драйверов"
+
+msgid "seo_vendors-h1"
+msgstr "Производители оборудования"
+
+msgid "seo_vendors-keywords"
+msgstr "драйвера drivers windows 7 8 10 64 скачать download"
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_vendor-title"
+msgstr "Скачать драйвера {{VENDOR.NAME}} для Windows | DriverPack Solution"
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_vendor-description"
+msgstr "Установите драйвера {{VENDOR.NAME}} для Windows 7, XP, 10, 8 и 8.1 или скачайте программу DriverPack Solution для автоматической установки драйверов"
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_vendor-h1"
+msgstr "Драйвера для устройств <span class='bold'>{{VENDOR.NAME}}</span>"
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_vendor-keywords"
+msgstr "драйвера windows 7 8 10 64 скачать download {{VENDOR.NAME}}"
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_vendor-footer-description"
+msgstr "Скачайте бесплатно драйвера для устройств {{VENDOR.NAME}}"
+
+msgid "seo_vendor-footer-application-category"
+msgstr "Раздел: <span itemprop='applicationCategory'>устройства</span>"
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_vendor-footer-application-subcategory"
+msgstr "Подраздел: <span itemprop='applicationSubCategory'>устройства {{VENDOR.NAME}}</span>"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|monitors; VENDOR.NAME=Acer;
+#. RU: Пример: CLASS.PLURAL.FOR=видеокарт|мониторов; VENDOR.NAME=Acer;
+msgid "seo_devicegroups-title"
+msgstr "Скачать драйвера {{CLASS.PLURAL.FOR}} {{VENDOR.NAME}} для Windows | DriverPack Solution"
+
+#. i18n: EN: Example: CLASS.SINGLE.FOR=videocard|monitor; VENDOR.NAME=Acer;
+#. RU: Пример: CLASS.SINGLE.FOR=видеокарты|монитора; VENDOR.NAME=Acer;
+msgid "seo_devicegroups-description"
+msgstr "Здесь вы сможете установить драйвера {{CLASS.SINGLE.FOR}} {{VENDOR.NAME}} для Windows 7, XP, 10, 8 и 8.1 или скачать программу для автоматической установки драйверов DriverPack Solution"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|monitors; VENDOR.NAME=Acer;
+#. RU: Пример: CLASS.PLURAL.FOR=видеокарт|мониторов; VENDOR.NAME=Acer;
+msgid "seo_devicegroups-h1"
+msgstr "Драйверы для {{CLASS.PLURAL.FOR}} <span class='bold'>{{VENDOR.NAME}}</span>"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|monitors; VENDOR.NAME=Acer;
+#. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|мониторы; VENDOR.NAME=Acer;
+msgid "seo_devicegroups-keywords"
+msgstr "драйвера windows 7 8 10 64 скачать download ПК {{CLASS.PLURAL.MAIN}} {{VENDOR.NAME}}"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|monitors; VENDOR.NAME=Acer;
+#. RU: Пример: CLASS.PLURAL.FOR=видеокарт|мониторов; VENDOR.NAME=Acer;
+msgid "seo_devicegroups-footer-description"
+msgstr "Скачайте драйвера для {{CLASS.PLURAL.FOR}} {{VENDOR.NAME}}"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|monitors; RU: Пример:
+#. CLASS.PLURAL.MAIN=видеокарты|мониторы;
+msgid "seo_devicegroups-footer-application-category"
+msgstr "Раздел: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|monitors; VENDOR.NAME=Acer;
+#. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|мониторы; VENDOR.NAME=Acer;
+msgid "seo_devicegroups-footer-application-subcategory"
+msgstr "Подраздел: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}} {{VENDOR.NAME}}</span>"
+
+#. i18n: EN: Example: CLASS.SINGLE.FOR=videocard|monitor; VENDOR.NAME=Acer;
+#. RU: Пример: CLASS.SINGLE.FOR=видеокарты|монитора; VENDOR.NAME=Acer;
+msgid "seo_devicegroups-footer-content"
+msgstr "Скачайте драйверы для {{CLASS.SINGLE.FOR}} {{VENDOR.NAME}} или установите программу для автоматического скачивания и обновления драйверов DriverPack Solution"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
+#. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
+#. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
+#. GROUP.NAME=GeForce 210;
+msgid "seo_devicegroup-title"
+msgstr "Скачать драйвера для {{CLASS.PLURAL.FOR}} {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} для Windows"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
+#. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
+#. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
+#. GROUP.NAME=GeForce 210;
+msgid "seo_devicegroup-description"
+msgstr "Загрузите и установите драйвера для {{CLASS.PLURAL.FOR}} {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} для Windows 7, XP, 10, 8 и 8.1 или скачайте программу для автоматической установки драйверов DriverPack Solution"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
+#. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
+#. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
+#. GROUP.NAME=GeForce 210;
+msgid "seo_devicegroup-h1"
+msgstr "Драйверы для <span class='bold'>{{CLASS.PLURAL.FOR}} {{GROUP.VENDOR.NAME}} {{GROUP.NAME}}</span>"
+
+#. i18n: EN: Example: GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU:
+#. Пример: GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210;
+msgid "seo_devicegroup-keywords"
+msgstr "драйвера windows 7 8 10 64 скачать download ПК {{GROUP.VENDOR.NAME}} {{GROUP.NAME}}"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
+#. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
+#. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
+#. GROUP.NAME=GeForce 210;
+msgid "seo_devicegroup-footer-description"
+msgstr "Скачайте драйвера для {{CLASS.PLURAL.FOR}} {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} бесплатно"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
+#. GROUP.VENDOR.NAME=Nvidia; RU: Пример: CLASS.PLURAL.FOR=видеокарт|чипсетов;
+#. GROUP.VENDOR.NAME=Nvidia;
+msgid "seo_devicegroup-footer-application-category"
+msgstr "Раздел: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}} {{GROUP.VENDOR.NAME}}</span>"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets;
+#. GROUP.NAME=GeForce 210; RU: Пример: CLASS.PLURAL.MAIN=видеокарты|чипсеты;
+#. GROUP.NAME=GeForce 210;
+msgid "seo_devicegroup-footer-application-subcategory"
+msgstr "Подраздел: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}} {{GROUP.NAME}}</span>"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
+#. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
+#. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
+#. GROUP.NAME=GeForce 210;
+msgid "seo_devicegroup-footer-content"
+msgstr "Скачайте драйверы для {{CLASS.SINGLE.FOR}} {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} или установите программу для автоматического скачивания и обновления драйверов DriverPack Solution"
+
+msgid "seo_hwids-title"
+msgstr "Скачать драйвера устройств по Device ID | DriverPack Solution | Страница {{PAGE}}"
+
+msgid "seo_hwids-description"
+msgstr "Скачать драйвера для устройств по Device ID"
+
+msgid "seo_hwids-h1"
+msgstr "Все драйвера для устройств"
+
+#. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+#. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+msgid "seo_hwid-title"
+msgstr "{{DEVICE.DEVICEID}} скачать бесплатно драйвер"
+
+#. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+#. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+msgid "seo_hwid-description"
+msgstr "Драйвер устройства {{DEVICE.DEVICEID}} для Windows 7, XP, 10, 8 и 8.1"
+
+#. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+#. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+msgid "seo_hwid-h1"
+msgstr "<span class='bold'>{{DEVICE.DEVICEID}}</span>"
+
+#. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+#. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+msgid "seo_hwid-keywords"
+msgstr "драйвера windows 7 8 10 64 скачать download ПК {{DEVICE.DEVICEID}}"
+
+#. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+#. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+msgid "seo_hwid-footer-description"
+msgstr "Скачать бесплатно драйвера для устройства {{DEVICE.DEVICEID}}"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets; RU: Пример:
+#. CLASS.PLURAL.MAIN=видеокарты|чипсеты;
+msgid "seo_hwid-footer-application-category"
+msgstr "Раздел: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets; VENDOR.NAME=Acer;
+#. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|чипсеты; VENDOR.NAME=Acer;
+msgid "seo_hwid-footer-application-subcategory"
+msgstr "Подраздел: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}} {{VENDOR.NAME}}</span>"
+
+#. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+#. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+msgid "seo_hwid-footer-content"
+msgstr "Скачайте драйвер {{DEVICE.DEVICEID}} или установите программу для автоматического скачивания и обновления драйверов DriverPack Solution"
+
+msgid "seo_notebooks-title"
+msgstr "Скачать драйвера для всех моделей ноутбуков на ОС Windows | DriverPack Solution"
+
+msgid "seo_notebooks-description"
+msgstr "Загрузите и установите драйвера для всех моделей ноутбуков и нетбуков для Windows 7, XP, 10, 8 и 8.1 или скачайте программу для автоматического обновления и установки драйверов DriverPack Solution"
+
+msgid "seo_notebooks-h1"
+msgstr "Драйвера для ноутбуков и нетбуков"
+
+msgid "seo_notebooks-keywords"
+msgstr "драйвера drivers ноутбук notebook laptop netbook нетбук windows 7 8 10 64 скачать download"
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_notebookvendor-title"
+msgstr "Скачать драйвера для ноутбуков {{VENDOR.NAME}} | DriverPack Solution"
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_notebookvendor-description"
+msgstr "Загрузите и установите драйвера ноутбуков и нетбуков {{VENDOR.NAME}} для Windows 7, XP, 10, 8 и 8.1 или скачайте программу для автоматической установки и обновления драйверов DriverPack Solution"
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_notebookvendor-h1"
+msgstr "Драйвера для ноутбуков и нетбуков <span class='bold'>{{VENDOR.NAME}}</span>"
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_notebookvendor-keywords"
+msgstr "драйвера drivers ноутбук notebook laptop netbook нетбук windows 7 8 10 64 скачать download {{VENDOR.NAME}}"
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_notebookvendor-footer-description"
+msgstr "Скачайте драйвера для ноутбуков {{VENDOR.NAME}}"
+
+msgid "seo_notebookvendor-footer-application-category"
+msgstr "Раздел: <span itemprop='applicationCategory'>ноутбуки</span>"
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_notebookvendor-footer-application-subcategory"
+msgstr "Подраздел: <span itemprop='applicationSubCategory'>ноутбуки {{VENDOR.NAME}}</span>"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
+#. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+msgid "seo_notebook-title"
+msgstr "Драйвера для ноутбука {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} | DriverPack Solution"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
+#. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+msgid "seo_notebook-description"
+msgstr "Загрузите и установите драйвера ноутбуков {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} для Windows 7, XP, 10, 8 и 8.1 или скачайте программу для автоматической установки и обновления драйверов DriverPack Solution"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
+#. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+msgid "seo_notebook-h1"
+msgstr "Драйвера для ноутбука <span class='bold'>{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}</span>"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
+#. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+msgid "seo_notebook-keywords"
+msgstr "драйвера drivers ноутбук notebook laptop netbook нетбук windows 7 8 10 64 скачать download {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
+#. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+msgid "seo_notebook-footer-description"
+msgstr "Скачайте драйвера для ноутбуков {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; RU: Пример:
+#. NOTEBOOK.VENDOR.NAME=Acer;
+msgid "seo_notebook-footer-application-category"
+msgstr "Раздел: <span itemprop='applicationCategory'>ноутбуки {{NOTEBOOK.VENDOR.NAME}}</span>"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
+#. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+msgid "seo_notebook-footer-application-subcategory"
+msgstr "Подраздел: <span itemprop='applicationSubCategory'>ноутбуки {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}</span>"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
+#. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+msgid "seo_notebook-footer-content"
+msgstr "Здесь можно скачать драйвера для ноутбука {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} или загрузить программу для автоматической установки и обновления драйверов от DriverPack Solution"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+#. CLASS.SINGLE.FOR=videocart|soundcart; RU: Пример:
+#. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+#. CLASS.SINGLE.FOR=видеокарты|звуковой карты;
+msgid "seo_notebookdevices-title"
+msgstr "Драйвера {{CLASS.SINGLE.FOR}} для ноутбука {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} | DriverPack Solution"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+#. CLASS.SINGLE.FOR=videocart|soundcart; RU: Пример:
+#. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+#. CLASS.SINGLE.FOR=видеокарты|звуковой карты;
+msgid "seo_notebookdevices-description"
+msgstr "Скачайте и установите драйвера {{CLASS.SINGLE.FOR}} для ноутбука {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} для Windows 7, XP, 10, 8 и 8.1 или скачайте программу для автоматической установки и обновления драйверов DriverPack Solution"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+#. CLASS.PLURAL.FOR=videocarts|soundcarts; RU: Пример:
+#. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+#. CLASS.PLURAL.FOR=видеокарт|звуковых карт;
+msgid "seo_notebookdevices-h1"
+msgstr "Драйвера {{CLASS.PLURAL.FOR}} для ноутбуков {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets;
+#. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU: Пример:
+#. CLASS.PLURAL.MAIN=видеокарты|чипсеты; NOTEBOOK.VENDOR.NAME=Acer;
+#. NOTEBOOK.NAME=AO533;
+msgid "seo_notebookdevices-keywords"
+msgstr "драйвера drivers ноутбук notebook laptop netbook нетбук {{CLASS.PLURAL.MAIN}} windows 7 8 10 64 скачать download {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+#. CLASS.PLURAL.FOR=videocarts|soundcarts; RU: Пример:
+#. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+#. CLASS.PLURAL.FOR=видеокарт|звуковых карт;
+msgid "seo_notebookdevices-footer-description"
+msgstr "Скачайте бесплатно драйвера для {{CLASS.PLURAL.FOR}} для ноутбуков {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
+#. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+msgid "seo_notebookdevices-footer-application-category"
+msgstr "Раздел: <span itemprop='applicationCategory'>ноутбуки {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}</span>"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets;
+#. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU: Пример:
+#. CLASS.PLURAL.MAIN=видеокарты|чипсеты; NOTEBOOK.VENDOR.NAME=Acer;
+#. NOTEBOOK.NAME=AO533;
+msgid "seo_notebookdevices-footer-application-subcategory"
+msgstr "Подраздел: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}} для {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}</span>"
+
+#. i18n: EN: Example: CLASS.SINGLE.FOR=videocard|chipset;
+#. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU: Пример:
+#. CLASS.SINGLE.FOR=видеокарты|чипсета; NOTEBOOK.VENDOR.NAME=Acer;
+#. NOTEBOOK.NAME=AO533;
+msgid "seo_notebookdevices-footer-content"
+msgstr "Cкачайте драйверы для {{CLASS.SINGLE.FOR}} для ноутбука {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} для Windows 7, XP, 10, 8 и 8.1 или загрузите программу для обновления драйверов DriverPack Solution"
+
+msgid "seo_search-title"
+msgstr "Результат поиска по фразе {{QUERY}} | DriverPack Solution"
+
+msgid "seo_devicegroupos-title"
+msgstr "Скачать драйвера для {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} для Windows {{OS}}"
+
+msgid "seo_devicegroupos-description"
+msgstr "Установите драйвер для {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} для Windows {{OS}} или скачайте программу для автоматической установки и обновления драйверов DriverPack Solution"
+
+msgid "seo_devicegroupos-h1"
+msgstr "Драйверы {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} для Windows {{OS}}"
+
+msgid "seo_devicegroupos-keywords"
+msgstr "драйвера Windows {{OS}} скачать download ПК {{GROUP.NAME}} {{GROUP.VENDOR.NAME}}"
+
+msgid "seo_devicegroupos-footer-description"
+msgstr "Скачайте драйвера {{CLASS.PLURAL.FOR}} для {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} для Windows {{OS}} бесплатно"
+
+msgid "seo_devicegroupos-footer-application-category"
+msgstr "Раздел: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}} {{GROUP.VENDOR.NAME}}</span>"
+
+msgid "seo_devicegroupos-footer-application-subcategory"
+msgstr "Подраздел: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}} {{GROUP.NAME}}</span>"
+
+msgid "seo_devicegroupos-footer-content"
+msgstr "Скачайте драйверы для {{CLASS.PLURAL.FOR}} {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} (Windows {{OS}}) или установите программу для автоматического скачивания и обновления драйверов DriverPack Solution"
+
+msgid "seo_notebookos-title"
+msgstr "Драйвера для ноутбука {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} для Windows {{OS}}"
+
+msgid "seo_notebookos-description"
+msgstr "Установите драйвера ноутбука {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} для Windows {{OS}} или скачайте программу для автоматической установки и обновления драйверов DriverPack Solution"
+
+msgid "seo_notebookos-h1"
+msgstr "Драйвера ноутбука {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} для Windows {{OS}}"
+
+msgid "seo_notebookos-keywords"
+msgstr "драйвера drivers ноутбук notebook laptop netbook нетбук Windows {{OS}} скачать download {{NOTEBOOK.NAME}} {{NOTEBOOK.VENDOR.NAME}}"
+
+msgid "seo_notebookos-footer-description"
+msgstr "Скачайте драйвера для ноутбуков {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} для Windows {{OS}}"
+
+msgid "seo_notebookos-footer-application-category"
+msgstr "Раздел: <span itemprop='applicationCategory'>ноутбуки {{NOTEBOOK.VENDOR.NAME}}</span>"
+
+msgid "seo_notebookos-footer-application-subcategory"
+msgstr "Подраздел: <span itemprop='applicationSubCategory'>ноутбуки {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}</span>"
+
+msgid "seo_notebookos-footer-content"
+msgstr "Здесь можно скачать драйверы для ноутбука {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} (Windows {{OS}}) или загрузить программу для автоматической установки и обновления драйверов от DriverPack Solution"
+
+msgid "seo_deviceclassos-title"
+msgstr "Скачать драйвера {{CLASS.PLURAL.FOR}} для Windows {{OS}} | DriverPack Solution"
+
+msgid "seo_deviceclassos-description"
+msgstr "Установите драйвера {{CLASS.PLURAL.FOR}} для Windows {{OS}} или скачайте программу для автоматической установки и обновления драйверов DriverPack Solution"
+
+msgid "seo_deviceclassos-h1"
+msgstr "Драйвера {{CLASS.PLURAL.FOR}} для Windows {{OS}}"
+
+msgid "seo_deviceclassos-keywords"
+msgstr "драйвера {{CLASS.PLURAL.FOR}} Windows {{OS}} скачать download"
+
+msgid "seo_deviceclassos-footer-description"
+msgstr "Скачайте бесплатно драйвера {{CLASS.PLURAL.FOR}} для Windows {{OS}}"
+
+msgid "seo_deviceclassos-footer-application-category"
+msgstr "Раздел: <span itemprop='applicationCategory'>устройства</span>"
+
+msgid "seo_deviceclassos-footer-application-subcategory"
+msgstr "Подраздел: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+
+msgid "seo_devicegroupsos-title"
+msgstr "Скачать драйвера {{CLASS.PLURAL.FOR}} {{VENDOR.NAME}} для Windows {{OS}} | DriverPack Solution"
+
+msgid "seo_devicegroupsos-description"
+msgstr "Установите драйвера {{CLASS.PLURAL.FOR}} {{VENDOR.NAME}} для Windows {{OS}} или скачайте программу для автоматической установки и обновления драйверов DriverPack Solution"
+
+msgid "seo_devicegroupsos-h1"
+msgstr "Драйвера {{CLASS.PLURAL.FOR}} {{VENDOR.NAME}} для Windows {{OS}}"
+
+msgid "seo_devicegroupsos-keywords"
+msgstr "драйвера Windows {{OS}} скачать download ПК {{CLASS.PLURAL.MAIN}} {{VENDOR.NAME}}"
+
+msgid "seo_devicegroupsos-footer-description"
+msgstr "Установите драйвера {{CLASS.PLURAL.FOR}} {{VENDOR.NAME}} для Windows {{OS}}"
+
+msgid "seo_devicegroupsos-footer-application-category"
+msgstr "Раздел: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+
+msgid "seo_devicegroupsos-footer-application-subcategory"
+msgstr "Подраздел: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}} {{VENDOR.NAME}}</span>"
+
+msgid "seo_devicegroupsos-footer-content"
+msgstr "Скачайте драйвера бесплатно для {{CLASS.PLURAL.FOR}} {{VENDOR.NAME}} (Windows {{OS}}) или установите программу для автоматического скачивания и обновления драйверов DriverPack Solution"
+
+msgid "seo_notebookvendoros-title"
+msgstr "Скачать драйвера для ноутбуков {{VENDOR.NAME}} для Windows {{OS}} | DriverPack Solution"
+
+msgid "seo_notebookvendoros-description"
+msgstr "Установите драйвера ноутбуков {{VENDOR.NAME}} для Windows {{OS}} или скачайте программу для автоматической установки и обновления драйверов DriverPack Solution"
+
+msgid "seo_notebookvendoros-h1"
+msgstr "Драйвера ноутбуков {{VENDOR.NAME}} для Windows {{OS}}"
+
+msgid "seo_notebookvendoros-keywords"
+msgstr "драйвера drivers ноутбук notebook laptop netbook нетбук Windows {{OS}} скачать download {{VENDOR.NAME}}"
+
+msgid "seo_notebookvendoros-footer-description"
+msgstr "Скачайте бесплатно драйвера для ноутбуков {{VENDOR.NAME}} для Windows {{OS}}"
+
+msgid "seo_notebookvendoros-footer-application-category"
+msgstr "Раздел: <span itemprop='applicationCategory'>ноутбуки</span>"
+
+msgid "seo_notebookvendoros-footer-application-subcategory"
+msgstr "Подраздел: <span itemprop='applicationSubCategory'>ноутбуки {{VENDOR.NAME}}</span>"
+
+msgid "seo_notebookvendoros-footer-content"
+msgstr "Скачайте бесплатно драйвера ноутбуков {{VENDOR.NAME}} для Windows {{OS}} или установите программу для автоматического скачивания и обновления драйверов DriverPack Solution"
+
+msgid "seo_hwidos-title"
+msgstr "{{DEVICE.DEVICEID}} скачать драйвер для Windows {{OS}} | DriverPack Solution"
+
+msgid "seo_hwidos-description"
+msgstr "Скачать бесплатно драйвер для {{DEVICE.DEVICEID}} в версии Windows {{OS}}"
+
+msgid "seo_hwidos-h1"
+msgstr "Драйвер для устройства {{DEVICE.DEVICEID}} для Windows {{OS}}"
+
+msgid "seo_hwidos-keywords"
+msgstr "драйвера Windows {{OS}} скачать download ПК {{DEVICE.DEVICEID}} "
+
+msgid "seo_hwidos-footer-description"
+msgstr "Скачать бесплатно драйвера устройства {{DEVICE.DEVICEID}} для Windows {{OS}}"
+
+msgid "seo_hwidos-footer-application-category"
+msgstr "Раздел: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+
+msgid "seo_hwidos-footer-application-subcategory"
+msgstr "Подраздел: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}} {{VENDOR.NAME}}</span>"
+
+msgid "seo_hwidos-footer-content"
+msgstr "Скачайте драйвер для устройства {{DEVICE.DEVICEID}} для Windows {{OS}} или установите программу для автоматического скачивания и обновления драйверов DriverPack Solution"
+
+msgid "seo_notebookdevicesos-title"
+msgstr "Драйвера {{CLASS.SINGLE.FOR}} ноутбуков {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} для Windows {{OS}}"
+
+msgid "seo_notebookdevicesos-description"
+msgstr "Установите драйвера {{CLASS.SINGLE.FOR}} для ноутбука {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} для Windows {{OS}} или скачайте программу для автоматической установки и обновления драйверов DriverPack Solution"
+
+msgid "seo_notebookdevicesos-h1"
+msgstr "Драйвера {{CLASS.PLURAL.FOR}} для ноутбуков {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} для Windows {{OS}}"
+
+msgid "seo_notebookdevicesos-keywords"
+msgstr "драйвера drivers ноутбук notebook laptop netbook нетбук {{CLASS.PLURAL.MAIN}} Windows {{OS}} скачать download {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
+
+msgid "seo_notebookdevicesos-footer-description"
+msgstr "Скачайте бесплатно драйвера {{CLASS.PLURAL.FOR}} для ноутбуков {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} для Windows {{OS}}"
+
+msgid "seo_notebookdevicesos-footer-application-category"
+msgstr "Раздел: <span itemprop='applicationCategory'>ноутбуки {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}</span>"
+
+msgid "seo_notebookdevicesos-footer-application-subcategory"
+msgstr "Подраздел: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}} для {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}</span>"
+
+msgid "seo_notebookdevicesos-footer-content"
+msgstr "Cкачайте драйверы для {{CLASS.SINGLE.FOR}} для ноутбука {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} (Windows {{OS}}) или загрузите программу для обновления драйверов DriverPack Solution"
+
+msgid "seo_promopage_title"
+msgstr "DriverPack – бесплатная установка драйверов"
+
+msgid "seo_promo-description"
+msgstr "DriverPack Solution предлагает Вам бесплатно установить драйвера для Вашего устройства или скачать программу для автоматической установки и обновления драйверов"
+
+msgid "seo_promo-keywords"
+msgstr "скачать драйвер пак драйвера windows 7 8 10 64 скачать download ПК ноутбук бесплатно установщик драйверов программа для установки драйверов"
+
+msgid "seo_promodevice_title"
+msgstr "Скачать драйверы для usb, bluetooth, принтера, Wi-Fi и видеокарты бесплатно"
+
+msgid "seo_promodevice-description"
+msgstr "DriverPack обновит драйверы для usb, bluetooth, принтера, Wi-Fi и видеокарты до самой новой версии"
+
+msgid "seo_promodevice-keywords"
+msgstr "драйвер, bluetooth, принтер, звуковая карта, вебкамера, мышь, видео драйвер"
+
+msgid "seo_promovendors_title"
+msgstr "Скачать драйвер для Lenovo, Samsung, Acer, Asus и Dell бесплатно"
+
+msgid "seo_promovendors-description"
+msgstr "DriverPack обновит драйверы Lenovo, Samsung, Acer, Asus and Dell до самой новой версии"
+
+msgid "seo_promovendors-keywords"
+msgstr "драйвер, dell, samsung, lenovo, asus, acer, toshiba, asus"
+
+msgid "seo_promodrivers_title"
+msgstr "Скачать и установить драйверы для Windows 7, 10, XP, 8"
+
+msgid "seo_promodrivers-description"
+msgstr "DriverPack бесплатно обновит драйверы Windows 7, Windows 10, Windows XP, Windows 8"
+
+msgid "seo_promodrivers-keywords"
+msgstr "драйвер windows 7, скачать драйвер, драйвер windows 10, обновление драйверов, драйвер windows, драйвера бесплатно"
+
+msgid "seo_forgamers-description"
+msgstr "Установите драйвера видеокарт для Windows 7, XP, 10, 8 и 8.1 или скачайте программу для автоматической установки и обновления драйверов DriverPack Solution"
+
+msgid "seo_forgamers-keywords"
+msgstr "драйвера видеокарт windows 7 64 8 10 скачать download "
+
+msgid "seo_wannacrypt_title"
+msgstr "Вирус WannaCry - как защитить свой ПК и ноутбук?"
+
+msgid "seo_wannacrypt-description"
+msgstr "Скачать бесплатную защиту от вируса WannaCry для вашего ПК и ноутбука"
+
+msgid "seo_license_title"
+msgstr "Лицензионное соглашение | DriverPack Solution"
+
+msgid "seo_license-description"
+msgstr "Лицензионное соглашение и условия использования программного обеспечения, распространяемого с помощью DriverPack Solution"
+
+msgid "seo_license-keywords"
+msgstr "драйвера скачать бесплатно windows 7 XP 8 10 DriverPack Solution"
+
+msgid "seo_standards_title"
+msgstr "Стандарты рекомендуемого программного обеспечения | DriverPack Solution"
+
+msgid "seo_standards-description"
+msgstr "Стандарты и требования к программному обеспечению, рекомендуемому в продуктах DriverPack"
+
+msgid "seo_standards-keywords"
+msgstr "стандарты программного обеспечения ПО DriverPack"
+
+msgid "seo_mainos-content-xp"
+msgstr "Windows XP - это заслуженный \"ветеран\" среди всех операционных систем семейства Windows NT, выпущенный 25 октября 2001 года и являющейся до сих пор одной из самых популярных операционных систем в мире. Спустя 16 лет после выхода на Windows XP работает около 7% всех ПК в мире - в основном это устаревшие машины и машины с низкой производительностью. Хоть поддержка данной ОС была прекращена ещё в 2014 году, но очевидно, что использование системы будет продолжаться ещё долго. Скачать драйвера для Windows XP самых актуальных версий вы можете как непосредственно из нашего каталога, так и скачав программу DriverPack Solution."
+
+msgid "seo_mainos-content-7"
+msgstr "Windows 7 — ОС семейства Windows NT, вышедшая после Windows Vista и до Windows 8. На лето 2017 года Windows 7 является наиболее популярной операционной системой в мире - по состоянию на июль Windows 7 используется на 48,91% всех ПК в мире. ОС поступила в продажу 22 октября 2009 года — меньше, чем через три года после выпуска неудачной Windows Vista. В интернете установочные образы финальной версии системы были доступны с 21 июля того же года. Здесь вы можете скачать самые актуальные драйвера для Windows 7."
+
+msgid "seo_mainos-content-8"
+msgstr "Windows 8 -  операционная система из семейства Microsoft Windows, вышедшая после Windows 7 и разработанная корпорацией Microsoft. Версия ядра — 6.2. Windows 8 появилась в продаже 26 октября 2012 года. По состоянию на лето 2017 года данная операционная система используется не более, чем на 5% ПК во всём мире. Windows Server 2012 - серверная версия. В данной версии ОС использован новый интерфейс Metro. Поддержка прекращена ещё 12 января 2016 года, однако все самые последние из вышедших драйверов для Windows 8 вы можете скачать в данном разделе."
+
+msgid "seo_mainos-content-8.1"
+msgstr "Операционная система Windows 8.1 (семейство NT) вышла после Windows 8 и предназначена для рабочих станций, ПК и мобильных устройств.  Windows Server 2012 R2 - серверная версия Windows 8.1. Отличается данная операционная система от Windows 8 некоторыми изменениями в работе с графическим интерфейсом. Windows 8.1 так же предназначена для работы с сенсорными экранами. По состоянию на лето 2017 года на данной ОС работает 6,48% всех ПК в мире. Самые свежие драйвера для Windows 8.1 можно скачать прямо из нашего каталога."
+
+msgid "seo_mainos-content-10"
+msgstr "Операционная система Windows 10 была призвана стать универсальной ОС для ПК, смартфонов, планшетов и даже для игровой консоли Xbox One. Вышла система после Windows 8 и принадлежит семейству NT. На данный момент на ОС Windows 10 работает 27% всех устройств в мире, а в течение первого года жизни системы все желающие могли обновиться до Windows 10 бесплатно с лицензионных копий Windows 7, Windows 8.1 и Windows Phone 8.1. Драйвера для устройств под управлением Windows 10 вы можете скачать прямо из каталога DriverPack Solution. Отличается Windows 10 от предшественника наличием возможности создания нескольких рабочих столов и голосовой помощницей Кортана."
+
+msgid "seo_deviceclass-footer-content-bluetooth"
+msgstr "В данном разделе можно скачать драйвера для Bluetooth для всех всех вариантов операционной системы Windows. Доступны варианты как известных производителей (таких, как Hewlett Packard, Qcom и Celink), так и малоизвестных. Всего в данном каталоге вы можете скачать драйвера для Bluetooth более чем 90 производителей."
+
+msgid "seo_deviceclass-footer-content-cardreader"
+msgstr "Кардридеры – это устройства, предназначенные для считывания информации с карт памяти. Если необходимо перенести файлы с видеокамеры или фотоаппарата на ваш компьютер, то это устройство вам поможет. Драйвера для кардридера доступны в этом разделе. Здесь представлены варианты для более чем 50 производителей для всех популярных версий ОС Windows."
+
+msgid "seo_deviceclass-footer-content-chipset"
+msgstr "Этот раздел содержит драйвера для чипсетов наиболее распространённых производителей данного типа оборудования, таких как Exar и Prolific. У нас представлены драйвера для чипсетов для всех использующихся сейчас версий Windows, такие как Windows XP, Windows 7, 8, 8.1 и 10 в разрядности 64 или 86 бит и даже для такой ныне нераспространённой системы, как Windows Vista."
+
+msgid "seo_deviceclass-footer-content-inputdev"
+msgstr "При современном разнообразии типов устройств ввода (мыши, клавиатуры, джойстики и т.д.) и их производителей, подобрать необходимый драйвер становится нетривиальной задачей. Мы решаем эту проблему за Вас - в данном разделе вы можете совершенно бесплатно подобрать и скачать драйвера для устройств ввода."
+
+msgid "seo_deviceclass-footer-content-lan"
+msgstr "Без правильного подбора драйвера сетевой карты корректный доступ в интернет будет либо сильно затруднён, либо совсем невозможен. Данный раздел нашего сайта поможет Вам подобрать идеальный драйвер для вашей конфигурации сетевого оборудования вне зависимости от производителя - у нас представлены драйвера для более чем 80 производителей сетевого оборудования в вариантах для всех использующихся сейчас версий ОС Windows."
+
+msgid "seo_deviceclass-footer-content-massstorage"
+msgstr "В данном разделе вы можете скачать драйвер контроллера совершенно бесплатно для всех использующихся сейчас версий ОС Windows. Не нашли нужный? Тогда воспользуйтесь нашей программой поиска и установки драйверов DriverPack Solution - она совершенно бесплатна и сделает всё за вас!"
+
+msgid "seo_deviceclass-footer-content-modem"
+msgstr "В данном разделе вы можете найти и скачать драйвера для модемов для всех доступных сейчас версий ОС Windows и от всех основных и не только производителей данного типа оборудования - здесь представлены драйвера таких производителей, как Smartlink, AVM, Agere и ещё для более чем 50 производителей."
+
+msgid "seo_deviceclass-footer-content-monitor"
+msgstr "Обычно драйверы для  мониторов находятся на диске, идущем в комплекте с монитором, но подобного может не случиться, если монитор приобретается на вторичном рынке, и потому даже, казалось бы, отличный и прекрасно работающий монитор материнской платой компьютера может и не распознаться. В этом случае Вам на помощь всегда придёт данный раздел нашего сайта - тут Вы всегда сможете скачать самые актуальные драйвера для монитора> вашей конфигурации под все доступные сегодня версии ОС Windows."
+
+msgid "seo_deviceclass-footer-content-tvtuner"
+msgstr "Необходимо скачать драйвер для тв-тюнера? Тогда Вам в этот раздел - тут можно скачать и установить драйвера для тв-тюнера самых свежих версий для всех использующихся сейчас вариантов операционной системы Windows."
+
+msgid "seo_deviceclass-footer-content-sound"
+msgstr "Нет звука на компьютере? Давно не обновляли драйвер звуковой карты? Скачайте самые современные драйвера звуковой карты в этом разделе нашего сайта, либо установите бесплатную автоматическую программу обновления драйверов DriverPack Solution - она решит все проблемы!"
+
+msgid "seo_deviceclass-footer-content-video"
+msgstr "Не работает игра? Изображение появляется с артефактами? Тогда советуем вам скачать драйвера для видеокарты с нашего сайта - зачастую проблема именно в них. В данном разделе представлены драйвера видеокарт 43 производителей. У нас вы сможете без проблем подобрать драйвер для любой использующейся сейчас версии ОС Windows."
+
+msgid "seo_deviceclass-footer-content-wifi"
+msgstr "В данном разделе можно скачать драйвер wi-fi как стандарта 802.11n, так и стандарта 802.11g для всех современных версий ОС Windows. У нас доступны драйвера самой свежей конфигурации, многократно проверенные нашими специалистами."
+
+msgid "seo_deviceclass-footer-content-phone"
+msgstr "Нужны драйвера для телефона или смартфона? Не проблема - в этом разделе вы сможете скачать и установить драйвера для смартфона практически любой модели и от всех наиболее распространённых производителей на сегодняшнем рынке смартфонов. "
+
+msgid "seo_notebookvendor-footer-content-asus"
+msgstr "В нашем каталоге представлены самые свежие и надёжные драйвера для ноутбуков Asus для всех использующихся сейчас версий ОС Windows (Windows XP, Windows 7, 8, 8.1 и 10)."
+
+msgid "seo_notebookvendor-footer-content-lg"
+msgstr "В данном разделе представлены все самые актуальные драйвера для ноутбуков LG для всех использующихся сейчас версий ОС Windows. Также вы можете воспользоваться нашей программой для автоматической установки драйверов DriverPack Solution- она бесплатна и всё сделает сама!"
+
+msgid "seo_notebookvendor-footer-content-sony"
+msgstr "Купили новый ноутбук от Sony, но возникли проблемы с работоспособностью? В этом разделе вы сможете скачать все актуальные драйвера для ноутбуков Sony, подходящие именно к вашей ОС. У нас представлены драйвера ноутбуков Sony Vaio, подходящие для более чем 200 моделей этого производителя."
+
+msgid "seo_notebookvendor-footer-content-lenovo"
+msgstr "Драйвера для ноутбука Lenovo можно скачать в этом разделе нашего сайта - тут представлены драйвера для всех популярных и не очень моделей этого производителя (Ideapad, Thinkpad и т.д.)."
+
+msgid "seo_notebookvendor-footer-content-samsung"
+msgstr "Купили ноутбук Samsung и нужны драйвера для него? Тут представлены все самые актуальные драйвера для ноутбука Samsung для всех использующихся сейчас версий Windows. В нашем каталоге имеются драйвера для более чем 100 моделей ноутбуков и нетбуков этого производителя и список пополняется каждый день."
+
+msgid "seo_notebookvendor-footer-content-msi"
+msgstr "Здесь вы можете найти и скачать драйвера для ноутбука MSI вашей модели для любой версии ОС Windows, использующейся сейчас (в том числе и для такой редкой сейчас версии, как Vista)."
+
+msgid "seo_notebookvendor-footer-content-toshiba"
+msgstr "В этом разделе Вы можете скачать драйвера для ноутбуков Toshiba для абсолютно всех версий ОС Windows, использующихся сейчас. В нашем каталоге представлено больше 300 моделей ноутбуков этого производителя и этот список каждый день только увеличивается. Не смогли найти нужную вам модель в нашем каталоге? Скачайте программу для автоматического поиска и установки драйверов DriverPack Solution - она всё сделает сама в автоматическом режиме."
+
+msgid "seo_deviceclass-footer-content-video-amd"
+msgstr "Не запускается игра на видеокарте AMD? В данном разделе Вы сможете <b>обновить драйвера видеокарты AMD Radeon</b> до самой актуальной версии. У нас вы сможете скачать драйвера для видеокарты amd radeon (в том числе и для серии AMD Radeon HD) для всех существующих сейчас версий ОС Windows. Не смогли самостоятельно найти нужный драйвер? Воспользуйтесь нашей бесплатной программой DriverPack Solution - она обновит <b>драйвера видеокарты AMD</b> и ATI в автоматическом режиме без необходимости ручного управления с вашей стороны."
+
+msgid "seo_deviceclass-footer-content-video-nvidia"
+msgstr "Не работает новая игра? Возможно дело в драйверах для вашей видеокарты. Попробуйте <b>обновить драйвера видеокарты Nvidia</b>, скачав последнюю их версию с нашего сайта. У нас вы так же можете совершенно бесплатно <b>скачать драйвера для видеокарты Nvidia Geforce</b> последних серий для всех использующихся сейчас версий ОС Windows. Если подходящие вам драйвера для видеокарты nvidia по какой-то причине не нашлись в нашем каталоге, то воспользуйтесь нашей бесплатной программой для поиска и обновления драйверов DriverPack Solution - она совершенно бесплатно и подберёт драйвера нужной конфигурации самостоятельно и без задержек."
+
+msgid "seo_deviceclass-footer-content-video-intel"
+msgstr "Нужны драйвера видеокарт intel HD Graphics? В данном разделе вы сможете скачать драйвера видеокарт этой серии совершенно бесплатно. Если найти и <b>скачать драйвера видеокарты Intel</b> вы самостоятельно не смогли, то воспользуйтесь нашей бесплатной автоматической программой для поиска и обновления драйверов DriverPack Solution - она всё сделает за вас!"
+
+msgid "seo_deviceclass-footer-content-chipset-intel"
+msgstr "Возникает вопрос, <b>как установить драйвер чипсета Intel</b> для вашего компьютера? В данном разделе вы сможете найти и <b>скачать драйвер чипсета Intel</b> без особых проблем. Если же по какой-то причине у вас не получилось скачать драйвер на чипсет Intel в нашем каталоге, то воспользуйтесь нашей бесплатной автоматической программой обновления драйверов DriverPack Solution."
+
+msgid "seo_deviceclass-footer-content-chipset-asus"
+msgstr "В данном разделе вы совершенно бесплатно сможете <b>скачать драйвер для чипсета Asus</b>. У нас так же представлены версии <b>драйвера чипсета Asus</b> для всех использующихся сейчас версий операционной системы Windows (7, 8.1 и т.д.). Или же воспользуйтесь нашей автоматической программой DriverPack Solution - она подберёт нужный драйвер чипсета Asus в автоматическом режиме без вашего участия."
+
+msgid "seo_deviceclass-footer-content-chipset-amd"
+msgstr "Мы предлагаем вам в данном разделе <b>скачать драйвер чипсета AMD</b> совершенно бесплатно. У нас представлены версии драйвера на чипсет AMD для всех использующихся сейчас версий ОС Windows, в том числе и Windows 7, Windows 10, Windows 8.1 и т.д. Если вдруг самостоятельно найти и <b>установить драйвер на чипсет AMD</b> вы не смогли, то не беда - воспользуйтесь нашей автоматической программой подбора драйверов DriverPack Solution. Наша программа совершенно бесплатна и всё сделает за вас!"
+
+msgid "seo_deviceclass-footer-content-sound-msi"
+msgstr "Есть проблемы в работе звуковой карты от фирмы Msi? Тогда предлагаем обновить драйвера для неё - чаще всего проблема именно в устаревшей  версии драйвера. В данном разделе вы сможете найти и <b>скачать драйвер звуковой карты Msi</b> совершенно бесплатно для всех использующихся сейчас версий ОС Windows. Не смогли самостоятельно найти нужный драйвер в каталоге? Тогда воспользуйтесь нашей программой для поиска и установки драйверов DriverPack Solution - она работает в автоматическом режиме и совершенно бесплатна!"
+
+msgid "seo_deviceclass-footer-content-monitor-acer"
+msgstr "Возникает вопрос, как установить драйвер на монитор Acer? В данном разделе вы сможете найти <b>драйвер для монитора Acer</b> самой последней версии для всех использующихся сейчас версий операционной системы Windows. Также вы можете провести <b>обновление драйверов для монитора Acer</b> в автоматическом режиме с использованием нашей бесплатной программы DriverPack Solution."
+
+msgid "seo_deviceclass-footer-content-monitor-asus"
+msgstr "Есть проблемы в работе мониторов от фирмы Asus? Тогда дело может быть в драйвере монитора. Воспользуйтесь нашим каталогом, где вы сможете найти и <b>скачать драйвер для монитора Asus</b> любой интересующей вас модели. Если же почему-то драйвера для нужной модели найти самостоятельно вы не смогли, то скачайте нашу программу DriverPack Solution - она подберёт нужный драйвер автоматически, проанализировав конфигурацию вашего железа."
+
+msgid "seo_deviceclass-footer-content-monitor-benq"
+msgstr "Есть проблемы в работе монитора? Необходимо <b>скачать драйвер для монитора Benq</b>? В нашем каталоге вы найдёте драйвера самых свежих конфигураций для всех моделей мониторов BenQ. Если драйвер для нужной модели монитора вы не нашли, то не отчаивайтесь. Воспользуйтесь нашей программой поиска и обновления драйверов DriverPack Solution - она найдёт нужный драйвер автоматически, без вашего участия!"
+
+msgid "seo_deviceclass-footer-content-monitor-compaq"
+msgstr "Нужен <b>драйвер для монитора Compaq</b>? Мы предлагаем скачать драйвера мониторов Compaq совершенно бесплатно и без регистрации прямо из нашего каталога. Так же вы можете воспользоваться нашей программой поиска и обновления драйверов DriverPack Solution - она подберёт самый свежий драйвер для вашего монитора в автоматическом режиме."
+
+msgid "seo_deviceclass-footer-content-monitor-dell"
+msgstr "В работе монитора Dell появились проблемы? На экране начали появляться различные артефакты? Тогда проблема вполне может быть в устаревших драйверах. В нашем каталоге вы можете <b>скачать драйвер для монитора Dell</b> самой свежей конфигурации для всех версий ОС Windows. Если вы самостоятельно найти нужный драйвер не смогли, то скачайте нашу программу DriverPack Solution - она бесплатна и сделает всю работу по подбору нужного драйвера автоматически!"
+
+msgid "seo_deviceclass-footer-content-monitor-hp"
+msgstr "Нужно <b>скачать драйвер на монитор HP</b>? В этом разделе вы найдёте все самые свежие и актуальные драйвера монитора HP для всех свежих версий операционной системы Windows. Все драйвера, представленные в этом разделе, подобраны и проверены нашими специалистами на предмет работоспособности и безопасности. Если нужный драйвер своими силами вы найти не смогли, то воспользуйтесь нашей программой DriverPack Solution - она всё сделает быстро и без вашего участия!"
+
+msgid "seo_deviceclass-footer-content-monitor-lg"
+msgstr "Устарел <b>драйвер для монитора LG</b>? В изображении появились артефакты или же монитор просто отказывается работать? Воспользуйтесь нашим огромным каталогом, где вы можете <b>скачать драйвер для монитора LG Flatron</b> без особых проблем и затруднений! Если же у вас нет времени искать нужный драйвер самостоятельно, то скачайте наше программу DriverPack Solution - она самостоятельно подберёт все нужные драйвера."
+
+msgid "seo_deviceclass-footer-content-monitor-panasonic"
+msgstr "Появились проблемы в работе монитора от фирмы Panasonic? Возможно проблема в драйверах. В нашем каталоге вы можете <b>скачать драйвер для монитора Panasonic</b> совершенно бесплатно и без лишних трудностей! Если же по какой-то причине нужный драйвер для вашей модели монитора Panasonic вы не нашли, то скачайте нашу программу поиска и обновления драйверов DriverPack Solution - она совершенно бесплатна!"
+
+msgid "seo_deviceclass-footer-content-monitor-samsung"
+msgstr "В данном разделе вы можете <b>скачать бесплатно драйвер для монитора Samsung Syncmaster</b>. У нас представлены драйверы для всех актуальных версий ОС Windows. Если почему-то нужный драйвер вы не нашли, то воспользуйтесь нашей программой DriverPack Solution - она бесплатна и всё сделает автоматически."
+
+msgid "seo_deviceclass-footer-content-monitor-sony"
+msgstr "Здесь вы можете бесплатно <b>скачать драйверы мониторов Sony</b> самых последних конфигураций для всех современных версий операционных систем Windows. Не хотите искать нужный драйвер самостоятельно? Тогда скачайте нашу программу DriverPack Solution для поиска и обновления драйверов - она всё сделает автоматически!"
+
+msgid "seo_deviceclass-footer-content-monitor-viewsonic"
+msgstr "В этом разделе вы можете <b>скачать драйвер для монитора Viewsonic</b> всех доступных моделей совершенно бесплатно и без регистрации. В нашем каталоге доступны драйвера для всех современных версий операционной системы Windows. Либо же скачайте нашу программу DriverPack Solution - она бесплатна и найдёт нужные совместимые драйвера в автоматическом режиме."
+
+msgid "seo_deviceclass-footer-content-monitor-sharp"
+msgstr "Появились проблемы в работе монитора от фирмы Sharp? Возможно дело в устаревших драйверах. Скачайте драйвер из нашего каталога самостоятельно или же воспользуйтесь нашей программой DriverPack Solution - она всё сделает быстро и без проблем! Все наши драйвера проверены на работоспособность и безопасность!"
+
+msgid "seo_deviceclass-footer-content-monitor-philips"
+msgstr "Не знаете, где <b>скачать драйвер для монитора Philips</b>? В данном разделе вы найдёте все самые свежие и актуальные драйвера для мониторов Philips для всех версий ОС Windows. Если по какой-то причине найти нужный драйвер самостоятельно вы не смогли, то воспользуйтесь нашей программой DriverPack Solution - она совершенно бесплатна и подберёт нужный вам драйвер в два счёта."
+
+msgid "seo_deviceclass-footer-content-modem-d-link"
+msgstr "В данном разделе вы сможете бесплатно скачать <b>драйвер модема d-link</b> для всех доступных сейчас версий операционной системы Windows. Наш каталог организован простым и понятным образом, и найти нужный Вам драйвер не составит труда. Однако, если драйвер для модема d-link нужной Вам конфигурации почему-то найти не удалось, то воспользуйтесь нашей программой DriverPack Solution - она совершенно бесплатна и скачает все нужные Вам драйверы автоматически."
+
+msgid "seo_deviceclass-footer-content-tvtuner-avermedia"
+msgstr "Есть проблемы в работе тв-тюнера от Avermedia? Вполне возможно, что дело в устаревшей версии драйвера. В данном разделе вы сможете бесплатно <b>скачать драйвер на тв-тюнер Avermedia</b> из нашего удобного и понятного каталога. Так же можете воспользоваться бесплатной программой DriverPack Solution - она всё сделает быстро и без необходимости искать нужный драйвер самостоятельно."
+
+msgid "seo_deviceclass-footer-content-tvtuner-beholder"
+msgstr "Что-то не так с вашим тв-тюнером от фирмы Beholder? Проблему вполне может решить обновление драйверов до самой свежей версии. Тут вы сможете <b>скачать драйвер тв-тюнера Beholder</b> быстро, легко и совершенно бесплатно! Если же вдруг самостоятельно скачать нужный драйвер не вышло, то используйте нашу программу DriverPack Solution - она сама подберёт нужный драйвер, основываясь на конфигурации вашего железа."
+
+msgid "seo_deviceclass-footer-content-tvtuner-pinnacle"
+msgstr "Нужны <b>драйверы для тв-тюнеров Pinnacle</b>? В данном каталоге вы легко сможете найти драйвера для тв тюнера Pinnacle и скачать их бесплатно. Если почему-то необходимый Вам драйвер найти самостоятельно не получилось, то установите нашу бесплатную программу DriverPack Solution - она сама проанализирует конфигурацию железа и установит всё необходимое для корректной работы."
+
+msgid "seo_deviceclass-footer-content-tvtuner-philips"
+msgstr "Появились неполадки в работе тв-тюнера Philips? Возможно проблема в устаревших драйверах. Здесь вы сможете <b>скачать драйвера тв-тюнера Philips</b> для всех использующихся сейчас версий ОС Windows. Либо же установите программу DriverPack Solution - она бесплатна и всё сделает за вас."
+
+msgid "seo_deviceclass-footer-content-tvtuner-kworld"
+msgstr "Нужно <b>скачать драйвера для тв-тюнера Kworld</b>, но не знаете откуда? Тогда вам сюда! Тут вы сможете скачать <b>драйвера тв-тюнера Kworld </b> самой последней версии для всех доступных версий операционной системы Windows. Не получилось найти нужный драйвер в нашем каталоге? Тогда скачайте нашу бесплатную программу DriverPack Solution - она всё сделает автоматически, быстро и качественно."
+
+msgid "seo_deviceclass-footer-content-tvtuner-compro"
+msgstr "В данном разделе вы сможете <b>скачать драйвер тв-тюнера Compro</b> совершенно бесплатно для всех доступных версий ОС Windows. Все драйвера из нашего каталога проверены специалистами на предмет работоспособности и безопасности. Не смогли найти то, что искали? Скачайте программу DriverPack Solution - она всё сделает автоматически, быстро и без проблем."
+
+msgid "seo_deviceclass-footer-content-phone-htc"
+msgstr "Есть проблемы в работе телефонного аппарата от HTC? Нет возможности  подключить смартфон к компьютеру? В данном разделе вы можете <b>скачать драйвера для телефона HTC</b> самостоятельно. У нас представлены все самые свежие и актуальные драйвера для телефонов HTC."
+
+msgid "seo_deviceclass-footer-content-phone-huawei"
+msgstr "Не знаете, где <b>скачать драйвер для телефона Huawei</b>. В данном разделе вы найдёте драйвера для телефона Huawei всех возможных моделей. Все наши драйвера проверены на работоспособность и безопасность!"
+
+msgid "seo_deviceclass-footer-content-phone-nokia"
+msgstr "В данном разделе вы можете <b>скачать драйвер для телефона Nokia</b> совершенно бесплатно и без регистрации. У нас представлены драйвера для телефонов Nokia всех возможных моделей. Также все наши драйвера проверены специалистами на безопасность и работоспособность."
+
+msgid "seo_devicegroup-footer-content-video-nvidia-nvidia-geforce-9600-gt"
+msgstr "Нужны драйвера на видеокарту Nvidia Geforce 9600 GT? Тогда Вам сюда. В данном разделе вы можете скачать <b>драйверы видеокарты Nvidia Geforce 9600 GT</b> для всех существующих и использующихся сейчас версий операционной системы Windows. Если же по какой-то причине найти нужные драйвера в нашем каталоге самостоятельно вы не смогли, то тогда воспользуйтесь нашей программой для поиска и обновления драйверов DriverPack Solution, которая совершенно бесплатна и работает в автоматическом режиме."
+
+msgid "seo_devicegroup-footer-content-monitor-samsung-syncmaster-740n-179n-syncmaster-magic-cx721n-cx714n"
+msgstr "Возникают трудности с подключением монитора Samsung Syncmaster 740n к компьютеру? При отображении на экране монитора появляются различные артефакты? В данном разделе вы сможете найти и <b>скачать драйвер для монитора Samsung Syncmaster 740n</b> самой свежей конфигурации для всех использующихся сейчас версий ОС Windows. Если, используя наш каталог, нужный драйвер вы подобрать не смогли, то воспользуйтесь нашей программой DriverPack Solution - она бесплатна и создана специально для автоматического обновления драйверов на вашем компьютере."
+
+msgid "seo_notebook-footer-content-acer-aspire-5560g"
+msgstr "В данном разделе вы можете скачать драйвера для ноутбука Acer Aspire 5560g для Windows XP, 7, 8, 8.1 и 10. Все драйвера проверены нашими специалистами на предмет работоспособности и безопасности. Если нужный драйвер самостоятельно найти Вы не смогли, то воспользуйтесь нашей программой DriverPack Solution - она совершенно бесплатна и всё сделает за Вас!"
+
+msgid "seo_notebook-footer-content-aspire-5750g"
+msgstr "Нужно скачать драйвера для ноутбука Acer Aspire 5750g? В данном разделе представлены драйвера для ОС Windows XP, 7, 8, 8.1 и 10. Наши драйвера проверены антивирусом и на 100% безопасны. Не хотите искать нужный драйвер самостоятельно? Тогда скачайте нашу программу DriverPack Solution - она бесплатна и сможет подобрать всё необходимое автоматически."
+
+msgid "seo_notebook-footer-content-acer-aspire-5100"
+msgstr "В данном разделе можно бесплатно скачать драйвера для ноутбука Acer Aspire 5100 (Windows XP, 7, 8, 8.1, 10). Если по какой-то причине нужный Вам драйвер в нашем каталоге не нашёлся, то не отчаивайтесь - скачайте нашу программу DriverPack Solution. Она всё сделает за Вас."
+
+msgid "seo_notebook-footer-content-acer-aspire-5553g"
+msgstr "Нужно скачать драйвера для ноутбука Acer Aspire 5553g? В данном разделе вы найдёте все необходимые драйвера для следующих версий Windows - XP, 7, 8, 8.1, 10. Не нашли нужный? Скачайте нашу бесплатную программу DriverPack Solution для обновления драйверов - она всё сделает за Вас!"
+
+msgid "seo_notebook-footer-content-acer-aspire-7750g"
+msgstr "В данном разделе можно скачать драйвера для ноутбука Acer Aspire 7750g совершенно бесплатно. Все наши драйвера проверены на безопасность и работоспособность. Нет нужного драйвера в нашем каталоге? Скачайте программу DriverPack Solution - она найдёт всё необходимое за считанные минуты!"
+
+msgid "seo_notebook-footer-content-acer-aspire-5551g"
+msgstr "Мы предлагаем Вам скачать драйвера для ноутбука Acer Aspire 5551g совершенно бесплатно для всех использующихся сейчас версий ОС Windows. Не нашли в нашем каталоге нужный драйвер? Тогда скачайте бесплатную программу DriverPack Solution - она обновит все драйвера до последней актуальной версии."
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g"
+msgstr "Не запускается ноутбук Acer Aspire v3 571g? Возможно, дело в драйверах. В данном разделе Вы можете скачать драйвера для Acer Aspire v3 571g бесплатно. У нас представлены драйвера для всех использующихся сейчас версий Windows - XP, 7, 8, 8.1 и 10. Не смогли решить проблему самостоятельно? Скачайте нашу программу DriverPack Solution - она сама найдёт нужный драйвер и обновит его до работоспособной версии."
+
+msgid "seo_notebook-footer-content-asus-x550cc"
+msgstr "Нужно скачать драйвера для ноутбука Asus X550CC? В данном разделе нашего сайта вы найдёте всё необходимое для работы вашего ноутбука. Все наши сборки проверены на безопасность и работоспособность. Если нужный драйвер самостоятельно вы найти не смогли, то скачайте нашу программу DriverPack Solution - она оценит состояние драйверов у Вас на ноутбуке и обновит их до самой последней версии."
+
+msgid "seo_notebook-footer-content-asus-x550cl"
+msgstr "Здесь вы можете скачать драйвера ноутбука Asus X550CL для Windows XP, 7, 8, 8.1 и 10 совершенно бесплатно. Все наши драйвера проверены на работоспособность и безопасность. Если по какой-то причине нужный драйвер самостоятельно Вы не нашли, то воспользуйтесь нашей программой DriverPack Solution - она всё сделает автоматически."
+
+msgid "seo_notebook-footer-content-asus-x540sa"
+msgstr "Тут вы можете скачать драйвера ноутбука Asus X540SA для Windows XP, 7, 8, 8.1 и 10 бесплатно. Если у нас в каталоге нужный драйвер вы почему-то подобрать не смогли, то скачайте нашу бесплатную программу для обновления драйверов DriverPack Solution - она всё сделает автоматически."
+
+msgid "seo_notebook-footer-content-asus-x540sc"
+msgstr "Здесь можно скачать драйвера ноутбука Asus X540SC для Windows XP, 7, 8, 8.1 и 10 совершенно бесплатно. Не смогли найти то, что искали? Тогда скачайте нашу программу DriverPack Solution для автоматического обновления драйверов - она оценит ваше \"железо\" и быстро подберёт нужные драйвера."
+
+msgid "seo_notebook-footer-content-asus-x540la"
+msgstr "Тут можно скачать драйвера ноутбука Asus X540LA для Windows XP, 7, 8, 8.1 и 10 бесплатно. Так же совершенно бесплатно можно скачать программу для обновления драйверов DriverPack Solution - она автоматически оценит состояние драйверов у Вас на ноутбуке и обновит их до самой последней версии."
+
+msgid "seo_notebook-footer-content-asus-k50c"
+msgstr "Нужны драйвера на ноутбук Asus k50c для Windows XP, 7, 8, 8.1 или 10? В данном разделе можно бесплатно скачать драйвера для Asus k50c или же, если самостоятельно нужный драйвер подобрать не получилось, установить программу DriverPack Solution, которая автоматически проанализирует \"железо\" у Вас на ноутбуке и подберёт все нужные драйвера самостоятельно."
+
+msgid "seo_notebook-footer-content-asus-x553ma"
+msgstr "Нужны драйвера на ноутбук Asus X553MA для Windows XP, 7, 8, 8.1 или 10? В данном разделе можно бесплатно скачать драйвера для Asus X553MA или же, если самостоятельно нужный драйвер подобрать не получилось, установить программу DriverPack Solution, которая протестирует \"железо\" у Вас на ноутбуке и подберёт нужные драйвера автоматически."
+
+msgid "seo_notebook-footer-content-asus-x541sa"
+msgstr "Тут вы можете скачать драйвера для ноутбука Asus X541SA под Windows XP, 7, 8, 8.1 и 10 бесплатно. Если у нас в каталоге нужный драйвер вы почему-то не нашли, то скачайте нашу бесплатную программу для обновления драйверов DriverPack Solution - она всё сделает автоматически."
+
+msgid "seo_notebook-footer-content-asus-k52jc"
+msgstr "Здесь можно скачать драйвера для ноутбуков Asus k52jc под Windows XP, 7, 8, 8.1 и 10 бесплатно. Если у нас каталоге нужный драйвер вы не нашли, то установите программу для обновления драйверов DriverPack Solution - она всё сделает за Вас."
+
+msgid "seo_notebook-footer-content-asus-k52jr"
+msgstr "Здесь можно скачать драйвера для ноутбука Asus k52jr под Windows XP, 7, 8, 8.1 и 10 бесплатно. Все драйвера проверены на безопасность и работоспособность нашими лучшими специалистами."
+
+msgid "seo_notebook-footer-content-asus-x101ch"
+msgstr "Тут можно скачать драйвера для ноутбуков Asus X101CH под Windows XP, 7, 8, 8.1 и 10 бесплатно. Не нашли нужный драйвер в нашем каталоге? Не беда - скачайте программу для автоматической установки драйверов DriverPack Solution - она подберёт драйвер для нужного устройства самостоятельно и без лишних проблем."
+
+msgid "seo_notebook-footer-content-asus-k50ij"
+msgstr "Тут можно скачать драйвера на ноутбук Asus K50ij для Windows XP, 7, 8, 8.1 или 10. Если нужный драйвер в нашем каталоге вы подобрать не смогли, то воспользуйтесь программой для поиска и установки драйверов DriverPack Solution - она бесплатна и всё сделает за Вас."
+
+msgid "seo_notebook-footer-content-asus-x551ma"
+msgstr "Не встает драйвер на сетевой контроллер ноутбука Asus x551ma? Скачайте нужный драйвер под Windows XP, 7, 8, 8.1 или 10 самостоятельно, либо воспользуйтесь нашей бесплатной программой для обновления драйверов DriverPack Solution."
+
+msgid "seo_notebook-footer-content-asus-k53ta"
+msgstr "Тут можно скачать драйвера на ноутбук Asus k53ta для Windows XP, 7, 8, 8.1 или 10 бесплатно. Если по какой-то причине самостоятельно нужный драйвер Вы найти не смогли, то воспользуйтесь нашей программой DriverPack Solution - она автоматически подберёт нужный или максимально совместимый с вашей конфигурацией драйвер."
+
+msgid "seo_notebook-footer-content-asus-x550ca"
+msgstr "Здесь можно скачать драйвера для ноутбука Asus x550ca под Windows XP, 7, 8, 8.1 или 10 бесплатно. Все наши драйвера проверены на работоспособность и безопасность."
+
+msgid "seo_notebook-footer-content-lenovo-g580"
+msgstr "Здесь можно скачать драйвера для ноутбука Lenovo g580 под Windows XP, 7, 8, 8.1 или 10 совершенно бесплатно. Все драйвера проверены антивирусом. Не нашли нужный драйвер? Скачайте и установите программу DriverPack Solution - она бесплатна и всё сделает за Вас."
+
+msgid "seo_notebook-footer-content-lenovo-b590"
+msgstr "Скачать драйвера для ноутбука Lenovo b590 под Windows XP, 7, 8, 8.1 или 10 можно прямо тут и совершенно бесплатно. Все наши драйвера проверены антивирусом и совершенно безопасны."
+
+msgid "seo_notebook-footer-content-hp-pavilion-g6-chipset"
+msgstr "В данном разделе вы можете <b>скачать драйвера чипсета Pavilion G6</b> бесплатно и без регистрации для всех использующихся сейчас версий операционной системы Windows. Если по какой-то причине драйвера чипсета для ноутбука HP Pavilion G6 вы самостоятельно не смогли найти и скачать, то воспользуйтесь нашей программой DriverPack Solution - она всё сделает автоматически."
+
+msgid "seo_notebook-footer-content-lenovo-g580-wifi"
+msgstr "Нужен драйвер Wi-Fi для ноутбука Lenovo g580 под Windows XP, 7, 8, 8.1 или 10? Скачайте его напрямую прямо из нашего каталога. Все наши драйвера полностью работоспособны и безопасны."
+
+msgid "seo_notebook-footer-content-lenovo-b590-wifi"
+msgstr "Здесь можно скачать драйвер ноутбука Lenovo b590 для Wi-Fi под Windows XP, 7, 8, 8.1 или 10. Весь наш каталог проверен антивирусом."
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g-wifi"
+msgstr "Здесь можно скачать драйвера Wi-Fi ноутбука Acer Aspire v3 571g для Windows XP, 7, 8, 8.1 и 10 бесплатно."
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g-video"
+msgstr "В данном разделе можно бесплатно скачать драйвера на видеокарту ноутбука Acer Aspire v3 571g. Не подошло? Воспользуйтесь нашей программой DriverPack Solution - она подберёт наиболее совместимый с вашей конфигурацией драйвер."
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g-sound"
+msgstr "В этом разделе можно скачать звуковые драйвера для ноутбука Acer Aspire v3 571g для всех использующихся сейчас версий Windows. Наши драйвера совершенно безопасны и работают просто отлично!"
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g-inputdev"
+msgstr "Тут можно скачать драйвер клавиатуры и других устройств ввода ноутбука Acer Aspire v3 571g для Windows XP, 7, 8, 8.1 и 10 совершенно бесплатно. Все наши драйвера проверены на безопасность и работоспособность!"
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g-lan"
+msgstr "Здесь можно скачать драйвер сетевой карты ноутбука Acer Aspire v3 571g для Windows XP, 7, 8, 8.1 и 10. Не нашли нужный драйвер самостоятельно? Воспользуйтесь нашей программой DriverPack Solution - она сама подберёт всё необходимое."
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g-cardreader"
+msgstr "В данном разделе можно без лишних трудностей скачать драйвер для кардридера ноутбука Acer Aspire v3 571g для Windows XP, 7, 8, 8.1 и 10. Также здесь можно скачать нашу программу DriverPack Solution - она проанализирует конфигурацию вашего железа и сама подберёт и установит нужный драйвер."
+
+msgid "seo_notebook-footer-content-asus-x550cc-wifi"
+msgstr "Не работает Wi-Fi на ноутбуке Asus X550CC? Возможно проблема в устаревших драйверах - скачайте самую последнюю версию драйвера Wi-Fi для ноутбука Asus X550CC или установите бесплатную программу DriverPack Solution - она всё сделает в автоматическом режиме."
+
+msgid "seo_notebook-footer-content-asus-x550cc-lan"
+msgstr "Тут вы можете скачать сетевые драйвера для ноутбука Asus X550CC для Windows XP, 7, 8, 8.1 и 10 бесплатно. Если эти драйвера Вам почему-то не подошли, то воспользуйтесь нашей программой DriverPack Solution - она бесплатна и всё сделает за Вас."
+
+msgid "seo_notebook-footer-content-asus-k50c-video"
+msgstr "Не запускается какая-то игра на ноутбуке Asus k50c? Здесь можно скачать драйвер видеокарты для Asus k50c под Windows XP, 7, 8, 8.1 или 10."
+
+msgid "seo_notebook-footer-content-asus-k50c-wifi"
+msgstr "Возникают проблемы с доступом в интернет через Wi-Fi? Здесь можно скачать драйвера Wi-Fi для ноутбука Asus k50c под Windows XP, 7, 8, 8.1 или 10 - возможно это исправит проблему!"
+
+msgid "seo_notebook-footer-content-asus-x553ma-video"
+msgstr "Устарели драйвера видеокарты на ноутбуке Asus x553ma? Здесь можно скачать драйвер для Asus X553MA под Windows XP, 7, 8, 8.1 или 10."
+
+msgid "seo_notebook-footer-content-asus-x101ch-video"
+msgstr "Не запускается игра на ноутбуке Asus X101CH? Здесь можно скачать драйвер видеокарты для Asus X101CH под Windows XP, 7, 8, 8.1 или 10 бесплатно - возможно это исправит проблему!"
+
+msgid "seo_notebook-footer-content-asus-k50ij-wifi"
+msgstr "Нужен драйвер Wi-Fi для ноутбука Asus k50ij под Windows XP, 7, 8, 8.1 или 10? Скачайте его прямо из нашего каталога или установите программу для автоматического обновления драйверов DriverPack Solution - она совершенно бесплатна."
+
+msgid "seo_notebook-footer-content-asus-x551ma-lan"
+msgstr "Не встает драйвер на сетевой контроллер ноутбука Asus x551ma? Скачайте нужный драйвер под Windows XP, 7, 8, 8.1 или 10 самостоятельно, либо воспользуйтесь нашей бесплатной программой для обновления драйверов DriverPack Solution."
+
+msgid "seo_notebook-footer-content-lenovo-g580-lan"
+msgstr "Здесь можно скачать сетевые драйвера на ноутбук Lenovo g580 под Windows XP, 7, 8, 8.1 или 10. Не нашли нужный драйвер? Тогда скачайте и установите программу DriverPack Solution - она бесплатна, и она подберёт всё необходимое для нормальной работы ноутбука автоматически."
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g-7-x86"
+msgstr "В этом разделе можно скачать драйвера ноутбука Acer Aspire v3 571g для Windows 7. Все наши драйвера проверены специалистами и полностью работоспособны."
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g-8-x86"
+msgstr "Здесь можно скачать драйвера ноутбука Acer Aspire v3 571g для Windows 8 или установить программу для автоматического обновления драйверов DriverPack Solution."
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g-8.1-x86"
+msgstr "В данном разделе доступны для скачивания драйвера ноутбука Acer Aspire v3 571g для Windows 8. Так же у нас можно скачать программу DriverPack Solution - она проверит конфигурацию вашего железа и установит нужный драйвер."
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g-10-x86"
+msgstr "Тут можно скачать драйвера ноутбука Acer Aspire v3 571g для Windows 10. Наши драйвера полностью работоспособны и проверены антивирусом."
+
+msgid "seo_notebook-footer-content-asus-x550cc-7-x86"
+msgstr "В данном разделе можно скачать драйвера ноутбука Asus X550CC для Windows 7x86. Все наши драйвера проверены антивирусом на безопасность!"
+
+msgid "seo_notebook-footer-content-asus-x550cc-7-x64"
+msgstr "В данном разделе можно скачать драйвера ноутбука Asus X550CC для Windows 7x64 совершенно бесплатно. Если драйвер из данного раздела Вам почему-то не подошёл, то воспользуйтесь нашей программой DriverPack Solution - она обновит драйвера на вашем ноутбуке до последней актуальной версии."
+
+msgid "seo_notebook-footer-content-asus-x550cl-7-x64"
+msgstr "Здесь вы можете скачать драйвера ноутбука Asus X550CL для Windows 7x64 совершенно бесплатно. Все наши драйвера проверены специалистами на работоспособность."
+
+msgid "seo_notebook-footer-content-asus-x540sa-7-x64"
+msgstr "Нужны драйвера ноутбука Asus X540SA для Windows 7x64? В данном разделе Вы найдёте всё необходимое. Все драйвера проверены на безопасность и работоспособность нашими специалистами."
+
+msgid "seo_notebook-footer-content-asus-x540sa-8.1-x64"
+msgstr "Необходимы драйвера ноутбука Asus x540sa для Windows 8.1x64? Тут Вы найдёте всё необходимое. Наши драйвера проверены на работоспособность и безопасность лучшими специалистами."
+
+msgid "seo_notebook-footer-content-asus-x540sa-10-x64"
+msgstr "Нужно скачать драйвера ноутбука Asus X540SA для Windows 10x64? Тогда Вам сюда! Если по какой-то причине нужный драйвер в каталоге Вы не нашли, то скачайте нашу программу DriverPack Solution - она сама найдёт все последние версии и установит их на Ваш ноутбук."
+
+msgid "seo_notebook-footer-content-asus-x540sc-7-x64"
+msgstr "Нужно скачать драйвера ноутбука Asus X540SC для Windows 7x64? Тут Вы найдёте всё необходимое. Все наши сборки проверены на безопасность и работоспособность!"
+
+msgid "seo_notebook-footer-content-asus-x540sc-8.1-x64"
+msgstr "Здесь можно скачать драйвера ноутбука Asus X540SC для Windows 8.1x64 совершенно бесплатно. Если самостоятельно в нашем каталоге нужный драйвер Вы найти не смогли, то просто скачайте программу для обновления драйверов DriverPack Solution - она всё сделает быстро и надёжно!"
+
+msgid "seo_notebook-footer-content-asus-x540la-7-x64"
+msgstr "В данном разделе можно скачать драйвера ноутбука Asus X540LA для Windows 7x64 бесплатно и без дополнительной регистрации. Все наши драйвера абсолютно безопасны и полностью работоспособны."
+
+msgid "seo_notebook-footer-content-asus-k50c-xp-x86"
+msgstr "В данном разделе можно скачать драйвера для ноутбука Asus k50c под Windows XP совершенно бесплатно без дополнительной регистрации. Так же предлагаем Вам скачать программу DriverPack Solution для автоматической установки драйверов - она всё сделает за Вас!"
+
+msgid "seo_notebook-footer-content-asus-x553ma-7-x64"
+msgstr "Здесь можно скачать драйвера на ноутбук Asus X553MA под Windows 7x64. Все наши сборки протестированы специалистами на предмет безопасности и работоспособности."
+
+msgid "seo_notebook-footer-content-asus-x101ch-xp-x86"
+msgstr "Здесь можно скачать драйвер ноутбука Asus X101CH под Windows XP бесплатно и без дополнительной регистрации. Все наши драйвера полностью работоспособны и безопасны для вашего ноутбука!"
+
+msgid "seo_notebook-footer-content-asus-k50ij-7-x64"
+msgstr "Здесь можно скачать и установить драйвера для ноутбука Asus k50ij под Windows 7x64 совершенно бесплатно. Не подошёл драйвер? Не проблема - воспользуйтесь нашей программой для обновления драйверов DriverPack Solution - она совершенно бесплатна и всё сделает автоматически!"
+
+msgid "seo_notebook-footer-content-asus-k50ij-xp-x86"
+msgstr "Нужно скачать драйвера для ноутбука Asus k50ij под Windows XP? Воспользуйтесь нашим каталогом - там вы найдёте все необходимое. Не помогло? Скачайте программу для обновления драйверов DriverPack Solution - она проанализирует железо на вашем ноутбуке и подберёт максимально совместимые драйвера."
+
+msgid "seo_notebook-footer-content-lenovo-g580-7-x64"
+msgstr "Драйвера для ноутбука Lenovo g580 под Windows XP, 7, 8, 8.1 или 10 скачать можно прямо здесь. Не подошёл драйвер? Тогда воспользуйтесь программой для поиска и установки драйверов DriverPack Solution - она всё сделает самостоятельно."
+
+msgid "seo_notebook-footer-content-asus-x550cc-sound-10-x64"
+msgstr "Здесь можно скачать драйвера ноутбука Asus X550CC для Windows 10x64 бесплатно. Так же можете скачать программу DriverPack Solution - она оценит состояние драйверов у Вас на ноутбуке и обновит их до самой актуальной версии."

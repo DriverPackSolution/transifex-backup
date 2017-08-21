@@ -1,0 +1,1054 @@
+# Translators:
+# Nadia Tegeneva <nadia@drp.su>, 2017
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-08-16 09:41+0000\n"
+"PO-Revision-Date: 2016-09-23 09:12+0000\n"
+"Last-Translator: Nadia Tegeneva <nadia@drp.su>, 2017\n"
+"Language-Team: Chinese (https://www.transifex.com/driverpack-solution/teams/75453/zh/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "adminlandingpage_title"
+msgstr "DriverPack - 在任何電腦上自動安裝驅動程式"
+
+msgid "admincackle_dialog-star"
+msgstr "請點擊 DriverPack 操作"
+
+msgid "admindriverpacks_landing-title"
+msgstr "Driverpacks (驅動程式包)"
+
+msgid "admindriverpacks_landing-subtitle"
+msgstr "我們的 driverpacks 包含 1,131,989 個手動選擇並測試過的驅動程式"
+
+msgid "admindriverpacks_downloaded"
+msgstr "下載:"
+
+msgid "admindriverpacks_download"
+msgstr "下載"
+
+msgid "adminfaq_landing-title"
+msgstr "我們回答您的問題"
+
+msgid "adminfaq_landing-subtitle"
+msgstr "您經常提出關於 DriverPack 的問題 — 我們回答最熱門的問題"
+
+msgid "adminheader_cta-text"
+msgstr "DriverPack – 它是為系統管理員建立，但即使對初學者也是如此"
+
+msgid "adminheader_cta-btn"
+msgstr "下載 DriverPack Online"
+
+msgid "adminheader_products-caption"
+msgstr "任何 DriverPack 都將隨時安裝您的電腦，只需選擇所需的驅動程式包:"
+
+msgid "search_noresult"
+msgstr "下載 DriverPack Online"
+
+msgid "adminpromo_landing-title"
+msgstr "新版的 DriverPack 18 正在開發中"
+
+msgid "adminpromo_landing-subtitle"
+msgstr "新版本專為系統管理員而設計，並考慮到他們的需求"
+
+msgid "adminpromo_banner-text"
+msgstr "新版的 DriverPack 18 是根據以前的版本設計的，它們已經證明了它們的特殊穩定性。新版本的計畫在 2017 年發佈。"
+
+msgid "adminpromo_list-item-speed"
+msgstr "應用程式的安裝和啟動速度已最佳化"
+
+msgid "adminpromo_list-item-ui"
+msgstr "驅動程式標籤頁的介面已重新設計，現在系統管理員的資訊更加豐富"
+
+msgid "adminpromo_list-item-settings"
+msgstr "擴充設定範圍，加入個人自訂選項"
+
+msgid "adminpromo_list-item-soft"
+msgstr "預設情況下, 強制安裝所提供的軟體是關閉的"
+
+msgid "adminpromo_list-item-packs"
+msgstr "driverpacks 的方法改變了，以擺脫藍底白字和其他麻煩"
+
+msgid "adminpromo_list-item-device-support"
+msgstr "驅動程式範圍覆蓋了更多的硬體種類 (包括非常舊的硬體)"
+
+msgid "adminpromo_list-item-expert-mode"
+msgstr "預設情況下, 專家模式處於啟用狀態"
+
+msgid "adminpromo_list-item-stable-db"
+msgstr "建立了最穩定的驅動程式資料庫。驅動程式資料庫的格式更改為最新版本。"
+
+msgid "adminpromo_list-item-full-db"
+msgstr "建立了世界上最大和唯一的驅動程式資料庫"
+
+msgid "buttonsplitdropdown_main-button"
+msgstr "下載"
+
+msgid "breadcrumbs_main-text"
+msgstr "首頁"
+
+msgid "breadcrumbs_vendors-text"
+msgstr "製造商"
+
+#. i18n: EN: Example: VENDOR.NAME=Lenovo; RU: Пример: VENDOR.NAME=Lenovo;
+msgid "breadcrumbs_vendor-text"
+msgstr "{{VENDOR.NAME}}"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=cardreaders|monitors; RU: Пример:
+#. CLASS.PLURAL.MAIN=картридеры|мониторы;
+msgid "breadcrumbs_deviceclass-text"
+msgstr "{{CLASS.PLURAL.MAIN}}"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=cardreaders|monitors,
+#. VENDOR.NAME=Realtek; RU: Пример: CLASS.PLURAL.MAIN=картридеры|мониторы;
+#. VENDOR.NAME=Realtek;
+msgid "breadcrumbs_devicegroups-text"
+msgstr "{{VENDOR.NAME}}{{CLASS.PLURAL.MAIN}}"
+
+#. i18n: EN: Example: GROUP.VENDOR.NAME=Nvidia, GROUP.NAME=GeForce 210; RU:
+#. Пример: GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210;
+msgid "breadcrumbs_devicegroup-text"
+msgstr "{{GROUP.VENDOR.NAME}}{{GROUP.NAME}}"
+
+msgid "breadcrumbs_notebooks-text"
+msgstr "筆記型電腦"
+
+#. i18n: EN: Example: VENDOR.NAME=Asus; RU: Пример: VENDOR.NAME=Asus;
+msgid "breadcrumbs_notebookvendor-text"
+msgstr "{{VENDOR.NAME}} 筆記型電腦"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=X1 carbon;
+#. RU: Пример: NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=X1 carbon;
+msgid "breadcrumbs_notebook-text"
+msgstr "{{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}}"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=Videocards|Chipsets ,
+#. NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=G580; RU: Пример:
+#. CLASS.PLURAL.MAIN=видеокарты|чипсеты, NOTEBOOK.VENDOR.NAME=Lenovo,
+#. NOTEBOOK.NAME=G580;
+msgid "breadcrumbs_notebookdevices-text"
+msgstr "{{CLASS.PLURAL.MAIN}} / {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}} 筆記型電腦"
+
+msgid "devicecard_download-btn"
+msgstr "下載驅動程式"
+
+#. i18n: EN: Example: NAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10 x86; Text
+#. for {{DOWNLOAD}} is in key drivercard_no-results_download-link; RU: Пример:
+#. NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10 x86; Текст для
+#. {{DOWNLOAD}} находится в ключе drivercard_no-results_download-link;
+msgid "devicecard_details_no-results-text"
+msgstr "Windows 的 {{NAME}} 驅動程式在目錄中找不到 {{OSVERSIONS}}。{{DOWNLOAD}} 自動選擇驅動程式。"
+
+msgid "devicecard_details_no-results_download-link"
+msgstr "下載 DriverPack"
+
+msgid "devicecard_details-content-text"
+msgstr "資料下載中..."
+
+msgid "devicecard_details_all-systems"
+msgstr "所有系統"
+
+msgid "devicecard_details-content-label-version"
+msgstr "版本:"
+
+msgid "devicecard_details-content-label-version-recommended"
+msgstr "建議使用"
+
+msgid "devicecard_details-content-label-date"
+msgstr "日期:"
+
+msgid "devicecard_details-content-label-type"
+msgstr "驅動程式類型:"
+
+msgid "devicecard_details-content-label-manufacturer"
+msgstr "製造商:"
+
+msgid "devicecard_details-content-label-systems"
+msgstr "作業系統:"
+
+msgid "devicecard_details-content-label-deviceid"
+msgstr "Device ID:"
+
+msgid "devicecard_details-content-label-inf"
+msgstr "檔案 *.inf:"
+
+msgid "devicecard_details-content-label-section"
+msgstr "類別:"
+
+msgid "devicecard_details-links-merged_label"
+msgstr "如果在清單中找不到所需的 Device ID， 請將其輸入到搜尋行"
+
+msgid "devicecard_details-links-notebook_device"
+msgstr "檢視所有驅動程式"
+
+msgid "devicecard_details-links"
+msgstr "查看所有驅動程式"
+
+#. i18n: EN: Example: DEVICENAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10
+#. x86; Text for {{DOWNLOAD}} is in key devicecardlist_no-result_download-
+#. link; RU: Пример: NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10
+#. x86; Текст для {{DOWNLOAD}} находится в ключе devicecardlist_no-
+#. result_download-link;
+msgid "devicecardlist_no-results-device-text"
+msgstr "Windows 的 {{DEVICENAME}} 驅動程式在目錄中找不到 {{OSVERSIONS}}。{{DOWNLOAD}} 自動選擇驅動程式。"
+
+#. i18n: EN: Example: DEVICECLASS=chipsets|videocards; NOTEBOOK=Acer AO521;
+#. OSVERSIONS=Windows 10 x86; Text for {{DOWNLOAD}} is in key
+#. devicecardlist_no-result_download-link; RU: Пример:
+#. DEVICECLASS=чипсета|видеокарты; NOTEBOOK=Acer AO521; Пример:
+#. OSVERSIONS=Windows 10 x86; Текст для {{DOWNLOAD}} находится в ключе
+#. devicecardlist_no-result_download-link;
+msgid "devicecardlist_no-results-notebook-text"
+msgstr "筆記型電腦的 Windows {{NOTEBOOK}} 驅動程式在目錄中找不到 {{OSVERSIONS}}。{{DOWNLOAD}} 自動選擇驅動程式。"
+
+#. i18n: EN: Example: NOTEBOOK=Acer AO521; OSVERSIONS=Windows 10 x86; Text for
+#. {{DOWNLOAD}} is in key devicecardlist_no-result_download-link; RU: Пример:
+#. NOTEBOOK=Acer AO521; Пример: OSVERSIONS=Windows 10 x86; Текст для
+#. {{DOWNLOAD}} находится в ключе devicecardlist_no-result_download-link;
+msgid "devicecardlist_no-results-notebook-device-class-text"
+msgstr "{{NOTEBOOK}} 筆記型電腦 Windows 的 {{DEVICECLASS}} 驅動程式找不到 {{OSVERSIONS}}。{{DOWNLOAD}} 自動選擇驅動程式。"
+
+msgid "devicecardlist_no-result_download-link"
+msgstr "下載 DriverPack"
+
+msgid "devicegrouppage_all-systems"
+msgstr "所有系統"
+
+msgid "notebookpage_all-systems"
+msgstr "所有系統"
+
+msgid "devicegroupfilters_filter-title"
+msgstr "可用的驅動程式"
+
+msgid "deviceidfilters-filter-label-version"
+msgstr "驅動程式版本:"
+
+msgid "deviceidheader_caption-single"
+msgstr "裝置名稱:"
+
+msgid "deviceidheader_caption-many"
+msgstr "此裝置也以下列名稱命名:"
+
+msgid "devicetypelist_title_os"
+msgstr ""
+
+msgid "devicetypelist_title"
+msgstr "驅動程式搜尋裝置"
+
+#. i18n: EN: Example: NAME=Acer Aspire 4830TG; OSVERSIONS=Windows 10 x86; Text
+#. for {{DOWNLOAD}} is in key drivercard_no-results_download-link; RU: Пример:
+#. NAME=Acer Aspire 4830TG; Пример: OSVERSIONS=Windows 10 x86; Текст для
+#. {{DOWNLOAD}} находится в ключе drivercard_no-results_download-link;
+msgid "drivercard_no-results-text"
+msgstr "Windows 的 {{NAME}} 驅動程式在目錄中找不到 {{OSVERSIONS}}。{{DOWNLOAD}} 自動選擇驅動程式。"
+
+msgid "drivercard_no-results_download-link"
+msgstr "下載 DriverPack"
+
+msgid "drivercard_caption-version"
+msgstr "版本:"
+
+msgid "drivercard_caption-version-recommended"
+msgstr "建議使用"
+
+msgid "drivercard_caption-date"
+msgstr "日期:"
+
+msgid "drivercard_caption-class"
+msgstr "裝置類型:"
+
+msgid "drivercard_caption-manufacturer"
+msgstr "製造商:"
+
+msgid "drivercard_caption-os"
+msgstr "作業系統:"
+
+msgid "drivercard_caption-deviceid"
+msgstr "Device ID:"
+
+msgid "drivercard_caption-inf"
+msgstr "檔案 *.inf:"
+
+msgid "drivercard_caption-section"
+msgstr "類別:"
+
+msgid "drivercard_caption-btn"
+msgstr "下載驅動程式"
+
+msgid "deviceidpage_all-systems"
+msgstr "所有系統"
+
+msgid "dropdowndriverversion_no-results"
+msgstr "找不到所選作業系統的驅動程式"
+
+msgid "dropdownos_current"
+msgstr "現用"
+
+msgid "footer_banner-title"
+msgstr "您是否厭倦了為您的裝置尋找驅動程式?"
+
+msgid "footer_banner-caption"
+msgstr "DriverPack Online <span style='color: {{COLOR}}'>將自動尋找並安裝</span> 所需的驅動程式"
+
+msgid "footer_banner_btn"
+msgstr "免費下載 <span class='bold'>DriverPack Online</span>"
+
+msgid "footer_translate-feedback"
+msgstr "您發現錯字或錯誤嗎?<br />請將其反白後按一下 {{HOTKEY}}"
+
+msgid "header_search-title"
+msgstr "<span class='bold'>驅動程式搜尋</span> 最大的資料庫 — 超過一百萬個驅動程式"
+
+msgid "header_search-examples"
+msgstr "例如:"
+
+msgid "header_cta-text"
+msgstr "下載 DriverPack 來自動選擇驅動程式"
+
+msgid "header_cta-btn"
+msgstr "自動安裝驅動程式"
+
+msgid "header_cta-label-1"
+msgstr "它<span style='color: {{COLOR}}'>將立即下載</span>"
+
+msgid "header_cta-label-2"
+msgstr "它<span style='color: {{COLOR}}'>將自動選擇並安裝</span>驅動程式"
+
+msgid "headerbutton_title"
+msgstr "自動安裝驅動程式"
+
+msgid "headerbutton_label"
+msgstr "DriverPack 軟體完全免費"
+
+msgid "headeros_cta-btn"
+msgstr ""
+
+msgid "headeros_search-text"
+msgstr ""
+
+msgid "landingdevicetypelist_landing-title"
+msgstr "DriverPack 適用於任何裝置"
+
+msgid "landingdevicetypelist_landing-subtitle"
+msgstr "即使是 Windows 7 SP1 上的 USB 3.0 "
+
+msgid "landingdevicetypelist_cta-btn"
+msgstr "安裝所有所需的驅動程式"
+
+msgid "landingdevicetypelist_versions"
+msgstr "其他 DriverPack 版本"
+
+msgid "landingfeatures_landing-title"
+msgstr "DriverPack 是安裝電腦最方便、最快捷的方法"
+
+msgid "landingfeatures_landing-subtitle"
+msgstr "這個軟體可免費散佈，適合專業人士和初學者"
+
+msgid "landingfeatures_item-title-free"
+msgstr "免費"
+
+msgid "landingfeatures_item-caption-free"
+msgstr "DriverPack 可免費散佈"
+
+msgid "landingfeatures_item-title-safe"
+msgstr "安全"
+
+msgid "landingfeatures_item-caption-safe"
+msgstr "DriverPack 與防毒軟體供應商正式合作, 並保護電腦"
+
+msgid "landingfeatures_item-title-for-all-devices"
+msgstr "對於所有裝置"
+
+msgid "landingfeatures_item-caption-for-all-devices"
+msgstr "DriverPack 擁有世界上最大的驅動程式資料庫, 所以它可以安裝任何電腦"
+
+msgid "landingheader_cta-text"
+msgstr "DriverPack 將免費安裝驅動程式 並解決任何裝置的問題"
+
+msgid "landingheader_cta-btn"
+msgstr "安裝所有所需的驅動程式"
+
+msgid "landingheadernav_wannacrypt"
+msgstr "防止 WannaCry"
+
+msgid "landingheadernav_search"
+msgstr "驅動程式搜尋"
+
+msgid "landingheadernav_foradmin"
+msgstr "對於系統管理員"
+
+msgid "landingintroduction_author-title"
+msgstr "您好! 我的名字是 Artur Kuzyakov。我是 DriverPack 的作者和創始人"
+
+msgid "landingintroduction_author-speech"
+msgstr "在 8 年前的一個純粹熱情的小軟體中，我們已經轉變成了幫助全世界超過 4000 萬人安裝他們電腦的公司!<br /><br />在這 8 年的運作中，我們的軟體變得更快更聰明。今天, DriverPack 是世界上獨一無二的驅動程式的最大資料庫，它位於世界各地的超高速伺服器上。為了實現驅動程式安裝的過程不僅速度快，而且盡可能高的品質，我們使用機器學習 Machine Learning 技術，使我們的選擇演算法更好、更準確。此外，我們已設法做到這一點, 軟體仍然是完全免費的，使每個感興趣的人都可以使用它。<br /><br />我和我的團隊為我們的產品感到自豪，我們希望它將成為您的可靠助手，能夠快速安裝任何電腦。"
+
+msgid "landingintroduction_author-speech-marked"
+msgstr "我們花了所有的時間來幫助您!"
+
+msgid "landingintroduction_video-caption"
+msgstr "這是俄羅斯總理 Dmitry Medvedev 對於 DriverPack Solution 的評價"
+
+msgid "landingnotebookvendorslist_landing-title"
+msgstr "DriverPack 適用於任何電腦"
+
+msgid "landingnotebookvendorslist_landing-subtitle"
+msgstr "對於任何一個 - 我們檢查過"
+
+msgid "landingnotebookvendorslist_cta-btn"
+msgstr "安裝所有所需的驅動程式"
+
+msgid "landingnotebookvendorslist_versions"
+msgstr "其他 DriverPack 版本"
+
+msgid "landingproducts_item-title-online"
+msgstr "DriverPack Online"
+
+msgid "landingproducts_item-caption-online"
+msgstr "即時下載，所有必需的驅動程式將在安裝過程中完全下載"
+
+msgid "landingproducts_item-version"
+msgstr "版本:"
+
+msgid "landingproducts_item-button"
+msgstr "下載"
+
+msgid "landingproducts_item-title-network"
+msgstr "DriverPack Network"
+
+msgid "landingproducts_item-caption-network"
+msgstr "它快速下載，同時包含網路硬體的驅動程式"
+
+msgid "landingproducts_item-title-offline"
+msgstr "DriverPack Offline"
+
+msgid "landingproducts_item-caption-offline"
+msgstr "它操作不需網際網路連線，但其大小為 13.9 GB(系統管理員的變體)"
+
+msgid "landingpublications__landing-title"
+msgstr "關於 DriverPack 的大眾媒體出版物"
+
+msgid "landingscreenshots_landing-title"
+msgstr "DriverPack 是安裝電腦最方便、最快捷的方法"
+
+msgid "landingscreenshots_landing-subtitle"
+msgstr "這個軟體可免費散佈，適合專業人士和初學者"
+
+msgid "landingseofooter_landing-subtitle-notebooks"
+msgstr "DriverPack 適用於所有電腦和筆記型電腦型號"
+
+msgid "landingseofooter_landing-subtitle-devices"
+msgstr ""
+
+msgid "landingsocial_landing-title"
+msgstr "加入 DriverPack 社群"
+
+msgid "landingsocial_landing-subtitle"
+msgstr "跟蹤新聞並參與討論"
+
+msgid "landingusers_cta"
+msgstr "全球各地的 DriverPack 用戶 數量不斷增長"
+
+msgid "landingusers_cta-btn"
+msgstr "安裝所有所需的驅動程式"
+
+msgid "landingusers_versions"
+msgstr "其他 DriverPack 版本"
+
+msgid "landingwizard_landing-title"
+msgstr "現在可以一鍵安裝一台電腦"
+
+msgid "landingwizard_item-caption-download"
+msgstr "下載並啟動 DriverPack Online"
+
+msgid "landingwizard_item-caption-setup"
+msgstr "透過一個簡單的操作安裝您電腦的驅動程式"
+
+msgid "landingwizard_item-caption-profit"
+msgstr "現在我的電腦像 全新的一樣!"
+
+msgid "landingwizard_cta-btn"
+msgstr "安裝所有所需的驅動程式"
+
+msgid "navbar_download-link-short"
+msgstr "下載"
+
+msgid "navbar_download-link"
+msgstr "下載 DriverPack Online"
+
+msgid "notfound_cta-text"
+msgstr "您可以免費 使用 DriverPack Online 來自動尋找並安裝驅動程式"
+
+msgid "notfound_cta-btn"
+msgstr "下載 DriverPack Online"
+
+msgid "notfound_info-404"
+msgstr "{{404}} — 找不到請求的頁面"
+
+msgid "notfound_info-500"
+msgstr "{{500}} — 發生錯誤(伺服器錯誤)"
+
+msgid "notebookfilters-title"
+msgstr "可用的驅動程式"
+
+msgid "notebookvendorslist_other-text"
+msgstr "其他 製造商"
+
+msgid "notebookvendorslist_title_os"
+msgstr ""
+
+msgid "notebookvendorslist_title"
+msgstr "搜尋筆記型電腦驅動程式"
+
+msgid "promoheader_cta-text-gamers"
+msgstr "您的電腦比您想像的更強大: 免費更新所有驅動程式"
+
+msgid "promoheader_cta-text-gamers-caption"
+msgstr "如果您喜歡電腦遊戲，我們建議您更頻繁地更新電腦上的驅動程式，以達到最高的硬體效率。多達 37% 的FPS - 利用 DriverPack 得到最好的遊戲體驗和新的成就。"
+
+msgid "promoheader_cta-text"
+msgstr "DriverPack 將免費安裝驅動程式 並解決任何裝置的問題"
+
+msgid "promoheader_cta-btn"
+msgstr "安裝所有所需的驅動程式"
+
+msgid "promoheader_size"
+msgstr "檔案大小: {{SIZE}} KB"
+
+msgid "promoheader_license"
+msgstr "授權合約"
+
+msgid "promoheader_os-versions"
+msgstr "本軟體適用於 Windows 10, 8.1, 8, 7, Vista, XP"
+
+msgid "promoheader_uninstall"
+msgstr "DriverPack 移除"
+
+msgid "reviewheader_cta-text"
+msgstr "在社交網絡中加入 DriverPack 社群，跟上產品的消息，並參與討論"
+
+msgid "reviewheader_cta"
+msgstr "加入您對 改進 DriverPack 的意見或建議"
+
+msgid "search_input-placeholder"
+msgstr "搜尋驅動程式、筆記型電腦或 DeviceID 的名稱"
+
+msgid "search_btn-text"
+msgstr "尋找"
+
+msgid "searchformitem_type-section"
+msgstr "類別"
+
+msgid "searchformitem_type-notebook"
+msgstr "筆記型電腦"
+
+msgid "searchformitem_type-device"
+msgstr "裝置"
+
+msgid "searchformitem_type-free"
+msgstr "免費"
+
+#. i18n: EN: Example: NAME=Acer; RU: Пример: NAME=Acer;
+msgid "generatesearchitemname_notebookvendor"
+msgstr "{{NAME}} 筆記型電腦"
+
+#. i18n: EN: Example: NAME=Asus; RU: Пример: NAME=Asus;
+msgid "generatesearchitemname_vendor"
+msgstr "{{NAME}} 裝置"
+
+msgid "deviceclasses_bluetooth-single-main"
+msgstr "藍牙裝置"
+
+msgid "deviceclasses_bluetooth-single-for"
+msgstr "藍牙裝置"
+
+msgid "deviceclasses_bluetooth-plural-main"
+msgstr "藍牙裝置"
+
+msgid "deviceclasses_bluetooth-plural-for"
+msgstr "藍牙裝置"
+
+msgid "deviceclasses_cardreader-single-main"
+msgstr "讀卡機"
+
+msgid "deviceclasses_cardreader-single-for"
+msgstr "讀卡機"
+
+msgid "deviceclasses_cardreader-plural-main"
+msgstr "讀卡機"
+
+msgid "deviceclasses_cardreader-plural-for"
+msgstr "讀卡機"
+
+msgid "deviceclasses_chipset-single-main"
+msgstr "晶片組"
+
+msgid "deviceclasses_chipset-single-for"
+msgstr "晶片組"
+
+msgid "deviceclasses_chipset-plural-main"
+msgstr "晶片組"
+
+msgid "deviceclasses_chipset-plural-for"
+msgstr "晶片組"
+
+msgid "deviceclasses_inputdev-single-main"
+msgstr "輸入裝置"
+
+msgid "deviceclasses_inputdev-single-for"
+msgstr "輸入裝置"
+
+msgid "deviceclasses_inputdev-plural-main"
+msgstr "輸入裝置"
+
+msgid "deviceclasses_inputdev-plural-for"
+msgstr "輸入裝置"
+
+msgid "deviceclasses_lan-single-main"
+msgstr "網路卡"
+
+msgid "deviceclasses_lan-single-for"
+msgstr "網路卡"
+
+msgid "deviceclasses_lan-plural-main"
+msgstr "網路卡"
+
+msgid "deviceclasses_lan-plural-for"
+msgstr "網路卡"
+
+msgid "deviceclasses_massstorage-single-main"
+msgstr "控制器"
+
+msgid "deviceclasses_massstorage-single-for"
+msgstr "控制器"
+
+msgid "deviceclasses_massstorage-plural-main"
+msgstr "控制器"
+
+msgid "deviceclasses_massstorage-plural-for"
+msgstr "控制器"
+
+msgid "deviceclasses_modem-single-main"
+msgstr "數據機"
+
+msgid "deviceclasses_modem-single-for"
+msgstr "數據機"
+
+msgid "deviceclasses_modem-plural-main"
+msgstr "數據機"
+
+msgid "deviceclasses_modem-plural-for"
+msgstr "數據機"
+
+msgid "deviceclasses_monitor-single-main"
+msgstr "螢幕"
+
+msgid "deviceclasses_monitor-single-for"
+msgstr "螢幕"
+
+msgid "deviceclasses_monitor-plural-main"
+msgstr "螢幕"
+
+msgid "deviceclasses_monitor-plural-for"
+msgstr "螢幕"
+
+msgid "deviceclasses_phone-single-main"
+msgstr "智慧型手機"
+
+msgid "deviceclasses_phone-single-for"
+msgstr "智慧型手機"
+
+msgid "deviceclasses_phone-plural-main"
+msgstr "智慧型手機"
+
+msgid "deviceclasses_phone-plural-for"
+msgstr "智慧型手機"
+
+msgid "deviceclasses_sound-single-main"
+msgstr "音效卡"
+
+msgid "deviceclasses_sound-single-for"
+msgstr "音效卡"
+
+msgid "deviceclasses_sound-plural-main"
+msgstr "音效卡"
+
+msgid "deviceclasses_sound-plural-for"
+msgstr "音效卡"
+
+msgid "deviceclasses_tvtuner-single-main"
+msgstr "電視卡"
+
+msgid "deviceclasses_tvtuner-single-for"
+msgstr "電視卡"
+
+msgid "deviceclasses_tvtuner-plural-main"
+msgstr "電視卡"
+
+msgid "deviceclasses_tvtuner-plural-for"
+msgstr "電視卡"
+
+msgid "deviceclasses_video-single-main"
+msgstr "顯示卡"
+
+msgid "deviceclasses_video-single-for"
+msgstr "顯示卡"
+
+msgid "deviceclasses_video-plural-main"
+msgstr "顯示卡"
+
+msgid "deviceclasses_video-plural-for"
+msgstr "顯示卡"
+
+msgid "deviceclasses_webcamera-single-main"
+msgstr "網路攝影機"
+
+msgid "deviceclasses_webcamera-single-for"
+msgstr "網路攝影機"
+
+msgid "deviceclasses_webcamera-plural-main"
+msgstr "網路攝影機"
+
+msgid "deviceclasses_webcamera-plural-for"
+msgstr "網路攝影機"
+
+msgid "deviceclasses_wifi-single-main"
+msgstr "Wi-Fi 裝置"
+
+msgid "deviceclasses_wifi-single-for"
+msgstr "Wi-Fi 裝置"
+
+msgid "deviceclasses_wifi-plural-main"
+msgstr "Wi-Fi 裝置"
+
+msgid "deviceclasses_wifi-plural-for"
+msgstr "Wi-Fi 裝置"
+
+msgid "deviceclasses_other-single-main"
+msgstr "其他裝置"
+
+msgid "deviceclasses_other-single-for"
+msgstr "其他裝置"
+
+msgid "deviceclasses_other-plural-main"
+msgstr "其他裝置"
+
+msgid "deviceclasses_other-plural-for"
+msgstr "其他裝置"
+
+msgid "searchheader_caption-subtitle"
+msgstr "查詢中的驅動程式搜尋:"
+
+msgid "searchheader_caption-filter-label"
+msgstr "將為所選作業系統下載驅動程式"
+
+#. i18n: EN: Example: NOTEBOOK=Acer AO521; Text for {{DOWNLOAD}} is in key
+#. searchresult_details-content_download-link; RU: Пример: NOTEBOOK=Acer
+#. AO521; Текст для {{DOWNLOAD}} находится в ключе searchresult_details-
+#. content_download-link
+msgid "searchresult_details-content-notebook-text"
+msgstr "{{DOWNLOAD}} 為了自動識別和安裝所需的驅動程式，或前往 {{NOTEBOOK}} 頁面並手動選擇所需的驅動程式"
+
+msgid "searchresult_details-content_download-link"
+msgstr "下載 DriverPack"
+
+msgid "searchresult_notebook"
+msgstr "筆記型電腦"
+
+msgid "searchresult_download-btn"
+msgstr "自動安裝驅動程式"
+
+msgid "searchresult_details-content-text-placeholder"
+msgstr "資料下載中..."
+
+msgid "searchresult_details-content-label-1"
+msgstr "作業系統"
+
+msgid "searchresult_details-content-label-2"
+msgstr "所有系統"
+
+#. i18n: EN: Example: DEVICE=NVIDIA GeForce 205; Text for {{DOWNLOAD}} is in
+#. key searchresult_details-content_download-link; RU: Пример: DEVICE=NVIDIA
+#. GeForce 205; Текст для {{DOWNLOAD}} находится в ключе searchresult_details-
+#. content_download-link
+msgid "searchresult_details-content-group-text"
+msgstr "{{DOWNLOAD}} 為了自動識別和安裝所需的驅動程式，或前往 {{DEVICE}} 裝置頁面並手動選擇所需的驅動程式"
+
+#. i18n: EN: Example: CLASS.SINGLE.MAIN=monitor|chipset; COUNT=12; RU: Пример:
+#. CLASS.SINGLE.MAIN=монитор|чипсет; COUNT=12;
+msgid "searchresult_device"
+msgstr "{{CLASS.SINGLE.MAIN}} ({{COUNT}} 結果找不到)"
+
+msgid "searchresult_details-content-text-many"
+msgstr "找到了此裝置的幾個不同驅動程式"
+
+msgid "seofooter_os-list-title"
+msgstr "作業系統版本: <span itemprop='operatingSystem'>{{OSLIST}}</span>"
+
+msgid "seofooter_offers-title"
+msgstr "<span itemprop='offers' itemscope='' itemtype='http://schema.org/Offer'>它可自由<meta itemprop='price' content='0' />散佈</span>"
+
+msgid "seofooter_driver-description-title"
+msgstr "驅動程式說明"
+
+msgid "seofooter_popular-drivers-title"
+msgstr "熱門的驅動程式"
+
+msgid "sidebanner_title"
+msgstr "您是否厭倦了尋找驅動程式?"
+
+msgid "sidebanner_caption"
+msgstr "DriverPack 將自動<span class='SideBanner__caption-marked'>選擇並安裝</span>所需的驅動程式"
+
+msgid "translationheader_cta-text"
+msgstr "參與翻譯 DriverPack 網站，幫助全球數百萬使用者"
+
+msgid "translationheader_bubble-team"
+msgstr "您想成為全球最大的自動電腦安裝服務翻譯團隊的一員嗎?"
+
+msgid "translationheader_bubble-languages"
+msgstr "您是否熟悉英文或俄文，以便您準備好從其中一種翻譯成您的母語?"
+
+msgid "translationheader_bubble-experience"
+msgstr "您是否有使用線上翻譯服務來翻譯軟體或網站的經驗呢?"
+
+msgid "translationheader_bubble-email"
+msgstr "如果您的答案為是，請在主題行中使用 {{SUBJECT}} 發送 e-mail 到 {{EMAIL}} 給我們，讓我們知道您準備好要處理的目標語言。"
+
+msgid "translationlist_title"
+msgstr "DriverPack 授權譯者名單"
+
+msgid "translationtool_text-transifex"
+msgstr "在 DriverPack Solution 中，我們使用 transifex.com 服務進行當地語系化:"
+
+msgid "translationtool_example-ru-to-en"
+msgstr "從俄文(RU)翻譯成英文(EN)和 CIS 語言(CIS)"
+
+msgid "translationtool_example-en-to-all"
+msgstr "從英文(EN)翻譯成其他世界語言"
+
+msgid "language_title"
+msgstr "Chinese"
+
+msgid "landingPagePublications_rbk"
+msgstr "DriverPack 是由 Artur Kuzyakov 的團隊徹底選擇和測試的 Windows 的驅動程式。該實用程式分析使用者的電腦並安裝所需的驅動程式，這些驅動程式能夠解決兩個問題：首先，加快電腦安裝的過程(如果在一個系統內有數十台電腦是特別重要的)。其次是提高其操作品質。"
+
+msgid "landingPagePublications_secretfirmy"
+msgstr "今天，DriverPack 擁有世界上最大的驅動程式資料庫，它被翻譯成 45 種語言，並在超過 4200 萬人的電腦上執行。"
+
+msgid "landingPagePublications_cnews"
+msgstr "自建立該軟體的第一個版本以來，DriverPack Solution 在用戶中非常受歡迎。該軟體可免費下載。這將 DriverPack Solution 與其競爭對手區分開來，並吸引越來越多的新用戶。"
+
+msgid "landingPagePublications_xbit"
+msgstr "DriverPack Solution 是一個有趣的應用程式，其中一組選項是同一類型的其他軟體不提供的。任何用戶都能夠修復所有錯誤，並在兩次點擊中安裝系統及其所有裝置的正確操作。目前，DriverPack 資料庫中的驅動程式數已經超過了 1.1 百萬個位置，並已經過安全測試。"
+
+msgid "landingPagePublications_chip"
+msgstr "使用 DriverPack，找到最新版本的電腦元件驅動程式並不是一種挑戰。最愉快的是使用者甚至不用自己做任何事情。該工具完全自動化，操作方便。"
+
+msgid "landingPagePublications_pcmag"
+msgstr "DriverPack Protect 將有助於保護您的電腦免受惡意軟體和廣告軟體程式以及外掛程式的攻擊，即時防毒軟體和廣告攔截手段和工具往往無法處理它們。"
+
+msgid "landingPagePublications_habr"
+msgstr "在我看來，每次重新安裝 Windows 時都需要尋找和安裝驅動程式，這是整個 Windows 系列中最重要的缺陷之一。然而，早在 2008 年，我決定解決這個問題，並寫了我自己的軟體，其名稱為 DriverPack。今天，我的產品被世界各地的 4000 萬用戶使用，在我看來，可以認為 Windows 中的驅動程式問題已經透過第三方解決方案來解決。"
+
+msgid "landingPagePublications_computerra"
+msgstr "新版本為用戶提供了更多的工具來製作自己的驅動程式選擇。對於服務電腦和管理各種硬體的人來說，這是一個特別緊迫的問題。現在可以將任何替代的驅動程式整合到 DriverPack 中，而不僅僅是刪除不必要的 driverpacks 而已。"
+
+msgid "landingPagePublications_vc"
+msgstr "多虧了小道消息，該產品被用戶翻譯成 45 種語言，沒有我們團隊的參與。"
+
+msgid "adminpagefaq_official_vendors-q"
+msgstr "在使用 DriverPack 之前，我從官方網站下載了驅動程式，但即使是這些驅動程式也遇到了麻煩。為什麼 DriverPack 的驅動程式比製造商的驅動程式更可靠呢?"
+
+msgid "adminpagefaq_official_vendors-a"
+msgstr "為了使我們的驅動程式資料庫不僅是最大也是最穩定的，所以我們一直在努力改進它，並且我們甚至修復了官方製造商允許的錯誤！ 此外，我們使用機器學習技術，由於它，我們的選擇演算法不斷改進。這就是為什麼 DriverPack 的驅動程式是最可靠的 :-)"
+
+msgid "adminpagefaq_database-q"
+msgstr "DriverPack 資料庫是如何擴大的?我真的能找到我需要的驅動程式嗎?"
+
+msgid "adminpagefaq_database-a"
+msgstr "到目前為止，我們的驅動程式資料庫是世界上最大的資料庫，這就是為什麼我們可以找到具有 99％ 概率的任何裝置的驅動程式。為了繼續收集和支援這樣的資料庫，我們直接與裝置製造商和驅動程式開發人員進行合作，從官方網站以及私有 FTP 伺服器收集和測試驅動程式，我們還考慮到現用用戶的建議。"
+
+msgid "adminpagefaq_free-q"
+msgstr "DriverPack 是完全免費的嗎?"
+
+msgid "adminpagefaq_free-a"
+msgstr ""
+
+msgid "adminpagefaq_antivirus-q"
+msgstr "我的防毒軟體在 DriverPack 發現了病毒 - 怎麼會這樣?"
+
+msgid "adminpagefaq_antivirus-a"
+msgstr "很明顯，這是錯報，因為所有 DriverPack 版本經過卡巴斯基實驗室的徹底檢查和認證。此外，我們公司還與許多防毒軟體供應商合作，如 Avast 和 360 Total Security。為了繼續操作，只需將 DriverPack 加入到防毒白名單中即可。如果您將這個誤報報告給您的防毒公司以及我們的支援服務，我們也將感激不盡。祝您好運!"
+
+msgid "adminpagefaq_expert_mode-q"
+msgstr "哪種模式最適合處理 DriverPack?"
+
+msgid "adminpagefaq_expert_mode-a"
+msgstr ""
+
+msgid "adminpagefaq_stable-q"
+msgstr "驅動程式未正確安裝，電腦操作過程中出現故障。我怎樣才能解決這種情況呢?"
+
+msgid "adminpagefaq_stable-a"
+msgstr "DriverPack 軟體的操作穩定性是我們的主要優先事項之一，但是一些輕微的故障仍然很少發生。這就是為什麼我們建立一個還原點，使您能夠將所有內容還原到未組態的狀態。為了防止將來出現類似的問題，我們建議您前往 DriverPack 應用程式選單，並將報告發送給我們的技術服務，由軟體自動形成。"
+
+msgid "devicegrouppage_show-more-link"
+msgstr "查看更多"
+
+msgid "devicestypepage_subtitle"
+msgstr "全部 {{CLASS.SINGLE.FOR}} 製造商"
+
+msgid "devicetypevendorpage_subtitle-popular"
+msgstr "熱門 {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
+
+msgid "devicetypevendorpage_subtitle-all"
+msgstr "全部 {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
+
+msgid "drop-down-language_not-found"
+msgstr "Haven't found your language?"
+
+msgid "errorpage_title"
+msgstr "錯誤 500: 內部伺服器錯誤"
+
+msgid "landingfooter_landing-subtitle"
+msgstr ""
+
+msgid "landing-footer_catalog-os"
+msgstr ""
+
+msgid "landing-footer_download"
+msgstr "下載 DriverPack"
+
+msgid "landing-footer_versions"
+msgstr "所有應用程式版本"
+
+msgid "landing-footer_catalog"
+msgstr "驅動程式搜尋"
+
+msgid "landing-footer_drivers-catalog"
+msgstr "驅動程式類別"
+
+msgid "landing-footer_for-admin"
+msgstr "對於系統管理員"
+
+msgid "landing-footer_for-translators"
+msgstr "對於譯者"
+
+msgid "landing-footer_drivers-for-laptops"
+msgstr "筆記型電腦驅動程式"
+
+msgid "landing-footer_hwids"
+msgstr "Device ID"
+
+msgid "landing-footer_license"
+msgstr "授權合約"
+
+msgid "landing-footer_remove"
+msgstr "DriverPack 移除"
+
+msgid "notfoundpage_title"
+msgstr "錯誤 404: 頁面找不到"
+
+msgid "notebookpage_show-more-link"
+msgstr "查看更多"
+
+msgid "notebookpage_all-devices"
+msgstr "對於所有裝置"
+
+msgid "notebookspage_subtitle"
+msgstr "所有筆記型電腦和迷你筆記型電腦製造商清單"
+
+msgid "notebooksvendorpage_subtitle-popular"
+msgstr "熱門的 {{VENDOR.NAME}} 筆記型電腦和迷你筆記型電腦"
+
+msgid "notebooksvendorpage_subtitle-all"
+msgstr "全部 {{VENDOR.NAME}} 筆記型電腦和迷你筆記型電腦"
+
+msgid "reviewpage_title"
+msgstr "改進 DriverPack 的意見反應與建議"
+
+msgid "searchpage_show-more-link"
+msgstr "查看更多"
+
+#. i18n: EN: text for {{LINK}} is in key thankyoupopup_download-link; RU:
+#. текст для {{LINK}} находится в ключе thankyoupopup_download-link;
+msgid "thankyoupopup_download-text"
+msgstr "沒有開始載入?按一下這裡 {{LINK}}"
+
+msgid "thankyoupopup_title"
+msgstr "啟動 DriverPack"
+
+msgid "thankyoupopup_cta-text"
+msgstr "為了開始選擇並將驅動程式安裝 到您的電腦上"
+
+msgid "thankyoupopup_download-link"
+msgstr "下載"
+
+msgid "translate-feedback-header_caption"
+msgstr "此頁面最近已被翻譯。您找到印刷錯誤了嗎?反白並按一下 {{HOTKEY}}"
+
+msgid "translate-feedback-popup_title-error"
+msgstr "出了些問題"
+
+msgid "translate-feedback-popup_description-error"
+msgstr "由於伺服器的問題，反白文字並未發送。<br />請稍後再試一次。"
+
+msgid "translate-feedback-popup_title-success"
+msgstr "謝謝"
+
+msgid "translate-feedback-popup_description-success"
+msgstr "反白的文字已發送給編輯。"
+
+msgid "translate-feedback-popup_description-join-us"
+msgstr "請幫助我們翻譯成您的母語。"
+
+msgid "translate-feedback-popup_description-join-link"
+msgstr "加入我們的譯者團隊!"
+
+msgid "translationlandingpage_title"
+msgstr "DriverPack 翻譯"
+
+msgid "vendorpage_subtitle-popular"
+msgstr "熱門的 {{VENDOR.NAME}} 裝置"
+
+msgid "wannacryptpromopage_cta-text"
+msgstr "WannaCrypt 加密勒索病毒 — 如何保護電腦免受歷史上最大的攻擊?"
+
+msgid "wannacryptpromopage_cta-subtext"
+msgstr "DriverPack 包含用於消除電腦安裝工具中漏洞的特定方法。您可以下載來免費保護您的電腦和筆記本電腦免遭 WannaCry 勒索病毒感染，這將保護您的電腦。"
+
+msgid "wannacryptpromopage_cta-btn"
+msgstr "安裝電腦並保護它免受 WannaCry 的感染"
+
+msgid "wannacryptpromopage_caption-text"
+msgstr "此軟體免費散佈"
+
+msgid "wannacryptpromopage_info-text-title-1"
+msgstr "什麼是 WannaCrypt?"
+
+msgid "wannacryptpromopage_info-text-1"
+msgstr "在 5月12日 WannaCrypt (受害者自發命名為 WannaCry)勒索病毒攻擊了全世界的電腦，並感染了超過 150 個國家 300,000 使用者的裝置。西歐、俄羅斯、中國是受災最大的國家。在大不列顛，病毒使衛生部門的網路癱瘓，並導致全國的醫院癱瘓。在中國，這起襲擊影響了工廠的舊電腦，導致一些行業停止運轉。<br/><br/>該病毒的工作原理是簡單的, 它滲透到您的電腦或筆記型電腦，並對它可以找到所有的文件、檔案進行編碼，並使它們無法使用。然後入侵者需要大量的資金來解碼 — 大約 300 美元。但是, 無法保證您能夠取回檔案的存取權。目前, 沒有辦法自己解碼檔案的方法，而現在網路中提供的解決方案是釣魚或散播另一種病毒的方法，或者它們不能以 100％ 的概率工作。"
+
+msgid "wannacryptpromopage_info-text-title-2"
+msgstr "誰有風險?"
+
+msgid "wannacryptpromopage_info-text-2"
+msgstr "Windows 10 以前的作業系統的電腦預設開啟 SMB 連接埠的風險最大。目前，一半的 Windows 作業系統用戶面臨風險 — 18% 的用戶使用未授權的Windows 副本(自動落入風險區域)，23% 的用戶停用了 Windows Update 服務(阻止他們從 Microsoft 下載最新的&#147;修補程式&#148;)，另有 6% 的用戶使用的是舊版的作業系統，它們再也沒有獲得更新。<br/><br/>以上結論是: 一些公司和企業的網路仍然使用 Windows XP 作業系統的風險最高。在這種網路遭到攻擊的情況下，資料遺失可能會花費大量的金錢，他們也必須分別為每台電腦支付一些&#147;贖金&#148;。"
+
+msgid "wannacryptpromopage_info-text-title-3"
+msgstr "如何從 DriverPack Solution 中保護您的業務 — 解決方案"
+
+msgid "wannacryptpromopage_info-text-3"
+msgstr ""
+
+msgid "wannacryptpromopage_links-text"
+msgstr "發展是以下列材料為主"
+
+msgid "wannacryptpromopage_link-smb"
+msgstr "如何啟用、停用 Windows and Windows Server SMB 通訊協定版本 1、2 和 3"

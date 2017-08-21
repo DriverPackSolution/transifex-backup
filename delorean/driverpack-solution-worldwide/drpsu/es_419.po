@@ -1,0 +1,1059 @@
+# Translators:
+# Marco Hernandez <marcoh@hotmail.com>, 2017
+# Nadia Tegeneva <nadia@drp.su>, 2017
+# Filip Gacés <fgarces@gmservice.cl>, 2017
+# Cybercastillo Tecnologia a su alcance <cybercastillo@gmail.com>, 2017
+# German Alonso Pimentel Vera <gpimentelv@gmail.com>, 2017
+# Pablo Vila <pablo@vila.com.uy>, 2017
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-08-16 09:41+0000\n"
+"PO-Revision-Date: 2016-09-23 09:12+0000\n"
+"Last-Translator: Pablo Vila <pablo@vila.com.uy>, 2017\n"
+"Language-Team: Spanish (Latin America) (https://www.transifex.com/driverpack-solution/teams/75453/es_419/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es_419\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "adminlandingpage_title"
+msgstr "DriverPack para profesionales - instalación automática de controladores en cualquier equipo"
+
+msgid "admincackle_dialog-star"
+msgstr "Por favor puntúa la operación de DriverPack"
+
+msgid "admindriverpacks_landing-title"
+msgstr "Driverpacks (paquetes de drivers)"
+
+msgid "admindriverpacks_landing-subtitle"
+msgstr "Nuestro driverpacks contiene 1,131,989 drivers que pueden ser seleccionados y probados manualmente"
+
+msgid "admindriverpacks_downloaded"
+msgstr "Descargas:"
+
+msgid "admindriverpacks_download"
+msgstr "Descarga"
+
+msgid "adminfaq_landing-title"
+msgstr "Nosotros responderemos tus preguntas"
+
+msgid "adminfaq_landing-subtitle"
+msgstr "Comúnmente te haces preguntas sobre DriverPack — Nosotros respondemos las mas populares"
+
+msgid "adminheader_cta-text"
+msgstr "DriverPack ha sido creado para administradores, pero es fácilmente utilizado por principiantes"
+
+msgid "adminheader_cta-btn"
+msgstr "Descarga DriverPack Online"
+
+msgid "adminheader_products-caption"
+msgstr "Cualquier DriverPack configurara tu computador en poco tiempo. Solo selecciona el instalador que quieres:"
+
+msgid "search_noresult"
+msgstr "Descarga DirverPack Online"
+
+msgid "adminpromo_landing-title"
+msgstr "El nuevo DriverPack 18 está en desarrollo"
+
+msgid "adminpromo_landing-subtitle"
+msgstr "La nueva versión está diseñada específicamente para los administradores y tiene en cuenta sus necesidades"
+
+msgid "adminpromo_banner-text"
+msgstr "El nuevo DriverPack 18 ha sido re-diseñado basándose en versiones anteriores las cuales han probado su excepcional estabilidad. El lanzamiento de esta nueva versión esta programada para el año 2017"
+
+msgid "adminpromo_list-item-speed"
+msgstr "La velocidad de inicio e instalación de la aplicación ha sido optimizada."
+
+msgid "adminpromo_list-item-ui"
+msgstr "La interfaz de la pestaña Drivers ha sido rediseñada y ahora es más informativa para los administradores de sistemas."
+
+msgid "adminpromo_list-item-settings"
+msgstr "El rango de configuraciones ha sido extendido y la opción de personalización individual ha sido añadida."
+
+msgid "adminpromo_list-item-soft"
+msgstr "La instalación forzosa de software por defecto es DESACTIVADA."
+
+msgid "adminpromo_list-item-packs"
+msgstr ""
+
+msgid "adminpromo_list-item-device-support"
+msgstr ""
+
+msgid "adminpromo_list-item-expert-mode"
+msgstr "El Modo Experto está activo de forma predeterminada"
+
+msgid "adminpromo_list-item-stable-db"
+msgstr "La más estable base de datos de controladores ha sido creada. El formato de la base de datos de controladores ha sido actualizada."
+
+msgid "adminpromo_list-item-full-db"
+msgstr "La más grande y única base de datos de controladores en el mundo ha sido creada."
+
+msgid "buttonsplitdropdown_main-button"
+msgstr "Descarga"
+
+msgid "breadcrumbs_main-text"
+msgstr "Pagina Principal"
+
+msgid "breadcrumbs_vendors-text"
+msgstr "Fabricantes"
+
+#. i18n: EN: Example: VENDOR.NAME=Lenovo; RU: Пример: VENDOR.NAME=Lenovo;
+msgid "breadcrumbs_vendor-text"
+msgstr "{{VENDOR.NAME}}"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=cardreaders|monitors; RU: Пример:
+#. CLASS.PLURAL.MAIN=картридеры|мониторы;
+msgid "breadcrumbs_deviceclass-text"
+msgstr "{{CLASS.PLURAL.MAIN}}"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=cardreaders|monitors,
+#. VENDOR.NAME=Realtek; RU: Пример: CLASS.PLURAL.MAIN=картридеры|мониторы;
+#. VENDOR.NAME=Realtek;
+msgid "breadcrumbs_devicegroups-text"
+msgstr "{{VENDOR.NAME}}{{CLASS.PLURAL.MAIN}}"
+
+#. i18n: EN: Example: GROUP.VENDOR.NAME=Nvidia, GROUP.NAME=GeForce 210; RU:
+#. Пример: GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210;
+msgid "breadcrumbs_devicegroup-text"
+msgstr "{{GROUP.VENDOR.NAME}}{{GROUP.NAME}}"
+
+msgid "breadcrumbs_notebooks-text"
+msgstr "Portatiles"
+
+#. i18n: EN: Example: VENDOR.NAME=Asus; RU: Пример: VENDOR.NAME=Asus;
+msgid "breadcrumbs_notebookvendor-text"
+msgstr "Portatiles {{VENDOR.NAME}}"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=X1 carbon;
+#. RU: Пример: NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=X1 carbon;
+msgid "breadcrumbs_notebook-text"
+msgstr "{{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}}"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=Videocards|Chipsets ,
+#. NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=G580; RU: Пример:
+#. CLASS.PLURAL.MAIN=видеокарты|чипсеты, NOTEBOOK.VENDOR.NAME=Lenovo,
+#. NOTEBOOK.NAME=G580;
+msgid "breadcrumbs_notebookdevices-text"
+msgstr "{{CLASS.PLURAL.MAIN}} de {{NOTEBOOK.VENDOR.NAME}}, modelo {{NOTEBOOK.NAME}}"
+
+msgid "devicecard_download-btn"
+msgstr "Descarga controlador"
+
+#. i18n: EN: Example: NAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10 x86; Text
+#. for {{DOWNLOAD}} is in key drivercard_no-results_download-link; RU: Пример:
+#. NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10 x86; Текст для
+#. {{DOWNLOAD}} находится в ключе drivercard_no-results_download-link;
+msgid "devicecard_details_no-results-text"
+msgstr ""
+
+msgid "devicecard_details_no-results_download-link"
+msgstr "Descarga DriverPack"
+
+msgid "devicecard_details-content-text"
+msgstr "Cargando datos..."
+
+msgid "devicecard_details_all-systems"
+msgstr "todos los sistemas"
+
+msgid "devicecard_details-content-label-version"
+msgstr "Versión:"
+
+msgid "devicecard_details-content-label-version-recommended"
+msgstr "Recomendado"
+
+msgid "devicecard_details-content-label-date"
+msgstr "Fecha:"
+
+msgid "devicecard_details-content-label-type"
+msgstr "Tipo de Controlador:"
+
+msgid "devicecard_details-content-label-manufacturer"
+msgstr "Fabricante:"
+
+msgid "devicecard_details-content-label-systems"
+msgstr "Sistemas operativo:"
+
+msgid "devicecard_details-content-label-deviceid"
+msgstr "Device ID:"
+
+msgid "devicecard_details-content-label-inf"
+msgstr "Archivo *.inf:"
+
+msgid "devicecard_details-content-label-section"
+msgstr "Categoría:"
+
+msgid "devicecard_details-links-merged_label"
+msgstr "Si el  Device ID que necesita no se encuentra en la lista, introdúzcalo en el cuadro de búsqueda"
+
+msgid "devicecard_details-links-notebook_device"
+msgstr "Ver todos los Controladores"
+
+msgid "devicecard_details-links"
+msgstr "Ver todos los drivers según"
+
+#. i18n: EN: Example: DEVICENAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10
+#. x86; Text for {{DOWNLOAD}} is in key devicecardlist_no-result_download-
+#. link; RU: Пример: NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10
+#. x86; Текст для {{DOWNLOAD}} находится в ключе devicecardlist_no-
+#. result_download-link;
+msgid "devicecardlist_no-results-device-text"
+msgstr ""
+
+#. i18n: EN: Example: DEVICECLASS=chipsets|videocards; NOTEBOOK=Acer AO521;
+#. OSVERSIONS=Windows 10 x86; Text for {{DOWNLOAD}} is in key
+#. devicecardlist_no-result_download-link; RU: Пример:
+#. DEVICECLASS=чипсета|видеокарты; NOTEBOOK=Acer AO521; Пример:
+#. OSVERSIONS=Windows 10 x86; Текст для {{DOWNLOAD}} находится в ключе
+#. devicecardlist_no-result_download-link;
+msgid "devicecardlist_no-results-notebook-text"
+msgstr ""
+
+#. i18n: EN: Example: NOTEBOOK=Acer AO521; OSVERSIONS=Windows 10 x86; Text for
+#. {{DOWNLOAD}} is in key devicecardlist_no-result_download-link; RU: Пример:
+#. NOTEBOOK=Acer AO521; Пример: OSVERSIONS=Windows 10 x86; Текст для
+#. {{DOWNLOAD}} находится в ключе devicecardlist_no-result_download-link;
+msgid "devicecardlist_no-results-notebook-device-class-text"
+msgstr ""
+
+msgid "devicecardlist_no-result_download-link"
+msgstr "Descarga DriverPack"
+
+msgid "devicegrouppage_all-systems"
+msgstr "todos los sistemas"
+
+msgid "notebookpage_all-systems"
+msgstr "todos los sistemas"
+
+msgid "devicegroupfilters_filter-title"
+msgstr "Controladores disponibles"
+
+msgid "deviceidfilters-filter-label-version"
+msgstr "Versión del controlador:"
+
+msgid "deviceidheader_caption-single"
+msgstr "Nombre del dispositivo:"
+
+msgid "deviceidheader_caption-many"
+msgstr ""
+
+msgid "devicetypelist_title_os"
+msgstr ""
+
+msgid "devicetypelist_title"
+msgstr "Búsqueda de controladores de dispositivos"
+
+#. i18n: EN: Example: NAME=Acer Aspire 4830TG; OSVERSIONS=Windows 10 x86; Text
+#. for {{DOWNLOAD}} is in key drivercard_no-results_download-link; RU: Пример:
+#. NAME=Acer Aspire 4830TG; Пример: OSVERSIONS=Windows 10 x86; Текст для
+#. {{DOWNLOAD}} находится в ключе drivercard_no-results_download-link;
+msgid "drivercard_no-results-text"
+msgstr ""
+
+msgid "drivercard_no-results_download-link"
+msgstr "Descarga DriverPack"
+
+msgid "drivercard_caption-version"
+msgstr "Versión:"
+
+msgid "drivercard_caption-version-recommended"
+msgstr "Recomendado"
+
+msgid "drivercard_caption-date"
+msgstr "Fecha:"
+
+msgid "drivercard_caption-class"
+msgstr "Tipo de Dispositivo:"
+
+msgid "drivercard_caption-manufacturer"
+msgstr "Fabricante:"
+
+msgid "drivercard_caption-os"
+msgstr "Sistemas operativo:"
+
+msgid "drivercard_caption-deviceid"
+msgstr "Device ID:"
+
+msgid "drivercard_caption-inf"
+msgstr "Archivo *.inf:"
+
+msgid "drivercard_caption-section"
+msgstr "Categoria:"
+
+msgid "drivercard_caption-btn"
+msgstr "Descarga controlador"
+
+msgid "deviceidpage_all-systems"
+msgstr "todos los sistemas"
+
+msgid "dropdowndriverversion_no-results"
+msgstr "No se encontraron drivers para el sistema operativo seleccionado"
+
+msgid "dropdownos_current"
+msgstr "corriente"
+
+msgid "footer_banner-title"
+msgstr "¿Estás cansado de buscar los controladores para tus dispositivos?"
+
+msgid "footer_banner-caption"
+msgstr "DriverPack Online <span style='color: {{COLOR}}'>los encontrará e instalará</span> los controladores que tu necesitas automaticamente"
+
+msgid "footer_banner_btn"
+msgstr "Descarga <span class='bold'>DriverPack Online</span> gratis"
+
+msgid "footer_translate-feedback"
+msgstr ""
+
+msgid "header_search-title"
+msgstr ""
+
+msgid "header_search-examples"
+msgstr "Por ejemplo: "
+
+msgid "header_cta-text"
+msgstr "Descarga DriverPack para la selección automática de controladores"
+
+msgid "header_cta-btn"
+msgstr "Instalar controladores automáticamente "
+
+msgid "header_cta-label-1"
+msgstr "Se <span style='color: {{COLOR}}'>descargaran </span>automaticamente"
+
+msgid "header_cta-label-2"
+msgstr "Seleccionará e <span style='color: {{COLOR}}'>instalará controladores</span> automáticamente"
+
+msgid "headerbutton_title"
+msgstr "Instalar controladores automáticamente "
+
+msgid "headerbutton_label"
+msgstr "El software DriverPack es absolutamente gratuito"
+
+msgid "headeros_cta-btn"
+msgstr ""
+
+msgid "headeros_search-text"
+msgstr ""
+
+msgid "landingdevicetypelist_landing-title"
+msgstr "DriverPack es adecuado para cualquier dispositivo"
+
+msgid "landingdevicetypelist_landing-subtitle"
+msgstr "Incluso para USB 3.0 en Windows 7 SP1"
+
+msgid "landingdevicetypelist_cta-btn"
+msgstr "Instalar todos los controladores necesarios"
+
+msgid "landingdevicetypelist_versions"
+msgstr "Otras versiones de DriverPack"
+
+msgid "landingfeatures_landing-title"
+msgstr "DriverPack es la forma mas conveniente y rápida de configurar una computadora"
+
+msgid "landingfeatures_landing-subtitle"
+msgstr ""
+
+msgid "landingfeatures_item-title-free"
+msgstr "Gratis"
+
+msgid "landingfeatures_item-caption-free"
+msgstr ""
+
+msgid "landingfeatures_item-title-safe"
+msgstr "Seguro"
+
+msgid "landingfeatures_item-caption-safe"
+msgstr ""
+
+msgid "landingfeatures_item-title-for-all-devices"
+msgstr "Para todos los dispositivos"
+
+msgid "landingfeatures_item-caption-for-all-devices"
+msgstr ""
+
+msgid "landingheader_cta-text"
+msgstr ""
+
+msgid "landingheader_cta-btn"
+msgstr "Instalar todos los controladores necesarios"
+
+msgid "landingheadernav_wannacrypt"
+msgstr "Protección contra WannaCry"
+
+msgid "landingheadernav_search"
+msgstr "Búsqueda de controladores"
+
+msgid "landingheadernav_foradmin"
+msgstr "Para administradores del sistema"
+
+msgid "landingintroduction_author-title"
+msgstr "¡Hola! Mi nombre es Artur Kuzyakov. Soy el autor y fundador de DriverPack"
+
+msgid "landingintroduction_author-speech"
+msgstr ""
+
+msgid "landingintroduction_author-speech-marked"
+msgstr "¡Gastamos todo nuestro tiempo para salvar el tuyo!"
+
+msgid "landingintroduction_video-caption"
+msgstr "Y aquí está lo que Dmitry Medvedev, el Primer Ministro de la Federación de Rusia, piensa en DriverPack Solution"
+
+msgid "landingnotebookvendorslist_landing-title"
+msgstr "DriverPack ss adecuado para cualquier equipo"
+
+msgid "landingnotebookvendorslist_landing-subtitle"
+msgstr ""
+
+msgid "landingnotebookvendorslist_cta-btn"
+msgstr "Instalar todos los controladores necesarios"
+
+msgid "landingnotebookvendorslist_versions"
+msgstr "Otras versiones de DriverPack"
+
+msgid "landingproducts_item-title-online"
+msgstr "DriverPack Online"
+
+msgid "landingproducts_item-caption-online"
+msgstr ""
+
+msgid "landingproducts_item-version"
+msgstr "Versión:"
+
+msgid "landingproducts_item-button"
+msgstr "Descarga"
+
+msgid "landingproducts_item-title-network"
+msgstr "DriverPack Network"
+
+msgid "landingproducts_item-caption-network"
+msgstr ""
+
+msgid "landingproducts_item-title-offline"
+msgstr "DriverPack Offline"
+
+msgid "landingproducts_item-caption-offline"
+msgstr ""
+
+msgid "landingpublications__landing-title"
+msgstr "Publicaciones de medios de comunicación sobre DriverPack"
+
+msgid "landingscreenshots_landing-title"
+msgstr ""
+
+msgid "landingscreenshots_landing-subtitle"
+msgstr ""
+
+msgid "landingseofooter_landing-subtitle-notebooks"
+msgstr "DriverPack es adecuado para todos los modelos de computadores y equipos portátiles"
+
+msgid "landingseofooter_landing-subtitle-devices"
+msgstr ""
+
+msgid "landingsocial_landing-title"
+msgstr "Únete a la comunidad de DriverPack"
+
+msgid "landingsocial_landing-subtitle"
+msgstr "Sigue las noticias y participa en las discusiones"
+
+msgid "landingusers_cta"
+msgstr ""
+
+msgid "landingusers_cta-btn"
+msgstr "Instalar todos los controladores necesarios"
+
+msgid "landingusers_versions"
+msgstr "Otras versiones de DriverPack"
+
+msgid "landingwizard_landing-title"
+msgstr ""
+
+msgid "landingwizard_item-caption-download"
+msgstr ""
+
+msgid "landingwizard_item-caption-setup"
+msgstr ""
+
+msgid "landingwizard_item-caption-profit"
+msgstr ""
+
+msgid "landingwizard_cta-btn"
+msgstr "Instalar todos los controladores necesarios"
+
+msgid "navbar_download-link-short"
+msgstr "Descarga"
+
+msgid "navbar_download-link"
+msgstr "Descarga DirverPack Online"
+
+msgid "notfound_cta-text"
+msgstr ""
+
+msgid "notfound_cta-btn"
+msgstr "Descarga DirverPack Online"
+
+msgid "notfound_info-404"
+msgstr "{{404}}— La página solicitada no se encuentra"
+
+msgid "notfound_info-500"
+msgstr "{{500}}— Algo salió mal (error del servidor)"
+
+msgid "notebookfilters-title"
+msgstr "Controladores disponibles"
+
+msgid "notebookvendorslist_other-text"
+msgstr ""
+
+msgid "notebookvendorslist_title_os"
+msgstr ""
+
+msgid "notebookvendorslist_title"
+msgstr "Buscar controladores para equipos"
+
+msgid "promoheader_cta-text-gamers"
+msgstr ""
+
+msgid "promoheader_cta-text-gamers-caption"
+msgstr "Si te gustan los juegos de computador, te recomendamos que actualices los controladores de tu equipo con más frecuencia para alcanzar la mayor eficiencia posible de tu hardware. Hasta un 37% más de FPS - la mejor experiencia de juego y nuevos logros con DriverPack."
+
+msgid "promoheader_cta-text"
+msgstr ""
+
+msgid "promoheader_cta-btn"
+msgstr "Instalar todos los controladores necesarios"
+
+msgid "promoheader_size"
+msgstr "Tamaño del Archivo: {{SIZE}}KB"
+
+msgid "promoheader_license"
+msgstr "Acuerdo de licencia"
+
+msgid "promoheader_os-versions"
+msgstr "El software es adecuado para Windows 10, 8.1, 8, 7, Vista, XP"
+
+msgid "promoheader_uninstall"
+msgstr "DriverPack eliminador"
+
+msgid "reviewheader_cta-text"
+msgstr ""
+
+msgid "reviewheader_cta"
+msgstr ""
+
+msgid "search_input-placeholder"
+msgstr ""
+
+msgid "search_btn-text"
+msgstr "Buscar"
+
+msgid "searchformitem_type-section"
+msgstr "Categoria"
+
+msgid "searchformitem_type-notebook"
+msgstr "portatil"
+
+msgid "searchformitem_type-device"
+msgstr "dispositivo"
+
+msgid "searchformitem_type-free"
+msgstr "Gratis"
+
+#. i18n: EN: Example: NAME=Acer; RU: Пример: NAME=Acer;
+msgid "generatesearchitemname_notebookvendor"
+msgstr "equipos {{NAME}} "
+
+#. i18n: EN: Example: NAME=Asus; RU: Пример: NAME=Asus;
+msgid "generatesearchitemname_vendor"
+msgstr "Dispositivos {{NAME}}"
+
+msgid "deviceclasses_bluetooth-single-main"
+msgstr "Dispositivo Bluetooth"
+
+msgid "deviceclasses_bluetooth-single-for"
+msgstr "Dispositivo Bluetooth"
+
+msgid "deviceclasses_bluetooth-plural-main"
+msgstr "Dispositivos Bluetooth"
+
+msgid "deviceclasses_bluetooth-plural-for"
+msgstr "Dispositivos Bluetooth"
+
+msgid "deviceclasses_cardreader-single-main"
+msgstr "Lector de Tarjeta"
+
+msgid "deviceclasses_cardreader-single-for"
+msgstr "Lector de Tarjeta"
+
+msgid "deviceclasses_cardreader-plural-main"
+msgstr "Lectores de Tarjetas"
+
+msgid "deviceclasses_cardreader-plural-for"
+msgstr "Lectores de Tarjetas"
+
+msgid "deviceclasses_chipset-single-main"
+msgstr "chipset"
+
+msgid "deviceclasses_chipset-single-for"
+msgstr "chipset"
+
+msgid "deviceclasses_chipset-plural-main"
+msgstr "chipsets"
+
+msgid "deviceclasses_chipset-plural-for"
+msgstr "chipsets"
+
+msgid "deviceclasses_inputdev-single-main"
+msgstr "Dispositivo de Entrada"
+
+msgid "deviceclasses_inputdev-single-for"
+msgstr "Dispositivo de Entrada"
+
+msgid "deviceclasses_inputdev-plural-main"
+msgstr "Dispositivos de Entrada"
+
+msgid "deviceclasses_inputdev-plural-for"
+msgstr "Dispositivos de Entrada"
+
+msgid "deviceclasses_lan-single-main"
+msgstr "tarjeta de red"
+
+msgid "deviceclasses_lan-single-for"
+msgstr "tarjeta de red"
+
+msgid "deviceclasses_lan-plural-main"
+msgstr "tarjetas de red"
+
+msgid "deviceclasses_lan-plural-for"
+msgstr "tarjetas de red"
+
+msgid "deviceclasses_massstorage-single-main"
+msgstr "Control"
+
+msgid "deviceclasses_massstorage-single-for"
+msgstr "Control"
+
+msgid "deviceclasses_massstorage-plural-main"
+msgstr "Controles"
+
+msgid "deviceclasses_massstorage-plural-for"
+msgstr "Controles"
+
+msgid "deviceclasses_modem-single-main"
+msgstr "Modem"
+
+msgid "deviceclasses_modem-single-for"
+msgstr "Modem"
+
+msgid "deviceclasses_modem-plural-main"
+msgstr "Modems"
+
+msgid "deviceclasses_modem-plural-for"
+msgstr "Modems"
+
+msgid "deviceclasses_monitor-single-main"
+msgstr "Monitor"
+
+msgid "deviceclasses_monitor-single-for"
+msgstr "Monitor"
+
+msgid "deviceclasses_monitor-plural-main"
+msgstr "Monitores"
+
+msgid "deviceclasses_monitor-plural-for"
+msgstr "Monitores"
+
+msgid "deviceclasses_phone-single-main"
+msgstr "SmartPhone"
+
+msgid "deviceclasses_phone-single-for"
+msgstr "SmartPhone"
+
+msgid "deviceclasses_phone-plural-main"
+msgstr "Smartphones"
+
+msgid "deviceclasses_phone-plural-for"
+msgstr "Smartphones"
+
+msgid "deviceclasses_sound-single-main"
+msgstr "Tarjeta de Sonido"
+
+msgid "deviceclasses_sound-single-for"
+msgstr "Tarjeta de Sonido"
+
+msgid "deviceclasses_sound-plural-main"
+msgstr "Tarjetas de Sonido"
+
+msgid "deviceclasses_sound-plural-for"
+msgstr "Tarjetas de Sonido"
+
+msgid "deviceclasses_tvtuner-single-main"
+msgstr "Tarjeta de TV"
+
+msgid "deviceclasses_tvtuner-single-for"
+msgstr "Tarjeta de TV"
+
+msgid "deviceclasses_tvtuner-plural-main"
+msgstr "Tarjetas de TV"
+
+msgid "deviceclasses_tvtuner-plural-for"
+msgstr "Tarjetas de TV"
+
+msgid "deviceclasses_video-single-main"
+msgstr "Tarjeta de Video"
+
+msgid "deviceclasses_video-single-for"
+msgstr "Tarjeta de Video"
+
+msgid "deviceclasses_video-plural-main"
+msgstr "Tarjetas de Video"
+
+msgid "deviceclasses_video-plural-for"
+msgstr "Tarjetas de Video"
+
+msgid "deviceclasses_webcamera-single-main"
+msgstr "webcam"
+
+msgid "deviceclasses_webcamera-single-for"
+msgstr "webcam"
+
+msgid "deviceclasses_webcamera-plural-main"
+msgstr "webcams"
+
+msgid "deviceclasses_webcamera-plural-for"
+msgstr "webcams"
+
+msgid "deviceclasses_wifi-single-main"
+msgstr "Dispositivo Wi-Fi"
+
+msgid "deviceclasses_wifi-single-for"
+msgstr "Dispositivo Wi-Fi"
+
+msgid "deviceclasses_wifi-plural-main"
+msgstr "Dispositivos Wi-Fi"
+
+msgid "deviceclasses_wifi-plural-for"
+msgstr "Dispositivos Wi-Fi"
+
+msgid "deviceclasses_other-single-main"
+msgstr "Otro dispositivo"
+
+msgid "deviceclasses_other-single-for"
+msgstr "Otro dispositivo"
+
+msgid "deviceclasses_other-plural-main"
+msgstr "Otros dispositivos"
+
+msgid "deviceclasses_other-plural-for"
+msgstr "Otros dispositivos"
+
+msgid "searchheader_caption-subtitle"
+msgstr "búsqueda de controlador en la consulta:"
+
+msgid "searchheader_caption-filter-label"
+msgstr "El controlador se descargará para el sistema operativo seleccionado"
+
+#. i18n: EN: Example: NOTEBOOK=Acer AO521; Text for {{DOWNLOAD}} is in key
+#. searchresult_details-content_download-link; RU: Пример: NOTEBOOK=Acer
+#. AO521; Текст для {{DOWNLOAD}} находится в ключе searchresult_details-
+#. content_download-link
+msgid "searchresult_details-content-notebook-text"
+msgstr ""
+
+msgid "searchresult_details-content_download-link"
+msgstr "Descarga DriverPack"
+
+msgid "searchresult_notebook"
+msgstr "Equipos"
+
+msgid "searchresult_download-btn"
+msgstr "Instalar el controlador automáticamente"
+
+msgid "searchresult_details-content-text-placeholder"
+msgstr "Cargando datos..."
+
+msgid "searchresult_details-content-label-1"
+msgstr "OS"
+
+msgid "searchresult_details-content-label-2"
+msgstr "todos los sistemas"
+
+#. i18n: EN: Example: DEVICE=NVIDIA GeForce 205; Text for {{DOWNLOAD}} is in
+#. key searchresult_details-content_download-link; RU: Пример: DEVICE=NVIDIA
+#. GeForce 205; Текст для {{DOWNLOAD}} находится в ключе searchresult_details-
+#. content_download-link
+msgid "searchresult_details-content-group-text"
+msgstr "{{DOWNLOAD}} con el fin de identificar e instalar automáticamente los controladores necesarios, ó valla a la paina del {{DEVICE}} y seleccione manualmente el controlador necesario"
+
+#. i18n: EN: Example: CLASS.SINGLE.MAIN=monitor|chipset; COUNT=12; RU: Пример:
+#. CLASS.SINGLE.MAIN=монитор|чипсет; COUNT=12;
+msgid "searchresult_device"
+msgstr ""
+
+msgid "searchresult_details-content-text-many"
+msgstr ""
+
+msgid "seofooter_os-list-title"
+msgstr "Versiones de Sistema Operativo: <span itemprop='operatingSystem'>{{OSLIST}}</span>"
+
+msgid "seofooter_offers-title"
+msgstr ""
+
+msgid "seofooter_driver-description-title"
+msgstr "Descripción del Controlador"
+
+msgid "seofooter_popular-drivers-title"
+msgstr "Controladores Populares"
+
+msgid "sidebanner_title"
+msgstr ""
+
+msgid "sidebanner_caption"
+msgstr ""
+
+msgid "translationheader_cta-text"
+msgstr ""
+
+msgid "translationheader_bubble-team"
+msgstr "¿Te gustaría formar parte del equipo de traductores para el mayor servicio mundial de configuración automática de computadores?"
+
+msgid "translationheader_bubble-languages"
+msgstr "¿Sabes muy bien inglés o ruso, para que estés listo para traducir de uno de ellos a tu idioma nativo?"
+
+msgid "translationheader_bubble-experience"
+msgstr "¿Tiene alguna experiencia en la traducción de software o sitios web mediante el uso de servicios de traducción en línea?"
+
+msgid "translationheader_bubble-email"
+msgstr ""
+
+msgid "translationlist_title"
+msgstr "Lista de traductores autorizados DriverPack"
+
+msgid "translationtool_text-transifex"
+msgstr "En DriverPack Solution hacemos nuestra localización utilizando el servicio transifex.com:"
+
+msgid "translationtool_example-ru-to-en"
+msgstr "Líneas para la traducción del Ruso (RU) al Inglés (EN), y los idiomas del CIS (CIS)"
+
+msgid "translationtool_example-en-to-all"
+msgstr "Líneas para la traducción del inglés (EN) a otros idiomas del mundo"
+
+msgid "language_title"
+msgstr "Spanish (Latin America)"
+
+msgid "landingPagePublications_rbk"
+msgstr ""
+
+msgid "landingPagePublications_secretfirmy"
+msgstr ""
+
+msgid "landingPagePublications_cnews"
+msgstr ""
+
+msgid "landingPagePublications_xbit"
+msgstr ""
+
+msgid "landingPagePublications_chip"
+msgstr ""
+
+msgid "landingPagePublications_pcmag"
+msgstr ""
+
+msgid "landingPagePublications_habr"
+msgstr ""
+
+msgid "landingPagePublications_computerra"
+msgstr ""
+
+msgid "landingPagePublications_vc"
+msgstr ""
+
+msgid "adminpagefaq_official_vendors-q"
+msgstr ""
+
+msgid "adminpagefaq_official_vendors-a"
+msgstr ""
+
+msgid "adminpagefaq_database-q"
+msgstr ""
+
+msgid "adminpagefaq_database-a"
+msgstr ""
+
+msgid "adminpagefaq_free-q"
+msgstr "¿Es cierto que DriverPack es absolutamente gratuito?"
+
+msgid "adminpagefaq_free-a"
+msgstr ""
+
+msgid "adminpagefaq_antivirus-q"
+msgstr "Mi antivirus ha detectado un virus en DriverPack - ¿cómo puede suceder eso?"
+
+msgid "adminpagefaq_antivirus-a"
+msgstr ""
+
+msgid "adminpagefaq_expert_mode-q"
+msgstr ""
+
+msgid "adminpagefaq_expert_mode-a"
+msgstr ""
+
+msgid "adminpagefaq_stable-q"
+msgstr ""
+
+msgid "adminpagefaq_stable-a"
+msgstr ""
+
+msgid "devicegrouppage_show-more-link"
+msgstr "Ver más"
+
+msgid "devicestypepage_subtitle"
+msgstr "Todos los fabricantes de {{CLASS.SINGLE.FOR}}"
+
+msgid "devicetypevendorpage_subtitle-popular"
+msgstr "{{CLASS.PLURAL.MAIN}} populares de {{VENDOR.NAME}}"
+
+msgid "devicetypevendorpage_subtitle-all"
+msgstr "Todos los {{CLASS.PLURAL.MAIN}} de {{VENDOR.NAME}}"
+
+msgid "drop-down-language_not-found"
+msgstr "Haven't found your language?"
+
+msgid "errorpage_title"
+msgstr "Error 500: Error interno del servidor"
+
+msgid "landingfooter_landing-subtitle"
+msgstr ""
+
+msgid "landing-footer_catalog-os"
+msgstr ""
+
+msgid "landing-footer_download"
+msgstr "Descarga DriverPack"
+
+msgid "landing-footer_versions"
+msgstr "Todas las versiones de la aplicación"
+
+msgid "landing-footer_catalog"
+msgstr "Buscar de controladores"
+
+msgid "landing-footer_drivers-catalog"
+msgstr "Catálogo de controladores"
+
+msgid "landing-footer_for-admin"
+msgstr "Para los administradores del sistema"
+
+msgid "landing-footer_for-translators"
+msgstr "Para traductores"
+
+msgid "landing-footer_drivers-for-laptops"
+msgstr "Controladores del Equipo"
+
+msgid "landing-footer_hwids"
+msgstr "Device ID"
+
+msgid "landing-footer_license"
+msgstr "Acuerdo de licencia"
+
+msgid "landing-footer_remove"
+msgstr "DriverPack eliminador"
+
+msgid "notfoundpage_title"
+msgstr "Error 404: La pagina no se encontró"
+
+msgid "notebookpage_show-more-link"
+msgstr "Ver más"
+
+msgid "notebookpage_all-devices"
+msgstr "para todos los dispositivos"
+
+msgid "notebookspage_subtitle"
+msgstr "Todos los equipos portátiles y de escritorio"
+
+msgid "notebooksvendorpage_subtitle-popular"
+msgstr "Equipos populares de {{VENDOR.NAME}} "
+
+msgid "notebooksvendorpage_subtitle-all"
+msgstr "Todos los equipos de {{VENDOR.NAME}}"
+
+msgid "reviewpage_title"
+msgstr "Comentarios y sugerencias para mejorar DriverPack"
+
+msgid "searchpage_show-more-link"
+msgstr "Ver más"
+
+#. i18n: EN: text for {{LINK}} is in key thankyoupopup_download-link; RU:
+#. текст для {{LINK}} находится в ключе thankyoupopup_download-link;
+msgid "thankyoupopup_download-text"
+msgstr ""
+
+msgid "thankyoupopup_title"
+msgstr ""
+
+msgid "thankyoupopup_cta-text"
+msgstr ""
+
+msgid "thankyoupopup_download-link"
+msgstr "descargar"
+
+msgid "translate-feedback-header_caption"
+msgstr ""
+
+msgid "translate-feedback-popup_title-error"
+msgstr "Algo salió mal"
+
+msgid "translate-feedback-popup_description-error"
+msgstr ""
+
+msgid "translate-feedback-popup_title-success"
+msgstr "Gracias"
+
+msgid "translate-feedback-popup_description-success"
+msgstr ""
+
+msgid "translate-feedback-popup_description-join-us"
+msgstr ""
+
+msgid "translate-feedback-popup_description-join-link"
+msgstr ""
+
+msgid "translationlandingpage_title"
+msgstr "Traducción DriverPack"
+
+msgid "vendorpage_subtitle-popular"
+msgstr "Dispositivos populares de {{VENDOR.NAME}}"
+
+msgid "wannacryptpromopage_cta-text"
+msgstr ""
+
+msgid "wannacryptpromopage_cta-subtext"
+msgstr ""
+
+msgid "wannacryptpromopage_cta-btn"
+msgstr ""
+
+msgid "wannacryptpromopage_caption-text"
+msgstr ""
+
+msgid "wannacryptpromopage_info-text-title-1"
+msgstr "¿Que es WannaCrypt?"
+
+msgid "wannacryptpromopage_info-text-1"
+msgstr ""
+
+msgid "wannacryptpromopage_info-text-title-2"
+msgstr "¿Quién está en riesgo?"
+
+msgid "wannacryptpromopage_info-text-2"
+msgstr ""
+
+msgid "wannacryptpromopage_info-text-title-3"
+msgstr ""
+
+msgid "wannacryptpromopage_info-text-3"
+msgstr ""
+
+msgid "wannacryptpromopage_links-text"
+msgstr ""
+
+msgid "wannacryptpromopage_link-smb"
+msgstr "Cómo habilitar y deshabilitar las versiones 1, 2 y 3 de los protocolos SMB para Windows y Windows Server"

@@ -1,0 +1,1015 @@
+# Translators:
+# Nadia Tegeneva <nadia@drp.su>, 2017
+# Filip Gacés <fgarces@gmservice.cl>, 2017
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-08-10 10:22+0000\n"
+"PO-Revision-Date: 2016-09-23 09:12+0000\n"
+"Last-Translator: Filip Gacés <fgarces@gmservice.cl>, 2017\n"
+"Language-Team: Spanish (Latin America) (https://www.transifex.com/driverpack-solution/teams/75453/es_419/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es_419\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. i18n: EN: Example: VENDOR.NAME=Asus; RU: Пример: VENDOR.NAME=Asus;
+msgid "seo_vendor-footer-anchor"
+msgstr "{{VENDOR.NAME}}"
+
+msgid "seo_devicegroups-footer-anchor"
+msgstr "{{VENDOR.NAME}}{{CLASS.PLURAL.MAIN}}"
+
+#. i18n: EN: Example: NAME=Acer E230H; RU: Пример: NAME=Acer E230H;
+msgid "seo_devicegroup-footer-anchor"
+msgstr "{{NAME}}"
+
+#. i18n: EN: Example: NAME=Asus X550EA; RU: Пример: NAME=Asus X550EA;
+msgid "seo_notebookvendor-footer-anchor"
+msgstr "Equipos {{NOTEBOOK.VENDOR.NAME}}"
+
+msgid "seo_notebook-footer-anchor"
+msgstr "equipos {{NAME}} "
+
+msgid "seo_notebookdevices-footer-anchor"
+msgstr "{{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}}{{CLASS.PLURAL.MAIN}}"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
+#. CLASS.PLURAL.FOR=мониторов|модемов;
+msgid "seo_deviceclass-footer-anchor"
+msgstr "{{CLASS.PLURAL.MAIN}}"
+
+msgid "seo_hwidos-footer-anchor"
+msgstr "Controladores para Windows {{OS.NAME}}"
+
+msgid "seo_main-title"
+msgstr "DriverPack Solution — instalación y actualización automática de tus controladores | Descárgalo gratis"
+
+msgid "seo_main-description"
+msgstr "DriverPack Solution le sugiere instalar los controladores para su dispositivo de forma gratuita o descargue el software para instalar y actualizar automática sus controladores."
+
+msgid "seo_main-keywords"
+msgstr ""
+
+msgid "seo_mainos-title"
+msgstr ""
+
+msgid "seo_mainos-description"
+msgstr ""
+
+msgid "seo_mainos-h1"
+msgstr ""
+
+msgid "seo_mainos-keywords"
+msgstr ""
+
+msgid "seo_mainos-h3"
+msgstr ""
+
+msgid "seo_mainlanding-title"
+msgstr "DriverPack Solution - software de actualización de controladores | Descargue los controladores de Windows 7, XP, 10, 8 y 8.1."
+
+msgid "seo_mainlanding-description"
+msgstr "DriverPack Solution – software gratuito para la instalación y actualización automática de controladores en su equipo portátil y PC de escritorio. La posibilidad de descargar controladores para Windows XP, 7, 8, 8,1, 10 de nuestras páginas por catalogo también está disponible."
+
+msgid "seo_mainlanding-keywords"
+msgstr "Descargar la actualización de los controladores para Windows 7, XP, 10, 8 y 8.1"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
+#. CLASS.PLURAL.FOR=мониторов|модемов;
+msgid "seo_deviceclass-title"
+msgstr "Descargar controladores {{CLASS.SINGLE.FOR}} | Windows"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
+#. CLASS.PLURAL.FOR=мониторов|модемов;
+msgid "seo_deviceclass-description"
+msgstr "Instalar controladores de {{CLASS.SINGLE.FOR}} para Windows 7, XP, 10, 8, and 8.1, ó descargue el software de la solución DriverPack para la instalación y actualización automática de los controladores"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
+#. CLASS.PLURAL.FOR=мониторов|модемов;
+msgid "seo_deviceclass-h1"
+msgstr "Controladores <span class='bold'>{{CLASS.SINGLE.FOR}}</span>"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
+#. CLASS.PLURAL.FOR=мониторов|модемов;
+msgid "seo_deviceclass-keywords"
+msgstr ""
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
+#. CLASS.PLURAL.FOR=мониторов|модемов;
+msgid "seo_deviceclass-footer-description"
+msgstr "Descargar controladores para {{CLASS.PLURAL.FOR}} gratis"
+
+msgid "seo_deviceclass-footer-application-category"
+msgstr "Categoria: <span itemprop='applicationCategory'>Dispositivos</span>"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=monitors|modem; RU: Пример:
+#. CLASS.PLURAL.MAIN=мониторы|модемы;
+msgid "seo_deviceclass-footer-application-subcategory"
+msgstr "Sub categoria: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+
+msgid "seo_vendors-title"
+msgstr "Descargar los controladores para PC, Portatiles y netbooks | Windows"
+
+msgid "seo_vendors-description"
+msgstr "Instale los controladores de PC, laptop y netbook de forma gratuita o descargue el software para la actualización e instalación automática del controlador"
+
+msgid "seo_vendors-h1"
+msgstr "Fabricantes de Hardware"
+
+msgid "seo_vendors-keywords"
+msgstr ""
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_vendor-title"
+msgstr "Descargaar controladores de {{VENDOR.NAME}} para Windows, gratis"
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_vendor-description"
+msgstr ""
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_vendor-h1"
+msgstr "Controladores de dispositivos <span class='bold'>{{VENDOR.NAME}}</span>"
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_vendor-keywords"
+msgstr ""
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_vendor-footer-description"
+msgstr "Controladores para dispositivos {{VENDOR.NAME}} gratis"
+
+msgid "seo_vendor-footer-application-category"
+msgstr "Categoria: <span itemprop='applicationCategory'>Dispositivos</span>"
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_vendor-footer-application-subcategory"
+msgstr "Sub categoria: <span itemprop='applicationSubCategory'> dispositivos {{VENDOR.NAME}}</span>"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|monitors; VENDOR.NAME=Acer;
+#. RU: Пример: CLASS.PLURAL.FOR=видеокарт|мониторов; VENDOR.NAME=Acer;
+msgid "seo_devicegroups-title"
+msgstr ""
+
+#. i18n: EN: Example: CLASS.SINGLE.FOR=videocard|monitor; VENDOR.NAME=Acer;
+#. RU: Пример: CLASS.SINGLE.FOR=видеокарты|монитора; VENDOR.NAME=Acer;
+msgid "seo_devicegroups-description"
+msgstr ""
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|monitors; VENDOR.NAME=Acer;
+#. RU: Пример: CLASS.PLURAL.FOR=видеокарт|мониторов; VENDOR.NAME=Acer;
+msgid "seo_devicegroups-h1"
+msgstr "Controladores  <span class='bold'>{{VENDOR.NAME}}</span> {{CLASS.SINGLE.FOR}}"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|monitors; VENDOR.NAME=Acer;
+#. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|мониторы; VENDOR.NAME=Acer;
+msgid "seo_devicegroups-keywords"
+msgstr ""
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|monitors; VENDOR.NAME=Acer;
+#. RU: Пример: CLASS.PLURAL.FOR=видеокарт|мониторов; VENDOR.NAME=Acer;
+msgid "seo_devicegroups-footer-description"
+msgstr "Descargar controladores para {{VENDOR.NAME}} {{CLASS.PLURAL.FOR}}"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|monitors; RU: Пример:
+#. CLASS.PLURAL.MAIN=видеокарты|мониторы;
+msgid "seo_devicegroups-footer-application-category"
+msgstr "Categoria: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|monitors; VENDOR.NAME=Acer;
+#. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|мониторы; VENDOR.NAME=Acer;
+msgid "seo_devicegroups-footer-application-subcategory"
+msgstr "Sub categoria: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}}{{CLASS.PLURAL.MAIN}}</span>"
+
+#. i18n: EN: Example: CLASS.SINGLE.FOR=videocard|monitor; VENDOR.NAME=Acer;
+#. RU: Пример: CLASS.SINGLE.FOR=видеокарты|монитора; VENDOR.NAME=Acer;
+msgid "seo_devicegroups-footer-content"
+msgstr ""
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
+#. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
+#. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
+#. GROUP.NAME=GeForce 210;
+msgid "seo_devicegroup-title"
+msgstr ""
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
+#. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
+#. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
+#. GROUP.NAME=GeForce 210;
+msgid "seo_devicegroup-description"
+msgstr ""
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
+#. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
+#. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
+#. GROUP.NAME=GeForce 210;
+msgid "seo_devicegroup-h1"
+msgstr "Controladores <span class='bold'>{{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.SINGLE.FOR}}</span>"
+
+#. i18n: EN: Example: GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU:
+#. Пример: GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210;
+msgid "seo_devicegroup-keywords"
+msgstr ""
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
+#. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
+#. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
+#. GROUP.NAME=GeForce 210;
+msgid "seo_devicegroup-footer-description"
+msgstr ""
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
+#. GROUP.VENDOR.NAME=Nvidia; RU: Пример: CLASS.PLURAL.FOR=видеокарт|чипсетов;
+#. GROUP.VENDOR.NAME=Nvidia;
+msgid "seo_devicegroup-footer-application-category"
+msgstr "Categoria: <span itemprop='applicationCategory'>{{GROUP.VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets;
+#. GROUP.NAME=GeForce 210; RU: Пример: CLASS.PLURAL.MAIN=видеокарты|чипсеты;
+#. GROUP.NAME=GeForce 210;
+msgid "seo_devicegroup-footer-application-subcategory"
+msgstr "Sub categoria: <span itemprop='applicationSubCategory'>{{GROUP.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
+
+#. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
+#. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
+#. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
+#. GROUP.NAME=GeForce 210;
+msgid "seo_devicegroup-footer-content"
+msgstr ""
+
+msgid "seo_hwids-title"
+msgstr ""
+
+msgid "seo_hwids-description"
+msgstr ""
+
+msgid "seo_hwids-h1"
+msgstr "Todos los controladores para dispositivos"
+
+#. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+#. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+msgid "seo_hwid-title"
+msgstr "Descargar el controlador {{DEVICE.DEVICEID}} gratis!"
+
+#. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+#. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+msgid "seo_hwid-description"
+msgstr "Controlador del dispositivo {{DEVICE.DEVICEID}} para Windows 7, XP, 10, 8 y 8.1"
+
+#. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+#. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+msgid "seo_hwid-h1"
+msgstr "<span class='bold'>{{DEVICE.DEVICEID}}</span>"
+
+#. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+#. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+msgid "seo_hwid-keywords"
+msgstr ""
+
+#. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+#. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+msgid "seo_hwid-footer-description"
+msgstr ""
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets; RU: Пример:
+#. CLASS.PLURAL.MAIN=видеокарты|чипсеты;
+msgid "seo_hwid-footer-application-category"
+msgstr "Categoria: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets; VENDOR.NAME=Acer;
+#. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|чипсеты; VENDOR.NAME=Acer;
+msgid "seo_hwid-footer-application-subcategory"
+msgstr ""
+
+#. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+#. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
+msgid "seo_hwid-footer-content"
+msgstr ""
+
+msgid "seo_notebooks-title"
+msgstr "Descargue todos los drivers de los modelos de laptop para Windows OS"
+
+msgid "seo_notebooks-description"
+msgstr "Cargue e instale los controladores para todos los modos de portátiles y netbooks para Windows XP, 7, 8, 8.1 y 10, o descargue el software de DriverPack Solution para la actualización e instalación automática del controlador"
+
+msgid "seo_notebooks-h1"
+msgstr "Controladores para portátil y netbook"
+
+msgid "seo_notebooks-keywords"
+msgstr "Controladores para equipos de escritorio, portátiles y netbooks con windows 7, 8, 8.1 y 10 64 Bits"
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_notebookvendor-title"
+msgstr ""
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_notebookvendor-description"
+msgstr ""
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_notebookvendor-h1"
+msgstr ""
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_notebookvendor-keywords"
+msgstr ""
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_notebookvendor-footer-description"
+msgstr ""
+
+msgid "seo_notebookvendor-footer-application-category"
+msgstr "Categoria: <span itemprop='applicationCategory'>Portatiles</span>"
+
+#. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
+msgid "seo_notebookvendor-footer-application-subcategory"
+msgstr ""
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
+#. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+msgid "seo_notebook-title"
+msgstr ""
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
+#. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+msgid "seo_notebook-description"
+msgstr ""
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
+#. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+msgid "seo_notebook-h1"
+msgstr ""
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
+#. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+msgid "seo_notebook-keywords"
+msgstr ""
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
+#. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+msgid "seo_notebook-footer-description"
+msgstr ""
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; RU: Пример:
+#. NOTEBOOK.VENDOR.NAME=Acer;
+msgid "seo_notebook-footer-application-category"
+msgstr "Categoria: <span itemprop='applicationCategory'>Equipo {{NOTEBOOK.VENDOR.NAME}}</span>"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
+#. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+msgid "seo_notebook-footer-application-subcategory"
+msgstr ""
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
+#. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+msgid "seo_notebook-footer-content"
+msgstr ""
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+#. CLASS.SINGLE.FOR=videocart|soundcart; RU: Пример:
+#. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+#. CLASS.SINGLE.FOR=видеокарты|звуковой карты;
+msgid "seo_notebookdevices-title"
+msgstr ""
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+#. CLASS.SINGLE.FOR=videocart|soundcart; RU: Пример:
+#. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+#. CLASS.SINGLE.FOR=видеокарты|звуковой карты;
+msgid "seo_notebookdevices-description"
+msgstr ""
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+#. CLASS.PLURAL.FOR=videocarts|soundcarts; RU: Пример:
+#. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+#. CLASS.PLURAL.FOR=видеокарт|звуковых карт;
+msgid "seo_notebookdevices-h1"
+msgstr ""
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets;
+#. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU: Пример:
+#. CLASS.PLURAL.MAIN=видеокарты|чипсеты; NOTEBOOK.VENDOR.NAME=Acer;
+#. NOTEBOOK.NAME=AO533;
+msgid "seo_notebookdevices-keywords"
+msgstr ""
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+#. CLASS.PLURAL.FOR=videocarts|soundcarts; RU: Пример:
+#. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+#. CLASS.PLURAL.FOR=видеокарт|звуковых карт;
+msgid "seo_notebookdevices-footer-description"
+msgstr ""
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
+#. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
+msgid "seo_notebookdevices-footer-application-category"
+msgstr ""
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets;
+#. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU: Пример:
+#. CLASS.PLURAL.MAIN=видеокарты|чипсеты; NOTEBOOK.VENDOR.NAME=Acer;
+#. NOTEBOOK.NAME=AO533;
+msgid "seo_notebookdevices-footer-application-subcategory"
+msgstr ""
+
+#. i18n: EN: Example: CLASS.SINGLE.FOR=videocard|chipset;
+#. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU: Пример:
+#. CLASS.SINGLE.FOR=видеокарты|чипсета; NOTEBOOK.VENDOR.NAME=Acer;
+#. NOTEBOOK.NAME=AO533;
+msgid "seo_notebookdevices-footer-content"
+msgstr ""
+
+msgid "seo_search-title"
+msgstr "Resultados de la busqueda de: {{QUERY}} | DriverPack Solution"
+
+msgid "seo_devicegroupos-title"
+msgstr ""
+
+msgid "seo_devicegroupos-description"
+msgstr ""
+
+msgid "seo_devicegroupos-h1"
+msgstr ""
+
+msgid "seo_devicegroupos-keywords"
+msgstr ""
+
+msgid "seo_devicegroupos-footer-description"
+msgstr ""
+
+msgid "seo_devicegroupos-footer-application-category"
+msgstr "Categoria: <span itemprop='applicationCategory'>{{GROUP.VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
+
+msgid "seo_devicegroupos-footer-application-subcategory"
+msgstr "Sub categoria: <span itemprop='applicationSubCategory'>{{GROUP.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
+
+msgid "seo_devicegroupos-footer-content"
+msgstr ""
+
+msgid "seo_notebookos-title"
+msgstr ""
+
+msgid "seo_notebookos-description"
+msgstr ""
+
+msgid "seo_notebookos-h1"
+msgstr ""
+
+msgid "seo_notebookos-keywords"
+msgstr ""
+
+msgid "seo_notebookos-footer-description"
+msgstr ""
+
+msgid "seo_notebookos-footer-application-category"
+msgstr "Categoria: <span itemprop='applicationCategory'>Equipo {{NOTEBOOK.VENDOR.NAME}}</span>"
+
+msgid "seo_notebookos-footer-application-subcategory"
+msgstr ""
+
+msgid "seo_notebookos-footer-content"
+msgstr ""
+
+msgid "seo_deviceclassos-title"
+msgstr "Descargar {{CLASS.SINGLE.FOR}} para Windows {{OS}}"
+
+msgid "seo_deviceclassos-description"
+msgstr ""
+
+msgid "seo_deviceclassos-h1"
+msgstr "Controladores {{CLASS.SINGLE.FOR}} para windows {{OS}} "
+
+msgid "seo_deviceclassos-keywords"
+msgstr ""
+
+msgid "seo_deviceclassos-footer-description"
+msgstr "Descargar controladores de {{CLASS.SINGLE.FOR}} para Windows {{OS}} gratis"
+
+msgid "seo_deviceclassos-footer-application-category"
+msgstr "Categoria: <span itemprop='applicationCategory'>Dispositivos</span>"
+
+msgid "seo_deviceclassos-footer-application-subcategory"
+msgstr "Sub categoria: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+
+msgid "seo_devicegroupsos-title"
+msgstr "Descargar {{VENDOR.NAME}}{{CLASS.SINGLE.FOR}} controladores para Windows {{OS}}"
+
+msgid "seo_devicegroupsos-description"
+msgstr ""
+
+msgid "seo_devicegroupsos-h1"
+msgstr ""
+
+msgid "seo_devicegroupsos-keywords"
+msgstr ""
+
+msgid "seo_devicegroupsos-footer-description"
+msgstr "Descargar {{VENDOR.NAME}}{{CLASS.SINGLE.FOR}} controladores para Windows {{OS}}"
+
+msgid "seo_devicegroupsos-footer-application-category"
+msgstr "Categoria: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+
+msgid "seo_devicegroupsos-footer-application-subcategory"
+msgstr "Sub categoria: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}}{{CLASS.PLURAL.MAIN}}</span>"
+
+msgid "seo_devicegroupsos-footer-content"
+msgstr ""
+
+msgid "seo_notebookvendoros-title"
+msgstr ""
+
+msgid "seo_notebookvendoros-description"
+msgstr ""
+
+msgid "seo_notebookvendoros-h1"
+msgstr ""
+
+msgid "seo_notebookvendoros-keywords"
+msgstr ""
+
+msgid "seo_notebookvendoros-footer-description"
+msgstr ""
+
+msgid "seo_notebookvendoros-footer-application-category"
+msgstr "Categoria: <span itemprop='applicationCategory'>Portatiles</span>"
+
+msgid "seo_notebookvendoros-footer-application-subcategory"
+msgstr ""
+
+msgid "seo_notebookvendoros-footer-content"
+msgstr ""
+
+msgid "seo_hwidos-title"
+msgstr ""
+
+msgid "seo_hwidos-description"
+msgstr ""
+
+msgid "seo_hwidos-h1"
+msgstr ""
+
+msgid "seo_hwidos-keywords"
+msgstr ""
+
+msgid "seo_hwidos-footer-description"
+msgstr ""
+
+msgid "seo_hwidos-footer-application-category"
+msgstr "Categoria: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+
+msgid "seo_hwidos-footer-application-subcategory"
+msgstr ""
+
+msgid "seo_hwidos-footer-content"
+msgstr ""
+
+msgid "seo_notebookdevicesos-title"
+msgstr ""
+
+msgid "seo_notebookdevicesos-description"
+msgstr ""
+
+msgid "seo_notebookdevicesos-h1"
+msgstr ""
+
+msgid "seo_notebookdevicesos-keywords"
+msgstr ""
+
+msgid "seo_notebookdevicesos-footer-description"
+msgstr ""
+
+msgid "seo_notebookdevicesos-footer-application-category"
+msgstr ""
+
+msgid "seo_notebookdevicesos-footer-application-subcategory"
+msgstr ""
+
+msgid "seo_notebookdevicesos-footer-content"
+msgstr ""
+
+msgid "seo_promopage_title"
+msgstr ""
+
+msgid "seo_promo-description"
+msgstr ""
+
+msgid "seo_promo-keywords"
+msgstr ""
+
+msgid "seo_promodevice_title"
+msgstr "Descargue gratis los controladores para usb, bluetooth, impresoras, Wi-Fi y tarjetas de video"
+
+msgid "seo_promodevice-description"
+msgstr "DriverPack Solution actualizará sus controladores de USB, bluetooth, impresora, Wi-Fi y tarjeta de video a la última versión"
+
+msgid "seo_promodevice-keywords"
+msgstr "controladores, bluetooth, impresora, tarjeta de sonido , webcam, mouse,  controlador de video"
+
+msgid "seo_promovendors_title"
+msgstr "Descarar controlador para Lenovo, Samsung, Acer, Asus y Dell gratis"
+
+msgid "seo_promovendors-description"
+msgstr ""
+
+msgid "seo_promovendors-keywords"
+msgstr "controlador, dell, samsung, lenovo, asus, acer, toshiba, asus"
+
+msgid "seo_promodrivers_title"
+msgstr "Descargar e instalar controladores para Windows 7, 10, XP, 8"
+
+msgid "seo_promodrivers-description"
+msgstr "DriverPack actualizará los controladores de Windows 7, Windows 10, Windows XP, Windows 8 de forma gratuita"
+
+msgid "seo_promodrivers-keywords"
+msgstr ""
+
+msgid "seo_forgamers-description"
+msgstr ""
+
+msgid "seo_forgamers-keywords"
+msgstr ""
+
+msgid "seo_wannacrypt_title"
+msgstr "¿Cómo proteger su PC y su computadora portátil del virus WannaCry?"
+
+msgid "seo_wannacrypt-description"
+msgstr ""
+
+msgid "seo_license_title"
+msgstr "Acuerdo de licencia | DriverPack Solution"
+
+msgid "seo_license-description"
+msgstr "Acuerdo de licencia y Condiciones de uso del software que se distribuye mediante la utilización de la DriverPack Solution"
+
+msgid "seo_license-keywords"
+msgstr "descargar los controladores de windows 7 XP 8 10 con DriverPack Solution gratis "
+
+msgid "seo_standards_title"
+msgstr ""
+
+msgid "seo_standards-description"
+msgstr ""
+
+msgid "seo_standards-keywords"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-bluetooth"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-cardreader"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-chipset"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-inputdev"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-lan"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-massstorage"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-modem"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-monitor"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-tvtuner"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-sound"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-video"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-wifi"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-phone"
+msgstr ""
+
+msgid "seo_notebookvendor-footer-content-asus"
+msgstr ""
+
+msgid "seo_notebookvendor-footer-content-lg"
+msgstr ""
+
+msgid "seo_notebookvendor-footer-content-sony"
+msgstr ""
+
+msgid "seo_notebookvendor-footer-content-lenovo"
+msgstr ""
+
+msgid "seo_notebookvendor-footer-content-samsung"
+msgstr ""
+
+msgid "seo_notebookvendor-footer-content-msi"
+msgstr ""
+
+msgid "seo_notebookvendor-footer-content-toshiba"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-video-amd"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-video-nvidia"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-video-intel"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-chipset-intel"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-chipset-asus"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-chipset-amd"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-sound-msi"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-monitor-acer"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-monitor-asus"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-monitor-benq"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-monitor-compaq"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-monitor-dell"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-monitor-hp"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-monitor-lg"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-monitor-panasonic"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-monitor-samsung"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-monitor-sony"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-monitor-viewsonic"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-monitor-sharp"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-monitor-philips"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-modem-d-link"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-tvtuner-avermedia"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-tvtuner-beholder"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-tvtuner-pinnacle"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-tvtuner-philips"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-tvtuner-kworld"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-tvtuner-compro"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-phone-htc"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-phone-huawei"
+msgstr ""
+
+msgid "seo_deviceclass-footer-content-phone-nokia"
+msgstr ""
+
+msgid "seo_devicegroup-footer-content-video-nvidia-nvidia-geforce-9600-gt"
+msgstr ""
+
+msgid "seo_devicegroup-footer-content-monitor-samsung-syncmaster-740n-179n-syncmaster-magic-cx721n-cx714n"
+msgstr ""
+
+msgid "seo_notebook-footer-content-acer-aspire-5560g"
+msgstr ""
+
+msgid "seo_notebook-footer-content-aspire-5750g"
+msgstr ""
+
+msgid "seo_notebook-footer-content-acer-aspire-5100"
+msgstr ""
+
+msgid "seo_notebook-footer-content-acer-aspire-5553g"
+msgstr ""
+
+msgid "seo_notebook-footer-content-acer-aspire-7750g"
+msgstr ""
+
+msgid "seo_notebook-footer-content-acer-aspire-5551g"
+msgstr ""
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-x550cc"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-x550cl"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-x540sa"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-x540sc"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-x540la"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-k50c"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-x553ma"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-x541sa"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-k52jc"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-k52jr"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-x101ch"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-k50ij"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-x551ma"
+msgstr "¿No se instala el controlador para el controlador de red Asus x551ma? Descargue el controlador necesario para Windows XP, 7, 8, 8,1 o 10 por sí mismo, o utilice nuestro software gratuito DriverPack Solution para actualizar el controlador."
+
+msgid "seo_notebook-footer-content-asus-k53ta"
+msgstr "Aquí puedes descargar los drivers para el Asus k53ta con Windows XP, 7, 8, 8,1 o 10 de forma gratuita. Si por alguna razón no has encontrado el controlador que necesitas por ti mismo, utiliza nuestro software DriverPack Solution - seleccionará el controlador que sea necesario o compatible con tu configuración tanto como sea posible automáticamente."
+
+msgid "seo_notebook-footer-content-asus-x550ca"
+msgstr ""
+
+msgid "seo_notebook-footer-content-lenovo-g580"
+msgstr ""
+
+msgid "seo_notebook-footer-content-lenovo-b590"
+msgstr ""
+
+msgid "seo_notebook-footer-content-hp-pavilion-g6-chipset"
+msgstr ""
+
+msgid "seo_notebook-footer-content-lenovo-g580-wifi"
+msgstr ""
+
+msgid "seo_notebook-footer-content-lenovo-b590-wifi"
+msgstr ""
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g-wifi"
+msgstr ""
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g-video"
+msgstr ""
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g-sound"
+msgstr ""
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g-inputdev"
+msgstr ""
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g-lan"
+msgstr ""
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g-cardreader"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-x550cc-wifi"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-x550cc-lan"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-k50c-video"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-k50c-wifi"
+msgstr ""
+
+msgid "seo_notebook-footer-content-asus-x553ma-video"
+msgstr "¿Los controladores de la tarjeta de video de tu Asus x553ma están des-actualizados? Aquí puedes descargar el controlador para Asus X553MA para Windows XP, 7, 8, 8,1 o 10."
+
+msgid "seo_notebook-footer-content-asus-x101ch-video"
+msgstr "¿Su juego no se inicia en el Asus X101CH? Aquí puede descargar el controlador de tarjeta de vídeo para Asus X101CH para Windows XP, 7, 8, 8,1 o 10 de forma gratuita - podría solucionar el problema!"
+
+msgid "seo_notebook-footer-content-asus-k50ij-wifi"
+msgstr "¿Necesita el controlador Wi-Fi para el Asus k50ij con Windows XP, 7, 8, 8,1 o 10? Descárguelo directamente desde nuestro catálogo o instale el software de la DriverPack Solution para la actualización automática del controlador - es totalmente gratuito."
+
+msgid "seo_notebook-footer-content-asus-x551ma-lan"
+msgstr "¿No se instala el controlador para el controlador de red Asus x551ma? Descargue el controlador necesario para Windows XP, 7, 8, 8,1 o 10 por sí mismo, o utilice nuestro software gratuito DriverPack Solution para actualizar el controlador."
+
+msgid "seo_notebook-footer-content-lenovo-g580-lan"
+msgstr "Aquí puede descargar controladores de red para el portátil Lenovo g580 con Windows XP, 7, 8, 8,1 o 10. ¿No ha encontrado el controlador que necesita? Descargue e instale el software DriverPack Solution - es gratuito y seleccionará todo lo que necesite para el correcto funcionamiento de su portátil de forma automática."
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g-7-x86"
+msgstr "En esta sección puede descargar los controladres para el laptop Acer Aspire v3 571g con Windows 7. Todos nuestros controladores han sido verificados por expertos y son completamente funcionales."
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g-8-x86"
+msgstr "Aquí puede descargar los controladores del portátil Acer Aspire v3 571g con Windows 8 o instalar el software DriverPack Solution para la actualización automática del controlador."
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g-8.1-x86"
+msgstr "En esta sección los controladores para el laptop Acer Aspire v3 571g con Windows 8 están disponibles para su descarga. Aquí también puede descargar el software DriverPack Solution - comprobará su configuración de hardware e instalará el controlador necesario."
+
+msgid "seo_notebook-footer-content-acer-aspire-v3-571g-10-x86"
+msgstr "Aquí puedes descargar los controladores para el laptop Acer Aspire v3 571g con Windows 10. Nuestros controladores son completamente funcionales y han sido revisados por antivirus."
+
+msgid "seo_notebook-footer-content-asus-x550cc-7-x86"
+msgstr "En esta sección puede descargar los controladores para el laptop Asus X550CC para Windows 7x86. ¡Todos nuestros controladores han sido verificados por antivirus!"
+
+msgid "seo_notebook-footer-content-asus-x550cc-7-x64"
+msgstr "En esta sección puede descargar los controladores para Asus X550CC con Windows 7x64 absolutamente gratis. Si por alguna razón no está satisfecho con el controlador de esta sección, utilice nuestro software DriverPack Solution - actualizará los controladores de su equipo portátil a la última versión actualizada."
+
+msgid "seo_notebook-footer-content-asus-x550cl-7-x64"
+msgstr "Aquí puedes descargar los drivers para el Asus X550CL para Windows 7x64 de forma absolutamente gratuita. Todos nuestros controladores han sido verificados por los mejores expertos."
+
+msgid "seo_notebook-footer-content-asus-x540sa-7-x64"
+msgstr "¿Necesitas drivers para laptop Asus X540SA para Windows 7x64? Encontrará todo lo que necesita en esta sección. Todos nuestros controladores han sido verificados por nuestros expertos en cuanto a seguridad y operabilidad."
+
+msgid "seo_notebook-footer-content-asus-x540sa-8.1-x64"
+msgstr "¿Necesita drivers para Asus x540sa laptop para Windows 8.1x64? Aquí encontrará todo lo que necesita. Nuestros controladores han sido verificados para la operabilidad y la seguridad por los mejores expertos."
+
+msgid "seo_notebook-footer-content-asus-x540sa-10-x64"
+msgstr "¿Necesitas descargar los controladores para portátil Asus X540SA para Windows 10x64? ¡Estás en el lugar correcto! Si por alguna razón no ha encontrado el controlador que necesita en el catálogo, descargue nuestro software DriverPack Solution - encontrará todas las versiones más recientes e instálelas en su equipo portátil por sí mismo!"
+
+msgid "seo_notebook-footer-content-asus-x540sc-7-x64"
+msgstr "¿Necesitas descargar los controladores para portátil Asus X540SC para Windows 7x64? Aquí encontrará todo lo que necesita. ¡Todos nuestros paquetes de controladores se han verificado para la seguridad y la operabilidad!"
+
+msgid "seo_notebook-footer-content-asus-x540sc-8.1-x64"
+msgstr "Aquí puedes descargar los drivers para el Asus X540SC con Windows 8.1x64 absolutamente gratis. Si no puede encontrar el controlador que necesita en nuestro catálogo, descargue el software DriverPack para actualizar el controlador, ¡lo hará todo de forma rápida y fiable!"
+
+msgid "seo_notebook-footer-content-asus-x540la-7-x64"
+msgstr "En esta sección puede descargar los controladores del portátil Asus X540LA para Windows 7x64 de forma gratuita y sin necesidad de registro adicional. Todos nuestros conductores son absolutamente seguros y completamente operables."
+
+msgid "seo_notebook-footer-content-asus-k50c-xp-x86"
+msgstr "En esta sección puede descargar los controladores para Asus k50c laptop para Windows XP absolutamente libre, sin registro adicional. También le sugerimos que descargue el software DriverPack Solution para la instalación automática del controlador - ¡lo hará todo por usted!"
+
+msgid "seo_notebook-footer-content-asus-x553ma-7-x64"
+msgstr "Aquí puedes descargar los controladores de Asus X553MA para Windows 7x64. Todos los paquetes de nuestros controladores han sido probados para la seguridad y la operabilidad por expertos."
+
+msgid "seo_notebook-footer-content-asus-x101ch-xp-x86"
+msgstr "Aquí puede descargar los controladores para el portatil Asus X101CH para Windows XP de forma gratuita y sin necesidad de registro adicional. ¡Todos nuestros controladores son completamente funcionales y seguros para su equipo portátil!"
+
+msgid "seo_notebook-footer-content-asus-k50ij-7-x64"
+msgstr "Aquí puedes descargar y instalar controladores para Asus k50ij laptop para Windows 7x64 absolutamente gratis. ¿No está satisfecho con el controlador? No hay problema - utilice nuestro software DriverPack Solution para actualizar el controlador - ¡es totalmente gratuito y lo hará todo automáticamente!"
+
+msgid "seo_notebook-footer-content-asus-k50ij-xp-x86"
+msgstr "¿Necesita descargar los controladores para Asus k50ij laptop para Windows XP? Utilice nuestro catálogo - encontrará todo lo que necesita allí. No es de ayuda? Luego descargue el software DriverPack Solution para actualizar el controlador - analizará el hardware de su equipo portátil y seleccionará los controladores más compatibles."
+
+msgid "seo_notebook-footer-content-lenovo-g580-7-x64"
+msgstr "Los controladores para el equipo Lenovo g580 para Windows XP, 7, 8, 8,1 o 10 están disponibles para descargar aquí mismo. ¿No está satisfecho con el controlador? A continuación, utilice el software DriverPack Solution para la búsqueda y la instalación del controlador - hará todo por sí mismo."
+
+msgid "seo_notebook-footer-content-asus-x550cc-sound-10-x64"
+msgstr "Aquí puedes descargar los drivers para Asus X550CC con Windows 10x64 de forma gratuita. También puede descargar el software de DriverPack Solution - se evaluará el estado actual de los controladores en su equipo portátil y se actualizaran a la última versión disponible."
+
+msgid "seo_mainos-content-xp"
+msgstr ""
+
+msgid "seo_mainos-content-7"
+msgstr ""
+
+msgid "seo_mainos-content-8"
+msgstr ""
+
+msgid "seo_mainos-content-8.1"
+msgstr ""
+
+msgid "seo_mainos-content-10"
+msgstr ""

@@ -1,0 +1,1059 @@
+# Translators:
+# Theodore Grammenos <theodorewii121@gmail.com>, 2017
+# SAKELLARIS NIKOLAOS <snn@email.it>, 2017
+# Артур Кузяков <artx@drp.su>, 2017
+# Panagiotis Papazoglou <papaz_p@yahoo.com>, 2017
+# Drakopoulos Alexandros <vampirakos001@hotmail.com>, 2017
+# Nadia Tegeneva <nadia@drp.su>, 2017
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-08-16 09:41+0000\n"
+"PO-Revision-Date: 2016-09-23 09:12+0000\n"
+"Last-Translator: Nadia Tegeneva <nadia@drp.su>, 2017\n"
+"Language-Team: Greek (https://www.transifex.com/driverpack-solution/teams/75453/el/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "adminlandingpage_title"
+msgstr "DriverPack για επαγγελματίες - αυτόματη εγκατάσταση προγραμμάτων οδήγησης σε οποιοδήποτε υπολογιστή"
+
+msgid "admincackle_dialog-star"
+msgstr ""
+
+msgid "admindriverpacks_landing-title"
+msgstr "Driverpacks (πακέτα προγραμμάτων οδήγησης)"
+
+msgid "admindriverpacks_landing-subtitle"
+msgstr ""
+
+msgid "admindriverpacks_downloaded"
+msgstr "Λήψεις:"
+
+msgid "admindriverpacks_download"
+msgstr "Λήψη"
+
+msgid "adminfaq_landing-title"
+msgstr "Απαντούμε τις ερωτήσεις σας"
+
+msgid "adminfaq_landing-subtitle"
+msgstr ""
+
+msgid "adminheader_cta-text"
+msgstr "DriverPack – Έχει δημιουργηθεί για διαχειριστές, αλλά είναι ξεκάθαρο και για πρωτάρηδες"
+
+msgid "adminheader_cta-btn"
+msgstr "Λήψη του DriverPack Online"
+
+msgid "adminheader_products-caption"
+msgstr ""
+
+msgid "search_noresult"
+msgstr "Λήψη του DriverPack Online"
+
+msgid "adminpromo_landing-title"
+msgstr "Το νέο DriverPack 18 είναι υπό ανάπτυξη"
+
+msgid "adminpromo_landing-subtitle"
+msgstr "Η νέα έκδοση έχει σχεδιαστεί ειδικά για διαχεριστές και λαμβάνει υπόψη της ανάγκες του"
+
+msgid "adminpromo_banner-text"
+msgstr ""
+
+msgid "adminpromo_list-item-speed"
+msgstr ""
+
+msgid "adminpromo_list-item-ui"
+msgstr ""
+
+msgid "adminpromo_list-item-settings"
+msgstr ""
+
+msgid "adminpromo_list-item-soft"
+msgstr ""
+
+msgid "adminpromo_list-item-packs"
+msgstr ""
+
+msgid "adminpromo_list-item-device-support"
+msgstr ""
+
+msgid "adminpromo_list-item-expert-mode"
+msgstr "Η Κατάσταση για Προχωρημένους είναι ενεργή ως προεπιλογή"
+
+msgid "adminpromo_list-item-stable-db"
+msgstr ""
+
+msgid "adminpromo_list-item-full-db"
+msgstr ""
+
+msgid "buttonsplitdropdown_main-button"
+msgstr "Λήψη"
+
+msgid "breadcrumbs_main-text"
+msgstr "Αρχική Σελίδα"
+
+msgid "breadcrumbs_vendors-text"
+msgstr "Κατασκευαστές"
+
+#. i18n: EN: Example: VENDOR.NAME=Lenovo; RU: Пример: VENDOR.NAME=Lenovo;
+msgid "breadcrumbs_vendor-text"
+msgstr "{{VENDOR.NAME}}"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=cardreaders|monitors; RU: Пример:
+#. CLASS.PLURAL.MAIN=картридеры|мониторы;
+msgid "breadcrumbs_deviceclass-text"
+msgstr "{{CLASS.PLURAL.MAIN}}"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=cardreaders|monitors,
+#. VENDOR.NAME=Realtek; RU: Пример: CLASS.PLURAL.MAIN=картридеры|мониторы;
+#. VENDOR.NAME=Realtek;
+msgid "breadcrumbs_devicegroups-text"
+msgstr "{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
+
+#. i18n: EN: Example: GROUP.VENDOR.NAME=Nvidia, GROUP.NAME=GeForce 210; RU:
+#. Пример: GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210;
+msgid "breadcrumbs_devicegroup-text"
+msgstr "{{GROUP.VENDOR.NAME}} {{GROUP.NAME}}"
+
+msgid "breadcrumbs_notebooks-text"
+msgstr "Φορητοί υπολογιστές"
+
+#. i18n: EN: Example: VENDOR.NAME=Asus; RU: Пример: VENDOR.NAME=Asus;
+msgid "breadcrumbs_notebookvendor-text"
+msgstr "Φορητοί υπολογιστές {{VENDOR.NAME}}"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=X1 carbon;
+#. RU: Пример: NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=X1 carbon;
+msgid "breadcrumbs_notebook-text"
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=Videocards|Chipsets ,
+#. NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=G580; RU: Пример:
+#. CLASS.PLURAL.MAIN=видеокарты|чипсеты, NOTEBOOK.VENDOR.NAME=Lenovo,
+#. NOTEBOOK.NAME=G580;
+msgid "breadcrumbs_notebookdevices-text"
+msgstr "{{CLASS.PLURAL.MAIN}} του {{NOTEBOOK.VENDOR.NAME}} του φορητού υπολογιστή {{NOTEBOOK.NAME}}"
+
+msgid "devicecard_download-btn"
+msgstr "Λήψη προγράμματος οδήγησης"
+
+#. i18n: EN: Example: NAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10 x86; Text
+#. for {{DOWNLOAD}} is in key drivercard_no-results_download-link; RU: Пример:
+#. NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10 x86; Текст для
+#. {{DOWNLOAD}} находится в ключе drivercard_no-results_download-link;
+msgid "devicecard_details_no-results-text"
+msgstr ""
+
+msgid "devicecard_details_no-results_download-link"
+msgstr "Λήψη του DriverPack"
+
+msgid "devicecard_details-content-text"
+msgstr "Φόρτωση δεδομένων..."
+
+msgid "devicecard_details_all-systems"
+msgstr "όλα τα συστήματα"
+
+msgid "devicecard_details-content-label-version"
+msgstr "Έκδοση:"
+
+msgid "devicecard_details-content-label-version-recommended"
+msgstr "προτείνεται"
+
+msgid "devicecard_details-content-label-date"
+msgstr "Ημερομηνία:"
+
+msgid "devicecard_details-content-label-type"
+msgstr "Τύπος Προγράμματος οδήγησης:"
+
+msgid "devicecard_details-content-label-manufacturer"
+msgstr "Κατασκευαστής:"
+
+msgid "devicecard_details-content-label-systems"
+msgstr "Λειτουργικά Συστήματα:"
+
+msgid "devicecard_details-content-label-deviceid"
+msgstr "Device ID:"
+
+msgid "devicecard_details-content-label-inf"
+msgstr "Αρχείο *.inf:"
+
+msgid "devicecard_details-content-label-section"
+msgstr "Κατηγορία:"
+
+msgid "devicecard_details-links-merged_label"
+msgstr "Αν το Device ID που χρειάζεστε δεν βρεθεί στη λίστα, βάλτε το στη γραμμή αναζήτησης"
+
+msgid "devicecard_details-links-notebook_device"
+msgstr "Προβολή όλων των προγραμμάτων οδήγησης"
+
+msgid "devicecard_details-links"
+msgstr "Προβολή όλων των προγραμμάτων οδήγησης για"
+
+#. i18n: EN: Example: DEVICENAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10
+#. x86; Text for {{DOWNLOAD}} is in key devicecardlist_no-result_download-
+#. link; RU: Пример: NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10
+#. x86; Текст для {{DOWNLOAD}} находится в ключе devicecardlist_no-
+#. result_download-link;
+msgid "devicecardlist_no-results-device-text"
+msgstr ""
+
+#. i18n: EN: Example: DEVICECLASS=chipsets|videocards; NOTEBOOK=Acer AO521;
+#. OSVERSIONS=Windows 10 x86; Text for {{DOWNLOAD}} is in key
+#. devicecardlist_no-result_download-link; RU: Пример:
+#. DEVICECLASS=чипсета|видеокарты; NOTEBOOK=Acer AO521; Пример:
+#. OSVERSIONS=Windows 10 x86; Текст для {{DOWNLOAD}} находится в ключе
+#. devicecardlist_no-result_download-link;
+msgid "devicecardlist_no-results-notebook-text"
+msgstr ""
+
+#. i18n: EN: Example: NOTEBOOK=Acer AO521; OSVERSIONS=Windows 10 x86; Text for
+#. {{DOWNLOAD}} is in key devicecardlist_no-result_download-link; RU: Пример:
+#. NOTEBOOK=Acer AO521; Пример: OSVERSIONS=Windows 10 x86; Текст для
+#. {{DOWNLOAD}} находится в ключе devicecardlist_no-result_download-link;
+msgid "devicecardlist_no-results-notebook-device-class-text"
+msgstr ""
+
+msgid "devicecardlist_no-result_download-link"
+msgstr "Λήψη του DriverPack"
+
+msgid "devicegrouppage_all-systems"
+msgstr "όλα τα συστήματα"
+
+msgid "notebookpage_all-systems"
+msgstr "όλα τα συστήματα"
+
+msgid "devicegroupfilters_filter-title"
+msgstr "Διαθέσιμα προγράμματα οδήγησης"
+
+msgid "deviceidfilters-filter-label-version"
+msgstr "Έκδοση Προγράμματος οδήγησης:"
+
+msgid "deviceidheader_caption-single"
+msgstr "Όνομα Συσκευής:"
+
+msgid "deviceidheader_caption-many"
+msgstr ""
+
+msgid "devicetypelist_title_os"
+msgstr ""
+
+msgid "devicetypelist_title"
+msgstr "Αναζήτηση προγραμμάτων οδήγησης για συσκευές"
+
+#. i18n: EN: Example: NAME=Acer Aspire 4830TG; OSVERSIONS=Windows 10 x86; Text
+#. for {{DOWNLOAD}} is in key drivercard_no-results_download-link; RU: Пример:
+#. NAME=Acer Aspire 4830TG; Пример: OSVERSIONS=Windows 10 x86; Текст для
+#. {{DOWNLOAD}} находится в ключе drivercard_no-results_download-link;
+msgid "drivercard_no-results-text"
+msgstr ""
+
+msgid "drivercard_no-results_download-link"
+msgstr "Λήψη του DriverPack"
+
+msgid "drivercard_caption-version"
+msgstr "Έκδοση:"
+
+msgid "drivercard_caption-version-recommended"
+msgstr "προτείνεται "
+
+msgid "drivercard_caption-date"
+msgstr "Ημερομηνία:"
+
+msgid "drivercard_caption-class"
+msgstr "Τύπος Συσκευής:"
+
+msgid "drivercard_caption-manufacturer"
+msgstr "Κατασκευαστής:"
+
+msgid "drivercard_caption-os"
+msgstr "Λειτουργικά Συστήματα:"
+
+msgid "drivercard_caption-deviceid"
+msgstr "Device ID:"
+
+msgid "drivercard_caption-inf"
+msgstr "Αρχείο *.inf:"
+
+msgid "drivercard_caption-section"
+msgstr "Κατηγορία:"
+
+msgid "drivercard_caption-btn"
+msgstr "Λήψη προγράμματος οδήγησης"
+
+msgid "deviceidpage_all-systems"
+msgstr "όλα τα συστήματα"
+
+msgid "dropdowndriverversion_no-results"
+msgstr ""
+
+msgid "dropdownos_current"
+msgstr "τρέχον"
+
+msgid "footer_banner-title"
+msgstr ""
+
+msgid "footer_banner-caption"
+msgstr "Το DriverPack Online<span style='color: {{COLOR}}'>θα βρει και θα εγκαταστήσει</span> τα προγράμματα οδήγησης που χρειάζεστε αυτόματα"
+
+msgid "footer_banner_btn"
+msgstr "Λάβετε το <span class='bold'>DriverPack Online</span>δωρεάν"
+
+msgid "footer_translate-feedback"
+msgstr ""
+
+msgid "header_search-title"
+msgstr ""
+
+msgid "header_search-examples"
+msgstr "Για παράδειγμα:"
+
+msgid "header_cta-text"
+msgstr "Λήψη του DriverPack για αυτόματη επιλογή προγράμματος οδήγησης"
+
+msgid "header_cta-btn"
+msgstr "Εγκατάσταση προγραμμάτων οδήγησης αυτόματα"
+
+msgid "header_cta-label-1"
+msgstr "<span style='color: {{COLOR}}'>Θα ληφθεί</span> άμεσα"
+
+msgid "header_cta-label-2"
+msgstr "<span style='color: {{COLOR}}'>Θα επιλέξει και εγκαταστήσει</span> προγράμματα οδήγησης αυτόματα"
+
+msgid "headerbutton_title"
+msgstr "Εγκατάσταση προγραμμάτων οδήγησης αυτόματα"
+
+msgid "headerbutton_label"
+msgstr "Το λογισμικό DriverPack είναι εντελώς χωρίς χρέωση"
+
+msgid "headeros_cta-btn"
+msgstr ""
+
+msgid "headeros_search-text"
+msgstr ""
+
+msgid "landingdevicetypelist_landing-title"
+msgstr "Το DriverPack είναι κατάλληλο για οποιαδήποτε συσκευή"
+
+msgid "landingdevicetypelist_landing-subtitle"
+msgstr "Ακόμα και για USB 3.0 στα Windows 7 SP1"
+
+msgid "landingdevicetypelist_cta-btn"
+msgstr "Εγκατάσταση όλων των απαραίτητων προγραμμάτων οδήγησης"
+
+msgid "landingdevicetypelist_versions"
+msgstr ""
+
+msgid "landingfeatures_landing-title"
+msgstr ""
+
+msgid "landingfeatures_landing-subtitle"
+msgstr ""
+
+msgid "landingfeatures_item-title-free"
+msgstr "Δωρεάν"
+
+msgid "landingfeatures_item-caption-free"
+msgstr ""
+
+msgid "landingfeatures_item-title-safe"
+msgstr "Ασφαλές"
+
+msgid "landingfeatures_item-caption-safe"
+msgstr ""
+
+msgid "landingfeatures_item-title-for-all-devices"
+msgstr "Για όλες τις συσκευές"
+
+msgid "landingfeatures_item-caption-for-all-devices"
+msgstr ""
+
+msgid "landingheader_cta-text"
+msgstr ""
+
+msgid "landingheader_cta-btn"
+msgstr "Εγκατάσταση όλων των απαραίτητων προγραμμάτων οδήγησης"
+
+msgid "landingheadernav_wannacrypt"
+msgstr "Προστασία κατά του WannaCry"
+
+msgid "landingheadernav_search"
+msgstr "Αναζήτηση Προγραμμάτων οδήγησης"
+
+msgid "landingheadernav_foradmin"
+msgstr "Για Διαχειριστές Συστήματος"
+
+msgid "landingintroduction_author-title"
+msgstr "Γεια σας! Το όνομά μου είναι Αρθούρος Κουζιάκοφ. Είναι ο δημιουργός και ιδρυτής του DriverPack"
+
+msgid "landingintroduction_author-speech"
+msgstr ""
+
+msgid "landingintroduction_author-speech-marked"
+msgstr "Ξοδεύουμε όλο μας το χρόνο για να εξοικονομούμε τον δικό σας!"
+
+msgid "landingintroduction_video-caption"
+msgstr "Και εδώ είναι τι σκέφτεται ο Δημήτρης Μεντβέντεφ, Πρωθυπουργός της Ρωσικής Ομοσπονδίας για το DriverPack Solution"
+
+msgid "landingnotebookvendorslist_landing-title"
+msgstr "Το DriverPack είναι κατάλληλο για κάθε υπολογιστή"
+
+msgid "landingnotebookvendorslist_landing-subtitle"
+msgstr ""
+
+msgid "landingnotebookvendorslist_cta-btn"
+msgstr "Εγκατάσταση όλων των απαραίτητων προγραμμάτων οδήγησης"
+
+msgid "landingnotebookvendorslist_versions"
+msgstr ""
+
+msgid "landingproducts_item-title-online"
+msgstr "DriverPack Online"
+
+msgid "landingproducts_item-caption-online"
+msgstr ""
+
+msgid "landingproducts_item-version"
+msgstr "Έκδοση:"
+
+msgid "landingproducts_item-button"
+msgstr "Λήψη"
+
+msgid "landingproducts_item-title-network"
+msgstr "DriverPack Network"
+
+msgid "landingproducts_item-caption-network"
+msgstr ""
+
+msgid "landingproducts_item-title-offline"
+msgstr "DriverPack Offline"
+
+msgid "landingproducts_item-caption-offline"
+msgstr ""
+
+msgid "landingpublications__landing-title"
+msgstr "Δημοσιεύσεις Μέσων ενημέρωσης για το DriverPack"
+
+msgid "landingscreenshots_landing-title"
+msgstr ""
+
+msgid "landingscreenshots_landing-subtitle"
+msgstr ""
+
+msgid "landingseofooter_landing-subtitle-notebooks"
+msgstr "Το DriverPack είναι κατάλληλο για τα μοντέλα υπολογιστών επιτραπέζιων και φορητών"
+
+msgid "landingseofooter_landing-subtitle-devices"
+msgstr ""
+
+msgid "landingsocial_landing-title"
+msgstr "Συμμετέχετε στην κοινότητα DriverPack"
+
+msgid "landingsocial_landing-subtitle"
+msgstr "Ακολουθείστε τα νέα και λάβετε μέρος στις συζητήσεις"
+
+msgid "landingusers_cta"
+msgstr ""
+
+msgid "landingusers_cta-btn"
+msgstr "Εγκατάσταση όλων των απαραίτητων προγραμμάτων οδήγησης"
+
+msgid "landingusers_versions"
+msgstr ""
+
+msgid "landingwizard_landing-title"
+msgstr ""
+
+msgid "landingwizard_item-caption-download"
+msgstr ""
+
+msgid "landingwizard_item-caption-setup"
+msgstr ""
+
+msgid "landingwizard_item-caption-profit"
+msgstr ""
+
+msgid "landingwizard_cta-btn"
+msgstr "Εγκατάσταση όλων των απαραίτητων προγραμμάτων οδήγησης"
+
+msgid "navbar_download-link-short"
+msgstr "Λήψη"
+
+msgid "navbar_download-link"
+msgstr "Λήψη του DriverPack Online"
+
+msgid "notfound_cta-text"
+msgstr ""
+
+msgid "notfound_cta-btn"
+msgstr "Λήψη του DriverPack Online"
+
+msgid "notfound_info-404"
+msgstr "{{404}} — η ζητούμενη σελίδα δεν βρέθηκε"
+
+msgid "notfound_info-500"
+msgstr "{{500}} — κάτι πήγε στραβά (σφάλμα διακομιστή)"
+
+msgid "notebookfilters-title"
+msgstr "Διαθέσιμα προγράμματα οδήγησης"
+
+msgid "notebookvendorslist_other-text"
+msgstr ""
+
+msgid "notebookvendorslist_title_os"
+msgstr ""
+
+msgid "notebookvendorslist_title"
+msgstr "Αναζήτηση προγραμμάτων οδήγησης για φορητούς υπολογιστές"
+
+msgid "promoheader_cta-text-gamers"
+msgstr ""
+
+msgid "promoheader_cta-text-gamers-caption"
+msgstr "Αν σας αρέσουν τα παιχνίδια στον υπολογιστή, σας προτείνουμε να ενημερώνετε τα προγράμματα οδήγησης στον υπολογιστή σας συχνότερα για να έχετε τη μέγιστη αποτελεσματικότητα του υλικού σας. Έως 37% περισσότερα FPS - η καλύτερη εμπειρία με παιχνίδια και νέα επιτεύματα με το DriverPack."
+
+msgid "promoheader_cta-text"
+msgstr ""
+
+msgid "promoheader_cta-btn"
+msgstr "Εγκατάσταση όλων των απαραίτητων προγραμμάτων οδήγησης"
+
+msgid "promoheader_size"
+msgstr "Μέγεθος Αρχείου: {{SIZE}} KB"
+
+msgid "promoheader_license"
+msgstr "Άδεια Χρήσης"
+
+msgid "promoheader_os-versions"
+msgstr "Το λογισμικό είναι κατάλληλο για Windows 10, 8.1, 8, 7, Vista, XP"
+
+msgid "promoheader_uninstall"
+msgstr "Κατάργηση του DriverPack"
+
+msgid "reviewheader_cta-text"
+msgstr ""
+
+msgid "reviewheader_cta"
+msgstr ""
+
+msgid "search_input-placeholder"
+msgstr ""
+
+msgid "search_btn-text"
+msgstr "Εύρεση"
+
+msgid "searchformitem_type-section"
+msgstr "Κατηγορία"
+
+msgid "searchformitem_type-notebook"
+msgstr "φορητός υπολογιστής"
+
+msgid "searchformitem_type-device"
+msgstr "συσκευή"
+
+msgid "searchformitem_type-free"
+msgstr "δωρεάν"
+
+#. i18n: EN: Example: NAME=Acer; RU: Пример: NAME=Acer;
+msgid "generatesearchitemname_notebookvendor"
+msgstr "Φορητοί υπολογιστές {{NAME}}"
+
+#. i18n: EN: Example: NAME=Asus; RU: Пример: NAME=Asus;
+msgid "generatesearchitemname_vendor"
+msgstr "Συσκευές {{NAME}}"
+
+msgid "deviceclasses_bluetooth-single-main"
+msgstr "Συσκευή Bluetooth"
+
+msgid "deviceclasses_bluetooth-single-for"
+msgstr "Συσκευή Bluetooth"
+
+msgid "deviceclasses_bluetooth-plural-main"
+msgstr "Συσκευές Bluetooth"
+
+msgid "deviceclasses_bluetooth-plural-for"
+msgstr "Συσκευές Bluetooth"
+
+msgid "deviceclasses_cardreader-single-main"
+msgstr "αναγνώστης κάρτας"
+
+msgid "deviceclasses_cardreader-single-for"
+msgstr "αναγνώστης κάρτας"
+
+msgid "deviceclasses_cardreader-plural-main"
+msgstr "αναγνώστες κάρτας"
+
+msgid "deviceclasses_cardreader-plural-for"
+msgstr "αναγνώστες κάρτας"
+
+msgid "deviceclasses_chipset-single-main"
+msgstr "chipset"
+
+msgid "deviceclasses_chipset-single-for"
+msgstr "chipset"
+
+msgid "deviceclasses_chipset-plural-main"
+msgstr "chipsets"
+
+msgid "deviceclasses_chipset-plural-for"
+msgstr "chipsets"
+
+msgid "deviceclasses_inputdev-single-main"
+msgstr "συσκευή εισόδου"
+
+msgid "deviceclasses_inputdev-single-for"
+msgstr "συσκευή εισόδου"
+
+msgid "deviceclasses_inputdev-plural-main"
+msgstr "συσκευές εισόδου"
+
+msgid "deviceclasses_inputdev-plural-for"
+msgstr "συσκευές εισόδου"
+
+msgid "deviceclasses_lan-single-main"
+msgstr "κάρτα δικτύου"
+
+msgid "deviceclasses_lan-single-for"
+msgstr "κάρτα δικτύου"
+
+msgid "deviceclasses_lan-plural-main"
+msgstr "κάρτες δικτύου"
+
+msgid "deviceclasses_lan-plural-for"
+msgstr "κάρτες δικτύου"
+
+msgid "deviceclasses_massstorage-single-main"
+msgstr "ελεγκτής"
+
+msgid "deviceclasses_massstorage-single-for"
+msgstr "ελεγκτής"
+
+msgid "deviceclasses_massstorage-plural-main"
+msgstr "ελεγκτές"
+
+msgid "deviceclasses_massstorage-plural-for"
+msgstr "ελεγκτές"
+
+msgid "deviceclasses_modem-single-main"
+msgstr "Μόντεμ"
+
+msgid "deviceclasses_modem-single-for"
+msgstr "Μόντεμ"
+
+msgid "deviceclasses_modem-plural-main"
+msgstr "Μόντεμς"
+
+msgid "deviceclasses_modem-plural-for"
+msgstr "Μόντεμς"
+
+msgid "deviceclasses_monitor-single-main"
+msgstr "οθόνη"
+
+msgid "deviceclasses_monitor-single-for"
+msgstr "οθόνη"
+
+msgid "deviceclasses_monitor-plural-main"
+msgstr "οθόνες"
+
+msgid "deviceclasses_monitor-plural-for"
+msgstr "οθόνες"
+
+msgid "deviceclasses_phone-single-main"
+msgstr "έξυπνο τηλέφωνο"
+
+msgid "deviceclasses_phone-single-for"
+msgstr "έξυπνο τηλέφωνο"
+
+msgid "deviceclasses_phone-plural-main"
+msgstr "έξυπνα τηλέφωνα"
+
+msgid "deviceclasses_phone-plural-for"
+msgstr "έξυπνα τηλέφωνα"
+
+msgid "deviceclasses_sound-single-main"
+msgstr "κάρτα ήχου"
+
+msgid "deviceclasses_sound-single-for"
+msgstr "κάρτα ήχου"
+
+msgid "deviceclasses_sound-plural-main"
+msgstr "κάρτες ήχου"
+
+msgid "deviceclasses_sound-plural-for"
+msgstr "κάρτες ήχου"
+
+msgid "deviceclasses_tvtuner-single-main"
+msgstr "δέκτης τηλεόρασης"
+
+msgid "deviceclasses_tvtuner-single-for"
+msgstr "δέκτης τηλεόρασης"
+
+msgid "deviceclasses_tvtuner-plural-main"
+msgstr "δέκτες τηλεόρασης"
+
+msgid "deviceclasses_tvtuner-plural-for"
+msgstr "δέκτες τηλεόρασης"
+
+msgid "deviceclasses_video-single-main"
+msgstr "κάρτα γραφικών"
+
+msgid "deviceclasses_video-single-for"
+msgstr "κάρτα γραφικών"
+
+msgid "deviceclasses_video-plural-main"
+msgstr "κάρτες γραφικών"
+
+msgid "deviceclasses_video-plural-for"
+msgstr "κάρτες γραφικών"
+
+msgid "deviceclasses_webcamera-single-main"
+msgstr "κάμερα"
+
+msgid "deviceclasses_webcamera-single-for"
+msgstr "κάμερα"
+
+msgid "deviceclasses_webcamera-plural-main"
+msgstr "κάμερες"
+
+msgid "deviceclasses_webcamera-plural-for"
+msgstr "κάμερες"
+
+msgid "deviceclasses_wifi-single-main"
+msgstr "συσκευή Wi-Fi"
+
+msgid "deviceclasses_wifi-single-for"
+msgstr "συσκευή Wi-Fi"
+
+msgid "deviceclasses_wifi-plural-main"
+msgstr "συσκευές Wi-Fi"
+
+msgid "deviceclasses_wifi-plural-for"
+msgstr "συσκευές Wi-Fi"
+
+msgid "deviceclasses_other-single-main"
+msgstr "άλλη συσκευή"
+
+msgid "deviceclasses_other-single-for"
+msgstr "άλλη συσκευή"
+
+msgid "deviceclasses_other-plural-main"
+msgstr "άλλες συσκευές"
+
+msgid "deviceclasses_other-plural-for"
+msgstr "άλλες συσκευές"
+
+msgid "searchheader_caption-subtitle"
+msgstr "Αναζήτηση προγραμμάτων οδήγησης στο ερώτημα:"
+
+msgid "searchheader_caption-filter-label"
+msgstr "Το πρόγραμμα οδήγησης θα ληφθεί για το επιλεγμένο Λειτουργικό Σύστημα"
+
+#. i18n: EN: Example: NOTEBOOK=Acer AO521; Text for {{DOWNLOAD}} is in key
+#. searchresult_details-content_download-link; RU: Пример: NOTEBOOK=Acer
+#. AO521; Текст для {{DOWNLOAD}} находится в ключе searchresult_details-
+#. content_download-link
+msgid "searchresult_details-content-notebook-text"
+msgstr "{{DOWNLOAD}} ώστε να αναγνωριστούν και εγκατασταθούν τα απαραίτητα προγράμματα οδήγησης αυτόματα ή μεταβείτε στη σελίδα της συσκευής {{NOTEBOOK}} και επιλέξτε το απαραίτητο πρόγραμμα οδήγησης χειροκίνητα"
+
+msgid "searchresult_details-content_download-link"
+msgstr "Λήψη του DriverPack"
+
+msgid "searchresult_notebook"
+msgstr "Φορητός υπολογιστής"
+
+msgid "searchresult_download-btn"
+msgstr "Εγκατάσταση του προγράμματος οδήγησης αυτόματα"
+
+msgid "searchresult_details-content-text-placeholder"
+msgstr "Φόρτωση δεδομένων..."
+
+msgid "searchresult_details-content-label-1"
+msgstr "ΛΣ"
+
+msgid "searchresult_details-content-label-2"
+msgstr "όλα τα συστήματα"
+
+#. i18n: EN: Example: DEVICE=NVIDIA GeForce 205; Text for {{DOWNLOAD}} is in
+#. key searchresult_details-content_download-link; RU: Пример: DEVICE=NVIDIA
+#. GeForce 205; Текст для {{DOWNLOAD}} находится в ключе searchresult_details-
+#. content_download-link
+msgid "searchresult_details-content-group-text"
+msgstr "{{DOWNLOAD}} ώστε να αναγνωριστούν και εγκατασταθούν τα απαραίτητα προγράμματα οδήγησης αυτόματα ή μεταβείτε στη σελίδα της συσκευής {{DEVICE}} και επιλέξτε το απαραίτητο πρόγραμμα οδήγησης χειροκίνητα"
+
+#. i18n: EN: Example: CLASS.SINGLE.MAIN=monitor|chipset; COUNT=12; RU: Пример:
+#. CLASS.SINGLE.MAIN=монитор|чипсет; COUNT=12;
+msgid "searchresult_device"
+msgstr ""
+
+msgid "searchresult_details-content-text-many"
+msgstr ""
+
+msgid "seofooter_os-list-title"
+msgstr "Εκδόσεις Λειτουργικού Συστήματος: <span itemprop='operatingSystem'>{{OSLIST}}</span>"
+
+msgid "seofooter_offers-title"
+msgstr ""
+
+msgid "seofooter_driver-description-title"
+msgstr "Περιγραφή Προγράμματος οδήγησης"
+
+msgid "seofooter_popular-drivers-title"
+msgstr "Δημοφιλή Προγράμματα οδήγησης"
+
+msgid "sidebanner_title"
+msgstr ""
+
+msgid "sidebanner_caption"
+msgstr ""
+
+msgid "translationheader_cta-text"
+msgstr ""
+
+msgid "translationheader_bubble-team"
+msgstr "Θα θέλατε να είστε μέλος της ομάδας μεταφραστών για τη μεγαλύτερη υπηρεσία παγκοσμίως αυτόματου στησίματος υπολογιστή;"
+
+msgid "translationheader_bubble-languages"
+msgstr "Γνωρίζεται Αγγλικά ή Ρωσικά αρκετά καλά, ώστε να είστε έτοιμος/η να μεταφράσετε από μια από αυτές στη μητρική σας γλώσσα;"
+
+msgid "translationheader_bubble-experience"
+msgstr "Έχετε καθόλου εμπειρία στη μετάφραση λογισμικού ή ιστοσελίδων χρησιμοποιώντας διαδικτυακές υπηρεσίες μετάφρασης;"
+
+msgid "translationheader_bubble-email"
+msgstr ""
+
+msgid "translationlist_title"
+msgstr "Λίστα Εξουσιοδοτημένων Μεταφραστών DriverPack"
+
+msgid "translationtool_text-transifex"
+msgstr "Στο DriverPack Solution κάνουμε τη μετάφρασή μας χρησιμοποιώντας την υπηρεσία transifex.com:"
+
+msgid "translationtool_example-ru-to-en"
+msgstr "Γραμμές για μετάφραση από Ρωσικά (RU) στα Αγγλικά (EN), και γλώσσες της Κοινοπολιτείας Ανεξαρτήτων Κρατών (CIS)"
+
+msgid "translationtool_example-en-to-all"
+msgstr "Γραμμές για μετάφραση από Αγγλικά (ΕΝ) σε άλλες γλώσσες του κόσμου"
+
+msgid "language_title"
+msgstr "Greek"
+
+msgid "landingPagePublications_rbk"
+msgstr ""
+
+msgid "landingPagePublications_secretfirmy"
+msgstr ""
+
+msgid "landingPagePublications_cnews"
+msgstr ""
+
+msgid "landingPagePublications_xbit"
+msgstr ""
+
+msgid "landingPagePublications_chip"
+msgstr ""
+
+msgid "landingPagePublications_pcmag"
+msgstr ""
+
+msgid "landingPagePublications_habr"
+msgstr ""
+
+msgid "landingPagePublications_computerra"
+msgstr ""
+
+msgid "landingPagePublications_vc"
+msgstr ""
+
+msgid "adminpagefaq_official_vendors-q"
+msgstr ""
+
+msgid "adminpagefaq_official_vendors-a"
+msgstr ""
+
+msgid "adminpagefaq_database-q"
+msgstr ""
+
+msgid "adminpagefaq_database-a"
+msgstr ""
+
+msgid "adminpagefaq_free-q"
+msgstr "Είναι αλήθεια ότι το DriverPack είναι χωρίς καθόλου χρέωση;"
+
+msgid "adminpagefaq_free-a"
+msgstr ""
+
+msgid "adminpagefaq_antivirus-q"
+msgstr "Το πρόγραμμα προστασίας για ιούς μου ανακάλυψε έναν ιό στο DriverPack - πως μπορεί να συμβαίνει αυτό;"
+
+msgid "adminpagefaq_antivirus-a"
+msgstr ""
+
+msgid "adminpagefaq_expert_mode-q"
+msgstr ""
+
+msgid "adminpagefaq_expert_mode-a"
+msgstr ""
+
+msgid "adminpagefaq_stable-q"
+msgstr ""
+
+msgid "adminpagefaq_stable-a"
+msgstr ""
+
+msgid "devicegrouppage_show-more-link"
+msgstr "Δείτε περισσότερα"
+
+msgid "devicestypepage_subtitle"
+msgstr "Όλοι οι κατασκευαστές {{CLASS.SINGLE.FOR}}"
+
+msgid "devicetypevendorpage_subtitle-popular"
+msgstr "Δημοφιλή {{VENDOR.NAME}}{{CLASS.PLURAL.MAIN}}"
+
+msgid "devicetypevendorpage_subtitle-all"
+msgstr "Όλα τα{{VENDOR.NAME}}{{CLASS.PLURAL.MAIN}}"
+
+msgid "drop-down-language_not-found"
+msgstr "Haven't found your language?"
+
+msgid "errorpage_title"
+msgstr "Σφάλμα 500: εσωτερικό σφάλμα διακομιστή"
+
+msgid "landingfooter_landing-subtitle"
+msgstr ""
+
+msgid "landing-footer_catalog-os"
+msgstr ""
+
+msgid "landing-footer_download"
+msgstr "Λήψη DriverPack"
+
+msgid "landing-footer_versions"
+msgstr "Όλες οι εκδόσεις εφαρμογής"
+
+msgid "landing-footer_catalog"
+msgstr "Αναζήτηση Προγραμμάτων οδήγησης"
+
+msgid "landing-footer_drivers-catalog"
+msgstr "Κατάλογος Προγραμμάτων οδήγησης"
+
+msgid "landing-footer_for-admin"
+msgstr "Για διαχειριστές συστήματος"
+
+msgid "landing-footer_for-translators"
+msgstr "Για μεταφραστές"
+
+msgid "landing-footer_drivers-for-laptops"
+msgstr "Προγράμματα οδήγησης Φορητού υπολογιστή"
+
+msgid "landing-footer_hwids"
+msgstr "Device ID"
+
+msgid "landing-footer_license"
+msgstr "Άδεια Χρήσης"
+
+msgid "landing-footer_remove"
+msgstr "Κατάργηση του DriverPack"
+
+msgid "notfoundpage_title"
+msgstr "Σφάλμα 404: η σελίδα δεν βρέθηκε"
+
+msgid "notebookpage_show-more-link"
+msgstr "Δείτε περισσότερα"
+
+msgid "notebookpage_all-devices"
+msgstr "για όλες τις συσκευές"
+
+msgid "notebookspage_subtitle"
+msgstr "Λίστα Όλων των Κατασκευαστών Φορητών υπολογιστών και Netbook"
+
+msgid "notebooksvendorpage_subtitle-popular"
+msgstr "Δημοφιλείς φορητοί υπολογιστές και netbooks {{VENDOR.NAME}}"
+
+msgid "notebooksvendorpage_subtitle-all"
+msgstr "Όλοι οι φορητοί υπολογιστές και netbooks {{VENDOR.NAME}}"
+
+msgid "reviewpage_title"
+msgstr "Αναφορές και προτάσεις για τη βελτίωση του DriverPack"
+
+msgid "searchpage_show-more-link"
+msgstr "Δείτε περισσότερα"
+
+#. i18n: EN: text for {{LINK}} is in key thankyoupopup_download-link; RU:
+#. текст для {{LINK}} находится в ключе thankyoupopup_download-link;
+msgid "thankyoupopup_download-text"
+msgstr ""
+
+msgid "thankyoupopup_title"
+msgstr ""
+
+msgid "thankyoupopup_cta-text"
+msgstr ""
+
+msgid "thankyoupopup_download-link"
+msgstr "λήψη"
+
+msgid "translate-feedback-header_caption"
+msgstr ""
+
+msgid "translate-feedback-popup_title-error"
+msgstr "Κάτι πήγε στραβά"
+
+msgid "translate-feedback-popup_description-error"
+msgstr ""
+
+msgid "translate-feedback-popup_title-success"
+msgstr "Σας ευχαριστούμε"
+
+msgid "translate-feedback-popup_description-success"
+msgstr ""
+
+msgid "translate-feedback-popup_description-join-us"
+msgstr ""
+
+msgid "translate-feedback-popup_description-join-link"
+msgstr "Γίνεται μέλος της ομάδας μεταφραστών μας!"
+
+msgid "translationlandingpage_title"
+msgstr "Μετάφραση DriverPack"
+
+msgid "vendorpage_subtitle-popular"
+msgstr "Δημοφιλείς συσκευές {{VENDOR.NAME}}"
+
+msgid "wannacryptpromopage_cta-text"
+msgstr "Κρυπτογραφικός ιός WannaCrypt — πως να προστατέψετε τον υπολογιστή σας από την μεγαλύτερη επίθεση στην ιστορία;"
+
+msgid "wannacryptpromopage_cta-subtext"
+msgstr ""
+
+msgid "wannacryptpromopage_cta-btn"
+msgstr ""
+
+msgid "wannacryptpromopage_caption-text"
+msgstr ""
+
+msgid "wannacryptpromopage_info-text-title-1"
+msgstr "Τι είναι το WannaCry;"
+
+msgid "wannacryptpromopage_info-text-1"
+msgstr ""
+
+msgid "wannacryptpromopage_info-text-title-2"
+msgstr "Ποιος κινδυνεύει;"
+
+msgid "wannacryptpromopage_info-text-2"
+msgstr ""
+
+msgid "wannacryptpromopage_info-text-title-3"
+msgstr "Πως να προστατέψετε την επιχείρησή σας — η λύση από το DriverPack Solution"
+
+msgid "wannacryptpromopage_info-text-3"
+msgstr ""
+
+msgid "wannacryptpromopage_links-text"
+msgstr ""
+
+msgid "wannacryptpromopage_link-smb"
+msgstr "Πως να ενεργοποιήσετε και απενεργοποιήσετε 1, 2 και 3 των πρωτοκόλλων SMB για τα Windows και τα Windows Διακομιστή"

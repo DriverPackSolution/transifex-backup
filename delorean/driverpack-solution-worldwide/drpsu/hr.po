@@ -1,0 +1,1055 @@
+# Translators:
+# Mihael Wagner <mihaelwa@gmail.com>, 2017
+# Nadia Tegeneva <nadia@drp.su>, 2017
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-08-16 09:41+0000\n"
+"PO-Revision-Date: 2016-09-23 09:12+0000\n"
+"Last-Translator: Nadia Tegeneva <nadia@drp.su>, 2017\n"
+"Language-Team: Croatian (https://www.transifex.com/driverpack-solution/teams/75453/hr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hr\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+
+msgid "adminlandingpage_title"
+msgstr "DriverPack za profesionalce - automatska instalacija upravljačkih programa na svako računalo"
+
+msgid "admincackle_dialog-star"
+msgstr "Molimo ocijenite rad DriverPacka"
+
+msgid "admindriverpacks_landing-title"
+msgstr "Driverpacks (paketi upravljačkih programa)"
+
+msgid "admindriverpacks_landing-subtitle"
+msgstr "Naši driverpackovi sadrže 1 131 989 ručno odabranih i testiranih upravljačkih programa"
+
+msgid "admindriverpacks_downloaded"
+msgstr "Preuzimanja:"
+
+msgid "admindriverpacks_download"
+msgstr "Preuzmite"
+
+msgid "adminfaq_landing-title"
+msgstr "Odgovaramo na Vaša pitanja"
+
+msgid "adminfaq_landing-subtitle"
+msgstr "Često postavljate pitanja vezana uz DriverPack — odgovaramo na ona najpopularnija"
+
+msgid "adminheader_cta-text"
+msgstr "Driverpack je stvoren za administratore, ali jednostavan je za upotrebu čak i početnicima"
+
+msgid "adminheader_cta-btn"
+msgstr "Preuzmite DriverPack Online"
+
+msgid "adminheader_products-caption"
+msgstr "Svaki će DriverPack začas podesiti Vaše računalo, samo odaberite paket koji trebate"
+
+msgid "search_noresult"
+msgstr "Preuzmite DriverPack Online"
+
+msgid "adminpromo_landing-title"
+msgstr "Novi DriverPack 18 se razvija"
+
+msgid "adminpromo_landing-subtitle"
+msgstr "Nova verzija posebno je namijenjena administratorima te uzima njihove potrebe u obzir"
+
+msgid "adminpromo_banner-text"
+msgstr "Novi DriverPack 18 zasnovan je na temeljima prijašnjih verzija koje su već dokazale svoju iznimnu stabilnost. Izlazak nove verzije predviđa se 2017. godine."
+
+msgid "adminpromo_list-item-speed"
+msgstr "Optimizirali smo brzinu instalacije i pokretanje programa."
+
+msgid "adminpromo_list-item-ui"
+msgstr "Sučelje kartice Upravljački programi redizajnirano je te sada administratorima sustava pruža više informacija"
+
+msgid "adminpromo_list-item-settings"
+msgstr "Opseg postavki je povećan i dodana je mogućnost individualnog podešavanja"
+
+msgid "adminpromo_list-item-soft"
+msgstr "Prisilna instalacija ponuđenog softvera nije uključena na zadanim postavkama"
+
+msgid "adminpromo_list-item-packs"
+msgstr "Pristup driverpackovima u potpunosti je promijenjen kako bismo se riješili plavih ekrana i ostalih poteškoća."
+
+msgid "adminpromo_list-item-device-support"
+msgstr "Opseg upravljačkih programa sad pokriva mnogo veći dijapazon hardvera (uključujući i vrlo star hardver)"
+
+msgid "adminpromo_list-item-expert-mode"
+msgstr "Ekspertni način je uključen na zadanim postavkama"
+
+msgid "adminpromo_list-item-stable-db"
+msgstr "Stvorena je najstabilnija baza upravljačkih programa. Ažurirali smo format baze upravljačkih programa."
+
+msgid "adminpromo_list-item-full-db"
+msgstr "Stvorena je najveća i jedinstvena baza upravljačkih programa na svijetu"
+
+msgid "buttonsplitdropdown_main-button"
+msgstr "Preuzimanje"
+
+msgid "breadcrumbs_main-text"
+msgstr "Početna stranica"
+
+msgid "breadcrumbs_vendors-text"
+msgstr "Proizvođači"
+
+#. i18n: EN: Example: VENDOR.NAME=Lenovo; RU: Пример: VENDOR.NAME=Lenovo;
+msgid "breadcrumbs_vendor-text"
+msgstr "{{VENDOR.NAME}}"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=cardreaders|monitors; RU: Пример:
+#. CLASS.PLURAL.MAIN=картридеры|мониторы;
+msgid "breadcrumbs_deviceclass-text"
+msgstr "{{CLASS.PLURAL.MAIN}}"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=cardreaders|monitors,
+#. VENDOR.NAME=Realtek; RU: Пример: CLASS.PLURAL.MAIN=картридеры|мониторы;
+#. VENDOR.NAME=Realtek;
+msgid "breadcrumbs_devicegroups-text"
+msgstr "{{VENDOR.NAME}}{{CLASS.PLURAL.MAIN}}"
+
+#. i18n: EN: Example: GROUP.VENDOR.NAME=Nvidia, GROUP.NAME=GeForce 210; RU:
+#. Пример: GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210;
+msgid "breadcrumbs_devicegroup-text"
+msgstr "{{GROUP.VENDOR.NAME}}{{GROUP.NAME}}"
+
+msgid "breadcrumbs_notebooks-text"
+msgstr "Prijenosna računala"
+
+#. i18n: EN: Example: VENDOR.NAME=Asus; RU: Пример: VENDOR.NAME=Asus;
+msgid "breadcrumbs_notebookvendor-text"
+msgstr "{{VENDOR.NAME}} prijenosna računala"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=X1 carbon;
+#. RU: Пример: NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=X1 carbon;
+msgid "breadcrumbs_notebook-text"
+msgstr "{{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}}"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=Videocards|Chipsets ,
+#. NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=G580; RU: Пример:
+#. CLASS.PLURAL.MAIN=видеокарты|чипсеты, NOTEBOOK.VENDOR.NAME=Lenovo,
+#. NOTEBOOK.NAME=G580;
+msgid "breadcrumbs_notebookdevices-text"
+msgstr "{{CLASS.PLURAL.MAIN}} prijenosno računalo {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
+
+msgid "devicecard_download-btn"
+msgstr "Preuzmite upravljački program"
+
+#. i18n: EN: Example: NAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10 x86; Text
+#. for {{DOWNLOAD}} is in key drivercard_no-results_download-link; RU: Пример:
+#. NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10 x86; Текст для
+#. {{DOWNLOAD}} находится в ключе drivercard_no-results_download-link;
+msgid "devicecard_details_no-results-text"
+msgstr "Upravljački programi za {{NAME}} za {{OSVERSIONS}} nisu pronađeni u katalogu. {{DOWNLOAD}} da biste automatski odabrali upravljački program."
+
+msgid "devicecard_details_no-results_download-link"
+msgstr "Preuzmite DriverPack"
+
+msgid "devicecard_details-content-text"
+msgstr "Učitavanje podataka..."
+
+msgid "devicecard_details_all-systems"
+msgstr "svi sustavi"
+
+msgid "devicecard_details-content-label-version"
+msgstr "Verzija:"
+
+msgid "devicecard_details-content-label-version-recommended"
+msgstr "Preporučeno"
+
+msgid "devicecard_details-content-label-date"
+msgstr "Datum:"
+
+msgid "devicecard_details-content-label-type"
+msgstr "Vrsta upravljačkog programa:"
+
+msgid "devicecard_details-content-label-manufacturer"
+msgstr "Proizvođač:"
+
+msgid "devicecard_details-content-label-systems"
+msgstr "Operacijski sustavi:"
+
+msgid "devicecard_details-content-label-deviceid"
+msgstr "Device ID:"
+
+msgid "devicecard_details-content-label-inf"
+msgstr "*.inf datoteka:"
+
+msgid "devicecard_details-content-label-section"
+msgstr "Kategorija:"
+
+msgid "devicecard_details-links-merged_label"
+msgstr "Ako se Device ID koji trebate ne nalazi na popisu, upišite ga u polje za pretragu"
+
+msgid "devicecard_details-links-notebook_device"
+msgstr "Pogledajte sve upravljačke programe"
+
+msgid "devicecard_details-links"
+msgstr "Pogledajte sve upravljačke programe za"
+
+#. i18n: EN: Example: DEVICENAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10
+#. x86; Text for {{DOWNLOAD}} is in key devicecardlist_no-result_download-
+#. link; RU: Пример: NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10
+#. x86; Текст для {{DOWNLOAD}} находится в ключе devicecardlist_no-
+#. result_download-link;
+msgid "devicecardlist_no-results-device-text"
+msgstr "Upravljački programi za {{DEVICENAME}} za {{OSVERSIONS}} nisu pronađeni u katalogu. {{DOWNLOAD}} da biste automatski odabrali upravljački program."
+
+#. i18n: EN: Example: DEVICECLASS=chipsets|videocards; NOTEBOOK=Acer AO521;
+#. OSVERSIONS=Windows 10 x86; Text for {{DOWNLOAD}} is in key
+#. devicecardlist_no-result_download-link; RU: Пример:
+#. DEVICECLASS=чипсета|видеокарты; NOTEBOOK=Acer AO521; Пример:
+#. OSVERSIONS=Windows 10 x86; Текст для {{DOWNLOAD}} находится в ключе
+#. devicecardlist_no-result_download-link;
+msgid "devicecardlist_no-results-notebook-text"
+msgstr "Upravljački programi za prijenosno računalo {{NOTEBOOK}} za {{OSVERSIONS}} nisu pronađeni u katalogu. {{DOWNLOAD}} da biste automatski odabrali upravljački program."
+
+#. i18n: EN: Example: NOTEBOOK=Acer AO521; OSVERSIONS=Windows 10 x86; Text for
+#. {{DOWNLOAD}} is in key devicecardlist_no-result_download-link; RU: Пример:
+#. NOTEBOOK=Acer AO521; Пример: OSVERSIONS=Windows 10 x86; Текст для
+#. {{DOWNLOAD}} находится в ключе devicecardlist_no-result_download-link;
+msgid "devicecardlist_no-results-notebook-device-class-text"
+msgstr "Upravljački programi za {{DEVICECLASS}} za prijenosno računalo {{NOTEBOOK}} nisu pronađeni u katalogu. {{OSVERSIONS}} nisu pronađene. {{DOWNLOAD}}da biste automatski odabrali upravljački program."
+
+msgid "devicecardlist_no-result_download-link"
+msgstr "Preuzmite DriverPack"
+
+msgid "devicegrouppage_all-systems"
+msgstr "Svi sustavi"
+
+msgid "notebookpage_all-systems"
+msgstr "Svi sustavi"
+
+msgid "devicegroupfilters_filter-title"
+msgstr "Dostupni upravljački programi"
+
+msgid "deviceidfilters-filter-label-version"
+msgstr "Verzija upravljačkog programa:"
+
+msgid "deviceidheader_caption-single"
+msgstr "Naziv uređaja:"
+
+msgid "deviceidheader_caption-many"
+msgstr "Ovaj uređaj poznat je još i pod sljedećim nazivima:"
+
+msgid "devicetypelist_title_os"
+msgstr ""
+
+msgid "devicetypelist_title"
+msgstr "Pretraživanje upravljačkih programa za uređaje"
+
+#. i18n: EN: Example: NAME=Acer Aspire 4830TG; OSVERSIONS=Windows 10 x86; Text
+#. for {{DOWNLOAD}} is in key drivercard_no-results_download-link; RU: Пример:
+#. NAME=Acer Aspire 4830TG; Пример: OSVERSIONS=Windows 10 x86; Текст для
+#. {{DOWNLOAD}} находится в ключе drivercard_no-results_download-link;
+msgid "drivercard_no-results-text"
+msgstr "Upravljački programi za {{NAME}} za {{OSVERSIONS}} nisu pronađeni u katalogu. {{DOWNLOAD}} da biste automatski odabrali upravljački program."
+
+msgid "drivercard_no-results_download-link"
+msgstr "Preuzmite DriverPack"
+
+msgid "drivercard_caption-version"
+msgstr "Verzija:"
+
+msgid "drivercard_caption-version-recommended"
+msgstr "Preporučeno"
+
+msgid "drivercard_caption-date"
+msgstr "Datum:"
+
+msgid "drivercard_caption-class"
+msgstr "Vrsta uređaja:"
+
+msgid "drivercard_caption-manufacturer"
+msgstr "Proizvođač:"
+
+msgid "drivercard_caption-os"
+msgstr "Operacijski sustavi:"
+
+msgid "drivercard_caption-deviceid"
+msgstr "Device ID:"
+
+msgid "drivercard_caption-inf"
+msgstr "*.inf datoteka:"
+
+msgid "drivercard_caption-section"
+msgstr "Kategorija:"
+
+msgid "drivercard_caption-btn"
+msgstr "Preuzmite upravljački program"
+
+msgid "deviceidpage_all-systems"
+msgstr "Svi sustavi"
+
+msgid "dropdowndriverversion_no-results"
+msgstr "Upravljački programi za odabrani operacijski sustav nisu pronađeni"
+
+msgid "dropdownos_current"
+msgstr "Trenutačna"
+
+msgid "footer_banner-title"
+msgstr "Dosta Vam je traženja upravljačkih programa za Vaše uređaje?"
+
+msgid "footer_banner-caption"
+msgstr "DriverPack Online <span style='color: {{COLOR}}'>automatski će pronaći i instalirati </span> potrebne upravljačke programe"
+
+msgid "footer_banner_btn"
+msgstr "Besplatno preuzmite <span class='bold'> DriverPack Online </span>"
+
+msgid "footer_translate-feedback"
+msgstr "Pronašli ste tipfeler ili pogrešku? <br /> Istaknite je i kliknite na {{HOTKEY}}"
+
+msgid "header_search-title"
+msgstr "<span class='bold'>Pretraživanje upravljačkih programa korištenjem</span> najveće baze — više od milijun upravljačkih programa"
+
+msgid "header_search-examples"
+msgstr "Na primjer:"
+
+msgid "header_cta-text"
+msgstr "Preuzmite DriverPack za automatski odabir upravljačkog programa"
+
+msgid "header_cta-btn"
+msgstr "Automatski instalirajte upravljačke programe"
+
+msgid "header_cta-label-1"
+msgstr "Odmah <span style='color: {{COLOR}}'>će se preuzeti</span>"
+
+msgid "header_cta-label-2"
+msgstr "Automatski <span style='color: {{COLOR}}'>će odabrati i instalirati</span> upravljačke programe"
+
+msgid "headerbutton_title"
+msgstr "Automatski instalirajte upravljačke programe"
+
+msgid "headerbutton_label"
+msgstr "Program DriverPack posve je besplatan"
+
+msgid "headeros_cta-btn"
+msgstr ""
+
+msgid "headeros_search-text"
+msgstr ""
+
+msgid "landingdevicetypelist_landing-title"
+msgstr "DriverPack je prikladan za svaki uređaj"
+
+msgid "landingdevicetypelist_landing-subtitle"
+msgstr "Čak i za USB 3.0 na Windowsu 7 SP1"
+
+msgid "landingdevicetypelist_cta-btn"
+msgstr "Instalirajte sve potrebne upravljačke programe"
+
+msgid "landingdevicetypelist_versions"
+msgstr "Ostale verzije aplikacija"
+
+msgid "landingfeatures_landing-title"
+msgstr "DriverPack je najzgodniji i najbrži način za podešavanje računala"
+
+msgid "landingfeatures_landing-subtitle"
+msgstr "Program se preuzima besplatno te je prikladan i za profesionalce i za početnike "
+
+msgid "landingfeatures_item-title-free"
+msgstr "Besplatno"
+
+msgid "landingfeatures_item-caption-free"
+msgstr "DriverPack se besplatno preuzima"
+
+msgid "landingfeatures_item-title-safe"
+msgstr "Sigurno"
+
+msgid "landingfeatures_item-caption-safe"
+msgstr "DriverPack službeno surađuje s proizvođačima antivirusnog softvera i štiti računalo"
+
+msgid "landingfeatures_item-title-for-all-devices"
+msgstr "Za sve uređaje"
+
+msgid "landingfeatures_item-caption-for-all-devices"
+msgstr "DriverPack posjeduje najveću bazu upravljačkih programa na svijetu, pa stoga može podesiti svako računalo."
+
+msgid "landingheader_cta-text"
+msgstr "DriverPack će besplatno instalirati upravljačke programe na svakome uređaju riješiti probleme s njima"
+
+msgid "landingheader_cta-btn"
+msgstr "Instalirajte sve potrebne upravljačke programe"
+
+msgid "landingheadernav_wannacrypt"
+msgstr "Zaštita od WannaCryja"
+
+msgid "landingheadernav_search"
+msgstr "Pretraživanje upravljačkih programa"
+
+msgid "landingheadernav_foradmin"
+msgstr "Za administratore sustava"
+
+msgid "landingintroduction_author-title"
+msgstr "Zdravo! Zovem se Artur Kuzyakov. Autor sam i osnivač DriverPacka"
+
+msgid "landingintroduction_author-speech"
+msgstr "Iz malog programa koji je nastao prije 8 godina kao rezultat čistog entuzijazma, pretvorili smo se u tvrtku koja je pomogla više od 40 milijuna ljudi diljem svijeta da podese svoja računala! <br /><br /> U ovih 8 godina poslovanja, naš je softver postao nevjerojatno brz i inteligentan. Danas je DriverPack najveća baza jedinstvenih upravljačkih programa na svijetu koja se nalazi na vrlo brzim poslužiteljima diljem svijeta. Kako bismo proces instalacije upravljačkih programa izveli ne samo brzo, već i vrlo kvalitetno, koristimo tehnologije strojnog učenja što naš algoritam za izbor čini još boljim i točnijim. Osim toga, uspjeli smo to postići tako da softver i dalje bude besplatan te ga svaka osoba može koristiti. <br /><br /> Moj tim i ja ponosni smo na svoj proizvod i nadamo se da će Vam postati pouzdan pomoćnik koji će moći podesiti svako računalo u najkraćem mogućem roku."
+
+msgid "landingintroduction_author-speech-marked"
+msgstr "Trošimo sve svoje vrijeme kako bismo uštedjeli Vaše!"
+
+msgid "landingintroduction_video-caption"
+msgstr "Evo što premijer Ruske Federacije Dmitry Medvedev misli o DriverPack Solutionu"
+
+msgid "landingnotebookvendorslist_landing-title"
+msgstr "DriverPack Solution prikladan je za svako računalo"
+
+msgid "landingnotebookvendorslist_landing-subtitle"
+msgstr "Da, za svako računalo - provjerili smo!"
+
+msgid "landingnotebookvendorslist_cta-btn"
+msgstr "Instalirajte sve potrebne upravljačke programe"
+
+msgid "landingnotebookvendorslist_versions"
+msgstr "Ostale verzije aplikacija"
+
+msgid "landingproducts_item-title-online"
+msgstr "DriverPack Online"
+
+msgid "landingproducts_item-caption-online"
+msgstr "Preuzmite odmah i svi će potrebni upravljački programi biti u potpunosti preuzeti prilikom instalacije"
+
+msgid "landingproducts_item-version"
+msgstr "Verzija:"
+
+msgid "landingproducts_item-button"
+msgstr "Preuzmite"
+
+msgid "landingproducts_item-title-network"
+msgstr "DriverPack Network"
+
+msgid "landingproducts_item-caption-network"
+msgstr "Preuzimanje je brzo i sadrži upravljačke programe za mrežni hardver"
+
+msgid "landingproducts_item-title-offline"
+msgstr "DriverPack Offline"
+
+msgid "landingproducts_item-caption-offline"
+msgstr "Funkcionira bez pristupa internetu, ali veličina mu je 13.9 GB (korisna administratorima sustava)"
+
+msgid "landingpublications__landing-title"
+msgstr "Objave o DriverPacku u masovnim medijima"
+
+msgid "landingscreenshots_landing-title"
+msgstr "DriverPack je najzgodniji i najbrži način podešavanja računala"
+
+msgid "landingscreenshots_landing-subtitle"
+msgstr "Program se preuzima besplatno te je prikladan i za profesionalce i za početnike"
+
+msgid "landingseofooter_landing-subtitle-notebooks"
+msgstr "DriverPack je prikladan za sve modele stolnih i prijenosnih računala"
+
+msgid "landingseofooter_landing-subtitle-devices"
+msgstr ""
+
+msgid "landingsocial_landing-title"
+msgstr "Pridružite se DriverPack zajednici"
+
+msgid "landingsocial_landing-subtitle"
+msgstr "Pratite novosti i sudjelujte u raspravama"
+
+msgid "landingusers_cta"
+msgstr "Broj korisnika DriverPacka diljem svijeta raste svake sekunde"
+
+msgid "landingusers_cta-btn"
+msgstr "Instalirajte sve potrebne upravljačke programe"
+
+msgid "landingusers_versions"
+msgstr "Ostale verzije aplikacija"
+
+msgid "landingwizard_landing-title"
+msgstr "Sada računalo možete podesiti jednim klikom miša"
+
+msgid "landingwizard_item-caption-download"
+msgstr "Preuzmite i pokrenite DriverPack Online"
+
+msgid "landingwizard_item-caption-setup"
+msgstr "Jednom jednostavnom radnjom postavite računalo"
+
+msgid "landingwizard_item-caption-profit"
+msgstr "Jupi! Moje računalo sada radi kao novo!"
+
+msgid "landingwizard_cta-btn"
+msgstr "Instalirajte sve potrebne upravljačke programe"
+
+msgid "navbar_download-link-short"
+msgstr "Preuzmite"
+
+msgid "navbar_download-link"
+msgstr "Preuzmite DriverPack Online"
+
+msgid "notfound_cta-text"
+msgstr "Možete automatski pronaći i besplatno instalirati upravljačke programe koristeći DriverPack Online"
+
+msgid "notfound_cta-btn"
+msgstr "Preuzmite DriverPack Online"
+
+msgid "notfound_info-404"
+msgstr "{{404}} — Tražena stranica nije pronađena"
+
+msgid "notfound_info-500"
+msgstr "{{500}} — nešto je pošlo po zlu (greška poslužitelja)"
+
+msgid "notebookfilters-title"
+msgstr "Dostupni upravljački programi"
+
+msgid "notebookvendorslist_other-text"
+msgstr "Ostali proizvođači"
+
+msgid "notebookvendorslist_title_os"
+msgstr ""
+
+msgid "notebookvendorslist_title"
+msgstr "Pretraživanje upravljačkih programa za prijenosna računala"
+
+msgid "promoheader_cta-text-gamers"
+msgstr "Vaše je računalo snažnije nego što mislite: besplatno ažurirajte sve upravljačke programe"
+
+msgid "promoheader_cta-text-gamers-caption"
+msgstr "Ako volite računalne igre, preporučamo Vam da češće nadograđujete upravljačke programe na računalu kako biste postigli najvišu razinu učinkovitosti svojeg hardvera. Do 37% više FPS-a - najbolje iskustvo igranja i nova dostignuća s novim DriverPackom."
+
+msgid "promoheader_cta-text"
+msgstr "DriverPack će besplatno instalirati upravljačke programe na svakome uređaju riješiti probleme s njima"
+
+msgid "promoheader_cta-btn"
+msgstr "Instalirajte sve potrebne upravljačke programe"
+
+msgid "promoheader_size"
+msgstr "Veličina datoteke: {{SIZE}} KB"
+
+msgid "promoheader_license"
+msgstr "Sporazum o licenci"
+
+msgid "promoheader_os-versions"
+msgstr "Program je namijenjen Windowsima 10, 8.1, 8, 7, Vista, XP"
+
+msgid "promoheader_uninstall"
+msgstr "Uklanjanje DriverPacka"
+
+msgid "reviewheader_cta-text"
+msgstr "Pridružite se DriverPack zajednici na društvenim mrežama kako biste bili u tijeku s novostima vezanim uz proizvod i sudjelovali u raspravama"
+
+msgid "reviewheader_cta"
+msgstr "Izrecite svoje mišljenje ili dajte prijedlog kako da poboljšamo DriverPack"
+
+msgid "search_input-placeholder"
+msgstr "Pretraživanje po upravljačkom programu, modelu prijenosnog računala ili DeviceID-u"
+
+msgid "search_btn-text"
+msgstr "Pronađi"
+
+msgid "searchformitem_type-section"
+msgstr "Kategorija"
+
+msgid "searchformitem_type-notebook"
+msgstr "prijenosno računalo"
+
+msgid "searchformitem_type-device"
+msgstr "uređaj"
+
+msgid "searchformitem_type-free"
+msgstr "besplatno"
+
+#. i18n: EN: Example: NAME=Acer; RU: Пример: NAME=Acer;
+msgid "generatesearchitemname_notebookvendor"
+msgstr "Prijenosna računala {{NAME}}"
+
+#. i18n: EN: Example: NAME=Asus; RU: Пример: NAME=Asus;
+msgid "generatesearchitemname_vendor"
+msgstr "Uređaj tvrtke {{NAME}}"
+
+msgid "deviceclasses_bluetooth-single-main"
+msgstr "Bluetooth uređaj"
+
+msgid "deviceclasses_bluetooth-single-for"
+msgstr "Bluetooth uređaj"
+
+msgid "deviceclasses_bluetooth-plural-main"
+msgstr "Bluetooth uređaji"
+
+msgid "deviceclasses_bluetooth-plural-for"
+msgstr "Bluetooth uređaje"
+
+msgid "deviceclasses_cardreader-single-main"
+msgstr "čitač kartica"
+
+msgid "deviceclasses_cardreader-single-for"
+msgstr "čitač kartica"
+
+msgid "deviceclasses_cardreader-plural-main"
+msgstr "čitači kartica"
+
+msgid "deviceclasses_cardreader-plural-for"
+msgstr "čitače kartica"
+
+msgid "deviceclasses_chipset-single-main"
+msgstr "chipset"
+
+msgid "deviceclasses_chipset-single-for"
+msgstr "chipset"
+
+msgid "deviceclasses_chipset-plural-main"
+msgstr "chipseti"
+
+msgid "deviceclasses_chipset-plural-for"
+msgstr "chipsete"
+
+msgid "deviceclasses_inputdev-single-main"
+msgstr "ulazni uređaj"
+
+msgid "deviceclasses_inputdev-single-for"
+msgstr "ulazni uređaj"
+
+msgid "deviceclasses_inputdev-plural-main"
+msgstr "ulazni uređaji"
+
+msgid "deviceclasses_inputdev-plural-for"
+msgstr "ulazne uređaje"
+
+msgid "deviceclasses_lan-single-main"
+msgstr "mrežna kartica"
+
+msgid "deviceclasses_lan-single-for"
+msgstr "mrežnu karticu"
+
+msgid "deviceclasses_lan-plural-main"
+msgstr "mrežne kartice"
+
+msgid "deviceclasses_lan-plural-for"
+msgstr "mrežne kartice"
+
+msgid "deviceclasses_massstorage-single-main"
+msgstr "kontroler"
+
+msgid "deviceclasses_massstorage-single-for"
+msgstr "kontroler"
+
+msgid "deviceclasses_massstorage-plural-main"
+msgstr "kontroleri"
+
+msgid "deviceclasses_massstorage-plural-for"
+msgstr "kontrolere"
+
+msgid "deviceclasses_modem-single-main"
+msgstr "modem"
+
+msgid "deviceclasses_modem-single-for"
+msgstr "modem"
+
+msgid "deviceclasses_modem-plural-main"
+msgstr "modemi"
+
+msgid "deviceclasses_modem-plural-for"
+msgstr "modeme"
+
+msgid "deviceclasses_monitor-single-main"
+msgstr "monitor"
+
+msgid "deviceclasses_monitor-single-for"
+msgstr "monitor"
+
+msgid "deviceclasses_monitor-plural-main"
+msgstr "monitori"
+
+msgid "deviceclasses_monitor-plural-for"
+msgstr "monitore"
+
+msgid "deviceclasses_phone-single-main"
+msgstr "pametni telefon"
+
+msgid "deviceclasses_phone-single-for"
+msgstr "pametni telefon"
+
+msgid "deviceclasses_phone-plural-main"
+msgstr "pametni telefoni"
+
+msgid "deviceclasses_phone-plural-for"
+msgstr "pametne telefone"
+
+msgid "deviceclasses_sound-single-main"
+msgstr "zvučna kartica"
+
+msgid "deviceclasses_sound-single-for"
+msgstr "zvučnu karticu"
+
+msgid "deviceclasses_sound-plural-main"
+msgstr "zvučne kartice"
+
+msgid "deviceclasses_sound-plural-for"
+msgstr "zvučne kartice"
+
+msgid "deviceclasses_tvtuner-single-main"
+msgstr "TV kartica"
+
+msgid "deviceclasses_tvtuner-single-for"
+msgstr "TV karticu"
+
+msgid "deviceclasses_tvtuner-plural-main"
+msgstr "TV kartice"
+
+msgid "deviceclasses_tvtuner-plural-for"
+msgstr "TV kartice"
+
+msgid "deviceclasses_video-single-main"
+msgstr "grafička kartica"
+
+msgid "deviceclasses_video-single-for"
+msgstr "grafičku karticu"
+
+msgid "deviceclasses_video-plural-main"
+msgstr "grafičke kartice"
+
+msgid "deviceclasses_video-plural-for"
+msgstr "grafičke kartice"
+
+msgid "deviceclasses_webcamera-single-main"
+msgstr "web kamera"
+
+msgid "deviceclasses_webcamera-single-for"
+msgstr "web kameru"
+
+msgid "deviceclasses_webcamera-plural-main"
+msgstr "web kamere"
+
+msgid "deviceclasses_webcamera-plural-for"
+msgstr "web kamere"
+
+msgid "deviceclasses_wifi-single-main"
+msgstr "uređaj za bežično spajanje s mrežom"
+
+msgid "deviceclasses_wifi-single-for"
+msgstr "uređaj za bežično spajanje s mrežom"
+
+msgid "deviceclasses_wifi-plural-main"
+msgstr "uređaji za bežično spajanje s mrežom"
+
+msgid "deviceclasses_wifi-plural-for"
+msgstr "uređaje za bežično spajanje s mrežom"
+
+msgid "deviceclasses_other-single-main"
+msgstr "drugi uređaj"
+
+msgid "deviceclasses_other-single-for"
+msgstr "drugi uređaj"
+
+msgid "deviceclasses_other-plural-main"
+msgstr "drugi uređaji"
+
+msgid "deviceclasses_other-plural-for"
+msgstr "druge uređaje"
+
+msgid "searchheader_caption-subtitle"
+msgstr "Rezultati pretrage za pojam"
+
+msgid "searchheader_caption-filter-label"
+msgstr "Preuzet će se upravljački program za odabrani operacijski sustav"
+
+#. i18n: EN: Example: NOTEBOOK=Acer AO521; Text for {{DOWNLOAD}} is in key
+#. searchresult_details-content_download-link; RU: Пример: NOTEBOOK=Acer
+#. AO521; Текст для {{DOWNLOAD}} находится в ключе searchresult_details-
+#. content_download-link
+msgid "searchresult_details-content-notebook-text"
+msgstr "{{DOWNLOAD}} kako bi odgovarajući upravljački programi bili automatski prepoznati i instalirani ili idite na {{NOTEBOOK}} stranicu i ručno odaberite potreban upravljački program"
+
+msgid "searchresult_details-content_download-link"
+msgstr "Preuzmite DriverPack"
+
+msgid "searchresult_notebook"
+msgstr "Prijenosno računalo"
+
+msgid "searchresult_download-btn"
+msgstr "Automatski instaliraj upravljački program"
+
+msgid "searchresult_details-content-text-placeholder"
+msgstr "Učitavanje podataka..."
+
+msgid "searchresult_details-content-label-1"
+msgstr "Operacijski sustav"
+
+msgid "searchresult_details-content-label-2"
+msgstr "Svi sustavi"
+
+#. i18n: EN: Example: DEVICE=NVIDIA GeForce 205; Text for {{DOWNLOAD}} is in
+#. key searchresult_details-content_download-link; RU: Пример: DEVICE=NVIDIA
+#. GeForce 205; Текст для {{DOWNLOAD}} находится в ключе searchresult_details-
+#. content_download-link
+msgid "searchresult_details-content-group-text"
+msgstr "{{DOWNLOAD}} kako bi odgovarajući upravljački programi bili automatski prepoznati i instalirani ili idite na {{DEVICE}} stranicu i ručno odaberite potreban upravljački program"
+
+#. i18n: EN: Example: CLASS.SINGLE.MAIN=monitor|chipset; COUNT=12; RU: Пример:
+#. CLASS.SINGLE.MAIN=монитор|чипсет; COUNT=12;
+msgid "searchresult_device"
+msgstr "{{CLASS.SINGLE.MAIN}} ({{COUNT}} rezultata pronađena)"
+
+msgid "searchresult_details-content-text-many"
+msgstr "Za ovaj uređaj pronađeno je više različitih verzija upravljačkog programa"
+
+msgid "seofooter_os-list-title"
+msgstr "Verzije operacijskog sustava <span itemprop='operatingSystem'>{{OSLIST}}</span>"
+
+msgid "seofooter_offers-title"
+msgstr "<meta itemprop='price' content='0' />Besplatno <span itemprop='offers' itemscope='' itemtype='http://schema.org/Offer'>se preuzima</span>"
+
+msgid "seofooter_driver-description-title"
+msgstr "Opis upravljačkog programa"
+
+msgid "seofooter_popular-drivers-title"
+msgstr "Popularni upravljački programi"
+
+msgid "sidebanner_title"
+msgstr "Dosta Vam je traženja upravljačkih programa?"
+
+msgid "sidebanner_caption"
+msgstr "DriverPack će automatski <span class='SideBanner__caption-marked'>odabrati i instalirati</span> potrebne upravljačke programe"
+
+msgid "translationheader_cta-text"
+msgstr "Sudjelujte u prevođenju DriverPackove internetske stranice i pomozite milijunima korisnika diljem svijeta"
+
+msgid "translationheader_bubble-team"
+msgstr "Biste li voljeli biti dio prevoditeljskog tima za najveći sustav automatskog podešavanja računala na svijetu?"
+
+msgid "translationheader_bubble-languages"
+msgstr "Baratate li engleskim ili ruskim i spremni ste prevesti s jednog od ta dva jezika na svoj materinji?"
+
+msgid "translationheader_bubble-experience"
+msgstr "Imate li iskustva u prevođenju softvera ili internetskih stranica koristeći prijevodne servise na internetu?"
+
+msgid "translationheader_bubble-email"
+msgstr "Ako su Vaši odgovori DA, molimo Vas javite nam se na adresu {{EMAIL}} pod predmet napišite„{{SUBJECT}}\" i recite nam s kojim ste se ciljnim jezikom spremni uhvatiti u koštac. "
+
+msgid "translationlist_title"
+msgstr "Popis ovlaštenih prevoditelja DriverPacka"
+
+msgid "translationtool_text-transifex"
+msgstr "Lokalizaciju DriverPack Solutiona radimo uz pomoć servisa transifex.com"
+
+msgid "translationtool_example-ru-to-en"
+msgstr "Tekst za prijevod s ruskog (RU) na engleski (EN) i na jezike ZND (ZND)"
+
+msgid "translationtool_example-en-to-all"
+msgstr "Tekst za prijevod s engleskog (EN) na druge svjetske jezike"
+
+msgid "language_title"
+msgstr "Croatian"
+
+msgid "landingPagePublications_rbk"
+msgstr "DriverPack je program koji sadrži upravljačke programe za Windows koje je pomno odabrao i testirao tim Artura Kuzyakova. Alat analizira korisnikovo računalo i na njega instalira potrebne upravljačke programe kojima otklanja dva problema: prvo, ubrzava proces podešavanja računala (što je od posebne važnosti ako se u sustavu nalazi mnoštvo računala), a kao drugo poboljšava kvalitetu postupka."
+
+msgid "landingPagePublications_secretfirmy"
+msgstr "DriverPack danas ima najveću bazu upravljačkih programa na svijetu koja je prevedena na 45 jezika  više od 42 milijuna ljudi ga koristi na svojim računalima."
+
+msgid "landingPagePublications_cnews"
+msgstr "Od trenutka kad je prva verzija programa izrađena, DriverPack Solution bio je vrlo popularan među korisnicima. Program se može besplatno preuzeti. Po tomu se DriverPack Solution razlikuje od konkurencije i privlači sve više i više novih korisnika."
+
+msgid "landingPagePublications_xbit"
+msgstr "DriverPack Solution zanimljiva je aplikacija s lepezom mogućnosti koje drugi programi iste vrste ne pružaju. Svaki korisnik može popraviti sve pogreške i podesiti sustav i sve uređaje u njemu za pravilan rad u samo dva klika. Broj upravljačkih programa u DriverPackovoj bazi već je prešao 1.1 milijun. Svi od njih su testirani radi sigurnosti."
+
+msgid "landingPagePublications_chip"
+msgstr "S DriverPackom pronalazak najnovijih verzija upravljačkih programa za Vaše komponente računala nije izazov. Najugodnija stvar je ta što korisnik ne mora ništa raditi samostalno. Ovaj je alat posve automatiziran i pogodan za korištenje."
+
+msgid "landingPagePublications_pcmag"
+msgstr "DriverPack Protect pomoći će Vam da zaštitite računalo od zloćudnih i neželjenih programa i programskih dodataka u čijem uklanjaju čak i antivirusni programi i programi za uklanjanje reklama često zakažu."
+
+msgid "landingPagePublications_habr"
+msgstr "Potreba za pretraživanjem i instalacijom upravljačkih programa svaki put kada iznova instalirate operacijski sustav je, po mome mišljenju, jedna od najznačajnijih mana cijelog sustava Windows. No davne 2008. odlučio sam riješiti taj problem i napisao sam vlastiti program koji sam nazvao DriverPack. Danas moj proizvod koristi više od 40 milijuna korisnika diljem svijeta i mislim da je problem upravljačkih programa u Windowsima riješen, mada koristeći programe drugih proizvođača."
+
+msgid "landingPagePublications_computerra"
+msgstr "Nova verzija pruža korisniku više alata za odabir vlastite kolekcija upravljačkih programa. To je vrlo izražen problem za računalne servisere koji dolaze u dodir s mnogo različitog hardvera. Sada je moguće integrirati bilo koje alternativne driverpackove u sam DriverPack umjesto uklanjanja nepotrebnih."
+
+msgid "landingPagePublications_vc"
+msgstr "Zahvaljujući glasinama, korisnici su preveli proizvod na više od 45 jezika bez sudjelovanja našeg tima."
+
+msgid "adminpagefaq_official_vendors-q"
+msgstr "Prije negoli je DriverPack nastao, skidao sam upravljačke programe sa službenih stranica proizvođača, ali čak i s njima sam nailazio na probleme. Zbog čega su upravljački programi u DriverPacku pouzdaniji od onih koje nudi proizvođač?"
+
+msgid "adminpagefaq_official_vendors-a"
+msgstr "Kako bismo svoju bazu upravljačkih programa učinili ne samo najvećom, već i najstabilnijom, stalno naporno radimo trajno je poboljšavajući. Popravljamo čak i greške u kodovima koje su proizvođačima promakle! Koristimo tehnologiju strojnog učenja i zahvaljujući njoj, naš se algoritam za odabir stalno poboljšava. Upravo je to razlog zašto su upravljački programi DriverPacka najpouzdaniji :-)"
+
+msgid "adminpagefaq_database-q"
+msgstr "Na koji se način DriverPackova baza povećava? Mogu li zaista u njoj pronaći upravljačke programe koje trebam?"
+
+msgid "adminpagefaq_database-a"
+msgstr "Naša je baza upravljačkih programa do danas najveća na svijetu. Upravo zato ćete moći pronaći upravljački program za svaki uređaj s 99% vjerojatnošću. Kako bismo nastavili prikupljati i podržavati takvu bazu, surađujemo izravno s proizvođačima uređaja i razvojnim timovima upravljačkih programa, prikupljamo i testiramo upravljačke programe sa službenih stranica kao i sa privatnih FTP poslužitelja, a u obzir uzimamo i prijedloge aktivnih korisnika."
+
+msgid "adminpagefaq_free-q"
+msgstr "Je li istina da je DriverPack potpuno besplatan?"
+
+msgid "adminpagefaq_free-a"
+msgstr ""
+
+msgid "adminpagefaq_antivirus-q"
+msgstr "Moj antivirusni program otkrio je virus u DriverPacku - kako se to moglo dogoditi?"
+
+msgid "adminpagefaq_antivirus-a"
+msgstr "Vrlo vjerojatno je riječ o lažnoj detekciji, budući da sve verzije DriverPacka prolaze temeljitu provjeru Kaspersky Laboratoryja koji ujedno i akreditira DriverPack. Naša tvrtka također surađuje s mnogim proizvođačima antivirusnih programa kao što su Avast i 360 Total Security. Kako bi nastavili s korištenjem, jednostavno dodajte DriverPack na popis izuzetaka Vašeg antivirusnog programa. Cijenili bismo da tu lažnu detekciju prijavite antivirusnoj tvrtki i našoj Službi za podršku."
+
+msgid "adminpagefaq_expert_mode-q"
+msgstr "Koji je najzgodniji način korištenja DriverPacka?"
+
+msgid "adminpagefaq_expert_mode-a"
+msgstr ""
+
+msgid "adminpagefaq_stable-q"
+msgstr "Upravljački program nije se uspješno instalirao te sada prilikom korištenja računala dolazi do problema. Kako mogu to popraviti?"
+
+msgid "adminpagefaq_stable-a"
+msgstr "Stabilnost prilikom rada DriverPacka jedan je od naših glavnih prioriteta, ali rijetko se dogode neke manje pogreške. Iz tog razloga stvaramo točku vraćanja koja će Vam omogućiti da sve vratite u onakvo stanje kakvo je bilo prije DriverPacka. Kako bismo spriječili ponavljanje problema u budućnosti, preporučamo da odete na DriverPackov App izbornik i našoj tehničkoj službi pošaljete izvještaj koji program automatski stvara."
+
+msgid "devicegrouppage_show-more-link"
+msgstr "Više rezultata"
+
+msgid "devicestypepage_subtitle"
+msgstr "Svi proizvođači {{CLASS.SINGLE.FOR}}"
+
+msgid "devicetypevendorpage_subtitle-popular"
+msgstr "Popularne {{CLASS.PLURAL.MAIN}}{{VENDOR.NAME}}"
+
+msgid "devicetypevendorpage_subtitle-all"
+msgstr "Svi {{CLASS.PLURAL.MAIN}}{{VENDOR.NAME}}"
+
+msgid "drop-down-language_not-found"
+msgstr "Haven't found your language?"
+
+msgid "errorpage_title"
+msgstr "Greška 500: Interna greška poslužitelja"
+
+msgid "landingfooter_landing-subtitle"
+msgstr ""
+
+msgid "landing-footer_catalog-os"
+msgstr ""
+
+msgid "landing-footer_download"
+msgstr "Preuzmite DriverPack"
+
+msgid "landing-footer_versions"
+msgstr "Sve verzije aplikacije"
+
+msgid "landing-footer_catalog"
+msgstr "Pretraživanje upravljačkih programa"
+
+msgid "landing-footer_drivers-catalog"
+msgstr "Katalog upravljačkih programa"
+
+msgid "landing-footer_for-admin"
+msgstr "Za administratore sustava"
+
+msgid "landing-footer_for-translators"
+msgstr "Za prevoditelje"
+
+msgid "landing-footer_drivers-for-laptops"
+msgstr "Upravljački programi za prijenosna računala"
+
+msgid "landing-footer_hwids"
+msgstr "Device ID"
+
+msgid "landing-footer_license"
+msgstr "Sporazum o licenci"
+
+msgid "landing-footer_remove"
+msgstr "Uklanjanje DriverPacka"
+
+msgid "notfoundpage_title"
+msgstr "Greška 404: Stranica nije pronađena"
+
+msgid "notebookpage_show-more-link"
+msgstr "Više rezultata"
+
+msgid "notebookpage_all-devices"
+msgstr "za sve uređaje"
+
+msgid "notebookspage_subtitle"
+msgstr "Popis svih proizvođača prijenosnih i netbook računala"
+
+msgid "notebooksvendorpage_subtitle-popular"
+msgstr "Popularna prijenosna i netbook računala tvrtke {{VENDOR.NAME}}"
+
+msgid "notebooksvendorpage_subtitle-all"
+msgstr "Sva prijenosna i netbook računala tvrtke {{VENDOR.NAME}}"
+
+msgid "reviewpage_title"
+msgstr "Povratne informacije i prijedlozi vezani uz poboljšanje DriverPacka"
+
+msgid "searchpage_show-more-link"
+msgstr "Više rezultata"
+
+#. i18n: EN: text for {{LINK}} is in key thankyoupopup_download-link; RU:
+#. текст для {{LINK}} находится в ключе thankyoupopup_download-link;
+msgid "thankyoupopup_download-text"
+msgstr "Preuzimanje nije počelo? Kliknite ovdje {{LINK}}"
+
+msgid "thankyoupopup_title"
+msgstr "Pokrenite DriverPack"
+
+msgid "thankyoupopup_cta-text"
+msgstr "da biste započeli s odabirom i instalacijom upravljačkih programa na računalo"
+
+msgid "thankyoupopup_download-link"
+msgstr "preuzimanje"
+
+msgid "translate-feedback-header_caption"
+msgstr "Ova je stranica tek prevedena. Pronašli ste tipfeler? Označite ga i pritisnite {{HOTKEY}}"
+
+msgid "translate-feedback-popup_title-error"
+msgstr "Nešto je pošlo po zlu"
+
+msgid "translate-feedback-popup_description-error"
+msgstr "Označen tekst nije poslan zbog problema na poslužitelju. <br />Molimo pokušajte kasnije."
+
+msgid "translate-feedback-popup_title-success"
+msgstr "Hvala Vam"
+
+msgid "translate-feedback-popup_description-success"
+msgstr "Označeni tekst poslan je uredniku."
+
+msgid "translate-feedback-popup_description-join-us"
+msgstr "Molimo Vas da nam pomognete prijevodom programa na svoj materinski jezik."
+
+msgid "translate-feedback-popup_description-join-link"
+msgstr "Pridružite se našem prevoditeljskom timu!"
+
+msgid "translationlandingpage_title"
+msgstr "Prijevod DriverPacka"
+
+msgid "vendorpage_subtitle-popular"
+msgstr "Popularni uređaji tvrtke {{VENDOR.NAME}}"
+
+msgid "wannacryptpromopage_cta-text"
+msgstr "Kriptografski virus WannaCrypt - kako zaštititi računalo od najvećeg napada u povijesti?"
+
+msgid "wannacryptpromopage_cta-subtext"
+msgstr "DriverPack ima posebna sredstva za uklanjanje propusta. Možete preuzeti besplatnu zaštitu od virusa WannaCry za svoje osobno i prijenosno računalo koja će ih zaštititi."
+
+msgid "wannacryptpromopage_cta-btn"
+msgstr "Podesite računalo i zaštitite ga od WannaCryja"
+
+msgid "wannacryptpromopage_caption-text"
+msgstr "Program je besplatan"
+
+msgid "wannacryptpromopage_info-text-title-1"
+msgstr "Što je WannaCrypt?"
+
+msgid "wannacryptpromopage_info-text-1"
+msgstr "Ucjenjivački virus WannyCrypt (koji su žrtve spontano nazvale WannaCry) 12. svibnja napao je računala diljem svijeta i inficirao uređaje više od 300 000 ljudi u 150 država. Najviše su pogođene Zapadne Europa, Rusija i Kina. U Velikoj Britaniji virus je Ministarstvu zdravstva onemogućio pristup mreži i time zaustavio rad bolnica diljem države. U Kini je napad pogodio stara računala u tvornici zaustavivši time rad brojnih industrija.<br/><br/> Glavno načelo na kojem se ovaj virus zasniva jednostavno je: probija se do Vašeg osobnog ili prijenosnog računala i šifrira apsolutno sve dokumente, datoteke i materijale koje može pronaći i onemogućava njihovo korištenje. Potom ucjenjivači traže veliku svotu novca za dešifriranje — oko 300 $. Ipak, nema garancije da ćete opet dobiti pristup svojim podacima. Trenutačno ne postoji način na koji možete sami dešifrirati te datoteke, a rješenja koja se nude na internetu su sumnjiva, način širenja još nekog virusa ili ne funkcioniraju sa 100% -tnom vjerojatnošću."
+
+msgid "wannacryptpromopage_info-text-title-2"
+msgstr "Tko je u opasnosti?"
+
+msgid "wannacryptpromopage_info-text-2"
+msgstr "Računala koja ne koriste operacijski sustav 10 sa zatvorenim SMB portovima u najvećoj su opasnosti. Trenutačno je u opasnosti polovina korisnika operacijskog sustava Windows — 18% su nelegalne kopije (koje su automatski spadaju u rizičnu skupinu), 23% korisnika isključilo je servis za Ažuriranje sustava Windows (što im onemogućava pristup najnovijim ažuriranjima i &#147;zakrpama&#148; iz Microsofta), a još 6% korisnika koristi nepodržane verzije sustava koje više ne dobivaju ažuriranja. <br/><br/>Zaključak svega gorenavedenog je: mreže raznih tvrtki i poduzeća koja još uvijek koriste operacijske sustave poput Windowsa XP u najvećoj su opasnosti. U slučaju napada na takve mreže, gubitak podataka može ih stajati golemu svotu novaca., čak i ako govorimo o nekakvoj &#147;otkupnini&#148;, morat će je platiti za svako računalo posebno."
+
+msgid "wannacryptpromopage_info-text-title-3"
+msgstr "Kako zaštititi svoju tvrtku — rješenje DriverPack Solutiona"
+
+msgid "wannacryptpromopage_info-text-3"
+msgstr ""
+
+msgid "wannacryptpromopage_links-text"
+msgstr "Razvoj ovog rješenja temeljili smo na sljedećem sadržaju"
+
+msgid "wannacryptpromopage_link-smb"
+msgstr "Kako uključiti i isključiti SMB protokole verzije 1, 2 i 3 u Windowsima i u Windows Serverima"

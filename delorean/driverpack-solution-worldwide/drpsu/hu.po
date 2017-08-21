@@ -1,0 +1,1058 @@
+# Translators:
+# Zsolt Brechler <zsolt.brechler@gmail.com>, 2017
+# Артур Кузяков <artx@drp.su>, 2017
+# user14 <nleknh@gmail.com>, 2017
+# Nadia Tegeneva <nadia@drp.su>, 2017
+# Adam <adamee007@gmail.com>, 2017
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-08-16 09:41+0000\n"
+"PO-Revision-Date: 2016-09-23 09:12+0000\n"
+"Last-Translator: Adam <adamee007@gmail.com>, 2017\n"
+"Language-Team: Hungarian (https://www.transifex.com/driverpack-solution/teams/75453/hu/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hu\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "adminlandingpage_title"
+msgstr "DriverPack a szakértők számára - automatikus drivertelepítés bármely számítógépen"
+
+msgid "admincackle_dialog-star"
+msgstr "Kérlek értékeld a DriverPack működését!"
+
+msgid "admindriverpacks_landing-title"
+msgstr "Driverpacks (driverek csomagjai)"
+
+msgid "admindriverpacks_landing-subtitle"
+msgstr "A driverpacks, vagyis drivercsomagok 1.131.989 drivert tartalmaznak, melyek manuálisan kerültek kiválasztásra és letesztelésre."
+
+msgid "admindriverpacks_downloaded"
+msgstr "Letöltések:"
+
+msgid "admindriverpacks_download"
+msgstr "Letöltés"
+
+msgid "adminfaq_landing-title"
+msgstr "Válaszolunk a kérdéseitekre"
+
+msgid "adminfaq_landing-subtitle"
+msgstr "Gyakran bukkannak fel kédések a DriverPack —kal kapcsolatban. A legnépszerűbbeket itt válaszoljuk meg."
+
+msgid "adminheader_cta-text"
+msgstr "A DriverPack a rendszergazdák számára készült, de a kezdők is könnyedén elboldogulnak vele."
+
+msgid "adminheader_cta-btn"
+msgstr "DriverPack Online letöltése"
+
+msgid "adminheader_products-caption"
+msgstr "Bármely DriverPack pillanatok alatt települ a számítógépre. Egész egyszerűen válaszd ki azt a csomagot, amelyre szükséged van:"
+
+msgid "search_noresult"
+msgstr "DriverPack Online letöltése"
+
+msgid "adminpromo_landing-title"
+msgstr "Az új DriverPack 18 fejlesztés alatt van"
+
+msgid "adminpromo_landing-subtitle"
+msgstr "Az új verzió kimondottan a rendszergazdák számára készült, és az ő igényeiket tartja szem előtt."
+
+msgid "adminpromo_banner-text"
+msgstr "Az új DriverPack 18 az előző verziókon alapul, és már bizonyította kivételes stabilitását. Az új verzió kiadása a 2017-es év során esedékes."
+
+msgid "adminpromo_list-item-speed"
+msgstr "A telepítés sebessége és az alkalmazás elindítása optimalizálásra került."
+
+msgid "adminpromo_list-item-ui"
+msgstr "A driverek fül kezelőfelülete áttervezésre került, és sokkal több információt tartalmaz a rendszergazdák számára."
+
+msgid "adminpromo_list-item-settings"
+msgstr "A beállítások hatóköre kiterjesztésre került, és egy Egyéni testreszabás beállítással bővült ki."
+
+msgid "adminpromo_list-item-soft"
+msgstr "Az ajánlott szoftverek kényszerített telepítése alapértelmezetten ki van kapcsolva."
+
+msgid "adminpromo_list-item-packs"
+msgstr "A driverpacks alapvető megközelítése megváltozott, hogy kiküszöbölhetővé váljanak a kék halálok és egyéb problémák."
+
+msgid "adminpromo_list-item-device-support"
+msgstr "A driverek lényegesen nagyobb hardverválasztékot fednek le (beleértve a nagyon régi típusokat is)."
+
+msgid "adminpromo_list-item-expert-mode"
+msgstr "A szakértő mód alapértelmezett módon aktív."
+
+msgid "adminpromo_list-item-stable-db"
+msgstr "A legstabilabb driver adatbázist hoztuk lére. A driver adatbázis formátumát lecseréltük egy frissebb változatra."
+
+msgid "adminpromo_list-item-full-db"
+msgstr "Létrejött a világ legnagyobb és legegyedibb driver adatbázisa."
+
+msgid "buttonsplitdropdown_main-button"
+msgstr "Letöltés"
+
+msgid "breadcrumbs_main-text"
+msgstr "Honlap"
+
+msgid "breadcrumbs_vendors-text"
+msgstr "Gyártók"
+
+#. i18n: EN: Example: VENDOR.NAME=Lenovo; RU: Пример: VENDOR.NAME=Lenovo;
+msgid "breadcrumbs_vendor-text"
+msgstr "{{VENDOR.NAME}}"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=cardreaders|monitors; RU: Пример:
+#. CLASS.PLURAL.MAIN=картридеры|мониторы;
+msgid "breadcrumbs_deviceclass-text"
+msgstr "{{CLASS.PLURAL.MAIN}}"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=cardreaders|monitors,
+#. VENDOR.NAME=Realtek; RU: Пример: CLASS.PLURAL.MAIN=картридеры|мониторы;
+#. VENDOR.NAME=Realtek;
+msgid "breadcrumbs_devicegroups-text"
+msgstr "{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
+
+#. i18n: EN: Example: GROUP.VENDOR.NAME=Nvidia, GROUP.NAME=GeForce 210; RU:
+#. Пример: GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210;
+msgid "breadcrumbs_devicegroup-text"
+msgstr "{{GROUP.VENDOR.NAME}} {{GROUP.NAME}}"
+
+msgid "breadcrumbs_notebooks-text"
+msgstr "Laptopok"
+
+#. i18n: EN: Example: VENDOR.NAME=Asus; RU: Пример: VENDOR.NAME=Asus;
+msgid "breadcrumbs_notebookvendor-text"
+msgstr "{{VENDOR.NAME}} laptopok"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=X1 carbon;
+#. RU: Пример: NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=X1 carbon;
+msgid "breadcrumbs_notebook-text"
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=Videocards|Chipsets ,
+#. NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=G580; RU: Пример:
+#. CLASS.PLURAL.MAIN=видеокарты|чипсеты, NOTEBOOK.VENDOR.NAME=Lenovo,
+#. NOTEBOOK.NAME=G580;
+msgid "breadcrumbs_notebookdevices-text"
+msgstr "{{CLASS.PLURAL.MAIN}} {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptophoz"
+
+msgid "devicecard_download-btn"
+msgstr "Driver letöltése"
+
+#. i18n: EN: Example: NAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10 x86; Text
+#. for {{DOWNLOAD}} is in key drivercard_no-results_download-link; RU: Пример:
+#. NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10 x86; Текст для
+#. {{DOWNLOAD}} находится в ключе drivercard_no-results_download-link;
+msgid "devicecard_details_no-results-text"
+msgstr "{{NAME}} driverek a Windows {{OSVERSIONS}} változatához nem találhatók az adatbázisban. {{DOWNLOAD}} a kiválasztott driver automatikus letöltéséhez!"
+
+msgid "devicecard_details_no-results_download-link"
+msgstr "DriverPack letöltése"
+
+msgid "devicecard_details-content-text"
+msgstr "Adatok betöltése..."
+
+msgid "devicecard_details_all-systems"
+msgstr "összes rendszerhez"
+
+msgid "devicecard_details-content-label-version"
+msgstr "Verzió:"
+
+msgid "devicecard_details-content-label-version-recommended"
+msgstr "ajánlott"
+
+msgid "devicecard_details-content-label-date"
+msgstr "Dátum:"
+
+msgid "devicecard_details-content-label-type"
+msgstr "Driver típusa:"
+
+msgid "devicecard_details-content-label-manufacturer"
+msgstr "Gyártó:"
+
+msgid "devicecard_details-content-label-systems"
+msgstr "Operációs rendszerek:"
+
+msgid "devicecard_details-content-label-deviceid"
+msgstr "Device ID:"
+
+msgid "devicecard_details-content-label-inf"
+msgstr "*.inf fájl:"
+
+msgid "devicecard_details-content-label-section"
+msgstr "Kategória:"
+
+msgid "devicecard_details-links-merged_label"
+msgstr "Ha a Device ID, vagyis eszköz azonosító nem található a listában, add meg a keresősávban!"
+
+msgid "devicecard_details-links-notebook_device"
+msgstr "Összes driver megtekintése"
+
+msgid "devicecard_details-links"
+msgstr "Driverek megtekintése:"
+
+#. i18n: EN: Example: DEVICENAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10
+#. x86; Text for {{DOWNLOAD}} is in key devicecardlist_no-result_download-
+#. link; RU: Пример: NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10
+#. x86; Текст для {{DOWNLOAD}} находится в ключе devicecardlist_no-
+#. result_download-link;
+msgid "devicecardlist_no-results-device-text"
+msgstr "{{DEVICENAME}} driverek Windows {{OSVERSIONS}} verzióhoz nem találhatóak meg az adatbázisban. {{DOWNLOAD}} a driver automatikus kiválasztásához!"
+
+#. i18n: EN: Example: DEVICECLASS=chipsets|videocards; NOTEBOOK=Acer AO521;
+#. OSVERSIONS=Windows 10 x86; Text for {{DOWNLOAD}} is in key
+#. devicecardlist_no-result_download-link; RU: Пример:
+#. DEVICECLASS=чипсета|видеокарты; NOTEBOOK=Acer AO521; Пример:
+#. OSVERSIONS=Windows 10 x86; Текст для {{DOWNLOAD}} находится в ключе
+#. devicecardlist_no-result_download-link;
+msgid "devicecardlist_no-results-notebook-text"
+msgstr "{{NOTEBOOK}} laptop driverei a Windows {{OSVERSIONS}} verzióhoz nem találhatóak meg az adatbázisban. {{DOWNLOAD}} a driver automatikus kiválasztásához!"
+
+#. i18n: EN: Example: NOTEBOOK=Acer AO521; OSVERSIONS=Windows 10 x86; Text for
+#. {{DOWNLOAD}} is in key devicecardlist_no-result_download-link; RU: Пример:
+#. NOTEBOOK=Acer AO521; Пример: OSVERSIONS=Windows 10 x86; Текст для
+#. {{DOWNLOAD}} находится в ключе devicecardlist_no-result_download-link;
+msgid "devicecardlist_no-results-notebook-device-class-text"
+msgstr "Nem találhatóak {{DEVICECLASS}} driverek a {{NOTEBOOK}} laptophoz Windows {{OSVERSIONS}} verzió alá. {{DOWNLOAD}} a driverek automatikusan kiválasztásához!"
+
+msgid "devicecardlist_no-result_download-link"
+msgstr "DriverPack letöltése"
+
+msgid "devicegrouppage_all-systems"
+msgstr "összes rendszerhez"
+
+msgid "notebookpage_all-systems"
+msgstr "összes rendszerhez"
+
+msgid "devicegroupfilters_filter-title"
+msgstr "Elérhető driverek"
+
+msgid "deviceidfilters-filter-label-version"
+msgstr "Driver verzió:"
+
+msgid "deviceidheader_caption-single"
+msgstr "Eszköz neve:"
+
+msgid "deviceidheader_caption-many"
+msgstr "Ez az eszköz az alábbi neveken is ismert:"
+
+msgid "devicetypelist_title_os"
+msgstr ""
+
+msgid "devicetypelist_title"
+msgstr "Eszközök driver keresése"
+
+#. i18n: EN: Example: NAME=Acer Aspire 4830TG; OSVERSIONS=Windows 10 x86; Text
+#. for {{DOWNLOAD}} is in key drivercard_no-results_download-link; RU: Пример:
+#. NAME=Acer Aspire 4830TG; Пример: OSVERSIONS=Windows 10 x86; Текст для
+#. {{DOWNLOAD}} находится в ключе drivercard_no-results_download-link;
+msgid "drivercard_no-results-text"
+msgstr "{{NAME}} driverek a Windows {{OSVERSIONS}} változatához nem találhatók az adatbázisban. {{DOWNLOAD}} a kiválasztott driver automatikus letöltéséhez!"
+
+msgid "drivercard_no-results_download-link"
+msgstr "DriverPack letöltése"
+
+msgid "drivercard_caption-version"
+msgstr "Verzió:"
+
+msgid "drivercard_caption-version-recommended"
+msgstr "ajánlott"
+
+msgid "drivercard_caption-date"
+msgstr "Dátum:"
+
+msgid "drivercard_caption-class"
+msgstr "Eszköz típusa:"
+
+msgid "drivercard_caption-manufacturer"
+msgstr "Gyártó:"
+
+msgid "drivercard_caption-os"
+msgstr "Operációs rendszerek:"
+
+msgid "drivercard_caption-deviceid"
+msgstr "Device ID:"
+
+msgid "drivercard_caption-inf"
+msgstr "*.inf fájl:"
+
+msgid "drivercard_caption-section"
+msgstr "Kategória:"
+
+msgid "drivercard_caption-btn"
+msgstr "Driver letöltése"
+
+msgid "deviceidpage_all-systems"
+msgstr "összes rendszerhez"
+
+msgid "dropdowndriverversion_no-results"
+msgstr "Nem találhatóak a kiválasztott rendszerhez driverek"
+
+msgid "dropdownos_current"
+msgstr "aktuális"
+
+msgid "footer_banner-title"
+msgstr "Meguntad az eszközeid folytonos driverkeresését?"
+
+msgid "footer_banner-caption"
+msgstr "A DriverPack Online automatikusan <span style='color: {{COLOR}}'>felkutatja, és letölti</span> a szükséges drivereket"
+
+msgid "footer_banner_btn"
+msgstr "<span class='bold'>DriverPack Online</span> ingyenes letöltése"
+
+msgid "footer_translate-feedback"
+msgstr "Hibára vagy félregépelésre bukkantál?<br />Jelöld ki és kattints a {{HOTKEY}}-re!"
+
+msgid "header_search-title"
+msgstr "<span class='bold'>Driverkeresés</span> a legnagyobb adatbázisban — több mint egymillió drivert tartalmaz"
+
+msgid "header_search-examples"
+msgstr "Például:"
+
+msgid "header_cta-text"
+msgstr "Töltsd le a DriverPack programot az automatikus driverkiválasztáshoz!"
+
+msgid "header_cta-btn"
+msgstr "Driverek automatikus telepítése"
+
+msgid "header_cta-label-1"
+msgstr "Azonnal <span style='color: {{COLOR}}'>letöltődik</span>"
+
+msgid "header_cta-label-2"
+msgstr "Automatikusan<span style='color: {{COLOR}}'>kiválasztja, és telepíti</span> a drivereket"
+
+msgid "headerbutton_title"
+msgstr "Driverek automatikus telepítése"
+
+msgid "headerbutton_label"
+msgstr "A DriverPack szoftver teljesen ingyenes"
+
+msgid "headeros_cta-btn"
+msgstr ""
+
+msgid "headeros_search-text"
+msgstr ""
+
+msgid "landingdevicetypelist_landing-title"
+msgstr "A DriverPack bármilyen készülékhez használható"
+
+msgid "landingdevicetypelist_landing-subtitle"
+msgstr "Még Windows 7 SP1 alatt, USB 3.0 esetében is"
+
+msgid "landingdevicetypelist_cta-btn"
+msgstr "Összes szükséges driver telepítése"
+
+msgid "landingdevicetypelist_versions"
+msgstr "Egyéb DriverPack verziók"
+
+msgid "landingfeatures_landing-title"
+msgstr "A DriverPack a számítógép beállításának legkényelmesebb és a leggyorsabb módja"
+
+msgid "landingfeatures_landing-subtitle"
+msgstr "A szoftver ingyenesen kerül terjesztésre, és hozzáértők, valamint kezdők számára is megfelel"
+
+msgid "landingfeatures_item-title-free"
+msgstr "Ingyenes"
+
+msgid "landingfeatures_item-caption-free"
+msgstr "A DriverPack ingyenesen kerül terjesztésre"
+
+msgid "landingfeatures_item-title-safe"
+msgstr "Biztonságos"
+
+msgid "landingfeatures_item-caption-safe"
+msgstr "A DriverPack hivatalosan együttműködik a vírusirtó fejlesztőkkel, és megvédi a számítógépet"
+
+msgid "landingfeatures_item-title-for-all-devices"
+msgstr "Minden készülékhez"
+
+msgid "landingfeatures_item-caption-for-all-devices"
+msgstr "A DriverPack birtokolja a legnagyobb driver adatbázist az egész világon, ezáltal pedig bármely számítógépet képes ellátni"
+
+msgid "landingheader_cta-text"
+msgstr "A DriverPack ingyenesen telepíti a drivereket, és megoldja bármely eszköz drivergondjait"
+
+msgid "landingheader_cta-btn"
+msgstr "Összes szükséges driver telepítése"
+
+msgid "landingheadernav_wannacrypt"
+msgstr "Védelem a WannaCry ellen"
+
+msgid "landingheadernav_search"
+msgstr "Illesztőprogram keresés"
+
+msgid "landingheadernav_foradmin"
+msgstr "Rendszergazdák részére"
+
+msgid "landingintroduction_author-title"
+msgstr "Üdvözöllek! A nevem Artur Kuzyakov. Én vagyok a DriverPack alapítója és fejlesztője."
+
+msgid "landingintroduction_author-speech"
+msgstr "A 8 évvel ezelőtti, pusztán lelkesedésből írt aprócska szoftver mára egy vállalattá nőtte ki magát, mely több mint 40 millió embernek segített beállítani a számítógépét.<br /><br />A 8 év alatt a szoftverünk hihetetlenül gyorssá és intelligenssé vált. Ma a DriverPack a legnagyobb egyedi driver adatbázist foglalja magában az egész világon, mely ultragyors szerverekről érhető el a világ minden táján. Annak érdekében, hogy a driverek telepítése ne csak gyors, de a lehető legjobb minőséget is nyújtsa, gépesített tanulási technológiát, vagyis machine learning -et használunk, mely még jobbá és pontosabbá teszi a kijelölési algoritmusunkat. Emellett sikerült mindezt úgy elérnünk, hogy a szoftver teljesen ingyenes maradhatott, így minden érdeklődő használatba veheti. <br /><br />A csapatom és én büszkék vagyunk a termékünkre, és reméljük, hogy akár egy megbízható asszisztens, bármely gépet beállítja majd a kérésedre."
+
+msgid "landingintroduction_author-speech-marked"
+msgstr "Minden időnket arra fordítják, hogy neked időt spóroljunk!"
+
+msgid "landingintroduction_video-caption"
+msgstr "Dmitry Medvedev, Oroszország miniszterelnöke a következőket mondta a DriverPack Solution -ről"
+
+msgid "landingnotebookvendorslist_landing-title"
+msgstr "A DriverPack Solution bármely számítógéphez használható"
+
+msgid "landingnotebookvendorslist_landing-subtitle"
+msgstr "Igen, bármelyik gépet, mert ellenőriztük!"
+
+msgid "landingnotebookvendorslist_cta-btn"
+msgstr "Összes szükséges driver telepítése"
+
+msgid "landingnotebookvendorslist_versions"
+msgstr "Egyéb DriverPack verziók"
+
+msgid "landingproducts_item-title-online"
+msgstr "DriverPack Online"
+
+msgid "landingproducts_item-caption-online"
+msgstr "Azonnali letöltésre kerül, és letölti az összes szükséges drivert a telepítés során"
+
+msgid "landingproducts_item-version"
+msgstr "Verzió:"
+
+msgid "landingproducts_item-button"
+msgstr "Letöltés"
+
+msgid "landingproducts_item-title-network"
+msgstr "DriverPack Network"
+
+msgid "landingproducts_item-caption-network"
+msgstr "Gyorsan letöltődik, és tartalmazza a hálózati eszközökhöz szükséges drivereket"
+
+msgid "landingproducts_item-title-offline"
+msgstr "DriverPack Offline"
+
+msgid "landingproducts_item-caption-offline"
+msgstr "Internetkapcsolat nélkül működik, de a mérete 13.9 GB (rendszergazdák számára hasznos)"
+
+msgid "landingpublications__landing-title"
+msgstr "Média publikációk a DriverPack -ról"
+
+msgid "landingscreenshots_landing-title"
+msgstr "A DriverPack a legkönnyebb és leggyorsabb módja a driverek telepítéséhez a számítógépre"
+
+msgid "landingscreenshots_landing-subtitle"
+msgstr "A szoftver ingyenesen kerül terjesztésre, és hozzáértők, valamint kezdők számára is megfelel"
+
+msgid "landingseofooter_landing-subtitle-notebooks"
+msgstr "A DriverPack az összes számítógép és laptop modellhez használható"
+
+msgid "landingseofooter_landing-subtitle-devices"
+msgstr ""
+
+msgid "landingsocial_landing-title"
+msgstr "Csatlakozz a DriverPack közösséghez!"
+
+msgid "landingsocial_landing-subtitle"
+msgstr "Kövesd a híreket, és vegyél részt a beszélgetésekben!"
+
+msgid "landingusers_cta"
+msgstr "A DriverPack felhasználók száma a világon minden egyes percben egyre csak nő"
+
+msgid "landingusers_cta-btn"
+msgstr "Összes szükséges driver telepítése"
+
+msgid "landingusers_versions"
+msgstr "Egyéb DriverPack verziók"
+
+msgid "landingwizard_landing-title"
+msgstr "Most már lehetséges az egy kattintásos drivertelepítés"
+
+msgid "landingwizard_item-caption-download"
+msgstr "A DriverPack Online letöltése, és indítása"
+
+msgid "landingwizard_item-caption-setup"
+msgstr "Telepítsd fel a drivereket egyetlen művelettel!"
+
+msgid "landingwizard_item-caption-profit"
+msgstr "Hurrá! A számítógépem mostantól szinte újként működik!"
+
+msgid "landingwizard_cta-btn"
+msgstr "Összes szükséges driver telepítése"
+
+msgid "navbar_download-link-short"
+msgstr "Letöltés"
+
+msgid "navbar_download-link"
+msgstr "DriverPack Online letöltése"
+
+msgid "notfound_cta-text"
+msgstr "A driverek keresése, és telepítése teljesen ingyenes a DriverPack Online használatával"
+
+msgid "notfound_cta-btn"
+msgstr "DriverPack Online letöltése"
+
+msgid "notfound_info-404"
+msgstr "{{404}} — a kért oldal nem található"
+
+msgid "notfound_info-500"
+msgstr "{{500}} — valami rosszul sült el (szerverhiba)"
+
+msgid "notebookfilters-title"
+msgstr "Elérhető driverek"
+
+msgid "notebookvendorslist_other-text"
+msgstr "  További gyártók"
+
+msgid "notebookvendorslist_title_os"
+msgstr ""
+
+msgid "notebookvendorslist_title"
+msgstr "Driverek keresése laptopokhoz"
+
+msgid "promoheader_cta-text-gamers"
+msgstr "A számítógéped erősebb, mint hinnéd: frissítsd az összes drivert ingyen!"
+
+msgid "promoheader_cta-text-gamers-caption"
+msgstr "Ha szeretsz játszani a számítógépeden, azt ajánljuk, hogy frissítsd rendszeresen a drivereket a lehető legjobb teljesítmény érdekében. Akár 37%-kal is több FPS-t érhetsz el! A legjobb játékélmény és teljesítmény a DriverPack -kal szerezhető meg."
+
+msgid "promoheader_cta-text"
+msgstr "A DriverPack ingyenesen telepíti a drivereket, és megoldja bármely eszköz drivergondjait"
+
+msgid "promoheader_cta-btn"
+msgstr "Összes szükséges driver telepítése"
+
+msgid "promoheader_size"
+msgstr "Fájlméret: {{SIZE}} KB"
+
+msgid "promoheader_license"
+msgstr "Általános Szerződési Feltételek -kel."
+
+msgid "promoheader_os-versions"
+msgstr "A szoftver Windows 10, 8.1, 8, 7, Vista, XP rendszereken használható"
+
+msgid "promoheader_uninstall"
+msgstr "DriverPack eltávolítás"
+
+msgid "reviewheader_cta-text"
+msgstr "Csatlakozz a DriverPack közösséghez a közösségi oldalakon, hogy ne maradj le az új hírekről, és részt vegyél a társalgásban!"
+
+msgid "reviewheader_cta"
+msgstr "Fogalmazz meg véleményt, vagy tanácsot a DriverPack továbbfejlesztéséhez!"
+
+msgid "search_input-placeholder"
+msgstr "Keresés név, laptop vagy DeviceID alapján"
+
+msgid "search_btn-text"
+msgstr "Keresés"
+
+msgid "searchformitem_type-section"
+msgstr "Kategória"
+
+msgid "searchformitem_type-notebook"
+msgstr "laptop"
+
+msgid "searchformitem_type-device"
+msgstr "eszköz"
+
+msgid "searchformitem_type-free"
+msgstr "ingyenes"
+
+#. i18n: EN: Example: NAME=Acer; RU: Пример: NAME=Acer;
+msgid "generatesearchitemname_notebookvendor"
+msgstr "{{NAME}} laptopok"
+
+#. i18n: EN: Example: NAME=Asus; RU: Пример: NAME=Asus;
+msgid "generatesearchitemname_vendor"
+msgstr "{{NAME}} eszközök"
+
+msgid "deviceclasses_bluetooth-single-main"
+msgstr "bluetooth eszköz"
+
+msgid "deviceclasses_bluetooth-single-for"
+msgstr "bluetooth eszköz"
+
+msgid "deviceclasses_bluetooth-plural-main"
+msgstr "bluetooth eszköz"
+
+msgid "deviceclasses_bluetooth-plural-for"
+msgstr "bluetooth eszköz"
+
+msgid "deviceclasses_cardreader-single-main"
+msgstr "kártyaolvasó"
+
+msgid "deviceclasses_cardreader-single-for"
+msgstr "kártyaolvasó"
+
+msgid "deviceclasses_cardreader-plural-main"
+msgstr "kártyaolvasó"
+
+msgid "deviceclasses_cardreader-plural-for"
+msgstr "kártyaolvasó"
+
+msgid "deviceclasses_chipset-single-main"
+msgstr "chipset"
+
+msgid "deviceclasses_chipset-single-for"
+msgstr "chipset"
+
+msgid "deviceclasses_chipset-plural-main"
+msgstr "chipset"
+
+msgid "deviceclasses_chipset-plural-for"
+msgstr "chipset"
+
+msgid "deviceclasses_inputdev-single-main"
+msgstr "bemeneti eszköz"
+
+msgid "deviceclasses_inputdev-single-for"
+msgstr "bemeneti eszköz"
+
+msgid "deviceclasses_inputdev-plural-main"
+msgstr "bemeneti eszköz"
+
+msgid "deviceclasses_inputdev-plural-for"
+msgstr "bemeneti eszköz"
+
+msgid "deviceclasses_lan-single-main"
+msgstr "hálózati kártya"
+
+msgid "deviceclasses_lan-single-for"
+msgstr "hálózati kártya"
+
+msgid "deviceclasses_lan-plural-main"
+msgstr "hálózati kártya"
+
+msgid "deviceclasses_lan-plural-for"
+msgstr "hálózati kártya"
+
+msgid "deviceclasses_massstorage-single-main"
+msgstr "kontroller"
+
+msgid "deviceclasses_massstorage-single-for"
+msgstr "kontroller"
+
+msgid "deviceclasses_massstorage-plural-main"
+msgstr "kontroller"
+
+msgid "deviceclasses_massstorage-plural-for"
+msgstr "kontroller"
+
+msgid "deviceclasses_modem-single-main"
+msgstr "modem"
+
+msgid "deviceclasses_modem-single-for"
+msgstr "modem"
+
+msgid "deviceclasses_modem-plural-main"
+msgstr "modem"
+
+msgid "deviceclasses_modem-plural-for"
+msgstr "modem"
+
+msgid "deviceclasses_monitor-single-main"
+msgstr "monitor"
+
+msgid "deviceclasses_monitor-single-for"
+msgstr "monitor"
+
+msgid "deviceclasses_monitor-plural-main"
+msgstr "monitor"
+
+msgid "deviceclasses_monitor-plural-for"
+msgstr "monitor"
+
+msgid "deviceclasses_phone-single-main"
+msgstr "okostelefon"
+
+msgid "deviceclasses_phone-single-for"
+msgstr "okostelefon"
+
+msgid "deviceclasses_phone-plural-main"
+msgstr "okostelefon"
+
+msgid "deviceclasses_phone-plural-for"
+msgstr "okostelefon"
+
+msgid "deviceclasses_sound-single-main"
+msgstr "hangkártya"
+
+msgid "deviceclasses_sound-single-for"
+msgstr "hangkártya"
+
+msgid "deviceclasses_sound-plural-main"
+msgstr "hangkártya"
+
+msgid "deviceclasses_sound-plural-for"
+msgstr "hangkártya"
+
+msgid "deviceclasses_tvtuner-single-main"
+msgstr "TV-tuner"
+
+msgid "deviceclasses_tvtuner-single-for"
+msgstr "TV-tuner"
+
+msgid "deviceclasses_tvtuner-plural-main"
+msgstr "TV-tuner"
+
+msgid "deviceclasses_tvtuner-plural-for"
+msgstr "TV-tuner"
+
+msgid "deviceclasses_video-single-main"
+msgstr "videókártya"
+
+msgid "deviceclasses_video-single-for"
+msgstr "videókártya"
+
+msgid "deviceclasses_video-plural-main"
+msgstr "videókártya"
+
+msgid "deviceclasses_video-plural-for"
+msgstr "videókártya"
+
+msgid "deviceclasses_webcamera-single-main"
+msgstr "webkamera"
+
+msgid "deviceclasses_webcamera-single-for"
+msgstr "webkamera"
+
+msgid "deviceclasses_webcamera-plural-main"
+msgstr "webkamera"
+
+msgid "deviceclasses_webcamera-plural-for"
+msgstr "webkamera"
+
+msgid "deviceclasses_wifi-single-main"
+msgstr "wifi eszköz"
+
+msgid "deviceclasses_wifi-single-for"
+msgstr "wifi eszköz"
+
+msgid "deviceclasses_wifi-plural-main"
+msgstr "wifi eszköz"
+
+msgid "deviceclasses_wifi-plural-for"
+msgstr "wifi eszköz"
+
+msgid "deviceclasses_other-single-main"
+msgstr "egyéb eszköz"
+
+msgid "deviceclasses_other-single-for"
+msgstr "egyéb eszköz"
+
+msgid "deviceclasses_other-plural-main"
+msgstr "egyéb eszköz"
+
+msgid "deviceclasses_other-plural-for"
+msgstr "egyéb eszköz"
+
+msgid "searchheader_caption-subtitle"
+msgstr "Driverkeresés a következőhöz:"
+
+msgid "searchheader_caption-filter-label"
+msgstr "A driver a kiválasztott rendszerhez kerül letöltésre"
+
+#. i18n: EN: Example: NOTEBOOK=Acer AO521; Text for {{DOWNLOAD}} is in key
+#. searchresult_details-content_download-link; RU: Пример: NOTEBOOK=Acer
+#. AO521; Текст для {{DOWNLOAD}} находится в ключе searchresult_details-
+#. content_download-link
+msgid "searchresult_details-content-notebook-text"
+msgstr "Ajánlott a {{DOWNLOAD}} letöltése a szükséges driverek azonosításához, és automatikus telepítéséhez, vagy látogasd meg a {{NOTEBOOK}} oldalát a szükséges driver kiválasztásához!"
+
+msgid "searchresult_details-content_download-link"
+msgstr "DriverPack letöltése"
+
+msgid "searchresult_notebook"
+msgstr "Laptop"
+
+msgid "searchresult_download-btn"
+msgstr "Driver automatikus telepítése"
+
+msgid "searchresult_details-content-text-placeholder"
+msgstr "Adatok betöltése..."
+
+msgid "searchresult_details-content-label-1"
+msgstr "Operációs rendszer"
+
+msgid "searchresult_details-content-label-2"
+msgstr "összes rendszerhez"
+
+#. i18n: EN: Example: DEVICE=NVIDIA GeForce 205; Text for {{DOWNLOAD}} is in
+#. key searchresult_details-content_download-link; RU: Пример: DEVICE=NVIDIA
+#. GeForce 205; Текст для {{DOWNLOAD}} находится в ключе searchresult_details-
+#. content_download-link
+msgid "searchresult_details-content-group-text"
+msgstr "Ajánlott a {{DOWNLOAD}} letöltése a szükséges driverek azonosításához, és automatikus telepítéséhez, vagy látogasd meg a {{DEVICE}} eszköz oldalát a szükséges driver kiválasztásához!"
+
+#. i18n: EN: Example: CLASS.SINGLE.MAIN=monitor|chipset; COUNT=12; RU: Пример:
+#. CLASS.SINGLE.MAIN=монитор|чипсет; COUNT=12;
+msgid "searchresult_device"
+msgstr "{{CLASS.SINGLE.MAIN}} ({{COUNT}} találat)"
+
+msgid "searchresult_details-content-text-many"
+msgstr "Több különböző driver található ehhez az eszközhöz"
+
+msgid "seofooter_os-list-title"
+msgstr "Operációs rendszer verziói: <span itemprop='operatingSystem'>{{OSLIST}}</span>"
+
+msgid "seofooter_offers-title"
+msgstr "<span itemprop='offers' itemscope='' itemtype='http://schema.org/Offer'>Ingyenesen <meta itemprop='price' content='0' />elérhető</span>"
+
+msgid "seofooter_driver-description-title"
+msgstr "Driver leírása"
+
+msgid "seofooter_popular-drivers-title"
+msgstr "Népszerű driverek"
+
+msgid "sidebanner_title"
+msgstr "Belefáradtál már a driverek keresgélésébe?"
+
+msgid "sidebanner_caption"
+msgstr "A DriverPack automatikusan <span class='SideBanner__caption-marked'>kiválasztja, és alkalmazza</span> a szükséges drivereket"
+
+msgid "translationheader_cta-text"
+msgstr "Vegyél részt a DriverPack honlap fordításában, és segíts több milliónyi felhasználónak világszerte!"
+
+msgid "translationheader_bubble-team"
+msgstr "Szeretnél csatlakozni a világ legnagyobb, automatikus drivertelepítő szolgáltatását nyújtó vállalat fordítócsapatához?"
+
+msgid "translationheader_bubble-languages"
+msgstr "Jól beszéled az angol vagy az orosz nyelvet, így képes lennél az egyikből a saját nyelvedre fordítani?"
+
+msgid "translationheader_bubble-experience"
+msgstr "Van már tapasztalatod a szoftverek vagy honlapok fordításában internetes fordítási szolgáltatások segítségével?"
+
+msgid "translationheader_bubble-email"
+msgstr "Ha a válaszod IGEN mindhárom kérdésre, kérlek küldj nekünk egy elektronikus levelet, vagyis e-mail -t a {{EMAIL}} címre \"{{SUBJECT}}\" tárggyal, és tudasd velünk, hogy melyik a célnyelv, melyre fordítani szeretnél!"
+
+msgid "translationlist_title"
+msgstr "A DriverPack engedélyezett fordítóinak listája"
+
+msgid "translationtool_text-transifex"
+msgstr "A DriverPack Solution esetében a Transifex.com szolgáltatás használjuk lokalizációra:"
+
+msgid "translationtool_example-ru-to-en"
+msgstr "Fordítandó sorok orosz nyelvből (RU) angolra (EN) és CIS nyelvekre (CIS)"
+
+msgid "translationtool_example-en-to-all"
+msgstr "Fordítandó sorok angol nyelvből (EN) más világnyelvekre"
+
+msgid "language_title"
+msgstr "Hungarian"
+
+msgid "landingPagePublications_rbk"
+msgstr "A DriverPack az Artur Kuzyakov csapata által alapos tesztelésnek és válogatásnak alávetett driverek összessége. A szoftver megvizsgálja a felhasználó számítógépét, és telepíti a szükséges drivereket, melyek két problémát segítenek megoldani: először is felgyorsítja a számítógép beállításának folyamatát (amely főként akkor fontos, ha több tucatnyi számítógép található egy hálózaton), másodszor pedig javítja a folyamat minőségét."
+
+msgid "landingPagePublications_secretfirmy"
+msgstr "Mára a DriverPack a világ legnagyobb driver adatbázisává vált,  melyet 45 nyelvre fordítottak le, és több mint 42 millió ember számítógépét látta el driverekkel."
+
+msgid "landingPagePublications_cnews"
+msgstr "A szoftver első verziója óta a DriverPack Solution nagyon népszerűvé vált a felhasználók körében. A szoftver teljesen ingyenesen letölthető. Ez különbözteti meg a DriverPack Solution szolgáltatását a versenytársaitól, és egyre több felhasználót vonz magához."
+
+msgid "landingPagePublications_xbit"
+msgstr "A DriverPack Solution egy érdekes alkalmazás olyan beállítási lehetőségekkel, melyeket a hasonló típusú szoftverek nem biztosítanak. Bármely felhasználó képes lesz kijavítani az összes hibát, és megfelelő működésre beállítani a rendszert, valamint az ahhoz kapcsolódó eszközöket két kattintással. Jelen pillanatban a driverek száma a DriverPack adatbázisban meghaladta az 1.1 millió bejegyzést, és biztonság szempontjából mindegyik ellenőrzésre került."
+
+msgid "landingPagePublications_chip"
+msgstr "A DriverPack segítségével egyáltalán nem jelent kihívást a számítógéped alkatrészeihez tartozó driverek legújabb verzióinak felkutatása. A legkellemesebb tulajdonsága, hogy a felhasználónak semmit sem kell manuálisan tennie. A szoftver teljesen automatizált, és egyszerűen használható."
+
+msgid "landingPagePublications_pcmag"
+msgstr "A DriverPack Protect megvédi a számítógépet a kártékony és adware programoktól, beépülő szoftverektől ott, ahol a vírusirtó szoftverek és hirdetésblokkoló eszközök nem járnak sikerrel."
+
+msgid "landingPagePublications_habr"
+msgstr "Véleményem szerintem a driverek keresése és telepítése egy új Windows telepítés után egyike a Windows rendszercsalád legnagyobb hibáinak. 2008-ban elhatároztam, hogy megoldom ezt a problémát, és saját szoftvert írtam DriverPack néven. Ma a termékemet 40 millióan használják világszerte, és számomra így, ugyan külső programmal, de sikerült megoldanom a Windows driveres gondját."
+
+msgid "landingPagePublications_computerra"
+msgstr "Az új verzió több eszközt ad a felhasználó kezébe a saját driverei kiválasztásához. Ez főleg azok számára égetőbb probléma, akik számos, eltérő hardverrel felszerelt számítógépet adminisztrálnak. Mostantól lehetséges bármilyen alternatív drivercsomagot integrálni a DriverPack -ba ahelyett, hogy csak a feleslegeseket eltávolítanánk."
+
+msgid "landingPagePublications_vc"
+msgstr "A szájról szájra terjedő hírünknek hála a szoftvert már 45 nyelvre fordították le a csapatunk közbenjárása nélkül."
+
+msgid "adminpagefaq_official_vendors-q"
+msgstr "A DriverPack előtt a hivatalos oldalakról töltöttem le a drivereket, de néha még azokkal is adódtak gondok. Miért megbízhatóbbak a DriverPack driverei, mint a gyártóké?"
+
+msgid "adminpagefaq_official_vendors-a"
+msgstr "Annak érdekében, hogy a driver adatbázisunk ne csak a legnagyobb, hanem a legmegbízhatóbb is legyen, folyamatosan dolgozunk a fejlesztésén, és kijavítjuk még a hivatalos gyártók által engedélyezett hibákat is. Egyébként machine learning, vagyis gépesített tanulási technológiát használunk, mely lehetővé teszi a kiválasztási algoritmusunk folyamatos fejlődését. Pontosan ezért a DriverPack driverei a legmegbízhatóbbak :-)"
+
+msgid "adminpagefaq_database-q"
+msgstr "Hogyan nő a DriverPack adatbázisa? Tényleg megtalálhatom benne a szükséges drivereket?"
+
+msgid "adminpagefaq_database-a"
+msgstr "Jelen pillanatban a mi driver adatbázisunk a legnagyobb az egész világon, és 99% eséllyel bármely eszköz drivere megtalálható benne. Annak érdekében, hogy tovább gyűjtsünk, és növeljünk egy efféle adatbázist, közvetlenül az eszközök gyártóival és a driverek fejlesztőivel tartjuk a kapcsolatot. Gyűjtjük, és teszteljük a hivatalos oldalakról, valamint privát FTP szerverekről származó drivereket, valamint az aktív felhasználók javaslatait is figyelembe vesszük."
+
+msgid "adminpagefaq_free-q"
+msgstr "Valóban igaz, hogy a DriverPack teljesen ingyenes?"
+
+msgid "adminpagefaq_free-a"
+msgstr ""
+
+msgid "adminpagefaq_antivirus-q"
+msgstr "A vírusirtóm vírust észlelt a DriverPack -ban. Mi történhetett?"
+
+msgid "adminpagefaq_antivirus-a"
+msgstr "Egyértelműen téves riasztás, mivel a DriverPack verziói alaposan vizsgálat és akkreditálás alá kerülnek, melyet a Kaspersky Laboratory végez. A vállalatunk emellett együttműködik számos vírusirtót fejlesztő céggel, mint az Avast és a 360 Total Security. A zavartalan működés érdekében arra kérünk, tedd a DriverPack -ot a vírusirtód kivételei közé. Szívesen vennénk, ha az efféle téves riasztást jeleznéd vírusirtód fejlesztője, valamint a támogató csoportunk felé."
+
+msgid "adminpagefaq_expert_mode-q"
+msgstr "Melyik mód a legkényelmesebb, ha a DriverPack -ot használom?"
+
+msgid "adminpagefaq_expert_mode-a"
+msgstr ""
+
+msgid "adminpagefaq_stable-q"
+msgstr "A driver nem került megfelelően telepítésre, problémák adódhattak a számítógép műveletei során. Hogyan oldhatom meg?"
+
+msgid "adminpagefaq_stable-a"
+msgstr "A DriverPack folyamatainak stabilitása a legfőbb prioritásaink közé tartozik, de apróbb hibák előfordulhatnak, még ha ritkán is. Emiatt rendszervisszaállítási pontot hozunk létre, mely lehetővé teszi a korábbi, beállítások nélküli állapot visszaállítását. Annak érdekében, hogy megelőzzük a hasonló problémákat, ajánlott a DriverPack alkalmazás menüjének meglátogatása, ahonnan elküldheted a technikai háttércsoportunknak a szoftver automatikus jelentését."
+
+msgid "devicegrouppage_show-more-link"
+msgstr "Több infó"
+
+msgid "devicestypepage_subtitle"
+msgstr "Összes {{CLASS.SINGLE.FOR}} gyártó"
+
+msgid "devicetypevendorpage_subtitle-popular"
+msgstr "Népszerű {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
+
+msgid "devicetypevendorpage_subtitle-all"
+msgstr "Összes {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
+
+msgid "drop-down-language_not-found"
+msgstr "Haven't found your language?"
+
+msgid "errorpage_title"
+msgstr "500-as hiba: belső szerverhiba"
+
+msgid "landingfooter_landing-subtitle"
+msgstr ""
+
+msgid "landing-footer_catalog-os"
+msgstr ""
+
+msgid "landing-footer_download"
+msgstr "DriverPack letöltése"
+
+msgid "landing-footer_versions"
+msgstr "Összes app változat"
+
+msgid "landing-footer_catalog"
+msgstr "Illesztőprogram keresés"
+
+msgid "landing-footer_drivers-catalog"
+msgstr "Illesztőprogram katalógus"
+
+msgid "landing-footer_for-admin"
+msgstr "Rendszergazdáknak"
+
+msgid "landing-footer_for-translators"
+msgstr "Fordítóknak"
+
+msgid "landing-footer_drivers-for-laptops"
+msgstr "Laptop driverek"
+
+msgid "landing-footer_hwids"
+msgstr "Device ID"
+
+msgid "landing-footer_license"
+msgstr "Általános Szerződési Feltételek -kel."
+
+msgid "landing-footer_remove"
+msgstr "DriverPack eltávolítás"
+
+msgid "notfoundpage_title"
+msgstr "404-es hiba: oldal nem található"
+
+msgid "notebookpage_show-more-link"
+msgstr "Több infó"
+
+msgid "notebookpage_all-devices"
+msgstr "az összes eszközhöz"
+
+msgid "notebookspage_subtitle"
+msgstr "Az összes laptop és netbook gyártó listája"
+
+msgid "notebooksvendorpage_subtitle-popular"
+msgstr "Népszerű {{VENDOR.NAME}} laptopok és netbookok"
+
+msgid "notebooksvendorpage_subtitle-all"
+msgstr "Összes {{VENDOR.NAME}} laptop és netbook"
+
+msgid "reviewpage_title"
+msgstr "Visszajelzések és javaslatok a DriverPack fejlesztéséhez"
+
+msgid "searchpage_show-more-link"
+msgstr "Több infó"
+
+#. i18n: EN: text for {{LINK}} is in key thankyoupopup_download-link; RU:
+#. текст для {{LINK}} находится в ключе thankyoupopup_download-link;
+msgid "thankyoupopup_download-text"
+msgstr "Nem kezdődött el a letöltés? Kattints ide {{LINK}}"
+
+msgid "thankyoupopup_title"
+msgstr "DriverPack indítása"
+
+msgid "thankyoupopup_cta-text"
+msgstr "a driverek kijelöléséhez, és számítógépre telepítéséhez"
+
+msgid "thankyoupopup_download-link"
+msgstr "letöltés"
+
+msgid "translate-feedback-header_caption"
+msgstr "Ezt az oldalt nemrégiben fordították le. Elgépelésre bukkantál? Jelöld ki, és nyomj {{HOTKEY}}-t!"
+
+msgid "translate-feedback-popup_title-error"
+msgstr "Valami rosszul sült el"
+
+msgid "translate-feedback-popup_description-error"
+msgstr "A kijelölt szöveget nem sikerült elküldeni a szervernél felmerült probléma miatt. <br />Kérlek próbáld újra később!"
+
+msgid "translate-feedback-popup_title-success"
+msgstr "Köszönjük!"
+
+msgid "translate-feedback-popup_description-success"
+msgstr "A kijelölt szöveg elküldésre került a szerkesztőhöz."
+
+msgid "translate-feedback-popup_description-join-us"
+msgstr "Segíts nekünk a fordításban!"
+
+msgid "translate-feedback-popup_description-join-link"
+msgstr "Csatlakozz a fordítócsapatunkhoz!"
+
+msgid "translationlandingpage_title"
+msgstr "DriverPack fordítás"
+
+msgid "vendorpage_subtitle-popular"
+msgstr "Népszerű {{VENDOR.NAME}} eszközök"
+
+msgid "wannacryptpromopage_cta-text"
+msgstr "WannaCrypt kriptografikus vírus — hogyan védd meg a számítógépet a történelem legnagyobb támadása ellen?"
+
+msgid "wannacryptpromopage_cta-subtext"
+msgstr "A DriverPack megfelelő megoldást nyújt a számítógép telepítőeszközök sérülékenységének megszüntetésére.  Ingyenesen letöltheted a WannaCry elleni védelmet a számítógépedre és a laptopodra, mely biztonságot nyújt."
+
+msgid "wannacryptpromopage_cta-btn"
+msgstr "Számítógép beállítása, és a WannaCry védelem telepítése"
+
+msgid "wannacryptpromopage_caption-text"
+msgstr "Ez a szoftver ingyen kerül terjesztésre"
+
+msgid "wannacryptpromopage_info-text-title-1"
+msgstr "Mi az a WannaCrypt?"
+
+msgid "wannacryptpromopage_info-text-1"
+msgstr "A WannaCrypt zsarolóvírus (áldozatai spontán WannaCry-nak nevezik) május 12-én az egész világon támadásba lendült, és 150 országban több mint 300000 felhasználó készülékét fertőzte meg. Nyugat-Európa, Oroszország és Kína a legfertőzöttebb országok. Nagy-Britanniában a vírus használhatatlanná tette az Egészségügyi Minisztérium hálózatát, ennek eredményeként pedig az országban számos kórház működését akadályozta. Kínában a támadás a gyárak régi számítógépeire hatott, és számos vállalat szüntette be a működését.<br/><br/>A vírus működése egyszerű: behatol a számítógépbe vagy laptopba, minden dokumentumot, fájlt és anyagot lekódol, és használhatatlanná teszi őket. Ezután a behatolók sok pénzt követelnek a kódolás feloldásáért — ez körülbelül 300 dollárt jelent. Azonban nincs arra garancia, hogy visszakapod a fájljaidat. Jelenleg manuálisan nem lehetséges kikódolni a fájlokat, míg a hálózatok rendelkezésére álló megoldások vagy átverések, vagy a vírus terjesztésének újabb módja, vagy egyszerűen nem működnek 100%-os sikerrel."
+
+msgid "wannacryptpromopage_info-text-title-2"
+msgstr "Ki van veszélyben?"
+
+msgid "wannacryptpromopage_info-text-2"
+msgstr "A Windows 10-nél korábbi operációs rendszert használó számítógépek a nyitott SMB portoknak köszönhetően a legveszélyeztetettebbek. Jelenleg a Windows rendszert használók fele veszélyben van — A felhasználók 18%-a licensz nélküli Windows példányt használ (automatikusan a kockázatos zónába kerülnek), 23%-uk letiltotta a Windows Update szolgáltatást (ez megakadályozza a legfrissebb &#147;javítások&#148; letöltését a Microsofttól), másik 6%-uk pedig régi operációs rendszert használ, melyek már nem részesülnek frissítésben. <br/><br/>A fentiek a következőképpen összegezhetőek: a különböző cégek és vállalatok hálózatai, ahol még a Windows XP-hez hasonló régi operációs rendszert használnak, a legveszélyeztetettebbek. Egy támadás esetén az adatvesztés hatalmas pénzeket emészthet fel, és ha váltságdíjról is beszélünk, minden egyes számítógép esetében külön ki kell fizetni."
+
+msgid "wannacryptpromopage_info-text-title-3"
+msgstr "Hogyan védd meg a vállalatodat — A megoldás a DriverPack Solution!"
+
+msgid "wannacryptpromopage_info-text-3"
+msgstr ""
+
+msgid "wannacryptpromopage_links-text"
+msgstr "A fejlesztés az alábbiak segítségével készül"
+
+msgid "wannacryptpromopage_link-smb"
+msgstr "Hogyan engedélyezhető vagy tiltható le az SMB protokollok 1, 2 és 3-as verziója Windows vagy Windows szerver rendszeren?"
