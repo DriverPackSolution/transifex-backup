@@ -212,7 +212,7 @@ msgstr "پێناسه‌كان بۆ  لاپتۆپی {{NOTEBOOK}} بۆ ویندۆ�
 #. NOTEBOOK=Acer AO521; Пример: OSVERSIONS=Windows 10 x86; Текст для
 #. {{DOWNLOAD}} находится в ключе devicecardlist_no-result_download-link;
 msgid "devicecardlist_no-results-notebook-device-class-text"
-msgstr ""
+msgstr "پێناسه‌كان بۆ {{DEVICECLASS}} بۆ لاپتۆپی {{NOTEBOOK}} بۆ ویندۆز {{OSVERSIONS}} نه‌دۆزرایه‌وه‌. {{DOWNLOAD}} داببه‌زێنه‌ بۆ هه‌ڵبژاردنی پێناسه‌ به‌ ئۆتۆماتیكی."
 
 msgid "devicecardlist_no-result_download-link"
 msgstr "دابه‌زاندنی DriverPack"
@@ -233,7 +233,7 @@ msgid "deviceidheader_caption-single"
 msgstr "ناوی Device"
 
 msgid "deviceidheader_caption-many"
-msgstr ""
+msgstr "ئه‌م ئامێره‌ ناسراویشه‌ به‌:"
 
 msgid "devicetypelist_title_os"
 msgstr "پێناسه‌ بۆ ئامێره‌كان له‌سه‌ر {{OS}}"
@@ -303,7 +303,7 @@ msgid "footer_translate-feedback"
 msgstr ""
 
 msgid "header_search-title"
-msgstr ""
+msgstr "<span class='bold'>بۆ پێناسه‌ بگه‌ڕێ له‌سه‌ر</span> گه‌وره‌ترین بنكه‌ی زانیاری —  زیاتر له‌ یه‌ك ملیۆن پێناسه‌"
 
 msgid "header_search-examples"
 msgstr "بۆ نموونه‌:"
@@ -327,10 +327,10 @@ msgid "headerbutton_label"
 msgstr "به‌رنامه‌ی DriverPack به‌ ته‌واوی به‌ خۆڕاییه"
 
 msgid "headeros_cta-btn"
-msgstr ""
+msgstr "پێناسه‌كان دابمه‌زرێنه‌ بۆ <span class='HeaderOs__cta-btn-marked'>{{OS}}</span>"
 
 msgid "headeros_search-text"
-msgstr ""
+msgstr "یان گه‌ڕان به‌كاربهێنه‌ له‌سه‌ر بنكه‌ی زانیاری زۆر گه‌وره‌كه‌ی  پێناسه‌"
 
 msgid "landingdevicetypelist_landing-title"
 msgstr "DriverPack گونجاوه‌ بۆ هه‌موو ئامێرێك"
@@ -345,10 +345,10 @@ msgid "landingdevicetypelist_versions"
 msgstr "نوسخه‌كانی تری DriverPack"
 
 msgid "landingfeatures_landing-title"
-msgstr ""
+msgstr "DriverPack خێراترین و گونجاوترین ڕێگه‌یه‌ بۆ ڕێكخستنی كۆمپیوته‌ره‌كه‌ت"
 
 msgid "landingfeatures_landing-subtitle"
-msgstr ""
+msgstr "نه‌رمه‌كاڵاكه‌ دابینكراوه‌ به‌ خۆڕایی، وه‌گونجاویشه‌ بۆ هه‌ریه‌كه‌ له‌شاره‌زایان و سه‌ره‌تاكانیش"
 
 msgid "landingfeatures_item-title-free"
 msgstr "به‌ خۆڕایی"
@@ -360,16 +360,16 @@ msgid "landingfeatures_item-title-safe"
 msgstr "پارێزراو"
 
 msgid "landingfeatures_item-caption-safe"
-msgstr ""
+msgstr "DriverPack به‌شێوه‌یه‌كی ڕه‌سمی هاریكاری ده‌كات له‌گه‌ڵ به‌رهه‌مهێنه‌كانی نه‌رمه‌كاڵای دژه‌ڤایرۆس، وه‌ كۆمپیوته‌ره‌كه‌ت ده‌پارێزێت"
 
 msgid "landingfeatures_item-title-for-all-devices"
 msgstr "بۆ هه‌موو ئامێره‌كان"
 
 msgid "landingfeatures_item-caption-for-all-devices"
-msgstr ""
+msgstr "DriverPack گه‌وره‌ترین بنكه‌ی زانیاری پێناسه‌ی هه‌یه‌ له‌ جیهاندا، وه‌ ده‌توانرێت به‌كاربهێنریت بۆ ڕێكخستنی هه‌ر كۆمپیوته‌رێك"
 
 msgid "landingheader_cta-text"
-msgstr ""
+msgstr "DriverPack  پێناسه‌كان داده‌مه‌زرێنێت به‌ خۆڕایی وه‌ كێشه‌ی پێناسه‌كان چاره‌سه‌ر ده‌كات له‌سه‌ر هه‌ر ئامێرێك"
 
 msgid "landingheader_cta-btn"
 msgstr "دابه‌زاندنی هه‌موو پێناسه‌ داواكراوه‌كان"
@@ -411,7 +411,7 @@ msgid "landingproducts_item-title-online"
 msgstr "DriverPack Online"
 
 msgid "landingproducts_item-caption-online"
-msgstr ""
+msgstr "ئه‌و ده‌ستبه‌جێ داده‌به‌زێت، وه‌ هه‌موو پێناسه‌ ونبووه‌ داواكراوه‌كان داده‌به‌زێنێت له‌ماوه‌ی دامه‌زراندنیدا"
 
 msgid "landingproducts_item-version"
 msgstr "نوسخه‌"
@@ -423,28 +423,28 @@ msgid "landingproducts_item-title-network"
 msgstr "DriverPack Network"
 
 msgid "landingproducts_item-caption-network"
-msgstr ""
+msgstr "ئه‌و به‌ خێرای داده‌به‌زێت، و پێشتر هه‌موو پێناسه‌كانی له‌ خۆ گرتووه‌ بۆ ڕه‌قه‌كاڵاكانی تۆڕ"
 
 msgid "landingproducts_item-title-offline"
 msgstr "DriverPack Offline"
 
 msgid "landingproducts_item-caption-offline"
-msgstr ""
+msgstr "ئه‌و ده‌توانێت كار بكات به‌بێ په‌یوه‌یست بوون به‌ ئینته‌رنێته‌وه‌ به‌ڵام قه‌باره‌كه‌ی 13.9 GB (به‌سووده‌ بۆ به‌ڕێوه‌به‌ره‌كانی سیسته‌م)"
 
 msgid "landingpublications__landing-title"
 msgstr "بڵاوكراوه‌كانی ده‌زگا ڕاگه‌یاندنه‌كان ده‌رباره‌ی DriverPack"
 
 msgid "landingscreenshots_landing-title"
-msgstr ""
+msgstr "DriverPack خێراترین و گونجاوترین ڕێگه‌یه‌ بۆ ڕێكخستنی كۆمپیوته‌ره‌كه‌ت"
 
 msgid "landingscreenshots_landing-subtitle"
-msgstr ""
+msgstr "نه‌رمه‌كاڵاكه‌ دابینكراوه‌ به‌ خۆڕایی، وه‌گونجاویشه‌ بۆ هه‌ریه‌كه‌ له‌شاره‌زایان و سه‌ره‌تاكانیش "
 
 msgid "landingseofooter_landing-subtitle-notebooks"
 msgstr "DriverPack گونجاوه‌ بۆ هه‌موو مۆدێله‌كانی كۆمپیوته‌ر و لاپتۆپ"
 
 msgid "landingseofooter_landing-subtitle-devices"
-msgstr ""
+msgstr "DriverPack پێناسه‌كانی تێدایه‌ بۆ هه‌موو ئامێره‌كان"
 
 msgid "landingsocial_landing-title"
 msgstr "به‌شداری بكه‌ له‌ گۆمه‌ڵگه‌ی DriverPack"
@@ -453,7 +453,7 @@ msgid "landingsocial_landing-subtitle"
 msgstr "به‌دوای هه‌واڵه‌كان بكه‌وه‌ و به‌شێك له‌ گفتوگۆكان بگره‌:"
 
 msgid "landingusers_cta"
-msgstr ""
+msgstr "ژماره‌ی به‌كارهێنه‌ره‌كانی DriverPack له‌ جیهاندا به‌رده‌وامه‌ له‌ گه‌شه‌ سه‌ندن له‌گه‌ڵ تێپه‌ڕبوونی هه‌ر چركه‌یه‌كدا"
 
 msgid "landingusers_cta-btn"
 msgstr "دابه‌زاندنی هه‌موو پێناسه‌ داواكراوه‌كان"
@@ -462,16 +462,16 @@ msgid "landingusers_versions"
 msgstr "نوسخه‌كانی تری DriverPack"
 
 msgid "landingwizard_landing-title"
-msgstr ""
+msgstr "ئێستا گونجاوه‌ بۆ رێكخستنی كۆمپیوته‌ره‌كه‌ت به‌ ته‌نها یه‌ك كلیك"
 
 msgid "landingwizard_item-caption-download"
-msgstr ""
+msgstr "داببه‌زێنه‌ و ده‌یتپێبكه‌ به‌ DriverPack Online"
 
 msgid "landingwizard_item-caption-setup"
-msgstr ""
+msgstr "كۆمپیوته‌ره‌كه‌ت ڕێكبخه‌ به‌ یه‌ك كرداری ساده‌"
 
 msgid "landingwizard_item-caption-profit"
-msgstr ""
+msgstr "یای! ئێستا كۆمپیوته‌ره‌كه‌م كار ده‌كات وه‌ك ماركه‌یه‌كی نوێ!"
 
 msgid "landingwizard_cta-btn"
 msgstr "دابه‌زاندنی هه‌موو پێناسه‌ داواكراوه‌كان"
@@ -498,22 +498,22 @@ msgid "notebookfilters-title"
 msgstr "پێناسه‌ به‌رده‌سته‌كان"
 
 msgid "notebookvendorslist_other-text"
-msgstr ""
+msgstr "به‌رمه‌مهێنه‌ره‌كانی تر"
 
 msgid "notebookvendorslist_title_os"
-msgstr ""
+msgstr "پێناسه‌كان بۆ لاپتۆپه‌كان له‌سه‌ر {{OS}}"
 
 msgid "notebookvendorslist_title"
 msgstr "گه‌ڕانی پێناسه‌ بۆ لاپتۆپه‌كان"
 
 msgid "promoheader_cta-text-gamers"
-msgstr ""
+msgstr "كۆمپیوته‌ره‌كه‌ت ئێستا زۆر به‌هێزتره‌ له‌وه‌ی بیری لێده‌كه‌یته‌وه‌: هه‌موو پێناسه‌كان نوێبكه‌ره‌وه‌ به‌ خۆڕایی"
 
 msgid "promoheader_cta-text-gamers-caption"
 msgstr "ئه‌گه‌ر تۆ حه‌ز به‌ یاریی كۆمپیوته‌ر ده‌كه‌یت، ئامۆژگاریت ده‌كه‌ین به نوێكردنه‌وه‌ی پێناسه‌كانی كۆمپیوته‌ره‌كه‌ت زیاتر له‌ جار جار بۆ گه‌یشتن به‌ به‌رزترین توانایی گونجاوی ئامێره‌كه‌ت. بۆ 37% زیاتر له‌ FPS - زیاترین ئه‌زموونی یاریی و ده‌ستكه‌وتی نوێ له‌گه‌ڵ DriverPack. "
 
 msgid "promoheader_cta-text"
-msgstr ""
+msgstr "DriverPack  پێناسه‌كان داده‌مه‌زرێنێت به‌ خۆڕایی وه‌ كێشه‌ی پێناسه‌كان چاره‌سه‌ر ده‌كات له‌سه‌ر هه‌ر ئامێرێك "
 
 msgid "promoheader_cta-btn"
 msgstr "دابه‌زاندنی هه‌موو پێناسه‌ داواكراوه‌كان"
@@ -534,10 +534,10 @@ msgid "reviewheader_cta-text"
 msgstr ""
 
 msgid "reviewheader_cta"
-msgstr ""
+msgstr "ڕای خۆت یان پێشنیارێك دابنێ له‌سه‌ر په‌ره‌پێدانی DriverPack"
 
 msgid "search_input-placeholder"
-msgstr ""
+msgstr "بگه‌ڕێ به‌دوای ناوی پێناسه‌، لاپتۆپ یان DeviceID"
 
 msgid "search_btn-text"
 msgstr "دۆزینه‌وه‌"
@@ -783,16 +783,16 @@ msgstr "{{DOWNLOAD}} بۆ ئه‌وه‌ی دیاری بكه‌یت و دایب�
 #. i18n: EN: Example: CLASS.SINGLE.MAIN=monitor|chipset; COUNT=12; RU: Пример:
 #. CLASS.SINGLE.MAIN=монитор|чипсет; COUNT=12;
 msgid "searchresult_device"
-msgstr ""
+msgstr "{{CLASS.SINGLE.MAIN}}({{COUNT}} ئه‌نجام دۆزرانه‌وه‌)"
 
 msgid "searchresult_details-content-text-many"
-msgstr ""
+msgstr "چه‌ندین پێناسه‌ی جیاواز بۆ ئه‌م ئامێره‌ دۆزرایه‌وه‌"
 
 msgid "seofooter_os-list-title"
 msgstr "نوسخه‌كانی سیسته‌می كارپێكه‌ر: <span itemprop='operatingSystem'>{{OSLIST}}</span>"
 
 msgid "seofooter_offers-title"
-msgstr ""
+msgstr "<span itemprop='offers' itemscope='' itemtype='http://schema.org/Offer'>به‌رده‌سته‌<meta itemprop='price' content='0' />به‌خۆڕایی</span>"
 
 msgid "seofooter_driver-description-title"
 msgstr "وه‌سفی پێناسه‌"
@@ -801,10 +801,10 @@ msgid "seofooter_popular-drivers-title"
 msgstr "پێناسه‌ باوه‌كان"
 
 msgid "sidebanner_title"
-msgstr ""
+msgstr "ئایا تۆ ماندویت له‌ گه‌ڕان به‌ دوای پێناسه‌كان؟"
 
 msgid "sidebanner_caption"
-msgstr ""
+msgstr "DriverPack  به‌ ئۆتۆماتیكی پێناسه‌ داواكراوه‌كان <span class='SideBanner__caption-marked'>هه‌ڵده‌بژێرێت و دایانده‌مه‌زرێنێت</span>"
 
 msgid "translationheader_cta-text"
 msgstr ""
@@ -918,10 +918,10 @@ msgid "errorpage_title"
 msgstr "هه‌ڵه‌ی 500: هه‌ڵه‌ی ناوخۆیی سێرڤه‌ر"
 
 msgid "landingfooter_landing-subtitle"
-msgstr ""
+msgstr "DriverPack پێناسه‌كانی تێدایه‌ بۆ هه‌موو جۆره‌ باوه‌كانی نوسخه‌ی ویندۆز"
 
 msgid "landing-footer_catalog-os"
-msgstr ""
+msgstr "پێناسه‌كان بۆ {{OS}}"
 
 msgid "landing-footer_download"
 msgstr "دابه‌زاندنی DriverPack"
@@ -980,10 +980,10 @@ msgstr "بینینی زیاتر"
 #. i18n: EN: text for {{LINK}} is in key thankyoupopup_download-link; RU:
 #. текст для {{LINK}} находится в ключе thankyoupopup_download-link;
 msgid "thankyoupopup_download-text"
-msgstr ""
+msgstr "دابه‌زاندنه‌كه‌ ده‌ستی پێنه‌كردووه‌؟ كلیك لێره‌ بكه‌ {{LINK}}"
 
 msgid "thankyoupopup_title"
-msgstr ""
+msgstr "DriverPack ده‌ستپێبكه‌"
 
 msgid "thankyoupopup_cta-text"
 msgstr ""
@@ -1007,7 +1007,7 @@ msgid "translate-feedback-popup_description-success"
 msgstr ""
 
 msgid "translate-feedback-popup_description-join-us"
-msgstr ""
+msgstr "تكایه‌ یارمه‌تی ئێمه‌ بده‌ بۆ وه‌رگێڕانی بۆ زمانی ڕه‌سمه‌ خۆت."
 
 msgid "translate-feedback-popup_description-join-link"
 msgstr "په‌یوه‌ستت ببه‌ به‌ تیمی وه‌رگێره‌كانمانه‌وه‌!"
@@ -1028,7 +1028,7 @@ msgid "wannacryptpromopage_cta-btn"
 msgstr ""
 
 msgid "wannacryptpromopage_caption-text"
-msgstr ""
+msgstr "ئه‌م به‌رنامه‌یه‌ دابینكراوه‌ به‌ خۆڕایی"
 
 msgid "wannacryptpromopage_info-text-title-1"
 msgstr "WannaCrypt چییه‌؟"

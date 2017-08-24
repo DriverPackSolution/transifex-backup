@@ -7,13 +7,14 @@
 # Buchari Andries <ai.andries@gmail.com>, 2017
 # Isa Noorendra <issaanoorendra@gmail.com>, 2017
 # Azhe 403 <azhe403@gmail.com>, 2017
+# Andi K. Yuwono <andikheng@yahoo.com>, 2017
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-08-16 09:41+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
-"Last-Translator: Azhe 403 <azhe403@gmail.com>, 2017\n"
+"Last-Translator: Andi K. Yuwono <andikheng@yahoo.com>, 2017\n"
 "Language-Team: Indonesian (https://www.transifex.com/driverpack-solution/teams/75453/id/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -115,7 +116,7 @@ msgstr "{{CLASS.PLURAL.MAIN}}"
 #. VENDOR.NAME=Realtek; RU: Пример: CLASS.PLURAL.MAIN=картридеры|мониторы;
 #. VENDOR.NAME=Realtek;
 msgid "breadcrumbs_devicegroups-text"
-msgstr ""
+msgstr "Nama penyedia"
 
 #. i18n: EN: Example: GROUP.VENDOR.NAME=Nvidia, GROUP.NAME=GeForce 210; RU:
 #. Пример: GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210;
@@ -139,7 +140,7 @@ msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
 #. CLASS.PLURAL.MAIN=видеокарты|чипсеты, NOTEBOOK.VENDOR.NAME=Lenovo,
 #. NOTEBOOK.NAME=G580;
 msgid "breadcrumbs_notebookdevices-text"
-msgstr ""
+msgstr "{{CLASS.PLURAL.MAIN}}dari{{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}}komputer jingjing"
 
 msgid "devicecard_download-btn"
 msgstr "Unduh driver"
@@ -211,14 +212,14 @@ msgstr "Driver untuk {{DEVICENAME}}untuk Windows{{OSVERSIONS}} tidak ditemukan d
 #. OSVERSIONS=Windows 10 x86; Текст для {{DOWNLOAD}} находится в ключе
 #. devicecardlist_no-result_download-link;
 msgid "devicecardlist_no-results-notebook-text"
-msgstr ""
+msgstr "Driver untuk {{NOTEBOOK}} komputer jingjing di Windows {{OSVERSIONS}} tidak ditemukan di katalog. {{DOWNLOAD}}untuk memilih driver dengan otomatis."
 
 #. i18n: EN: Example: NOTEBOOK=Acer AO521; OSVERSIONS=Windows 10 x86; Text for
 #. {{DOWNLOAD}} is in key devicecardlist_no-result_download-link; RU: Пример:
 #. NOTEBOOK=Acer AO521; Пример: OSVERSIONS=Windows 10 x86; Текст для
 #. {{DOWNLOAD}} находится в ключе devicecardlist_no-result_download-link;
 msgid "devicecardlist_no-results-notebook-device-class-text"
-msgstr ""
+msgstr "Driver untuk {{DEVICECLASS}} untuk {{NOTEBOOK}}komputer jingjing di Wndows {{OSVERSIONS}} tidak ditemukan. {{DOWNLOAD}} untuk memilih driver secara otomatis."
 
 msgid "devicecardlist_no-result_download-link"
 msgstr "Unduh DriverPack"
@@ -309,7 +310,7 @@ msgid "footer_translate-feedback"
 msgstr "Sudahkah anda menemukan salah cetak atau kesalahan? <br />Sorot dan tekan{{HOTKEY}}"
 
 msgid "header_search-title"
-msgstr ""
+msgstr "<span class='bold'>Pencarian driver berakhir </span>database terbesar —  lebih dari satu juta driver."
 
 msgid "header_search-examples"
 msgstr "Sebagai contoh:"
@@ -333,7 +334,7 @@ msgid "headerbutton_label"
 msgstr "Aplikasi DriverPack sepenuhnya gratis"
 
 msgid "headeros_cta-btn"
-msgstr ""
+msgstr "Instal driver untuk <span class='HeaderOs__cta-btn-marked'>{{OS}}</span>"
 
 msgid "headeros_search-text"
 msgstr "Atau gunakan perncarian di database driver kami yang luar biasa"
@@ -426,13 +427,13 @@ msgid "landingproducts_item-button"
 msgstr "Unduh"
 
 msgid "landingproducts_item-title-network"
-msgstr ""
+msgstr "DriverPack Network"
 
 msgid "landingproducts_item-caption-network"
 msgstr "Ini didownload dengan cepat, dan sudah berisi driver untuk perangkat keras jaringan"
 
 msgid "landingproducts_item-title-offline"
-msgstr ""
+msgstr "DriverPack Offline"
 
 msgid "landingproducts_item-caption-offline"
 msgstr "Ini bisa beroperasi tanpa koneksi internet namun ukurannya 13,9 GB (berguna untuk admin sistem)"
@@ -495,10 +496,10 @@ msgid "notfound_cta-btn"
 msgstr "Unduh DriverPack Online"
 
 msgid "notfound_info-404"
-msgstr ""
+msgstr "{{404}}— halaman permintaan tidak ditemukan"
 
 msgid "notfound_info-500"
-msgstr ""
+msgstr "{{500}}— sesuatu terjadi kesalahan (server bermasalah)"
 
 msgid "notebookfilters-title"
 msgstr "Driver tersedia"
@@ -507,7 +508,7 @@ msgid "notebookvendorslist_other-text"
 msgstr "Produsen lain"
 
 msgid "notebookvendorslist_title_os"
-msgstr ""
+msgstr "Driver untuk komputer jingjing di {{OS}}"
 
 msgid "notebookvendorslist_title"
 msgstr "Cari Driver untuk laptop"
@@ -525,48 +526,48 @@ msgid "promoheader_cta-btn"
 msgstr "Pasang semua driver yang dibutuhkan"
 
 msgid "promoheader_size"
-msgstr ""
+msgstr "Ukuran file {{SIZE}} KB"
 
 msgid "promoheader_license"
 msgstr "Perjanjian Lisensi"
 
 msgid "promoheader_os-versions"
-msgstr ""
+msgstr "Software yang cocok untuk Windows 10, 8.1, 8, 7, Vista, XP"
 
 msgid "promoheader_uninstall"
-msgstr ""
+msgstr "penghapus DriverPack "
 
 msgid "reviewheader_cta-text"
 msgstr "Bergabunglah dengan komunitas DriverPack di jejaring sosial untuk mengikuti berita tentang produk dan ikuti diskusi tentan DriverPack."
 
 msgid "reviewheader_cta"
-msgstr ""
+msgstr "Tambahkan opinimu atau usulan untuk meningkatkan DriverPack"
 
 msgid "search_input-placeholder"
-msgstr ""
+msgstr "Cari nama dari driver, komputer jingjing atau DeviceID"
 
 msgid "search_btn-text"
-msgstr ""
+msgstr "Temukan"
 
 msgid "searchformitem_type-section"
-msgstr ""
+msgstr "Kategori"
 
 msgid "searchformitem_type-notebook"
-msgstr ""
+msgstr "Komputer Jingjing"
 
 msgid "searchformitem_type-device"
-msgstr ""
+msgstr "Perangkat"
 
 msgid "searchformitem_type-free"
-msgstr ""
+msgstr "untuk bebas"
 
 #. i18n: EN: Example: NAME=Acer; RU: Пример: NAME=Acer;
 msgid "generatesearchitemname_notebookvendor"
-msgstr ""
+msgstr "{{NAME}} komputer jingjing"
 
 #. i18n: EN: Example: NAME=Asus; RU: Пример: NAME=Asus;
 msgid "generatesearchitemname_vendor"
-msgstr ""
+msgstr "{{NAME}} perangkat"
 
 msgid "deviceclasses_bluetooth-single-main"
 msgstr "Perangkat Bluetooth"
@@ -689,86 +690,86 @@ msgid "deviceclasses_sound-plural-for"
 msgstr "kartu-kartu suara"
 
 msgid "deviceclasses_tvtuner-single-main"
-msgstr ""
+msgstr "Setelan TV"
 
 msgid "deviceclasses_tvtuner-single-for"
-msgstr ""
+msgstr "Setelan TV"
 
 msgid "deviceclasses_tvtuner-plural-main"
-msgstr ""
+msgstr "Setelan TV"
 
 msgid "deviceclasses_tvtuner-plural-for"
-msgstr ""
+msgstr "Setelan TV"
 
 msgid "deviceclasses_video-single-main"
-msgstr ""
+msgstr "kartu video"
 
 msgid "deviceclasses_video-single-for"
-msgstr ""
+msgstr "kartu video"
 
 msgid "deviceclasses_video-plural-main"
-msgstr ""
+msgstr "kartu video"
 
 msgid "deviceclasses_video-plural-for"
-msgstr ""
+msgstr "kartu video"
 
 msgid "deviceclasses_webcamera-single-main"
-msgstr ""
+msgstr "kamera web"
 
 msgid "deviceclasses_webcamera-single-for"
-msgstr ""
+msgstr "kamera web"
 
 msgid "deviceclasses_webcamera-plural-main"
-msgstr ""
+msgstr "kamera web"
 
 msgid "deviceclasses_webcamera-plural-for"
-msgstr ""
+msgstr "kamera web"
 
 msgid "deviceclasses_wifi-single-main"
-msgstr ""
+msgstr "Perangkat WI-FI"
 
 msgid "deviceclasses_wifi-single-for"
-msgstr ""
+msgstr "Perangkat WI-FI"
 
 msgid "deviceclasses_wifi-plural-main"
-msgstr ""
+msgstr "Perangkat WI-FI"
 
 msgid "deviceclasses_wifi-plural-for"
-msgstr ""
+msgstr "Perangkat WI-FI"
 
 msgid "deviceclasses_other-single-main"
-msgstr ""
+msgstr "device lain"
 
 msgid "deviceclasses_other-single-for"
-msgstr ""
+msgstr "device lain"
 
 msgid "deviceclasses_other-plural-main"
-msgstr ""
+msgstr "device lain"
 
 msgid "deviceclasses_other-plural-for"
-msgstr ""
+msgstr "device lain"
 
 msgid "searchheader_caption-subtitle"
-msgstr ""
+msgstr "Pencarian driver yang dipertanyakan:"
 
 msgid "searchheader_caption-filter-label"
-msgstr ""
+msgstr "Driver akan di diunduh untuk pilihan OS"
 
 #. i18n: EN: Example: NOTEBOOK=Acer AO521; Text for {{DOWNLOAD}} is in key
 #. searchresult_details-content_download-link; RU: Пример: NOTEBOOK=Acer
 #. AO521; Текст для {{DOWNLOAD}} находится в ключе searchresult_details-
 #. content_download-link
 msgid "searchresult_details-content-notebook-text"
-msgstr ""
+msgstr "{{DOWNLOAD}}permintaan untuk identifikasi dan menginstall driver yang dibutuhkan dengan otomatis, atau lanjutkan ke \n{{NOTEBOOK}}halaman dan pilih driver yang dibutuhkan dengan manual"
 
 msgid "searchresult_details-content_download-link"
 msgstr "Unduh DriverPack"
 
 msgid "searchresult_notebook"
-msgstr ""
+msgstr "Komputer jingjing"
 
 msgid "searchresult_download-btn"
-msgstr ""
+msgstr "Install drver dengan otomatis"
 
 msgid "searchresult_details-content-text-placeholder"
 msgstr "Pemuatan data ..."
@@ -784,78 +785,78 @@ msgstr "semua sistem"
 #. GeForce 205; Текст для {{DOWNLOAD}} находится в ключе searchresult_details-
 #. content_download-link
 msgid "searchresult_details-content-group-text"
-msgstr ""
+msgstr "{{DOWNLOAD}}permintaan untuk identifikasi dan menginstall driver yang dibutuhkan dengan otomatis, atau lanjutkan ke\n{{DEVICE}}halaman perangkat dan pilih driver yang dibutuhkan dengan manual"
 
 #. i18n: EN: Example: CLASS.SINGLE.MAIN=monitor|chipset; COUNT=12; RU: Пример:
 #. CLASS.SINGLE.MAIN=монитор|чипсет; COUNT=12;
 msgid "searchresult_device"
-msgstr ""
+msgstr "{{CLASS.SINGLE.MAIN}}({{COUNT}}hasil tidak ditemukan)"
 
 msgid "searchresult_details-content-text-many"
-msgstr ""
+msgstr "Beberapa perbedaan driver untuk perangkat ini tidak ditemukan"
 
 msgid "seofooter_os-list-title"
-msgstr ""
+msgstr "Versi sistem operasi <span itemprop='operatingSystem'>{{OSLIST}}</span>"
 
 msgid "seofooter_offers-title"
-msgstr ""
+msgstr "<span itemprop='offers' itemscope='' itemtype='http://schema.org/Offer'>Tersedia<meta itemprop='price' content='0' />untuk bebas </span>"
 
 msgid "seofooter_driver-description-title"
-msgstr ""
+msgstr "Penjelasan driver"
 
 msgid "seofooter_popular-drivers-title"
-msgstr ""
+msgstr "Driver terkenal"
 
 msgid "sidebanner_title"
-msgstr ""
+msgstr "Apakah kamu capek mencari beragam driver?"
 
 msgid "sidebanner_caption"
-msgstr ""
+msgstr "DriverPack akan dengan otomatis <span class='SideBanner__caption-marked'>memilih dan menginstall </span> driver yang diperlukan"
 
 msgid "translationheader_cta-text"
-msgstr ""
+msgstr "Ambil bagian dalam menterjemahkan halaman DriverPack  dan menolong jutaan pengguna di seluruh dunia"
 
 msgid "translationheader_bubble-team"
-msgstr ""
+msgstr "Apakah kamu suka menjadi bagian dari tim penterjemah untuk pelayanan dunia terbesar dari  pengaturan komputer?"
 
 msgid "translationheader_bubble-languages"
-msgstr ""
+msgstr "Apakah anda mengenal Inggris atau Rusia dengan cukup baik, agar anda siap menterjemahkan dari salah satunya ke bahasa asalmu?"
 
 msgid "translationheader_bubble-experience"
-msgstr ""
+msgstr "Apakah anda mempunyai pengalaman dalam menterjemahkan perangkat lunak atau halaman web dengan menggunakan layanan terjemahan online?"
 
 msgid "translationheader_bubble-email"
-msgstr ""
+msgstr "Jika jawaban anda YA untuk tiga pertanyaan, silahkan e-mail kami ke {{EMAIL}}dengan '{{SUBJECT}}' di baris subjek dan biarkan kami tahu bahasa terjemahan agar anda siap memulainya."
 
 msgid "translationlist_title"
-msgstr ""
+msgstr "DriverPack daftar penterjemah terdaftar"
 
 msgid "translationtool_text-transifex"
-msgstr ""
+msgstr "Di DriverPack Solution kami melakukan pemetaan lokasi dengan transifex.com:"
 
 msgid "translationtool_example-ru-to-en"
-msgstr ""
+msgstr "Baris untuk terjemahan dari Rusia (RU) ke Inggris (EN), dan bahasa CIS  (CIS)"
 
 msgid "translationtool_example-en-to-all"
-msgstr ""
+msgstr "Baris untuk terjemahan dari Inggris (EN) ke dalam bahasa lain di dunia"
 
 msgid "language_title"
 msgstr "Indonesian"
 
 msgid "landingPagePublications_rbk"
-msgstr ""
+msgstr "DriverPack adalah perangkat lunak konsisten dengan driver untuk Windows dan dipilih dan di tes oleh tim Artur Kuzyakov. Aplikasi ini menganalisa pengguna komputer dan menginstall driver yang dibutuhkan, yang mengaktifkanmu untuk memecahkan dua masalah: pertama, untuk mempercepat proses konfigurasi komputer (yang sangat penting jika disana ada beberapa komputer dalam satu sistem); dan kedua, untuk menambah kemampuan operasional."
 
 msgid "landingPagePublications_secretfirmy"
-msgstr ""
+msgstr "Hari ini, DriverPack mempunyai database driver terbesar di dunia yag menterjemahkan ke dalam 45 bahasa da beroperasi di komputer lebih dari 42 juta pengguna."
 
 msgid "landingPagePublications_cnews"
-msgstr ""
+msgstr "Sejak peristiwa di versi pertama perangkat lunak ini dibuat, DriverPack Solution sudah sangat populer diantara pengguna. Perangkat lunak ini dapat diunduh dengan bebas. Iini yang membedakan DriverPack Solution dari pesaing dan menarik pengguna baru terus menerus."
 
 msgid "landingPagePublications_xbit"
-msgstr ""
+msgstr "DriverPack Solution adalah aplikasi yang menarik, di dalamnya terdapat pilihan lengkap yang perangkat lunak lain tidak miliki untuk tipe yang sama. Beberapa pengguna dapat membetulkan semua kesalahan sistem operasi dan perangkat hanya dengan 2 klik. TIdak hanya itu, sejumlah driver pada database DriverPack sudah melebihi 1.1 juta jenis, dan sudah di tes untuk keamanan."
 
 msgid "landingPagePublications_chip"
-msgstr ""
+msgstr "Dengan DriverPack bukan suatu kesempurnaan untuk menemukan semua versi terbaru untuk komponen PC -mu. Kebanyakan di aspek pengguna tidak harus melakukannya sendiri. Perangkat ini cukup otomatis dan mudah dalam pengoperasiannya."
 
 msgid "landingPagePublications_pcmag"
 msgstr ""
@@ -867,40 +868,40 @@ msgid "landingPagePublications_computerra"
 msgstr ""
 
 msgid "landingPagePublications_vc"
-msgstr ""
+msgstr "Terima kasih untuk kebun anggur, produk ini telah diterjemahkan oleh pengguna ke 45 bahasa tanpa partisipasi dari tim kami."
 
 msgid "adminpagefaq_official_vendors-q"
-msgstr ""
+msgstr "Sebelum DriverPack, Saya mengambil driver dari situs resmi tetapi Saya mendapatkan masalah denga mereka. Mengapa driver dari DriverPack lebih diandalkan daripada produsennya?"
 
 msgid "adminpagefaq_official_vendors-a"
 msgstr ""
 
 msgid "adminpagefaq_database-q"
-msgstr ""
+msgstr "Bagaimana kumpulan DriverPack diperluas? Dapatkah saya menemukan driver yang saya perlukan di dalamnya?"
 
 msgid "adminpagefaq_database-a"
 msgstr ""
 
 msgid "adminpagefaq_free-q"
-msgstr ""
+msgstr "Apakah benar bahwa DriverPack benar-benar bebas dari biaya?"
 
 msgid "adminpagefaq_free-a"
-msgstr ""
+msgstr "Semua perangkat lunak adalah bebas dari biaya! tetapi jika anda ingin membantu proyek kami, anda dapat menginstal perangkat lunak yang kami tawarkan untuk penggunaan pribadi, dan merekomendasikan DriverPack ke teman-temanmu :-)"
 
 msgid "adminpagefaq_antivirus-q"
-msgstr ""
+msgstr "Antivirusku sudah menemuka virus di DriverPack - bagaimana ini dapat terjadi?"
 
 msgid "adminpagefaq_antivirus-a"
 msgstr ""
 
 msgid "adminpagefaq_expert_mode-q"
-msgstr ""
+msgstr "Mode manakah yang paling tepat untuk menggunakan DriverPack?"
 
 msgid "adminpagefaq_expert_mode-a"
 msgstr ""
 
 msgid "adminpagefaq_stable-q"
-msgstr ""
+msgstr "Driver belum diinstal dengan benar dan komputerku sekarang bermasalah. Bagaimana saya dapat memecahkan situasi ini?"
 
 msgid "adminpagefaq_stable-a"
 msgstr ""
@@ -909,55 +910,55 @@ msgid "devicegrouppage_show-more-link"
 msgstr "Tampilkan lebih banyak"
 
 msgid "devicestypepage_subtitle"
-msgstr ""
+msgstr "Semua {{CLASS.SINGLE.FOR}} pembuat"
 
 msgid "devicetypevendorpage_subtitle-popular"
-msgstr ""
+msgstr "Terkenal {{VENDOR.NAME}}{{CLASS.PLURAL.MAIN}}"
 
 msgid "devicetypevendorpage_subtitle-all"
-msgstr ""
+msgstr "Semua {{VENDOR.NAME}}{{CLASS.PLURAL.MAIN}}"
 
 msgid "drop-down-language_not-found"
 msgstr "Haven't found your language?"
 
 msgid "errorpage_title"
-msgstr ""
+msgstr "Kesalahan 500: kesalahan dalam server"
 
 msgid "landingfooter_landing-subtitle"
-msgstr ""
+msgstr "DriverPack berisi beberapa driver untuk semua versi Windows terpopuler"
 
 msgid "landing-footer_catalog-os"
-msgstr ""
+msgstr "Driver untuk {{OS}}"
 
 msgid "landing-footer_download"
 msgstr "Unduh DriverPack"
 
 msgid "landing-footer_versions"
-msgstr ""
+msgstr "Semua versi aplikasi"
 
 msgid "landing-footer_catalog"
 msgstr "Pencarian Driver"
 
 msgid "landing-footer_drivers-catalog"
-msgstr ""
+msgstr "Katalog driver"
 
 msgid "landing-footer_for-admin"
-msgstr ""
+msgstr "Untuk sistem administrasi"
 
 msgid "landing-footer_for-translators"
 msgstr "Untuk penerjemah"
 
 msgid "landing-footer_drivers-for-laptops"
-msgstr ""
+msgstr "Driver komputer jingjing"
 
 msgid "landing-footer_hwids"
-msgstr ""
+msgstr "Device ID"
 
 msgid "landing-footer_license"
 msgstr "Perjanjian Lisensi"
 
 msgid "landing-footer_remove"
-msgstr ""
+msgstr "menghapus DriverPack "
 
 msgid "notfoundpage_title"
 msgstr "Error 404 : Halaman tidak di temukan"
@@ -969,7 +970,7 @@ msgid "notebookpage_all-devices"
 msgstr "untuk semua perangkat"
 
 msgid "notebookspage_subtitle"
-msgstr ""
+msgstr "Daftar semua komputer jingjing dan komputer kecil"
 
 msgid "notebooksvendorpage_subtitle-popular"
 msgstr "Laptop dan netbook {{VENDOR.NAME}} populer"
@@ -978,7 +979,7 @@ msgid "notebooksvendorpage_subtitle-all"
 msgstr "Semua {{VENDOR.NAME}} laptop dan netbook"
 
 msgid "reviewpage_title"
-msgstr ""
+msgstr "Saran dan masukan untuk meningkatkan DriverPack"
 
 msgid "searchpage_show-more-link"
 msgstr "Tampilkan lebih banyak"
@@ -986,37 +987,37 @@ msgstr "Tampilkan lebih banyak"
 #. i18n: EN: text for {{LINK}} is in key thankyoupopup_download-link; RU:
 #. текст для {{LINK}} находится в ключе thankyoupopup_download-link;
 msgid "thankyoupopup_download-text"
-msgstr ""
+msgstr "Unduh belum dimulai? klik di sini {{LINK}}"
 
 msgid "thankyoupopup_title"
-msgstr ""
+msgstr "Mulai DriverPack"
 
 msgid "thankyoupopup_cta-text"
-msgstr ""
+msgstr "untuk memulai memilih dan mengaplikasi semua driver ke dalam komputermu"
 
 msgid "thankyoupopup_download-link"
 msgstr "unduh"
 
 msgid "translate-feedback-header_caption"
-msgstr ""
+msgstr "Halaman ini baru saja diterjemahkan. Apakah kamu menemukan kesalahan cetak? tandai dan tekan {{HOTKEY}}"
 
 msgid "translate-feedback-popup_title-error"
 msgstr "Ada yang salah"
 
 msgid "translate-feedback-popup_description-error"
-msgstr ""
+msgstr "Teks yang ditandai belum terkirim karena masalah di server. <br />Silahkan coba lagi nanti."
 
 msgid "translate-feedback-popup_title-success"
 msgstr "Terima kasih"
 
 msgid "translate-feedback-popup_description-success"
-msgstr ""
+msgstr "Teks yang ditandai sudah dikirim ke pengedit"
 
 msgid "translate-feedback-popup_description-join-us"
-msgstr ""
+msgstr "Mohon bantu kami dengan menterjemahkan ke bahasa asalmu."
 
 msgid "translate-feedback-popup_description-join-link"
-msgstr ""
+msgstr "Bergabung dengan tim penterjemah kami!"
 
 msgid "translationlandingpage_title"
 msgstr "Terjemahan DriverPack"
@@ -1025,16 +1026,16 @@ msgid "vendorpage_subtitle-popular"
 msgstr "Perangkat {{VENDOR.NAME}} populer"
 
 msgid "wannacryptpromopage_cta-text"
-msgstr ""
+msgstr "Virus WannaCrypt cryptographer — bagaimana saya melindungi dari serangan yang lebih besar dalam sejarah?"
 
 msgid "wannacryptpromopage_cta-subtext"
-msgstr ""
+msgstr "DriverPack terdapat spesifik arti untuk  mengeliminasi perangkat yang rentan. Anda dapat mengunduh perlindungan serangan virus WannaCry dengan bebas, yang mengamankan komputermu."
 
 msgid "wannacryptpromopage_cta-btn"
-msgstr ""
+msgstr "Mengkonfigurasi komputer dan melindungi dari serangan WannaCry"
 
 msgid "wannacryptpromopage_caption-text"
-msgstr ""
+msgstr "Perangkat lunak ini diberikan secara bebas"
 
 msgid "wannacryptpromopage_info-text-title-1"
 msgstr "Apa itu WannaCrypt?"
@@ -1043,19 +1044,19 @@ msgid "wannacryptpromopage_info-text-1"
 msgstr ""
 
 msgid "wannacryptpromopage_info-text-title-2"
-msgstr ""
+msgstr "Siapa yang menanggun resiko?"
 
 msgid "wannacryptpromopage_info-text-2"
 msgstr ""
 
 msgid "wannacryptpromopage_info-text-title-3"
-msgstr ""
+msgstr "Bagaimana melindungi bisnismu — solusi dari DriverPack Solution"
 
 msgid "wannacryptpromopage_info-text-3"
 msgstr ""
 
 msgid "wannacryptpromopage_links-text"
-msgstr ""
+msgstr "Pengembangan dari solusi ini didasarkan pada pilihan bahan-bahan"
 
 msgid "wannacryptpromopage_link-smb"
 msgstr "bagaimana menyalakan dan mematikan versi 1, 2 dan 3 protokol SMB untuk Windows dan Windows Server"
