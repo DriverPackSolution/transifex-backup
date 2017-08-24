@@ -17,10 +17,10 @@ msgstr ""
 
 #. i18n: EN: Example: VENDOR.NAME=Asus; RU: Пример: VENDOR.NAME=Asus;
 msgid "seo_vendor-footer-anchor"
-msgstr ""
+msgstr "{{VENDOR.NAME}}"
 
 msgid "seo_devicegroups-footer-anchor"
-msgstr ""
+msgstr "{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
 
 #. i18n: EN: Example: NAME=Acer E230H; RU: Пример: NAME=Acer E230H;
 msgid "seo_devicegroup-footer-anchor"
@@ -562,7 +562,7 @@ msgid "seo_hwidos-footer-application-category"
 msgstr "Nsεso: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_hwidos-footer-application-subcategory"
-msgstr "Nsεso-kumaa: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}} </span>"
+msgstr "Nsεso-kumaa: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_hwidos-footer-content"
 msgstr "Twe driver εma {{DEVICE.DEVICEID}} afidie wͻ Windows {{OS}}, anaa si DriverPack Solution nhyehyεε na εnsi drivers mma wo amonomuhͻa"
@@ -583,7 +583,7 @@ msgid "seo_notebookdevicesos-footer-description"
 msgstr "Twe {{CLASS.SINGLE.FOR}} ho drivers εma {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} kͻmputa korokorwa wͻ Windows {{OS}} a sika nka ho"
 
 msgid "seo_notebookdevicesos-footer-application-category"
-msgstr "Nsεso: <span itemprop='applicationCategory'> {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} kͻmputa korokorowa</span>"
+msgstr "Nsεso: <span itemprop='applicationCategory'>{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} kͻmputa korokorowa</span>"
 
 msgid "seo_notebookdevicesos-footer-application-subcategory"
 msgstr "Nsεso-kumaa: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}} εma {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}</span>"
@@ -880,7 +880,7 @@ msgid "seo_notebook-footer-content-asus-k52jr"
 msgstr ""
 
 msgid "seo_notebook-footer-content-asus-x101ch"
-msgstr ""
+msgstr "Wo tumi twe drivers εma Asus X101CH kͻmputa korokorowa ma Windows XP, 7, 8, 8.1, ne 10 a sika nka ho. W’anhu driver wo hia wͻ yεn nhoma-mmoano mu? Wo nni haw - twe DriverPack Solution nhyehyεε na εnsi driver mma wo amonomuhͻa - εno ankasa bε yi driver a ehia w’afidie no ama wo a εnfa ͻhaw mmrε wo."
 
 msgid "seo_notebook-footer-content-asus-k50ij"
 msgstr ""
