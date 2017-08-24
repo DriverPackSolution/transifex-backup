@@ -182,7 +182,7 @@ msgstr "Nsεso: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|monitors; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|мониторы; VENDOR.NAME=Acer;
 msgid "seo_devicegroups-footer-application-subcategory"
-msgstr "Nsεso-kumaa: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}} </span>"
+msgstr "Nsεso-kumaa: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 #. i18n: EN: Example: CLASS.SINGLE.FOR=videocard|monitor; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.SINGLE.FOR=видеокарты|монитора; VENDOR.NAME=Acer;
@@ -226,13 +226,13 @@ msgstr "Twe drivers εma {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} ho {{CLASS.PLURAL.
 #. GROUP.VENDOR.NAME=Nvidia; RU: Пример: CLASS.PLURAL.FOR=видеокарт|чипсетов;
 #. GROUP.VENDOR.NAME=Nvidia;
 msgid "seo_devicegroup-footer-application-category"
-msgstr "Nsεso: <span itemprop='applicationCategory'>{{GROUP.VENDOR.NAME}}  {{CLASS.PLURAL.MAIN}} </span>"
+msgstr "Nsεso: <span itemprop='applicationCategory'>{{GROUP.VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets;
 #. GROUP.NAME=GeForce 210; RU: Пример: CLASS.PLURAL.MAIN=видеокарты|чипсеты;
 #. GROUP.NAME=GeForce 210;
 msgid "seo_devicegroup-footer-application-subcategory"
-msgstr "Nsεso-kumaa: <span itemprop='applicationSubCategory'>{{GROUP.NAME}}  {{CLASS.PLURAL.MAIN}}</span>"
+msgstr "Nsεso-kumaa: <span itemprop='applicationSubCategory'>{{GROUP.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
 #. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
@@ -283,7 +283,7 @@ msgstr "Nsεso: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|чипсеты; VENDOR.NAME=Acer;
 msgid "seo_hwid-footer-application-subcategory"
-msgstr "Nsεso-kumaa: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}}  {{CLASS.PLURAL.MAIN}} </span>"
+msgstr "Nsεso-kumaa: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
@@ -327,7 +327,7 @@ msgstr "Nsεso: <span itemprop='applicationCategory'>kͻmputa korokorowa</span>"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_notebookvendor-footer-application-subcategory"
-msgstr "Nsεso-kumaa: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}}kͻmputa korokorowa</span>"
+msgstr "Nsεso-kumaa: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} kͻmputa korokorowa</span>"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
@@ -407,7 +407,7 @@ msgstr "Twe {{CLASS.PLURAL.FOR}} ho drivers εma {{NOTEBOOK.VENDOR.NAME}} {{NOTE
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebookdevices-footer-application-category"
-msgstr "Nsεso: <span itemprop='applicationCategory'> {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} kͻmputa korokorowa</span>"
+msgstr "Nsεso: <span itemprop='applicationCategory'>{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} kͻmputa korokorowa</span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets;
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU: Пример:
@@ -442,10 +442,10 @@ msgid "seo_devicegroupos-footer-description"
 msgstr "Twe {{CLASS.SINGLE.FOR}} ho drivers εma {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} wͻ Windows {{OS}} a sika nka ho"
 
 msgid "seo_devicegroupos-footer-application-category"
-msgstr "Nsεso: <span itemprop='applicationCategory'>{{GROUP.VENDOR.NAME}}  {{CLASS.PLURAL.MAIN}} </span>"
+msgstr "Nsεso: <span itemprop='applicationCategory'>{{GROUP.VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_devicegroupos-footer-application-subcategory"
-msgstr "Nsεso:-kumaa: <span itemprop='applicationSubCategory'>{{GROUP.NAME}}  {{CLASS.PLURAL.MAIN}} </span>"
+msgstr "Nsεso:-kumaa: <span itemprop='applicationSubCategory'>{{GROUP.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_devicegroupos-footer-content"
 msgstr ""
@@ -656,6 +656,21 @@ msgstr ""
 
 msgid "seo_standards-keywords"
 msgstr ""
+
+msgid "seo_mainos-content-xp"
+msgstr ""
+
+msgid "seo_mainos-content-7"
+msgstr ""
+
+msgid "seo_mainos-content-8"
+msgstr "Windows 8 yε dwumadie nhyehyεε  a efiri Microsoft Windows abusua no mu na epie Windows 7 akyi, na Microsofr Corporation na εbͻͻε. Esu no mu pa ara ne 6.2 su. October bosome a εtͻ so 26, 2011 na wͻn hyεε ase tͻn Windows 8. 2017 ahohurubere mu no, nnipa beyε 5% wͻ wiase yi mu na εde dwumadie nhyehyεε yi dii dwuma. Windows 2012 yε server mu su. Metro interface foforo na wͻn de yεε dwumadie nhyehyεε yi su. January bosome a εtͻ so 12, 2016 na wͻn gyae tͻn nanso wo tumi twe yεn driver foforo a aba εma Windows 8 wͻ fa ha."
+
+msgid "seo_mainos-content-8.1"
+msgstr "Windows 8.1 Dwumadie Nhyehyεε (NT abusua) no bε pie Windows 8 akyi na wͻn nhyεaseε no wͻn yε maa workstations, kͻmputa ne ahomatorofoͻ. Windows server 2012 R2 yε server su ma Windows 8.1. Dwumadie nhyehyεε yi ne Windows 8.1 nyε pε nsesaε εwͻ ho ne ausafoͻ bͻ amaneε. Wͻn sane susu ma Windows 8.1 sεε εbεdi dwuma wͻ afidie a yε de yεn nsa fa anim. 2017 ahohurubere no, kͻmputa 6.48% na εde dwumadie nhyehyεε yi di dwuma. Wo tumi twe drivers foforo ma Windows 8.1 wͻ yεn nhoma-mmoano."
+
+msgid "seo_mainos-content-10"
+msgstr "Na yε susu sεε Windows 10 dwumadie nhyhyεε no bε yε ewiase mu dwumadie nhyehyεε ma kͻmputa, ahomatorofoͻ, ne ne so kεse ne mpo Xbox One agorͻ afidie. Ɛpie Windows 8.1 akyi, na εyε NT abusua no deε. Sesei deε, nnfidie 27% a εwͻ wiase mu na εde Windows 10 dwumadie nhyehyεε no di dwuma, ma obiara tumi twe kwanma-nhoma  foforo a aba εma Windows 7, Windows 8.1, ne Windows ahomatorofoͻ 8.1 kͻ si Windows 10 a sika nka ho εwͻ bosome 6 a wͻn hyεε dumadie no asi. Wo tumi twe drivers εma nnfidie biara a wͻ de Windows 10 de dwuma wͻ DriverPack Solution nhoma-mmoano mu. Nsusuaε a εda Windows 10 ne dwumadie nhyehyεε a adi n’akyi ne sεε εma wo kwan ma wo si desk pii, na εsan nso wͻ Cortana εne mmoaε."
 
 msgid "seo_deviceclass-footer-content-bluetooth"
 msgstr "Wͻ ha wo tumi twe <strong>drivers εma Bluetooth</strong> wͻ Windows dwumadie nhyehyεε su nyinara. Drivers a efiri abͻfo a wͻn agye din (te sεε Hewlett Packard, Qcom, ne Celink) εne abͻfo a wͻn nhyεda nngye din nyinara wͻ ha. Ni nyinara mu nyinara no, wo tumi <b>twe drivers εma Bluetooth</b> a efiri abͻfo a wͻn bε boro 90 wͻ yεn nhoma-mmoano mu.<br />Sε wo εntumi enya driver a wopε a, si yεn DriverPack Solution na εnsi driver mma wo amonomuhͻa – sika biara nka ho"
@@ -998,18 +1013,3 @@ msgstr "Lenovo g580 kͻmputa korokorowa ho drivers wͻ Windows XP, 7, 8, 8.1 ne 
 
 msgid "seo_notebook-footer-content-asus-x550cc-sound-10-x64"
 msgstr "Wo tumi twe drivers εma Asus X550CC kͻmputa korokorowa wͻ Windows 10x64 a sika nka ho. Wo tumi twe DriverPack Solution nhyehyεε – εbε hwε wo driver ho noͻma wͻ wo kͻmputa korokorowa so na asi wͻn su foforo a aba no ama wo."
-
-msgid "seo_mainos-content-xp"
-msgstr ""
-
-msgid "seo_mainos-content-7"
-msgstr ""
-
-msgid "seo_mainos-content-8"
-msgstr "Windows 8 yε dwumadie nhyehyεε  a efiri Microsoft Windows abusua no mu na epie Windows 7 akyi, na Microsofr Corporation na εbͻͻε. Esu no mu pa ara ne 6.2 su. October bosome a εtͻ so 26, 2011 na wͻn hyεε ase tͻn Windows 8. 2017 ahohurubere mu no, nnipa beyε 5% wͻ wiase yi mu na εde dwumadie nhyehyεε yi dii dwuma. Windows 2012 yε server mu su. Metro interface foforo na wͻn de yεε dwumadie nhyehyεε yi su. January bosome a εtͻ so 12, 2016 na wͻn gyae tͻn nanso wo tumi twe yεn driver foforo a aba εma Windows 8 wͻ fa ha."
-
-msgid "seo_mainos-content-8.1"
-msgstr "Windows 8.1 Dwumadie Nhyehyεε (NT abusua) no bε pie Windows 8 akyi na wͻn nhyεaseε no wͻn yε maa workstations, kͻmputa ne ahomatorofoͻ. Windows server 2012 R2 yε server su ma Windows 8.1. Dwumadie nhyehyεε yi ne Windows 8.1 nyε pε nsesaε εwͻ ho ne ausafoͻ bͻ amaneε. Wͻn sane susu ma Windows 8.1 sεε εbεdi dwuma wͻ afidie a yε de yεn nsa fa anim. 2017 ahohurubere no, kͻmputa 6.48% na εde dwumadie nhyehyεε yi di dwuma. Wo tumi twe drivers foforo ma Windows 8.1 wͻ yεn nhoma-mmoano."
-
-msgid "seo_mainos-content-10"
-msgstr "Na yε susu sεε Windows 10 dwumadie nhyhyεε no bε yε ewiase mu dwumadie nhyehyεε ma kͻmputa, ahomatorofoͻ, ne ne so kεse ne mpo Xbox One agorͻ afidie. Ɛpie Windows 8.1 akyi, na εyε NT abusua no deε. Sesei deε, nnfidie 27% a εwͻ wiase mu na εde Windows 10 dwumadie nhyehyεε no di dwuma, ma obiara tumi twe kwanma-nhoma  foforo a aba εma Windows 7, Windows 8.1, ne Windows ahomatorofoͻ 8.1 kͻ si Windows 10 a sika nka ho εwͻ bosome 6 a wͻn hyεε dumadie no asi. Wo tumi twe drivers εma nnfidie biara a wͻ de Windows 10 de dwuma wͻ DriverPack Solution nhoma-mmoano mu. Nsusuaε a εda Windows 10 ne dwumadie nhyehyεε a adi n’akyi ne sεε εma wo kwan ma wo si desk pii, na εsan nso wͻ Cortana εne mmoaε."

@@ -147,7 +147,7 @@ msgstr "Categoria: <span itemprop='applicationCategory'>Devices</span>"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendor-footer-application-subcategory"
-msgstr "Subcategoria: <span itemprop='applicationSubCategory'>dispositivos {{VENDOR.NAME}} </span>"
+msgstr "Subcategoria: <span itemprop='applicationSubCategory'>dispositivos {{VENDOR.NAME}}</span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|monitors; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.FOR=видеокарт|мониторов; VENDOR.NAME=Acer;
@@ -182,7 +182,7 @@ msgstr "Categoria: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</s
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|monitors; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|мониторы; VENDOR.NAME=Acer;
 msgid "seo_devicegroups-footer-application-subcategory"
-msgstr "Subcategoria: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}} </span>"
+msgstr "Subcategoria: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 #. i18n: EN: Example: CLASS.SINGLE.FOR=videocard|monitor; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.SINGLE.FOR=видеокарты|монитора; VENDOR.NAME=Acer;
@@ -194,14 +194,14 @@ msgstr "Descarregar controladores para {{CLASS.SINGLE.FOR}} da {{VENDOR.NAME}}, 
 #. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
 #. GROUP.NAME=GeForce 210;
 msgid "seo_devicegroup-title"
-msgstr "Descarregar de graça controladores para {{CLASS.SINGLE.FOR}}{{GROUP.NAME}} da {{GROUP.VENDOR.NAME}} para Windows"
+msgstr "Descarregar de graça controladores para {{CLASS.SINGLE.FOR}} {{GROUP.NAME}} da {{GROUP.VENDOR.NAME}} para Windows"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
 #. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
 #. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
 #. GROUP.NAME=GeForce 210;
 msgid "seo_devicegroup-description"
-msgstr "Carregar e instalar controladores {{GROUP.VENDOR.NAME}}{{GROUP.NAME}}{{CLASS.SINGLE.FOR}} para Windows 7, XP, 10, 8 e 8.1, ou descarregue o programa DriverPack Solution para instalação automática de controladores"
+msgstr "Carregar e instalar controladores {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.SINGLE.FOR}} para Windows 7, XP, 10, 8 e 8.1, ou descarregue o programa DriverPack Solution para instalação automática de controladores"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
 #. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
@@ -657,6 +657,21 @@ msgstr ""
 msgid "seo_standards-keywords"
 msgstr ""
 
+msgid "seo_mainos-content-xp"
+msgstr ""
+
+msgid "seo_mainos-content-7"
+msgstr ""
+
+msgid "seo_mainos-content-8"
+msgstr ""
+
+msgid "seo_mainos-content-8.1"
+msgstr ""
+
+msgid "seo_mainos-content-10"
+msgstr ""
+
 msgid "seo_deviceclass-footer-content-bluetooth"
 msgstr ""
 
@@ -997,19 +1012,4 @@ msgid "seo_notebook-footer-content-lenovo-g580-7-x64"
 msgstr ""
 
 msgid "seo_notebook-footer-content-asus-x550cc-sound-10-x64"
-msgstr ""
-
-msgid "seo_mainos-content-xp"
-msgstr ""
-
-msgid "seo_mainos-content-7"
-msgstr ""
-
-msgid "seo_mainos-content-8"
-msgstr ""
-
-msgid "seo_mainos-content-8.1"
-msgstr ""
-
-msgid "seo_mainos-content-10"
 msgstr ""
