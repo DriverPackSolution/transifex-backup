@@ -19,10 +19,10 @@ msgstr ""
 
 #. i18n: EN: Example: VENDOR.NAME=Asus; RU: Пример: VENDOR.NAME=Asus;
 msgid "seo_vendor-footer-anchor"
-msgstr ""
+msgstr "{{VENDOR.NAME}}"
 
 msgid "seo_devicegroups-footer-anchor"
-msgstr ""
+msgstr "{{VENDOR.NAME}}{{CLASS.PLURAL.MAIN}}"
 
 #. i18n: EN: Example: NAME=Acer E230H; RU: Пример: NAME=Acer E230H;
 msgid "seo_devicegroup-footer-anchor"
@@ -450,7 +450,7 @@ msgid "seo_devicegroupos-footer-application-subcategory"
 msgstr "Subcategoria: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}} {{GROUP.NAME}}</span>"
 
 msgid "seo_devicegroupos-footer-content"
-msgstr ""
+msgstr "Descarcă drivere pentru {{GROUP.VENDOR.NAME}}{{GROUP.NAME}}{{CLASS.PLURAL.FOR}}(Windows{{OS}}), sau instalează programul DriverPack Solution pentru descărcare și update automat de drivere"
 
 msgid "seo_notebookos-title"
 msgstr "Descarcă drivere laptop {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} pentru Windows {{OS}}"
