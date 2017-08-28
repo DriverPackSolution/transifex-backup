@@ -62,7 +62,7 @@ msgid "seo_mainos-description"
 msgstr ""
 
 msgid "seo_mainos-h1"
-msgstr ""
+msgstr "  Windows {{OS.VERSION}} تعريفات"
 
 msgid "seo_mainos-keywords"
 msgstr ""
@@ -189,7 +189,7 @@ msgstr "الفئة الفرعيه: <span itemprop='applicationSubCategory'>{{VEN
 #. i18n: EN: Example: CLASS.SINGLE.FOR=videocard|monitor; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.SINGLE.FOR=видеокарты|монитора; VENDOR.NAME=Acer;
 msgid "seo_devicegroups-footer-content"
-msgstr "تحميل تعريفات من أجل {{VENDOR.NAME}}{{CLASS.SINGLE.FOR}}, او قم بتنصيب DriverPack Solution لتحميل وتحديث التعريفات الآلى"
+msgstr "تحميل تعريفات من أجل {{VENDOR.NAME}} {{CLASS.SINGLE.FOR}}, او قم بتنصيب DriverPack Solution لتحميل وتحديث التعريفات الآلى"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
 #. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
@@ -228,13 +228,13 @@ msgstr "تحميل التعريفات من أجل {{GROUP.VENDOR.NAME}} {{GROUP.
 #. GROUP.VENDOR.NAME=Nvidia; RU: Пример: CLASS.PLURAL.FOR=видеокарт|чипсетов;
 #. GROUP.VENDOR.NAME=Nvidia;
 msgid "seo_devicegroup-footer-application-category"
-msgstr "الفئة: <span itemprop='applicationCategory'>{{GROUP.VENDOR.NAME}} {{CLASS.PLURAL.MAIN}} </span>"
+msgstr "الفئة: <span itemprop='applicationCategory'>{{GROUP.VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets;
 #. GROUP.NAME=GeForce 210; RU: Пример: CLASS.PLURAL.MAIN=видеокарты|чипсеты;
 #. GROUP.NAME=GeForce 210;
 msgid "seo_devicegroup-footer-application-subcategory"
-msgstr "الفئة الفرعية: <span itemprop='applicationSubCategory'>{{GROUP.NAME}} {{CLASS.PLURAL.MAIN}} </span>"
+msgstr "الفئة الفرعية: <span itemprop='applicationSubCategory'>{{GROUP.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
 #. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
@@ -244,7 +244,7 @@ msgid "seo_devicegroup-footer-content"
 msgstr "تحميل التعريفات من أجل {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.SINGLE.FOR}}, او قم بتحميل برنامج DriverPack Solution لتحميل وتحديث التعريفات الآلى"
 
 msgid "seo_hwids-title"
-msgstr "تحميل تعريفات الجهاز عن طريق هوية الجهاز | DriverPack Solution | صفحة {{PAGE}}"
+msgstr "تحميل تعريفات الجهاز عن طريق ال Device ID | DriverPack Solution | صفحة {{PAGE}}"
 
 msgid "seo_hwids-description"
 msgstr "تحميل تعريفات الجهاز عن طريق هوية الجهاز"
@@ -255,12 +255,12 @@ msgstr "جميع التعريفات للاجهزه"
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 msgid "seo_hwid-title"
-msgstr "{{DEVICE.DEVICEID}}تحميل التعريف مجاناً"
+msgstr "{{DEVICE.DEVICEID}} تحميل التعريف مجاناً"
 
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 msgid "seo_hwid-description"
-msgstr "تعريف الجهاز لنظام التشغيل 7, XP, 10, 8, و 8.1"
+msgstr "{{DEVICE.DEVICEID}} تعريف الجهاز لنظام التشغيل 7, XP, 10, 8, و 8.1"
 
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
@@ -285,7 +285,7 @@ msgstr "الفئة: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|чипсеты; VENDOR.NAME=Acer;
 msgid "seo_hwid-footer-application-subcategory"
-msgstr "الفئة الفرعيه: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}} </span>"
+msgstr "الفئة الفرعيه: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
@@ -344,7 +344,7 @@ msgstr ""
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebook-h1"
-msgstr ""
+msgstr "<span class='bold'>{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}</span> تعريفات الحاسب المحمول"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
@@ -390,7 +390,7 @@ msgstr ""
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 #. CLASS.PLURAL.FOR=видеокарт|звуковых карт;
 msgid "seo_notebookdevices-h1"
-msgstr ""
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} الحاسب المحمول {{CLASS.SINGLE.FOR}} تعريفات"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets;
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU: Пример:
@@ -435,7 +435,7 @@ msgid "seo_devicegroupos-description"
 msgstr ""
 
 msgid "seo_devicegroupos-h1"
-msgstr ""
+msgstr "{{GROUP.VENDOR.NAME}} {{GROUP.NAME}} تعريفات لل Windows {{OS}}"
 
 msgid "seo_devicegroupos-keywords"
 msgstr ""
@@ -459,7 +459,7 @@ msgid "seo_notebookos-description"
 msgstr ""
 
 msgid "seo_notebookos-h1"
-msgstr ""
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} تعريفات الحاسب المحمول لل Windows {{OS}}"
 
 msgid "seo_notebookos-keywords"
 msgstr ""
@@ -483,7 +483,7 @@ msgid "seo_deviceclassos-description"
 msgstr ""
 
 msgid "seo_deviceclassos-h1"
-msgstr ""
+msgstr "{{CLASS.SINGLE.FOR}} تعريفات لل Windows {{OS}}"
 
 msgid "seo_deviceclassos-keywords"
 msgstr ""
@@ -504,7 +504,7 @@ msgid "seo_devicegroupsos-description"
 msgstr ""
 
 msgid "seo_devicegroupsos-h1"
-msgstr ""
+msgstr "{{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} تعريفات لل Windows {{OS}}"
 
 msgid "seo_devicegroupsos-keywords"
 msgstr ""
@@ -528,7 +528,7 @@ msgid "seo_notebookvendoros-description"
 msgstr ""
 
 msgid "seo_notebookvendoros-h1"
-msgstr ""
+msgstr "{{VENDOR.NAME}} تعريفات الحاسب المحمول لل Windows {{OS}}"
 
 msgid "seo_notebookvendoros-keywords"
 msgstr ""
@@ -552,7 +552,7 @@ msgid "seo_hwidos-description"
 msgstr ""
 
 msgid "seo_hwidos-h1"
-msgstr ""
+msgstr "{{DEVICE.DEVICEID}} تعريفات الجهاز لل Windows {{OS}}"
 
 msgid "seo_hwidos-keywords"
 msgstr ""
@@ -576,7 +576,7 @@ msgid "seo_notebookdevicesos-description"
 msgstr ""
 
 msgid "seo_notebookdevicesos-h1"
-msgstr ""
+msgstr "تعريفات ل {{CLASS.PLURAL.FOR}} ل {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} حاسب محمول | Windows {{OS}}"
 
 msgid "seo_notebookdevicesos-keywords"
 msgstr ""

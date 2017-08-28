@@ -28,13 +28,13 @@ msgstr "{{NAME}}"
 
 #. i18n: EN: Example: NAME=Asus X550EA; RU: Пример: NAME=Asus X550EA;
 msgid "seo_notebookvendor-footer-anchor"
-msgstr "{{NOTEBOOK.VENDOR.NAME}}لپ تاپ ها"
+msgstr "{{NOTEBOOK.VENDOR.NAME}} لپ تاپ ها"
 
 msgid "seo_notebook-footer-anchor"
-msgstr "{{NAME}}لپ تاپ ها"
+msgstr "{{NAME}} لپ تاپ ها"
 
 msgid "seo_notebookdevices-footer-anchor"
-msgstr "{{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}}{{CLASS.PLURAL.MAIN}}"
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} {{CLASS.PLURAL.MAIN}}"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
 #. CLASS.PLURAL.FOR=мониторов|модемов;
@@ -60,7 +60,7 @@ msgid "seo_mainos-description"
 msgstr ""
 
 msgid "seo_mainos-h1"
-msgstr ""
+msgstr "Windows {{OS.VERSION}}درایور ها "
 
 msgid "seo_mainos-keywords"
 msgstr ""
@@ -162,7 +162,7 @@ msgstr ""
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|monitors; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.FOR=видеокарт|мониторов; VENDOR.NAME=Acer;
 msgid "seo_devicegroups-h1"
-msgstr "<span class='bold'>{{VENDOR.NAME}}</span>{{CLASS.SINGLE.FOR}} درایور های راه انداز "
+msgstr "<span class='bold'>{{VENDOR.NAME}}</span> {{CLASS.SINGLE.FOR}} درایور های راه انداز "
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|monitors; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|мониторы; VENDOR.NAME=Acer;
@@ -208,7 +208,7 @@ msgstr ""
 #. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
 #. GROUP.NAME=GeForce 210;
 msgid "seo_devicegroup-h1"
-msgstr "<span class='bold'>{{GROUP.VENDOR.NAME}}{{GROUP.NAME}}{{CLASS.SINGLE.FOR}}</span> درایور های راه انداز "
+msgstr "<span class='bold'>{{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.SINGLE.FOR}}</span> درایور های راه انداز "
 
 #. i18n: EN: Example: GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU:
 #. Пример: GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210;
@@ -253,7 +253,7 @@ msgstr "تمامی درایور ها برای دستگاه ها"
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 msgid "seo_hwid-title"
-msgstr "{{DEVICE.DEVICEID}}دانلود درایور به رایگان"
+msgstr "{{DEVICE.DEVICEID}} دانلود درایور به رایگان"
 
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
@@ -320,7 +320,7 @@ msgstr ""
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_notebookvendor-footer-description"
-msgstr "دانلود درایور های {{VENDOR.NAME}}برای لپ تاپ به رایگان"
+msgstr "دانلود درایور های {{VENDOR.NAME}} برای لپ تاپ به رایگان"
 
 msgid "seo_notebookvendor-footer-application-category"
 msgstr ""
@@ -342,7 +342,7 @@ msgstr ""
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebook-h1"
-msgstr "<span class='bold'>{{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}}</span> درایور های لپتاب"
+msgstr "<span class='bold'>{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}</span> درایور های لپتاب"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
@@ -388,7 +388,7 @@ msgstr ""
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 #. CLASS.PLURAL.FOR=видеокарт|звуковых карт;
 msgid "seo_notebookdevices-h1"
-msgstr "  درایور های {{CLASS.SINGLE.FOR}}لپتاب{{NOTEBOOK.NAME}}{{NOTEBOOK.VENDOR.NAME}}"
+msgstr "  درایور های {{CLASS.SINGLE.FOR}} لپتاب {{NOTEBOOK.NAME}} {{NOTEBOOK.VENDOR.NAME}}"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets;
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU: Пример:
@@ -433,7 +433,7 @@ msgid "seo_devicegroupos-description"
 msgstr ""
 
 msgid "seo_devicegroupos-h1"
-msgstr "{{GROUP.VENDOR.NAME}}{{GROUP.NAME}}درایور های مخصوص ویندوز {{OS}}"
+msgstr "{{GROUP.VENDOR.NAME}} {{GROUP.NAME}} درایور های مخصوص ویندوز {{OS}}"
 
 msgid "seo_devicegroupos-keywords"
 msgstr ""
@@ -457,7 +457,7 @@ msgid "seo_notebookos-description"
 msgstr ""
 
 msgid "seo_notebookos-h1"
-msgstr "{{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}} درایور های مخصوص لپتاب با ویندوز {{OS}}"
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} درایور های مخصوص لپتاب با ویندوز {{OS}}"
 
 msgid "seo_notebookos-keywords"
 msgstr ""
@@ -502,7 +502,7 @@ msgid "seo_devicegroupsos-description"
 msgstr ""
 
 msgid "seo_devicegroupsos-h1"
-msgstr "{{VENDOR.NAME}}{{CLASS.SINGLE.FOR}} درایور های مخصوص ویندوز {{OS}}"
+msgstr "{{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} درایور های مخصوص ویندوز {{OS}}"
 
 msgid "seo_devicegroupsos-keywords"
 msgstr ""
