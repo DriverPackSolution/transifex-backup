@@ -18,10 +18,10 @@ msgstr ""
 
 #. i18n: EN: Example: VENDOR.NAME=Asus; RU: Пример: VENDOR.NAME=Asus;
 msgid "seo_vendor-footer-anchor"
-msgstr ""
+msgstr "{{VENDOR.NAME}}"
 
 msgid "seo_devicegroups-footer-anchor"
-msgstr ""
+msgstr "{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}} "
 
 #. i18n: EN: Example: NAME=Acer E230H; RU: Пример: NAME=Acer E230H;
 msgid "seo_devicegroup-footer-anchor"
@@ -284,7 +284,7 @@ msgstr "Категория: <span itemprop='applicationCategory'>{{CLASS.PLURAL.
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|чипсеты; VENDOR.NAME=Acer;
 msgid "seo_hwid-footer-application-subcategory"
-msgstr "Подкатегория: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}}  {{CLASS.PLURAL.MAIN}} </span>"
+msgstr "Подкатегория: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
@@ -408,7 +408,7 @@ msgstr "Изтегли драйвери за {{CLASS.PLURAL.FOR}} за лапт�
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebookdevices-footer-application-category"
-msgstr "Категория: <span itemprop='applicationCategory'> {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} лаптопи</span>"
+msgstr "Категория: <span itemprop='applicationCategory'>{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} лаптопи</span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets;
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU: Пример:
@@ -443,13 +443,13 @@ msgid "seo_devicegroupos-footer-description"
 msgstr "Изтегли драйвери за {{CLASS.SINGLE.FOR}} {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} за Windows {{OS}} безплатно"
 
 msgid "seo_devicegroupos-footer-application-category"
-msgstr "Категория: <span itemprop='applicationCategory'>{{GROUP.VENDOR.NAME}}  {{CLASS.PLURAL.MAIN}} </span>"
+msgstr "Категория: <span itemprop='applicationCategory'>{{GROUP.VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_devicegroupos-footer-application-subcategory"
-msgstr "Подкатегория: <span itemprop='applicationSubCategory'>{{GROUP.NAME}}  {{CLASS.PLURAL.MAIN}} </span>"
+msgstr "Подкатегория: <span itemprop='applicationSubCategory'>{{GROUP.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_devicegroupos-footer-content"
-msgstr ""
+msgstr "Изтегли драйвери за {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.PLURAL.FOR}} (Windows {{OS}}) или инсталирай софтуера DriverPack Solution за автоматично изтегляне и актуализиране на драйвери"
 
 msgid "seo_notebookos-title"
 msgstr "Изтегли драйвери за лаптоп {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} за Windows {{OS}}"
@@ -479,7 +479,7 @@ msgid "seo_deviceclassos-title"
 msgstr "Изтегли драйвери за {{CLASS.SINGLE.FOR}} за Windows {{OS}}"
 
 msgid "seo_deviceclassos-description"
-msgstr "Инсталирай драйвери за {{CLASS.SINGLE.FOR}} за Windows {{OS}}или изтегли софтуера DriverPack Solution за автоматично инсталиране и обновяване на драйвери"
+msgstr "Инсталирай драйвери за {{CLASS.SINGLE.FOR}} за Windows {{OS}} или изтегли софтуера DriverPack Solution за автоматично инсталиране и обновяване на драйвери"
 
 msgid "seo_deviceclassos-h1"
 msgstr "Драйвери за {{CLASS.SINGLE.FOR}} за Windows {{OS}}"
@@ -500,7 +500,7 @@ msgid "seo_devicegroupsos-title"
 msgstr "Изтегли драйвери за {{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} за Windows {{OS}}"
 
 msgid "seo_devicegroupsos-description"
-msgstr "Инсталирай драйвери за {{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} за  Windows {{OS}}или изтегли софтуера DriverPack Solution за автоматично инсталиране и обновяване на драйвери"
+msgstr "Инсталирай драйвери за {{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} за  Windows {{OS}} или изтегли софтуера DriverPack Solution за автоматично инсталиране и обновяване на драйвери"
 
 msgid "seo_devicegroupsos-h1"
 msgstr "Драйвери за {{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} за Windows {{OS}}"
@@ -515,7 +515,7 @@ msgid "seo_devicegroupsos-footer-application-category"
 msgstr "Категория: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_devicegroupsos-footer-application-subcategory"
-msgstr "Подкатегория: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}} </span>"
+msgstr "Подкатегория: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_devicegroupsos-footer-content"
 msgstr "Изтегли драйвери за {{VENDOR.NAME}} {{CLASS.PLURAL.FOR}} (Windows {{OS}}) безплатно или инсталирай софтуера DriverPack Solution за инсталиране и обновяване на драйвери"
@@ -524,7 +524,7 @@ msgid "seo_notebookvendoros-title"
 msgstr "Изтегли драйвери за лаптопи {{VENDOR.NAME}} за Windows {{OS}}"
 
 msgid "seo_notebookvendoros-description"
-msgstr "Инсталирай драйвери за лаптоп {{VENDOR.NAME}} за Windows {{OS}}или изтегли софтуера DriverPack Solution за автоматично инсталиране и обновяване на драйвери"
+msgstr "Инсталирай драйвери за лаптоп {{VENDOR.NAME}} за Windows {{OS}} или изтегли софтуера DriverPack Solution за автоматично инсталиране и обновяване на драйвери"
 
 msgid "seo_notebookvendoros-h1"
 msgstr "Драйвери за лаптоп {{VENDOR.NAME}} за Windows {{OS}}"
@@ -563,7 +563,7 @@ msgid "seo_hwidos-footer-application-category"
 msgstr "Категория: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_hwidos-footer-application-subcategory"
-msgstr "Подкатегория: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}}  {{CLASS.PLURAL.MAIN}} </span>"
+msgstr "Подкатегория: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_hwidos-footer-content"
 msgstr "Изтегли драйвери за устройство {{DEVICE.DEVICEID}} за Windows {{OS}} или инсталирай софтуера DriverPack Solution за автоматично изтегляне и обновяване на драйвери"
@@ -584,7 +584,7 @@ msgid "seo_notebookdevicesos-footer-description"
 msgstr "Изтегли драйвери за {{CLASS.SINGLE.FOR}} за лаптопи {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} за Windows {{OS}} безплатно"
 
 msgid "seo_notebookdevicesos-footer-application-category"
-msgstr "Категория: <span itemprop='applicationCategory'> {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} лаптопи</span>"
+msgstr "Категория: <span itemprop='applicationCategory'>{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} лаптопи</span>"
 
 msgid "seo_notebookdevicesos-footer-application-subcategory"
 msgstr "Подкатегория: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}} за {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}</span>"

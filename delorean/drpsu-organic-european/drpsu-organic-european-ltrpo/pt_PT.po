@@ -17,10 +17,10 @@ msgstr ""
 
 #. i18n: EN: Example: VENDOR.NAME=Asus; RU: Пример: VENDOR.NAME=Asus;
 msgid "seo_vendor-footer-anchor"
-msgstr ""
+msgstr "{{VENDOR.NAME}}"
 
 msgid "seo_devicegroups-footer-anchor"
-msgstr ""
+msgstr "{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}} "
 
 #. i18n: EN: Example: NAME=Acer E230H; RU: Пример: NAME=Acer E230H;
 msgid "seo_devicegroup-footer-anchor"
@@ -213,39 +213,39 @@ msgstr "<span class='bold'>Controladores para {{GROUP.VENDOR.NAME}} {{GROUP.NAME
 #. i18n: EN: Example: GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU:
 #. Пример: GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210;
 msgid "seo_devicegroup-keywords"
-msgstr ""
+msgstr "controladores windows 7 8 10 64 {{GROUP.VENDOR.NAME}} {{GROUP.NAME}}4 descarregar descarregar PC"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
 #. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
 #. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
 #. GROUP.NAME=GeForce 210;
 msgid "seo_devicegroup-footer-description"
-msgstr ""
+msgstr "Descarregar controladores para {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.PLURAL.FOR}}de graça"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
 #. GROUP.VENDOR.NAME=Nvidia; RU: Пример: CLASS.PLURAL.FOR=видеокарт|чипсетов;
 #. GROUP.VENDOR.NAME=Nvidia;
 msgid "seo_devicegroup-footer-application-category"
-msgstr ""
+msgstr "Categoria: <span itemprop='applicationCategory'>{{GROUP.VENDOR.NAME}}  {{CLASS.PLURAL.MAIN}} </span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets;
 #. GROUP.NAME=GeForce 210; RU: Пример: CLASS.PLURAL.MAIN=видеокарты|чипсеты;
 #. GROUP.NAME=GeForce 210;
 msgid "seo_devicegroup-footer-application-subcategory"
-msgstr ""
+msgstr "Subcategoria: <span itemprop='applicationSubCategory'>{{GROUP.NAME}}  {{CLASS.PLURAL.MAIN}} </span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
 #. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
 #. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
 #. GROUP.NAME=GeForce 210;
 msgid "seo_devicegroup-footer-content"
-msgstr ""
+msgstr "Descarregue controladores para {{CLASS.SINGLE.FOR}} {{GROUP.NAME}} da {{GROUP.VENDOR.NAME}}, ou descarregue o programa DriverPack Solution para descarregamento e atualização automática do controlador"
 
 msgid "seo_hwids-title"
-msgstr ""
+msgstr "Descarregue controladores de dispositivos pelo seu Device_id | DriverPack Solution | Página {{PAGE}}"
 
 msgid "seo_hwids-description"
-msgstr ""
+msgstr "Descarregue controladores de dispositivos pelo seu device_id"
 
 msgid "seo_hwids-h1"
 msgstr "Controladores para todos os dispositivos"
@@ -253,12 +253,12 @@ msgstr "Controladores para todos os dispositivos"
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 msgid "seo_hwid-title"
-msgstr ""
+msgstr "{{DEVICE.DEVICEID}} descarregue o controlador de graça"
 
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 msgid "seo_hwid-description"
-msgstr ""
+msgstr "Controlador do dispositivo {{DEVICE.DEVICEID}}para Windows 7, XP, 10, 8 e 8.1"
 
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
@@ -268,47 +268,47 @@ msgstr "<span class='bold'>{{DEVICE.DEVICEID}}</span>"
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 msgid "seo_hwid-keywords"
-msgstr ""
+msgstr "controladores windows 7 8 10 64 descarregar descarregar PC {{DEVICE.DEVICEID}}"
 
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 msgid "seo_hwid-footer-description"
-msgstr ""
+msgstr "Descarregue controladores para o dispositivo {{DEVICE.DEVICEID}} de graça"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets; RU: Пример:
 #. CLASS.PLURAL.MAIN=видеокарты|чипсеты;
 msgid "seo_hwid-footer-application-category"
-msgstr ""
+msgstr "Categoria: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|чипсеты; VENDOR.NAME=Acer;
 msgid "seo_hwid-footer-application-subcategory"
-msgstr ""
+msgstr "Subcategoria: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}}  {{CLASS.PLURAL.MAIN}} </span>"
 
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 msgid "seo_hwid-footer-content"
-msgstr ""
+msgstr "Descarregue o controlador para {{DEVICE.DEVICEID}}, ou instale o programa DriverPack Solution para um descarregamento e atualização automática"
 
 msgid "seo_notebooks-title"
-msgstr ""
+msgstr "Descarregue controladores de todos os modelos de portáteis para o Windows"
 
 msgid "seo_notebooks-description"
-msgstr ""
+msgstr "Carregue e instale controladores de todos os portáteis e netbooks para Windows 7, XP, 10, 8 e 8.1, ou descarregue o programa DriverPack Solution para uma atualização e instalação automática de controladores"
 
 msgid "seo_notebooks-h1"
 msgstr "Controladores para portáteis e netbooks"
 
 msgid "seo_notebooks-keywords"
-msgstr ""
+msgstr "controladores controladores portátil notebool netbook netbook windows 7 8 10 64 descarregar descarregar"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_notebookvendor-title"
-msgstr ""
+msgstr "Descarregue controladores de portáteis {{VENDOR.NAME}} | Windows"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_notebookvendor-description"
-msgstr ""
+msgstr "Descarregue e instale controladores de portáteis e netbooks {{VENDOR.NAME}} para Windows 7, XP, 10, 8 e 8.1, ou descarregue o DriverPack Solution para uma instalação e atualização automática de controladores"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_notebookvendor-h1"
@@ -316,28 +316,28 @@ msgstr "Controladores para portáteis e netbooks da <span class='bold'>{{VENDOR.
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_notebookvendor-keywords"
-msgstr ""
+msgstr "controladores controladores portátil notebook portátil netbook netbook windows 7 8 10 64 descarregar descarregar {{VENDOR.NAME}}"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_notebookvendor-footer-description"
-msgstr ""
+msgstr "Descarregue controladores de portáteis {{VENDOR.NAME}} de graça"
 
 msgid "seo_notebookvendor-footer-application-category"
-msgstr ""
+msgstr "Categoria: <span itemprop='applicationCategory'>Portáteis</span>"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_notebookvendor-footer-application-subcategory"
-msgstr ""
+msgstr "Subcategoria: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} portáteis</span>"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebook-title"
-msgstr ""
+msgstr "Controladores do portátil {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} | Descarregue para o Windows"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebook-description"
-msgstr ""
+msgstr "Descarregue e instale controladores para o {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} para Windows 7, XP, 10, 8 e 8.1, ou descarregue o programa DriverPack Solution para uma instalação e atualização automática de controladores"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
@@ -347,41 +347,41 @@ msgstr "Controladores para portátil <span class='bold'>{{NOTEBOOK.VENDOR.NAME}}
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebook-keywords"
-msgstr ""
+msgstr "controladores controladores potátil notebook laptop netbook netbook windows 7 8 10 64 descarregar descarregar {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebook-footer-description"
-msgstr ""
+msgstr "Descarregue controladores para portáteis {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}} de graça"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; RU: Пример:
 #. NOTEBOOK.VENDOR.NAME=Acer;
 msgid "seo_notebook-footer-application-category"
-msgstr ""
+msgstr "Categoria: <span itemprop='applicationCategory'>{{NOTEBOOK.VENDOR.NAME}} portáteis</span>"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebook-footer-application-subcategory"
-msgstr ""
+msgstr "Subcategoria: <span itemprop='applicationSubCategory'>{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} portáteis</span>"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebook-footer-content"
-msgstr ""
+msgstr "Pode descarregar aqui controladores para portáteis {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}, ou descarregar um programa para instalação e atualização automática de controladores da DriverPack Solution"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 #. CLASS.SINGLE.FOR=videocart|soundcart; RU: Пример:
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 #. CLASS.SINGLE.FOR=видеокарты|звуковой карты;
 msgid "seo_notebookdevices-title"
-msgstr ""
+msgstr "Controladores de {{CLASS.SINGLE.FOR}} para portáteis {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} | Descarregue para Windows"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 #. CLASS.SINGLE.FOR=videocart|soundcart; RU: Пример:
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 #. CLASS.SINGLE.FOR=видеокарты|звуковой карты;
 msgid "seo_notebookdevices-description"
-msgstr ""
+msgstr "Descarregue e instale controladores {{CLASS.SINGLE.FOR}} para portáteis {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} para o Windows 7, XP, 10, 8 e 8.1, ou descarregue o programa DriverPack Solution para uma instalação e atualização automática de controladores"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 #. CLASS.PLURAL.FOR=videocarts|soundcarts; RU: Пример:
@@ -395,324 +395,324 @@ msgstr "Controladores para {{CLASS.SINGLE.FOR}} do portátil {{NOTEBOOK.VENDOR.N
 #. CLASS.PLURAL.MAIN=видеокарты|чипсеты; NOTEBOOK.VENDOR.NAME=Acer;
 #. NOTEBOOK.NAME=AO533;
 msgid "seo_notebookdevices-keywords"
-msgstr ""
+msgstr "controladores controladores portátil notebook portátil netbook {{CLASS.PLURAL.MAIN}} netbook windows 7 8 10 64 descarregar descarregar {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 #. CLASS.PLURAL.FOR=videocarts|soundcarts; RU: Пример:
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 #. CLASS.PLURAL.FOR=видеокарт|звуковых карт;
 msgid "seo_notebookdevices-footer-description"
-msgstr ""
+msgstr "Descarregar controladores de {{CLASS.PLURAL.FOR}} para portáteis {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} de graça"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebookdevices-footer-application-category"
-msgstr ""
+msgstr "Categoria: <span itemprop='applicationCategory'> {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} portáteis</span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets;
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU: Пример:
 #. CLASS.PLURAL.MAIN=видеокарты|чипсеты; NOTEBOOK.VENDOR.NAME=Acer;
 #. NOTEBOOK.NAME=AO533;
 msgid "seo_notebookdevices-footer-application-subcategory"
-msgstr ""
+msgstr "Subcategoria: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}} para {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}</span>"
 
 #. i18n: EN: Example: CLASS.SINGLE.FOR=videocard|chipset;
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU: Пример:
 #. CLASS.SINGLE.FOR=видеокарты|чипсета; NOTEBOOK.VENDOR.NAME=Acer;
 #. NOTEBOOK.NAME=AO533;
 msgid "seo_notebookdevices-footer-content"
-msgstr ""
+msgstr "Descarregue controladores de {{CLASS.SINGLE.FOR}} para portáteis {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} para Windows 7, XP, 10, 8 e 8.1, ou descarregue o programa DriverPack Solution para atualizar os controladores"
 
 msgid "seo_search-title"
-msgstr ""
+msgstr "Resultados da pesquisa para: {{QUERY}} | DriverPack Solution "
 
 msgid "seo_devicegroupos-title"
-msgstr ""
+msgstr "Descarregue controladores para {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} para o Windows {{OS}}"
 
 msgid "seo_devicegroupos-description"
-msgstr ""
+msgstr "Instale controladores para {{GROUP.NAME}} da {{GROUP.VENDOR.NAME}} para o Windows {{OS}}, ou descarregue o programa DriverPack Solution para uma instalação e atualização automática de controladores"
 
 msgid "seo_devicegroupos-h1"
 msgstr "Controladores de {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} para {{OS}}"
 
 msgid "seo_devicegroupos-keywords"
-msgstr ""
+msgstr "controladores windows {{OS}} descarregar descarregar PC {{GROUP.NAME}} {{GROUP.VENDOR.NAME}}"
 
 msgid "seo_devicegroupos-footer-description"
-msgstr ""
+msgstr "Descarregar controladores de {{CLASS.SINGLE.FOR}} para {{GROUP.NAME}} da {{GROUP.VENDOR.NAME}} para o Windows {{OS}} de graça"
 
 msgid "seo_devicegroupos-footer-application-category"
-msgstr ""
+msgstr "Categoria: <span itemprop='applicationCategory'>{{GROUP.VENDOR.NAME}}  {{CLASS.PLURAL.MAIN}} </span>"
 
 msgid "seo_devicegroupos-footer-application-subcategory"
-msgstr ""
+msgstr "Subcategoria: <span itemprop='applicationSubCategory'>{{GROUP.NAME}}  {{CLASS.PLURAL.MAIN}} </span>"
 
 msgid "seo_devicegroupos-footer-content"
-msgstr ""
+msgstr "Descarregue controladores de {{CLASS.PLURAL.FOR}} para {{GROUP.NAME}} da {{GROUP.VENDOR.NAME}} (Windows {{OS}}), ou instale o programa DriverPack Solution para uma instalação e atualização automática de controladores"
 
 msgid "seo_notebookos-title"
-msgstr ""
+msgstr "Descarregue controladores para portáteis {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} para o Windows {{OS}}"
 
 msgid "seo_notebookos-description"
-msgstr ""
+msgstr "Instale controladores para portáteis {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} para o Windows {{OS}}, ou descarregue o programa DriverPack Solution para uma instalação e atualização automática de controladores"
 
 msgid "seo_notebookos-h1"
 msgstr "Controladores do portátil {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} para Windows {{OS}}"
 
 msgid "seo_notebookos-keywords"
-msgstr ""
+msgstr "controladores controladores notebook portátil netbook netbook Windows {{OS}} descarregar descarregar {{NOTEBOOK.NAME}} {{NOTEBOOK.VENDOR.NAME}}"
 
 msgid "seo_notebookos-footer-description"
-msgstr ""
+msgstr "Descarregue controladores para portáteis {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} para o Windows {{OS}} de graça"
 
 msgid "seo_notebookos-footer-application-category"
-msgstr ""
+msgstr "Categoria: <span itemprop='applicationCategory'>{{NOTEBOOK.VENDOR.NAME}} portáteis</span>"
 
 msgid "seo_notebookos-footer-application-subcategory"
-msgstr ""
+msgstr "Subcategoria: <span itemprop='applicationSubCategory'>{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} portáteis</span>"
 
 msgid "seo_notebookos-footer-content"
-msgstr ""
+msgstr "Aqui pode descarregar controladores para portáteis {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} (Windows {{OS}}), ou descarregue o programa da DriverPack Solution para instalação e atualização automática de controladores"
 
 msgid "seo_deviceclassos-title"
-msgstr ""
+msgstr "Descarregue controladores de {{CLASS.SINGLE.FOR}} para o Windows {{OS}}"
 
 msgid "seo_deviceclassos-description"
-msgstr ""
+msgstr "Instale controladores de {{CLASS.SINGLE.FOR}} para o Windows {{OS}}, ou descarregue o programa DriverPack Solution para uma instalação e atualização automática de controladores"
 
 msgid "seo_deviceclassos-h1"
 msgstr "Controladores de {{CLASS.SINGLE.FOR}} para o Windows {{OS}}"
 
 msgid "seo_deviceclassos-keywords"
-msgstr ""
+msgstr "{{CLASS.SINGLE.FOR}} controladores Windows {{OS}} descarregar descarregar"
 
 msgid "seo_deviceclassos-footer-description"
-msgstr ""
+msgstr "Descarregue controladores de {{CLASS.SINGLE.FOR}} para o Windows {{OS}} de graça"
 
 msgid "seo_deviceclassos-footer-application-category"
-msgstr ""
+msgstr "Categoria: <span itemprop='applicationCategory'>Dispositivos</span>"
 
 msgid "seo_deviceclassos-footer-application-subcategory"
-msgstr ""
+msgstr "Subcategoria: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_devicegroupsos-title"
-msgstr ""
+msgstr "Descarregue controladores de {{CLASS.SINGLE.FOR}} da {{VENDOR.NAME}} para o Windows {{OS}}"
 
 msgid "seo_devicegroupsos-description"
-msgstr ""
+msgstr "Instale controladores de {{CLASS.SINGLE.FOR}} da {{VENDOR.NAME}} para o Windows {{OS}}, ou descarregue o programa Driverpack Solution para uma instalação e atualização automática de controladores"
 
 msgid "seo_devicegroupsos-h1"
 msgstr "Controladores de {{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} para o Windows {{OS}}"
 
 msgid "seo_devicegroupsos-keywords"
-msgstr ""
+msgstr "controladores Windows {{OS}} descarregar descarregar PC {{CLASS.PLURAL.MAIN}}{{VENDOR.NAME}}"
 
 msgid "seo_devicegroupsos-footer-description"
-msgstr ""
+msgstr "Descarregue controladores de {{CLASS.SINGLE.FOR}} da {{VENDOR.NAME}} para o Windows {{OS}}"
 
 msgid "seo_devicegroupsos-footer-application-category"
-msgstr ""
+msgstr "Categoria: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_devicegroupsos-footer-application-subcategory"
-msgstr ""
+msgstr "Subcategoria: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}} </span>"
 
 msgid "seo_devicegroupsos-footer-content"
-msgstr ""
+msgstr "Descarregue controladores para {{CLASS.PLURAL.FOR}} da {{VENDOR.NAME}} (Windows {{OS}}) de graça, ou instale o programa Driverpack Solution para uma instalação e atualização automática de controladores"
 
 msgid "seo_notebookvendoros-title"
-msgstr ""
+msgstr "Descarregue controladores de portáteis {{VENDOR.NAME}} para o Windows {{OS}}"
 
 msgid "seo_notebookvendoros-description"
-msgstr ""
+msgstr "Instale controladores de portáteis {{VENDOR.NAME}} para o Windows {{OS}}, ou descarregue o programa Driverpack Solution para uma instalação e atualização automática de controladores"
 
 msgid "seo_notebookvendoros-h1"
 msgstr "Controladores do portátil {{VENDOR.NAME}} para o Windows {{OS}}"
 
 msgid "seo_notebookvendoros-keywords"
-msgstr ""
+msgstr "controladores controladores portátil notebook portátil netbook netbook Windows {{OS}} descarregar descarregar {{VENDOR.NAME}}"
 
 msgid "seo_notebookvendoros-footer-description"
-msgstr ""
+msgstr "Descarregar controladores de portáteis {{VENDOR.NAME}} para o Windows {{OS}} de graça"
 
 msgid "seo_notebookvendoros-footer-application-category"
-msgstr ""
+msgstr "Categoria: <span itemprop='applicationCategory'>Portáteis</span>"
 
 msgid "seo_notebookvendoros-footer-application-subcategory"
-msgstr ""
+msgstr "Subcategoria: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} portáteis</span>"
 
 msgid "seo_notebookvendoros-footer-content"
-msgstr ""
+msgstr "Descarregue controladores de portáteis {{VENDOR.NAME}} para o Windows {{OS}} de graça, ou instale o programa Driverpack Solution para uma instalação e atualização automática de controladores"
 
 msgid "seo_hwidos-title"
-msgstr ""
+msgstr "{{DEVICE.DEVICEID}} descarregue controladores para o Windows {{OS}}"
 
 msgid "seo_hwidos-description"
-msgstr ""
+msgstr "Descarregue controladores de {{DEVICE.DEVICEID}} para o Windows {{OS}} de graça"
 
 msgid "seo_hwidos-h1"
 msgstr "Controlador do dispositivo {{DEVICE.DEVICEID}} para o Windows {{OS}}"
 
 msgid "seo_hwidos-keywords"
-msgstr ""
+msgstr "controladores Windows {{OS}} descarregar descarregar PC {{DEVICE.DEVICEID}}"
 
 msgid "seo_hwidos-footer-description"
-msgstr ""
+msgstr "Descarregue controladores do dispositivo {{DEVICE.DEVICEID}} para o Windows {{OS}} de graça"
 
 msgid "seo_hwidos-footer-application-category"
-msgstr ""
+msgstr "Categoria: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_hwidos-footer-application-subcategory"
-msgstr ""
+msgstr "Subcategoria: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}}  {{CLASS.PLURAL.MAIN}} </span>"
 
 msgid "seo_hwidos-footer-content"
-msgstr ""
+msgstr "Descarregue controladores do dispositivo {{DEVICE.DEVICEID}} para o Windows {{OS}}, ou instale o programa Driverpack Solution para uma instalação e atualização automática de controladores"
 
 msgid "seo_notebookdevicesos-title"
-msgstr ""
+msgstr "Controladores de {{CLASS.SINGLE.FOR}} para portáteis {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} | Descarregue para o Windows {{OS}}"
 
 msgid "seo_notebookdevicesos-description"
-msgstr ""
+msgstr "Instale controladores de {{CLASS.SINGLE.FOR}} para portáteis {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} para o Windows {{OS}}, ou descarregue o programa Driverpack Solution para uma instalação e atualização automática de controladores"
 
 msgid "seo_notebookdevicesos-h1"
 msgstr "Controladores para {{CLASS.PLURAL.FOR}} de portáteis {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}} | Windows {{OS}}"
 
 msgid "seo_notebookdevicesos-keywords"
-msgstr ""
+msgstr "controladores controladores portátil notebook portátil netbook netbook {{CLASS.PLURAL.MAIN}} Windows {{OS}} descarregar descarregar {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
 
 msgid "seo_notebookdevicesos-footer-description"
-msgstr ""
+msgstr "Descarregue controladores de {{CLASS.SINGLE.FOR}} para portáteis {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} para o Windows {{OS}} de graça"
 
 msgid "seo_notebookdevicesos-footer-application-category"
-msgstr ""
+msgstr "Categoria: <span itemprop='applicationCategory'> {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} portáteis</span>"
 
 msgid "seo_notebookdevicesos-footer-application-subcategory"
-msgstr ""
+msgstr "Subcategoria: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}} para {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}</span>"
 
 msgid "seo_notebookdevicesos-footer-content"
-msgstr ""
+msgstr "Descarregue controladores de {{CLASS.SINGLE.FOR}} para portáteis {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} (Windows {{OS}}), ou descarregue o programa Driverpack Solution para atualizar os controladores"
 
 msgid "seo_promopage_title"
-msgstr ""
+msgstr "DriverPack – instalação livre de controladores"
 
 msgid "seo_promo-description"
-msgstr ""
+msgstr "A DriverPack Solution sugere que instale os controladores do seu dispositivo de graça, ou descarregue o programa para uma instalação e atualização automática de controladores"
 
 msgid "seo_promo-keywords"
-msgstr ""
+msgstr "descarregar controlador pacote controladores windows 7 8 10 64 portátil de graça controlador instalador controlador instalação programa"
 
 msgid "seo_promodevice_title"
-msgstr ""
+msgstr "Descarregue controladores para usb, bluetooth, impressoras, Wi-Fi, e placas gráficas de graça"
 
 msgid "seo_promodevice-description"
-msgstr ""
+msgstr "O DriverPack Solution irá atualizar os seus controladores usb, bluetooth, impressora, Wi-Fi, e placas gráficas para as últimas versões"
 
 msgid "seo_promodevice-keywords"
-msgstr ""
+msgstr "controlador, bluetooth, impressora, placa de som, câmara de vídeo, rato, controlador gráfico"
 
 msgid "seo_promovendors_title"
-msgstr ""
+msgstr "Descarregue controladores para Lenovo, Samsung, Acer, Asus e Dell de graça"
 
 msgid "seo_promovendors-description"
-msgstr ""
+msgstr "O DriverPack atualizará controladores Lenovo, Samsung, Acer, Asus e Dell para a última versão"
 
 msgid "seo_promovendors-keywords"
-msgstr ""
+msgstr "controlador, dell, samsung, lenovo, asus, acer, toshiba, asus"
 
 msgid "seo_promodrivers_title"
-msgstr ""
+msgstr "Descarregue e instale controladores para o Windows 7, 10, XP, 8"
 
 msgid "seo_promodrivers-description"
-msgstr ""
+msgstr "O DriverPack atualizará os controladores do Windows 7, Windows 10, Windows XP, Windows 8 de graça"
 
 msgid "seo_promodrivers-keywords"
-msgstr ""
+msgstr "controlador windows 7, descarregar controlador, controlador windows 10, atualizar controlador, controlador windows, controladores de graça"
 
 msgid "seo_forgamers-description"
-msgstr ""
+msgstr "Instale controladores de placas gráficas para o Windows 7, XP, 10, 8 e 8.1, ou descarregue o programa DriverPack Solution para uma instalação e atualização automática de controladores"
 
 msgid "seo_forgamers-keywords"
-msgstr ""
+msgstr "placa gráfica controladores windows 7 64 8 10 descarregar descarregar"
 
 msgid "seo_wannacrypt_title"
-msgstr ""
+msgstr "Vírus WannaCry - como proteger o seu PC e portátil?"
 
 msgid "seo_wannacrypt-description"
-msgstr ""
+msgstr "Descarregue proteção grátis contra o vírus WannaCry para o seu PC e portátil"
 
 msgid "seo_license_title"
-msgstr ""
+msgstr "Acordo Legal | DriverPack Solution"
 
 msgid "seo_license-description"
-msgstr ""
+msgstr "Acordo Legal e Termos de Uso dos programas difundidos com o uso do DriverPack Solution"
 
 msgid "seo_license-keywords"
-msgstr ""
+msgstr "controladores descarregar de graça windows 7 XP 8 10 DriverPack Solution"
 
 msgid "seo_standards_title"
-msgstr ""
+msgstr "Programas padrão recomendados | DriverPack Solution"
 
 msgid "seo_standards-description"
-msgstr ""
+msgstr "Padrões e requisitos dos programas recomendados pelo DriverPack"
 
 msgid "seo_standards-keywords"
-msgstr ""
+msgstr "programas padrões SW DriverPack"
 
 msgid "seo_mainos-content-xp"
-msgstr ""
+msgstr "O Windows XP é um \"veterano\" com honras entre todos os sistemas operativos da família Windows NT, lançado a 25 de Outubro de 2001, é ainda hoje um dos mais populares sistemas operativos no mundo. Cerca de 7% de todos os PCs por todos o mundo ainda usam o Windows XP, 16 anos após o seu lançamento. A maioria são máquinas obsoletas e de baixa eficiência. E apesar de o suporte para este SO ter terminado já em 2014, é óbvio que o uso deste sistema vai perdurar. Pode descarregar as últimas versões de controladores para o Windows XP, diretamente do nosso catálogo, ou descarregando o programa DriverPack Solution."
 
 msgid "seo_mainos-content-7"
-msgstr ""
+msgstr "O Windows 7 é um sistema operativo da família Windows NT que foi lançado depois do Windows Vista mas antes do Windows 8. De acordo com dados no verão de 2017, o Windows 7 é o sistema operativo mais popular no mundo. Segundo dados de Julho de 2017, o Windows 7 é usado em 48.91% de todos os PC's do mundo. Este SO foi colocado à venda a 22 de outubro de 2009, menos de 3 anos depois da laçameto falhado do Windows Vista. As imagens de instalação da versão do sistema final estiveram disponíveis na Internet desde 21 de Julho, do mesmo ano. Pode descarregar os últimos controladores atualizados para o Windows 7 aqui."
 
 msgid "seo_mainos-content-8"
-msgstr ""
+msgstr "O Windows 8 é um sistema operativo da família Windows da Microsoft que foi lançado depois do Windows 7, e foi desenvolvido pela Microsoft Corporation. A versão base é a 6.2. O Windows 8 surge à venda a 26 de Outubro de 2012. De acordo com dados no verão de 2017, este sistema operativo é usado em cerca de 5% de todos os PCs do mundo. O Windows 2012 é uma versão servidor. O novo interface Metro foi usado nesta versão de SO. As suas vendas pararam a 12 de Janeiro de 2016, mas ainda pode descarregar todos os últimos controladores lançados para o Windows 8 nesta seção."
 
 msgid "seo_mainos-content-8.1"
-msgstr ""
+msgstr "O Sistema Operativo Windows 8.1 (família NT) foi lançado depois do Windows 8 e foi concebido para estações de trabalho, PCs e dispositivos móveis. O Windows Server 2012 R2 é a versão servidor do Windows 8.1. Este sistema operativo difere do Windows 8 nalgumas alterações de interação com o interface gráfico do utilizador. O Windows 8.1 está também direcionado para trabalhar com ecrãs táteis. De acordo com dados no verão de 2017, 6.48% dos computadores de todo o mundo usam este SO. Pode descarregar os últimos controladores atualizados para o Windows 8.1 diretamente do nosso catálogo."
 
 msgid "seo_mainos-content-10"
-msgstr ""
+msgstr "O sistema operativo Windows 10 foi concebido para se tornar o SO universal para PCs, smartphones, tablets e mesmo para a consola de jogos Xbox One. Foi lançado depois do Windows 8.1, e pertence à família NT. Presentemente, 27% de todos os dispositivos no mundo usam o SO Windows 10, e todos puderam atualizar as suas cópias licenciadas do Windows 7, Windows 8.1 e Windows Phone 8.1 para o Windows 10, de graça, nos primeiros 6 meses da sua existência. Pode descarregar os controladores para todos os dispositivos a usar o Windows 10 diretamente do catálogo DriverPack Solution. A diferença entre o Windows 10 e o seu predecessor assenta na possibilidade de criar múltiplos ambientes de trabalho e também o assistente de voz Cortana."
 
 msgid "seo_deviceclass-footer-content-bluetooth"
-msgstr ""
+msgstr "Nesta Secção pode descarregar <strong>controladores Bluetooth</strong> para todas as versões do Sistema Operativo Windows. Tanto os controladores de fabricantes famosos (tais como Hewlett Packard, Qcom e Celink) como os de fabricantes menos conhecidos estão disponíveis. Ao todo, pode <b>descarregar controladores Bluetoth</b> de mais de 90 fabricantes disponíveis neste catálogo. <br />Se não encontrou o controlador que precisa, instale o nosso programa DriverPack Solution para uma atualização automática de drivers - é absolutamente livre!"
 
 msgid "seo_deviceclass-footer-content-cardreader"
-msgstr ""
+msgstr "Leitores de cartões são os dispositivos criados para lerem informação de cartões de memória. Se precisa mover ficheiros da sua câmara de vídeo ou câmara para o seu computador, este dispositivo vai ajudá-lo. <strong>Os controladores para leitores de cartões</strong> estão disponíveis nesta Secção.  Estão aqui representados, para todas as versões populares do SO Windows, os controladores de mais de 50 fabricantes. Pode descarregar <b>controladores de leitores de cartões</b> específicos assim como (se por alguma razão o controlador que precisa não estiver aqui) instalar o programa DriverPack Solution para uma atualização automática de controladores. Este programa é totalmente livre para si!"
 
 msgid "seo_deviceclass-footer-content-chipset"
-msgstr ""
+msgstr "Esta Secção inclui <strong>os controladores para chipsets</strong> dos fabricantes mais distribuídos para este tipo de hardware tais como Exar e Prolific. Estão aqui representados os controladores de chipsets para todas as versões de Windows em uso atualmente tais como o Windows XP, Windows 7, 8, 8.1 e 10 em 64 ou 32 bits, e mesmo controladores de chipset para sistemas como o Windows Vista, apesar de não ser tão popular hoje em dia. Se por qualquer motivo não conseguiu encontrar ou descarregar <b>o controlador de chipset</b> que precisa, use o nosso programa de atualização automática de controladores DriverPack Solution - é absolutamente livre e fará tudo por si!"
 
 msgid "seo_deviceclass-footer-content-inputdev"
-msgstr ""
+msgstr "Porque existe uma grande variedade de tipos de dispositivos de entrada (ratos, teclados, joysticks, etc) e seus fabricantes, torna-se um desafio selecionar o controlador indicado. Resolvemos este problema para si - nesta Secção pode selecionar e descarregar <strong>os controladores de dispositivos de entrada</strong> absolutamente livres. Se por qualquer razão não encontrou <b>o controlador do dispositivo de entrada</b> que precisa no nosso catálogo, descarregue de graça o programa DriverPack Solution - que fará uma análise da sua configuração de hardware e selecionará automaticamente todos os controladores indicados."
 
 msgid "seo_deviceclass-footer-content-lan"
-msgstr ""
+msgstr "Sem a seleção correta do <b>controlador da placa de rede</b> o acesso à Internet será deveras difícil ou mesmo impossível. Esta secção do nosso sítio irá ajudá-lo a selecionar o controlador perfeito para a sua configuração de hardware de rede, independentemente do fabricante - os controladores de mais de 80 fabricantes de hardware de rede estão aqui representados nas variantes para todas as versões do SO Windows atualmente em uso. Se por qualquer motivo não encontrou <b>o controlador da placa de rede</b> do seu fabricante específico, use o nosso programa de atualização automática de controladores DriverPack Solution - irá resolver de graça o seu problema de seleção de controlador."
 
 msgid "seo_deviceclass-footer-content-massstorage"
-msgstr ""
+msgstr "Nesta Secção pode <b>descarregar controladores</b> de graça para todas as versões do SO Windows que estão atualmente em uso. Não conseguiu encontrar o controlador que precisa? Use o nosso programa de pesquisa e instalação de controladores DriverPack Solution - é absolutamente livre e fará tudo por si!"
 
 msgid "seo_deviceclass-footer-content-modem"
-msgstr ""
+msgstr "Nesta Secção pode encontrar e <strong>descarregar controladores de modems</strong> para todas as versões disponíveis atualmente do SO Windows, dos mais abrangentes fabricantes, e não só. Os controladores de fabricantes como Smartlink, AVM, Agere, e mais de 50 outros fabricantes estão aqui representados. Não conseguiu selecionar o controlador que precisa? Use o nosso, universal e absolutamente grátis, programa de atualização automática de controladores DriverPack Solution."
 
 msgid "seo_deviceclass-footer-content-monitor"
-msgstr ""
+msgstr "Usualmente <b>os controladores de monitores</b> são gravados num disco fornecido na compra de um novo, mas a situação pode ser diferente se o monitor for em segunda mão. É por isso que mesmo que o seu monitor pareça estar bem configurado e a funcionar bem, a placa mãe pode não o reconhecer. Neste caso, pode sempre obter ajuda nesta Secção do nosso sítio - aqui pode sempre descarregar os últimos <b>controladores de monitores</b> atualizados para a sua configuração e para todas as versões do SO Windows hoje em uso. Não conseguiu encontrar o controlador que precisa? Então sugerimos que use o nosso programa livre DriverPack Solution - tornará o processo de procurar e atualizar o controlador do monitor mais fácil."
 
 msgid "seo_deviceclass-footer-content-tvtuner"
-msgstr ""
+msgstr "Precisa <b>de descarregar controlador para sintoniador de TV</b>? Então está na Secção certa - aqui pode descarregar e <b>instalar controladores para sintonizadores de tv</b> nas suas últimas versões para todas as variantes do sistema operativo Windows agora em uso. Não encontrou o controlador que precisa? Descarregue o nosso programa livre DriverPack Solution - irá selecionar controlador exato do seu sintonizador de tv, e fá-lo-á automaticamente, rápido em sem problemas!"
 
 msgid "seo_deviceclass-footer-content-sound"
-msgstr ""
+msgstr "Não tem som no computador? Há quanto tempo não atualiza <strong>o controlador da sua placa de som</strong>? Descarregue os últimos controladores atualizados para placas de som  nesta Secção do nosso sítio, ou instale o programa livre de atualização automática de controladores DriverPack Solution - resolverá todos os seus problemas com controladores da sua placa de som!"
 
 msgid "seo_deviceclass-footer-content-video"
-msgstr ""
+msgstr "O jogo não corre? A imagem surge com artefactos? Recomendamos que descarregue <strong>os controladores da placa gráfica</strong> do nosso sítio - é muito frequente estes problemas estarem relacionados com controladores. Os controladores de 43 fabricantes estão representados nesta Secção. Pode aqui selecionar facilmente o controlador para qualquer versão de SO Windows em uso atualmente. Não conseguiu encontrar e descarregar <b>o controlador gráfico</b> que precisa? Use o nosso programa de atualização automática de controladores DriverPack Solution - é absolutamente grátis!"
 
 msgid "seo_deviceclass-footer-content-wifi"
-msgstr ""
+msgstr "Nesta secção pode descarregar o controlador Wi-Fi para as normas Standard 802.11n e Standard 802.11g para todas as versões avançadas do SO Windows. Os últimos controladores, repetidamente verificados pelos nossos especialistas, estão aqui disponíveis. Se não conseguiu <b>instalar o controlador Wi-Fi</b>, não desespere - descarregue a última versão do nosso programa DriverPack Solution - irá selecionar automaticamente os controladores exatos para a sua configuração."
 
 msgid "seo_deviceclass-footer-content-phone"
-msgstr ""
+msgstr "Precisa de controladores para o seu telefone ou smartphone? sem problema - nesta Secção <b>pode descarregar e instalar controladores para smartphones</b> de quase todos os modelos e fabricantes comuns no mercado atual de smartphones. Os nossos controladores são verificados e fiáveis!"
 
 msgid "seo_notebookvendor-footer-content-asus"
-msgstr ""
+msgstr "Os últimos e mais fiáveis <strong>controladores para portáteis Asus</strong> com versões do SO Windows que estejam em uso atualmente (Windows XP, Windows 7, 8, 8.1 e 10) estão presentes no nosso catálogo. Se por qualquer razão não está satisfeito com <b>os controladores Asus do portátil</b>, ou se tem dificuldade em encontrar controladores para o seu modelo específico da Asus, use o nosso programa DriverPack Solution para atualizar os controladores - é livre e fará tudo por si!"
 
 msgid "seo_notebookvendor-footer-content-lg"
 msgstr ""

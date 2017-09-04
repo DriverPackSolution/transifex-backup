@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-08-16 09:41+0000\n"
+"POT-Creation-Date: 2017-08-28 09:36+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Назар Будзак <naz95naz@gmail.com>, 2017\n"
 "Language-Team: Ukrainian (https://www.transifex.com/driverpack-solution/teams/75452/uk/)\n"
@@ -51,9 +51,6 @@ msgstr "Завантажити DriverPack Online"
 
 msgid "adminheader_products-caption"
 msgstr "Будь-який DriverPack налаштує комп'ютер за дві секунди, просто виберіть свій:"
-
-msgid "search_noresult"
-msgstr "Завантажити DriverPack Online"
 
 msgid "adminpromo_landing-title"
 msgstr "Розробка нового DriverPack 18"
@@ -194,6 +191,9 @@ msgstr "Подивитися всі драйвери"
 msgid "devicecard_details-links"
 msgstr "Подивитися всі драйвери для "
 
+msgid "devicecardlist_no-result_download-link"
+msgstr "Завантажте DriverPack"
+
 #. i18n: EN: Example: DEVICENAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10
 #. x86; Text for {{DOWNLOAD}} is in key devicecardlist_no-result_download-
 #. link; RU: Пример: NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10
@@ -218,9 +218,6 @@ msgstr "В каталозі немає драйверів для ноутбук�
 msgid "devicecardlist_no-results-notebook-device-class-text"
 msgstr "В каталозі немає драйверів для {{DEVICECLASS}} ноутбука {{NOTEBOOK}} під Windows {{OSVERSIONS}}. {{DOWNLOAD}} для автоматичного підбору драйвера."
 
-msgid "devicecardlist_no-result_download-link"
-msgstr "Завантажте DriverPack"
-
 msgid "devicegrouppage_all-systems"
 msgstr "всі системи"
 
@@ -240,10 +237,13 @@ msgid "deviceidheader_caption-many"
 msgstr "Цей пристрій зустрічається під наступними іменами:"
 
 msgid "devicetypelist_title_os"
-msgstr ""
+msgstr "Драйвера для пристроїв на {{OS}}"
 
 msgid "devicetypelist_title"
 msgstr "Пошук драйверів для пристроїв"
+
+msgid "search_noresult"
+msgstr "Завантажити DriverPack Online"
 
 #. i18n: EN: Example: NAME=Acer Aspire 4830TG; OSVERSIONS=Windows 10 x86; Text
 #. for {{DOWNLOAD}} is in key drivercard_no-results_download-link; RU: Пример:
@@ -331,10 +331,10 @@ msgid "headerbutton_label"
 msgstr "Програма DriverPack повністю безкоштовна"
 
 msgid "headeros_cta-btn"
-msgstr ""
+msgstr "Встановити драйвери для <span class='HeaderOs__cta-btn-marked'>{{OS}}</span>"
 
 msgid "headeros_search-text"
-msgstr ""
+msgstr "Або скористайтеся пошуком по нашій величезній базі драйверів"
 
 msgid "landingdevicetypelist_landing-title"
 msgstr "DriverPack підходить для будь-якого пристрою"
@@ -433,7 +433,7 @@ msgid "landingproducts_item-title-offline"
 msgstr "DriverPack Offline"
 
 msgid "landingproducts_item-caption-offline"
-msgstr ""
+msgstr "Працює без Інтернету, але важить 13,9 Гб (варіант для сисадмінів)"
 
 msgid "landingpublications__landing-title"
 msgstr "Про DriverPack пишуть журналісти"
@@ -448,7 +448,7 @@ msgid "landingseofooter_landing-subtitle-notebooks"
 msgstr "DriverPack підходить для всіх моделей комп'ютерів і ноутбуків"
 
 msgid "landingseofooter_landing-subtitle-devices"
-msgstr ""
+msgstr "DriverPack містить драйвери для всіх пристроїв"
 
 msgid "landingsocial_landing-title"
 msgstr "Приєднуйтесь до спільноти DriverPack"
@@ -475,7 +475,7 @@ msgid "landingwizard_item-caption-setup"
 msgstr "Налаштуй свій комп'ютер однією простою дією"
 
 msgid "landingwizard_item-caption-profit"
-msgstr ""
+msgstr "Ура! Тепер комп'ютер працює, як новий"
 
 msgid "landingwizard_cta-btn"
 msgstr "Встановити всі необхідні драйвери"
@@ -505,7 +505,7 @@ msgid "notebookvendorslist_other-text"
 msgstr "Інші виробники"
 
 msgid "notebookvendorslist_title_os"
-msgstr ""
+msgstr "Драйвера для ноутбуків на {{OS}}"
 
 msgid "notebookvendorslist_title"
 msgstr "Пошук драйверів для ноутбуків"
@@ -922,10 +922,10 @@ msgid "errorpage_title"
 msgstr "Помилка 500: внутрішня помилка сервера"
 
 msgid "landingfooter_landing-subtitle"
-msgstr ""
+msgstr "DriverPack містить драйвери для всіх популярних версій Windows"
 
 msgid "landing-footer_catalog-os"
-msgstr ""
+msgstr "драйвера для {{OS}}"
 
 msgid "landing-footer_download"
 msgstr "Завантажити DriverPack"

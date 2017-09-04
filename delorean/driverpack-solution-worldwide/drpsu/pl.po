@@ -3,13 +3,14 @@
 # Nadia Tegeneva <nadia@drp.su>, 2017
 # pasterzppp <pasterzppp@gmail.com>, 2017
 # kfw8 (knuxfanwin8) <knuxfanwin8@gmail.com>, 2017
+# Peter Patalong <piotrpatalong@gmail.com>, 2017
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-08-16 09:41+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
-"Last-Translator: kfw8 (knuxfanwin8) <knuxfanwin8@gmail.com>, 2017\n"
+"Last-Translator: Peter Patalong <piotrpatalong@gmail.com>, 2017\n"
 "Language-Team: Polish (https://www.transifex.com/driverpack-solution/teams/75453/pl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -21,13 +22,13 @@ msgid "adminlandingpage_title"
 msgstr "DriverPack dla profesjonalistów - automatyczna instalacja sterowników na każdym komputerze"
 
 msgid "admincackle_dialog-star"
-msgstr ""
+msgstr "Proszę oceń działanie DriverPack'a"
 
 msgid "admindriverpacks_landing-title"
 msgstr "Driverpacks (paczki sterowników)"
 
 msgid "admindriverpacks_landing-subtitle"
-msgstr ""
+msgstr "Nasze driverpacki zawierają 1,131,989 sterowników, które zostały ręcznie wybrane i przetestowane"
 
 msgid "admindriverpacks_downloaded"
 msgstr "Pobieranie:"
@@ -48,7 +49,7 @@ msgid "adminheader_cta-btn"
 msgstr "Pobierz DriverPack Online"
 
 msgid "adminheader_products-caption"
-msgstr ""
+msgstr "DriverPack umożliwia skonfigurowanie komputera w każdej chwili. Wystarczy jedynie wybrać pakiet, którego potrzebujesz:"
 
 msgid "search_noresult"
 msgstr "Pobierz DriverPack Online"
@@ -60,7 +61,7 @@ msgid "adminpromo_landing-subtitle"
 msgstr "Nowa wersja przygotowana została specjalnie dla administratorów i bierze ich potrzeby pod uwagę"
 
 msgid "adminpromo_banner-text"
-msgstr ""
+msgstr "Nowy DriverPack 18 stworzony jest na podstawie starszych wersji które już pokazały swą wyjątkową stabilność. Wydanie nowej wersji planowane jest na rok 2017."
 
 msgid "adminpromo_list-item-speed"
 msgstr ""
@@ -235,10 +236,10 @@ msgid "deviceidheader_caption-single"
 msgstr "Nazwa urządzenia:"
 
 msgid "deviceidheader_caption-many"
-msgstr ""
+msgstr "To urządzenie znane jest też jako:"
 
 msgid "devicetypelist_title_os"
-msgstr ""
+msgstr "Sterownik dla urządzeń z {{OS}}"
 
 msgid "devicetypelist_title"
 msgstr "Szukaj sterowników dla urządzeń"
@@ -287,7 +288,7 @@ msgid "deviceidpage_all-systems"
 msgstr "wszystkie systemy"
 
 msgid "dropdowndriverversion_no-results"
-msgstr ""
+msgstr "Sterowniki dla wybranego systemu operacyjnego nie zostały znalezione"
 
 msgid "dropdownos_current"
 msgstr "obecnie"
@@ -329,7 +330,7 @@ msgid "headerbutton_label"
 msgstr "Oprogramowanie DriverPack jest całkowicie darmowe"
 
 msgid "headeros_cta-btn"
-msgstr ""
+msgstr "Zainstaluj sterowniki dla <span class='HeaderOs__cta-btn-marked'>{{OS}}</span>"
 
 msgid "headeros_search-text"
 msgstr ""
@@ -344,7 +345,7 @@ msgid "landingdevicetypelist_cta-btn"
 msgstr "Zainstaluj wszystkie wymagane sterowniki"
 
 msgid "landingdevicetypelist_versions"
-msgstr ""
+msgstr "Inne wersje DriverPack'a"
 
 msgid "landingfeatures_landing-title"
 msgstr ""
@@ -401,13 +402,13 @@ msgid "landingnotebookvendorslist_landing-title"
 msgstr "DriverPack jest odpowiedni dla każdego komputera"
 
 msgid "landingnotebookvendorslist_landing-subtitle"
-msgstr ""
+msgstr "Tak, dla KAŻDEGO komputera - sprawdziliśmy!"
 
 msgid "landingnotebookvendorslist_cta-btn"
 msgstr "Zainstaluj wszystkie wymagane sterowniki"
 
 msgid "landingnotebookvendorslist_versions"
-msgstr ""
+msgstr "Inne wersje DriverPack'a"
 
 msgid "landingproducts_item-title-online"
 msgstr "DriverPack Online"
@@ -461,7 +462,7 @@ msgid "landingusers_cta-btn"
 msgstr "Zainstaluj wszystkie wymagane sterowniki"
 
 msgid "landingusers_versions"
-msgstr ""
+msgstr "Inne wersje DriverPack'a"
 
 msgid "landingwizard_landing-title"
 msgstr ""
@@ -506,7 +507,7 @@ msgid "notebookvendorslist_title_os"
 msgstr ""
 
 msgid "notebookvendorslist_title"
-msgstr "Pobierz sterowniki dla laptopów"
+msgstr "Pobierz sterowniki dla komputer przenośny"
 
 msgid "promoheader_cta-text-gamers"
 msgstr ""
@@ -548,7 +549,7 @@ msgid "searchformitem_type-section"
 msgstr "Kategoria"
 
 msgid "searchformitem_type-notebook"
-msgstr "laptop"
+msgstr "komputer przenośny"
 
 msgid "searchformitem_type-device"
 msgstr "urządzenie"
@@ -761,7 +762,7 @@ msgid "searchresult_details-content_download-link"
 msgstr "Pobierz DriverPack"
 
 msgid "searchresult_notebook"
-msgstr "Laptop"
+msgstr "Komputer przenośny"
 
 msgid "searchresult_download-btn"
 msgstr "Zainstaluj sterownik automatycznie"
@@ -806,7 +807,7 @@ msgid "sidebanner_title"
 msgstr ""
 
 msgid "sidebanner_caption"
-msgstr "DriverPack automatycznie<span class='SideBanner__caption-marked'> wybierze i zainstaluje </span>  potrzebne sterowniki"
+msgstr "DriverPack automatycznie <span class='SideBanner__caption-marked'>wybierze i zainstaluje</span> potrzebne sterowniki"
 
 msgid "translationheader_cta-text"
 msgstr ""

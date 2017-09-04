@@ -1,12 +1,13 @@
 # Translators:
 # Nadia Tegeneva <nadia@drp.su>, 2017
+# danfong <danfong.hsieh@gmail.com>, 2017
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-08-16 09:41+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
-"Last-Translator: Nadia Tegeneva <nadia@drp.su>, 2017\n"
+"Last-Translator: danfong <danfong.hsieh@gmail.com>, 2017\n"
 "Language-Team: Chinese (https://www.transifex.com/driverpack-solution/teams/75453/zh/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -235,7 +236,7 @@ msgid "deviceidheader_caption-many"
 msgstr "此裝置也以下列名稱命名:"
 
 msgid "devicetypelist_title_os"
-msgstr ""
+msgstr "{{OS}} 上的裝置驅動程式"
 
 msgid "devicetypelist_title"
 msgstr "驅動程式搜尋裝置"
@@ -326,10 +327,10 @@ msgid "headerbutton_label"
 msgstr "DriverPack 軟體完全免費"
 
 msgid "headeros_cta-btn"
-msgstr ""
+msgstr "安裝 <span class='HeaderOs__cta-btn-marked'>{{OS}}</span> 驅動程式"
 
 msgid "headeros_search-text"
-msgstr ""
+msgstr "或使用我們巨大的驅動程式資料庫搜尋"
 
 msgid "landingdevicetypelist_landing-title"
 msgstr "DriverPack 適用於任何裝置"
@@ -443,7 +444,7 @@ msgid "landingseofooter_landing-subtitle-notebooks"
 msgstr "DriverPack 適用於所有電腦和筆記型電腦型號"
 
 msgid "landingseofooter_landing-subtitle-devices"
-msgstr ""
+msgstr "DriverPack 包含所有裝置的驅動程式"
 
 msgid "landingsocial_landing-title"
 msgstr "加入 DriverPack 社群"
@@ -500,7 +501,7 @@ msgid "notebookvendorslist_other-text"
 msgstr "其他 製造商"
 
 msgid "notebookvendorslist_title_os"
-msgstr ""
+msgstr "{{OS}} 上的膝上型電腦驅動程式"
 
 msgid "notebookvendorslist_title"
 msgstr "搜尋筆記型電腦驅動程式"
@@ -878,7 +879,7 @@ msgid "adminpagefaq_free-q"
 msgstr "DriverPack 是完全免費的嗎?"
 
 msgid "adminpagefaq_free-a"
-msgstr ""
+msgstr "我們所有的軟體是免費的！但是，如果您想支援我們的專案，您可以安裝我們提供的有用軟體供您自己使用，並推薦 DriverPack 給您的朋友 :-)"
 
 msgid "adminpagefaq_antivirus-q"
 msgstr "我的防毒軟體在 DriverPack 發現了病毒 - 怎麼會這樣?"
@@ -890,7 +891,7 @@ msgid "adminpagefaq_expert_mode-q"
 msgstr "哪種模式最適合處理 DriverPack?"
 
 msgid "adminpagefaq_expert_mode-a"
-msgstr ""
+msgstr "預設情況下，DriverPack 以自動模式啟動，設計易於理解，甚至對新使用者使用也很方便。但是，為了方便進階使用者和系統管理員，我們開發了包含延伸設定和自訂選項的專家模式。為了啟動此模式，只需按一下位於螢幕底部的相應按鈕即可。"
 
 msgid "adminpagefaq_stable-q"
 msgstr "驅動程式未正確安裝，電腦操作過程中出現故障。我怎樣才能解決這種情況呢?"
@@ -917,10 +918,10 @@ msgid "errorpage_title"
 msgstr "錯誤 500: 內部伺服器錯誤"
 
 msgid "landingfooter_landing-subtitle"
-msgstr ""
+msgstr "DriverPack 包含所有受歡迎 Windows 版本的驅動程式"
 
 msgid "landing-footer_catalog-os"
-msgstr ""
+msgstr "{{OS}} 驅動程式"
 
 msgid "landing-footer_download"
 msgstr "下載 DriverPack"
@@ -979,13 +980,13 @@ msgstr "查看更多"
 #. i18n: EN: text for {{LINK}} is in key thankyoupopup_download-link; RU:
 #. текст для {{LINK}} находится в ключе thankyoupopup_download-link;
 msgid "thankyoupopup_download-text"
-msgstr ""
+msgstr "下載尚未開始?按一下此處 {{LINK}}"
 
 msgid "thankyoupopup_title"
 msgstr "啟動 DriverPack"
 
 msgid "thankyoupopup_cta-text"
-msgstr ""
+msgstr "開始選擇並將驅動程式安裝到電腦上"
 
 msgid "thankyoupopup_download-link"
 msgstr "下載"
@@ -1045,7 +1046,7 @@ msgid "wannacryptpromopage_info-text-title-3"
 msgstr "如何從 DriverPack Solution 中保護您的業務 — 解決方案"
 
 msgid "wannacryptpromopage_info-text-3"
-msgstr ""
+msgstr "WannaCrypt (WannaCry) 勒索病毒危害的主要原因是透過使用 MS17-010 安全系統的 SMBv1 通訊協定中的重大漏洞傳播。這使得防毒軟體無法偵測到 WannaCry。來自 DriverPack Solution 的解決方案可以安裝更新，保護系統的重大漏洞，並立即停用即將發生威脅的過時通訊協定，無論您的授權歷程記錄和作業系統版本如何。"
 
 msgid "wannacryptpromopage_links-text"
 msgstr "發展是以下列材料為主"

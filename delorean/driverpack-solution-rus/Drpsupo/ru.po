@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-08-16 09:41+0000\n"
+"POT-Creation-Date: 2017-08-28 09:36+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -45,9 +45,6 @@ msgstr "Скачать DriverPack Online"
 
 msgid "adminheader_products-caption"
 msgstr "Любой DriverPack настроит компьютер в два счета, просто выберите свой:"
-
-msgid "search_noresult"
-msgstr "Скачать DriverPack Online"
 
 msgid "adminpromo_landing-title"
 msgstr "Разработка нового DriverPack 18"
@@ -188,6 +185,9 @@ msgstr "Посмотреть все драйвера"
 msgid "devicecard_details-links"
 msgstr "Посмотреть все драйвера для "
 
+msgid "devicecardlist_no-result_download-link"
+msgstr "Скачайте DriverPack"
+
 #. i18n: EN: Example: DEVICENAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10
 #. x86; Text for {{DOWNLOAD}} is in key devicecardlist_no-result_download-
 #. link; RU: Пример: NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10
@@ -212,9 +212,6 @@ msgstr "В каталоге нет драйверов для ноутбука {{
 msgid "devicecardlist_no-results-notebook-device-class-text"
 msgstr "В каталоге нет драйверов для {{DEVICECLASS}} ноутбука {{NOTEBOOK}} под Windows {{OSVERSIONS}}. {{DOWNLOAD}} для автоматического подбора драйвера."
 
-msgid "devicecardlist_no-result_download-link"
-msgstr "Скачайте DriverPack"
-
 msgid "devicegrouppage_all-systems"
 msgstr "все системы"
 
@@ -238,6 +235,9 @@ msgstr "Драйвера для устройств на {{OS}}"
 
 msgid "devicetypelist_title"
 msgstr "Поиск драйверов для устройств"
+
+msgid "search_noresult"
+msgstr "Скачать DriverPack Online"
 
 #. i18n: EN: Example: NAME=Acer Aspire 4830TG; OSVERSIONS=Windows 10 x86; Text
 #. for {{DOWNLOAD}} is in key drivercard_no-results_download-link; RU: Пример:

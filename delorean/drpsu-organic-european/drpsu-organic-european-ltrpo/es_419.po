@@ -17,10 +17,10 @@ msgstr ""
 
 #. i18n: EN: Example: VENDOR.NAME=Asus; RU: Пример: VENDOR.NAME=Asus;
 msgid "seo_vendor-footer-anchor"
-msgstr ""
+msgstr "{{VENDOR.NAME}}"
 
 msgid "seo_devicegroups-footer-anchor"
-msgstr ""
+msgstr "{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}} "
 
 #. i18n: EN: Example: NAME=Acer E230H; RU: Пример: NAME=Acer E230H;
 msgid "seo_devicegroup-footer-anchor"
@@ -31,10 +31,10 @@ msgid "seo_notebookvendor-footer-anchor"
 msgstr "Equipos {{NOTEBOOK.VENDOR.NAME}}"
 
 msgid "seo_notebook-footer-anchor"
-msgstr "equipos {{NAME}} "
+msgstr "Equipos {{NAME}} "
 
 msgid "seo_notebookdevices-footer-anchor"
-msgstr "{{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}}{{CLASS.PLURAL.MAIN}}"
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} {{CLASS.PLURAL.MAIN}}"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
 #. CLASS.PLURAL.FOR=мониторов|модемов;
@@ -75,7 +75,7 @@ msgid "seo_mainlanding-description"
 msgstr "DriverPack Solution – software gratuito para la instalación y actualización automática de controladores en su equipo portátil y PC de escritorio. La posibilidad de descargar controladores para Windows XP, 7, 8, 8,1, 10 de nuestras páginas por catalogo también está disponible."
 
 msgid "seo_mainlanding-keywords"
-msgstr "Descargar la actualización de los controladores para Windows 7, XP, 10, 8 y 8.1"
+msgstr "descargar la actualización de los controladores para Windows 7, XP, 10, 8 y 8.1"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
 #. CLASS.PLURAL.FOR=мониторов|модемов;
@@ -111,7 +111,7 @@ msgid "seo_deviceclass-footer-application-subcategory"
 msgstr "Sub categoria: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_vendors-title"
-msgstr "Descargar los controladores para PC, Portatiles y netbooks | Windows"
+msgstr "Descargar los controladores para PC, portatiles y netbooks | Windows"
 
 msgid "seo_vendors-description"
 msgstr "Instale los controladores de PC, laptop y netbook de forma gratuita o descargue el software para la actualización e instalación automática del controlador"
@@ -147,7 +147,7 @@ msgstr "Categoria: <span itemprop='applicationCategory'>Dispositivos</span>"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendor-footer-application-subcategory"
-msgstr "Sub categoria: <span itemprop='applicationSubCategory'> dispositivos {{VENDOR.NAME}}</span>"
+msgstr "Sub categoria: <span itemprop='applicationSubCategory'>dispositivos {{VENDOR.NAME}}</span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|monitors; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.FOR=видеокарт|мониторов; VENDOR.NAME=Acer;
@@ -182,7 +182,7 @@ msgstr "Categoria: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</s
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|monitors; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|мониторы; VENDOR.NAME=Acer;
 msgid "seo_devicegroups-footer-application-subcategory"
-msgstr "Sub categoria: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}}{{CLASS.PLURAL.MAIN}}</span>"
+msgstr "Sub categoria: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 #. i18n: EN: Example: CLASS.SINGLE.FOR=videocard|monitor; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.SINGLE.FOR=видеокарты|монитора; VENDOR.NAME=Acer;
@@ -253,7 +253,7 @@ msgstr "Todos los controladores para dispositivos"
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 msgid "seo_hwid-title"
-msgstr "Descargar el controlador {{DEVICE.DEVICEID}} gratis!"
+msgstr "Descargar el controlador {{DEVICE.DEVICEID}} gratis"
 
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
@@ -300,7 +300,7 @@ msgid "seo_notebooks-h1"
 msgstr "Controladores para portátil y netbook"
 
 msgid "seo_notebooks-keywords"
-msgstr "Controladores para equipos de escritorio, portátiles y netbooks con windows 7, 8, 8.1 y 10 64 Bits"
+msgstr "сontroladores para equipos de escritorio, portátiles y netbooks con windows 7, 8, 8.1 y 10 64 Bits"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_notebookvendor-title"
@@ -481,7 +481,7 @@ msgid "seo_deviceclassos-description"
 msgstr ""
 
 msgid "seo_deviceclassos-h1"
-msgstr "Controladores {{CLASS.SINGLE.FOR}} para windows {{OS}} "
+msgstr "Controladores {{CLASS.SINGLE.FOR}} para Windows {{OS}} "
 
 msgid "seo_deviceclassos-keywords"
 msgstr ""
@@ -496,7 +496,7 @@ msgid "seo_deviceclassos-footer-application-subcategory"
 msgstr "Sub categoria: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_devicegroupsos-title"
-msgstr "Descargar {{VENDOR.NAME}}{{CLASS.SINGLE.FOR}} controladores para Windows {{OS}}"
+msgstr "Descargar {{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} controladores para Windows {{OS}}"
 
 msgid "seo_devicegroupsos-description"
 msgstr ""
@@ -508,13 +508,13 @@ msgid "seo_devicegroupsos-keywords"
 msgstr ""
 
 msgid "seo_devicegroupsos-footer-description"
-msgstr "Descargar {{VENDOR.NAME}}{{CLASS.SINGLE.FOR}} controladores para Windows {{OS}}"
+msgstr "Descargar {{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} controladores para Windows {{OS}}"
 
 msgid "seo_devicegroupsos-footer-application-category"
 msgstr "Categoria: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_devicegroupsos-footer-application-subcategory"
-msgstr "Sub categoria: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}}{{CLASS.PLURAL.MAIN}}</span>"
+msgstr "Sub categoria: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_devicegroupsos-footer-content"
 msgstr ""

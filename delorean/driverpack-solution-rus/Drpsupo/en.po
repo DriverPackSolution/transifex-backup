@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-08-16 09:41+0000\n"
+"POT-Creation-Date: 2017-08-28 09:36+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>, 2016\n"
 "Language-Team: English (https://www.transifex.com/driverpack-solution/teams/75452/en/)\n"
@@ -46,9 +46,6 @@ msgstr "Download DriverPack Online"
 
 msgid "adminheader_products-caption"
 msgstr "Any DriverPack will configure your computer in no time. Just choose the pack you need:"
-
-msgid "search_noresult"
-msgstr "Download DriverPack Online"
 
 msgid "adminpromo_landing-title"
 msgstr "New DriverPack 18 is under development"
@@ -189,6 +186,9 @@ msgstr "View all drivers"
 msgid "devicecard_details-links"
 msgstr "View all drivers for"
 
+msgid "devicecardlist_no-result_download-link"
+msgstr "Download DriverPack"
+
 #. i18n: EN: Example: DEVICENAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10
 #. x86; Text for {{DOWNLOAD}} is in key devicecardlist_no-result_download-
 #. link; RU: Пример: NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10
@@ -213,9 +213,6 @@ msgstr "The drivers for {{NOTEBOOK}} laptop for Windows {{OSVERSIONS}} were not 
 msgid "devicecardlist_no-results-notebook-device-class-text"
 msgstr "The drivers for {{DEVICECLASS}} for {{NOTEBOOK}} laptop for Windows {{OSVERSIONS}} were not found. {{DOWNLOAD}} to select the driver automatically."
 
-msgid "devicecardlist_no-result_download-link"
-msgstr "Download DriverPack"
-
 msgid "devicegrouppage_all-systems"
 msgstr "all systems"
 
@@ -239,6 +236,9 @@ msgstr "Driver for devices on {{OS}}"
 
 msgid "devicetypelist_title"
 msgstr "Driver search for devices"
+
+msgid "search_noresult"
+msgstr "Download DriverPack Online"
 
 #. i18n: EN: Example: NAME=Acer Aspire 4830TG; OSVERSIONS=Windows 10 x86; Text
 #. for {{DOWNLOAD}} is in key drivercard_no-results_download-link; RU: Пример:
@@ -836,7 +836,7 @@ msgid "language_title"
 msgstr "English"
 
 msgid "landingPagePublications_rbk"
-msgstr "Driverpack is the software that consists of drivers for Windows thoroughly selected and tested by Artur Kuzyakov's team. This application analyses a user's computer and installs onto it the required drivers, which enables you to solve two issues: firstly, to speed up the process of the computer's configuration (which is especially important if there are dozens computers within one system); and secondly, to improve its operational ability."
+msgstr "DriverPack is the software that consists of drivers for Windows thoroughly selected and tested by Artur Kuzyakov's team. This application analyses a user's computer and installs onto it the required drivers, which enables you to solve two issues: firstly, to speed up the process of the computer's configuration (which is especially important if there are dozens computers within one system); and secondly, to improve its operational ability."
 
 msgid "landingPagePublications_secretfirmy"
 msgstr "Today, DriverPack has the largest driver database in the world which is translated to 45 languages and operates on the computers of more than 42 million users."

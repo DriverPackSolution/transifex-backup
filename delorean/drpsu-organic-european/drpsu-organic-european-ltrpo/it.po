@@ -18,10 +18,10 @@ msgstr ""
 
 #. i18n: EN: Example: VENDOR.NAME=Asus; RU: Пример: VENDOR.NAME=Asus;
 msgid "seo_vendor-footer-anchor"
-msgstr ""
+msgstr "{{VENDOR.NAME}}"
 
 msgid "seo_devicegroups-footer-anchor"
-msgstr ""
+msgstr "{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}} "
 
 #. i18n: EN: Example: NAME=Acer E230H; RU: Пример: NAME=Acer E230H;
 msgid "seo_devicegroup-footer-anchor"
@@ -112,10 +112,10 @@ msgid "seo_deviceclass-footer-application-subcategory"
 msgstr "Sottocategoria: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_vendors-title"
-msgstr "Scarica I driver per PC, notebook e netbook | Windows"
+msgstr "Scarica driver per PC, notebook e netbook | Windows"
 
 msgid "seo_vendors-description"
-msgstr "Installa i driver gratuitamente per il PC, il portatile, e netbook, o scarica il programma per l'installazione e l'aggiornamento automatico dei driver"
+msgstr "Installa i driver gratuitamente per il PC, il portatile e netbook, o scarica il programma per l'installazione e l'aggiornamento automatico dei driver"
 
 msgid "seo_vendors-h1"
 msgstr "Produttori hardware"
@@ -125,7 +125,7 @@ msgstr "driver driver windows 7 8 10 64 scaricare scaricare"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendor-title"
-msgstr "Scarica {{VENDOR.NAME}} i driver per Windows gratis"
+msgstr "Scarica {{VENDOR.NAME}} driver per Windows gratis"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendor-description"
@@ -141,7 +141,7 @@ msgstr "driver windows 7 8 10 64 scarica scarica {{VENDOR.NAME}}"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendor-footer-description"
-msgstr "Scarica i driver per {{VENDOR.NAME}} le periferiche gratis"
+msgstr "Scarica i driver per {{VENDOR.NAME}} periferiche gratis"
 
 msgid "seo_vendor-footer-application-category"
 msgstr "Categoria: <span itemprop='applicationCategory'>Dispositivi</span>"

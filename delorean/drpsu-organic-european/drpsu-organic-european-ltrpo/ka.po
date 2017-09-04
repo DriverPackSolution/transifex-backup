@@ -72,7 +72,7 @@ msgid "seo_mainlanding-title"
 msgstr "DriverPack Solution - დრაივერების გასაახლებელი პროგრამა | გადმოწერეთ Windows 7, XP, 10, 8, და 8.1 დრაივერები."
 
 msgid "seo_mainlanding-description"
-msgstr "DriverPack Solution  – დრაივერების ავტომატური ინსტალააცისთვის განკუთვნილი უფასო პროგრამა. გადმოწერეთ დრაივერები სისტემებისთვის Windows Xp 7 8 8.1 10."
+msgstr "DriverPack Solution  – დრაივერების ავტომატური ინსტალააცისთვის განკუთვნილი უფასო პროგრამა. გადმოწერეთ დრაივერები სისტემებისთვის Windows XP, 7, 8, 8.1 და 10."
 
 msgid "seo_mainlanding-keywords"
 msgstr "დრაივერების გადმოწერა ავტომატური ინსტალაცია Windows 7, XP, 10, 8, და 8.1"
@@ -120,7 +120,7 @@ msgid "seo_vendors-h1"
 msgstr "მოწყობილობის მწარმოებლები"
 
 msgid "seo_vendors-keywords"
-msgstr "დრაივერები დრაივერები Windows 7 8 10 64 გადმოწერა გადმოწერა"
+msgstr "დრაივერები დრაივერები windows 7 8 10 64 გადმოწერა გადმოწერა"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendor-title"
@@ -143,11 +143,11 @@ msgid "seo_vendor-footer-description"
 msgstr "დრაივერების გადმოწერა {{VENDOR.NAME}} უფასოდ"
 
 msgid "seo_vendor-footer-application-category"
-msgstr "კატეგორია: <span itemprop='applicationCategory'> მოწყობილობები </span>"
+msgstr "კატეგორია: <span itemprop='applicationCategory'>მოწყობილობები</span>"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendor-footer-application-subcategory"
-msgstr "ქვეკატეგორია: <span itemprop='applicationSubCategory'> {{VENDOR.NAME}} მოწყობილობები </span>"
+msgstr "ქვეკატეგორია: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} მოწყობილობები</span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|monitors; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.FOR=видеокарт|мониторов; VENDOR.NAME=Acer;
@@ -167,7 +167,7 @@ msgstr "<span class='bold'>{{VENDOR.NAME}}</span> {{CLASS.SINGLE.FOR}} დრა
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|monitors; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|мониторы; VENDOR.NAME=Acer;
 msgid "seo_devicegroups-keywords"
-msgstr "{{CLASS.PLURAL.MAIN}}{{VENDOR.NAME}} windows 7 8 10 64  გადმოწერა დრაივერები გადმოწერა"
+msgstr "{{CLASS.PLURAL.MAIN}} {{VENDOR.NAME}} windows 7 8 10 64  გადმოწერა დრაივერები გადმოწერა"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|monitors; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.FOR=видеокарт|мониторов; VENDOR.NAME=Acer;
@@ -177,12 +177,12 @@ msgstr "{{VENDOR.NAME}} {{CLASS.PLURAL.FOR}} დრაივერების �
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|monitors; RU: Пример:
 #. CLASS.PLURAL.MAIN=видеокарты|мониторы;
 msgid "seo_devicegroups-footer-application-category"
-msgstr "კატეგორია: <span itemprop='applicationCategory'> {{CLASS.PLURAL.MAIN}} </span>"
+msgstr "კატეგორია: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|monitors; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|мониторы; VENDOR.NAME=Acer;
 msgid "seo_devicegroups-footer-application-subcategory"
-msgstr "ქვეკატეგორია: <span itemprop='applicationSubCategory'> {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}} </span> "
+msgstr "ქვეკატეგორია: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span> "
 
 #. i18n: EN: Example: CLASS.SINGLE.FOR=videocard|monitor; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.SINGLE.FOR=видеокарты|монитора; VENDOR.NAME=Acer;
@@ -226,13 +226,13 @@ msgstr "{{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.PLURAL.FOR}} გადმ�
 #. GROUP.VENDOR.NAME=Nvidia; RU: Пример: CLASS.PLURAL.FOR=видеокарт|чипсетов;
 #. GROUP.VENDOR.NAME=Nvidia;
 msgid "seo_devicegroup-footer-application-category"
-msgstr "კატეგორია: <span itemprop='applicationCategory'> {{GROUP.VENDOR.NAME}} {{CLASS.PLURAL.MAIN}} </span>"
+msgstr "კატეგორია: <span itemprop='applicationCategory'>{{GROUP.VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets;
 #. GROUP.NAME=GeForce 210; RU: Пример: CLASS.PLURAL.MAIN=видеокарты|чипсеты;
 #. GROUP.NAME=GeForce 210;
 msgid "seo_devicegroup-footer-application-subcategory"
-msgstr "ქვეკატეგორია: <span itemprop='applicationSubCategory'> {{GROUP.NAME}} {{CLASS.PLURAL.MAIN}} </span>"
+msgstr "ქვეკატეგორია: <span itemprop='applicationSubCategory'>{{GROUP.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
 #. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
@@ -278,12 +278,12 @@ msgstr "დრაივერების გადმოწერა {{DEVICE.D
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets; RU: Пример:
 #. CLASS.PLURAL.MAIN=видеокарты|чипсеты;
 msgid "seo_hwid-footer-application-category"
-msgstr "კატეგორია: <span itemprop='applicationCategory'> {{CLASS.PLURAL.MAIN}} </span>"
+msgstr "კატეგორია: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|чипсеты; VENDOR.NAME=Acer;
 msgid "seo_hwid-footer-application-subcategory"
-msgstr "ქვეკატეგორია: <span itemprop='applicationSubCategory'> {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}} </span>"
+msgstr "ქვეკატეგორია: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
@@ -598,7 +598,7 @@ msgid "seo_promo-description"
 msgstr "DriverPack Solution გირჩევთ დრაივერების დაყენებას უფასოდ , ან გადმოწერეთ პროგრამა მათი ავტომატური ინსტალაციისთვის."
 
 msgid "seo_promo-keywords"
-msgstr "გადმოწერეთ პროგრამა Windows 7 8 10 64 ვერსიის ლეპტოპებისთვის და უფასოდ დააყენეთ დრაივერები"
+msgstr "გადმოწერეთ პროგრამა windows 7 8 10 64 ვერსიის ლეპტოპებისთვის და უფასოდ დააყენეთ დრაივერები"
 
 msgid "seo_promodevice_title"
 msgstr "გადმოწერე დრაივერები usb, bluetooth, პრინტერებისთვის, Wi-Fi და ვიდეო ბარათებისთვის უფასოდ"
@@ -616,7 +616,7 @@ msgid "seo_promovendors-description"
 msgstr "დრაივერპაკი განაახლებს ლენოვოს, სამსუნგის, ეისერის, ასუსის და დელის დრაივერებს ბოლო ვერსიამდე"
 
 msgid "seo_promovendors-keywords"
-msgstr "დრაივერი, დელი, სამსუნგი, ლენოვო, ასუსი, ეისერი, ტოშიბა, ასუსი"
+msgstr "დრაივერი, dell, samsung, lenovo, asus, acer, toshiba, asus"
 
 msgid "seo_promodrivers_title"
 msgstr "გადმოწერეთ და დააინსტალეთ დრაივერები Windows 7, 10, XP, 8"
@@ -625,7 +625,7 @@ msgid "seo_promodrivers-description"
 msgstr "DriverPack-ი განაახლებს Windows 7, 10, XP, 8 უფასოდ"
 
 msgid "seo_promodrivers-keywords"
-msgstr "ვინდოუს 7 დრაივერი, გადმოწერა, ვინდოუს 10 დრაივერი, გადმოწერა, უფასოდ"
+msgstr "windows 7 დრაივერი, გადმოწერა, windows 10 დრაივერი, windows დრაივერი, გადმოწერა, უფასოდ"
 
 msgid "seo_forgamers-description"
 msgstr "ვიდეო ბარათის დრაივერის ჩაწერა სისტემაზე Windows 7, 10, XP, 8 და 8.1 უფასოდ"
@@ -634,7 +634,7 @@ msgid "seo_forgamers-keywords"
 msgstr "ვიდეო ბარათის დრაივერები windows 7 64 8 10 გადმოწერა გადმოწერა"
 
 msgid "seo_wannacrypt_title"
-msgstr "WannaСry ვირუსი - როგორ დავიცვათ კომპიუტერი ?"
+msgstr "WannaСry ვირუსი - როგორ დავიცვათ კომპიუტერი?"
 
 msgid "seo_wannacrypt-description"
 msgstr "გადმოწერეთ უფასო დაცვა WannaCry-ს წინააღმდეგ"
@@ -901,7 +901,7 @@ msgid "seo_notebook-footer-content-lenovo-b590"
 msgstr "აქ შეგიძლიათ გადმოწეროთ Lenovo b590-ის დრაივერები Windows XP, 7, 8, 8.1 და 10 ვერსიისთვის უფასოდ. ყველა დრაივერი შემოწმებულია ანტივირუსით და აბსოლუტურად უსაფრთხოა. "
 
 msgid "seo_notebook-footer-content-hp-pavilion-g6-chipset"
-msgstr "ამ სექციაში შეგიძლიათ <b> გადმოწეროთ Pavilion G6-ის ჩიპსეტის დრაივერები </b> უფასოდ და რეგისტრაციის გარეშე Windows-ის საოპერაციო სისტემისთვის. თუ რაიმე დრაივერს თქვენით ვერ აყენებთ, გადმოწერეთ DriverPack Solution-ის პროგრამა, ის თქვენ სმაგივრად გააკეთებს ყველაფერს."
+msgstr "ამ სექციაში შეგიძლიათ <b>გადმოწეროთ Pavilion G6-ის ჩიპსეტის დრაივერები</b> უფასოდ და რეგისტრაციის გარეშე Windows-ის საოპერაციო სისტემისთვის. თუ რაიმე დრაივერს თქვენით ვერ აყენებთ, გადმოწერეთ DriverPack Solution-ის პროგრამა, ის თქვენ სმაგივრად გააკეთებს ყველაფერს."
 
 msgid "seo_notebook-footer-content-lenovo-g580-wifi"
 msgstr ""
