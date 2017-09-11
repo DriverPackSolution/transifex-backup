@@ -110,24 +110,24 @@ msgstr "{{CLASS.PLURAL.MAIN}}"
 #. VENDOR.NAME=Realtek; RU: Пример: CLASS.PLURAL.MAIN=картридеры|мониторы;
 #. VENDOR.NAME=Realtek;
 msgid "breadcrumbs_devicegroups-text"
-msgstr "{{VENDOR.NAME}}{{CLASS.PLURAL.MAIN}}"
+msgstr "{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
 
 #. i18n: EN: Example: GROUP.VENDOR.NAME=Nvidia, GROUP.NAME=GeForce 210; RU:
 #. Пример: GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210;
 msgid "breadcrumbs_devicegroup-text"
-msgstr "{{GROUP.VENDOR.NAME}}{{GROUP.NAME}}"
+msgstr "{{GROUP.VENDOR.NAME}} {{GROUP.NAME}}"
 
 msgid "breadcrumbs_notebooks-text"
 msgstr "Լափթոփ"
 
 #. i18n: EN: Example: VENDOR.NAME=Asus; RU: Пример: VENDOR.NAME=Asus;
 msgid "breadcrumbs_notebookvendor-text"
-msgstr "{{VENDOR.NAME}}լափթոփ"
+msgstr "{{VENDOR.NAME}} լափթոփ"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=X1 carbon;
 #. RU: Пример: NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=X1 carbon;
 msgid "breadcrumbs_notebook-text"
-msgstr "{{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}}"
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=Videocards|Chipsets ,
 #. NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=G580; RU: Пример:
@@ -228,7 +228,7 @@ msgid "devicegroupfilters_filter-title"
 msgstr "Հասանելի սարքավարներ"
 
 msgid "deviceidfilters-filter-label-version"
-msgstr "Սարքավարի տարբերակը."
+msgstr "Սարքավարի տարբերակը:"
 
 msgid "deviceidheader_caption-single"
 msgstr "Սարքի անունը."
@@ -253,31 +253,31 @@ msgid "drivercard_no-results_download-link"
 msgstr ""
 
 msgid "drivercard_caption-version"
-msgstr "Տարբերակ."
+msgstr "Տարբերակ:"
 
 msgid "drivercard_caption-version-recommended"
 msgstr "հանձնարարելի"
 
 msgid "drivercard_caption-date"
-msgstr "Ամսաթիվ."
+msgstr "Ամսաթիվ:"
 
 msgid "drivercard_caption-class"
-msgstr "Սարքի տեսակը."
+msgstr "Սարքի տեսակը:"
 
 msgid "drivercard_caption-manufacturer"
-msgstr "Արտադրող."
+msgstr "Արտադրող:"
 
 msgid "drivercard_caption-os"
-msgstr "Օպերացիոն համակարգեր."
+msgstr "Օպերացիոն համակարգեր:"
 
 msgid "drivercard_caption-deviceid"
 msgstr "Device ID:"
 
 msgid "drivercard_caption-inf"
-msgstr "Ֆայլ *.inf."
+msgstr "Ֆայլ *.inf:"
 
 msgid "drivercard_caption-section"
-msgstr "Անվանակարգ."
+msgstr "Անվանակարգ:"
 
 msgid "drivercard_caption-btn"
 msgstr "Ներբեռնել սարքավարը"
@@ -307,7 +307,7 @@ msgid "header_search-title"
 msgstr ""
 
 msgid "header_search-examples"
-msgstr "Օրինակ՝"
+msgstr "Օրինակ՝:"
 
 msgid "header_cta-text"
 msgstr ""
@@ -415,7 +415,7 @@ msgid "landingproducts_item-caption-online"
 msgstr ""
 
 msgid "landingproducts_item-version"
-msgstr "Տարբերակ."
+msgstr "Տարբերակ:"
 
 msgid "landingproducts_item-button"
 msgstr "Ներբեռնել"
@@ -520,7 +520,7 @@ msgid "promoheader_cta-btn"
 msgstr "Տեղադրել պահանջվող բոլոր սարքավարները"
 
 msgid "promoheader_size"
-msgstr "Ֆայլի չափը՝ {{SIZE}} ԿԲ"
+msgstr "Ֆայլի չափը՝: {{SIZE}} ԿԲ"
 
 msgid "promoheader_license"
 msgstr ""
@@ -564,16 +564,16 @@ msgid "generatesearchitemname_vendor"
 msgstr ""
 
 msgid "deviceclasses_bluetooth-single-main"
-msgstr "Bluetooth device"
+msgstr ""
 
 msgid "deviceclasses_bluetooth-single-for"
-msgstr "Bluetooth device"
+msgstr ""
 
 msgid "deviceclasses_bluetooth-plural-main"
-msgstr "Bluetooth devices"
+msgstr ""
 
 msgid "deviceclasses_bluetooth-plural-for"
-msgstr "Bluetooth devices"
+msgstr ""
 
 msgid "deviceclasses_cardreader-single-main"
 msgstr ""
@@ -588,28 +588,28 @@ msgid "deviceclasses_cardreader-plural-for"
 msgstr ""
 
 msgid "deviceclasses_chipset-single-main"
-msgstr "chipset"
+msgstr ""
 
 msgid "deviceclasses_chipset-single-for"
-msgstr "chipset"
+msgstr ""
 
 msgid "deviceclasses_chipset-plural-main"
-msgstr "chipsets"
+msgstr ""
 
 msgid "deviceclasses_chipset-plural-for"
-msgstr "chipsets"
+msgstr ""
 
 msgid "deviceclasses_inputdev-single-main"
-msgstr "input device"
+msgstr ""
 
 msgid "deviceclasses_inputdev-single-for"
-msgstr "input device"
+msgstr ""
 
 msgid "deviceclasses_inputdev-plural-main"
-msgstr "input devices"
+msgstr ""
 
 msgid "deviceclasses_inputdev-plural-for"
-msgstr "input devices"
+msgstr ""
 
 msgid "deviceclasses_lan-single-main"
 msgstr "network card"

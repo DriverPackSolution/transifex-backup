@@ -20,7 +20,7 @@ msgid "seo_vendor-footer-anchor"
 msgstr "{{VENDOR.NAME}}"
 
 msgid "seo_devicegroups-footer-anchor"
-msgstr "{{VENDOR.NAME}}{{CLASS.PLURAL.MAIN}}"
+msgstr "{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
 
 #. i18n: EN: Example: NAME=Acer E230H; RU: Пример: NAME=Acer E230H;
 msgid "seo_devicegroup-footer-anchor"
@@ -45,7 +45,7 @@ msgid "seo_hwidos-footer-anchor"
 msgstr "نوسخه‌ی پێناسه‌ بۆ  Windows {{OS.NAME}} "
 
 msgid "seo_main-title"
-msgstr "DriverPack Solution — دامه‌زراندن و نوێكردنه‌وه‌ی پێناسه‌كان به‌ خۆڕایی"
+msgstr "DriverPack Solution — دامه‌زراندن و نوێكردنه‌وه‌ی پێناسه‌كان به‌ خۆڕایی | دایببه‌زێنه‌ به‌ خۆڕایی"
 
 msgid "seo_main-description"
 msgstr "  DriverPack Solution پێشنیار ده‌كات بۆت به‌ دامه‌زراندنی پێناسه‌كان بۆ ئامێره‌كان به‌ خۆڕایی، یان به‌ دابه‌زاندنی نه‌رمه‌كاڵا بۆ دامه‌زراندن و نوێكردنه‌وه‌ی پێناسه‌ به‌ ئۆتۆماتیكی"
@@ -172,7 +172,7 @@ msgstr "پێناسه‌كانی Windows 7 8 10 64 داببه‌زێنه‌ دا�
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|monitors; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.FOR=видеокарт|мониторов; VENDOR.NAME=Acer;
 msgid "seo_devicegroups-footer-description"
-msgstr "دابه‌زاندنی پێناسه‌كان بۆ {{VENDOR.NAME}}{{CLASS.PLURAL.FOR}}"
+msgstr "دابه‌زاندنی پێناسه‌كان بۆ {{VENDOR.NAME}} {{CLASS.PLURAL.FOR}}"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|monitors; RU: Пример:
 #. CLASS.PLURAL.MAIN=видеокарты|мониторы;
@@ -182,12 +182,12 @@ msgstr "جۆر: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|monitors; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|мониторы; VENDOR.NAME=Acer;
 msgid "seo_devicegroups-footer-application-subcategory"
-msgstr "لق:<span itemprop='applicationSubCategory'>{{VENDOR.NAME}}{{CLASS.PLURAL.MAIN}}</span>"
+msgstr "لق: <span itemprop='applicationSubCategory'> {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}} </span>"
 
 #. i18n: EN: Example: CLASS.SINGLE.FOR=videocard|monitor; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.SINGLE.FOR=видеокарты|монитора; VENDOR.NAME=Acer;
 msgid "seo_devicegroups-footer-content"
-msgstr "دابه‌زاندنی پێناسه‌كان بۆ {{VENDOR.NAME}}{{CLASS.SINGLE.FOR}}، یان دامه‌زراندنی نه‌رمه‌كاڵای DriverPack Solution بۆ دابه‌زاندن و نوێكردنه‌وه‌ی پێناسه‌ به‌ ئۆتۆماتیكی"
+msgstr "دابه‌زاندنی پێناسه‌كان بۆ  {{VENDOR.NAME}} {{CLASS.SINGLE.FOR}}، یان دامه‌زراندنی نه‌رمه‌كاڵای DriverPack Solution بۆ دابه‌زاندن و نوێكردنه‌وه‌ی پێناسه‌ به‌ ئۆتۆماتیكی"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
 #. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
@@ -220,13 +220,13 @@ msgstr "پێناسه‌كانی windows 7 8 10 64 داببه‌زێنه‌ دا�
 #. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
 #. GROUP.NAME=GeForce 210;
 msgid "seo_devicegroup-footer-description"
-msgstr "دابه‌زاندنی پێناسه‌كان بۆ {{GROUP.VENDOR.NAME}}{{GROUP.NAME}}{{CLASS.PLURAL.FOR}} به‌ خۆڕایی"
+msgstr "دابه‌زاندنی پێناسه‌كان بۆ  {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.PLURAL.FOR}} به‌ خۆڕایی"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
 #. GROUP.VENDOR.NAME=Nvidia; RU: Пример: CLASS.PLURAL.FOR=видеокарт|чипсетов;
 #. GROUP.VENDOR.NAME=Nvidia;
 msgid "seo_devicegroup-footer-application-category"
-msgstr "جۆر: <span itemprop='applicationCategory'>{{GROUP.VENDOR.NAME}}{{CLASS.PLURAL.MAIN}}</span>"
+msgstr "جۆر: <span itemprop='applicationCategory'>{{GROUP.VENDOR.NAME}} {{CLASS.PLURAL.MAIN}} </span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets;
 #. GROUP.NAME=GeForce 210; RU: Пример: CLASS.PLURAL.MAIN=видеокарты|чипсеты;
@@ -283,7 +283,7 @@ msgstr "جۆر:<span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|чипсеты; VENDOR.NAME=Acer;
 msgid "seo_hwid-footer-application-subcategory"
-msgstr "لق: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}}{{CLASS.PLURAL.MAIN}}</span>"
+msgstr "لق: <span itemprop='applicationSubCategory'> {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}} </span>"
 
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
@@ -414,7 +414,7 @@ msgstr "جۆر: <span itemprop='applicationCategory'>لاپتۆپه‌كانی {
 #. CLASS.PLURAL.MAIN=видеокарты|чипсеты; NOTEBOOK.VENDOR.NAME=Acer;
 #. NOTEBOOK.NAME=AO533;
 msgid "seo_notebookdevices-footer-application-subcategory"
-msgstr "لق: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}}بۆ {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}}</span>"
+msgstr "لق: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}}بۆ {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} </span>"
 
 #. i18n: EN: Example: CLASS.SINGLE.FOR=videocard|chipset;
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU: Пример:
@@ -430,7 +430,7 @@ msgid "seo_devicegroupos-title"
 msgstr "پێناسه‌كانی {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} داببه‌زێنه‌ بۆ Windows{{OS}}"
 
 msgid "seo_devicegroupos-description"
-msgstr "دابه‌زاندنی پێناسه‌ی {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} بۆ Windows {{OS}}، یان دابه‌زاندنی نه‌رمه‌كاڵای DriverPack بۆ نوێكردنه‌وه‌ و دامه‌زراندنی پێناسه‌ به‌ ئۆتۆماتیكی"
+msgstr "دابه‌زاندنی پێناسه‌ی {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} بۆ Windows {{OS}}، یان دابه‌زاندنی نه‌رمه‌كاڵای چاره‌سه‌ری به‌سته‌ی پێناسه‌  بۆ نوێكردنه‌وه‌ و دامه‌زراندنی پێناسه‌ به‌ ئۆتۆماتیكی"
 
 msgid "seo_devicegroupos-h1"
 msgstr "پێناسه‌كانی {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} بۆ Windows {{OS}}"

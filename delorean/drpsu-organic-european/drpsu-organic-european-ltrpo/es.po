@@ -18,10 +18,10 @@ msgstr ""
 
 #. i18n: EN: Example: VENDOR.NAME=Asus; RU: Пример: VENDOR.NAME=Asus;
 msgid "seo_vendor-footer-anchor"
-msgstr ""
+msgstr "{{VENDOR.NAME}}"
 
 msgid "seo_devicegroups-footer-anchor"
-msgstr ""
+msgstr "{{CLASS.PLURAL.MAIN}} {{VENDOR.NAME}}"
 
 #. i18n: EN: Example: NAME=Acer E230H; RU: Пример: NAME=Acer E230H;
 msgid "seo_devicegroup-footer-anchor"
@@ -29,13 +29,13 @@ msgstr "{{NAME}}"
 
 #. i18n: EN: Example: NAME=Asus X550EA; RU: Пример: NAME=Asus X550EA;
 msgid "seo_notebookvendor-footer-anchor"
-msgstr "portátiles {{NOTEBOOK.VENDOR.NAME}}"
+msgstr "Portátiles {{NOTEBOOK.VENDOR.NAME}}"
 
 msgid "seo_notebook-footer-anchor"
 msgstr "Portátiles {{NAME}}"
 
 msgid "seo_notebookdevices-footer-anchor"
-msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} {{CLASS.PLURAL.MAIN}}"
+msgstr "{{CLASS.PLURAL.MAIN}} {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
 #. CLASS.PLURAL.FOR=мониторов|модемов;
@@ -73,7 +73,7 @@ msgid "seo_mainlanding-title"
 msgstr "DriverPack Solution - software de actualización de drivers | Descarga drivers de Windows 7, XP, 10, 8, y 8.1."
 
 msgid "seo_mainlanding-description"
-msgstr "DriverPack Solution – Programa gratuito para instalar drivers automaticamente y actualizar tu ordenador. Tambien es posible descargar drivers para Windows XP, 7, 8, 8.1, 10 desde nuestro catalogo online."
+msgstr "DriverPack Solution – programa gratuito para instalar drivers automaticamente y actualizar tu ordenador. Tambien es posible descargar drivers para Windows XP, 7, 8, 8.1, 10 desde nuestro catalogo online."
 
 msgid "seo_mainlanding-keywords"
 msgstr "descargar drivers auto-instalación actualizar Windows 7, XP, 10, 8 y 8.1 software de actualización de drivers"
@@ -431,7 +431,7 @@ msgid "seo_devicegroupos-title"
 msgstr "Descarga drivers de {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} para Windows {{OS}}"
 
 msgid "seo_devicegroupos-description"
-msgstr "Instala drivers para {{GROUP.NAME}} de {{GROUP.VENDOR.NAME}}para Windows {{OS}}, o descarga el software DriverPack Solution para una instalación de drivers automática  "
+msgstr "Instala drivers para {{GROUP.NAME}} de {{GROUP.VENDOR.NAME}}para Windows {{OS}}, o descarga el software DriverPack Solution para una instalación de drivers automática."
 
 msgid "seo_devicegroupos-h1"
 msgstr "Drivers para {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} para Windows {{OS}}"
@@ -635,7 +635,7 @@ msgid "seo_forgamers-keywords"
 msgstr "drivers tarjeta video windows 7 64 8 10 descargar descargar"
 
 msgid "seo_wannacrypt_title"
-msgstr "Virus WannaСry - cómo proteger tu ordenador o portátil?"
+msgstr "¿Virus WannaСry - cómo proteger tu ordenador o portátil?"
 
 msgid "seo_wannacrypt-description"
 msgstr "Descargar protección gratuita contra el virus WannaCry para tu ordenador o portátil"
@@ -938,7 +938,7 @@ msgid "seo_notebook-footer-content-asus-k50c-video"
 msgstr ""
 
 msgid "seo_notebook-footer-content-asus-k50c-wifi"
-msgstr "Experimentas algún problema al conectarte a una red Wi-Fi? Aquí puedes descargar los drivers de Wi-Fi para tu portátil Asus k50c con Windows XP, 7, 8, 8.1 or 10 - ¡puede que solucione el problema!"
+msgstr "¿Experimentas algún problema al conectarte a una red Wi-Fi? Aquí puedes descargar los drivers de Wi-Fi para tu portátil Asus k50c con Windows XP, 7, 8, 8.1 or 10 - ¡puede que solucione el problema!"
 
 msgid "seo_notebook-footer-content-asus-x553ma-video"
 msgstr ""

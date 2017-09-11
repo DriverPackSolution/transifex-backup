@@ -16,10 +16,10 @@ msgstr ""
 
 #. i18n: EN: Example: VENDOR.NAME=Asus; RU: Пример: VENDOR.NAME=Asus;
 msgid "seo_vendor-footer-anchor"
-msgstr ""
+msgstr "{{VENDOR.NAME}}"
 
 msgid "seo_devicegroups-footer-anchor"
-msgstr ""
+msgstr "{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}} "
 
 #. i18n: EN: Example: NAME=Acer E230H; RU: Пример: NAME=Acer E230H;
 msgid "seo_devicegroup-footer-anchor"
@@ -181,7 +181,7 @@ msgstr "Κατηγορία: <span itemprop='applicationCategory'>{{CLASS.PLURAL.
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|monitors; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|мониторы; VENDOR.NAME=Acer;
 msgid "seo_devicegroups-footer-application-subcategory"
-msgstr "Υποκατηγορία: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}} </span>"
+msgstr "Υποκατηγορία: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 #. i18n: EN: Example: CLASS.SINGLE.FOR=videocard|monitor; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.SINGLE.FOR=видеокарты|монитора; VENDOR.NAME=Acer;
@@ -193,7 +193,7 @@ msgstr "Λήψη προγραμμάτων οδήγησης για {{VENDOR.NAME}
 #. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
 #. GROUP.NAME=GeForce 210;
 msgid "seo_devicegroup-title"
-msgstr "Λήψη προγραμμάτων οδήγησης {{GROUP.VENDOR.NAME}}{{GROUP.NAME}}{{CLASS.SINGLE.FOR}} για τα Windows δωρεάν"
+msgstr "Λήψη προγραμμάτων οδήγησης {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.SINGLE.FOR}} για τα Windows δωρεάν"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
 #. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
@@ -219,26 +219,26 @@ msgstr ""
 #. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
 #. GROUP.NAME=GeForce 210;
 msgid "seo_devicegroup-footer-description"
-msgstr "Λήψη προγραμμάτων οδήγησης για{{GROUP.VENDOR.NAME}}{{GROUP.NAME}}{{CLASS.PLURAL.FOR}} δωρεάν"
+msgstr "Λήψη προγραμμάτων οδήγησης για {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.PLURAL.FOR}} δωρεάν"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
 #. GROUP.VENDOR.NAME=Nvidia; RU: Пример: CLASS.PLURAL.FOR=видеокарт|чипсетов;
 #. GROUP.VENDOR.NAME=Nvidia;
 msgid "seo_devicegroup-footer-application-category"
-msgstr "Κατηγορία: <span itemprop='applicationCategory'>{{GROUP.VENDOR.NAME}}  {{CLASS.PLURAL.MAIN}} </span>"
+msgstr "Κατηγορία: <span itemprop='applicationCategory'>{{GROUP.VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets;
 #. GROUP.NAME=GeForce 210; RU: Пример: CLASS.PLURAL.MAIN=видеокарты|чипсеты;
 #. GROUP.NAME=GeForce 210;
 msgid "seo_devicegroup-footer-application-subcategory"
-msgstr "Υποκατηγορία: <span itemprop='applicationSubCategory'>{{GROUP.NAME}}  {{CLASS.PLURAL.MAIN}} </span>"
+msgstr "Υποκατηγορία: <span itemprop='applicationSubCategory'>{{GROUP.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
 #. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
 #. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
 #. GROUP.NAME=GeForce 210;
 msgid "seo_devicegroup-footer-content"
-msgstr "Λήψη προγραμμάτων οδήγησης για {{GROUP.VENDOR.NAME}}{{GROUP.NAME}}{{CLASS.SINGLE.FOR}} ή εγκατάσταση του λογισμικού DriverPack Solution για αυτόματη λήψη και ενημέρωση προγράμματος οδήγησης"
+msgstr "Λήψη προγραμμάτων οδήγησης για {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.SINGLE.FOR}} ή εγκατάσταση του λογισμικού DriverPack Solution για αυτόματη λήψη και ενημέρωση προγράμματος οδήγησης"
 
 msgid "seo_hwids-title"
 msgstr ""
@@ -267,7 +267,7 @@ msgstr "<span class='bold'>{{DEVICE.DEVICEID}}</span>"
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 msgid "seo_hwid-keywords"
-msgstr "προγράμματα οδήγησης windows 7 8 10 64 λήψη λήψη Η/Υ{{DEVICE.DEVICEID}}"
+msgstr "προγράμματα οδήγησης windows 7 8 10 64 λήψη λήψη Η/Υ {{DEVICE.DEVICEID}}"
 
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
@@ -282,7 +282,7 @@ msgstr "Κατηγορία: <span itemprop='applicationCategory'>{{CLASS.PLURAL.
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|чипсеты; VENDOR.NAME=Acer;
 msgid "seo_hwid-footer-application-subcategory"
-msgstr "Υποκατηγορία: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}}  {{CLASS.PLURAL.MAIN}} </span>"
+msgstr "Υποκατηγορία: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
@@ -331,7 +331,7 @@ msgstr "Υπόκατηγορία: <span itemprop='applicationSubCategory'>Φορ
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebook-title"
-msgstr "Προγράμματα οδήγησης φορητού υπολογιστή {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}} | Λήψη για τα Windows"
+msgstr "Προγράμματα οδήγησης φορητού υπολογιστή {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} | Λήψη για τα Windows"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
@@ -351,7 +351,7 @@ msgstr "προγράμματα οδήγησης προγράμματα οδήγ�
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebook-footer-description"
-msgstr "Λήψη προγραμμάτων οδήγησης για φορητούς υπολογιστές {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}} δωρεάν"
+msgstr "Λήψη προγραμμάτων οδήγησης για φορητούς υπολογιστές {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} δωρεάν"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; RU: Пример:
 #. NOTEBOOK.VENDOR.NAME=Acer;
@@ -361,26 +361,26 @@ msgstr "Κατηγορία: <span itemprop='applicationCategory'>Φορητοί 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebook-footer-application-subcategory"
-msgstr "Υπόκατηγορία: <span itemprop='applicationSubCategory'>Φορητοί υπολογιστές {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}}</span>"
+msgstr "Υπόκατηγορία: <span itemprop='applicationSubCategory'>Φορητοί υπολογιστές {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}</span>"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebook-footer-content"
-msgstr "Εδώ μπορείτε να λάβετε προγράμματα οδήγησης για φορητό υπολογιστή {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}} ή να λάβετε το λογισμικό DriverPack Solution για αυτόματη εγκατάσταση και ενημέρωση προγράμματος οδήγησης"
+msgstr "Εδώ μπορείτε να λάβετε προγράμματα οδήγησης για φορητό υπολογιστή {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} ή να λάβετε το λογισμικό DriverPack Solution για αυτόματη εγκατάσταση και ενημέρωση προγράμματος οδήγησης"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 #. CLASS.SINGLE.FOR=videocart|soundcart; RU: Пример:
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 #. CLASS.SINGLE.FOR=видеокарты|звуковой карты;
 msgid "seo_notebookdevices-title"
-msgstr "Προγράμματα οδήγησης {{CLASS.SINGLE.FOR}} για φορητό υπολογιστή {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}} | Λήψη για τα Windows"
+msgstr "Προγράμματα οδήγησης {{CLASS.SINGLE.FOR}} για φορητό υπολογιστή {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} | Λήψη για τα Windows"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 #. CLASS.SINGLE.FOR=videocart|soundcart; RU: Пример:
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 #. CLASS.SINGLE.FOR=видеокарты|звуковой карты;
 msgid "seo_notebookdevices-description"
-msgstr "Λήψη και εγκατάσταση προγραμμάτων οδήγησης {{CLASS.SINGLE.FOR}}για φορητό υπολογιστή {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}}για τα Windows 7, XP, 10, 8 και 8.1 ή λήψη του λογισμικού DriverPack Solution για αυτόματη εγκατάσταση και ενημέρωση προγράμματος οδήγησης"
+msgstr "Λήψη και εγκατάσταση προγραμμάτων οδήγησης {{CLASS.SINGLE.FOR}} για φορητό υπολογιστή {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} για τα Windows 7, XP, 10, 8 και 8.1 ή λήψη του λογισμικού DriverPack Solution για αυτόματη εγκατάσταση και ενημέρωση προγράμματος οδήγησης"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 #. CLASS.PLURAL.FOR=videocarts|soundcarts; RU: Пример:
@@ -394,42 +394,42 @@ msgstr "Φορητός υπολογιστής {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOO
 #. CLASS.PLURAL.MAIN=видеокарты|чипсеты; NOTEBOOK.VENDOR.NAME=Acer;
 #. NOTEBOOK.NAME=AO533;
 msgid "seo_notebookdevices-keywords"
-msgstr "προγράμματα οδήγησης προγράμματα οδήγησης φορητός υπολογιστής notebook φορητός υπολογιστής netbook {{CLASS.PLURAL.MAIN}}netbook windows 7 8 10 64 λήψη λήψη {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
+msgstr "προγράμματα οδήγησης προγράμματα οδήγησης φορητός υπολογιστής notebook φορητός υπολογιστής netbook {{CLASS.PLURAL.MAIN}} netbook windows 7 8 10 64 λήψη λήψη {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 #. CLASS.PLURAL.FOR=videocarts|soundcarts; RU: Пример:
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 #. CLASS.PLURAL.FOR=видеокарт|звуковых карт;
 msgid "seo_notebookdevices-footer-description"
-msgstr "Λήψη προγραμμάτων οδήγησης για {{CLASS.PLURAL.FOR}}για φορητούς υπολογιστές {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}} δωρεάν."
+msgstr "Λήψη προγραμμάτων οδήγησης για {{CLASS.PLURAL.FOR}} για φορητούς υπολογιστές {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} δωρεάν."
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebookdevices-footer-application-category"
-msgstr "Κατηγορία: <span itemprop='applicationCategory'>Φορητοί υπολογιστές {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}}</span>"
+msgstr "Κατηγορία: <span itemprop='applicationCategory'>Φορητοί υπολογιστές {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}</span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets;
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU: Пример:
 #. CLASS.PLURAL.MAIN=видеокарты|чипсеты; NOTEBOOK.VENDOR.NAME=Acer;
 #. NOTEBOOK.NAME=AO533;
 msgid "seo_notebookdevices-footer-application-subcategory"
-msgstr "Υπόκατηγορία: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}} για  {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}}</span>"
+msgstr "Υπόκατηγορία: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}} για  {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}</span>"
 
 #. i18n: EN: Example: CLASS.SINGLE.FOR=videocard|chipset;
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU: Пример:
 #. CLASS.SINGLE.FOR=видеокарты|чипсета; NOTEBOOK.VENDOR.NAME=Acer;
 #. NOTEBOOK.NAME=AO533;
 msgid "seo_notebookdevices-footer-content"
-msgstr "Λήψη προγραμμάτων οδήγησης {{CLASS.SINGLE.FOR}}για φορητό υπολογιστή {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}}για τα Windows 7, XP, 10, 8 και 8.1 ή λήψη του λογισμικού DriverPack Solution για ενημέρωση προγράμματος οδήγησης"
+msgstr "Λήψη προγραμμάτων οδήγησης {{CLASS.SINGLE.FOR}} για φορητό υπολογιστή {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} για τα Windows 7, XP, 10, 8 και 8.1 ή λήψη του λογισμικού DriverPack Solution για ενημέρωση προγράμματος οδήγησης"
 
 msgid "seo_search-title"
-msgstr "Αποτελέσματα αναζήτησης για τη φράση; {{QUERY}} | DriverPack Solution"
+msgstr "Αποτελέσματα αναζήτησης για τη φράση: {{QUERY}} | DriverPack Solution"
 
 msgid "seo_devicegroupos-title"
-msgstr "Λήψη προγραμμάτων οδήγησης {{GROUP.VENDOR.NAME}}{{GROUP.NAME}}για τα Windows {{OS}}"
+msgstr "Λήψη προγραμμάτων οδήγησης {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} για τα Windows {{OS}}"
 
 msgid "seo_devicegroupos-description"
-msgstr "Εγκατάσταση προγράμματος οδήγησης {{GROUP.VENDOR.NAME}}{{GROUP.NAME}}για τα Windows {{OS}} ή λήψη του λογισμικού DriverPack Solution για αυτόματη εγκατάσταση και ενημέρωση προγράμματος οδήγησης"
+msgstr "Εγκατάσταση προγράμματος οδήγησης {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} για τα Windows {{OS}} ή λήψη του λογισμικού DriverPack Solution για αυτόματη εγκατάσταση και ενημέρωση προγράμματος οδήγησης"
 
 msgid "seo_devicegroupos-h1"
 msgstr "Προγράμματα οδήγησης {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} για τα Windows {{OS}}"
@@ -438,22 +438,22 @@ msgid "seo_devicegroupos-keywords"
 msgstr "προγράμματα οδήγησης Windows {{OS}} λήψη λήψη Η/Υ {{GROUP.NAME}} {{GROUP.VENDOR.NAME}}"
 
 msgid "seo_devicegroupos-footer-description"
-msgstr "Λήψη προγραμμάτων οδήγησης {{CLASS.SINGLE.FOR}}για{{GROUP.VENDOR.NAME}}{{GROUP.NAME}} για τα Windows {{OS}}  δωρεάν"
+msgstr "Λήψη προγραμμάτων οδήγησης {{CLASS.SINGLE.FOR}} για {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} για τα Windows {{OS}} δωρεάν"
 
 msgid "seo_devicegroupos-footer-application-category"
-msgstr "Κατηγορία: <span itemprop='applicationCategory'>{{GROUP.VENDOR.NAME}}  {{CLASS.PLURAL.MAIN}} </span>"
+msgstr "Κατηγορία: <span itemprop='applicationCategory'>{{GROUP.VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_devicegroupos-footer-application-subcategory"
-msgstr "Υποκατηγορία: <span itemprop='applicationSubCategory'>{{GROUP.NAME}}  {{CLASS.PLURAL.MAIN}} </span>"
+msgstr "Υποκατηγορία: <span itemprop='applicationSubCategory'>{{GROUP.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_devicegroupos-footer-content"
 msgstr ""
 
 msgid "seo_notebookos-title"
-msgstr "Λήψη προγραμμάτων οδήγησης φορητού υπολογιστή {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}} για τα Windows {{OS}}"
+msgstr "Λήψη προγραμμάτων οδήγησης φορητού υπολογιστή {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} για τα Windows {{OS}}"
 
 msgid "seo_notebookos-description"
-msgstr "Φόρτωση και εγκατάσταση προγραμμάτων οδήγησης για φορητό υπολογιστή  {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}}για τα Windows {{OS}} ή λήψη του λογισμικού DriverPack Solution για αυτόματη εγκατάσταση και ενημέρωση προγράμματος οδήγησης"
+msgstr "Φόρτωση και εγκατάσταση προγραμμάτων οδήγησης για φορητό υπολογιστή {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} για τα Windows {{OS}} ή λήψη του λογισμικού DriverPack Solution για αυτόματη εγκατάσταση και ενημέρωση προγράμματος οδήγησης"
 
 msgid "seo_notebookos-h1"
 msgstr "Προγράμματα οδήγησης φορητού υπολογιστή {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} για τα Windows {{OS}}"
@@ -462,16 +462,16 @@ msgid "seo_notebookos-keywords"
 msgstr "προγράμματα οδήγησης προγράμματα οδήγησης φορητός υπολογιστής notebook φορητός υπολογιστής netbook netbook Windows {{OS}} λήψη λήψη {{NOTEBOOK.NAME}} {{NOTEBOOK.VENDOR.NAME}}"
 
 msgid "seo_notebookos-footer-description"
-msgstr "Λήψη προγραμμάτων οδήγησης για φορητούς υπολογιστές {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}} για τα Windows {{OS}}δωρεάν"
+msgstr "Λήψη προγραμμάτων οδήγησης για φορητούς υπολογιστές {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} για τα Windows {{OS}} δωρεάν"
 
 msgid "seo_notebookos-footer-application-category"
 msgstr "Κατηγορία: <span itemprop='applicationCategory'>Φορητοί υπολογιστές {{NOTEBOOK.VENDOR.NAME}}</span>"
 
 msgid "seo_notebookos-footer-application-subcategory"
-msgstr "Υπόκατηγορία: <span itemprop='applicationSubCategory'>Φορητοί υπολογιστές {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}}</span>"
+msgstr "Υπόκατηγορία: <span itemprop='applicationSubCategory'>Φορητοί υπολογιστές {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}</span>"
 
 msgid "seo_notebookos-footer-content"
-msgstr "Εδώ μπορείτε να λάβετε προγράμματα οδήγησης για φορητό υπολογιστή {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}} (Windows {{OS}}) ή να λάβετε το λογισμικό DriverPack Solution για αυτόματη εγκατάσταση και ενημέρωση προγράμματος οδήγησης"
+msgstr "Εδώ μπορείτε να λάβετε προγράμματα οδήγησης για φορητό υπολογιστή {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} (Windows {{OS}}) ή να λάβετε το λογισμικό DriverPack Solution για αυτόματη εγκατάσταση και ενημέρωση προγράμματος οδήγησης"
 
 msgid "seo_deviceclassos-title"
 msgstr "Λήψη προγραμμάτων οδήγησης {{CLASS.SINGLE.FOR}} για τα Windows {{OS}} δωρεάν"
@@ -498,13 +498,13 @@ msgid "seo_devicegroupsos-title"
 msgstr "Λήψη προγραμμάτων οδήγησης {{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} για τα Windows {{OS}}"
 
 msgid "seo_devicegroupsos-description"
-msgstr "Εγκατάσταση προγραμμάτων οδήγησης {{VENDOR.NAME}}{{CLASS.SINGLE.FOR}} για τα Windows {{OS}} ή λήψη του λογισμικού DriverPack Solution για αυτόματη εγκατάσταση και ενημέρωση προγράμματος οδήγησης"
+msgstr "Εγκατάσταση προγραμμάτων οδήγησης {{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} για τα Windows {{OS}} ή λήψη του λογισμικού DriverPack Solution για αυτόματη εγκατάσταση και ενημέρωση προγράμματος οδήγησης"
 
 msgid "seo_devicegroupsos-h1"
 msgstr "Προγράμματα οδήγησης {{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} για τα Windows {{OS}}"
 
 msgid "seo_devicegroupsos-keywords"
-msgstr " προγράμματα οδήγησης windows {{OS}} λήψη λήψη Η/Υ {{CLASS.PLURAL.MAIN}} {{VENDOR.NAME}}"
+msgstr " προγράμματα οδήγησης Windows {{OS}} λήψη λήψη Η/Υ {{CLASS.PLURAL.MAIN}} {{VENDOR.NAME}}"
 
 msgid "seo_devicegroupsos-footer-description"
 msgstr "Λήψη προγραμμάτων οδήγησης {{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} για τα Windows {{OS}}"
@@ -513,10 +513,10 @@ msgid "seo_devicegroupsos-footer-application-category"
 msgstr "Κατηγορία: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_devicegroupsos-footer-application-subcategory"
-msgstr "Υποκατηγορία: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}} </span>"
+msgstr "Υποκατηγορία: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_devicegroupsos-footer-content"
-msgstr "Λήψη προγραμμάτων οδήγησης για {{VENDOR.NAME}}{{CLASS.PLURAL.FOR}} (Windows {{OS}}) δωρεάν ή εγκατάσταση του λογισμικού DriverPack Solution για αυτόματη λήψη και ενημέρωση προγράμματος οδήγησης"
+msgstr "Λήψη προγραμμάτων οδήγησης για {{VENDOR.NAME}} {{CLASS.PLURAL.FOR}} (Windows {{OS}}) δωρεάν ή εγκατάσταση του λογισμικού DriverPack Solution για αυτόματη λήψη και ενημέρωση προγράμματος οδήγησης"
 
 msgid "seo_notebookvendoros-title"
 msgstr "Λήψη προγραμμάτων οδήγησης φορητού υπολογιστή {{VENDOR.NAME}} | Windows {{OS}}"
@@ -528,10 +528,10 @@ msgid "seo_notebookvendoros-h1"
 msgstr "Λήψη προγραμμάτων οδήγησης φορητού υπολογιστή {{VENDOR.NAME}} για τα Windows {{OS}}"
 
 msgid "seo_notebookvendoros-keywords"
-msgstr "προγράμματα οδήγησης προγράμματα οδήγησης φορητός υπολογιστής notebook φορητός υπολογιστής netbook netbook windows {{OS}} λήψη λήψη {{VENDOR.NAME}}"
+msgstr "προγράμματα οδήγησης προγράμματα οδήγησης φορητός υπολογιστής notebook φορητός υπολογιστής netbook netbook Windows {{OS}} λήψη λήψη {{VENDOR.NAME}}"
 
 msgid "seo_notebookvendoros-footer-description"
-msgstr "Λήψη προγραμμάτων οδήγησης για φορητούς υπολογιστές {{VENDOR.NAME}} για τα Windows {{OS}}δωρεάν"
+msgstr "Λήψη προγραμμάτων οδήγησης για φορητούς υπολογιστές {{VENDOR.NAME}} για τα Windows {{OS}} δωρεάν"
 
 msgid "seo_notebookvendoros-footer-application-category"
 msgstr "Κατηγορία: <span itemprop='applicationCategory'>Φορητοί υπολογιστές</span>"
@@ -552,43 +552,43 @@ msgid "seo_hwidos-h1"
 msgstr "Πρόγραμμα οδήγησης συσκευής {{DEVICE.DEVICEID}} για τα Windows {{OS}}"
 
 msgid "seo_hwidos-keywords"
-msgstr "προγράμματα οδήγησης windows {{OS}} λήψη λήψη Η/Υ{{DEVICE.DEVICEID}}"
+msgstr "προγράμματα οδήγησης Windows {{OS}} λήψη λήψη Η/Υ {{DEVICE.DEVICEID}}"
 
 msgid "seo_hwidos-footer-description"
-msgstr "Λήψη προγραμμάτων οδήγησης {{DEVICE.DEVICEID}}για τα Windows {{OS}} δωρεάν"
+msgstr "Λήψη προγραμμάτων οδήγησης {{DEVICE.DEVICEID}} για τα Windows {{OS}} δωρεάν"
 
 msgid "seo_hwidos-footer-application-category"
 msgstr "Κατηγορία: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_hwidos-footer-application-subcategory"
-msgstr "Υποκατηγορία: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}}  {{CLASS.PLURAL.MAIN}} </span>"
+msgstr "Υποκατηγορία: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_hwidos-footer-content"
 msgstr "Λήψη προγράμματος οδήγησης για τη συσκευή {{DEVICE.DEVICEID}} για τα Windows {{OS}} ή εγκατάσταση του λογισμικού DriverPack Solution για αυτόματη λήψη και ενημέρωση προγράμματος οδήγησης"
 
 msgid "seo_notebookdevicesos-title"
-msgstr "Προγράμματα οδήγησης {{CLASS.SINGLE.FOR}} για φορητό υπολογιστή {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}} | Λήψη για τα Windows {{OS}}"
+msgstr "Προγράμματα οδήγησης {{CLASS.SINGLE.FOR}} για φορητό υπολογιστή {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} | Λήψη για τα Windows {{OS}}"
 
 msgid "seo_notebookdevicesos-description"
-msgstr "Εγκατάσταση προγραμμάτων οδήγησης {{CLASS.SINGLE.FOR}} για φορητό υπολογιστή {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}} για τα Windows {{OS}} ή λήψη του λογισμικού DriverPack Solution για αυτόματη εγκατάσταση και ενημέρωση προγράμματος οδήγησης"
+msgstr "Εγκατάσταση προγραμμάτων οδήγησης {{CLASS.SINGLE.FOR}} για φορητό υπολογιστή {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} για τα Windows {{OS}} ή λήψη του λογισμικού DriverPack Solution για αυτόματη εγκατάσταση και ενημέρωση προγράμματος οδήγησης"
 
 msgid "seo_notebookdevicesos-h1"
 msgstr "Προγράμματα οδήγησης {{CLASS.PLURAL.FOR}} για φορητούς υπολογιστές {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} | Windows {{OS}}"
 
 msgid "seo_notebookdevicesos-keywords"
-msgstr "προγράμματα οδήγησης προγράμματα οδήγησης φορητός υπολογιστής notebook φορητός υπολογιστής netbook netbook {{CLASS.PLURAL.MAIN}}windows {{OS}} λήψη λήψη {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
+msgstr "προγράμματα οδήγησης προγράμματα οδήγησης φορητός υπολογιστής notebook φορητός υπολογιστής netbook netbook {{CLASS.PLURAL.MAIN}} Windows {{OS}} λήψη λήψη {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
 
 msgid "seo_notebookdevicesos-footer-description"
-msgstr "Λήψη προγραμμάτων οδήγησης {{CLASS.SINGLE.FOR}}για φορητούς υπολογιστές {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}} για τα Windows {{OS}}δωρεάν"
+msgstr "Λήψη προγραμμάτων οδήγησης {{CLASS.SINGLE.FOR}} για φορητούς υπολογιστές {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} για τα Windows {{OS}}δωρεάν"
 
 msgid "seo_notebookdevicesos-footer-application-category"
-msgstr "Κατηγορία: <span itemprop='applicationCategory'>Φορητοί υπολογιστές {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}}</span>"
+msgstr "Κατηγορία: <span itemprop='applicationCategory'>Φορητοί υπολογιστές {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}</span>"
 
 msgid "seo_notebookdevicesos-footer-application-subcategory"
-msgstr "Υπόκατηγορία: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}} για  {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}}</span>"
+msgstr "Υπόκατηγορία: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}} για  {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}</span>"
 
 msgid "seo_notebookdevicesos-footer-content"
-msgstr "Λήψη προγραμμάτων οδήγησης για {{CLASS.SINGLE.FOR}}για φορητό υπολογιστή {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}}για τα (Windows {{OS}}) ή λήψη του λογισμικού DriverPack Solution για ενημέρωση προγράμματος οδήγησης"
+msgstr "Λήψη προγραμμάτων οδήγησης για {{CLASS.SINGLE.FOR}} για φορητό υπολογιστή {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} για τα (Windows {{OS}}) ή λήψη του λογισμικού DriverPack Solution για ενημέρωση προγράμματος οδήγησης"
 
 msgid "seo_promopage_title"
 msgstr "DriverPack – δωρεάν εγκατάσταση προγράμματος οδήγησης"
