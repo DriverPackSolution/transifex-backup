@@ -1,219 +1,216 @@
-# Translators:
-# Ieva Shinoda <ievashinoda@gmail.com>, 2017
-# Nadia Tegeneva <nadia@drp.su>, 2017
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-08-10 10:22+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
-"Last-Translator: Nadia Tegeneva <nadia@drp.su>, 2017\n"
-"Language-Team: Lithuanian (https://www.transifex.com/driverpack-solution/teams/75453/lt/)\n"
+"Language-Team: Dutch (https://www.transifex.com/driverpack-solution/teams/75453/nl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: lt\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Language: nl\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. i18n: EN: Example: VENDOR.NAME=Asus; RU: Пример: VENDOR.NAME=Asus;
 msgid "seo_vendor-footer-anchor"
-msgstr "{{VENDOR.NAME}}"
+msgstr ""
 
 msgid "seo_devicegroups-footer-anchor"
-msgstr "{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
+msgstr ""
 
 #. i18n: EN: Example: NAME=Acer E230H; RU: Пример: NAME=Acer E230H;
 msgid "seo_devicegroup-footer-anchor"
-msgstr "{{NAME}}"
+msgstr ""
 
 #. i18n: EN: Example: NAME=Asus X550EA; RU: Пример: NAME=Asus X550EA;
 msgid "seo_notebookvendor-footer-anchor"
-msgstr "{{NOTEBOOK.VENDOR.NAME}} nešiojamieji kompiuteriai "
+msgstr ""
 
 msgid "seo_notebook-footer-anchor"
-msgstr "{{NAME}} nešiojamieji kompiuteriai "
+msgstr ""
 
 msgid "seo_notebookdevices-footer-anchor"
-msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} {{CLASS.PLURAL.MAIN}}"
+msgstr ""
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
 #. CLASS.PLURAL.FOR=мониторов|модемов;
 msgid "seo_deviceclass-footer-anchor"
-msgstr "{{CLASS.PLURAL.MAIN}}"
+msgstr ""
 
 msgid "seo_hwidos-footer-anchor"
-msgstr "Tvarkyklės versija  Windows  operacinėje sistemoje {{OS.NAME}}"
+msgstr ""
 
 msgid "seo_main-title"
-msgstr "DriverPack Solution —  automatinis tvarkyklės diegimas ir atnaujinimas | Atsisiųskite nemokamai"
+msgstr ""
 
 msgid "seo_main-description"
-msgstr "DriverPack Solution siūlo nemokamai įdiegti savo įrenginio tvarkykles arba atsisiųsti programinę įrangą automatiniam tvarkyklės diegimui ir atnaujinimui."
+msgstr ""
 
 msgid "seo_main-keywords"
-msgstr "atsisiųsti tvarkyklių paketą windows 7 8 10 64 tvarkykles  nešiojamas kompiuteris nemokamai tvarkyklės diegimo tvarkyklės diegimo programinė įranga"
+msgstr ""
 
 msgid "seo_mainos-title"
-msgstr "Atsisiųskite Windows tvarkyklę {{OS.VERSION}} | DriverPack Solution"
+msgstr ""
 
 msgid "seo_mainos-description"
-msgstr "Atnaujinkite Windows {{OS.VERSION}} x64 ir x86 tvarkykles nemokamai"
+msgstr ""
 
 msgid "seo_mainos-h1"
-msgstr "Windows {{OS.VERSION}} tvarkyklės"
+msgstr ""
 
 msgid "seo_mainos-keywords"
-msgstr "Windows {{OS.VERSION}} atsisiųsti įdiegti 64 86 tvarkyklių DriverPack Solution nemokamai"
+msgstr ""
 
 msgid "seo_mainos-h3"
-msgstr "Didžiausia Windows {{OS.VERSION}} tvarkyklių kolekcija vienoje paprastoje nemokamoje programoje"
+msgstr ""
 
 msgid "seo_mainlanding-title"
-msgstr "DriverPack Solution - tvarkyklių naujinimo programinė įranga | Atsisiųskite Windows 7, XP, 10, 8 ir 8.1 tvarkykles."
+msgstr ""
 
 msgid "seo_mainlanding-description"
-msgstr "DriverPack Solution – nemokama programinė įranga, skirta automatiniam tvarkyklių diegimui ir atnaujinimui jūsų nešiojamuoju kompiuteriu ir stacionariu kompiuteriu. Taip pat galima atsisiųsti tvarkykles Windows XP, 7, 8, 8.1, 10 mūsų katalogo puslapiuose."
+msgstr ""
 
 msgid "seo_mainlanding-keywords"
-msgstr "atsisiųskite tvarkyklių automatinio diegimo atnaujinimą Windows 7, XP, 10, 8 ir 8.1 tvarkyklių atnaujinimo programinė įranga"
+msgstr ""
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
 #. CLASS.PLURAL.FOR=мониторов|модемов;
 msgid "seo_deviceclass-title"
-msgstr "Atsisiųsti {{CLASS.SINGLE.FOR}} tvarkykles  |  Windows   operacinei sistemai "
+msgstr ""
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
 #. CLASS.PLURAL.FOR=мониторов|модемов;
 msgid "seo_deviceclass-description"
-msgstr "Įdiekite {{CLASS.SINGLE.FOR}} Windows 7, XP\", 10, 8 ir 8.1 tvarkykles arba atsisiųskite DriverPack Solution programinę įrangą automatiniam tvarkyklės diegimui ir atnaujinimui"
+msgstr ""
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
 #. CLASS.PLURAL.FOR=мониторов|модемов;
 msgid "seo_deviceclass-h1"
-msgstr "<span class='bold'>{{CLASS.SINGLE.FOR}}</span> tvarkyklės"
+msgstr ""
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
 #. CLASS.PLURAL.FOR=мониторов|модемов;
 msgid "seo_deviceclass-keywords"
-msgstr "{{CLASS.SINGLE.FOR}} tvarkyklės windows 7 64 8 10 parsisiųsti atsisiųsti"
+msgstr ""
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
 #. CLASS.PLURAL.FOR=мониторов|модемов;
 msgid "seo_deviceclass-footer-description"
-msgstr "Atsisiųskite tvarkykles {{CLASS.PLURAL.FOR}} nemokamai"
+msgstr ""
 
 msgid "seo_deviceclass-footer-application-category"
-msgstr "Kategorija: <span itemprop='applicationCategory'>Įrenginiai</span>"
+msgstr ""
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=monitors|modem; RU: Пример:
 #. CLASS.PLURAL.MAIN=мониторы|модемы;
 msgid "seo_deviceclass-footer-application-subcategory"
-msgstr "Subkategorija: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+msgstr ""
 
 msgid "seo_vendors-title"
-msgstr "Atsisiųskite kompiuterio, nešiojamojo kompiuterio ir netbook tvarkykles | Windows operacinei  sistemai"
+msgstr ""
 
 msgid "seo_vendors-description"
-msgstr "Nemokamai įdiekite kompiuterio, nešiojamojo kompiuterio ir netbook tvarkykles, arba atsisiųskite programinę įrangą automatiniam tvarkyklės atnaujinimui ir diegimui"
+msgstr ""
 
 msgid "seo_vendors-h1"
-msgstr "Aparatūros gamintojai"
+msgstr ""
 
 msgid "seo_vendors-keywords"
-msgstr "tvarkyklių tvarkyklės windows 7 8 10 64 atsisiųsti atsisiųsti"
+msgstr ""
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendor-title"
-msgstr "Nemokamai atsisiųskite {{VENDOR.NAME}} Windows tvarkykles"
+msgstr ""
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendor-description"
-msgstr "Įdiekite {{VENDOR.NAME}} nemokamai Windows 7, XP\", 10, 8 ir 8.1 tvarkykles arba atsisiųskite DriverPack Solution programinę įrangą automatiniam tvarkyklių diegimui"
+msgstr ""
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendor-h1"
-msgstr "<span class='bold'>{{VENDOR.NAME}}</span> įrenginių tvarkyklės"
+msgstr ""
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendor-keywords"
-msgstr "tvarkyklės windows 7 8 10 64 parsisiųsti atsisiųsti {{VENDOR.NAME}}"
+msgstr ""
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendor-footer-description"
-msgstr "Atsisiųskite tvarkykles {{VENDOR.NAME}} įrenginiams nemokamai"
+msgstr ""
 
 msgid "seo_vendor-footer-application-category"
-msgstr "Kategorija: <span itemprop='applicationCategory'>Įrenginiai</span>"
+msgstr ""
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendor-footer-application-subcategory"
-msgstr "Subkategorija: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} įrenginiai</span>"
+msgstr ""
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|monitors; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.FOR=видеокарт|мониторов; VENDOR.NAME=Acer;
 msgid "seo_devicegroups-title"
-msgstr "Atsisiųskite {{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} Windows tvarkykles nemokamai"
+msgstr ""
 
 #. i18n: EN: Example: CLASS.SINGLE.FOR=videocard|monitor; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.SINGLE.FOR=видеокарты|монитора; VENDOR.NAME=Acer;
 msgid "seo_devicegroups-description"
-msgstr "Čia galite įdiegti {{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} Windows 7, XP, 10, 8 ir 8.1 tvarkykles arba atsisiųsti DriverPack Solution programinę įrangą automatiniam tvarkyklių diegimui"
+msgstr ""
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|monitors; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.FOR=видеокарт|мониторов; VENDOR.NAME=Acer;
 msgid "seo_devicegroups-h1"
-msgstr "<span class='bold'>{{VENDOR.NAME}}</span> {{CLASS.SINGLE.FOR}} tvarkyklės"
+msgstr ""
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|monitors; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|мониторы; VENDOR.NAME=Acer;
 msgid "seo_devicegroups-keywords"
-msgstr "tvarkyklės windows 7 8 10 64 parsisiųsti parsisiųsti PC {{CLASS.PLURAL.MAIN}} {{VENDOR.NAME}}"
+msgstr ""
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|monitors; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.FOR=видеокарт|мониторов; VENDOR.NAME=Acer;
 msgid "seo_devicegroups-footer-description"
-msgstr "Atsisiųskite tvarkykles {{VENDOR.NAME}} {{CLASS.PLURAL.FOR}}"
+msgstr ""
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|monitors; RU: Пример:
 #. CLASS.PLURAL.MAIN=видеокарты|мониторы;
 msgid "seo_devicegroups-footer-application-category"
-msgstr "Kategorija: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+msgstr ""
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|monitors; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|мониторы; VENDOR.NAME=Acer;
 msgid "seo_devicegroups-footer-application-subcategory"
-msgstr "Subkategorija: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
+msgstr ""
 
 #. i18n: EN: Example: CLASS.SINGLE.FOR=videocard|monitor; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.SINGLE.FOR=видеокарты|монитора; VENDOR.NAME=Acer;
 msgid "seo_devicegroups-footer-content"
-msgstr "Atsisiųskite {{VENDOR.NAME}} tvarkykles {{CLASS.SINGLE.FOR}} arba įdiekite DriverPack Solution programinę įrangą automatiniam ttvarkyklių parsisiuntimui ir atnaujinimui"
+msgstr ""
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
 #. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
 #. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
 #. GROUP.NAME=GeForce 210;
 msgid "seo_devicegroup-title"
-msgstr "Atsisiųskite {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.SINGLE.FOR}} Windows tvarkykles nemokamai"
+msgstr ""
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
 #. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
 #. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
 #. GROUP.NAME=GeForce 210;
 msgid "seo_devicegroup-description"
-msgstr "Įkelkite ir įdiekite {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.SINGLE.FOR}} Windows 7, XP, 10, 8 ir 8.1 tvarkykles arba atsisiųskite DriverPack Solution programinę įrangą automatiniam tvarkyklės įdiegimui"
+msgstr ""
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
 #. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
 #. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
 #. GROUP.NAME=GeForce 210;
 msgid "seo_devicegroup-h1"
-msgstr "<span class='bold'>{{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.SINGLE.FOR}}</span> tvarkyklės"
+msgstr ""
 
 #. i18n: EN: Example: GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU:
 #. Пример: GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210;
 msgid "seo_devicegroup-keywords"
-msgstr "tvarkyklės windows 7 8 10 64 download download PC {{GROUP.VENDOR.NAME}} {{GROUP.NAME}}"
+msgstr ""
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
 #. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
@@ -248,7 +245,7 @@ msgid "seo_hwids-description"
 msgstr ""
 
 msgid "seo_hwids-h1"
-msgstr "Visos įrenginių tvarkyklės"
+msgstr ""
 
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
@@ -263,7 +260,7 @@ msgstr ""
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 msgid "seo_hwid-h1"
-msgstr "<span class='bold'>{{DEVICE.DEVICEID}}</span>"
+msgstr ""
 
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
@@ -297,7 +294,7 @@ msgid "seo_notebooks-description"
 msgstr ""
 
 msgid "seo_notebooks-h1"
-msgstr "Nešiojamujų kompiuterių ir netbook tvarkyklės"
+msgstr ""
 
 msgid "seo_notebooks-keywords"
 msgstr ""
@@ -312,7 +309,7 @@ msgstr ""
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_notebookvendor-h1"
-msgstr "<span class='bold'>{{VENDOR.NAME}}</span> kompiuterio  ir netbook tvarkyklės"
+msgstr ""
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_notebookvendor-keywords"
@@ -342,7 +339,7 @@ msgstr ""
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebook-h1"
-msgstr "<span class='bold'>{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}</span> kompiuterio tvarkyklės"
+msgstr ""
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
@@ -388,7 +385,7 @@ msgstr ""
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 #. CLASS.PLURAL.FOR=видеокарт|звуковых карт;
 msgid "seo_notebookdevices-h1"
-msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} {{CLASS.SINGLE.FOR}} kompiuterio tvarkyklės "
+msgstr ""
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets;
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU: Пример:
@@ -433,7 +430,7 @@ msgid "seo_devicegroupos-description"
 msgstr ""
 
 msgid "seo_devicegroupos-h1"
-msgstr "{{GROUP.VENDOR.NAME}} {{GROUP.NAME}} tvarkyklės Windows {{OS}}"
+msgstr ""
 
 msgid "seo_devicegroupos-keywords"
 msgstr ""
@@ -457,7 +454,7 @@ msgid "seo_notebookos-description"
 msgstr ""
 
 msgid "seo_notebookos-h1"
-msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} nešiojamųjų kompiuterių tvarkyklės Windows operacinei sistemai {{OS}}"
+msgstr ""
 
 msgid "seo_notebookos-keywords"
 msgstr ""
@@ -481,7 +478,7 @@ msgid "seo_deviceclassos-description"
 msgstr ""
 
 msgid "seo_deviceclassos-h1"
-msgstr "{{CLASS.SINGLE.FOR}} Windows operacinės sistemos  tvarkyklės {{OS}}"
+msgstr ""
 
 msgid "seo_deviceclassos-keywords"
 msgstr ""
@@ -502,7 +499,7 @@ msgid "seo_devicegroupsos-description"
 msgstr ""
 
 msgid "seo_devicegroupsos-h1"
-msgstr "{{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} Windows operacinės sistemos tvarkyklės {{OS}}"
+msgstr ""
 
 msgid "seo_devicegroupsos-keywords"
 msgstr ""
@@ -526,7 +523,7 @@ msgid "seo_notebookvendoros-description"
 msgstr ""
 
 msgid "seo_notebookvendoros-h1"
-msgstr "{{VENDOR.NAME}} nešiojamųjų kompiuterių tvarkyklės Windows operacinei sistemai {{OS}}"
+msgstr ""
 
 msgid "seo_notebookvendoros-keywords"
 msgstr ""
@@ -550,7 +547,7 @@ msgid "seo_hwidos-description"
 msgstr ""
 
 msgid "seo_hwidos-h1"
-msgstr "{{DEVICE.DEVICEID}} įrenginio tvarkyklės  Windows  operacinei  sistemai {{OS}}"
+msgstr ""
 
 msgid "seo_hwidos-keywords"
 msgstr ""
@@ -574,7 +571,7 @@ msgid "seo_notebookdevicesos-description"
 msgstr ""
 
 msgid "seo_notebookdevicesos-h1"
-msgstr "Tvarkyklės {{CLASS.PLURAL.FOR}} {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} kompiuteriams Windows  operacinei sistemai {{OS}}"
+msgstr ""
 
 msgid "seo_notebookdevicesos-keywords"
 msgstr ""
@@ -715,10 +712,10 @@ msgid "seo_notebookvendor-footer-content-asus"
 msgstr ""
 
 msgid "seo_notebookvendor-footer-content-lg"
-msgstr "Visos naujausios <strong>LG nešiojamojo kompiuterio tvarkyklės</strong> Windows operacinės sistemos versijos, kurios dabar naudojamos, yra pateiktos šiame skyriuje. Taip pat galite naudoti  DriverPack Solution programinę įrangą automatiniam tvarkyklės diegimui, jei netikėtai nepavyko rasti <b>LG nešiojamojo kompiuterio tvarkyklių</b> pagal savo modelį - mūsų programinė įranga yra nemokama, ir ji viską atliks savarankiškai!"
+msgstr ""
 
 msgid "seo_notebookvendor-footer-content-sony"
-msgstr "Ar įsigijote naują nešiojamąjį kompiuterį iš Sony, bet susidūrėte su problemomis dėl jo veikimo? Šiame skyriuje galite atsisiųsti visas naujausias <strong>Sony nešiojamiesiems kompiuteriams skirtas tvarkykles</strong> kurie yra suderinami su jūsų operacine  sistema. <b>Sony Vaio nešiojamojo kompiuterio tvarkyklės</b>, tinkančios daugiau nei 200 šio gamintojo modelių, yra čia. Jei dėl kokių nors priežasčių nepavyko rasti tikslios jūsų sąraše reikalingos tvarkyklės , naudokite mūsų programinę įrangą tvarkyklės naujinimui - tai visiškai nemokama ir pasirinksite tvarkyklę, tinkamą jūsų nešiojamojo kompiuterio konfigūracijai."
+msgstr ""
 
 msgid "seo_notebookvendor-footer-content-lenovo"
 msgstr ""

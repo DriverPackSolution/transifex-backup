@@ -110,12 +110,12 @@ msgstr "{{CLASS.PLURAL.MAIN}}"
 #. VENDOR.NAME=Realtek; RU: Пример: CLASS.PLURAL.MAIN=картридеры|мониторы;
 #. VENDOR.NAME=Realtek;
 msgid "breadcrumbs_devicegroups-text"
-msgstr "{{VENDOR.NAME}}{{CLASS.PLURAL.MAIN}}"
+msgstr "{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
 
 #. i18n: EN: Example: GROUP.VENDOR.NAME=Nvidia, GROUP.NAME=GeForce 210; RU:
 #. Пример: GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210;
 msgid "breadcrumbs_devicegroup-text"
-msgstr "{{GROUP.VENDOR.NAME}}{{GROUP.NAME}}"
+msgstr "{{GROUP.VENDOR.NAME}} {{GROUP.NAME}}"
 
 msgid "breadcrumbs_notebooks-text"
 msgstr "Máy tính xách tay"
@@ -127,14 +127,14 @@ msgstr "Các máy tính xách tay {{VENDOR.NAME}}"
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=X1 carbon;
 #. RU: Пример: NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=X1 carbon;
 msgid "breadcrumbs_notebook-text"
-msgstr "{{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}}"
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=Videocards|Chipsets ,
 #. NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=G580; RU: Пример:
 #. CLASS.PLURAL.MAIN=видеокарты|чипсеты, NOTEBOOK.VENDOR.NAME=Lenovo,
 #. NOTEBOOK.NAME=G580;
 msgid "breadcrumbs_notebookdevices-text"
-msgstr "{{CLASS.PLURAL.MAIN}} của máy tính xách tay {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}}"
+msgstr "{{CLASS.PLURAL.MAIN}} của máy tính xách tay {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
 
 msgid "devicecard_download-btn"
 msgstr "Tải về trình điều khiển"
@@ -144,7 +144,7 @@ msgstr "Tải về trình điều khiển"
 #. NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10 x86; Текст для
 #. {{DOWNLOAD}} находится в ключе drivercard_no-results_download-link;
 msgid "devicecard_details_no-results-text"
-msgstr "Các trình điều khiển cho {{NAME}} trên Windows{{OSVERSIONS}} không được tìm thấy trong danh mục. {{DOWNLOAD}} để tự động lựa chọn trình điều khiển."
+msgstr "Các trình điều khiển cho {{NAME}} trên Windows {{OSVERSIONS}} không được tìm thấy trong danh mục. {{DOWNLOAD}} để tự động lựa chọn trình điều khiển."
 
 msgid "devicecard_details_no-results_download-link"
 msgstr "Tải về DriverPack"
@@ -206,14 +206,14 @@ msgstr "Các trình điều khiển cho {{DEVICENAME}} trên Windows {{OSVERSION
 #. OSVERSIONS=Windows 10 x86; Текст для {{DOWNLOAD}} находится в ключе
 #. devicecardlist_no-result_download-link;
 msgid "devicecardlist_no-results-notebook-text"
-msgstr "Không thể tìm thấy các trình điều khiển cho  máy tính xách tay{{NOTEBOOK}} trên Windows{{OSVERSIONS}}. {{DOWNLOAD}}để tự động lựa chọn các trình điều khiển."
+msgstr "Không thể tìm thấy các trình điều khiển cho  máy tính xách tay {{NOTEBOOK}} trên Windows{{OSVERSIONS}}. {{DOWNLOAD}} để tự động lựa chọn các trình điều khiển."
 
 #. i18n: EN: Example: NOTEBOOK=Acer AO521; OSVERSIONS=Windows 10 x86; Text for
 #. {{DOWNLOAD}} is in key devicecardlist_no-result_download-link; RU: Пример:
 #. NOTEBOOK=Acer AO521; Пример: OSVERSIONS=Windows 10 x86; Текст для
 #. {{DOWNLOAD}} находится в ключе devicecardlist_no-result_download-link;
 msgid "devicecardlist_no-results-notebook-device-class-text"
-msgstr "Không thể tìm thấy các trình điều khiển dành cho {{DEVICECLASS}} cho máy tính xách tay {{NOTEBOOK}} trên Windows{{OSVERSIONS}}. {{DOWNLOAD}} để tự động lựa chọn các trình điều khiển."
+msgstr "Không thể tìm thấy các trình điều khiển dành cho {{DEVICECLASS}} cho máy tính xách tay {{NOTEBOOK}} trên Windows {{OSVERSIONS}}. {{DOWNLOAD}} để tự động lựa chọn các trình điều khiển."
 
 msgid "devicecardlist_no-result_download-link"
 msgstr "Tải về DriverPack"
@@ -247,7 +247,7 @@ msgstr "Tìm trình điều khiển cho các thiết bị"
 #. NAME=Acer Aspire 4830TG; Пример: OSVERSIONS=Windows 10 x86; Текст для
 #. {{DOWNLOAD}} находится в ключе drivercard_no-results_download-link;
 msgid "drivercard_no-results-text"
-msgstr "Các trình điều khiển cho {{NAME}} trên Windows{{OSVERSIONS}} không được tìm thấy trong danh mục. {{DOWNLOAD}} để tự động lựa chọn trình điều khiển."
+msgstr "Các trình điều khiển cho {{NAME}} trên Windows {{OSVERSIONS}} không được tìm thấy trong danh mục. {{DOWNLOAD}} để tự động lựa chọn trình điều khiển."
 
 msgid "drivercard_no-results_download-link"
 msgstr "Tải về DriverPack"
@@ -295,13 +295,13 @@ msgid "footer_banner-title"
 msgstr "Bạn đã chán việc phải tìm kiếm các trình điều khiển cho các thiết bị của bạn?"
 
 msgid "footer_banner-caption"
-msgstr "DriverPack Online<span style='color: {{COLOR}}'>sẽ tìm và cài đặt</span>các trình điều khiển mà bạn cần một cách tự động"
+msgstr "DriverPack Online <span style='color: {{COLOR}}'>sẽ tìm và cài đặt</span> các trình điều khiển mà bạn cần một cách tự động"
 
 msgid "footer_banner_btn"
-msgstr "Tải về<span class='bold'>DriverPack Online</span>miễn phí"
+msgstr "Tải về <span class='bold'>DriverPack Online</span> miễn phí"
 
 msgid "footer_translate-feedback"
-msgstr "Nếu bạn tìm thấy lỗi in ấn hoặc nhầm lẫn nào đó? <br />Hãy bôi đen nó và ấn {{HOTKEY}}"
+msgstr "Nếu bạn tìm thấy lỗi in ấn hoặc nhầm lẫn nào đó? <br /> Hãy bôi đen nó và ấn {{HOTKEY}}"
 
 msgid "header_search-title"
 msgstr "<span class='bold'>Tìm kiếm trình cài đặt</span> trong nguồn cơ sở dữ liệu lớn nhất — hơn một triệu các trình cài đặt"
@@ -784,16 +784,16 @@ msgstr "{{DOWNLOAD}} để nhận dạng và cài đặt các trình điều khi
 #. i18n: EN: Example: CLASS.SINGLE.MAIN=monitor|chipset; COUNT=12; RU: Пример:
 #. CLASS.SINGLE.MAIN=монитор|чипсет; COUNT=12;
 msgid "searchresult_device"
-msgstr "{{CLASS.SINGLE.MAIN}}({{COUNT}}kết quả được tìm thấy)"
+msgstr "{{CLASS.SINGLE.MAIN}} ({{COUNT}} kết quả được tìm thấy)"
 
 msgid "searchresult_details-content-text-many"
 msgstr "Đã tìm thấy một số trình điều khiển khác cho thiết bị này"
 
 msgid "seofooter_os-list-title"
-msgstr "Các Phiên Bản Của Hệ Điều Hành : <span itemprop='operatingSystem'>{{OSLIST}}</span>"
+msgstr "Các Phiên Bản Của Hệ Điều Hành: <span itemprop='operatingSystem'>{{OSLIST}}</span>"
 
 msgid "seofooter_offers-title"
-msgstr "<span itemprop='offers' itemscope='' itemtype='http://schema.org/Offer'>Sẵn Có<meta itemprop='price' content='0' />Miễn Phí</span>"
+msgstr "<span itemprop='offers' itemscope='' itemtype='http://schema.org/Offer'>Sẵn Có <meta itemprop='price' content='0' />Miễn Phí</span>"
 
 msgid "seofooter_driver-description-title"
 msgstr "Miêu Tả Trình Điều Khiển"
@@ -868,7 +868,7 @@ msgid "adminpagefaq_official_vendors-q"
 msgstr "Trước khi có DriverPack, tôi đã tải về các trình điều khiển từ các trang chính thức nhưng tôi vẫn gặp phải những vấn đề với chúng. Câu hỏi ở đây là tại sao các trình điều khiển trong DriverPack lại tin cậy hơn các trình điều khiển của nhà sản xuất nhỉ?"
 
 msgid "adminpagefaq_official_vendors-a"
-msgstr "Để làm cơ sở dữ liệu trình điều khiển của chúng tôi không chỉ lớn nhất mà lại còn ổn định nhất, chúng tôi luôn cố gắng làm việc để cải thiện chúng, và chúng tôi thậm chí còn sửa những lỗi của trình điều khiển mà nhà sản suất chính thức cho phép sửa! Chúng tôi sử dụng công nghệ Machine Learning - máy học -  và từ đó, sự lựa chọn thuật toán được liên tục cải thiện. Và đó chính xác là lý do tại sao các trình điều khiển từ DriverPack là những trình điều khiển đáng tin cậy nhất :-)"
+msgstr "Để làm cơ sở dữ liệu trình điều khiển của chúng tôi không chỉ lớn nhất mà lại còn ổn định nhất, chúng tôi luôn cố gắng làm việc để cải thiện chúng, và chúng tôi thậm chí còn sửa những lỗi của trình điều khiển mà nhà sản suất chính thức cho phép sửa! Chúng tôi sử dụng công nghệ máy học và từ đó, sự lựa chọn thuật toán được liên tục cải thiện. Và đó chính xác là lý do tại sao các trình điều khiển từ DriverPack là những trình điều khiển đáng tin cậy nhất :-)"
 
 msgid "adminpagefaq_database-q"
 msgstr "Cơ sở dữ liệu của DriverPack mở rộng như thế nào? Có thật là tôi có thể tìm thấy các trình điều khiển tôi cần ở đó không?"
@@ -907,10 +907,10 @@ msgid "devicestypepage_subtitle"
 msgstr "Tất cả các nhà sản xuất {{CLASS.SINGLE.FOR}}"
 
 msgid "devicetypevendorpage_subtitle-popular"
-msgstr "{{VENDOR.NAME}}{{CLASS.PLURAL.MAIN}} phổ biến"
+msgstr "{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}} phổ biến"
 
 msgid "devicetypevendorpage_subtitle-all"
-msgstr "Tất cả {{VENDOR.NAME}}{{CLASS.PLURAL.MAIN}}"
+msgstr "Tất cả {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
 
 msgid "drop-down-language_not-found"
 msgstr "Haven't found your language?"
@@ -1020,37 +1020,37 @@ msgid "vendorpage_subtitle-popular"
 msgstr "Các thiết bị {{VENDOR.NAME}} thông dụng"
 
 msgid "wannacryptpromopage_cta-text"
-msgstr ""
+msgstr "WannaCrypt cryptographer virus — Làm thế nào để bảo vệ máy tính khỏi cuộc tấn công mạng lớn nhất lịch sử?"
 
 msgid "wannacryptpromopage_cta-subtext"
-msgstr ""
+msgstr "DriverPack bao gồm các phương tiện đặc biệt  để loại bỏ các lỗ hổng trong các công cụ định dạng cấu hình máy tính. Bạn có thể tải về trình bảo vệ, chúng sẽ kiểm tra máy tính cá nhân và máy tính xách tay của bạn, chống lại virus WannaCry."
 
 msgid "wannacryptpromopage_cta-btn"
-msgstr ""
+msgstr "Thiết đặt cấu hình và bảo vệ máy tính khỏi WannaCry"
 
 msgid "wannacryptpromopage_caption-text"
-msgstr ""
+msgstr "Phần mềm này được cung cấp miễn phí"
 
 msgid "wannacryptpromopage_info-text-title-1"
-msgstr ""
+msgstr "WannaCrypt là gì?"
 
 msgid "wannacryptpromopage_info-text-1"
 msgstr ""
 
 msgid "wannacryptpromopage_info-text-title-2"
-msgstr ""
+msgstr "Ai đang gặp nguy hiểm?"
 
 msgid "wannacryptpromopage_info-text-2"
 msgstr ""
 
 msgid "wannacryptpromopage_info-text-title-3"
-msgstr ""
+msgstr "Làm thế nào để bảo vệ công việc kinh doanh của bạn — giải pháp đến từ DriverPack Solution"
 
 msgid "wannacryptpromopage_info-text-3"
-msgstr ""
+msgstr "Lý do chính làm cho virus WannaCrypt (WannaCry) nguy hiểm là nó lây lan bằng cách lợi dụng những lỗ hổng nghiêm trọng trong giao thức SMBv1 của hệ thống bảo vệ MS17-010. Đây chính là cách thức mà WannaCry vượt qua các trình diệt virus. Giải pháp từ DriverPack Solution cho phép bạn cài đặt một bản cập nhật mà sẽ bảo vệ các lỗ hổng nghiêm trọng trong hệ thống của bạn, và vô hiệu hóa các giao thức lỗi thời, những thứ mà là mối đe dọa, kể cả cho lịch sử giấy phép và phiên bản OS của bạn."
 
 msgid "wannacryptpromopage_links-text"
-msgstr ""
+msgstr "Sự phát triển của giải pháp này được dựa trên các thành phần sau"
 
 msgid "wannacryptpromopage_link-smb"
-msgstr ""
+msgstr "Làm cách nào để khởi động và vô hiệu hóa các phiên bản 1, 2, và 3 của phương thức SMB cho Windows và Máy Chủ Windows"

@@ -226,7 +226,7 @@ msgstr "دابه‌زاندنی پێناسه‌كان بۆ  {{GROUP.VENDOR.NAME}
 #. GROUP.VENDOR.NAME=Nvidia; RU: Пример: CLASS.PLURAL.FOR=видеокарт|чипсетов;
 #. GROUP.VENDOR.NAME=Nvidia;
 msgid "seo_devicegroup-footer-application-category"
-msgstr "جۆر: <span itemprop='applicationCategory'>{{GROUP.VENDOR.NAME}} {{CLASS.PLURAL.MAIN}} </span>"
+msgstr "جۆر: <span itemprop='applicationCategory'>{{GROUP.VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets;
 #. GROUP.NAME=GeForce 210; RU: Пример: CLASS.PLURAL.MAIN=видеокарты|чипсеты;
@@ -442,10 +442,10 @@ msgid "seo_devicegroupos-footer-description"
 msgstr "دابه‌زاندنی پێناسه‌كان {{CLASS.SINGLE.FOR}} بۆ {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} بۆ ویندۆز {{OS}} به‌ خۆڕایی"
 
 msgid "seo_devicegroupos-footer-application-category"
-msgstr "جۆر: <span itemprop='applicationCategory'>{{GROUP.VENDOR.NAME}}{{CLASS.PLURAL.MAIN}}</span>"
+msgstr "جۆر: <span itemprop='applicationCategory'>{{GROUP.VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_devicegroupos-footer-application-subcategory"
-msgstr "لق: <span itemprop='applicationSubCategory'>{{GROUP.NAME}}{{CLASS.PLURAL.MAIN}}</span>"
+msgstr "لق: <span itemprop='applicationSubCategory'>{{GROUP.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_devicegroupos-footer-content"
 msgstr "دابه‌زاندنی پێناسه‌كان بۆ {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.PLURAL.FOR}} (Windows {{OS}})، یان دامه‌زراندنی نه‌رمه‌كاڵای چاره‌سه‌ری  DriverPack Solution  بۆ نوێكردنه‌وه‌ و دابه‌زاندنی  پێناسه‌ به‌ ئۆتۆماتیكی"
@@ -466,10 +466,10 @@ msgid "seo_notebookos-footer-description"
 msgstr "دابه‌زاندنی پێناسه‌كان بۆ لاپتۆپی {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} بۆ Windows {{OS}} بۆ خۆڕایی"
 
 msgid "seo_notebookos-footer-application-category"
-msgstr "جۆر:<span itemprop='applicationCategory'>لاپتۆپه‌كانی {{NOTEBOOK.VENDOR.NAME}}</span>"
+msgstr "جۆر: <span itemprop='applicationCategory'>لاپتۆپه‌كانی {{NOTEBOOK.VENDOR.NAME}}</span>"
 
 msgid "seo_notebookos-footer-application-subcategory"
-msgstr "لق: <span itemprop='applicationSubCategory'>لاپتۆپه‌كانی {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}}</span>"
+msgstr "لق: <span itemprop='applicationSubCategory'>لاپتۆپه‌كانی {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}</span>"
 
 msgid "seo_notebookos-footer-content"
 msgstr "لێره‌دا تۆ ده‌توانیت پێناسه‌كان بۆ لاپتۆپی {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}  داببه‌زێنیت ( Windows {{OS}})، یان به‌ دابه‌زاندنی نه‌رمه‌كاڵا بۆ نوێكردنه‌وه‌ و دامه‌زراندنی پێناسه‌ به‌ ئۆتۆماتیكی له‌ DriverPack Solution وه‌"
@@ -490,7 +490,7 @@ msgid "seo_deviceclassos-footer-description"
 msgstr "دابه‌زاندنی پێناسه‌كانی {{CLASS.SINGLE.FOR}} بۆ Windows {{OS}} به‌ خۆڕایی"
 
 msgid "seo_deviceclassos-footer-application-category"
-msgstr "جۆر: <span itemprop='applicationCategory'> ئامێره‌كان </span>"
+msgstr "جۆر: <span itemprop='applicationCategory'>ئامێره‌كان</span>"
 
 msgid "seo_deviceclassos-footer-application-subcategory"
 msgstr "لق: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}}</span>"
@@ -514,7 +514,7 @@ msgid "seo_devicegroupsos-footer-application-category"
 msgstr "جۆر: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_devicegroupsos-footer-application-subcategory"
-msgstr "لق: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}}{{CLASS.PLURAL.MAIN}}</span>"
+msgstr "لق: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_devicegroupsos-footer-content"
 msgstr "دابه‌زاندنی پێناسه‌كان بۆ {{VENDOR.NAME}} {{CLASS.PLURAL.FOR}} ( Windows {{OS}}) به‌ خۆڕایی، یان دامه‌زراندنی نه‌رمه‌كاڵای DriverPack Solution  بۆ دابه‌زاندن و نوێكردنه‌وه‌ی پێناسه‌"
@@ -562,13 +562,13 @@ msgid "seo_hwidos-footer-application-category"
 msgstr "جۆر: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_hwidos-footer-application-subcategory"
-msgstr "لق:<span itemprop='applicationSubCategory'>{{VENDOR.NAME}}{{CLASS.PLURAL.MAIN}}</span>"
+msgstr "لق: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_hwidos-footer-content"
 msgstr "دابه‌زاندنی پێناسه‌ بۆ ئامێری {{DEVICE.DEVICEID}} بۆ Windows {{OS}}، یان دامه‌زراندنی نه‌رمه‌كاڵای DriverPack Solution  بۆ دابه‌زاندن و نوێكردنه‌وه‌ی پێناسه‌ به‌ ئۆتۆماتیكی"
 
 msgid "seo_notebookdevicesos-title"
-msgstr "{{CLASS.SINGLE.FOR}}پێناسه‌ بۆ لاپتۆپی {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}}| داببه‌زێنه‌ بۆ  Windows{{OS}}"
+msgstr "{{CLASS.SINGLE.FOR}} پێناسه‌ بۆ لاپتۆپی {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} | داببه‌زێنه‌ بۆ  Windows {{OS}}"
 
 msgid "seo_notebookdevicesos-description"
 msgstr "دامه‌زراندنی پێناسه‌كانی {{CLASS.SINGLE.FOR}} بۆ لاپتۆپی {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}} بۆ Windows {{OS}}، یان به‌ دابه‌زاندنی نه‌رمه‌كاڵای DriverPack Solution بۆ نوێكردنه‌وه‌ و دامه‌زراندنی پێناسه‌كان به‌ ئۆتۆماتیكی"
@@ -577,16 +577,16 @@ msgid "seo_notebookdevicesos-h1"
 msgstr "پێناسه‌كان بۆ {{CLASS.PLURAL.FOR}} بۆ  لاپتۆپی {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} | Windows {{OS}}"
 
 msgid "seo_notebookdevicesos-keywords"
-msgstr "پێناسه‌كانی پێناسه‌كانی لاپتۆپی نۆت بووك و لاپتۆپی  نێت بووك نێت بووك {{CLASS.PLURAL.MAIN}}  بۆ Windows{{OS}} داببه‌زێنه‌ داببه‌زێنه‌ {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}}"
+msgstr "پێناسه‌كانی پێناسه‌كانی لاپتۆپی نۆت بووك و لاپتۆپی  نێت بووك نێت بووك {{CLASS.PLURAL.MAIN}}  بۆ Windows {{OS}} داببه‌زێنه‌ داببه‌زێنه‌ {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
 
 msgid "seo_notebookdevicesos-footer-description"
-msgstr "دابه‌زاندنی {{CLASS.SINGLE.FOR}} پێناسه‌كان بۆ لاپتۆپه‌كانی {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}}  بۆ  Windows {{OS}} به‌ خۆڕایی"
+msgstr "دابه‌زاندنی {{CLASS.SINGLE.FOR}} پێناسه‌كان بۆ لاپتۆپه‌كانی {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}  بۆ  Windows {{OS}} به‌ خۆڕایی"
 
 msgid "seo_notebookdevicesos-footer-application-category"
-msgstr "جۆر: <span itemprop='applicationCategory'>لاپتۆپه‌كانی {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}}</span>"
+msgstr "جۆر: <span itemprop='applicationCategory'>لاپتۆپه‌كانی {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}</span>"
 
 msgid "seo_notebookdevicesos-footer-application-subcategory"
-msgstr "لق: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}} بۆ {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}}</span>"
+msgstr "لق: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}} بۆ {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}</span>"
 
 msgid "seo_notebookdevicesos-footer-content"
 msgstr "دابه‌زاندنی پێناسه‌كان {{CLASS.SINGLE.FOR}} بۆ لاپتۆپی {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}  (Windows {{OS}}) ، یان دابه‌زاندنی نه‌رمه‌كاڵای DriverPack Solution   بۆ نوێكردنه‌وه‌ی پێناسه‌"
@@ -616,7 +616,7 @@ msgid "seo_promovendors-description"
 msgstr "DriverPack پێناسه‌كانی Lenovo, Samsung, Acer, Asus, له‌گه‌ڵ Dell نوێده‌كاته‌وه‌ بۆ تازه‌ترین نوسخه‌"
 
 msgid "seo_promovendors-keywords"
-msgstr "پێناسه‌، دێڵ، سامسۆنگ، لینۆڤۆ، ئه‌سوس، ئه‌یسه‌ر، تۆشیبا، ئه‌سوس"
+msgstr "driver, dell, samsung, lenovo, asus, acer, toshiba, asus"
 
 msgid "seo_promodrivers_title"
 msgstr "دابه‌زاندن له‌گه‌ڵ دامه‌زراندنی پێناسه‌كان بۆ Windows 7، 8، XP، 10"
@@ -625,13 +625,13 @@ msgid "seo_promodrivers-description"
 msgstr "DriverPack  پێناسه‌كان بۆ Windows 7، Windows 10، Windows XP، Windows 8 نوێده‌كاته‌وه‌ به‌ خۆڕایی"
 
 msgid "seo_promodrivers-keywords"
-msgstr "پێناسه‌ی Windows 7، پێناسه‌ داببه‌زێنه‌، پێناسه‌ی Windows 10، نوێكردنه‌وه‌ی پێناسه‌، پێناسه‌ی Windows، پێناسه‌كان به‌ خۆڕایی"
+msgstr "پێناسه‌ی windows 7، پێناسه‌ داببه‌زێنه‌، پێناسه‌ی windows 10، نوێكردنه‌وه‌ی پێناسه‌، پێناسه‌ی windows، پێناسه‌كان به‌ خۆڕایی"
 
 msgid "seo_forgamers-description"
 msgstr "دامه‌زراندنی پێناسه‌كانی كارتی شاشه‌ بۆ Windows 7، 8، XP، 10 له‌گه‌ڵ 8.1، یان به‌ دابه‌زاندنی نه‌رمه‌كاڵای DriverPack Solution بۆ نوێكردنه‌وه‌ و دامه‌زراندنی پێناسه‌ به‌ ئۆتۆماتیكی"
 
 msgid "seo_forgamers-keywords"
-msgstr "پێناسه‌كانی كارتی شاشه‌ بۆ Windows 7 8 10 64 داببه‌زێنه‌ داببه‌زێنه‌"
+msgstr "پێناسه‌كانی كارتی شاشه‌ بۆ windows 7 8 10 64 داببه‌زێنه‌ داببه‌زێنه‌"
 
 msgid "seo_wannacrypt_title"
 msgstr "ڤایرۆسی WannaСry - چۆن كۆمپیوته‌ره‌كه‌ت له‌گه‌ڵ لاپتۆپه‌كه‌ت بپارێزیت؟"
@@ -646,10 +646,10 @@ msgid "seo_license-description"
 msgstr "مۆڵه‌تی ڕێگه‌پێدان له‌گه‌ڵ مه‌رجی به‌كارهێنانی به‌رنامه‌كه‌ كه‌ بڵاوده‌كرێته‌وه‌ به‌ به‌كارهێنانی DriverPack Solution"
 
 msgid "seo_license-keywords"
-msgstr "دابه‌زاندنی پێناسه‌كان به‌ خۆڕایی بۆ Windows 7 8 10 XP DriverPack Solution"
+msgstr "دابه‌زاندنی پێناسه‌كان به‌ خۆڕایی بۆ windows 7 8 10 XP DriverPack Solution "
 
 msgid "seo_standards_title"
-msgstr "ستاندارده‌كانی پێشنیاركردنی نه‌رمه‌كاڵا | چاره‌سه‌ری DriverPack "
+msgstr "ستاندارده‌كانی پێشنیاركردنی نه‌رمه‌كاڵا | DriverPack Solution"
 
 msgid "seo_standards-description"
 msgstr "ستاندارده‌كان له‌گه‌ڵ داواكاریه‌كان بۆ نه‌رمه‌كاڵاكان كه‌ پێشنیار كراوه‌ له‌لایه‌ن DriverPack"
@@ -712,16 +712,16 @@ msgid "seo_deviceclass-footer-content-phone"
 msgstr "ئایا تۆ پێناسه‌ت ده‌وێت بۆ مۆبایل یان مۆبایلی هۆشمه‌ند؟ كێشه‌ نییه‌ - له‌م به‌شه‌دا تۆ ده‌توانیت <b>پێناسه‌كان بۆ مۆبایله‌ هۆشمه‌نده‌كان داببه‌زێنیت و دابمه‌زرێنیت</b> بۆ زۆربه‌ی مۆدێله‌كان له‌ زۆربه‌ی هه‌ره‌ زۆری كۆمپانیا باوه‌كانه‌وه‌ له‌ بازاڕی ئه‌مڕۆی مۆبایله‌ هۆشمه‌نده‌كاندا. پێناسه‌كانی ئێمه‌ پشكنراون و باوه‌ڕپێكراون!"
 
 msgid "seo_notebookvendor-footer-content-asus"
-msgstr "كۆتا وه‌ زۆر باوه‌ڕپێكراوترین <strong>پێناسه‌ بۆ لاپتۆپه‌كانی ئه‌سوس Asus </strong> بۆ هه‌موو نوسخه‌كانی Windowsكه‌ ئێستا له‌ به‌كارهێناندایه‌ (Windows XP, Windows 7, 8, 8.1, له‌گه‌ڵ 10) پیشاندراوه‌ له‌ كه‌ته‌لۆگه‌كه‌ماندا. ئه‌گه‌ر له‌به‌ر هه‌ندێك هۆ تۆ ڕازی نیت له‌گه‌ڵ <b> پێناسه‌كانی لاپتۆپی ئه‌سوس Asus </b>، ئاخود ئه‌گه‌ر تۆ ڕووبه‌ڕوی كێشه‌یه‌ك بوویته‌وه‌ له‌گه‌ڵ دۆزینه‌وه‌ی پێناسه‌ بۆ مۆدێلی لاپتۆپێكی دیاریكراو، نه‌رمه‌كاڵای چاره‌سه‌ری DriverPack ئێمه‌ به‌كاربهێنه‌ بۆ نوێكردنه‌وه‌ی پێناسه‌ - ئه‌و به‌ خۆڕاییه‌ وه‌ هه‌موو شتێك ده‌كات بۆتۆ!"
+msgstr "كۆتا وه‌ زۆر باوه‌ڕپێكراوترین <strong>پێناسه‌ بۆ لاپتۆپه‌كانی ئه‌سوس Asus</strong> بۆ هه‌موو نوسخه‌كانی Windows كه‌ ئێستا له‌ به‌كارهێناندایه‌ (Windows XP, Windows 7, 8, 8.1, له‌گه‌ڵ 10) پیشاندراوه‌ له‌ كه‌ته‌لۆگه‌كه‌ماندا. ئه‌گه‌ر له‌به‌ر هه‌ندێك هۆ تۆ ڕازی نیت له‌گه‌ڵ <b>پێناسه‌كانی لاپتۆپی ئه‌سوس Asus</b>، ئاخود ئه‌گه‌ر تۆ ڕووبه‌ڕوی كێشه‌یه‌ك بوویته‌وه‌ له‌گه‌ڵ دۆزینه‌وه‌ی پێناسه‌ بۆ مۆدێلی لاپتۆپێكی دیاریكراو، نه‌رمه‌كاڵای DriverPack Solution ئێمه‌ به‌كاربهێنه‌ بۆ نوێكردنه‌وه‌ی پێناسه‌ - ئه‌و به‌ خۆڕاییه‌ وه‌ هه‌موو شتێك ده‌كات بۆتۆ!"
 
 msgid "seo_notebookvendor-footer-content-lg"
-msgstr "هه‌موو دواترین ونوێترین <strong>پێناسه‌كان بۆ لاپتۆپه‌كانی LG</strong>بۆ هه‌موو نوسخه‌كانی Windows كه‌ ئێستا له‌ به‌كارهێناندان پێشاندراوه‌ له‌م به‌شه‌دا. هه‌روه‌ها تۆ ده‌توانیت به‌رنامه‌ی چاره‌سه‌ری DriverPack  كه‌ی ئێمه‌ به‌كاربهێنیت بۆ دامه‌زراندنی پێناسه‌ به‌ ئۆتۆماتیكی، ئه‌گه‌ر تۆ له‌پڕ توشی شكست بویت له‌ دۆزینه‌وه‌ی <b>پێناسه‌كان بۆ لاپتۆپی LG</b> بۆ مۆدێله‌كه‌ی خۆت به‌ته‌واوه‌تی - نه‌رمه‌كاڵاكه‌ی ئێمه‌ به‌ خۆڕاییه‌ وه‌ ئه‌و خۆی هه‌موو شتێك ده‌كات!"
+msgstr "هه‌موو دواترین ونوێترین <strong>پێناسه‌كان بۆ لاپتۆپه‌كانی LG</strong>بۆ هه‌موو نوسخه‌كانی Windows كه‌ ئێستا له‌ به‌كارهێناندان پێشاندراوه‌ له‌م به‌شه‌دا. هه‌روه‌ها تۆ ده‌توانیت به‌رنامه‌ی DriverPack Solution  كه‌ی ئێمه‌ به‌كاربهێنیت بۆ دامه‌زراندنی پێناسه‌ به‌ ئۆتۆماتیكی، ئه‌گه‌ر تۆ له‌پڕ توشی شكست بویت له‌ دۆزینه‌وه‌ی <b>پێناسه‌كان بۆ لاپتۆپی LG</b> بۆ مۆدێله‌كه‌ی خۆت به‌ته‌واوه‌تی - نه‌رمه‌كاڵاكه‌ی ئێمه‌ به‌ خۆڕاییه‌ وه‌ ئه‌و خۆی هه‌موو شتێك ده‌كات!"
 
 msgid "seo_notebookvendor-footer-content-sony"
-msgstr "تۆ لاپتۆپێكی نوێت له‌ سونی كڕیوه‌ به‌ڵام ڕووبه‌ڕووی كێشه‌ بویته‌ته‌وه‌ له‌ كاركردنیدا؟ له‌م به‌شه‌دا تۆ ده‌توانیت هه‌موو <strong>پێناسه‌ نوێیه‌كان بۆ لاپتۆپه‌كانی سۆنی Sony </strong> داببه‌زێنیت كه‌ گونجاوه‌ به‌ ته‌واوه‌تی له‌گه‌ڵ سیستمه‌ كارپێكه‌ریه‌كه‌تدا. <b>پێناسه‌كانی لاپتۆپی سۆنی ڤایۆ Sony Vaio</b> كه‌گونجاون بۆ زیاتر له‌ 200 مۆدێل له‌م كۆمپانیا به‌رهه‌مهێنه‌ره‌وه‌ پێشاندراون لێره‌دا. ئه‌گه‌ر له‌به‌ر هه‌ندێ هۆكار تۆ شكستت خوارد له‌ دۆزینه‌وه‌ی پێناسه‌ی ته‌واو كه‌ تۆ پێویستته‌ له‌ لیسته‌كه‌ی ئێمه‌دا، نه‌رمه‌كاڵاكه‌ی ئێمه‌ به‌كاربهێنه‌ بۆ نوێكردنه‌وه‌ی پێناسه‌ - ئه‌و به‌ته‌واوه‌تی به‌خۆڕاییه‌ وه‌ پێناسه‌كان هه‌ڵده‌بژێرێت به‌ ته‌واوه‌تی بۆ ڕێكخستنی لاپتۆپه‌كه‌ت."
+msgstr "تۆ لاپتۆپێكی نوێت له‌ سۆنی كڕیوه‌ به‌ڵام ڕووبه‌ڕووی كێشه‌ بویته‌ته‌وه‌ له‌ كاركردنیدا؟ له‌م به‌شه‌دا تۆ ده‌توانیت هه‌موو <strong>پێناسه‌ نوێیه‌كان بۆ لاپتۆپه‌كانی سۆنی Sony </strong> داببه‌زێنیت كه‌ گونجاوه‌ به‌ ته‌واوه‌تی له‌گه‌ڵ سیستمه‌ كارپێكه‌ریه‌كه‌تدا. <b>پێناسه‌كانی لاپتۆپی سۆنی ڤایۆ Sony Vaio</b> كه‌گونجاون بۆ زیاتر له‌ 200 مۆدێل له‌م كۆمپانیا به‌رهه‌مهێنه‌ره‌وه‌ پێشاندراون لێره‌دا. ئه‌گه‌ر له‌به‌ر هه‌ندێ هۆكار تۆ شكستت خوارد له‌ دۆزینه‌وه‌ی پێناسه‌ی ته‌واو كه‌ تۆ پێویستته‌ له‌ لیسته‌كه‌ی ئێمه‌دا، نه‌رمه‌كاڵاكه‌ی ئێمه‌ به‌كاربهێنه‌ بۆ نوێكردنه‌وه‌ی پێناسه‌ - ئه‌و به‌ته‌واوه‌تی به‌خۆڕاییه‌ وه‌ پێناسه‌كان هه‌ڵده‌بژێرێت به‌ ته‌واوه‌تی بۆ ڕێكخستنی لاپتۆپه‌كه‌ت."
 
 msgid "seo_notebookvendor-footer-content-lenovo"
-msgstr "<strong>پێناسه‌كان بۆ لاپتۆپی لینۆڤۆ Lenovo </strong> ده‌توانرێت داببه‌زێنرێت له‌م به‌شه‌ی وێبسایته‌كه‌ی ئێمه‌دا - پێناسه‌كان بۆ هه‌موو مۆدێله‌ باوه‌كان له‌گه‌ڵ مۆدێله‌ كه‌م باوه‌كان له‌ كۆمپاینا به‌رهه‌مهێنه‌ره‌وه‌(Ideapad, Thinkpad, etc.) پیشاندراوه‌ لێره‌دا. له‌ وێبسایته‌كه‌ی ئێمه‌دا ده‌توانیت پێناسه‌كان بدۆزیته‌وه‌ كه‌ گونجاوه‌ له‌گه‌ڵ نوسخه‌ی سیسته‌می كارپێكه‌ری Windows. ئه‌گه‌ر گه‌ڕانه‌كه‌ت بۆ <b>پێناسه‌ داواكراوه‌كانی لاپتۆپی لینۆڤۆ  Lenovo </b> له‌ لایه‌ن هه‌وڵی خۆته‌وه‌ سه‌ركه‌توو نه‌بوو، نه‌رمه‌كاڵای نوێكردنه‌وه‌ی پێناسه‌كه‌ی ئێمه‌ به‌كاربهێنه‌ - ئه‌و هه‌موو شتێك ده‌كات به‌ خێرایی و له حاڵه‌تی ئۆتۆماتیكیدا."
+msgstr "<strong>پێناسه‌كان بۆ لاپتۆپی لینۆڤۆ Lenovo</strong> ده‌توانرێت داببه‌زێنرێت له‌م به‌شه‌ی وێبسایته‌كه‌ی ئێمه‌دا - پێناسه‌كان بۆ هه‌موو مۆدێله‌ باوه‌كان له‌گه‌ڵ مۆدێله‌ كه‌م باوه‌كان له‌ كۆمپاینا به‌رهه‌مهێنه‌ره‌وه‌(Ideapad, Thinkpad, etc.) پیشاندراوه‌ لێره‌دا. له‌ وێبسایته‌كه‌ی ئێمه‌دا ده‌توانیت پێناسه‌كان بدۆزیته‌وه‌ كه‌ گونجاوه‌ له‌گه‌ڵ نوسخه‌ی سیسته‌می كارپێكه‌ری Windows. ئه‌گه‌ر گه‌ڕانه‌كه‌ت بۆ <b>پێناسه‌ داواكراوه‌كانی لاپتۆپی لینۆڤۆ  Lenovo</b> له‌ لایه‌ن هه‌وڵی خۆته‌وه‌ سه‌ركه‌توو نه‌بوو، نه‌رمه‌كاڵای نوێكردنه‌وه‌ی پێناسه‌كه‌ی ئێمه‌ به‌كاربهێنه‌ - ئه‌و هه‌موو شتێك ده‌كات به‌ خێرایی و له حاڵه‌تی ئۆتۆماتیكیدا."
 
 msgid "seo_notebookvendor-footer-content-samsung"
 msgstr ""
@@ -778,19 +778,19 @@ msgid "seo_deviceclass-footer-content-monitor-panasonic"
 msgstr ""
 
 msgid "seo_deviceclass-footer-content-monitor-samsung"
-msgstr "له‌م به‌شه‌دا تۆ ده‌توانیت <b>پێناسه‌ به‌ خۆڕایی داببه‌زێنیت بۆ شاشه‌ی سامسۆنگی Syncmaster</b>. پێناسه‌كان بۆ هه‌موو كۆتا نوسخه‌كانی Windows لێره‌دا پیشاندراوه‌. ئه‌گه‌ر له‌به‌ر هه‌ندێ هۆكار تۆ نه‌تتوانی ئه‌و پێناسه‌یه‌ بدۆزیته‌وه‌ كه‌ پێویستته‌، نه‌رمه‌كاڵای چاره‌سه‌ری DriverPack  ئێمه‌ به‌كاربهێنه‌ - ئه‌و به‌ خۆڕاییه‌ و هه‌موو شتێك ده‌كات به‌ ئۆتۆماتیكی."
+msgstr "له‌م به‌شه‌دا تۆ ده‌توانیت <b>پێناسه‌ به‌ خۆڕایی داببه‌زێنیت بۆ شاشه‌ی سامسۆنگی Syncmaster</b>. پێناسه‌كان بۆ هه‌موو كۆتا نوسخه‌كانی Windows لێره‌دا پیشاندراوه‌. ئه‌گه‌ر له‌به‌ر هه‌ندێ هۆكار تۆ نه‌تتوانی ئه‌و پێناسه‌یه‌ بدۆزیته‌وه‌ كه‌ پێویستته‌، نه‌رمه‌كاڵای DriverPack Solution  ئێمه‌ به‌كاربهێنه‌ - ئه‌و به‌ خۆڕاییه‌ و هه‌موو شتێك ده‌كات به‌ ئۆتۆماتیكی."
 
 msgid "seo_deviceclass-footer-content-monitor-sony"
-msgstr "تۆ لێره‌دا ده‌توانیت <b>پێناسه‌كان بۆ شاشه‌ی سۆنی داببه‌زێنیت</b>بۆ كۆتا ڕێكخستن بۆ هه‌موو نوسخه‌ی سیستمه‌ كارپێكه‌ریه‌كانی Windows به‌ خۆڕایی. ئایا تۆ ناته‌وێت خۆت بگه‌ڕێیت به‌ دوای پێناسه‌ داواكراوه‌كاندا؟ پاشان نه‌رمه‌كاڵای چاره‌سه‌ری DriverPack  كه‌ی ئێمه‌ داببه‌زێنه‌ بۆ گه‌ڕان بۆ پێناسه‌ له‌گه‌ڵ نوێكردنه‌وه‌ی - ئه‌و هه‌موو شتێك ده‌كات به‌ ئۆتۆكاتیكی!"
+msgstr "تۆ لێره‌دا ده‌توانیت <b>پێناسه‌كان بۆ شاشه‌ی سۆنی داببه‌زێنیت</b>بۆ كۆتا ڕێكخستن بۆ هه‌موو نوسخه‌ی سیستمه‌ كارپێكه‌ریه‌كانی Windows به‌ خۆڕایی. ئایا تۆ ناته‌وێت خۆت بگه‌ڕێیت به‌ دوای پێناسه‌ داواكراوه‌كاندا؟ پاشان نه‌رمه‌كاڵای DriverPack Solution كه‌ی ئێمه‌ داببه‌زێنه‌ بۆ گه‌ڕان بۆ پێناسه‌ له‌گه‌ڵ نوێكردنه‌وه‌ی - ئه‌و هه‌موو شتێك ده‌كات به‌ ئۆتۆكاتیكی!"
 
 msgid "seo_deviceclass-footer-content-monitor-viewsonic"
-msgstr "تۆ له‌م به‌شه‌دا ده‌توانیت <b>پێناسه‌كان بۆ شاشه‌ی كۆمپیوته‌ری Viewsonic  داببه‌زێنیت</b> بۆ هه‌موو مۆدێله‌ به‌رده‌سته‌كان كه‌ به‌ته‌واوه‌تی به‌ خۆڕاییه‌ وه‌ به‌بێ هیچ تۆماركردنێك. پێناسه‌كان بۆ هه‌موو نوسخه‌ی سیستمه‌ كارپێكه‌ریه‌ پێشكه‌وتووه‌كانی Windows به‌رده‌سته‌ له‌ ماڵپه‌ڕه‌كه‌ماندا. یان، نه‌رمه‌كاڵای چاره‌سه‌ری DriverPack  ئێمه‌ داببه‌زێنه‌ - ئه‌وبه‌ خۆڕاییه‌ وه‌ ئه‌و پێناسه‌ گونجاوه‌ داواكراوه‌كان ده‌دۆزێته‌وه‌ له‌ حاڵه‌تی ئۆتۆماتیكی."
+msgstr "تۆ له‌م به‌شه‌دا ده‌توانیت <b>پێناسه‌كان بۆ شاشه‌ی كۆمپیوته‌ری Viewsonic  داببه‌زێنیت</b> بۆ هه‌موو مۆدێله‌ به‌رده‌سته‌كان كه‌ به‌ته‌واوه‌تی به‌ خۆڕاییه‌ وه‌ به‌بێ هیچ تۆماركردنێك. پێناسه‌كان بۆ هه‌موو نوسخه‌ی سیستمه‌ كارپێكه‌ریه‌ پێشكه‌وتووه‌كانی Windows به‌رده‌سته‌ له‌ ماڵپه‌ڕه‌كه‌ماندا. یان، نه‌رمه‌كاڵای DriverPack Solution  ئێمه‌ داببه‌زێنه‌ - ئه‌وبه‌ خۆڕاییه‌ وه‌ ئه‌و پێناسه‌ گونجاوه‌ داواكراوه‌كان ده‌دۆزێته‌وه‌ له‌ حاڵه‌تی ئۆتۆماتیكی."
 
 msgid "seo_deviceclass-footer-content-monitor-sharp"
 msgstr "هه‌ندێ كێشه‌ ده‌ركه‌وتووه‌ له‌ كاركردنیشاشه‌ی كۆمپیوته‌ره‌كه‌تدا له‌ هی كۆمپانیای Sharp دا؟ كێشه‌كه‌ له‌وانه‌یه‌ به‌سه‌رچوونی پێناسه‌كه‌ بێت.  خۆت پێناسه‌ داببه‌زێنه‌ له‌ ماڵپه‌ڕه‌كه‌مانه‌وه‌، یان نه‌رمه‌كاڵای DriverPack Solution  ئێمه‌ به‌كاربهێنه‌ - ئه‌و هه‌موو شتێك ده‌كات به‌ خێرایی وه‌ به‌ بێ كێشه‌! هه‌موو پێناسه‌كانیت ئێمه‌ دڵنیاكراونه‌ته‌وه‌ له‌ كاركردن و سه‌لامه‌تیدا!"
 
 msgid "seo_deviceclass-footer-content-monitor-philips"
-msgstr "تۆ ده‌زانیت له‌ كوێ <b>پێناسه‌ داببه‌زێنیت بۆ شاشه‌ی كۆمپیوته‌ری Philips </b>؟له‌م به‌شه‌دا تۆ ده‌توانیت هه‌موو كۆتا وه‌ نوێترین پێناسه‌كان بۆ شاشه‌كانی Philips  بدۆزیته‌وه‌ بۆ هه‌موو نوسخه‌كانی سیسته‌می كارپێكه‌ری Windows. ئه‌گه‌ر له‌به‌ر هه‌ندێ هۆكار تۆ نه‌تتوانی ئه‌و پێناسه‌ی كه‌ پێویستته‌ بیدۆزیته‌وه‌، نه‌رمه‌كاڵای چاره‌سه‌ری DriverPack  ئێمه‌ به‌كاربهێنه‌ - ئه‌و به‌ ته‌واوه‌تی به‌ خۆڕاییه‌ وه‌ هه‌موو ئه‌و پێناسانه‌ هه‌ڵده‌بژێرێت كه‌ تۆ پێویستته‌ به‌ بێ هیچ كاتێك."
+msgstr "تۆ ده‌زانیت له‌ كوێ <b>پێناسه‌ داببه‌زێنیت بۆ شاشه‌ی كۆمپیوته‌ری Philips </b>؟له‌م به‌شه‌دا تۆ ده‌توانیت هه‌موو كۆتا وه‌ نوێترین پێناسه‌كان بۆ شاشه‌كانی Philips  بدۆزیته‌وه‌ بۆ هه‌موو نوسخه‌كانی سیسته‌می كارپێكه‌ری Windows. ئه‌گه‌ر له‌به‌ر هه‌ندێ هۆكار تۆ نه‌تتوانی ئه‌و پێناسه‌ی كه‌ پێویستته‌ بیدۆزیته‌وه‌، نه‌رمه‌كاڵای DriverPack Solution  ئێمه‌ به‌كاربهێنه‌ - ئه‌و به‌ ته‌واوه‌تی به‌ خۆڕاییه‌ وه‌ هه‌موو ئه‌و پێناسانه‌ هه‌ڵده‌بژێرێت كه‌ تۆ پێویستته‌ به‌ بێ هیچ كاتێك."
 
 msgid "seo_deviceclass-footer-content-modem-d-link"
 msgstr ""
@@ -970,22 +970,22 @@ msgid "seo_notebook-footer-content-asus-x550cc-7-x86"
 msgstr "له‌م به‌شه‌دا تۆ ده‌توانیت پێناسه‌كان بۆ لاپتۆپی Asus X550CC بۆ Windows 7 x86. هه‌موو پێناسه‌كانی ئێمه‌ پشكنراون بۆسه‌لامه‌تی له‌ لایه‌ن دژه‌ ڤایرۆسه‌وه‌!"
 
 msgid "seo_notebook-footer-content-asus-x550cc-7-x64"
-msgstr "له‌م به‌شه‌دا تۆ ده‌توانیت پێناسه‌كان بۆ لاپتۆپی  Asus X550CC داببه‌زێنیت بۆ Windows 7 x64 به‌ ته‌واوه‌تی به‌ خۆڕاییه‌. ئه‌گه‌ر له‌به‌ر هه‌ندێ هۆكار تۆ ڕازی نه‌بوویت له‌ پێناسه‌كان له‌م به‌شه‌دا. نه‌رمه‌كاڵای DriverPack Solution  ئێمه‌ به‌كاربهێنه‌ - ئه‌و پێناسه‌كان نوێده‌كاته‌وه‌ له‌سه‌ر لاپتۆپه‌كه‌ت بۆ كۆتا وه‌ نوێترین نووسخه‌."
+msgstr "له‌م به‌شه‌دا تۆ ده‌توانیت پێناسه‌كان بۆ لاپتۆپی  Asus X550CC داببه‌زێنیت بۆ Windows 7x64 به‌ ته‌واوه‌تی به‌ خۆڕاییه‌. ئه‌گه‌ر له‌به‌ر هه‌ندێ هۆكار تۆ ڕازی نه‌بوویت له‌ پێناسه‌كان له‌م به‌شه‌دا. نه‌رمه‌كاڵای DriverPack Solution  ئێمه‌ به‌كاربهێنه‌ - ئه‌و پێناسه‌كان نوێده‌كاته‌وه‌ له‌سه‌ر لاپتۆپه‌كه‌ت بۆ كۆتا وه‌ نوێترین نووسخه‌."
 
 msgid "seo_notebook-footer-content-asus-x550cl-7-x64"
-msgstr "تۆ لێره‌دا ده‌توانی پێناسه‌كان بۆ لاپتۆپی Asus X550CL داببه‌زێنیت بۆ Windows 7 x64 به‌ ته‌واوه‌تی به‌ خۆڕایی. هه‌موو پێناسه‌كانی ئێمه‌ دڵنیاكراونه‌ته‌وه‌ بۆ كاركردن و سه‌لامه‌تی له‌ لایه‌ن شاره‌زایانه‌وه‌."
+msgstr "تۆ لێره‌دا ده‌توانی پێناسه‌كان بۆ لاپتۆپی Asus X550CL داببه‌زێنیت بۆ Windows 7 64 به‌ ته‌واوه‌تی به‌ خۆڕایی. هه‌موو پێناسه‌كانی ئێمه‌ دڵنیاكراونه‌ته‌وه‌ بۆ كاركردن و سه‌لامه‌تی له‌ لایه‌ن شاره‌زایانه‌وه‌."
 
 msgid "seo_notebook-footer-content-asus-x540sa-7-x64"
-msgstr "تۆ پێویستت به‌ پێناسه‌ هه‌یه‌ بۆ لاپتۆپی Asus X540SA بۆ ویندۆز 7 x64؟ تۆ هه‌موو شتێك ده‌دۆزیته‌وه‌ كه‌پێویستته‌ له‌م به‌شه‌دا. هه‌موو پێناسه‌كان دڵنیاكراونه‌ته‌وه‌ بۆ سه‌لامه‌تی و كاركردن له‌ لایه‌ن شاره‌زاكانمانه‌وه‌. "
+msgstr "تۆ پێویستت به‌ پێناسه‌ هه‌یه‌ بۆ لاپتۆپی Asus X540SA بۆ ویندۆز 7x64؟ تۆ هه‌موو شتێك ده‌دۆزیته‌وه‌ كه‌پێویستته‌ له‌م به‌شه‌دا. هه‌موو پێناسه‌كان دڵنیاكراونه‌ته‌وه‌ بۆ سه‌لامه‌تی و كاركردن له‌ لایه‌ن شاره‌زاكانمانه‌وه‌. "
 
 msgid "seo_notebook-footer-content-asus-x540sa-8.1-x64"
 msgstr "تۆ پێویستت به‌ پێناسه‌كانی لاپتۆپی Asus x540sa هه‌یه‌ بۆ Windows 8.1 x64؟ ڵێره‌دا تۆ هه‌موو شتێك ده‌دۆزیته‌وه‌ كه‌ پێویستته‌. ثێناسه‌كانی ئێمه‌ دڵنیاكراونه‌ته‌وه‌ بۆ كاركردن وسه‌لامه‌تی له‌ لایه‌ن باشترین شاره‌زایانه‌وه‌."
 
 msgid "seo_notebook-footer-content-asus-x540sa-10-x64"
-msgstr "تۆ لێره‌دا ده‌توانیت پێناسه‌كان بۆ لاپتۆپی Asus X540SA داببه‌زێنیت بۆ Windows 10 x64؟ تۆ له‌شوێنێكی ڕاستدایت! ئه‌گه‌ر له‌به‌ر هه‌ندێ هۆكار تۆ  ئه‌و پێناسه‌ت نه‌دۆزیه‌وه‌ كه‌ پێویستته‌ له‌ناو ماڵپه‌ڕه‌كه‌ماندا. نه‌رمه‌كاڵای DriverPack Solution  ئێمه‌ داببه‌زێنه‌ - ئه‌و خۆی هه‌موو كۆتا نوسخه‌كان ده‌دۆزێته‌وه‌ و دایان ده‌مه‌زرێنێت له‌ ناو لاپتۆپه‌كه‌تدا!"
+msgstr "تۆ لێره‌دا ده‌توانیت پێناسه‌كان بۆ لاپتۆپی Asus X540SA داببه‌زێنیت بۆ Windows 10x64؟ تۆ له‌شوێنێكی ڕاستدایت! ئه‌گه‌ر له‌به‌ر هه‌ندێ هۆكار تۆ  ئه‌و پێناسه‌ت نه‌دۆزیه‌وه‌ كه‌ پێویستته‌ له‌ناو ماڵپه‌ڕه‌كه‌ماندا. نه‌رمه‌كاڵای DriverPack Solution  ئێمه‌ داببه‌زێنه‌ - ئه‌و خۆی هه‌موو كۆتا نوسخه‌كان ده‌دۆزێته‌وه‌ و دایان ده‌مه‌زرێنێت له‌ ناو لاپتۆپه‌كه‌تدا!"
 
 msgid "seo_notebook-footer-content-asus-x540sc-7-x64"
-msgstr "تۆ ێویستت به‌ دابه‌زاندنی پێناسه‌كان هه‌یه‌ بۆ لاپتۆپی Asus X540SC بۆ Windows 7 x64؟ تۆ لێره‌ هه‌موو شتێك ده‌دۆزیته‌وه‌ كه‌ پێویستته‌. هه‌موو به‌سته‌ پێناسه‌كانمان به‌ ته‌واوی دڵنیاكراونه‌ته‌وه‌ له‌ سه‌لامه‌تی وكاركردندا!"
+msgstr "تۆ ێویستت به‌ دابه‌زاندنی پێناسه‌كان هه‌یه‌ بۆ لاپتۆپی Asus X540SC بۆ Windows 7x64؟ تۆ لێره‌ هه‌موو شتێك ده‌دۆزیته‌وه‌ كه‌ پێویستته‌. هه‌موو به‌سته‌ پێناسه‌كانمان به‌ ته‌واوی دڵنیاكراونه‌ته‌وه‌ له‌ سه‌لامه‌تی وكاركردندا!"
 
 msgid "seo_notebook-footer-content-asus-x540sc-8.1-x64"
 msgstr "تۆ لێره‌دا ده‌توانیت پێناسه‌كان داببه‌زێنیت بۆ لاپتۆپی Asus X540SC بۆ Windows 8.1 x64 به‌ ته‌واوه‌تی به‌خۆڕاییه‌. ئه‌گه‌ر تۆ ئه‌وپێناسه‌ت نه‌دۆزیه‌وه‌ كه‌ پێویستته‌ له‌ ماڵپه‌ڕه‌كه‌ماندا، ته‌نها نه‌رمه‌كاڵای DriverPack  داببه‌زێنه‌ بۆ نوێكردنه‌وه‌ی پێناسه‌ - ئه‌و هه‌موو شتێك ده‌كات به‌ خێرایی و باوه‌ڕپێكراوانه‌!"
@@ -994,7 +994,7 @@ msgid "seo_notebook-footer-content-asus-x540la-7-x64"
 msgstr "له‌م به‌شه‌دا تۆ ده‌توانیت پێناسه‌كان بۆ لاپتۆپی Asus X540LA داببه‌زێنیت بۆ Windows 7x64 به‌ خۆڕایی به‌بێ هیچ تۆماركردنێكی زیاده‌. هه‌موو پێناسه‌كانی ئێمه‌ به‌ ته‌واوه‌تی پارێزراون و به‌ ته‌واوه‌تی كارده‌كه‌ن."
 
 msgid "seo_notebook-footer-content-asus-k50c-xp-x86"
-msgstr "له‌م به‌شه‌دا تۆ ده‌توانیت پێناسه‌كان داببه‌زێنیت بۆ لاپتۆپی Asus k50c بۆ Windows XP به‌ ته‌واوه‌تی به‌ خۆڕاییه‌ به‌ بێ تۆماركردنی زیاده‌. هه‌روه‌ها ئێمه‌ پێشنیار ده‌كه‌ین بۆ دابه‌زاندنی نه‌رمه‌كاڵای چاره‌سه‌ری DriverPack بۆ دامه‌زراندنی پێناسه‌ به‌ ئۆتۆماتیكی - ئه‌و هه‌موو شتێك ده‌كات بۆ تۆ!"
+msgstr "له‌م به‌شه‌دا تۆ ده‌توانیت پێناسه‌كان داببه‌زێنیت بۆ لاپتۆپی Asus k50c بۆ Windows XP به‌ ته‌واوه‌تی به‌ خۆڕاییه‌ به‌ بێ تۆماركردنی زیاده‌. هه‌روه‌ها ئێمه‌ پێشنیار ده‌كه‌ین بۆ دابه‌زاندنی نه‌رمه‌كاڵای DriverPack Solution بۆ دامه‌زراندنی پێناسه‌ به‌ ئۆتۆماتیكی - ئه‌و هه‌موو شتێك ده‌كات بۆ تۆ!"
 
 msgid "seo_notebook-footer-content-asus-x553ma-7-x64"
 msgstr "تۆ لێره‌دا ده‌توانیت پێناسه‌كان داببه‌زێنیت بۆ لاپتۆپی Asus X553MA بۆ Windows 7x64. هه‌موو به‌سته‌ی پێناسه‌كانمان تاقیكراونه‌ته‌وه‌ بۆ پارێزگاری و كاركردن له‌ لایه‌ن شاره‌زایانه‌وه‌."
@@ -1003,7 +1003,7 @@ msgid "seo_notebook-footer-content-asus-x101ch-xp-x86"
 msgstr "تۆ ده‌توانیت لێره‌دا پێناسه‌ی لاپتۆپی Asus X101CH داببه‌زێنیت بۆ Windows XP به‌ خۆڕایی به‌ بێ تۆماركردنی زیاده‌. هه‌موو پێناسه‌كانی ئێمه‌ به‌ ته‌واوه‌تی كارده‌كه‌ن وه‌ پارێزراون بۆ لاپتۆپه‌كه‌ت!"
 
 msgid "seo_notebook-footer-content-asus-k50ij-7-x64"
-msgstr "تۆ لێره‌دا ده‌توانیت پێناسه‌كان بۆ لاپتۆپی Asus k50ij داببه‌زێنیت و دابمه‌زرێنیت بۆ Windows 7 x64 به‌ ته‌واوه‌تی به‌ خۆڕایی. ئایا تۆ ڕازی نیت له‌ پێناسه‌كه‌؟ كێشه‌ نییه‌ - نه‌رمه‌كاڵای چاره‌سه‌ری DriverPack ی ئێمه‌ به‌كاربهێنه‌ بۆ نوێكردنه‌وه‌ی پێناسه‌ - ئه‌و به‌ ته‌واوه‌تی به خۆڕاییه‌ وه‌ هه‌موو شتێك ده‌كات به‌ ئۆتۆماتیكی!"
+msgstr "تۆ لێره‌دا ده‌توانیت پێناسه‌كان بۆ لاپتۆپی Asus k50ij داببه‌زێنیت و دابمه‌زرێنیت بۆ Windows 7 x64 به‌ ته‌واوه‌تی به‌ خۆڕایی. ئایا تۆ ڕازی نیت له‌ پێناسه‌كه‌؟ كێشه‌ نییه‌ - نه‌رمه‌كاڵای DriverPack Solution ی ئێمه‌ به‌كاربهێنه‌ بۆ نوێكردنه‌وه‌ی پێناسه‌ - ئه‌و به‌ ته‌واوه‌تی به خۆڕاییه‌ وه‌ هه‌موو شتێك ده‌كات به‌ ئۆتۆماتیكی!"
 
 msgid "seo_notebook-footer-content-asus-k50ij-xp-x86"
 msgstr "تۆ پێویستت به‌ دابه‌زاندنی پێناسه‌كان هه‌یه‌ بۆ لاپتۆپی Asus k50ij بۆ Windows XP؟ ماڵپه‌ڕه‌كه‌ی ئێمه‌ به‌كاربهێنه‌ - تۆ هه‌موو شتێك ده‌دۆزیته‌وه‌ كه‌ پێویستته لێره‌دا. ئایا ئه‌مه‌ یارمه‌تیده‌ر نه‌بوو؟ پاشان نه‌رمه‌كاڵای DriverPack Solution  داببه‌زێنه‌ بۆ نوێكردنه‌وه‌ی پێناسه‌ - ئه‌و ڕه‌قه‌كاڵاكان شیده‌كاته‌وه‌ له‌سه‌ر لاپتۆپه‌كه‌ت وه‌ گونجاوترین پێناسه‌كان هه‌ڵده‌بژێرێت."

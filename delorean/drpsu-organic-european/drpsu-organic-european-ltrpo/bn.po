@@ -1,13 +1,14 @@
 # Translators:
 # Nadia Tegeneva <nadia@drp.su>, 2017
 # Abdullah Faridee <ju81@ymail.com>, 2017
+# Shahriar Latif <shahriarmithunewuu@gmail.com>, 2017
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-08-10 10:22+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
-"Last-Translator: Abdullah Faridee <ju81@ymail.com>, 2017\n"
+"Last-Translator: Shahriar Latif <shahriarmithunewuu@gmail.com>, 2017\n"
 "Language-Team: Bengali (https://www.transifex.com/driverpack-solution/teams/75453/bn/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -42,10 +43,10 @@ msgid "seo_deviceclass-footer-anchor"
 msgstr "{{CLASS.PLURAL.MAIN}}"
 
 msgid "seo_hwidos-footer-anchor"
-msgstr ""
+msgstr "Windows {{OS.NAME}} এর জন্য ড্রাইভারসমূহের সংস্করণ "
 
 msgid "seo_main-title"
-msgstr ""
+msgstr "DriverPack Solution  —  স্বয়ংক্রিয় ড্রাইভার ইন্সটল এবং আপডেট | বিনামূল্যে ডাউনলোড "
 
 msgid "seo_main-description"
 msgstr ""
@@ -54,19 +55,19 @@ msgid "seo_main-keywords"
 msgstr ""
 
 msgid "seo_mainos-title"
-msgstr ""
+msgstr "Windows {{OS.VERSION}} এর জন্য ড্রাইভারসমূহ ডাউনলোড | DriverPack Solution"
 
 msgid "seo_mainos-description"
-msgstr ""
+msgstr "Windows {{OS.VERSION}} x64 এবং x86 এর জন্য বিনামূল্যে ড্রাইভারসমূহ আপডেট "
 
 msgid "seo_mainos-h1"
 msgstr "Windows {{OS.VERSION}} ড্রাইভারসমূহ"
 
 msgid "seo_mainos-keywords"
-msgstr ""
+msgstr "DriverPack Solution বিনামূল্যে Windows{{OS.VERSION}}ডাউনলোড ইন্সটল 64 86 ড্রাইভারসমূহ"
 
 msgid "seo_mainos-h3"
-msgstr ""
+msgstr "বিনামূল্যে একটি সহজ অ্যাপে Windows {{OS.VERSION}} এর জন্য সবচেয়ে বড় সংগ্রহ "
 
 msgid "seo_mainlanding-title"
 msgstr ""
@@ -75,12 +76,12 @@ msgid "seo_mainlanding-description"
 msgstr ""
 
 msgid "seo_mainlanding-keywords"
-msgstr ""
+msgstr "ডাউনলোড ড্রাইভারসমূহ সয়ংক্রিয় - ইন্সটল আপডেট Windows 7, XP, 10, 8 এবং 8.1  ড্রাইভার আপডেট সফটওয়্যার"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
 #. CLASS.PLURAL.FOR=мониторов|модемов;
 msgid "seo_deviceclass-title"
-msgstr ""
+msgstr "ডাউনলোড {{CLASS.SINGLE.FOR}}ড্রাইভারসমূহ | Windows"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
 #. CLASS.PLURAL.FOR=мониторов|модемов;
@@ -95,12 +96,12 @@ msgstr "<span class='bold'>{{CLASS.SINGLE.FOR}}</span> ড্রাইভার�
 #. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
 #. CLASS.PLURAL.FOR=мониторов|модемов;
 msgid "seo_deviceclass-keywords"
-msgstr ""
+msgstr "{{CLASS.SINGLE.FOR}}ড্রাইভারসমূহ Windows 7 64 8 10  ডাউনলোড ডাউনলোড"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
 #. CLASS.PLURAL.FOR=мониторов|модемов;
 msgid "seo_deviceclass-footer-description"
-msgstr ""
+msgstr "{{CLASS.PLURAL.FOR}}এর জন্য বিনামূল্যে ড্রাইভারসমূহ ডাউনলোড"
 
 msgid "seo_deviceclass-footer-application-category"
 msgstr "শ্রেণি: <span itemprop='applicationCategory'>যন্ত্রসমূহ</span>"
@@ -273,25 +274,25 @@ msgstr ""
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 msgid "seo_hwid-footer-description"
-msgstr ""
+msgstr "বিনামূল্যে যন্ত্র{{DEVICE.DEVICEID}}এর জন্য ড্রাইভারসমূহ ডাউনলোড "
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets; RU: Пример:
 #. CLASS.PLURAL.MAIN=видеокарты|чипсеты;
 msgid "seo_hwid-footer-application-category"
-msgstr ""
+msgstr "শ্রেণি: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|чипсеты; VENDOR.NAME=Acer;
 msgid "seo_hwid-footer-application-subcategory"
-msgstr ""
+msgstr "উপশ্রেণিঃ <span itemprop='applicationSubCategory'>{{VENDOR.NAME}}{{CLASS.PLURAL.MAIN}}</span>"
 
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 msgid "seo_hwid-footer-content"
-msgstr ""
+msgstr "ডাউনলোড {{DEVICE.DEVICEID}} ড্রাইভার, অথবা স্বয়ংক্রিয় ড্রাইভার ডাউনলোড এবং আপডেট এর জন্য DriverPack Solution সফটওয়্যার ইন্সটল "
 
 msgid "seo_notebooks-title"
-msgstr ""
+msgstr "Windows OS এর জন্য সকল ল্যাপটপ মডেলের ড্রাইভারসমূহ ডাউনলোড"
 
 msgid "seo_notebooks-description"
 msgstr ""
@@ -352,17 +353,17 @@ msgstr ""
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebook-footer-description"
-msgstr ""
+msgstr "বিনামূল্যে ল্যাপটপসমূহের জন্য {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}} ড্রাইভারসমূহ ডাউনলোড "
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; RU: Пример:
 #. NOTEBOOK.VENDOR.NAME=Acer;
 msgid "seo_notebook-footer-application-category"
-msgstr ""
+msgstr "শ্রেণি: <span itemprop='applicationCategory'>{{NOTEBOOK.VENDOR.NAME}}ল্যাপটপসমূহ</span>"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebook-footer-application-subcategory"
-msgstr ""
+msgstr "উপশ্রেণিঃ <span itemprop='applicationSubCategory'>{{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}}ল্যাপটপসমূহ</span>"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
@@ -442,7 +443,7 @@ msgid "seo_devicegroupos-footer-description"
 msgstr ""
 
 msgid "seo_devicegroupos-footer-application-category"
-msgstr ""
+msgstr "শ্রেণিঃ <span itemprop='applicationCategory'>{{GROUP.VENDOR.NAME}}{{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_devicegroupos-footer-application-subcategory"
 msgstr ""
@@ -466,16 +467,16 @@ msgid "seo_notebookos-footer-description"
 msgstr ""
 
 msgid "seo_notebookos-footer-application-category"
-msgstr ""
+msgstr "শ্রেণিঃ <span itemprop='applicationCategory'>{{NOTEBOOK.VENDOR.NAME}}ল্যাপটপসমূহ</span>"
 
 msgid "seo_notebookos-footer-application-subcategory"
-msgstr ""
+msgstr "উপশ্রেণিঃ <span itemprop='applicationSubCategory'>{{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}}ল্যাপটপসমূহ</span>"
 
 msgid "seo_notebookos-footer-content"
 msgstr ""
 
 msgid "seo_deviceclassos-title"
-msgstr ""
+msgstr "Windows {{OS}} এর জন্য ড্রাইভারসমূহ ডাউনলোড {{CLASS.SINGLE.FOR}}"
 
 msgid "seo_deviceclassos-description"
 msgstr ""
@@ -508,19 +509,19 @@ msgid "seo_devicegroupsos-keywords"
 msgstr ""
 
 msgid "seo_devicegroupsos-footer-description"
-msgstr ""
+msgstr "Windows {{OS}} এর জন্য {{VENDOR.NAME}}{{CLASS.SINGLE.FOR}} ড্রাইভারসমূহ ডাউনলোড"
 
 msgid "seo_devicegroupsos-footer-application-category"
 msgstr ""
 
 msgid "seo_devicegroupsos-footer-application-subcategory"
-msgstr ""
+msgstr "উপশ্রেণিঃ <span itemprop='applicationSubCategory'>{{VENDOR.NAME}}{{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_devicegroupsos-footer-content"
 msgstr ""
 
 msgid "seo_notebookvendoros-title"
-msgstr ""
+msgstr "Windows {{OS}} এর জন্য {{VENDOR.NAME}} ল্যাপটপের ড্রাইভারসমূহ ডাউনলোড "
 
 msgid "seo_notebookvendoros-description"
 msgstr ""
@@ -619,10 +620,10 @@ msgid "seo_promovendors-keywords"
 msgstr ""
 
 msgid "seo_promodrivers_title"
-msgstr ""
+msgstr "Windows 7, 10, XP, 8 এর জন্য ড্রাইভারসমূহ ডাউনলোড এবং ইন্সটল"
 
 msgid "seo_promodrivers-description"
-msgstr ""
+msgstr "DriverPack  Windows 7, Windows 10, Windows XP, Windows 8 এর ড্রাইভারসমূহ বিনামূল্যে আপডেট করবে"
 
 msgid "seo_promodrivers-keywords"
 msgstr ""
@@ -631,10 +632,10 @@ msgid "seo_forgamers-description"
 msgstr ""
 
 msgid "seo_forgamers-keywords"
-msgstr ""
+msgstr "ভিডিও কার্ড ড্রাইভারসমূহ  windows 7 64 8 10 ডাউনলোড ডাউনলোড"
 
 msgid "seo_wannacrypt_title"
-msgstr ""
+msgstr "WannaCry ভাইরাস  : কিভাবে আপনার পিসি এবং ল্যাপটপ রক্ষা করবেন?"
 
 msgid "seo_wannacrypt-description"
 msgstr ""
@@ -646,7 +647,7 @@ msgid "seo_license-description"
 msgstr ""
 
 msgid "seo_license-keywords"
-msgstr ""
+msgstr "বিনামূল্যে  windows 7 XP 8 10 এর ড্রাইভারসমূহ ডাউনলোড DriverPack Solution"
 
 msgid "seo_standards_title"
 msgstr ""

@@ -1,13 +1,15 @@
 # Translators:
 # Nadia Tegeneva <nadia@drp.su>, 2017
 # Filip Gacés <fgarces@gmservice.cl>, 2017
+# Ricardo Gonzalez <ragdlr.20@gmail.com>, 2017
+# Joel Carreno Urrutia <joelcarrenourrutia@gmail.com>, 2017
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-08-10 10:22+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
-"Last-Translator: Filip Gacés <fgarces@gmservice.cl>, 2017\n"
+"Last-Translator: Joel Carreno Urrutia <joelcarrenourrutia@gmail.com>, 2017\n"
 "Language-Team: Spanish (Latin America) (https://www.transifex.com/driverpack-solution/teams/75453/es_419/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -28,10 +30,10 @@ msgstr "{{NAME}}"
 
 #. i18n: EN: Example: NAME=Asus X550EA; RU: Пример: NAME=Asus X550EA;
 msgid "seo_notebookvendor-footer-anchor"
-msgstr "Equipos {{NOTEBOOK.VENDOR.NAME}}"
+msgstr "Portátiles {{NOTEBOOK.VENDOR.NAME}}"
 
 msgid "seo_notebook-footer-anchor"
-msgstr "Equipos {{NAME}} "
+msgstr "Portátiles {{NAME}} "
 
 msgid "seo_notebookdevices-footer-anchor"
 msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} {{CLASS.PLURAL.MAIN}}"
@@ -51,22 +53,22 @@ msgid "seo_main-description"
 msgstr "DriverPack Solution le sugiere instalar los controladores para su dispositivo de forma gratuita o descargue el software para instalar y actualizar automática sus controladores."
 
 msgid "seo_main-keywords"
-msgstr ""
+msgstr "Descarga el paquete de drivers sin costo para laptop para windows: 7, 8, 10, ya sea de 32 y 64 bits Instalador de software de drivers "
 
 msgid "seo_mainos-title"
-msgstr ""
+msgstr "Descarga los controladores para Windows {{OS.VERSION}}| DriverPack Solution"
 
 msgid "seo_mainos-description"
-msgstr ""
+msgstr "Actualiza tu controladores sin costo para Windows {{OS.VERSION}} x64 bits y x86 bits "
 
 msgid "seo_mainos-h1"
-msgstr ""
+msgstr "Controladores para Windows {{OS.VERSION}}"
 
 msgid "seo_mainos-keywords"
-msgstr ""
+msgstr "Descarga el instalador de DriverPack Solution sin costo para Windows {{OS.VERSION}} para arquitecturas 64 y 86"
 
 msgid "seo_mainos-h3"
-msgstr ""
+msgstr "La colección más grande de drivers para Windows {{OS.VERSION}} en una simple aplicación gratuita"
 
 msgid "seo_mainlanding-title"
 msgstr "DriverPack Solution - software de actualización de controladores | Descargue los controladores de Windows 7, XP, 10, 8 y 8.1."
@@ -111,16 +113,16 @@ msgid "seo_deviceclass-footer-application-subcategory"
 msgstr "Sub categoria: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_vendors-title"
-msgstr "Descargar los controladores para PC, portatiles y netbooks | Windows"
+msgstr "Descargar los controladores para PC, portátiles y netbooks | Windows"
 
 msgid "seo_vendors-description"
-msgstr "Instale los controladores de PC, laptop y netbook de forma gratuita o descargue el software para la actualización e instalación automática del controlador"
+msgstr "Instale los controladores de PC, portátil y netbook de forma gratuita o descargue el software para la actualización e instalación automática del controlador"
 
 msgid "seo_vendors-h1"
 msgstr "Fabricantes de Hardware"
 
 msgid "seo_vendors-keywords"
-msgstr ""
+msgstr "controladores controladores windows 7 8 10 64 descarga descarga"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendor-title"
@@ -128,7 +130,7 @@ msgstr "Descargaar controladores de {{VENDOR.NAME}} para Windows, gratis"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendor-description"
-msgstr ""
+msgstr "Instala {{VENDOR.NAME}} controladores para Windows 7, XP, 10, 8 y 8.1 sin costo, o descarga el software DriverPack Solution para instalación automática de controladores"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendor-h1"
@@ -136,7 +138,7 @@ msgstr "Controladores de dispositivos <span class='bold'>{{VENDOR.NAME}}</span>"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendor-keywords"
-msgstr ""
+msgstr "controladores windows 7 8 10 64 descarga descarga {{VENDOR.NAME}}"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendor-footer-description"
@@ -152,12 +154,12 @@ msgstr "Sub categoria: <span itemprop='applicationSubCategory'>dispositivos {{VE
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|monitors; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.FOR=видеокарт|мониторов; VENDOR.NAME=Acer;
 msgid "seo_devicegroups-title"
-msgstr ""
+msgstr "Descarga los controladores de {{CLASS.SINGLE.FOR}} {{VENDOR.NAME}} para Windows gratis"
 
 #. i18n: EN: Example: CLASS.SINGLE.FOR=videocard|monitor; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.SINGLE.FOR=видеокарты|монитора; VENDOR.NAME=Acer;
 msgid "seo_devicegroups-description"
-msgstr ""
+msgstr "Aquí puedes instalar los drivers de {{CLASS.SINGLE.FOR}} {{VENDOR.NAME}} para Windows 7, XP, 10, 8, and 8.1, o descarga el Software DriverPack Solution para una instalación de drivers automática"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|monitors; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.FOR=видеокарт|мониторов; VENDOR.NAME=Acer;
@@ -187,21 +189,21 @@ msgstr "Sub categoria: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {
 #. i18n: EN: Example: CLASS.SINGLE.FOR=videocard|monitor; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.SINGLE.FOR=видеокарты|монитора; VENDOR.NAME=Acer;
 msgid "seo_devicegroups-footer-content"
-msgstr ""
+msgstr "Descarga los controladores para {{VENDOR.NAME}} {{CLASS.SINGLE.FOR}}, o instala DriverPack Solution para una descarga y actualización automática de controladores"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
 #. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
 #. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
 #. GROUP.NAME=GeForce 210;
 msgid "seo_devicegroup-title"
-msgstr ""
+msgstr "Descarga los controladores de {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.SINGLE.FOR}} para Windows gratis"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
 #. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
 #. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
 #. GROUP.NAME=GeForce 210;
 msgid "seo_devicegroup-description"
-msgstr ""
+msgstr "Carga e instala los controladores de {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.SINGLE.FOR}} para Windows 7, XP, 10, 8, y 8.1, or descarga DriverPack Solution para una instalación de controladores automática"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
 #. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
@@ -291,7 +293,7 @@ msgid "seo_hwid-footer-content"
 msgstr ""
 
 msgid "seo_notebooks-title"
-msgstr "Descargue todos los drivers de los modelos de laptop para Windows OS"
+msgstr "Descargue todos los controladores de los modelos de portátiles para Windows OS"
 
 msgid "seo_notebooks-description"
 msgstr "Cargue e instale los controladores para todos los modos de portátiles y netbooks para Windows XP, 7, 8, 8.1 y 10, o descargue el software de DriverPack Solution para la actualización e instalación automática del controlador"
@@ -312,7 +314,7 @@ msgstr ""
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_notebookvendor-h1"
-msgstr ""
+msgstr "Controladores para portátiles y ultraportátiles <span class='bold'>{{VENDOR.NAME}}</span>"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_notebookvendor-keywords"
@@ -323,7 +325,7 @@ msgid "seo_notebookvendor-footer-description"
 msgstr ""
 
 msgid "seo_notebookvendor-footer-application-category"
-msgstr "Categoria: <span itemprop='applicationCategory'>Portatiles</span>"
+msgstr "Categoria: <span itemprop='applicationCategory'>Portátiles</span>"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_notebookvendor-footer-application-subcategory"
@@ -342,7 +344,7 @@ msgstr ""
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebook-h1"
-msgstr ""
+msgstr "Controladores para portátiles <span class='bold'>{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}</span>"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
@@ -357,7 +359,7 @@ msgstr ""
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; RU: Пример:
 #. NOTEBOOK.VENDOR.NAME=Acer;
 msgid "seo_notebook-footer-application-category"
-msgstr "Categoria: <span itemprop='applicationCategory'>Equipo {{NOTEBOOK.VENDOR.NAME}}</span>"
+msgstr "Categoria: <span itemprop='applicationCategory'>portátiles {{NOTEBOOK.VENDOR.NAME}}</span>"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
@@ -388,7 +390,7 @@ msgstr ""
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 #. CLASS.PLURAL.FOR=видеокарт|звуковых карт;
 msgid "seo_notebookdevices-h1"
-msgstr ""
+msgstr "Controladores de {{CLASS.SINGLE.FOR}} para portátiles {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets;
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU: Пример:
@@ -433,7 +435,7 @@ msgid "seo_devicegroupos-description"
 msgstr ""
 
 msgid "seo_devicegroupos-h1"
-msgstr ""
+msgstr "Controladores de {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} para Windows {{OS}}"
 
 msgid "seo_devicegroupos-keywords"
 msgstr ""
@@ -457,7 +459,7 @@ msgid "seo_notebookos-description"
 msgstr ""
 
 msgid "seo_notebookos-h1"
-msgstr ""
+msgstr "Controladores de portátil {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} para Windows {{OS}}"
 
 msgid "seo_notebookos-keywords"
 msgstr ""
@@ -466,7 +468,7 @@ msgid "seo_notebookos-footer-description"
 msgstr ""
 
 msgid "seo_notebookos-footer-application-category"
-msgstr "Categoria: <span itemprop='applicationCategory'>Equipo {{NOTEBOOK.VENDOR.NAME}}</span>"
+msgstr "Categoria: <span itemprop='applicationCategory'>portátiles {{NOTEBOOK.VENDOR.NAME}}</span>"
 
 msgid "seo_notebookos-footer-application-subcategory"
 msgstr ""
@@ -502,7 +504,7 @@ msgid "seo_devicegroupsos-description"
 msgstr ""
 
 msgid "seo_devicegroupsos-h1"
-msgstr ""
+msgstr "Controladores de {{CLASS.SINGLE.FOR}} {{VENDOR.NAME}} para Windows {{OS}}"
 
 msgid "seo_devicegroupsos-keywords"
 msgstr ""
@@ -526,7 +528,7 @@ msgid "seo_notebookvendoros-description"
 msgstr ""
 
 msgid "seo_notebookvendoros-h1"
-msgstr ""
+msgstr "Controladores de portátiles {{VENDOR.NAME}} para Windows {{OS}}"
 
 msgid "seo_notebookvendoros-keywords"
 msgstr ""
@@ -535,7 +537,7 @@ msgid "seo_notebookvendoros-footer-description"
 msgstr ""
 
 msgid "seo_notebookvendoros-footer-application-category"
-msgstr "Categoria: <span itemprop='applicationCategory'>Portatiles</span>"
+msgstr "Categoria: <span itemprop='applicationCategory'>Portátiles</span>"
 
 msgid "seo_notebookvendoros-footer-application-subcategory"
 msgstr ""
@@ -550,7 +552,7 @@ msgid "seo_hwidos-description"
 msgstr ""
 
 msgid "seo_hwidos-h1"
-msgstr ""
+msgstr "Controlador de dispositivo {{DEVICE.DEVICEID}} para Windows {{OS}}"
 
 msgid "seo_hwidos-keywords"
 msgstr ""
@@ -574,7 +576,7 @@ msgid "seo_notebookdevicesos-description"
 msgstr ""
 
 msgid "seo_notebookdevicesos-h1"
-msgstr ""
+msgstr "Controladores de {{CLASS.PLURAL.FOR}} para portátiles {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}con Windows {{OS}}"
 
 msgid "seo_notebookdevicesos-keywords"
 msgstr ""
