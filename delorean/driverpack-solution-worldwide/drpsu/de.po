@@ -68,13 +68,13 @@ msgid "adminpromo_list-item-ui"
 msgstr "Die Treiber-Registerkarte wurde neu gestaltet und ist nun informativer für Systemadministratoren"
 
 msgid "adminpromo_list-item-settings"
-msgstr ""
+msgstr "Die Auswahl an Einstellungen wurde erweitert und die Option der individuellen Anpassung wurde hinzugefügt."
 
 msgid "adminpromo_list-item-soft"
 msgstr "Die erzwungene Installation der Software ist standardmäßig deaktiviert"
 
 msgid "adminpromo_list-item-packs"
-msgstr ""
+msgstr "Der Kernansatz für driverpacks wurde geändert, um Bluescreen-Meldungen und andere Probleme zu beseitigen."
 
 msgid "adminpromo_list-item-device-support"
 msgstr "Die Reichweite der Treiber deckt deutlich mehr Hardware-Typen (einschließlich sehr alter Hardware)"
@@ -144,7 +144,7 @@ msgstr "Treiber herunterladen"
 #. NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10 x86; Текст для
 #. {{DOWNLOAD}} находится в ключе drivercard_no-results_download-link;
 msgid "devicecard_details_no-results-text"
-msgstr ""
+msgstr "Die Treiber für {{NAME}} für Windows {{OSVERSIONS}} wurden nicht gefunden im Katalog. {{DOWNLOAD}}, um den Treiber automatisch auszuwählen."
 
 msgid "devicecard_details_no-results_download-link"
 msgstr "DriverPack herunterladen"
@@ -197,7 +197,7 @@ msgstr "Alle Treiber anzeigen für"
 #. x86; Текст для {{DOWNLOAD}} находится в ключе devicecardlist_no-
 #. result_download-link;
 msgid "devicecardlist_no-results-device-text"
-msgstr ""
+msgstr "Die Treiber für {{DEVICENAME}} für Windows {{OSVERSIONS}} wurden nicht gefunden im Katalog. {{DOWNLOAD}}, um den Treiber automatisch auszuwählen."
 
 #. i18n: EN: Example: DEVICECLASS=chipsets|videocards; NOTEBOOK=Acer AO521;
 #. OSVERSIONS=Windows 10 x86; Text for {{DOWNLOAD}} is in key
@@ -206,14 +206,14 @@ msgstr ""
 #. OSVERSIONS=Windows 10 x86; Текст для {{DOWNLOAD}} находится в ключе
 #. devicecardlist_no-result_download-link;
 msgid "devicecardlist_no-results-notebook-text"
-msgstr ""
+msgstr "Die Treiber für {{NOTEBOOK}} Laptop für Windows {{OSVERSIONS}} wurden nicht gefunden im Katalog. {{DOWNLOAD}}, um den Treiber automatisch auszuwählen."
 
 #. i18n: EN: Example: NOTEBOOK=Acer AO521; OSVERSIONS=Windows 10 x86; Text for
 #. {{DOWNLOAD}} is in key devicecardlist_no-result_download-link; RU: Пример:
 #. NOTEBOOK=Acer AO521; Пример: OSVERSIONS=Windows 10 x86; Текст для
 #. {{DOWNLOAD}} находится в ключе devicecardlist_no-result_download-link;
 msgid "devicecardlist_no-results-notebook-device-class-text"
-msgstr ""
+msgstr "Die Treiber für {{DEVICECLASS}} für {{NOTEBOOK}} Laptop für Windows {{OSVERSIONS}} wurden nicht gefunden. {{DOWNLOAD}}, um den Treiber automatisch auszuwählen."
 
 msgid "devicecardlist_no-result_download-link"
 msgstr "DriverPack herunterladen"
@@ -237,7 +237,7 @@ msgid "deviceidheader_caption-many"
 msgstr "Dieses Gerät ist auch bekannt als:"
 
 msgid "devicetypelist_title_os"
-msgstr ""
+msgstr "Treiber für Geräte unter {{OS}}"
 
 msgid "devicetypelist_title"
 msgstr "Treibersuche für Geräte"
@@ -247,7 +247,7 @@ msgstr "Treibersuche für Geräte"
 #. NAME=Acer Aspire 4830TG; Пример: OSVERSIONS=Windows 10 x86; Текст для
 #. {{DOWNLOAD}} находится в ключе drivercard_no-results_download-link;
 msgid "drivercard_no-results-text"
-msgstr ""
+msgstr "Die Treiber für {{NAME}} für Windows {{OSVERSIONS}} wurden nicht gefunden im Katalog. {{DOWNLOAD}}, um den Treiber automatisch auszuwählen."
 
 msgid "drivercard_no-results_download-link"
 msgstr "DriverPack herunterladen"
@@ -292,7 +292,7 @@ msgid "dropdownos_current"
 msgstr "aktuell"
 
 msgid "footer_banner-title"
-msgstr ""
+msgstr "Sind Sie es leid, nach Treibern für Ihre Geräte zu suchen?"
 
 msgid "footer_banner-caption"
 msgstr "DriverPack Online wird Ihre benötigten Treiber automatisch <span style='color: {{COLOR}}'>finden und installieren</span>"
@@ -301,10 +301,10 @@ msgid "footer_banner_btn"
 msgstr "<span class='bold'>DriverPack Online</span> kostenlos herunterladen"
 
 msgid "footer_translate-feedback"
-msgstr ""
+msgstr "Haben Sie einen Schreibfehler oder Irrtum gefunden?<br />Markieren Sie ihn und drücken Sie {{HOTKEY}}"
 
 msgid "header_search-title"
-msgstr ""
+msgstr "<span class='bold'>Treibersuche über</span> die größte Datenbank — mehr als eine Millionen Treiber"
 
 msgid "header_search-examples"
 msgstr "Zum Beispiel:"
@@ -331,7 +331,7 @@ msgid "headeros_cta-btn"
 msgstr "Treiber installieren für <span class='HeaderOs__cta-btn-marked'>{{OS}}</span>"
 
 msgid "headeros_search-text"
-msgstr ""
+msgstr "Oder nutzen Sie die Suchfunktion unserer enormen Treiberdatenbank"
 
 msgid "landingdevicetypelist_landing-title"
 msgstr "DriverPack ist für jedes Gerät geeignet"
@@ -346,10 +346,10 @@ msgid "landingdevicetypelist_versions"
 msgstr "Andere DriverPack Versionen"
 
 msgid "landingfeatures_landing-title"
-msgstr ""
+msgstr "DriverPack ist der bequemste und schnellste Weg, einen Computer zu konfigurieren"
 
 msgid "landingfeatures_landing-subtitle"
-msgstr ""
+msgstr "Die Software steht kostenlos zur Verfügung und eignet sich sowohl für Profis, als auch für Anfänger"
 
 msgid "landingfeatures_item-title-free"
 msgstr "Kostenlos"
@@ -367,10 +367,10 @@ msgid "landingfeatures_item-title-for-all-devices"
 msgstr "Für alle Geräte"
 
 msgid "landingfeatures_item-caption-for-all-devices"
-msgstr ""
+msgstr "DriverPack hat die größte Treiber-Datenbank der Welt, und kann verwendet werden, um jeden Computer zu konfigurieren"
 
 msgid "landingheader_cta-text"
-msgstr "DriverPack installiert Treiber kostenlos und löst Treiberprobleme auf jedem Gerät"
+msgstr "DriverPack installiert Treiber kostenlos und löst Treiber-Probleme auf jedem Gerät"
 
 msgid "landingheader_cta-btn"
 msgstr "Installiere alle benötigten Treiber"
@@ -388,7 +388,7 @@ msgid "landingintroduction_author-title"
 msgstr "Hallo! Mein Name ist Artur Kuzyakov. Ich bin der Autor und Gründer von DriverPack"
 
 msgid "landingintroduction_author-speech"
-msgstr ""
+msgstr "Von einer kleinen Software, die vor 8 Jahren aus purem Enthusiasmus geschrieben wurde, haben wir uns in das Unternehmen verwandelt, welches mittlerweile mehr als 40 Millionen Menschen auf der ganzen Welt geholfen hat, ihren Computer zu konfigurieren!<br /><br />In dieser Zeit ist unsere Software deutlich schneller und intelligenter geworden. Heute ist DriverPack die größte Datenbank der Welt für einzigartige Treiber, welche sich auf Highspeed-Servern auf der ganzen Welt befinden. Um den Prozess der Treiberinstallation immer schnell und mit der höchstmöglichen Qualität durchzuführen, verwenden wir maschinelle Lerntechnologien, die unseren Auswahlalgorithmus noch besser und genauer machen. Wir haben es geschafft, das alles so zu erreichen, dass die Software absolut kostenlos bleibt und jeder sie benutzen kann. <br /><br />Mein Team und ich sind stolz auf unser Produkt und hoffen, dass es in kürzester Zeit Ihr zuverlässiger Assistent bei der Konfiguration eines Computers wird."
 
 msgid "landingintroduction_author-speech-marked"
 msgstr "Wir verbringen unsere ganze Zeit, um Ihre zu sparen!"
@@ -412,7 +412,7 @@ msgid "landingproducts_item-title-online"
 msgstr "DriverPack Online"
 
 msgid "landingproducts_item-caption-online"
-msgstr ""
+msgstr "Es wird sofort heruntergeladen, und lädt alle fehlenden Treiber während der Installation"
 
 msgid "landingproducts_item-version"
 msgstr "Version:"
@@ -424,7 +424,7 @@ msgid "landingproducts_item-title-network"
 msgstr "DriverPack Network"
 
 msgid "landingproducts_item-caption-network"
-msgstr ""
+msgstr "Es wird schnell heruntergeladen, und enthält bereits die Treiber für Netzwerkhardware"
 
 msgid "landingproducts_item-title-offline"
 msgstr "DriverPack Offline"
@@ -436,10 +436,10 @@ msgid "landingpublications__landing-title"
 msgstr "Massenmedien über DriverPack"
 
 msgid "landingscreenshots_landing-title"
-msgstr ""
+msgstr "DriverPack ist der bequemste und schnellste Weg, um einen Computer zu konfigurieren"
 
 msgid "landingscreenshots_landing-subtitle"
-msgstr ""
+msgstr "Die Software steht kostenlos zur Verfügung und eignet sich sowohl für Profis als auch für Anfänger"
 
 msgid "landingseofooter_landing-subtitle-notebooks"
 msgstr "DriverPack ist geeignet für alle Computer- und Laptop-Modelle"
@@ -454,7 +454,7 @@ msgid "landingsocial_landing-subtitle"
 msgstr "Folgen Sie den Neuigkeiten und nehmen Sie an Diskussionen teil"
 
 msgid "landingusers_cta"
-msgstr ""
+msgstr "Die Zahl der DriverPack-Nutzer auf der ganzen Welt wächst mit jeder Sekunde"
 
 msgid "landingusers_cta-btn"
 msgstr "Installiere alle benötigten Treiber"
@@ -463,10 +463,10 @@ msgid "landingusers_versions"
 msgstr "Andere DriverPack Versionen"
 
 msgid "landingwizard_landing-title"
-msgstr ""
+msgstr "Es ist jetzt möglich, einen Computer in einem Klick zu konfigurieren"
 
 msgid "landingwizard_item-caption-download"
-msgstr ""
+msgstr "Laden und starten Sie DriverPack Online"
 
 msgid "landingwizard_item-caption-setup"
 msgstr "Konfigurieren Sie Ihren Computer mit einer simplen Aktion"
@@ -484,7 +484,7 @@ msgid "navbar_download-link"
 msgstr "DriverPack Online herunterladen"
 
 msgid "notfound_cta-text"
-msgstr ""
+msgstr "Sie können Treiber automatisch finden und installieren, indem Sie kostenlos DriverPack Online nutzen"
 
 msgid "notfound_cta-btn"
 msgstr "DriverPack Online herunterladen"
@@ -502,7 +502,7 @@ msgid "notebookvendorslist_other-text"
 msgstr "Andere Hersteller"
 
 msgid "notebookvendorslist_title_os"
-msgstr ""
+msgstr "Treiber für Laptops unter {{OS}}"
 
 msgid "notebookvendorslist_title"
 msgstr "Treibersuche für Laptops"
@@ -514,7 +514,7 @@ msgid "promoheader_cta-text-gamers-caption"
 msgstr "Wenn Sie Computerspiele mögen, empfehlen wir Ihnen öfters die Treiber auf Ihrem Computer zu aktualisieren, um die größtmögliche Effizienz ihrer Hardware zu erreichen. Bis zu 37% mehr FPS - Die beste Spielerfahrung und neue Errungenschaften mit DriverPack."
 
 msgid "promoheader_cta-text"
-msgstr "DriverPack installiert Treiber kostenlos und löst Treiberprobleme auf jedem Gerät"
+msgstr "DriverPack installiert Treiber kostenlos und löst Treiber-Probleme auf jedem Gerät"
 
 msgid "promoheader_cta-btn"
 msgstr "Installiere alle benötigten Treiber"
@@ -532,13 +532,13 @@ msgid "promoheader_uninstall"
 msgstr "DriverPack entfernen"
 
 msgid "reviewheader_cta-text"
-msgstr ""
+msgstr "Treten Sie der DriverPack Community in den sozialen Netzwerken bei, um Neuigkeiten über das Produkt zu erfahren und an Diskussionen teilzunehmen"
 
 msgid "reviewheader_cta"
 msgstr "Fügen Sie Ihre Meinung oder einen Vorschlag zur Verbesserung von DriverPack hinzu"
 
 msgid "search_input-placeholder"
-msgstr ""
+msgstr "Suchen nach dem Namen des Treibers, Laptops, oder der DeviceID"
 
 msgid "search_btn-text"
 msgstr "Suchen"
@@ -754,7 +754,7 @@ msgstr "Treiber wird für das gewählte Betriebssystem heruntergeladen"
 #. AO521; Текст для {{DOWNLOAD}} находится в ключе searchresult_details-
 #. content_download-link
 msgid "searchresult_details-content-notebook-text"
-msgstr ""
+msgstr "{{DOWNLOAD}}, um die benötigten Treiber automatisch zu identifizieren und installieren, oder gehen Sie zur {{NOTEBOOK}} Seite und wählen die benötigten Treiber manuell"
 
 msgid "searchresult_details-content_download-link"
 msgstr "DriverPack herunterladen"
@@ -779,21 +779,21 @@ msgstr "Alle Systeme"
 #. GeForce 205; Текст для {{DOWNLOAD}} находится в ключе searchresult_details-
 #. content_download-link
 msgid "searchresult_details-content-group-text"
-msgstr ""
+msgstr "{{DOWNLOAD}}, um die benötigten Treiber automatisch zu identifizieren und installieren, oder gehen Sie zur {{DEVICE}} Geräteseite und wählen den benötigten Treiber manuell"
 
 #. i18n: EN: Example: CLASS.SINGLE.MAIN=monitor|chipset; COUNT=12; RU: Пример:
 #. CLASS.SINGLE.MAIN=монитор|чипсет; COUNT=12;
 msgid "searchresult_device"
-msgstr ""
+msgstr "{{CLASS.SINGLE.MAIN}} ({{COUNT}} Ergebnisse wurden gefunden)"
 
 msgid "searchresult_details-content-text-many"
-msgstr ""
+msgstr "Es wurden verschiedene Treiber für dieses Gerät gefunden"
 
 msgid "seofooter_os-list-title"
 msgstr "Betriebssystem-Versionen: <span itemprop='operatingSystem'>{{OSLIST}}</span>"
 
 msgid "seofooter_offers-title"
-msgstr ""
+msgstr "<span itemprop='offers' itemscope='' itemtype='http://schema.org/Offer'>Kostenlos <meta itemprop='price' content='0' />verfügbar</span>"
 
 msgid "seofooter_driver-description-title"
 msgstr "Treiberbeschreibung"
@@ -808,7 +808,7 @@ msgid "sidebanner_caption"
 msgstr "DriverPack <span class='SideBanner__caption-marked'>wählt und installiert</span> die benötigten Treiber automatisch"
 
 msgid "translationheader_cta-text"
-msgstr ""
+msgstr "Nehmen Sie an der Übersetzung der DriverPack Website teil und helfen Sie Millionen von Nutzern weltweit"
 
 msgid "translationheader_bubble-team"
 msgstr "Möchten Sie ein Teil des Übersetzungsteams für den weltweit größten Dienst für automatische Computer-Einrichtung werden?"
@@ -838,67 +838,67 @@ msgid "language_title"
 msgstr "German"
 
 msgid "landingPagePublications_rbk"
-msgstr ""
+msgstr "DriverPack ist die Software, die aus den Treibern für Windows besteht, welche von Artur Kuzyakov's Team sorgfältig ausgewählt und getestet wurden. Die Anwendung analysiert den Computer eines Benutzers und installiert die benötigten Treiber, wodurch zwei Probleme gelöst werden können: Erstens, um den Prozess der Computerkonfiguration zu beschleunigen (was besonders wichtig ist, wenn dutzende Computer innerhalb eines Systems vorhanden sind), und zweitens, um die Betriebsqualität zu verbessern."
 
 msgid "landingPagePublications_secretfirmy"
 msgstr "Heute hat DriverPack die größte Treiberdatenbank der Welt, welche in 45 Sprachen übersetzt wurde auf den Computern von mehr als 42 Millionen Nutzern arbeitet."
 
 msgid "landingPagePublications_cnews"
-msgstr ""
+msgstr "Seit dem Moment, an dem die erste Version der Software erstellt wurde, war DriverPack Solution bei den Anwendern sehr beliebt. Die Software steht absolut kostenlos zum Download bereit. Dies unterscheidet DriverPack Solution von seinen Mitbewerbern und zieht immer mehr neue Nutzer an."
 
 msgid "landingPagePublications_xbit"
-msgstr ""
+msgstr "DriverPack Solution ist eine interessante Anwendung. Sie enthält eine Reihe von Optionen, die andere Softwarelösungen des gleichen Typs nicht bieten. Jeder Benutzer kann alle möglichen Fehler beheben und den ordnungsgemäßen Betrieb des Systems und all seiner Geräte in nur zwei Klicks einrichten. Im Moment hat die Anzahl der Treiber in der DriverPack Datenbank bereits 1.1 Millionen Einträge überschritten, und alle wurden auf ihre Sicherheit geprüft."
 
 msgid "landingPagePublications_chip"
-msgstr ""
+msgstr "Mit DriverPack ist es keine Herausforderung, die neusten Treiberversionen für Ihre PC-Komponenten zu finden. Der angenehmste Aspekt ist, dass ein Nutzer nichts selbst machen muss. Dieses Tool ist komplett automatisiert und bequem in der Benutzung."
 
 msgid "landingPagePublications_pcmag"
 msgstr "DriverPack Protect hilft Ihnen, Ihren Computer vor Malware und Adware zu beschützen, an denen selbst Ihr Antivirenprogramm oder Werbeblock-Tools scheitern."
 
 msgid "landingPagePublications_habr"
-msgstr ""
+msgstr "Die Notwendigkeit, jedes mal Treiber zu suchen und zu installieren, wenn Sie Windows neu installieren ist, meiner Meinung nach, eine der größten Mängel der gesamten Windows-Familie. Bereits im Jahr 2008 hab ich beschlossen, dieses Problem zu beheben und schrieb meine eigene Software, die DriverPack genannt wurde. Heute wird mein Produkt von über 40 Millionen Nutzern auf der ganzen Welt verwendet, und ich denke, dass das Treiberproblem in Windows nun behoben wurde, wenn auch mit der Hilfe einer Drittanbieterlösung."
 
 msgid "landingPagePublications_computerra"
-msgstr ""
+msgstr "Die neue Version bietet dem Benutzer mehr Werkzeuge für die eigene Treiberauswahl. Es ist ein großes Problem für diejenigen, die viele verschiedene Computer reparieren oder administrieren. Nun ist es möglich, alle alternativen Treiberpakete in DriverPack zu integrieren, anstatt nur die Unnötigen zu entfernen."
 
 msgid "landingPagePublications_vc"
 msgstr "Dank grapevine wurde dieses Produkt von den Benutzern in 45 Sprachen ohne die Teilnahme unseres Teams übersetzt."
 
 msgid "adminpagefaq_official_vendors-q"
-msgstr ""
+msgstr "Vor DriverPack habe ich die Treiber von den offiziellen Seiten heruntergeladen, aber auch dort habe ich Probleme erlebt. Warum sind die Treiber in DriverPack zuverlässiger als die der Hersteller?"
 
 msgid "adminpagefaq_official_vendors-a"
-msgstr ""
+msgstr "Um unsere Treiber-Datenbank nicht nur die größte, sondern auch die stabilste zu machen, arbeiten wir hart daran, sie dauerhaft zu verbessern. Wir beheben sogar die Fehler, die die offiziellen Hersteller erlauben! Wir verwenden maschinelle Lerntechnologie, dank welcher sich unser Auswahl-Algorithmus ständig verbessert. Und das ist der Grund, warum die Treiber von DriverPack die zuverlässigsten sind :-)"
 
 msgid "adminpagefaq_database-q"
 msgstr "Wie erweitert sich die DriverPack Datenbank? Kann ich wirklich die Treiber finden, die ich benötige?"
 
 msgid "adminpagefaq_database-a"
-msgstr ""
+msgstr "Bis heute ist unsere Treiber-Datenbank die größte der Welt, weshalb Sie in der Lage sein werden, den Treiber für jedes Gerät mit über 99% Erfolg zu finden. Um eine solche Datenbank zu sammeln und zu unterstützen, kooperieren wir direkt mit den Geräteherstellern und Treiberentwicklern. Wir sammeln und testen die Treiber sowohl von offiziellen Seiten, als auch von privaten FTP-Servern, und nehmen auch aktive Nutzerempfehlungen in Betracht."
 
 msgid "adminpagefaq_free-q"
 msgstr "Ist es wahr, dass DriverPack absolut kostenlos ist?"
 
 msgid "adminpagefaq_free-a"
-msgstr ""
+msgstr "All unsere Software ist absolut kostenlos! Aber wenn Sie unser Projekt unterstützen möchten, können Sie die nützliche Software installieren, die wir Ihnen anbieten, und DriverPack Ihren Freunden empfehlen :-)"
 
 msgid "adminpagefaq_antivirus-q"
 msgstr "Mein Antivirenprogramm hat einen Virus in DriverPack entdeckt - Wie kann das passieren?"
 
 msgid "adminpagefaq_antivirus-a"
-msgstr "Das ist höchstwahrscheinlich eine Falschmeldung, da alle DriverPack-Versionen einer gründlichen Prüfung und Akkreditierung durch das Kaspersky Laboratory unterliegen. Unser Unternehmen kooperiert mit vielen Herstellern von Antivirensoftware, darunter Avast und 360 Total Security. Um weiter zu arbeiten, müssen Sie DriverPack zur Whitelist Ihres Antivirus hinzufügen. Wir würden es auch schätzen, wenn Sie diese Falschmeldung Ihrem Antivirus-Unternehmen und unserem Support melden."
+msgstr "Dies ist höchstwahrscheinlich eine Falschmeldung, da alle DriverPack Versionen einer gründlichen Prüfung und Akkreditierung durch das Kaspersky Laboratory unterliegen. Unser Unternehmen kooperiert mit vielen Herstellern von Antivirensoftware, darunter Avast und 360 Total Security. Um weiter zu arbeiten, müssen Sie DriverPack zur Whitelist Ihres Antiviren-Programmes hinzufügen. Wir würden es auch schätzen, wenn Sie diese Falschmeldung Ihrem Antivirus-Unternehmen und unserem Support melden."
 
 msgid "adminpagefaq_expert_mode-q"
 msgstr "Welcher Modus ist der bequemste für die Verwendung von DriverPack?"
 
 msgid "adminpagefaq_expert_mode-a"
-msgstr "Standardmäßig startet DriverPack im Automatikmodus, welcher entworfen wurde für neue Nutzer und auf Verständlichkeit ausgelegt ist. Für die Bequemlichkeit der fortgeschrittenen Nutzer und Systemadministratoren haben wir den Expertenmodus entwickelt, welcher erweiterte Einstellungen und Anpassungsoptionen bietet. Um diesen Modus zu aktivieren, reicht es, auf die dazugehörige Schaltfläche am Boden des Fensters zu klicken. "
+msgstr "Standardmäßig startet DriverPack im Automatik-Modus, welcher für neue Nutzer entworfen wurde und auf Verständlichkeit ausgelegt ist. Für die Bequemlichkeit der fortgeschrittenen Nutzer und Systemadministratoren haben wir den Expertenmodus entwickelt, welcher erweiterte Einstellungen und Anpassungsoptionen bietet. Um diesen Modus zu aktivieren, reicht es, auf die dazugehörige Schaltfläche am Boden des Fensters zu klicken. "
 
 msgid "adminpagefaq_stable-q"
-msgstr ""
+msgstr "Der Treiber wurde nicht richtig installiert, und mein Computer hat nun Probleme. Wie kann ich diese Situation beheben?"
 
 msgid "adminpagefaq_stable-a"
-msgstr ""
+msgstr "Die Betriebsstabilität der DriverPack Software ist eine unserer Hauptprioritäten, aber es treten noch kleinere Fehler auf, obwohl sie selten sind. Aus diesem Grund erstellen wir einen Wiederherstellungspunkt, der es Ihnen ermöglicht, in den zuvor konfigurierten Zustand zurückzukehren. Um ein ähnliches Problem in der Zukunft zu vermeiden, empfehlen wir Ihnen, in das DriverPack Menü zu gehen und den von der Software automatisch erstellten Bericht an unseren Technikservice zu senden."
 
 msgid "devicegrouppage_show-more-link"
 msgstr "Mehr anzeigen"
@@ -987,7 +987,7 @@ msgid "thankyoupopup_title"
 msgstr "Starte DriverPack"
 
 msgid "thankyoupopup_cta-text"
-msgstr ""
+msgstr "um mit der Auswahl und Installation der Treiber auf Ihrem Computer zu beginnen"
 
 msgid "thankyoupopup_download-link"
 msgstr "Herunterladen"
@@ -1023,10 +1023,10 @@ msgid "wannacryptpromopage_cta-text"
 msgstr "WannaCrypt Kryptographie-Virus — Wie beschützt man den Computer vor der größten Attacke der Geschichte?"
 
 msgid "wannacryptpromopage_cta-subtext"
-msgstr ""
+msgstr "DriverPack enthält spezifische Mittel zur Beseitigung von Schwachstellen neben den Computer-Konfigurations-Tools. Sie können sich kostenlosen Schutz gegen den WannaCry Virus herunterladen, welcher Ihren PC oder Laptop schützen wird."
 
 msgid "wannacryptpromopage_cta-btn"
-msgstr ""
+msgstr "Konfiguriere den Computer und schütze ihn gegen WannaCry"
 
 msgid "wannacryptpromopage_caption-text"
 msgstr "Diese Software wird kostenlos zur Verfügung gestellt"
@@ -1035,19 +1035,19 @@ msgid "wannacryptpromopage_info-text-title-1"
 msgstr "Was ist WannaCrypt?"
 
 msgid "wannacryptpromopage_info-text-1"
-msgstr ""
+msgstr "WannaCrypt Blackmailer-Virus (von den Opfern umbenannt in WannaCry) attackierte Computer auf der ganzen Welt am 12. Mai, und infizierte die Geräte von mehr als 300.000 Nutzern in 150 Ländern. Westeuropa, Russland und China waren am schlimmsten betroffen. In Großbritannien deaktivierte der Virus die Netzwerke der Gesundheitsabteilung und hielt den Betrieb von Krankenhäusern im ganzen Land an. In China betraf die Attacke alte Computer in Fabriken, die mehrere Industrien hielten.<br/><br/>Der zentrale Punkt, wie dieser Virus funktioniert, ist simpel: Er dringt in Ihren Computer oder Laptop ein und verschlüsselt alle Dokumente, Dateien und Materialien die er finden kann, und macht sie damit unbrauchbar. Danach verlangen die Eindringlinge eine erhebliche Menge Geld für die Entschlüsselung — etwa $300. Allerdings gibt es keine Garantie, dass Sie den Zugriff zu Ihren Dateien zurück erhalten. Gegenwärtig gibt es keine Möglichkeit, die Dateien selbst zu entschlüsseln, und die Lösungen, die gerade im Internet angeboten werden, sind entweder Phishing, verteilen einen weiteren Virus oder arbeiten einfach nicht mit 100-prozentiger Sicherheit."
 
 msgid "wannacryptpromopage_info-text-title-2"
 msgstr "Wer ist gefährdet?"
 
 msgid "wannacryptpromopage_info-text-2"
-msgstr ""
+msgstr "Die PCs mit einem Betriebssystem früher als Windows 10 und offenen SMB-Ports stellen das größte Risiko dar. Derzeit sind die Hälfte aller Windows-Nutzer gefährdet — 18% der Nutzer verwenden unlizenzierte Windows-Kopien (automatische Gefährdung), 23% der Nutzer deaktivieren Ihren Windows Update-Dienst (was den Download der neuesten &#147;Hotfixes&#148; von Microsoft verhindert), und weitere 6% benutzen veraltete Betriebssystem-Versionen, welche einfach keine Updates mehr erhalten. <br/><br/> Die Schlussfolgerung aus all dem ist, dass die Netzwerke von verschiedenen Firmen and Unternehmen, welche immer noch Betriebssysteme wie Windows XP nutzen, dem größten Risiko ausgesetzt sind. Bei Angriffen auf diese Netzwerke kann der Datenverlust lähmend und kostenintensiv sein, da das &#147;Lösegeld&#148; für jeden PC separat bezahlt werden muss."
 
 msgid "wannacryptpromopage_info-text-title-3"
 msgstr "So schützen Sie Ihr Geschäft — Lösung von DriverPack Solution"
 
 msgid "wannacryptpromopage_info-text-3"
-msgstr ""
+msgstr "Der Hauptgrund für die Virengefahr von WannaCrypt (WannaCry) besteht darin, dass er sich durch die Verwendung von kritischen Schwachstellen im SMBv1-Protokoll des MS17-010-Sicherheitssystems verbreitet. Es macht WannaCry unsichtbar für Antivirensoftware. Die Lösung von DriverPack Solution ermöglicht es Ihnen, ein Update zu installieren, welches die kritischen Sicherheitslücken behebt, und die veralteten Protokolle, welche eine Bedrohung darstellen, unabhängig von Ihrem Lizenzverlauf und Ihrer Betriebssystem-Version zu deaktivieren."
 
 msgid "wannacryptpromopage_links-text"
 msgstr "Die Entwicklung dieser Lösung basiert auf folgenden Materialien"
