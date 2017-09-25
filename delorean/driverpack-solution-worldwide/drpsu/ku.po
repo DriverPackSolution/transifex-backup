@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-08-16 09:41+0000\n"
+"POT-Creation-Date: 2017-09-13 09:50+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Bakhtawar Barzan <bakhtawar.barzan95@hotmail.com>, 2017\n"
 "Language-Team: Kurdish (https://www.transifex.com/driverpack-solution/teams/75453/ku/)\n"
@@ -48,9 +48,6 @@ msgstr "DriverPack Online دابه‌زێنه‌"
 msgid "adminheader_products-caption"
 msgstr "هه‌ر DriverPack كۆمپیوته‌ره‌كه‌ت ڕێكده‌خات له‌ هه‌ركاتێكدا. ته‌نها ئه‌و به‌سته‌یه‌ هه‌ڵبژێره‌ كه‌ پێویستته‌:"
 
-msgid "search_noresult"
-msgstr "DriverPack Online دابه‌زێنه‌"
-
 msgid "adminpromo_landing-title"
 msgstr " 18 DriverPack نوێیه‌كه‌ له‌ژێر گه‌شه‌پێداندایه‌"
 
@@ -92,6 +89,9 @@ msgstr "دابه‌زاندن"
 
 msgid "breadcrumbs_main-text"
 msgstr "په‌ڕه‌ی سه‌ره‌كی"
+
+msgid "breadcrumbs_catalog-main-text"
+msgstr ""
 
 msgid "breadcrumbs_vendors-text"
 msgstr "پیشه‌ساز"
@@ -190,6 +190,9 @@ msgstr "پیشاندانی هه‌موو پێناسه‌كان"
 msgid "devicecard_details-links"
 msgstr "پیشاندانی هه‌موو پێناسه‌كان بۆ"
 
+msgid "devicecardlist_no-result_download-link"
+msgstr "دابه‌زاندنی DriverPack"
+
 #. i18n: EN: Example: DEVICENAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10
 #. x86; Text for {{DOWNLOAD}} is in key devicecardlist_no-result_download-
 #. link; RU: Пример: NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10
@@ -214,9 +217,6 @@ msgstr "پێناسه‌كان بۆ  لاپتۆپی {{NOTEBOOK}} بۆ Windows {{O
 msgid "devicecardlist_no-results-notebook-device-class-text"
 msgstr "پێناسه‌كان بۆ {{DEVICECLASS}} بۆ لاپتۆپی {{NOTEBOOK}} بۆ Windows {{OSVERSIONS}} نه‌دۆزرایه‌وه‌. {{DOWNLOAD}} داببه‌زێنه‌ بۆ هه‌ڵبژاردنی پێناسه‌ به‌ ئۆتۆماتیكی."
 
-msgid "devicecardlist_no-result_download-link"
-msgstr "دابه‌زاندنی DriverPack"
-
 msgid "devicegrouppage_all-systems"
 msgstr "هه‌موو سیسته‌مه‌كان"
 
@@ -240,6 +240,9 @@ msgstr "پێناسه‌ بۆ ئامێره‌كان له‌سه‌ر {{OS}}"
 
 msgid "devicetypelist_title"
 msgstr "گه‌ڕان بۆ پێناسه‌ی ئامێره‌كان"
+
+msgid "search_noresult"
+msgstr "DriverPack Online دابه‌زێنه‌"
 
 #. i18n: EN: Example: NAME=Acer Aspire 4830TG; OSVERSIONS=Windows 10 x86; Text
 #. for {{DOWNLOAD}} is in key drivercard_no-results_download-link; RU: Пример:
@@ -807,10 +810,10 @@ msgid "sidebanner_caption"
 msgstr "DriverPack  به‌ ئۆتۆماتیكی پێناسه‌ داواكراوه‌كان <span class='SideBanner__caption-marked'>هه‌ڵده‌بژێرێت و دایانده‌مه‌زرێنێت</span>"
 
 msgid "translationheader_cta-text"
-msgstr "به‌شێك بگره‌ له‌ وه‌رگێڕانی ماڵپه‌ڕی DriverPack وه‌ یارمه‌تی ملیۆنان به‌كارهێنه‌ر بده‌ له‌ سه‌رانسه‌ری جیهاندا"
+msgstr ""
 
 msgid "translationheader_bubble-team"
-msgstr "تۆ حه‌ز ده‌كه‌یت ببیت به‌ به‌شێك له‌ تیمی وه‌رگێڕه‌كانی گه‌وره‌ترین خزمه‌تگوزاری ئاماده‌كردنی كۆمپیوته‌ر به‌ ئۆتۆماتیكی له‌ جیهاندا؟"
+msgstr ""
 
 msgid "translationheader_bubble-languages"
 msgstr "تۆ ئینگلیزی یان ڕووسی ده‌زانیت زۆرباش،  به‌م شێوه‌یه‌ تۆ ئاماده‌یت بۆ وه‌رگێرانی یه‌كێك له‌مانه‌ بۆ زمانی ئه‌سڵی خۆت؟"
@@ -837,7 +840,7 @@ msgid "language_title"
 msgstr "Kurdish"
 
 msgid "landingPagePublications_rbk"
-msgstr "DriverPack نه‌رمه‌كاڵایه‌كه‌ كه‌ پێناسه‌كانی تێدایه‌ بۆ Windows كه‌ به‌ ته‌واوی هه‌ڵبژێردراوه‌ و تاقیكراوه‌ته‌وه‌ له‌ لایه‌ن تیمی Artur Kuzyakov. ئه‌م به‌رنامه‌یه‌ شیكاری كۆمپیوته‌ری به‌كارهێنه‌ر ده‌كات و وه‌پێناسه‌ داواكراوه‌كان داده‌مه‌زرێنێت له‌ ناویدا، كه‌ ڕێگه‌ به‌تۆ ده‌دات چاره‌سه‌ری دوو كێشه‌ بكه‌یت: یه‌كه‌میان، پرۆسه‌ی خێراكردنی ڕێكخستنی كۆمپیوته‌ره‌كه‌ت ( كه‌ به‌ تایبه‌تی گرنگه‌ ئه‌گه‌ر  لێره‌دا ده‌یه‌ها كۆمپیوته‌ر هه‌بێت به‌ یه‌ك سیسته‌م): له‌گه‌ڵ دووه‌م: بۆ په‌ره‌پێدانی توانایی كاركردن."
+msgstr ""
 
 msgid "landingPagePublications_secretfirmy"
 msgstr "ئه‌مڕۆ، DriverPack گه‌وره‌ترین بنكه‌ی زانیاری پێناسه‌كانی هه‌یه‌ له‌ جیهاندا كه‌ وه‌رگێردراوه‌ بۆ 45 زمان و كار ده‌كات له‌ سه‌ر كۆمپیوته‌ره‌كانی زیاتر له 42 ملیۆن به‌كارهێنه‌ر."
@@ -910,9 +913,6 @@ msgstr "گشتی  {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
 
 msgid "devicetypevendorpage_subtitle-all"
 msgstr "هه‌موو {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
-
-msgid "drop-down-language_not-found"
-msgstr "زمانه‌كه‌ی خۆتت نه‌دۆزیه‌وه‌؟"
 
 msgid "errorpage_title"
 msgstr "هه‌ڵه‌ی 500: هه‌ڵه‌ی ناوخۆیی سێرڤه‌ر"
@@ -1053,3 +1053,6 @@ msgstr "په‌ره‌پێدانی ئه‌م چاره‌سه‌ریه‌ له‌
 
 msgid "wannacryptpromopage_link-smb"
 msgstr "چۆنیه‌تی خستنه‌كار و له‌كارخستنی نوسخه‌ی 1، 2 وه‌ 3 ی پرۆتۆكۆڵی SMB  بۆ Windows و Windows سێرڤه‌ر"
+
+#~ msgid "drop-down-language_not-found"
+#~ msgstr "زمانه‌كه‌ی خۆتت نه‌دۆزیه‌وه‌؟"

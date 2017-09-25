@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-08-16 09:41+0000\n"
+"POT-Creation-Date: 2017-09-13 09:50+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: danfong <danfong.hsieh@gmail.com>, 2017\n"
 "Language-Team: Chinese (https://www.transifex.com/driverpack-solution/teams/75453/zh/)\n"
@@ -48,9 +48,6 @@ msgstr "下載 DriverPack Online"
 msgid "adminheader_products-caption"
 msgstr "任何 DriverPack 都將隨時安裝您的電腦，只需選擇所需的驅動程式包:"
 
-msgid "search_noresult"
-msgstr "下載 DriverPack Online"
-
 msgid "adminpromo_landing-title"
 msgstr "新版的 DriverPack 18 正在開發中"
 
@@ -92,6 +89,9 @@ msgstr "下載"
 
 msgid "breadcrumbs_main-text"
 msgstr "首頁"
+
+msgid "breadcrumbs_catalog-main-text"
+msgstr ""
 
 msgid "breadcrumbs_vendors-text"
 msgstr "製造商"
@@ -190,6 +190,9 @@ msgstr "檢視所有驅動程式"
 msgid "devicecard_details-links"
 msgstr "查看所有驅動程式"
 
+msgid "devicecardlist_no-result_download-link"
+msgstr "下載 DriverPack"
+
 #. i18n: EN: Example: DEVICENAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10
 #. x86; Text for {{DOWNLOAD}} is in key devicecardlist_no-result_download-
 #. link; RU: Пример: NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10
@@ -214,9 +217,6 @@ msgstr "筆記型電腦的 Windows {{NOTEBOOK}} 驅動程式在目錄中找不�
 msgid "devicecardlist_no-results-notebook-device-class-text"
 msgstr "{{NOTEBOOK}} 筆記型電腦 Windows 的 {{DEVICECLASS}} 驅動程式找不到 {{OSVERSIONS}}。{{DOWNLOAD}} 自動選擇驅動程式。"
 
-msgid "devicecardlist_no-result_download-link"
-msgstr "下載 DriverPack"
-
 msgid "devicegrouppage_all-systems"
 msgstr "所有系統"
 
@@ -240,6 +240,9 @@ msgstr "{{OS}} 上的裝置驅動程式"
 
 msgid "devicetypelist_title"
 msgstr "驅動程式搜尋裝置"
+
+msgid "search_noresult"
+msgstr "下載 DriverPack Online"
 
 #. i18n: EN: Example: NAME=Acer Aspire 4830TG; OSVERSIONS=Windows 10 x86; Text
 #. for {{DOWNLOAD}} is in key drivercard_no-results_download-link; RU: Пример:
@@ -807,10 +810,10 @@ msgid "sidebanner_caption"
 msgstr "DriverPack 將自動<span class='SideBanner__caption-marked'>選擇並安裝</span>所需的驅動程式"
 
 msgid "translationheader_cta-text"
-msgstr "參與翻譯 DriverPack 網站，幫助全球數百萬使用者"
+msgstr ""
 
 msgid "translationheader_bubble-team"
-msgstr "您想成為全球最大的自動電腦安裝服務翻譯團隊的一員嗎?"
+msgstr ""
 
 msgid "translationheader_bubble-languages"
 msgstr "您是否熟悉英文或俄文，以便您準備好從其中一種翻譯成您的母語?"
@@ -837,7 +840,7 @@ msgid "language_title"
 msgstr "Chinese (Traditional)"
 
 msgid "landingPagePublications_rbk"
-msgstr "DriverPack 是由 Artur Kuzyakov 的團隊徹底選擇和測試的 Windows 的驅動程式。該實用程式分析使用者的電腦並安裝所需的驅動程式，這些驅動程式能夠解決兩個問題：首先，加快電腦安裝的過程(如果在一個系統內有數十台電腦是特別重要的)。其次是提高其操作品質。"
+msgstr ""
 
 msgid "landingPagePublications_secretfirmy"
 msgstr "今天，DriverPack 擁有世界上最大的驅動程式資料庫，它被翻譯成 45 種語言，並在超過 4200 萬人的電腦上執行。"
@@ -910,9 +913,6 @@ msgstr "熱門 {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
 
 msgid "devicetypevendorpage_subtitle-all"
 msgstr "全部 {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
-
-msgid "drop-down-language_not-found"
-msgstr "Haven't found your language?"
 
 msgid "errorpage_title"
 msgstr "錯誤 500: 內部伺服器錯誤"
@@ -1053,3 +1053,6 @@ msgstr "發展是以下列材料為主"
 
 msgid "wannacryptpromopage_link-smb"
 msgstr "如何啟用、停用 Windows and Windows Server SMB 通訊協定版本 1、2 和 3"
+
+#~ msgid "drop-down-language_not-found"
+#~ msgstr "Haven't found your language?"

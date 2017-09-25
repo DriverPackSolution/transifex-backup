@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-08-16 09:41+0000\n"
+"POT-Creation-Date: 2017-09-13 09:50+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Kojo Fosu Bempa Edue <kojofosube@gmail.com>, 2017\n"
 "Language-Team: Akan (https://www.transifex.com/driverpack-solution/teams/75453/ak/)\n"
@@ -48,9 +48,6 @@ msgstr "Twe DriverPack Online"
 msgid "adminheader_products-caption"
 msgstr "DriverPack biara bε hyehyε w’abεεfo afidie no amonom hͻ ara. Neε ehia ne sε wo bε yi neε wopε:"
 
-msgid "search_noresult"
-msgstr "Twe DriverPack Online"
-
 msgid "adminpromo_landing-title"
 msgstr "DriverPack 18 foforo εguso wͻ mpuntuo ase"
 
@@ -92,6 +89,9 @@ msgstr "Twe"
 
 msgid "breadcrumbs_main-text"
 msgstr "Mfiase afã"
+
+msgid "breadcrumbs_catalog-main-text"
+msgstr "drivers ɛma {{OS.NAME}}"
 
 msgid "breadcrumbs_vendors-text"
 msgstr "Abͻfoͻ"
@@ -190,6 +190,9 @@ msgstr "Hwε drivers nyinara"
 msgid "devicecard_details-links"
 msgstr "Hwε drivers nyinaa εma"
 
+msgid "devicecardlist_no-result_download-link"
+msgstr "Twe DriverPack"
+
 #. i18n: EN: Example: DEVICENAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10
 #. x86; Text for {{DOWNLOAD}} is in key devicecardlist_no-result_download-
 #. link; RU: Пример: NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10
@@ -214,9 +217,6 @@ msgstr "{{NOTEBOOK}} drivers εma Windows {{OSVERSIONS}} nni hͻ. {{DOWNLOAD}} n
 msgid "devicecardlist_no-results-notebook-device-class-text"
 msgstr "{{DEVICECLASS}} drivers εma {{NOTEBOOK}} kͻmputa korokorowa wͻ Windows {{OSVERSIONS}} nni hͻ. {{DOWNLOAD}} na εnyi driver mma wo amonomuhͻa."
 
-msgid "devicecardlist_no-result_download-link"
-msgstr "Twe DriverPack"
-
 msgid "devicegrouppage_all-systems"
 msgstr "afidie nyinara"
 
@@ -240,6 +240,9 @@ msgstr "Driver εma nfidie wͻ {{OS}}"
 
 msgid "devicetypelist_title"
 msgstr "Driver hwehwε w’afidie"
+
+msgid "search_noresult"
+msgstr "Twe DriverPack Online"
 
 #. i18n: EN: Example: NAME=Acer Aspire 4830TG; OSVERSIONS=Windows 10 x86; Text
 #. for {{DOWNLOAD}} is in key drivercard_no-results_download-link; RU: Пример:
@@ -807,10 +810,10 @@ msgid "sidebanner_caption"
 msgstr "DriverPack bε <span class='SideBanner__caption-marked'>paw na w’asi</span> drivers a εho hia ama wo"
 
 msgid "translationheader_cta-text"
-msgstr "Fa wo ho hyε DriverPack kasa nkyerεkyerε aseε kuo no mu na boa nnipa apepem wͻ wiase nyinaa"
+msgstr "Boa yɛn ma yɛn fa DriverPack nto dwa mma kↄmputa ahodoↄ pii wↄ wiase yi mu — bɛ ka yɛn ahofama dwumadie a wↄn kyerɛ kasa ahodoↄ ase"
 
 msgid "translationheader_bubble-team"
-msgstr "Wo bεpε sεε wo bε ka yεn kuo a wͻn kyerε kasa mu ho ma kͻmputa mu dwumadifoͻ a εso wͻ wiase no mu?"
+msgstr "Wo bɛ pɛ sɛɛ wo bɛ ka yɛn kuo a wↄn kyerɛ kasa ase ma wiase mu dwumadie keseɛ ma kↄmputa mu amonom nsieɛ"
 
 msgid "translationheader_bubble-languages"
 msgstr "Wote brofo ne Russia kasa ase yie, na w’ayε krado sε wo bε kyerε mu baako akͻ wo kuro mu kasa?"
@@ -837,7 +840,7 @@ msgid "language_title"
 msgstr "Akan"
 
 msgid "landingPagePublications_rbk"
-msgstr "DriverPack yε adeε bi a εwͻ drivers mu ahodoͻ ma Windows a Artur Kuzyakov kuo no ahyεda ato wͻn boa se hwehwε mu ayi na w’asan asͻ ahwε. Adeε wei hwehwε wo kͻmputa mu na w’ahyehyε nnfidie a ehia wo kͻmputa no, wei boa ma wo sͻ ͻhaw mienu ano. Baako ne sεε εbε hyehyε wo kͻmputa no ntεntεm (wei boa wͻ mmrε a wo di kͻmputa pii so dwuma); na neε εtͻ so mienu no so ne sεε εsanso boa ma wo kͻmputa no di dwuma akεseε."
+msgstr "DriverPack yɛ nhyehyɛɛ bi a ɛkura drivers ma Windows a Artur Kuzyakov kuo ato wↄn boa se ayi na wↄn asi so dua. Nhyehyɛɛ yi hwehwɛ wo kↄmputa no mu na asi drivers a ehia no ama wo, ɛno boa ma wo si ↄhaw pii kwan: Neɛ adi kan, ɛbɛ ma wo kↄmputa no adi dwuma ntɛntɛm so (ɛno ho mfasoↄ no ɛtaa ba mmrɛ a akↄmputa pii wↄ afidie baako mu); neɛ ɛtↄ so, ɛboa ma dwumadie kↄ so yie."
 
 msgid "landingPagePublications_secretfirmy"
 msgstr "Ɛnε, DriverPack na εwͻ drivers ho noͻma wͻ wiase mu na εsanso kyerε kasa mu ahodoͻ 45 na adi dwuma wͻ nnipa ͻpepem 42 kͻmputa ho."
@@ -910,9 +913,6 @@ msgstr "{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}} a agye din"
 
 msgid "devicetypevendorpage_subtitle-all"
 msgstr "{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}} nyinara"
-
-msgid "drop-down-language_not-found"
-msgstr "Haven't found your language?"
 
 msgid "errorpage_title"
 msgstr "Akwanhyia 500: akwanhyia a asi server no mu"
@@ -1053,3 +1053,6 @@ msgstr "Noͻma a wͻn de yεε mfraeε yi nie"
 
 msgid "wannacryptpromopage_link-smb"
 msgstr "Sε neε wo bε dum na w'asͻ su mu ahodoͻ 1, 2 ne 3 ho SMB protocols εma Windows ne Windows Server"
+
+#~ msgid "drop-down-language_not-found"
+#~ msgstr "Haven't found your language?"

@@ -6,13 +6,14 @@
 # sergiu <vandenboosch@mail.ru>, 2017
 # Driver Pack <team@drp.su>, 2017
 # Cetina Alexandru <cetina_alexandru95@yahoo.com>, 2017
+# Sebastian Petrov <petrov.sebastian@gmail.com>, 2017
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-08-16 09:41+0000\n"
+"POT-Creation-Date: 2017-09-13 09:50+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
-"Last-Translator: Cetina Alexandru <cetina_alexandru95@yahoo.com>, 2017\n"
+"Last-Translator: Sebastian Petrov <petrov.sebastian@gmail.com>, 2017\n"
 "Language-Team: Romanian (https://www.transifex.com/driverpack-solution/teams/75453/ro/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -52,9 +53,6 @@ msgstr "Descarcă DriverPack Online"
 
 msgid "adminheader_products-caption"
 msgstr "Orice DriverPack va configura computerul dvs. în cel mai scurt timp posibil. Doar alegeți pachetul de care aveți nevoie:"
-
-msgid "search_noresult"
-msgstr "Descarcă DriverPack Online"
 
 msgid "adminpromo_landing-title"
 msgstr "Noua versiune a DriverPack 18 este în dezvoltare"
@@ -97,6 +95,9 @@ msgstr "Descarcă"
 
 msgid "breadcrumbs_main-text"
 msgstr "Pagină de start"
+
+msgid "breadcrumbs_catalog-main-text"
+msgstr ""
 
 msgid "breadcrumbs_vendors-text"
 msgstr "Producători"
@@ -195,6 +196,9 @@ msgstr "Vezi toate driverele"
 msgid "devicecard_details-links"
 msgstr "Vezi toate driverele pentru"
 
+msgid "devicecardlist_no-result_download-link"
+msgstr "Descarcă DriverPack"
+
 #. i18n: EN: Example: DEVICENAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10
 #. x86; Text for {{DOWNLOAD}} is in key devicecardlist_no-result_download-
 #. link; RU: Пример: NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10
@@ -219,9 +223,6 @@ msgstr "Driverele pentru laptop {{NOTEBOOK}} pentru Windows {{OSVERSIONS}} nu su
 msgid "devicecardlist_no-results-notebook-device-class-text"
 msgstr "Driverele pentru {{DEVICECLASS}} pentru laptop {{NOTEBOOK}} pentru Windows {{OSVERSIONS}} nu au fost găsite. {{DOWNLOAD}} pentru a selecta driverul automat."
 
-msgid "devicecardlist_no-result_download-link"
-msgstr "Descarcă DriverPack"
-
 msgid "devicegrouppage_all-systems"
 msgstr "toate sistemele"
 
@@ -245,6 +246,9 @@ msgstr "Driver pentru laptopuri pe {{OS}}"
 
 msgid "devicetypelist_title"
 msgstr "Căutare drivere pentru dispozitive"
+
+msgid "search_noresult"
+msgstr "Descarcă DriverPack Online"
 
 #. i18n: EN: Example: NAME=Acer Aspire 4830TG; OSVERSIONS=Windows 10 x86; Text
 #. for {{DOWNLOAD}} is in key drivercard_no-results_download-link; RU: Пример:
@@ -812,10 +816,10 @@ msgid "sidebanner_caption"
 msgstr "DriverPack va <span class='SideBanner__caption-marked'>selecta și instala</span> automat driverele necesare"
 
 msgid "translationheader_cta-text"
-msgstr "Participați la traducerea site-ului DriverPack și ajutați milioane de utilizatori din întreaga lume"
+msgstr "Ajuta-ne sa disponibilizam DriverPack milioanelor de utilizatori de calculatoare din lume — ia parte la proiectul nostru de voluntariat de traducere a programului in alte limbi"
 
 msgid "translationheader_bubble-team"
-msgstr "Ți-ai dori să faci parte din echipa de translatori a celui mai mare serviciu din întreaga lume de căutare drivere?"
+msgstr "Ti-ar placea sa faci parte din echipa de traducatori a celui mai renumit serviciu de configurare automata a calculatoarelor ?"
 
 msgid "translationheader_bubble-languages"
 msgstr "Cunoști limba Engleză sau limba Rusă destul de bine, în așa fel încât să traduci în limba ta maternă?"
@@ -842,7 +846,7 @@ msgid "language_title"
 msgstr "Romanian"
 
 msgid "landingPagePublications_rbk"
-msgstr "Driverpack este software-ul ce conține drivere pentru Windows selectate și testate de echipa lui Artur Kuzyakov. Această aplicație analizează calculatorul unui utilizator și instalează driverele necesare, ceea ce vă permite rezolvarea a două probleme: prima, accelerarea procesului de configurare a calculatorului (ceea ce este deosebit de important dacă există zeci de computere într-un singur sistem); și a doua, să îmbunătățească capacitatea operațională."
+msgstr "DriverPack este un program care contine drivere pentru Windows testate in amanunt de catre echipa domnului Artur Kuzyakov. Aceasta aplicatie analizeaza calculatorul utilizatorului si instaleaza pe acesta driverele necesare, ceea ce va va permite sa rezolvati doua probleme: in primul rand, pentru a ii accelera viteza procesului de configurare a calculatorului (ceea ce este in mod special important in cazul in care avem de a face cu mai multe calculatoare intr-o retea); si in al doi-lea rand, pentru a ii spori capacitatea operationala."
 
 msgid "landingPagePublications_secretfirmy"
 msgstr "Astăzi, DriverPack are cea mai mare bază de date din lume tradusă în 45 de limbi şi operează pe calculatoarele a peste 42 de milioane de utilizatori."
@@ -915,9 +919,6 @@ msgstr "Cele mai folosite {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
 
 msgid "devicetypevendorpage_subtitle-all"
 msgstr "Toate {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
-
-msgid "drop-down-language_not-found"
-msgstr "Nu ai găsit limba ta maternă?"
 
 msgid "errorpage_title"
 msgstr "Eroare 500: eroare internă server"
@@ -1058,3 +1059,6 @@ msgstr "Dezvoltarea acestei soluții s-a bazat pe următoarele materiale"
 
 msgid "wannacryptpromopage_link-smb"
 msgstr "Cum să activezi sau să dezactivezi veriunile 1,2 și 3 a protocoalelor SMB pentru Windows si Windows server"
+
+#~ msgid "drop-down-language_not-found"
+#~ msgstr "Nu ai găsit limba ta maternă?"

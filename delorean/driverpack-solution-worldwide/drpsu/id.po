@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-08-16 09:41+0000\n"
+"POT-Creation-Date: 2017-09-13 09:50+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Azhe 403 <azhe403@gmail.com>, 2017\n"
 "Language-Team: Indonesian (https://www.transifex.com/driverpack-solution/teams/75453/id/)\n"
@@ -55,9 +55,6 @@ msgstr "Unduh DrivePack Online"
 msgid "adminheader_products-caption"
 msgstr "DriverPack akan mengkonfigurasi komputer Anda dalam waktu singkat. Hanya pilih paket yang anda butuhkan:"
 
-msgid "search_noresult"
-msgstr "Unduh DriverPack Online"
-
 msgid "adminpromo_landing-title"
 msgstr "DriverPack 18 terbaru dalam pengembangan"
 
@@ -99,6 +96,9 @@ msgstr "Unduh"
 
 msgid "breadcrumbs_main-text"
 msgstr "Halaman depan"
+
+msgid "breadcrumbs_catalog-main-text"
+msgstr ""
 
 msgid "breadcrumbs_vendors-text"
 msgstr "Pabrikan"
@@ -197,6 +197,9 @@ msgstr "Tampilkan semua driver"
 msgid "devicecard_details-links"
 msgstr "Tampilkan semua driver untuk"
 
+msgid "devicecardlist_no-result_download-link"
+msgstr "Unduh DriverPack"
+
 #. i18n: EN: Example: DEVICENAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10
 #. x86; Text for {{DOWNLOAD}} is in key devicecardlist_no-result_download-
 #. link; RU: Пример: NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10
@@ -221,9 +224,6 @@ msgstr "Driver untuk {{NOTEBOOK}} komputer jingjing di Windows {{OSVERSIONS}} ti
 msgid "devicecardlist_no-results-notebook-device-class-text"
 msgstr "Driver untuk {{DEVICECLASS}} untuk {{NOTEBOOK}} komputer jingjing di Wndows {{OSVERSIONS}} tidak ditemukan. {{DOWNLOAD}} untuk memilih driver secara otomatis."
 
-msgid "devicecardlist_no-result_download-link"
-msgstr "Unduh DriverPack"
-
 msgid "devicegrouppage_all-systems"
 msgstr "semua sistem"
 
@@ -247,6 +247,9 @@ msgstr "Driver untuk perangkat di {{OS}}"
 
 msgid "devicetypelist_title"
 msgstr "Cari driver untuk perangkat"
+
+msgid "search_noresult"
+msgstr "Unduh DriverPack Online"
 
 #. i18n: EN: Example: NAME=Acer Aspire 4830TG; OSVERSIONS=Windows 10 x86; Text
 #. for {{DOWNLOAD}} is in key drivercard_no-results_download-link; RU: Пример:
@@ -814,10 +817,10 @@ msgid "sidebanner_caption"
 msgstr "DriverPack akan dengan otomatis <span class='SideBanner__caption-marked'>memilih dan menginstall</span> driver yang diperlukan"
 
 msgid "translationheader_cta-text"
-msgstr "Ambil bagian dalam menterjemahkan halaman DriverPack  dan menolong jutaan pengguna di seluruh dunia"
+msgstr ""
 
 msgid "translationheader_bubble-team"
-msgstr "Apakah kamu suka menjadi bagian dari tim penterjemah untuk pelayanan dunia terbesar dari  pengaturan komputer?"
+msgstr ""
 
 msgid "translationheader_bubble-languages"
 msgstr "Apakah anda mengenal Inggris atau Rusia dengan cukup baik, agar anda siap menterjemahkan dari salah satunya ke bahasa aslimu?"
@@ -844,7 +847,7 @@ msgid "language_title"
 msgstr "Indonesian"
 
 msgid "landingPagePublications_rbk"
-msgstr "DriverPack adalah perangkat lunak yang konsisten dengan driver untuk Windows dan dipilih dan dites oleh tim Artur Kuzyakov. Aplikasi ini menganalisa pengguna komputer dan menginstall driver yang dibutuhkan, yang mengaktifkanmu untuk memecahkan dua masalah: pertama, untuk mempercepat proses konfigurasi komputer (yang sangat penting jika disana ada beberapa komputer dalam satu sistem); dan kedua, untuk menambah kemampuan operasional."
+msgstr ""
 
 msgid "landingPagePublications_secretfirmy"
 msgstr "Hari ini, DriverPack mempunyai database driver terbesar di dunia yang diterjemahkan ke dalam 45 bahasa dan beroperasi di komputer lebih dari 42 juta pengguna."
@@ -917,9 +920,6 @@ msgstr "Terkenal {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
 
 msgid "devicetypevendorpage_subtitle-all"
 msgstr "Semua {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
-
-msgid "drop-down-language_not-found"
-msgstr "Haven't found your language?"
 
 msgid "errorpage_title"
 msgstr "Kesalahan 500: kesalahan dalam server"
@@ -1060,3 +1060,6 @@ msgstr "Pengembangan dari solusi ini didasarkan pada pilihan bahan-bahan"
 
 msgid "wannacryptpromopage_link-smb"
 msgstr "bagaimana menyalakan dan mematikan versi 1, 2 dan 3 protokol SMB untuk Windows dan Windows Server"
+
+#~ msgid "drop-down-language_not-found"
+#~ msgstr "Haven't found your language?"

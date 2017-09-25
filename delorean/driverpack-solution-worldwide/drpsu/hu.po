@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-08-16 09:41+0000\n"
+"POT-Creation-Date: 2017-09-13 09:50+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Adam <adamee007@gmail.com>, 2017\n"
 "Language-Team: Hungarian (https://www.transifex.com/driverpack-solution/teams/75453/hu/)\n"
@@ -51,9 +51,6 @@ msgstr "DriverPack Online letöltése"
 msgid "adminheader_products-caption"
 msgstr "Bármely DriverPack pillanatok alatt települ a számítógépre. Egész egyszerűen válaszd ki azt a csomagot, amelyre szükséged van:"
 
-msgid "search_noresult"
-msgstr "DriverPack Online letöltése"
-
 msgid "adminpromo_landing-title"
 msgstr "Az új DriverPack 18 fejlesztés alatt van"
 
@@ -95,6 +92,9 @@ msgstr "Letöltés"
 
 msgid "breadcrumbs_main-text"
 msgstr "Honlap"
+
+msgid "breadcrumbs_catalog-main-text"
+msgstr ""
 
 msgid "breadcrumbs_vendors-text"
 msgstr "Gyártók"
@@ -193,6 +193,9 @@ msgstr "Összes driver megtekintése"
 msgid "devicecard_details-links"
 msgstr "Driverek megtekintése:"
 
+msgid "devicecardlist_no-result_download-link"
+msgstr "DriverPack letöltése"
+
 #. i18n: EN: Example: DEVICENAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10
 #. x86; Text for {{DOWNLOAD}} is in key devicecardlist_no-result_download-
 #. link; RU: Пример: NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10
@@ -217,9 +220,6 @@ msgstr "{{NOTEBOOK}} laptop driverei a Windows {{OSVERSIONS}} verzióhoz nem tal
 msgid "devicecardlist_no-results-notebook-device-class-text"
 msgstr "Nem találhatóak {{DEVICECLASS}} driverek a {{NOTEBOOK}} laptophoz Windows {{OSVERSIONS}} verzió alá. {{DOWNLOAD}} a driverek automatikusan kiválasztásához!"
 
-msgid "devicecardlist_no-result_download-link"
-msgstr "DriverPack letöltése"
-
 msgid "devicegrouppage_all-systems"
 msgstr "összes rendszerhez"
 
@@ -243,6 +243,9 @@ msgstr ""
 
 msgid "devicetypelist_title"
 msgstr "Eszközök driver keresése"
+
+msgid "search_noresult"
+msgstr "DriverPack Online letöltése"
 
 #. i18n: EN: Example: NAME=Acer Aspire 4830TG; OSVERSIONS=Windows 10 x86; Text
 #. for {{DOWNLOAD}} is in key drivercard_no-results_download-link; RU: Пример:
@@ -810,10 +813,10 @@ msgid "sidebanner_caption"
 msgstr "A DriverPack automatikusan <span class='SideBanner__caption-marked'>kiválasztja, és alkalmazza</span> a szükséges drivereket"
 
 msgid "translationheader_cta-text"
-msgstr "Vegyél részt a DriverPack honlap fordításában, és segíts több milliónyi felhasználónak világszerte!"
+msgstr ""
 
 msgid "translationheader_bubble-team"
-msgstr "Szeretnél csatlakozni a világ legnagyobb, automatikus drivertelepítő szolgáltatását nyújtó vállalat fordítócsapatához?"
+msgstr ""
 
 msgid "translationheader_bubble-languages"
 msgstr "Jól beszéled az angol vagy az orosz nyelvet, így képes lennél az egyikből a saját nyelvedre fordítani?"
@@ -840,7 +843,7 @@ msgid "language_title"
 msgstr "Hungarian"
 
 msgid "landingPagePublications_rbk"
-msgstr "A DriverPack az Artur Kuzyakov csapata által alapos tesztelésnek és válogatásnak alávetett driverek összessége. A szoftver megvizsgálja a felhasználó számítógépét, és telepíti a szükséges drivereket, melyek két problémát segítenek megoldani: először is felgyorsítja a számítógép beállításának folyamatát (amely főként akkor fontos, ha több tucatnyi számítógép található egy hálózaton), másodszor pedig javítja a folyamat minőségét."
+msgstr ""
 
 msgid "landingPagePublications_secretfirmy"
 msgstr "Mára a DriverPack a világ legnagyobb driver adatbázisává vált,  melyet 45 nyelvre fordítottak le, és több mint 42 millió ember számítógépét látta el driverekkel."
@@ -913,9 +916,6 @@ msgstr "Népszerű {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
 
 msgid "devicetypevendorpage_subtitle-all"
 msgstr "Összes {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
-
-msgid "drop-down-language_not-found"
-msgstr "Haven't found your language?"
 
 msgid "errorpage_title"
 msgstr "500-as hiba: belső szerverhiba"
@@ -1056,3 +1056,6 @@ msgstr "A fejlesztés az alábbiak segítségével készül"
 
 msgid "wannacryptpromopage_link-smb"
 msgstr "Hogyan engedélyezhető vagy tiltható le az SMB protokollok 1, 2 és 3-as verziója Windows vagy Windows szerver rendszeren?"
+
+#~ msgid "drop-down-language_not-found"
+#~ msgstr "Haven't found your language?"

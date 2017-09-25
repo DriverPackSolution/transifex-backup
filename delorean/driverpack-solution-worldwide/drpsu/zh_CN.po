@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-08-16 09:41+0000\n"
+"POT-Creation-Date: 2017-09-13 09:50+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: danfong <danfong.hsieh@gmail.com>, 2017\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/driverpack-solution/teams/75453/zh_CN/)\n"
@@ -49,9 +49,6 @@ msgstr "下载 DriverPack Online"
 msgid "adminheader_products-caption"
 msgstr "只需选择所需的驱动程序包，任何时候 DriverPack 都将随时安装到您的电脑:"
 
-msgid "search_noresult"
-msgstr "下载 DriverPack Online"
-
 msgid "adminpromo_landing-title"
 msgstr "新版的 DriverPack 18 正在开发中"
 
@@ -93,6 +90,9 @@ msgstr "下载"
 
 msgid "breadcrumbs_main-text"
 msgstr "首页"
+
+msgid "breadcrumbs_catalog-main-text"
+msgstr ""
 
 msgid "breadcrumbs_vendors-text"
 msgstr "制造商"
@@ -191,6 +191,9 @@ msgstr "查看所有驱动程序"
 msgid "devicecard_details-links"
 msgstr "查看所有驱动程序"
 
+msgid "devicecardlist_no-result_download-link"
+msgstr "下载 DriverPack"
+
 #. i18n: EN: Example: DEVICENAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10
 #. x86; Text for {{DOWNLOAD}} is in key devicecardlist_no-result_download-
 #. link; RU: Пример: NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10
@@ -215,9 +218,6 @@ msgstr " {{NOTEBOOK}} 笔记本电脑的 Windows 驱动程序无法找到 {{OSVE
 msgid "devicecardlist_no-results-notebook-device-class-text"
 msgstr "{{NOTEBOOK}} 笔记本电脑 Windows 的 {{DEVICECLASS}} 驱动程序无法找到 {{OSVERSIONS}}。{{DOWNLOAD}} 自动下载驱动程序。"
 
-msgid "devicecardlist_no-result_download-link"
-msgstr "下载 DriverPack"
-
 msgid "devicegrouppage_all-systems"
 msgstr "所有系统"
 
@@ -241,6 +241,9 @@ msgstr "在 {{OS}} 设备的驱动程序"
 
 msgid "devicetypelist_title"
 msgstr "驱动程序搜索设备"
+
+msgid "search_noresult"
+msgstr "下载 DriverPack Online"
 
 #. i18n: EN: Example: NAME=Acer Aspire 4830TG; OSVERSIONS=Windows 10 x86; Text
 #. for {{DOWNLOAD}} is in key drivercard_no-results_download-link; RU: Пример:
@@ -808,10 +811,10 @@ msgid "sidebanner_caption"
 msgstr "DriverPack 将自动<span class='SideBanner__caption-marked'>选择并安装</span>所需的驱动程序"
 
 msgid "translationheader_cta-text"
-msgstr "参与翻译 DriverPack 网站，帮助全球数百万使用者"
+msgstr ""
 
 msgid "translationheader_bubble-team"
-msgstr "想成为全球最大的自动电脑安装服务翻译团队的一员吗?"
+msgstr ""
 
 msgid "translationheader_bubble-languages"
 msgstr "您是否熟悉英文或俄文，以便您准备好从其中一种翻译成您的母语?"
@@ -838,7 +841,7 @@ msgid "language_title"
 msgstr "Chinese (Simplified)"
 
 msgid "landingPagePublications_rbk"
-msgstr "DriverPack 是由 Artur Kuzyakov 的团队彻底选择和测试的 Windows 的驱动程序。该实用程序分析使用者的电脑并安装所需的驱动程序，这些驱动程序能够解决两个问题：首先，加快电脑安装的过程(如果在一个系统内有数十台电脑是特别重要的)。其次是提高其操作品质。"
+msgstr ""
 
 msgid "landingPagePublications_secretfirmy"
 msgstr "今天，DriverPack 拥有世界上最大的驱动程序资料库，它被翻译成 45 种语言，并在超过 4200 万人的电脑上运行。"
@@ -911,9 +914,6 @@ msgstr "热门 {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
 
 msgid "devicetypevendorpage_subtitle-all"
 msgstr "全部 {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
-
-msgid "drop-down-language_not-found"
-msgstr "Haven't found your language?"
 
 msgid "errorpage_title"
 msgstr "错误 500：内部服务器错误"
@@ -1054,3 +1054,6 @@ msgstr "该程序的开发基于以下语言"
 
 msgid "wannacryptpromopage_link-smb"
 msgstr "如何启用，停用 Windows 和 Windows Server SMB 通讯协定版本 1,2 和 3"
+
+#~ msgid "drop-down-language_not-found"
+#~ msgstr "Haven't found your language?"

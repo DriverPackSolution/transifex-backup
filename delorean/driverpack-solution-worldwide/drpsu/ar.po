@@ -18,7 +18,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-08-16 09:41+0000\n"
+"POT-Creation-Date: 2017-09-13 09:50+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Mido Roshdy <midoroshdy97@gmail.com>, 2017\n"
 "Language-Team: Arabic (https://www.transifex.com/driverpack-solution/teams/75453/ar/)\n"
@@ -61,9 +61,6 @@ msgstr "تحميل DriverPack Online"
 msgid "adminheader_products-caption"
 msgstr "فإن أي DriverPack سوف يقوم بتهيئه جهاز الكمبيوتر الخاص بك في أي وقت من الأوقات.فقط اختار حزمة التي تحتاج"
 
-msgid "search_noresult"
-msgstr "تحميل DriverPack Online"
-
 msgid "adminpromo_landing-title"
 msgstr " Driverpack 18 الجديد قيد التطوير حالياً"
 
@@ -105,6 +102,9 @@ msgstr "تحميل"
 
 msgid "breadcrumbs_main-text"
 msgstr "الصفحة الرئيسية "
+
+msgid "breadcrumbs_catalog-main-text"
+msgstr ""
 
 msgid "breadcrumbs_vendors-text"
 msgstr "المصنعين "
@@ -203,6 +203,9 @@ msgstr "عرض كافة التعريفات "
 msgid "devicecard_details-links"
 msgstr "عرض كل التعريفات عن "
 
+msgid "devicecardlist_no-result_download-link"
+msgstr "تحميل DriverPack"
+
 #. i18n: EN: Example: DEVICENAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10
 #. x86; Text for {{DOWNLOAD}} is in key devicecardlist_no-result_download-
 #. link; RU: Пример: NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10
@@ -227,9 +230,6 @@ msgstr "التعريفات الخاصة باللاب توب {{NOTEBOOK}} ل Wind
 msgid "devicecardlist_no-results-notebook-device-class-text"
 msgstr "التعريفات الخاصة بـ {{DEVICECLASS}} من أجل اللاب توب {{NOTEBOOK}} ل Windows {{OSVERSIONS}} لم يتم العثور عليها. {{DOWNLOAD}} لاختيار التعريف تلقائياً."
 
-msgid "devicecardlist_no-result_download-link"
-msgstr "تحميل DriverPack"
-
 msgid "devicegrouppage_all-systems"
 msgstr "كل الأنظمة ."
 
@@ -253,6 +253,9 @@ msgstr "تعريف الجهاز في وضع {{OS}}"
 
 msgid "devicetypelist_title"
 msgstr "البحث عن تعريفات الجهاز "
+
+msgid "search_noresult"
+msgstr "تحميل DriverPack Online"
 
 #. i18n: EN: Example: NAME=Acer Aspire 4830TG; OSVERSIONS=Windows 10 x86; Text
 #. for {{DOWNLOAD}} is in key drivercard_no-results_download-link; RU: Пример:
@@ -820,10 +823,10 @@ msgid "sidebanner_caption"
 msgstr "DriverPack تلقائيا <span class='SideBanner__caption-marked'>حدد وتثبيت</span> برامج التشغيل المطلوبه"
 
 msgid "translationheader_cta-text"
-msgstr "المشاركة في ترجمة DriverPack الموقع ومساعدة الملايين من المستخدمين في جميع أنحاء العالم"
+msgstr ""
 
 msgid "translationheader_bubble-team"
-msgstr "هل تريد أن تكون جزءا من فريق المترجمين لأكبر خدمة في العالم من إعداد الكمبيوتر الآلي؟"
+msgstr ""
 
 msgid "translationheader_bubble-languages"
 msgstr "هل تعرف الإنجليزية أو الروسية بشكل جيد جدا، بحيث كنت على استعداد لترجمة من واحد منهم إلى لغتك الأم؟"
@@ -850,7 +853,7 @@ msgid "language_title"
 msgstr "Arabic"
 
 msgid "landingPagePublications_rbk"
-msgstr "DriverPack هو البرنامج الذي يتألف من تعريفات Windows مختارة بدقة ومختبرة من قبل فريق Artur Kuzyakov. هذا التطبيق يقوم بتحليل الكمبيوتر المستخدم ويثبت عليه التعريفات المطلوبة، والتي تمكنك من حل قضيتين: أولا، لتسريع عملية تكوين الكمبيوتر (وهو أمر مهم خصوصا إذا كان هناك العشرات من أجهزة الكمبيوتر ضمن نظام واحد). وثانيا، تحسين قدرتها التشغيلية."
+msgstr ""
 
 msgid "landingPagePublications_secretfirmy"
 msgstr "اليوم، DriverPack لديها أكبر قاعدة بيانات السائق في العالم الذي ترجم إلى 45 لغة وتعمل على أجهزة الكمبيوتر من أكثر من 42 مليون مستخدم."
@@ -923,9 +926,6 @@ msgstr "مشهور {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
 
 msgid "devicetypevendorpage_subtitle-all"
 msgstr "جميع {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}} "
-
-msgid "drop-down-language_not-found"
-msgstr "Haven't found your language?"
 
 msgid "errorpage_title"
 msgstr "خطأ 500 - خطأ داخلي في المخدم"
@@ -1066,3 +1066,6 @@ msgstr "واستند تطوير هذا الحل على المواد التالي
 
 msgid "wannacryptpromopage_link-smb"
 msgstr "كيفية تمكين وتعطيل الإصدارات 1 و 2 و 3 من بروتوكولات SMB ل Windows و Windows Server"
+
+#~ msgid "drop-down-language_not-found"
+#~ msgstr "Haven't found your language?"

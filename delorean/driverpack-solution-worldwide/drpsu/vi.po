@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-08-16 09:41+0000\n"
+"POT-Creation-Date: 2017-09-13 09:50+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Nguyễn Tiến Mạnh <tienmanhnguyen0409@gmail.com>, 2017\n"
 "Language-Team: Vietnamese (https://www.transifex.com/driverpack-solution/teams/75453/vi/)\n"
@@ -49,9 +49,6 @@ msgstr "Tải DriverPack Online"
 msgid "adminheader_products-caption"
 msgstr "Bất kỳ DriverPack nào cũng sẽ thiết đặt cấu hình cho máy tính của bạn ngay tức thì, chỉ cần chọn gói mà bạn cần:"
 
-msgid "search_noresult"
-msgstr "Tải DriverPack Online"
-
 msgid "adminpromo_landing-title"
 msgstr "DriverPack 18 đang được phát triển"
 
@@ -93,6 +90,9 @@ msgstr "Tải về:"
 
 msgid "breadcrumbs_main-text"
 msgstr "Trang Chủ"
+
+msgid "breadcrumbs_catalog-main-text"
+msgstr ""
 
 msgid "breadcrumbs_vendors-text"
 msgstr "Nhà sản xuất"
@@ -191,6 +191,9 @@ msgstr "Xem tất cả các trình điều khiển"
 msgid "devicecard_details-links"
 msgstr "Xem tất cả các trình điều khiển cho"
 
+msgid "devicecardlist_no-result_download-link"
+msgstr "Tải về DriverPack"
+
 #. i18n: EN: Example: DEVICENAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10
 #. x86; Text for {{DOWNLOAD}} is in key devicecardlist_no-result_download-
 #. link; RU: Пример: NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10
@@ -215,9 +218,6 @@ msgstr "Không thể tìm thấy các trình điều khiển cho  máy tính xá
 msgid "devicecardlist_no-results-notebook-device-class-text"
 msgstr "Không thể tìm thấy các trình điều khiển dành cho {{DEVICECLASS}} cho máy tính xách tay {{NOTEBOOK}} trên Windows {{OSVERSIONS}}. {{DOWNLOAD}} để tự động lựa chọn các trình điều khiển."
 
-msgid "devicecardlist_no-result_download-link"
-msgstr "Tải về DriverPack"
-
 msgid "devicegrouppage_all-systems"
 msgstr "tất cả những hệ thống"
 
@@ -241,6 +241,9 @@ msgstr "Trình điều khiển cho các thiết bị trên {{OS}}"
 
 msgid "devicetypelist_title"
 msgstr "Tìm trình điều khiển cho các thiết bị"
+
+msgid "search_noresult"
+msgstr "Tải DriverPack Online"
 
 #. i18n: EN: Example: NAME=Acer Aspire 4830TG; OSVERSIONS=Windows 10 x86; Text
 #. for {{DOWNLOAD}} is in key drivercard_no-results_download-link; RU: Пример:
@@ -808,10 +811,10 @@ msgid "sidebanner_caption"
 msgstr "DriverPack sẽ tự động <span class='SideBanner__caption-marked'>chọn và cài đặt</span> những trình điều khiển thiết yếu"
 
 msgid "translationheader_cta-text"
-msgstr "Tham gia vào việc dịch website DriverPack và giúp đỡ hàng triệu người dùng trên thế giới"
+msgstr ""
 
 msgid "translationheader_bubble-team"
-msgstr "Bạn có muốn trở thành một phần của đội các phiên dịch viên cho dịch vụ thiết lập máy tính tự động lớn nhất thế giới?"
+msgstr ""
 
 msgid "translationheader_bubble-languages"
 msgstr "Bạn biết tiếng Anh hoặc tiếng Nga khá tốt, và sẵn sàng để dịch một trong hai thứ tiếng đó sang tiếng mẹ đẻ của bạn?"
@@ -838,7 +841,7 @@ msgid "language_title"
 msgstr "Vietnamese"
 
 msgid "landingPagePublications_rbk"
-msgstr "DriverPack là phần mềm bao gồm các trình điều khiển dành cho Windows đã được lựa chọn và kiểm tra triệt để bởi nhóm của Artur Kuzyakov. Ứng dụng này sẽ phân tích máy tính của bạn và cài đặt những trình điều khiển cần thiết, cho phép bạn giải quyết hai vấn đề: đầu tiên, đó là tăng tốc quá trình thiết đặt cấu hình của máy tính (Sẽ đặc biệt quan trọng nếu có hàng tá máy tính chạy trong cùng một hệ thống); và thứ hai, là tăng cường khả năng hoạt động của máy tính."
+msgstr ""
 
 msgid "landingPagePublications_secretfirmy"
 msgstr "Hiện nay, DriverPack có cơ sở dữ liệu trình điều khiển lớn nhất trên thế giới, được dịch sang 45 thứ tiếng và được sử dụng trên máy tính của hơn 42 triệu người dùng."
@@ -911,9 +914,6 @@ msgstr "{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}} phổ biến"
 
 msgid "devicetypevendorpage_subtitle-all"
 msgstr "Tất cả {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
-
-msgid "drop-down-language_not-found"
-msgstr "Haven't found your language?"
 
 msgid "errorpage_title"
 msgstr "Lỗi 500: lỗi nội bộ máy chủ"
@@ -1054,3 +1054,6 @@ msgstr "Sự phát triển của giải pháp này được dựa trên các th�
 
 msgid "wannacryptpromopage_link-smb"
 msgstr "Làm cách nào để khởi động và vô hiệu hóa các phiên bản 1, 2, và 3 của phương thức SMB cho Windows và Máy Chủ Windows"
+
+#~ msgid "drop-down-language_not-found"
+#~ msgstr "Haven't found your language?"

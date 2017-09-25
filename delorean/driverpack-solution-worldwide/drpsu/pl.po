@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-08-16 09:41+0000\n"
+"POT-Creation-Date: 2017-09-13 09:50+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Łukasz Sumera <sumera.lukasz@gmail.com>, 2017\n"
 "Language-Team: Polish (https://www.transifex.com/driverpack-solution/teams/75453/pl/)\n"
@@ -52,9 +52,6 @@ msgstr "Pobierz DriverPack Online"
 msgid "adminheader_products-caption"
 msgstr "DriverPack umożliwia skonfigurowanie komputera w każdej chwili. Wystarczy jedynie wybrać pakiet, którego potrzebujesz:"
 
-msgid "search_noresult"
-msgstr "Pobierz DriverPack Online"
-
 msgid "adminpromo_landing-title"
 msgstr "Zupełnie nowy DriverPack 18 jest w trakcie tworzenia"
 
@@ -96,6 +93,9 @@ msgstr "Pobierz"
 
 msgid "breadcrumbs_main-text"
 msgstr "Strona główna"
+
+msgid "breadcrumbs_catalog-main-text"
+msgstr ""
 
 msgid "breadcrumbs_vendors-text"
 msgstr "Producenci"
@@ -194,6 +194,9 @@ msgstr "Przejrzyj wszystkie sterowniki:"
 msgid "devicecard_details-links"
 msgstr "Wyświetl wszystkie sterowniki dla"
 
+msgid "devicecardlist_no-result_download-link"
+msgstr "Pobierz DriverPack"
+
 #. i18n: EN: Example: DEVICENAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10
 #. x86; Text for {{DOWNLOAD}} is in key devicecardlist_no-result_download-
 #. link; RU: Пример: NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10
@@ -218,9 +221,6 @@ msgstr ""
 msgid "devicecardlist_no-results-notebook-device-class-text"
 msgstr ""
 
-msgid "devicecardlist_no-result_download-link"
-msgstr "Pobierz DriverPack"
-
 msgid "devicegrouppage_all-systems"
 msgstr "wszystkie systemy"
 
@@ -244,6 +244,9 @@ msgstr "Sterownik dla urządzeń z {{OS}}"
 
 msgid "devicetypelist_title"
 msgstr "Szukaj sterowników dla urządzeń"
+
+msgid "search_noresult"
+msgstr "Pobierz DriverPack Online"
 
 #. i18n: EN: Example: NAME=Acer Aspire 4830TG; OSVERSIONS=Windows 10 x86; Text
 #. for {{DOWNLOAD}} is in key drivercard_no-results_download-link; RU: Пример:
@@ -915,9 +918,6 @@ msgstr ""
 msgid "devicetypevendorpage_subtitle-all"
 msgstr ""
 
-msgid "drop-down-language_not-found"
-msgstr "Haven't found your language?"
-
 msgid "errorpage_title"
 msgstr ""
 
@@ -1057,3 +1057,6 @@ msgstr ""
 
 msgid "wannacryptpromopage_link-smb"
 msgstr "Jak włączyć lub wyłączyć wersje 1,2 lub 3 protokołów SMB dla Windows lub Windows Server"
+
+#~ msgid "drop-down-language_not-found"
+#~ msgstr "Haven't found your language?"

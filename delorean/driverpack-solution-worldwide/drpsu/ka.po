@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-08-16 09:41+0000\n"
+"POT-Creation-Date: 2017-09-13 09:50+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>, 2017\n"
 "Language-Team: Georgian (https://www.transifex.com/driverpack-solution/teams/75453/ka/)\n"
@@ -48,9 +48,6 @@ msgstr "DriverPack Online-ს გადმოწერა"
 msgid "adminheader_products-caption"
 msgstr "DriverPack მარტივად დააკონფიგებს თქვენს კომპიუტერს. აირჩიეთ ვერსია:"
 
-msgid "search_noresult"
-msgstr "DriverPack Online-ს გადმოწერა"
-
 msgid "adminpromo_landing-title"
 msgstr "მზადებაშია ახალი, DriverPack-ის მე-18 ვერსია"
 
@@ -92,6 +89,9 @@ msgstr "გადმოწერა"
 
 msgid "breadcrumbs_main-text"
 msgstr "მთავარი გვერდი"
+
+msgid "breadcrumbs_catalog-main-text"
+msgstr ""
 
 msgid "breadcrumbs_vendors-text"
 msgstr "მწარმოებლები"
@@ -190,6 +190,9 @@ msgstr "ყველა დრაივერის ნახვა"
 msgid "devicecard_details-links"
 msgstr "ყველა დრაივერი მოწყობილობისთვის: "
 
+msgid "devicecardlist_no-result_download-link"
+msgstr "DriverPack-ის გადმოწერა"
+
 #. i18n: EN: Example: DEVICENAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10
 #. x86; Text for {{DOWNLOAD}} is in key devicecardlist_no-result_download-
 #. link; RU: Пример: NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10
@@ -214,9 +217,6 @@ msgstr "დრაივერები {{NOTEBOOK}} Windows {{OSVERSIONS}}-ს�
 msgid "devicecardlist_no-results-notebook-device-class-text"
 msgstr "{{DEVICECLASS}}-ის დრაივერი მოწყობილობისთვის {{NOTEBOOK}}  Windows {{OSVERSIONS}}-სთვის არ მოიძებნა კატალოგში. {{DOWNLOAD}} რათა ავტომატურად დაყენდეს დრაივერი."
 
-msgid "devicecardlist_no-result_download-link"
-msgstr "DriverPack-ის გადმოწერა"
-
 msgid "devicegrouppage_all-systems"
 msgstr "ყველა სისტემა"
 
@@ -240,6 +240,9 @@ msgstr "მოწყობილობის დრაივერი სის�
 
 msgid "devicetypelist_title"
 msgstr "დრაივერის ძებნა"
+
+msgid "search_noresult"
+msgstr "DriverPack Online-ს გადმოწერა"
 
 #. i18n: EN: Example: NAME=Acer Aspire 4830TG; OSVERSIONS=Windows 10 x86; Text
 #. for {{DOWNLOAD}} is in key drivercard_no-results_download-link; RU: Пример:
@@ -807,10 +810,10 @@ msgid "sidebanner_caption"
 msgstr "DriverPack ავტინატყრად <span class='SideBanner__caption-marked'> აირჩევს და დააყენებს </span> საჭირო დრაივერს"
 
 msgid "translationheader_cta-text"
-msgstr "მიიღეთ მონაწილეობა DriverPack -ის თარგმნაში დაეხმარეთ მილიონობით მომხმარებელს"
+msgstr ""
 
 msgid "translationheader_bubble-team"
-msgstr "გსურთ გახდეთ უდიდესი მომსახურების მთარგმნელთა გუნდის წევრი?"
+msgstr ""
 
 msgid "translationheader_bubble-languages"
 msgstr "იცით ინგლისური ან რუსული? მზად ხართ თარგმნოთ საკუთარ ენაზე?"
@@ -837,7 +840,7 @@ msgid "language_title"
 msgstr "Georgian"
 
 msgid "landingPagePublications_rbk"
-msgstr "DriverPack შეიცავს ისეთ დრაივერებს, რომლებიც შემოწმებულია არტურ კუზიაკოვის გუნდის მიერ. პროგრამა ამოწმებს მომხმარებლის კომპიუტერს და აინსტალებს შესაბამის დრაივერს, ეს ყველაფერი კი ჭრის 2 პრობლემას: აჩქარებს დრაივერების ინსტალაციის პროცესს (რაც განსაკუთრებით მნიშვნელოვანია ბევრი კომპიუტერის შემთხვევაში) და ამ ყველაფერს ასრულებს უმაღლეს დონეზე."
+msgstr ""
 
 msgid "landingPagePublications_secretfirmy"
 msgstr "დღეს DriverPack -ს აქვს დრაივერების უდიდესი ბაზა, რომელიც ნათარგმნია 45 ენაზე და მუშაობს 42 მილიონზე მეტ მომხმარებელთან. "
@@ -910,9 +913,6 @@ msgstr "პოპულარული {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}} "
 
 msgid "devicetypevendorpage_subtitle-all"
 msgstr "ყველა {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
-
-msgid "drop-down-language_not-found"
-msgstr "Haven't found your language?"
 
 msgid "errorpage_title"
 msgstr "შეცდომა 500: სერვერის შიდა შეცდომა"
@@ -1053,3 +1053,6 @@ msgstr "შექმნა დაფუძნებულია შემდე�
 
 msgid "wannacryptpromopage_link-smb"
 msgstr "როგორ ჩავრთოთ ან გავთიშოთ SMB პროტოკოლის 1, 2 და 3 ვერსია Windows და Windows Server-ზე."
+
+#~ msgid "drop-down-language_not-found"
+#~ msgstr "Haven't found your language?"

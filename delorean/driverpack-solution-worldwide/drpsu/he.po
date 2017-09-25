@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-08-16 09:41+0000\n"
+"POT-Creation-Date: 2017-09-13 09:50+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Alexander Boglachov <alexbog98@gmail.com>, 2017\n"
 "Language-Team: Hebrew (https://www.transifex.com/driverpack-solution/teams/75453/he/)\n"
@@ -54,9 +54,6 @@ msgstr "הורד DriverPack Online"
 msgid "adminheader_products-caption"
 msgstr "כל אחד מתוכנות DriverPack שלנו יגדירו את המחשב שלך במהירות. פשוט בחרו את החבילה המתאימה לכם ביותר:"
 
-msgid "search_noresult"
-msgstr "הורד DriverPack Online"
-
 msgid "adminpromo_landing-title"
 msgstr "DriverPack 18 נמצאת כרגע בפיתוח"
 
@@ -98,6 +95,9 @@ msgstr "הורד"
 
 msgid "breadcrumbs_main-text"
 msgstr "עמוד הבית"
+
+msgid "breadcrumbs_catalog-main-text"
+msgstr "מנהלי התקנים עבור {{OS.NAME}}"
 
 msgid "breadcrumbs_vendors-text"
 msgstr "יצרנים"
@@ -196,6 +196,9 @@ msgstr "הצג את כל הדרייברים"
 msgid "devicecard_details-links"
 msgstr "הצג את כל הדרייברים עבור"
 
+msgid "devicecardlist_no-result_download-link"
+msgstr "הורד את DriverPack"
+
 #. i18n: EN: Example: DEVICENAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10
 #. x86; Text for {{DOWNLOAD}} is in key devicecardlist_no-result_download-
 #. link; RU: Пример: NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10
@@ -220,9 +223,6 @@ msgstr "הדרייברים עבור המחשב הנייד {{NOTEBOOK}} לWindows
 msgid "devicecardlist_no-results-notebook-device-class-text"
 msgstr "הדרייברים עבור {{DEVICECLASS}} למחשב הנייד {{NOTEBOOK}} לWindows {{OSVERSIONS}} לא נמצאו בקטלוג. {{DOWNLOAD}} להתקנה אוטומטית של הדרייבר."
 
-msgid "devicecardlist_no-result_download-link"
-msgstr "הורד את DriverPack"
-
 msgid "devicegrouppage_all-systems"
 msgstr "כל המערכות"
 
@@ -242,10 +242,13 @@ msgid "deviceidheader_caption-many"
 msgstr "התקן זה מוכר גם בשמות הבאים:"
 
 msgid "devicetypelist_title_os"
-msgstr ""
+msgstr "מנהל התקנים עבור מחשירים ב-{{OS}}"
 
 msgid "devicetypelist_title"
 msgstr "חיפוש דרייבר לפי סוג התקן"
+
+msgid "search_noresult"
+msgstr "הורד DriverPack Online"
 
 #. i18n: EN: Example: NAME=Acer Aspire 4830TG; OSVERSIONS=Windows 10 x86; Text
 #. for {{DOWNLOAD}} is in key drivercard_no-results_download-link; RU: Пример:
@@ -336,7 +339,7 @@ msgid "headeros_cta-btn"
 msgstr "התקינו מנהלי התקנים עבור <span class='HeaderOs__cta-btn-marked'>{{OS}}</span>"
 
 msgid "headeros_search-text"
-msgstr "או השתמשו בחיפוש במוסד הנתונים העצום שלנו."
+msgstr "או השתמשו בחיפוש במוסד הנתונים העצום שלנו"
 
 msgid "landingdevicetypelist_landing-title"
 msgstr "תוכנת DriverPack מתאימה לכל סוג מכשיר"
@@ -393,7 +396,7 @@ msgid "landingintroduction_author-title"
 msgstr "שלום! שמי הוא Artur Kuzyakov. אני היוצר והמייסד של DriverPack"
 
 msgid "landingintroduction_author-speech"
-msgstr ""
+msgstr "מתוכנה מזערית שנכתבה מתוך דחף של נלהבות לפני 8 שנים, הפכנו לחברה שעזרה ליותר מ-40 מיליון אנשים בכל רחבי העולם להגדיר ולעצב את המחשבים שלהם!<br /><br />במהלך הזמן הזה, התוכנה שלנו הפכה לחכמה ומהירה יותר באופן משמעותי. כיום, DriverPack הוא מוסד הנתונים הגדול ביותר בעולם של מנהלי התקנים ייחודיים, הממוקם בכל רחווי העולם - בשרתים מהירים ביותר. על מנת לבצע את תהליך התקנת מנהלי ההתקנים באופן מהיר והאיכותי ביותר, אנו משתמשים בטכנולוגית ה-Machine Learning, אשר הופכת את אלגוריתם הבחירה שלנו לטוב יותר ואף מדוייק יותר. הצלחנו להשיג את כל זה בצורה כזאת שהתוכנה נשארת חינמית לחלוטין וכולם רשאים להשתמש מה. <br /><br />אני והקבוצה שלי, גאים מאוד מהמוצר שלנו ומקווים שהוא יהפוך לעוזר האמין שלכם בהגדרת כל מחשב בזמן הקצר ביותר. "
 
 msgid "landingintroduction_author-speech-marked"
 msgstr "אנחנו עובדים מסביב לשעון בכדי לחסוך לכם זמן!"
@@ -429,7 +432,7 @@ msgid "landingproducts_item-title-network"
 msgstr "DriverPack Network"
 
 msgid "landingproducts_item-caption-network"
-msgstr ""
+msgstr "ההורדה מהירה ומכילה את מנהלי ההתקנים עבור חומרת רשת"
 
 msgid "landingproducts_item-title-offline"
 msgstr "DriverPack Offline"
@@ -441,7 +444,7 @@ msgid "landingpublications__landing-title"
 msgstr "פרסומים ומאמרים על DriverPack"
 
 msgid "landingscreenshots_landing-title"
-msgstr ""
+msgstr "DriverPack הוא הדרך המהירה והבטוחה ביותר להגדרת מחשב"
 
 msgid "landingscreenshots_landing-subtitle"
 msgstr "התוכנה מופצת חינם, ומתאימה למשתמשים מתחילים ולמתקדמים כאחד."
@@ -450,16 +453,16 @@ msgid "landingseofooter_landing-subtitle-notebooks"
 msgstr "DriverPack מתאימה לכל סוגי המחשבים הנייחים והניידים"
 
 msgid "landingseofooter_landing-subtitle-devices"
-msgstr ""
+msgstr "DriverPack מכיל מנהלי התקנים עבור כל המחשירים"
 
 msgid "landingsocial_landing-title"
-msgstr ""
+msgstr "הצטרפו לקהילת DriverPack"
 
 msgid "landingsocial_landing-subtitle"
-msgstr ""
+msgstr "עיקבו אחר החדשות וקחו חלק בדיונים"
 
 msgid "landingusers_cta"
-msgstr ""
+msgstr "כל שניה שעוברת, כמות המשתמשים של DriverPack ברחבי העולם גדלה "
 
 msgid "landingusers_cta-btn"
 msgstr "התקן את כל הדרייברים הנחוצים"
@@ -468,16 +471,16 @@ msgid "landingusers_versions"
 msgstr "גרסאות DriverPack שונות"
 
 msgid "landingwizard_landing-title"
-msgstr ""
+msgstr "כעת זה אפשרי - לעצב ולהגדיר את המחשב בלחיצת כפתור"
 
 msgid "landingwizard_item-caption-download"
-msgstr ""
+msgstr "הורידו והתחילו את DriverPack Online"
 
 msgid "landingwizard_item-caption-setup"
-msgstr ""
+msgstr "הגדירו את המחשב בפעולה אחת פשוטה"
 
 msgid "landingwizard_item-caption-profit"
-msgstr ""
+msgstr "יש! עכשיו המחשב שלי רץ כמו חדש!"
 
 msgid "landingwizard_cta-btn"
 msgstr "התקן את כל הדרייברים הנחוצים"
@@ -489,7 +492,7 @@ msgid "navbar_download-link"
 msgstr "הורד DriverPack Online"
 
 msgid "notfound_cta-text"
-msgstr ""
+msgstr "אתם יכולים למצוא ולהתקין מנהלי התקנים אוטומטית באמצעות DriverPack Online - בחינם"
 
 msgid "notfound_cta-btn"
 msgstr "הורד DriverPack Online"
@@ -507,7 +510,7 @@ msgid "notebookvendorslist_other-text"
 msgstr "יצרנים שונים"
 
 msgid "notebookvendorslist_title_os"
-msgstr ""
+msgstr "מנהלי התקנים למחשבים ניידים ב-{{OS}}"
 
 msgid "notebookvendorslist_title"
 msgstr "חיפוש דרייברים למחשבים ניידים"
@@ -516,7 +519,7 @@ msgid "promoheader_cta-text-gamers"
 msgstr "המחשב שלך חזק מכפי שאתה חושב: עדכן את כל הדרייברים בחינם"
 
 msgid "promoheader_cta-text-gamers-caption"
-msgstr ""
+msgstr "אוהבים משחקי מחשב? אנו מציעים לכם לחדש את מנהלי ההתקנים בתדירות גבוהה יותר בכדי להגיע לייעול מקסימלי של החומרה שלכם. עלייה ביותר מ-37% ב-FPS - חוויית המשחק הטובה ביותר והישגים חדשים עם DriverPack."
 
 msgid "promoheader_cta-text"
 msgstr "תוכנת DriverPack תתקין דרייברים בחינם, ותפתור בעיות דרייברים בכל התקן"
@@ -537,13 +540,13 @@ msgid "promoheader_uninstall"
 msgstr "הסרת DriverPack"
 
 msgid "reviewheader_cta-text"
-msgstr ""
+msgstr "הצטרפו לקהילת DriverPack ברשתות החברתיות כדי להתעדכן בחדשות על המוצר ולקחת חלק בדיונים"
 
 msgid "reviewheader_cta"
-msgstr ""
+msgstr "אנא השאירו דעות/ הצעות שיעזרו לשפר את DriverPack"
 
 msgid "search_input-placeholder"
-msgstr ""
+msgstr "חפשו את שם מנהל ההתקנים, מחשב נייד או DeviceID"
 
 msgid "search_btn-text"
 msgstr "חפש"
@@ -784,21 +787,21 @@ msgstr "כל המערכות"
 #. GeForce 205; Текст для {{DOWNLOAD}} находится в ключе searchresult_details-
 #. content_download-link
 msgid "searchresult_details-content-group-text"
-msgstr ""
+msgstr "{{DOWNLOAD}} בכדי לזהות ולהתקין את מנהלי ההתקנים באופן אוטומטי, או שניתן לעבור לעמוד המכשיר {{DEVICE}} ולבחור את מנהלי ההתקנים הדרושים ידנית"
 
 #. i18n: EN: Example: CLASS.SINGLE.MAIN=monitor|chipset; COUNT=12; RU: Пример:
 #. CLASS.SINGLE.MAIN=монитор|чипсет; COUNT=12;
 msgid "searchresult_device"
-msgstr ""
+msgstr "{{CLASS.SINGLE.MAIN}} ({{COUNT}} תוצאות נמצאו)"
 
 msgid "searchresult_details-content-text-many"
-msgstr ""
+msgstr "מספר מנהלי התקנים שונים נמצאו עבור המכשיר הזה"
 
 msgid "seofooter_os-list-title"
-msgstr ""
+msgstr "גרסאות מערכת הפעלה: <span itemprop='operatingSystem'>{{OSLIST}}</span>"
 
 msgid "seofooter_offers-title"
-msgstr ""
+msgstr "<span itemprop='offers' itemscope='' itemtype='http://schema.org/Offer'>ניתן להשיג <meta itemprop='price' content='0' />בחינם</span>"
 
 msgid "seofooter_driver-description-title"
 msgstr "תיאור הדרייבר"
@@ -810,13 +813,13 @@ msgid "sidebanner_title"
 msgstr "נמאס לך לחפש דרייברים?"
 
 msgid "sidebanner_caption"
-msgstr ""
+msgstr "DriverPack אוטומטית <span class='SideBanner__caption-marked'>יבחר ויתקין</span> את מנהלי ההתקנים הדרושים"
 
 msgid "translationheader_cta-text"
-msgstr "קח חלק בתרגום האתר של DriverPack ועזור למליוני משתמשים מסביב לעולם"
+msgstr "עיזרו לנו להפוך את DriverPack לנגיש עבור מיליוני משתמשים ברחבי העולם — קחו חלק בפרוייקט ההתנדבותי שלנו העוסק בתרגום שלו לשפות אחרות"
 
 msgid "translationheader_bubble-team"
-msgstr "רוצה להיות חלק מקבוצת המתרגמים של השירות הגדול ביותר בעולם להגדרה והתקנת מחשבים בצורה אוטומטית?"
+msgstr "מעוניינים לקחת חלק בצוות המתרגמים של השירות הגדול בעולם העוסק בהגדרה ועיצוב אוטומטיים של המחשב? "
 
 msgid "translationheader_bubble-languages"
 msgstr "יודע אנגלית או רוסית ברמה טובה, כך שתוכל לתרגם אחת מהם לשפת האם שלך?"
@@ -916,9 +919,6 @@ msgstr "{{CLASS.PLURAL.MAIN}} פופולריים של {{VENDOR.NAME}}"
 
 msgid "devicetypevendorpage_subtitle-all"
 msgstr "כל ה {{CLASS.PLURAL.MAIN}} של {{VENDOR.NAME}}"
-
-msgid "drop-down-language_not-found"
-msgstr "Haven't found your language?"
 
 msgid "errorpage_title"
 msgstr "שגיאה 500: שגיאת שרת פנימית"
@@ -1059,3 +1059,6 @@ msgstr "פיתוח הפתרון התבסס על המאמרים הבאים"
 
 msgid "wannacryptpromopage_link-smb"
 msgstr "איך לאפשר ולבטל את כל הגירסאות (1,2,3) של פרוטוקול SMB בWindows ובשרתי Windows"
+
+#~ msgid "drop-down-language_not-found"
+#~ msgstr "Haven't found your language?"

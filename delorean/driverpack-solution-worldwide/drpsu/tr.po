@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-08-16 09:41+0000\n"
+"POT-Creation-Date: 2017-09-13 09:50+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Burhan Keleş <klsburhan@hotmail.com>, 2017\n"
 "Language-Team: Turkish (https://www.transifex.com/driverpack-solution/teams/75453/tr/)\n"
@@ -49,9 +49,6 @@ msgstr "DriverPack Online'ı İndir"
 msgid "adminheader_products-caption"
 msgstr "Herhangi bir DriverPack zaman kaybetmeden bilgisayarınızı yapılandıracaktır. Sadece ihtiyacınız olan paketi seçin:"
 
-msgid "search_noresult"
-msgstr "DriverPack Online'ı İndir"
-
 msgid "adminpromo_landing-title"
 msgstr "Yeni DriverPack 18 geliştirme aşamasında"
 
@@ -93,6 +90,9 @@ msgstr "İndir"
 
 msgid "breadcrumbs_main-text"
 msgstr "Ana Sayfa"
+
+msgid "breadcrumbs_catalog-main-text"
+msgstr "{{OS.NAME}} için sürücüler"
 
 msgid "breadcrumbs_vendors-text"
 msgstr "Üreticiler"
@@ -191,6 +191,9 @@ msgstr "Tüm sürücüleri göster"
 msgid "devicecard_details-links"
 msgstr "Tüm sürücülerini göster:"
 
+msgid "devicecardlist_no-result_download-link"
+msgstr "DriverPack'i İndir"
+
 #. i18n: EN: Example: DEVICENAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10
 #. x86; Text for {{DOWNLOAD}} is in key devicecardlist_no-result_download-
 #. link; RU: Пример: NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10
@@ -215,9 +218,6 @@ msgstr "Windows {{OSVERSIONS}} için {{NOTEBOOK}} dizüstü sürücüleri katalo
 msgid "devicecardlist_no-results-notebook-device-class-text"
 msgstr "Windows {{OSVERSIONS}} için {{NOTEBOOK}} dizüstünün {{DEVICECLASS}} sürücüleri bulunamadı. Sürücüyü otomatik olarak seçmek için {{DOWNLOAD}}."
 
-msgid "devicecardlist_no-result_download-link"
-msgstr "DriverPack'i İndir"
-
 msgid "devicegrouppage_all-systems"
 msgstr "tüm sistemler"
 
@@ -241,6 +241,9 @@ msgstr "{{OS}} uyumlu aygıtlar için sürücü"
 
 msgid "devicetypelist_title"
 msgstr "Aygıtlar için sürücü arayın"
+
+msgid "search_noresult"
+msgstr "DriverPack Online'ı İndir"
 
 #. i18n: EN: Example: NAME=Acer Aspire 4830TG; OSVERSIONS=Windows 10 x86; Text
 #. for {{DOWNLOAD}} is in key drivercard_no-results_download-link; RU: Пример:
@@ -340,7 +343,7 @@ msgid "landingdevicetypelist_landing-subtitle"
 msgstr "Hatta Windows 7 SP1 üzerinde USB 3.0 için bile"
 
 msgid "landingdevicetypelist_cta-btn"
-msgstr "Tüm gerekli sürücüleri yükle"
+msgstr "Tüm gerekli sürücüleri yükleyin"
 
 msgid "landingdevicetypelist_versions"
 msgstr "Diğer DriverPack sürümleri"
@@ -370,10 +373,10 @@ msgid "landingfeatures_item-caption-for-all-devices"
 msgstr "DriverPack dünyadaki en büyük sürücü veritabanına sahiptir, ve herhangi bir bilgisayarı yapılandırmak için kullanılabilir"
 
 msgid "landingheader_cta-text"
-msgstr "DriverPack sürücüleri ücretsiz yükleyecek ve herhangi bir aygıttaki sürücü sorunlarını çözecek"
+msgstr "DriverPack sürücüleri ücretsiz yükleyecek ve herhangi bir aygıttaki sürücü sorunlarını çözecektir"
 
 msgid "landingheader_cta-btn"
-msgstr "Tüm gerekli sürücüleri yükle"
+msgstr "Tüm gerekli sürücüleri yükleyin"
 
 msgid "landingheadernav_wannacrypt"
 msgstr "WannaCry virüsüne karşı koruma"
@@ -403,7 +406,7 @@ msgid "landingnotebookvendorslist_landing-subtitle"
 msgstr "Evet, Herhangi bir bilgisayar için - kontrol ettik!"
 
 msgid "landingnotebookvendorslist_cta-btn"
-msgstr "Tüm gerekli sürücüleri yükle"
+msgstr "Tüm gerekli sürücüleri yükleyin"
 
 msgid "landingnotebookvendorslist_versions"
 msgstr "Diğer DriverPack sürümleri"
@@ -457,7 +460,7 @@ msgid "landingusers_cta"
 msgstr "DriverPack kullanıcılarının sayısı her geçen saniye dünya çapında büyümeye devam ediyor"
 
 msgid "landingusers_cta-btn"
-msgstr "Tüm gerekli sürücüleri yükle"
+msgstr "Tüm gerekli sürücüleri yükleyin"
 
 msgid "landingusers_versions"
 msgstr "Diğer DriverPack sürümleri"
@@ -475,7 +478,7 @@ msgid "landingwizard_item-caption-profit"
 msgstr "Yaşasın! Bilgisayarım artık yeni gibi çalışıyor!"
 
 msgid "landingwizard_cta-btn"
-msgstr "Tüm gerekli sürücüleri yükle"
+msgstr "Tüm gerekli sürücüleri yükleyin"
 
 msgid "navbar_download-link-short"
 msgstr "İndir"
@@ -514,10 +517,10 @@ msgid "promoheader_cta-text-gamers-caption"
 msgstr "Eğer bilgisayar oyunlarını seviyorsanız, donanımınızın en yüksek olası verimliliğe ulaşması için bilgisayarınızdaki sürücüleri güncellemenizi öneriyoruz. %37'ye kadar daha çok FPS - DriverPack ile en iyi oyun deneyimi ve yeni başarılar."
 
 msgid "promoheader_cta-text"
-msgstr "DriverPack sürücüleri ücretsiz yükleyecek ve herhangi bir aygıttaki sürücü sorunlarını çözecek"
+msgstr "DriverPack sürücüleri ücretsiz yükleyecek ve herhangi bir aygıttaki sürücü sorunlarını çözecektir"
 
 msgid "promoheader_cta-btn"
-msgstr "Tüm gerekli sürücüleri yükle"
+msgstr "Tüm gerekli sürücüleri yükleyin"
 
 msgid "promoheader_size"
 msgstr "Dosya Boyutu: {{SIZE}} KB"
@@ -808,10 +811,10 @@ msgid "sidebanner_caption"
 msgstr "DriverPack, gerekli sürücüleri otomatik olarak <span class='SideBanner__caption-marked'>seçecek ve yükleyecek</span>"
 
 msgid "translationheader_cta-text"
-msgstr "DriverPack web sitesi çevirisinin parçası olun ve dünya çapındaki milyonlarca kullanıcıya yardım edin"
+msgstr "Dünya çapındaki milyonlarca PC kullanıcısı için DriverPack'i kullanılabilir yapmamıza yardım edin — uygulamayı diğer dillere çevirmede gönüllü projemizin parçası olun"
 
 msgid "translationheader_bubble-team"
-msgstr "Dünyanın en büyük otomatik bilgisayar kurulumu hizmeti için çevirmenler takımının bir parçası olmak ister misiniz?"
+msgstr "Dünyanın en büyük otomatik bilgisayar yapılandırma hizmeti için çevirmenler takımının bir parçası olmak ister misiniz?"
 
 msgid "translationheader_bubble-languages"
 msgstr "Olduça iyi İngilizce veya Rusça biliyor musunuz, böylece bunlardan birini yerel dilinize çevirmek için hazır mısınız?"
@@ -911,9 +914,6 @@ msgstr "Popüler {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
 
 msgid "devicetypevendorpage_subtitle-all"
 msgstr "Tüm {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
-
-msgid "drop-down-language_not-found"
-msgstr "Haven't found your language?"
 
 msgid "errorpage_title"
 msgstr "Hata 500: iç sunucu hatası"
@@ -1054,3 +1054,6 @@ msgstr "Bu çözümün gelişimi aşağıdaki gereçlere bağlıdır"
 
 msgid "wannacryptpromopage_link-smb"
 msgstr "Windows ve Windows Server için SMB protokollerinin 1, 2, ve 3. sürümlerini nasıl etkinleştirir ve etkisizleştirirsiniz"
+
+#~ msgid "drop-down-language_not-found"
+#~ msgstr "Haven't found your language?"

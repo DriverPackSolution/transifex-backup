@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-08-16 09:41+0000\n"
+"POT-Creation-Date: 2017-09-13 09:50+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Pranav Pandya <Pranavpandya121@gmail.com>, 2017\n"
 "Language-Team: Gujarati (https://www.transifex.com/driverpack-solution/teams/75453/gu/)\n"
@@ -50,9 +50,6 @@ msgstr " DriverPack Online ડાઉનલોડ કરો."
 msgid "adminheader_products-caption"
 msgstr "કોઈ પણ DriverPack ને તમારા કમ્પ્યુટરમાં રૂપરેખાંકિત થતાં સમય નહીં લાગે. બસ તમને જે યોગ્ય લાગે તે Pack ઉપાડો અને ઇન્સ્ટોલ કરો:"
 
-msgid "search_noresult"
-msgstr " DriverPack Online ડાઉનલોડ કરો."
-
 msgid "adminpromo_landing-title"
 msgstr "નવું DriverPack 18 બાંધકામ હેઠળ છે"
 
@@ -94,6 +91,9 @@ msgstr "ડાઉનલોડ"
 
 msgid "breadcrumbs_main-text"
 msgstr "મુખપૃષ્ઠ"
+
+msgid "breadcrumbs_catalog-main-text"
+msgstr ""
 
 msgid "breadcrumbs_vendors-text"
 msgstr "ઉત્પાદકો"
@@ -192,6 +192,9 @@ msgstr "બધા ડ્રાઈવર્સ જુઓ"
 msgid "devicecard_details-links"
 msgstr "ના માટે ડ્રાઈવર્સ જુઓ"
 
+msgid "devicecardlist_no-result_download-link"
+msgstr "DriverPack ડાઉનલોડ કરો"
+
 #. i18n: EN: Example: DEVICENAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10
 #. x86; Text for {{DOWNLOAD}} is in key devicecardlist_no-result_download-
 #. link; RU: Пример: NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10
@@ -216,9 +219,6 @@ msgstr "{{NOTEBOOK}} Windows {{OSVERSIONS}} માટેનું લેપટ�
 msgid "devicecardlist_no-results-notebook-device-class-text"
 msgstr "Windows {{OSVERSIONS}} માટેના {{NOTEBOOK}} લેપટોપ માટેના {{DEVICECLASS}} માટેનાં ડ્રાઇવરો મળ્યાં નથી. {{DOWNLOAD}} આપમેળે ડ્રાઈવર પસંદ કરવા માટે."
 
-msgid "devicecardlist_no-result_download-link"
-msgstr "DriverPack ડાઉનલોડ કરો"
-
 msgid "devicegrouppage_all-systems"
 msgstr "બધી સિસ્ટમ"
 
@@ -242,6 +242,9 @@ msgstr "{{OS}} પર ના ડીવાઈસ માટે ડ્રાઇવ�
 
 msgid "devicetypelist_title"
 msgstr "ડિવાઇસ માટે ડ્રાઇવર સર્ચ કરો"
+
+msgid "search_noresult"
+msgstr " DriverPack Online ડાઉનલોડ કરો."
 
 #. i18n: EN: Example: NAME=Acer Aspire 4830TG; OSVERSIONS=Windows 10 x86; Text
 #. for {{DOWNLOAD}} is in key drivercard_no-results_download-link; RU: Пример:
@@ -809,10 +812,10 @@ msgid "sidebanner_caption"
 msgstr "DriverPack આપમેળે <span class='SideBanner__caption-marked'>select અને install</span> ને જરૂરી ડ્રાઈવર માટે કરશે"
 
 msgid "translationheader_cta-text"
-msgstr "DriverPack વેબસાઇટ અનુવાદમાં ભાગ લો અને વિશ્વભરમાં લાખો વપરાશકર્તાઓને સહાય કરો"
+msgstr ""
 
 msgid "translationheader_bubble-team"
-msgstr "શું તમે આપમેળે કોમ્પ્યુટર સેટ-અપ કરવાની વિશ્વની સૌથી મોટી સેવા માટે અનુવાદકોની ટીમનો ભાગ બનવા માંગો છો?"
+msgstr ""
 
 msgid "translationheader_bubble-languages"
 msgstr "શું તમે ઇંગલિશ અથવા રશિયનને તદ્દન સારી રીતે જાણો છો, જેથી તમે તેમાંના એકમાંથી તમારી મૂળ ભાષામાં ભાષાંતર કરવા માટે તૈયાર છો?"
@@ -839,7 +842,7 @@ msgid "language_title"
 msgstr "Gujarati"
 
 msgid "landingPagePublications_rbk"
-msgstr "DriverPack એવું સૉફ્ટવેર છે જે Windows ડ્રાઇવરો માટે Artur Kuzyakov ની ટીમ દ્વારા સારી પસંદગી અને ચકાસાયેલ છે. આ એપ્લિકેશન વપરાશકર્તાના કમ્પ્યુટરનું વિશ્લેષણ કરે છે અને તેના પર આવશ્યક ડ્રાઈવરો સ્થાપિત કરે છે, જે તમને બે મુદ્દાઓ ઉકેલવા માટે સક્રિય કરે છે: પ્રથમ, કમ્પ્યુટરના રૂપરેખાંકનની પ્રક્રિયાને ઝડપી બનાવવા (જે ખાસ કરીને મહત્વનું છે જો ત્યાં એક સિસ્ટમમાં ડઝન કમ્પ્યુટર્સ હોય તો); અને બીજું, તેની ઓપરેશનલ ક્ષમતા સુધારવા માટે."
+msgstr ""
 
 msgid "landingPagePublications_secretfirmy"
 msgstr "આજે, DriverPack પાસે વિશ્વની સૌથી મોટી ડ્રાઇવર ડેટાબેસ છે જેનો 45 ભાષાઓમાં અનુવાદ થાય છે અને 42 મિલિયનથી વધુ વપરાશકર્તાઓના કમ્પ્યુટર્સ પર કાર્યરત છે."
@@ -912,9 +915,6 @@ msgstr "વિખ્યાત {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
 
 msgid "devicetypevendorpage_subtitle-all"
 msgstr "બધા {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
-
-msgid "drop-down-language_not-found"
-msgstr "Haven't found your language?"
 
 msgid "errorpage_title"
 msgstr "ભૂલ 500: આંતરિક સર્વર ભૂલ"
@@ -1055,3 +1055,6 @@ msgstr "આ ઉકેલનો વિકાસ નીચેની સામગ�
 
 msgid "wannacryptpromopage_link-smb"
 msgstr "Windows અને Windows સર્વર માટેના SMB પ્રોટોકોલ્સનાં આવૃત્તિ 1, 2 અને 3 ને કેવી રીતે સક્ષમ અને અક્ષમ કરવા"
+
+#~ msgid "drop-down-language_not-found"
+#~ msgstr "Haven't found your language?"

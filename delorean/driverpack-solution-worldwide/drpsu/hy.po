@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-08-16 09:41+0000\n"
+"POT-Creation-Date: 2017-09-13 09:50+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Артур Кузяков <artx@drp.su>, 2017\n"
 "Language-Team: Armenian (https://www.transifex.com/driverpack-solution/teams/75453/hy/)\n"
@@ -49,9 +49,6 @@ msgstr "Ներբեռնել DriverPack Online-ը"
 msgid "adminheader_products-caption"
 msgstr ""
 
-msgid "search_noresult"
-msgstr "Ներբեռնել DriverPack Online-ը"
-
 msgid "adminpromo_landing-title"
 msgstr "Նոր DriverPack 18-ը աշխատանքների մեջ է"
 
@@ -93,6 +90,9 @@ msgstr "Ներբեռնել"
 
 msgid "breadcrumbs_main-text"
 msgstr "Տնային էջ"
+
+msgid "breadcrumbs_catalog-main-text"
+msgstr ""
 
 msgid "breadcrumbs_vendors-text"
 msgstr "Արտադրողներ"
@@ -191,6 +191,9 @@ msgstr "Դիտել բոլոր սարքավարները"
 msgid "devicecard_details-links"
 msgstr ""
 
+msgid "devicecardlist_no-result_download-link"
+msgstr ""
+
 #. i18n: EN: Example: DEVICENAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10
 #. x86; Text for {{DOWNLOAD}} is in key devicecardlist_no-result_download-
 #. link; RU: Пример: NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10
@@ -213,9 +216,6 @@ msgstr ""
 #. NOTEBOOK=Acer AO521; Пример: OSVERSIONS=Windows 10 x86; Текст для
 #. {{DOWNLOAD}} находится в ключе devicecardlist_no-result_download-link;
 msgid "devicecardlist_no-results-notebook-device-class-text"
-msgstr ""
-
-msgid "devicecardlist_no-result_download-link"
 msgstr ""
 
 msgid "devicegrouppage_all-systems"
@@ -241,6 +241,9 @@ msgstr ""
 
 msgid "devicetypelist_title"
 msgstr "Սարքավարների որոնում սարքի համար"
+
+msgid "search_noresult"
+msgstr "Ներբեռնել DriverPack Online-ը"
 
 #. i18n: EN: Example: NAME=Acer Aspire 4830TG; OSVERSIONS=Windows 10 x86; Text
 #. for {{DOWNLOAD}} is in key drivercard_no-results_download-link; RU: Пример:
@@ -912,9 +915,6 @@ msgstr ""
 msgid "devicetypevendorpage_subtitle-all"
 msgstr ""
 
-msgid "drop-down-language_not-found"
-msgstr "Haven't found your language?"
-
 msgid "errorpage_title"
 msgstr ""
 
@@ -1054,3 +1054,6 @@ msgstr ""
 
 msgid "wannacryptpromopage_link-smb"
 msgstr ""
+
+#~ msgid "drop-down-language_not-found"
+#~ msgstr "Haven't found your language?"

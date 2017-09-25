@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-08-16 09:41+0000\n"
+"POT-Creation-Date: 2017-09-13 09:50+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: jessy tardif <jessytardif_3@hotmail.com>, 2017\n"
 "Language-Team: French (https://www.transifex.com/driverpack-solution/teams/75453/fr/)\n"
@@ -50,9 +50,6 @@ msgstr "Télécharger DriverPack Online"
 msgid "adminheader_products-caption"
 msgstr "N'importe quel DriverPack configurera votre ordinateur en un rien de temps. Choisissez seulement le pack dont vous avez besoin:"
 
-msgid "search_noresult"
-msgstr "Télécharger DriverPack Online"
-
 msgid "adminpromo_landing-title"
 msgstr "Le nouveau DriverPack 18 est en développement"
 
@@ -94,6 +91,9 @@ msgstr "Télécharger"
 
 msgid "breadcrumbs_main-text"
 msgstr "Page d'accueil"
+
+msgid "breadcrumbs_catalog-main-text"
+msgstr ""
 
 msgid "breadcrumbs_vendors-text"
 msgstr "Manufacturiers"
@@ -192,6 +192,9 @@ msgstr "Voir tous les pilotes"
 msgid "devicecard_details-links"
 msgstr "Voir tous les pilotes pour"
 
+msgid "devicecardlist_no-result_download-link"
+msgstr "Télécharger DriverPack"
+
 #. i18n: EN: Example: DEVICENAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10
 #. x86; Text for {{DOWNLOAD}} is in key devicecardlist_no-result_download-
 #. link; RU: Пример: NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10
@@ -216,9 +219,6 @@ msgstr "Les pilotes pour l'ordinateur portable {{NOTEBOOK}} pour Windows {{OSVER
 msgid "devicecardlist_no-results-notebook-device-class-text"
 msgstr "Les pilotes pour {{DEVICECLASS}} pour l'ordinateur portable {{NOTEBOOK}} pour windows {{OSVERSIONS}} n'ont pas été trouvés. {{DOWNLOAD}} afin de sélectionner le pilote automatiquement."
 
-msgid "devicecardlist_no-result_download-link"
-msgstr "Télécharger DriverPack"
-
 msgid "devicegrouppage_all-systems"
 msgstr "tous les systèmes"
 
@@ -242,6 +242,9 @@ msgstr "Pilote pour les périphériques sur {{OS}}"
 
 msgid "devicetypelist_title"
 msgstr "Recherche de pilote pour les périphériques"
+
+msgid "search_noresult"
+msgstr "Télécharger DriverPack Online"
 
 #. i18n: EN: Example: NAME=Acer Aspire 4830TG; OSVERSIONS=Windows 10 x86; Text
 #. for {{DOWNLOAD}} is in key drivercard_no-results_download-link; RU: Пример:
@@ -413,7 +416,7 @@ msgid "landingproducts_item-title-online"
 msgstr "DriverPack Online"
 
 msgid "landingproducts_item-caption-online"
-msgstr "C'est téléchargé instantanément et téléchargera tous les pilotes manquants pendent l'installation"
+msgstr "C'est téléchargé instantanément et téléchargera tous les pilotes manquants pendant l'installation"
 
 msgid "landingproducts_item-version"
 msgstr "Version actuelle:"
@@ -431,7 +434,7 @@ msgid "landingproducts_item-title-offline"
 msgstr "DriverPack Offline"
 
 msgid "landingproducts_item-caption-offline"
-msgstr "Il peut opéré sans connexion à internet mais sa taille est de 13.9 GO (pratique pour les administrateurs système)"
+msgstr "Il peut opérer sans connexion à internet mais sa taille est de 13.9 GO (pratique pour les administrateurs système)"
 
 msgid "landingpublications__landing-title"
 msgstr "Publications de médias à propos de DriverPack"
@@ -809,10 +812,10 @@ msgid "sidebanner_caption"
 msgstr "DriverPack <span class='SideBanner__caption-marked'>sélectionnera et installera</span> les pilotes requis"
 
 msgid "translationheader_cta-text"
-msgstr "Prenez part à la traduction du site web de DriverPack et aidez des millions d'utilisateurs à travers le monde"
+msgstr ""
 
 msgid "translationheader_bubble-team"
-msgstr "Aimeriez-vous faire partie de l'équipe de traducteurs pour le plus grand service de configuration automatique d'ordinateurs au monde?"
+msgstr ""
 
 msgid "translationheader_bubble-languages"
 msgstr "Connaissez-vous bien l'anglais ou le russe, pour que vous puissiez traduire l'un d'entre eux à votre langue maternelle?"
@@ -839,7 +842,7 @@ msgid "language_title"
 msgstr "French"
 
 msgid "landingPagePublications_rbk"
-msgstr "DriverPack est le logiciel qui se compose de pilotes pour Windows minutieusement sélectionnés et testés par l'équipe d'Artur Kuzyakov. Cette application analyse l'ordinateur d'un utilisateur et installe sur celui-ci les pilotes requis, ce qui vous permet de régler deux problèmes; premièrement, accélérer le processus de la configuration de l'ordinateur (ce qui est spécialement important s'il y a des douzaines d'ordinateurs dans un seul système); puis, améliorer sa capacité opérationnelle."
+msgstr ""
 
 msgid "landingPagePublications_secretfirmy"
 msgstr "Aujourd'hui, DriverPack détient la plus grande base de données de pilotes au monde, qui est traduite dans 45 langues, et opère sur les ordinateurs de plus de 42 millions d'utilisateurs."
@@ -912,9 +915,6 @@ msgstr "{{CLASS.PLURAL.MAIN}} {{VENDOR.NAME}} populaires"
 
 msgid "devicetypevendorpage_subtitle-all"
 msgstr "Tous les {{CLASS.PLURAL.MAIN}} {{VENDOR.NAME}}"
-
-msgid "drop-down-language_not-found"
-msgstr "Haven't found your language?"
 
 msgid "errorpage_title"
 msgstr "Erreur 500: erreur du serveur interne"
@@ -1048,10 +1048,13 @@ msgid "wannacryptpromopage_info-text-title-3"
 msgstr "Comment protégé votre entreprise — Une solution par DriverPack Solution"
 
 msgid "wannacryptpromopage_info-text-3"
-msgstr "La principale raison que le virus WannaCrypt (WannaCry) est un danger est qu'il se transmet en utilisant les failles critiques du protocol SMBv1 du système de sécurité MS17-010. C'est ce qui rend WannaCry invisible aux anti-virus. La solution de DriverPack Solution vous permet d'installer une mise-à-jour protégeant les failles critiques de votre système et de désactiver tous les protocoles périmés qui sont un danger, peu importe votre historique de licence et la version de votre OS."
+msgstr "La principale raison pour laquelle le virus WannaCrypt (WannaCry) est un danger est qu'il se transmet en utilisant les failles critiques du protocol SMBv1 du système de sécurité MS17-010. C'est ce qui rend WannaCry invisible aux anti-virus. La solution de DriverPack Solution vous permet d'installer une mise-à-jour protégeant les failles critiques de votre système et de désactiver tous les protocoles périmés qui sont un danger, peu importe votre historique de licence et la version de votre OS."
 
 msgid "wannacryptpromopage_links-text"
 msgstr "Le développement de cette solution a été basé sur le matériel suivent"
 
 msgid "wannacryptpromopage_link-smb"
 msgstr "Comment activer et désactiver les versions 1, 2 et 3 du protocole SMB pour Windows et Windows Server"
+
+#~ msgid "drop-down-language_not-found"
+#~ msgstr "Haven't found your language?"

@@ -213,7 +213,7 @@ msgstr "<span class='bold'>Controladores para {{GROUP.VENDOR.NAME}} {{GROUP.NAME
 #. i18n: EN: Example: GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU:
 #. Пример: GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210;
 msgid "seo_devicegroup-keywords"
-msgstr "controladores windows 7 8 10 64 {{GROUP.VENDOR.NAME}} {{GROUP.NAME}}4 descarregar descarregar PC"
+msgstr "controladores windows 7 8 10 64 descarregar descarregar PC {{GROUP.VENDOR.NAME}} {{GROUP.NAME}}"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
 #. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
@@ -226,13 +226,13 @@ msgstr "Descarregar controladores para {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CL
 #. GROUP.VENDOR.NAME=Nvidia; RU: Пример: CLASS.PLURAL.FOR=видеокарт|чипсетов;
 #. GROUP.VENDOR.NAME=Nvidia;
 msgid "seo_devicegroup-footer-application-category"
-msgstr "Categoria: <span itemprop='applicationCategory'>{{GROUP.VENDOR.NAME}}  {{CLASS.PLURAL.MAIN}} </span>"
+msgstr "Categoria: <span itemprop='applicationCategory'>{{GROUP.VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets;
 #. GROUP.NAME=GeForce 210; RU: Пример: CLASS.PLURAL.MAIN=видеокарты|чипсеты;
 #. GROUP.NAME=GeForce 210;
 msgid "seo_devicegroup-footer-application-subcategory"
-msgstr "Subcategoria: <span itemprop='applicationSubCategory'>{{GROUP.NAME}}  {{CLASS.PLURAL.MAIN}} </span>"
+msgstr "Subcategoria: <span itemprop='applicationSubCategory'>{{GROUP.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
 #. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
@@ -283,7 +283,7 @@ msgstr "Categoria: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</s
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|чипсеты; VENDOR.NAME=Acer;
 msgid "seo_hwid-footer-application-subcategory"
-msgstr "Subcategoria: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}}  {{CLASS.PLURAL.MAIN}} </span>"
+msgstr "Subcategoria: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
@@ -352,7 +352,7 @@ msgstr "controladores controladores potátil notebook laptop netbook netbook win
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebook-footer-description"
-msgstr "Descarregue controladores para portáteis {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}} de graça"
+msgstr "Descarregue controladores para portáteis {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} de graça"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; RU: Пример:
 #. NOTEBOOK.VENDOR.NAME=Acer;
@@ -407,7 +407,7 @@ msgstr "Descarregar controladores de {{CLASS.PLURAL.FOR}} para portáteis {{NOTE
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebookdevices-footer-application-category"
-msgstr "Categoria: <span itemprop='applicationCategory'> {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} portáteis</span>"
+msgstr "Categoria: <span itemprop='applicationCategory'>{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} portáteis</span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets;
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU: Пример:
@@ -442,10 +442,10 @@ msgid "seo_devicegroupos-footer-description"
 msgstr "Descarregar controladores de {{CLASS.SINGLE.FOR}} para {{GROUP.NAME}} da {{GROUP.VENDOR.NAME}} para o Windows {{OS}} de graça"
 
 msgid "seo_devicegroupos-footer-application-category"
-msgstr "Categoria: <span itemprop='applicationCategory'>{{GROUP.VENDOR.NAME}}  {{CLASS.PLURAL.MAIN}} </span>"
+msgstr "Categoria: <span itemprop='applicationCategory'>{{GROUP.VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_devicegroupos-footer-application-subcategory"
-msgstr "Subcategoria: <span itemprop='applicationSubCategory'>{{GROUP.NAME}}  {{CLASS.PLURAL.MAIN}} </span>"
+msgstr "Subcategoria: <span itemprop='applicationSubCategory'>{{GROUP.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_devicegroupos-footer-content"
 msgstr "Descarregue controladores de {{CLASS.PLURAL.FOR}} para {{GROUP.NAME}} da {{GROUP.VENDOR.NAME}} (Windows {{OS}}), ou instale o programa DriverPack Solution para uma instalação e atualização automática de controladores"
@@ -505,7 +505,7 @@ msgid "seo_devicegroupsos-h1"
 msgstr "Controladores de {{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} para o Windows {{OS}}"
 
 msgid "seo_devicegroupsos-keywords"
-msgstr "controladores Windows {{OS}} descarregar descarregar PC {{CLASS.PLURAL.MAIN}}{{VENDOR.NAME}}"
+msgstr "controladores Windows {{OS}} descarregar descarregar PC {{CLASS.PLURAL.MAIN}} {{VENDOR.NAME}}"
 
 msgid "seo_devicegroupsos-footer-description"
 msgstr "Descarregue controladores de {{CLASS.SINGLE.FOR}} da {{VENDOR.NAME}} para o Windows {{OS}}"
@@ -514,7 +514,7 @@ msgid "seo_devicegroupsos-footer-application-category"
 msgstr "Categoria: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_devicegroupsos-footer-application-subcategory"
-msgstr "Subcategoria: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}} </span>"
+msgstr "Subcategoria: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_devicegroupsos-footer-content"
 msgstr "Descarregue controladores para {{CLASS.PLURAL.FOR}} da {{VENDOR.NAME}} (Windows {{OS}}) de graça, ou instale o programa Driverpack Solution para uma instalação e atualização automática de controladores"
@@ -562,10 +562,10 @@ msgid "seo_hwidos-footer-application-category"
 msgstr "Categoria: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_hwidos-footer-application-subcategory"
-msgstr "Subcategoria: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}}  {{CLASS.PLURAL.MAIN}} </span>"
+msgstr "Subcategoria: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_hwidos-footer-content"
-msgstr "Descarregue controladores do dispositivo {{DEVICE.DEVICEID}} para o Windows {{OS}}, ou instale o programa Driverpack Solution para uma instalação e atualização automática de controladores"
+msgstr "Descarregue controladores do dispositivo {{DEVICE.DEVICEID}} para o Windows {{OS}}, ou instale o programa DriverPack Solution para uma instalação e atualização automática de controladores"
 
 msgid "seo_notebookdevicesos-title"
 msgstr "Controladores de {{CLASS.SINGLE.FOR}} para portáteis {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} | Descarregue para o Windows {{OS}}"
@@ -583,13 +583,13 @@ msgid "seo_notebookdevicesos-footer-description"
 msgstr "Descarregue controladores de {{CLASS.SINGLE.FOR}} para portáteis {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} para o Windows {{OS}} de graça"
 
 msgid "seo_notebookdevicesos-footer-application-category"
-msgstr "Categoria: <span itemprop='applicationCategory'> {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} portáteis</span>"
+msgstr "Categoria: <span itemprop='applicationCategory'>{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} portáteis</span>"
 
 msgid "seo_notebookdevicesos-footer-application-subcategory"
 msgstr "Subcategoria: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}} para {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}</span>"
 
 msgid "seo_notebookdevicesos-footer-content"
-msgstr "Descarregue controladores de {{CLASS.SINGLE.FOR}} para portáteis {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} (Windows {{OS}}), ou descarregue o programa Driverpack Solution para atualizar os controladores"
+msgstr "Descarregue controladores de {{CLASS.SINGLE.FOR}} para portáteis {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} (Windows {{OS}}), ou descarregue o programa DriverPack Solution para atualizar os controladores"
 
 msgid "seo_promopage_title"
 msgstr "DriverPack – instalação livre de controladores"
@@ -679,7 +679,7 @@ msgid "seo_deviceclass-footer-content-cardreader"
 msgstr "Leitores de cartões são os dispositivos criados para lerem informação de cartões de memória. Se precisa mover ficheiros da sua câmara de vídeo ou câmara para o seu computador, este dispositivo vai ajudá-lo. <strong>Os controladores para leitores de cartões</strong> estão disponíveis nesta Secção.  Estão aqui representados, para todas as versões populares do SO Windows, os controladores de mais de 50 fabricantes. Pode descarregar <b>controladores de leitores de cartões</b> específicos assim como (se por alguma razão o controlador que precisa não estiver aqui) instalar o programa DriverPack Solution para uma atualização automática de controladores. Este programa é totalmente livre para si!"
 
 msgid "seo_deviceclass-footer-content-chipset"
-msgstr "Esta Secção inclui <strong>os controladores para chipsets</strong> dos fabricantes mais distribuídos para este tipo de hardware tais como Exar e Prolific. Estão aqui representados os controladores de chipsets para todas as versões de Windows em uso atualmente tais como o Windows XP, Windows 7, 8, 8.1 e 10 em 64 ou 32 bits, e mesmo controladores de chipset para sistemas como o Windows Vista, apesar de não ser tão popular hoje em dia. Se por qualquer motivo não conseguiu encontrar ou descarregar <b>o controlador de chipset</b> que precisa, use o nosso programa de atualização automática de controladores DriverPack Solution - é absolutamente livre e fará tudo por si!"
+msgstr "Esta Secção inclui <strong>os controladores para chipsets</strong> dos fabricantes mais distribuídos para este tipo de hardware tais como Exar e Prolific. Estão aqui representados os controladores de chipsets para todas as versões de Windows em uso atualmente tais como o Windows XP, Windows 7, 8, 8.1 e 10 em 64 ou 86 bits, e mesmo controladores de chipset para sistemas como o Windows Vista, apesar de não ser tão popular hoje em dia. Se por qualquer motivo não conseguiu encontrar ou descarregar <b>o controlador de chipset</b> que precisa, use o nosso programa de atualização automática de controladores DriverPack Solution - é absolutamente livre e fará tudo por si!"
 
 msgid "seo_deviceclass-footer-content-inputdev"
 msgstr "Porque existe uma grande variedade de tipos de dispositivos de entrada (ratos, teclados, joysticks, etc) e seus fabricantes, torna-se um desafio selecionar o controlador indicado. Resolvemos este problema para si - nesta Secção pode selecionar e descarregar <strong>os controladores de dispositivos de entrada</strong> absolutamente livres. Se por qualquer razão não encontrou <b>o controlador do dispositivo de entrada</b> que precisa no nosso catálogo, descarregue de graça o programa DriverPack Solution - que fará uma análise da sua configuração de hardware e selecionará automaticamente todos os controladores indicados."
@@ -751,70 +751,70 @@ msgid "seo_deviceclass-footer-content-chipset-amd"
 msgstr "Nesta Secção sugerimos que <b>descarregue os controladores para chipset AMD</b> absolutamente grátis. Estão representadas versões de controladores para todas as versões de SO Windows agora em uso incluindo o Windows 7, Windows 10, Windows 8.1, etc. Se não conseguiu encontrar e <b>instalar o controlador de chipset AMD</b> sozinho, não faz mal - use o nosso programa de selecção automática de controladores DriverPack Solution. O nosso programa é absolutamente grátis e fará tudo por si!"
 
 msgid "seo_deviceclass-footer-content-sound-msi"
-msgstr ""
+msgstr "Tem problemas com a operação de placas de som da companhia MSI? Sugerimos que atualize os controladores da mesma - é frequente o problema estar relacionado com controladores desatualizados. Nesta Secção pode encontrar e <b>descarregar controladores para placas de som MSI</b> absolutamente livres para todas as versões do SO Windows atualmente em uso. Não conseguiu encontrar sozinho o controlador que precisa? Use o nosso programa DriverPack Solution para pesquisa e instalação de controladores - funciona em modo automático e é absolutamente livre!"
 
 msgid "seo_deviceclass-footer-content-monitor-acer"
-msgstr ""
+msgstr "Tem uma questão sobre como instalar o controlador de um monitor Acer? Nesta Secção pode encontrar <b>o controlador do monitor Acer</b> na sua última versão para todas as versões do sistema operativo Windows em uso atualmente. Pode também <b>atualizar os controladores de monitores Acer</b> de modo automático se usar o nosso programa livre DriverPack Solution."
 
 msgid "seo_deviceclass-footer-content-monitor-asus"
-msgstr ""
+msgstr "Tem tido problemas de operação com monitores da companhia Asus? Então o problema poderá estar no controlador do monitor. Use o nosso catálogo onde pode encontrar e <b>descarregar o controlador do monitor Asus</b> de qualquer modelo que precise. Se por qualquer razão não conseguir encontrar sozinho o controlador para o modelo que precisa, descarregue o nosso programa DriverPack Solution - irá selecionar o controlador necessário automaticamente com base na análise da sua configuração de hardware."
 
 msgid "seo_deviceclass-footer-content-monitor-benq"
-msgstr ""
+msgstr "Tem em algum problema de operação com o monitor? Precisa <b>de descarregar o controlador do monitor BenQ</b>? No nosso catálogo encontrará os últimos controladores atualizados para todos os modelos de monitor BenQ. Se não encontrou o controlador para o modelo em causa, não desespere. Use o nosso programa DriverPack Solution para pesquisar e atualizar controladores - irá encontrar automaticamente o controlador necessário, sem precisar intervir!"
 
 msgid "seo_deviceclass-footer-content-monitor-compaq"
-msgstr ""
+msgstr "Precisa <b>de controlador para monitor Compaq</b>? Sugerimos que descarregue os controladores para monitores Compaq, completamente livres e sem registo, do nosso catálogo. Pode também usar o nosso programa DriverPack Solution para pesquisa e atualização de controladores - irá selecionar automaticamente o controlador mais recente para o seu monitor."
 
 msgid "seo_deviceclass-footer-content-monitor-dell"
-msgstr ""
+msgstr "Surgem alguns problemas com a operação do seu monitor Dell? Aparecem vários artefactos no ecrã? Então o problema está muito provavelmente relacionado com controladores desatualizados. Pode <b>descarregar o controlador para monitor Dell</b>, na sua última configuração e para todas as versões do SO Windows, do nosso catálogo. Se não conseguir encontrar sozinho o controlador que precisa, descarregue o nosso programa DriverPack Solution - é livre e fará todo o trabalho de seleção automática dos controladores necessários."
 
 msgid "seo_deviceclass-footer-content-monitor-hp"
-msgstr ""
+msgstr "Precisa <b>de descarregar o controlador de monitor HP</b>? Nesta Secção irá encontrar todos os últimos e atualizados controladores de monitores HP para todas as últimas versões do sistema operativo Windows. Todos os controladores representados nesta Secção foram selecionados e verificados por especialistas quanto a operacionalidade e segurança. Se não conseguiu encontrar sozinho o controlador que precisa, use o nosso programa DriverPack Solution - irá fazer tudo rapidamente e sem necessidade de intervenção sua!"
 
 msgid "seo_deviceclass-footer-content-monitor-lg"
-msgstr ""
+msgstr "O seu <b>controlador do monitor LG</b> está desatualizado? Aparecem alguns artefactos na imagem, ou o monitor recusa-se a trabalhar? Use o nosso enorme catálogo onde pode <b>descarregar o controlador do monitor LG Flatron</b> sem qualquer problema ou dificuldade! Se não tem tempo para procurar o controlador que precisa, use o nosso programa DriverPack Solution - irá selecionar sozinho todos os controladores necessários."
 
 msgid "seo_deviceclass-footer-content-monitor-panasonic"
-msgstr ""
+msgstr "Surgem alguns problemas de operação com o monitor da companhia Panasonic? O problemas pode estar relacionado com o controladores. No nosso catálogo pode <b>descarregar controladores para monitores Panasonic</b> absolutamente livres e sem problemas! Se por qualquer razão não encontrou o controlador necessário para o seu modelo de monitor Panasonic, descarregue o nosso programa DriverPack Solution para pesquisa e atualização de controladores - é absolutamente livre!"
 
 msgid "seo_deviceclass-footer-content-monitor-samsung"
-msgstr ""
+msgstr "Nesta Secção pode <b>descarregar de graça o controlador para monitores Samsung Syncmaster</b>. Os controladores para todas as últimas versões do SO Windows estão aqui representados. Se por qualquer razão não conseguiu encontrar o controlador que precisa, use o nosso programa DriverPack Solution - é livre e fará tudo automaticamente."
 
 msgid "seo_deviceclass-footer-content-monitor-sony"
-msgstr ""
+msgstr "Aqui pode <b>descarregar os controladores de monitores Sony</b> na sua última configuração, para todas as atuais versões do sistema operativo Windows e de graça. Não quer procurar o controlador que precisa? Então descarregue o nosso programa DriverPack Solution para pesquisa e atualização de controladores - fará tudo automaticamente!"
 
 msgid "seo_deviceclass-footer-content-monitor-viewsonic"
-msgstr ""
+msgstr "Nesta Secção pode <b>descarregar controladores de monitores Viewsonic</b> para todos os modelos disponíveis, absolutamente grátis e sem registo. Os controladores para todas as versões avançadas de sistema operativo Windows, estão disponíveis no nosso catálogo. Ou, descarregue o nosso programa DriverPack Solution - é livre e irá encontrar automaticamente os controladores compatíveis necessários."
 
 msgid "seo_deviceclass-footer-content-monitor-sharp"
-msgstr ""
+msgstr "Aparecem alguns problemas na operação do seu monitor da companhia Sharp? O problema pode estar relacionado com controladores desatualizados. Descarregue sozinho o controlador do nosso catálogo, ou use o nosso programa DriverPack Solution - fará tudo rapidamente e sem problemas! Todos os nossos controladores foram verificados quanto a operacionalidade e segurança!"
 
 msgid "seo_deviceclass-footer-content-monitor-philips"
-msgstr ""
+msgstr "Não sabe onde <b>pode descarregar o controlador para monitores Philips</b>? Nesta Secção irá encontrar os últimos e atualizados controladores para monitores Philips para todas as versões de SO Windows. Se por qualquer razão não conseguiu encontrar sozinho o controlador que precisa, use o nosso programa DriverPack Solution - é absolutamente livre e irá selecionar o controlador que precisa em pouco tempo."
 
 msgid "seo_deviceclass-footer-content-modem-d-link"
-msgstr ""
+msgstr "Nesta Secção pode descarregar <b>o controlador de modems d-link</b> para todas as versões de sistema operativo Windows disponíveis atualmente. O nosso catálogo está organizado de modo simples e de fácil compreensão, de tal forma que lhe será fácil encontrar o controlador que precisa. Contudo, se por qualquer razão não conseguir encontrar o controlador d-link para a configuração que tem, use o nosso programa DriverPack Solution - é absolutamente livre e irá descarregar automaticamente todos os controladores que precisa."
 
 msgid "seo_deviceclass-footer-content-tvtuner-avermedia"
-msgstr ""
+msgstr "O seu sintonizador de tv da Avermedia tem algum problema de operação? O problema pode muito provavelmente ter que ver com controladores desatualizados. Nesta Secção pode <b>descarregar o controlador para o sintonizador de tv Avermedia</b> do nosso prático e linear catálogo, de graça. Pode também usar o programa livre DriverPack Solution - fará tudo rapidamente e poupá-lo-á ao trabalho de ter de procurar pelo mesmo manualmente."
 
 msgid "seo_deviceclass-footer-content-tvtuner-beholder"
-msgstr ""
+msgstr "Está alguma coisa errada com o seu sintonizador de tv da companhia Beholder? Muito provavelmente, o problema poderá ser resolvido atualizando os controladores para a última versão. Aqui pode <b>descarregar controlador para sintonizador de tv Beholder</b>, rapidamente, fácil e totalmente livre. Se sem razão aparente não conseguiu descarregar sozinho o controlador que precisa, use o nosso programa DriverPack Solution - irá selecionar sozinho o controlador necessário tendo em conta a sua configuração de hardware."
 
 msgid "seo_deviceclass-footer-content-tvtuner-pinnacle"
-msgstr ""
+msgstr "Precisa <b>de controladores de sintonizadores de tv Pinnacle</b>? Neste catálogo pode facilmente encontrar os controladores para sintonizadores de tv Pinnacle e descarregá-los de graça. Se por qualquer razão não conseguiu encontrar sozinho o controlador que precisa, instale o nosso programa livre DriverPack Solution - irá analisar a sua configuração de hardware e instalar tudo o que é necessário para um funcionamento correto."
 
 msgid "seo_deviceclass-footer-content-tvtuner-philips"
-msgstr ""
+msgstr "Tem problemas com a operação do seu sintonizador de tv Philips? O problema pode estar relacionado com controladores desatualizados. Aqui pode <b>descarregar controladores para sintonizadores de tv Philips</b> para todas as versões de SO Windows atualmente em uso. Ou instale o programa DriverPack Solution - é livre de custos e fará tudo por si."
 
 msgid "seo_deviceclass-footer-content-tvtuner-kworld"
-msgstr ""
+msgstr "Precisa <b>de descarregar controladores para o sintonizador de tv Kworld</b> mas não sabe de onde? Está no sítio certo? Aqui pode descarregar <b>controladores para sintonizadores de tv Kworld</b>, últimas versões para todas as versões disponíveis do sistema operativo Windows. Não conseguiu encontrar o controlador que precisa no nosso catálogo? Use o nosso programa livre DriverPack Solution - irá fazer tudo de modo automático, rápido e eficiente."
 
 msgid "seo_deviceclass-footer-content-tvtuner-compro"
-msgstr ""
+msgstr "Nesta Secção pode <b>descarregar o controlador para o sintonizador de tv Compro</b> para todas as versões do SO Windows, absolutamente livre. Todos os controladores do nosso catálogo foram verificados por especialistas quanto a operacionalidade e segurança. Não conseguiu encontrar o que procurava? Descarregue o programa DriverPack Solution - fará tudo automaticamente, rápido e sem problemas."
 
 msgid "seo_deviceclass-footer-content-phone-htc"
-msgstr ""
+msgstr "Tem problemas de operação com o seu telemóvel HTC? Não consegue ligar o seu smartphone ao computador? Nesta Secção pode pessoalmente <b>descarregar os controladores do telemóvel HTC</b>. Estão aqui representados os últimos e mais atualizados controladores para telemóveis HTC."
 
 msgid "seo_deviceclass-footer-content-phone-huawei"
 msgstr "Não sabe onde <b>descarregar os controladores para o seu telemóvel Huawei</b>. Nesta Secção irá encontrar controladores para todos os vários modelos de telemóveis da Huawei. Todos os nosso controladores foram verificados quanto a operacionalidade e segurança!"
@@ -823,22 +823,22 @@ msgid "seo_deviceclass-footer-content-phone-nokia"
 msgstr "Nesta Secção pode <b>descarregar controladores para telemóveis Nokia</b> absolutamente livres e sem necessidade de registo. Os controladores de todos os vários modelos da Nokia estão aqui representados. Mais, todos os nossos controladores foram verificados por especialistas quanto a segurança e operacionalidade."
 
 msgid "seo_devicegroup-footer-content-video-nvidia-nvidia-geforce-9600-gt"
-msgstr ""
+msgstr "Precisa dos controladores para a placa gráfica Nvidia Geforce GT? Está no sítio certo! Nesta Secção pode descarregar <b>os controladores da placa gráfica Nvidia Geforce 9600 GT</b> para todas as versões do sistema operativo Windows existentes e em uso atualmente. Se por qualquer razão não conseguiu encontrar sozinho os controladores que precisa no nosso catálogo, use o nosso programa DriverPack Solution para uma pesquisa e instalação de controladores absolutamente livre e que funciona em modo automático."
 
 msgid "seo_devicegroup-footer-content-monitor-samsung-syncmaster-740n-179n-syncmaster-magic-cx721n-cx714n"
-msgstr ""
+msgstr "Tem dificuldade em ligar o monitor Samsung Syncmaster  740n ao seu computador? Aparecem artefactos na imagem apresentada pelo seu monitor? Nesta Secção pode encontrar e <b>descarregar o controlador para o monitor Samsung Syncmaster 740n</b>, na sua última configuração para todos os SO Windows em uso atualmente. Se não consegue selecionar o controlador que precisa no nosso catálogo, use o nosso programa DriverPack Solution - é livre e especificamente criado para instalações automáticas de controladores no seu computador."
 
 msgid "seo_notebook-footer-content-acer-aspire-5560g"
-msgstr ""
+msgstr "Nesta Secção pode descarregar os controladores do portátil Acer Aspire 5560g para o Windows XP, 7, 8, 8.1 e 10. Todos os controladores foram verificados pelos nossos especialistas quanto a operacionalidade e segurança. Se não encontrou sozinho o controlador que precisa, use o nosso programa DriverPack Solution - é absolutamente livre e fará tudo por si!"
 
 msgid "seo_notebook-footer-content-aspire-5750g"
-msgstr ""
+msgstr "Precisa descarregar os controladores do portátil Acer Aspire 5750g? Estão representados nesta Secção os controladores para os SO Windows XP, 7, 8, 8.1 e 10. Os nossos controladores foram verificados por antivírus e são 100% seguros. Não pretende descarregar manualmente o controlador que precisa? Descarregue então o nosso programa DriverPack Solution - é livre e irá selecionar automaticamente tudo o que precisa."
 
 msgid "seo_notebook-footer-content-acer-aspire-5100"
-msgstr ""
+msgstr "Nesta Secção pode descarregar de graça os controladores do portátil Acer Aspire 5100 (Windows XP, 7, 8, 8.1, 10). Se por qualquer razão não conseguiu encontrar o controlador que precisa no nosso catálogo, não desespere - descarregue o nosso programa DriverPack Solution. Fará tudo por si."
 
 msgid "seo_notebook-footer-content-acer-aspire-5553g"
-msgstr ""
+msgstr "Precisa descarregar os controladores do portátil Acer Aspire 5553g? Nesta Secção irá encontrar todos os controladores que precisa para as seguintes versões de Windows: XP, 7, 8, 8.1, 10. Não encontrou o que precisa? Descarregue o nosso programa livre DriverPack Solution para atualizar os controladores - fará tudo por s!"
 
 msgid "seo_notebook-footer-content-acer-aspire-7750g"
 msgstr "Nesta Secção pode descarregar absolutamente de graça os controladores do portátil Acer Aspire 7750g. Todos os nossos controladores foram verificados quanto a segurança e operacionalidade. Os controladores que precisa não estão no nosso catálogo? Descarregue o programa DriverPack Solution - irá encontrar tudo o que precisa em minutos!"
@@ -967,43 +967,43 @@ msgid "seo_notebook-footer-content-acer-aspire-v3-571g-10-x86"
 msgstr "Pode aqui descarregar os controladores do portátil Acer Aspire v3 571g para o Windows 10. Os nossos controladores são completamente operacionais e verificados por antivírus."
 
 msgid "seo_notebook-footer-content-asus-x550cc-7-x86"
-msgstr "Nesta Secção pode descarregar o controladores do portátil Asus X550CC para o Windows 7 x86. Todos os nossos controladores foram verificados por antivírus quanto a segurança!"
+msgstr "Nesta Secção pode descarregar o controladores do portátil Asus X550CC para o Windows 7x86. Todos os nossos controladores foram verificados por antivírus quanto a segurança!"
 
 msgid "seo_notebook-footer-content-asus-x550cc-7-x64"
-msgstr "Nesta Secção pode descarregar, absolutamente de graça, controladores de portáteis Asus X550CC para o Windows 7 x64. Se por qualquer razão não está satisfeito com o controlador desta Secção, uso o nosso programa DriverPack Solution - irá atualizar os controladores do seu portátil para as últimas versões atualizadas."
+msgstr "Nesta Secção pode descarregar, absolutamente de graça, controladores de portáteis Asus X550CC para o Windows 7x64. Se por qualquer razão não está satisfeito com o controlador desta Secção, uso o nosso programa DriverPack Solution - irá atualizar os controladores do seu portátil para as últimas versões atualizadas."
 
 msgid "seo_notebook-footer-content-asus-x550cl-7-x64"
-msgstr "Pode aqui descarregar absolutamente de graça, os controladores do portátil Asus X550CL para o Windows 7 x64. Todos os nossos controladores foram verificados por especialistas quando a operacionalidade."
+msgstr "Pode aqui descarregar absolutamente de graça, os controladores do portátil Asus X550CL para o Windows 7x64. Todos os nossos controladores foram verificados por especialistas quando a operacionalidade."
 
 msgid "seo_notebook-footer-content-asus-x540sa-7-x64"
-msgstr "Precisa de controladores do portátil Asus X540SA para o Windows 7 x64? Irá encontrar tudo o que precisa nesta Secção. Todos os controladores foram verificados pelos nossos especialistas quanto a segurança e operacionalidade."
+msgstr "Precisa de controladores do portátil Asus X540SA para o Windows 7x64? Irá encontrar tudo o que precisa nesta Secção. Todos os controladores foram verificados pelos nossos especialistas quanto a segurança e operacionalidade."
 
 msgid "seo_notebook-footer-content-asus-x540sa-8.1-x64"
-msgstr "Precisa de controladores do portátil Asus X540sa para o Windows 8.1 x64? Aqui pode encontrar tudo o que precisa. Os nossos controladores foram verificados pelos melhores especialistas quanto a operacionalidade e segurança."
+msgstr "Precisa de controladores do portátil Asus x540sa para o Windows 8.1 x64? Aqui pode encontrar tudo o que precisa. Os nossos controladores foram verificados pelos melhores especialistas quanto a operacionalidade e segurança."
 
 msgid "seo_notebook-footer-content-asus-x540sa-10-x64"
-msgstr "Precisa descarregar controladores de portáteis Asus X540SA para o Windows 10 x64? Está no sítio certo! Se por qualquer razão não encontrou o controlador que precisa no nosso catálogo, descarregue o nosso programa DriverPack Solution - irá encontrar todas as últimas versões e instalá-las sozinho no seu portátil!"
+msgstr "Precisa descarregar controladores de portáteis Asus X540SA para o Windows 10x64? Está no sítio certo! Se por qualquer razão não encontrou o controlador que precisa no nosso catálogo, descarregue o nosso programa DriverPack Solution - irá encontrar todas as últimas versões e instalá-las sozinho no seu portátil!"
 
 msgid "seo_notebook-footer-content-asus-x540sc-7-x64"
-msgstr "Precisa descarregar controladores do portátil Asus X540SC para o Windows 7 x64? Encontrará aqui tudo o que precisa. Todos os seus pacotes de controladores foram verificados quanto a segurança e operacionalidade!"
+msgstr "Precisa descarregar controladores do portátil Asus X540SC para o Windows 7x64? Encontrará aqui tudo o que precisa. Todos os seus pacotes de controladores foram verificados quanto a segurança e operacionalidade!"
 
 msgid "seo_notebook-footer-content-asus-x540sc-8.1-x64"
-msgstr "Aqui pode descarregar, absolutamente de graça, controladores de portáteis Asus X540SC para o Windows 8.1 x64. Se não conseguiu encontrar sozinho o controlador que precisa no nosso catálogo, basta descarregar o programa Driverpack para atualizar os controladores - fará tudo rápidamente e de modo confiável!"
+msgstr "Aqui pode descarregar, absolutamente de graça, controladores de portáteis Asus X540SC para o Windows 8.1 x64. Se não conseguiu encontrar sozinho o controlador que precisa no nosso catálogo, basta descarregar o programa DriverPack para atualizar os controladores - fará tudo rápidamente e de modo confiável!"
 
 msgid "seo_notebook-footer-content-asus-x540la-7-x64"
-msgstr "Nesta Secção pode descarregar de graça e sem qualquer registo adicional, os controladores do portátil Asus X540LA para o Windows 7 x64. Todos os nossos controladores são absolutamente seguros e completamente operacionais."
+msgstr "Nesta Secção pode descarregar de graça e sem qualquer registo adicional, os controladores do portátil Asus X540LA para o Windows 7x64. Todos os nossos controladores são absolutamente seguros e completamente operacionais."
 
 msgid "seo_notebook-footer-content-asus-k50c-xp-x86"
 msgstr "Nesta Secção pode descarregar os controladores de portáteis Asus k50c para o Windows XP, absolutamente de graça e sem necessidade de registo. Sugerimos também que descarregue o programa DriverPack Solution para uma instalação automática de controladores - fará tudo por si!"
 
 msgid "seo_notebook-footer-content-asus-x553ma-7-x64"
-msgstr "Pode descarregar aqui os controladores do portátil Asus X53MA para o Windows 7 x64. Todos os nossos pacotes de controladores foram testados por especialistas quanto a segurança e operacionalidade."
+msgstr "Pode descarregar aqui os controladores do portátil Asus X553MA para o Windows 7x64. Todos os nossos pacotes de controladores foram testados por especialistas quanto a segurança e operacionalidade."
 
 msgid "seo_notebook-footer-content-asus-x101ch-xp-x86"
 msgstr "Pode descarregar aqui, de graça e sem qualquer registo adicional, os controladores do portátil Asus X101CH para o Windows XP. Todos os nossos controladores são completamente operacionais e seguros para o seu portátil!"
 
 msgid "seo_notebook-footer-content-asus-k50ij-7-x64"
-msgstr "Aqui pode descarregar e instalar, absolutamente de graça, os controladores de portáteis Asus k50ij para o Windows 7 x64. Não ficou satisfeito com os controladores? Não há problema - use o nosso programa DriverPack Solution para atualizar os controladores - é absolutamente livre e fará tudo automaticamente!"
+msgstr "Aqui pode descarregar e instalar, absolutamente de graça, os controladores de portáteis Asus k50ij para o Windows 7x64. Não ficou satisfeito com os controladores? Não há problema - use o nosso programa DriverPack Solution para atualizar os controladores - é absolutamente livre e fará tudo automaticamente!"
 
 msgid "seo_notebook-footer-content-asus-k50ij-xp-x86"
 msgstr "Precisa descarregar controladores de portáteis Asus k50ij para o Windows XP? Use o nosso catálogo - irá encontrar lá tudo o que precisa. Não ajudou? Então descarregue o programa DriverPack Solution para atualizar os controladores - irá analisar o hardware do seu portátil e selecionar os controladores mais adequados."

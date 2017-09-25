@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-08-16 09:41+0000\n"
+"POT-Creation-Date: 2017-09-13 09:50+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: leyahn mallorca <leyahnmallorca110198@gmail.com>, 2017\n"
 "Language-Team: Filipino (https://www.transifex.com/driverpack-solution/teams/75453/fil/)\n"
@@ -49,9 +49,6 @@ msgstr "I-download ang DriverPack Online"
 msgid "adminheader_products-caption"
 msgstr "Anumang DriverPack ay i-configure ang iyong computer sa sandaling oras lamang. Piliin lamang ang pakete na kailangan mo:"
 
-msgid "search_noresult"
-msgstr "I-download ang DriverPack Online"
-
 msgid "adminpromo_landing-title"
 msgstr "Ang bagong DriverPack 18 ay nasa ilalim ng pag-unlad"
 
@@ -93,6 +90,9 @@ msgstr "I-download"
 
 msgid "breadcrumbs_main-text"
 msgstr "Home Page"
+
+msgid "breadcrumbs_catalog-main-text"
+msgstr ""
 
 msgid "breadcrumbs_vendors-text"
 msgstr "Mga Tagagawa"
@@ -191,6 +191,9 @@ msgstr "Tingnan ang lahat ng mga driver"
 msgid "devicecard_details-links"
 msgstr "Tingnan ang lahat ng mga driver para sa"
 
+msgid "devicecardlist_no-result_download-link"
+msgstr "I-download ang DriverPack"
+
 #. i18n: EN: Example: DEVICENAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10
 #. x86; Text for {{DOWNLOAD}} is in key devicecardlist_no-result_download-
 #. link; RU: Пример: NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10
@@ -215,9 +218,6 @@ msgstr "Ang mga driver para sa {{NOTEBOOK}} laptop para sa Windows {{OSVERSIONS}
 msgid "devicecardlist_no-results-notebook-device-class-text"
 msgstr "Ang mga driver para sa {{DEVICECLASS}} para sa {{NOTEBOOK}} laptop para sa Windows {{OSVERSIONS}} ay hindi natagpuan. {{DOWNLOAD}} upang mapili ang driver nang awtomatiko."
 
-msgid "devicecardlist_no-result_download-link"
-msgstr "I-download ang DriverPack"
-
 msgid "devicegrouppage_all-systems"
 msgstr "lahat ng mga sistema"
 
@@ -241,6 +241,9 @@ msgstr "Driver para sa mga device sa {{OS}}"
 
 msgid "devicetypelist_title"
 msgstr "Paghahanap ng driver para sa mga device"
+
+msgid "search_noresult"
+msgstr "I-download ang DriverPack Online"
 
 #. i18n: EN: Example: NAME=Acer Aspire 4830TG; OSVERSIONS=Windows 10 x86; Text
 #. for {{DOWNLOAD}} is in key drivercard_no-results_download-link; RU: Пример:
@@ -808,10 +811,10 @@ msgid "sidebanner_caption"
 msgstr "Ang DriverPack ay awtomatikong <span class='SideBanner__caption-marked'>pipili at i-install</span> ang mga kinakailangang driver"
 
 msgid "translationheader_cta-text"
-msgstr "Makilahok sa pagsasalin ng website ng DriverPack at tulungan ang milyun-milyong mga gumagamit sa buong mundo"
+msgstr ""
 
 msgid "translationheader_bubble-team"
-msgstr "Gusto mo bang maging bahagi ng koponan ng mga tagapagsalin para sa pinakamalaking serbisyo sa mundo ng para sa awtomatikong pag-set up ng computer?"
+msgstr ""
 
 msgid "translationheader_bubble-languages"
 msgstr "Alam at mahusay kaba sa Ingles o Ruso, kaya handa kana bang isalin mula sa isa sa mga ito sa iyong katutubong wika?"
@@ -838,7 +841,7 @@ msgid "language_title"
 msgstr "Filipino"
 
 msgid "landingPagePublications_rbk"
-msgstr "Ang Driverpack ay ang software na binubuo ng mga driver para sa Windows na piniling lubusan at sinubokan ng koponan ni Artur Kuzyakov. Pinag-aaralan ng application na ito ang computer ng isang user at i-install ito sa mga kinakailangang driver, na nagbibigay-daan sa iyo upang malutas ang dalawang isyu: una, upang pabilisin ang proseso ng configuration ng computer (na mahalaga lalo na kung may mga dose-dosenang mga computer sa loob ng isang sistema); at pangalawa, upang mapagbuti ang kakayahang pagpapatakbo nito."
+msgstr ""
 
 msgid "landingPagePublications_secretfirmy"
 msgstr "Sa ngayon, ang DriverPack ay may pinakamalaking database ng driver sa mundo na isinalin sa 45 wika at nagpapatakbo ng higit sa 42 milyong mga gumagamit computer ."
@@ -911,9 +914,6 @@ msgstr "Popular {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
 
 msgid "devicetypevendorpage_subtitle-all"
 msgstr "Lahat {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
-
-msgid "drop-down-language_not-found"
-msgstr "Haven't found your language?"
 
 msgid "errorpage_title"
 msgstr "Error 500: error sa panloob na server"
@@ -1054,3 +1054,6 @@ msgstr "Ang pagbuo at pag-unlad ng solusyon na ito ay batay sa mga sumusunod na 
 
 msgid "wannacryptpromopage_link-smb"
 msgstr "Paano paganahin at huwag paganahin ang mga bersyon 1, 2, at 3 ng mga protocol ng SMB para sa Windows at Windows Server"
+
+#~ msgid "drop-down-language_not-found"
+#~ msgstr "Haven't found your language?"

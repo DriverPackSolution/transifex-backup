@@ -3,13 +3,14 @@
 # Nije Bitno <downloadbl@gmail.com>, 2016
 # MILICA STOJANOVIC <ssmilica987@gmail.com>, 2017
 # Milan Stevanović <miki.stevanovic802@gmail.com>, 2017
+# Momentum Z <momentum.ns@gmail.com>, 2017
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-08-16 09:41+0000\n"
+"POT-Creation-Date: 2017-09-13 09:50+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
-"Last-Translator: Milan Stevanović <miki.stevanovic802@gmail.com>, 2017\n"
+"Last-Translator: Momentum Z <momentum.ns@gmail.com>, 2017\n"
 "Language-Team: Serbian (https://www.transifex.com/driverpack-solution/teams/75453/sr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -49,9 +50,6 @@ msgstr "Preuzimanje DriverPack Online "
 
 msgid "adminheader_products-caption"
 msgstr ""
-
-msgid "search_noresult"
-msgstr "Preuzimanje DriverPack Online"
 
 msgid "adminpromo_landing-title"
 msgstr "Novi DriverPack 18 je u procesu razvoja"
@@ -94,6 +92,9 @@ msgstr "Preuzimanje"
 
 msgid "breadcrumbs_main-text"
 msgstr "Početna strana"
+
+msgid "breadcrumbs_catalog-main-text"
+msgstr ""
 
 msgid "breadcrumbs_vendors-text"
 msgstr "Proizvodjači"
@@ -192,6 +193,9 @@ msgstr "Pogledaj sve drajvere"
 msgid "devicecard_details-links"
 msgstr ""
 
+msgid "devicecardlist_no-result_download-link"
+msgstr "Preuzimanje DriverPack"
+
 #. i18n: EN: Example: DEVICENAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10
 #. x86; Text for {{DOWNLOAD}} is in key devicecardlist_no-result_download-
 #. link; RU: Пример: NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10
@@ -216,9 +220,6 @@ msgstr ""
 msgid "devicecardlist_no-results-notebook-device-class-text"
 msgstr ""
 
-msgid "devicecardlist_no-result_download-link"
-msgstr "Preuzimanje DriverPack"
-
 msgid "devicegrouppage_all-systems"
 msgstr "сви системи"
 
@@ -242,6 +243,9 @@ msgstr ""
 
 msgid "devicetypelist_title"
 msgstr "Drjaver traži uredjaje"
+
+msgid "search_noresult"
+msgstr "Preuzimanje DriverPack Online"
 
 #. i18n: EN: Example: NAME=Acer Aspire 4830TG; OSVERSIONS=Windows 10 x86; Text
 #. for {{DOWNLOAD}} is in key drivercard_no-results_download-link; RU: Пример:
@@ -685,16 +689,16 @@ msgid "deviceclasses_sound-plural-for"
 msgstr "звучне карте"
 
 msgid "deviceclasses_tvtuner-single-main"
-msgstr ""
+msgstr "TV-tjuner"
 
 msgid "deviceclasses_tvtuner-single-for"
-msgstr ""
+msgstr "TV-tjuner"
 
 msgid "deviceclasses_tvtuner-plural-main"
-msgstr ""
+msgstr "TV-tjuner"
 
 msgid "deviceclasses_tvtuner-plural-for"
-msgstr ""
+msgstr "TV-tjuner"
 
 msgid "deviceclasses_video-single-main"
 msgstr "видео карта"
@@ -913,9 +917,6 @@ msgstr ""
 msgid "devicetypevendorpage_subtitle-all"
 msgstr ""
 
-msgid "drop-down-language_not-found"
-msgstr "Haven't found your language?"
-
 msgid "errorpage_title"
 msgstr ""
 
@@ -1055,3 +1056,6 @@ msgstr ""
 
 msgid "wannacryptpromopage_link-smb"
 msgstr ""
+
+#~ msgid "drop-down-language_not-found"
+#~ msgstr "Haven't found your language?"

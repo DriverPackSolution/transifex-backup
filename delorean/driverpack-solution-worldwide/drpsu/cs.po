@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-08-16 09:41+0000\n"
+"POT-Creation-Date: 2017-09-13 09:50+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>, 2017\n"
 "Language-Team: Czech (https://www.transifex.com/driverpack-solution/teams/75453/cs/)\n"
@@ -52,9 +52,6 @@ msgstr "Stáhnout DriverPack Online"
 msgid "adminheader_products-caption"
 msgstr "Jakýkoli DriverPack Vám nastaví počítač velmi rychle. Jen vyberte ten, který potřebujete:"
 
-msgid "search_noresult"
-msgstr "Stáhnout DirverPack Online"
-
 msgid "adminpromo_landing-title"
 msgstr "Nový DriverPack 18 je ve vývoji"
 
@@ -96,6 +93,9 @@ msgstr "Stáhnout"
 
 msgid "breadcrumbs_main-text"
 msgstr "Domovská stránka"
+
+msgid "breadcrumbs_catalog-main-text"
+msgstr ""
 
 msgid "breadcrumbs_vendors-text"
 msgstr "Výrobci"
@@ -194,6 +194,9 @@ msgstr "Zobrazit všechny ovladače"
 msgid "devicecard_details-links"
 msgstr "Zobrazit všechny ovladače pro"
 
+msgid "devicecardlist_no-result_download-link"
+msgstr "Stáhnout DriverPack"
+
 #. i18n: EN: Example: DEVICENAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10
 #. x86; Text for {{DOWNLOAD}} is in key devicecardlist_no-result_download-
 #. link; RU: Пример: NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10
@@ -218,9 +221,6 @@ msgstr "Ovladače pro {{NOTEBOOK}} pro Windows {{OSVERSIONS}} nenalezeny v katal
 msgid "devicecardlist_no-results-notebook-device-class-text"
 msgstr "Ovladače pro {{DEVICECLASS}} pro {{NOTEBOOK}} pro Windows {{OSVERSIONS}} nenalezeny. {{DOWNLOAD}} k automatickému výběru ovladače."
 
-msgid "devicecardlist_no-result_download-link"
-msgstr "Stáhnout DriverPack"
-
 msgid "devicegrouppage_all-systems"
 msgstr "všechny systémy"
 
@@ -244,6 +244,9 @@ msgstr "Ovladače pro zařízení na {{OS}}"
 
 msgid "devicetypelist_title"
 msgstr "Hledat ovladače pro zařízení"
+
+msgid "search_noresult"
+msgstr "Stáhnout DirverPack Online"
 
 #. i18n: EN: Example: NAME=Acer Aspire 4830TG; OSVERSIONS=Windows 10 x86; Text
 #. for {{DOWNLOAD}} is in key drivercard_no-results_download-link; RU: Пример:
@@ -811,10 +814,10 @@ msgid "sidebanner_caption"
 msgstr "DriverPack automaticky <span class='SideBanner__caption-marked'>vybere a nastaví </span> požadované ovladače"
 
 msgid "translationheader_cta-text"
-msgstr "Zapojit se do překladu webu pro DriverPack a pomoct milionům uživatelů z celého světa"
+msgstr ""
 
 msgid "translationheader_bubble-team"
-msgstr "Chtěli byste být součástí překladatelského týmu největší služby na světě pro automatické nastavení počítače?"
+msgstr ""
 
 msgid "translationheader_bubble-languages"
 msgstr "Znáte angličtinu nebo ruštinu docela dobře, takže jste připraveni překládat z jednoho z nich do vašeho mateřského jazyka?"
@@ -841,7 +844,7 @@ msgid "language_title"
 msgstr "Czech"
 
 msgid "landingPagePublications_rbk"
-msgstr "DriverPack je software, který obsahuje ovladače pro Windows, které jsou důkladně vybrané a otestované týmem Artura Kuzyakova. Tato utilita analyzuje uživatelův počítač a nainstaluje požadované ovladače, které řeší dva problémy: za prvé, a to zrychlení procesu nastavení počítače (což je zejména důležité pokud máte mnoho počítačů s jedním systémem) a za druhé zlepšuje kvalitu operací."
+msgstr ""
 
 msgid "landingPagePublications_secretfirmy"
 msgstr "Dnes má DriverPack největší databázi na světě, která je přeložená do 45 jazyků a operuje na počítačích více než 42 milionů uživatelů."
@@ -914,9 +917,6 @@ msgstr "Populární {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
 
 msgid "devicetypevendorpage_subtitle-all"
 msgstr "Všechny {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
-
-msgid "drop-down-language_not-found"
-msgstr "Haven't found your language?"
 
 msgid "errorpage_title"
 msgstr "Chyba 500: chyba interního serveru"
@@ -1057,3 +1057,6 @@ msgstr "Vývoj tohoto řešení bylo založeno na následujících materiálech"
 
 msgid "wannacryptpromopage_link-smb"
 msgstr "Jak povolit a zakázat verze 1, 2 a 3 protokolu SMB ve Windows a Windows Server"
+
+#~ msgid "drop-down-language_not-found"
+#~ msgstr "Haven't found your language?"

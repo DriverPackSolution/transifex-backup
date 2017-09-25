@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-08-16 09:41+0000\n"
+"POT-Creation-Date: 2017-09-13 09:50+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Lars Mausehund <l.mausehund@netzwerk-design.de>, 2017\n"
 "Language-Team: German (https://www.transifex.com/driverpack-solution/teams/75453/de/)\n"
@@ -49,9 +49,6 @@ msgstr "DriverPack Online herunterladen"
 msgid "adminheader_products-caption"
 msgstr "Jedes DriverPack konfiguriert Ihren Computer in kürzester Zeit. Wählen Sie einfach das Paket, welches Sie benötigen:"
 
-msgid "search_noresult"
-msgstr "DriverPack Online herunterladen"
-
 msgid "adminpromo_landing-title"
 msgstr "Das neue DriverPack 18 ist in Entwicklung"
 
@@ -93,6 +90,9 @@ msgstr "Herunterladen"
 
 msgid "breadcrumbs_main-text"
 msgstr "Startseite"
+
+msgid "breadcrumbs_catalog-main-text"
+msgstr "Treiber für {{OS.NAME}}"
 
 msgid "breadcrumbs_vendors-text"
 msgstr "Hersteller"
@@ -191,6 +191,9 @@ msgstr "Alle Treiber anzeigen"
 msgid "devicecard_details-links"
 msgstr "Alle Treiber anzeigen für"
 
+msgid "devicecardlist_no-result_download-link"
+msgstr "DriverPack herunterladen"
+
 #. i18n: EN: Example: DEVICENAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10
 #. x86; Text for {{DOWNLOAD}} is in key devicecardlist_no-result_download-
 #. link; RU: Пример: NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10
@@ -215,9 +218,6 @@ msgstr "Die Treiber für {{NOTEBOOK}} Laptop für Windows {{OSVERSIONS}} wurden 
 msgid "devicecardlist_no-results-notebook-device-class-text"
 msgstr "Die Treiber für {{DEVICECLASS}} für {{NOTEBOOK}} Laptop für Windows {{OSVERSIONS}} wurden nicht gefunden. {{DOWNLOAD}}, um den Treiber automatisch auszuwählen."
 
-msgid "devicecardlist_no-result_download-link"
-msgstr "DriverPack herunterladen"
-
 msgid "devicegrouppage_all-systems"
 msgstr "Alle Systeme"
 
@@ -241,6 +241,9 @@ msgstr "Treiber für Geräte unter {{OS}}"
 
 msgid "devicetypelist_title"
 msgstr "Treibersuche für Geräte"
+
+msgid "search_noresult"
+msgstr "DriverPack Online herunterladen"
 
 #. i18n: EN: Example: NAME=Acer Aspire 4830TG; OSVERSIONS=Windows 10 x86; Text
 #. for {{DOWNLOAD}} is in key drivercard_no-results_download-link; RU: Пример:
@@ -808,10 +811,10 @@ msgid "sidebanner_caption"
 msgstr "DriverPack <span class='SideBanner__caption-marked'>wählt und installiert</span> die benötigten Treiber automatisch"
 
 msgid "translationheader_cta-text"
-msgstr "Nehmen Sie an der Übersetzung der DriverPack Website teil und helfen Sie Millionen von Nutzern weltweit"
+msgstr ""
 
 msgid "translationheader_bubble-team"
-msgstr "Möchten Sie ein Teil des Übersetzungsteams für den weltweit größten Dienst für automatische Computer-Einrichtung werden?"
+msgstr ""
 
 msgid "translationheader_bubble-languages"
 msgstr "Beherrschen Sie Englisch oder Russisch gut genug, so dass Sie bereit sind, von einem von ihnen Ihre Muttersprache zu übersetzen?"
@@ -838,7 +841,7 @@ msgid "language_title"
 msgstr "German"
 
 msgid "landingPagePublications_rbk"
-msgstr "DriverPack ist die Software, die aus den Treibern für Windows besteht, welche von Artur Kuzyakov's Team sorgfältig ausgewählt und getestet wurden. Die Anwendung analysiert den Computer eines Benutzers und installiert die benötigten Treiber, wodurch zwei Probleme gelöst werden können: Erstens, um den Prozess der Computerkonfiguration zu beschleunigen (was besonders wichtig ist, wenn dutzende Computer innerhalb eines Systems vorhanden sind), und zweitens, um die Betriebsqualität zu verbessern."
+msgstr ""
 
 msgid "landingPagePublications_secretfirmy"
 msgstr "Heute hat DriverPack die größte Treiberdatenbank der Welt, welche in 45 Sprachen übersetzt wurde auf den Computern von mehr als 42 Millionen Nutzern arbeitet."
@@ -911,9 +914,6 @@ msgstr "Beliebte {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
 
 msgid "devicetypevendorpage_subtitle-all"
 msgstr "Alle {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
-
-msgid "drop-down-language_not-found"
-msgstr "Haven't found your language?"
 
 msgid "errorpage_title"
 msgstr "Fehler 500: Interner Server-Fehler"
@@ -1054,3 +1054,6 @@ msgstr "Die Entwicklung dieser Lösung basiert auf folgenden Materialien"
 
 msgid "wannacryptpromopage_link-smb"
 msgstr "Wie Sie Version 1, 2, und 3 des SMB Protokolls für Windows und Windows Server aktivieren und deaktivieren können"
+
+#~ msgid "drop-down-language_not-found"
+#~ msgstr "Haven't found your language?"

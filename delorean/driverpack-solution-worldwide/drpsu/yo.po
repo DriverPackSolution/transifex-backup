@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-08-16 09:41+0000\n"
+"POT-Creation-Date: 2017-09-13 09:50+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Tiwo Oluwatobi <tiwotobi01@gmail.com>, 2017\n"
 "Language-Team: Yoruba (https://www.transifex.com/driverpack-solution/teams/75453/yo/)\n"
@@ -48,9 +48,6 @@ msgstr "Gba awọn DriverPack Online"
 msgid "adminheader_products-caption"
 msgstr "Eyikeyi DriverPack yoo tunto kọmputa rẹ laisi akoko. O kan yan ipin ti o nilo:"
 
-msgid "search_noresult"
-msgstr "Gba awọn DriverPack Online "
-
 msgid "adminpromo_landing-title"
 msgstr "DriverPack 18 titun wa labẹ idagbasoke"
 
@@ -92,6 +89,9 @@ msgstr "Gbigba lati ayelujara"
 
 msgid "breadcrumbs_main-text"
 msgstr "Oju ile"
+
+msgid "breadcrumbs_catalog-main-text"
+msgstr ""
 
 msgid "breadcrumbs_vendors-text"
 msgstr "Awọn ọṣọ"
@@ -190,6 +190,9 @@ msgstr "wo gbogbo driver"
 msgid "devicecard_details-links"
 msgstr "wo gbogbo driver fun"
 
+msgid "devicecardlist_no-result_download-link"
+msgstr "Gba awọn DriverPack"
+
 #. i18n: EN: Example: DEVICENAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10
 #. x86; Text for {{DOWNLOAD}} is in key devicecardlist_no-result_download-
 #. link; RU: Пример: NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10
@@ -214,9 +217,6 @@ msgstr "Awọn Driver fun {{NOTEBOOK}} komputa alagbeka fun Windows {{OSVERSIONS
 msgid "devicecardlist_no-results-notebook-device-class-text"
 msgstr "Awọn Driver fun {{DEVICECLASS}} fun {{NOTEBOOK}} komputa alagbeka fun Windows {{OSVERSIONS}} ko ri. {{DOWNLOAD}} lati yan iwakọ naa laifọwọyi."
 
-msgid "devicecardlist_no-result_download-link"
-msgstr "Gba awọn DriverPack"
-
 msgid "devicegrouppage_all-systems"
 msgstr "gbogbo awọn ọna ṣiṣe "
 
@@ -240,6 +240,9 @@ msgstr "Driver fun awọn ẹrọ lori {{OS}}"
 
 msgid "devicetypelist_title"
 msgstr "Iwadi Driver fun awọn ẹrọ"
+
+msgid "search_noresult"
+msgstr "Gba awọn DriverPack Online "
 
 #. i18n: EN: Example: NAME=Acer Aspire 4830TG; OSVERSIONS=Windows 10 x86; Text
 #. for {{DOWNLOAD}} is in key drivercard_no-results_download-link; RU: Пример:
@@ -807,10 +810,10 @@ msgid "sidebanner_caption"
 msgstr "DriverPack yoo laifọwọyi <span class='SideBanner__caption-marked'>yan ati fi sori ẹrọ</span> driver ti a beere"
 
 msgid "translationheader_cta-text"
-msgstr "Ṣe alabapin ninu itumọ aaye ayelujara DriverPack ki o ran awọn milionu awọn olumulo ni agbaye lọwọ"
+msgstr ""
 
 msgid "translationheader_bubble-team"
-msgstr "Ṣe o fẹ lati jẹ apakan ti awọn ẹgbẹ itọka fun iṣẹ ti o tobi julo ti iṣeto kọmputa kọmputa laifọwọyi?"
+msgstr ""
 
 msgid "translationheader_bubble-languages"
 msgstr "Ṣe o mọ English tabi Russian daradara, ki o ṣetan lati ṣe itumọ lati ọkan ninu wọn si ede abinibi rẹ?"
@@ -837,7 +840,7 @@ msgid "language_title"
 msgstr "Yoruba"
 
 msgid "landingPagePublications_rbk"
-msgstr "Driverpack jẹ software ti o ni awọn driver fun Windows ti a yan daradara ti a si ṣe idanwo nipasẹ egbe Artur Kuzyakov. Itọnisọna yii ṣe itupalẹ kọmputa ti olumulo kan ati ki o fi sori ẹrọ awọn driver ti o nilo, eyi ti o fun ọ laaye lati yanju awọn oran meji: akọkọ, lati ṣe igbiyanju awọn ilana ti iṣeto ni kọmputa (eyi ti o ṣe pataki julọ bi awọn kọmputa ti o pọju ninu ọkan eto); ati keji, lati mu agbara agbara rẹ ṣiṣẹ."
+msgstr ""
 
 msgid "landingPagePublications_secretfirmy"
 msgstr "Loni, DriverPack ni aaye ayelujara ti o tobi julo ni agbaye ti o tumọ si awọn ede 45 ati nṣiṣẹ lori awọn kọmputa ti o ju 42 milionu awọn olumulo."
@@ -910,9 +913,6 @@ msgstr "Gbajumo {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
 
 msgid "devicetypevendorpage_subtitle-all"
 msgstr "Gbogbo {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
-
-msgid "drop-down-language_not-found"
-msgstr "Haven't found your language?"
 
 msgid "errorpage_title"
 msgstr "Error 500: internal server error"
@@ -1053,3 +1053,6 @@ msgstr "Idagbasoke ti ojutu yii da lori awọn ohun elo wọnyi"
 
 msgid "wannacryptpromopage_link-smb"
 msgstr "Bawo ni lati ṣe mu ati mu awọn ẹya 1, 2, ati 3 ti awọn ilana SMB fun Windows ati Windows Server"
+
+#~ msgid "drop-down-language_not-found"
+#~ msgstr "Haven't found your language?"

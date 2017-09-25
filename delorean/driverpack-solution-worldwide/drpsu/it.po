@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-08-16 09:41+0000\n"
+"POT-Creation-Date: 2017-09-13 09:50+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>, 2017\n"
 "Language-Team: Italian (https://www.transifex.com/driverpack-solution/teams/75453/it/)\n"
@@ -43,7 +43,7 @@ msgid "adminfaq_landing-title"
 msgstr "Rispondiamo alle tue domande"
 
 msgid "adminfaq_landing-subtitle"
-msgstr ""
+msgstr "Spesso ci poni delle domande riguardo a DriverPack — Rispondiamo alle più richieste"
 
 msgid "adminheader_cta-text"
 msgstr "DriverPack è stato creato per amministratori ma la sua facilità di utilizzo lo rende utile anche per i principianti"
@@ -53,9 +53,6 @@ msgstr "Download DriverPack Online"
 
 msgid "adminheader_products-caption"
 msgstr "Qualunque driverpack configurerà il tuo computer in pochissimo tempo. Devi semplicemente scegliere il pacchetto che ti necessita."
-
-msgid "search_noresult"
-msgstr "Download DriverPack Online"
 
 msgid "adminpromo_landing-title"
 msgstr "Il nuovo DriverPack 18 è in sviluppo"
@@ -79,7 +76,7 @@ msgid "adminpromo_list-item-soft"
 msgstr "L'installazione forzata dei software è stata impostata di default in disattivata"
 
 msgid "adminpromo_list-item-packs"
-msgstr ""
+msgstr "Il \"cuore\" di DriverPack è stato modificato nel tentativo di eliminare i casi di crash \"blue screen of death\" e di altri problemi."
 
 msgid "adminpromo_list-item-device-support"
 msgstr "Le tipologie di driver inclusi sono stati aumentati ( includendo anche driver per vecchie periferiche)"
@@ -91,13 +88,16 @@ msgid "adminpromo_list-item-stable-db"
 msgstr "é stato creato il più stabile dei database. Il formato del database è stato aggiornato."
 
 msgid "adminpromo_list-item-full-db"
-msgstr ""
+msgstr "E' stato creato il più grande e unico database di driver al mondo"
 
 msgid "buttonsplitdropdown_main-button"
 msgstr "Download"
 
 msgid "breadcrumbs_main-text"
 msgstr "Home Page"
+
+msgid "breadcrumbs_catalog-main-text"
+msgstr "driver per {{OS.NAME}}"
 
 msgid "breadcrumbs_vendors-text"
 msgstr "Produttori"
@@ -196,6 +196,9 @@ msgstr "Vedi tutti i driver"
 msgid "devicecard_details-links"
 msgstr "Vedi tutti i driver per"
 
+msgid "devicecardlist_no-result_download-link"
+msgstr "Scarica DriverPack"
+
 #. i18n: EN: Example: DEVICENAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10
 #. x86; Text for {{DOWNLOAD}} is in key devicecardlist_no-result_download-
 #. link; RU: Пример: NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10
@@ -220,9 +223,6 @@ msgstr "I driver per I notebook {{NOTEBOOK}} per windows {{OSVERSIONS}} non sono
 msgid "devicecardlist_no-results-notebook-device-class-text"
 msgstr "I driver per {{DEVICECLASS}} {{NOTEBOOK}} per  Windows {{OSVERSIONS}} non sono stati trovati. {{DOWNLOAD}} e seleziona i driver automaticamente."
 
-msgid "devicecardlist_no-result_download-link"
-msgstr "Scarica DriverPack"
-
 msgid "devicegrouppage_all-systems"
 msgstr "tutti i sistemi"
 
@@ -246,6 +246,9 @@ msgstr "Driver per il dispositivo su {{OS}}"
 
 msgid "devicetypelist_title"
 msgstr "Ricerca driver per dispositivi"
+
+msgid "search_noresult"
+msgstr "Download DriverPack Online"
 
 #. i18n: EN: Example: NAME=Acer Aspire 4830TG; OSVERSIONS=Windows 10 x86; Text
 #. for {{DOWNLOAD}} is in key drivercard_no-results_download-link; RU: Пример:
@@ -306,10 +309,10 @@ msgid "footer_banner_btn"
 msgstr "Scarica <span class='bold'>DriverPack Online</span> gratuitamente"
 
 msgid "footer_translate-feedback"
-msgstr ""
+msgstr "Hai trovato un errore?<br />Evidenzialo e premi {{HOTKEY}}"
 
 msgid "header_search-title"
-msgstr ""
+msgstr "<span class='bold'>La ricerca dei Driver è finita</span> il più vasto database — più di un milione di driver"
 
 msgid "header_search-examples"
 msgstr "Ad esempio:"
@@ -405,7 +408,7 @@ msgid "landingnotebookvendorslist_landing-title"
 msgstr "DriverPack è adatto per qualsiasi computer"
 
 msgid "landingnotebookvendorslist_landing-subtitle"
-msgstr ""
+msgstr "Si, per QUALSIASI computer - lo abbiamo verificato!"
 
 msgid "landingnotebookvendorslist_cta-btn"
 msgstr "Installa tutti i driver richiesti"
@@ -417,7 +420,7 @@ msgid "landingproducts_item-title-online"
 msgstr "DriverPack Online"
 
 msgid "landingproducts_item-caption-online"
-msgstr ""
+msgstr "Verrà scaricato immediatamente, e scaricheremo i driver mancanti durante l'installazione"
 
 msgid "landingproducts_item-version"
 msgstr "Versione:"
@@ -450,7 +453,7 @@ msgid "landingseofooter_landing-subtitle-notebooks"
 msgstr "DriverPack è adatto a tutti i modelli di computer e portatili"
 
 msgid "landingseofooter_landing-subtitle-devices"
-msgstr ""
+msgstr "DriverPack contiene driver per tutte le periferiche"
 
 msgid "landingsocial_landing-title"
 msgstr "Entra nella comunità DriverPack"
@@ -459,7 +462,7 @@ msgid "landingsocial_landing-subtitle"
 msgstr "Segui le discussioni e prendine parte"
 
 msgid "landingusers_cta"
-msgstr ""
+msgstr "Il numero di utenti che utilizzato DriverPack nel mondo cresce ogni secondo che passa"
 
 msgid "landingusers_cta-btn"
 msgstr "Installa tutti i driver richiesti"
@@ -813,10 +816,10 @@ msgid "sidebanner_caption"
 msgstr "DriverPack cercherà automaticamente <span class='SideBanner__caption-marked'>seleziona e installa</span> i driver richiesti"
 
 msgid "translationheader_cta-text"
-msgstr "Entra a far parte del team di traduttori del sito di DriverPack e aiuta milioni di utenti in tutto il mondo"
+msgstr "Aiutaci a rendere DriverPack disponibili a milioni di utenti di PC nel mondo — prendi parte al nostro progetto volontario di traduzione nelle altre lingue"
 
 msgid "translationheader_bubble-team"
-msgstr "Vorresti far parte del team di traduttori del più grande servizio al mondo di configurazione automatica del computer?"
+msgstr "Vorresti entrare a far parte del team di traduzione del più grande servizio di configurazione automatica del computer?"
 
 msgid "translationheader_bubble-languages"
 msgstr "Se conosci l'Inglese o il Russo abbastanza bene, saresti in grado di tradurre da una di queste lingue nella tua lingua madre?"
@@ -843,13 +846,13 @@ msgid "language_title"
 msgstr "Italian"
 
 msgid "landingPagePublications_rbk"
-msgstr ""
+msgstr "DriverPack è il software composto da driver per Windows selezionati e testati dalla squadra di Artur Kuzyakov. Questa applicazione analizza il computer dell'utente e installa i driver necessari, consentendo di risolvere due problemi: in primo luogo, accelera il processo di configurazione del computer (cosa particolarmente importante se ci sono decine di computer all'interno di un unico sistema); e, in secondo luogo, per migliorare la sua capacità operativa."
 
 msgid "landingPagePublications_secretfirmy"
 msgstr "Oggi DriverPack ha il più grande database al mondo tradotto in 45 lingue e opera sui computer di oltre 42 milioni di utenti"
 
 msgid "landingPagePublications_cnews"
-msgstr ""
+msgstr "Già dalla prima versione del software, DriverPack Solution è stato molto popolare tra gli utenti. Il software è disponibile per il download assolutamente gratis. Questo distingue DriverPack Solution dai suoi concorrenti e attrae sempre più nuovi utenti."
 
 msgid "landingPagePublications_xbit"
 msgstr ""
@@ -885,25 +888,25 @@ msgid "adminpagefaq_free-q"
 msgstr "E' vero che DriverPack è assolutamente gratuito?"
 
 msgid "adminpagefaq_free-a"
-msgstr ""
+msgstr "Tutto il nostro software è assolutamente gratuito! Ma se vuoi supportare il nostro progetto, puoi installare questo software per tuo uso personale, e raccomandare DriverPack ai tuoi amici :-)"
 
 msgid "adminpagefaq_antivirus-q"
 msgstr "Il mio antivirus ha rilevato un virus in DriverPack - come è potuto accadere?"
 
 msgid "adminpagefaq_antivirus-a"
-msgstr ""
+msgstr "E' chiaro che si tratta di un falso positivo, tutte le versioni di DriverPack sono sottoposte ad approfondimento e accreditamento da parte del Kaspersky Laboratory. Cooperiamo con molti sviluppatori di antivirus come Avast e 360 Total Security. Per non avere problemi aggiungi Driverpack alla lista delle eccezioni del tuo antivirus. Apprezzeremmo anche che riportassi i falsi positivi al produttore del tuo antivirus come anche al nostro servizio clienti. Buona fortuna! "
 
 msgid "adminpagefaq_expert_mode-q"
 msgstr "Qual'è il modo migliore di usare DriverPack?"
 
 msgid "adminpagefaq_expert_mode-a"
-msgstr ""
+msgstr "Per impostazione predefinita, DriverPack si avvia automaticamente, progettato per essere comprensibile e comodo all'utilizzo anche dai nuovi utenti. Tuttavia, per la comodità degli utenti avanzati e degli amministratori di sistema, abbiamo sviluppato una modalità esperta che contiene impostazioni estese e opzioni di personalizzazione. Per attivare questa modalità è sufficiente fare clic sul pulsante corrispondente situato nella parte inferiore dello schermo."
 
 msgid "adminpagefaq_stable-q"
 msgstr "Il driver non è stato installato correttamente e il mio computer ha ora dei problemi. Come posso risolvere la situazione?"
 
 msgid "adminpagefaq_stable-a"
-msgstr ""
+msgstr "La stabilità operativa del software DriverPack è una delle nostre principali priorità, ma si verificano ancora piccoli problemi, anche se rari. Per questo motivo creiamo un punto di ripristino che ti permetterà di ritornare allo stato precedente. Per evitare un simile problema in futuro, ti consigliamo di andare al menu DriverPack e inviare il rapporto creato automaticamente dal software ai nostri servizi tecnici."
 
 msgid "devicegrouppage_show-more-link"
 msgstr "Vedi altro"
@@ -916,9 +919,6 @@ msgstr "Popolari {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
 
 msgid "devicetypevendorpage_subtitle-all"
 msgstr "Tutti {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
-
-msgid "drop-down-language_not-found"
-msgstr "Haven't found your language?"
 
 msgid "errorpage_title"
 msgstr "Errore 500: errore interno del server"
@@ -1028,7 +1028,7 @@ msgid "wannacryptpromopage_cta-text"
 msgstr "WannaCrypt virus  — come proteggere il computer contro il più grande attacco della storia?"
 
 msgid "wannacryptpromopage_cta-subtext"
-msgstr ""
+msgstr "DriverPack contiene mezzi specifici per eliminare le vulnerabilità tra gli strumenti di configurazione del computer. E' possibile scaricare gratuitamente la protezione contro il virus WannaCry, che proteggerà il tuo PC o laptop."
 
 msgid "wannacryptpromopage_cta-btn"
 msgstr "Configura il computer e proteggiti contro WannaCry"
@@ -1040,7 +1040,7 @@ msgid "wannacryptpromopage_info-text-title-1"
 msgstr "Cos'è WannaCrypt?"
 
 msgid "wannacryptpromopage_info-text-1"
-msgstr ""
+msgstr "  \n \nIl virus blackmailer Wannacrypt (spontaneamente rinominato wannacry dalle vittime) ha attaccato i computer in tutto il mondo il 12 maggio e ha infettato i dispositivi di più di 300.000 utenti in 150 paesi. L'Europa occidentale, la Russia, la Cina sono stati i più colpiti. In Gran Bretagna, il virus ha disabilitato le reti del dipartimento sanitario e ha fermato tutti gli interventi chirurgici negli ospedali di tutto il paese. In Cina, l'attacco ha colpito i vecchi computer nelle fabbriche che hanno bloccato diverse industrie.<br/><br/>Il punto principale di come funziona questo virus è semplice: penetra nel tuo pc o laptop e codifica tutti i documenti, i file che può trovare e li rende indisponibili per l'utilizzo. Quindi i pirati richiedono una notevole quantità di denaro per la decodifica — circa 300 dollari. Tuttavia, non vi è alcuna garanzia che riceverai l'accesso ai tuoi file. Al momento, non c'è modo di decodificare i file da soli e le soluzioni che vengono offerte su Internet servono solo alla diffusione di un altro virus o semplicemente non funzionano al 100%."
 
 msgid "wannacryptpromopage_info-text-title-2"
 msgstr "Chi è a rischio?"
@@ -1059,3 +1059,6 @@ msgstr "Lo sviluppo di questa soluzione è stata basata sui seguenti materiali"
 
 msgid "wannacryptpromopage_link-smb"
 msgstr "Come abilitare e disabilitare le versioni 1, 2, e 3 dei protocolli SMB per windows e Windows Server"
+
+#~ msgid "drop-down-language_not-found"
+#~ msgstr "Haven't found your language?"

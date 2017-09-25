@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-08-16 09:41+0000\n"
+"POT-Creation-Date: 2017-09-13 09:50+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>, 2017\n"
 "Language-Team: Portuguese (Brazil) (https://www.transifex.com/driverpack-solution/teams/75453/pt_BR/)\n"
@@ -49,9 +49,6 @@ msgstr "Baixar o DriverPack Online"
 msgid "adminheader_products-caption"
 msgstr "Qualquer DriverPack irá configurar seu computador rapidamente. Basta escolher o pacote que você precisa:"
 
-msgid "search_noresult"
-msgstr "Baixar o DriverPack Online"
-
 msgid "adminpromo_landing-title"
 msgstr "O novo DriverPack 18 está em desenvolvimento"
 
@@ -93,6 +90,9 @@ msgstr "Baixar"
 
 msgid "breadcrumbs_main-text"
 msgstr "Página inicial"
+
+msgid "breadcrumbs_catalog-main-text"
+msgstr "drivers para o {{OS.NAME}}"
 
 msgid "breadcrumbs_vendors-text"
 msgstr "Fabricantes"
@@ -191,6 +191,9 @@ msgstr "Ver todos os drivers"
 msgid "devicecard_details-links"
 msgstr "Ver todos os drivers para"
 
+msgid "devicecardlist_no-result_download-link"
+msgstr "Baixar o DriverPack"
+
 #. i18n: EN: Example: DEVICENAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10
 #. x86; Text for {{DOWNLOAD}} is in key devicecardlist_no-result_download-
 #. link; RU: Пример: NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10
@@ -215,9 +218,6 @@ msgstr "Os drivers para o notebook {{NOTEBOOK}} para o Windows {{OSVERSIONS}} n
 msgid "devicecardlist_no-results-notebook-device-class-text"
 msgstr "Os drivers para {{DEVICECLASS}}para o notebook {{NOTEBOOK}} para o Windows {{OSVERSIONS}} não foram encontrados. {{DOWNLOAD}} para selecionar o driver automaticamente."
 
-msgid "devicecardlist_no-result_download-link"
-msgstr "Baixar o DriverPack"
-
 msgid "devicegrouppage_all-systems"
 msgstr "todos os sistemas"
 
@@ -241,6 +241,9 @@ msgstr "Driver para dispositivos no {{OS}}"
 
 msgid "devicetypelist_title"
 msgstr "Procura de drivers para os dispositivos"
+
+msgid "search_noresult"
+msgstr "Baixar o DriverPack Online"
 
 #. i18n: EN: Example: NAME=Acer Aspire 4830TG; OSVERSIONS=Windows 10 x86; Text
 #. for {{DOWNLOAD}} is in key drivercard_no-results_download-link; RU: Пример:
@@ -808,10 +811,10 @@ msgid "sidebanner_caption"
 msgstr "O DriverPack irá automaticamente <span class='SideBanner__caption-marked'>selecionar e instalar</span> os drivers necessários"
 
 msgid "translationheader_cta-text"
-msgstr "Participe na tradução do site DriverPack e ajude milhões de usuários em todo o mundo"
+msgstr "Ajude-nos a disponibilizar o DriverPack para milhões de usuários de PC em todo o mundo — participe do nosso projeto voluntário para traduzi-lo em outros idiomas"
 
 msgid "translationheader_bubble-team"
-msgstr "Você gostaria de fazer parte da equipe de tradutores do maior serviço de configuração automática de computadores do mundo?"
+msgstr "Gostaria de fazer parte da equipe de tradutores do maior serviço mundial que configura automaticamente os computadores?"
 
 msgid "translationheader_bubble-languages"
 msgstr "Você conhece muito bem o idioma Inglês ou Russo e está pronto para traduzir de um desses para o seu idioma nativo?"
@@ -838,7 +841,7 @@ msgid "language_title"
 msgstr "Portuguese Brazil"
 
 msgid "landingPagePublications_rbk"
-msgstr "O Driverpack é o programa que consiste em drivers para Windows cuidadosamente selecionados e testados pela equipe de Artur Kuzyakov. Este aplicativo analisa o computador de um usuário e instala os drivers necessários, o que lhe permite resolver dois problemas: primeiro, acelerar o processo de configuração do computador (o que é especialmente importante se existem dezenas de computadores dentro de um sistema); e, em segundo lugar, melhorar sua capacidade operacional."
+msgstr "O DriverPack é um programa que consiste em drivers para Windows cuidadosamente selecionados e testados pela equipe de Artur Kuzyakov. Este aplicativo analisa o computador de um usuário e instala os drivers necessários, o que lhe permite resolver dois problemas: primeiro, acelerar o processo de configuração do computador (o que é especialmente importante se existem dezenas de computadores dentro de um sistema); e, em segundo lugar, melhorar sua capacidade operacional."
 
 msgid "landingPagePublications_secretfirmy"
 msgstr "Atualmente, o DriverPack possui o maior banco de dados de drivers do mundo, que é traduzido para 45 idiomas e funciona nos computadores de mais de 42 milhões de usuários."
@@ -911,9 +914,6 @@ msgstr "{{CLASS.PLURAL.MAIN}} da {{VENDOR.NAME}} populares"
 
 msgid "devicetypevendorpage_subtitle-all"
 msgstr "Todos os {{CLASS.PLURAL.MAIN}} da {{VENDOR.NAME}} "
-
-msgid "drop-down-language_not-found"
-msgstr "Haven't found your language?"
 
 msgid "errorpage_title"
 msgstr "Erro 500: erro interno do servidor"
@@ -1054,3 +1054,6 @@ msgstr "O desenvolvimento desta solução baseou-se nos seguintes materiais"
 
 msgid "wannacryptpromopage_link-smb"
 msgstr "Como habilitar e desabilitar as versões 1, 2 e 3 dos protocolos SMB para Windows e Windows Server"
+
+#~ msgid "drop-down-language_not-found"
+#~ msgstr "Haven't found your language?"

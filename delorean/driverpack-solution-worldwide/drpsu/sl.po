@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-08-16 09:41+0000\n"
+"POT-Creation-Date: 2017-09-13 09:50+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>, 2017\n"
 "Language-Team: Slovenian (https://www.transifex.com/driverpack-solution/teams/75453/sl/)\n"
@@ -51,9 +51,6 @@ msgstr "Prenesite DriverPack Online"
 msgid "adminheader_products-caption"
 msgstr ""
 
-msgid "search_noresult"
-msgstr "Prenesite DriverPack Online"
-
 msgid "adminpromo_landing-title"
 msgstr "Nova različica DriverPack 18 je v razvoju."
 
@@ -95,6 +92,9 @@ msgstr "Prenesi"
 
 msgid "breadcrumbs_main-text"
 msgstr "Domča stran"
+
+msgid "breadcrumbs_catalog-main-text"
+msgstr ""
 
 msgid "breadcrumbs_vendors-text"
 msgstr "Proizvajalci"
@@ -193,6 +193,9 @@ msgstr "Oglejte si vse voznike:"
 msgid "devicecard_details-links"
 msgstr ""
 
+msgid "devicecardlist_no-result_download-link"
+msgstr "Prenesite DriverPack"
+
 #. i18n: EN: Example: DEVICENAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10
 #. x86; Text for {{DOWNLOAD}} is in key devicecardlist_no-result_download-
 #. link; RU: Пример: NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10
@@ -217,9 +220,6 @@ msgstr ""
 msgid "devicecardlist_no-results-notebook-device-class-text"
 msgstr ""
 
-msgid "devicecardlist_no-result_download-link"
-msgstr "Prenesite DriverPack"
-
 msgid "devicegrouppage_all-systems"
 msgstr "Vsi sistemi"
 
@@ -243,6 +243,9 @@ msgstr ""
 
 msgid "devicetypelist_title"
 msgstr "Iskanje gonilnikov za naprave"
+
+msgid "search_noresult"
+msgstr "Prenesite DriverPack Online"
 
 #. i18n: EN: Example: NAME=Acer Aspire 4830TG; OSVERSIONS=Windows 10 x86; Text
 #. for {{DOWNLOAD}} is in key drivercard_no-results_download-link; RU: Пример:
@@ -813,7 +816,7 @@ msgid "translationheader_cta-text"
 msgstr ""
 
 msgid "translationheader_bubble-team"
-msgstr "Želite biti del prevajalcev ekipe za svetovno največji storitev samodejnega računalniškega set-up?"
+msgstr ""
 
 msgid "translationheader_bubble-languages"
 msgstr "Ali znate, Angleški ali Ruski jezik zelo dobro, tako da ste pripravljeni prevajati iz enega od njih v svoj materni jezik?"
@@ -913,9 +916,6 @@ msgstr ""
 
 msgid "devicetypevendorpage_subtitle-all"
 msgstr ""
-
-msgid "drop-down-language_not-found"
-msgstr "Haven't found your language?"
 
 msgid "errorpage_title"
 msgstr ""
@@ -1056,3 +1056,6 @@ msgstr ""
 
 msgid "wannacryptpromopage_link-smb"
 msgstr ""
+
+#~ msgid "drop-down-language_not-found"
+#~ msgstr "Haven't found your language?"

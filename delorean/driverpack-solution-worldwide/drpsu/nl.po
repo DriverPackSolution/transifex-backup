@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-08-16 09:41+0000\n"
+"POT-Creation-Date: 2017-09-13 09:50+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Richard Bussé <rbusse@live.be>, 2017\n"
 "Language-Team: Dutch (https://www.transifex.com/driverpack-solution/teams/75453/nl/)\n"
@@ -52,9 +52,6 @@ msgstr "Downloaden DriverPack Online"
 msgid "adminheader_products-caption"
 msgstr "Elk DriverPack configureert uw computer in no time. Kies het pakket dat U nodig heeft: "
 
-msgid "search_noresult"
-msgstr "Downloaden DriverPack Online"
-
 msgid "adminpromo_landing-title"
 msgstr "Nieuw DriverPack 18 is in ontwikkeling"
 
@@ -96,6 +93,9 @@ msgstr "Download"
 
 msgid "breadcrumbs_main-text"
 msgstr "Home Pagina"
+
+msgid "breadcrumbs_catalog-main-text"
+msgstr "drivers voor{{OS.NAME}}"
 
 msgid "breadcrumbs_vendors-text"
 msgstr "Fabrikanten"
@@ -194,6 +194,9 @@ msgstr "Bekijk alle drivers"
 msgid "devicecard_details-links"
 msgstr "Bekijk alle drivers voor"
 
+msgid "devicecardlist_no-result_download-link"
+msgstr "DriverPack downloaden"
+
 #. i18n: EN: Example: DEVICENAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10
 #. x86; Text for {{DOWNLOAD}} is in key devicecardlist_no-result_download-
 #. link; RU: Пример: NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10
@@ -218,9 +221,6 @@ msgstr "De drivers voor {{NOTEBOOK}} laptop voor Windows {{OSVERSIONS}} zijn nie
 msgid "devicecardlist_no-results-notebook-device-class-text"
 msgstr "De drivers voor {{DEVICECLASS}} voor {{NOTEBOOK}}laptop voor Windows {{OSVERSIONS}} zijn niet gevonden. {{DOWNLOAD}} om de driver automatisch te selecteren."
 
-msgid "devicecardlist_no-result_download-link"
-msgstr "DriverPack downloaden"
-
 msgid "devicegrouppage_all-systems"
 msgstr "alle systemen"
 
@@ -244,6 +244,9 @@ msgstr "Driver voor apparaten op {{OS}}"
 
 msgid "devicetypelist_title"
 msgstr "Driver zoeken voor apparaten"
+
+msgid "search_noresult"
+msgstr "Downloaden DriverPack Online"
 
 #. i18n: EN: Example: NAME=Acer Aspire 4830TG; OSVERSIONS=Windows 10 x86; Text
 #. for {{DOWNLOAD}} is in key drivercard_no-results_download-link; RU: Пример:
@@ -298,7 +301,7 @@ msgid "footer_banner-title"
 msgstr "Ben je moe om te zoeken naar de drivers voor je apparaten?"
 
 msgid "footer_banner-caption"
-msgstr "DriverPack Online <span style='color: {{COLOR}}'>zal automatisch de drivers die je nodig hebt vinden en installeren</span> "
+msgstr "DriverPack Online <span style='color: {{COLOR}}'>zal vinden en installeren</span> automatisch de drivers die je nodig hebt"
 
 msgid "footer_banner_btn"
 msgstr "<span class='bold'>DriverPack Online</span> downloaden gratis"
@@ -811,10 +814,10 @@ msgid "sidebanner_caption"
 msgstr "DriverPack zal automatisch de gewenste stuurprogramma's <span class='SideBanner__caption-marked'>selecteren en installeren</span>"
 
 msgid "translationheader_cta-text"
-msgstr "Neem deel aan het vertalen van DriverPack -website en help miljoenen gebruikers wereldwijd"
+msgstr "Help ons DriverPack beschikbaar te maken voor miljoenen PC gebruikers wereldwijd — neem deel in ons vrijwilligers project om het te vertalen in andere talen "
 
 msgid "translationheader_bubble-team"
-msgstr "Wilt u deel  uit maken van het vertalers team voor de grootste service ter wereld van automatische computer setup?"
+msgstr "Wilt u deel uit maken van het vertalers team voor de grootste service ter wereld van automatische computer configuratie?"
 
 msgid "translationheader_bubble-languages"
 msgstr "Ken je goed Engels of Russisch, zodat je kunt vertalen van een van hen naar je moedertaal?"
@@ -841,7 +844,7 @@ msgid "language_title"
 msgstr "Dutch"
 
 msgid "landingPagePublications_rbk"
-msgstr "Driverpack is een software die bestaat uit stuurprogramma's voor Windows die grondig geselecteerd en getest worden door het team van Artur Kuzyakov. Deze applicatie analyseert de computer van de gebruiker en installeert de benodigde stuurprogramma's, waarmee u twee problemen kunt oplossen: ten eerste het proces van de configuratie van de computer versnellen (dat is vooral belangrijk als er tientallen computers binnen een systeem zijn); en ten tweede om zijn operationele vermogen te verbeteren."
+msgstr "Driverpack is een software die bestaat uit stuurprogramma's voor Windows die grondig geselecteerd en getest worden door het team van Artur Kuzyakov. Deze applicatie analyseert de computer van de gebruiker en installeert de benodigde stuurprogramma's, waarmee u twee problemen kunt oplossen: ten eerste, het proces van de configuratie van de computer versnellen (dat is vooral belangrijk als er tientallen computers binnen een systeem zijn); en ten tweede, om zijn operationele vermogen te verbeteren."
 
 msgid "landingPagePublications_secretfirmy"
 msgstr "Vandaag heeft DriverPack de grootste stuurprogramma database in de wereld die is vertaald naar 45 talen en werkt op de computers van meer dan 42 miljoen gebruikers."
@@ -883,7 +886,7 @@ msgid "adminpagefaq_free-q"
 msgstr "Is het waar dat DriverPack absoluut gratis is?"
 
 msgid "adminpagefaq_free-a"
-msgstr "DriverPack is volledig gratis en als u ons project wilt ondersteunen, installeer je deze handige software en optimaliseer U uwe computer en informeer je ook uw vrienden over DriverPack,  zodat ook hun kunnen gebruik maken van onze gratis software :-)"
+msgstr "Al onze software is volledig gratis! Maar als u ons project wilt ondersteunen, installeer je deze handige software die aanbieden voor eigen gebruik en informeert U ook uw vrienden over DriverPack :-)"
 
 msgid "adminpagefaq_antivirus-q"
 msgstr "Mijn antivirus heeft een virus in DriverPack ontdekt - hoe is dat kunnen gebeuren?"
@@ -914,9 +917,6 @@ msgstr "Populair {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
 
 msgid "devicetypevendorpage_subtitle-all"
 msgstr "Alle {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
-
-msgid "drop-down-language_not-found"
-msgstr "Haven't found your language?"
 
 msgid "errorpage_title"
 msgstr "Fout 500: interne serverfout"
@@ -1044,10 +1044,10 @@ msgid "wannacryptpromopage_info-text-title-2"
 msgstr "Wie is in gevaar?"
 
 msgid "wannacryptpromopage_info-text-2"
-msgstr "De PC's met besturingssysteem eerder dan Windows 10 met open SMB-poorten lopen het grootste risico. Op dit moment zijn de helft van alle Windows-gebruikers in gevaar — 18% gebruikers gebruiken ongeautoriseerde Windows-kopieën (waardoor ze automatisch worden bedreigd), 23% gebruikers hebben hun Windows Update-service uitgeschakeld (waardoor ze de nieuwste hotfixes van Microsoft niet kunnen downloaden). en nog eens 6% gebruiken oudere OS versies die gewoon geen updates meer ontvangen. <br/><br/>De conclusie van dit alles is dat de netwerken van de verschillende bedrijven en bedrijven die nog steeds gebruik maken van besturingssystemen zoals Windows XP op het hoogste risico lopen. Bij aanvallen op deze netwerken kan het verlies van gegevens verlamd zijn en de kosten zullen enorm zijn, omdat elk losgeld afzonderlijk voor elke pc betaald moet worden."
+msgstr "De PC's met besturingssysteem eerder dan Windows 10 met open SMB-poorten lopen het grootste risico. Op dit moment zijn de helft van alle Windows-gebruikers in gevaar — 18% gebruikers gebruiken ongeautoriseerde Windows-kopieën (waardoor ze automatisch worden bedreigd), 23% gebruikers hebben hun Windows Update-service uitgeschakeld (waardoor ze de nieuwste &#147;reparaties&#148; van Microsoft niet kunnen downloaden). en nog eens 6% gebruiken oudere OS versies die gewoon geen updates meer ontvangen. <br/><br/>De conclusie van dit alles is dat de netwerken van de verschillende firma's en bedrijven die nog steeds gebruik maken van besturingssystemen zoals Windows XP het hoogste risico lopen. Bij aanvallen op deze netwerken kan het verlies van gegevens verlamd zijn en de kosten zullen enorm zijn, omdat elk &#147;losgeld&#148; afzonderlijk voor elke pc betaald moet worden."
 
 msgid "wannacryptpromopage_info-text-title-3"
-msgstr "Hoe beschermt u uw business   -   oplossing van DriverPack Solution"
+msgstr "Hoe beschermt u uw business — oplossing van DriverPack Solution"
 
 msgid "wannacryptpromopage_info-text-3"
 msgstr "De belangrijkste reden van het WannaCrypt (WannaCry) virus gevaar is dat het verspreidt door gebruik te maken van een kritieke beveiligingslek in het SMBv1 protocol van het beveiligingssysteem MS17-010. Het maakt WannaCry eigenlijk onzichtbaar voor antivirussen. De oplossing van DriverPack Solution stelt u in staat om een update te installeren die de kritieke beveiligingen van uw systeem beschermt en de oudere protocollen die de bedreiging zijn uitschakelen, ongeacht uw licentiegeschiedenis en uw besturingsversie."
@@ -1057,3 +1057,6 @@ msgstr "De ontwikkeling van deze oplossing was gebaseerd op de volgende material
 
 msgid "wannacryptpromopage_link-smb"
 msgstr "Hoe versies 1, 2, en 3 van SMB-protocollen voor Windows en Windows Server inschakelen en uitschakelen?"
+
+#~ msgid "drop-down-language_not-found"
+#~ msgstr "Haven't found your language?"

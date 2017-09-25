@@ -6,6 +6,7 @@
 # Nadia Tegeneva <nadia@drp.su>, 2017
 # Aria Koushabadi <koosha7676@gmail.com>, 2017
 # Pejman Djd <Pejman9977@gmail.com>, 2017
+# Roozbeh Parsi <Saloo20xx@gmail.com>, 2017
 # بهمن جهانتیغ <mikaeel2010g@gmail.com>, 2017
 # Ali Asghar Mahery <aliasghar.mahery@gmail.com>, 2017
 # Reza Asgari <srezaasgari@hotmail.com>, 2017
@@ -15,7 +16,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-08-16 09:41+0000\n"
+"POT-Creation-Date: 2017-09-13 09:50+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Ali Ahmadinasab <aliahmadinasab@engineer.com>, 2017\n"
 "Language-Team: Persian (https://www.transifex.com/driverpack-solution/teams/75453/fa/)\n"
@@ -58,9 +59,6 @@ msgstr "دانلود نسخه DriverPack Online  "
 msgid "adminheader_products-caption"
 msgstr "هر DriverPack ی کامپیوتر شما را به سرعت راه می اندازد, فقط کافی است بسته موردنیازتان را انتخاب کنید:"
 
-msgid "search_noresult"
-msgstr "دانلود نسخه DriverPack Online"
-
 msgid "adminpromo_landing-title"
 msgstr "نسخه جدید DriverPack 18 درحال تولید است"
 
@@ -102,6 +100,9 @@ msgstr "دانلود"
 
 msgid "breadcrumbs_main-text"
 msgstr "صفحه اصلی"
+
+msgid "breadcrumbs_catalog-main-text"
+msgstr ""
 
 msgid "breadcrumbs_vendors-text"
 msgstr "سازندگان"
@@ -153,7 +154,7 @@ msgstr "دانلود درایور"
 #. NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10 x86; Текст для
 #. {{DOWNLOAD}} находится в ключе drivercard_no-results_download-link;
 msgid "devicecard_details_no-results-text"
-msgstr "درایور مناسبی برای {{NAME}} در سیستم عامل ویندوز {{OSVERSIONS}} یافت نشد. {{DOWNLOAD}} را جهت دانلود اتوماتیک کلیک نمایید "
+msgstr "درایور مناسبی از مجموعه برای {{NAME}} در ویندوز {{OSVERSIONS}} یافت نشد. {{DOWNLOAD}} را جهت دانلود خودکار کلیک نمایید"
 
 msgid "devicecard_details_no-results_download-link"
 msgstr "دانلود DriverPack"
@@ -200,13 +201,16 @@ msgstr "نمایش همه درایورها"
 msgid "devicecard_details-links"
 msgstr "مشاهده تمامی درایور ها برای"
 
+msgid "devicecardlist_no-result_download-link"
+msgstr "دانلود DriverPack"
+
 #. i18n: EN: Example: DEVICENAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10
 #. x86; Text for {{DOWNLOAD}} is in key devicecardlist_no-result_download-
 #. link; RU: Пример: NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10
 #. x86; Текст для {{DOWNLOAD}} находится в ключе devicecardlist_no-
 #. result_download-link;
 msgid "devicecardlist_no-results-device-text"
-msgstr "درایور مناسب جهت {{DEVICENAME}} در سیستم عامل ویندوز {{OSVERSIONS}} در مجموعه یافت نشد . {{DOWNLOAD}} را جهت دانلود اتوماتیک کلیک نمایید ."
+msgstr "درایور مناسبی از مجموعه برای{{DEVICENAME}} در ویندوز {{OSVERSIONS}}یافت نشد. {{DOWNLOAD}} را جهت دانلود اتوماتیک کلیک نمایید ."
 
 #. i18n: EN: Example: DEVICECLASS=chipsets|videocards; NOTEBOOK=Acer AO521;
 #. OSVERSIONS=Windows 10 x86; Text for {{DOWNLOAD}} is in key
@@ -215,7 +219,7 @@ msgstr "درایور مناسب جهت {{DEVICENAME}} در سیستم عامل �
 #. OSVERSIONS=Windows 10 x86; Текст для {{DOWNLOAD}} находится в ключе
 #. devicecardlist_no-result_download-link;
 msgid "devicecardlist_no-results-notebook-text"
-msgstr "درایور مناسب جهت {{NOTEBOOK}} لپتاب با سیستم عامل ویندوز {{OSVERSIONS}} در مجموعه یافت نگردید . {{DOWNLOAD}} را جهت دانلود اتوماتیک کلیک نمایید ."
+msgstr "درایور مناسبی از مجموعه برای {{NOTEBOOK}} در ویندوز{{OSVERSIONS}} لپ‌تاپ یافت نشد. {{DOWNLOAD}} را جهت دانلود خودکار کلیک نمایید."
 
 #. i18n: EN: Example: NOTEBOOK=Acer AO521; OSVERSIONS=Windows 10 x86; Text for
 #. {{DOWNLOAD}} is in key devicecardlist_no-result_download-link; RU: Пример:
@@ -223,9 +227,6 @@ msgstr "درایور مناسب جهت {{NOTEBOOK}} لپتاب با سیستم �
 #. {{DOWNLOAD}} находится в ключе devicecardlist_no-result_download-link;
 msgid "devicecardlist_no-results-notebook-device-class-text"
 msgstr ""
-
-msgid "devicecardlist_no-result_download-link"
-msgstr "دانلود DriverPack"
 
 msgid "devicegrouppage_all-systems"
 msgstr "همه سیستم ها"
@@ -251,12 +252,15 @@ msgstr "درایور جهت دستگاه هایی با سیستم عامل {{OS}
 msgid "devicetypelist_title"
 msgstr "جستجوی درایور برای دستگاه ها"
 
+msgid "search_noresult"
+msgstr "دانلود نسخه DriverPack Online"
+
 #. i18n: EN: Example: NAME=Acer Aspire 4830TG; OSVERSIONS=Windows 10 x86; Text
 #. for {{DOWNLOAD}} is in key drivercard_no-results_download-link; RU: Пример:
 #. NAME=Acer Aspire 4830TG; Пример: OSVERSIONS=Windows 10 x86; Текст для
 #. {{DOWNLOAD}} находится в ключе drivercard_no-results_download-link;
 msgid "drivercard_no-results-text"
-msgstr "درایور مناسبی برای {{NAME}} در سیستم عامل ویندوز {{OSVERSIONS}} یافت نشد. {{DOWNLOAD}} را جهت دانلود اتوماتیک کلیک نمایید "
+msgstr "درایور مناسبی از مجموعه برای {{NAME}} در ویندوز {{OSVERSIONS}} یافت نشد. {{DOWNLOAD}} را جهت دانلود خودکار کلیک نمایید "
 
 msgid "drivercard_no-results_download-link"
 msgstr "دانلود DriverPack"
@@ -535,7 +539,7 @@ msgid "promoheader_license"
 msgstr "قوانین استفاده"
 
 msgid "promoheader_os-versions"
-msgstr "این نرم افزار برای ویندوز 10,8.1,8,7,Vista,XP مناسب است"
+msgstr "این نرم افزار برای ویندوز 10، 8.1، 8، 7، XP ،Vista مناسب است"
 
 msgid "promoheader_uninstall"
 msgstr "حذف DriverPack"
@@ -820,7 +824,7 @@ msgid "translationheader_cta-text"
 msgstr ""
 
 msgid "translationheader_bubble-team"
-msgstr "آیا علاقه مند هستید یکی از مترجم های تیم ترجمه بزرگترین مجموعه درایوری و راه انداز خودکار  کامپیوتر در جهان باشید ؟ "
+msgstr ""
 
 msgid "translationheader_bubble-languages"
 msgstr "آیا شما انگلیسی یا روسی را کاملا مسلط هستید، پس آیا شما آماده این هستید که آن ها را به زبان خود ترجمه کنید؟"
@@ -847,7 +851,7 @@ msgid "language_title"
 msgstr "Persian"
 
 msgid "landingPagePublications_rbk"
-msgstr "DriverPack نرم افزاری است که شامل درایور انتخاب شده و تست شده توسط ارتور کوزیاکوو و تیمش . این برنامه رایانه کاربر را آنالیز کرده و با توجه به نتایج درایور های لازم را نصب میکند، این عملیات دو مشکل شما را حل میکند: اولا، عمل راه اندازی و آماده سازی رایانه شما تسریع میگردد.(که زمانی اهمیت پیدا میکند که چندین سیستم وجود داشته باشد )؛ و دوما ، باعث انعطاف پذیری سیستم شما می گردد."
+msgstr ""
 
 msgid "landingPagePublications_secretfirmy"
 msgstr "امروزه ، DriverPack به بزرگترین مجموعه درایوری جهان تبدیل گردیده که به 45 زبان دنیا در دسترس و توسط 42 میلیون نفر استفاده می گردد. "
@@ -865,7 +869,7 @@ msgid "landingPagePublications_pcmag"
 msgstr "DriverPack Protect به شما کمک میکند تا در برابر انواع بد افزار ها ایمن شوید ، حفاظتی که حتی آنتی ویروس ها و دیوار اتش ها ا عهده آن بر نمی آیند."
 
 msgid "landingPagePublications_habr"
-msgstr "نیاز به نصب درایور های سخت افزار هرگاه که اقدام به تعویض ویندوز نماییم وجود دارد . مخصوصا در رایانه های خانوادگی . من در سال 2008 در صدد رفع این مشکل بر آمدم و نرم افزار خودم را به عنوان DriverPack نوشتم . امروز نرم افزار من بیش از 40 میلیون کاربر در تمام دنیا دارد ، و من معتقدم مشکلات نصب درایور سخت افزار ها حل گردیده است ،هر چند هنوز مسایل حل نشده ای وجود دارد."
+msgstr " هرگاه که اقدام به تعویض ویندوز نمایید نیاز به نصب درایور های سخت افزار است. مخصوصا در رایانه های خانوادگی. من در سال 2008 در صدد رفع این مشکل بر آمدم و نرم افزار خودم را به عنوان DriverPack نوشتم. امروز نرم افزار من بیش از 40 میلیون کاربر در تمام دنیا دارد، و من معتقدم مشکلات نصب درایور سخت افزارها حل گردیده است، هر چند هنوز مسایل حل نشده ای وجود دارد."
 
 msgid "landingPagePublications_computerra"
 msgstr "در ورژن جدید ابزار های لازم برای انتخاب درایور مورد نیاز توسط کاربر فراهم گردیده است . این امکان میتواند برای سرویسکاران رایانه و مدیران سیستم بسیار ویژه و مورد نیاز باشد تا بتوانند درایور های مختلفی را انتخاب کنند.و این امکان بوجود آمده است تا از  driverpacks موجود در  DriverPack کم یا به آن اضافه کنند و دراییور های غیر ضروری را حذف نمایند."
@@ -921,14 +925,11 @@ msgstr "پرطرفدار ترین {{VENDOR.NAME}}{{CLASS.PLURAL.MAIN}}"
 msgid "devicetypevendorpage_subtitle-all"
 msgstr "همه ی{{VENDOR.NAME}}{{CLASS.PLURAL.MAIN}}"
 
-msgid "drop-down-language_not-found"
-msgstr "Haven't found your language?"
-
 msgid "errorpage_title"
 msgstr "اشکال شماه 500 رخ داد : اشکال در سرور های داخلی "
 
 msgid "landingfooter_landing-subtitle"
-msgstr "DriverPack شامل درایور ها جهت تمامی ورژن های عمومی ویندوز است "
+msgstr "DriverPack شامل درایورها برای تمامی نسخه های عمومی ویندوز است"
 
 msgid "landing-footer_catalog-os"
 msgstr "درایور برای {{OS}}"
@@ -1062,4 +1063,7 @@ msgid "wannacryptpromopage_links-text"
 msgstr "این رشد راه حل بر پایه این مواد بوجود آمده است ."
 
 msgid "wannacryptpromopage_link-smb"
-msgstr "چگونگی امکان فعال و غیر فعال کردن ورژن های1 و 2 و 3 از پروتکلSMB برای ویندوز و ویندوز سرور"
+msgstr "چگونگی امکان فعال و غیر فعال کردن نسخه های 1 و 2 و 3 از پروتکل های SMB برای ویندوز و ویندوز سرور"
+
+#~ msgid "drop-down-language_not-found"
+#~ msgstr "Haven't found your language?"

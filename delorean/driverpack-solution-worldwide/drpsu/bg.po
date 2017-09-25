@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-08-16 09:41+0000\n"
+"POT-Creation-Date: 2017-09-13 09:50+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Stoyan <stoqnvv94@gmail.com>, 2017\n"
 "Language-Team: Bulgarian (https://www.transifex.com/driverpack-solution/teams/75453/bg/)\n"
@@ -51,9 +51,6 @@ msgstr "Изтегли DriverPack Online"
 msgid "adminheader_products-caption"
 msgstr "Всеки DriverPack ще настрои компютъра ти бързо. Само избери пакета, който ти е нужен:"
 
-msgid "search_noresult"
-msgstr "Изтегли DriverPack Online"
-
 msgid "adminpromo_landing-title"
 msgstr "Нов DriverPack 18 се разработва"
 
@@ -95,6 +92,9 @@ msgstr "Изтегляне"
 
 msgid "breadcrumbs_main-text"
 msgstr "Начална страница"
+
+msgid "breadcrumbs_catalog-main-text"
+msgstr ""
 
 msgid "breadcrumbs_vendors-text"
 msgstr "Производители"
@@ -193,6 +193,9 @@ msgstr "Виж всички драйвери"
 msgid "devicecard_details-links"
 msgstr "Виж всички драйвери за"
 
+msgid "devicecardlist_no-result_download-link"
+msgstr "Изтегли DriverPack"
+
 #. i18n: EN: Example: DEVICENAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10
 #. x86; Text for {{DOWNLOAD}} is in key devicecardlist_no-result_download-
 #. link; RU: Пример: NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10
@@ -217,9 +220,6 @@ msgstr "Драйверите за {{NOTEBOOK}} лаптоп за Windows {{OSVER
 msgid "devicecardlist_no-results-notebook-device-class-text"
 msgstr "Драйверите за {{DEVICECLASS}} за {{NOTEBOOK}} лаптоп за Windows {{OSVERSIONS}} не са намерени. {{DOWNLOAD}} за да избере драйвера автоматично."
 
-msgid "devicecardlist_no-result_download-link"
-msgstr "Изтегли DriverPack"
-
 msgid "devicegrouppage_all-systems"
 msgstr "всички системи"
 
@@ -243,6 +243,9 @@ msgstr "Драйвери за устройства за {{OS}}"
 
 msgid "devicetypelist_title"
 msgstr "Търсене на драйвери за устройства"
+
+msgid "search_noresult"
+msgstr "Изтегли DriverPack Online"
 
 #. i18n: EN: Example: NAME=Acer Aspire 4830TG; OSVERSIONS=Windows 10 x86; Text
 #. for {{DOWNLOAD}} is in key drivercard_no-results_download-link; RU: Пример:
@@ -810,10 +813,10 @@ msgid "sidebanner_caption"
 msgstr "DriverPack автоматично ще <span class='SideBanner__caption-marked'>избере и инсталира</span> нужните драйвери"
 
 msgid "translationheader_cta-text"
-msgstr "Участвайте в превеждането на уеб сайта на DriverPack и помагайте на милиони потребители по целия свят"
+msgstr ""
 
 msgid "translationheader_bubble-team"
-msgstr "Искате ли да бъдете част от екипа на преводачите за най-голямата световна услуга за автоматична компютърна настройка?"
+msgstr ""
 
 msgid "translationheader_bubble-languages"
 msgstr "Знаете ли добре английски или руски, значи сте готов да превеждате от единия от тях на родния си език?"
@@ -840,7 +843,7 @@ msgid "language_title"
 msgstr "Bulgarian"
 
 msgid "landingPagePublications_rbk"
-msgstr "Driverpack е софтуерът, който съдържа драйвери за Windows, подбрани и тествани от екипа на Артър Кузяков. Това приложение анализира потребителския компютър и инсталира необходимите драйвери, което позволява да се решат два въпроса: първо, да се ускори процесът на конфигуриране на компютъра (което е особено важно, ако в една система има десетки компютри) и на второ място, да подобри качеството на работата му."
+msgstr ""
 
 msgid "landingPagePublications_secretfirmy"
 msgstr "Днес DriverPack има най-голямата база данни за драйвери в света, която се превежда на 45 езика и работи на компютрите на повече от 42 милиона потребители."
@@ -913,9 +916,6 @@ msgstr "Популярни {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
 
 msgid "devicetypevendorpage_subtitle-all"
 msgstr "Всички {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
-
-msgid "drop-down-language_not-found"
-msgstr "Haven't found your language?"
 
 msgid "errorpage_title"
 msgstr "Грешка 500: вътрешна грешка на сървъра"
@@ -1056,3 +1056,6 @@ msgstr "В разработването на това решение са изп
 
 msgid "wannacryptpromopage_link-smb"
 msgstr "Как да активирате и деактивирате версии 1, 2 и 3 на SMB протоколи за Windows и Windows Server"
+
+#~ msgid "drop-down-language_not-found"
+#~ msgstr "Haven't found your language?"

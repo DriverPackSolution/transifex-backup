@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-08-16 09:41+0000\n"
+"POT-Creation-Date: 2017-09-13 09:50+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>, 2017\n"
 "Language-Team: Greek (https://www.transifex.com/driverpack-solution/teams/75453/el/)\n"
@@ -52,9 +52,6 @@ msgstr "Λήψη του DriverPack Online"
 msgid "adminheader_products-caption"
 msgstr "Οποιοδήποτε DriverPack θα ρυθμίσει τον υπολογιστή σας σε μηδέν χρόνο. Απλά επιλέξτε το πακέτο που χρειάζεστε:"
 
-msgid "search_noresult"
-msgstr "Λήψη του DriverPack Online"
-
 msgid "adminpromo_landing-title"
 msgstr "Το νέο DriverPack 18 είναι υπό ανάπτυξη"
 
@@ -96,6 +93,9 @@ msgstr "Λήψη"
 
 msgid "breadcrumbs_main-text"
 msgstr "Αρχική Σελίδα"
+
+msgid "breadcrumbs_catalog-main-text"
+msgstr "προγράμματα οδήγησης για {{OS.NAME}}"
 
 msgid "breadcrumbs_vendors-text"
 msgstr "Κατασκευαστές"
@@ -194,6 +194,9 @@ msgstr "Προβολή όλων των προγραμμάτων οδήγησης
 msgid "devicecard_details-links"
 msgstr "Προβολή όλων των προγραμμάτων οδήγησης για"
 
+msgid "devicecardlist_no-result_download-link"
+msgstr "Λήψη του DriverPack"
+
 #. i18n: EN: Example: DEVICENAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10
 #. x86; Text for {{DOWNLOAD}} is in key devicecardlist_no-result_download-
 #. link; RU: Пример: NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10
@@ -218,9 +221,6 @@ msgstr "Τα προγράμματα οδήγησης για φορητό {{NOTEB
 msgid "devicecardlist_no-results-notebook-device-class-text"
 msgstr "Τα προγράμματα οδήγησης για {{DEVICECLASS}} για φορητό {{NOTEBOOK}} για το Windows {{OSVERSIONS}} δεν βρέθηκε. {{DOWNLOAD}} για επιλογή του προγράμματος οδήγησης αυτόματα."
 
-msgid "devicecardlist_no-result_download-link"
-msgstr "Λήψη του DriverPack"
-
 msgid "devicegrouppage_all-systems"
 msgstr "όλα τα συστήματα"
 
@@ -244,6 +244,9 @@ msgstr "Πρόγραμμα οδήγησης για συσκευές στο {{OS}
 
 msgid "devicetypelist_title"
 msgstr "Αναζήτηση προγραμμάτων οδήγησης για συσκευές"
+
+msgid "search_noresult"
+msgstr "Λήψη του DriverPack Online"
 
 #. i18n: EN: Example: NAME=Acer Aspire 4830TG; OSVERSIONS=Windows 10 x86; Text
 #. for {{DOWNLOAD}} is in key drivercard_no-results_download-link; RU: Пример:
@@ -811,10 +814,10 @@ msgid "sidebanner_caption"
 msgstr "Το DriverPack θα <span class='SideBanner__caption-marked'>επιλέξει και εγκαταστήσει</span> αυτόματα τα απαραίτητα προγράμματα οδηγησης"
 
 msgid "translationheader_cta-text"
-msgstr "Λάβετε μέρος στη μετάφραση της ιστοσελίδες του DriverPack και βοηθείστε εκατομμύρια χρηστών παγκοσμίως"
+msgstr "Βοηθήστε μας να κάνουμε το DriverPack διαθέσιμο για εκατομμύρια χρήστες Η/Υ παγκοσμίως — συμμετέχετε στο πρόγραμμα εθελοντισμού μας μεταφράζοντάς το στις άλλες γλώσσες"
 
 msgid "translationheader_bubble-team"
-msgstr "Θα θέλατε να είστε μέλος της ομάδας μεταφραστών για τη μεγαλύτερη υπηρεσία παγκοσμίως αυτόματου στησίματος υπολογιστή;"
+msgstr "Θα θέλατε να συμμετέχετε στην ομάδα μεταφραστών για τη μεγαλύτερη υπηρεσία παγκοσμίως αυτόματης ρύθμισης υπολογιστή;"
 
 msgid "translationheader_bubble-languages"
 msgstr "Γνωρίζεται Αγγλικά ή Ρωσικά αρκετά καλά, ώστε να είστε έτοιμος/η να μεταφράσετε από μια από αυτές στη μητρική σας γλώσσα;"
@@ -841,7 +844,7 @@ msgid "language_title"
 msgstr "Greek"
 
 msgid "landingPagePublications_rbk"
-msgstr "Το DriverPack είναι το λογισμικό που περιλαμβάνει προγράμματα οδήγησης για τα Windows που έχουν διεξοδικά επιλεγεί και ελεγχθεί από την ομάδα του Αρθούρου Κουζιάκοφ. Αυτή η εφαρμογή αναλύει τον υπολογιστή του χρήστη και εγκαθιστά τα απαραίτητα προγράμματα οδήγησης που σας επιτρέπει να επιλύσετε δύο θέματα: πρώτα επιταχύνει τη διαδικασία ρύθμισης του υπολογιστή (που είναι εξαιρετικά σημαντικό αν υπάρχουν ντουζίνες υπολογιστών εντός ενός συστήματος) και κατά δεύτερον να βελτιώσει την ικανότητα λειτουργίας."
+msgstr "Το DriverPack είναι το λογισμικό που αποτελείται από προγράμματα οδήγησης για Windows επιλεγμένων με προσοχή και ελεγμένων από την ομάδα του Αρθούρου Κουζιάκοφ. Αυτή η εφαρμογή αναλύει έναν υπολογιστή χρήστη και εγκαθιστά σε αυτό τα απαραίτητα προγράμματα οδήγησης που σας επιτρέπει να επιλύσετε δύο θέματα: πρώτα, επιταχύνει τη διαδικασία ρύθμισης του υπολογιστή (που είναι εξαιρετιά σημαντικό αν υπάρχουν δεκάδες υπολογιστές εντός ενός συστήματος) και δεύτερον, βελτιώνει την ικανότητα λειτουργίας."
 
 msgid "landingPagePublications_secretfirmy"
 msgstr "Σήμερα, το DriverPack έχει τη μεγαλύτερη βάση δεδομένων προγραμμάτων οδήγησης στον κόσμο που έχει μεταφραστεί σε 45 γλώσσες και λειτουργεί σε υπολογιστές 42 εκατομμυρίων χρηστών."
@@ -914,9 +917,6 @@ msgstr "Δημοφιλή {{VENDOR.NAME}}{{CLASS.PLURAL.MAIN}}"
 
 msgid "devicetypevendorpage_subtitle-all"
 msgstr "Όλα τα{{VENDOR.NAME}}{{CLASS.PLURAL.MAIN}}"
-
-msgid "drop-down-language_not-found"
-msgstr "Haven't found your language?"
 
 msgid "errorpage_title"
 msgstr "Σφάλμα 500: εσωτερικό σφάλμα διακομιστή"
@@ -1057,3 +1057,6 @@ msgstr "Η ανάπτυξη αυτής της λύσης βασίστηκε στ
 
 msgid "wannacryptpromopage_link-smb"
 msgstr "Πως να ενεργοποιήσετε και απενεργοποιήσετε 1, 2 και 3 των πρωτοκόλλων SMB για τα Windows και τα Windows Διακομιστή"
+
+#~ msgid "drop-down-language_not-found"
+#~ msgstr "Haven't found your language?"
