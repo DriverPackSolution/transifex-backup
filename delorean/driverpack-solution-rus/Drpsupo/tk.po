@@ -2,13 +2,14 @@
 # Kemal <kyalkabow1@gmail.com>, 2016
 # Azat Abdullayev <azatabd@live.com>, 2016
 # Nadia Tegeneva <nadia@drp.su>, 2017
+# TACHDURDY SOLTANOV <tacdurdy1996@gmail.com>, 2017
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-09-13 09:50+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
-"Last-Translator: Nadia Tegeneva <nadia@drp.su>, 2017\n"
+"Last-Translator: TACHDURDY SOLTANOV <tacdurdy1996@gmail.com>, 2017\n"
 "Language-Team: Turkmen (https://www.transifex.com/driverpack-solution/teams/75452/tk/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -92,7 +93,7 @@ msgid "breadcrumbs_main-text"
 msgstr "esasy"
 
 msgid "breadcrumbs_catalog-main-text"
-msgstr ""
+msgstr "{{OS.NAME}} üçin sürüji"
 
 msgid "breadcrumbs_vendors-text"
 msgstr "öndürijiler"
@@ -127,14 +128,14 @@ msgstr "{{VENDOR.NAME}} noutbuklary"
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=X1 carbon;
 #. RU: Пример: NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=X1 carbon;
 msgid "breadcrumbs_notebook-text"
-msgstr "{{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}}"
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=Videocards|Chipsets ,
 #. NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=G580; RU: Пример:
 #. CLASS.PLURAL.MAIN=видеокарты|чипсеты, NOTEBOOK.VENDOR.NAME=Lenovo,
 #. NOTEBOOK.NAME=G580;
 msgid "breadcrumbs_notebookdevices-text"
-msgstr "{{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}} noutbukyň {{CLASS.PLURAL.MAIN}}"
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} noutbukyň {{CLASS.PLURAL.MAIN}}"
 
 msgid "devicecard_download-btn"
 msgstr "Sürüji ýükle"
@@ -171,7 +172,7 @@ msgid "devicecard_details-content-label-manufacturer"
 msgstr "Öndüriji:"
 
 msgid "devicecard_details-content-label-systems"
-msgstr "Operasion sistema:"
+msgstr "Operasion sistemalar:"
 
 msgid "devicecard_details-content-label-deviceid"
 msgstr "DeviceID:"
@@ -180,7 +181,7 @@ msgid "devicecard_details-content-label-inf"
 msgstr "*.inf faýl"
 
 msgid "devicecard_details-content-label-section"
-msgstr "Bölüm"
+msgstr "Bölüm:"
 
 msgid "devicecard_details-links-merged_label"
 msgstr "DeviceID sanawynda size gerek sürüji ýok bolsa onda gözleg setirine ýazyň"
@@ -189,7 +190,7 @@ msgid "devicecard_details-links-notebook_device"
 msgstr "Hemme sürüjileri görmek"
 
 msgid "devicecard_details-links"
-msgstr " üçin hemme sürüjileri görmek"
+msgstr " Ähli sürüjiler üçin gör"
 
 msgid "devicecardlist_no-result_download-link"
 msgstr "DriverPack ýükläň"
@@ -200,7 +201,7 @@ msgstr "DriverPack ýükläň"
 #. x86; Текст для {{DOWNLOAD}} находится в ключе devicecardlist_no-
 #. result_download-link;
 msgid "devicecardlist_no-results-device-text"
-msgstr "Katalogda {{DEVICENAME}}üçin Windows {{OSVERSIONS}}deň gelýän sürüji tapylmady. Awtomatiki sürüji saýlamak üçin {{DOWNLOAD}}."
+msgstr "Katalogda {{DEVICENAME}} üçin Windows {{OSVERSIONS}} deň gelýän sürüji tapylmady. Awtomatiki sürüji saýlamak üçin {{DOWNLOAD}}."
 
 #. i18n: EN: Example: DEVICECLASS=chipsets|videocards; NOTEBOOK=Acer AO521;
 #. OSVERSIONS=Windows 10 x86; Text for {{DOWNLOAD}} is in key
@@ -209,14 +210,14 @@ msgstr "Katalogda {{DEVICENAME}}üçin Windows {{OSVERSIONS}}deň gelýän sür�
 #. OSVERSIONS=Windows 10 x86; Текст для {{DOWNLOAD}} находится в ключе
 #. devicecardlist_no-result_download-link;
 msgid "devicecardlist_no-results-notebook-text"
-msgstr "Katalogda {{NOTEBOOK}} noutbuklary üçin Windows {{OSVERSIONS}}deň gelýän sürüji tapylmady. Awtomatiki sürüji saýlamak üçin {{DOWNLOAD}}."
+msgstr "Katalogda {{NOTEBOOK}} noutbuklary üçin Windows {{OSVERSIONS}} deň gelýän sürüji tapylmady. Awtomatiki sürüji saýlamak üçin {{DOWNLOAD}}."
 
 #. i18n: EN: Example: NOTEBOOK=Acer AO521; OSVERSIONS=Windows 10 x86; Text for
 #. {{DOWNLOAD}} is in key devicecardlist_no-result_download-link; RU: Пример:
 #. NOTEBOOK=Acer AO521; Пример: OSVERSIONS=Windows 10 x86; Текст для
 #. {{DOWNLOAD}} находится в ключе devicecardlist_no-result_download-link;
 msgid "devicecardlist_no-results-notebook-device-class-text"
-msgstr "Katalogda {{NOTEBOOK}} noutbuklary üçin Windows {{OSVERSIONS}}deň gelýän{{DEVICECLASS}} sürüji tapylmady. Awtomatiki sürüji saýlamak üçin {{DOWNLOAD}}."
+msgstr "Katalogda {{NOTEBOOK}} noutbuklary üçin Windows {{OSVERSIONS}} deň gelýän{{DEVICECLASS}} sürüji tapylmady. Awtomatiki sürüji saýlamak üçin {{DOWNLOAD}}."
 
 msgid "devicegrouppage_all-systems"
 msgstr "ähli sistemalar"
@@ -250,7 +251,7 @@ msgstr "DriverPack Online ýükle."
 #. NAME=Acer Aspire 4830TG; Пример: OSVERSIONS=Windows 10 x86; Текст для
 #. {{DOWNLOAD}} находится в ключе drivercard_no-results_download-link;
 msgid "drivercard_no-results-text"
-msgstr "Katalogda {{NAME}} üçin Windows {{OSVERSIONS}}deň gelýän sürüji tapylmady. Awtomatiki sürüji saýlamak üçin {{DOWNLOAD}}."
+msgstr "Katalogda {{NAME}} üçin Windows {{OSVERSIONS}} deň gelýän sürüji tapylmady. Awtomatiki sürüji saýlamak üçin {{DOWNLOAD}}."
 
 msgid "drivercard_no-results_download-link"
 msgstr "DriverPack ýükläň"
@@ -259,7 +260,7 @@ msgid "drivercard_caption-version"
 msgstr "Wersiýa:"
 
 msgid "drivercard_caption-version-recommended"
-msgstr "Maslahat berilen"
+msgstr "maslahat berilen"
 
 msgid "drivercard_caption-date"
 msgstr "Sene:"
@@ -280,7 +281,7 @@ msgid "drivercard_caption-inf"
 msgstr "*.inf faýl"
 
 msgid "drivercard_caption-section"
-msgstr "Bölüm"
+msgstr "Bölüm:"
 
 msgid "drivercard_caption-btn"
 msgstr "Draýweri ýükle"
@@ -301,10 +302,10 @@ msgid "footer_banner-caption"
 msgstr "DriverPack Online awtomatiki usulda size gerek sürüjileri <span style='color: {{COLOR}}'>tapar we gurnar</span>"
 
 msgid "footer_banner_btn"
-msgstr "<span class='bold'>DriverPack Online</span>mugt ýükle"
+msgstr "<span class='bold'>DriverPack Online</span> mugt ýükle"
 
 msgid "footer_translate-feedback"
-msgstr "Ýalňyşlyk tapdyňyzmy? <br />Ony saýlaň we basyň{{HOTKEY}}"
+msgstr "Ýalňyşlyk tapdyňyzmy?<br />Ony saýlaň we basyň {{HOTKEY}}"
 
 msgid "header_search-title"
 msgstr "Iň ulu baza boýunça <span class='bold'>sürüji gözlegi</span> — milliondan hem köp sürüji"
@@ -376,7 +377,7 @@ msgid "landingheader_cta-text"
 msgstr "DriverPack sürüjileri mugt gurnar we dürli abzallar üçin meseleleri çözer"
 
 msgid "landingheader_cta-btn"
-msgstr "Gerekli ähli sürüjileri gurnamak."
+msgstr "Gerekli ähli sürüjileri gurnamak"
 
 msgid "landingheadernav_wannacrypt"
 msgstr "WannaCry-den goranmak"
@@ -493,7 +494,7 @@ msgid "notfound_cta-btn"
 msgstr "DriverPack Online ýükle"
 
 msgid "notfound_info-404"
-msgstr "{{404}}— ýüz tutulan sahypa tapylmady"
+msgstr "{{404}} — ýüz tutulan sahypa tapylmady"
 
 msgid "notfound_info-500"
 msgstr "{{500}} — bir zatlar ters gitdi (serwerde ýalňyşlyk bar)"
@@ -560,11 +561,11 @@ msgstr "mugt"
 
 #. i18n: EN: Example: NAME=Acer; RU: Пример: NAME=Acer;
 msgid "generatesearchitemname_notebookvendor"
-msgstr "{{NAME}}noutbuklary"
+msgstr "{{NAME}} noutbuklary"
 
 #. i18n: EN: Example: NAME=Asus; RU: Пример: NAME=Asus;
 msgid "generatesearchitemname_vendor"
-msgstr "{{NAME}}abzallary"
+msgstr "{{NAME}} abzallary"
 
 msgid "deviceclasses_bluetooth-single-main"
 msgstr "Bluetooth abzaly"
@@ -579,16 +580,16 @@ msgid "deviceclasses_bluetooth-plural-for"
 msgstr "Bluetooth abzallaryň"
 
 msgid "deviceclasses_cardreader-single-main"
-msgstr ""
+msgstr "kart okyjy"
 
 msgid "deviceclasses_cardreader-single-for"
-msgstr ""
+msgstr "kart okyjynyň"
 
 msgid "deviceclasses_cardreader-plural-main"
-msgstr ""
+msgstr "kart okyjylar"
 
 msgid "deviceclasses_cardreader-plural-for"
-msgstr ""
+msgstr "kart okyjylaryň"
 
 msgid "deviceclasses_chipset-single-main"
 msgstr "çipset"
@@ -615,19 +616,19 @@ msgid "deviceclasses_inputdev-plural-for"
 msgstr "giriş abzallaryň"
 
 msgid "deviceclasses_lan-single-main"
-msgstr ""
+msgstr "set kartyň"
 
 msgid "deviceclasses_lan-single-for"
-msgstr ""
+msgstr "set kartlar"
 
 msgid "deviceclasses_lan-plural-main"
-msgstr ""
+msgstr "set kartlar"
 
 msgid "deviceclasses_lan-plural-for"
 msgstr ""
 
 msgid "deviceclasses_massstorage-single-main"
-msgstr ""
+msgstr "kontroller"
 
 msgid "deviceclasses_massstorage-single-for"
 msgstr ""
@@ -675,10 +676,10 @@ msgid "deviceclasses_phone-plural-for"
 msgstr ""
 
 msgid "deviceclasses_sound-single-main"
-msgstr ""
+msgstr "ses karty"
 
 msgid "deviceclasses_sound-single-for"
-msgstr ""
+msgstr "ses kartlar"
 
 msgid "deviceclasses_sound-plural-main"
 msgstr ""
@@ -787,7 +788,7 @@ msgstr "Gerekli sürüjileri awtomatiki usulda kesgitlemek we ýüklemek üçin 
 #. i18n: EN: Example: CLASS.SINGLE.MAIN=monitor|chipset; COUNT=12; RU: Пример:
 #. CLASS.SINGLE.MAIN=монитор|чипсет; COUNT=12;
 msgid "searchresult_device"
-msgstr "{{CLASS.SINGLE.MAIN}}(tapyldy {{COUNT}})"
+msgstr "{{CLASS.SINGLE.MAIN}} (tapyldy {{COUNT}})"
 
 msgid "searchresult_details-content-text-many"
 msgstr "Bellenen abzal üçin birnäçe dürli sürüji tapyldy"
@@ -808,7 +809,7 @@ msgid "sidebanner_title"
 msgstr "Sürüji gözlemekden ýadadyňyzmy?"
 
 msgid "sidebanner_caption"
-msgstr "DriverPack Online awtomatiki usulda size gerek sürüjileri  <span class='SideBanner__caption-marked'>tapar we gurnar</span>"
+msgstr "DriverPack awtomatiki usulda size gerek sürüjileri <span class='SideBanner__caption-marked'>tapar we gurnar</span>"
 
 msgid "translationheader_cta-text"
 msgstr ""
@@ -823,7 +824,7 @@ msgid "translationheader_bubble-experience"
 msgstr "Sizde web-sahypalary ýa-da programmalary onlaýn serwisleriň kömegi bilen terjime etmek tejribeňiz barmy?"
 
 msgid "translationheader_bubble-email"
-msgstr "Eger siz 3 soraga hem «Howa» diýip jogap beren bolsaňyz onda bize {{EMAIL}} adresine {{SUBJECT}}tema bilen e-mail iberiň we haýsy dile terjime etmäge taýýardygyňyzy görkeziň."
+msgstr "Eger siz 3 soraga hem «Howa» diýip jogap beren bolsaňyz onda bize {{EMAIL}} adresine \"{{SUBJECT}}\" tema bilen e-mail iberiň we haýsy dile terjime etmäge taýýardygyňyzy görkeziň."
 
 msgid "translationlist_title"
 msgstr "DriverPack terjimeçileriniň resmi sanawy"
@@ -907,7 +908,7 @@ msgid "devicegrouppage_show-more-link"
 msgstr "ýene görkez"
 
 msgid "devicestypepage_subtitle"
-msgstr "{{CLASS.PLURAL.FOR}}ähli öndürijileri"
+msgstr "{{CLASS.PLURAL.FOR}} ähli öndürijileri"
 
 msgid "devicetypevendorpage_subtitle-popular"
 msgstr ""
@@ -990,7 +991,7 @@ msgid "thankyoupopup_cta-text"
 msgstr ""
 
 msgid "thankyoupopup_download-link"
-msgstr "Ýüklemek"
+msgstr "ýükle"
 
 msgid "translate-feedback-header_caption"
 msgstr ""
