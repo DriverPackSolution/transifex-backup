@@ -94,7 +94,7 @@ msgid "breadcrumbs_main-text"
 msgstr "Honlap"
 
 msgid "breadcrumbs_catalog-main-text"
-msgstr ""
+msgstr "{{OS.NAME}} driverek"
 
 msgid "breadcrumbs_vendors-text"
 msgstr "Gyártók"
@@ -239,7 +239,7 @@ msgid "deviceidheader_caption-many"
 msgstr "Ez az eszköz az alábbi neveken is ismert:"
 
 msgid "devicetypelist_title_os"
-msgstr ""
+msgstr "{{OS}} eszközök driverei"
 
 msgid "devicetypelist_title"
 msgstr "Eszközök driver keresése"
@@ -333,10 +333,10 @@ msgid "headerbutton_label"
 msgstr "A DriverPack szoftver teljesen ingyenes"
 
 msgid "headeros_cta-btn"
-msgstr ""
+msgstr "<span class='HeaderOs__cta-btn-marked'>{{OS}}</span> driverek telepítése"
 
 msgid "headeros_search-text"
-msgstr ""
+msgstr "Vagy használd a hatalmas driver adatbázisunkat!"
 
 msgid "landingdevicetypelist_landing-title"
 msgstr "A DriverPack bármilyen készülékhez használható"
@@ -450,7 +450,7 @@ msgid "landingseofooter_landing-subtitle-notebooks"
 msgstr "A DriverPack az összes számítógép és laptop modellhez használható"
 
 msgid "landingseofooter_landing-subtitle-devices"
-msgstr ""
+msgstr "A DriverPack minden eszközhöz tartalmaz drivereket"
 
 msgid "landingsocial_landing-title"
 msgstr "Csatlakozz a DriverPack közösséghez!"
@@ -507,7 +507,7 @@ msgid "notebookvendorslist_other-text"
 msgstr "  További gyártók"
 
 msgid "notebookvendorslist_title_os"
-msgstr ""
+msgstr "{{OS}} laptopok driverei"
 
 msgid "notebookvendorslist_title"
 msgstr "Driverek keresése laptopokhoz"
@@ -813,10 +813,10 @@ msgid "sidebanner_caption"
 msgstr "A DriverPack automatikusan <span class='SideBanner__caption-marked'>kiválasztja, és alkalmazza</span> a szükséges drivereket"
 
 msgid "translationheader_cta-text"
-msgstr ""
+msgstr "Vegyél részt a DriverPack honlap fordításában — segíts több milliónyi felhasználónak világszerte!"
 
 msgid "translationheader_bubble-team"
-msgstr ""
+msgstr "Szeretnél csatlakozni a világ legnagyobb, automatikus drivertelepítő szolgáltatását nyújtó vállalat fordítócsapatához?"
 
 msgid "translationheader_bubble-languages"
 msgstr "Jól beszéled az angol vagy az orosz nyelvet, így képes lennél az egyikből a saját nyelvedre fordítani?"
@@ -843,7 +843,7 @@ msgid "language_title"
 msgstr "Hungarian"
 
 msgid "landingPagePublications_rbk"
-msgstr ""
+msgstr "A DriverPack az Artur Kuzyakov csapata által alapos tesztelésnek és válogatásnak alávetett driverek gyűjteménye. A szoftver megvizsgálja a felhasználó számítógépét, és telepíti a szükséges drivereket, melyek két problémát segítenek megoldani: először is felgyorsítja a számítógép beállításának folyamatát (amely főként akkor fontos, ha több tucatnyi számítógép található egy hálózaton), másodszor pedig javítja a folyamat minőségét."
 
 msgid "landingPagePublications_secretfirmy"
 msgstr "Mára a DriverPack a világ legnagyobb driver adatbázisává vált,  melyet 45 nyelvre fordítottak le, és több mint 42 millió ember számítógépét látta el driverekkel."
@@ -885,7 +885,7 @@ msgid "adminpagefaq_free-q"
 msgstr "Valóban igaz, hogy a DriverPack teljesen ingyenes?"
 
 msgid "adminpagefaq_free-a"
-msgstr ""
+msgstr "Az összes szoftverünk teljesen ingyenes. Ettől függetlenül, ha támogatni szeretnéd a projektünket, feltelepítheted a felajánlott hasznos programokat, valamint ajánlhatod a DriverPack -ot a barátaidnak :-)"
 
 msgid "adminpagefaq_antivirus-q"
 msgstr "A vírusirtóm vírust észlelt a DriverPack -ban. Mi történhetett?"
@@ -897,7 +897,7 @@ msgid "adminpagefaq_expert_mode-q"
 msgstr "Melyik mód a legkényelmesebb, ha a DriverPack -ot használom?"
 
 msgid "adminpagefaq_expert_mode-a"
-msgstr ""
+msgstr "Alapértelmezett módon a DriverPack automatikus módban indul el, mely még az új felhasználók számára is érthető és kényelmes. Azonban a haladó felhasználók és a rendszergazdák részére kifejlesztettük a szakértő módot, amely kibővített beállításokat és testreszabási opciókat tartalmaz. A szakértő mód aktiválásához elegendő a megfelelő gombra kattintani a képernyő alján."
 
 msgid "adminpagefaq_stable-q"
 msgstr "A driver nem került megfelelően telepítésre, problémák adódhattak a számítógép műveletei során. Hogyan oldhatom meg?"
@@ -921,10 +921,10 @@ msgid "errorpage_title"
 msgstr "500-as hiba: belső szerverhiba"
 
 msgid "landingfooter_landing-subtitle"
-msgstr ""
+msgstr "A DriverPack az összes népszerű Windows verzióhoz tartalmaz drivereket"
 
 msgid "landing-footer_catalog-os"
-msgstr ""
+msgstr "{{OS}} driverek"
 
 msgid "landing-footer_download"
 msgstr "DriverPack letöltése"
@@ -983,13 +983,13 @@ msgstr "Több infó"
 #. i18n: EN: text for {{LINK}} is in key thankyoupopup_download-link; RU:
 #. текст для {{LINK}} находится в ключе thankyoupopup_download-link;
 msgid "thankyoupopup_download-text"
-msgstr ""
+msgstr "Nem kezdődött el a letöltés? Kattints ide {{LINK}}!"
 
 msgid "thankyoupopup_title"
 msgstr "DriverPack indítása"
 
 msgid "thankyoupopup_cta-text"
-msgstr ""
+msgstr "a driverek kijelölésének elindításához, és számítógépre telepítéséhez"
 
 msgid "thankyoupopup_download-link"
 msgstr "letöltés"
@@ -1049,7 +1049,7 @@ msgid "wannacryptpromopage_info-text-title-3"
 msgstr "Hogyan védd meg a vállalatodat — A megoldás a DriverPack Solution!"
 
 msgid "wannacryptpromopage_info-text-3"
-msgstr ""
+msgstr "A WannaCrypt (WannaCry) vírus azért jelent főként veszélyt, mert az MS17-010 biztonsági rendszerben található SMBv1 protokoll kritikus sebezhetőségét támadja.  Ez a WannaCry-t valójában láthatatlanná teszi a vírusirtók számára. A DriverPack Solution megoldása engedélyezi a rendszered kritikus sebezhetőségeinek frissítését, és letiltja a lejárt protokollt, melyek közvetlen fenyegetést jelentenek, függetlenül a licensz előzménytől vagy operációs rendszer verziójától."
 
 msgid "wannacryptpromopage_links-text"
 msgstr "A fejlesztés az alábbiak segítségével készül"

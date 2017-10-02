@@ -1,12 +1,13 @@
 # Translators:
 # Henry Venema <henryvenema@hotmail.com>, 2017
+# Nadia Tegeneva <nadia@drp.su>, 2017
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-08-10 10:22+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
-"Last-Translator: Henry Venema <henryvenema@hotmail.com>, 2017\n"
+"Last-Translator: Nadia Tegeneva <nadia@drp.su>, 2017\n"
 "Language-Team: Dutch (https://www.transifex.com/driverpack-solution/teams/75453/nl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -116,7 +117,7 @@ msgid "seo_vendors-description"
 msgstr ""
 
 msgid "seo_vendors-h1"
-msgstr ""
+msgstr "Hardware fabrikanten"
 
 msgid "seo_vendors-keywords"
 msgstr ""
@@ -131,7 +132,7 @@ msgstr ""
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendor-h1"
-msgstr ""
+msgstr "<span class='bold'>{{VENDOR.NAME}}</span> apparaat drivers"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendor-keywords"
@@ -161,7 +162,7 @@ msgstr ""
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|monitors; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.FOR=видеокарт|мониторов; VENDOR.NAME=Acer;
 msgid "seo_devicegroups-h1"
-msgstr ""
+msgstr "<span class='bold'>{{VENDOR.NAME}}</span> {{CLASS.SINGLE.FOR}} drivers"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|monitors; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|мониторы; VENDOR.NAME=Acer;
@@ -207,7 +208,7 @@ msgstr ""
 #. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
 #. GROUP.NAME=GeForce 210;
 msgid "seo_devicegroup-h1"
-msgstr ""
+msgstr "<span class='bold'>{{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.SINGLE.FOR}}</span> drivers"
 
 #. i18n: EN: Example: GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU:
 #. Пример: GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210;
@@ -247,7 +248,7 @@ msgid "seo_hwids-description"
 msgstr ""
 
 msgid "seo_hwids-h1"
-msgstr ""
+msgstr "Alle drivers voor apparaten"
 
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
@@ -262,7 +263,7 @@ msgstr ""
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 msgid "seo_hwid-h1"
-msgstr ""
+msgstr "<span class='bold'>{{DEVICE.DEVICEID}}</span>"
 
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
@@ -296,7 +297,7 @@ msgid "seo_notebooks-description"
 msgstr ""
 
 msgid "seo_notebooks-h1"
-msgstr ""
+msgstr "Laptop en netbook drivers"
 
 msgid "seo_notebooks-keywords"
 msgstr ""
@@ -311,7 +312,7 @@ msgstr ""
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_notebookvendor-h1"
-msgstr ""
+msgstr "<span class='bold'>{{VENDOR.NAME}}</span> laptop en netbook drivers"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_notebookvendor-keywords"
@@ -341,7 +342,7 @@ msgstr ""
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebook-h1"
-msgstr ""
+msgstr "<span class='bold'>{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}</span> laptop drivers"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
@@ -387,7 +388,7 @@ msgstr ""
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 #. CLASS.PLURAL.FOR=видеокарт|звуковых карт;
 msgid "seo_notebookdevices-h1"
-msgstr ""
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptop {{CLASS.SINGLE.FOR}} drivers"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets;
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU: Пример:
@@ -432,7 +433,7 @@ msgid "seo_devicegroupos-description"
 msgstr ""
 
 msgid "seo_devicegroupos-h1"
-msgstr ""
+msgstr "{{GROUP.VENDOR.NAME}} {{GROUP.NAME}} drivers voor Windows {{OS}}"
 
 msgid "seo_devicegroupos-keywords"
 msgstr ""
@@ -456,7 +457,7 @@ msgid "seo_notebookos-description"
 msgstr ""
 
 msgid "seo_notebookos-h1"
-msgstr ""
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptop drivers voor Windows {{OS}}"
 
 msgid "seo_notebookos-keywords"
 msgstr ""
@@ -480,7 +481,7 @@ msgid "seo_deviceclassos-description"
 msgstr ""
 
 msgid "seo_deviceclassos-h1"
-msgstr ""
+msgstr "{{CLASS.SINGLE.FOR}} drivers voor Windows {{OS}}"
 
 msgid "seo_deviceclassos-keywords"
 msgstr ""
@@ -501,7 +502,7 @@ msgid "seo_devicegroupsos-description"
 msgstr ""
 
 msgid "seo_devicegroupsos-h1"
-msgstr ""
+msgstr "{{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} drivers voor Windows {{OS}}"
 
 msgid "seo_devicegroupsos-keywords"
 msgstr ""
@@ -525,7 +526,7 @@ msgid "seo_notebookvendoros-description"
 msgstr ""
 
 msgid "seo_notebookvendoros-h1"
-msgstr ""
+msgstr "{{VENDOR.NAME}} laptop drivers voor Windows {{OS}}"
 
 msgid "seo_notebookvendoros-keywords"
 msgstr ""
@@ -549,7 +550,7 @@ msgid "seo_hwidos-description"
 msgstr ""
 
 msgid "seo_hwidos-h1"
-msgstr ""
+msgstr "{{DEVICE.DEVICEID}} apparaat driver voor Windows {{OS}}"
 
 msgid "seo_hwidos-keywords"
 msgstr ""
@@ -573,7 +574,7 @@ msgid "seo_notebookdevicesos-description"
 msgstr ""
 
 msgid "seo_notebookdevicesos-h1"
-msgstr ""
+msgstr "Drivers voor {{CLASS.PLURAL.FOR}} voor de {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptops | Windows {{OS}}"
 
 msgid "seo_notebookdevicesos-keywords"
 msgstr ""
