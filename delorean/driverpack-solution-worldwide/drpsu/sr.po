@@ -1,8 +1,8 @@
 # Translators:
 # Nadia Tegeneva <nadia@drp.su>, 2016
 # Nije Bitno <downloadbl@gmail.com>, 2016
+# Milan Stevanović <miki.stevanovic802@gmail.com>, 2016
 # MILICA STOJANOVIC <ssmilica987@gmail.com>, 2017
-# Milan Stevanović <miki.stevanovic802@gmail.com>, 2017
 # Momentum Z <momentum.ns@gmail.com>, 2017
 msgid ""
 msgstr ""
@@ -94,7 +94,7 @@ msgid "breadcrumbs_main-text"
 msgstr "Početna strana"
 
 msgid "breadcrumbs_catalog-main-text"
-msgstr ""
+msgstr "drajveri za {{OS.NAME}}"
 
 msgid "breadcrumbs_vendors-text"
 msgstr "Proizvodjači"
@@ -136,7 +136,7 @@ msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
 #. CLASS.PLURAL.MAIN=видеокарты|чипсеты, NOTEBOOK.VENDOR.NAME=Lenovo,
 #. NOTEBOOK.NAME=G580;
 msgid "breadcrumbs_notebookdevices-text"
-msgstr ""
+msgstr "{{CLASS.PLURAL.MAIN}} od {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptop"
 
 msgid "devicecard_download-btn"
 msgstr "Preuzimanje drajver"
@@ -146,7 +146,7 @@ msgstr "Preuzimanje drajver"
 #. NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10 x86; Текст для
 #. {{DOWNLOAD}} находится в ключе drivercard_no-results_download-link;
 msgid "devicecard_details_no-results-text"
-msgstr ""
+msgstr "Drajveri za {{NAME}} za Windows {{OSVERSIONS}} nisu bili nađeni u katalogu. {{DOWNLOAD}} da označiš drajvere automatski."
 
 msgid "devicecard_details_no-results_download-link"
 msgstr "Preuzimanje DriverPack"
@@ -158,19 +158,19 @@ msgid "devicecard_details_all-systems"
 msgstr "svi sistemi"
 
 msgid "devicecard_details-content-label-version"
-msgstr "Верзија:"
+msgstr "Verzija:"
 
 msgid "devicecard_details-content-label-version-recommended"
-msgstr "препоручено"
+msgstr "preporučeno"
 
 msgid "devicecard_details-content-label-date"
-msgstr "Датум:"
+msgstr "Datum:"
 
 msgid "devicecard_details-content-label-type"
 msgstr "Tip drajvera"
 
 msgid "devicecard_details-content-label-manufacturer"
-msgstr "Произвођач:"
+msgstr "Proizvođač:"
 
 msgid "devicecard_details-content-label-systems"
 msgstr "Operativni sistemi"
@@ -191,7 +191,7 @@ msgid "devicecard_details-links-notebook_device"
 msgstr "Pogledaj sve drajvere"
 
 msgid "devicecard_details-links"
-msgstr ""
+msgstr "Pogledaj sve drajvere za"
 
 msgid "devicecardlist_no-result_download-link"
 msgstr "Preuzimanje DriverPack"
@@ -202,7 +202,7 @@ msgstr "Preuzimanje DriverPack"
 #. x86; Текст для {{DOWNLOAD}} находится в ключе devicecardlist_no-
 #. result_download-link;
 msgid "devicecardlist_no-results-device-text"
-msgstr ""
+msgstr "Drajveri za {{DEVICENAME}} za Windows {{OSVERSIONS}} nisu nađeni u katalogu. {{DOWNLOAD}} da označiš drajvere automatski."
 
 #. i18n: EN: Example: DEVICECLASS=chipsets|videocards; NOTEBOOK=Acer AO521;
 #. OSVERSIONS=Windows 10 x86; Text for {{DOWNLOAD}} is in key
@@ -211,23 +211,23 @@ msgstr ""
 #. OSVERSIONS=Windows 10 x86; Текст для {{DOWNLOAD}} находится в ключе
 #. devicecardlist_no-result_download-link;
 msgid "devicecardlist_no-results-notebook-text"
-msgstr ""
+msgstr "Drajveri za {{NOTEBOOK}} laptop za Windows {{OSVERSIONS}} nije pronađen u katalogu. {{DOWNLOAD}} da označiš drajver automatski. "
 
 #. i18n: EN: Example: NOTEBOOK=Acer AO521; OSVERSIONS=Windows 10 x86; Text for
 #. {{DOWNLOAD}} is in key devicecardlist_no-result_download-link; RU: Пример:
 #. NOTEBOOK=Acer AO521; Пример: OSVERSIONS=Windows 10 x86; Текст для
 #. {{DOWNLOAD}} находится в ключе devicecardlist_no-result_download-link;
 msgid "devicecardlist_no-results-notebook-device-class-text"
-msgstr ""
+msgstr "Drajveri za {{DEVICECLASS}} za {{NOTEBOOK}} laptop za Windows {{OSVERSIONS}} nije pronađen. {{DOWNLOAD}} da označiš drajver automatski. "
 
 msgid "devicegrouppage_all-systems"
-msgstr "сви системи"
+msgstr "svi sistemi"
 
 msgid "notebookpage_all-systems"
-msgstr "сви системи"
+msgstr "svi sistemi"
 
 msgid "devicegroupfilters_filter-title"
-msgstr "Доступни драјвери"
+msgstr "Dostupni drajveri"
 
 msgid "deviceidfilters-filter-label-version"
 msgstr "Verzija drajvera"
@@ -236,10 +236,10 @@ msgid "deviceidheader_caption-single"
 msgstr "Ime uredjaja"
 
 msgid "deviceidheader_caption-many"
-msgstr ""
+msgstr "Ovaj uređaj je poznat kao: "
 
 msgid "devicetypelist_title_os"
-msgstr ""
+msgstr "Drajver za uređaj na {{OS}}"
 
 msgid "devicetypelist_title"
 msgstr "Drjaver traži uredjaje"
@@ -252,25 +252,25 @@ msgstr "Preuzimanje DriverPack Online"
 #. NAME=Acer Aspire 4830TG; Пример: OSVERSIONS=Windows 10 x86; Текст для
 #. {{DOWNLOAD}} находится в ключе drivercard_no-results_download-link;
 msgid "drivercard_no-results-text"
-msgstr ""
+msgstr "Drajveri za {{NAME}} za Windows {{OSVERSIONS}} nisu bili nađeni u katalogu. {{DOWNLOAD}} da označiš drajvere automatski."
 
 msgid "drivercard_no-results_download-link"
 msgstr "Preuzimanje DriverPack"
 
 msgid "drivercard_caption-version"
-msgstr "Верзија:"
+msgstr "Verzija:"
 
 msgid "drivercard_caption-version-recommended"
-msgstr "препоручено"
+msgstr "preporučeno"
 
 msgid "drivercard_caption-date"
-msgstr "Датум:"
+msgstr "Datum:"
 
 msgid "drivercard_caption-class"
 msgstr "Tip uredjaja"
 
 msgid "drivercard_caption-manufacturer"
-msgstr "Произвођач:"
+msgstr "Proizvođač:"
 
 msgid "drivercard_caption-os"
 msgstr "Operativni sistemi"
@@ -288,13 +288,13 @@ msgid "drivercard_caption-btn"
 msgstr "Preuzimanje drajver"
 
 msgid "deviceidpage_all-systems"
-msgstr "сви системи"
+msgstr "svi sistemi"
 
 msgid "dropdowndriverversion_no-results"
 msgstr ""
 
 msgid "dropdownos_current"
-msgstr "тренутни"
+msgstr "trenutni"
 
 msgid "footer_banner-title"
 msgstr ""
@@ -312,13 +312,13 @@ msgid "header_search-title"
 msgstr ""
 
 msgid "header_search-examples"
-msgstr "На примјер:"
+msgstr "Na primer:"
 
 msgid "header_cta-text"
 msgstr ""
 
 msgid "header_cta-btn"
-msgstr "Инсталирај драјвере аутоматски"
+msgstr "Instaliraj drajvere automatski"
 
 msgid "header_cta-label-1"
 msgstr ""
@@ -327,7 +327,7 @@ msgid "header_cta-label-2"
 msgstr ""
 
 msgid "headerbutton_title"
-msgstr "Инсталирај драјвере аутоматски"
+msgstr "Instaliraj drajvere automatski"
 
 msgid "headerbutton_label"
 msgstr ""
@@ -357,13 +357,13 @@ msgid "landingfeatures_landing-subtitle"
 msgstr ""
 
 msgid "landingfeatures_item-title-free"
-msgstr "Бесплатно"
+msgstr "Besplatno"
 
 msgid "landingfeatures_item-caption-free"
 msgstr ""
 
 msgid "landingfeatures_item-title-safe"
-msgstr "Сигурно"
+msgstr "Sigurno"
 
 msgid "landingfeatures_item-caption-safe"
 msgstr ""
@@ -420,7 +420,7 @@ msgid "landingproducts_item-caption-online"
 msgstr ""
 
 msgid "landingproducts_item-version"
-msgstr "Верзија:"
+msgstr "Verzija:"
 
 msgid "landingproducts_item-button"
 msgstr "Preuzimanje"
@@ -501,10 +501,10 @@ msgid "notfound_info-500"
 msgstr ""
 
 msgid "notebookfilters-title"
-msgstr "Доступни драјвери"
+msgstr "Dostupni drajveri"
 
 msgid "notebookvendorslist_other-text"
-msgstr "Други произвођачи"
+msgstr "Drugi proizvođači"
 
 msgid "notebookvendorslist_title_os"
 msgstr ""
@@ -546,13 +546,13 @@ msgid "search_input-placeholder"
 msgstr ""
 
 msgid "search_btn-text"
-msgstr "Пронађи"
+msgstr "Pronađi"
 
 msgid "searchformitem_type-section"
 msgstr ""
 
 msgid "searchformitem_type-notebook"
-msgstr "лаптоп"
+msgstr "laptop"
 
 msgid "searchformitem_type-device"
 msgstr "уређај"
@@ -562,7 +562,7 @@ msgstr ""
 
 #. i18n: EN: Example: NAME=Acer; RU: Пример: NAME=Acer;
 msgid "generatesearchitemname_notebookvendor"
-msgstr "{{NAME}} лаптопи"
+msgstr "{{NAME}} laptopi"
 
 #. i18n: EN: Example: NAME=Asus; RU: Пример: NAME=Asus;
 msgid "generatesearchitemname_vendor"
@@ -593,76 +593,76 @@ msgid "deviceclasses_cardreader-plural-for"
 msgstr "čitači kartica"
 
 msgid "deviceclasses_chipset-single-main"
-msgstr "chipset"
+msgstr "čipset"
 
 msgid "deviceclasses_chipset-single-for"
-msgstr "chipset"
+msgstr "čipset"
 
 msgid "deviceclasses_chipset-plural-main"
-msgstr "chipsets"
+msgstr "čipseti"
 
 msgid "deviceclasses_chipset-plural-for"
-msgstr "chipsets"
+msgstr "čipseti"
 
 msgid "deviceclasses_inputdev-single-main"
-msgstr "улазни уређај"
+msgstr "ulazni uređaj"
 
 msgid "deviceclasses_inputdev-single-for"
-msgstr "улазни уређај"
+msgstr "ulazni uređaj"
 
 msgid "deviceclasses_inputdev-plural-main"
-msgstr "улазни уређаји"
+msgstr "ulazni uređaji"
 
 msgid "deviceclasses_inputdev-plural-for"
-msgstr "улазни уређаји"
+msgstr "ulazni uređaji"
 
 msgid "deviceclasses_lan-single-main"
-msgstr "мрежна карта"
+msgstr "mrežna karta"
 
 msgid "deviceclasses_lan-single-for"
-msgstr "мрежна карта"
+msgstr "mrežna karta"
 
 msgid "deviceclasses_lan-plural-main"
-msgstr "мрежне карте"
+msgstr "mrežne karte"
 
 msgid "deviceclasses_lan-plural-for"
-msgstr "мрежне карте"
+msgstr "mrežne karte"
 
 msgid "deviceclasses_massstorage-single-main"
-msgstr "контролер"
+msgstr "kontroler"
 
 msgid "deviceclasses_massstorage-single-for"
-msgstr "контролер"
+msgstr "kontroler"
 
 msgid "deviceclasses_massstorage-plural-main"
-msgstr "контролери"
+msgstr "kontroleri"
 
 msgid "deviceclasses_massstorage-plural-for"
-msgstr "контролери"
+msgstr "kontroleri"
 
 msgid "deviceclasses_modem-single-main"
-msgstr "модем"
+msgstr "modem"
 
 msgid "deviceclasses_modem-single-for"
-msgstr "модем"
+msgstr "modem"
 
 msgid "deviceclasses_modem-plural-main"
-msgstr "модеми"
+msgstr "modemi"
 
 msgid "deviceclasses_modem-plural-for"
-msgstr "модеми"
+msgstr "modemi"
 
 msgid "deviceclasses_monitor-single-main"
-msgstr "монитор"
+msgstr "monitor"
 
 msgid "deviceclasses_monitor-single-for"
-msgstr "монитор"
+msgstr "monitor"
 
 msgid "deviceclasses_monitor-plural-main"
-msgstr "монитори"
+msgstr "monitori"
 
 msgid "deviceclasses_monitor-plural-for"
-msgstr "монитори"
+msgstr "monitori"
 
 msgid "deviceclasses_phone-single-main"
 msgstr "паметни телефон"

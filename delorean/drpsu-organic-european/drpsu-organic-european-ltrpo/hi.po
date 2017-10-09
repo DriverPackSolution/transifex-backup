@@ -104,12 +104,12 @@ msgid "seo_deviceclass-footer-description"
 msgstr ""
 
 msgid "seo_deviceclass-footer-application-category"
-msgstr ""
+msgstr "श्रेणी: <span itemprop='applicationCategory'>कई उपकरण</span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=monitors|modem; RU: Пример:
 #. CLASS.PLURAL.MAIN=мониторы|модемы;
 msgid "seo_deviceclass-footer-application-subcategory"
-msgstr ""
+msgstr "उपश्रेणी: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_vendors-title"
 msgstr "पीसी, लैपटॉप, और नेटबुक ड्राइवर्स डाउनलोड करें | Windows"
@@ -144,11 +144,11 @@ msgid "seo_vendor-footer-description"
 msgstr ""
 
 msgid "seo_vendor-footer-application-category"
-msgstr ""
+msgstr "श्रेणी: <span itemprop='applicationCategory'>कई उपकरण</span>"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendor-footer-application-subcategory"
-msgstr ""
+msgstr "उपश्रेणी: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} कई उपकरण</span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|monitors; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.FOR=видеокарт|мониторов; VENDOR.NAME=Acer;
@@ -178,12 +178,12 @@ msgstr ""
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|monitors; RU: Пример:
 #. CLASS.PLURAL.MAIN=видеокарты|мониторы;
 msgid "seo_devicegroups-footer-application-category"
-msgstr ""
+msgstr "श्रेणी: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|monitors; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|мониторы; VENDOR.NAME=Acer;
 msgid "seo_devicegroups-footer-application-subcategory"
-msgstr ""
+msgstr "उपश्रेणी: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 #. i18n: EN: Example: CLASS.SINGLE.FOR=videocard|monitor; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.SINGLE.FOR=видеокарты|монитора; VENDOR.NAME=Acer;
@@ -227,13 +227,13 @@ msgstr ""
 #. GROUP.VENDOR.NAME=Nvidia; RU: Пример: CLASS.PLURAL.FOR=видеокарт|чипсетов;
 #. GROUP.VENDOR.NAME=Nvidia;
 msgid "seo_devicegroup-footer-application-category"
-msgstr ""
+msgstr "श्रेणी: <span itemprop='applicationCategory'>{{GROUP.VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets;
 #. GROUP.NAME=GeForce 210; RU: Пример: CLASS.PLURAL.MAIN=видеокарты|чипсеты;
 #. GROUP.NAME=GeForce 210;
 msgid "seo_devicegroup-footer-application-subcategory"
-msgstr ""
+msgstr "उपश्रेणी: <span itemprop='applicationSubCategory'>{{GROUP.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
 #. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
@@ -284,7 +284,7 @@ msgstr ""
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|чипсеты; VENDOR.NAME=Acer;
 msgid "seo_hwid-footer-application-subcategory"
-msgstr ""
+msgstr "उपश्रेणी: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
@@ -446,7 +446,7 @@ msgid "seo_devicegroupos-footer-application-category"
 msgstr ""
 
 msgid "seo_devicegroupos-footer-application-subcategory"
-msgstr ""
+msgstr "उपश्रेणी: <span itemprop='applicationSubCategory'>{{GROUP.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_devicegroupos-footer-content"
 msgstr ""
@@ -494,7 +494,7 @@ msgid "seo_deviceclassos-footer-application-category"
 msgstr ""
 
 msgid "seo_deviceclassos-footer-application-subcategory"
-msgstr ""
+msgstr "उपश्रेणी: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_devicegroupsos-title"
 msgstr ""
@@ -515,7 +515,7 @@ msgid "seo_devicegroupsos-footer-application-category"
 msgstr ""
 
 msgid "seo_devicegroupsos-footer-application-subcategory"
-msgstr ""
+msgstr "उपश्रेणी: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_devicegroupsos-footer-content"
 msgstr ""
@@ -563,7 +563,7 @@ msgid "seo_hwidos-footer-application-category"
 msgstr ""
 
 msgid "seo_hwidos-footer-application-subcategory"
-msgstr ""
+msgstr "उपश्रेणी: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_hwidos-footer-content"
 msgstr ""
@@ -659,7 +659,7 @@ msgid "seo_standards-keywords"
 msgstr ""
 
 msgid "seo_mainos-content-xp"
-msgstr "Windows NT परिवार में Windows XP का पद एक सम्मानित \"veteran\" का है जो कि 25 अक्टूबर 2001 में रिलीज़ हुआ था और अभी भी पूरे विश्व में सबसे प्रचलित ऑपरेटिंग सिस्टम है | Windows XP के रिलीज़ होने के 16 वर्षों बाद भी विश्व के लगभग 7% PC इसी पर काम करते हैं | यह अप्रचलित और कम दक्षता वाली मशीनों में उपयोग होता है | इसका सपोर्ट 2014 में समाप्त कर दिया गया था परन्तु फिर भी इसके और आगे आने वाले समय में भी उपयोग होने की संभावना है | आप Windows XP के ड्राइवर्स के लेटेस्ट अप-टू-डेट संस्करण हमारे कैटलॉग से डाउनलोड कर सकते हैं या हमारे DriverPack Solution सॉफ्टवेर को डाउनलोड करके उसके माध्यम से भी कर सकते हैं |"
+msgstr "Windows NT परिवार में Windows XP का पद एक सम्मानित \"अनुभवी\" का है जो कि 25 अक्टूबर 2001 में रिलीज़ हुआ था और अभी भी पूरे विश्व में सबसे प्रचलित ऑपरेटिंग सिस्टम है | Windows XP के रिलीज़ होने के 16 वर्षों बाद भी विश्व के लगभग 7% PC इसी पर काम करते हैं | यह अप्रचलित और कम दक्षता वाली मशीनों में उपयोग होता है | इसका सपोर्ट 2014 में समाप्त कर दिया गया था परन्तु फिर भी इसके और आगे आने वाले समय में भी उपयोग होने की संभावना है | आप Windows XP के ड्राइवर्स के लेटेस्ट अप-टू-डेट संस्करण हमारे कैटलॉग से डाउनलोड कर सकते हैं या हमारे DriverPack Solution सॉफ्टवेर को डाउनलोड करके उसके माध्यम से भी कर सकते हैं |"
 
 msgid "seo_mainos-content-7"
 msgstr "Windows 7 Windows NT फॅमिली का ऑपरेटिंग सिस्टम है जो Windows Vista के बाद और Windows 8 से पहले रिलीज़ हुआ था | 2017 के Summer डाटा के अनुसार , Windows 7 विश्व का सबसे प्रचलित ऑपरेटिंग सिस्टम है | जुलाई 2017 डाटा के अनुसार विंडोज 7 का उपयोग विश्व के 48.91 % PCs में होता है | Windows Vista रिलीज़ के फेल होने के  3 वर्ष बाद ही इस OS की बिक्री 22 अक्टूबर 2009 में चालू हो गयी थी | उसी वर्ष 21 जुलाई से ही इसकी इंस्टालेशन इमेज इन्टरनेट में आ गयी थी | आप Windows 7 के लेटेस्ट अप-टू-डेट ड्राईवर यहाँ से डाउनलोड कर सकते हैं |"

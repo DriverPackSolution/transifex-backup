@@ -1,10 +1,12 @@
-# 
+# Translators:
+# Nadia Tegeneva <nadia@drp.su>, 2017
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-08-16 09:38+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
+"Last-Translator: Nadia Tegeneva <nadia@drp.su>, 2017\n"
 "Language-Team: Hebrew (https://www.transifex.com/driverpack-solution/teams/75453/he/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -14,14 +16,14 @@ msgstr ""
 
 #. i18n: EN: Example: VENDOR.NAME=Asus; RU: Пример: VENDOR.NAME=Asus;
 msgid "seo_vendor-footer-anchor"
-msgstr ""
+msgstr "{{VENDOR.NAME}}"
 
 msgid "seo_devicegroups-footer-anchor"
-msgstr ""
+msgstr "{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}} "
 
 #. i18n: EN: Example: NAME=Acer E230H; RU: Пример: NAME=Acer E230H;
 msgid "seo_devicegroup-footer-anchor"
-msgstr ""
+msgstr "{{NAME}}"
 
 #. i18n: EN: Example: NAME=Asus X550EA; RU: Пример: NAME=Asus X550EA;
 msgid "seo_notebookvendor-footer-anchor"
@@ -31,12 +33,12 @@ msgid "seo_notebook-footer-anchor"
 msgstr ""
 
 msgid "seo_notebookdevices-footer-anchor"
-msgstr ""
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} {{CLASS.PLURAL.MAIN}}"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
 #. CLASS.PLURAL.FOR=мониторов|модемов;
 msgid "seo_deviceclass-footer-anchor"
-msgstr ""
+msgstr "{{CLASS.PLURAL.MAIN}}"
 
 msgid "seo_hwidos-footer-anchor"
 msgstr ""

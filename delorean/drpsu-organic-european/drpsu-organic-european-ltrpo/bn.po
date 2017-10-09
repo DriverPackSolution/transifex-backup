@@ -73,7 +73,7 @@ msgid "seo_mainlanding-title"
 msgstr "DriverPack Solution  - ড্রাইভার আপডেট সফটওয়্যার |  ডাউনলোড Windows 7, XP, 10, 8 এবং এবং 8.1 ড্রাইভারসমূহ"
 
 msgid "seo_mainlanding-description"
-msgstr "DriverPack Solution – পিসি ও ল্যাপটপে স্বয়ংক্রিয় ড্রাইভার ইন্সটল ও আপডেট করার খরচহীন সফটওয়্যার। তালিকার পেজ থেকে Windows XP, 7, 8, 8.1, 10 এর ড্রাইভারসমূহ ডাউনলোড করে নেওয়ার সুযোগও আছে।"
+msgstr "DriverPack Solution – পিসি ও ল্যাপটপে স্বয়ংক্রিয় ড্রাইভার ইন্সটল ও আপডেট করার খরচহীন সফটওয়্যার। তালিকার পেজ থেকে Windows XP, 7, 8, 8.1, 10 এর ড্রাইভারসমূহ ডাউনলোড করে নেওয়ার সুযোগও আছে।."
 
 msgid "seo_mainlanding-keywords"
 msgstr "ডাউনলোড ড্রাইভারসমূহ সয়ংক্রিয় - ইন্সটল আপডেট Windows 7, XP, 10, 8 এবং 8.1  ড্রাইভার আপডেট সফটওয়্যার"
@@ -137,7 +137,7 @@ msgstr "<span class='bold'>{{VENDOR.NAME}}</span> যন্ত্রসমূহ
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendor-keywords"
-msgstr ""
+msgstr "{{VENDOR.NAME}} ড্রাইভারসমূহ windows 7 8 10 64 ডাউনলোড ডাউনলোড"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendor-footer-description"
@@ -173,12 +173,12 @@ msgstr ""
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|monitors; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.FOR=видеокарт|мониторов; VENDOR.NAME=Acer;
 msgid "seo_devicegroups-footer-description"
-msgstr ""
+msgstr "{{VENDOR.NAME}} {{CLASS.PLURAL.FOR}} এর ড্রাইভারসমূহ ডাউনলোড করুন"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|monitors; RU: Пример:
 #. CLASS.PLURAL.MAIN=видеокарты|мониторы;
 msgid "seo_devicegroups-footer-application-category"
-msgstr ""
+msgstr "শ্রেণি: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|monitors; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|мониторы; VENDOR.NAME=Acer;
@@ -227,7 +227,7 @@ msgstr ""
 #. GROUP.VENDOR.NAME=Nvidia; RU: Пример: CLASS.PLURAL.FOR=видеокарт|чипсетов;
 #. GROUP.VENDOR.NAME=Nvidia;
 msgid "seo_devicegroup-footer-application-category"
-msgstr ""
+msgstr "শ্রেণি: <span itemprop='applicationCategory'>{{GROUP.VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets;
 #. GROUP.NAME=GeForce 210; RU: Пример: CLASS.PLURAL.MAIN=видеокарты|чипсеты;
