@@ -1,13 +1,14 @@
 # Translators:
 # Translators:
+# Mihael Wagner <mihaelwa@gmail.com>, 2017
 # Nadia Tegeneva <nadia@drp.su>, 2017
 msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-08-24 08:22+0000\n"
-"PO-Revision-Date: 2017-09-11 12:09+0000\n"
-"Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
+"PO-Revision-Date: 2017-09-16 23:18+0000\n"
+"Last-Translator: Mihael Wagner <mihaelwa@gmail.com>\n"
 "Language-Team: Croatian (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/hr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -16,13 +17,13 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 
 msgid "installation_close_confirm"
-msgstr ""
+msgstr "Jeste li sigurni da želite prekinuti instalaciju? To može uzrokovati prestanak rada računala."
 
 msgid "authorize_failed"
-msgstr ""
+msgstr "Problem s prijavom"
 
 msgid "unauthorize_failed"
-msgstr ""
+msgstr "Problem s odjavom"
 
 msgid "deviceclasses_bluetooth-single-main"
 msgstr "Bluetooth uređaj"
@@ -205,64 +206,64 @@ msgid "deviceclasses_other-plural-for"
 msgstr "drugi uređaji"
 
 msgid "settings_common-settings"
-msgstr ""
+msgstr "Opće postavke"
 
 msgid "settings_error"
-msgstr ""
+msgstr "Sprječavanje grešaka"
 
 msgid "settings_algorithm"
-msgstr ""
+msgstr "Algoritam odabira upravljačkih programa"
 
 msgid "settings_language-title"
-msgstr ""
+msgstr "Jezik aplikacije"
 
 msgid "settings_language-caption"
-msgstr ""
+msgstr "Kako bi Vam rad s DriverPackom bio još jednostavniji, u postavkama odaberite svoj materinski jezik!"
 
 msgid "settings_language-anchor"
-msgstr ""
+msgstr "Informacije za prevoditelje"
 
 msgid "settings_language-href"
 msgstr "https://drp.su/hr/info/translators"
 
 msgid "settings_logging-title"
-msgstr ""
+msgstr "Spremite izvještaje"
 
 msgid "settings_logging-caption"
-msgstr ""
+msgstr "Izvještaji programa pohranjuju se prilikom konfiguracije računala kako bi ekipe programera i tehničke podrške mogle vidjeti i ispraviti greške na koje naiđete."
 
 msgid "settings_firebug-title"
-msgstr ""
+msgstr "Otvorite konzolu za debugiranje"
 
 msgid "settings_firebug-caption"
-msgstr ""
+msgstr "Inženjeri DriverPacka su naprednijim korisnicima omogućili pokretanje Firebuga kako bi oni sami mogli otkriti uzrok greške (pritisnite F12 tipku F12 da otvorite konzolu). "
 
 msgid "settings_cleanup-title"
-msgstr ""
+msgstr "Brisanje privremenih datoteka"
 
 msgid "settings_cleanup-caption"
-msgstr ""
+msgstr "Prilikom konfiguriranja računala, DriverPack učitava niz privremenih podataka koji su nužni za instalaciju upravljačkih programa. Kada je računalo u potpunosti konfigurirano, ova će opcija automatski obrisati sve bespotrebne datoteke s Vašeg računala što će Vam pomoći da uštedite više prostora na tvrdom disku."
 
 msgid "settings_soft-and-utilities-title"
-msgstr ""
+msgstr "Instalacija skupine upravljačkih programa i korisnih aplikacija"
 
 msgid "settings_soft-and-utilities-caption"
-msgstr ""
+msgstr "Kako biste pravilno konfigurirali računalo, uz upravljačke programe trebat će Vam i alati i biblioteke sustava, kao što su Visual C++, .NET i dr. Te aplikacije potrebne su za pravilan rad pojedinih uređaja kao što su primjerice USB 3.0, FN tipke i drugi. Zato preporučamo da ne isključujete alate iz ovoga odjeljka."
 
 msgid "settings_soft-and-utilities-anchor"
-msgstr ""
+msgstr "Saznajte više"
 
 msgid "settings_soft-and-utilities-href"
-msgstr ""
+msgstr "https://vk.com/topic-29220845_34742910"
 
 msgid "settings_protect-title"
-msgstr ""
+msgstr " DriverPack Protect"
 
 msgid "settings_protect-caption"
 msgstr ""
 
 msgid "settings_protect-anchor"
-msgstr ""
+msgstr "Saznajte više"
 
 msgid "settings_protect-href"
 msgstr ""
@@ -322,7 +323,7 @@ msgid "settings_notifier-caption"
 msgstr ""
 
 msgid "settings_notifier-anchor"
-msgstr ""
+msgstr "Saznajte više"
 
 msgid "settings_notifier-href"
 msgstr ""
@@ -334,7 +335,7 @@ msgid "settings_bug-report-caption"
 msgstr ""
 
 msgid "settings_bug-report-anchor"
-msgstr ""
+msgstr "Saznajte više"
 
 msgid "settings_bug-report-href"
 msgstr ""
@@ -358,7 +359,7 @@ msgid "settings_system-check-caption"
 msgstr ""
 
 msgid "settings_system-check-anchor"
-msgstr ""
+msgstr "Saznajte više"
 
 msgid "settings_system-check-href"
 msgstr ""
@@ -370,7 +371,7 @@ msgid "settings_statistics-caption"
 msgstr ""
 
 msgid "settings_statistics-anchor"
-msgstr ""
+msgstr "Saznajte više"
 
 msgid "settings_statistics-href"
 msgstr ""
@@ -382,7 +383,7 @@ msgid "settings_machine-learning-caption"
 msgstr ""
 
 msgid "settings_machine-learning-anchor"
-msgstr ""
+msgstr "Saznajte više"
 
 msgid "settings_machine-learning-href"
 msgstr ""
@@ -394,7 +395,7 @@ msgid "settings_bsods-caption"
 msgstr ""
 
 msgid "settings_bsods-anchor"
-msgstr ""
+msgstr "Saznajte više"
 
 msgid "settings_bsods-href"
 msgstr ""
@@ -406,7 +407,7 @@ msgid "settings_collect-drivers-caption"
 msgstr ""
 
 msgid "settings_collect-drivers-anchor"
-msgstr ""
+msgstr "Saznajte više"
 
 msgid "settings_collect-drivers-href"
 msgstr ""
