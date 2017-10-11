@@ -20,7 +20,7 @@ msgid "seo_vendor-footer-anchor"
 msgstr "{{VENDOR.NAME}}"
 
 msgid "seo_devicegroups-footer-anchor"
-msgstr "{{VENDOR.NAME}}{{CLASS.PLURAL.MAIN}}"
+msgstr "{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
 
 #. i18n: EN: Example: NAME=Acer E230H; RU: Пример: NAME=Acer E230H;
 msgid "seo_devicegroup-footer-anchor"
@@ -34,7 +34,7 @@ msgid "seo_notebook-footer-anchor"
 msgstr "{{NAME}} laptops"
 
 msgid "seo_notebookdevices-footer-anchor"
-msgstr "{{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}}{{CLASS.PLURAL.MAIN}}"
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} {{CLASS.PLURAL.MAIN}}"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
 #. CLASS.PLURAL.FOR=мониторов|модемов;
@@ -51,7 +51,7 @@ msgid "seo_main-description"
 msgstr "DriverPack Solution adviseert dat u de drivers voor uw apparaat gratis installeert of de software voor automatische driver installatie en update download."
 
 msgid "seo_main-keywords"
-msgstr "download driver pack Windows 7 8 10 64 drivers laptop gratis driver installer driver installatie software"
+msgstr "download driver pack windows 7 8 10 64 drivers laptop gratis driver installer driver installatie software"
 
 msgid "seo_mainos-title"
 msgstr "Download drivers voor Windows {{OS.VERSION}} | DriverPack Solution"
@@ -120,7 +120,7 @@ msgid "seo_vendors-h1"
 msgstr "Hardware fabrikanten"
 
 msgid "seo_vendors-keywords"
-msgstr "drivers drivers Windows 7 8 10 64 download download"
+msgstr "drivers drivers windows 7 8 10 64 download download"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendor-title"
@@ -152,12 +152,12 @@ msgstr "Subcategorie: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} ap
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|monitors; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.FOR=видеокарт|мониторов; VENDOR.NAME=Acer;
 msgid "seo_devicegroups-title"
-msgstr "Download {{VENDOR.NAME}}{{CLASS.SINGLE.FOR}} drivers voor Windows gratis"
+msgstr "Download {{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} drivers voor Windows gratis"
 
 #. i18n: EN: Example: CLASS.SINGLE.FOR=videocard|monitor; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.SINGLE.FOR=видеокарты|монитора; VENDOR.NAME=Acer;
 msgid "seo_devicegroups-description"
-msgstr "Hier kun je installeren {{VENDOR.NAME}}{{CLASS.SINGLE.FOR}} drivers voor Windows 7, XP, 10, 8 en 8.1 of download DriverPack Solution software voor automatische driver installatie"
+msgstr "Hier kun je installeren {{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} drivers voor Windows 7, XP, 10, 8 en 8.1 of download DriverPack Solution software voor automatische driver installatie"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|monitors; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.FOR=видеокарт|мониторов; VENDOR.NAME=Acer;
@@ -167,12 +167,12 @@ msgstr "<span class='bold'>{{VENDOR.NAME}}</span> {{CLASS.SINGLE.FOR}} drivers"
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|monitors; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|мониторы; VENDOR.NAME=Acer;
 msgid "seo_devicegroups-keywords"
-msgstr "drivers Windows 7 8 10 64 download download PC {{CLASS.PLURAL.MAIN}}{{VENDOR.NAME}}"
+msgstr "drivers windows 7 8 10 64 download download PC {{CLASS.PLURAL.MAIN}} {{VENDOR.NAME}}"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|monitors; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.FOR=видеокарт|мониторов; VENDOR.NAME=Acer;
 msgid "seo_devicegroups-footer-description"
-msgstr "Download drivers voor {{VENDOR.NAME}}{{CLASS.PLURAL.FOR}}"
+msgstr "Download drivers voor {{VENDOR.NAME}} {{CLASS.PLURAL.FOR}}"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|monitors; RU: Пример:
 #. CLASS.PLURAL.MAIN=видеокарты|мониторы;
@@ -182,26 +182,26 @@ msgstr "Categorie: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</s
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|monitors; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|мониторы; VENDOR.NAME=Acer;
 msgid "seo_devicegroups-footer-application-subcategory"
-msgstr "Subcategorie: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}}{{CLASS.PLURAL.MAIN}}</span>"
+msgstr "Subcategorie: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 #. i18n: EN: Example: CLASS.SINGLE.FOR=videocard|monitor; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.SINGLE.FOR=видеокарты|монитора; VENDOR.NAME=Acer;
 msgid "seo_devicegroups-footer-content"
-msgstr "Download drivers voor {{VENDOR.NAME}}{{CLASS.SINGLE.FOR}} of installeer DriverPack Solution software voor automatische driver download en update"
+msgstr "Download drivers voor {{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} of installeer DriverPack Solution software voor automatische driver download en update"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
 #. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
 #. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
 #. GROUP.NAME=GeForce 210;
 msgid "seo_devicegroup-title"
-msgstr "Download {{GROUP.VENDOR.NAME}}{{GROUP.NAME}}{{CLASS.SINGLE.FOR}} drivers voor Windows gratis"
+msgstr "Download {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.SINGLE.FOR}} drivers voor Windows gratis"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
 #. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
 #. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
 #. GROUP.NAME=GeForce 210;
 msgid "seo_devicegroup-description"
-msgstr "Laad en installeer {{GROUP.VENDOR.NAME}}{{GROUP.NAME}}{{CLASS.SINGLE.FOR}} drivers voor Windows 7, XP, 10 8 en 8.1 of download DriverPack Solution software voor automatische driver installatie"
+msgstr "Laad en installeer {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.SINGLE.FOR}} drivers voor Windows 7, XP, 10 8 en 8.1 of download DriverPack Solution software voor automatische driver installatie"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
 #. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
@@ -213,39 +213,39 @@ msgstr "<span class='bold'>{{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.SINGLE.F
 #. i18n: EN: Example: GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU:
 #. Пример: GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210;
 msgid "seo_devicegroup-keywords"
-msgstr "drivers Windows 7 8 10 64 download download PC {{GROUP.VENDOR.NAME}}{{GROUP.NAME}}"
+msgstr "drivers windows 7 8 10 64 download download PC {{GROUP.VENDOR.NAME}} {{GROUP.NAME}}"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
 #. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
 #. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
 #. GROUP.NAME=GeForce 210;
 msgid "seo_devicegroup-footer-description"
-msgstr "Download drivers voor {{GROUP.VENDOR.NAME}}{{GROUP.NAME}}{{CLASS.PLURAL.FOR}} gratis"
+msgstr "Download drivers voor {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.PLURAL.FOR}} gratis"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
 #. GROUP.VENDOR.NAME=Nvidia; RU: Пример: CLASS.PLURAL.FOR=видеокарт|чипсетов;
 #. GROUP.VENDOR.NAME=Nvidia;
 msgid "seo_devicegroup-footer-application-category"
-msgstr "Categorie: <span itemprop='applicationCategory'>{{GROUP.VENDOR.NAME}}{{CLASS.PLURAL.MAIN}}</span>"
+msgstr "Categorie: <span itemprop='applicationCategory'>{{GROUP.VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets;
 #. GROUP.NAME=GeForce 210; RU: Пример: CLASS.PLURAL.MAIN=видеокарты|чипсеты;
 #. GROUP.NAME=GeForce 210;
 msgid "seo_devicegroup-footer-application-subcategory"
-msgstr "Subcategorie: <span itemprop='applicationSubCategory'>{{GROUP.NAME}}{{CLASS.PLURAL.MAIN}}</span>"
+msgstr "Subcategorie: <span itemprop='applicationSubCategory'>{{GROUP.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
 #. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
 #. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
 #. GROUP.NAME=GeForce 210;
 msgid "seo_devicegroup-footer-content"
-msgstr "Download drivers voor{{GROUP.VENDOR.NAME}}{{GROUP.NAME}}{{CLASS.SINGLE.FOR}} of download DriverPack Solution software voor automatische driver download en update"
+msgstr "Download drivers voor{{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.SINGLE.FOR}} of download DriverPack Solution software voor automatische driver download en update"
 
 msgid "seo_hwids-title"
-msgstr "Download apparaat drivers via Device_ID | DriverPack Solution | Pagina {{PAGE}}"
+msgstr "Download apparaat drivers via Device_id | DriverPack Solution | Pagina {{PAGE}}"
 
 msgid "seo_hwids-description"
-msgstr "Download apparaat drivers via Device_ID"
+msgstr "Download apparaat drivers via device_id"
 
 msgid "seo_hwids-h1"
 msgstr "Alle drivers voor apparaten"
@@ -253,7 +253,7 @@ msgstr "Alle drivers voor apparaten"
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 msgid "seo_hwid-title"
-msgstr "{{DEVICE.DEVICEID}} driver download gratis"
+msgstr "{{DEVICE.DEVICEID}} driver download gratis "
 
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
@@ -268,7 +268,7 @@ msgstr "<span class='bold'>{{DEVICE.DEVICEID}}</span>"
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 msgid "seo_hwid-keywords"
-msgstr "drivers Windows 7 8 10 64 download download PC {{DEVICE.DEVICEID}}"
+msgstr "drivers windows 7 8 10 64 download download PC {{DEVICE.DEVICEID}}"
 
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
@@ -283,7 +283,7 @@ msgstr "Categorie: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</s
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|чипсеты; VENDOR.NAME=Acer;
 msgid "seo_hwid-footer-application-subcategory"
-msgstr "Subcategorie: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}}{{CLASS.PLURAL.MAIN}}</span>"
+msgstr "Subcategorie: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
@@ -300,7 +300,7 @@ msgid "seo_notebooks-h1"
 msgstr "Laptop en netbook drivers"
 
 msgid "seo_notebooks-keywords"
-msgstr "drivers drivers laptop notebook laptop netbook netbook Windows 7 8 10 64 download download"
+msgstr "drivers drivers laptop notebook laptop netbook netbook windows 7 8 10 64 download download"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_notebookvendor-title"
@@ -316,7 +316,7 @@ msgstr "<span class='bold'>{{VENDOR.NAME}}</span> laptop en netbook drivers"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_notebookvendor-keywords"
-msgstr "drivers drivers laptop notebook laptop netbook netbook Windows 7 8 10 64 download download {{VENDOR.NAME}}"
+msgstr "drivers drivers laptop notebook laptop netbook netbook windows 7 8 10 64 download download {{VENDOR.NAME}}"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_notebookvendor-footer-description"
@@ -332,12 +332,12 @@ msgstr "Subcategorie: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} la
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebook-title"
-msgstr "{{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}} laptop drivers | Download voor Windows"
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptop drivers | Download voor Windows"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebook-description"
-msgstr "Laad en installeer {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}} laptop en netbook drivers voor Windows 7, XP, 10, 8 en 8.1 of download DriverPack Solution software voor automatische driver installatie en update"
+msgstr "Laad en installeer {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptop en netbook drivers voor Windows 7, XP, 10, 8 en 8.1 of download DriverPack Solution software voor automatische driver installatie en update"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
@@ -347,12 +347,12 @@ msgstr "<span class='bold'>{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}</span> lap
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebook-keywords"
-msgstr "drivers drivers laptop notebook laptop netbook netbook Windows 7 810 64 download download {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}}"
+msgstr "drivers drivers laptop notebook laptop netbook netbook windows 7 8 10 64 download download {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebook-footer-description"
-msgstr "Download drivers voor {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}} laptops gratis"
+msgstr "Download drivers voor {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptops gratis"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; RU: Пример:
 #. NOTEBOOK.VENDOR.NAME=Acer;
@@ -362,26 +362,26 @@ msgstr "Categorie: <span itemprop='applicationCategory'>{{NOTEBOOK.VENDOR.NAME}}
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebook-footer-application-subcategory"
-msgstr "Subcategorie: <span itemprop='applicationSubCategory'>{{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}} laptops</span>"
+msgstr "Subcategorie: <span itemprop='applicationSubCategory'>{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptops</span>"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebook-footer-content"
-msgstr "Download hier je drivers voor {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}} laptop of download software voor automatische driver installatie en update van DriverPack Solution"
+msgstr "Download hier je drivers voor {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptop of download software voor automatische driver installatie en update van DriverPack Solution"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 #. CLASS.SINGLE.FOR=videocart|soundcart; RU: Пример:
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 #. CLASS.SINGLE.FOR=видеокарты|звуковой карты;
 msgid "seo_notebookdevices-title"
-msgstr "{{CLASS.SINGLE.FOR}} drivers voor {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}} laptop | Download voor Windows"
+msgstr "{{CLASS.SINGLE.FOR}} drivers voor {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptop | Download voor Windows"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 #. CLASS.SINGLE.FOR=videocart|soundcart; RU: Пример:
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 #. CLASS.SINGLE.FOR=видеокарты|звуковой карты;
 msgid "seo_notebookdevices-description"
-msgstr "Download en installeer {{CLASS.SINGLE.FOR}} drivers voor {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}} laptop voor Windows 7, XP, 10, 8 en 8.1 of download DriverPack Solution software voor automatische driver installatie en update"
+msgstr "Download en installeer {{CLASS.SINGLE.FOR}} drivers voor {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptop voor Windows 7, XP, 10, 8 en 8.1 of download DriverPack Solution software voor automatische driver installatie en update"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 #. CLASS.PLURAL.FOR=videocarts|soundcarts; RU: Пример:
@@ -395,84 +395,84 @@ msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptop {{CLASS.SINGLE.FOR}} d
 #. CLASS.PLURAL.MAIN=видеокарты|чипсеты; NOTEBOOK.VENDOR.NAME=Acer;
 #. NOTEBOOK.NAME=AO533;
 msgid "seo_notebookdevices-keywords"
-msgstr "drivers drivers laptop notebook laptop netbook {{CLASS.PLURAL.MAIN}} netbook Windows 7 8 10 64 download download {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}}"
+msgstr "drivers drivers laptop notebook laptop netbook {{CLASS.PLURAL.MAIN}} netbook windows 7 8 10 64 download download {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 #. CLASS.PLURAL.FOR=videocarts|soundcarts; RU: Пример:
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 #. CLASS.PLURAL.FOR=видеокарт|звуковых карт;
 msgid "seo_notebookdevices-footer-description"
-msgstr "Download drivers voor {{CLASS.PLURAL.FOR}} voor de{{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}} laptops gratis"
+msgstr "Download drivers voor {{CLASS.PLURAL.FOR}} voor de {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptops gratis"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebookdevices-footer-application-category"
-msgstr "Categorie: <span itemprop='applicationCategory'>{{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}} laptops</span>"
+msgstr "Categorie: <span itemprop='applicationCategory'>{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptops</span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets;
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU: Пример:
 #. CLASS.PLURAL.MAIN=видеокарты|чипсеты; NOTEBOOK.VENDOR.NAME=Acer;
 #. NOTEBOOK.NAME=AO533;
 msgid "seo_notebookdevices-footer-application-subcategory"
-msgstr "Subcategorie: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}} voor {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}}</span>"
+msgstr "Subcategorie: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}} voor {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}</span>"
 
 #. i18n: EN: Example: CLASS.SINGLE.FOR=videocard|chipset;
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU: Пример:
 #. CLASS.SINGLE.FOR=видеокарты|чипсета; NOTEBOOK.VENDOR.NAME=Acer;
 #. NOTEBOOK.NAME=AO533;
 msgid "seo_notebookdevices-footer-content"
-msgstr "Download drivers voor {{CLASS.SINGLE.FOR}} voor de {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}} laptops voor Windows 7, XP, 10, 8 en 8.1 of download DriverPack Solution software voor driver update"
+msgstr "Download drivers voor {{CLASS.SINGLE.FOR}} voor de {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptops voor Windows 7, XP, 10, 8 en 8.1 of download DriverPack Solution software voor driver update"
 
 msgid "seo_search-title"
 msgstr "Zoek resultaten voor: {{QUERY}} | DriverPack Solution"
 
 msgid "seo_devicegroupos-title"
-msgstr "Download {{GROUP.VENDOR.NAME}}{{GROUP.NAME}} drivers voor Windows {{OS}}"
+msgstr "Download {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} drivers voor Windows {{OS}}"
 
 msgid "seo_devicegroupos-description"
-msgstr "Installeer {{GROUP.VENDOR.NAME}}{{GROUP.NAME}} driver voor Windows {{OS}} of download DriverPack Solution software voor automatische driver installatie en update."
+msgstr "Installeer {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} driver voor Windows {{OS}} of download DriverPack Solution software voor automatische driver installatie en update."
 
 msgid "seo_devicegroupos-h1"
 msgstr "{{GROUP.VENDOR.NAME}} {{GROUP.NAME}} drivers voor Windows {{OS}}"
 
 msgid "seo_devicegroupos-keywords"
-msgstr "drivers Windows {{OS}} download download PC {{GROUP.NAME}}{{GROUP.VENDOR.NAME}}"
+msgstr "drivers Windows {{OS}} download download PC {{GROUP.NAME}} {{GROUP.VENDOR.NAME}}"
 
 msgid "seo_devicegroupos-footer-description"
-msgstr "Download {{CLASS.SINGLE.FOR}} drivers voor {{GROUP.VENDOR.NAME}}{{GROUP.NAME}} voor Windows {{OS}} gratis"
+msgstr "Download {{CLASS.SINGLE.FOR}} drivers voor {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} voor Windows {{OS}} gratis"
 
 msgid "seo_devicegroupos-footer-application-category"
-msgstr "Categorie: <span itemprop='applicationCategory'>{{GROUP.VENDOR.NAME}}{{CLASS.PLURAL.MAIN}}</span>"
+msgstr "Categorie: <span itemprop='applicationCategory'>{{GROUP.VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_devicegroupos-footer-application-subcategory"
-msgstr "Subcategorie: <span itemprop='applicationSubCategory'>{{GROUP.NAME}}{{CLASS.PLURAL.MAIN}}</span>"
+msgstr "Subcategorie: <span itemprop='applicationSubCategory'>{{GROUP.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_devicegroupos-footer-content"
-msgstr "Download drivers voor {{GROUP.VENDOR.NAME}}{{GROUP.NAME}}{{CLASS.PLURAL.FOR}} (Windows {{OS}}) of installeer DriverPack Solution software voor automatische driver download en update"
+msgstr "Download drivers voor {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.PLURAL.FOR}} (Windows {{OS}}) of installeer DriverPack Solution software voor automatische driver download en update"
 
 msgid "seo_notebookos-title"
-msgstr "Download {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}} laptop drivers voor Windows {{OS}}"
+msgstr "Download {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptop drivers voor Windows {{OS}}"
 
 msgid "seo_notebookos-description"
-msgstr "Installeer {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}} laptop drivers voor Windows {{OS}} of download DriverPack Solution software voor automatische driver installatie en update"
+msgstr "Installeer {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptop drivers voor Windows {{OS}} of download DriverPack Solution software voor automatische driver installatie en update"
 
 msgid "seo_notebookos-h1"
 msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptop drivers voor Windows {{OS}}"
 
 msgid "seo_notebookos-keywords"
-msgstr "drivers drivers laptop notebook laptop netbook netbook Windows {{OS}} download download {{NOTEBOOK.NAME}}{{NOTEBOOK.VENDOR.NAME}}"
+msgstr "drivers drivers laptop notebook laptop netbook netbook Windows {{OS}} download download {{NOTEBOOK.NAME}} {{NOTEBOOK.VENDOR.NAME}}"
 
 msgid "seo_notebookos-footer-description"
-msgstr "Download drivers voor {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}} laptops voor Windows {{OS}} gratis"
+msgstr "Download drivers voor {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptops voor Windows {{OS}} gratis"
 
 msgid "seo_notebookos-footer-application-category"
 msgstr "Categorie: <span itemprop='applicationCategory'>{{NOTEBOOK.VENDOR.NAME}} laptops</span>"
 
 msgid "seo_notebookos-footer-application-subcategory"
-msgstr "Subcategorie: <span itemprop='applicationSubCategory'>{{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}} laptops</span>"
+msgstr "Subcategorie: <span itemprop='applicationSubCategory'>{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptops</span>"
 
 msgid "seo_notebookos-footer-content"
-msgstr "Download hier de drivers voor {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}} laptop (Windows {{OS}}) of download de software voor automatische draver installatie en update van DriverPack Solution"
+msgstr "Download hier de drivers voor {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptop (Windows {{OS}}) of download de software voor automatische draver installatie en update van DriverPack Solution"
 
 msgid "seo_deviceclassos-title"
 msgstr "Download {{CLASS.SINGLE.FOR}} drivers voor Windows {{OS}}"
@@ -496,28 +496,28 @@ msgid "seo_deviceclassos-footer-application-subcategory"
 msgstr "Subcategorie: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_devicegroupsos-title"
-msgstr "Download {{VENDOR.NAME}}{{CLASS.SINGLE.FOR}} drivers voor Windows {{OS}}"
+msgstr "Download {{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} drivers voor Windows {{OS}}"
 
 msgid "seo_devicegroupsos-description"
-msgstr "Installeer {{VENDOR.NAME}}{{CLASS.SINGLE.FOR}} drivers voor Windows {{OS}} of download DriverPack Solution software voor automatische driver installatie en update"
+msgstr "Installeer {{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} drivers voor Windows {{OS}} of download DriverPack Solution software voor automatische driver installatie en update"
 
 msgid "seo_devicegroupsos-h1"
 msgstr "{{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} drivers voor Windows {{OS}}"
 
 msgid "seo_devicegroupsos-keywords"
-msgstr "drivers Windows {{OS}} download download PC {{CLASS.PLURAL.MAIN}}{{VENDOR.NAME}}"
+msgstr "drivers Windows {{OS}} download download PC {{CLASS.PLURAL.MAIN}} {{VENDOR.NAME}}"
 
 msgid "seo_devicegroupsos-footer-description"
-msgstr "Download {{VENDOR.NAME}}{{CLASS.SINGLE.FOR}} drivers voor Windows {{OS}}"
+msgstr "Download {{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} drivers voor Windows {{OS}}"
 
 msgid "seo_devicegroupsos-footer-application-category"
 msgstr "Categorie: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_devicegroupsos-footer-application-subcategory"
-msgstr "Subcategorie: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}}{{CLASS.PLURAL.MAIN}}</span>"
+msgstr "Subcategorie: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_devicegroupsos-footer-content"
-msgstr "Download drivers voor {{VENDOR.NAME}}{{CLASS.PLURAL.FOR}} (Windows {{OS}}) gratis of installeer DriverPack Solution software voor driver download en update"
+msgstr "Download drivers voor {{VENDOR.NAME}} {{CLASS.PLURAL.FOR}} (Windows {{OS}}) gratis of installeer DriverPack Solution software voor driver download en update"
 
 msgid "seo_notebookvendoros-title"
 msgstr "Download {{VENDOR.NAME}} laptop drivers voor Windows {{OS}}"
@@ -562,43 +562,43 @@ msgid "seo_hwidos-footer-application-category"
 msgstr "Categorie: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_hwidos-footer-application-subcategory"
-msgstr "Subcategorie: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}}{{CLASS.PLURAL.MAIN}}</span>"
+msgstr "Subcategorie: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_hwidos-footer-content"
 msgstr "Download driver voor {{DEVICE.DEVICEID}} apparaat voor Windows {{OS}} of installeer DriverPack Solution software voor automatische driver download en update"
 
 msgid "seo_notebookdevicesos-title"
-msgstr "{{CLASS.SINGLE.FOR}} drivers voor {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}} laptop | Download voor Windows {{OS}}"
+msgstr "{{CLASS.SINGLE.FOR}} drivers voor {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptop | Download voor Windows {{OS}}"
 
 msgid "seo_notebookdevicesos-description"
-msgstr "Installeer {{CLASS.SINGLE.FOR}} drivers voor de {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}} laptop voor Windows {{OS}} of download DriverPack Solution software voor automatische driver installatie en update"
+msgstr "Installeer {{CLASS.SINGLE.FOR}} drivers voor de {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptop voor Windows {{OS}} of download DriverPack Solution software voor automatische driver installatie en update"
 
 msgid "seo_notebookdevicesos-h1"
 msgstr "Drivers voor {{CLASS.PLURAL.FOR}} voor de {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptops | Windows {{OS}}"
 
 msgid "seo_notebookdevicesos-keywords"
-msgstr "drivers drivers laptop notebook laptop netbook netbook {{CLASS.PLURAL.MAIN}} Windows {{OS}} download download {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}}"
+msgstr "drivers drivers laptop notebook laptop netbook netbook {{CLASS.PLURAL.MAIN}} Windows {{OS}} download download {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
 
 msgid "seo_notebookdevicesos-footer-description"
-msgstr "Download {{CLASS.SINGLE.FOR}} drivers voor {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}} laptops voor Windows {{OS}} gratis"
+msgstr "Download {{CLASS.SINGLE.FOR}} drivers voor {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptops voor Windows {{OS}} gratis"
 
 msgid "seo_notebookdevicesos-footer-application-category"
-msgstr "Categorie: <span itemprop='applicationCategory'>{{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}} laptops</span>"
+msgstr "Categorie: <span itemprop='applicationCategory'>{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptops</span>"
 
 msgid "seo_notebookdevicesos-footer-application-subcategory"
-msgstr "Subcategorie: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}} voor de {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}}</span>"
+msgstr "Subcategorie: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}} voor de {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}</span>"
 
 msgid "seo_notebookdevicesos-footer-content"
-msgstr "Download drivers voor {{CLASS.SINGLE.FOR}} voor de {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}} laptop Windows {{OS}} of download DriverPack Solution software voor driver update"
+msgstr "Download drivers voor {{CLASS.SINGLE.FOR}} voor de {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptop Windows {{OS}} of download DriverPack Solution software voor driver update"
 
 msgid "seo_promopage_title"
 msgstr "DriverPack – gratis driver installatie"
 
 msgid "seo_promo-description"
-msgstr "DriverPack Solution adviseert dat u de drivers voor uw apparaat gratis installeert of de software voor automatische driver installatie en update download."
+msgstr "DriverPack Solution adviseert dat u de drivers voor uw apparaat gratis installeert of de software voor automatische driver installatie en update download"
 
 msgid "seo_promo-keywords"
-msgstr "download driver pack Windows 7 8 10 64 laptop drivers gratis driver installer driver installatie software"
+msgstr "download driver pack windows 7 8 10 64 laptop drivers gratis driver installer driver installatie software"
 
 msgid "seo_promodevice_title"
 msgstr "Download drivers voor usb, bluetooth, printers, Wi-Fi en video kaarten gratis"
@@ -625,16 +625,16 @@ msgid "seo_promodrivers-description"
 msgstr "DriverPack zal Windows 7, Windows 10, Windows XP, Windows 8 drivers gratis updaten"
 
 msgid "seo_promodrivers-keywords"
-msgstr "Windows 7 driver, download driver, Windows 10 driver, driver update, Windows driver, drivers gratis"
+msgstr "windows 7 driver, download driver, windows 10 driver, driver update, windows driver, drivers gratis"
 
 msgid "seo_forgamers-description"
 msgstr "Installeer videokaart drivers voor Windows 7, XP, 10, 8 en 8.1 of download DriverPack Solution software voor automatische driver installatie en update"
 
 msgid "seo_forgamers-keywords"
-msgstr "videokaart drivers Windows 7 64 8 10 download download"
+msgstr "videokaart drivers windows 7 64 8 10 download download"
 
 msgid "seo_wannacrypt_title"
-msgstr "WannaСry virus - hoe bescherm je de PC en laptop"
+msgstr "WannaСry virus - hoe bescherm je de PC en laptop?"
 
 msgid "seo_wannacrypt-description"
 msgstr "Download gratis bescherming tegen WannaCry virus voor PC en laptop"
@@ -646,7 +646,7 @@ msgid "seo_license-description"
 msgstr "Licentieovereenkomst en Gebruiksvoorwaarden van de software die wordt verspreid door gebruik te maken van DriverPack Solution"
 
 msgid "seo_license-keywords"
-msgstr "drivers download gratis Windows 7 XP 8 10 DriverPack Solution"
+msgstr "drivers download gratis windows 7 XP 8 10 DriverPack Solution"
 
 msgid "seo_standards_title"
 msgstr "Aanbevolen software normen | DriverPack Solution"
@@ -676,16 +676,16 @@ msgid "seo_deviceclass-footer-content-bluetooth"
 msgstr "In deze sectie kun je <strong>drivers voor Bluetooth</strong> downloaden voor alle versies van Windows Besturingssystemen. Zowel de drivers van de bekende fabrikanten (zoals Hewlett Packard, QCOM, en Celink) alsook van de weinig bekende fabrikanten zijn beschikbaar.  Al met al, kun je <b>downloaden drivers voor Bluetooth</b> van meer dan 90 fabrikanten, beschikbaar in deze catalogus.<br />Als je het stuurprogramma dat je nodig hebt niet hebt gevonden, moet u onze DriverPack Solution software installeren voor automatische driver-update - Het is absoluut gratis!"
 
 msgid "seo_deviceclass-footer-content-cardreader"
-msgstr "Kaartlezers zijn de apparaten die bestemd zijn om informatie uit een geheugenkaart te lezen. Als u uw bestanden van de videocamera of camera naar uw computer wilt verplaatsen, zal dit apparaat u helpen. <strong>De drivers voor kaart lezers</strong> zijn beschikbaar in deze sectie. De drivers van meer dan 50 fabrikanten voor alle populaire Windows OS versies zijn hier vertegenwoordigd. U kunt specifiek downloaden <b> drivers voor kaart lezers</b>evenals (als om een of andere reden de driver die u nodig hebt hier niet gevonden wordt) installeer de automatische DriverPack Solution software voor driver-update. Deze software is helemaal gratis voor u!"
+msgstr "Kaartlezers zijn de apparaten die bestemd zijn om informatie uit een geheugenkaart te lezen. Als u uw bestanden van de videocamera of camera naar uw computer wilt verplaatsen, zal dit apparaat u helpen. <strong>De drivers voor kaart lezers</strong> zijn beschikbaar in deze sectie. De drivers van meer dan 50 fabrikanten voor alle populaire Windows OS versies zijn hier vertegenwoordigd. U kunt specifiek downloaden <b>drivers voor kaart lezers</b>evenals (als om een of andere reden de driver die u nodig hebt hier niet gevonden wordt) installeer de automatische DriverPack Solution software voor driver-update. Deze software is helemaal gratis voor u!"
 
 msgid "seo_deviceclass-footer-content-chipset"
-msgstr "Deze sectie bevat <strong> de drivers voor chipsets</strong> van de meest gedistribueerde fabrikanten van dit type hardware, zoals Exar en Prolific. De drivers voor chipsets voor alle Windows versies die nu in gebruik zijn, zoals Windows XP, Windows 7, 8, 8.1 en 10 in bitness 64 of 86 bit, worden hier weergegeven en zelfs chipset drivers voor een systeem als Windows Vista, ondanks dat het vandaag niet erg populair is. Als u om een of andere reden niet hebt gevonden of downloaden <b> de chipset driver</b> waar U in geïnteresseerd bent, gebruik onze automatische DriverPack Solution driver update software - het is absoluut gratis en het zal alles voor u doen!"
+msgstr "Deze sectie bevat <strong>de drivers voor chipsets</strong> van de meest gedistribueerde fabrikanten van dit type hardware, zoals Exar en Prolific. De drivers voor chipsets voor alle Windows versies die nu in gebruik zijn, zoals Windows XP, Windows 7, 8, 8.1 en 10 in bitness 64 of 86 bit, worden hier weergegeven en zelfs chipset drivers voor een systeem als Windows Vista, ondanks dat het vandaag niet erg populair is. Als u om een of andere reden niet hebt gevonden of downloaden <b>de chipset driver</b> waar U in geïnteresseerd bent, gebruik onze automatische DriverPack Solution driver update software - het is absoluut gratis en het zal alles voor u doen!"
 
 msgid "seo_deviceclass-footer-content-inputdev"
-msgstr "Hoewel er zo'n grote verscheidenheid aan typen invoerinstrumenten (muizen, toetsenborden, joysticks, enz.) en hun fabrikanten is, wordt het een uitdaging om de vereiste driver te selecteren. Wij lossen dit probleem voor u op - in deze sectie kunt u selecteren en downloaden<strong> de drivers voor de input apparaten</strong> absoluut gratis. Als u om een of andere reden niet hebt gevonden <b> de input apparaat driver</b> die je nodig hebt uit onze catalogus, download DriverPack Solution software gratis - het zal uw hardware configuratie beoordelen en selecteert alle drivers die nodig zijn voor uw input apparaten automatisch."
+msgstr "Hoewel er zo'n grote verscheidenheid aan typen invoerinstrumenten (muizen, toetsenborden, joysticks, enz.) en hun fabrikanten is, wordt het een uitdaging om de vereiste driver te selecteren. Wij lossen dit probleem voor u op - in deze sectie kunt u selecteren en downloaden<strong>de drivers voor de input apparaten</strong> absoluut gratis. Als u om een of andere reden niet hebt gevonden <b>de input apparaat driver</b> die je nodig hebt uit onze catalogus, download DriverPack Solution software gratis - het zal uw hardware configuratie beoordelen en selecteert alle drivers die nodig zijn voor uw input apparaten automatisch."
 
 msgid "seo_deviceclass-footer-content-lan"
-msgstr "Zonder de juiste selectie van <b> de netwerk kaart driver</b>correcte toegang tot internet is ofwel nogal moeilijk of totaal onmogelijk. Deze sectie van onze website helpt u bij het selecteren van de perfecte driver voor uw netwerk hardware configuratie, ongeacht wie de fabrikant is - de drivers van meer dan 80 fabrikanten van netwerkhardware worden hier weergegeven in de varianten voor alle Windows OS versies die nu in gebruik zijn. Als u om een of andere reden niet hebt gevonden <b>de netwerk kaart driver</b> van uw specifieke fabrikant, gebruik onze DriverPack Solution automatische driver update software - het zal het probleem voor de driverselectie voor u gratis oplossen!"
+msgstr "Zonder de juiste selectie van <b>de netwerk kaart driver</b>correcte toegang tot internet is ofwel nogal moeilijk of totaal onmogelijk. Deze sectie van onze website helpt u bij het selecteren van de perfecte driver voor uw netwerk hardware configuratie, ongeacht wie de fabrikant is - de drivers van meer dan 80 fabrikanten van netwerkhardware worden hier weergegeven in de varianten voor alle Windows OS versies die nu in gebruik zijn. Als u om een of andere reden niet hebt gevonden <b>de netwerk kaart driver</b> van uw specifieke fabrikant, gebruik onze DriverPack Solution automatische driver update software - het zal het probleem voor de driverselectie voor u gratis oplossen!"
 
 msgid "seo_deviceclass-footer-content-massstorage"
 msgstr "In deze sectie kunt u <b>downloaden controller driver</b> voor alle Windows OS versies die nu in gebruik zijn, absoluut gratis. Heb je de driver die je nodig hebt niet gevonden? Gebruik onze DriverPack Solution driver zoek- en installatie software - het is absoluut gratis en het zal alles voor u doen!"
@@ -697,7 +697,7 @@ msgid "seo_deviceclass-footer-content-monitor"
 msgstr "Normaal staan <b>de drivers voor monitoren</b> opgenomen op de schijf die wordt meegeleverd met een gloednieuwe monitor, maar de situatie kan anders zijn als uw monitor 2e hands is. Dat is waarom, zelfs als je monitor goed lijkt en goed functioneert, het systeembord het misschien niet kan identificeren. In dit geval kunt u altijd hulp krijgen in deze sectie van onze website- hier kunt u altijd de nieuwste up-to-date downloaden <b>drivers voor monitoren</b> van uw configuratie voor alle Windows OS versies die vandaag beschikbaar zijn. Heb je de driver die je nodig hebt niet gevonden? Dan raden wij u aan onze gratis DriverPack Solution software te gebruiken - het zal uw proces van het zoeken en updaten van het monitordriver gemakkelijker maken."
 
 msgid "seo_deviceclass-footer-content-tvtuner"
-msgstr "Heb je nodig <b>om te downloaden de driver voor tv-kaart</b>? Dan zit je in de juiste sectie - hier kun je downloaden en <b>installeren de driver voor de tv-kaart</b>in de nieuwste versies voor alle Windows besturingssysteem varianten die nu in gebruik zijn. Heb je de driver die je nodig hebt niet gevonden? Geen probleem! Download onze gratis DriverPack Solution software - het zal de exacte tv-kaart chip driver selecteren die u nodig heeft en het doet dit automatisch, snel en zonder problemen!"
+msgstr "Heb je nodig <b>om te downloaden de driver voor tv-kaart</b>? Dan zit je in de juiste sectie - hier kun je downloaden en <b>installeren de driver voor de tv-kaart</b> in de nieuwste versies voor alle Windows besturingssysteem varianten die nu in gebruik zijn. Heb je de driver die je nodig hebt niet gevonden? Geen probleem! Download onze gratis DriverPack Solution software - het zal de exacte tv-kaart chip driver selecteren die u nodig heeft en het doet dit automatisch, snel en zonder problemen!"
 
 msgid "seo_deviceclass-footer-content-sound"
 msgstr "Geen geluid op de computer? Hoe lang geleden heb je geupdate <strong>de geluidkaart driver</strong>? Download de nieuwste up-to-date drivers voor geluidskaarten in deze secties van onze site of installeer gratis de automatische DriverPack Solution driver-update software. Het zal al uw problemen met drivers voor uw geluidskaart oplossen!"
@@ -706,7 +706,7 @@ msgid "seo_deviceclass-footer-content-video"
 msgstr "Werkt een spel niet? Is het beeld weergegeven met artefacten? Dan raden wij u aan om te downloaden <strong>de drivers voor videokaart</strong> van onze site - vaak is ligt het probleem precies bij hen. De drivers van 43 fabrikanten zijn in deze sectie vertegenwoordigd. Hier kunt u eenvoudig de driver selecteren voor elke Windows OS versie die nu in gebruik is. Heb je niet kunnen vinden en downloaden <b>de videokaart driver</b> die je nodig hebt? Gebruik onze automatische DriverPack Solution driver update software - het is absoluut gratis!"
 
 msgid "seo_deviceclass-footer-content-wifi"
-msgstr "In deze sectie kunt u de Wifi driver van beide downloaden Standaard 802.11n en standaard 802.11g voor alle geavanceerde Windows OS versies. De drivers van de laatste configuratie, die herhaaldelijk door onze experts zijn gecontroleerd, zijn hier beschikbaar. Als u mislukt hebt<b> te installeren Wifi driver</b>door jezelf, wanhoop niet - download dan de nieuwste versie van onze DriverPack Solution software - het zal de drivers voor uw hardwareconfiguratie automatisch selecteren."
+msgstr "In deze sectie kunt u de Wifi driver van beide downloaden Standaard 802.11n en standaard 802.11g voor alle geavanceerde Windows OS versies. De drivers van de laatste configuratie, die herhaaldelijk door onze experts zijn gecontroleerd, zijn hier beschikbaar. Als u mislukt hebt <b>te installeren Wifi driver</b> door jezelf, wanhoop niet - download dan de nieuwste versie van onze DriverPack Solution software - het zal de drivers voor uw hardwareconfiguratie automatisch selecteren."
 
 msgid "seo_deviceclass-footer-content-phone"
 msgstr "Heb je de drivers nodig voor een telefoon of een smartphone? Geen probleem - in deze sectie kun je <b>downloaden en installeren de drivers voor een smartphone</b> van bijna elk model en van alle meest voorkomende fabrikanten op de markt voor smartphone vandaag. Onze drivers zijn geverifieerd en betrouwbaar!"
@@ -727,22 +727,22 @@ msgid "seo_notebookvendor-footer-content-samsung"
 msgstr "Heb je een Samsung laptop gekocht en nu drivers nodig? Alle recentste up-to-date <strong>drivers voor Samsung laptop</strong>voor alle Windows-versies die in gebruik zijn, worden hier nu vertegenwoordigd.  Er zijn drivers voor meer dan 100 laptop- en netbookmodellen van deze fabrikant in onze catalogus en deze lijst verlengt elke dag. Als u de download niet is gelukt voor <b>de drivers voor Samsung laptops</b>door uzelf, dan kunt u altijd DriverPack Solution software gebruiken voor automatische driver zoeken en installatie - het is absoluut gratis! "
 
 msgid "seo_notebookvendor-footer-content-msi"
-msgstr "Hier vind je en download <strong>de drivers voor MSI laptop</strong>van uw model voor elke Windows OS versie die nu in gebruik is (inclusief een zeldzame versie voor vandaag als Vista). Als u de driver die u nodig hebt, door uw eigen inspanningen niet hebt gevonden in onze catalogus; download dan onze DriverPack Solution software voor automatische driver zoeken en installatie - het is absoluut gratis!"
+msgstr "Hier vind je en download <strong>de drivers voor MSI laptop</strong> van uw model voor elke Windows OS versie die nu in gebruik is (inclusief een zeldzame versie voor vandaag als Vista). Als u de driver die u nodig hebt, door uw eigen inspanningen niet hebt gevonden in onze catalogus; download dan onze DriverPack Solution software voor automatische driver zoeken en installatie - het is absoluut gratis!"
 
 msgid "seo_notebookvendor-footer-content-toshiba"
 msgstr "In deze sectie kunt u downloaden <b>de drivers voor Toshiba laptops</b> voor absoluut alle Windows OS versies die nu in gebruik zijn. Meer dan 300 laptop modellen van deze fabrikant zijn in onze catalogus vertegenwoordigd en deze lijst blijft alleen maar toenemen. Heb je het model dat je nodig hebt niet gevonden in onze catalogus? Download DriverPack Solution software voor automatische driver zoeken en installatie - het zal alles zelf doen in de automatische modus."
 
 msgid "seo_deviceclass-footer-content-video-amd"
-msgstr "Start een spel niet op op de AMD-videokaart? In deze sectie kunt u <b>AMD Radeon videokaart drivers updaten</b>naar de nieuwste up-to-date versie. Hier kunt u de drivers voor AMD Radeon-videokaart downloaden (inclusief die voor AMD Radeon HD-serie) voor alle Windows OS-versies die nu bestaan. Heb je zelf de driver die je nodig hebt, niet gevonden? Gebruik onze gratis DriverPack Solution software- het zal updaten <b>AMD videokaart driver</b> en ATI in de automatische modus, zonder dat u een handmatig beheer nodig hebt."
+msgstr "Start een spel niet op op de AMD-videokaart? In deze sectie kunt u <b>AMD Radeon videokaart drivers updaten</b> naar de nieuwste up-to-date versie. Hier kunt u de drivers voor AMD Radeon-videokaart downloaden (inclusief die voor AMD Radeon HD-serie) voor alle Windows OS-versies die nu bestaan. Heb je zelf de driver die je nodig hebt, niet gevonden? Gebruik onze gratis DriverPack Solution software- het zal updaten <b>AMD videokaart driver</b> en ATI in de automatische modus, zonder dat u een handmatig beheer nodig hebt."
 
 msgid "seo_deviceclass-footer-content-video-nvidia"
-msgstr "Werkt een spel niet? Het probleem zijn mogelijk de drivers voor uw videokaart. Probeer <b>en update de Nvidia video drivers</b>door de laatste versie van onze site te downloaden. Hier kunt u ook <b>downloaden de drivers voor de Nvidia Geforce videokaart</b> van de nieuwste series voor alle Windows OS versies die nu in gebruik zijn, absoluut gratis. Als u om een of andere reden de drivers die geschikt zijn voor uw Nvidia-videokaart in onze catalogus niet hebben gevonden, gebruik onze gratis DriverPack Solution software voor het zoeken en updaten van drivers - het is absoluut gratis en het zal de driver van de vereiste configuratie zelf en zonder vertraging selecteren."
+msgstr "Werkt een spel niet? Het probleem zijn mogelijk de drivers voor uw videokaart. Probeer <b>en update de Nvidia video drivers</b> door de laatste versie van onze site te downloaden. Hier kunt u ook <b>downloaden de drivers voor de Nvidia Geforce videokaart</b> van de nieuwste series voor alle Windows OS versies die nu in gebruik zijn, absoluut gratis. Als u om een of andere reden de drivers die geschikt zijn voor uw Nvidia-videokaart in onze catalogus niet hebben gevonden, gebruik onze gratis DriverPack Solution software voor het zoeken en updaten van drivers - het is absoluut gratis en het zal de driver van de vereiste configuratie zelf en zonder vertraging selecteren."
 
 msgid "seo_deviceclass-footer-content-video-intel"
 msgstr "Heb je Intel HD Graphics videokaart drivers nodig? In deze sectie kunt u drivers voor deze serie videokaarten absoluut gratis downloaden. Als u niet kon vinden en <b>downloaden de drivers van de Intel-videokaart</b> zelf, gebruik onze gratis automatische DriverPack Solution software voor het zoeken en updaten van drivers. Het zal alles voor u doen!  "
 
 msgid "seo_deviceclass-footer-content-chipset-intel"
-msgstr "Heb je een vraag <b>hoe u Intel-chipset driver installeert</b> voor uw computer? In deze sectie vindt u en <b>download Intel chipset driver</b>zonder veel moeite. Als u om een of andere reden niet de driver voor Intel-chipset van onze catalogus hebt kunnen downloaden, gebruik dan onze gratis automatische DriverPack Solution driver update software."
+msgstr "Heb je een vraag <b>hoe u Intel-chipset driver installeert</b> voor uw computer? In deze sectie vindt u en <b>download Intel chipset driver</b> zonder veel moeite. Als u om een of andere reden niet de driver voor Intel-chipset van onze catalogus hebt kunnen downloaden, gebruik dan onze gratis automatische DriverPack Solution driver update software."
 
 msgid "seo_deviceclass-footer-content-chipset-asus"
 msgstr "In deze sectie kunt u <b>download de driver voor Asus chipset</b> absoluut gratis. <b>De Asus chipset drivers</b> voor alle Windows-besturingssysteem versies (7, 8.1, enz.) die nu in gebruik zijn, worden hier ook weergegeven. Of gebruik onze automatische DriverPack Solution software - het selecteert de driver die nodig is voor Asus chipset in de automatische modus zonder uw deelname."
@@ -772,10 +772,10 @@ msgid "seo_deviceclass-footer-content-monitor-hp"
 msgstr "Heb je nodig <b>om de driver voor de HP-monitor te downloaden</b>? In deze sectie vindt u al de nieuwste en actuele HP-monitor drivers voor al de nieuwste Windows-besturingssystemen. Alle drivers die in deze sectie zijn vertegenwoordigd, zijn geselecteerd en gecontroleerd door onze deskundigen voor gebruik en veiligheid. Als u de driver die u nodig heeft, door uw eigen inspanningen niet kon vinden; gebruik dan onze DriverPack Solution software - het doet alles snel en zonder uw deelname!"
 
 msgid "seo_deviceclass-footer-content-monitor-lg"
-msgstr "Is jouw<b> driver voor LG monitor</b> out-of-date? Worden sommige artefacten in de afbeelding weergegeven of weigert de monitor gewoon te werken? Gebruik onze grote catalogus waar u kunt <b>download de driver voor de LG Flatron monitor</b>zonder problemen en moeilijkheden! Als u geen tijd hebt om de gewenste driver zelf te zoeken, gebruik dan onze DriverPack Solution software - het zal zelf alle benodigde drivers selecteren."
+msgstr "Is jouw <b>driver voor LG monitor</b> out-of-date? Worden sommige artefacten in de afbeelding weergegeven of weigert de monitor gewoon te werken? Gebruik onze grote catalogus waar u kunt <b>download de driver voor de LG Flatron monitor</b> zonder problemen en moeilijkheden! Als u geen tijd hebt om de gewenste driver zelf te zoeken, gebruik dan onze DriverPack Solution software - het zal zelf alle benodigde drivers selecteren."
 
 msgid "seo_deviceclass-footer-content-monitor-panasonic"
-msgstr "Zijn er problemen ontstaan met de werking van de monitor van het Panasonic bedrijf? Het probleem kan met de drivers zijn. In onze catalogus kunt u <b>download de driver voor de Panasonic monitor</b>helemaal gratis en zonder extra problemen! Als u de driver die nodig is voor uw Panasonic-monitormodel, om een of andere reden niet gevonden heeft, download dan onze DriverPack Solution driver zoeker en update software - het is absoluut gratis!"
+msgstr "Zijn er problemen ontstaan met de werking van de monitor van het Panasonic bedrijf? Het probleem kan met de drivers zijn. In onze catalogus kunt u <b>download de driver voor de Panasonic monitor</b> helemaal gratis en zonder extra problemen! Als u de driver die nodig is voor uw Panasonic-monitormodel, om een of andere reden niet gevonden heeft, download dan onze DriverPack Solution driver zoeker en update software - het is absoluut gratis!"
 
 msgid "seo_deviceclass-footer-content-monitor-samsung"
 msgstr "In deze sectie kunt u <b>download de driver voor de Samsung Syncmaster-monitor gratis</b>. De drivers voor alle laatste Windows OS versies zijn hier vertegenwoordigd. Als u om een of andere reden de driver die u nodig hebt, niet gevonden hebt; gebruik dan onze DriverPack Solution software - het is gratis en het zal alles automatisch doen."
@@ -805,7 +805,7 @@ msgid "seo_deviceclass-footer-content-tvtuner-pinnacle"
 msgstr "Heb je nodig <b>de drivers voor Pinnacle tv-kaarten</b>? In deze catalogus kunt u gemakkelijk de drivers voor de Pinnacle TV-kaart vinden en gratis downloaden. Als u om een of andere reden de driver die u nodig heeft, niet heeft gevonden; installeer dan onze gratis DriverPack Solution software - het zal uw hardware configuratie analyseren en alles installeren wat nodig is voor de juiste werking."
 
 msgid "seo_deviceclass-footer-content-tvtuner-philips"
-msgstr "Lijken er problemen in de werking van uw Philips tv-kaart? Het probleem kunnen out-of-date drivers zijn. Hier kan je <b>downloaden Philips tv-kaart drivers</b>voor alle Windows OS versies die nu in gebruik zijn. Of installeer DriverPack Solution software - het is gratis en het zal alles voor u doen."
+msgstr "Lijken er problemen in de werking van uw Philips tv-kaart? Het probleem kunnen out-of-date drivers zijn. Hier kan je <b>downloaden Philips tv-kaart drivers</b> voor alle Windows OS versies die nu in gebruik zijn. Of installeer DriverPack Solution software - het is gratis en het zal alles voor u doen."
 
 msgid "seo_deviceclass-footer-content-tvtuner-kworld"
 msgstr "Heb je nodig <b>om de drivers voor de Kworld tv-kaart te downloaden</b> maar je weet niet waar vandaan? Dan ben je op de juiste plek! Hier kunt u downloaden <b>Kworld tv-kaart drivers</b>van de nieuwste versie voor alle beschikbare Windows besturingssystemen versies. Heb je de driver die je nodig hebt, niet in onze catalogus gevonden? Gebruik dan onze gratis DriverPack Solution software - het zal alles automatisch, snel en efficiënt doen."
@@ -823,193 +823,193 @@ msgid "seo_deviceclass-footer-content-phone-nokia"
 msgstr "In deze sectie kunt u <b>downloaden de driver voor Nokia-telefoon</b> absoluut gratis en zonder registratie. De drivers voor alle verschillende Nokia-telefoonmodellen zijn hier vertegenwoordigd. Ook zijn al onze drivers geverifieerd door deskundigen voor veiligheid en werking."
 
 msgid "seo_devicegroup-footer-content-video-nvidia-nvidia-geforce-9600-gt"
-msgstr "Heb je drivers nodig voor de Nvidia Geforce 9600 GT videokaart? Je bent op de juiste plek! In deze sectie kunt u downloaden<b>Nvidia Geforce 9600 GT-videokaart drivers</b> voor alle Windows-besturingssysteem versies die bestaan en nu in gebruik zijn. Als u om een of andere reden de drivers die u nodig hebt, niet in onze catalogus kunt vinden, gebruik dan onze DriverPack Solution software voor het zoeken naar drivers en updaten, omdat het absoluut vrij is en in de automatische modus werkt."
+msgstr "Heb je drivers nodig voor de Nvidia Geforce 9600 GT videokaart? Je bent op de juiste plek! In deze sectie kunt u downloaden <b>Nvidia Geforce 9600 GT-videokaart drivers</b> voor alle Windows-besturingssysteem versies die bestaan en nu in gebruik zijn. Als u om een of andere reden de drivers die u nodig hebt, niet in onze catalogus kunt vinden, gebruik dan onze DriverPack Solution software voor het zoeken naar drivers en updaten, omdat het absoluut vrij is en in de automatische modus werkt."
 
 msgid "seo_devicegroup-footer-content-monitor-samsung-syncmaster-740n-179n-syncmaster-magic-cx721n-cx714n"
-msgstr ""
+msgstr "Heeft u problemen met het aansluiten van de Samsung Syncmaster 740n-monitor op uw computer? Worden verschillende artefacten op het scherm van uw monitor weergegeven wanneer het informatie weergeeft? In deze sectie vindt u en <b>download de driver voor Samsung Syncmaster 740n monitor</b> van de laatste configuratie voor alle Windows OS versies die nu in gebruik zijn. Als u de driver die u nodig hebt niet kunt kiezen door onze catalogus te gebruiken, gebruik dan onze DriverPack Solution software - het is gratis en is speciaal gemaakt voor automatische driver update op uw computer."
 
 msgid "seo_notebook-footer-content-acer-aspire-5560g"
-msgstr ""
+msgstr "In deze sectie kunt u de drivers voor de Acer Aspire 5560g laptop downloaden voor Windows XP, 7, 8, 8.1 en 10. Alle drivers zijn gecontroleerd door onze experts op operationaliteit en veiligheid. Als u de driver die u nodig heeft zelf niet kon vinden, gebruik dan onze DriverPack Solution software - het is absoluut gratis en het zal alles voor u doen!"
 
 msgid "seo_notebook-footer-content-aspire-5750g"
-msgstr ""
+msgstr "Heb je drivers voor de Acer Aspire 5750g laptop nodig? De drivers voor Windows OS XP, 7, 8, 8.1 en 10 zijn in deze sectie weergegeven. Onze drivers zijn gecontroleerd door antivirus en zijn 100% veilig. Wil je niet zelf zoeken naar de driver die je nodig hebt? Download dan onze DriverPack Solution software - het is gratis en het kan alles wat u nodig hebt automatisch selecteren."
 
 msgid "seo_notebook-footer-content-acer-aspire-5100"
-msgstr ""
+msgstr "In deze sectie kunt u gratis de drivers voor de Acer Aspire 5100 laptop (Windows XP, 7, 8, 8.1, 10) downloaden. Als u om een of andere reden de driver die u nodig heeft niet hebt gevonden in onze catalogus, wanhoop niet - download dan onze DriverPack Solution software. Het zal alles voor u doen."
 
 msgid "seo_notebook-footer-content-acer-aspire-5553g"
-msgstr ""
+msgstr "Heb je de drivers voor de Acer Aspire 5553g laptop nodig? In deze sectie vindt u alle benodigde drivers voor de volgende Windows-versies: XP, 7, 8, 8.1, 10. Heb je die ene niet gevonden die je nodig hebt? Download dan onze gratis DriverPack Solution software voor driver update - het zal alles voor u doen!"
 
 msgid "seo_notebook-footer-content-acer-aspire-7750g"
-msgstr ""
+msgstr "In deze sectie kunt u de drivers voor de Acer Aspire 7750g laptop absoluut gratis downloaden. Al onze drivers zijn geverifieerd voor veiligheid en werking. Is er geen driver die u nodig heeft in onze catalogus? Download dan DriverPack Solution software - het vindt alles wat je nodig hebt voor een paar minuten!"
 
 msgid "seo_notebook-footer-content-acer-aspire-5551g"
-msgstr ""
+msgstr "Wij raden u aan om de drivers voor de Acer Aspire 5551g laptop te downloaden voor alle Windows OS versies die nu in gebruik zijn, absoluut gratis. Heb je de driver die je nodig hebt niet in onze catalogus gevonden? Download dan de gratis DriverPack Solution software - het zal al je drivers updaten naar de nieuwste up-to-date versie."
 
 msgid "seo_notebook-footer-content-acer-aspire-v3-571g"
-msgstr ""
+msgstr "Start je Acer Aspire v3 571g laptop niet op? Het probleem kunnen de drivers zijn. In deze sectie kunt u gratis de drivers voor Acer Aspire v3 571g downloaden. De drivers voor alle Windows - XP, 7, 8, 8.1 en 10 versies die nu in gebruik zijn, worden hier weergegeven. Heb je het probleem zelf niet kunnen oplossen? Download dan onze DriverPack Solution software - het zal zelf de vereiste driver vinden en updaten naar de werkzame versie."
 
 msgid "seo_notebook-footer-content-asus-x550cc"
-msgstr ""
+msgstr "Heb je de drivers nodig voor de Asus X550CC laptop? In deze sectie van onze site vindt u alles wat u nodig heeft voor uw laptop operatie. Al onze packs zijn geverifieerd op veiligheid en werking. Als u zelf de driver die u nodig heeft niet kon vinden, download dan onze DriverPack Solution software - het zal de huidige toestand van de drivers op uw computer beoordelen en deze updaten naar de nieuwste versie."
 
 msgid "seo_notebook-footer-content-asus-x550cl"
-msgstr ""
+msgstr "Hier kunt u Asus X550CL laptop drivers voor Windows XP, 7, 8, 8.1 en 10 gratis downloaden. Al onze drivers zijn geverifieerd voor gebruik en veiligheid. Als u om een of andere reden de driver die u nodig heeft, zelf niet heeft gevonden; gebruik dan onze DriverPack Solution software - het zal alles automatisch doen."
 
 msgid "seo_notebook-footer-content-asus-x540sa"
-msgstr ""
+msgstr "Hier kunt u Asus X540SA laptop drivers voor Windows XP, 7, 8, 8.1 en 10 gratis downloaden. Als u om een of andere reden de driver die u nodig hebt, niet in de catalogus kunt selecteren; download dan onze gratis DriverPack Solution software voor driver update - het zal alles automatisch doen."
 
 msgid "seo_notebook-footer-content-asus-x540sc"
-msgstr ""
+msgstr "Hier kunt u Asus X540SC laptop drivers voor Windows XP, 7, 8, 8.1 en 10 absoluut gratis downloaden. Heb je niet gevonden wat je zocht? Download dan onze DriverPack Solution software voor automatische driver update - het zal uw hardware beoordelen en snel de vereiste drivers selecteren."
 
 msgid "seo_notebook-footer-content-asus-x540la"
-msgstr ""
+msgstr "Hier kunt u Asus X540LA laptop drivers voor Windows XP, 7, 8, 8.1 en 10 gratis downloaden. U kunt ook DriverPack Solution software voor driver update downloaden, absoluut gratis - het zal de huidige toestand van de drivers op uw computer beoordelen en deze automatisch bijwerken naar de nieuwste up-to-date versie."
 
 msgid "seo_notebook-footer-content-asus-k50c"
-msgstr ""
+msgstr "Heb je de drivers voor Asus k50c laptop nodig voor Windows XP, 7, 8, 8.1 of 10? In deze sectie kunt u gratis de drivers voor de Asus k50c downloaden, of als u de driver die u nodig hebt, niet zelf heeft kunnen selecteren; installeer dan de DriverPack Solution software die de hardware op uw laptop analyseert en selecteert zelf alle drivers die u nodig hebt."
 
 msgid "seo_notebook-footer-content-asus-x553ma"
-msgstr ""
+msgstr "Heb je de drivers voor Asus X553MA laptop nodig voor Windows XP, 7, 8, 8.1 of 10? In deze sectie kunt u de drivers voor Asus X553MA downloaden of als u de driver die u nodig hebt, zelf niet heeft kunnen selecteren; installeer dan de DriverPack Solution software, die de hardware op uw computer test en de vereiste stuurprogramma's automatisch selecteert."
 
 msgid "seo_notebook-footer-content-asus-x541sa"
-msgstr ""
+msgstr "Hier kunt u de drivers voor Asus X541SA laptop voor Windows XP, 7, 8, 8.1 en 10 gratis downloaden. Als u om een of andere reden de driver die u nodig hebt, niet in onze catalogus gevonden hebt; download dan onze gratis DriverPack Solution software voor driver update - het zal alles automatisch doen."
 
 msgid "seo_notebook-footer-content-asus-k52jc"
-msgstr ""
+msgstr "Hier kunt u de drivers voor Asus k52jc laptops voor Windows XP, 7, 8, 8.1 en 10 gratis downloaden. Als u de driver die u nodig heeft, niet gevonden hebt in onze catalogus; installeer dan DriverPack Solution voor driver update - het zal alles voor u doen."
 
 msgid "seo_notebook-footer-content-asus-k52jr"
-msgstr ""
+msgstr "Hier kunt u de drivers voor de Asus k52jr laptop voor Windows XP, 7, 8, 8.1 en 10 gratis downloaden. Alle drivers zijn door onze beste experts gecontroleerd op veiligheid en werking."
 
 msgid "seo_notebook-footer-content-asus-x101ch"
-msgstr ""
+msgstr "Hier kunt u de drivers voor Asus X101CH laptops voor Windows XP, 7, 8, 8.1 en 10 gratis downloaden. Heb je de driver die je nodig hebt niet in onze catalogus gevonden? Geen probleem - download de DriverPack Solution software voor automatische driver installatie - het zal de driver voor het benodigde apparaat zelf en zonder extra problemen selecteren."
 
 msgid "seo_notebook-footer-content-asus-k50ij"
-msgstr ""
+msgstr "Hier kunt u de drivers voor Asus K50ij laptop downloaden voor Windows XP, 7, 8, 8.1 of 10. Als u de driver die u nodig hebt niet in de catalogus hebt kunnen selecteren, gebruik dan de DriverPack Solution software voor het zoeken en installeren van drivers - het is gratis en het zal alles voor u doen."
 
 msgid "seo_notebook-footer-content-asus-x551ma"
-msgstr ""
+msgstr "Is het mislukt om de driver voor Asus x551ma-netwerkcontroller te installeren? Download zelf de driver die u nodig hebt voor Windows XP, 7, 8, 8.1 of 10 of gebruik onze gratis DriverPack Solution-software voor driver-update."
 
 msgid "seo_notebook-footer-content-asus-k53ta"
-msgstr ""
+msgstr "Hier kunt u de drivers voor de Asus k53ta laptop voor Windows XP, 7, 8, 8.1 of 10 gratis downloaden. Als u om een of andere reden de driver die u nodig heeft, niet heeft gevonden; gebruik dan onze DriverPack Solution software - Het zal automatisch de driver selecteren die benodigd is of zo veel mogelijk compatibel is met uw configuratie."
 
 msgid "seo_notebook-footer-content-asus-x550ca"
-msgstr ""
+msgstr "Hier kunt u de drivers voor de Asus x550ca laptop voor Windows XP, 7, 8, 8.1 of 10 gratis downloaden. Al onze drivers zijn geverifieerd voor gebruik en veiligheid."
 
 msgid "seo_notebook-footer-content-lenovo-g580"
-msgstr ""
+msgstr "Hier kunt u de drivers voor Lenovo g580 laptop voor Windows XP, 7, 8, 8.1 of 10 downloaden, absoluut gratis. Alle drivers zijn door antivirus gecontroleerd. Heb je de driver die je nodig hebt niet gevonden? Download en installeer dan de DriverPack Solution software - het is gratis en het zal alles voor u doen."
 
 msgid "seo_notebook-footer-content-lenovo-b590"
-msgstr ""
+msgstr "Download de drivers voor de Lenovo b590 laptop voor Windows XP, 7, 8, 8.1 of 10 hier en absoluut gratis. Al onze drivers zijn door antivirus gecontroleerd en zijn absoluut veilig."
 
 msgid "seo_notebook-footer-content-hp-pavilion-g6-chipset"
-msgstr ""
+msgstr "In deze sectie kunt u <b>downloaden Pavilion G6 chipset drivers</b> gratis en zonder registratie voor alle Windows-besturingssystemen die nu in gebruik zijn. Als u om een of andere reden de chipset drivers voor HP Pavilion G6 laptop niet zelf kan vinden en downloaden, gebruik dan onze DriverPack Solution software - het zal alles automatisch doen."
 
 msgid "seo_notebook-footer-content-lenovo-g580-wifi"
-msgstr ""
+msgstr "Heb je de Wi-Fi driver nodig voor de Lenovo g580 laptop voor Windows XP, 7, 8, 8.1 of 10? Download het direct uit onze catalogus. Al onze drivers zijn volledig werkzaam en veilig."
 
 msgid "seo_notebook-footer-content-lenovo-b590-wifi"
-msgstr ""
+msgstr "Hier kunt u de Lenovo b590 laptop driver downloaden voor Wi-Fi voor Windows XP, 7, 8, 8.1 of 10. Onze gehele catalogus is door antivirus gecontroleerd."
 
 msgid "seo_notebook-footer-content-acer-aspire-v3-571g-wifi"
-msgstr ""
+msgstr "Hier kunt u de Wi-Fi drivers voor de Acer Aspire v3 571g laptop voor Windows XP, 7, 8, 8.1 en 10 gratis downloaden."
 
 msgid "seo_notebook-footer-content-acer-aspire-v3-571g-video"
-msgstr ""
+msgstr "In deze sectie kunt u gratis de drivers downloaden voor de Acer Aspire v3 571g laptop videokaart. Ben je hier niet tevreden over? Gebruik dan onze DriverPack Solution software - het zal de driver selecteren die het meest compatibel is met uw configuratie."
 
 msgid "seo_notebook-footer-content-acer-aspire-v3-571g-sound"
-msgstr ""
+msgstr "In deze sectie kunt u geluidskaart drivers downloaden voor de Acer Aspire v3 571g laptop voor alle Windows-versies die nu in gebruik zijn. Onze drivers zijn absoluut veilig en werken gewoon uitstekend!"
 
 msgid "seo_notebook-footer-content-acer-aspire-v3-571g-inputdev"
-msgstr ""
+msgstr "Hier kunt u de driver voor het toetsenbord en andere input apparaten van de Acer Aspire v3 571g laptop voor Windows XP, 7, 8, 8.1 en 10 absoluut gratis downloaden. Al onze drivers zijn geverifieerd op veiligheid en werking!"
 
 msgid "seo_notebook-footer-content-acer-aspire-v3-571g-lan"
-msgstr ""
+msgstr "Hier kunt u de netkaart driver van de Acer Aspire v3 571g laptop downloaden voor Windows XP, 7, 8, 8.1 en 10. Heb je de driver die je nodig hebt, zelf niet gevonden? Gebruik onze dan DriverPack Solution software - het zal alles wat benodigd is zelf selecteren."
 
 msgid "seo_notebook-footer-content-acer-aspire-v3-571g-cardreader"
-msgstr ""
+msgstr "In deze sectie kunt u de driver voor de kaartlezer van de Acer Aspire v3 571g laptop voor Windows XP, 7, 8, 8.1 en 10 zonder extra problemen downloaden. Hier kunt u ook onze DriverPack Solution software downloaden - het zal uw hardwareconfiguratie analyseren, selecteert en installeert de vereiste driver zelf."
 
 msgid "seo_notebook-footer-content-asus-x550cc-wifi"
-msgstr ""
+msgstr "Werkt de Wifi niet op de Asus X550CC laptop? Het probleem kunnen out-of-date drivers zijn - download de nieuwste versie van de Wi-Fi driver voor de Asus X550CC laptop of installeer gratis de DriverPack Solution software - het doet alles in de automatische modus."
 
 msgid "seo_notebook-footer-content-asus-x550cc-lan"
-msgstr ""
+msgstr "Hier kunt u gratis de netwerk drivers voor de Asus X550CC laptop downloaden voor Windows XP, 7, 8, 8.1 en 10. Als u om een of andere reden niet tevreden bent met deze drivers, gebruik dan onze DriverPack Solution software - het is gratis en zal alles voor u doen."
 
 msgid "seo_notebook-footer-content-asus-k50c-video"
-msgstr ""
+msgstr "Start een spel niet op op de Asus k50c laptop? Hier kunt u de videokaart driver voor Asus k50c downloaden voor Windows XP, 7, 8, 8.1 of 10."
 
 msgid "seo_notebook-footer-content-asus-k50c-wifi"
-msgstr ""
+msgstr "Heeft u problemen met internet toegang via Wi-Fi? Hier kunt u de Wi-Fi drivers voor de Asus k50c laptop downloaden voor Windows XP, 7, 8, 8.1 of 10 - dit kan het probleem oplossen!"
 
 msgid "seo_notebook-footer-content-asus-x553ma-video"
-msgstr ""
+msgstr "Zijn de videokaart drivers op uw Asus x553ma laptop out-of-date? Hier kunt u de driver downloaden voor de Asus X553MA voor Windows XP, 7, 8, 8.1 of 10."
 
 msgid "seo_notebook-footer-content-asus-x101ch-video"
-msgstr ""
+msgstr "Start je spel niet op op de Asus X101CH laptop? Hier kunt u gratis de videokaart driver voor de Asus X101CH voor Windows XP, 7, 8, 8.1 of 10 downloaden - dit kan het probleem oplossen!"
 
 msgid "seo_notebook-footer-content-asus-k50ij-wifi"
-msgstr ""
+msgstr "Heb je de Wi-Fi driver nodig voor de Asus k50ij laptop voor Windows XP, 7, 8, 8.1 of 10? Download het rechtstreeks uit onze catalogus of installeer de DriverPack Solution software voor automatische driver update - het is absoluut gratis."
 
 msgid "seo_notebook-footer-content-asus-x551ma-lan"
-msgstr ""
+msgstr "Is het mislukt om de driver voor de Asus x551ma netwerkcontroller te installeren? Download zelf de driver die u nodig hebt voor Windows XP, 7, 8, 8.1 of 10 of gebruik onze gratis DriverPack Solution software voor driver-update."
 
 msgid "seo_notebook-footer-content-lenovo-g580-lan"
-msgstr ""
+msgstr "Hier kunt u netwerk drivers voor de Lenovo g580 laptop downloaden voor Windows XP, 7, 8, 8.1 of 10. Heb je de driver die je nodig hebt niet gevonden? Download en installeer dan de DriverPack Solution software - het is gratis en selecteert automatisch alles wat u nodig heeft voor de goede werking van uw laptop."
 
 msgid "seo_notebook-footer-content-acer-aspire-v3-571g-7-x86"
-msgstr ""
+msgstr "In deze sectie kunt u de Acer Aspire v3 571g laptop drivers voor Windows 7 downloaden. Al onze drivers zijn gecontroleerd door deskundigen en zijn volledig werkzaam."
 
 msgid "seo_notebook-footer-content-acer-aspire-v3-571g-8-x86"
-msgstr ""
+msgstr "Hier kunt u de Acer Aspire v3 571g laptop drivers voor Windows 8 downloaden of installeer de DriverPack Solution software voor automatische driver-update."
 
 msgid "seo_notebook-footer-content-acer-aspire-v3-571g-8.1-x86"
-msgstr ""
+msgstr "In deze sectie zijn de Acer Aspire v3 571g laptop drivers voor Windows 8 beschikbaar voor download. Hier kunt u ook de DriverPack Solution software downloaden - het zal uw hardwareconfiguratie controleren en de vereiste driver installeren."
 
 msgid "seo_notebook-footer-content-acer-aspire-v3-571g-10-x86"
-msgstr ""
+msgstr "Hier kunt u de Acer Aspire v3 571g laptop drivers voor Windows 10 downloaden. Onze drivers zijn volledig werkzaam en zijn door antivirus gecontroleerd."
 
 msgid "seo_notebook-footer-content-asus-x550cc-7-x86"
-msgstr ""
+msgstr "In deze sectie kunt u de Asus X550CC laptop drivers downloaden voor Windows 7x86. Al onze drivers zijn gecontroleerd op veiligheid door antivirus!"
 
 msgid "seo_notebook-footer-content-asus-x550cc-7-x64"
-msgstr ""
+msgstr "In deze sectie kunt u de Asus X550CC laptop drivers voor Windows 7x64 absoluut gratis downloaden. Als u om welke reden dan ook niet tevreden bent met de driver uit deze sectie, gebruik dan onze DriverPack Solution software - het zal de drivers op uw laptop updaten naar de nieuwste up-to-date versie."
 
 msgid "seo_notebook-footer-content-asus-x550cl-7-x64"
-msgstr ""
+msgstr "Hier kunt u de Asus X550CL laptop drivers voor Windows 7x64 absoluut gratis downloaden. Al onze drivers zijn gecontroleerd door de deskundigen."
 
 msgid "seo_notebook-footer-content-asus-x540sa-7-x64"
-msgstr ""
+msgstr "Heb je Asus X540SA laptop drivers nodig voor Windows 7x64? U vindt alles wat u nodig heeft in deze sectie. Alle drivers zijn gecontroleerd op veiligheid en werking door onze experts."
 
 msgid "seo_notebook-footer-content-asus-x540sa-8.1-x64"
-msgstr ""
+msgstr "Heb je Asus x540sa laptop drivers nodig voor Windows 8.1x64? Hier vindt u alles wat u nodig heeft. Onze drivers zijn geverifieerd op werking en veiligheid door de beste experts."
 
 msgid "seo_notebook-footer-content-asus-x540sa-10-x64"
-msgstr ""
+msgstr "Moet je Asus X540SA laptop drivers voor Windows 10x64 downloaden? Je bent op de juiste plek! Als u om een of andere reden de driver die u nodig hebt, niet in de catalogus, gevonden heeft; download dan onze DriverPack Solution software - het vind alle nieuwste versies en installeert ze zelf op uw laptop!"
 
 msgid "seo_notebook-footer-content-asus-x540sc-7-x64"
-msgstr ""
+msgstr "Moet je Asus X540SC laptop drivers voor Windows 7x64 downloaden? Hier vindt u alles wat u nodig heeft. Al onze driver packs zijn geverifieerd op veiligheid en werking!"
 
 msgid "seo_notebook-footer-content-asus-x540sc-8.1-x64"
-msgstr ""
+msgstr "Hier kunt u de Asus X540SC laptop drivers voor Windows 8.1x64 absoluut gratis downloaden. Als u de driver die u nodig heeft, zelf niet kon vinden in onze catalogus; download dan gewoon de DriverPack-software voor driver-update - het zal alles snel en betrouwbaar doen!"
 
 msgid "seo_notebook-footer-content-asus-x540la-7-x64"
-msgstr ""
+msgstr "In deze sectie kunt u gratis de Asus X540LA laptop drivers voor Windows 7x64 downloaden en zonder extra registratie. Al onze drivers zijn absoluut veilig en volledig werkzaam."
 
 msgid "seo_notebook-footer-content-asus-k50c-xp-x86"
-msgstr ""
+msgstr "In deze sectie kunt u de drivers voor de Asus k50c laptop voor Windows XP absoluut gratis downloaden zonder extra registratie. Wij raden u ook aan om de DriverPack Solution software te downloaden voor automatische driver installatie - het zal alles voor u doen!"
 
 msgid "seo_notebook-footer-content-asus-x553ma-7-x64"
-msgstr ""
+msgstr "Hier kunt u de drivers voor de Asus X553MA laptop voor Windows 7x64 downloaden. Al onze driver packs zijn getest op veiligheid en werking door de experts."
 
 msgid "seo_notebook-footer-content-asus-x101ch-xp-x86"
-msgstr ""
+msgstr "Hier kunt u gratis de Asus X101CH laptop driver downloaden voor Windows XP en zonder extra registratie. Al onze drivers zijn volledig werkzaam en veilig voor uw laptop!"
 
 msgid "seo_notebook-footer-content-asus-k50ij-7-x64"
-msgstr ""
+msgstr "Hier kunt u de drivers voor de Asus k50ij laptop voor Windows 7x64 absoluut gratis downloaden. Ben je niet tevreden met de driver? Geen probleem - gebruik dan onze DriverPack Solution software voor driver update - het is absoluut gratis en zal alles automatisch doen!"
 
 msgid "seo_notebook-footer-content-asus-k50ij-xp-x86"
-msgstr ""
+msgstr "Heb je de drivers voor de Asus k50ij laptop voor Windows XP nodig? Gebruik dan onze catalogus - je vindt daar alles wat je nodig hebt. Helpt het niet? Download dan de DriverPack Solution software voor driver update - het zal de hardware op uw laptop analyseren en de meest compatibele drivers selecteren."
 
 msgid "seo_notebook-footer-content-lenovo-g580-7-x64"
-msgstr ""
+msgstr "De drivers voor de Lenovo g580 laptop voor Windows XP, 7, 8, 8.1 of 10 zijn hier te downloaden. Bent u niet tevreden met de driver? Gebruik dan de DriverPack Solution software voor het zoeken en installeren van drivers - het zal alles zelf doen."
 
 msgid "seo_notebook-footer-content-asus-x550cc-sound-10-x64"
-msgstr ""
+msgstr "Hier kunt u de drivers voor de Asus X550CC laptop voor Windows 10x64 gratis downloaden. U kunt ook de DriverPack Solution software downloaden - het zal de huidige toestand van de drivers op uw laptop beoordelen en deze updaten naar de nieuwste up-to-date versie."
