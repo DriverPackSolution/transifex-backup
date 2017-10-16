@@ -7,14 +7,15 @@
 # Łukasz Sumera <sumera.lukasz@gmail.com>, 2017
 # Marcin Rudzki <m.k.rudzki@gmail.com>, 2016
 # pasterzppp <pasterzppp@gmail.com>, 2016
+# Wojciech Milewski <milewski1974@gmail.com>, 2017
 # Артур Кузяков <artx@drp.su>, 2016
 msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-08-24 08:22+0000\n"
-"PO-Revision-Date: 2017-09-23 22:32+0000\n"
-"Last-Translator: Łukasz Sumera <sumera.lukasz@gmail.com>\n"
+"PO-Revision-Date: 2017-10-11 15:32+0000\n"
+"Last-Translator: Wojciech Milewski <milewski1974@gmail.com>\n"
 "Language-Team: Polish (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/pl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -23,13 +24,13 @@ msgstr ""
 "Plural-Forms: nplurals=4; plural=(n==1 ? 0 : (n%10>=2 && n%10<=4) && (n%100<12 || n%100>14) ? 1 : n!=1 && (n%10>=0 && n%10<=1) || (n%10>=5 && n%10<=9) || (n%100>=12 && n%100<=14) ? 2 : 3);\n"
 
 msgid "installation_close_confirm"
-msgstr ""
+msgstr "Czy jesteś pewien przerwania instalacji ? Może to doprowadzić do uszkodzenia komputera."
 
 msgid "authorize_failed"
-msgstr ""
+msgstr "Błąd logowania"
 
 msgid "unauthorize_failed"
-msgstr ""
+msgstr "Błąd wylogowania"
 
 msgid "deviceclasses_bluetooth-single-main"
 msgstr "urządzenie Bluetooth"
@@ -215,43 +216,43 @@ msgid "settings_common-settings"
 msgstr "Ustawienia ogólne"
 
 msgid "settings_error"
-msgstr ""
+msgstr "Błąd "
 
 msgid "settings_algorithm"
-msgstr ""
+msgstr "Wybór algorytmu sterowników"
 
 msgid "settings_language-title"
-msgstr "Język programu"
+msgstr "Języki aplikacji"
 
 msgid "settings_language-caption"
-msgstr ""
+msgstr "Dla lepszego i prostszego korzystania z DriverPack, wybierz swój ojczysty język w ustawieniach."
 
 msgid "settings_language-anchor"
 msgstr "Informacja dla tłumaczy"
 
 msgid "settings_language-href"
-msgstr ""
+msgstr "https://drp.su/en/info/translators"
 
 msgid "settings_logging-title"
 msgstr "Zapisz dzienniki"
 
 msgid "settings_logging-caption"
-msgstr ""
+msgstr "Raporty aplikacji są zapisywane podczas procesu konfiguracji komputera, więc programiści i zespół wsparcia technicznego zawsze mogą uporządkować wszelkie problemy, jakie mogą wystąpić."
 
 msgid "settings_firebug-title"
 msgstr "Otwórz konsolę debugowania"
 
 msgid "settings_firebug-caption"
-msgstr ""
+msgstr "Dla zaawansowanych użytkowników, inżynierowie DriverPack dodali możliwość uruchomienia firebuga i identyfikacji przyczyny błędu (konsola jest otwierana przez naciśnięcie F12)."
 
 msgid "settings_cleanup-title"
 msgstr "Usuń pliki tymczasowe"
 
 msgid "settings_cleanup-caption"
-msgstr ""
+msgstr "Przy konfigurowaniu komputera, DriverPack ładuje szereg plików tymczasowych, niezbędnych do instalacji sterowników. Gdy komputer zostanie w pełni skonfigurowany,aplikacja automatycznie usunie niepotrzebne pliki z komputera i pomoże uzyskać wolne miejsce na dysku twardym."
 
 msgid "settings_soft-and-utilities-title"
-msgstr ""
+msgstr "Instalowanie dodatków sterowników i użytecznych aplikacji"
 
 msgid "settings_soft-and-utilities-caption"
 msgstr ""
@@ -287,7 +288,7 @@ msgid "settings_expert-mode-caption"
 msgstr ""
 
 msgid "settings_minify-menu-title"
-msgstr ""
+msgstr "Zmniejsz rozmiar panelu nawigacji."
 
 msgid "settings_minify-menu-caption"
 msgstr ""
@@ -780,13 +781,13 @@ msgid "installation_header_subtitle_installing-program"
 msgstr ""
 
 msgid "installation_header_subtitle_downloading"
-msgstr ""
+msgstr "Wczytywanie pliku"
 
 msgid "installation_header_preparing"
-msgstr ""
+msgstr "Tworzymy punkt przywracania..."
 
 msgid "installation_header_title"
-msgstr ""
+msgstr "Konfigurujemy Twój komputer..."
 
 msgid "installation_header_promo_more"
 msgstr "dowiedz się więcej"
@@ -855,16 +856,16 @@ msgid "soft_category_viewer"
 msgstr ""
 
 msgid "soft_category_messenger"
-msgstr ""
+msgstr "Darmowe połączenia i wiadomości"
 
 msgid "soft_category_internet"
 msgstr "Narzędzia internetowe"
 
 msgid "soft_category_player"
-msgstr ""
+msgstr "Oglądanie filmów i plików video"
 
 msgid "soft_category_backup"
-msgstr ""
+msgstr "Kopia zapasowa i przywracanie danych"
 
 msgid "soft_category_antivirus"
 msgstr "Ochrona antywirusowa"
@@ -879,13 +880,13 @@ msgid "installation_error_download"
 msgstr "Błąd pobierania"
 
 msgid "installation_error_unzip"
-msgstr ""
+msgstr "Błąd rozpakowywania"
 
 msgid "installation_error_install"
 msgstr "Błąd instalacji"
 
 msgid "installation_error_restore_disabled"
-msgstr ""
+msgstr "Błąd: zastrzeżone przez ustawienia systemu"
 
 msgid "installation_error_restore_not_created"
 msgstr "Błąd tworzenia"
@@ -894,13 +895,13 @@ msgid "installation_progress_stage_creating"
 msgstr "Tworzenie..."
 
 msgid "installation_progress_stage_created"
-msgstr ""
+msgstr "Utworzone"
 
 msgid "installation_progress_stage_waiting"
-msgstr ""
+msgstr "Oczekiwanie na pobranie"
 
 msgid "installation_progress_stage_downloading"
-msgstr ""
+msgstr "Wczytuję..."
 
 msgid "installation_progress_downloading_speed"
 msgstr "prędkość"
@@ -909,10 +910,10 @@ msgid "installation_progress_downloading_of"
 msgstr "z"
 
 msgid "installation_progress_stage_downloaded"
-msgstr ""
+msgstr "W oczekiwaniu na instalację"
 
 msgid "installation_progress_stage_unzipping"
-msgstr ""
+msgstr "Rozpakowywanie..."
 
 msgid "installation_progress_unzipping_unzipped"
 msgstr "rozpakowane"
@@ -927,19 +928,19 @@ msgid "installation_canceled"
 msgstr "Anulowano"
 
 msgid "installation_title_name"
-msgstr ""
+msgstr "Inastalowanie"
 
 msgid "installation_title_button_settings"
-msgstr ""
+msgstr "Konfiguracja"
 
 msgid "installation_item_description_restorepoint"
 msgstr ""
 
 msgid "loading_backup_drivers"
-msgstr ""
+msgstr "Kopia sterowników została stworzona"
 
 msgid "loading_backup_done"
-msgstr ""
+msgstr "Kopia sterowników została stworzona z powodzeniem"
 
 msgid "loading_button_finish"
 msgstr "Zakończono"
@@ -951,28 +952,28 @@ msgid "about_run_error"
 msgstr ""
 
 msgid "loading_preparing"
-msgstr ""
+msgstr "Aplikacja jest gotowa do uruchomienia..."
 
 msgid "loading_system_scanning"
-msgstr ""
+msgstr "Sprawdzamy konfigurację komputera..."
 
 msgid "loading_sending_api_request"
-msgstr ""
+msgstr "Wczytujemy dane z serwera w chmurze..."
 
 msgid "loading_checking_installed_programs"
-msgstr ""
+msgstr "Analizujemy programy..."
 
 msgid "loading_ordering_drivers"
-msgstr ""
+msgstr "Generujemy kolejność instalacji sterowników..."
 
 msgid "menu_install_drivers"
-msgstr ""
+msgstr "Instalowanie sterowników na komputerze"
 
 msgid "menu_drivers"
 msgstr "Sterowniki"
 
 msgid "menu_install_programs"
-msgstr ""
+msgstr "Instalowanie podstawowego oprogramowania na komputerze"
 
 msgid "menu_programs"
 msgstr "Oprogramowanie"
@@ -984,49 +985,49 @@ msgid "menu_protect"
 msgstr "Zabezpieczenia"
 
 msgid "menu_computer_diagnostics"
-msgstr ""
+msgstr "Diagnostyka stanu komputera"
 
 msgid "menu_diagnostics"
 msgstr "Diagnostyka"
 
 msgid "menu_cloud_games_title"
-msgstr ""
+msgstr "Graj w najbardziej zaawansowane gry na swoim komputerze"
 
 msgid "menu_cloud_games"
-msgstr "Games"
+msgstr "Gry"
 
 msgid "menu_cloud_games_new"
-msgstr ""
+msgstr "Nowe"
 
 msgid "menu_settings"
 msgstr "Ustawienia"
 
 msgid "menu_bugreport"
-msgstr ""
+msgstr "Raportuj o błędzie"
 
 msgid "no-internet-screen_header-title"
-msgstr ""
+msgstr "Brak połączenia z serwerem"
 
 msgid "no-internet-screen_guide-title"
-msgstr ""
+msgstr "Jak zainstalować potrzebne sterowniki bez połączenia z internetem ?"
 
 msgid "no-internet-screen_guide-step-1"
-msgstr ""
+msgstr "Krok 1"
 
 msgid "no-internet-screen_guide-step-1-action"
-msgstr ""
+msgstr "Odwiedź <span class='bold'>www.drp.su</span>stronę<br />używając innego komputera"
 
 msgid "no-internet-screen_guide-step-2"
 msgstr ""
 
 msgid "no-internet-screen_guide-step-2-action"
-msgstr ""
+msgstr "<div>Pobierz<span class='bold'>DriverPack Offline</span><br />na dysk USB"
 
 msgid "no-internet-screen_guide-step-complete"
 msgstr "Zakończono"
 
 msgid "no-internet-screen_guide-step-complete-action"
-msgstr ""
+msgstr "Uruchom aplikację na tym komputerze i <br /> ustaw komputer za pomocą jednego przycisku"
 
 msgid "programs_btn_install_single"
 msgstr "Instaluj"
@@ -1035,16 +1036,16 @@ msgid "programs_btn_installed_single"
 msgstr "Zainstalowano"
 
 msgid "programs_header_text_title"
-msgstr ""
+msgstr "Całe użyteczne oprogramowanie w jednym miejscu"
 
 msgid "programs_btn_install_all"
-msgstr ""
+msgstr "Zainstaluj potrzebne oprogramowanie <b>({{COUNT}})</b>"
 
 msgid "programs_header_text_caption"
-msgstr ""
+msgstr "Nie musisz instalować oprogramowania jedno po drugim. Możesz wszystko zainstalować jednym kliknięciem."
 
 msgid "drivers_program_counter"
-msgstr ""
+msgstr "Polecane oprogramowanie"
 
 msgid "protect_row_rating"
 msgstr "Ocena:"
@@ -1062,16 +1063,16 @@ msgid "protect_row_install_date"
 msgstr "Data instalacji:"
 
 msgid "protect_rating_level_large"
-msgstr ""
+msgstr "zalecamy usunięcie tego"
 
 msgid "protect_rating_level_middle"
-msgstr ""
+msgstr "możesz to usunąć"
 
 msgid "protect_rating_level_small"
-msgstr ""
+msgstr "możesz to pozostawić"
 
 msgid "protect_rating_level_large_caption"
-msgstr ""
+msgstr "Zalecamy usunięcie tego programu 70% użytkowników usunęło go."
 
 msgid "protect_uninstall_single"
 msgstr "usuń"
@@ -1086,16 +1087,16 @@ msgid "protect_remove_all_btn"
 msgstr "Usuń niechciane oprogramowanie  <b>({{COUNT}})</b>"
 
 msgid "protect_state_success"
-msgstr ""
+msgstr "Niechciane programy nie zostały znalezione."
 
 msgid "protect_state_success_caption"
 msgstr "Nie ma niechcianego oprogramowania na twoim komputerze."
 
 msgid "protect_state_warn_unchecked"
-msgstr ""
+msgstr "Zostały znalezione niechciane programy."
 
 msgid "protect_state_warn_unchecked_caption"
-msgstr ""
+msgstr "Usunięcie ich jest możliwe za pomocą zaznaczenia ich na liście poniżej"
 
 msgid "protect_state_warn"
 msgstr ""
@@ -1107,7 +1108,7 @@ msgid "protect_show_more"
 msgstr "Zobacz więcej"
 
 msgid "settings-header_title"
-msgstr ""
+msgstr "Ustawienia dla zaawansowanych użytkowników"
 
 msgid "settings-header_caption"
 msgstr ""
@@ -1121,10 +1122,10 @@ msgid "start_title"
 msgstr "Automatyczna konfiguracja {{MODEL}}"
 
 msgid "start_button_install"
-msgstr ""
+msgstr "Konfiguruje komputer automatycznie"
 
 msgid "start_caption"
-msgstr ""
+msgstr "DriverPack przeskanuje system, zainstaluje<br/>potrzebne sterowniki i programy i przeprowadzi diagnostykę.<br/> Sprawność komputera powinna się poprawić"
 
 msgid "start_expert_mode"
 msgstr "Tryb eksperta"
@@ -1137,7 +1138,7 @@ msgstr[2] "Zostanie zainstalowane {{COUNT}} sterowników"
 msgstr[3] "Zostanie zainstalowane {{COUNT}} sterowników"
 
 msgid "start_drivers_popover"
-msgstr ""
+msgstr "Sterowniki dla Twojego komputera zostały wybrane i są gotowe do instalacji. Zanim zaczniemy zostanie utworzony punkt przywracania systemu."
 
 msgid "start_programs_title"
 msgid_plural "start_programs_title_n"
@@ -1201,19 +1202,19 @@ msgid "installation_header_promo_text_wannacrypt"
 msgstr ""
 
 msgid "installation_header_promo_title_avast"
-msgstr ""
+msgstr "Co czyni Avast lepszym od innych programów antywirusowych ?"
 
 msgid "installation_header_promo_text_avast"
 msgstr ""
 
 msgid "installation_header_promo_title_catalog"
-msgstr ""
+msgstr "Jak zainstalować sterowniki we własnym zakresie ?"
 
 msgid "installation_header_promo_text_catalog"
 msgstr ""
 
 msgid "installation_header_promo_title_authorization"
-msgstr ""
+msgstr "Zaloguj się aby zapisać ustawienia"
 
 msgid "installation_header_promo_text_authorization"
 msgstr ""
@@ -1225,7 +1226,7 @@ msgid "installation_header_promo_text_opera"
 msgstr ""
 
 msgid "installation_header_promo_title_how_it_works"
-msgstr ""
+msgstr "Jak działa DriverPack ?"
 
 msgid "installation_header_promo_text_how_it_works"
 msgstr ""
@@ -1243,13 +1244,13 @@ msgid "installation_header_promo_text_social"
 msgstr ""
 
 msgid "installation_header_promo_title_protect"
-msgstr ""
+msgstr "Jak DriverPack pomaga chronić Twój komputer ?"
 
 msgid "installation_header_promo_text_protect"
 msgstr ""
 
 msgid "installation_header_promo_title_restore"
-msgstr ""
+msgstr "Punkt przywracania systemu"
 
 msgid "installation_header_promo_text_restore"
 msgstr ""
@@ -1297,10 +1298,10 @@ msgid "softcategories_drivers-plural-for"
 msgstr ""
 
 msgid "installation_application_restart_confirm_text_1"
-msgstr ""
+msgstr "Zalecamy zamknięcie wszystkich uruchomionych aplikacji w czasie instalacji sterowników"
 
 msgid "installation_application_restart_confirm_text_2"
-msgstr ""
+msgstr "Tutaj jest lista procesów, które zostaną zamknięte podczas instalacji i zostaną ponownie uruchomione automatycznie:"
 
 msgid "installation_application_restart_confirm_title"
 msgstr "Rekomendacje"
@@ -1321,7 +1322,7 @@ msgid "deviceproblems_usb_unknown_vendor"
 msgstr ""
 
 msgid "deviceproblems_sound_card"
-msgstr ""
+msgstr "Karta dźwiękowa jest źle podłączona lub jest problem z jej działaniem."
 
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
