@@ -1,13 +1,14 @@
 # Translators:
 # Arzu Babayev <babayev.arzu@gmail.com>, 2017
 # Nadia Tegeneva <nadia@drp.su>, 2017
+# İsmət Sadıqov <ismet.sadiqov@gmail.com>, 2017
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-09-13 09:50+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
-"Last-Translator: Nadia Tegeneva <nadia@drp.su>, 2017\n"
+"Last-Translator: İsmət Sadıqov <ismet.sadiqov@gmail.com>, 2017\n"
 "Language-Team: Azerbaijani (https://www.transifex.com/driverpack-solution/teams/75453/az/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -61,28 +62,28 @@ msgid "adminpromo_list-item-speed"
 msgstr "Tərcümənin sürəti və proqramın başlanması sürəti optimallaşdırılıb."
 
 msgid "adminpromo_list-item-ui"
-msgstr ""
+msgstr "Driverlər vərəqi interfeysi yenidən dizayn edildi və artıq sistem idarəçilərinə daha çox məlumat verir."
 
 msgid "adminpromo_list-item-settings"
-msgstr ""
+msgstr "Tənzimləmələr silsiləsi böyüdüldü və Fərdi Şəxsiləşdirmələr seçimi əlavə edildi."
 
 msgid "adminpromo_list-item-soft"
-msgstr ""
+msgstr "Məcburi proqram quraşdırılması standart olaraq Q-AKTİVDİR"
 
 msgid "adminpromo_list-item-packs"
-msgstr ""
+msgstr "'Mavi ekran xətası' çökmələrini və digər problemləri azaltmaq üçün driverpack-lərə kök yanaşma dəyişdirildi."
 
 msgid "adminpromo_list-item-device-support"
-msgstr ""
+msgstr "Driver əhatəsi ciddi ölçüdə daha çox avadanlıq növlərini dəstəkləyir (çox köhnə avadanlıqlar da daxil olmaqla)"
 
 msgid "adminpromo_list-item-expert-mode"
-msgstr ""
+msgstr "Ekspert Rejimi standart olaraq aktivdir"
 
 msgid "adminpromo_list-item-stable-db"
-msgstr ""
+msgstr "Ən stabil driver bazası yaradıldı. Driver bazası formatı yeniləndi."
 
 msgid "adminpromo_list-item-full-db"
-msgstr ""
+msgstr "Dünyadanın ən böyük və unikal driver bazası yaradıldı"
 
 msgid "buttonsplitdropdown_main-button"
 msgstr "Yüklə"
@@ -91,7 +92,7 @@ msgid "breadcrumbs_main-text"
 msgstr "Ana səhifə"
 
 msgid "breadcrumbs_catalog-main-text"
-msgstr ""
+msgstr "{{OS.NAME}} üçün driverlər"
 
 msgid "breadcrumbs_vendors-text"
 msgstr "İstehsalçılar"
@@ -121,19 +122,19 @@ msgstr "Notebook'lar"
 
 #. i18n: EN: Example: VENDOR.NAME=Asus; RU: Пример: VENDOR.NAME=Asus;
 msgid "breadcrumbs_notebookvendor-text"
-msgstr ""
+msgstr "{{VENDOR.NAME}} noutbukları"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=X1 carbon;
 #. RU: Пример: NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=X1 carbon;
 msgid "breadcrumbs_notebook-text"
-msgstr ""
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=Videocards|Chipsets ,
 #. NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=G580; RU: Пример:
 #. CLASS.PLURAL.MAIN=видеокарты|чипсеты, NOTEBOOK.VENDOR.NAME=Lenovo,
 #. NOTEBOOK.NAME=G580;
 msgid "breadcrumbs_notebookdevices-text"
-msgstr ""
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} noutbuk üçün {{CLASS.PLURAL.MAIN}}"
 
 msgid "devicecard_download-btn"
 msgstr "Sürücünü yüklə"
@@ -143,7 +144,7 @@ msgstr "Sürücünü yüklə"
 #. NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10 x86; Текст для
 #. {{DOWNLOAD}} находится в ключе drivercard_no-results_download-link;
 msgid "devicecard_details_no-results-text"
-msgstr ""
+msgstr "Windows {{OSVERSIONS}} üçün {{NAME}} driverləri kataloqda tapılmadı. Driveri Avtomatik olaraq seçmək üçün {{DOWNLOAD}}."
 
 msgid "devicecard_details_no-results_download-link"
 msgstr "DriverPack'i yüklə"
@@ -182,13 +183,13 @@ msgid "devicecard_details-content-label-section"
 msgstr "Kateqoriya:"
 
 msgid "devicecard_details-links-merged_label"
-msgstr ""
+msgstr "Əgər lazım olan Device ID siyahıda tapılmadısa, axtarış sətirinə əllə daxil edin"
 
 msgid "devicecard_details-links-notebook_device"
-msgstr ""
+msgstr "Bütün driverləri göstər"
 
 msgid "devicecard_details-links"
-msgstr ""
+msgstr "Bütün driverləri göstər"
 
 msgid "devicecardlist_no-result_download-link"
 msgstr "DriverPack'i yüklə"
@@ -199,7 +200,7 @@ msgstr "DriverPack'i yüklə"
 #. x86; Текст для {{DOWNLOAD}} находится в ключе devicecardlist_no-
 #. result_download-link;
 msgid "devicecardlist_no-results-device-text"
-msgstr ""
+msgstr "Windows {{OSVERSIONS}} üçün {{DEVICENAME}} driverləri kataloqda tapılmadı. Driveri avtomatik olaraq seçmək üçün {{DOWNLOAD}}."
 
 #. i18n: EN: Example: DEVICECLASS=chipsets|videocards; NOTEBOOK=Acer AO521;
 #. OSVERSIONS=Windows 10 x86; Text for {{DOWNLOAD}} is in key
@@ -208,14 +209,14 @@ msgstr ""
 #. OSVERSIONS=Windows 10 x86; Текст для {{DOWNLOAD}} находится в ключе
 #. devicecardlist_no-result_download-link;
 msgid "devicecardlist_no-results-notebook-text"
-msgstr ""
+msgstr "Windows {{OSVERSIONS}} üçün {{NOTEBOOK}} noutbuk driverləri kataloqda tapılmadı. Sürücünü avtomatik olaraq seçmək üçün {{DOWNLOAD}}."
 
 #. i18n: EN: Example: NOTEBOOK=Acer AO521; OSVERSIONS=Windows 10 x86; Text for
 #. {{DOWNLOAD}} is in key devicecardlist_no-result_download-link; RU: Пример:
 #. NOTEBOOK=Acer AO521; Пример: OSVERSIONS=Windows 10 x86; Текст для
 #. {{DOWNLOAD}} находится в ключе devicecardlist_no-result_download-link;
 msgid "devicecardlist_no-results-notebook-device-class-text"
-msgstr ""
+msgstr "Windows {{OSVERSIONS}} üçün {{NOTEBOOK}} noutbukunun {{DEVICECLASS}} driverləri tapılmadı. Driveri avtomatik olaraq seçmək üçün {{DOWNLOAD}}."
 
 msgid "devicegrouppage_all-systems"
 msgstr "bütün sistemlər"
@@ -236,10 +237,10 @@ msgid "deviceidheader_caption-many"
 msgstr "Bu cihaz daha çox bilinir:"
 
 msgid "devicetypelist_title_os"
-msgstr ""
+msgstr "{{OS}} uyğun cihazlar üçün driver"
 
 msgid "devicetypelist_title"
-msgstr ""
+msgstr "Cihazlar üçün driver axtarın"
 
 msgid "search_noresult"
 msgstr "DriverPack Online'ı yüklə"
@@ -249,7 +250,7 @@ msgstr "DriverPack Online'ı yüklə"
 #. NAME=Acer Aspire 4830TG; Пример: OSVERSIONS=Windows 10 x86; Текст для
 #. {{DOWNLOAD}} находится в ключе drivercard_no-results_download-link;
 msgid "drivercard_no-results-text"
-msgstr ""
+msgstr "Windows {{OSVERSIONS}} üçün {{NAME}} driverləri kataloqda tapılmadı. Driveri avtomatik seçmək üçün {{DOWNLOAD}}."
 
 msgid "drivercard_no-results_download-link"
 msgstr "DriverPack'i yüklə"
@@ -264,7 +265,7 @@ msgid "drivercard_caption-date"
 msgstr "Tarix:"
 
 msgid "drivercard_caption-class"
-msgstr ""
+msgstr "Cihaz növü:"
 
 msgid "drivercard_caption-manufacturer"
 msgstr "İstehsalçı:"
@@ -288,133 +289,133 @@ msgid "deviceidpage_all-systems"
 msgstr "bütün sistemlər"
 
 msgid "dropdowndriverversion_no-results"
-msgstr ""
+msgstr "Seçilən ƏS driverlər tapılmadı"
 
 msgid "dropdownos_current"
-msgstr ""
+msgstr "hazırki"
 
 msgid "footer_banner-title"
-msgstr ""
+msgstr "Cihazlarınız üçün driver axtarmaqdan yorulmusuz?"
 
 msgid "footer_banner-caption"
-msgstr ""
+msgstr "DriverPack Online lazımi driverləri avtomatik olaraq <span style='color: {{COLOR}}'>tapıb quraşdıracaq</span>"
 
 msgid "footer_banner_btn"
-msgstr ""
+msgstr "<span class='bold'>DriverPack Online-ı</span> pulsuz endirin"
 
 msgid "footer_translate-feedback"
-msgstr ""
+msgstr "Hərf səhvi və ya yanlışlıq tapmısınız? <br />Sözü işarələyib {{HOTKEY}} düymələrinə basın"
 
 msgid "header_search-title"
-msgstr ""
+msgstr "Ən böyük driver bazasında <span class='bold'>driver axtarma</span> — bir milyon driverdən daha çox"
 
 msgid "header_search-examples"
-msgstr ""
+msgstr "Məsələn:"
 
 msgid "header_cta-text"
-msgstr ""
+msgstr "Avtomatik driver seçimi üçün DriverPack-ı endirin"
 
 msgid "header_cta-btn"
-msgstr ""
+msgstr "Driverləri avtomatik olaraq quraşdır"
 
 msgid "header_cta-label-1"
-msgstr ""
+msgstr "Dərhal <span style='color: {{COLOR}}'>endirəcək</span>"
 
 msgid "header_cta-label-2"
-msgstr ""
+msgstr "Driverləri avtomatik olaraq <span style='color: {{COLOR}}'>seçəcək və yükləyəcək</span>"
 
 msgid "headerbutton_title"
-msgstr ""
+msgstr "Driverləri avtomatik olaraq quraşdır"
 
 msgid "headerbutton_label"
-msgstr ""
+msgstr "DriverPack proqramı tamamilə pulsuzdur"
 
 msgid "headeros_cta-btn"
-msgstr ""
+msgstr "<span class='HeaderOs__cta-btn-marked'>{{OS}}</span> ümün driverlər quraşdırın"
 
 msgid "headeros_search-text"
-msgstr ""
+msgstr "Ya da nəhəng driver bazamızda axtarış edin"
 
 msgid "landingdevicetypelist_landing-title"
-msgstr ""
+msgstr "DriverPack hər istənilən cihaz üçün uyğundur"
 
 msgid "landingdevicetypelist_landing-subtitle"
-msgstr ""
+msgstr "Hətta Windows 7 SP1-dəki USB 3.0 üçün belə"
 
 msgid "landingdevicetypelist_cta-btn"
-msgstr ""
+msgstr "Bütün lazımi driverləri quraşdırın"
 
 msgid "landingdevicetypelist_versions"
-msgstr ""
+msgstr "Digər DriverPack versiyaları"
 
 msgid "landingfeatures_landing-title"
-msgstr ""
+msgstr "DriverPack, komputeri nizamlamağın ən sürətli və ən uyğun yoludur"
 
 msgid "landingfeatures_landing-subtitle"
-msgstr ""
+msgstr "Proqram pulsuz təqdim olunur və həm professionallar həm də yeni başlayanlar üçün uyğundur"
 
 msgid "landingfeatures_item-title-free"
-msgstr ""
+msgstr "Pulsuz"
 
 msgid "landingfeatures_item-caption-free"
-msgstr ""
+msgstr "DriverPack pulsuz təqdim olunur"
 
 msgid "landingfeatures_item-title-safe"
-msgstr ""
+msgstr "Təhlükəsiz"
 
 msgid "landingfeatures_item-caption-safe"
-msgstr ""
+msgstr "DriverPack rəsmi olaraq antivirus proqramı yaradıcıları ilə əməkdaşlıq edir və komputerinizi qoruyur"
 
 msgid "landingfeatures_item-title-for-all-devices"
-msgstr ""
+msgstr "Bütün cihazlar üçün"
 
 msgid "landingfeatures_item-caption-for-all-devices"
-msgstr ""
+msgstr "Driverpack, dünyadakı ən böyük driver bazasının sahibidir və istənilən komputeri tənzimləmək üçün istifadə oluna bilər"
 
 msgid "landingheader_cta-text"
-msgstr ""
+msgstr "Driverpack driverləri pulsuz quraşdıracaq və hər hansı bir cihazdakı driver problemlərini düzəldəcək"
 
 msgid "landingheader_cta-btn"
-msgstr ""
+msgstr "Bütün lazımi driverləri quraşdırın"
 
 msgid "landingheadernav_wannacrypt"
-msgstr ""
+msgstr "WannaCry virusuna qarşı müdafiə"
 
 msgid "landingheadernav_search"
-msgstr ""
+msgstr "Driver axtarma"
 
 msgid "landingheadernav_foradmin"
-msgstr ""
+msgstr "Sistem idarəçiləri üçün"
 
 msgid "landingintroduction_author-title"
-msgstr ""
+msgstr "Salam! Mənim adım Artur Kuzyakovdur. DriverPack-ın müəllifi və təsisçisiyəm"
 
 msgid "landingintroduction_author-speech"
-msgstr ""
+msgstr "8 il əvvəl sadə həvəslə kiçik bir proqram yazıldı və dünya miqyasında 40 milyondan çox insanın komputerlərini tənzimləməsinə kömək edən bir proqram şirkətinə çevrildik! <br /><br />Bu vaxt ərzində, proqramımız inanılmaz bir sürət aldı və daha ağıllı oldu. Bu gün, DriverPack dünya miqyasından ən üst səviyyə sürətdəki serverlərdə olan dünyadakı ən böyük unikal driver bazasıdır. Driver quraşdırılması əməliyyatını hər zaman sürətli və mümkün olan ən yüksək keyfiyyətlə etmək üçün seçim alqoritmini daha yaxşı və daha doğru edən öyrənmə texnalogiyalarından istifadə edirik. Proqramın tamamilə pulsuz qalması baxımından uğurumuz davam edir və hər kəs istifadə edə bilir. <br /><br />Komandam və mən məhsulumzla qürur duyuruq və mümkün olan ən qısa zaman ərzində hər hansı bir komputeri tənzimləmədə təhlükəsiz bir köməkçiniz olmağa ümüd edirik."
 
 msgid "landingintroduction_author-speech-marked"
-msgstr ""
+msgstr "Bütün vaxtımızı sizin zaman qazanmanıza sərf edirik!"
 
 msgid "landingintroduction_video-caption"
-msgstr ""
+msgstr "Və bu da Rusiya Federasiyası Baş Naziri Dimitri Medvedevin, DriverPack Solution haqqında düşündükləri"
 
 msgid "landingnotebookvendorslist_landing-title"
-msgstr ""
+msgstr "DriverPack istənilən kompüter üçün uyğundur"
 
 msgid "landingnotebookvendorslist_landing-subtitle"
-msgstr ""
+msgstr "Bəli, İSTƏNİLƏN kompüter üçün - biz yoxlamışıq!"
 
 msgid "landingnotebookvendorslist_cta-btn"
-msgstr ""
+msgstr "Bütün lazımi driverləri quraşdırın"
 
 msgid "landingnotebookvendorslist_versions"
-msgstr ""
+msgstr "Digər DriverPack  versiyaları"
 
 msgid "landingproducts_item-title-online"
-msgstr ""
+msgstr "DriverPack Online"
 
 msgid "landingproducts_item-caption-online"
-msgstr ""
+msgstr "Dərhal endirilir və bütün əskik lazımi driverlər quraşdırma zamanı endiriləcək"
 
 msgid "landingproducts_item-version"
 msgstr "Versiya:"
@@ -423,61 +424,61 @@ msgid "landingproducts_item-button"
 msgstr "Yüklə"
 
 msgid "landingproducts_item-title-network"
-msgstr ""
+msgstr "DriverPack Network"
 
 msgid "landingproducts_item-caption-network"
-msgstr ""
+msgstr "Sürətli şəkildə endirilir və içində şəbəkə avadanlıqları üçün driverləri var"
 
 msgid "landingproducts_item-title-offline"
-msgstr ""
+msgstr "DriverPack Offline"
 
 msgid "landingproducts_item-caption-offline"
-msgstr ""
+msgstr "İnternet bağlantısı olmadan işləyə bilər ancaq həcmi 13.9 GB-dir. (sistem idarəçiləri üçün faydalıdır)"
 
 msgid "landingpublications__landing-title"
-msgstr ""
+msgstr "DriverPack üçün KİV yayınları"
 
 msgid "landingscreenshots_landing-title"
-msgstr ""
+msgstr "DriverPack bir kompüteri tənzimləmək üçn ən sürətli və ən uyğun yoldur"
 
 msgid "landingscreenshots_landing-subtitle"
-msgstr ""
+msgstr "Proqram pulsuz təqdim olunur və həm professionallar həm də yeni başlayanlar üçün uyğundur"
 
 msgid "landingseofooter_landing-subtitle-notebooks"
-msgstr ""
+msgstr "DriverPack bütün kompüterlər və noutbuk modelləri üçün uyğundur"
 
 msgid "landingseofooter_landing-subtitle-devices"
-msgstr ""
+msgstr "DriverPack içində bütün cihazlar üçün driverlər var"
 
 msgid "landingsocial_landing-title"
-msgstr ""
+msgstr "DriverPack birliyinə qoşulun"
 
 msgid "landingsocial_landing-subtitle"
-msgstr ""
+msgstr "Xəbərləri izləyin və müzakirələrə qoşulun"
 
 msgid "landingusers_cta"
-msgstr ""
+msgstr "DriverPack istifadəçilərinin sayı hər keçən saniyə dünya miqyasında böyüməyə davam edir"
 
 msgid "landingusers_cta-btn"
-msgstr ""
+msgstr "Bütün lazımi driverləri quraşdırın"
 
 msgid "landingusers_versions"
-msgstr ""
+msgstr "Digər DriverPack  versiyaları"
 
 msgid "landingwizard_landing-title"
-msgstr ""
+msgstr "Artıq, kompüteri bir kliklə tənzimləmək mümkündür"
 
 msgid "landingwizard_item-caption-download"
-msgstr ""
+msgstr "DriverPack Online-ı endirin və açın"
 
 msgid "landingwizard_item-caption-setup"
-msgstr ""
+msgstr "Kompüterinizi sadə bir hərəkətlə tənzimləyin"
 
 msgid "landingwizard_item-caption-profit"
-msgstr ""
+msgstr "Əla! İndi mənim kompüterim yeni kimi işləyir!"
 
 msgid "landingwizard_cta-btn"
-msgstr ""
+msgstr "Bütün lazımi driverləri quraşdırın"
 
 msgid "navbar_download-link-short"
 msgstr "Yüklə"
@@ -486,84 +487,84 @@ msgid "navbar_download-link"
 msgstr "DriverPack Online'ı yüklə"
 
 msgid "notfound_cta-text"
-msgstr ""
+msgstr "Pulsuz DriverPack Online-ı istifadə edərək driverləri avtomatik olaraq tapa və yeniləyə bilərsiniz"
 
 msgid "notfound_cta-btn"
 msgstr "DriverPack Online'ı yüklə"
 
 msgid "notfound_info-404"
-msgstr ""
+msgstr "{{404}} — istədiyiniz səhifə tapılmadı"
 
 msgid "notfound_info-500"
-msgstr ""
+msgstr "{{500}} — xəta baş verdi (server xətası)"
 
 msgid "notebookfilters-title"
 msgstr "Mövcud olan sürücülər"
 
 msgid "notebookvendorslist_other-text"
-msgstr ""
+msgstr "Digər istehsalçılar"
 
 msgid "notebookvendorslist_title_os"
-msgstr ""
+msgstr "{{OS}} ƏS-nə uyğun notbuk üçün driverlər"
 
 msgid "notebookvendorslist_title"
-msgstr ""
+msgstr "Notbuk üçün driver axtar"
 
 msgid "promoheader_cta-text-gamers"
-msgstr ""
+msgstr "Kompüterinizn düşündüyünüzdən daha güclüdür: bütün driverləri pulsuz yeniləyin"
 
 msgid "promoheader_cta-text-gamers-caption"
-msgstr ""
+msgstr "Əgər kompüter oyunlarını sevirsinizsə, avadanlıqlarınızın mümkün olan ən yüksək məhsuldarlığa çatması üçün kompüterinizdəki driverləri yeniləməyinizi məsləhət görürük. 37%-ə qədər daha çox FPS - DriverPack ilə ən yaxşı oyun təcrübəsi və yeni uğurlar diləyirik."
 
 msgid "promoheader_cta-text"
-msgstr ""
+msgstr "DriverPack driverləri pulsuz quraşdıracaq və hər hansı bir cihazdakı driver problemlərini düzəldəcək"
 
 msgid "promoheader_cta-btn"
-msgstr ""
+msgstr "Bütün lazımi driverləri quraşdırın"
 
 msgid "promoheader_size"
-msgstr ""
+msgstr "Fayl Hcəmi: {{SIZE}} KB"
 
 msgid "promoheader_license"
-msgstr ""
+msgstr "Lisenziya Müqaviləsi"
 
 msgid "promoheader_os-versions"
-msgstr ""
+msgstr "Proqram Windows 10, 8.1, 8, 7, Vista, XP üçün uyğundur"
 
 msgid "promoheader_uninstall"
-msgstr ""
+msgstr "DriverPack silmə"
 
 msgid "reviewheader_cta-text"
-msgstr ""
+msgstr "Məhsuldan xəbərdar olmaq və müzakirələrə qoşulmaq üçün sosail şəbəkələrdəki DriverPack birliklərinə qatılın"
 
 msgid "reviewheader_cta"
-msgstr ""
+msgstr "DriverPack-ın inkişaf etdirilməsi ilə bağlı fikir və ya təkliflərinizi əlavə edin"
 
 msgid "search_input-placeholder"
-msgstr ""
+msgstr "Driverin, noutbukun adını və ya DeviceID axtarın"
 
 msgid "search_btn-text"
-msgstr ""
+msgstr "Tap"
 
 msgid "searchformitem_type-section"
-msgstr ""
+msgstr "Kateqoriya"
 
 msgid "searchformitem_type-notebook"
-msgstr ""
+msgstr "noutbuk"
 
 msgid "searchformitem_type-device"
-msgstr ""
+msgstr "cihaz"
 
 msgid "searchformitem_type-free"
-msgstr ""
+msgstr "pulsuz"
 
 #. i18n: EN: Example: NAME=Acer; RU: Пример: NAME=Acer;
 msgid "generatesearchitemname_notebookvendor"
-msgstr ""
+msgstr "{{NAME}} noutbukları"
 
 #. i18n: EN: Example: NAME=Asus; RU: Пример: NAME=Asus;
 msgid "generatesearchitemname_vendor"
-msgstr ""
+msgstr "{{NAME}} cihazları"
 
 msgid "deviceclasses_bluetooth-single-main"
 msgstr "Bluetooth cihazı"
@@ -746,32 +747,32 @@ msgid "deviceclasses_other-plural-for"
 msgstr "digər cihazlar"
 
 msgid "searchheader_caption-subtitle"
-msgstr ""
+msgstr "Driveri sorğu ilə axtarın:"
 
 msgid "searchheader_caption-filter-label"
-msgstr ""
+msgstr "Driver, seçilən ƏS üçün endiriləcək"
 
 #. i18n: EN: Example: NOTEBOOK=Acer AO521; Text for {{DOWNLOAD}} is in key
 #. searchresult_details-content_download-link; RU: Пример: NOTEBOOK=Acer
 #. AO521; Текст для {{DOWNLOAD}} находится в ключе searchresult_details-
 #. content_download-link
 msgid "searchresult_details-content-notebook-text"
-msgstr ""
+msgstr "Lazımi driverləri avtomatik olaraq təyin etmək və quraşdırmaq üçün {{DOWNLOAD}}, ya da {{NOTEBOOK}} səhifəsinə daxil olun və lazımi driveri əl ilə seçin"
 
 msgid "searchresult_details-content_download-link"
 msgstr "DriverPack'i yüklə"
 
 msgid "searchresult_notebook"
-msgstr ""
+msgstr "Noutbuk"
 
 msgid "searchresult_download-btn"
-msgstr ""
+msgstr "Driveri avtomatik olaraq yüklə"
 
 msgid "searchresult_details-content-text-placeholder"
 msgstr "Verilənlər yüklənir..."
 
 msgid "searchresult_details-content-label-1"
-msgstr ""
+msgstr "ƏS"
 
 msgid "searchresult_details-content-label-2"
 msgstr "bütün sistemlər"
@@ -781,278 +782,278 @@ msgstr "bütün sistemlər"
 #. GeForce 205; Текст для {{DOWNLOAD}} находится в ключе searchresult_details-
 #. content_download-link
 msgid "searchresult_details-content-group-text"
-msgstr ""
+msgstr "Lazımi driverləri avtomatik olaraq təyin etmək və quraşdırmaq üçün {{DOWNLOAD}}, ya da {{DEVICE}} cihazı səhifəsinə daxil olun və lazımi driveri əl ilə seçin"
 
 #. i18n: EN: Example: CLASS.SINGLE.MAIN=monitor|chipset; COUNT=12; RU: Пример:
 #. CLASS.SINGLE.MAIN=монитор|чипсет; COUNT=12;
 msgid "searchresult_device"
-msgstr ""
+msgstr "{{CLASS.SINGLE.MAIN}} ({{COUNT}} nəticə tapıldı)"
 
 msgid "searchresult_details-content-text-many"
-msgstr ""
+msgstr "Bu cihaz üçün bir neçə fərqli driver tapıldı"
 
 msgid "seofooter_os-list-title"
-msgstr ""
+msgstr "Əməliyyat Sistemi Versiyaları: <span itemprop='operatingSystem'>{{OSLIST}}</span>"
 
 msgid "seofooter_offers-title"
-msgstr ""
+msgstr "<span itemprop='offers' itemscope='' itemtype='http://schema.org/Offer'><meta itemprop='price' content='0' />Pulsuz mövcuddur</span>"
 
 msgid "seofooter_driver-description-title"
-msgstr ""
+msgstr "Driver açıqlaması"
 
 msgid "seofooter_popular-drivers-title"
-msgstr ""
+msgstr "Populyar driverlər"
 
 msgid "sidebanner_title"
-msgstr ""
+msgstr "Driver axtarmaqdan yorulmusuz?"
 
 msgid "sidebanner_caption"
-msgstr ""
+msgstr "DriverPack, lazımi driverləri avtomatik olaraq <span class='SideBanner__caption-marked'>seməcək və quraşdıracaq</span>"
 
 msgid "translationheader_cta-text"
-msgstr ""
+msgstr "Dünya miqyasında milyonlarca PC istifadəçisi üçün DriverPack-ı istifadə edilə bilən etməyimizə kömək edin — proqramı digər dillərə könüllü tərcümə proyektimizin parçası olun"
 
 msgid "translationheader_bubble-team"
-msgstr ""
+msgstr "Dünyanın ən böyük avtomatik kompüter tənzimləmə xidməti üçün tərcüməçilər komandasının bir parçası olmaq istəyirsiniz?"
 
 msgid "translationheader_bubble-languages"
-msgstr ""
+msgstr "İngiliscə və ya Rusça çox yaxşı bilirsiniz, və vunlardan birini öz dilinizə çevirməyə hazırsınız?"
 
 msgid "translationheader_bubble-experience"
-msgstr ""
+msgstr "Online tərcümə xidmətlərindən istifadə edərək veb saytların və ya proqram tərcüməsində hər hansı təcrübəniz var?"
 
 msgid "translationheader_bubble-email"
-msgstr ""
+msgstr "Əgər cavabınız bu 3 sual üçün də BƏLİDİRSƏ, lütfən mövzu xanasına '{{SUBJECT}}' yazaraq {{EMAIL}} ünvanımıza e-mail göndərin və tərcüməyə hazır olduğunuz dil üçün tərcüməyə hazır olduğunuzu bizə biuldirin."
 
 msgid "translationlist_title"
-msgstr ""
+msgstr "DriverPack Rəsmi Tərcüməçilər siyahısı"
 
 msgid "translationtool_text-transifex"
-msgstr ""
+msgstr "DriverPack Solution-un tərcüməsini transifex.com xidməti vasitəsilə edirik:"
 
 msgid "translationtool_example-ru-to-en"
-msgstr ""
+msgstr "Ruscadan (RU) İngiliscə (EN) və MDB (CIS) dillərinə tərcümə üçün sətirlər"
 
 msgid "translationtool_example-en-to-all"
-msgstr ""
+msgstr "İngiliscədən (EN) başqa dünya dillərinə tərcümə üçün sətirlər"
 
 msgid "language_title"
-msgstr ""
+msgstr "Azerbaijani"
 
 msgid "landingPagePublications_rbk"
-msgstr ""
+msgstr "DriverPack, Artur Kuzyakovun komandası tərəfindən seçilən və yoxlanan WIndows üçün driverlərdən ibarət bir proqramdır. Bu proqram istifadəçinin kompüterini analiz edib bu iki problemi həll etmək üçün lazım olan driverləri quraşdırır: ilk öncə, (bir sistemdə onlarca kompüter varsa xüusilə vacib olan) kompüterin tənzimləmə əməliyyatını sürətləndirmək və ikinci olaraq kompüterin iş qabiliyyətini yaxşılaşdırmaq."
 
 msgid "landingPagePublications_secretfirmy"
-msgstr ""
+msgstr "Bu gün, DriverPack 45 dilə tərcümə edilmiş və 42 milyoondan daha çox istifadəçinin kompüterində istifadə olunan ən böyük driver bazasına sahibdir."
 
 msgid "landingPagePublications_cnews"
-msgstr ""
+msgstr "Proqram ilk versiyasının yaradıldığı andan indiyə qədər DriverPack Solution istifadəçilər arasında çox məhşur oldu. Proqram tamamilə pulsuz olaraq endirilə bilər. Bu, DriverPack Solution-u öz rəqiblərindən fərqli edir və daha çox yeni istifadəçini cəzb edir."
 
 msgid "landingPagePublications_xbit"
-msgstr ""
+msgstr "DriverPack Solution oxşar proqramların verə bilmədiyi bir qrup seçimləri olan maraqlı bir proqramdır. İstənilən istifadəçi bütün xətaları düzəldə bilir və sistemin düzgün şəkildə işləməsini və cihazlarını sadəcə 2 kliklə tənzimləyə bilir. Hazırda DriverPack bazasında driverlərin sayı indiən 1.1 milyon girişdən çoxdur və təhlükəsizlik üçün hamısı test edilib."
 
 msgid "landingPagePublications_chip"
-msgstr ""
+msgstr "DriverPack ilə PC avadanlıqlarınızın driverlərinin ən son versiyalarını tapmak üçün çətinlik çəkməzsiniz. Hətta ən yaxşı tərəfi, istifadəçi özü nəsə etməli deyil. B alət tamamilə avtomatikdir və uyğundur."
 
 msgid "landingPagePublications_pcmag"
-msgstr ""
+msgstr "DriverPack Protect, antivirus proqramı və reklam bloklama alətləri uğursuz olsa belə, kompüterinizi zərərli proqramlardan və reklam proqramlarından və əlavələrindən qorumağa kömək edəcəkdir."
 
 msgid "landingPagePublications_habr"
-msgstr ""
+msgstr "Hər dəfə Windowsu yenidən yüklədikdə driverləri axtarmaq və quraşdırmaq lazımdır, məncə, bütün Windows ailəsinin əsas qüsurlarından biri budur. Ancaq, bildiyim qədəri ilə 2008-də bu problemi həll etməyə qərar verdim və DriverPack adındakı proqramımı yazdım. BU gün, məhsulum dünya miqyasında 40 milyon istifadəçi tərəfindən istifad edilir və mənə görə Windowsdakı driver promlemi, hər nəqədər 3 cü tərəf proqramsayılsa da, ümüumi mənada artıq həll edildi."
 
 msgid "landingPagePublications_computerra"
-msgstr ""
+msgstr "Yeni versiya, istifadəçiyə öz driver seçimini etməsi üçün daha çox alətlə təmin edir. Bu xüsusiyyətlə kompüter istifadə edənlər və bir çox fərqli avadanlığı idarə edənlər üçün bezdirici bir problemdir. Sadəcə lazımsız olanları silməkdənsə hər hansı alternativ driverpackları DriverPack-ın içinə əlavə etmək artıq mümkündür."
 
 msgid "landingPagePublications_vc"
-msgstr ""
+msgstr "Şayiələr üçün təşəkkürlər, bu məhsul omandamızdan olmayan istifadəçilər tərəfindən, 45 dilə tərcümə edilmişdir."
 
 msgid "adminpagefaq_official_vendors-q"
-msgstr ""
+msgstr "DriverPack-dən əvvəl, driverləri rəsmi saytdan endirirdim ancaq yenə də bəzi problemnlərlə qarşılaşırdım. DriverPack-ın içindəki driverlər, bu istehsalçaların driverlərindən daha təhlükəsizdir?"
 
 msgid "adminpagefaq_official_vendors-a"
-msgstr ""
+msgstr "Bazamızı sadəcə ən böyük etmək üçün deyil, ən stabil etmək üçün də daimi olaraq inkişaf edrimək üçün çox səyləişləməyə davam edirik və hətta rəsmi istehsalçıların buraxdığı səhvləri belə düzəldirik! Süni öyrənmə texnalogiyası istifadə edirik və seçim alqoritmimiz daimi olaraq inkişaf edir. Və tam olaraq buna görə DriverPack-dən gələn driverlər ən təhlükəsizdir :-)"
 
 msgid "adminpagefaq_database-q"
-msgstr ""
+msgstr "DriverPack bazası nə qədər genişdir? Doğurdan içində ehtiyacım olan driverləri tapa bilərəm?"
 
 msgid "adminpagefaq_database-a"
-msgstr ""
+msgstr "Tarixdə, driver bazamız dünyadakı ən böyük məlumat bazasıdır, buna görə də 99% ehtimalla istənilən cihaz üçün driver tapa biləcəksiniz. Bu cür bir məlumat bazasıını dəstəkləmək, bir yerdə saxlaya bilmək üçün cihaz istehsalçıları və driver yaradıcıları ilə birbaşa əməkdaşlıq edirik. Biz xüsusi FTP serverlərindən əlavə olaraq driverləri rəsmi veb saytlardan toplayaraq test edirik və istifadəçi təkliflərini də nəzərə alırıq."
 
 msgid "adminpagefaq_free-q"
-msgstr ""
+msgstr "DriverPack-ın tamamilə pulsuz olduğu doğrudur?"
 
 msgid "adminpagefaq_free-a"
-msgstr ""
+msgstr "Bütün proqramlarımız tamamilə pulsuzdur! Ancaq proyektimizə dəstək olmaq istəyirsinizsə, təqdim etdiyimiz faydalı proqramı öz istifadəniz üçün yükləyə bilər və DriverPack-ı dostlarınıza tövsiyyə edə bilərsiniz :-)"
 
 msgid "adminpagefaq_antivirus-q"
-msgstr ""
+msgstr "Antivirus proqramım DriverPack-da virus tapdı - bu necə ola bilər?"
 
 msgid "adminpagefaq_antivirus-a"
-msgstr ""
+msgstr "Bu böyük ehtimalla yanlış bir pozitivdir. Bütün DriverPack versiyaları Kaspersky Labaratoriyası tərəfindən tamamilə analiz edilmədən təsdiq edilmir. Firmamız Avast və 360 Total Security kimi bir neçə antivirus proqramı ilə əməkdaşlıq edir. DriverPack-ın işləməsi üçün sadəcə onu antivirusun ağ siyahısına əlavə edin. Eyni zamanda, bunu yanlış bir pozitv olaraq Dəstək Xidmətimizə və antivirus firmanıza da bildirsəniz məmnun olarıq."
 
 msgid "adminpagefaq_expert_mode-q"
-msgstr ""
+msgstr "DriverPack-ın istifadəsi üçün ən uyğun rejim hansıdır?"
 
 msgid "adminpagefaq_expert_mode-a"
-msgstr ""
+msgstr "DriverPack, standart olaraq, yeni istifadəçilər üçün belə istifadəsi rahat və başa düşülən olması üçün dizayn edilmiş avtomatik rejimdə başlayır. Ancaq daha yüksək təcrübəli istifadəçilər və sistem idarəçilərinin rahatlığı üçün genişləndirilmiş nizamlamaları və xüsusiləşdirilə bilən seçimləri olan Ekspert Rejimini də yaratmışıq. Bu rejimi aktivləşdirmək üçün sadəcə ekranın altındakı uyğun düyməyə klikləmək kifayətdir."
 
 msgid "adminpagefaq_stable-q"
-msgstr ""
+msgstr "Driver düzgün formada yüklənmədi və hazırda kompüterimdə problemlər var. Bu vəziyyəti necə düzəldə bilərəm?"
 
 msgid "adminpagefaq_stable-a"
-msgstr ""
+msgstr "DriverPack proqramının stabil işləməsi birinci dərəcəli öhdəliyimizdir, ancaq kiçik xətalar hər zaman ola bilir. Buna görə də hər şeyi əvvəlki vəziyyətə qaytara bilmənizə kömək edəcək bir Bərpa Nöqtəsi yaradırıq. Gələcəkdə oxşar problemlərin qarşısını almaq üçün DriverPack menyusuna getməyinizi və proqram tərəfindən avtomatik olaraq yaradılan hesabatı texinki xidmətlərimizə göndərməyinizi məsləhət görürük."
 
 msgid "devicegrouppage_show-more-link"
-msgstr ""
+msgstr "Daha çox göstər"
 
 msgid "devicestypepage_subtitle"
-msgstr ""
+msgstr "Bütün {{CLASS.SINGLE.FOR}} istehsalçıları"
 
 msgid "devicetypevendorpage_subtitle-popular"
-msgstr ""
+msgstr "Populyar {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
 
 msgid "devicetypevendorpage_subtitle-all"
-msgstr ""
+msgstr "Bütün {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
 
 msgid "errorpage_title"
-msgstr ""
+msgstr "Xəta 500: daxili server xətası"
 
 msgid "landingfooter_landing-subtitle"
-msgstr ""
+msgstr "DriverPack-da bütün populyar Windows versiyaları üçün driverlər var"
 
 msgid "landing-footer_catalog-os"
-msgstr ""
+msgstr "{{OS}} üçün driverlər"
 
 msgid "landing-footer_download"
 msgstr "DriverPack'i yüklə"
 
 msgid "landing-footer_versions"
-msgstr ""
+msgstr "Bütün proqram veriyaları"
 
 msgid "landing-footer_catalog"
-msgstr ""
+msgstr "Driver axtarma"
 
 msgid "landing-footer_drivers-catalog"
-msgstr ""
+msgstr "Driver kataloqu"
 
 msgid "landing-footer_for-admin"
-msgstr ""
+msgstr "Sistem idarəçiləri üçün"
 
 msgid "landing-footer_for-translators"
-msgstr ""
+msgstr "Tərcüməçilər üçün"
 
 msgid "landing-footer_drivers-for-laptops"
-msgstr ""
+msgstr "Noutbuk Driverləri"
 
 msgid "landing-footer_hwids"
-msgstr ""
+msgstr "Device ID"
 
 msgid "landing-footer_license"
-msgstr ""
+msgstr "Lisenziya Müqaviləsi"
 
 msgid "landing-footer_remove"
-msgstr ""
+msgstr "DriverPack silmə"
 
 msgid "notfoundpage_title"
-msgstr ""
+msgstr "Xəta 404: səhifə tapılmadı"
 
 msgid "notebookpage_show-more-link"
-msgstr ""
+msgstr "Daha çox göstər"
 
 msgid "notebookpage_all-devices"
-msgstr ""
+msgstr "bütün cihazlar üçün"
 
 msgid "notebookspage_subtitle"
-msgstr ""
+msgstr "Bütün Noutbuk və Netbuk İstehsalçılarının Siyahısı"
 
 msgid "notebooksvendorpage_subtitle-popular"
-msgstr ""
+msgstr "Populyar {{VENDOR.NAME}} noutbukları və netbukları"
 
 msgid "notebooksvendorpage_subtitle-all"
-msgstr ""
+msgstr "Bütün {{VENDOR.NAME}} noutbukları və netbukları"
 
 msgid "reviewpage_title"
-msgstr ""
+msgstr "DriverPack-ı inkişaf etdirmək üçün əks əlaqələr və təkliflər"
 
 msgid "searchpage_show-more-link"
-msgstr ""
+msgstr "Daha çox göstər"
 
 #. i18n: EN: text for {{LINK}} is in key thankyoupopup_download-link; RU:
 #. текст для {{LINK}} находится в ключе thankyoupopup_download-link;
 msgid "thankyoupopup_download-text"
-msgstr ""
+msgstr "Endirmə başlamadı? {{LINK}} üçün bura klikləyin"
 
 msgid "thankyoupopup_title"
-msgstr ""
+msgstr "DriverPack-başlat"
 
 msgid "thankyoupopup_cta-text"
-msgstr ""
+msgstr "kompüterinizdə driverləri seçməyə və endirməyə başlamaq üçün"
 
 msgid "thankyoupopup_download-link"
-msgstr ""
+msgstr "endirmək"
 
 msgid "translate-feedback-header_caption"
-msgstr ""
+msgstr "Bu səhifə yeni tərcümə edilib. Hərf səhvi tapmısınızsa sözü işarələyin və {{HOTKEY}} deymələrinə basın"
 
 msgid "translate-feedback-popup_title-error"
-msgstr ""
+msgstr "Xəta baş verdi"
 
 msgid "translate-feedback-popup_description-error"
-msgstr ""
+msgstr "İşarələnmiş mətn serverdəki xətalara görə göndərilmədi. <br />Lütfən sonra təkrar yoxlayın."
 
 msgid "translate-feedback-popup_title-success"
-msgstr ""
+msgstr "Təşəkkür edirik"
 
 msgid "translate-feedback-popup_description-success"
-msgstr ""
+msgstr "İşarələnmiş mətn redaktora göndərildi."
 
 msgid "translate-feedback-popup_description-join-us"
-msgstr ""
+msgstr "Zəhmət olmasa, ana dilinizə tərcümə üçün bizə kömək edin."
 
 msgid "translate-feedback-popup_description-join-link"
-msgstr ""
+msgstr "Tərcüməçilər qrupumuza qatılın!"
 
 msgid "translationlandingpage_title"
-msgstr ""
+msgstr "DriverPack Tərcüməsi"
 
 msgid "vendorpage_subtitle-popular"
-msgstr ""
+msgstr "Populyar {{VENDOR.NAME}} cihazları"
 
 msgid "wannacryptpromopage_cta-text"
-msgstr ""
+msgstr "WannaCrypt  şifrələyici virus — tarixdəki ən böyük hücuma qarşı kompüterinizi necə qoruya bilərsiniz?"
 
 msgid "wannacryptpromopage_cta-subtext"
-msgstr ""
+msgstr "DriverPack-ın kompüter tənzimləmə alətləri arasında təhlükəsizlik boşluğunun aradan qaldırmaq üçün bəlli məqsədləri var. PC və ya noutbukunuzu WannaCry virusuna qarşı qoruyacaq pulsuz müdafiəni endirə bilərsiniz."
 
 msgid "wannacryptpromopage_cta-btn"
-msgstr ""
+msgstr "Kompüterinizi tənzimləyin və WannaCry virusuna qarşı qoruyun"
 
 msgid "wannacryptpromopage_caption-text"
-msgstr ""
+msgstr "Bu proqram pulsuzdur"
 
 msgid "wannacryptpromopage_info-text-title-1"
-msgstr ""
+msgstr "WannaCrypt nədir?"
 
 msgid "wannacryptpromopage_info-text-1"
-msgstr ""
+msgstr "WannaCrypt şantajçı virus (qurbanlar tərəfindən WannaCry olaraq adlandırılır) 12 Mayda dünya miqyasında kompüterlərə hücum etdi və 150 ölkədə 300 mindən çox istifadəçinin cihazını yoluxdurdu. Qərbi Avropa, Rusiya, Çin ən pis vurulan ölkələr oldu. İngiltərədə, virus Səhiyyə nazirliyinin şəbəkələrini q-aktiv etdi və bütün ölkə miqyasında xəstəxanların faəliyyətini dayandırdı. Çində, hücum çox sayda, fabirklərdəki köhnə kompüterlərə təsir edərək sənayəni iflic etdi. <br/><br/> Bu virusun necə işlədəyinin ana nöqtəsi çox sadədir: PC-nizə ya da notubukunaza daxil olur və taba bildiyi bütün sənədləri və digər şeyləri şifrələyir və istifadəsinin mümkünsüz edir. BUndan sonra dəvətsiz qonaqlar şifrələri almaq üçün ciddi məbləğdə pul tələb edirlər —  təxminən 300 dollar. Ancaq, fayllarınızı geri ala biləcəyinizin zəmanəti yoxdur. Bu müddətdə, özünüzün faylların şifrəsini açmağınız mümkün deyil, hazırda internetdə təqdim olunan üsullar ya pul tələsidir ya da başqa bir virusu yaymağın yoludur və ya alınma ehtimalı %100-dən aşağıdır."
 
 msgid "wannacryptpromopage_info-text-title-2"
-msgstr ""
+msgstr "Kim risk altındadır?"
 
 msgid "wannacryptpromopage_info-text-2"
-msgstr ""
+msgstr "SMB bağlantı nöqtələri açıq olan Windows 10-dan əvvəlki əməliyyat sistemləri ilə işləyən PC-lər ən çox risk altında olanlardır. Hazırda Windows istifadəçilərinin yarısı risk altındadır — istifadəçilərin %18-i  lisenziyasız Windows kopyası (avtomatik olaraq risk altına girir) istifadə eliyir, istifadəçilərin %23-iWindows Update xidmətini q-aktiv etmişdir (Microsoftdan ən son &#147;hotfixes&#148; adlı düzəltmənin endirilməsinin qarşısını alır), və digər %6-i artıq yeniləmə almayan ƏS versiyaları istifadə edir. <br/><br/> Bütün bunlardan əldə olunan nəticə, hələ də Windows XP kimi ƏS istifadə edən şirkətlər və qurumların şəbəkələri yüksək risk altındadır. BU şəbəkələrə hücumlarda, məlumat itkisi fəaliyyəti dayandıra bilər və hər PX üçün ayrı ayrı &#147;girov haqqı&#148; ödəmək məcburiyyətində qalınması ilə xərclər çox böyük ola bilər."
 
 msgid "wannacryptpromopage_info-text-title-3"
-msgstr ""
+msgstr "Biznesinizi necə qoruya bilərsiniz — DriverPack Solution-dan məsləhətlər"
 
 msgid "wannacryptpromopage_info-text-3"
-msgstr ""
+msgstr "WannaCrypt (WannaCry) virusun təhlükəli olmasının əsas səbəbi MS17-010 təhlükəsizlik sisteminin SMBv1 protokolundakı əhəmiyyətli təhlükəsizlik boşluğunu istifadə edərək yayılmasıdır.Əslində WannaCry virusunu antiviruslar üçün görünməz edir. DriverPack Solution-dən gələn məsləhət, sisteminizin əhəmiyyətli təhlükəsizlik boşluğunu qoruyan bir yeniləməni yükləməyinizi təmin etmək və lisenziya keçmişiniz və ƏS versiyanız nə olursa olsun,  təhlükə yaradan köhnə protokolları q-aktivləşdirməkdir."
 
 msgid "wannacryptpromopage_links-text"
-msgstr ""
+msgstr "Bu həllin inkişafı aşağıdakı materiallara bağlıdır"
 
 msgid "wannacryptpromopage_link-smb"
-msgstr ""
+msgstr "Windows və Windows Server üçün SMB prprotokollarının 1,2 və 3 versiyaları necə aktivləşdirilir və necə q-aktivləşdirilir."
 
 #~ msgid "drop-down-language_not-found"
-#~ msgstr ""
+#~ msgstr "Öz diilini tapmamısan?"

@@ -79,10 +79,10 @@ msgid "adminpromo_list-item-expert-mode"
 msgstr "Ọnọdụ ọkachamara na-arụ ọrụ site na ndabara"
 
 msgid "adminpromo_list-item-stable-db"
-msgstr " e keela database driver nke kachasi ike. onodu driver a kaa aruhari kwara"
+msgstr " E keela database driver nke kachasi ike. Onodu driver a kaa aruhari kwara."
 
 msgid "adminpromo_list-item-full-db"
-msgstr "database driver nke kachasi ibu ma puokwa iche na ime uwa niile ka ekere"
+msgstr "Database driver nke kachasi ibu ma puokwa iche na ime uwa niile ka ekere"
 
 msgid "buttonsplitdropdown_main-button"
 msgstr "Download"
@@ -94,7 +94,7 @@ msgid "breadcrumbs_catalog-main-text"
 msgstr "driver nke 1 {{OS.NAME}}"
 
 msgid "breadcrumbs_vendors-text"
-msgstr "ndi nruputa"
+msgstr "Ndi nruputa"
 
 #. i18n: EN: Example: VENDOR.NAME=Lenovo; RU: Пример: VENDOR.NAME=Lenovo;
 msgid "breadcrumbs_vendor-text"
@@ -117,7 +117,7 @@ msgid "breadcrumbs_devicegroup-text"
 msgstr "{{GROUP.VENDOR.NAME}} {{GROUP.NAME}}"
 
 msgid "breadcrumbs_notebooks-text"
-msgstr "laptops"
+msgstr "Laptops"
 
 #. i18n: EN: Example: VENDOR.NAME=Asus; RU: Пример: VENDOR.NAME=Asus;
 msgid "breadcrumbs_notebookvendor-text"
@@ -126,7 +126,7 @@ msgstr "{{VENDOR.NAME}} laptops"
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=X1 carbon;
 #. RU: Пример: NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=X1 carbon;
 msgid "breadcrumbs_notebook-text"
-msgstr "{{NOTEBOOK.VENDOR.NAME}}\n{{NOTEBOOK.NAME}}"
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=Videocards|Chipsets ,
 #. NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=G580; RU: Пример:
@@ -143,31 +143,31 @@ msgstr "Download driver"
 #. NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10 x86; Текст для
 #. {{DOWNLOAD}} находится в ключе drivercard_no-results_download-link;
 msgid "devicecard_details_no-results-text"
-msgstr "Driver nke {{NAME}} windows {{OSVERSIONS}} anoghi na na ihe di.\n{{DOWNLOAD}} ka ohoro na aka ya"
+msgstr "Driver nke {{NAME}} Windows {{OSVERSIONS}} anoghi na na ihe di. {{DOWNLOAD}} ka ohoro na aka ya."
 
 msgid "devicecard_details_no-results_download-link"
 msgstr "Download DriverPack"
 
 msgid "devicecard_details-content-text"
-msgstr "data na e loodu"
+msgstr "Data na e loodu..."
 
 msgid "devicecard_details_all-systems"
 msgstr "system niile"
 
 msgid "devicecard_details-content-label-version"
-msgstr "udi:"
+msgstr "Udi:"
 
 msgid "devicecard_details-content-label-version-recommended"
 msgstr "nke atunyere"
 
 msgid "devicecard_details-content-label-date"
-msgstr "ubochi"
+msgstr "Ubochi:"
 
 msgid "devicecard_details-content-label-type"
-msgstr "udi driver:"
+msgstr "Udi driver:"
 
 msgid "devicecard_details-content-label-manufacturer"
-msgstr "ndi nruputa:"
+msgstr "Ndi nruputa:"
 
 msgid "devicecard_details-content-label-systems"
 msgstr "Operating Systems:"
@@ -179,16 +179,16 @@ msgid "devicecard_details-content-label-inf"
 msgstr "File *.inf:"
 
 msgid "devicecard_details-content-label-section"
-msgstr "ogo:"
+msgstr "Ogo:"
 
 msgid "devicecard_details-links-merged_label"
-msgstr "o wuru na Device ID i na acho adighi eba, tinyr ya ebe emere maka i cho ihe"
+msgstr "O wuru na Device ID i na acho adighi eba, tinyr ya ebe emere maka i cho ihe"
 
 msgid "devicecard_details-links-notebook_device"
-msgstr "lete driver nille"
+msgstr "Lete driver nille"
 
 msgid "devicecard_details-links"
-msgstr "lete driver nille maka"
+msgstr "Lete driver nille maka"
 
 msgid "devicecardlist_no-result_download-link"
 msgstr "Download DriverPack"
@@ -199,7 +199,7 @@ msgstr "Download DriverPack"
 #. x86; Текст для {{DOWNLOAD}} находится в ключе devicecardlist_no-
 #. result_download-link;
 msgid "devicecardlist_no-results-device-text"
-msgstr "Driver nke {{DEVICENAME}}windows {{OSVERSIONS}} anoghi na na ihe di.\n{{DOWNLOAD}} ka ohoro na aka ya"
+msgstr "Driver nke {{DEVICENAME}} Windows {{OSVERSIONS}} anoghi na na ihe di. {{DOWNLOAD}} ka ohoro na aka ya."
 
 #. i18n: EN: Example: DEVICECLASS=chipsets|videocards; NOTEBOOK=Acer AO521;
 #. OSVERSIONS=Windows 10 x86; Text for {{DOWNLOAD}} is in key
@@ -208,14 +208,14 @@ msgstr "Driver nke {{DEVICENAME}}windows {{OSVERSIONS}} anoghi na na ihe di.\n{{
 #. OSVERSIONS=Windows 10 x86; Текст для {{DOWNLOAD}} находится в ключе
 #. devicecardlist_no-result_download-link;
 msgid "devicecardlist_no-results-notebook-text"
-msgstr "Driver nke {{NOTEBOOK}} windows {{OSVERSIONS}} anoghi na na ihe di.\n{{DOWNLOAD}} ka ohoro na aka ya"
+msgstr "Driver nke {{NOTEBOOK}} Windows {{OSVERSIONS}} anoghi na na ihe di. {{DOWNLOAD}} ka ohoro na aka ya."
 
 #. i18n: EN: Example: NOTEBOOK=Acer AO521; OSVERSIONS=Windows 10 x86; Text for
 #. {{DOWNLOAD}} is in key devicecardlist_no-result_download-link; RU: Пример:
 #. NOTEBOOK=Acer AO521; Пример: OSVERSIONS=Windows 10 x86; Текст для
 #. {{DOWNLOAD}} находится в ключе devicecardlist_no-result_download-link;
 msgid "devicecardlist_no-results-notebook-device-class-text"
-msgstr "Driver nke {{DEVICECLASS}} nke {{NOTEBOOK}} laptop windows {{OSVERSIONS}} anoghi na na ihe di.\n{{DOWNLOAD}} ka ohoro na aka ya"
+msgstr "Driver nke {{DEVICECLASS}} nke {{NOTEBOOK}} laptop Windows {{OSVERSIONS}} anoghi na na ihe di. {{DOWNLOAD}} ka ohoro na aka ya."
 
 msgid "devicegrouppage_all-systems"
 msgstr "system niile"
@@ -224,22 +224,22 @@ msgid "notebookpage_all-systems"
 msgstr "system niile"
 
 msgid "devicegroupfilters_filter-title"
-msgstr "driver di ugbu a"
+msgstr "Driver di ugbu a"
 
 msgid "deviceidfilters-filter-label-version"
-msgstr "udi driver:"
+msgstr "Udi driver:"
 
 msgid "deviceidheader_caption-single"
-msgstr "aha igwe gi:"
+msgstr "Aha igwe gi:"
 
 msgid "deviceidheader_caption-many"
-msgstr "ihe ozo ejiri mara igwe a bu"
+msgstr "Ihe ozo ejiri mara igwe a bu:"
 
 msgid "devicetypelist_title_os"
-msgstr "driver nke igwe noo na{{OS}}"
+msgstr "Driver nke igwe noo na {{OS}}"
 
 msgid "devicetypelist_title"
-msgstr "icho driver maka igwe"
+msgstr "Icho driver maka igwe"
 
 msgid "search_noresult"
 msgstr "Download DriverPack Online"
@@ -249,37 +249,37 @@ msgstr "Download DriverPack Online"
 #. NAME=Acer Aspire 4830TG; Пример: OSVERSIONS=Windows 10 x86; Текст для
 #. {{DOWNLOAD}} находится в ключе drivercard_no-results_download-link;
 msgid "drivercard_no-results-text"
-msgstr "Driver nke {{NAME}} windows {{OSVERSIONS}} anoghi na na ihe di.\n{{DOWNLOAD}} ka ohoro na aka ya"
+msgstr "Driver nke {{NAME}} Windows {{OSVERSIONS}} anoghi na na ihe di. {{DOWNLOAD}} ka ohoro na aka ya."
 
 msgid "drivercard_no-results_download-link"
 msgstr "Download DriverPack"
 
 msgid "drivercard_caption-version"
-msgstr "udi:"
+msgstr "Udi:"
 
 msgid "drivercard_caption-version-recommended"
 msgstr "nke atunyere"
 
 msgid "drivercard_caption-date"
-msgstr "ubochi"
+msgstr "Ubochi:"
 
 msgid "drivercard_caption-class"
-msgstr "udi igwe:"
+msgstr "Udi igwe:"
 
 msgid "drivercard_caption-manufacturer"
-msgstr "ndi nruputa:"
+msgstr "Ndi nruputa:"
 
 msgid "drivercard_caption-os"
 msgstr "Operating Systems:"
 
 msgid "drivercard_caption-deviceid"
-msgstr "ejirimara igwe gi:"
+msgstr "Device ID:"
 
 msgid "drivercard_caption-inf"
 msgstr "File *.inf:"
 
 msgid "drivercard_caption-section"
-msgstr "ogo:"
+msgstr "Ogo:"
 
 msgid "drivercard_caption-btn"
 msgstr "Download driver"
@@ -288,73 +288,73 @@ msgid "deviceidpage_all-systems"
 msgstr "system niile"
 
 msgid "dropdowndriverversion_no-results"
-msgstr "driver nke OS i hooro adighi ya"
+msgstr "Driver nke OS i hooro adighi ya"
 
 msgid "dropdownos_current"
 msgstr "ugbu a"
 
 msgid "footer_banner-title"
-msgstr "ike ogwula gi icho driver igwe gi"
+msgstr "Ike ogwula gi icho driver igwe gi?"
 
 msgid "footer_banner-caption"
-msgstr "DriverPack Online<span style='color: {{COLOR}}'>ga achota ma tinyekwa</span> driver di nkpa na aka ya"
+msgstr "DriverPack Online <span style='color: {{COLOR}}'>ga achota ma tinyekwa</span> driver di nkpa na aka ya"
 
 msgid "footer_banner_btn"
-msgstr "download<span class='bold'>DriverPack Online</span> na efu"
+msgstr "Download <span class='bold'>DriverPack Online</span> na efu"
 
 msgid "footer_translate-feedback"
-msgstr "i huru nmejoo obula? <br /> mmaye ya akara ma piakwa {{HOTKEY}}"
+msgstr "I huru nmejoo obula? <br />Mmaye ya akara ma piakwa {{HOTKEY}}"
 
 msgid "header_search-title"
-msgstr "<span class='bold'>ochucho driver agwula</span> database kaacha ibu — o kaariri otu nde driver "
+msgstr "<span class='bold'>Ochucho driver agwula</span> database kaacha ibu — o kaariri otu nde driver "
 
 msgid "header_search-examples"
-msgstr "na omumatu:"
+msgstr "Na omumatu:"
 
 msgid "header_cta-text"
 msgstr "Download DriverPack maka driver ihoro onwe ya"
 
 msgid "header_cta-btn"
-msgstr "tinye driver na onwe ya"
+msgstr "Tinye driver na onwe ya"
 
 msgid "header_cta-label-1"
-msgstr "o<span style='color: {{COLOR}}'>ga download</span> osiso"
+msgstr "O <span style='color: {{COLOR}}'>ga download</span> osiso"
 
 msgid "header_cta-label-2"
-msgstr "o <span style='color: {{COLOR}}'> ga ahoro ma tinye </span> driver na aka ya"
+msgstr "O <span style='color: {{COLOR}}'>ga ahoro ma tinye</span> driver na aka ya"
 
 msgid "headerbutton_title"
-msgstr "tinye driver na onwe ya"
+msgstr "Tinye driver na onwe ya"
 
 msgid "headerbutton_label"
 msgstr "DriverPack bu naani na efu"
 
 msgid "headeros_cta-btn"
-msgstr "tinye driver maka <span class='HeaderOs__cta-btn-marked'>{{OS}}</span>"
+msgstr "Tinye driver maka <span class='HeaderOs__cta-btn-marked'>{{OS}}</span>"
 
 msgid "headeros_search-text"
-msgstr "ma okwanu choo driver na database di egwu"
+msgstr "Ma okwanu choo driver na database di egwu"
 
 msgid "landingdevicetypelist_landing-title"
 msgstr "DriverPack di nma maka igwe obula"
 
 msgid "landingdevicetypelist_landing-subtitle"
-msgstr "ma usb 3.0 na windows 7sp1"
+msgstr "Ma USB 3.0 na Windows 7 SP1"
 
 msgid "landingdevicetypelist_cta-btn"
-msgstr "tinye driver niile bara uru"
+msgstr "Tinye driver niile bara uru"
 
 msgid "landingdevicetypelist_versions"
-msgstr "udi DriverPack ndi ozo"
+msgstr "Udi DriverPack ndi ozo"
 
 msgid "landingfeatures_landing-title"
 msgstr "DriverPack bu uzo kaachamma eji edozi igwe computa"
 
 msgid "landingfeatures_landing-subtitle"
-msgstr "software a bu na efu,odikwa mma maka okacha maara na ndi na amachagi"
+msgstr "Software a bu na efu,odikwa mma maka okacha maara na ndi na amachagi"
 
 msgid "landingfeatures_item-title-free"
-msgstr "efu"
+msgstr "Efu"
 
 msgid "landingfeatures_item-caption-free"
 msgstr "DriverPack wu na efu"
@@ -366,7 +366,7 @@ msgid "landingfeatures_item-caption-safe"
 msgstr "DriverPack na  ndi nruputa antivirus na arukoo, maka ikpuchi computa gi"
 
 msgid "landingfeatures_item-title-for-all-devices"
-msgstr "maka igwe niile"
+msgstr "Maka igwe niile"
 
 msgid "landingfeatures_item-caption-for-all-devices"
 msgstr "database driver nke kachasi ibu ma puokwa iche na ime uwa niile, ejikwa ya edozie computa obula"
@@ -375,19 +375,19 @@ msgid "landingheader_cta-text"
 msgstr "DriverPack ga etinye driver na efu ma nruzie nsogbu driver obula na igwe obula"
 
 msgid "landingheader_cta-btn"
-msgstr "tinye driver niile bara uru"
+msgstr "Tinye driver niile bara uru"
 
 msgid "landingheadernav_wannacrypt"
-msgstr "nkpuchi nye wannacry"
+msgstr "Nkpuchi nye WannaCry"
 
 msgid "landingheadernav_search"
-msgstr "icho driver"
+msgstr "Icho driver"
 
 msgid "landingheadernav_foradmin"
-msgstr "maka ndi na aka nke aga eme na system"
+msgstr "Maka ndi na aka nke aga eme na system"
 
 msgid "landingintroduction_author-title"
-msgstr "hello! aha m bu Artur Kuzyakov. o bu m choputara ma nwere kwa DriverPack"
+msgstr "Hello! Aha m bu Artur Kuzyakov. O bu m choputara ma nwere kwa DriverPack"
 
 msgid "landingintroduction_author-speech"
 msgstr ""
@@ -405,10 +405,10 @@ msgid "landingnotebookvendorslist_landing-subtitle"
 msgstr ""
 
 msgid "landingnotebookvendorslist_cta-btn"
-msgstr "tinye driver niile bara uru"
+msgstr "Tinye driver niile bara uru"
 
 msgid "landingnotebookvendorslist_versions"
-msgstr "udi DriverPack ndi ozo"
+msgstr "Udi DriverPack ndi ozo"
 
 msgid "landingproducts_item-title-online"
 msgstr ""
@@ -417,7 +417,7 @@ msgid "landingproducts_item-caption-online"
 msgstr ""
 
 msgid "landingproducts_item-version"
-msgstr "udi:"
+msgstr "Udi:"
 
 msgid "landingproducts_item-button"
 msgstr "Download"
@@ -441,7 +441,7 @@ msgid "landingscreenshots_landing-title"
 msgstr ""
 
 msgid "landingscreenshots_landing-subtitle"
-msgstr "software a bu na efu,odikwa mma maka okacha maara na ndi na amachagi"
+msgstr "Software a bu na efu,odikwa mma maka okacha maara na ndi na amachagi"
 
 msgid "landingseofooter_landing-subtitle-notebooks"
 msgstr ""
@@ -459,10 +459,10 @@ msgid "landingusers_cta"
 msgstr ""
 
 msgid "landingusers_cta-btn"
-msgstr "tinye driver niile bara uru"
+msgstr "Tinye driver niile bara uru"
 
 msgid "landingusers_versions"
-msgstr "udi DriverPack ndi ozo"
+msgstr "Udi DriverPack ndi ozo"
 
 msgid "landingwizard_landing-title"
 msgstr ""
@@ -477,7 +477,7 @@ msgid "landingwizard_item-caption-profit"
 msgstr ""
 
 msgid "landingwizard_cta-btn"
-msgstr "tinye driver niile bara uru"
+msgstr "Tinye driver niile bara uru"
 
 msgid "navbar_download-link-short"
 msgstr "Download"
@@ -498,7 +498,7 @@ msgid "notfound_info-500"
 msgstr ""
 
 msgid "notebookfilters-title"
-msgstr "driver di ugbu a"
+msgstr "Driver di ugbu a"
 
 msgid "notebookvendorslist_other-text"
 msgstr ""
@@ -519,7 +519,7 @@ msgid "promoheader_cta-text"
 msgstr "DriverPack ga etinye driver na efu ma nruzie nsogbu driver obula na igwe obula"
 
 msgid "promoheader_cta-btn"
-msgstr "tinye driver niile bara uru"
+msgstr "Tinye driver niile bara uru"
 
 msgid "promoheader_size"
 msgstr ""
@@ -768,7 +768,7 @@ msgid "searchresult_download-btn"
 msgstr ""
 
 msgid "searchresult_details-content-text-placeholder"
-msgstr "data na e loodu"
+msgstr "Data na e loodu..."
 
 msgid "searchresult_details-content-label-1"
 msgstr ""
@@ -930,7 +930,7 @@ msgid "landing-footer_versions"
 msgstr ""
 
 msgid "landing-footer_catalog"
-msgstr "icho driver"
+msgstr "Icho driver"
 
 msgid "landing-footer_drivers-catalog"
 msgstr ""
