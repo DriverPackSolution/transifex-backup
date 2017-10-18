@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-08-24 08:22+0000\n"
+"POT-Creation-Date: 2017-10-18 12:44+0000\n"
 "PO-Revision-Date: 2016-02-25 10:55+0000\n"
 "Last-Translator: Boris Ovsepyan <boris@drp.su>, 2017\n"
 "Language-Team: English (https://www.transifex.com/driverpack-solution/teams/75452/en/)\n"
@@ -135,6 +135,18 @@ msgstr "smartphones"
 
 msgid "deviceclasses_phone-plural-for"
 msgstr "smartphones"
+
+msgid "deviceclasses_printer-single-main"
+msgstr ""
+
+msgid "deviceclasses_printer-single-for"
+msgstr ""
+
+msgid "deviceclasses_printer-plural-main"
+msgstr ""
+
+msgid "deviceclasses_printer-plural-for"
+msgstr ""
 
 msgid "deviceclasses_sound-single-main"
 msgstr "sound card"
@@ -814,6 +826,9 @@ msgstr "Monitor"
 msgid "driver_class_phone"
 msgstr "Smartphone"
 
+msgid "driver_class_printer"
+msgstr ""
+
 msgid "driver_class_sound"
 msgstr "Sound card"
 
@@ -1177,12 +1192,6 @@ msgstr "Something new: DriverPack Cloud Beta"
 msgid "installation_header_promo_text_cloud"
 msgstr "Our new tool predicts some breakdowns due to the technology of machine learning, and suggests solutions for common issues.<br>Try out the beta version and don't forget to share your impressions — it will help us improve DriverPack Cloud and make it even more useful."
 
-msgid "installation_header_promo_title_wannacrypt"
-msgstr "Attention! Dangerous virus activity"
-
-msgid "installation_header_promo_text_wannacrypt"
-msgstr "WannaCry virus is actively spread at the moment — it encodes your files and demands money for their decoding. More than 300,000 users already have been attacked, that's why we have supplemented DriverPack with the tools that will secure your computer:<br><br> &nbsp;&nbsp;• Update MS17-010 — The latest Windows update<br>&nbsp;&nbsp;• Elimination of the main vulnerability — SMBv1 access protocol to shared folders <br>&nbsp;&nbsp;• Free of charge Avast antivirus that will secure your computer from here on"
-
 msgid "installation_header_promo_title_avast"
 msgstr "What makes Avast better than other antiviruses?"
 
@@ -1309,3 +1318,16 @@ msgstr "The sound card is connected incorrectly, or there are some problems with
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "English"
+
+#~ msgid "installation_header_promo_title_wannacrypt"
+#~ msgstr "Attention! Dangerous virus activity"
+
+#~ msgid "installation_header_promo_text_wannacrypt"
+#~ msgstr ""
+#~ "WannaCry virus is actively spread at the moment — it encodes your files and "
+#~ "demands money for their decoding. More than 300,000 users already have been "
+#~ "attacked, that's why we have supplemented DriverPack with the tools that "
+#~ "will secure your computer:<br><br> &nbsp;&nbsp;• Update MS17-010 — The "
+#~ "latest Windows update<br>&nbsp;&nbsp;• Elimination of the main vulnerability"
+#~ " — SMBv1 access protocol to shared folders <br>&nbsp;&nbsp;• Free of charge "
+#~ "Avast antivirus that will secure your computer from here on"
