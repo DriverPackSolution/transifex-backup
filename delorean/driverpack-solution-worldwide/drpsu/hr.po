@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-09-13 09:50+0000\n"
+"POT-Creation-Date: 2017-10-16 11:48+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>, 2017\n"
 "Language-Team: Croatian (https://www.transifex.com/driverpack-solution/teams/75453/hr/)\n"
@@ -91,7 +91,7 @@ msgid "breadcrumbs_main-text"
 msgstr "Početna stranica"
 
 msgid "breadcrumbs_catalog-main-text"
-msgstr ""
+msgstr "upravljački programi za {{OS.NAME}}"
 
 msgid "breadcrumbs_vendors-text"
 msgstr "Proizvođači"
@@ -443,12 +443,6 @@ msgstr "DriverPack je najzgodniji i najbrži način podešavanja računala"
 msgid "landingscreenshots_landing-subtitle"
 msgstr "Program se preuzima besplatno te je prikladan i za profesionalce i za početnike"
 
-msgid "landingseofooter_landing-subtitle-notebooks"
-msgstr "DriverPack je prikladan za sve modele stolnih i prijenosnih računala"
-
-msgid "landingseofooter_landing-subtitle-devices"
-msgstr "DriverPack sadrži upravljačke programe za sve uređaje"
-
 msgid "landingsocial_landing-title"
 msgstr "Pridružite se DriverPack zajednici"
 
@@ -673,6 +667,18 @@ msgstr "pametni telefoni"
 msgid "deviceclasses_phone-plural-for"
 msgstr "pametne telefone"
 
+msgid "deviceclasses_printer-single-main"
+msgstr "pisač"
+
+msgid "deviceclasses_printer-single-for"
+msgstr "pisač"
+
+msgid "deviceclasses_printer-plural-main"
+msgstr "pisači"
+
+msgid "deviceclasses_printer-plural-for"
+msgstr "pisači"
+
 msgid "deviceclasses_sound-single-main"
 msgstr "zvučna kartica"
 
@@ -810,10 +816,10 @@ msgid "sidebanner_caption"
 msgstr "DriverPack će automatski <span class='SideBanner__caption-marked'>odabrati i instalirati</span> potrebne upravljačke programe"
 
 msgid "translationheader_cta-text"
-msgstr ""
+msgstr "Pomozite nam da DriverPack učinimo dostupnim milijunima korisnika računala diljem svijeta — sudjelujte u našem volonterskom projektu prevođenja programa na druge jezike."
 
 msgid "translationheader_bubble-team"
-msgstr ""
+msgstr "Biste li željeli biti dio prevoditeljskog tima najvećeg servisa za automatsku konfiguraciju računala?"
 
 msgid "translationheader_bubble-languages"
 msgstr "Baratate li engleskim ili ruskim i spremni ste prevesti s jednog od ta dva jezika na svoj materinji?"
@@ -840,7 +846,7 @@ msgid "language_title"
 msgstr "Croatian"
 
 msgid "landingPagePublications_rbk"
-msgstr ""
+msgstr "DriverPack je program koji sadrži upravljačke programe za Windows koje je pomno odabrao i testirao tim Artura Kuzyakova. Alat analizira korisnikovo računalo i na njega instalira potrebne upravljačke programe kojima otklanja dva problema: prvo, ubrzava proces podešavanja računala (što je od posebne važnosti ako se u sustavu nalazi mnoštvo računala), a kao drugo poboljšava kvalitetu rada računala."
 
 msgid "landingPagePublications_secretfirmy"
 msgstr "DriverPack danas ima najveću bazu upravljačkih programa na svijetu koja je prevedena na 45 jezika  više od 42 milijuna ljudi ga koristi na svojim računalima."
@@ -1053,6 +1059,3 @@ msgstr "Razvoj ovog rješenja temeljili smo na sljedećem sadržaju"
 
 msgid "wannacryptpromopage_link-smb"
 msgstr "Kako uključiti i isključiti SMB protokole verzije 1, 2 i 3 u Windowsima i u Windows Serverima"
-
-#~ msgid "drop-down-language_not-found"
-#~ msgstr "Haven't found your language?"

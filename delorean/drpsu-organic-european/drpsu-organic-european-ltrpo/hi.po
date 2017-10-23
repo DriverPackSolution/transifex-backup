@@ -115,7 +115,7 @@ msgid "seo_vendors-title"
 msgstr "पीसी, लैपटॉप, और नेटबुक ड्राइवर्स डाउनलोड करें | Windows"
 
 msgid "seo_vendors-description"
-msgstr ""
+msgstr "पीसी, लैपटॉप, और नेटबुक ड्राइवरों को मुफ्त में स्थापित करें या स्वचालित ड्राइवर अद्यतन और स्थापना के लिए सॉफ्टवेयर डाउनलोड करें"
 
 msgid "seo_vendors-h1"
 msgstr "हार्डवेयर निर्माता"
@@ -279,7 +279,7 @@ msgstr ""
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets; RU: Пример:
 #. CLASS.PLURAL.MAIN=видеокарты|чипсеты;
 msgid "seo_hwid-footer-application-category"
-msgstr ""
+msgstr "श्रेणी: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|чипсеты; VENDOR.NAME=Acer;
@@ -324,11 +324,11 @@ msgid "seo_notebookvendor-footer-description"
 msgstr ""
 
 msgid "seo_notebookvendor-footer-application-category"
-msgstr ""
+msgstr "श्रेणी: <span itemprop='applicationCategory'>लैपटॉप्स</span>"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_notebookvendor-footer-application-subcategory"
-msgstr ""
+msgstr "उपश्रेणी: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} लैपटॉप्स</span>"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
@@ -358,12 +358,12 @@ msgstr ""
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; RU: Пример:
 #. NOTEBOOK.VENDOR.NAME=Acer;
 msgid "seo_notebook-footer-application-category"
-msgstr ""
+msgstr "श्रेणी: <span itemprop='applicationCategory'>{{NOTEBOOK.VENDOR.NAME}}लैपटॉप्स</span> "
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebook-footer-application-subcategory"
-msgstr ""
+msgstr "उपश्रेणी: <span itemprop='applicationSubCategory'>{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} लैपटॉप्स</span>"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
@@ -408,14 +408,14 @@ msgstr ""
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebookdevices-footer-application-category"
-msgstr ""
+msgstr "श्रेणी: <span itemprop='applicationCategory'> {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}लैपटॉप्स</span> "
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets;
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU: Пример:
 #. CLASS.PLURAL.MAIN=видеокарты|чипсеты; NOTEBOOK.VENDOR.NAME=Acer;
 #. NOTEBOOK.NAME=AO533;
 msgid "seo_notebookdevices-footer-application-subcategory"
-msgstr ""
+msgstr "उपश्रेणी: <span itemprop='applicationSubCategory'>{{NOTEBOOK.VENDOR.NAME}} के लिए {{CLASS.PLURAL.MAIN}} {{NOTEBOOK.NAME}}</span>"
 
 #. i18n: EN: Example: CLASS.SINGLE.FOR=videocard|chipset;
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU: Пример:
@@ -443,7 +443,7 @@ msgid "seo_devicegroupos-footer-description"
 msgstr ""
 
 msgid "seo_devicegroupos-footer-application-category"
-msgstr ""
+msgstr "श्रेणी: <span itemprop='applicationCategory'>{{GROUP.VENDOR.NAME}} {{CLASS.PLURAL.MAIN}} </span>"
 
 msgid "seo_devicegroupos-footer-application-subcategory"
 msgstr "उपश्रेणी: <span itemprop='applicationSubCategory'>{{GROUP.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
@@ -467,10 +467,10 @@ msgid "seo_notebookos-footer-description"
 msgstr ""
 
 msgid "seo_notebookos-footer-application-category"
-msgstr ""
+msgstr "श्रेणी: <span itemprop='applicationCategory'>{{NOTEBOOK.VENDOR.NAME}} लैपटॉप्स</span>"
 
 msgid "seo_notebookos-footer-application-subcategory"
-msgstr ""
+msgstr "उपश्रेणी: <span itemprop='applicationSubCategory'>{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} लैपटॉप्स</span>"
 
 msgid "seo_notebookos-footer-content"
 msgstr ""
@@ -491,7 +491,7 @@ msgid "seo_deviceclassos-footer-description"
 msgstr ""
 
 msgid "seo_deviceclassos-footer-application-category"
-msgstr ""
+msgstr "श्रेणी: <span itemprop='applicationCategory'>कई उपकरण</span>"
 
 msgid "seo_deviceclassos-footer-application-subcategory"
 msgstr "उपश्रेणी: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}}</span>"
@@ -512,7 +512,7 @@ msgid "seo_devicegroupsos-footer-description"
 msgstr ""
 
 msgid "seo_devicegroupsos-footer-application-category"
-msgstr ""
+msgstr "श्रेणी: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_devicegroupsos-footer-application-subcategory"
 msgstr "उपश्रेणी: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
@@ -536,10 +536,10 @@ msgid "seo_notebookvendoros-footer-description"
 msgstr ""
 
 msgid "seo_notebookvendoros-footer-application-category"
-msgstr ""
+msgstr "श्रेणी: <span itemprop='applicationCategory'>लैपटॉप्स</span>"
 
 msgid "seo_notebookvendoros-footer-application-subcategory"
-msgstr ""
+msgstr "उपश्रेणी: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}}  लैपटॉप्स</span>"
 
 msgid "seo_notebookvendoros-footer-content"
 msgstr ""
@@ -560,7 +560,7 @@ msgid "seo_hwidos-footer-description"
 msgstr ""
 
 msgid "seo_hwidos-footer-application-category"
-msgstr ""
+msgstr "श्रेणी: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_hwidos-footer-application-subcategory"
 msgstr "उपश्रेणी: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
@@ -584,16 +584,16 @@ msgid "seo_notebookdevicesos-footer-description"
 msgstr ""
 
 msgid "seo_notebookdevicesos-footer-application-category"
-msgstr ""
+msgstr "श्रेणी: <span itemprop='applicationCategory'> {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}लैपटॉप्स</span> "
 
 msgid "seo_notebookdevicesos-footer-application-subcategory"
-msgstr ""
+msgstr "उपश्रेणी: <span itemprop='applicationSubCategory'>{{NOTEBOOK.VENDOR.NAME}}के लिए {{CLASS.PLURAL.MAIN}} {{NOTEBOOK.NAME}}</span> "
 
 msgid "seo_notebookdevicesos-footer-content"
 msgstr ""
 
 msgid "seo_promopage_title"
-msgstr ""
+msgstr "DriverPack – मुफ्त ड्राइवर स्थापना"
 
 msgid "seo_promo-description"
 msgstr ""
