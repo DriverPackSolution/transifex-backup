@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-10-16 11:48+0000\n"
+"POT-Creation-Date: 2017-10-17 15:57+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Nitesh Yadav <Jagdamba2069@gmail.com>, 2017\n"
 "Language-Team: Nepali (https://www.transifex.com/driverpack-solution/teams/75453/ne/)\n"
@@ -208,14 +208,14 @@ msgstr "लागि चालकहरू{{DEVICENAME}}windows को लाग
 #. OSVERSIONS=Windows 10 x86; Текст для {{DOWNLOAD}} находится в ключе
 #. devicecardlist_no-result_download-link;
 msgid "devicecardlist_no-results-notebook-text"
-msgstr "लागि चालकहरू {{NOTEBOOK}} laptop for Windows {{OSVERSIONS}}सूचीमा फेला परेन {{DOWNLOAD}}select automatically रूपमा ड्राइभरमा "
+msgstr "लागि चालकहरू {{NOTEBOOK}} laptop for Windows {{OSVERSIONS}} सूचीमा फेला परेन {{DOWNLOAD}} select automatically रूपमा ड्राइभरमा "
 
 #. i18n: EN: Example: NOTEBOOK=Acer AO521; OSVERSIONS=Windows 10 x86; Text for
 #. {{DOWNLOAD}} is in key devicecardlist_no-result_download-link; RU: Пример:
 #. NOTEBOOK=Acer AO521; Пример: OSVERSIONS=Windows 10 x86; Текст для
 #. {{DOWNLOAD}} находится в ключе devicecardlist_no-result_download-link;
 msgid "devicecardlist_no-results-notebook-device-class-text"
-msgstr "लागि चालकहरू {{DEVICECLASS}} लागि {{NOTEBOOK}} laptop for Windows{{OSVERSIONS}}सूचीमा फेला परेन  {{DOWNLOAD}}  select automatically रूपमा ड्राइभरमा"
+msgstr "लागि चालकहरू {{DEVICECLASS}} लागि {{NOTEBOOK}} laptop for Windows {{OSVERSIONS}} सूचीमा फेला परेन {{DOWNLOAD}} select automatically रूपमा ड्राइभरमा"
 
 msgid "devicegrouppage_all-systems"
 msgstr "सबै सेटिङ"
@@ -522,7 +522,7 @@ msgid "promoheader_license"
 msgstr "इजाजतपत्र सम्झौता"
 
 msgid "promoheader_os-versions"
-msgstr "यो सफ्टवेयर Windows 10, 8.1, 8, 7, विस्टा, XP का लागि उपयुक्त छ"
+msgstr "यो सफ्टवेयर Windows 10, 8.1, 8, 7, Vista, XP का लागि उपयुक्त छ"
 
 msgid "promoheader_uninstall"
 msgstr "DriverPack हटाउनुहोस्"
@@ -692,16 +692,16 @@ msgid "deviceclasses_sound-plural-for"
 msgstr "ध्वनि कार्डहरू"
 
 msgid "deviceclasses_tvtuner-single-main"
-msgstr "TV—tuner"
+msgstr "TV-tuner"
 
 msgid "deviceclasses_tvtuner-single-for"
-msgstr "TV—tuner"
+msgstr "TV-tuner"
 
 msgid "deviceclasses_tvtuner-plural-main"
-msgstr "TV—tuners"
+msgstr "TV-tuners"
 
 msgid "deviceclasses_tvtuner-plural-for"
-msgstr "TV—tuners"
+msgstr "TV-tuners"
 
 msgid "deviceclasses_video-single-main"
 msgstr "भिडियो कार्ड"
@@ -873,10 +873,10 @@ msgid "landingPagePublications_vc"
 msgstr "अङ्ग्रेजीको लागि धन्यवाद, यो उत्पादन हाम्रो टीमको सहभागिता बिना 45 भाषाहरूमा प्रयोगकर्ताद्वारा अनुवाद गरिएको छ।"
 
 msgid "adminpagefaq_official_vendors-q"
-msgstr "Before DriverPack, I downloaded the drivers from the official sites but I experienced issues even with them. Why are the drivers in DriverPack more reliable than those from the manufacturers?"
+msgstr ""
 
 msgid "adminpagefaq_official_vendors-a"
-msgstr "In order to make our driver database not only the largest but also the most stable, we keep working hard on improving it permanently, and we even fix the bugs which the official manufacturers allow! We use (Machine Learning) technology and thanks to it, our selection algorithm is constantly improving. And that is exactly why the drivers from DriverPack are the most reliable :-)"
+msgstr ""
 
 msgid "adminpagefaq_database-q"
 msgstr "DriverPack डेटाबेस कसरी विस्तार गर्दछ? के म वास्तवमा चालकहरूको आवश्यकता पर्न सक्छु?"
@@ -938,8 +938,8 @@ msgstr "सबै अनुप्रयोग संस्करणहरू"
 msgid "landing-footer_catalog"
 msgstr "चालक खोजी"
 
-msgid "landing-footer_drivers-catalog"
-msgstr "चालक सूची"
+msgid "landing-footer_manufacturers"
+msgstr ""
 
 msgid "landing-footer_for-admin"
 msgstr "प्रणाली व्यवस्थापकहरूको लागि"
@@ -1059,3 +1059,6 @@ msgstr "समाधानमा आधारित थियो"
 
 msgid "wannacryptpromopage_link-smb"
 msgstr "Windows र Windows Server को लागि SMB प्रोटोकॉल को संस्करण 1, 2, र 3 को कैसे सक्षम गर्नुहोस र अक्षम करें"
+
+#~ msgid "landing-footer_drivers-catalog"
+#~ msgstr "चालक सूची"

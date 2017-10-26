@@ -12,14 +12,13 @@
 # Reza Asgari <srezaasgari@hotmail.com>, 2017
 # ali hozhabrafkan <alihozhabrafkan@yahoo.com>, 2017
 # Ali Ahmadinasab <aliahmadinasab@engineer.com>, 2017
-# Roozbeh Parsi <Saloo20xx@gmail.com>, 2017
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-10-16 11:48+0000\n"
+"POT-Creation-Date: 2017-10-17 15:57+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
-"Last-Translator: Roozbeh Parsi <Saloo20xx@gmail.com>, 2017\n"
+"Last-Translator: Ali Ahmadinasab <aliahmadinasab@engineer.com>, 2017\n"
 "Language-Team: Persian (https://www.transifex.com/driverpack-solution/teams/75453/fa/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -211,7 +210,7 @@ msgstr "دانلود DriverPack"
 #. x86; Текст для {{DOWNLOAD}} находится в ключе devicecardlist_no-
 #. result_download-link;
 msgid "devicecardlist_no-results-device-text"
-msgstr "درایور مناسبی از مجموعه برای{{DEVICENAME}} در ویندوز {{OSVERSIONS}}یافت نشد. {{DOWNLOAD}} را جهت دانلود اتوماتیک کلیک نمایید ."
+msgstr "درایور مناسبی از مجموعه برای {{DEVICENAME}} در Windows {{OSVERSIONS}}یافت نشد. {{DOWNLOAD}} را جهت دانلود اتوماتیک کلیک نمایید ."
 
 #. i18n: EN: Example: DEVICECLASS=chipsets|videocards; NOTEBOOK=Acer AO521;
 #. OSVERSIONS=Windows 10 x86; Text for {{DOWNLOAD}} is in key
@@ -220,7 +219,7 @@ msgstr "درایور مناسبی از مجموعه برای{{DEVICENAME}} در 
 #. OSVERSIONS=Windows 10 x86; Текст для {{DOWNLOAD}} находится в ключе
 #. devicecardlist_no-result_download-link;
 msgid "devicecardlist_no-results-notebook-text"
-msgstr "درایور مناسبی از مجموعه برای {{NOTEBOOK}} در ویندوز{{OSVERSIONS}} لپ‌تاپ یافت نشد. {{DOWNLOAD}} را جهت دانلود خودکار کلیک نمایید."
+msgstr "درایور مناسبی از مجموعه برای {{NOTEBOOK}} در Windows {{OSVERSIONS}} لپ‌تاپ یافت نشد. {{DOWNLOAD}} را جهت دانلود خودکار کلیک نمایید."
 
 #. i18n: EN: Example: NOTEBOOK=Acer AO521; OSVERSIONS=Windows 10 x86; Text for
 #. {{DOWNLOAD}} is in key devicecardlist_no-result_download-link; RU: Пример:
@@ -261,7 +260,7 @@ msgstr "دانلود نسخه DriverPack Online"
 #. NAME=Acer Aspire 4830TG; Пример: OSVERSIONS=Windows 10 x86; Текст для
 #. {{DOWNLOAD}} находится в ключе drivercard_no-results_download-link;
 msgid "drivercard_no-results-text"
-msgstr "درایور مناسبی از مجموعه برای {{NAME}} در ویندوز {{OSVERSIONS}} یافت نشد. {{DOWNLOAD}} را جهت دانلود خودکار کلیک نمایید "
+msgstr "درایور مناسبی از مجموعه برای {{NAME}} در Windows {{OSVERSIONS}} یافت نشد. {{DOWNLOAD}} را جهت دانلود خودکار کلیک نمایید "
 
 msgid "drivercard_no-results_download-link"
 msgstr "دانلود DriverPack"
@@ -950,8 +949,8 @@ msgstr "تمامی نسخه های نرم افزار"
 msgid "landing-footer_catalog"
 msgstr "جستجو درایور"
 
-msgid "landing-footer_drivers-catalog"
-msgstr "دسته بندی درایور"
+msgid "landing-footer_manufacturers"
+msgstr ""
 
 msgid "landing-footer_for-admin"
 msgstr "برای مدیران سیستم"
@@ -1071,3 +1070,6 @@ msgstr "این رشد راه حل بر پایه این مواد بوجود آم�
 
 msgid "wannacryptpromopage_link-smb"
 msgstr "چگونگی فعال و غیر‌فعال کردن نسخه‌های 1، 2، و 3 از پروتکل‌های SMB برای Windows و Windows Server"
+
+#~ msgid "landing-footer_drivers-catalog"
+#~ msgstr "دسته بندی درایور"

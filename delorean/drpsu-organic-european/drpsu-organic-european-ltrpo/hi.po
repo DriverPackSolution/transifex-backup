@@ -2,13 +2,14 @@
 # Nadia Tegeneva <nadia@drp.su>, 2017
 # Mrinal Kumar Jha <shivam6sonu@gmail.com>, 2017
 # Vikas Kamal <vikaskamaljnu@gmail.com>, 2017
+# tarun kumar <juno.gogle@gmail.com>, 2017
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-08-10 10:22+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
-"Last-Translator: Vikas Kamal <vikaskamaljnu@gmail.com>, 2017\n"
+"Last-Translator: tarun kumar <juno.gogle@gmail.com>, 2017\n"
 "Language-Team: Hindi (https://www.transifex.com/driverpack-solution/teams/75453/hi/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -81,7 +82,7 @@ msgstr "ड्राईवर ऑटो-इंस्टॉलेशन अपड
 #. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
 #. CLASS.PLURAL.FOR=мониторов|модемов;
 msgid "seo_deviceclass-title"
-msgstr ""
+msgstr "डाउनलोड करे   {{CLASS.SINGLE.FOR}}  ड्राईवर विंडोज के लिए "
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
 #. CLASS.PLURAL.FOR=мониторов|модемов;
@@ -358,7 +359,7 @@ msgstr ""
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; RU: Пример:
 #. NOTEBOOK.VENDOR.NAME=Acer;
 msgid "seo_notebook-footer-application-category"
-msgstr "श्रेणी: <span itemprop='applicationCategory'>{{NOTEBOOK.VENDOR.NAME}}लैपटॉप्स</span> "
+msgstr "श्रेणी: <span itemprop='applicationCategory'>{{NOTEBOOK.VENDOR.NAME}} लैपटॉप्स</span> "
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
@@ -408,7 +409,7 @@ msgstr ""
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebookdevices-footer-application-category"
-msgstr "श्रेणी: <span itemprop='applicationCategory'> {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}लैपटॉप्स</span> "
+msgstr "श्रेणी: <span itemprop='applicationCategory'>{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} लैपटॉप्स</span> "
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets;
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU: Пример:
@@ -443,7 +444,7 @@ msgid "seo_devicegroupos-footer-description"
 msgstr ""
 
 msgid "seo_devicegroupos-footer-application-category"
-msgstr "श्रेणी: <span itemprop='applicationCategory'>{{GROUP.VENDOR.NAME}} {{CLASS.PLURAL.MAIN}} </span>"
+msgstr "श्रेणी: <span itemprop='applicationCategory'>{{GROUP.VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_devicegroupos-footer-application-subcategory"
 msgstr "उपश्रेणी: <span itemprop='applicationSubCategory'>{{GROUP.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
@@ -584,10 +585,10 @@ msgid "seo_notebookdevicesos-footer-description"
 msgstr ""
 
 msgid "seo_notebookdevicesos-footer-application-category"
-msgstr "श्रेणी: <span itemprop='applicationCategory'> {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}लैपटॉप्स</span> "
+msgstr "श्रेणी: <span itemprop='applicationCategory'>{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} लैपटॉप्स</span> "
 
 msgid "seo_notebookdevicesos-footer-application-subcategory"
-msgstr "उपश्रेणी: <span itemprop='applicationSubCategory'>{{NOTEBOOK.VENDOR.NAME}}के लिए {{CLASS.PLURAL.MAIN}} {{NOTEBOOK.NAME}}</span> "
+msgstr "उपश्रेणी: <span itemprop='applicationSubCategory'>{{NOTEBOOK.VENDOR.NAME}} के लिए {{CLASS.PLURAL.MAIN}} {{NOTEBOOK.NAME}}</span> "
 
 msgid "seo_notebookdevicesos-footer-content"
 msgstr ""
@@ -614,40 +615,40 @@ msgid "seo_promovendors_title"
 msgstr ""
 
 msgid "seo_promovendors-description"
-msgstr ""
+msgstr "DriverPack नवीनतम संस्करण के लिए Lenovo, Samsung, Acer, Asus,और Dell ड्राइवर्स को अपडेट करेगा"
 
 msgid "seo_promovendors-keywords"
-msgstr ""
+msgstr "ड्राइवर, dell, samsung, lenovo, asus, acer, toshiba, asus"
 
 msgid "seo_promodrivers_title"
-msgstr ""
+msgstr "Windows 7, 10, XP, 8 के लिए ड्राइवर डाउनलोड और इंस्टॉल करें"
 
 msgid "seo_promodrivers-description"
-msgstr ""
+msgstr "DriverPack Windows 7, Windows 10, Windows XP, Windows 8 ड्राइवरों को मुफ्त में अपडेट कर देगा"
 
 msgid "seo_promodrivers-keywords"
-msgstr ""
+msgstr "windows 7 ड्राइवर, डाउनलोड ड्राइवर, windows 10 ड्राइवर, ड्राइवर अपडेट, windows ड्राइवर, ड्राइवरों के लिए मुफ्त"
 
 msgid "seo_forgamers-description"
-msgstr ""
+msgstr "Windows 7, XP, 10, 8, और 8.1 के लिए वीडियो कार्ड ड्राइवर्स स्थापित करें, या स्वचालित ड्राइवर स्थापना और अपडेट के लिए DriverPack Solution सॉफ़्टवेयर डाउनलोड करें"
 
 msgid "seo_forgamers-keywords"
-msgstr ""
+msgstr "वीडियो कार्ड ड्राइवर्स windows 7 64 8 10 डाउनलोड डाउनलोड"
 
 msgid "seo_wannacrypt_title"
-msgstr ""
+msgstr "WannaСry virus - कैसे अपने पीसी और लैपटॉप की रक्षा करें?"
 
 msgid "seo_wannacrypt-description"
-msgstr ""
+msgstr "अपने पीसी और लैपटॉप के लिए WannaCry virus के खिलाफ मुफ्त सुरक्षा डाउनलोड करें"
 
 msgid "seo_license_title"
-msgstr ""
+msgstr "लाइसेंस समझौता | DriverPack Solution"
 
 msgid "seo_license-description"
-msgstr ""
+msgstr "लाइसेंस समझौते और सॉफ़्टवेयर के उपयोग की शर्तें जो कि DriverPack Solution का उपयोग करके फैलती हैं I"
 
 msgid "seo_license-keywords"
-msgstr ""
+msgstr "मुफ्त windows 7 XP 8 10 DriverPack Solution के लिए ड्राइवर डाउनलोड करें"
 
 msgid "seo_standards_title"
 msgstr ""
