@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-10-17 15:57+0000\n"
+"POT-Creation-Date: 2017-10-26 10:44+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Harry Eliassen <harryemail@gmail.com>, 2017\n"
 "Language-Team: Norwegian (https://www.transifex.com/driverpack-solution/teams/75453/no/)\n"
@@ -379,8 +379,8 @@ msgstr "DriverPack installerer drivere gratis og løser driverproblemer på alle
 msgid "landingheader_cta-btn"
 msgstr "Installer alle nødvendige drivere"
 
-msgid "landingheadernav_wannacrypt"
-msgstr "Beskyttelse mot WannaCry"
+msgid "landingheadernav_badrabbit"
+msgstr "Beskyttelse mot Bad Rabbit"
 
 msgid "landingheadernav_search"
 msgstr "Søk Driver"
@@ -910,6 +910,36 @@ msgstr "Driveren er ikke installert riktig og datamaskinen har nå problemer. Hv
 msgid "adminpagefaq_stable-a"
 msgstr "Operasjonsstabiliteten til DriverPack-programvaren er en av våre hovedprioriteter, men mindre feil oppstår fortsatt, selv om de er sjeldne. Derfor lager vi et gjenopprettingspunkt som gjør at du kan returnere alt tilbake til den tidligere konfigurerte tilstanden. For å forhindre et lignende problem i fremtiden, anbefaler vi deg å gå til DriverPack-menyen og sende rapporten som automatisk opprettes av programvaren, til våre tekniske tjenester."
 
+msgid "badrabbitpromopage_cta-text"
+msgstr "Bad Rabbit kryptografisk virus — hvordan beskytte din PC?"
+
+msgid "badrabbitpromopage_cta-subtext"
+msgstr "DriverPack inneholder bestemte metoder for å eliminere sårbarheter blant datamaskinens konfigurasjonsverktøy. Du kan laste ned gratis beskyttelse mot Bad Rabbit viruset til din PC og bærbare som vil sikre datamaskinen din."
+
+msgid "badrabbitpromopage_cta-btn"
+msgstr "Konfigurer datamaskinen og beskytt den mot Bad Rabbit"
+
+msgid "badrabbitpromopage_caption-text"
+msgstr "Denne programvaren er gratis"
+
+msgid "badrabbitpromopage_info-text-title-1"
+msgstr "Hva er Bad Rabbit"
+
+msgid "badrabbitpromopage_info-text-1"
+msgstr "Bad Rabbit er et nytt kryptografisk virus som har angrepet datamaskinene til brukere i Russland, Ukraina, Bulgaria og Tyrkia i den siste uken. Blant de angrepne ofrene er også The Interfax RIA, The Fontanka RIA, en rekke departementer i Ukraina så vel som Odessa flyplass. Virkemåten er enkel: det bruker Mimikatz verktøyet for å hente kontodata ut av PC minnet. Den søker også etter administrators aktive kontodata. Bad Rabbit forsøker å få tilgang til arbeidsstasjonene i det lokale nettverket ved å bruke SMB og WebDAV. Så snart det får tilgang til PC'en, krypterer viruset alle dataene som det klarte å nå, og etter det endrer det Master Boot Record. Når denne prosedyren er fullført, tilbakestiller Bad Rabbit datamaskinen din og det spretter opp meldingen med krav om å betale 0,05 Bitcoins (som utgjør ca 300 USD med kursen den 26. oktober 2017)."
+
+msgid "badrabbitpromopage_info-text-title-2"
+msgstr "Hvordan beskytte din PC mot det kryptografiske Bad Rabbit viruset?"
+
+msgid "badrabbitpromopage_info-text-2"
+msgstr "Hva kan du gjøre for å beskyttel deg selv mot det nye viruset:<br/>• Lag en infpub.dat fil i C:\\\\Windows\\\\ katalogen og marker den som 'Read-only' under egenskaper<br/>• Se nøye med opprettelse av nye oppgaver i \"Oppgaveplanlegger\"<br/>• Ikke installer noen oppdateringer for FlashPlayer fra utenforstående sider<br/>• Oppdater Windows og installer beskyttelses programmer<br/>• Ta sikkerhetskopi av ditt operativ<br/><br/>Videre kan du bare bruke den nye løsningen fra DriverPack Solution ved å laste den ned fra denne siden - det vil spare deg tid!<br/><b>Vår løsning fungerer med Windows 7, 8, 8.1, 10, og XP.</b>"
+
+msgid "badrabbitpromopage_links-text"
+msgstr "Utviklingen av denne løsningen er basert på følgende materiale"
+
+msgid "badrabbitpromopage_link-smb"
+msgstr "Slik aktiverer og deaktiverer du versjonene 1, 2 og 3 av SMB-protokollene for Windows og Windows Server"
+
 msgid "devicegrouppage_show-more-link"
 msgstr "Vis mer"
 
@@ -937,11 +967,17 @@ msgstr "Last ned DriverPack"
 msgid "landing-footer_versions"
 msgstr "Alle app versjoner"
 
+msgid "landing-footer_wannacry"
+msgstr "Beskyttelse mot WannaCry"
+
 msgid "landing-footer_catalog"
 msgstr "Søk Driver"
 
 msgid "landing-footer_manufacturers"
 msgstr "Maskinvareprodusenter"
+
+msgid "landing-footer_badrabbit"
+msgstr "Beskyttelse mot Bad Rabbit"
 
 msgid "landing-footer_for-admin"
 msgstr "For system administratorer"
@@ -1061,6 +1097,9 @@ msgstr "Utviklingen av denne løsningen er basert på følgende materiale"
 
 msgid "wannacryptpromopage_link-smb"
 msgstr "Slik aktiverer og deaktiverer du versjonene 1, 2 og 3 av SMB-protokollene for Windows og Windows Server"
+
+#~ msgid "landingheadernav_wannacrypt"
+#~ msgstr "Beskyttelse mot WannaCry"
 
 #~ msgid "landing-footer_drivers-catalog"
 #~ msgstr "Driver Katalog"
