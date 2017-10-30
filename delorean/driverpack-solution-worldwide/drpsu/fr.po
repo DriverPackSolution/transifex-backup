@@ -3,13 +3,14 @@
 # Dany Courchesne (Radiodrag) <dany.courchesne@gmail.com>, 2017
 # Артур Кузяков <artx@drp.su>, 2017
 # jessy tardif <jessytardif_3@hotmail.com>, 2017
+# zaki dzz <zakidze@gmail.com>, 2017
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-10-26 10:44+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
-"Last-Translator: jessy tardif <jessytardif_3@hotmail.com>, 2017\n"
+"Last-Translator: zaki dzz <zakidze@gmail.com>, 2017\n"
 "Language-Team: French (https://www.transifex.com/driverpack-solution/teams/75453/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -380,7 +381,7 @@ msgid "landingheader_cta-btn"
 msgstr "Installez tous les pilotes requis"
 
 msgid "landingheadernav_badrabbit"
-msgstr ""
+msgstr "Protection contre Bad Rabbit"
 
 msgid "landingheadernav_search"
 msgstr "Recherche de pilotes"
@@ -818,10 +819,10 @@ msgid "sidebanner_caption"
 msgstr "DriverPack <span class='SideBanner__caption-marked'>sélectionnera et installera</span> les pilotes requis"
 
 msgid "translationheader_cta-text"
-msgstr ""
+msgstr "Aidez-nous à rendre DriverPack disponible pour des millions d'utilisateurs de PC dans le monde — participez à notre projet de bénévolat sur la traduction dans les autres langues"
 
 msgid "translationheader_bubble-team"
-msgstr ""
+msgstr "Aimeriez-vous faire partie de l'équipe des traducteurs pour le plus grand service de configuration automatique d'ordinateurs au monde?"
 
 msgid "translationheader_bubble-languages"
 msgstr "Connaissez-vous bien l'anglais ou le russe, pour que vous puissiez traduire l'un d'entre eux à votre langue maternelle?"
@@ -848,7 +849,7 @@ msgid "language_title"
 msgstr "French"
 
 msgid "landingPagePublications_rbk"
-msgstr ""
+msgstr "DriverPack est le logiciel qui se compose de pilotes pour Windows minutieusement sélectionnés et testés par l'équipe d'Artur Kuzyakov. Cette application analyse l'ordinateur d'un utilisateur et installe sur celui-ci les pilotes requis, ce qui vous permet de régler deux problèmes; premièrement, accélérer le processus de la configuration de l'ordinateur (ce qui est spécialement important s'il y a des douzaines d'ordinateurs dans un seul système); puis, améliorer sa capacité opérationnelle."
 
 msgid "landingPagePublications_secretfirmy"
 msgstr "Aujourd'hui, DriverPack détient la plus grande base de données de pilotes au monde, qui est traduite dans 45 langues, et opère sur les ordinateurs de plus de 42 millions d'utilisateurs."
@@ -911,28 +912,28 @@ msgid "adminpagefaq_stable-a"
 msgstr "La stabilité d'opération du logiciel DriverPack est une de nos plus grandes priorités mais des échecs mineurs se produisent quand même, même s'il sont très rare. C'est pourquoi nous créons un point de restauration qui vous permettra de restaurer votre système vers la configuration précédente. Afin de prévenir un problème similaire dans le futur, nous vous recommandons d'aller dans le menu de DriverPack  et d'envoyer le rapport, qui sera automatiquement créé par le logiciel, à nos services technique."
 
 msgid "badrabbitpromopage_cta-text"
-msgstr ""
+msgstr "Virus Bad Rabbit cryptographer — comment protéger votre PC?"
 
 msgid "badrabbitpromopage_cta-subtext"
-msgstr ""
+msgstr "DriverPack contient des moyens spécifiques pour éliminer les vulnérabilités parmi les outils de configuration de l'ordinateur. Vous pouvez télécharger gratuitement la protection contre le virus Bad Rabbit pour votre PC et votre ordinateur portable, ce qui protégera votre ordinateur."
 
 msgid "badrabbitpromopage_cta-btn"
-msgstr ""
+msgstr "Configurez l'ordinateur et protégez-le contre Bad Rabbit"
 
 msgid "badrabbitpromopage_caption-text"
 msgstr "Ce logiciel est fourni gratuitement"
 
 msgid "badrabbitpromopage_info-text-title-1"
-msgstr ""
+msgstr "Qu'est-ce que Bad Rabbit?"
 
 msgid "badrabbitpromopage_info-text-1"
-msgstr ""
+msgstr "Bad Rabbit est un nouveau virus cryptographique qui a attaqué les ordinateurs des utilisateurs en Russie, en Ukraine, en Bulgarie et en Turquie depuis une semaine. Parmi les victimes attaquées figurent également l'Interfax RIA, la Fontanka RIA, un certain nombre de Ministères d'Ukraine ainsi que l'aéroport d'Odessa. Le principe de fonctionnement est simple: il utilise l'utilitaire Mimikatz pour récupérer les données du compte dans la mémoire de votre PC. Il recherche également les données de compte actives de l'administrateur. Bad Rabbit tente d'accéder aux postes de travail du réseau local en utilisant SMB et WebDAV. Dès qu'il accède à un PC, le virus chiffre toutes les données qu'il a réussi à atteindre et, après cela, il modifie l'enregistrement de démarrage principal. Lorsque cette procédure est terminée, Bad Rabbit réinitialise votre ordinateur et affiche son message avec la demande de payer 0,05 Bitcoins (ce qui fait environ 300 USD sur le taux du 26 octobre 2017)."
 
 msgid "badrabbitpromopage_info-text-title-2"
-msgstr ""
+msgstr "Comment protéger votre PC contre le virus de la cryptographie Bad Rabbit?"
 
 msgid "badrabbitpromopage_info-text-2"
-msgstr ""
+msgstr "Que pouvez-vous faire pour vous protéger contre le nouveau virus:<br/>• Créez un fichier infpub.dat dans le dossier C: \\\\ Windows \\\\ et cochez l'option 'Lecture seule' dans ses propriétés<br/>• Regardez attentivement la création de nouvelles tâches dans 'Task Scheduler'<br/>• N'installez aucune mise à jour pour FlashPlayer depuis les sites externes<br/>• Mettre à jour Windows et tous les logiciels de protection installés<br/>• Faire des sauvegardes de votre système d'exploitation<br/><br/>De plus, vous pouvez simplement utiliser la nouvelle solution de DriverPack Solution en la téléchargeant sur cette page - cela vous fera gagner du temps!<br/><b>Notre solution fonctionne sur Windows 7, 8, 8.1, 10 et XP.9</b>"
 
 msgid "badrabbitpromopage_links-text"
 msgstr "Le développement de cette solution a été basé sur le matériel suivent"
@@ -974,10 +975,10 @@ msgid "landing-footer_catalog"
 msgstr "Recherche de pilotes"
 
 msgid "landing-footer_manufacturers"
-msgstr ""
+msgstr "Fabricants de matériel"
 
 msgid "landing-footer_badrabbit"
-msgstr ""
+msgstr "Protection contre Bad Rabbit"
 
 msgid "landing-footer_for-admin"
 msgstr "Pour les administrateurs système"
