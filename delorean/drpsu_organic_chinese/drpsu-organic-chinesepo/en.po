@@ -183,7 +183,7 @@ msgstr "Category: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</sp
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|monitors; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|мониторы; VENDOR.NAME=Acer;
 msgid "seo_devicegroups-footer-application-subcategory"
-msgstr "Subcategory: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}} </span>"
+msgstr "Subcategory: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 #. i18n: EN: Example: CLASS.SINGLE.FOR=videocard|monitor; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.SINGLE.FOR=видеокарты|монитора; VENDOR.NAME=Acer;
@@ -233,7 +233,7 @@ msgstr "Category: <span itemprop='applicationCategory'>{{GROUP.VENDOR.NAME}}  {{
 #. GROUP.NAME=GeForce 210; RU: Пример: CLASS.PLURAL.MAIN=видеокарты|чипсеты;
 #. GROUP.NAME=GeForce 210;
 msgid "seo_devicegroup-footer-application-subcategory"
-msgstr "Subcategory: <span itemprop='applicationSubCategory'>{{GROUP.NAME}}  {{CLASS.PLURAL.MAIN}} </span>"
+msgstr "Subcategory: <span itemprop='applicationSubCategory'>{{GROUP.NAME}}  {{CLASS.PLURAL.MAIN}}</span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
 #. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
@@ -284,7 +284,7 @@ msgstr "Category: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</sp
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|чипсеты; VENDOR.NAME=Acer;
 msgid "seo_hwid-footer-application-subcategory"
-msgstr "Subcategory: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}}  {{CLASS.PLURAL.MAIN}} </span>"
+msgstr "Subcategory: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}}  {{CLASS.PLURAL.MAIN}}</span>"
 
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
@@ -446,7 +446,7 @@ msgid "seo_devicegroupos-footer-application-category"
 msgstr "Category: <span itemprop='applicationCategory'>{{GROUP.VENDOR.NAME}}  {{CLASS.PLURAL.MAIN}} </span>"
 
 msgid "seo_devicegroupos-footer-application-subcategory"
-msgstr "Subcategory: <span itemprop='applicationSubCategory'>{{GROUP.NAME}}  {{CLASS.PLURAL.MAIN}} </span>"
+msgstr "Subcategory: <span itemprop='applicationSubCategory'>{{GROUP.NAME}}  {{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_devicegroupos-footer-content"
 msgstr "Download drivers for {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.PLURAL.FOR}} (Windows {{OS}}), or install DriverPack Solution software for automatic driver download and update"
@@ -515,7 +515,7 @@ msgid "seo_devicegroupsos-footer-application-category"
 msgstr "Category: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_devicegroupsos-footer-application-subcategory"
-msgstr "Subcategory: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}} </span>"
+msgstr "Subcategory: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_devicegroupsos-footer-content"
 msgstr "Download drivers for {{VENDOR.NAME}} {{CLASS.PLURAL.FOR}} (Windows {{OS}}) for free, or install DriverPack Solution software for driver download and update"
@@ -563,7 +563,7 @@ msgid "seo_hwidos-footer-application-category"
 msgstr "Category: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_hwidos-footer-application-subcategory"
-msgstr "Subcategory: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}}  {{CLASS.PLURAL.MAIN}} </span>"
+msgstr "Subcategory: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}}  {{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_hwidos-footer-content"
 msgstr "Download driver for {{DEVICE.DEVICEID}} device for Windows {{OS}}, or install DriverPack Solution software for automatic driver download and update"
@@ -722,7 +722,7 @@ msgid "seo_notebookvendor-footer-content-asus"
 msgstr "The latest and the most reliable drivers for Asus laptops for all Windows OS versions which are in use now (Windows XP, Windows 7, 8, 8.1, and 10) are represented in our catalog. If for some reason you are not satisfied with the Asus laptop drivers, or if you have faced a problem with finding the driver for your specific laptop model, use our DriverPack Solution software for driver update - it is free and it will do everything for you!  "
 
 msgid "seo_notebookvendor-footer-content-lg"
-msgstr "All the latest up-to-date drivers for LG laptops for all Windows OS versions which are in use now are represented in this Section. You can also use our DriverPack Solution software for automatic driver installation, if you have unexpectedly failed to find <b>LG laptop drivers</b> of exactly your model - our software is free of charge and it will do everything by self!"
+msgstr "All the latest up-to-date drivers for LG laptops for all Windows OS versions which are in use now are represented in this Section. You can also use our DriverPack Solution software for automatic driver installation, if you have unexpectedly failed to find <b>LG laptop drivers</b> of exactly your model - our software is free of charge and it will do everything by itself!"
 
 msgid "seo_notebookvendor-footer-content-sony"
 msgstr "Have you bought a new laptop from Sony but faced problems with its operability? In this Section you can download all up-to-date drivers for Sony laptops which are compatible with exactly your OS. Sony Vaio laptop drivers which are suitable for more than 200 models from this manufacturer are represented here. If for some reason you have failed to find the exact driver you need in our list, use our software for driver update - it is absolutely free and will select the driver suitable exactly for your laptop configuration."
@@ -737,13 +737,13 @@ msgid "seo_notebookvendor-footer-content-msi"
 msgstr "Here you can find and download the drivers for MSI laptop of your model for any Windows OS version which is in use now (including such a rare version for today as Vista). If you have failed to find the driver you need in our catalog by your own efforts, download our DriverPack Solution software for automatic driver search and installation - it is absolutely free! "
 
 msgid "seo_notebookvendor-footer-content-toshiba"
-msgstr "In this Section you can download the drivers for Toshiba laptops for absolutely all Window OS versions which are in use now. More than 300 laptop models of this manufacturer are represented in our catalog, and this list only keeps increasing every day. Have you failed to find the model you need in our catalog? Download DriverPack Solution software for automatic driver search and installation - it will do everything by self in automatic mode."
+msgstr "In this Section you can download the drivers for Toshiba laptops for absolutely all Window OS versions which are in use now. More than 300 laptop models of this manufacturer are represented in our catalog, and this list only keeps increasing every day. Have you failed to find the model you need in our catalog? Download DriverPack Solution software for automatic driver search and installation - it will do everything by itself in automatic mode."
 
 msgid "seo_deviceclass-footer-content-video-amd"
 msgstr "Does a game not start up on AMD video card? In this Section you can update AMD Radeon video card drivers to the latest up-to-date version. Here you can download the drivers for AMD Radeon video card (including those for AMD Radeon HD series) for all Windows OS versions which exist now. Have you failed to find the driver you need by yourself? Use our free DriverPack Solution software - it will update AMD video card drivers and ATI in automatic mode with no need of any manual management from your part."
 
 msgid "seo_deviceclass-footer-content-video-nvidia"
-msgstr "Does a game not operate? The matter might be in the drivers for your video card. Try and update Nvidia video card drivers by downloading their latest version from our site. Here you can also download the drivers for Nvidia Geforce video card of the latest series for all Windows OS versions which are in use now absolutely free. If in some reason you have failed to find the drivers suitable for your Nvidia video card in our catalog, use our free DriverPack Solution software for driver search and update - it is absolutely free and it will select the driver of the required configuration by self and without any delay. "
+msgstr "Does a game not operate? The matter might be in the drivers for your video card. Try and update Nvidia video card drivers by downloading their latest version from our site. Here you can also download the drivers for Nvidia Geforce video card of the latest series for all Windows OS versions which are in use now absolutely free. If in some reason you have failed to find the drivers suitable for your Nvidia video card in our catalog, use our free DriverPack Solution software for driver search and update - it is absolutely free and it will select the driver of the required configuration by itself and without any delay. "
 
 msgid "seo_deviceclass-footer-content-video-intel"
 msgstr "Do you need Intel HD Graphics video card drivers? In this Section you can download drivers for this series video cards absolutely free. If you couldn't find and download Intel video card drivers by yourself, use our free automatic DriverPack Solution software for driver search and update - it will do everything for you!"
@@ -779,7 +779,7 @@ msgid "seo_deviceclass-footer-content-monitor-hp"
 msgstr "Do you need to download the driver for HP monitor? In this Section you will find all the latest and up-to-date HP monitor drivers for all the latest Window operating system versions. All the drivers represented in this Section have been selected and verified by our experts for operability and safety. If you couldn't find the driver you need by your own efforts, use our DriverPack Solution software - it will do everything quickly and without your participation!"
 
 msgid "seo_deviceclass-footer-content-monitor-lg"
-msgstr "Is your driver for LG monitor out-of-date? Do some artifacts appear in the image, or the monitor just refuses to operate? Use our huge catalog where you can download the driver for LG Flatron monitor without any troubles and difficulties! If you have no time to look for the required driver by yourself, use our DriverPack Solution software - it will select all the required drivers by self."
+msgstr "Is your driver for LG monitor out-of-date? Do some artifacts appear in the image, or the monitor just refuses to operate? Use our huge catalog where you can download the driver for LG Flatron monitor without any troubles and difficulties! If you have no time to look for the required driver by yourself, use our DriverPack Solution software - it will select all the required drivers by itself."
 
 msgid "seo_deviceclass-footer-content-monitor-panasonic"
 msgstr "Do any problems arise with operation of the monitor from Panasonic company?The problem might be with the drivers. In our catalog you can <b>download the driver for Panasonic monitor</b> absolutely free and without extra troubles! If in some reason you have not found the driver required for your Panasonic monitor model, download our DriverPack Solution driver search and update software - it is absolutely free!"
@@ -806,7 +806,7 @@ msgid "seo_deviceclass-footer-content-tvtuner-avermedia"
 msgstr "Are there any problems in operation of your tv-tuner from Avermedia? The problem very likely might be with out-of-date drivers. In this Section you can download the driver for Avermedia tv-tuner from our handy and clear catalog for free. You can also use free DriverPack Solution software - it will do everything quickly and will save you need to look for the required driver by yourself."
 
 msgid "seo_deviceclass-footer-content-tvtuner-beholder"
-msgstr "Is something wrong with your tv-tuner from Beholder company? The problem very likely might be solved by updating the drivers to the latest version. Here you can download Beholder tv-tuner driver quickly, easy and absolutely free! If  you have unexpectedly failed to download the driver you need by yourself, use our DriverPack Solution software - it will select the required driver by self based on your hardware configuration."
+msgstr "Is something wrong with your tv-tuner from Beholder company? The problem very likely might be solved by updating the drivers to the latest version. Here you can download Beholder tv-tuner driver quickly, easy and absolutely free! If  you have unexpectedly failed to download the driver you need by yourself, use our DriverPack Solution software - it will select the required driver by itself based on your hardware configuration."
 
 msgid "seo_deviceclass-footer-content-tvtuner-pinnacle"
 msgstr "Do you need the drivers for Pinnacle tv-tuners? In this catalog you can easily find the drivers for Pinnacle tv-tuner and download them for free. If in some reason you have failed to find the driver you need by yourself, install our free DriverPack Solution software - it will analyse your hardware configuration and install everything required for its proper operation."
@@ -854,7 +854,7 @@ msgid "seo_notebook-footer-content-acer-aspire-5551g"
 msgstr "We suggest you downloading the drivers for Acer Aspire 5551g laptop for all Window OS versions which are in use now absolutely free. Have you not found the driver you need in our catalog? Download free DriverPack Solution software - it will update all your drivers to the latest up-to-date version."
 
 msgid "seo_notebook-footer-content-acer-aspire-v3-571g"
-msgstr "Does your Acer Aspire v3 571g laptop not start up? The problem might be with drivers. In this Section you can download the drivers for Acer Aspire v3 571g for free. The drivers for all Windows - XP, 7, 8, 8.1, and 10 versions which are in use now are represented here. Have you failed to solve the problem by yourself? Download our DriverPack Solution software - it will find the required driver and update it to the operable version by self."
+msgstr "Does your Acer Aspire v3 571g laptop not start up? The problem might be with drivers. In this Section you can download the drivers for Acer Aspire v3 571g for free. The drivers for all Windows - XP, 7, 8, 8.1, and 10 versions which are in use now are represented here. Have you failed to solve the problem by yourself? Download our DriverPack Solution software - it will find the required driver and update it to the operable version by itself."
 
 msgid "seo_notebook-footer-content-asus-x550cc"
 msgstr "Do you need the drivers for Asus X550CC laptop? In this Section of our site you will find everything you need for your laptop operation. All our packs have been verified for safety and operability. If you could not find the driver you need by yourself, download our DriverPack Solution software - it will assess the current state of the drivers on your computer and update them to the latest version."
@@ -872,7 +872,7 @@ msgid "seo_notebook-footer-content-asus-x540la"
 msgstr "Here you can download Asus X540LA laptop drivers for Windows XP, 7, 8, 8.1, and 10 for free. You can also download DriverPack Solution software for driver update absolutely free, too - it will assess the current state of the drivers on your computer and update them to the latest up-to-date version automatically."
 
 msgid "seo_notebook-footer-content-asus-k50c"
-msgstr "Do you need the drivers for Asus k50c laptop for Windows XP, 7, 8, 8.1 or 10? In this Section you can download the drivers for Asus k50c for free, or, if you have failed to select the driver you need by yourself, install DriverPack Solution software which will analyse the hardware on your laptop and select all the drivers you need by self. "
+msgstr "Do you need the drivers for Asus k50c laptop for Windows XP, 7, 8, 8.1 or 10? In this Section you can download the drivers for Asus k50c for free, or, if you have failed to select the driver you need by yourself, install DriverPack Solution software which will analyse the hardware on your laptop and select all the drivers you need by itself. "
 
 msgid "seo_notebook-footer-content-asus-x553ma"
 msgstr "Do you need the drivers for Asus X553MA laptop for Windows XP, 7, 8, 8.1 or 10? In this Section you can download the drivers for Asus X553MA, or, if you have failed to select the driver you need by yourself, install DriverPack Solution software which will test the hardware on your computer and select the required drivers automatically."
@@ -887,7 +887,7 @@ msgid "seo_notebook-footer-content-asus-k52jr"
 msgstr "Here you can download the drivers for Asus k52jr laptop for Windows XP, 7, 8, 8.1, and 10 for free. All drivers have been verified for safety and operability by our best experts. "
 
 msgid "seo_notebook-footer-content-asus-x101ch"
-msgstr "Here you can download the drivers for Asus X101CH laptops for Windows XP, 7, 8, 8.1, and 10 for free. Have you not found the driver you need in our catalog? No promlem - download DriverPack Solution software for automatic driver installation - it will select the driver for the required device by self and without any extra problems."
+msgstr "Here you can download the drivers for Asus X101CH laptops for Windows XP, 7, 8, 8.1, and 10 for free. Have you not found the driver you need in our catalog? No promlem - download DriverPack Solution software for automatic driver installation - it will select the driver for the required device by itself and without any extra problems."
 
 msgid "seo_notebook-footer-content-asus-k50ij"
 msgstr "Here you can download the drivers for Asus K50ij laptop for Windows XP, 7, 8, 8.1 or 10. If you have failed to select the driver you need in our catalog, use DriverPack Solution software for driver search and installation - it is free and it will do everything for you. "
@@ -929,10 +929,10 @@ msgid "seo_notebook-footer-content-acer-aspire-v3-571g-inputdev"
 msgstr "Here you can download the driver for the keyboard and other input devices of Acer Aspire v3 571g laptop for Windows XP, 7, 8, 8.1, and 10 absolutely free. All our drivers have been verified for safety and operability!"
 
 msgid "seo_notebook-footer-content-acer-aspire-v3-571g-lan"
-msgstr "Here you can download the netcard driver of Acer Aspire v3 571g laptop for Windows XP, 7, 8, 8.1, and 10. Have you not found the driver you need by yourself? Use our DriverPack Solution software - it will select everything required by self."
+msgstr "Here you can download the netcard driver of Acer Aspire v3 571g laptop for Windows XP, 7, 8, 8.1, and 10. Have you not found the driver you need by yourself? Use our DriverPack Solution software - it will select everything required by itself."
 
 msgid "seo_notebook-footer-content-acer-aspire-v3-571g-cardreader"
-msgstr "In this Section you can download the driver for card reader of Acer Aspire v3 571g laptop for Windows XP, 7, 8, 8.1, and 10 without extra troubles. Here you can also download our DriverPack Solution software - it will analyse your hardware configuration, select and install the required driver by self."
+msgstr "In this Section you can download the driver for card reader of Acer Aspire v3 571g laptop for Windows XP, 7, 8, 8.1, and 10 without extra troubles. Here you can also download our DriverPack Solution software - it will analyse your hardware configuration, select and install the required driver by itself."
 
 msgid "seo_notebook-footer-content-asus-x550cc-wifi"
 msgstr "Does Wi-Fi not operate on Asus X550CC laptop? The problem might be with out-of-date drivers - download the latest version of the Wi-Fi driver for Asus X550CC laptop, or install free DriverPack Solution software - it will do everything in automatic mode."
@@ -989,7 +989,7 @@ msgid "seo_notebook-footer-content-asus-x540sa-8.1-x64"
 msgstr "Do you need Asus x540sa laptop drivers for Windows 8.1x64? Here you will find everything you need. Our drivers have been verified for operability and safety by the best experts. "
 
 msgid "seo_notebook-footer-content-asus-x540sa-10-x64"
-msgstr "Do you need to download Asus X540SA laptop drivers for Windows 10x64? You are at the right place! If for some reason you have not found the driver you need in the catalog, download our DriverPack Solution software - it will find all latest versions and install them onto your laptop by self! "
+msgstr "Do you need to download Asus X540SA laptop drivers for Windows 10x64? You are at the right place! If for some reason you have not found the driver you need in the catalog, download our DriverPack Solution software - it will find all latest versions and install them onto your laptop by itself! "
 
 msgid "seo_notebook-footer-content-asus-x540sc-7-x64"
 msgstr "Do you need to download Asus X540SC laptop drivers for Windows 7x64? Here you will find everything you need. All our driver packs have been verified for safety and operability!"
@@ -1016,7 +1016,7 @@ msgid "seo_notebook-footer-content-asus-k50ij-xp-x86"
 msgstr "Do you need to download the drivers for Asus k50ij laptop for Windows XP? Use our catalog - you will find everything you need over there. It is no help? Then download DriverPack Solution software for driver update - it will analyse the hardware on your laptop and select the most compatible drivers."
 
 msgid "seo_notebook-footer-content-lenovo-g580-7-x64"
-msgstr "The drivers for Lenovo g580 laptop for Windows XP, 7, 8, 8.1 or 10 are available for download right here. Are you not satisfied with the driver? Then use DriverPack Solution software for driver search and installation - it will do everything by self."
+msgstr "The drivers for Lenovo g580 laptop for Windows XP, 7, 8, 8.1 or 10 are available for download right here. Are you not satisfied with the driver? Then use DriverPack Solution software for driver search and installation - it will do everything by itself."
 
 msgid "seo_notebook-footer-content-asus-x550cc-sound-10-x64"
 msgstr "Here you can download the drivers for Asus X550CC laptop for Windows 10x64 for free. You can also download DriverPack Solution software - it will assess the current state of the drivers on your laptop and update them to the latest up-to-date version."
