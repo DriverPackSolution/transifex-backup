@@ -3,15 +3,16 @@
 # Ali Adineh <aliadineh2731@yahoo.com>, 2017
 # Mehrshad Shafaghi <mehrshad.shafaghi@gmail.com>, 2017
 # Mohammad Esmaili <infob2v@yahoo.com>, 2016
+# Mohammad Hosein Ammari <mhd4mr@gmail.com>, 2017
 # Ruhulamin Ebrahimi <ruhulaminebrahimi@gmail.com>, 2017
 # sina akramian <sinaakramian@gmail.com>, 2016
 msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-08-24 08:22+0000\n"
-"PO-Revision-Date: 2017-10-01 07:03+0000\n"
-"Last-Translator: Ruhulamin Ebrahimi <ruhulaminebrahimi@gmail.com>\n"
+"POT-Creation-Date: 2017-10-18 12:44+0000\n"
+"PO-Revision-Date: 2017-10-29 18:04+0000\n"
+"Last-Translator: Mohammad Hosein Ammari <mhd4mr@gmail.com>\n"
 "Language-Team: Persian (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/fa/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -135,6 +136,18 @@ msgstr "گوشی های هوشمند"
 
 msgid "deviceclasses_phone-plural-for"
 msgstr "گوشی های هوشمند"
+
+msgid "deviceclasses_printer-single-main"
+msgstr "چاپگر"
+
+msgid "deviceclasses_printer-single-for"
+msgstr "چاپگر"
+
+msgid "deviceclasses_printer-plural-main"
+msgstr "چاپگرها"
+
+msgid "deviceclasses_printer-plural-for"
+msgstr "چاپگرها"
 
 msgid "deviceclasses_sound-single-main"
 msgstr "کارت صدا"
@@ -774,7 +787,7 @@ msgid "installation_header_promo_more"
 msgstr ""
 
 msgid "installation_header_promo_install"
-msgstr ""
+msgstr "نصب"
 
 msgid "installation_header_promo_fb"
 msgstr ""
@@ -808,6 +821,9 @@ msgstr "مانیتور"
 
 msgid "driver_class_phone"
 msgstr "تلفن هوشمند"
+
+msgid "driver_class_printer"
+msgstr "پرینتر"
 
 msgid "driver_class_sound"
 msgstr "کارت صدا"
@@ -873,7 +889,7 @@ msgid "installation_error_restore_not_created"
 msgstr ""
 
 msgid "installation_progress_stage_creating"
-msgstr ""
+msgstr "درحال ساختن..."
 
 msgid "installation_progress_stage_created"
 msgstr ""
@@ -903,7 +919,7 @@ msgid "installation_progress_stage_installing"
 msgstr ""
 
 msgid "installation_progress_stage_done"
-msgstr ""
+msgstr "انجام شد"
 
 msgid "installation_canceled"
 msgstr ""
@@ -924,7 +940,7 @@ msgid "loading_backup_done"
 msgstr ""
 
 msgid "loading_button_finish"
-msgstr ""
+msgstr "انجام شد"
 
 msgid "loading_backup_failed"
 msgstr ""
@@ -1005,13 +1021,13 @@ msgid "no-internet-screen_guide-step-2-action"
 msgstr ""
 
 msgid "no-internet-screen_guide-step-complete"
-msgstr ""
+msgstr "انجام شد"
 
 msgid "no-internet-screen_guide-step-complete-action"
 msgstr ""
 
 msgid "programs_btn_install_single"
-msgstr ""
+msgstr "نصب"
 
 msgid "programs_btn_installed_single"
 msgstr "نصب شد"
@@ -1170,12 +1186,6 @@ msgstr ""
 msgid "installation_header_promo_text_cloud"
 msgstr ""
 
-msgid "installation_header_promo_title_wannacrypt"
-msgstr ""
-
-msgid "installation_header_promo_text_wannacrypt"
-msgstr ""
-
 msgid "installation_header_promo_title_avast"
 msgstr ""
 
@@ -1264,7 +1274,7 @@ msgid "softcategories_backup-single-for"
 msgstr ""
 
 msgid "softcategories_antivirus-single-for"
-msgstr ""
+msgstr "ویروس کش"
 
 msgid "softcategories_system-plural-for"
 msgstr ""
@@ -1302,3 +1312,16 @@ msgstr ""
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "انگلیسی"
+
+#~ msgid "installation_header_promo_title_wannacrypt"
+#~ msgstr "Attention! Dangerous virus activity"
+
+#~ msgid "installation_header_promo_text_wannacrypt"
+#~ msgstr ""
+#~ "WannaCry virus is actively spread at the moment — it encodes your files and "
+#~ "demands money for their decoding. More than 300,000 users already have been "
+#~ "attacked, that's why we have supplemented DriverPack with the tools that "
+#~ "will secure your computer:<br><br> &nbsp;&nbsp;• Update MS17-010 — The "
+#~ "latest Windows update<br>&nbsp;&nbsp;• Elimination of the main vulnerability"
+#~ " — SMBv1 access protocol to shared folders <br>&nbsp;&nbsp;• Free of charge "
+#~ "Avast antivirus that will secure your computer from here on"

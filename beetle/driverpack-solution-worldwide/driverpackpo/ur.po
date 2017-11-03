@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-08-24 08:22+0000\n"
-"PO-Revision-Date: 2017-10-10 16:16+0000\n"
+"POT-Creation-Date: 2017-10-18 12:44+0000\n"
+"PO-Revision-Date: 2017-10-24 11:03+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Urdu (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/ur/)\n"
 "MIME-Version: 1.0\n"
@@ -131,6 +131,18 @@ msgstr "اسمارٹ فونز"
 
 msgid "deviceclasses_phone-plural-for"
 msgstr "اسمارٹ فونز"
+
+msgid "deviceclasses_printer-single-main"
+msgstr "پرنٹر"
+
+msgid "deviceclasses_printer-single-for"
+msgstr "پرنٹر"
+
+msgid "deviceclasses_printer-plural-main"
+msgstr "پرنٹرز"
+
+msgid "deviceclasses_printer-plural-for"
+msgstr "پرنٹرز"
 
 msgid "deviceclasses_sound-single-main"
 msgstr "ساؤنڈ کارڈ"
@@ -810,6 +822,9 @@ msgstr "مانیٹر"
 msgid "driver_class_phone"
 msgstr "سمارٹ فون"
 
+msgid "driver_class_printer"
+msgstr "پرِنٹر"
+
 msgid "driver_class_sound"
 msgstr "ساؤنڈ کارڈ"
 
@@ -1173,12 +1188,6 @@ msgstr ""
 msgid "installation_header_promo_text_cloud"
 msgstr ""
 
-msgid "installation_header_promo_title_wannacrypt"
-msgstr ""
-
-msgid "installation_header_promo_text_wannacrypt"
-msgstr ""
-
 msgid "installation_header_promo_title_avast"
 msgstr ""
 
@@ -1305,3 +1314,16 @@ msgstr ""
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "انگریزی"
+
+#~ msgid "installation_header_promo_title_wannacrypt"
+#~ msgstr "Attention! Dangerous virus activity"
+
+#~ msgid "installation_header_promo_text_wannacrypt"
+#~ msgstr ""
+#~ "WannaCry virus is actively spread at the moment — it encodes your files and "
+#~ "demands money for their decoding. More than 300,000 users already have been "
+#~ "attacked, that's why we have supplemented DriverPack with the tools that "
+#~ "will secure your computer:<br><br> &nbsp;&nbsp;• Update MS17-010 — The "
+#~ "latest Windows update<br>&nbsp;&nbsp;• Elimination of the main vulnerability"
+#~ " — SMBv1 access protocol to shared folders <br>&nbsp;&nbsp;• Free of charge "
+#~ "Avast antivirus that will secure your computer from here on"

@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-08-24 08:22+0000\n"
-"PO-Revision-Date: 2017-10-09 09:16+0000\n"
+"POT-Creation-Date: 2017-10-18 12:44+0000\n"
+"PO-Revision-Date: 2017-10-31 13:06+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Chinese (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/zh/)\n"
 "MIME-Version: 1.0\n"
@@ -134,6 +134,18 @@ msgstr "智慧型手機"
 
 msgid "deviceclasses_phone-plural-for"
 msgstr "智慧型手機"
+
+msgid "deviceclasses_printer-single-main"
+msgstr "印表機"
+
+msgid "deviceclasses_printer-single-for"
+msgstr "印表機"
+
+msgid "deviceclasses_printer-plural-main"
+msgstr "印表機"
+
+msgid "deviceclasses_printer-plural-for"
+msgstr "印表機"
 
 msgid "deviceclasses_sound-single-main"
 msgstr "音效卡"
@@ -808,6 +820,9 @@ msgstr "監視器"
 msgid "driver_class_phone"
 msgstr "智慧型手機"
 
+msgid "driver_class_printer"
+msgstr "印表機"
+
 msgid "driver_class_sound"
 msgstr "音效卡"
 
@@ -1169,12 +1184,6 @@ msgstr "新功能: DriverPack Cloud Beta"
 msgid "installation_header_promo_text_cloud"
 msgstr "我們的新工具預測了由於機器學習技術造成的一些故障，並提出了常見問題的解決方案。<br> 嘗試測試版本，別忘了分享您的印象 — 這將有助於我們改進 DriverPack Cloud 並使其更加有用。"
 
-msgid "installation_header_promo_title_wannacrypt"
-msgstr "注意! 危險病毒活動"
-
-msgid "installation_header_promo_text_wannacrypt"
-msgstr "目前，WannaCry 病毒正在積極散佈 — 它會對您的檔案進行編碼，並為其解碼要求贖金。已經有超過 30 萬個使用者受到攻擊，這就是為什麼我們用安全保護電腦的工具補充了 DriverPack: <br><br> &nbsp;&nbsp;• 更新 MS17-010 — 最新的 Windows 更新<br>&nbsp;&nbsp;• 消除主要漏洞 — SMBv1 共享資料夾的存取通訊協定 <br>&nbsp;&nbsp;• 免費 Avast 防毒，將保護您的電腦從這裡"
-
 msgid "installation_header_promo_title_avast"
 msgstr "是什麼使 Avast 比其他防毒軟體更好?"
 
@@ -1301,3 +1310,16 @@ msgstr "音效卡連接不正確，或其可操作性存在一些問題"
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Chinese (Traditional)"
+
+#~ msgid "installation_header_promo_title_wannacrypt"
+#~ msgstr "Attention! Dangerous virus activity"
+
+#~ msgid "installation_header_promo_text_wannacrypt"
+#~ msgstr ""
+#~ "WannaCry virus is actively spread at the moment — it encodes your files and "
+#~ "demands money for their decoding. More than 300,000 users already have been "
+#~ "attacked, that's why we have supplemented DriverPack with the tools that "
+#~ "will secure your computer:<br><br> &nbsp;&nbsp;• Update MS17-010 — The "
+#~ "latest Windows update<br>&nbsp;&nbsp;• Elimination of the main vulnerability"
+#~ " — SMBv1 access protocol to shared folders <br>&nbsp;&nbsp;• Free of charge "
+#~ "Avast antivirus that will secure your computer from here on"

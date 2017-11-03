@@ -5,9 +5,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-08-24 08:22+0000\n"
-"PO-Revision-Date: 2017-09-23 15:47+0000\n"
-"Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
+"POT-Creation-Date: 2017-10-18 12:44+0000\n"
+"PO-Revision-Date: 2017-11-02 14:59+0000\n"
+"Last-Translator: Itamar Shoham\n"
 "Language-Team: Hebrew (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/he/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -132,6 +132,18 @@ msgstr "טלפונים חכמים"
 msgid "deviceclasses_phone-plural-for"
 msgstr "טלפונים חכמים"
 
+msgid "deviceclasses_printer-single-main"
+msgstr "מדפסות"
+
+msgid "deviceclasses_printer-single-for"
+msgstr "מדפסות"
+
+msgid "deviceclasses_printer-plural-main"
+msgstr "מדפסות"
+
+msgid "deviceclasses_printer-plural-for"
+msgstr "מדפסות"
+
 msgid "deviceclasses_sound-single-main"
 msgstr "כרטיס קול"
 
@@ -205,7 +217,7 @@ msgid "deviceclasses_other-plural-for"
 msgstr "התקנים אחרים"
 
 msgid "settings_common-settings"
-msgstr ""
+msgstr "הגדרות כלליות"
 
 msgid "settings_error"
 msgstr ""
@@ -810,6 +822,9 @@ msgstr "צג"
 msgid "driver_class_phone"
 msgstr "טלפון חכם"
 
+msgid "driver_class_printer"
+msgstr "מדפסת"
+
 msgid "driver_class_sound"
 msgstr "כרטיס קול"
 
@@ -1173,12 +1188,6 @@ msgstr ""
 msgid "installation_header_promo_text_cloud"
 msgstr ""
 
-msgid "installation_header_promo_title_wannacrypt"
-msgstr ""
-
-msgid "installation_header_promo_text_wannacrypt"
-msgstr ""
-
 msgid "installation_header_promo_title_avast"
 msgstr ""
 
@@ -1305,3 +1314,16 @@ msgstr ""
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Hebrew"
+
+#~ msgid "installation_header_promo_title_wannacrypt"
+#~ msgstr "Attention! Dangerous virus activity"
+
+#~ msgid "installation_header_promo_text_wannacrypt"
+#~ msgstr ""
+#~ "WannaCry virus is actively spread at the moment — it encodes your files and "
+#~ "demands money for their decoding. More than 300,000 users already have been "
+#~ "attacked, that's why we have supplemented DriverPack with the tools that "
+#~ "will secure your computer:<br><br> &nbsp;&nbsp;• Update MS17-010 — The "
+#~ "latest Windows update<br>&nbsp;&nbsp;• Elimination of the main vulnerability"
+#~ " — SMBv1 access protocol to shared folders <br>&nbsp;&nbsp;• Free of charge "
+#~ "Avast antivirus that will secure your computer from here on"

@@ -9,8 +9,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-08-24 08:22+0000\n"
-"PO-Revision-Date: 2017-10-17 14:49+0000\n"
+"POT-Creation-Date: 2017-10-18 12:44+0000\n"
+"PO-Revision-Date: 2017-10-24 11:47+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Turkish (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/tr/)\n"
 "MIME-Version: 1.0\n"
@@ -135,6 +135,18 @@ msgstr "akıllı telefonlar"
 
 msgid "deviceclasses_phone-plural-for"
 msgstr "akıllı telefonlar"
+
+msgid "deviceclasses_printer-single-main"
+msgstr "yazıcı"
+
+msgid "deviceclasses_printer-single-for"
+msgstr "yazıcı"
+
+msgid "deviceclasses_printer-plural-main"
+msgstr "yazıcılar"
+
+msgid "deviceclasses_printer-plural-for"
+msgstr "yazıcılar"
 
 msgid "deviceclasses_sound-single-main"
 msgstr "ses kartı"
@@ -814,6 +826,9 @@ msgstr "Monitör"
 msgid "driver_class_phone"
 msgstr "Akıllı telefon"
 
+msgid "driver_class_printer"
+msgstr "Yazıcı"
+
 msgid "driver_class_sound"
 msgstr "Ses kartı"
 
@@ -1177,12 +1192,6 @@ msgstr "Yeni birşey: DriverPack Cloud Beta"
 msgid "installation_header_promo_text_cloud"
 msgstr "Yeni aracımız makine öğrenme teknolojisinden dolayı bazı bozulmaları tahmin eder, ve genel sorunlar için çözümler önerir.<br>Beta sürümünü deneyin ve izlenimlerinizi paylaşmayı unutmayın — bu, DriverPack Cloud'u iyileştirmemize yardım edecek ve daha da fazla faydalı hale getirecek."
 
-msgid "installation_header_promo_title_wannacrypt"
-msgstr "Dikkat! Tehlikeli virüs etkinliği"
-
-msgid "installation_header_promo_text_wannacrypt"
-msgstr "WannaCry virüsü etkin bir şekilde şu anda yayılmaktadır — dosyalarınızı şifreler ve çözülmesi için para talep eder. 300,000'den fazla kullanıcıya saten saldırıldı, işte bu yüzden bilgisayarınızı güven altına alacak araçları DriverPack'e ekledik:<br><br> &nbsp;&nbsp;• Güncelleme MS17-010 — En son Windows güncellemesi<br>&nbsp;&nbsp;• Ana güvenlik açığını eleme — paylaşılan klasörlere SMBv1 erişim protokolü <br>&nbsp;&nbsp;• Şu andan itibaren bilgisayarınızı güven altına alacak bedava Avast antivirüs"
-
 msgid "installation_header_promo_title_avast"
 msgstr "Avast diğer antivirüslerden daha iyi neyi yapar?"
 
@@ -1309,3 +1318,16 @@ msgstr "Ses kartı yanlış olarak bağlanmış, ya da işlerliği ile ilgili ba
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Turkish"
+
+#~ msgid "installation_header_promo_title_wannacrypt"
+#~ msgstr "Attention! Dangerous virus activity"
+
+#~ msgid "installation_header_promo_text_wannacrypt"
+#~ msgstr ""
+#~ "WannaCry virus is actively spread at the moment — it encodes your files and "
+#~ "demands money for their decoding. More than 300,000 users already have been "
+#~ "attacked, that's why we have supplemented DriverPack with the tools that "
+#~ "will secure your computer:<br><br> &nbsp;&nbsp;• Update MS17-010 — The "
+#~ "latest Windows update<br>&nbsp;&nbsp;• Elimination of the main vulnerability"
+#~ " — SMBv1 access protocol to shared folders <br>&nbsp;&nbsp;• Free of charge "
+#~ "Avast antivirus that will secure your computer from here on"

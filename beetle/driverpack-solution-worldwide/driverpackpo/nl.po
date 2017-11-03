@@ -1,6 +1,7 @@
 # Translators:
 # Translators:
 # Henry Venema <henryvenema@hotmail.com>, 2017
+# Nadia Tegeneva <nadia@drp.su>, 2017
 # Richard Bussé <rbusse@live.be>, 2017
 # Robin <vandeneynde.robin@gmail.com>, 2016
 # Артур Кузяков <artx@drp.su>, 2016
@@ -8,9 +9,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-08-24 08:22+0000\n"
-"PO-Revision-Date: 2017-10-12 13:43+0000\n"
-"Last-Translator: Henry Venema <henryvenema@hotmail.com>\n"
+"POT-Creation-Date: 2017-10-18 12:44+0000\n"
+"PO-Revision-Date: 2017-10-26 15:18+0000\n"
+"Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Dutch (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/nl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -135,6 +136,18 @@ msgstr "smartphones"
 msgid "deviceclasses_phone-plural-for"
 msgstr "smartphones"
 
+msgid "deviceclasses_printer-single-main"
+msgstr "printer"
+
+msgid "deviceclasses_printer-single-for"
+msgstr "printer"
+
+msgid "deviceclasses_printer-plural-main"
+msgstr "printers"
+
+msgid "deviceclasses_printer-plural-for"
+msgstr "printers"
+
 msgid "deviceclasses_sound-single-main"
 msgstr "geluidskaart"
 
@@ -214,7 +227,7 @@ msgid "settings_error"
 msgstr "Foutpreventie"
 
 msgid "settings_algorithm"
-msgstr "Stuurprogramma Selectie Algoritme"
+msgstr "Driver Selectie Algoritme"
 
 msgid "settings_language-title"
 msgstr "App talen"
@@ -244,7 +257,7 @@ msgid "settings_cleanup-title"
 msgstr "Verwijder tijdelijke bestanden"
 
 msgid "settings_cleanup-caption"
-msgstr "Bij het configureren van uw computer laad DriverPack een aantal tijdelijke bestanden die nodig zijn voor het installeren van de stuurprogramma's. Zodra de computer volledig is geconfigureerd, verwijdert deze functie automatisch de onnodige bestanden van uw computer, waardoor u meer ruimte op uw harde schijf krijgt."
+msgstr "Bij het configureren van uw computer laad DriverPack een aantal tijdelijke bestanden die nodig zijn voor het installeren van de drivers. Zodra de computer volledig is geconfigureerd, verwijdert deze functie automatisch de onnodige bestanden van uw computer, waardoor u meer ruimte op uw harde schijf krijgt."
 
 msgid "settings_soft-and-utilities-title"
 msgstr "Installatie van drivers en nuttige apps"
@@ -274,7 +287,7 @@ msgid "settings_diagnostics-title"
 msgstr "Diagnostische modus inschakelen"
 
 msgid "settings_diagnostics-caption"
-msgstr "Dit gedeelte bevat alle informatie over de configuratie van de computer. Bovendien, als gevolg van alles-inbegrepen diagnostiek, installeert het DriverPack -algoritme alle benodigde drivers zo nauwkeurig en snel mogelijk. Daarom raden wij u aan deze functie niet uit te schakelen."
+msgstr "Dit gedeelte bevat alle informatie over de configuratie van de computer. Bovendien, als gevolg van alles-inbegrepen diagnostiek, installeert het DriverPack -algoritme alle benodigde drivers zo nauwkeurig en snel mogelijk. Daarom raden wij u aan deze functie NIET uit te schakelen."
 
 msgid "settings_expert-mode-title"
 msgstr "Expert modus inschakelen"
@@ -283,7 +296,7 @@ msgid "settings_expert-mode-caption"
 msgstr "De Expert Modus is speciaal ontwikkeld voor het gemak van geavanceerde gebruikers en professionals. Met deze modus kunt u de werking van DriverPack aanpassen in overeenstemming met uw persoonlijke behoeften en taken. Als u deze functie inschakelt, wordt de Expert Modus standaard ingeschakeld."
 
 msgid "settings_minify-menu-title"
-msgstr "Verminder de grootte van het navigatiepaneel"
+msgstr "Verklein de grootte van het navigatiepaneel"
 
 msgid "settings_minify-menu-caption"
 msgstr "Voor meer gemak bij het werken met geavanceerde instellingen kunt u de grootte van de navigatiebalk aan de linkerkant aanpassen."
@@ -316,7 +329,7 @@ msgid "settings_banners-title"
 msgstr "De informatiebanners uitschakelen"
 
 msgid "settings_banners-caption"
-msgstr "Deze banners bevatten nuttige informatie die betrekking hebben op de werking van een aantal van de apps die door DriverPack worden aangeboden. U kunt dit uitschakelen, maar het betekent dat u de extra informatie, middelen en nieuwe functies van deze software zal missen."
+msgstr "Deze banners bevatten nuttige informatie die betrekking hebben op de werking van een aantal van de apps die door DriverPack worden aangeboden. U kunt dit uitschakelen, maar het betekent dat u de extra informatie, middelen en nieuwe functies van deze software zult missen."
 
 msgid "settings_notifier-title"
 msgstr "DriverPack Notifier"
@@ -334,7 +347,7 @@ msgid "settings_bug-report-title"
 msgstr "Schakel de fout interceptie optie in (Error Catch)"
 
 msgid "settings_bug-report-caption"
-msgstr "DriverPack ingenieurs hebben dit systeem ontwikkeld, zodat de software zelf in staat is U te informeren over eventuele werkingsproblemen en bieden dan de mogelijkheden om ze snel te repareren."
+msgstr "DriverPack ingenieurs hebben dit systeem ontwikkeld, zodat de software zelf in staat is U te informeren over eventuele werkingsproblemen en biedt dan de mogelijkheid om ze snel te repareren."
 
 msgid "settings_bug-report-anchor"
 msgstr "Kom meer te weten"
@@ -370,7 +383,7 @@ msgid "settings_statistics-title"
 msgstr "Stuur statistieken over systeemwerking"
 
 msgid "settings_statistics-caption"
-msgstr "Om DriverPack bij elke opstart te verbeteren, moeten de ontwikkelaars gegevens verzamelen en analyseren (anoniem) die verband houden met systeemwerking. Het gaat om gegevens zoals computerconfiguratie, opgestarte software, systeemfouten en andere informatie voor Google Analytics."
+msgstr "Om DriverPack bij elke opstart te verbeteren, moeten de ontwikkelaars gegevens verzamelen en analyseren (anoniem) die verband houden met de systeemwerking. Het gaat om gegevens zoals computerconfiguratie, opgestarte software, systeemfouten en andere informatie voor Google Analytics."
 
 msgid "settings_statistics-anchor"
 msgstr "Kom meer te weten"
@@ -472,7 +485,7 @@ msgid "driver_row_version"
 msgstr "Versie"
 
 msgid "driver_row_date"
-msgstr "Datum:"
+msgstr "Datum"
 
 msgid "drivers_row_current_driver"
 msgstr "Huidige driver"
@@ -546,7 +559,7 @@ msgid "zero-drivers_cta-msg"
 msgstr "Alle vereiste drivers zijn al geïnstalleerd"
 
 msgid "zero-drivers_cta-msg-caption-link"
-msgstr "installeer of zet de drivers terug"
+msgstr "herinstalleer of zet de drivers terug"
 
 msgid "zero-drivers_cta-btn"
 msgstr "Ga naar computer opruimen"
@@ -567,7 +580,7 @@ msgid "drivers_screen_view_options_version"
 msgstr "Versie"
 
 msgid "drivers_screen_view_options_date"
-msgstr "Datum:"
+msgstr "Datum"
 
 msgid "drivers_screen_view_options_device_id"
 msgstr "DeviceID"
@@ -588,7 +601,7 @@ msgid "version"
 msgstr "Versie"
 
 msgid "date"
-msgstr "Datum:"
+msgstr "Datum"
 
 msgid "final_popover_new_driver"
 msgstr "Bijgewerkte driver"
@@ -633,7 +646,7 @@ msgstr "Alle belangrijke drivers zijn geïnstalleerd."
 msgid "final_drivers_not_better_subtitle"
 msgid_plural "final_drivers_not_better_subtitle_n"
 msgstr[0] "Attentie, {{COUNT}} belangrijke driver is niet geïnstalleerd, We raden aan dat U de installatie herhaald of controleer de werking van uw apparaten."
-msgstr[1] "Attentie, {{COUNT}} belangrijke drivers zijn niet geïnstalleerd, We raden aan dat U de installatie herhaald of controleer de werking van uw apparaten."
+msgstr[1] "Attentie, {{COUNT}} belangrijke drivers zijn niet geïnstalleerd. We raden U aan dat U de installatie herhaald of controleer de werking van uw apparaten."
 
 msgid "final_single_driver_ok_programs_subtitle"
 msgstr "Alle belangrijke drivers en hulpprogramma's zijn geïnstalleerd."
@@ -721,7 +734,7 @@ msgid "games_top_game_free_paid"
 msgstr "You will need a game copy purchased from {{SELLER}}"
 
 msgid "games_top_game_play"
-msgstr "Begin met spelen"
+msgstr "Start playing"
 
 msgid "games_playkey_top_title"
 msgstr "Play <span class='games_title-marked bold'>the top games</span> on the highest level <br /><span class='bold'>settings even on the weak computer</span>"
@@ -813,6 +826,9 @@ msgstr "Monitor"
 msgid "driver_class_phone"
 msgstr "Smartphone"
 
+msgid "driver_class_printer"
+msgstr "Printer"
+
 msgid "driver_class_sound"
 msgstr "Geluids kaart"
 
@@ -832,7 +848,7 @@ msgid "driver_class_other"
 msgstr "Overige apparaten"
 
 msgid "soft_category_archiver"
-msgstr "Operaties met archieven"
+msgstr "Werken met archieven"
 
 msgid "soft_category_browser"
 msgstr "Snel en veilig gebruik van het internet"
@@ -877,7 +893,7 @@ msgid "installation_error_restore_not_created"
 msgstr "Aanmaak fout"
 
 msgid "installation_progress_stage_creating"
-msgstr "Aanmaken"
+msgstr "Aanmaken..."
 
 msgid "installation_progress_stage_created"
 msgstr "Het is aangemaakt"
@@ -895,7 +911,7 @@ msgid "installation_progress_downloading_of"
 msgstr "van"
 
 msgid "installation_progress_stage_downloaded"
-msgstr "Het wacht op zijn beurt geïnstalleerd te worden"
+msgstr "Het wacht op zijn beurt om geïnstalleerd te worden"
 
 msgid "installation_progress_stage_unzipping"
 msgstr "Uitpakken ..."
@@ -1084,7 +1100,7 @@ msgid "protect_state_warn_unchecked_caption"
 msgstr "Het is mogelijk om ze te verwijderen door ze in de onderstaande lijst aan te klikken"
 
 msgid "protect_state_warn"
-msgstr "De ongewenste softwareprogramma's worden verwijderd:{{COUNT}}stuks."
+msgstr "De ongewenste softwareprogramma's worden verwijderd: {{COUNT}}stuks."
 
 msgid "protect_state_err"
 msgstr "Om DriverPack Protect in te schakelen, moet u uw computer eerst op internet aansluiten en dan DriverPack opnieuw starten"
@@ -1110,7 +1126,7 @@ msgid "start_button_install"
 msgstr "Configureer de computer automatisch"
 
 msgid "start_caption"
-msgstr "DriverPack zal het systeem scannen, het installeert de vereiste <br/> drivers & software en diagnostiek uitvoeren. <br/> De efficiëntie van de computer zou moeten toenemen."
+msgstr "DriverPack zal het systeem scannen, het installeert de vereiste<br/>drivers & software en diagnostiek uitvoeren. <br/> De efficiëntie van de computer zou moeten toenemen."
 
 msgid "start_expert_mode"
 msgstr "Expert modus"
@@ -1141,13 +1157,13 @@ msgid "start_diagnostics_network"
 msgstr "Netwerkverbinding controle"
 
 msgid "start_diagnostics_video"
-msgstr "Controle Video-kaart."
+msgstr "Controle Video-kaart"
 
 msgid "start_diagnostics_audio"
 msgstr "Controle van geluidskaart"
 
 msgid "start_diagnostics_other"
-msgstr "Controle andere apparaten."
+msgstr "Controle andere apparaten"
 
 msgid "delorean_use_remote_confirm"
 msgstr "Er is een actieve internetverbinding gevonden op uw computer. De volledige driver database is online beschikbaar en bevat de nieuwste versies. Wilt u de database uit het netwerk gebruiken? (verkeersverbruik is mogelijk)"
@@ -1174,13 +1190,7 @@ msgid "installation_header_promo_title_cloud"
 msgstr "Iets nieuws: DriverPack Cloud Beta"
 
 msgid "installation_header_promo_text_cloud"
-msgstr "Onze nieuwe tool voorspelt enkele storingen, door de technologie van de Machine Learning en stelt oplossingen voor gemeenschappelijke problemen voor. <br> Test de beta-versie uit en vergeet niet om uw ervaring te delen — het zal ons helpen DriverPack Cloud te verbeteren en het nog nuttiger te maken."
-
-msgid "installation_header_promo_title_wannacrypt"
-msgstr "Aandacht! Gevaarlijke virusactiviteit"
-
-msgid "installation_header_promo_text_wannacrypt"
-msgstr "WannaCry virus is zeer actief verspreid op dit moment - het codeert uw bestanden en vraagt geld voor hun decodering. Meer dan 300.000 gebruikers zijn al aangevallen, daarom hebben we DriverPack aangevuld met de hulpprogramma's die uw computer beveiligen: <br><br> &nbsp;&nbsp;• MS17-010 bijwerken — de laatste Windows -update <br>&nbsp;&nbsp;• Eliminatie van het belangrijkste beveiligingslek — SMBv1 toegangsprotocol voor gedeelde mappen <br>&nbsp;&nbsp;• Gratis Avast antivirus die uw computer vanaf hier weer veilig zal stellen"
+msgstr "Onze nieuwe tool voorspelt enkele storingen, door de technologie van de Machine Learning en stelt oplossingen voor gemeenschappelijke problemen voor.<br>Test de beta-versie uit en vergeet niet om uw ervaring te delen — het zal ons helpen DriverPack Cloud te verbeteren en het nog nuttiger te maken."
 
 msgid "installation_header_promo_title_avast"
 msgstr "Wat maakt Avast beter dan andere antivirussen?"
@@ -1222,7 +1232,7 @@ msgid "installation_header_promo_title_social"
 msgstr "Word lid van de DriverPack gemeenschap"
 
 msgid "installation_header_promo_text_social"
-msgstr "In onze publieke groepen beantwoorden we altijd uw vragen over de software, delen informatie over onze updates en technologieën en informeren u over belangrijke nieuws en trends in de IT-industrie."
+msgstr "In onze publieke groepen beantwoorden we altijd uw vragen over de software, delen informatie over onze updates en technologieën en informeren u over belangrijk nieuws en trends in de IT-industrie."
 
 msgid "installation_header_promo_title_protect"
 msgstr "Hoe helpt DriverPack Protect de computer?"
@@ -1255,10 +1265,10 @@ msgid "softcategories_browser-single-for"
 msgstr "browser"
 
 msgid "softcategories_viewer-single-for"
-msgstr "Bestand inzage software"
+msgstr "bestand inzage software"
 
 msgid "softcategories_messenger-single-for"
-msgstr "Berichten software"
+msgstr "berichten software"
 
 msgid "softcategories_internet-single-for"
 msgstr "software om te werken in het internet netwerk"
@@ -1308,3 +1318,16 @@ msgstr "De geluidskaart is verkeerd aangesloten of er zijn problemen met de werk
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Dutch"
+
+#~ msgid "installation_header_promo_title_wannacrypt"
+#~ msgstr "Attention! Dangerous virus activity"
+
+#~ msgid "installation_header_promo_text_wannacrypt"
+#~ msgstr ""
+#~ "WannaCry virus is actively spread at the moment — it encodes your files and "
+#~ "demands money for their decoding. More than 300,000 users already have been "
+#~ "attacked, that's why we have supplemented DriverPack with the tools that "
+#~ "will secure your computer:<br><br> &nbsp;&nbsp;• Update MS17-010 — The "
+#~ "latest Windows update<br>&nbsp;&nbsp;• Elimination of the main vulnerability"
+#~ " — SMBv1 access protocol to shared folders <br>&nbsp;&nbsp;• Free of charge "
+#~ "Avast antivirus that will secure your computer from here on"
