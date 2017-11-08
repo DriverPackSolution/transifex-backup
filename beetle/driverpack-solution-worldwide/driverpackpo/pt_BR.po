@@ -10,8 +10,8 @@ msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-10-18 12:44+0000\n"
-"PO-Revision-Date: 2017-10-31 15:05+0000\n"
-"Last-Translator: Alessandro João <ajkmetiuk@bol.com.br>\n"
+"PO-Revision-Date: 2017-11-06 13:57+0000\n"
+"Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Portuguese (Brazil) (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/pt_BR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -275,7 +275,7 @@ msgid "settings_protect-title"
 msgstr "DriverPack Protect"
 
 msgid "settings_protect-caption"
-msgstr "Esta tecnologia irá ajudá-lo a limpar o seu computador de malware e adware plug-ins que, mesmo o software antivírus e as ferramentas de bloqueio de anúncios muitas vezes não conseguem detectar ou corrigir completamente. O nosso sistema de limpeza de malware e software inútil permitirá liberar muito mais espaço no seu disco rígido e aumentar a eficiência do seu computador. É por isso que recomendamos insistentemente que você use essa função e se beneficie de suas vantagens."
+msgstr "Esta tecnologia irá ajudá-lo a limpar o seu computador de malware e plug-ins maliciosos que, mesmo o antivírus e as ferramentas de bloqueio de anúncios muitas vezes não conseguem detectar ou corrigir completamente. O nosso sistema de limpeza de malware e programas indesejados permitirá liberar muito mais espaço no seu disco rígido e aumentar a eficiência do seu computador. É por isso que recomendamos insistentemente que você use essa função e se beneficie de suas vantagens."
 
 msgid "settings_protect-anchor"
 msgstr "Saiba mais "
@@ -287,7 +287,7 @@ msgid "settings_diagnostics-title"
 msgstr "Ativar Modo de Diagnóstico"
 
 msgid "settings_diagnostics-caption"
-msgstr "Esta seção contém todas as informações sobre a configuração do computador. Além disso, devido a diagnósticos abrangentes, o algoritmo DriverPack instala todos os drivers necessários com a maior precisão e rapidez possível. É por isso que recomendamos que não desabilite essa função."
+msgstr "Esta seção contém todas as informações sobre a configuração do computador. Além disso, devido a diagnósticos abrangentes, o algoritmo do DriverPack instala todos os drivers necessários com a maior precisão e rapidez possível. É por isso que recomendamos que não desabilite essa função."
 
 msgid "settings_expert-mode-title"
 msgstr "Ativar o Modo Avançado"
@@ -323,13 +323,13 @@ msgid "settings_soft-title"
 msgstr "Desativa a instalação dos programas recomendados"
 
 msgid "settings_soft-caption"
-msgstr "Quando esta função é ativada, a instalação dos aplicativos e software recomendados será desativada. No entanto, isso significa que muitos aplicativos úteis e gratuitos não serão instalados em seu computador. Tem certeza de que deseja deixar essa oportunidade?"
+msgstr "Quando esta função é ativada, a instalação dos aplicativos e programas recomendados será desativada. No entanto, isso significa que muitos aplicativos úteis e gratuitos não serão instalados em seu computador. Tem certeza de que quer deixar passar esta oportunidade?"
 
 msgid "settings_banners-title"
 msgstr "Desativar banners de informações"
 
 msgid "settings_banners-caption"
-msgstr "Esses banners contêm informações úteis relacionadas à operação de uma série de aplicativos oferecidos pelo DriverPack. Você pode desativar sua exibição, mas significa que você perderá os recursos adicionais e os novos recursos desse software."
+msgstr "Esses banners contêm informações úteis relacionadas à operação de uma série de aplicativos oferecidos pelo DriverPack. Você pode desativar sua exibição, mas significa que você perderá os recursos adicionais e os novos recursos desse programa."
 
 msgid "settings_notifier-title"
 msgstr "Notificador do DriverPack"
@@ -347,7 +347,7 @@ msgid "settings_bug-report-title"
 msgstr "Ative a opção de interceptação de erro (Error Catch)"
 
 msgid "settings_bug-report-caption"
-msgstr "Os engenheiros do DriverPack desenvolveram este sistema para que o próprio software possa informá-lo sobre quaisquer problemas de operação e, em seguida, oferecer maneiras de corrigi-los rapidamente."
+msgstr "Os engenheiros do DriverPack desenvolveram este sistema para que o próprio programa possa informá-lo sobre quaisquer problemas de operação e, em seguida, oferecer maneiras de corrigi-los rapidamente."
 
 msgid "settings_bug-report-anchor"
 msgstr "Saiba mais "
@@ -359,7 +359,7 @@ msgid "settings_restore-point-title"
 msgstr "Criar pontos de restauração "
 
 msgid "settings_restore-point-caption"
-msgstr "DriverPack é a maneira mais confiável e rápida de configurar um computador e instalar drivers, mas apenas em caso de qualquer situação de emergência, antes do início do processo de configuração do computador, um ponto de restauração é criado. Ele permite que você retorne seu computador de volta à sua configuração anterior a qualquer momento."
+msgstr "O DriverPack é a maneira mais confiável e rápida de configurar um computador e instalar drivers, mas apenas em caso de qualquer situação de emergência, antes do início do processo de configuração do computador, um ponto de restauração é criado. Ele permite que você retorne seu computador de volta à sua configuração anterior a qualquer momento."
 
 msgid "settings_drivers-backup-title"
 msgstr "Criar backup do driver (backup)"
@@ -607,7 +607,7 @@ msgid "final_popover_new_driver"
 msgstr "Driver atualizado"
 
 msgid "final_popover_new_driver_not_installed_caption"
-msgstr "Ocorreu um erro durante o processo de instalação e o driver anterior foi restaurado neste dispositivo"
+msgstr "Ocorreu um erro durante o processo de instalação e o driver anterior foi restaurado neste dispositivo."
 
 msgid "final_computer_setup_ok_title"
 msgstr "Opa! Seu computador foi configurado!"
@@ -615,13 +615,13 @@ msgstr "Opa! Seu computador foi configurado!"
 msgid "final_drivers_not_better_title"
 msgid_plural "final_drivers_not_better_title_n"
 msgstr[0] "{{COUNT1}}o driver fora de {{COUNT2}}foi instalado"
-msgstr[1] "{{COUNT1}}drivers de{{COUNT2}}foram instalados"
+msgstr[1] "{{COUNT1}} drivers de {{COUNT2}} foram instalados"
 
 msgid "final_single_driver_better_installed_title"
-msgstr "O driver foi instalado."
+msgstr "O driver foi instalado"
 
 msgid "final_single_driver_better_not_installed_title"
-msgstr "O driver não foi instalado."
+msgstr "O driver não foi instalado"
 
 msgid "final_programs_some_finished_title"
 msgid_plural "final_programs_some_finished_title_n"
@@ -629,10 +629,10 @@ msgstr[0] "Foi instalado {{COUNT1}} dos {{COUNT2}} programas"
 msgstr[1] "Foram instalados {{COUNT1}} dos {{COUNT2}} programas"
 
 msgid "final_programs_all_failed_title"
-msgstr "0 programas de software de {{COUNT}}estão instalados"
+msgstr "0 programas de software de {{COUNT}} estão instalados"
 
 msgid "final_single_program_failed_title"
-msgstr "O programa de software não foi instalado."
+msgstr "O programa de software não foi instalado"
 
 msgid "final_offline_restart"
 msgstr "Foi detectada uma conexão de rede. Reinicie o DriverPack para instalar as versões mais recentes dos drivers."
@@ -645,8 +645,8 @@ msgstr "Todos os drivers importantes foram instalados."
 
 msgid "final_drivers_not_better_subtitle"
 msgid_plural "final_drivers_not_better_subtitle_n"
-msgstr[0] "No entanto, {{COUNT}}drivers importantes não foram instalados. Recomendamos que você repita a instalação ou verifique a operação de seus dispositivos."
-msgstr[1] "No entanto,{{COUNT}}drivers importantes não foram instalados. Recomendamos que você repita a instalação ou verifique a operação de seus dispositivos. "
+msgstr[0] "No entanto, {{COUNT}} driver importantes não foram instalados. Recomendamos que você repita a instalação ou verifique a operação de seus dispositivos."
+msgstr[1] "No entanto, {{COUNT}} drivers importantes não foram instalados. Recomendamos que você repita a instalação ou verifique a operação de seus dispositivos. "
 
 msgid "final_single_driver_ok_programs_subtitle"
 msgstr "Todos os drivers e utilitários importantes foram instalados."
@@ -656,8 +656,8 @@ msgstr "Todos os drivers importantes foram instalados."
 
 msgid "final_programs_all_finished_subtitle"
 msgid_plural "final_programs_all_finished_subtitle_n"
-msgstr[0] "{{COUNT}}o software foi instalado."
-msgstr[1] " {{COUNT}}software de programa foi instalado. "
+msgstr[0] "{{COUNT}} o software foi instalado."
+msgstr[1] " {{COUNT}} software de programa foi instalado. "
 
 msgid "final_programs_some_finished_subtitle"
 msgstr "A instalação de algum software útil falhou."
@@ -678,72 +678,72 @@ msgid "final_main_remove_harmful_caption"
 msgstr "Vá para limpeza do computador para se livrar do software indesejado"
 
 msgid "final_main_offline_reload"
-msgstr "Reiniciar e verificar atualizações."
+msgstr "Reiniciar e verificar atualizações"
 
 msgid "final_main_next_btn"
 msgstr "Continuar"
 
 msgid "final_restart_installation_btn"
-msgstr "Comece a instalar mais uma vez."
+msgstr "Comece a instalar mais uma vez"
 
 msgid "final_skip_btn"
 msgstr "Pular"
 
 msgid "final_install_required_drivers_btn"
-msgstr "Instalar drivers importantes."
+msgstr "Instalar drivers importantes"
 
 msgid "loading_reboot"
 msgstr "Recomendamos que você reinicie seu computador assim que a instalação estiver completa"
 
 msgid "final_aside_installed_drivers_title"
 msgid_plural "final_aside_installed_drivers_title_n"
-msgstr[0] "{{COUNT}}o driver foi instalado"
-msgstr[1] "{{COUNT}}os drivers foram instalados"
+msgstr[0] "{{COUNT}} o driver foi instalado"
+msgstr[1] "{{COUNT}} os drivers foram instalados"
 
 msgid "final_some_drivers_not_installed"
-msgstr "Alguns drivers não foram instalados."
+msgstr "Alguns drivers não foram instalados"
 
 msgid "final_rollback_drivers"
 msgstr "Reverter os drivers problemáticos"
 
 msgid "final_required_drivers_not_installed"
-msgstr "Os drivers importantes não foram instalados."
+msgstr "Os drivers importantes não foram instalados"
 
 msgid "final_aside_installed_drivers_caption"
 msgstr "Nós instalamos alguns softwares úteis e gratuitos para você, incluindo antivírus, navegadores e kits de ferramentas do driver. Todos eles são potencialmente úteis."
 
 msgid "final_aside_remove_harmful_programs"
-msgstr "Eliminar software indesejado."
+msgstr "Eliminar software indesejado"
 
 msgid "final_aside_install_additional_programs"
-msgstr "Instalar software adicional."
+msgstr "Instalar software adicional"
 
 msgid "final_aside_some_programs_not_installed"
-msgstr "Algum software não foi instalado."
+msgstr "Algum software não foi instalado"
 
 msgid "final_aside_broken_devices_title"
-msgstr "Dispositivos problemáticos foram detectados."
+msgstr "Dispositivos problemáticos foram detectados"
 
 msgid "final_aside_broken_devices_caption"
 msgstr "Alguns dispositivos neste computador não estão funcionando corretamente, e é impossível instalar drivers para eles. Recomendamos que você verifique sua manutenção."
 
 msgid "games_top_game_free_demo"
-msgstr "Versão demo grátis."
+msgstr "Versão demo grátis"
 
 msgid "games_top_game_free_paid"
 msgstr "Você precisará de uma cópia do jogo comprada de {{SELLER}}"
 
 msgid "games_top_game_play"
-msgstr "Comece a jogar."
+msgstr "Comece a jogar"
 
 msgid "games_playkey_top_title"
-msgstr "Jogue <span class='games_title-marked bold'> nos melhores jogos</span> no nível mais alto <br /><span class='bold'> de configuração, mesmo no computador fraco.</span>"
+msgstr "Jogue <span class='games_title-marked bold'>nos melhores jogos</span> no nível mais alto <br /> <span class='bold'>de configuração, mesmo no computador fraco</span>"
 
 msgid "games_playkey_open_catalog_button"
-msgstr "Mais de 150 jogos no catálogo PlayKey."
+msgstr "Mais de 150 jogos no catálogo PlayKey"
 
 msgid "games_playkey_cloud_title"
-msgstr "O jogo começa <span class='games_title-marked bold'> no Cloud</span> no lado do servidor, <br /><span class='bold'>, não usa os recursos do seu computador</span>"
+msgstr "O jogo começa <span class='games_title-marked bold'>no Cloud</span> no lado do servidor, <br /> <span class='bold'>assim, não usa os recursos do seu computador</span>"
 
 msgid "games_playkey_cloud_img_pc_caption"
 msgstr "O computador transfere as ações do usuário"
@@ -770,22 +770,22 @@ msgid "installation_header_subtitle"
 msgstr "Pode levar algum tempo, mas&nbsp;vale a pena"
 
 msgid "installation_header_subtitle_installing-driver"
-msgstr "{{CLASS.SINGLE.FOR}}o driver está instalando"
+msgstr "{{CLASS.SINGLE.FOR}} o driver está instalando"
 
 msgid "installation_header_subtitle_installing-program-plural"
-msgstr "{{CATEGORY.PLURAL.FOR}}instalando"
+msgstr "{{CATEGORY.PLURAL.FOR}} instalando"
 
 msgid "installation_header_subtitle_installing-program"
-msgstr "{{CATEGORY.SINGLE.FOR}}instalando"
+msgstr "{{CATEGORY.SINGLE.FOR}} instalando"
 
 msgid "installation_header_subtitle_downloading"
 msgstr "Carregando arquivos"
 
 msgid "installation_header_preparing"
-msgstr "Estamos criando um ponto de restauração ..."
+msgstr "Estamos criando um ponto de restauração..."
 
 msgid "installation_header_title"
-msgstr "Estamos configurando seu computador ..."
+msgstr "Estamos configurando seu computador..."
 
 msgid "installation_header_promo_more"
 msgstr "saiba mais"
@@ -857,7 +857,7 @@ msgid "soft_category_viewer"
 msgstr "Vizualizar imagens e documentos"
 
 msgid "soft_category_messenger"
-msgstr "Chamadas e mensagens gratuitas."
+msgstr "Chamadas e mensagens gratuitas"
 
 msgid "soft_category_internet"
 msgstr "Utilitários de internet"
@@ -866,7 +866,7 @@ msgid "soft_category_player"
 msgstr "Assistir filme e video"
 
 msgid "soft_category_backup"
-msgstr "Backup e restauração de dados."
+msgstr "Backup e restauração de dados"
 
 msgid "soft_category_antivirus"
 msgstr "Proteção antivírus"
@@ -893,13 +893,13 @@ msgid "installation_error_restore_not_created"
 msgstr "Erro de criação"
 
 msgid "installation_progress_stage_creating"
-msgstr "Criando ..."
+msgstr "Criando..."
 
 msgid "installation_progress_stage_created"
 msgstr "Foi criado com sucesso"
 
 msgid "installation_progress_stage_waiting"
-msgstr "Na Fila de espera para Download"
+msgstr "Na fila de espera para download"
 
 msgid "installation_progress_stage_downloading"
 msgstr "Carregando..."
@@ -911,7 +911,7 @@ msgid "installation_progress_downloading_of"
 msgstr "de"
 
 msgid "installation_progress_stage_downloaded"
-msgstr "Esperando para ser instalado"
+msgstr "Na fila de espera para ser instalado"
 
 msgid "installation_progress_stage_unzipping"
 msgstr "Descompactando..."
@@ -950,22 +950,22 @@ msgid "loading_backup_failed"
 msgstr "Ocorreu um erro no processo de criação de backup do driver"
 
 msgid "about_run_error"
-msgstr "Ocorreu um problema durante a operação do DriverPack Solution<br><br> Se o problema persistir, envie-nos um e-mail para support@drp.su."
+msgstr "Ocorreu um problema durante a operação do DriverPack Solution<br> <br> Se o problema persistir, envie-nos um e-mail para support@drp.su"
 
 msgid "loading_preparing"
-msgstr "O aplicativo está se preparando para ser iniciado ..."
+msgstr "O aplicativo está se preparando para ser iniciado..."
 
 msgid "loading_system_scanning"
-msgstr "Estamos verificando a configuração do computador ..."
+msgstr "Estamos verificando a configuração do computador..."
 
 msgid "loading_sending_api_request"
-msgstr "Estamos carregando dados da nuvem do servidor ..."
+msgstr "Estamos carregando dados da nuvem do servidor..."
 
 msgid "loading_checking_installed_programs"
-msgstr "Estamos analisando o software ..."
+msgstr "Estamos analisando o software..."
 
 msgid "loading_ordering_drivers"
-msgstr "Estamos gerando a ordem de instalação do driver ..."
+msgstr "Estamos gerando a ordem de instalação do driver..."
 
 msgid "menu_install_drivers"
 msgstr "Instalação do driver no computador"
@@ -1016,7 +1016,7 @@ msgid "no-internet-screen_guide-step-1"
 msgstr "Passo 1"
 
 msgid "no-internet-screen_guide-step-1-action"
-msgstr "Visite <span class='bold'>site www.drp.su</span><br /> usando outro computador"
+msgstr "Visite site <span class='bold'>www.drp.su</span><br />usando outro computador"
 
 msgid "no-internet-screen_guide-step-2"
 msgstr "Passo 2"
@@ -1028,7 +1028,7 @@ msgid "no-internet-screen_guide-step-complete"
 msgstr "Concluído"
 
 msgid "no-internet-screen_guide-step-complete-action"
-msgstr "Execute o aplicativo neste computador e <br />configure o computador com um botão"
+msgstr "Execute o aplicativo neste computador e <br /> configure o computador com um botão"
 
 msgid "programs_btn_install_single"
 msgstr "instalar"
@@ -1049,7 +1049,7 @@ msgid "drivers_program_counter"
 msgstr "Software recomendado"
 
 msgid "protect_row_rating"
-msgstr "avaliar:"
+msgstr "Avaliar:"
 
 msgid "protect_row_size"
 msgstr "Tamanho:"
@@ -1100,7 +1100,7 @@ msgid "protect_state_warn_unchecked_caption"
 msgstr "É possível removê-los, marcando-os na lista abaixo"
 
 msgid "protect_state_warn"
-msgstr "Os programas de software indesejados serão removidos: {{COUNT}}psc."
+msgstr "Os programas de software indesejados serão removidos: {{COUNT}} psc."
 
 msgid "protect_state_err"
 msgstr "Para habilitar o DriverPack Protect, você deve primeiro conectar seu computador à Internet e reiniciar o DriverPack"
@@ -1126,7 +1126,7 @@ msgid "start_button_install"
 msgstr "Configure o computador automaticamente"
 
 msgid "start_caption"
-msgstr "DriverPack irá verificar o sistema, instalar os drivers e software necessários<br/>, e realizar os diagnósticos.<br/>A eficiência do computador deve aumentar."
+msgstr "DriverPack irá verificar o sistema, instalar os drivers e software necessários,<br/>e realizar os diagnósticos.<br/>A eficiência do computador deve aumentar."
 
 msgid "start_expert_mode"
 msgstr "Modo Expert"
@@ -1141,8 +1141,8 @@ msgstr "Os drivers para o seu computador foram selecionados e estão prontos par
 
 msgid "start_programs_title"
 msgid_plural "start_programs_title_n"
-msgstr[0] "{{COUNT}}o aplicativo será instalado"
-msgstr[1] "{{COUNT}}os aplicativos serão instalados."
+msgstr[0] "{{COUNT}} o aplicativo será instalado"
+msgstr[1] "{{COUNT}} os aplicativos serão instalados"
 
 msgid "start_programs_popover"
 msgstr "Os seguintes programas recomendados gratuitos foram selecionados para o seu computador: antivírus, arquivadores, navegadores e kits de ferramentas do driver — tudo o que pode ser útil para uma operação confortável."
@@ -1196,7 +1196,7 @@ msgid "installation_header_promo_title_avast"
 msgstr "O que torna o Avast melhor do que outros antivírus?"
 
 msgid "installation_header_promo_text_avast"
-msgstr "O Avast é um dos antivírus mais populares do mundo porque protege bem o computador, não abranda o sistema e pode efetivamente operar como antivírus adicional<br />Ainda melhor, é grátis, então isso realmente merece nossa recomendação."
+msgstr "O Avast é um dos antivírus mais populares do mundo porque protege bem o computador, não abranda o sistema e pode efetivamente operar como antivírus adicional. <br /> Ainda melhor, é grátis, então isso realmente merece nossa recomendação."
 
 msgid "installation_header_promo_title_catalog"
 msgstr "Como encontrar drivers por você?"
@@ -1244,7 +1244,7 @@ msgid "installation_header_promo_title_restore"
 msgstr "Ponto de restauração do sistema"
 
 msgid "installation_header_promo_text_restore"
-msgstr "DriverPack sempre cria o ponto de restauração antes da instalação do driver<br /><br />. Você pode usá-lo para reverter o sistema para o seu estado anterior a qualquer momento, caso alguma coisa esteja errada."
+msgstr "DriverPack sempre cria o ponto de restauração antes da instalação do driver.<br /><br /> Você pode usá-lo para reverter o sistema para o seu estado anterior a qualquer momento, caso alguma coisa esteja errada."
 
 msgid "installation_header_promo_title_browsers"
 msgstr "Outro bom navegador não pode ser extra"
@@ -1262,7 +1262,7 @@ msgid "softcategories_archiver-single-for"
 msgstr "arquivador de ficheiros"
 
 msgid "softcategories_browser-single-for"
-msgstr "Navegadores"
+msgstr "navegadores"
 
 msgid "softcategories_viewer-single-for"
 msgstr "software de exibição de arquivos"
