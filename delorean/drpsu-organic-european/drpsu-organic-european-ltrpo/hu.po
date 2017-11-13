@@ -182,7 +182,7 @@ msgstr "Kategória: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|monitors; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|мониторы; VENDOR.NAME=Acer;
 msgid "seo_devicegroups-footer-application-subcategory"
-msgstr ""
+msgstr "Alkategória: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}}  {{CLASS.PLURAL.MAIN}} </span>"
 
 #. i18n: EN: Example: CLASS.SINGLE.FOR=videocard|monitor; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.SINGLE.FOR=видеокарты|монитора; VENDOR.NAME=Acer;
@@ -232,7 +232,7 @@ msgstr "Kategória: <span itemprop='applicationCategory'>{{GROUP.VENDOR.NAME}}  
 #. GROUP.NAME=GeForce 210; RU: Пример: CLASS.PLURAL.MAIN=видеокарты|чипсеты;
 #. GROUP.NAME=GeForce 210;
 msgid "seo_devicegroup-footer-application-subcategory"
-msgstr ""
+msgstr "Alkategória: <span itemprop='applicationSubCategory'>{{GROUP.NAME}}  {{CLASS.PLURAL.MAIN}} </span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
 #. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
@@ -283,7 +283,7 @@ msgstr "Kategória: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|чипсеты; VENDOR.NAME=Acer;
 msgid "seo_hwid-footer-application-subcategory"
-msgstr ""
+msgstr "Alkategória: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}} </span>"
 
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
@@ -332,7 +332,7 @@ msgstr "Alkategória: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} la
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebook-title"
-msgstr ""
+msgstr "{{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}} driverek | Letöltés Windows 7, XP, 10, 8, és 8.1 rendszerekhez"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
@@ -445,7 +445,7 @@ msgid "seo_devicegroupos-footer-application-category"
 msgstr "Kategória: <span itemprop='applicationCategory'>{{GROUP.VENDOR.NAME}}  {{CLASS.PLURAL.MAIN}} </span>"
 
 msgid "seo_devicegroupos-footer-application-subcategory"
-msgstr ""
+msgstr "Alkategória: <span itemprop='applicationSubCategory'>{{GROUP.NAME}}  {{CLASS.PLURAL.MAIN}} </span>"
 
 msgid "seo_devicegroupos-footer-content"
 msgstr "{{GROUP.VENDOR.NAME}}{{GROUP.NAME}}{{CLASS.PLURAL.FOR}} driverek letöltése (Windows {{OS}}), vagy telepítse a DriverPack Solution szoftvert a driverek kereséséhez és frissítéséhez"
@@ -463,7 +463,7 @@ msgid "seo_notebookos-keywords"
 msgstr "driverek driverek laptop notebook laptop netbook netbook Windows {{OS}} letöltés letöltés {{NOTEBOOK.NAME}} {{NOTEBOOK.VENDOR.NAME}}"
 
 msgid "seo_notebookos-footer-description"
-msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}driverek letöltése laptopokhoz Windows {{OS}} rendszereken ingyen"
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} driverek letöltése laptopokhoz Windows {{OS}} rendszereken ingyen"
 
 msgid "seo_notebookos-footer-application-category"
 msgstr "Kategória: <span itemprop='applicationCategory'>{{NOTEBOOK.VENDOR.NAME}} laptopok</span>"
@@ -478,184 +478,184 @@ msgid "seo_deviceclassos-title"
 msgstr "{{CLASS.SINGLE.FOR}} driverek letöltése Windows {{OS}} rendszerhez"
 
 msgid "seo_deviceclassos-description"
-msgstr ""
+msgstr "{{CLASS.SINGLE.FOR}} driverek telepítése Windows {{OS}} rendszerre, vagy telepítse a DriverPack Solution szoftvert a driverek kereséséhez és frissítéséhez"
 
 msgid "seo_deviceclassos-h1"
 msgstr "{{CLASS.SINGLE.FOR}} driverek Windows {{OS}} verzióhoz"
 
 msgid "seo_deviceclassos-keywords"
-msgstr ""
+msgstr "{{CLASS.SINGLE.FOR}} driverek Windows {{OS}} letöltés letöltés"
 
 msgid "seo_deviceclassos-footer-description"
-msgstr ""
+msgstr "{{CLASS.SINGLE.FOR}} driverek letöltése Windows {{OS}} rendszerhez ingyen"
 
 msgid "seo_deviceclassos-footer-application-category"
-msgstr ""
+msgstr "Kategória: <span itemprop='applicationCategory'>Eszközök</span>"
 
 msgid "seo_deviceclassos-footer-application-subcategory"
-msgstr ""
+msgstr "Alkategória: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_devicegroupsos-title"
-msgstr ""
+msgstr "{{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} driverek letöltése Windows {{OS}} verzióhoz"
 
 msgid "seo_devicegroupsos-description"
-msgstr ""
+msgstr "{{VENDOR.NAME}}{{CLASS.SINGLE.FOR}} driverek telepítése Windows {{OS}} rendszerre, vagy telepítse a DriverPack Solution szoftvert a driverek kereséséhez és frissítéséhez"
 
 msgid "seo_devicegroupsos-h1"
 msgstr "{{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} drivers Windows {{OS}} verzióhoz"
 
 msgid "seo_devicegroupsos-keywords"
-msgstr ""
+msgstr "driverek Windows {{OS}} letöltés letöltés PC {{CLASS.PLURAL.MAIN}}{{VENDOR.NAME}}"
 
 msgid "seo_devicegroupsos-footer-description"
-msgstr ""
+msgstr "{{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} driverek letöltése Windows {{OS}} verzióhoz"
 
 msgid "seo_devicegroupsos-footer-application-category"
-msgstr ""
+msgstr "Kategória: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_devicegroupsos-footer-application-subcategory"
-msgstr ""
+msgstr "Alkategória: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}} </span>"
 
 msgid "seo_devicegroupsos-footer-content"
-msgstr ""
+msgstr "{{VENDOR.NAME}}{{CLASS.PLURAL.FOR}} driverek letöltése (Windows {{OS}}) ingyen, vagy telepítse a DriverPack Solution szoftvert a driverek kereséséhez és frissítéséhez"
 
 msgid "seo_notebookvendoros-title"
-msgstr ""
+msgstr "{{VENDOR.NAME}} laptop driverek letöltése Windows {{OS}} verzióhoz"
 
 msgid "seo_notebookvendoros-description"
-msgstr ""
+msgstr "{{VENDOR.NAME}} laptop driverek telepítése Windows {{OS}} rendszerhez, vagy telepítse a DriverPack Solution szoftvert a driverek kereséséhez és frissítéséhez"
 
 msgid "seo_notebookvendoros-h1"
 msgstr "{{VENDOR.NAME}} laptop driverek Windows {{OS}} verzióhoz"
 
 msgid "seo_notebookvendoros-keywords"
-msgstr ""
+msgstr "driverek driverek laptop notebook laptop netbook netbook Windows {{OS}} letöltés letöltés {{VENDOR.NAME}}"
 
 msgid "seo_notebookvendoros-footer-description"
-msgstr ""
+msgstr "{{VENDOR.NAME}} laptop driverek letöltése Windows {{OS}} rendszerhez ingyen"
 
 msgid "seo_notebookvendoros-footer-application-category"
-msgstr ""
+msgstr "Kategória: <span itemprop='applicationCategory'>Laptopok</span>"
 
 msgid "seo_notebookvendoros-footer-application-subcategory"
-msgstr ""
+msgstr "Alkategória: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} laptopok</span>"
 
 msgid "seo_notebookvendoros-footer-content"
-msgstr ""
+msgstr "{{VENDOR.NAME}} laptop driverek telepítése Windows {{OS}} rendszerhez ingyen, vagy telepítse a DriverPack Solution szoftvert a driverek letöltéséhez és frissítéséhez"
 
 msgid "seo_hwidos-title"
-msgstr ""
+msgstr "{{DEVICE.DEVICEID}} driver letöltése Windows {{OS}} rendszerhez"
 
 msgid "seo_hwidos-description"
-msgstr ""
+msgstr "{{DEVICE.DEVICEID}} driver letöltése Windows {{OS}} verzióhoz ingyen"
 
 msgid "seo_hwidos-h1"
 msgstr "{{DEVICE.DEVICEID}} eszköz drivere Windows {{OS}} verzióhoz"
 
 msgid "seo_hwidos-keywords"
-msgstr ""
+msgstr "driverek Windows {{OS}} letöltés letöltés PC {{DEVICE.DEVICEID}}"
 
 msgid "seo_hwidos-footer-description"
-msgstr ""
+msgstr "{{DEVICE.DEVICEID}} eszközdriverek letöltése Windows {{OS}} verzióhoz ingyen"
 
 msgid "seo_hwidos-footer-application-category"
-msgstr ""
+msgstr "Kategória: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_hwidos-footer-application-subcategory"
-msgstr ""
+msgstr "Alkategória: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}} </span>"
 
 msgid "seo_hwidos-footer-content"
-msgstr ""
+msgstr "{{DEVICE.DEVICEID}}driverek letöltése Windows {{OS}} rendszerhez, vagy telepítse a DriverPack Solution szoftvert a driverkereséshez és frissítéshez"
 
 msgid "seo_notebookdevicesos-title"
-msgstr ""
+msgstr "{{CLASS.SINGLE.FOR}} driverek {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptopokhoz | Letöltés {{OS}} rendszerhez"
 
 msgid "seo_notebookdevicesos-description"
-msgstr ""
+msgstr "{{CLASS.SINGLE.FOR}} driverek telepítése {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptophoz Windows {{OS}} rendszeren, vagy telepítse a DriverPack Solution szoftvert a driverek kereséséhez és frissítéséhez"
 
 msgid "seo_notebookdevicesos-h1"
 msgstr "{{CLASS.PLURAL.FOR}} driverek {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptopokhoz Windows {{OS}} verzióhoz"
 
 msgid "seo_notebookdevicesos-keywords"
-msgstr ""
+msgstr "driverek laptop netbook {{CLASS.PLURAL.MAIN}} Windows {{OS}} letöltés {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
 
 msgid "seo_notebookdevicesos-footer-description"
-msgstr ""
+msgstr "{{CLASS.SINGLE.FOR}} driverek letöltése {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptopokhoz Windows {{OS}} rendszeren ingyen"
 
 msgid "seo_notebookdevicesos-footer-application-category"
-msgstr ""
+msgstr "Kategória: <span itemprop='applicationCategory'> {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptopok</span>"
 
 msgid "seo_notebookdevicesos-footer-application-subcategory"
-msgstr ""
+msgstr "Alkategória: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}} driverek{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptopokhoz</span>"
 
 msgid "seo_notebookdevicesos-footer-content"
-msgstr ""
+msgstr "{{CLASS.SINGLE.FOR}} driverek letöltése {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptopokhoz (Windows {{OS}}) vagy telepítse a DriverPack Solution szoftvert a driverek kereséséhez és frissítéséhez"
 
 msgid "seo_promopage_title"
-msgstr ""
+msgstr "DriverPack – ingyenes driverfrissítés"
 
 msgid "seo_promo-description"
-msgstr ""
+msgstr "A DriverPack Solution azt tanácsolja, hogy töltse le ingyen az eszközeihez szükséges drivereket, vagy használja a szoftvert az automatikus drivertelepítéshez és frissítéshez!"
 
 msgid "seo_promo-keywords"
-msgstr ""
+msgstr "letöltés driver pack driverek windows 7 8 10 64 laptop ingyen driver telepítő driver telepítő szoftver"
 
 msgid "seo_promodevice_title"
-msgstr ""
+msgstr "Usb, bluetooth, nyomtató, wifi és videókártya driverek letöltése ingyen"
 
 msgid "seo_promodevice-description"
-msgstr ""
+msgstr "A DriverPack Solution frissíti az usb, bluetooth, nyomtató, wifi és videókártya drivereit a legfrissebb verzióra"
 
 msgid "seo_promodevice-keywords"
-msgstr ""
+msgstr "driver, bluetooth, nyomtató, hangkártya, webkamera, egér, videókártya"
 
 msgid "seo_promovendors_title"
-msgstr ""
+msgstr "Lenovo, Samsung, Acer, Asus, és Dell eszközök drivereinek letöltése ingyen"
 
 msgid "seo_promovendors-description"
-msgstr ""
+msgstr "A DriverPack frissíti a eLnovo, Samsung, Acer, Asus, és Dell eszközök drivereit a legfrissebb verzióra"
 
 msgid "seo_promovendors-keywords"
-msgstr ""
+msgstr "driver, dell, samsung, lenovo, asus, acer, toshiba, asus"
 
 msgid "seo_promodrivers_title"
-msgstr ""
+msgstr "Driverek letöltése és telepítése Windows 7, XP, 10, 8, és 8.1 rendszerekhez"
 
 msgid "seo_promodrivers-description"
-msgstr ""
+msgstr "A DriverPack ingyen frissíti a Windows 7, Windows 10, Windows XP, és Windows 8 drivereket"
 
 msgid "seo_promodrivers-keywords"
-msgstr ""
+msgstr "windows 7 driver, driver letöltése, windows 10 driver, driver frissítése, windows driver, driverek ingyen"
 
 msgid "seo_forgamers-description"
-msgstr ""
+msgstr "Videókártya driverek telepítése Windows 7, XP, 10, 8, és 8.1 rendszerhez, vagy telepítse a DriverPack Solution szoftvert az automatikus drivertelepítéshez és frissítéshez"
 
 msgid "seo_forgamers-keywords"
-msgstr ""
+msgstr "videókártya driverek windows 7 64 8 10 letöltés letöltés"
 
 msgid "seo_wannacrypt_title"
-msgstr ""
+msgstr "WannaСry vírus - hogyan védheti meg a számítógépét és laptopját?"
 
 msgid "seo_wannacrypt-description"
-msgstr ""
+msgstr "Ingyenes védelem letöltése a WannaCry vírus ellen számítógépre és laptopra"
 
 msgid "seo_license_title"
-msgstr ""
+msgstr "Végfelhasználói licenszszerződés | DriverPack Solution"
 
 msgid "seo_license-description"
-msgstr ""
+msgstr "Végfelhasználói licenszszerződés és a DriverPack Solution használatai feltételei a használatával"
 
 msgid "seo_license-keywords"
-msgstr ""
+msgstr "driverek letöltés ingyen windows 7 XP 8 10 DriverPack Solution"
 
 msgid "seo_standards_title"
-msgstr ""
+msgstr "Szükséges szoftverszabvány | DriverPack Solution"
 
 msgid "seo_standards-description"
-msgstr ""
+msgstr "Szabványok és követlemények a DriverPack által ajánlott szoftvereket illetően"
 
 msgid "seo_standards-keywords"
-msgstr ""
+msgstr "szoftverszabványok SW DriverPack"
 
 msgid "seo_mainos-content-xp"
 msgstr ""
@@ -877,16 +877,16 @@ msgid "seo_notebook-footer-content-asus-k52jc"
 msgstr ""
 
 msgid "seo_notebook-footer-content-asus-k52jr"
-msgstr ""
+msgstr "Itt letöltheti az Asus k52jr laptop drivereit Windows XP, 7, 8, 8.1, és 10 rendszerre. Minden drivercsomagunk biztonságát és működését szakértők tesztelték."
 
 msgid "seo_notebook-footer-content-asus-x101ch"
-msgstr ""
+msgstr "Itt letöltheti az Asus X101CH laptop drivereit Windows XP, 7, 8, 8.1, és 10 rendszerre. Nem találta meg a drivert az adatbázisunkban? Töltse le a DriverPack Solution automatikus drivertelepítő szoftvert, mely kiválasztja az eszközhöz szükséges drivert bármiféle egyéb erőfeszítés nélkül."
 
 msgid "seo_notebook-footer-content-asus-k50ij"
-msgstr ""
+msgstr "Az Asus K50ij laptop driverei Windows XP, 7, 8, 8.1 vagy 10 rendszerhez itt letölthetőek. Ha nem találja a szükséges drivert az adatbázisunkban, használja a DriverPack Solution szoftvert a driverek kereséséhez és telepítéséhez! Ingyenes, és a többit pedig elvégzi magától."
 
 msgid "seo_notebook-footer-content-asus-x551ma"
-msgstr ""
+msgstr "Nem sikerült az Asus x551ma hálózati kontroller driverének telepítése? Töltse le manuálisan a szükséges drivert Windows XP, 7, 8, 8.1 vagy 10 rendszerhez, vagy használja az ingyenes eszközünket, a DriverPack Solutiont a driverfrissítéshez!"
 
 msgid "seo_notebook-footer-content-asus-k53ta"
 msgstr ""
@@ -913,13 +913,13 @@ msgid "seo_notebook-footer-content-acer-aspire-v3-571g-wifi"
 msgstr ""
 
 msgid "seo_notebook-footer-content-acer-aspire-v3-571g-video"
-msgstr ""
+msgstr "Itt letöltheti az Acer Aspire v3 571g laptop videókártya drivereit ingyen. Nem elégedett vele? Emellett letöltheti a DriverPack Solution szoftvert is, mely kiválasztja az ön konfigurációjához leginkább illő drivert."
 
 msgid "seo_notebook-footer-content-acer-aspire-v3-571g-sound"
-msgstr ""
+msgstr "Ebben a szekcióban letöltheti az Acer Aspire v3 571g laptop drivereit az összes Windows verzióhoz. A drivereink teljesen biztonságosak, és kitűnően működnek."
 
 msgid "seo_notebook-footer-content-acer-aspire-v3-571g-inputdev"
-msgstr ""
+msgstr "Itt letöltheti az Acer Aspire v3 571g laptop billentyűzet és egyéb bemeneti eszközeinek drivereit Windows XP, 7, 8, 8.1, és 10 rendszerre teljesen ingyen. Az összes driverünk biztonságát és működését ellenőriztük."
 
 msgid "seo_notebook-footer-content-acer-aspire-v3-571g-lan"
 msgstr ""
@@ -940,19 +940,19 @@ msgid "seo_notebook-footer-content-asus-k50c-wifi"
 msgstr ""
 
 msgid "seo_notebook-footer-content-asus-x553ma-video"
-msgstr ""
+msgstr "Túl régiek az Asus x553ma laptopjának videókártya driverei? Innen letöltheti az Asus X553MA drivereit Windows XP, 7, 8, 8.1 vagy 10 rendszerhez."
 
 msgid "seo_notebook-footer-content-asus-x101ch-video"
-msgstr ""
+msgstr "Nem indul a játék az Asus X101CH laptopon? Innen letöltheti a videókártyadrivert az Asus X101CH laptophoz Windows XP, 7, 8, 8.1 vagy 10 rendszeren ingyen. Lehetséges, hogy megoldja a problémát."
 
 msgid "seo_notebook-footer-content-asus-k50ij-wifi"
-msgstr ""
+msgstr "Wifi drivereket keres az Asus k50ij laptopjához Windows XP, 7, 8, 8.1, vagy 10 rendszeren? Töltse le közvetlenül az adatbázisunkból, vagy telepítse a DriverPack Solution szoftvert az automatikus driverfrissítéshez, hiszen teljesen ingyenes!"
 
 msgid "seo_notebook-footer-content-asus-x551ma-lan"
-msgstr ""
+msgstr "Nem sikerült telepítenie az Asus x551ma hálózati kontrollert? Töltse le a szükséges drivert Windows XP, 7, 8, 8.1 vagy 10 rendszerhez manuálisan, vagy használja az ingyenes DriverPack Solution szoftverünket a driverfrissítéshez!"
 
 msgid "seo_notebook-footer-content-lenovo-g580-lan"
-msgstr ""
+msgstr "A Lenovo g580 laptop driverei Windows XP, 7, 8, 8.1 vagy 10 rendszerhez innen letölthetőek. Ha nem találja a szükséges drivert, töltse le, és telepítse a DriverPack Solution szoftvert! Ingyenes, és automatikusan kiválaszt mindent, ami a laptopja megfelelő működéséhez szüksége lehet."
 
 msgid "seo_notebook-footer-content-acer-aspire-v3-571g-7-x86"
 msgstr ""
@@ -964,58 +964,58 @@ msgid "seo_notebook-footer-content-acer-aspire-v3-571g-8.1-x86"
 msgstr ""
 
 msgid "seo_notebook-footer-content-acer-aspire-v3-571g-10-x86"
-msgstr ""
+msgstr "Itt letöltheti az Acer Aspire v3 571g laptop drivereit Windows 10 rendszerre. A mi drivereink teljesen működőképesek és vírusirtókkal ellenőriztettük őket."
 
 msgid "seo_notebook-footer-content-asus-x550cc-7-x86"
-msgstr ""
+msgstr "Ebben a szekcióban letöltheti az Asus X550CL laptop drivereit Windows 7 x86 rendszerre. Az összes driverünket vírusirtókkal ellenőrizzük."
 
 msgid "seo_notebook-footer-content-asus-x550cc-7-x64"
-msgstr ""
+msgstr "Itt letöltheti az Asus X550CC laptop drivereit Windows 7 x64 rendszerhez ingyen. Ha valamilyen okból nem lenne elégedett az innen származó driverekkel, letöltheti a DriverPack Solution szoftvert is, mely megvizsgálja a laptopja aktuális drivereit, és a legfrissebb verzióra frissíti őket."
 
 msgid "seo_notebook-footer-content-asus-x550cl-7-x64"
-msgstr ""
+msgstr "Itt letöltheti az Asus X550CL laptop drivereit Windows 7 x64 rendszerre teljesen ingyen. Az összes driverünk működését szakértők ellenőrizték."
 
 msgid "seo_notebook-footer-content-asus-x540sa-7-x64"
-msgstr ""
+msgstr "Szeretné letölteni az Asus X540SA laptop drivereit Windows 7 x64 rendszerre? Itt mindent megtalál. Az összes drivercsomagunk biztonságát és működését ellenőriztük."
 
 msgid "seo_notebook-footer-content-asus-x540sa-8.1-x64"
-msgstr ""
+msgstr "Szeretné letölteni az Asus X540SA laptop drivereit Windows 8.1 x64 rendszerre? Itt mindent megtalál. Az összes drivercsomagunk biztonságát és működését a legjobb szakértőink ellenőrzik."
 
 msgid "seo_notebook-footer-content-asus-x540sa-10-x64"
-msgstr ""
+msgstr "Szeretné letölteni az Asus X540SA laptop drivereit Windows 10 x64 rendszerhez? Jó helyen jár. Ha valamilyen okból nem találná a megfelelő drivert az adatbázisban, letöltheti a DriverPack Solution szoftvert is, mely megvizsgálja a laptopja aktuális drivereit, és automatikusan a legfrissebb verzióra frissíti őket."
 
 msgid "seo_notebook-footer-content-asus-x540sc-7-x64"
-msgstr ""
+msgstr "Szeretné letölteni az Asus X540SC laptop drivereit Windows 7 x64 rendszerre? Az összes drivercsomagunk biztonságát és működését ellenőriztük."
 
 msgid "seo_notebook-footer-content-asus-x540sc-8.1-x64"
-msgstr ""
+msgstr "Az Asus X540SC laptop driverei Windows 8.1 x64 rendszerhez itt letölthetőek. Nem találta meg a drivert az adatbázisunkban? Ebben az esetben használja a DriverPack Solution szoftvert a driverek kereséséhez! Mindent gyorsan és megbízhatóan elvégez."
 
 msgid "seo_notebook-footer-content-asus-x540la-7-x64"
-msgstr ""
+msgstr "Itt letöltheti az Asus X540LA laptop drivereit Windows 7 x64 rendszerhez ingyen és bármiféle regisztráció nélkül. Az összes driverünk teljesen működőképes és nem jelent veszélyt a laptopjára."
 
 msgid "seo_notebook-footer-content-asus-k50c-xp-x86"
-msgstr ""
+msgstr "Az Asus k50c laptop driverei Windows XP rendszerhez innen letölthetőek. Azt tanácsoljuk, hogy töltse le a DriverPack Solution szoftvert az automatikus drivertelepítéshez! Mindent automatikusan elvégez magától."
 
 msgid "seo_notebook-footer-content-asus-x553ma-7-x64"
-msgstr ""
+msgstr "Itt letöltheti az Asus X553MA laptop drivereit Windows 7 x64 rendszerre. Minden drivercsomagunk biztonságát és működését szakértők tesztelték."
 
 msgid "seo_notebook-footer-content-asus-x101ch-xp-x86"
-msgstr ""
+msgstr "Itt letöltheti az Asus X101CH laptop drivereit Windows XP rendszerhez ingyen és bármiféle regisztráció nélkül. Az összes driverünk teljesen működőképes és nem jelent veszélyt a laptopjára."
 
 msgid "seo_notebook-footer-content-asus-k50ij-7-x64"
-msgstr ""
+msgstr "Az Asus k50ij laptop driverei Windows 7x64 rendszerhez itt letölthetőek. Nem elégedett a driverrel? Ebben az esetben használja a DriverPack Solution szoftvert a driverek kereséséhez és telepítéséhez! Teljesen ingyenes, és mindent automatikusan elvégez."
 
 msgid "seo_notebook-footer-content-asus-k50ij-xp-x86"
-msgstr ""
+msgstr "Driverekre lenne szüksége az Asus k50ij laptophoz, Windows XP rendszerre? Használja az adatbázisunkat, itt mindent megtalál. Nem segített? Töltse le a DriverPack Solution szoftvert, mely megvizsgálja a laptopja aktuális hardverét, és kiválasztja a legkompatibilisebb drivereket."
 
 msgid "seo_notebook-footer-content-lenovo-g580-7-x64"
-msgstr ""
+msgstr "A Lenovo g580 laptop driverei Windows XP, 7, 8, 8.1 vagy 10 rendszerhez itt letölthetőek. Nem elégedett a driverrel? Ebben az esetben használja a DriverPack Solution szoftvert a driverek kereséséhez és telepítéséhez, a többit pedig elvégzi magától."
 
 msgid "seo_notebook-footer-content-asus-x550cc-sound-10-x64"
-msgstr ""
+msgstr "Itt letöltheti az Asus X550CC laptop drivereit Windows 10x64 rendszerhez ingyen. Emellett letöltheti a DriverPack Solution szoftvert is, mely megvizsgálja a laptopja aktuális drivereit, és a legfrissebb verzióra frissíti őket."
 
 msgid "seo_badrabbit_title"
-msgstr ""
+msgstr "Bad Rabbit kriptografikus vírus - hogyan védheti meg a számítógépét?"
 
 msgid "seo_badrabbit-description"
-msgstr ""
+msgstr "Ingyenes védelem letöltése a Bad Rabbit vírus ellen számítógépre és laptopra"

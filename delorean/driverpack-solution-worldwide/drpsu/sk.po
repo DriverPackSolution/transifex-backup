@@ -1,0 +1,1103 @@
+# Translators:
+# Nadia Tegeneva <nadia@drp.su>, 2017
+# Peter Rožník <729mail@gmail.com>, 2017
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-10-26 10:44+0000\n"
+"PO-Revision-Date: 2016-09-23 09:12+0000\n"
+"Last-Translator: Peter Rožník <729mail@gmail.com>, 2017\n"
+"Language-Team: Slovak (https://www.transifex.com/driverpack-solution/teams/75453/sk/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sk\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+msgid "adminlandingpage_title"
+msgstr " DriverPack pre profesionálov - automatická inštalácia ovládačov na ľubovoľnom počítači"
+
+msgid "admincackle_dialog-star"
+msgstr "Prosím ohodnoťte funkcie DriverPack"
+
+msgid "admindriverpacks_landing-title"
+msgstr "Driverpacks (balíčky ovládačov)"
+
+msgid "admindriverpacks_landing-subtitle"
+msgstr "Naše driverpacks obsahujú 1,131,989 ovládačov ktoré boli manuálne vybraté a testované"
+
+msgid "admindriverpacks_downloaded"
+msgstr "Stiahnuť:"
+
+msgid "admindriverpacks_download"
+msgstr "Stiahnuť"
+
+msgid "adminfaq_landing-title"
+msgstr "Odpovieme na Vaše otázky"
+
+msgid "adminfaq_landing-subtitle"
+msgstr "Často kladiete otázky o DriverPack — Odpovieme na najobľúbenejšie z nich"
+
+msgid "adminheader_cta-text"
+msgstr "DriverPack bol vytvorený pre administrátorov, ale je ľahko použiteľný aj pre začiatočníkov  "
+
+msgid "adminheader_cta-btn"
+msgstr "Stiahnuť DriverPack Online"
+
+msgid "adminheader_products-caption"
+msgstr "Každá aplikácia DriverPack nakonfiguruje Váš počítač rýchlo, stačí vybrať balíček ktorý potrebujete:"
+
+msgid "adminpromo_landing-title"
+msgstr "Nový balík DriverPack 18 je vo vývoji"
+
+msgid "adminpromo_landing-subtitle"
+msgstr "Nová verzia je navrhnutá špeciálne pre administrátorov a zohľadňuje ich potreby"
+
+msgid "adminpromo_banner-text"
+msgstr "Nový systém DriverPack 18 bol prepracovaný na základe predchádzajúcich verzií, ktoré už preukázali výnimočnú stabilitu. Uvoľnenie novej verzie je naplánované na rok 2017."
+
+msgid "adminpromo_list-item-speed"
+msgstr "Rýchlosť inštalácie a spustenia aplikácie bola optimalizovaná."
+
+msgid "adminpromo_list-item-ui"
+msgstr "Rozhranie karty Ovládačov bolo prepracované a teraz je pre správcov systémov viac informatívne"
+
+msgid "adminpromo_list-item-settings"
+msgstr "Rozsah nastavení bol rozšírený a bola pridaná možnosť Individuálna úprava."
+
+msgid "adminpromo_list-item-soft"
+msgstr "Vnútená inštalácia softvéru je v predvolenom nastavení vypnutá"
+
+msgid "adminpromo_list-item-packs"
+msgstr "Základný prístup k balíčkom ovládačov bol zmenený v snahe odstrániť prípady pádu \"modrej obrazovky smrti\" a ďalšie problémy."
+
+msgid "adminpromo_list-item-device-support"
+msgstr "Rozsah ovládačov pokrýva podstatne viac typov hardvéru (vrátane veľmi starého hardvéru)"
+
+msgid "adminpromo_list-item-expert-mode"
+msgstr "Expertný režim je predvolene aktívny"
+
+msgid "adminpromo_list-item-stable-db"
+msgstr "Vytvorila sa najstabilnejšia databáza ovládačov. Formát databázy ovládačov bol aktualizovaný."
+
+msgid "adminpromo_list-item-full-db"
+msgstr "Bola vytvorená najväčšia a najjedinečnejšia databáza ovládačov na svete"
+
+msgid "buttonsplitdropdown_main-button"
+msgstr "Stiahnuť"
+
+msgid "breadcrumbs_main-text"
+msgstr "Domovská stránka"
+
+msgid "breadcrumbs_catalog-main-text"
+msgstr "ovládače pre {{OS.NAME}}"
+
+msgid "breadcrumbs_vendors-text"
+msgstr "Výrobcovia"
+
+#. i18n: EN: Example: VENDOR.NAME=Lenovo; RU: Пример: VENDOR.NAME=Lenovo;
+msgid "breadcrumbs_vendor-text"
+msgstr "{{VENDOR.NAME}}"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=cardreaders|monitors; RU: Пример:
+#. CLASS.PLURAL.MAIN=картридеры|мониторы;
+msgid "breadcrumbs_deviceclass-text"
+msgstr "{{CLASS.PLURAL.MAIN}}"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=cardreaders|monitors,
+#. VENDOR.NAME=Realtek; RU: Пример: CLASS.PLURAL.MAIN=картридеры|мониторы;
+#. VENDOR.NAME=Realtek;
+msgid "breadcrumbs_devicegroups-text"
+msgstr "{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
+
+#. i18n: EN: Example: GROUP.VENDOR.NAME=Nvidia, GROUP.NAME=GeForce 210; RU:
+#. Пример: GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210;
+msgid "breadcrumbs_devicegroup-text"
+msgstr "{{GROUP.VENDOR.NAME}} {{GROUP.NAME}}"
+
+msgid "breadcrumbs_notebooks-text"
+msgstr "Notebooky"
+
+#. i18n: EN: Example: VENDOR.NAME=Asus; RU: Пример: VENDOR.NAME=Asus;
+msgid "breadcrumbs_notebookvendor-text"
+msgstr "{{VENDOR.NAME}} notebooky"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=X1 carbon;
+#. RU: Пример: NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=X1 carbon;
+msgid "breadcrumbs_notebook-text"
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=Videocards|Chipsets ,
+#. NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=G580; RU: Пример:
+#. CLASS.PLURAL.MAIN=видеокарты|чипсеты, NOTEBOOK.VENDOR.NAME=Lenovo,
+#. NOTEBOOK.NAME=G580;
+msgid "breadcrumbs_notebookdevices-text"
+msgstr "{{CLASS.PLURAL.MAIN}} pre {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} notebook"
+
+msgid "devicecard_download-btn"
+msgstr "Stiahnuť ovládač"
+
+#. i18n: EN: Example: NAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10 x86; Text
+#. for {{DOWNLOAD}} is in key drivercard_no-results_download-link; RU: Пример:
+#. NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10 x86; Текст для
+#. {{DOWNLOAD}} находится в ключе drivercard_no-results_download-link;
+msgid "devicecard_details_no-results-text"
+msgstr "Ovládače pre {{NAME}} pre systém Windows {{OSVERSIONS}} neboli nájdené v katalógu. {{DOWNLOAD}} pre automatický výber ovládača."
+
+msgid "devicecard_details_no-results_download-link"
+msgstr "Stiahnuť DriverPack"
+
+msgid "devicecard_details-content-text"
+msgstr "Nahrávanie údajov..."
+
+msgid "devicecard_details_all-systems"
+msgstr "všetky systémy"
+
+msgid "devicecard_details-content-label-version"
+msgstr "Verzia:"
+
+msgid "devicecard_details-content-label-version-recommended"
+msgstr "odporúčané"
+
+msgid "devicecard_details-content-label-date"
+msgstr "Dátum:"
+
+msgid "devicecard_details-content-label-type"
+msgstr "Typ ovládača:"
+
+msgid "devicecard_details-content-label-manufacturer"
+msgstr "Výrobca:"
+
+msgid "devicecard_details-content-label-systems"
+msgstr "Operačné Systémy:"
+
+msgid "devicecard_details-content-label-deviceid"
+msgstr "Device ID:"
+
+msgid "devicecard_details-content-label-inf"
+msgstr "Súbor *.inf:"
+
+msgid "devicecard_details-content-label-section"
+msgstr "Kategória:"
+
+msgid "devicecard_details-links-merged_label"
+msgstr "Ak sa v zozname nenachádza Device ID zariadenia, zadajte ho do vyhľadávacieho riadku"
+
+msgid "devicecard_details-links-notebook_device"
+msgstr "Zobraziť všetky ovládače"
+
+msgid "devicecard_details-links"
+msgstr "Zobraziť všetky ovládače pre"
+
+msgid "devicecardlist_no-result_download-link"
+msgstr "Stiahnuť DriverPack"
+
+#. i18n: EN: Example: DEVICENAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10
+#. x86; Text for {{DOWNLOAD}} is in key devicecardlist_no-result_download-
+#. link; RU: Пример: NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10
+#. x86; Текст для {{DOWNLOAD}} находится в ключе devicecardlist_no-
+#. result_download-link;
+msgid "devicecardlist_no-results-device-text"
+msgstr "Ovládače pre {{DEVICENAME}} pre systém Windows {{OSVERSIONS}} neboli nájdené v katalógu. {{DOWNLOAD}} pre automatický výber ovládača."
+
+#. i18n: EN: Example: DEVICECLASS=chipsets|videocards; NOTEBOOK=Acer AO521;
+#. OSVERSIONS=Windows 10 x86; Text for {{DOWNLOAD}} is in key
+#. devicecardlist_no-result_download-link; RU: Пример:
+#. DEVICECLASS=чипсета|видеокарты; NOTEBOOK=Acer AO521; Пример:
+#. OSVERSIONS=Windows 10 x86; Текст для {{DOWNLOAD}} находится в ключе
+#. devicecardlist_no-result_download-link;
+msgid "devicecardlist_no-results-notebook-text"
+msgstr "Ovládače pre {{NOTEBOOK}} notebook pre systém Windows {{OSVERSIONS}} neboli nájdené v katalógu. {{DOWNLOAD}} pre automatický výber ovládača."
+
+#. i18n: EN: Example: NOTEBOOK=Acer AO521; OSVERSIONS=Windows 10 x86; Text for
+#. {{DOWNLOAD}} is in key devicecardlist_no-result_download-link; RU: Пример:
+#. NOTEBOOK=Acer AO521; Пример: OSVERSIONS=Windows 10 x86; Текст для
+#. {{DOWNLOAD}} находится в ключе devicecardlist_no-result_download-link;
+msgid "devicecardlist_no-results-notebook-device-class-text"
+msgstr "Ovládače pre {{DEVICECLASS}} pre {{NOTEBOOK}} notebook pre systém Windows {{OSVERSIONS}}neboli nájdené. {{DOWNLOAD}} pre automatický výber ovládača."
+
+msgid "devicegrouppage_all-systems"
+msgstr "všetky systémy"
+
+msgid "notebookpage_all-systems"
+msgstr "všetky systémy"
+
+msgid "devicegroupfilters_filter-title"
+msgstr "Dostupné ovládače"
+
+msgid "deviceidfilters-filter-label-version"
+msgstr "Verzia ovládača:"
+
+msgid "deviceidheader_caption-single"
+msgstr "Názov zariadenia:"
+
+msgid "deviceidheader_caption-many"
+msgstr "Toto zariadenie je tiež známe ako:"
+
+msgid "devicetypelist_title_os"
+msgstr "Ovládač pre zariadenia zapnutý {{OS}}"
+
+msgid "devicetypelist_title"
+msgstr "Vyhľadávanie ovládača pre zariadenia"
+
+msgid "search_noresult"
+msgstr "Stiahnuť DriverPack Online"
+
+#. i18n: EN: Example: NAME=Acer Aspire 4830TG; OSVERSIONS=Windows 10 x86; Text
+#. for {{DOWNLOAD}} is in key drivercard_no-results_download-link; RU: Пример:
+#. NAME=Acer Aspire 4830TG; Пример: OSVERSIONS=Windows 10 x86; Текст для
+#. {{DOWNLOAD}} находится в ключе drivercard_no-results_download-link;
+msgid "drivercard_no-results-text"
+msgstr "Ovládače pre {{NAME}} pre systém Windows {{OSVERSIONS}} neboli nájdené v katalógu. {{DOWNLOAD}} pre automatický výber ovládača."
+
+msgid "drivercard_no-results_download-link"
+msgstr "Stiahnuť DriverPack"
+
+msgid "drivercard_caption-version"
+msgstr "Verzia:"
+
+msgid "drivercard_caption-version-recommended"
+msgstr "odporúčané"
+
+msgid "drivercard_caption-date"
+msgstr "Dátum:"
+
+msgid "drivercard_caption-class"
+msgstr "Typ zariadenia:"
+
+msgid "drivercard_caption-manufacturer"
+msgstr "Výrobca:"
+
+msgid "drivercard_caption-os"
+msgstr "Operačné Systémy:"
+
+msgid "drivercard_caption-deviceid"
+msgstr "Device ID:"
+
+msgid "drivercard_caption-inf"
+msgstr "Súbor *.inf:"
+
+msgid "drivercard_caption-section"
+msgstr "Kategória:"
+
+msgid "drivercard_caption-btn"
+msgstr "Stiahnuť ovládač"
+
+msgid "deviceidpage_all-systems"
+msgstr "všetky systémy"
+
+msgid "dropdowndriverversion_no-results"
+msgstr "Ovládače pre vybratý operačný systém neboli nájdené"
+
+msgid "dropdownos_current"
+msgstr "aktuálny"
+
+msgid "footer_banner-title"
+msgstr "Ste unavený hľadaním ovládačov pre vaše zariadenia?"
+
+msgid "footer_banner-caption"
+msgstr "DriverPack Online <span style='color: {{COLOR}}'>nájde a nainštaluje</span> ovládače, ktoré potrebujete automaticky"
+
+msgid "footer_banner_btn"
+msgstr "Stiahnite si <span class='bold'>DriverPack Online</span> zadarmo"
+
+msgid "footer_translate-feedback"
+msgstr "Našli ste preklep alebo chybu?<br />Zvýraznite ju výberom a stlačte {{HOTKEY}}"
+
+msgid "header_search-title"
+msgstr "<span class='bold'>Vyhľadávanie ovládačov cez</span> najväčšiu databázu —  viac ako milión ovládačov"
+
+msgid "header_search-examples"
+msgstr "Napríklad:"
+
+msgid "header_cta-text"
+msgstr "Stiahnite si DriverPack pre automatickú voľbu ovládača"
+
+msgid "header_cta-btn"
+msgstr "Automaticky nainštalujte ovládače"
+
+msgid "header_cta-label-1"
+msgstr "<span style='color: {{COLOR}}'>Sťahovanie začne</span> okamžite"
+
+msgid "header_cta-label-2"
+msgstr "Automaticky <span style='color: {{COLOR}}'>vyberie a nainštaluje</span> ovládače"
+
+msgid "headerbutton_title"
+msgstr "Automaticky nainštalujte ovládače"
+
+msgid "headerbutton_label"
+msgstr "Softvér DriverPack je úplne bezplatný"
+
+msgid "headeros_cta-btn"
+msgstr "Nainštalujte ovládače pre <span class='HeaderOs__cta-btn-marked'>{{OS}}</span>"
+
+msgid "headeros_search-text"
+msgstr "Alebo použite vyhľadávanie v našej obrovskej databáze ovládačov"
+
+msgid "landingdevicetypelist_landing-title"
+msgstr "DriverPack je vhodný pre všetky zariadenia"
+
+msgid "landingdevicetypelist_landing-subtitle"
+msgstr "Dokonca aj pre USB 3.0 v systéme Windows 7 SP1"
+
+msgid "landingdevicetypelist_cta-btn"
+msgstr "Nainštalujte všetky požadované ovládače"
+
+msgid "landingdevicetypelist_versions"
+msgstr "Ďalšie verzie programu DriverPack"
+
+msgid "landingfeatures_landing-title"
+msgstr "DriverPack je najpohodlnejší a najrýchlejší spôsob konfigurácie počítača"
+
+msgid "landingfeatures_landing-subtitle"
+msgstr "Softvér je poskytovaný bezplatne a je vhodný pre profesionálov, ako i pre začiatočníkov"
+
+msgid "landingfeatures_item-title-free"
+msgstr "Zadarmo"
+
+msgid "landingfeatures_item-caption-free"
+msgstr "DriverPack je poskytovaný bezplatne"
+
+msgid "landingfeatures_item-title-safe"
+msgstr "Bezpečný"
+
+msgid "landingfeatures_item-caption-safe"
+msgstr "DriverPack oficiálne spolupracuje s výrobcami antivírusového softvéru a chráni Váš počítač"
+
+msgid "landingfeatures_item-title-for-all-devices"
+msgstr "Pre všetky zariadenia"
+
+msgid "landingfeatures_item-caption-for-all-devices"
+msgstr "DriverPack má najväčšiu databázu ovládačov na svete a môže byť použitý na konfiguráciu ľubovoľného počítača"
+
+msgid "landingheader_cta-text"
+msgstr "Program DriverPack nainštaluje bezplatne ovládače a vyrieši problémy s ovládačmi na akomkoľvek zariadení"
+
+msgid "landingheader_cta-btn"
+msgstr "Nainštalujte všetky požadované ovládače"
+
+msgid "landingheadernav_badrabbit"
+msgstr "Ochrana pred Bad Rabbit ransomware"
+
+msgid "landingheadernav_search"
+msgstr "Vyhľadávanie ovládača"
+
+msgid "landingheadernav_foradmin"
+msgstr "Pre systémových administrátorov"
+
+msgid "landingintroduction_author-title"
+msgstr "Ahoj! Volám sa Artur Kuzyakov. Som autor a zakladateľ spoločnosti DriverPack"
+
+msgid "landingintroduction_author-speech"
+msgstr "Z malého kúsku softvéru napísaného s čistým nadšením pred 8 rokmi sme sa zmenili na spoločnosť, ktorá pomohla viac ako 40 miliónom ľudí na celom svete konfigurovať svoje počítače! <br /><br />V tomto čase sa náš softvér stal neuveriteľne rýchlejším a chytřejším. Dnes je DriverPack najväčšou databázou unikátnych ovládačov na svete umiestnených na ultra vysokorýchlostných serveroch po celom svete. Aby bolo možné rýchlo a čo najkvalitnejšie vykonať proces inštalácie ovládačov, používame technológie strojového učenia, ktoré robia náš algoritmus výberu ešte lepší a presnejší. Podarilo sa nám to dosiahnuť takým spôsobom, že softvér zostáva úplne bezplatný a každý ho môže používať. <br /><br />Môj tím a ja sme hrdí na náš produkt a dúfame, že sa stane vaším spoľahlivým asistentom pri konfigurácii akéhokoľvek počítača v najkratšom možnom časovom horizonte."
+
+msgid "landingintroduction_author-speech-marked"
+msgstr "Strávili sme veľa nášho času, aby sme ušetrili ten Váš!"
+
+msgid "landingintroduction_video-caption"
+msgstr "A tu je, čo si myslí Dmitrij Medvedev, predseda vlády Ruskej federácie, o DriverPack Solution"
+
+msgid "landingnotebookvendorslist_landing-title"
+msgstr "DriverPack je vhodný pre akýkoľvek počítač"
+
+msgid "landingnotebookvendorslist_landing-subtitle"
+msgstr "Áno, pre ĽUBOVOĽNÝ počítač - skontrolovali sme to!"
+
+msgid "landingnotebookvendorslist_cta-btn"
+msgstr "Nainštalujte všetky požadované ovládače"
+
+msgid "landingnotebookvendorslist_versions"
+msgstr "Ďalšie verzie programu DriverPack"
+
+msgid "landingproducts_item-title-online"
+msgstr "DriverPack Online"
+
+msgid "landingproducts_item-caption-online"
+msgstr "Okamžite sa stiahne a počas inštalácie stiahne všetky chýbajúce požadované ovládače"
+
+msgid "landingproducts_item-version"
+msgstr "Verzia:"
+
+msgid "landingproducts_item-button"
+msgstr "Stiahnuť"
+
+msgid "landingproducts_item-title-network"
+msgstr "DriverPack Network"
+
+msgid "landingproducts_item-caption-network"
+msgstr "Sťahuje sa rýchlo a už obsahuje ovládače pre sieťový hardvér"
+
+msgid "landingproducts_item-title-offline"
+msgstr "DriverPack Offline"
+
+msgid "landingproducts_item-caption-offline"
+msgstr "Môže pracovať bez pripojenia k internetu, ale jeho veľkosť je 13,9 GB (užitočné pre systémových administrátorov)"
+
+msgid "landingpublications__landing-title"
+msgstr "Mediálne publikácie o programe DriverPack"
+
+msgid "landingscreenshots_landing-title"
+msgstr "DriverPack je najpohodlnejší a najrýchlejší spôsob ako nakonfigurovať počítač"
+
+msgid "landingscreenshots_landing-subtitle"
+msgstr "Softvér je poskytovaný bezplatne a je vhodný pre profesionálov, ako i pre začiatočníkov"
+
+msgid "landingsocial_landing-title"
+msgstr "Pridajte sa do komunity DriverPack"
+
+msgid "landingsocial_landing-subtitle"
+msgstr "Sledujte novinky a zúčastnite sa diskusií"
+
+msgid "landingusers_cta"
+msgstr "Počet užívateľov DriverPack po celom svete rastie s každou sekundou"
+
+msgid "landingusers_cta-btn"
+msgstr "Nainštalujte všetky požadované ovládače"
+
+msgid "landingusers_versions"
+msgstr "Ďalšie verzie programu DriverPack"
+
+msgid "landingwizard_landing-title"
+msgstr "Teraz je možné konfigurovať počítač jedným kliknutím"
+
+msgid "landingwizard_item-caption-download"
+msgstr "Prevezmite a spustite program DriverPack Online"
+
+msgid "landingwizard_item-caption-setup"
+msgstr "Konfigurujte svoj počítač jednou jednoduchou akciou"
+
+msgid "landingwizard_item-caption-profit"
+msgstr "Jej! Teraz môj počítač beží ako úplne nový!"
+
+msgid "landingwizard_cta-btn"
+msgstr "Nainštalujte všetky požadované ovládače"
+
+msgid "navbar_download-link-short"
+msgstr "Stiahnuť"
+
+msgid "navbar_download-link"
+msgstr "Stiahnuť DriverPack Online"
+
+msgid "notfound_cta-text"
+msgstr "Ovládače môžete nájsť a nainštalovať automaticky pomocou programu DriverPack Online zadarmo"
+
+msgid "notfound_cta-btn"
+msgstr "Stiahnuť DriverPack Online"
+
+msgid "notfound_info-404"
+msgstr "{{404}} — požadovaná stránka sa nenašla"
+
+msgid "notfound_info-500"
+msgstr "{{500}} — niečo sa pokazilo (chyba servera)"
+
+msgid "notebookfilters-title"
+msgstr "Dostupné ovládače"
+
+msgid "notebookvendorslist_other-text"
+msgstr "Ostatní výrobcovia"
+
+msgid "notebookvendorslist_title_os"
+msgstr "Ovládače pre notebooky s {{OS}}"
+
+msgid "notebookvendorslist_title"
+msgstr "Vyhľadávanie ovládača pre notebooky"
+
+msgid "promoheader_cta-text-gamers"
+msgstr "Váš počítač je výkonnejší ako si myslíte: aktualizujte všetky ovládače zadarmo"
+
+msgid "promoheader_cta-text-gamers-caption"
+msgstr "Ak sa vám páčia počítačové hry, odporúčame vám aktualizovať ovládače na vašom počítači častejšie, aby ste dosiahli najvyššiu možnú účinnosť vášho hardvéru. Až o 37% viac FPS - najlepší herný zážitok a nové úspechy s DriverPack."
+
+msgid "promoheader_cta-text"
+msgstr "Program DriverPack nainštaluje bezplatne ovládače a vyrieši problémy s ovládačmi na akomkoľvek zariadení"
+
+msgid "promoheader_cta-btn"
+msgstr "Nainštalujte všetky požadované ovládače"
+
+msgid "promoheader_size"
+msgstr "Veľkosť súboru: {{SIZE}} KB"
+
+msgid "promoheader_license"
+msgstr "Licenčná zmluva"
+
+msgid "promoheader_os-versions"
+msgstr "Tento softvér je vhodný pre Windows 10, 8.1, 8, 7, Vista, XP"
+
+msgid "promoheader_uninstall"
+msgstr "Odstránenie DriverPack"
+
+msgid "reviewheader_cta-text"
+msgstr "Pridajte sa do komunity DriverPack v sociálnych sieťach, aby ste udržali krok s novinkami o produkte a zapojili sa do diskusií"
+
+msgid "reviewheader_cta"
+msgstr "Pridajte svoj názor alebo návrh na zlepšenie programu DriverPack"
+
+msgid "search_input-placeholder"
+msgstr "Vyhľadajte názov ovládača, notebooku alebo DeviceID"
+
+msgid "search_btn-text"
+msgstr "Nájsť"
+
+msgid "searchformitem_type-section"
+msgstr "Kategória"
+
+msgid "searchformitem_type-notebook"
+msgstr "notebook"
+
+msgid "searchformitem_type-device"
+msgstr "zariadenie"
+
+msgid "searchformitem_type-free"
+msgstr "zadarmo"
+
+#. i18n: EN: Example: NAME=Acer; RU: Пример: NAME=Acer;
+msgid "generatesearchitemname_notebookvendor"
+msgstr "{{NAME}} notebooky"
+
+#. i18n: EN: Example: NAME=Asus; RU: Пример: NAME=Asus;
+msgid "generatesearchitemname_vendor"
+msgstr "{{NAME}} zariadenia"
+
+msgid "deviceclasses_bluetooth-single-main"
+msgstr "Bluetooth zariadenie"
+
+msgid "deviceclasses_bluetooth-single-for"
+msgstr "Bluetooth zariadenie"
+
+msgid "deviceclasses_bluetooth-plural-main"
+msgstr "Bluetooth zariadenia"
+
+msgid "deviceclasses_bluetooth-plural-for"
+msgstr "Bluetooth zariadenia"
+
+msgid "deviceclasses_cardreader-single-main"
+msgstr "čítačka kariet"
+
+msgid "deviceclasses_cardreader-single-for"
+msgstr "čítačka kariet"
+
+msgid "deviceclasses_cardreader-plural-main"
+msgstr "čítačky kariet"
+
+msgid "deviceclasses_cardreader-plural-for"
+msgstr "čítačky kariet"
+
+msgid "deviceclasses_chipset-single-main"
+msgstr "chipset"
+
+msgid "deviceclasses_chipset-single-for"
+msgstr "chipset"
+
+msgid "deviceclasses_chipset-plural-main"
+msgstr "chipsets"
+
+msgid "deviceclasses_chipset-plural-for"
+msgstr "chipsets"
+
+msgid "deviceclasses_inputdev-single-main"
+msgstr "vstupné zariadenie"
+
+msgid "deviceclasses_inputdev-single-for"
+msgstr "vstupné zariadenie"
+
+msgid "deviceclasses_inputdev-plural-main"
+msgstr "vstupné zariadenia"
+
+msgid "deviceclasses_inputdev-plural-for"
+msgstr "vstupné zariadenia"
+
+msgid "deviceclasses_lan-single-main"
+msgstr "sieťová karta"
+
+msgid "deviceclasses_lan-single-for"
+msgstr "sieťová karta"
+
+msgid "deviceclasses_lan-plural-main"
+msgstr "sieťová karty"
+
+msgid "deviceclasses_lan-plural-for"
+msgstr "sieťová karty"
+
+msgid "deviceclasses_massstorage-single-main"
+msgstr "controller"
+
+msgid "deviceclasses_massstorage-single-for"
+msgstr "controller"
+
+msgid "deviceclasses_massstorage-plural-main"
+msgstr "controllers"
+
+msgid "deviceclasses_massstorage-plural-for"
+msgstr "controllers"
+
+msgid "deviceclasses_modem-single-main"
+msgstr "modem"
+
+msgid "deviceclasses_modem-single-for"
+msgstr "modem"
+
+msgid "deviceclasses_modem-plural-main"
+msgstr "modems"
+
+msgid "deviceclasses_modem-plural-for"
+msgstr "modems"
+
+msgid "deviceclasses_monitor-single-main"
+msgstr "monitor"
+
+msgid "deviceclasses_monitor-single-for"
+msgstr "monitor"
+
+msgid "deviceclasses_monitor-plural-main"
+msgstr "monitors"
+
+msgid "deviceclasses_monitor-plural-for"
+msgstr "monitors"
+
+msgid "deviceclasses_phone-single-main"
+msgstr "smartphone"
+
+msgid "deviceclasses_phone-single-for"
+msgstr "smartphone"
+
+msgid "deviceclasses_phone-plural-main"
+msgstr "smartphones"
+
+msgid "deviceclasses_phone-plural-for"
+msgstr "smartphones"
+
+msgid "deviceclasses_printer-single-main"
+msgstr "tlačiareň"
+
+msgid "deviceclasses_printer-single-for"
+msgstr "tlačiareň"
+
+msgid "deviceclasses_printer-plural-main"
+msgstr "tlačiarne"
+
+msgid "deviceclasses_printer-plural-for"
+msgstr "tlačiarne"
+
+msgid "deviceclasses_sound-single-main"
+msgstr "zvuková karta"
+
+msgid "deviceclasses_sound-single-for"
+msgstr "zvuková karta"
+
+msgid "deviceclasses_sound-plural-main"
+msgstr "zvukové karty"
+
+msgid "deviceclasses_sound-plural-for"
+msgstr "zvukové karty"
+
+msgid "deviceclasses_tvtuner-single-main"
+msgstr "TV-tuner"
+
+msgid "deviceclasses_tvtuner-single-for"
+msgstr "TV-tuner"
+
+msgid "deviceclasses_tvtuner-plural-main"
+msgstr "TV-tuners"
+
+msgid "deviceclasses_tvtuner-plural-for"
+msgstr "TV-tuners"
+
+msgid "deviceclasses_video-single-main"
+msgstr "video karta"
+
+msgid "deviceclasses_video-single-for"
+msgstr "video karta"
+
+msgid "deviceclasses_video-plural-main"
+msgstr "video karty"
+
+msgid "deviceclasses_video-plural-for"
+msgstr "video karty"
+
+msgid "deviceclasses_webcamera-single-main"
+msgstr "webkamera"
+
+msgid "deviceclasses_webcamera-single-for"
+msgstr "webkamera"
+
+msgid "deviceclasses_webcamera-plural-main"
+msgstr "webkamery"
+
+msgid "deviceclasses_webcamera-plural-for"
+msgstr "webkamery"
+
+msgid "deviceclasses_wifi-single-main"
+msgstr "Wi-Fi zariadenie"
+
+msgid "deviceclasses_wifi-single-for"
+msgstr "Wi-Fi zariadenie"
+
+msgid "deviceclasses_wifi-plural-main"
+msgstr "Wi-Fi zariadenia"
+
+msgid "deviceclasses_wifi-plural-for"
+msgstr "Wi-Fi zariadenia"
+
+msgid "deviceclasses_other-single-main"
+msgstr "iné zariadenie"
+
+msgid "deviceclasses_other-single-for"
+msgstr "iné zariadenie"
+
+msgid "deviceclasses_other-plural-main"
+msgstr "iné zariadenia"
+
+msgid "deviceclasses_other-plural-for"
+msgstr "iné zariadenia"
+
+msgid "searchheader_caption-subtitle"
+msgstr "Vyhľadávanie ovládača podľa výrazu:"
+
+msgid "searchheader_caption-filter-label"
+msgstr "Ovládač bude stiahnutý pre tento vybratý OS"
+
+#. i18n: EN: Example: NOTEBOOK=Acer AO521; Text for {{DOWNLOAD}} is in key
+#. searchresult_details-content_download-link; RU: Пример: NOTEBOOK=Acer
+#. AO521; Текст для {{DOWNLOAD}} находится в ключе searchresult_details-
+#. content_download-link
+msgid "searchresult_details-content-notebook-text"
+msgstr "{{DOWNLOAD}} aby sa automaticky identifikovali a nainštalovali požadované ovládače, alebo prejsť na stránku {{NOTEBOOK}} a ručne vybrať požadovaný ovládač"
+
+msgid "searchresult_details-content_download-link"
+msgstr "Stiahnuť DriverPack"
+
+msgid "searchresult_notebook"
+msgstr "Notebook"
+
+msgid "searchresult_download-btn"
+msgstr "Nainštalovať ovládač automaticky"
+
+msgid "searchresult_details-content-text-placeholder"
+msgstr "Nahrávanie údajov..."
+
+msgid "searchresult_details-content-label-1"
+msgstr "OS"
+
+msgid "searchresult_details-content-label-2"
+msgstr "všetky systémy"
+
+#. i18n: EN: Example: DEVICE=NVIDIA GeForce 205; Text for {{DOWNLOAD}} is in
+#. key searchresult_details-content_download-link; RU: Пример: DEVICE=NVIDIA
+#. GeForce 205; Текст для {{DOWNLOAD}} находится в ключе searchresult_details-
+#. content_download-link
+msgid "searchresult_details-content-group-text"
+msgstr "{{DOWNLOAD}} aby sa automaticky identifikovali a nainštalovali požadované ovládače, alebo prejsť na stránku zariadenia {{DEVICE}} a ručne vybrať požadovaný ovládač"
+
+#. i18n: EN: Example: CLASS.SINGLE.MAIN=monitor|chipset; COUNT=12; RU: Пример:
+#. CLASS.SINGLE.MAIN=монитор|чипсет; COUNT=12;
+msgid "searchresult_device"
+msgstr "{{CLASS.SINGLE.MAIN}} ({{COUNT}} výsledky/kov boli/o nájdené/ých )"
+
+msgid "searchresult_details-content-text-many"
+msgstr "Našlo sa niekoľko rôznych ovládačov pre toto zariadenie"
+
+msgid "seofooter_os-list-title"
+msgstr "Verzie operačného systému: <span itemprop='operatingSystem'>{{OSLIST}}</span>"
+
+msgid "seofooter_offers-title"
+msgstr "<span itemprop='offers' itemscope='' itemtype='http://schema.org/Offer'>K dispozícii <meta itemprop='price' content='0' />zadarmo</span>"
+
+msgid "seofooter_driver-description-title"
+msgstr "Popis Ovládača"
+
+msgid "seofooter_popular-drivers-title"
+msgstr "Populárne Ovládače"
+
+msgid "sidebanner_title"
+msgstr "Ste unavení hľadaním ovládačov?"
+
+msgid "sidebanner_caption"
+msgstr "DriverPack automaticky <span class='SideBanner__caption-marked'>vyberie a nainštaluje</span> požadované ovládače"
+
+msgid "translationheader_cta-text"
+msgstr "Pomôžte nám sprístupniť aplikáciu DriverPack miliónom používateľom počítačov po celom svete — zúčastnite sa nášho projektu dobrovoľníkov na jeho preklade do iných jazykov"
+
+msgid "translationheader_bubble-team"
+msgstr "Chcete byť súčasťou tímu prekladateľov pre celosvetovo najväčšiu službu automatickej konfigurácie počítača?"
+
+msgid "translationheader_bubble-languages"
+msgstr "Poznáte celkom dobre angličtinu alebo ruštinu, tak aby ste boli  pripravení vykonať preklady z jedného z nich do svojho materinského jazyka?"
+
+msgid "translationheader_bubble-experience"
+msgstr "Máte nejaké skúsenosti s prekladom softvéru alebo webových stránok pomocou online prekladateľských služieb?"
+
+msgid "translationheader_bubble-email"
+msgstr "Ak sú vaše odpovede ÁNO na všetky tri otázky, pošlite nám e-mail na {{EMAIL}} s '{{SUBJECT}}' do riadku predmetu a dajte nám vedieť váš cieľový jazyk, na ktorom ste pripravení sa podieľať."
+
+msgid "translationlist_title"
+msgstr "Zoznam Autorizovaných prekladateľov DriverPack"
+
+msgid "translationtool_text-transifex"
+msgstr "V DriverPack Solution robíme našu lokalizáciu pomocou služby transifex.com:"
+
+msgid "translationtool_example-ru-to-en"
+msgstr "Linky na preklad z ruštiny (RU) do angličtiny (EN) a jazyky CIS (CIS)"
+
+msgid "translationtool_example-en-to-all"
+msgstr "Linky na preklad z angličtiny (EN) do iných svetových jazykov"
+
+msgid "language_title"
+msgstr "Slovak"
+
+msgid "landingPagePublications_rbk"
+msgstr "DriverPack je softvér, ktorý sa skladá z ovládačov pre Windows dôkladne vybraných a testovaných týmom Artura Kuzyakovova. Táto aplikácia analyzuje počítač používateľa a nainštaluje naň požadované ovládače, čo vám umožní vyriešiť dve problémy: po prvé, urýchliť proces konfigurácie počítača (čo je obzvlášť dôležité, ak sú v rámci jedného systému desiatky počítačov); a po druhé, zlepšiť svoje prevádzkové schopnosti."
+
+msgid "landingPagePublications_secretfirmy"
+msgstr "Dnes má DriverPack najväčšiu databázu ovládačov na svete, ktorá je preložená do 45 jazykov a funguje na počítačoch viac ako 42 miliónov používateľov."
+
+msgid "landingPagePublications_cnews"
+msgstr "Od okamihu vytvorenia úplne prvej verzie softvéru bol DriverPack Solution veľmi obľúbený u používateľov. Tento softvér je k dispozícii na stiahnutie úplne zadarmo. Toto rozlišuje DriverPack Solution od svojich konkurentov a priťahuje čoraz viac nových používateľov."
+
+msgid "landingPagePublications_xbit"
+msgstr "DriverPack Solution je zaujímavá aplikácia, obsahuje súbor možností, ktoré iné softvérové ​​riešenia rovnakého typu neposkytujú. Každý používateľ môže opraviť všetky chyby a nastaviť správnu funkciu systému a všetkých jeho zariadení iba dvoma kliknutiami. V súčasnosti počet ovládačov v databáze DriverPack už prekročil 1,1 milióna záznamov a všetky boli otestované na bezpečnosť."
+
+msgid "landingPagePublications_chip"
+msgstr "S programom DriverPack to nie je žiadna výzva na nájdenie najnovších verzií ovládačov pre vaše PC komponenty. Najpriaznivejším aspektom je to, že používateľ sám nemusí robiť nič. Tento nástroj je úplne automatizovaný a pohodlný v jeho prevádzke."
+
+msgid "landingPagePublications_pcmag"
+msgstr "DriverPack Protect pomôže chrániť váš počítač pred malwarovými a adware programami a doplnkami, ktoré často nedokážu zachytiť ani antivírusové softvéry a nástroje na blokovanie reklám."
+
+msgid "landingPagePublications_habr"
+msgstr "Potreba vyhľadávať a nainštalovať ovládače pri každom preinštalovaní systému Windows, je podľa môjho názoru jednou z najvýznamnejších nedostatkov celej rodiny Windows produktov. Už v roku 2008 som sa rozhodol tento problém vyriešiť a napísal som svoj vlastný softvér, ktorý som nazval DriverPack. V súčasnosti môj produkt používa 40 miliónov používateľov po celom svete a myslím si, že problém s ovládačmi v systéme Windows bol nateraz vyriešený, aj keď prostredníctvom riešenia tretej strany."
+
+msgid "landingPagePublications_computerra"
+msgstr "Nová verzia poskytuje používateľovi viac nástrojov na vytvorenie vlastného výberu ovládača. Je to mimoriadne naliehavý problém pre tých, ktorí obsluhujú počítače a spravujú veľa rôznych hardvérov. Teraz je možné integrovať ľubovoľné alternatívne balíčky ovládačov do programu DriverPack, radšej než iba odstrániť tie nepotrebné."
+
+msgid "landingPagePublications_vc"
+msgstr "Vďaka neformálnym komunikačným kanálom a komunitám, tento produkt preložili používatelia do 45 jazykov bez účasti nášho tímu."
+
+msgid "adminpagefaq_official_vendors-q"
+msgstr "Kým neexistoval DriverPack, stiahol som ovládače z oficiálnych stránok, ale mal som skúsenosti s problémami aj s nimi. Prečo sú ovládače v systéme DriverPack spoľahlivejšie než tie od výrobcov?"
+
+msgid "adminpagefaq_official_vendors-a"
+msgstr "Aby sa naša databáza ovládačov stala nielen najväčšou, ale aj najstabilnejšou, tvrdo pracujeme na jej trvalom vylepšení a dokonca opravujeme chyby, ktoré tolerujú oficiálni výrobcovia! Používame technológiu strojového učenia a vďaka tomu sa náš algoritmus výberu neustále zlepšuje. A to je presne to, prečo sú ovládače z DriverPack najspoľahlivejšie :-)"
+
+msgid "adminpagefaq_database-q"
+msgstr "Ako sa rozširuje databáza DriverPack? Môžem v nej naozaj nájsť ovládače ktoré potrebujem? "
+
+msgid "adminpagefaq_database-a"
+msgstr "K dnešnému dňu je naša databáza ovládačov najväčšia na svete, preto budete môcť nájsť ovládač pre akékoľvek zariadenie s viac ako 99% -n ým úspechom. S cieľom zhromažďovať a podporovať takúto databázu, spolupracujeme priamo s výrobcami zariadení a vývojármi ovládačov. Ovládače zhromažďujeme a testujeme z oficiálnych stránok, ako aj zo súkromných FTP serverov a zohľadňujeme aj odporúčania aktívnych používateľov."
+
+msgid "adminpagefaq_free-q"
+msgstr "Je pravda, že DriverPack je úplne bezplatný?"
+
+msgid "adminpagefaq_free-a"
+msgstr "Všetok náš softvér je úplne bezplatný! Ale ak chcete podporiť náš projekt, môžete nainštalovať užitočný softvér, ktorý ponúkame pre vaše vlastné použitie a odporúčať DriverPack svojim priateľom :-)"
+
+msgid "adminpagefaq_antivirus-q"
+msgstr "Môj antivírus objavil vírus v programe DriverPack - ako sa to mohlo stať?"
+
+msgid "adminpagefaq_antivirus-a"
+msgstr "Toto je s najväčšou pravdepodobnosťou falošná pozitívna identifikácia, pretože všetky verzie DriverPack podliehajú dôkladnej kontrole a akreditácii zo strany Laboratória Kaspersky. Naša spoločnosť spolupracuje s mnohými poskytovateľmi antivírusových programov, ako je Avast a 360 Total Security. Ak chcete pokračovať v používaní, stačí pridať program DriverPack do listu povolení Vášho antivírusového programu. Ďakujeme Vám, ak to nahlásíte ako falošnú pozitívnu identifikáciu Vašej antivírusovej spoločnosti, ako aj nášmu týmu služby Podpory Užívateľom."
+
+msgid "adminpagefaq_expert_mode-q"
+msgstr "Ktorý režim je najvhodnejší na používanie programu DriverPack?"
+
+msgid "adminpagefaq_expert_mode-a"
+msgstr "Štandardne sa DriverPack spúšťa v automatickom režime, ktorý je navrhnutý tak, aby bol zrozumiteľný a pohodlný pre použitie aj pre nových používateľov. Pre pohodlie pokročilých používateľov a systémových administrátorov sme však vyvinuli režim Expert, ktorý obsahuje rozšírené nastavenia a možnosti prispôsobenia. Ak chcete aktivovať tento režim, stačí kliknúť na príslušné tlačidlo umiestnené v spodnej časti obrazovky."
+
+msgid "adminpagefaq_stable-q"
+msgstr "Ovládač nebol správne nainštalovaný a počítač má teraz problémy. Ako môžem túto situáciu napraviť?"
+
+msgid "adminpagefaq_stable-a"
+msgstr "Prevádzková stabilita softvéru DriverPack je jednou z našich hlavných priorít, ale naďalej dochádza k menším chybám, aj keď sú zriedkavé. Z tohto dôvodu vytvoríme bod obnovenia, ktorý Vám umožní vrátiť všetko späť do stavu, ktorý bol nakonfigurovaný predtým. Ak chcete zabrániť podobnému problému v budúcnosti, odporúčame vám prejsť do DriverPack Menu a odoslať report - \"list kondície\", ktorý je automaticky vytvorený softvérom, našej službe technickej podpory."
+
+msgid "badrabbitpromopage_cta-text"
+msgstr "Bad Rabbit cryptographer vírus — ako chrániť počítač?"
+
+msgid "badrabbitpromopage_cta-subtext"
+msgstr "Program DriverPack obsahuje konkrétne prostriedky na odstránenie zraniteľnosti medzi nástrojmi na konfiguráciu počítača. Môžete si stiahnuť bezplatnú ochranu pred vírusom Bad Rabbit pre váš počítač a notebook, ktorý zabezpečí Váš počítač."
+
+msgid "badrabbitpromopage_cta-btn"
+msgstr "Konfigurujte počítač a chráňte ho pred Bad Rabbit vírusom"
+
+msgid "badrabbitpromopage_caption-text"
+msgstr "Tento softvér je poskytovaný bezplatne"
+
+msgid "badrabbitpromopage_info-text-title-1"
+msgstr "Čo je Bad Rabbit?"
+
+msgid "badrabbitpromopage_info-text-1"
+msgstr "Bad Rabbit je nový kryptografický vírus, ktorý napadol počítače používateľov v Rusku, na Ukrajine, v Bulharsku a Turecku od konca októbra 2017. Medzi napadnutými obeťami sú tiež The Interfax RIA, The Fontanka RIA, niekoľko ministerstiev Ukrajiny , ako aj letisko Odessa. Princíp fungovania je jednoduchý: používa nástroj Mimikatz na získanie údajov účtov z pamäte počítača. Tiež hľadá aktívne údaje účtu administrátora. Bad Rabbit sa potom pokúsi získať prístup na pracovné stanice v lokálnej sieti pomocou SMB a WebDAV. Akonáhle získa prístup k počítaču, vírus zašifruje všetky dáta, ktoré sa mu podarilo nájsť a ovládnuť a potom zmení MBR - Master Boot Record - hlavnú zavádzaciu oblasť disku. Keď je tento postup dokončený, Bad Rabbit obnoví Váš počítač a objaví sa vyskakovacie okno so správou a požiadavkou na 0,05 Bitcoins (čo je približne 300 dolárov od 26. októbra 2017)."
+
+msgid "badrabbitpromopage_info-text-title-2"
+msgstr "Ako chrániť počítač pred vírusom cryptographer Bad Rabbit?"
+
+msgid "badrabbitpromopage_info-text-2"
+msgstr "Čo môžete urobiť, aby ste sa chránili pred novým vírusom:<br/>• Vytvorte súbor infpub.dat v priečinku C:\\\\Windows\\\\ a začiarknite možnosť 'Len na čítanie' vo vlastnostiach<br/>• Pozorne si prezrite nové úlohy v nástroji 'Plánovač úloh'<br/>• Neinštalujte žiadne aktualizácie pre aplikáciu FlashPlayer z iných stránok<br/>• Aktualizujte systém Windows a všetok nainštalovaný ochranný softvér<br/>• Vytvorte zálohy Vášho operačného systému<br/><br/>Taktiež môžete jednoducho použiť iba nové riešenie od DriverPack Solution jeho stiahnutím na tejto stránke - ušetrí Vám to Váš čas!<br/><b>Naše riešenie funguje na systémoch Windows 7, 8, 8.1, 10 a XP.</b>"
+
+msgid "badrabbitpromopage_links-text"
+msgstr "Vývoj tohto riešenia bol založený na nasledujúcich materiáloch"
+
+msgid "badrabbitpromopage_link-smb"
+msgstr "Ako povoliť a zakázať verzie 1, 2 a 3 protokolov SMB pre systémy Windows a Windows Server"
+
+msgid "devicegrouppage_show-more-link"
+msgstr "Zobraziť viac"
+
+msgid "devicestypepage_subtitle"
+msgstr "Všetci výrobcovia {{CLASS.SINGLE.FOR}}"
+
+msgid "devicetypevendorpage_subtitle-popular"
+msgstr "Obľúbené {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
+
+msgid "devicetypevendorpage_subtitle-all"
+msgstr "Všetky {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
+
+msgid "errorpage_title"
+msgstr "Chyba 500: interná chyba servera"
+
+msgid "landingfooter_landing-subtitle"
+msgstr "DriverPack obsahuje ovládače pre všetky populárne verzie systému Windows"
+
+msgid "landing-footer_catalog-os"
+msgstr "ovládače pre {{OS}}"
+
+msgid "landing-footer_download"
+msgstr "Stiahnuť DriverPack"
+
+msgid "landing-footer_versions"
+msgstr "Všetky verzie aplikácií"
+
+msgid "landing-footer_wannacry"
+msgstr "Ochrana proti ransomware WannaCry "
+
+msgid "landing-footer_catalog"
+msgstr "Vyhľadávanie ovládača"
+
+msgid "landing-footer_manufacturers"
+msgstr "Výrobcovia Hardvéru"
+
+msgid "landing-footer_badrabbit"
+msgstr "Ochrana pred Bad Rabbit ransomware"
+
+msgid "landing-footer_for-admin"
+msgstr "Pre systémových administrátorov"
+
+msgid "landing-footer_for-translators"
+msgstr "Pre prekladateľov"
+
+msgid "landing-footer_drivers-for-laptops"
+msgstr "Ovládače pre Notebooky"
+
+msgid "landing-footer_hwids"
+msgstr "Device ID"
+
+msgid "landing-footer_license"
+msgstr "Licenčná zmluva"
+
+msgid "landing-footer_remove"
+msgstr "Odstránenie DriverPack"
+
+msgid "notfoundpage_title"
+msgstr "Chyba 404: stránka sa nenašla"
+
+msgid "notebookpage_show-more-link"
+msgstr "Zobraziť viac"
+
+msgid "notebookpage_all-devices"
+msgstr "pre všetky zariadenia"
+
+msgid "notebookspage_subtitle"
+msgstr "Zoznam všetkých výrobcov Notebookov a Netbookov"
+
+msgid "notebooksvendorpage_subtitle-popular"
+msgstr "Obľúbené notebooky a netbooky {{VENDOR.NAME}}"
+
+msgid "notebooksvendorpage_subtitle-all"
+msgstr "Všetky notebooky a netbooky {{VENDOR.NAME}}"
+
+msgid "reviewpage_title"
+msgstr "Spätná väzba a návrhy na zlepšenie programu DriverPack"
+
+msgid "searchpage_show-more-link"
+msgstr "Zobraziť viac"
+
+#. i18n: EN: text for {{LINK}} is in key thankyoupopup_download-link; RU:
+#. текст для {{LINK}} находится в ключе thankyoupopup_download-link;
+msgid "thankyoupopup_download-text"
+msgstr "Stiahnutie nezačalo? Kliknite sem pre {{LINK}}"
+
+msgid "thankyoupopup_title"
+msgstr "Spustiť DriverPack"
+
+msgid "thankyoupopup_cta-text"
+msgstr "pre začatie s výberom a inštaláciou ovládačov do Vášho počítača"
+
+msgid "thankyoupopup_download-link"
+msgstr "stiahnutie"
+
+msgid "translate-feedback-header_caption"
+msgstr "Táto stránka bola iba nedávno preložená. Našli ste chybu? Zvýraznite ju výberom a stlačte {{HOTKEY}}"
+
+msgid "translate-feedback-popup_title-error"
+msgstr "Niečo nie je v poriadku"
+
+msgid "translate-feedback-popup_description-error"
+msgstr "Zvýraznený text nebol odoslaný kvôli problémom na serveri.<br />Skúste to znova neskôr, prosím."
+
+msgid "translate-feedback-popup_title-success"
+msgstr "Ďakujeme"
+
+msgid "translate-feedback-popup_description-success"
+msgstr "Zvýraznený text bol odoslaný editorovi."
+
+msgid "translate-feedback-popup_description-join-us"
+msgstr "Prosím, pomôžte nám s prekladom do svojho materinského jazyka."
+
+msgid "translate-feedback-popup_description-join-link"
+msgstr "Pridajte sa do nášho tímu prekladateľov!"
+
+msgid "translationlandingpage_title"
+msgstr "DriverPack Preklady "
+
+msgid "vendorpage_subtitle-popular"
+msgstr "Obľúbené zariadenia {{VENDOR.NAME}}"
+
+msgid "wannacryptpromopage_cta-text"
+msgstr "Vírus WannaCrypt cryptographer — ako chrániť počítač pred najväčším útokom v histórii?"
+
+msgid "wannacryptpromopage_cta-subtext"
+msgstr "Program DriverPack obsahuje konkrétne prostriedky na odstránenie zraniteľnosti medzi nástrojmi na konfiguráciu počítača. Môžete si stiahnuť bezplatnú ochranu pred vírusom WannaCry, ktorá zabezpečí váš počítač alebo notebook."
+
+msgid "wannacryptpromopage_cta-btn"
+msgstr "Nakonfigurujte počítač a chráňte ho pred WannaCry"
+
+msgid "wannacryptpromopage_caption-text"
+msgstr "Tento softvér je poskytovaný bezplatne"
+
+msgid "wannacryptpromopage_info-text-title-1"
+msgstr "Čo je WannaCrypt?"
+
+msgid "wannacryptpromopage_info-text-1"
+msgstr "Vydieračský vírus WannaCrypt (spontánne premenovaný na WannaCry podľa obetí) napadol počítače 12. mája na celom svete a infikoval zariadenia viac ako 300 000 používateľov v 150 krajinách. Západná Európa, Rusko a Čína boli najviac postihnuté. Vo Veľkej Británii vírus znefunkčnil siete zdravotníckeho oddelenia a zastavil prevádzku nemocníc po celej krajine. V Číne útok napadol staré počítače v továrňach, čo zastavilo niekoľko výrobných odvetví.<br/><br/>Hlavný bod toho, ako tento vírus funguje, je jednoduchý: preniká do vášho počítača alebo notebooku a úplne zakóduje všetky dokumenty, súbory a materiály, ktoré nájde a znemožňuje ich použitie. Votrelci potom požadujú značné množstvo peňazí na dekódovanie — asi 300 dolárov. Neexistuje však žiadna záruka, že získate prístup k súborom späť. V súčasnosti neexistuje žiadny spôsob dekódovania súborov Vami samými a riešenia, ktoré sa na internete ponúkajú, sú buď klamlivé, šíria iný vírus, alebo jednoducho nefungujú so 100% istotou."
+
+msgid "wannacryptpromopage_info-text-title-2"
+msgstr "Kto je ohrozený?"
+
+msgid "wannacryptpromopage_info-text-2"
+msgstr "Počítače s operačným systémom starším ako Windows 10 s otvorenými portami SMB sú najviac ohrozené. V súčasnosti je ohrozených polovica všetkých používateľov systému Windows — 18% používateľov používa nelicencované kópie systému Windows (čo ich automaticky ohrozuje), 23% používateľov zakázalo službu Windows Update (čo im zabraňuje sťahovať najnovšie &#147;rýchle opravy&#148; od spoločnosti Microsoft) a ďalších 6% používa staršie verzie operačného systému, ktoré už viac nie sú aktualizované.<br/><br/>Výsledok toho všetkého je, že siete najrôznejších firiem a podnikov, ktoré stále používajú operačné systémy, ako je Windows XP, sú ohrozené na najvyššej úrovni. Pri útokoch na tieto siete môže byť strata dát ochromujúca a náklady budú obrovské, pretože &#147;výkupné&#148; bude musieť byť zaplatené za každý počítač zvlášť."
+
+msgid "wannacryptpromopage_info-text-title-3"
+msgstr "Ako chrániť Vašu firmu — riešenie od DriverPack Solution"
+
+msgid "wannacryptpromopage_info-text-3"
+msgstr "Hlavným dôvodom nebezpečenstva WannaCrypt (WannaCry) je to, že sa šíri pomocou kritických zraniteľností v protokole SMBv1 bezpečnostného systému MS17-010. V skutočnosti robí WannaCry neviditeľný pre antivírusy. Riešenie od DriverPack Solution vám umožňuje inštalovať aktualizáciu, ktorá chráni kritické zraniteľnosti vášho systému a zakázať zastaralé protokoly, ktoré sú hrozbou, bez ohľadu na históriu vašich licencií a vašu verziu operačného systému."
+
+msgid "wannacryptpromopage_links-text"
+msgstr "Vývoj tohto riešenia bol založený na nasledujúcich materiáloch"
+
+msgid "wannacryptpromopage_link-smb"
+msgstr "Ako povoliť a zakázať verzie 1, 2 a 3 protokolov SMB pre systémy Windows a Windows Server"
+
+#~ msgid "landingheadernav_wannacrypt"
+#~ msgstr "Ochrana proti WannaCry"
+
+#~ msgid "landing-footer_drivers-catalog"
+#~ msgstr "Katalóg ovládačov"

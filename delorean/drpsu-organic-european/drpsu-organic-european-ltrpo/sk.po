@@ -1,4 +1,5 @@
 # Translators:
+# Peter Rožník <729mail@gmail.com>, 2017
 # Nadia Tegeneva <nadia@drp.su>, 2017
 msgid ""
 msgstr ""
@@ -7,12 +8,12 @@ msgstr ""
 "POT-Creation-Date: 2017-08-10 10:22+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>, 2017\n"
-"Language-Team: Nepali (https://www.transifex.com/driverpack-solution/teams/75453/ne/)\n"
+"Language-Team: Slovak (https://www.transifex.com/driverpack-solution/teams/75453/sk/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ne\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: sk\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 
 #. i18n: EN: Example: VENDOR.NAME=Asus; RU: Пример: VENDOR.NAME=Asus;
 msgid "seo_vendor-footer-anchor"
@@ -27,10 +28,10 @@ msgstr "{{NAME}}"
 
 #. i18n: EN: Example: NAME=Asus X550EA; RU: Пример: NAME=Asus X550EA;
 msgid "seo_notebookvendor-footer-anchor"
-msgstr ""
+msgstr "Notebooky {{NOTEBOOK.VENDOR.NAME}}"
 
 msgid "seo_notebook-footer-anchor"
-msgstr ""
+msgstr "Notebooky {{NAME}}"
 
 msgid "seo_notebookdevices-footer-anchor"
 msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} {{CLASS.PLURAL.MAIN}}"
@@ -41,223 +42,223 @@ msgid "seo_deviceclass-footer-anchor"
 msgstr "{{CLASS.PLURAL.MAIN}}"
 
 msgid "seo_hwidos-footer-anchor"
-msgstr ""
+msgstr "Verzia ovládača pre systém Windows {{OS.NAME}}"
 
 msgid "seo_main-title"
-msgstr ""
+msgstr "DriverPack Solution — automatická inštalácia a aktualizácia ovládačov | Stiahnutie zdarma"
 
 msgid "seo_main-description"
-msgstr ""
+msgstr "DriverPack Solution ponúka bezplatnú inštaláciu ovládačov pre Vaše zariadenie, alebo stiahnutie softvéru na automatickú inštaláciu a aktualizáciu ovládačov. K dispozícii je pre operačný systém Windows XP, 7, 8, 8.1 a 10."
 
 msgid "seo_main-keywords"
-msgstr ""
+msgstr "stiahnuť balíček ovládačov pre windows 7 8 10 64 ovládače notebooku zdarma inštalátor ovládačov inštalačný softvér ovládačov"
 
 msgid "seo_mainos-title"
-msgstr ""
+msgstr "Stiahnite si ovládače pre systém Windows {{OS.VERSION}}"
 
 msgid "seo_mainos-description"
-msgstr ""
+msgstr "DriverPack Solution - aktualizujte ovládače pre Windows {{OS.VERSION}} x64 a x86 zdarma"
 
 msgid "seo_mainos-h1"
-msgstr ""
+msgstr "Ovládače systému Windows {{OS.VERSION}}"
 
 msgid "seo_mainos-keywords"
-msgstr ""
+msgstr "Windows {{OS.VERSION}} stiahne a nainštaluje 64 86 ovládače DriverPack Solution zdarma"
 
 msgid "seo_mainos-h3"
-msgstr ""
+msgstr "Najväčšia kolekcia ovládačov pre systém Windows {{OS.VERSION}} v jednoduchej bezplatnej aplikácii"
 
 msgid "seo_mainlanding-title"
-msgstr ""
+msgstr "DriverPack Solution | Stiahnite si zdarma softvér na aktualizáciu ovládačov"
 
 msgid "seo_mainlanding-description"
-msgstr ""
+msgstr "Stiahnite si ovládače pre systém Windows XP, 7, 8, 8.1 a 10."
 
 msgid "seo_mainlanding-keywords"
-msgstr ""
+msgstr "stiahnite si ovládače automatickej inštalácie - aktualizácie Windows 7, XP, 10, 8, 8.1 a softvér na aktualizáciu ovládačov"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
 #. CLASS.PLURAL.FOR=мониторов|модемов;
 msgid "seo_deviceclass-title"
-msgstr ""
+msgstr "Stiahnite si ovládače pre {{CLASS.SINGLE.FOR}} Windows 7, XP, 10, 8 a 8.1 "
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
 #. CLASS.PLURAL.FOR=мониторов|модемов;
 msgid "seo_deviceclass-description"
-msgstr ""
+msgstr "Stiahnite si ovládače pre {{CLASS.SINGLE.FOR}} alebo nainštalujte softvér DriverPack Solution pre skenovanie a aktualizáciu ovládačov"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
 #. CLASS.PLURAL.FOR=мониторов|модемов;
 msgid "seo_deviceclass-h1"
-msgstr ""
+msgstr "<span class='bold'>{{CLASS.SINGLE.FOR}}</span> ovládače "
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
 #. CLASS.PLURAL.FOR=мониторов|модемов;
 msgid "seo_deviceclass-keywords"
-msgstr ""
+msgstr "Stiahnuť ovládače {{CLASS.SINGLE.FOR}} pre windows 7 64 8 10"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
 #. CLASS.PLURAL.FOR=мониторов|модемов;
 msgid "seo_deviceclass-footer-description"
-msgstr ""
+msgstr "Stiahnite si ovládače pre {{CLASS.PLURAL.FOR}} zadarmo"
 
 msgid "seo_deviceclass-footer-application-category"
-msgstr ""
+msgstr "Kategória: <span itemprop='applicationCategory'>Zariadenia</span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=monitors|modem; RU: Пример:
 #. CLASS.PLURAL.MAIN=мониторы|модемы;
 msgid "seo_deviceclass-footer-application-subcategory"
-msgstr ""
+msgstr "Podkategória: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_vendors-title"
-msgstr ""
+msgstr "Stiahnuť ovládače pre PC, notebooky a netbooky | DriverPack Solution"
 
 msgid "seo_vendors-description"
-msgstr ""
+msgstr "Nainštalujte ovládače PC, notebookov a netbookov zadarmo, alebo si stiahnite softvér na automatickú aktualizáciu a inštaláciu ovládačov"
 
 msgid "seo_vendors-h1"
-msgstr ""
+msgstr "Výrobcovia hardvéru"
 
 msgid "seo_vendors-keywords"
-msgstr ""
+msgstr "ovládače ovládače Windows 7 8 10 64 stiahnuť stiahnuť"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendor-title"
-msgstr ""
+msgstr "Stiahnite ovládače {{VENDOR.NAME}} pre Windows 7, XP, 10, 8 a 8.1"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendor-description"
-msgstr ""
+msgstr "Stiahnite ovládače {{VENDOR.NAME}}, alebo nainštalujte softvér DriverPack Solution pre skenovanie a aktualizáciu ovládačov"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendor-h1"
-msgstr ""
+msgstr "<span class='bold'>{{VENDOR.NAME}}</span> ovládače zariadení "
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendor-keywords"
-msgstr ""
+msgstr "{{VENDOR.NAME}} ovládače windows 7 8 10 64 stiahnuť "
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendor-footer-description"
-msgstr ""
+msgstr "Stiahnuť ovládače {{VENDOR.NAME}} pre zariadenia zadarmo"
 
 msgid "seo_vendor-footer-application-category"
-msgstr ""
+msgstr "Kategória: <span itemprop='applicationCategory'>Zariadenia</span>"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendor-footer-application-subcategory"
-msgstr ""
+msgstr "Podkategória: <span itemprop='applicationSubCategory'>zariadenia {{VENDOR.NAME}}</span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|monitors; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.FOR=видеокарт|мониторов; VENDOR.NAME=Acer;
 msgid "seo_devicegroups-title"
-msgstr ""
+msgstr "Ovládače {{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} | Stiahnuť pre Windows 7, XP, 10, 8, a 8.1"
 
 #. i18n: EN: Example: CLASS.SINGLE.FOR=videocard|monitor; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.SINGLE.FOR=видеокарты|монитора; VENDOR.NAME=Acer;
 msgid "seo_devicegroups-description"
-msgstr ""
+msgstr "Stiahnite ovládače {{VENDOR.NAME}} {{CLASS.SINGLE.FOR}}, alebo nainštalujte softvér DriverPack Solution pre skenovanie a aktualizáciu ovládačov"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|monitors; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.FOR=видеокарт|мониторов; VENDOR.NAME=Acer;
 msgid "seo_devicegroups-h1"
-msgstr ""
+msgstr "<span class='bold'>{{VENDOR.NAME}}</span> {{CLASS.SINGLE.FOR}} ovládače"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|monitors; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|мониторы; VENDOR.NAME=Acer;
 msgid "seo_devicegroups-keywords"
-msgstr ""
+msgstr "Stiahnuť {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}} ovládače windows 7 8 10 64  stiahnuť PC"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|monitors; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.FOR=видеокарт|мониторов; VENDOR.NAME=Acer;
 msgid "seo_devicegroups-footer-description"
-msgstr ""
+msgstr "Stiahnite si ovládače pre {{CLASS.PLURAL.FOR}} {{VENDOR.NAME}}"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|monitors; RU: Пример:
 #. CLASS.PLURAL.MAIN=видеокарты|мониторы;
 msgid "seo_devicegroups-footer-application-category"
-msgstr ""
+msgstr "Kategória: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|monitors; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|мониторы; VENDOR.NAME=Acer;
 msgid "seo_devicegroups-footer-application-subcategory"
-msgstr ""
+msgstr "Podkategória: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}} {{VENDOR.NAME}}</span>"
 
 #. i18n: EN: Example: CLASS.SINGLE.FOR=videocard|monitor; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.SINGLE.FOR=видеокарты|монитора; VENDOR.NAME=Acer;
 msgid "seo_devicegroups-footer-content"
-msgstr ""
+msgstr "Stiahnite ovládače {{VENDOR.NAME}} {{CLASS.SINGLE.FOR}}, alebo nainštalujte softvér DriverPack Solution pre automatické stiahnutie a aktualizáciu ovládačov"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
 #. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
 #. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
 #. GROUP.NAME=GeForce 210;
 msgid "seo_devicegroup-title"
-msgstr ""
+msgstr "Ovládače {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.SINGLE.FOR}} | Stiahnuť pre Windows 7, XP, 10, 8, a 8.1"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
 #. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
 #. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
 #. GROUP.NAME=GeForce 210;
 msgid "seo_devicegroup-description"
-msgstr ""
+msgstr "Stiahnite ovládače {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} - {{CLASS.SINGLE.FOR}}, alebo nainštalujte softvér DriverPack Solution pre aktualizáciu ovládačov"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
 #. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
 #. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
 #. GROUP.NAME=GeForce 210;
 msgid "seo_devicegroup-h1"
-msgstr ""
+msgstr "<span class='bold'>{{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.SINGLE.FOR}}</span> ovládače"
 
 #. i18n: EN: Example: GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU:
 #. Пример: GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210;
 msgid "seo_devicegroup-keywords"
-msgstr ""
+msgstr "Stiahnuť {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} ovládače Windows 7 8 10 64 "
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
 #. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
 #. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
 #. GROUP.NAME=GeForce 210;
 msgid "seo_devicegroup-footer-description"
-msgstr ""
+msgstr "Stiahnite si ovládače pre {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.PLURAL.FOR}} zadarmo"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
 #. GROUP.VENDOR.NAME=Nvidia; RU: Пример: CLASS.PLURAL.FOR=видеокарт|чипсетов;
 #. GROUP.VENDOR.NAME=Nvidia;
 msgid "seo_devicegroup-footer-application-category"
-msgstr ""
+msgstr "Kategória: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}} {{GROUP.VENDOR.NAME}}</span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets;
 #. GROUP.NAME=GeForce 210; RU: Пример: CLASS.PLURAL.MAIN=видеокарты|чипсеты;
 #. GROUP.NAME=GeForce 210;
 msgid "seo_devicegroup-footer-application-subcategory"
-msgstr ""
+msgstr "Podkategória: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}} {{GROUP.NAME}}</span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
 #. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
 #. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
 #. GROUP.NAME=GeForce 210;
 msgid "seo_devicegroup-footer-content"
-msgstr ""
+msgstr "Stiahnite ovládače {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} - {{CLASS.SINGLE.FOR}}, alebo stiahnite softvér DriverPack Solution pre automatické stiahnutie a aktualizáciu ovládačov"
 
 msgid "seo_hwids-title"
-msgstr ""
+msgstr "Stiahnite si ovládače zariadení podľa Device_id | DriverPack Solution | Strana {{PAGE}}"
 
 msgid "seo_hwids-description"
-msgstr ""
+msgstr "Stiahnite si ovládače zariadení podľa device_id"
 
 msgid "seo_hwids-h1"
-msgstr ""
+msgstr "Všetky ovládače pre zariadenia"
 
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 msgid "seo_hwid-title"
-msgstr ""
+msgstr "{{DEVICE.DEVICEID}}ovládač na stiahnutie zadarmo "
 
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 msgid "seo_hwid-description"
-msgstr ""
+msgstr "{{DEVICE.DEVICEID}} ovládač zariadenia pre Windows 7, XP, 10, 8, a 8.1"
 
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
@@ -267,141 +268,141 @@ msgstr "<span class='bold'>{{DEVICE.DEVICEID}}</span>"
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 msgid "seo_hwid-keywords"
-msgstr ""
+msgstr "Stiahnuť ovládače Windows 7 8 10 64 stiahnuť {{DEVICE.DEVICEID}} pre PC "
 
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 msgid "seo_hwid-footer-description"
-msgstr ""
+msgstr "Stiahnuť ovládače pre {{DEVICE.DEVICEID}} zariadenie zadarmo"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets; RU: Пример:
 #. CLASS.PLURAL.MAIN=видеокарты|чипсеты;
 msgid "seo_hwid-footer-application-category"
-msgstr ""
+msgstr "Kategória: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|чипсеты; VENDOR.NAME=Acer;
 msgid "seo_hwid-footer-application-subcategory"
-msgstr ""
+msgstr "Podkategória: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}} {{VENDOR.NAME}}</span>"
 
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 msgid "seo_hwid-footer-content"
-msgstr ""
+msgstr "Stiahnite {{DEVICE.DEVICEID}}ovládač, alebo nainštalujte softvér DriverPack Solution pre automatické stiahnutie a aktualizáciu ovládačov"
 
 msgid "seo_notebooks-title"
-msgstr ""
+msgstr "Stiahnite si ovládače pre všetky modely notebookov pre Windows 7, XP, 10, 8 a 8.1"
 
 msgid "seo_notebooks-description"
-msgstr ""
+msgstr "Stiahnite si ovládače pre všetky notebookové a netbookové režimy alebo nainštalujte softvér DriverPack Solution pre automatickú aktualizáciu ovládačov"
 
 msgid "seo_notebooks-h1"
-msgstr ""
+msgstr "Ovládače pre notebook a netbook"
 
 msgid "seo_notebooks-keywords"
-msgstr ""
+msgstr "ovládače ovládače laptop notebook laptop netbook netbook windows 7 8 10 64 stiahnuť"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_notebookvendor-title"
-msgstr ""
+msgstr "{{VENDOR.NAME}} ovládače notebookov | Stiahnite si pre Windows 7, XP, 10, 8 a 8.1"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_notebookvendor-description"
-msgstr ""
+msgstr "Stiahnite si ovládače notebookov a netbookov {{VENDOR.NAME}}, alebo nainštalujte DriverPack Solution pre automatickú aktualizáciu ovládačov"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_notebookvendor-h1"
-msgstr ""
+msgstr "<span class='bold'>{{VENDOR.NAME}}</span> notebook a netbook ovládače "
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_notebookvendor-keywords"
-msgstr ""
+msgstr "{{VENDOR.NAME}} ovládače laptop notebook laptop netbook windows 7 8 10 64 stiahnuť"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_notebookvendor-footer-description"
-msgstr ""
+msgstr "Stiahnuť ovládače pre notebooky {{VENDOR.NAME}} zadarmo"
 
 msgid "seo_notebookvendor-footer-application-category"
-msgstr ""
+msgstr "Kategória: <span itemprop='applicationCategory'>Laptopy</span>"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_notebookvendor-footer-application-subcategory"
-msgstr ""
+msgstr "Podkategória: <span itemprop='applicationSubCategory'>Laptopy {{VENDOR.NAME}}</span>"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebook-title"
-msgstr ""
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} ovládače | Stiahnuť pre Windows 7, XP, 10, 8, a 8.1"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebook-description"
-msgstr ""
+msgstr "Stiahnuť laptop ovládače {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}, alebo nainštalovať softvér DriverPack Solution pre aktualizáciu ovládačov"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebook-h1"
-msgstr ""
+msgstr "<span class='bold'>{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}</span> notebook ovládače"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebook-keywords"
-msgstr ""
+msgstr "stiahnuť ovládače laptop netbook windows 7 8 10 64 {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebook-footer-description"
-msgstr ""
+msgstr "Stiahnuť ovládače pre laptopy {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} zadarmo"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; RU: Пример:
 #. NOTEBOOK.VENDOR.NAME=Acer;
 msgid "seo_notebook-footer-application-category"
-msgstr ""
+msgstr "Kategória: <span itemprop='applicationCategory'>{{NOTEBOOK.VENDOR.NAME}} laptopy</span>"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebook-footer-application-subcategory"
-msgstr ""
+msgstr "Podkategória: <span itemprop='applicationSubCategory'>{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptopy</span>"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebook-footer-content"
-msgstr ""
+msgstr "Tu môžete prevziať ovládače pre laptop {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}, alebo stiahnuť softvér pre automatickú inštaláciu a aktualizáciu ovládačov z DriverPack Solution"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 #. CLASS.SINGLE.FOR=videocart|soundcart; RU: Пример:
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 #. CLASS.SINGLE.FOR=видеокарты|звуковой карты;
 msgid "seo_notebookdevices-title"
-msgstr ""
+msgstr "Ovládače pre {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} - {{CLASS.SINGLE.FOR}} | Stiahnuť pre Windows"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 #. CLASS.SINGLE.FOR=videocart|soundcart; RU: Пример:
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 #. CLASS.SINGLE.FOR=видеокарты|звуковой карты;
 msgid "seo_notebookdevices-description"
-msgstr ""
+msgstr "Stiahnuť ovládače pre {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} - {{CLASS.SINGLE.FOR}}- pre Windows 7, XP, 10, 8, a 8.1, alebo nainštalovať softvér DriverPack Solution"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 #. CLASS.PLURAL.FOR=videocarts|soundcarts; RU: Пример:
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 #. CLASS.PLURAL.FOR=видеокарт|звуковых карт;
 msgid "seo_notebookdevices-h1"
-msgstr ""
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} {{CLASS.SINGLE.FOR}} notebook ovládače"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets;
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU: Пример:
 #. CLASS.PLURAL.MAIN=видеокарты|чипсеты; NOTEBOOK.VENDOR.NAME=Acer;
 #. NOTEBOOK.NAME=AO533;
 msgid "seo_notebookdevices-keywords"
-msgstr ""
+msgstr "stiahnuť ovládače pre laptop netbook windows 7 8 10 64 {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} - {{CLASS.PLURAL.MAIN}}"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 #. CLASS.PLURAL.FOR=videocarts|soundcarts; RU: Пример:
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 #. CLASS.PLURAL.FOR=видеокарт|звуковых карт;
 msgid "seo_notebookdevices-footer-description"
-msgstr ""
+msgstr "Stiahnuť ovládače pre {{CLASS.PLURAL.FOR}} {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptopy zadarmo"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
@@ -432,7 +433,7 @@ msgid "seo_devicegroupos-description"
 msgstr ""
 
 msgid "seo_devicegroupos-h1"
-msgstr ""
+msgstr "{{GROUP.VENDOR.NAME}} {{GROUP.NAME}} ovládače pre Windows {{OS}}"
 
 msgid "seo_devicegroupos-keywords"
 msgstr ""
@@ -456,7 +457,7 @@ msgid "seo_notebookos-description"
 msgstr ""
 
 msgid "seo_notebookos-h1"
-msgstr ""
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} notebook ovládače pre Windows {{OS}}"
 
 msgid "seo_notebookos-keywords"
 msgstr ""
@@ -480,7 +481,7 @@ msgid "seo_deviceclassos-description"
 msgstr ""
 
 msgid "seo_deviceclassos-h1"
-msgstr ""
+msgstr "{{CLASS.SINGLE.FOR}} ovládače pre Windows {{OS}}"
 
 msgid "seo_deviceclassos-keywords"
 msgstr ""
@@ -501,7 +502,7 @@ msgid "seo_devicegroupsos-description"
 msgstr ""
 
 msgid "seo_devicegroupsos-h1"
-msgstr ""
+msgstr "{{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} ovládače pre Windows {{OS}}"
 
 msgid "seo_devicegroupsos-keywords"
 msgstr ""
@@ -525,7 +526,7 @@ msgid "seo_notebookvendoros-description"
 msgstr ""
 
 msgid "seo_notebookvendoros-h1"
-msgstr ""
+msgstr "{{VENDOR.NAME}} notebook ovládače pre Windows {{OS}}"
 
 msgid "seo_notebookvendoros-keywords"
 msgstr ""
@@ -549,7 +550,7 @@ msgid "seo_hwidos-description"
 msgstr ""
 
 msgid "seo_hwidos-h1"
-msgstr ""
+msgstr "{{DEVICE.DEVICEID}} ovládač zariadenia pre Windows {{OS}}"
 
 msgid "seo_hwidos-keywords"
 msgstr ""
@@ -573,7 +574,7 @@ msgid "seo_notebookdevicesos-description"
 msgstr ""
 
 msgid "seo_notebookdevicesos-h1"
-msgstr ""
+msgstr "Ovládače pre {{CLASS.PLURAL.FOR}} pre notebooky {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} | Windows {{OS}}"
 
 msgid "seo_notebookdevicesos-keywords"
 msgstr ""

@@ -1,12 +1,13 @@
 # Translators:
 # Nadia Tegeneva <nadia@drp.su>, 2017
+# Itamar Shoham <itsho.itsho@gmail.com>, 2017
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-10-26 10:03+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
-"Last-Translator: Nadia Tegeneva <nadia@drp.su>, 2017\n"
+"Last-Translator: Itamar Shoham <itsho.itsho@gmail.com>, 2017\n"
 "Language-Team: Hebrew (https://www.transifex.com/driverpack-solution/teams/75453/he/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -59,13 +60,13 @@ msgid "seo_mainos-description"
 msgstr ""
 
 msgid "seo_mainos-h1"
-msgstr ""
+msgstr "דרייברים עבור Windows {{OS.VERSION}}"
 
 msgid "seo_mainos-keywords"
 msgstr ""
 
 msgid "seo_mainos-h3"
-msgstr ""
+msgstr "האוסף הגדול ביותר של דרייברים עבור Windows {{OS.VERSION}} בתוכנה אחת חינמית ופשוטה"
 
 msgid "seo_mainlanding-title"
 msgstr ""
@@ -89,7 +90,7 @@ msgstr ""
 #. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
 #. CLASS.PLURAL.FOR=мониторов|модемов;
 msgid "seo_deviceclass-h1"
-msgstr ""
+msgstr "דרייברים עבור <span class='bold'>{{CLASS.SINGLE.FOR}}</span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
 #. CLASS.PLURAL.FOR=мониторов|модемов;
@@ -116,7 +117,7 @@ msgid "seo_vendors-description"
 msgstr ""
 
 msgid "seo_vendors-h1"
-msgstr ""
+msgstr "יצרני חומרה"
 
 msgid "seo_vendors-keywords"
 msgstr ""
@@ -131,7 +132,7 @@ msgstr ""
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendor-h1"
-msgstr ""
+msgstr "דרייברים עבור חומרה של חברת <span class='bold'>{{VENDOR.NAME}}</span>"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendor-keywords"
@@ -161,7 +162,7 @@ msgstr ""
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|monitors; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.FOR=видеокарт|мониторов; VENDOR.NAME=Acer;
 msgid "seo_devicegroups-h1"
-msgstr ""
+msgstr "דרייברים עבור {{CLASS.SINGLE.FOR}} של <span class='bold'>{{VENDOR.NAME}}</span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|monitors; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|мониторы; VENDOR.NAME=Acer;
@@ -207,7 +208,7 @@ msgstr ""
 #. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
 #. GROUP.NAME=GeForce 210;
 msgid "seo_devicegroup-h1"
-msgstr ""
+msgstr "דרייברים עבור <span class='bold'>{{CLASS.SINGLE.FOR}} {{GROUP.VENDOR.NAME}} {{GROUP.NAME}}</span>"
 
 #. i18n: EN: Example: GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU:
 #. Пример: GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210;
@@ -247,7 +248,7 @@ msgid "seo_hwids-description"
 msgstr ""
 
 msgid "seo_hwids-h1"
-msgstr ""
+msgstr "כל הדרייברים עבור ההתקנים"
 
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
@@ -262,7 +263,7 @@ msgstr ""
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 msgid "seo_hwid-h1"
-msgstr ""
+msgstr "<span class='bold'>{{DEVICE.DEVICEID}}</span>"
 
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
@@ -296,7 +297,7 @@ msgid "seo_notebooks-description"
 msgstr ""
 
 msgid "seo_notebooks-h1"
-msgstr ""
+msgstr "דרייברים עבור מחשבים ניידים ונטבוקים"
 
 msgid "seo_notebooks-keywords"
 msgstr ""
@@ -311,7 +312,7 @@ msgstr ""
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_notebookvendor-h1"
-msgstr ""
+msgstr "דרייברים עבור מחשבים ניידים ונטבוקים של <span class='bold'>{{VENDOR.NAME}}</span>"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_notebookvendor-keywords"
@@ -341,7 +342,7 @@ msgstr ""
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebook-h1"
-msgstr ""
+msgstr "דרייברים עבור מחשב נייד <span class='bold'>{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}</span>"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
@@ -387,7 +388,7 @@ msgstr ""
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 #. CLASS.PLURAL.FOR=видеокарт|звуковых карт;
 msgid "seo_notebookdevices-h1"
-msgstr ""
+msgstr "דרייברים עבור {{CLASS.SINGLE.FOR}} במחשב נייד {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets;
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU: Пример:
@@ -432,7 +433,7 @@ msgid "seo_devicegroupos-description"
 msgstr ""
 
 msgid "seo_devicegroupos-h1"
-msgstr ""
+msgstr "דרייבר עבור {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} למערכת הפעלה Windows {{OS}}"
 
 msgid "seo_devicegroupos-keywords"
 msgstr ""
@@ -456,7 +457,7 @@ msgid "seo_notebookos-description"
 msgstr ""
 
 msgid "seo_notebookos-h1"
-msgstr ""
+msgstr "דרייברים למחשב נייד {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} עבור Windows {{OS}}"
 
 msgid "seo_notebookos-keywords"
 msgstr ""
@@ -480,7 +481,7 @@ msgid "seo_deviceclassos-description"
 msgstr ""
 
 msgid "seo_deviceclassos-h1"
-msgstr ""
+msgstr "דרייברים ל {{CLASS.SINGLE.FOR}} עבור Windows {{OS}} "
 
 msgid "seo_deviceclassos-keywords"
 msgstr ""
@@ -501,7 +502,7 @@ msgid "seo_devicegroupsos-description"
 msgstr ""
 
 msgid "seo_devicegroupsos-h1"
-msgstr ""
+msgstr "דרייברים ל {{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} עבור Windows {{OS}}"
 
 msgid "seo_devicegroupsos-keywords"
 msgstr ""
@@ -525,7 +526,7 @@ msgid "seo_notebookvendoros-description"
 msgstr ""
 
 msgid "seo_notebookvendoros-h1"
-msgstr ""
+msgstr "דרייברים למחשב נייד של {{VENDOR.NAME}} עבור Windows {{OS}}"
 
 msgid "seo_notebookvendoros-keywords"
 msgstr ""
@@ -549,7 +550,7 @@ msgid "seo_hwidos-description"
 msgstr ""
 
 msgid "seo_hwidos-h1"
-msgstr ""
+msgstr "דרייבר ל {{DEVICE.DEVICEID}} עבור Windows {{OS}}"
 
 msgid "seo_hwidos-keywords"
 msgstr ""
@@ -573,7 +574,7 @@ msgid "seo_notebookdevicesos-description"
 msgstr ""
 
 msgid "seo_notebookdevicesos-h1"
-msgstr ""
+msgstr "דרייברים ל {{CLASS.PLURAL.FOR}} במחשב נייד {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} | Windows {{OS}}"
 
 msgid "seo_notebookdevicesos-keywords"
 msgstr ""

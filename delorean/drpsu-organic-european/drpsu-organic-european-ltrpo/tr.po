@@ -183,7 +183,7 @@ msgstr "Kategori: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</sp
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|monitors; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|мониторы; VENDOR.NAME=Acer;
 msgid "seo_devicegroups-footer-application-subcategory"
-msgstr ""
+msgstr "Alt kategori: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 #. i18n: EN: Example: CLASS.SINGLE.FOR=videocard|monitor; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.SINGLE.FOR=видеокарты|монитора; VENDOR.NAME=Acer;
@@ -233,7 +233,7 @@ msgstr "Kategori: <span itemprop='applicationCategory'>{{GROUP.VENDOR.NAME}} {{C
 #. GROUP.NAME=GeForce 210; RU: Пример: CLASS.PLURAL.MAIN=видеокарты|чипсеты;
 #. GROUP.NAME=GeForce 210;
 msgid "seo_devicegroup-footer-application-subcategory"
-msgstr ""
+msgstr "Alt kategori: <span itemprop='applicationSubCategory'>{{GROUP.NAME}}  {{CLASS.PLURAL.MAIN}}</span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
 #. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
@@ -284,7 +284,7 @@ msgstr "Kategori: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</sp
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|чипсеты; VENDOR.NAME=Acer;
 msgid "seo_hwid-footer-application-subcategory"
-msgstr ""
+msgstr "Alt kategori: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
@@ -333,7 +333,7 @@ msgstr "Alt kategori: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} di
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebook-title"
-msgstr ""
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} sürücüleri | Windows XP, 7, 8, 8.1 ve 10 için indirin"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
@@ -446,7 +446,7 @@ msgid "seo_devicegroupos-footer-application-category"
 msgstr "Kategori: <span itemprop='applicationCategory'>{{GROUP.VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_devicegroupos-footer-application-subcategory"
-msgstr ""
+msgstr "Alt kategori: <span itemprop='applicationSubCategory'>{{GROUP.NAME}}  {{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_devicegroupos-footer-content"
 msgstr "{{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.PLURAL.FOR}} (Windows {{OS}}) için sürücüleri indirin, ya da otomatik sürücü indirme ve güncelleme için DriverPack Solution yazılımını yükleyin"
@@ -515,7 +515,7 @@ msgid "seo_devicegroupsos-footer-application-category"
 msgstr "Kategori: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_devicegroupsos-footer-application-subcategory"
-msgstr ""
+msgstr "Alt kategori: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_devicegroupsos-footer-content"
 msgstr "{{VENDOR.NAME}} {{CLASS.PLURAL.FOR}} (Windows {{OS}}) için sürücüleri ücretsiz indirin, ya da sürücü indirmek ve güncellemek için DriverPack Solution yazılımını yükleyin"
@@ -563,7 +563,7 @@ msgid "seo_hwidos-footer-application-category"
 msgstr "Kategori: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_hwidos-footer-application-subcategory"
-msgstr ""
+msgstr "Alt kategori: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}}  {{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_hwidos-footer-content"
 msgstr "Windows {{OS}} için {{DEVICE.DEVICEID}} aygıtının sürücüsünü indirin, ya da otomatik sürücü kurulumu ve güncelleme için DriverPack Solution yazılımını yükleyin"
@@ -827,13 +827,13 @@ msgid "seo_devicegroup-footer-content-video-nvidia-nvidia-geforce-9600-gt"
 msgstr "Nvidia Geforce 9600 GT görüntü kartı için sürücülere mi ihtiyacınız var? Doğru yerdesiniz! Bu Bölümde, şu anda var ve kullanılmakta olan tüm Windows işletim sistemi sürümleri için Nvidia Geforce 9600 GT görüntü kartı sürücülerini indirebilirsiniz."
 
 msgid "seo_devicegroup-footer-content-monitor-samsung-syncmaster-740n-179n-syncmaster-magic-cx721n-cx714n"
-msgstr ""
+msgstr "Samsung Syncmaster 740n monitörü bilgisayarınıza bağlamakta herhangi bir zorluk mu yaşıyorsunuz? Bilgileri görüntülerken monitörünüzün ekranında çeşitli izler mi görünüyor? Bu Bölümde, şu anda kullanılmakta olan tüm Windows İS sürümleri için en son yapılandırılan Samsung Syncmaster 740n monitör sürücülerini bulabilir ve indirebilirsiniz."
 
 msgid "seo_notebook-footer-content-acer-aspire-5560g"
 msgstr "Bu Bölümde Windows XP, 7, 8, 8.1 ve 10 için Acer Aspire 5560g dizüstü sürücülerini indirebilirsiniz. Tüm sürücüler işleyebilirlik ve güvenlik için uzmanlarımız tarafından doğrulanmıştır. Eğer ihtiyacınız olan sürücüyü kendiniz bulamadıysanız, DriverPack Solution yazılımımızı kullanın - kesinlikle ücretsizdir ve sizin için herşeyi yapacaktır!"
 
 msgid "seo_notebook-footer-content-aspire-5750g"
-msgstr "Acer Aspire 5750g dizüstü için sürücüleri indirmeniz mi gerekiyor? Windows İS XP, 7, 8, 8.1 ve 10 için sürücüler bu Bölümde temsil edilir. Sürücülerimiz antivirüs yazılımı tarafından kontrol edilmiş ve %100 güvenlidir. İhtiyacınız olan sürücüyü kendiniz aramak istemiyor musunuz? O zaman DriverPack Solution yazılımımızı indirin - ücretsizdir ve ihtiyacınız olan herşeyi otomatik olarak seçebilecektir."
+msgstr "Acer Aspire 5750g dizüstü için sürücüleri indirmeniz mi gerekiyor? Windows İS XP, 7, 8, 8.1 ve 10 için sürücüler bu Bölümde temsil edilir. Sürücülerimiz antivirüs yazılımı tarafından denetlenmiş ve %100 güvenlidir. İhtiyacınız olan sürücüyü kendiniz aramak istemiyor musunuz? O zaman DriverPack Solution yazılımımızı indirin - ücretsizdir ve ihtiyacınız olan herşeyi otomatik olarak seçebilecektir."
 
 msgid "seo_notebook-footer-content-acer-aspire-5100"
 msgstr "Bu Bölümde Acer Aspire 5100 dizüstü (Windows XP, 7, 8, 8.1, 10) için sürücüleri ücretsiz indirebilirsiniz. Eğer bazı nedenlerden dolayı ihtiyacınız olan sürücüyü kataloğumuzda bulmada başarısız olursanız, ümidinizi kaybetmeyin - DriverPack Solution yazılımımızı indirin. Sizin için herşeyi yapacak!"
@@ -848,7 +848,7 @@ msgid "seo_notebook-footer-content-acer-aspire-5551g"
 msgstr "Bu Bölümde şu anda kullanımı kesinlikle ücretsiz olan tüm Windows İS sürümleri için Acer Aspire 5551g dizüstü sürücülerini indirmenizi öneririz. İhtiyacınız olan sürücüyü kataloğomuzda bulamadınız mı? Ücretsiz DriverPack Solution yazılımımızı indirin - tüm sürücülerinizi en son güncel sürüme güncelleyecek."
 
 msgid "seo_notebook-footer-content-acer-aspire-v3-571g"
-msgstr ""
+msgstr "Acer Aspire v3 571g dizüstünüz açılmıyor mu? Sorun sürücüler ile ilgili olabilir. Bu Bölümde, Acer Aspire v3 571g için sürücüleri ücretsiz indirebilirsiniz. Şu an kullanılmakta olan tüm Windows - XP, 7, 8, 8.1, ve 10 sürümleri için sürücüler burada temsil edilir. Sorunu kendiniz çözmede başarısız mı oldunuz? DriverPack Solution yazılımımızı indirin - gereken sürücüyü bulacak ve kendi başına çalışabilen sürüme güncelleyecek."
 
 msgid "seo_notebook-footer-content-asus-x550cc"
 msgstr "Asus X550CC dizüstü için sürücüleri indirmeniz mi gerekiyor? Sitemizin bu Bölümünde dizüstü işleminiz için ihtiyacınız olan herşeyi bulacaksınız. Tüm paketlerimiz işleyebilirlik ve güvenlik için doğrulanmıştır. Kendiniz ihitiyacınız olan sürücüyü bulamadıysanız, DriverPack Solution yazılımımızı indirin - bilgisayarınızdaki sürücülerin şu anki durumuna erişecek ve bunları en son sürümüne güncelleyecek."
@@ -866,7 +866,7 @@ msgid "seo_notebook-footer-content-asus-x540la"
 msgstr "Buradan Windows XP, 7, 8, 8.1, ve 10 için ASUS X540LA dizüstü sürücülerini ücretsiz olarak indirebilirsiniz. Aynı zamanda sürücü güncelleştirmeleri için kesinlikle ücretsiz olan DriverPack Solution yazılımımızı da indirebilirsiniz, bu program sürücülerin şu andaki versiyonlarını en son güncellenen halleri ile karşılaştırarak otomatik olarak günceller."
 
 msgid "seo_notebook-footer-content-asus-k50c"
-msgstr ""
+msgstr "Windows XP, 7, 8, 8.1 veya 10 için Asus k50c dizüstü sürücülerine mi ihtiyacınız var? Bu Bölümde, Asus k50c için sürücüleri ücretsiz olarak indirebilir, ya da ihtiyacınız olan sürücüyü kendi başınıza seçmede başarsız olduysanız, dizüstünüzde donanımı çözümleyecek ve ihtiyacınız olan tüm sürücüleri kendi başına seçecek olan DriverPack Solution yazılımını yükleyin."
 
 msgid "seo_notebook-footer-content-asus-x553ma"
 msgstr "Windows XP, 7, 8, 8.1 veya 10 uyumlu Asus X553MA dizüstü sürücülerine mi ihtiyaıcnız var? Bu bölümden Asus X553MA için sürücüleri indirebilirsiniz. Eğer kendiniz kurarken sorun yaşıyorsanız, DriverPack Solution yazılımımızı yükleyebilirsiniz, donanımınızı tarayıp gerekli sürücüleri otomatik olarak bulur."
@@ -881,7 +881,7 @@ msgid "seo_notebook-footer-content-asus-k52jr"
 msgstr "Burada Windows XP, 7, 8, 8.1, ve 10 için Asus k52jr dizüstü sürücülerini ücretsiz olarak indirebilirsiniz. Tüm sürücüler işleyebilirlik ve güvenlik için en iyi uzmanlarımız tarafından doğrulanmıştır."
 
 msgid "seo_notebook-footer-content-asus-x101ch"
-msgstr ""
+msgstr "Burada Windows XP, 7, 8, 8.1, ve 10 için Asus X101CH dizüstülerinin sürücülerini indirebilirsiniz. İhtiyacınız olan sürücüyü kataloğumuzda bulamadınız mı? Sorun değil - otomatik sürücü kurulumu için DriverPack Solution yazılımını indirin - gerekli aygıt için sürücüleri hiçbir ilave sorun olmadan ve kendi başına seçecek."
 
 msgid "seo_notebook-footer-content-asus-k50ij"
 msgstr "Burada Windows XP, 7, 8, 8.1 veya 10 için Asus K50ij dizüstü sürücülerini ücretsiz olarak indirebilirsiniz. Eğer ihtiyacınız olan sürücüyü kataloğumuzda seçmede başarısız olduysanız, sürücü arama ve kurulum için DriverPack Solution yazılımını kullanın - ücretsizdir ve sizin için herşeyi yapacaktır."
@@ -896,7 +896,7 @@ msgid "seo_notebook-footer-content-asus-x550ca"
 msgstr "Buradan Asus x550ca dizüstünüz için Windows XP, 7, 8, 8.1 veya 10 uyumlu sürücüleri indirebilirsiniz. Tüm sürücülerimizin çalışabilirliği ve güvenliği denetlenmiştir. "
 
 msgid "seo_notebook-footer-content-lenovo-g580"
-msgstr "Buradan Windows XP, 7, 8, 8.1 veya 10 uyumlu Lenovo G580 dizüstü sürücülerini kesinlikle ücretsiz olarak indirebilirsiniz. Tüm sürücülerimiz antivirüs tarafından kontrol edilmiştir. Aradığınız sürücüyü bulamadınız mı? DriverPack Solution yazılımımızı indirin - ücretsizdir ve gerekli herşeyi sizin için yapacaktır."
+msgstr "Burada Windows XP, 7, 8, 8.1 veya 10 için Lenovo G580 dizüstü sürücülerini kesinlikle ücretsiz olarak indirebilirsiniz. Tüm sürücüler antivirüs yazılımları tarafından denetlenmiştir. İhtiyacınız olan sürücüyü bulamadınız mı? DriverPack Solution yazılımını indirin ve yükleyin - ücretsizdir ve sizin için herşeyi yapacaktır."
 
 msgid "seo_notebook-footer-content-lenovo-b590"
 msgstr "Buradan Asus b590 dizüstünüz için Windows XP, 7, 8, 8.1 veya 10 uyumlu sürücüleri indirebilirsiniz. Tüm sürücülerimizin güvenliği antivirüsümüz tarafından denetlenmiştir. "
@@ -908,7 +908,7 @@ msgid "seo_notebook-footer-content-lenovo-g580-wifi"
 msgstr "Windows XP, 7, 8, 8.1 veya 10 için Lenovo g580 dizüstü Kablosuz Ağ sürücüsüne mi ihtiyacınız var? Doğrudan kataloğumuzdan indirin. Tüm sürücülerimiz tamamen çalışır ve güvenlidir."
 
 msgid "seo_notebook-footer-content-lenovo-b590-wifi"
-msgstr "Burada Windows XP, 7, 8, 8.1 veya 10 için Lenovo b590 dizüstü Kablosuz Ağ sürücülerini indirebilirsiniz. Bütün kataloğumuz antivirüs yazılımları tarafından kontrol edilmiştir."
+msgstr "Burada Windows XP, 7, 8, 8.1 veya 10 için Lenovo b590 dizüstü Kablosuz Ağ sürücülerini indirebilirsiniz. Bütün kataloğumuz antivirüs yazılımları tarafından denetlenmiştir."
 
 msgid "seo_notebook-footer-content-acer-aspire-v3-571g-wifi"
 msgstr "Burada Windows XP, 7, 8, 8.1, ve 10 için Acer Aspire v3 571g dizüstü Kablosuz Ağ sürücülerini ücretsiz olarak indirebilirsiniz."
@@ -923,10 +923,10 @@ msgid "seo_notebook-footer-content-acer-aspire-v3-571g-inputdev"
 msgstr "Buradan Acer Aspire v3 571g dizüstünüz için klavye ve diğer giriş cihazlarınıza Windows XP, 7, 8, 8.1 ve 10 uyumlu sürücüleri indirebilirsiniz. Tüm sürücülerimiz çalışır ve güvenlidir."
 
 msgid "seo_notebook-footer-content-acer-aspire-v3-571g-lan"
-msgstr ""
+msgstr "Burada Windows XP, 7, 8, 8.1, ve 10 için Acer Aspire v3 571g ağ kartı sürücüsünü indirebilirsiniz. İhtiyacınız olan sürücüyü kendi başınıza bulamadınız mı? DriverPack Solution yazılımımızı kullanın - gerekli olan herşeyi kendi başına seçecek."
 
 msgid "seo_notebook-footer-content-acer-aspire-v3-571g-cardreader"
-msgstr ""
+msgstr "Bu Bölümde, Windows XP, 7, 8, 8.1, ve 10 için Acer Aspire v3 571g dizüstünün kart okuyucu sürücüsünü ek sorun yaşamadan indirebilirsiniz. Aynı zamanda burada DriverPack Solution yazılımımızı da indirebilirsiniz - donanım yapılandırmanızı çözümleyecek, gerekli sürücüyü kendi başına seçecek ve yükleyecektir."
 
 msgid "seo_notebook-footer-content-asus-x550cc-wifi"
 msgstr "Asus X550CC dizüstünde Kablosuz Ağ çalışmıyor mu? Sorun eskimiş sürücüler ile ilgili olabilir - Asus X550CC için Kablosuz Ağ sürücülerinin en son sürümünü indirin, veya ücretsiz DriverPack Solution yazılımını yükleyin - otomatik kipte herşeyi yapacaktır."
@@ -962,13 +962,13 @@ msgid "seo_notebook-footer-content-acer-aspire-v3-571g-8-x86"
 msgstr "Windows 8 için Acer Aspire v3 571g dizüstü sürücülerini ücretsiz indirin, ya da otomatik sürücü kurulumu ve güncellemesi için DriverPack Solution yazılımını yükleyin."
 
 msgid "seo_notebook-footer-content-acer-aspire-v3-571g-8.1-x86"
-msgstr "Bu bölümden Windows 8 uyumlu Acer Asprie v3 571g dizüstü sürücülerini indirebilirsiniz. Aynı zamanda DriverPack Solution yazılımını da indirebilirsiniz - bu yazılım donanımınızı kontrol edip gerekli sürücüleri yükleyecektir."
+msgstr "Bu bölümden Windows 8 uyumlu Acer Asprie v3 571g dizüstü sürücülerini indirebilirsiniz. Aynı zamanda DriverPack Solution yazılımını da indirebilirsiniz - bu yazılım donanımınızı denetleyip gerekli sürücüleri yükleyecektir."
 
 msgid "seo_notebook-footer-content-acer-aspire-v3-571g-10-x86"
-msgstr "Burada Windows 10 için Acer Aspire v3 571g dizüstü sürücülerini indirebilirsiniz. Tüm sürücülerimiz tamamen çalışır ve antivirüs yazılımları tarafından kontrol edilmiştir."
+msgstr "Burada Windows 10 için Acer Aspire v3 571g dizüstü sürücülerini indirebilirsiniz. Tüm sürücülerimiz tamamen çalışır ve antivirüs yazılımları tarafından denetlenmiştir."
 
 msgid "seo_notebook-footer-content-asus-x550cc-7-x86"
-msgstr "Bu bölümden Windows7x86 uyumlu Asus X550CC dizüstü sürücülerini indirebilirsiniz. Tüm sürücüler güvenlik için antivirüs tarafından kontrol edilmiştir."
+msgstr "Bu Bölümde, Windows7x86 için Asus X550CC dizüstü sürücülerini indirebilirsiniz. Tüm sürücüler güvenlik için antivirüs yazılımları tarafından denetlenmiştir!"
 
 msgid "seo_notebook-footer-content-asus-x550cc-7-x64"
 msgstr "Bu bölümden Windows 7x64 uyumlu Asus X550CC dizüstü sürücülerini ücretsiz olarak indirebilirsiniz. Eğer bir nedenden dolayı sürücülerden memnun değilseniz, DriverPack Solution yazılımımızı kullanın - dizüstünüz için gerekli olan güncel sürücüleri otomatik olarak seçip yükleyecektir."
@@ -983,7 +983,7 @@ msgid "seo_notebook-footer-content-asus-x540sa-8.1-x64"
 msgstr "Windows8.1x64 için Asus X540SA dizüstü sürücülerine mi ihtiyacınız var? Burada ihtiyacınız olan herşeyi bulacaksınız. Sürücülerimiz işleyebilirlik ve güvenlik için en iyi uzmanlar tarafından doğrulanmıştır."
 
 msgid "seo_notebook-footer-content-asus-x540sa-10-x64"
-msgstr ""
+msgstr "Windows 10x64 için Asus X540SA dizüstü sürücülerini indirmeye mi ihtiyacınız var? Doğru yerdesiniz! Eğer bazı nedenlerden dolayı ihtiyacınız olan sürücüyü katalogda bulamadıysanız, DriverPack Solution yazılımımızı indirin - tüm en son sürümleri bulacak ve bunları kendi başına dizüstünüze yükleyecektir!"
 
 msgid "seo_notebook-footer-content-asus-x540sc-7-x64"
 msgstr "Windows7x64 uyumlu Asus X540SC dizüstü sürücülerine mi ihtiyacınız var? İhtiyacınız olan herşeyi bu bölümde bulabilirsiniz. Tüm sürücülerimizin güvenliği ve çalışabilirliği onaylanmıştır!"
@@ -1010,7 +1010,7 @@ msgid "seo_notebook-footer-content-asus-k50ij-xp-x86"
 msgstr "Windows XP uyumlu Asus k50ij dizüstü sürücülerine mi ihtiyacınız var? Kataloğumuza göz atın - ihtiyacınız olan herşeyi orada bulabilirsiniz. Yardımcı olmadı mı? O zaman sürücü güncelleştirmeleriniz için DriverPack Solution yazılımını kullanın - dizüstünüzün donanımlarını analiz edip en uygun sürücüleri kendiliğinden seçecektir."
 
 msgid "seo_notebook-footer-content-lenovo-g580-7-x64"
-msgstr ""
+msgstr "Windows XP, 7, 8, 8.1 veya 10 için Lenovo G580 dizüstü sürücüleri tam burada indirmek için mevcuttur. Sürücüden memnun kalmadınız mı? O zaman sürücü arama ve kurulumu için DriverPack Solution yazılımını kullanın - herşeyi kendi başına yapacaktır."
 
 msgid "seo_notebook-footer-content-asus-x550cc-sound-10-x64"
 msgstr "Buradan Windows10x64 uyumlu Asus X550CC dizüstü sürücülerini ücretsiz olarak indirebilirsiniz. Aynı zamanda DriverPack Solution yazılımını da indirebilirsiniz, bu program sürücülerin şu andaki versiyonlarını en son güncellenen halleri ile karşılaştırarak otomatik olarak günceller."

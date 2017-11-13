@@ -183,7 +183,7 @@ msgstr "زمرہ: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</sp
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|monitors; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|мониторы; VENDOR.NAME=Acer;
 msgid "seo_devicegroups-footer-application-subcategory"
-msgstr ""
+msgstr "ذیلی زمرہ: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 #. i18n: EN: Example: CLASS.SINGLE.FOR=videocard|monitor; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.SINGLE.FOR=видеокарты|монитора; VENDOR.NAME=Acer;
@@ -233,7 +233,7 @@ msgstr "زمرہ: <span itemprop='applicationCategory'>{{GROUP.VENDOR.NAME}} {{C
 #. GROUP.NAME=GeForce 210; RU: Пример: CLASS.PLURAL.MAIN=видеокарты|чипсеты;
 #. GROUP.NAME=GeForce 210;
 msgid "seo_devicegroup-footer-application-subcategory"
-msgstr ""
+msgstr "ذیلی زمرہ: <span itemprop='applicationSubCategory'>{{GROUP.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
 #. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
@@ -284,7 +284,7 @@ msgstr "زمرہ: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</sp
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|чипсеты; VENDOR.NAME=Acer;
 msgid "seo_hwid-footer-application-subcategory"
-msgstr ""
+msgstr "ذیلی زمرہ: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
@@ -443,10 +443,10 @@ msgid "seo_devicegroupos-footer-description"
 msgstr "{{CLASS.SINGLE.FOR}} کے لئے {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} Windows {{OS}} کیلئے مفت ڈاؤن لوڈ، ڈاؤن لوڈ کریں."
 
 msgid "seo_devicegroupos-footer-application-category"
-msgstr ""
+msgstr "زمرہ: <span itemprop='applicationCategory'>{{GROUP.VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_devicegroupos-footer-application-subcategory"
-msgstr ""
+msgstr "ذیلی زمرہ: <span itemprop='applicationSubCategory'>{{GROUP.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_devicegroupos-footer-content"
 msgstr "{{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.PLURAL.FOR}} (Windows {{OS}}) کیلئے ڈرائیور ڈاؤن لوڈ کریں، یا خود کار طریقے سے ڈرائیور کے لئے DriverPack Solution سافٹ ویئر ڈاؤن لوڈ کریں اور اپ ڈیٹ کریں."
@@ -515,7 +515,7 @@ msgid "seo_devicegroupsos-footer-application-category"
 msgstr " زمرہ: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_devicegroupsos-footer-application-subcategory"
-msgstr ""
+msgstr "ذیلی زمرہ: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_devicegroupsos-footer-content"
 msgstr "{{VENDOR.NAME}} {{CLASS.PLURAL.FOR}} (Windows {{OS}}) کیلئے مفت ڈرائیور ڈاؤن لوڈ کریں، یا ڈرائیور کے لئے  DriverPack Solution سافٹ ویئر کو انسٹال کریں اور اپ ڈیٹ کریں."
@@ -563,7 +563,7 @@ msgid "seo_hwidos-footer-application-category"
 msgstr "زمرہ: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_hwidos-footer-application-subcategory"
-msgstr ""
+msgstr "ذیلی زمرہ: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_hwidos-footer-content"
 msgstr "Windows {{OS}} کیلئے {{DEVICE.DEVICEID}} آلہ کیلئے ڈرائیور ڈاؤن لوڈ کریں، یا خود کار طریقے سے ڈرائیور ڈاؤن لوڈ کرنے اور اپ ڈیٹ کیلئے DriverPack Solution سافٹ ویئر انسٹال کریں."
@@ -944,31 +944,31 @@ msgid "seo_notebook-footer-content-asus-k50c-video"
 msgstr "کیا Asus k50c لیپ ٹاپ پر گیم شروع نہیں ہوتی؟ یہاں آپ 10 ,Windows XP، 7، 8، 8.1 کے لئے Asus k50c کے لئے ویڈیو کارڈ ڈرائیور ڈاؤن لوڈ کرسکتے ہیں."
 
 msgid "seo_notebook-footer-content-asus-k50c-wifi"
-msgstr ""
+msgstr "کیا آپ وائی فائی کے ذریعے انٹرنیٹ تک رسائی حاصل کرنے میں کسی بھی مسائل کا سامنا کرتے ہیں؟ یہاں آپ Wndows XP, 7, 8, 8.1, 10 کے لئے Asus k50c لیپ ٹاپ کے لئے وائی فائی ڈرائیور ڈاؤن لوڈ کر سکتے ہیں - یہ مسئلہ حل کر سکتا ہے!"
 
 msgid "seo_notebook-footer-content-asus-x553ma-video"
 msgstr "کیا آپ کے Asus x553ma لیپ ٹاپ کے ویڈیو کارڈ ڈرائیور ڈرائیورز پرانے ہیں؟ یہاں آپ Windows XP, 7, 8, 8.1, 10 کے لئے ڈرائیور ڈاؤن لوڈ کرسکتے ہیں."
 
 msgid "seo_notebook-footer-content-asus-x101ch-video"
-msgstr ""
+msgstr " کیا Asus X101CH لیپ ٹاپ پر گیم شروع نہیں ہوتی؟ یہاں آپ 10 ,Windows XP، 7، 8، 8.1 کے لئے Asus X101CH کے لئے ویڈیو کارڈ ڈرائیور مفت ڈاؤن لوڈ کرسکتے ہیں. یہ مسئلہ حل کر سکتا ہے!"
 
 msgid "seo_notebook-footer-content-asus-k50ij-wifi"
-msgstr ""
+msgstr " کیا آپ Windows XP، 7، 8، 8.1, 10 کے لئے Asus k50ij لیپ ٹاپ کے لئے وائی فائی ڈرائیور کی ضرورت ہے؟ ہماری کیٹلاگ سے اسے ڈائریکٹلی ڈاؤن لوڈ کریں. یا خود بخود ڈرائیور اپ ڈیٹ کے لئے DriverPack Solution سافٹ ویئر ڈاؤن لوڈ کریں. یہ بالکل مفت ہے."
 
 msgid "seo_notebook-footer-content-asus-x551ma-lan"
 msgstr ""
 
 msgid "seo_notebook-footer-content-lenovo-g580-lan"
-msgstr ""
+msgstr "یہاں آپ 10 ,Windows XP, 7, 8، 8.1  کے لئے Lenovo g580 لیپ ٹاپ کے لئے نیٹ ورک ڈرائیور ڈاؤن لوڈ کرسکتے ہیں. کیا آپ کو آپنی ضرورت کا ڈرائیور نہیں ملا ہے؟ DriverPack Solution سافٹ ویئر ڈاؤن لوڈ اور انسٹال کریں. یہ مفت ہے اور  لیپ ٹاپ کے مناسب آپریشن کے لئے ہر چیز کو  اپنے آپ منتخب کریں گے."
 
 msgid "seo_notebook-footer-content-acer-aspire-v3-571g-7-x86"
 msgstr "اس سیکشن میں آپ Windows 7 کے لئے Acer Aspire v3 571g لیپ ٹاپ کے ڈرائیورز ڈاؤن لوڈ کرسکتے ہیں. ہمارے تمام ڈرائیورز ماہرین کی طرف سے تصدیق شدا اور مکمل طور پر آپریٹنگ ہیں."
 
 msgid "seo_notebook-footer-content-acer-aspire-v3-571g-8-x86"
-msgstr ""
+msgstr "یہاں آپ Windows 8 کے لئے Acer Aspire v3 571g لیپ ٹاپ کے ڈرائیور ڈاؤن لوڈ کرسکتے ہیں، یا خودکار ڈرائیور کے اپڈیٹ کے لئے DriverPack Solution سافٹ ویئر انسٹال کرسکتے ہیں."
 
 msgid "seo_notebook-footer-content-acer-aspire-v3-571g-8.1-x86"
-msgstr ""
+msgstr "اس حصے میں Windows 8 کے لئے Acer Aspire V3 571g لیپ ٹاپ کے ڈرائیور ڈاؤن لوڈ کے لئے دستیاب ہیں. یہاں آپ DriverPack Solution سافٹ ویئر ڈاؤن لوڈ کرسکتے ہیں. یہ آپ کی ہارڈویئر کی جانچ پڑتال کرے گا اور ضروری ڈرائیور کو انسٹال کرے گا."
 
 msgid "seo_notebook-footer-content-acer-aspire-v3-571g-10-x86"
 msgstr "یہاں آپ Windows 10 کے لئے Acer Aspire v3 571g لیپ ٹاپ ڈرائیورز ڈاؤن لوڈ کرسکتے ہیں. ہمارے ڈرائیوروں کو مکمل طور پر چلانے کے قابل اور اینٹی وائرس کی طرف سے چیک کیا گیا ہے."
@@ -977,7 +977,7 @@ msgid "seo_notebook-footer-content-asus-x550cc-7-x86"
 msgstr " آپ اِس حصے میں آپ Asus X550CC لیپ ٹاپ کے ڈرائیورز  ونڈوز 7 86x Windows، کے لیا  کر سکتے ہیں. ہمارے تمام ڈرائیوروں کو اینٹیوائرس کی حفاظت کے لئے چیک کیا گیا ہے!"
 
 msgid "seo_notebook-footer-content-asus-x550cc-7-x64"
-msgstr ""
+msgstr "اس سیکشن میں آپ Windows 7x64 کے لئے Asus X550CC لیپ ٹاپ ڈرائیور مکمل طور پر مفت ڈاؤن لوڈ کرسکتے ہیں. اگر کسی وجہ سے آپ اس سیکشن کے ڈرائیور سے مطمئن نہیں ہیں تو، ہمارے DriverPack Solution سافٹ ویئر کا استعمال کریں - یہ آپ کے لیپ ٹاپ پر ڈرائیوروں کو تازہ ترین ورژن تک اپ ڈیٹ کریں گا."
 
 msgid "seo_notebook-footer-content-asus-x550cl-7-x64"
 msgstr "یہاں آپ Windows 7x64 کے لئے Asus X550CL لیپ ٹاپ ڈرائیور بالکل مفت ڈاؤن لوڈ کرسکتے ہیں. ہمارے تمام ڈرائیور ماہرین کی طرف سے آپریٹنگ کی تصدیق کی گئی ہے. "
@@ -986,22 +986,22 @@ msgid "seo_notebook-footer-content-asus-x540sa-7-x64"
 msgstr "کیا آپ کو ونڈوز 7 64x Windows، کے لیا ،Asus X540SA لیپ ٹاپ کے ڈرائیو كے ضرورت ہے؟ آپ اِس حصے میں تمام ضرورت كے چیزیں دریافت کر سکتے ہیں . تمام ڈرائیور ہمارے ماہرین کی طرف سے حفاظت اور آپریٹنگ کے لئے تصدیق کیے گے ہیں ."
 
 msgid "seo_notebook-footer-content-asus-x540sa-8.1-x64"
-msgstr ""
+msgstr "کیا آپ Windows 8.1 64x کے لئے Asus x540sa لیپ ٹاپ ڈرائیورز کی ضرورت ہے؟ یہاں آپ کو سب کچھ مل جائے گا جو آپ کی ضرورت ہے. ہمارے ڈرائیورز کو بہترین ماہرین کی طرف سے آپریٹنگ اور سیکیورٹی کی تصدیق کی گئی ہے."
 
 msgid "seo_notebook-footer-content-asus-x540sa-10-x64"
-msgstr ""
+msgstr "کیا آپ Windows 10x64 کے لئے Asus X540SA لیپ ٹاپ ڈرائیور ڈاؤن لوڈ کرنے کی ضرورت ہے؟ آپ صحیح جگہ پر ہیں! اگر کسی وجہ سے آپ کو فہرست میں آپ کی ضرورت کا ڈرائیور نہیں ملا ہے تو، ہمارا DriverPack Solution سافٹ ویئر ڈاؤن لوڈ کریں. یہ سبھی تازہ ترین ورژن تلاش کرے گا اور اپنے آپ لیپ ٹاپ پر انسٹال کرے گا."
 
 msgid "seo_notebook-footer-content-asus-x540sc-7-x64"
-msgstr ""
+msgstr "کیا آپ Windows 7x64 کے لئے Asus X540SC لیپ ٹاپ کے ڈرائیور ڈاؤن لوڈ کرنے کی ضرورت ہے؟ یہاں آپ کو آپ کی ضرورت کا سب کچھ مل جائے گا. ہمارے تمام ڈرائیور پیکس کو حفاظت اور آپریٹنگ کے لئے تصدیق کیا گیا ہے!"
 
 msgid "seo_notebook-footer-content-asus-x540sc-8.1-x64"
-msgstr ""
+msgstr "یہاں آپ Windows 8.1x64 کے لیے Asus X540SC لیپ ٹاپ کے لیے بلکل مفت ڈرائیور ڈاؤن لوڈ کرسکتے ہیں. اگر آپ ہماری فہرست میں حد سے اپنی ضرورت کا ڈرائیور تلاش نہین کر سکے ہیں تو ، ڈرائیور اپڈیٹ کرنے کے لیے DriverPack سافٹ ویئر ڈائون لوڈ کریں . یہ سب کچھ جلدی اور مفید طریقے سے کرے گا!"
 
 msgid "seo_notebook-footer-content-asus-x540la-7-x64"
 msgstr "اس سیکشن میں آپ Windows 7x64 کے لئے بغیر کسی اضافی رجسٹریشن کے Asus X540LA لیپ ٹاپ کے ڈرائیور ڈاؤن لوڈ کرسکتے ہیں. ہمارے تمام ڈرائیور بالکل محفوظ ہیں اور مکمل طور پر قابل اطلاق ہیں."
 
 msgid "seo_notebook-footer-content-asus-k50c-xp-x86"
-msgstr ""
+msgstr "اس سیکشن میں آپ Windows XP کے لئے Asus k50c لیپ ٹاپ کے ڈرائیورز بغیر کسی اضافی رجسٹریشن کے بالکل مفت ڈاؤن لوڈ کرسکتے ہیں. ہم یہ بھی مشورہ دیتے ہیں کہ آپ خودکار ڈرائیورز کی انسٹالیشن کے لئے DriverPack Solution سافٹ ویئر ڈاؤن لوڈ کریں- یہ آپ کے لئے سب کچھ کریں گے!"
 
 msgid "seo_notebook-footer-content-asus-x553ma-7-x64"
 msgstr "یہاں آپ Windows 7x64 کے لیے Asus X553MA لیپ ٹاپ کے لئے ڈرائیور ڈاؤن لوڈ کرسکتے ہیں. ہمارے تمام ڈرائیور پیک کو ماہرین نے حفاظت اور آپریٹنگ کے لئے ٹیسٹ کیا ہے."
@@ -1010,13 +1010,13 @@ msgid "seo_notebook-footer-content-asus-x101ch-xp-x86"
 msgstr "یہاں آپ مفت Windows XP کے لئے اور اضافی رجسٹریشن کے بغیر Asus X101CH لیپ ٹاپ کے ڈرائیور ڈاؤن لوڈ کرسکتے ہیں. ہمارے تمام ڈرائیور مکمل طور پر آپریٹنگ اور آپ کے لیپ ٹاپ کے لئے محفوظ ہیں!"
 
 msgid "seo_notebook-footer-content-asus-k50ij-7-x64"
-msgstr ""
+msgstr "یہاں آپWindows 7x64 کے لئے Asus k50ij لیپ ٹاپ کے ڈرائیورز بلكل مفت ڈاؤن لوڈ اور انسٹال کر سکتے ہیں. کیا آپ ڈرائیورز سے مطمئن نہیں ہیں؟ کوئی مسئلہ نہیں- ڈرائیورز اپڈیٹ کے لئے ہمارا DriverPack Solution سافٹ ویئر استعمال کریں- یہ بالکل مفت ہے اور خود کار طریقے سے سب کچھ کرے گا!"
 
 msgid "seo_notebook-footer-content-asus-k50ij-xp-x86"
 msgstr "کیا آپ کو Windows XP کے لئے Asus k50ij لیپ ٹاپ کے ڈرائیوروں کو ڈاؤن لوڈ کرنے کی ضرورت ہے؟ آپ وہاں اپنی ضرورت کا سب کچھ تلاش کر لیں گے. یہ کوئی مدد نہیں ہے؟ پھر DriverPack Solution سافٹویئر ڈرائیور اپڈیٹ کے لئے ڈاؤن لوڈ کریں - یہ آپ کے لیپ ٹاپ پر ہارڈویئر کا تجزیہ کرے گا اور سب سے زیادہ ہم آہنگ ڈرائیوروں کو منتخب کریں."
 
 msgid "seo_notebook-footer-content-lenovo-g580-7-x64"
-msgstr ""
+msgstr "Windows XP, 7, 8, 8.1, 9, 10  کے لئے Lenovo g580 لیپ ٹاپ کے لئے ڈرائیورز دستیاب ہیں. کیا آپ ڈرائیورز سے مطمئن نہیں ہیں؟ پھر آپ DrivePack Solution سافٹ ویئر کو ڈرائیورز کی تلاش اور انسٹالیشن کے لئے استعمال کریں. یہ حد سب کچھ کرے گا."
 
 msgid "seo_notebook-footer-content-asus-x550cc-sound-10-x64"
 msgstr "یہاں سے آپ Asus X550CC کے ڈرائیورز Windows 10x64 کے لیے مفت حاصل کر سکتے ہیں. آپ DriverPack Solution سافٹ ویئر کو بھی ڈاؤن لوڈ کرسکتے ہیں. یہ آپ کے لیپ ٹاپ پر ڈرائیوروں کی موجودہ حالت کا جائزہ لے گا اور تازہ ترین ورژن کو اپ ڈیٹ کرے گا."

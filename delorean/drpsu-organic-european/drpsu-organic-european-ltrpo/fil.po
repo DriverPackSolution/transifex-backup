@@ -183,7 +183,7 @@ msgstr "Kategorya: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</s
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|monitors; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|мониторы; VENDOR.NAME=Acer;
 msgid "seo_devicegroups-footer-application-subcategory"
-msgstr ""
+msgstr "Subcategory: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 #. i18n: EN: Example: CLASS.SINGLE.FOR=videocard|monitor; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.SINGLE.FOR=видеокарты|монитора; VENDOR.NAME=Acer;
@@ -233,7 +233,7 @@ msgstr "Kategorya: <span itemprop='applicationCategory'>{{GROUP.VENDOR.NAME}} {{
 #. GROUP.NAME=GeForce 210; RU: Пример: CLASS.PLURAL.MAIN=видеокарты|чипсеты;
 #. GROUP.NAME=GeForce 210;
 msgid "seo_devicegroup-footer-application-subcategory"
-msgstr ""
+msgstr "Subcategory: <span itemprop='applicationSubCategory'>{{GROUP.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
 #. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
@@ -284,7 +284,7 @@ msgstr "Kategorya: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</s
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|чипсеты; VENDOR.NAME=Acer;
 msgid "seo_hwid-footer-application-subcategory"
-msgstr ""
+msgstr "Subcategory: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
@@ -333,7 +333,7 @@ msgstr "Subcategory: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} na 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebook-title"
-msgstr ""
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} drivers |  I-download para sa Windows 7, XP, 10, 8, at 8.1"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
@@ -446,7 +446,7 @@ msgid "seo_devicegroupos-footer-application-category"
 msgstr "Kategorya: <span itemprop='applicationCategory'>{{GROUP.VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_devicegroupos-footer-application-subcategory"
-msgstr ""
+msgstr "Subcategory: <span itemprop='applicationSubCategory'>{{GROUP.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_devicegroupos-footer-content"
 msgstr "I-download ang mga driver para sa {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.PLURAL.FOR}} (Windows {{OS}}), o i-install ang DriverPack Solution software para sa awtomatikong pag-download at pag-update ng driver"
@@ -515,7 +515,7 @@ msgid "seo_devicegroupsos-footer-application-category"
 msgstr "Kategorya: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_devicegroupsos-footer-application-subcategory"
-msgstr ""
+msgstr "Subcategory: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_devicegroupsos-footer-content"
 msgstr "I-download ang mga driver para sa {{VENDOR.NAME}} {{CLASS.PLURAL.FOR}} (Windows {{OS}}) ng libre, o i-install ang DriverPack Solution software para pag-download at pag-update ng driver"
@@ -563,7 +563,7 @@ msgid "seo_hwidos-footer-application-category"
 msgstr "Kategorya: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_hwidos-footer-application-subcategory"
-msgstr ""
+msgstr "Subcategory: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_hwidos-footer-content"
 msgstr "I-download ang driver para sa {{DEVICE.DEVICEID}} na device para sa Windows {{OS}}, o i-install ang DriverPack Solution software para sa awtomatikong pag-download at pag-update ng driver"
@@ -698,31 +698,31 @@ msgid "seo_deviceclass-footer-content-monitor"
 msgstr ""
 
 msgid "seo_deviceclass-footer-content-tvtuner"
-msgstr ""
+msgstr "Kailangan mo bang i-download ang driver para sa tv-tuner? Kung ganun ikaw ay nasa tamang Seksyon - dito maaari mong i-download at i-install ang mga driver para sa tv-tuner sa mga pinakabagong bersyon nito para sa lahat ng mga variant ng Windows operating system na ginagamit ngayon."
 
 msgid "seo_deviceclass-footer-content-sound"
-msgstr ""
+msgstr "Walang tunog sa computer? Gaano naba katagal ng mula ng iyong ina-update ang driver ng sound card? I-download ang pinakabagong mga pinakabagong driver ng sound card sa Seksyon na ito ng aming website, o i-install ang libreng DriverPack Solution driver ng software ng pag-update - malulutas nito ang lahat ng iyong mga problema sa mga driver para sa iyong sound card!"
 
 msgid "seo_deviceclass-footer-content-video"
-msgstr ""
+msgstr "Hindi gumagana ang isang laro? Ang imahe ba ay ipinapakita ng may artifact? Kung ganun ay inirerekumenda namin sa iyo na i-download ang mga driver para sa video card mula sa aming website - kadalasan ang problema ay kanila. Ang mga driver mula sa 43 na mga tagagawa ay kinakatawan sa Seksyon na ito. Dito madali mong  mahahanap at piliin ang driver para sa anumang bersyon ng Windows OS na ginagamit ngayon."
 
 msgid "seo_deviceclass-footer-content-wifi"
-msgstr ""
+msgstr "Sa Seksyon na ito maaari mong i-download ang Wi-Fi driver ng parehong Standard 802.11n pati na rin ng Standard 802.11g para sa lahat ng mga advanced na bersyon ng Windows OS. Ang mga driver ng mga pinakabagong configuration, paulit-ulit na itong napatunayan ng aming mga eksperto, ay magagamit dito."
 
 msgid "seo_deviceclass-footer-content-phone"
-msgstr ""
+msgstr "Kailangan mo ba ang mga driver para sa isang telepono o isang sa smartphone? Walang problema - sa Seksyon na ito maaari mong i-download at i-install ang mga driver para sa isang smartphone kanit anumang modelo at mula sa lahat ng mga pinaka-karaniwang mga tagagawa sa ngayon ng smartphone sa merkado. Ang aming mga driver ay napatunayan at talagang maaasahan!"
 
 msgid "seo_notebookvendor-footer-content-asus"
-msgstr ""
+msgstr "Ang pinakabagong at ang pinaka-maaasahang driver para sa Asus laptops para sa lahat ng mga bersyon ng Windows OS na ginagamit ngayon (Windows XP, Windows 7, 8, 8.1, at 10) ay narito sa aming catalog."
 
 msgid "seo_notebookvendor-footer-content-lg"
-msgstr ""
+msgstr "Ang lahat ng mga pinakabagong driver ng up-to-date para sa LG laptops para sa lahat ng mga bersyon ng Windows OS na ginagamit ngayon ay narito sa Seksyon na ito. Maaari mo ring gamitin ang aming DriverPack Solution software para sa awtomatikong pag-install ng driver."
 
 msgid "seo_notebookvendor-footer-content-sony"
-msgstr ""
+msgstr "Nakakuha ka ba ng isang bagong laptop mula sa Sony ngunit nahihirapan ka na paganahin ito? Sa Seksyon na ito maaari mong i-download ang lahat ng mga up-to-date na mga driver para sa Sony laptops na tugma sa eksaktong OS mo. Ang mga driver ng Sony Vaio laptop na angkop para sa higit sa 200 mga modelo mula sa tagagawa na ito ay matatagpuan dito."
 
 msgid "seo_notebookvendor-footer-content-lenovo"
-msgstr ""
+msgstr "Ang mga driver para sa Lenovo laptop ay maaaring ma-download sa Seksyon na ito ng aming site - ang mga driver para sa lahat ng sikat at hindi mula sa napakaraming tanyag na mga modelo ng tagagawa ng mga ito (Ideapad, Thinkpad, atbp.) Ay matatagpuan dito. Sa aming site maaari mong makita ang mga driver na angkop sa eksaktong bersyon ng iyong Windows operating system."
 
 msgid "seo_notebookvendor-footer-content-samsung"
 msgstr ""
@@ -929,10 +929,10 @@ msgid "seo_notebook-footer-content-acer-aspire-v3-571g-cardreader"
 msgstr ""
 
 msgid "seo_notebook-footer-content-asus-x550cc-wifi"
-msgstr "Dito maaari mong i-download ang mga driver ng network para sa Asus X550CC laptop para sa Windows XP, 7, 8, 8.1, at 10 nang libre. Kung sa ilang kadahilanan ay hindi ka nasisiyahan sa mga driver na ito, gamitin ang aming DriverPack Solution software - libre ito at awtomatikong gagawin ang lahat para sa iyo."
+msgstr "Hindi ba gumagana ang Wi-Fi ng iyong Asus X550CC laptop? Ang problema ay maaaring may mga driver naout-of-date - i-download ang pinakabagong bersyon ng driver ng Wi-Fi para sa Asus X550CC laptop, o i-install ang libreng software ng DriverPack Solution -  awtomatiko nitong gagawin nito ang lahat."
 
 msgid "seo_notebook-footer-content-asus-x550cc-lan"
-msgstr "Dito maaari mong i-download ang mga driver ng network para sa Asus X550CC laptop para sa Windows XP, 7, 8, 8.1, at 10 nang libre. Kung sa ilang kadahilanan ay hindi ka nasisiyahan sa mga driver na ito, gamitin ang aming DriverPack Solution software - libre ito at gagawin ang lahat para sa iyo."
+msgstr "Dito maaari mong i-download ang mga driver ng network para sa Asus X550CC laptop para sa Windows XP, 7, 8, 8.1, at 10 nang libre. Kung sa ilang kadahilanan ay hindi ka nasisiyahan sa mga driver na ito, gamitin ang aming DriverPack Solution software - libre ito at gagawin nito ang lahat para sa iyo."
 
 msgid "seo_notebook-footer-content-asus-k50c-video"
 msgstr "Ang iyong laro ba ay hindi magsisimula sa Asus k50c laptop? Dito maaari mong i-download ang driver ng video card para sa Asus k50c para sa Windows XP, 7, 8, 8.1 o 10."
