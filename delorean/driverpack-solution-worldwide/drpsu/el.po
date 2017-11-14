@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-10-26 10:44+0000\n"
+"POT-Creation-Date: 2017-11-10 17:00+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>, 2017\n"
 "Language-Team: Greek (https://www.transifex.com/driverpack-solution/teams/75453/el/)\n"
@@ -461,6 +461,9 @@ msgstr "Εγκατάσταση όλων των απαραίτητων προγρ
 
 msgid "landingusers_versions"
 msgstr "Άλλες εκδόσεις DriverPack"
+
+msgid "landingvideocardlist_landing-title"
+msgstr ""
 
 msgid "landingwizard_landing-title"
 msgstr "Είναι τώρα δυνατό να ρυθμιστεί ένας υπολογιστής με ένα κλικ"
@@ -928,13 +931,13 @@ msgid "badrabbitpromopage_info-text-title-1"
 msgstr "Τι είναι ο Κακός Κούνελος - Bad Rabbit;"
 
 msgid "badrabbitpromopage_info-text-1"
-msgstr ""
+msgstr "Ο Bad Rabbit είναι ένας νέος κρυπτογραφικός ιός που έχει επιτεθεί σε υπολογιστές χρηστών στη Ρωσία, Ουκρανία, Βουλγαρία και Τουρκία μέχρι τον Οκτώβριο του 2017. Επίσης, μεταξύ των θυμάτων είναι οι The Interfax RIA, The Fontanka RIA, ένας αριθμός Υπουργείων της Ουκρανίας, καθώς και το Αεροδρόμιο της Οδησσού. Η αρχή λειτουργίας είναι απλή: χρησιμοποιεί την εφαρμογή Mimikatz ώστε να λάβει τα στοιχεία λογαριασμού από τη μνήμη του υπολογιστή. Επίσης, αναζητά τα στοιχεία λογαριασμού του ενεργού διαχειριστή. Ο Bad Rabbit, στη συνέχεια, προσπαθεί να αποκτήσει πρόσβαση στις θέσεις εργασίας στο τοπικό δίκτυο χρησιμοποιώντας SMB και WebDAV. Μόλις αποκτήσει πρόσβαση στον υπολογιστή, ο ιός κρυπτογραφεί όλα τα δεδομένα που κατάφερε να έχει πρόσβαση και μετά από αυτό αλλάζει το Master Boot Record. Όταν ολοκληρωθεί αυτή η διαδικασία, ο Bad Rabbit επαναφέρει τον υπολογιστή σας και εμφανίζει ένα μήνυμα με ένα αίτημα για 0,05 Bitcoins (περίπου 300$ μέχρι τις 26 Οκτωβρίου 2017)."
 
 msgid "badrabbitpromopage_info-text-title-2"
 msgstr "Πως να προστατέψετε τον υπολογιστή σας ενάντια του ιού κρυπτογράφου Κακού Κούνελου - Bad Rabbit;"
 
 msgid "badrabbitpromopage_info-text-2"
-msgstr ""
+msgstr "Τι μπορείτε να κάνετε για να προστατευτείται από τον νέο ιό:<br/>• Δημιουργήστε ένα αρχείο infpub.dat στο φάκελο C:\\\\Windows\\\\ και αλλάξτε την ιδιότητα «Μόνο για ανάγνωση»<br/>• Δείτε προσεκτικά τη δημιουργία νέων εργασιών στον «Προγραμματισμό εργασιών»<br/>• Μην εγκαταστήσετε ενημερώσεις του FlashPlayer από εξωτερικούς ιστοχώρους<br/>• Ενημερώστε τα Windows και όλα τα εγκατεστημένα λογισμικά προστασίας<br/>• Δημιουργήστε αντίγραφα ασφαλείας του λειτουργικού σας συστήματος<br/><br/>Επίσης, μπορείτε απλά να χρησιμοποιήσετε τη νέα λύση του DriverPack Solution λαμβάνοντάς τη σε αυτή τη σελίδα - θα εξοικονομήσει το χρόνο σας!<br/><b>Η λύση μας λειτουργεί σε Windows 7, 8, 8.1, 10 και XP.</b>"
 
 msgid "badrabbitpromopage_links-text"
 msgstr "Η ανάπτυξη αυτής της λύσης βασίστηκε στα ακόλουθα συστατικά"
@@ -969,12 +972,6 @@ msgstr "Λήψη DriverPack"
 msgid "landing-footer_versions"
 msgstr "Όλες οι εκδόσεις εφαρμογής"
 
-msgid "landing-footer_wannacry"
-msgstr "Προστασία κατά του WannaCry"
-
-msgid "landing-footer_catalog"
-msgstr "Αναζήτηση Προγραμμάτων οδήγησης"
-
 msgid "landing-footer_manufacturers"
 msgstr "Κατασκευαστές υλικού"
 
@@ -987,11 +984,11 @@ msgstr "Για διαχειριστές συστήματος"
 msgid "landing-footer_for-translators"
 msgstr "Για μεταφραστές"
 
-msgid "landing-footer_drivers-for-laptops"
-msgstr "Προγράμματα οδήγησης Φορητού υπολογιστή"
-
 msgid "landing-footer_hwids"
 msgstr "Device ID"
+
+msgid "landing-footer_wannacry"
+msgstr "Προστασία κατά του WannaCry"
 
 msgid "landing-footer_license"
 msgstr "Άδεια Χρήσης"
@@ -1039,6 +1036,15 @@ msgstr "λήψη"
 
 msgid "translate-feedback-header_caption"
 msgstr "Αυτή η σελίδα έχει μεταφραστεί προσφάτως. Βρήκατε κάποιο λάθος; Επισημάνετέ το και πατήστε {{HOTKEY}}"
+
+msgid "translate-feedback-form-popup_preview-title"
+msgstr ""
+
+msgid "translate-feedback-form-popup_correct-title"
+msgstr ""
+
+msgid "translate-feedback-form-popup_submit"
+msgstr ""
 
 msgid "translate-feedback-popup_title-error"
 msgstr "Κάτι πήγε στραβά"
@@ -1099,9 +1105,3 @@ msgstr "Η ανάπτυξη αυτής της λύσης βασίστηκε στ
 
 msgid "wannacryptpromopage_link-smb"
 msgstr "Πως να ενεργοποιήσετε και απενεργοποιήσετε 1, 2 και 3 των πρωτοκόλλων SMB για τα Windows και τα Windows Διακομιστή"
-
-#~ msgid "landingheadernav_wannacrypt"
-#~ msgstr "Προστασία κατά του WannaCry"
-
-#~ msgid "landing-footer_drivers-catalog"
-#~ msgstr "Κατάλογος Προγραμμάτων οδήγησης"

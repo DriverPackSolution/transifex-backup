@@ -13,7 +13,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-10-26 10:44+0000\n"
+"POT-Creation-Date: 2017-11-10 17:00+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Nuriya Amin <riyanuri90@gmail.com>, 2017\n"
 "Language-Team: Indonesian (https://www.transifex.com/driverpack-solution/teams/75453/id/)\n"
@@ -386,7 +386,7 @@ msgid "landingheader_cta-btn"
 msgstr "Pasang semua driver yang dibutuhkan"
 
 msgid "landingheadernav_badrabbit"
-msgstr ""
+msgstr "Perlindungan serangan Bad Rabbit"
 
 msgid "landingheadernav_search"
 msgstr "Mencari Driver"
@@ -465,6 +465,9 @@ msgstr "Pasang semua driver yang dibutuhkan"
 
 msgid "landingusers_versions"
 msgstr "Versi DriverPack yang lain"
+
+msgid "landingvideocardlist_landing-title"
+msgstr ""
 
 msgid "landingwizard_landing-title"
 msgstr "Sekarang memungkinkan untuk mengkonfigurasi komputer dalam sekali klik"
@@ -676,16 +679,16 @@ msgid "deviceclasses_phone-plural-for"
 msgstr "telepon-telepon pintar"
 
 msgid "deviceclasses_printer-single-main"
-msgstr ""
+msgstr "pencetak"
 
 msgid "deviceclasses_printer-single-for"
-msgstr ""
+msgstr "pencetak"
 
 msgid "deviceclasses_printer-plural-main"
-msgstr ""
+msgstr "pencetak-pencetak"
 
 msgid "deviceclasses_printer-plural-for"
-msgstr ""
+msgstr "pencetak-pencetak"
 
 msgid "deviceclasses_sound-single-main"
 msgstr "kartu suara"
@@ -917,28 +920,28 @@ msgid "adminpagefaq_stable-a"
 msgstr "Stabilitas pengoperasian dari perangkat lunak DriverPack adalah prioritas kami tetapi kesalahan kecil mungkin terjadi, tapi itu sangat jarang. Ini mengapa kami membuat titik kembalian yang akan dapat mengembalikan secara keseluruhan ke konfigurasi awal. Untuk mencegah masalah yang sama di kemudian hari, kami merekomendasikan untuk membuka menu DriverPack dan mengirim  laporan yang otomatis dibuat untuk dikirimkan ke pelayanan teknis kami."
 
 msgid "badrabbitpromopage_cta-text"
-msgstr ""
+msgstr "Virus cryptographer Bad Rabbit — bagaimana melindungi PC-mu?"
 
 msgid "badrabbitpromopage_cta-subtext"
-msgstr ""
+msgstr "DriverPack berisi pengertian yang spesifik untuk mengeliminasi kerentanan diantara beberapa perangkat konfigurasi komputer. Anda dapat mengunduh perlindungan bebas serangan virus Bad Rabbit untuk PC dan komputer jinjingmu yang akan mengamankan komputermu."
 
 msgid "badrabbitpromopage_cta-btn"
-msgstr ""
+msgstr "Konfigurasi komputer dan melindunginya dari serangan Bad Rabbit"
 
 msgid "badrabbitpromopage_caption-text"
 msgstr "Perangkat lunak ini diberikan secara bebas"
 
 msgid "badrabbitpromopage_info-text-title-1"
-msgstr ""
+msgstr "Apa itu Bad Rabbit?"
 
 msgid "badrabbitpromopage_info-text-1"
-msgstr ""
+msgstr "Bad Rabbit adalah virus cryptographic baru yang telah menyerang komputer dari pengguna di Russia, the Ukraine, Bulgaria, and Turkey sejak Oktober 2017 lalu. Juga diantara korban serangan adalah The Interfax RIA, The Fontanka RIA, puluhan pelayanan dari Ukraine, juga Bandara Odessa. Prinsip operasinya sangat simpel: ia menggunakan Mimikatz untuk mengambil data rekening dari memori PC. Ia juga mencari data admin yang aktif. Maka Bad Rabbit mencoba untuk mendapat akses ke komputer yang ada di jaringan lokal dengan menggunakan SMB dan WebDAV. Segera setelah mendapat akses ke PC, virus mengenkripsi semua data yang diraih, dan setelah itu segera mengubah Master Boot Record. Ketika prosedur ini telah lengkap, Bad Rabbit mereset semua komputermu dan menampilkan pesan dengan permintaan 0.05 Bitcoins (sekitar $300 pada 26 Oktober, 2017)."
 
 msgid "badrabbitpromopage_info-text-title-2"
-msgstr ""
+msgstr "Bagaimana meindungi PC-mu dari serangan virus cryptographer Bad Rabbit?"
 
 msgid "badrabbitpromopage_info-text-2"
-msgstr ""
+msgstr "Apa yang dapat Anda lakukan untuk melindungi dirimu dari serangan virus baru: <br/>• Buatlah sebuah file infpub.dat di C:\\\\Windows\\\\ folder dan tandai pilihan 'Read-only' di bagian properties<br/>• Perhatikan dengan hati-hati ketika membuat tugas baru di 'Task Scheduler'<br/>• Jangan memasang update apapun untuk FlashPlayer dari halaman lain <br/>• Perbaharui Windows dan semua prangkat lunak perlindungan di dalamnya <br/>• Buat cadangan untuk sistem operasimu <br/> <br/> Juga, Anda dapat mengunakan solusi baru dari DriverPack Solution dengan mengunduh langsung di halaman ini - ini akan menghemat waktumu! <br/> <b> Solusi kami bekerja di semua Windows 7, 8, 8.1, 10, dan XP. </b>"
 
 msgid "badrabbitpromopage_links-text"
 msgstr "Pengembangan dari solusi ini didasarkan pada pilihan bahan-bahan"
@@ -973,17 +976,11 @@ msgstr "Unduh DriverPack"
 msgid "landing-footer_versions"
 msgstr "Semua versi aplikasi"
 
-msgid "landing-footer_wannacry"
-msgstr "Perlindungan terhadap serangan WannaCry"
-
-msgid "landing-footer_catalog"
-msgstr "Mencari Driver"
-
 msgid "landing-footer_manufacturers"
-msgstr ""
+msgstr "Produsen Perangkat Keras"
 
 msgid "landing-footer_badrabbit"
-msgstr ""
+msgstr "Perlindungan serangan Bad Rabbit"
 
 msgid "landing-footer_for-admin"
 msgstr "Untuk sistem administrasi"
@@ -991,11 +988,11 @@ msgstr "Untuk sistem administrasi"
 msgid "landing-footer_for-translators"
 msgstr "Untuk penerjemah"
 
-msgid "landing-footer_drivers-for-laptops"
-msgstr "Driver komputer jingjing"
-
 msgid "landing-footer_hwids"
 msgstr "Device ID"
+
+msgid "landing-footer_wannacry"
+msgstr "Perlindungan terhadap serangan WannaCry"
 
 msgid "landing-footer_license"
 msgstr "Perjanjian Lisensi"
@@ -1043,6 +1040,15 @@ msgstr "unduh"
 
 msgid "translate-feedback-header_caption"
 msgstr "Halaman ini baru saja diterjemahkan. Apakah kamu menemukan kesalahan cetak? tandai dan tekan {{HOTKEY}}"
+
+msgid "translate-feedback-form-popup_preview-title"
+msgstr ""
+
+msgid "translate-feedback-form-popup_correct-title"
+msgstr ""
+
+msgid "translate-feedback-form-popup_submit"
+msgstr ""
 
 msgid "translate-feedback-popup_title-error"
 msgstr "Ada yang salah"
@@ -1103,9 +1109,3 @@ msgstr "Pengembangan dari solusi ini didasarkan pada pilihan bahan-bahan"
 
 msgid "wannacryptpromopage_link-smb"
 msgstr "bagaimana menyalakan dan mematikan versi 1, 2 dan 3 protokol SMB untuk Windows dan Windows Server"
-
-#~ msgid "landingheadernav_wannacrypt"
-#~ msgstr "Perlindungan terhadap serangan WannaCry"
-
-#~ msgid "landing-footer_drivers-catalog"
-#~ msgstr "Katalog driver"
