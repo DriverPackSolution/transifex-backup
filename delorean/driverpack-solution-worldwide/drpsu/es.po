@@ -4,7 +4,7 @@
 # Cristian Castillo Cruz <cristianj_20@hotmail.com>, 2017
 # Артур Кузяков <artx@drp.su>, 2017
 # Jose11091 <josemanuellh@gmail.com>, 2017
-# Manuel Lopez <jarkoarenal@gmail.com>, 2017
+# Josep Maria Antolin <josepma@gmail.com>, 2017
 # Dragoblack <nabilalmosber@gmail.com>, 2017
 msgid ""
 msgstr ""
@@ -39,10 +39,10 @@ msgid "admindriverpacks_download"
 msgstr "Descargar"
 
 msgid "adminfaq_landing-title"
-msgstr "Respondemos tus preguntas"
+msgstr "Respondemos a tus preguntas"
 
 msgid "adminfaq_landing-subtitle"
-msgstr "A menudo haces preguntas acerca de DriverPack — Respondemos las más populares"
+msgstr "A menudo nos haceis preguntas acerca de DriverPack — Respondemos a las más populares"
 
 msgid "adminheader_cta-text"
 msgstr "DriverPack ha sido creado para administradores, pero es fácil de usar incluso para principiantes"
@@ -57,7 +57,7 @@ msgid "adminpromo_landing-title"
 msgstr "El nuevo DriverPack 18 está en desarrollo"
 
 msgid "adminpromo_landing-subtitle"
-msgstr "La nueva versión está diseñada específicamente para administradores y toma en cuenta todas sus necesidades"
+msgstr "La nueva versión está diseñada específicamente para administradores y tiene en cuenta todas sus necesidades"
 
 msgid "adminpromo_banner-text"
 msgstr "El nuevo DriverPack 18 ha sido rediseñado basándose en las versiones anteriores que ya han probado su excepcional estabilidad. El lanzamiento de la nueva versión está programado para el año 2017."
@@ -75,7 +75,7 @@ msgid "adminpromo_list-item-soft"
 msgstr "La instalación forzada del software por defecto está DESACTIVADA"
 
 msgid "adminpromo_list-item-packs"
-msgstr "La finalidad principal de los driverpacks ha sido redirigida para eliminar los casos de errores de \"pantalla azul de la muerte\" y otros problemas."
+msgstr "La operativa principal de los driverpacks ha sido modificada para eliminar los errores de \"pantalla azul de la muerte\" y otros problemas."
 
 msgid "adminpromo_list-item-device-support"
 msgstr "La gama de drivers cubre significativamente más tipos de hardware (incluyendo hardware muy antiguo)"
@@ -87,7 +87,7 @@ msgid "adminpromo_list-item-stable-db"
 msgstr "Hemos creado la base de datos de drivers más estable. Hemos actualizado el formato de la base de datos de drivers."
 
 msgid "adminpromo_list-item-full-db"
-msgstr "Hemos creado la mayor y más exclusiva base de datos de controladores del mundo"
+msgstr "Hemos creado la mayor y más exclusiva base de datos de drivers del mundo"
 
 msgid "buttonsplitdropdown_main-button"
 msgstr "Descargar"
@@ -131,14 +131,14 @@ msgstr "Portátiles {{VENDOR.NAME}}"
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=X1 carbon;
 #. RU: Пример: NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=X1 carbon;
 msgid "breadcrumbs_notebook-text"
-msgstr " {{NOTEBOOK.NAME}} de {{NOTEBOOK.VENDOR.NAME}}"
+msgstr " {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}}"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=Videocards|Chipsets ,
 #. NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=G580; RU: Пример:
 #. CLASS.PLURAL.MAIN=видеокарты|чипсеты, NOTEBOOK.VENDOR.NAME=Lenovo,
 #. NOTEBOOK.NAME=G580;
 msgid "breadcrumbs_notebookdevices-text"
-msgstr "{{CLASS.PLURAL.MAIN}} de portátiles {{NOTEBOOK.NAME}} de {{NOTEBOOK.VENDOR.NAME}}"
+msgstr "{{CLASS.PLURAL.MAIN}} para el portátil{{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}}"
 
 msgid "devicecard_download-btn"
 msgstr "Descargar driver"
@@ -148,10 +148,10 @@ msgstr "Descargar driver"
 #. NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10 x86; Текст для
 #. {{DOWNLOAD}} находится в ключе drivercard_no-results_download-link;
 msgid "devicecard_details_no-results-text"
-msgstr "Los drivers de {{NAME}} para Windows {{OSVERSIONS}} no se han encontrado en el catálogo. {{DOWNLOAD}} para seleccionar el driver automaticamente."
+msgstr "Los drivers para{{NAME}} para Windows {{OSVERSIONS}} no se han encontrado en el catálogo. {{DOWNLOAD}} para seleccionar el driver automaticamente."
 
 msgid "devicecard_details_no-results_download-link"
-msgstr "Descargar DriverPack"
+msgstr "Descarga DriverPack"
 
 msgid "devicecard_details-content-text"
 msgstr "Cargando datos..."
@@ -196,7 +196,7 @@ msgid "devicecard_details-links"
 msgstr "Mostrar todos los drivers para"
 
 msgid "devicecardlist_no-result_download-link"
-msgstr "Descargar DriverPack"
+msgstr "Descarga DriverPack"
 
 #. i18n: EN: Example: DEVICENAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10
 #. x86; Text for {{DOWNLOAD}} is in key devicecardlist_no-result_download-
@@ -204,7 +204,7 @@ msgstr "Descargar DriverPack"
 #. x86; Текст для {{DOWNLOAD}} находится в ключе devicecardlist_no-
 #. result_download-link;
 msgid "devicecardlist_no-results-device-text"
-msgstr "Los drivers de {{DEVICENAME}} para Windows {{OSVERSIONS}} no se han encontrado en el catálogo. {{DOWNLOAD}} para seleccionar el driver automaticamente."
+msgstr "Los drivers para{{DEVICENAME}} para Windows {{OSVERSIONS}} no se han encontrado en el catálogo. {{DOWNLOAD}} para seleccionar el driver automaticamente."
 
 #. i18n: EN: Example: DEVICECLASS=chipsets|videocards; NOTEBOOK=Acer AO521;
 #. OSVERSIONS=Windows 10 x86; Text for {{DOWNLOAD}} is in key
@@ -213,14 +213,14 @@ msgstr "Los drivers de {{DEVICENAME}} para Windows {{OSVERSIONS}} no se han enco
 #. OSVERSIONS=Windows 10 x86; Текст для {{DOWNLOAD}} находится в ключе
 #. devicecardlist_no-result_download-link;
 msgid "devicecardlist_no-results-notebook-text"
-msgstr "Los drivers de {{NOTEBOOK}} para Windows {{OSVERSIONS}} no se han encontrardo en el catálogo. {{DOWNLOAD}} para seleccionar el driver automaticamente."
+msgstr "Los drivers para el portátil {{NOTEBOOK}} para Windows {{OSVERSIONS}} no se han encontrardo en el catálogo. {{DOWNLOAD}} para seleccionar el driver automaticamente."
 
 #. i18n: EN: Example: NOTEBOOK=Acer AO521; OSVERSIONS=Windows 10 x86; Text for
 #. {{DOWNLOAD}} is in key devicecardlist_no-result_download-link; RU: Пример:
 #. NOTEBOOK=Acer AO521; Пример: OSVERSIONS=Windows 10 x86; Текст для
 #. {{DOWNLOAD}} находится в ключе devicecardlist_no-result_download-link;
 msgid "devicecardlist_no-results-notebook-device-class-text"
-msgstr "Los drivers de {{DEVICECLASS}} para portátiles {{NOTEBOOK}} con Windows {{OSVERSIONS}} no se han encontrado en el catálogo. {{DOWNLOAD}} para seleccionar el driver automaticamente."
+msgstr "Los drivers de{{DEVICECLASS}} para el portátil{{NOTEBOOK}} para Windows {{OSVERSIONS}} no se han encontrado en el catálogo. {{DOWNLOAD}} para seleccionar el driver automaticamente."
 
 msgid "devicegrouppage_all-systems"
 msgstr "todos los sistemas operativos"
@@ -254,10 +254,10 @@ msgstr "Descargar DriverPack Online"
 #. NAME=Acer Aspire 4830TG; Пример: OSVERSIONS=Windows 10 x86; Текст для
 #. {{DOWNLOAD}} находится в ключе drivercard_no-results_download-link;
 msgid "drivercard_no-results-text"
-msgstr "Los drivers de {{NAME}} para Windows {{OSVERSIONS}} no se han encontrado en el catálogo. {{DOWNLOAD}} para seleccionar el driver automaticamente."
+msgstr "Los drivers para{{NAME}} para Windows {{OSVERSIONS}} no se han encontrado en el catálogo. {{DOWNLOAD}} para seleccionar el driver automaticamente."
 
 msgid "drivercard_no-results_download-link"
-msgstr "Descargar DriverPack"
+msgstr "Descarga DriverPack"
 
 msgid "drivercard_caption-version"
 msgstr "Versión:"
@@ -299,7 +299,7 @@ msgid "dropdownos_current"
 msgstr "actual"
 
 msgid "footer_banner-title"
-msgstr "¿Estás cansado de buscar drivers para tus dispositivos?"
+msgstr "¿Estás cansado de buscar los drivers para tus dispositivos?"
 
 msgid "footer_banner-caption"
 msgstr "DriverPack Online <span style='color: {{COLOR}}'>encontrará e instalará</span> los drivers que necesites automáticamente."
@@ -308,7 +308,7 @@ msgid "footer_banner_btn"
 msgstr "Descarga <span class='bold'>DriverPack Online</span> gratis."
 
 msgid "footer_translate-feedback"
-msgstr "¿Has encontrado alguna errata o error?<br />Subrayalá y teclea {{HOTKEY}}"
+msgstr "¿Has encontrado alguna errata o error?<br />Seleccionala y pulsa {{HOTKEY}}"
 
 msgid "header_search-title"
 msgstr "<span class='bold'>Búsqueda de Drivers</span> en la mayor base de datos — más de un millón de drivers"
@@ -320,16 +320,16 @@ msgid "header_cta-text"
 msgstr "Descarga DriverPack para una detección automática de drivers"
 
 msgid "header_cta-btn"
-msgstr "Instala drivers automaticamente"
+msgstr "Instala los drivers automáticamente"
 
 msgid "header_cta-label-1"
-msgstr "Se <span style='color: {{COLOR}}'>descargará</span> instantaneamente"
+msgstr "Se <span style='color: {{COLOR}}'>descargará</span> inmediatamente"
 
 msgid "header_cta-label-2"
-msgstr "<span style='color: {{COLOR}}'>Seleccionará e instalará</span> drivers automaticamente"
+msgstr "<span style='color: {{COLOR}}'>Seleccionará e instalará</span> los drivers automáticamente"
 
 msgid "headerbutton_title"
-msgstr "Instala drivers automaticamente"
+msgstr "Instala los drivers automáticamente"
 
 msgid "headerbutton_label"
 msgstr "DriverPack es absolutamente gratis"
@@ -338,7 +338,7 @@ msgid "headeros_cta-btn"
 msgstr "Instala drivers para <span class='HeaderOs__cta-btn-marked'>{{OS}}</span>"
 
 msgid "headeros_search-text"
-msgstr "O búsqueda en nuestra tremenda base de datos de drivers"
+msgstr "O busca en nuestra tremenda base de datos de drivers"
 
 msgid "landingdevicetypelist_landing-title"
 msgstr "DriverPack es compatible con cualquier dispositivo"
@@ -389,16 +389,16 @@ msgid "landingheadernav_search"
 msgstr "Búsqueda de Drivers"
 
 msgid "landingheadernav_foradmin"
-msgstr "Para Administradores del Sistema"
+msgstr "Para Administradores de sistemas"
 
 msgid "landingintroduction_author-title"
 msgstr "¡Hola! Mi nombre es Artur Kuzyakov. Soy el autor y fundador de DriverPack"
 
 msgid "landingintroduction_author-speech"
-msgstr "Desde un pequeño software escrito por puro entusiasmo hace 8 años, nos hemos transformado en la compañía que ha ayudado a más de 40 millones de personas en todo el mundo a configurar sus computadoras! <br /><br />Durante este tiempo, nuestro software se ha vuelto increíblemente más rápido e inteligente. Hoy, DriverPack tiene la mayor base de datos de drivers únicos en el mundo, ubicada en servidores de ultra alta velocidad por todo el mundo. Con el fin de incrementar la velocidad y la calidad del proceso de instalación de los drivers, utilizamos tecnologías de Machine Learning que hacen que nuestro algoritmo de selección sea aún mejor y más preciso. Hemos conseguido lograr todo esto de tal manera que el software sigue siendo absolutamente gratuito, así cualquiera puede usarlo. <br /><br />Mi equipo y yo estamos orgullosos de nuestro producto, y esperamos que se convierta en tu asistente confiable para la configuración de cualquier ordenador en el menor tiempo posible."
+msgstr "Desde un pequeño software escrito por puro entusiasmo hace 8 años, nos hemos transformado en la compañía que ha ayudado a más de 40 millones de personas en todo el mundo a configurar sus ordenadores! <br /><br />Durante este tiempo, nuestro software se ha vuelto increíblemente más rápido e inteligente. Hoy, DriverPack tiene la mayor base de datos de drivers únicos en el mundo, ubicada en servidores de ultra alta velocidad por todo el mundo. Con el fin de incrementar la velocidad y la calidad del proceso de instalación de los drivers, utilizamos tecnologías de Machine Learning que hacen que nuestro algoritmo de selección sea aún mejor y más preciso. Hemos conseguido lograr todo esto de tal manera que el software sigue siendo absolutamente gratuito, y que cualquiera pueda usarlo. <br /><br />Mi equipo y yo estamos orgullosos de nuestro producto, y esperamos que se convierta en tu asistente de confianza para la configuración de cualquier ordenador en el menor tiempo posible."
 
 msgid "landingintroduction_author-speech-marked"
-msgstr "¡Gastamos todo nuestro tiempo para guardar el tuyo!"
+msgstr "¡Dedicamos todo nuestro tiempo para que puedas ahorrarte el tuyo!"
 
 msgid "landingintroduction_video-caption"
 msgstr "Y esto es lo que Dmitry Medvedev, el Primer Ministro de la Federación Rusa, piensa de DriverPack Solution"
@@ -419,7 +419,7 @@ msgid "landingproducts_item-title-online"
 msgstr "DriverPack Online"
 
 msgid "landingproducts_item-caption-online"
-msgstr "Se descarga instantáneamente, todos los drivers requeridos se descargaran durante la instalación"
+msgstr "Se descarga al instante, y durante el proceso de instalación obtendrá solo los drivers que sean necesarios"
 
 msgid "landingproducts_item-version"
 msgstr "Versión:"
@@ -437,7 +437,7 @@ msgid "landingproducts_item-title-offline"
 msgstr "DriverPack Offline"
 
 msgid "landingproducts_item-caption-offline"
-msgstr "Puede funcionar sin una conexión a Internet, pero su tamaño es de 13,9 GB (útil para los administradores del sistema)"
+msgstr "Puede usarse sin una conexión a Internet, pero su tamaño es de 13,9 GB (útil para los administradores de sistemas)"
 
 msgid "landingpublications__landing-title"
 msgstr "Publicaciones de los medios de comunicación sobre DriverPack"
@@ -446,7 +446,7 @@ msgid "landingscreenshots_landing-title"
 msgstr "DriverPack es la mejor y más rápida forma de configurar un ordenador"
 
 msgid "landingscreenshots_landing-subtitle"
-msgstr "El software es gratuito y está preparado tanto para profesionales como para principiantes"
+msgstr "El software es gratuito y es útil tanto para profesionales como para principiantes"
 
 msgid "landingsocial_landing-title"
 msgstr "Únete a la comunidad de DriverPack"
@@ -464,13 +464,13 @@ msgid "landingusers_versions"
 msgstr "Otras versiones de DriverPack"
 
 msgid "landingvideocardlist_landing-title"
-msgstr ""
+msgstr "Fabricantes de tarjetas gráficas populares"
 
 msgid "landingwizard_landing-title"
-msgstr "Ahora es posible configurar un ordenador en un click"
+msgstr "Ahora es posible configurar un ordenador en un solo click"
 
 msgid "landingwizard_item-caption-download"
-msgstr "Descargar y pon en marcha DriverPack Online"
+msgstr "Descarga y ejecuta DriverPack Online"
 
 msgid "landingwizard_item-caption-setup"
 msgstr "Configura tu ordenador con una simple acción"
@@ -512,7 +512,7 @@ msgid "notebookvendorslist_title"
 msgstr "Búsqueda de drivers para portátiles"
 
 msgid "promoheader_cta-text-gamers"
-msgstr "Tu ordenador es más poderoso de lo que piensas: actualiza todos tus drivers gratis"
+msgstr "Tu ordenador es más potente de lo que piensas: actualiza todos los drivers gratuitamente"
 
 msgid "promoheader_cta-text-gamers-caption"
 msgstr "Si te gustan los juegos de ordenador, te recomendamos que actualices los drivers de tu ordenador más a menudo, para conseguir una mayor eficiencia de tu hardware. Hasta un 37% mas de FPS - la mejor experiencia en los juegos con DriverPack."
@@ -533,10 +533,10 @@ msgid "promoheader_os-versions"
 msgstr "El software es compatible con Windows 10, 8.1, 8, 7, Vista, XP"
 
 msgid "promoheader_uninstall"
-msgstr "Desinstalar DriverPack"
+msgstr "Desinstalación de DriverPack"
 
 msgid "reviewheader_cta-text"
-msgstr "Únete a la comunidad de DriverPack en las redes sociales para mantenerte informado de las noticias del producto y participar en discusiones"
+msgstr "Únete a la comunidad de DriverPack en las redes sociales para mantenerte informado de las noticias sobre el producto y participar en las discusiones"
 
 msgid "reviewheader_cta"
 msgstr "Añade tu opinión o sugerencia para mejorar DriverPack"
@@ -568,16 +568,16 @@ msgid "generatesearchitemname_vendor"
 msgstr "Dispositivos {{NAME}}"
 
 msgid "deviceclasses_bluetooth-single-main"
-msgstr "Dispositivo Bluetooth"
+msgstr "dispositivo Bluetooth"
 
 msgid "deviceclasses_bluetooth-single-for"
-msgstr "Dispositivo Bluetooth"
+msgstr "dispositivo Bluetooth"
 
 msgid "deviceclasses_bluetooth-plural-main"
-msgstr "Dispositivos Bluetooth"
+msgstr "dispositivos Bluetooth"
 
 msgid "deviceclasses_bluetooth-plural-for"
-msgstr "Dispositivos Bluetooth"
+msgstr "dispositivos Bluetooth"
 
 msgid "deviceclasses_cardreader-single-main"
 msgstr "lector de tarjetas"
@@ -760,7 +760,7 @@ msgid "deviceclasses_other-plural-for"
 msgstr "otros dispositivos"
 
 msgid "searchheader_caption-subtitle"
-msgstr "Resultados de la búsqueda de drivers:"
+msgstr "Búsqueda de drivers para la expresión:"
 
 msgid "searchheader_caption-filter-label"
 msgstr "El driver se descargará para el sistema operativo seleccionado"
@@ -770,10 +770,10 @@ msgstr "El driver se descargará para el sistema operativo seleccionado"
 #. AO521; Текст для {{DOWNLOAD}} находится в ключе searchresult_details-
 #. content_download-link
 msgid "searchresult_details-content-notebook-text"
-msgstr "{{DOWNLOAD}} para reconocer e instalar los drivers requeridos automáticamente, o ves a la página de {{NOTEBOOK}} y selecciona los drivers requeridos manualmente"
+msgstr "{{DOWNLOAD}} para reconocer e instalar los drivers requeridos automáticamente, o accede a la página de {{NOTEBOOK}} y selecciona los drivers requeridos manualmente"
 
 msgid "searchresult_details-content_download-link"
-msgstr "Descargar DriverPack"
+msgstr "Descarga DriverPack"
 
 msgid "searchresult_notebook"
 msgstr "Portátil"
@@ -795,7 +795,7 @@ msgstr "todos los sistemas operativos"
 #. GeForce 205; Текст для {{DOWNLOAD}} находится в ключе searchresult_details-
 #. content_download-link
 msgid "searchresult_details-content-group-text"
-msgstr "{{DOWNLOAD}} para reconocer e instalar los drivers requeridos automáticamente, o ves a la página del dispositivo {{DEVICE}} y selecciona los drivers requeridos manualmente"
+msgstr "{{DOWNLOAD}} para reconocer e instalar los drivers requeridos automáticamente, o accede a la página del dispositivo {{DEVICE}} y selecciona los drivers requeridos manualmente"
 
 #. i18n: EN: Example: CLASS.SINGLE.MAIN=monitor|chipset; COUNT=12; RU: Пример:
 #. CLASS.SINGLE.MAIN=монитор|чипсет; COUNT=12;
@@ -806,43 +806,43 @@ msgid "searchresult_details-content-text-many"
 msgstr "Se encontraron diversos drivers para este dispositivo"
 
 msgid "seofooter_os-list-title"
-msgstr "Versiones de Sistemas Operativos: <span itemprop='operatingSystem'>{{OSLIST}}</span>"
+msgstr "Versiones del Sistema Operativo: <span itemprop='operatingSystem'>{{OSLIST}}</span>"
 
 msgid "seofooter_offers-title"
-msgstr "<span itemprop='offers' itemscope='' itemtype='http://schema.org/Offer'>Disponible <meta itemprop='price' content='0' />gratis</span>"
+msgstr "<span itemprop='offers' itemscope='' itemtype='http://schema.org/Offer'>Disponible <meta itemprop='price' content='0' />gratuitamente</span>"
 
 msgid "seofooter_driver-description-title"
-msgstr "Descripción del Driver"
+msgstr "Descripción del driver"
 
 msgid "seofooter_popular-drivers-title"
-msgstr "Drivers Populares"
+msgstr "Drivers populares"
 
 msgid "sidebanner_title"
 msgstr "¿Estás cansado de buscar drivers?"
 
 msgid "sidebanner_caption"
-msgstr "DriverPack <span class='SideBanner__caption-marked'>seleccionará y configurará</span> automáticamente los drivers requeridos"
+msgstr "DriverPack <span class='SideBanner__caption-marked'>seleccionará e instalará</span> automaticamente los drivers necesarios"
 
 msgid "translationheader_cta-text"
-msgstr "Ayúdanos a poner a disposición DriverPack a millones de usuarios alrededor del mundo — Forma parte de nuestro proyecto voluntario para la traducción de la página web a otros idiomas"
+msgstr "Ayúdanos a que DriverPack esté disponible para millones de usuarios de ordenadores alrededor del mundo — Forma parte de nuestro proyecto de voluntarios para la traducción de la página web a otros idiomas"
 
 msgid "translationheader_bubble-team"
-msgstr "¿Te gustaría ser parte de equipo de traducción del servicio de configuración automática de ordenadores más grande del mundo?"
+msgstr "¿Te gustaría ser parte del equipo de traductores del servicio de configuración automática de ordenadores más grande del mundo?"
 
 msgid "translationheader_bubble-languages"
-msgstr "¿Hablas Inglés o Ruso bastante bien, para estar listo para traducir de uno de los dos a tu lengua nativa?"
+msgstr "¿Tienes buenos conocimientos de Inglés o Ruso, para poder traducir de uno de ellos a tu lengua nativa?"
 
 msgid "translationheader_bubble-experience"
 msgstr "¿Tienes experiencia traduciendo software o sitios web usando servicios de traducción online?"
 
 msgid "translationheader_bubble-email"
-msgstr "Si tu respuesta a las tres preguntas es SI, por favor, envianos un e-mail a{{EMAIL}} con el asunto {{SUBJECT}}e indicanos que idioma podrias traducir."
+msgstr "Si tu respuesta a las tres preguntas es SI, por favor, envianos un e-mail a{{EMAIL}} con el asunto \"{{SUBJECT}}\" e indicanos que idioma podrías traducir."
 
 msgid "translationlist_title"
-msgstr "Listado de Traductores Autorizados de DriverPack"
+msgstr "Listado de traductores autorizados de DriverPack"
 
 msgid "translationtool_text-transifex"
-msgstr "En DriverPack Solution traducimos nuestros proyectos utilizando el servicio de transifex.com:"
+msgstr "En DriverPack Solution traducimos nuestros proyectos utilizando el servicio  transifex.com:"
 
 msgid "translationtool_example-ru-to-en"
 msgstr "Lineas para la traducción del Ruso (RU) al Inglés (EN), y lenguas del CEI (CEI)"
@@ -857,37 +857,37 @@ msgid "landingPagePublications_rbk"
 msgstr "Driverpack es un software que contiene drivers para Windows cuidadosamente seleccionados y probados por el equipo de Artur Kuzyakov. Esta aplicación analiza el ordenador del usuario e instala en él los drivers necesarios, lo que le permite resolver dos problemas: en primer lugar, acelerar el proceso de configuración del ordenador (lo cual es especialmente importante si hay docenas de ordenadores dentro de un sistema); y en segundo lugar, mejorar su capacidad operativa."
 
 msgid "landingPagePublications_secretfirmy"
-msgstr "Hoy por hoy, DriverPack posee la mayor base de datos del mundo, la cual esta traducida a 45 lenguas y trabaja en los ordenadores de más de 42 millones de usuarios."
+msgstr "Hoy por hoy, DriverPack posee la mayor base de datos del mundo, la cual está traducida a 45 idiomas y funciona en los ordenadores de más de 42 millones de usuarios."
 
 msgid "landingPagePublications_cnews"
 msgstr "Desde el momento en que se creó la primera versión del software, DriverPack Solution ha sido muy popular entre los usuarios. El software está disponible para la descarga absolutamente gratis. Esto distingue a DriverPack Solution de sus competidores y atrae a más y más usuarios nuevos."
 
 msgid "landingPagePublications_xbit"
-msgstr "DriverPack Solution es una aplicación compleja, contiene un conjunto de opciones que otros softwares del mismo tipo no proporcionan. Cualquier usuario puede arreglar todos los errores y configurar coorectamente su sistema y todos sus dispositivos en sólo dos clics. Por el momento, el número de drivers en la base de datos de DriverPack ya ha superado los 1,1 millones, y todos ellos han sido probados por seguridad."
+msgstr "DriverPack Solution es una aplicación interesante, ya que contiene un conjunto de opciones que otras aplicaciones del mismo tipo no proporcionan. Cualquier usuario puede arreglar todos los errores y configurar correctamente su sistema y todos sus dispositivos en sólo dos clics. Actualmente, el número de drivers en la base de datos de DriverPack ya ha superado los 1,1 millones, y todos ellos han sido probados para que sean seguros."
 
 msgid "landingPagePublications_chip"
-msgstr "Con DriverPack no es un reto en absoluto encontrar las últimas versiones de los drivers para los componentes de tu PC. El aspecto más destacable es que el usuario no tiene que hacer nada por sí mismo. Esta herramienta es completamente automatizada y conveniente en el proceso."
+msgstr "Con DriverPack no es un reto en absoluto encontrar las últimas versiones de los drivers para los componentes de tu PC. El aspecto más destacable es que el usuario no tiene que hacer nada por sí mismo. La herramienta está completamente automatizada y tiene una forma de uso conveniente."
 
 msgid "landingPagePublications_pcmag"
-msgstr "DriverPack Protect ayudará a proteger tu ordenador de los programas y plug-ins de software malicioso y adware, que incluso software antivirus y herramientas de ad-blocking a menudo no logran bloquear."
+msgstr "DriverPack Protect ayudará a proteger tu ordenador de los programas y plug-ins de software malicioso y adware, que incluso los antivirus y herramientas de ad-blocking a menudo no logran bloquear."
 
 msgid "landingPagePublications_habr"
-msgstr "La necesidad de buscar e instalar drivers cada vez que reinstalas Windows es, en mi opinión, uno de los puntos bajos más importantes de toda la familia Windows. Ya en 2008, decidí solucionar este problema y escribí mi propio software que se llamaba DriverPack. Hoy, mi producto es utilizado por 40 millones de usuarios en todo el mundo, y considero que el problema de los drivers en Windows ya ha sido resuelto, aunque a través de soluciones de terceros."
+msgstr "La necesidad de buscar e instalar los drivers cada vez que reinstalas Windows es, en mi opinión, uno de los puntos flojos más importantes de toda la familia Windows. Ya en 2008, decidí solucionar este problema y escribí mi propio software llamado DriverPack. Hoy, mi producto es utilizado por 40 millones de usuarios en todo el mundo, y considero que el problema de los drivers en Windows ha quedado resuelto, aunque sea a través de una solución de terceros."
 
 msgid "landingPagePublications_computerra"
-msgstr "La nueva versión proporciona al usuario más herramientas para crear su propia selección de drivers. Era un problema especialmente importante para aquellos que poseen ordenadores y administran gran cantidad de hardware diferente. Ahora es posible integrar cualquier driverpack alternativo en DriverPack en lugar de simplemente eliminar los innecesarios."
+msgstr "La nueva versión proporciona al usuario más herramientas para crear su propia selección de drivers. Era un problema especialmente importante para aquellos que reparan ordenadores y administran gran cantidad de hardware diferente. Ahora es posible integrar cualquier driverpack alternativo en DriverPack en lugar de simplemente eliminar los innecesarios."
 
 msgid "landingPagePublications_vc"
 msgstr "Gracias a la colaboración de los usuarios, este producto ha sido traducido a 45 idiomas sin la participación de nuestro equipo."
 
 msgid "adminpagefaq_official_vendors-q"
-msgstr "Antes de DriverPack, he descargado los drivers de los sitios oficiales, pero he experimentado problemas incluso con ellos. ¿Por qué los drivers de DriverPack son más fiables que los de los fabricantes?"
+msgstr "Antes de DriverPack, descargaba los drivers de los sitios oficiales, pero he experimentado problemas incluso con ellos. ¿Por qué los drivers de DriverPack son más fiables que los de los fabricantes?"
 
 msgid "adminpagefaq_official_vendors-a"
-msgstr "Con el fin de que nuestra base de datos de drivers no sólo sea la más grande, sino también la más estable, seguimos trabajando duro para mejorarla día a día, e incluso arreglar los errores que los fabricantes oficiales pasan! Utilizamos tecnología de Machine Learning y, gracias a ella, nuestro algoritmo de selección mejor constantemente. Y es por eso que los drivers de DriverPack son los más confiables :-)"
+msgstr "Con el fin de que nuestra base de datos de drivers no sólo sea la más grande, sino también la más estable, seguimos trabajando duro para mejorarla día a día, ¡e incluso arreglar los errores que los fabricantes oficiales pasan por alto! Utilizamos tecnología de Machine Learning y, gracias a ella, nuestro algoritmo de selección mejora constantemente. Y es por ello que los drivers de DriverPack son los más confiables :-)"
 
 msgid "adminpagefaq_database-q"
-msgstr "¿Cómo crece la base de datos de DriverPack? ¿Puedo encontrar los drivers que necesito en ella?"
+msgstr "¿Cómo crece la base de datos de DriverPack? ¿Puedo encontrar en ella los drivers que necesito realmente?"
 
 msgid "adminpagefaq_database-a"
 msgstr "Hasta la fecha, nuestra base de datos de drivers es la más grande del mundo, por eso podrás encontrar drivers para cualquier dispositivo con más de un 99% de éxito. Con el fin de seguir reuniendo y apoyando nuestra base de datos, cooperamos directamente con los fabricantes de dispositivos y desarrolladores de drivers. Recopilamos y probamos los drivers de sitios oficiales, así como de servidores FTP privados, y también tomamos en cuenta las recomendaciones de los usuarios activos."
@@ -896,43 +896,43 @@ msgid "adminpagefaq_free-q"
 msgstr "¿Es verdad que DriverPack es absolutamente gratis?"
 
 msgid "adminpagefaq_free-a"
-msgstr "¡Todo nuestro software es absolutamente gratuito! Pero si quieres apoyar nuestro proyecto, puedes tú mismo instalar el software útil que te ofrecemos y recomendar DriverPack a tus amigos :-)"
+msgstr "¡Todo nuestro software es absolutamente gratuito! Pero si quieres apoyar nuestro proyecto, puedes instalarte el software útil que te ofrecemos y recomendar DriverPack a tus amigos :-)"
 
 msgid "adminpagefaq_antivirus-q"
 msgstr "Mi antivirus ha encontrado un virus en DriverPack - ¿cómo ha podido pasar?"
 
 msgid "adminpagefaq_antivirus-a"
-msgstr "Esto es más probable que sea un falso positivo, ya que todas las versiones de DriverPack se someten a un examen minucioso acreditado por el Laboratorio de Kaspersky. Nuestra empresa coopera con muchos proveedores de software antivirus como Avast y 360 Total Security. Para continuar operando, simplemente agregua DriverPack a tu lista blanca de antivirus. También apreciariamos si marcaras esto como un falso positivo a la empresa de tu antivirus, así como a nuestro Servicio de Soporte."
+msgstr "Esto es más probable que sea un falso positivo, ya que todas las versiones de DriverPack se someten a un examen minucioso acreditado por el Laboratorio de Kaspersky. Nuestra empresa coopera con muchos proveedores de software antivirus como Avast y 360 Total Security. Para poder seguir usándolo, simplemente agrega DriverPack a la lista blanca de tu antivirus. También agradeceríamos si informaras de esto como un falso positivo a la empresa de tu antivirus, así como a nuestro Servicio de Soporte."
 
 msgid "adminpagefaq_expert_mode-q"
 msgstr "¿Qué modo es el más conveniente al utilizar DriverPack?"
 
 msgid "adminpagefaq_expert_mode-a"
-msgstr "De forma predeterminada, DriverPack se inicia en modo automático, diseñado para ser comprensible y conveniente de usar incluso para los usuarios más nuevos. Sin embargo, para la comodidad de los usuarios avanzados y administradores de sistemas, hemos desarrollado el Modo Experto que contiene opciones ampliadas de configuración y personalización. Para activar este modo, simplemente dirígete hacia abajo y haga clic en el botón en la parte inferior de la pantalla."
+msgstr "De forma predeterminada, DriverPack se inicia en modo automático, diseñado para ser comprensible y conveniente de usar incluso para los usuarios más nuevos. Sin embargo, para la comodidad de los usuarios avanzados y administradores de sistemas, hemos desarrollado el Modo Experto que contiene opciones ampliadas de configuración y personalización. Para activar este modo, simplemente pulsa en el botón correspondiente en la parte inferior de la pantalla."
 
 msgid "adminpagefaq_stable-q"
 msgstr "El driver no se ha instalado correctamente y mi ordenador tiene problemas. ¿Cómo puedo arreglarlo?"
 
 msgid "adminpagefaq_stable-a"
-msgstr "La estabilidad del software DriverPack es una de nuestras principales prioridades, pero fallos menores siguen ocurriendo, aunque pocas veces. Esta es la razón por la que creamos un punto de restauración que permitirá devolver todo al estado previamente guardado. Para evitar un problema similar en el futuro, te recomendamos ir al menú de DriverPack y enviar el informe que el software crea automáticamente a nuestro servicio técnico."
+msgstr "La estabilidad del software DriverPack es una de nuestras principales prioridades, pero fallos menores siguen ocurriendo, aunque pocas veces. Esta es la razón por la que creamos un punto de restauración que permitirá devolver todo al estado previamente guardado. Para evitar un problema similar en el futuro, te recomendamos ir al menú de DriverPack y enviar el informe que el software crea automáticamente."
 
 msgid "badrabbitpromopage_cta-text"
-msgstr "El virus criptográfico Bad Rabbit — como proteger tu PC?"
+msgstr "El virus criptográfico Bad Rabbit — ¿como proteger tu PC?"
 
 msgid "badrabbitpromopage_cta-subtext"
-msgstr "DriverPack contiene medios específicos para eliminar vulnerabilidades entre de la configuración del equipo. Puedes descargar protección gratuita contra el virus Bad Rabbit para tu PC o portátil las cuales protegerán tu ordenador."
+msgstr "Entre las utilidades de configuración del equipo, DriverPack contiene medidas específicas para eliminar vulnerabilidades. Puedes descargar la protección gratuita contra el virus Bad Rabbit para tu PC o portátil la cual protegerá tu ordenador."
 
 msgid "badrabbitpromopage_cta-btn"
 msgstr "Configura tu ordenador y protégelo contra Bad Rabbit"
 
 msgid "badrabbitpromopage_caption-text"
-msgstr "Este software se proporciona gratis"
+msgstr "Este software se proporciona gratuitamente"
 
 msgid "badrabbitpromopage_info-text-title-1"
 msgstr "¿Qué es Bad Rabbit?"
 
 msgid "badrabbitpromopage_info-text-1"
-msgstr "Bad Rabbit es un nuevo virus criptográfico que ha atacado ordenadores de usuarios en Rússia, Ucraína, Bulgaria y Turquía desde finales de Octubre de 2017. Entre las víctimas, tambien se incluyen The Interfax RIA, the Fontanka RIA, un numero de ministros de Ucraína así como el aeropuerto de Odessa. El modo de funcionamiento principal es simpe: Usa la utilidad Mimikatz para obtener los datos de la cuenta de usuario de la memoria del PC. También busca información de la cuenta de administrador activa. Bad Rabbit intenta entonces acceder a los ordenadores de la red local a través de SMB y WebDAV. Tan pronto como obtiene acceso al ordenador, el virus encripta todos los datos que ha obtenido y después hace cambios en Master Boot Record, el sector de arrance. Cuando ha completado la operación, Bad Rabbit reinicia el ordenador y muestra un mensaje pidiendo 0,05 Bitcoins (Lo que equivale a 300 dolares a fecha de 26 de Octubre de 2017)."
+msgstr "Bad Rabbit es un nuevo virus criptográfico que ha atacado ordenadores de usuarios en Rússia, Ucraína, Bulgaria y Turquía desde finales de Octubre de 2017. Entre las víctimas, tambien se incluyen The Interfax RIA, the Fontanka RIA, un numero de ministros de Ucraína así como el aeropuerto de Odessa. El modo de funcionamiento principal es simpe: Usa la utilidad Mimikatz para obtener los datos de la cuenta de usuario de la memoria del PC. También busca información de la cuenta de administrador activa. Bad Rabbit intenta entonces acceder a los ordenadores de la red local a través de SMB y WebDAV. Tan pronto como obtiene acceso al ordenador, el virus encripta todos los datos que ha obtenido y después hace cambios en sector de arranque (Master Boot Record). Cuando ha completado la operación, Bad Rabbit reinicia el ordenador y muestra un mensaje pidiendo 0,05 Bitcoins (Lo que equivale a 300 dolares a fecha de 26 de Octubre de 2017)."
 
 msgid "badrabbitpromopage_info-text-title-2"
 msgstr "¿Cómo proteger tu PC contra el virus criptográfico Bad Rabbit?"
@@ -953,10 +953,10 @@ msgid "devicestypepage_subtitle"
 msgstr "Todos los fabricantes de {{CLASS.SINGLE.FOR}}"
 
 msgid "devicetypevendorpage_subtitle-popular"
-msgstr "Los {{CLASS.PLURAL.MAIN}} más populares de {{VENDOR.NAME}}"
+msgstr "{{CLASS.PLURAL.MAIN}} más populares de {{VENDOR.NAME}}"
 
 msgid "devicetypevendorpage_subtitle-all"
-msgstr "Todos los {{CLASS.PLURAL.MAIN}} de {{VENDOR.NAME}}"
+msgstr "Todos(as) los(as) {{CLASS.PLURAL.MAIN}} de {{VENDOR.NAME}}"
 
 msgid "errorpage_title"
 msgstr "Error 500: error interno del servidor"
@@ -980,10 +980,10 @@ msgid "landing-footer_badrabbit"
 msgstr "Protección contra Bad Rabbit"
 
 msgid "landing-footer_for-admin"
-msgstr "Para Administradores del Sistema"
+msgstr "Para administradores de sistemas"
 
 msgid "landing-footer_for-translators"
-msgstr "Para Traductores"
+msgstr "Para traductores"
 
 msgid "landing-footer_hwids"
 msgstr "Device ID"
@@ -995,7 +995,7 @@ msgid "landing-footer_license"
 msgstr "Acuerdo de Licencia"
 
 msgid "landing-footer_remove"
-msgstr "Desinstalar DriverPack"
+msgstr "Desinstalación de DriverPack"
 
 msgid "notfoundpage_title"
 msgstr "Error 404: la página no existe"
@@ -1036,22 +1036,22 @@ msgid "thankyoupopup_download-link"
 msgstr "descargar"
 
 msgid "translate-feedback-header_caption"
-msgstr "Esta página acaba de ser traducida. ¿Has encontrado algún error? Subráyalo y teclea {{HOTKEY}}"
+msgstr "Esta página acaba de ser traducida. ¿Has encontrado algún error? Seleccionalo y pulsa{{HOTKEY}}"
 
 msgid "translate-feedback-form-popup_preview-title"
-msgstr ""
+msgstr "Has seleccionado el texto siguiente:"
 
 msgid "translate-feedback-form-popup_correct-title"
-msgstr ""
+msgstr "Por favor,  explica qué es exactamente lo que está mal y proporcionanos la variante correcta:"
 
 msgid "translate-feedback-form-popup_submit"
-msgstr ""
+msgstr "Enviar"
 
 msgid "translate-feedback-popup_title-error"
-msgstr "algo salió mal"
+msgstr "Algo salió mal"
 
 msgid "translate-feedback-popup_description-error"
-msgstr "El texto subrayado no se a enviado debido a problemas en el servidor. <br /> Inténtelo de nuevo más tarde, por favor."
+msgstr "El texto subrayado no se ha enviado debido a problemas en el servidor. <br /> Inténtelo de nuevo más tarde, por favor."
 
 msgid "translate-feedback-popup_title-success"
 msgstr "Gracias"
@@ -1066,19 +1066,19 @@ msgid "translate-feedback-popup_description-join-link"
 msgstr "¡Únete a nuestro equipo de traductores!"
 
 msgid "translationlandingpage_title"
-msgstr "DriverPack Traducciones"
+msgstr "Traducción de DriverPack"
 
 msgid "vendorpage_subtitle-popular"
 msgstr "Dispositivos {{VENDOR.NAME}} populares"
 
 msgid "wannacryptpromopage_cta-text"
-msgstr "El virus criptógrafo WannaCry — ¿cómo proteger un ordenador contra el mayor ataque en la historia?"
+msgstr "El virus criptógrafo WannaCrypt — ¿cómo proteger un ordenador contra el mayor ataque en la historia?"
 
 msgid "wannacryptpromopage_cta-subtext"
-msgstr "DriverPack tiene maneras de eliminar vulnerabilidades entre las herramientas de configuración del ordenador. Puedes descargar nuestra protección gratuita contra el virus WannaCry, que protegerá tu ordenador o portátil."
+msgstr "Entre las utilidades de configuración del equipo, DriverPack contiene medidas específicas para eliminar vulnerabilidades. Puedes descargar la protección gratuita contra el virus WannaCry para tu PC o portátil la cual protegerá tu ordenador."
 
 msgid "wannacryptpromopage_cta-btn"
-msgstr "Configura tu ordenador y protégelo contra WannaCry"
+msgstr "Configurar el ordenador y protégerlo contra WannaCry"
 
 msgid "wannacryptpromopage_caption-text"
 msgstr "Este software se proporciona gratis"
@@ -1087,22 +1087,22 @@ msgid "wannacryptpromopage_info-text-title-1"
 msgstr "¿Qué es WannaCrypt?"
 
 msgid "wannacryptpromopage_info-text-1"
-msgstr "El virus chantajista WannaCrypt (popularmente conocido WannaCry) atacó a ordenadores de todo el mundo el 12 de mayo e infectó los dispositivos de más de 300.000 usuarios en 150 países. Europa Occidental, Rusia, China fueron los más afectados. En Gran Bretaña, el virus desactivó las redes del Departamento de Salud y detuvo el funcionamiento de hospitales en todo el país. En China, el ataque afectó a viejos ordenadores en fábricas que detuvieron a varias industrias.<br/><br/> El principal eje de fundionamiento de este virus es simple: penetra en el ordenador o portátil de la víctima y codifica absolutamente todos los documentos, archivos y materiales que pueda encontrar, hace que no estén disponibles para su uso. Ahí es cuando los intrusos demandan una cantidad de dinero para la decodificación - acerca de 250€. Sin embargo, no hay ninguna garantía de que se obtendrá acceso a los archivos. En la actualidad, no hay ninguna manera de descodificar los archivos uno mismo, y las soluciones que se ofrecen en Internet son para la propagación de otro virus, o simplemente no funcionan con un 100% de certeza."
+msgstr "El virus chantajista WannaCrypt (popularmente conocido como WannaCry) atacó a ordenadores de todo el mundo el 12 de mayo e infectó los dispositivos de más de 300.000 usuarios en 150 países. Europa Occidental, Rusia y China fueron los más afectados. En Gran Bretaña, el virus desactivó las redes del Departamento de Salud y detuvo el funcionamiento de hospitales en todo el país. En China, el ataque afectó a viejos ordenadores en fábricas lo que detuvo a varias industrias.<br/><br/> El principal eje de funcionamiento de este virus es simple: penetra en el ordenador o portátil de la víctima y codifica absolutamente todos los documentos, archivos y materiales que pueda encontrar, y hace que no estén disponibles para su uso. Entonces es cuando los intrusos piden una cantidad de dinero para la decodificación — cerca de 250€. Sin embargo, no hay ninguna garantía de que se obtenga acceso a los archivos. En la actualidad, no hay ninguna manera de descodificar los archivos uno mismo, y las soluciones que se ofrecen en Internet son intentos de robo, de propagación de otro virus, o simplemente no funcionan con un 100% de certeza."
 
 msgid "wannacryptpromopage_info-text-title-2"
 msgstr "¿Quién está en riesgo?"
 
 msgid "wannacryptpromopage_info-text-2"
-msgstr "Los ordenadores con sistemas operativos anteriores a Windows 10 que tienen puertos SMB abiertos son los de mayor riesgo — el 18% de los usuarios no tienen licencia (automáticamente poniéndose en riesgo). Un 23% de los usuarios tienen deshabilitado el servicio de Windows Update (que les impide descargar las últimas &#147;revisiones&#148; de Microsoft), y el otro 6% utiliza versiones obsoletas del sistema operativo que simplemente no reciben más actualizaciones. <br/><br/>La conclusión de todo esto es que las redes de las diversas empresas que todavía utilizan sistemas operativos como Windows XP están en el más alto riesgo. En los ataques a estas redes, la pérdida de datos es muy alta y el coste, enorme, ya que cualquier \"rescate\" debe ser pagado por cada ordenador individualmente."
+msgstr "Los ordenadores con sistemas operativos anteriores a Windows 10 que tienen puertos SMB abiertos son los de mayor riesgo. Actualmente, la mitad de todos los usuarios de Windows estan en riesgo —  el 18% de los usuarios no tienen licencia (automáticamente poniéndose en riesgo). Un 23% de los usuarios tienen deshabilitado el servicio de Windows Update (que les impide descargar las últimas &#147;actualizaciones de seguridad&#148; de Microsoft), y otro 6% usa versiones obsoletas del sistema operativo que simplemente no reciben más actualizaciones. <br/><br/>La conclusión de todo esto es que las redes de las diversas empresas que todavía utilizan sistemas operativos como Windows XP tienen el mayor riesgo. En los ataques a estas redes, la pérdida de datos puede ser muy alta y el coste enorme, ya que cualquier &#147;rescate&#148; debe ser pagado por cada ordenador individualmente."
 
 msgid "wannacryptpromopage_info-text-title-3"
 msgstr "¿Cómo proteger tu empresa? — solución de DriverPack Solution"
 
 msgid "wannacryptpromopage_info-text-3"
-msgstr "La razón principal del peligro del virus WannaCrypt (WannaCry), es que se propaga utilizando vulnerabilidades críticas en el protocolo SMBv1 del sistema de seguridad MS17-010. Hace que WannaCry sea realmente invisible para los antivirus. La solución de DriverPack Solution permite instalar una actualización que proteje las vulnerabilidades críticas del sistema y deshabilita el protocolo desactualizado de inmediato, independientemente de la verisión del sistema operativo o si este tiene licencia."
+msgstr "La razón principal del peligro del virus WannaCrypt (WannaCry), es que se propaga utilizando vulnerabilidades críticas en el protocolo SMBv1 del sistema de seguridad MS17-010. Esto hace que WannaCry sea realmente invisible para los antivirus. La solución de DriverPack Solution permite instalar una actualización que proteje las vulnerabilidades críticas del sistema y deshabilita el protocolo desactualizado de inmediato, independientemente de la versión del sistema operativo o si este tiene licencia."
 
 msgid "wannacryptpromopage_links-text"
-msgstr "El desarrollo de esta solución se ha basado en los siguientes puntos"
+msgstr "El desarrollo de esta solución se ha basado en las siguientes referencias"
 
 msgid "wannacryptpromopage_link-smb"
 msgstr "Cómo habilitar y deshabilitar las versiones 1, 2 y 3 de los protocolos SMB para Windows y Windows Server"

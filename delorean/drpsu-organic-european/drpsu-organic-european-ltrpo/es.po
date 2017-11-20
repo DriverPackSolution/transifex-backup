@@ -1,15 +1,14 @@
 # Translators:
 # Nadia Tegeneva <nadia@drp.su>, 2017
-# Alejandro Martín <aleha23.com@gmail.com>, 2017
-# Boris Ovsepyan <boris@drp.su>, 2017
 # Josep Maria Antolin <josepma@gmail.com>, 2017
+# Alejandro Martín <aleha23.com@gmail.com>, 2017
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-10-26 10:03+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
-"Last-Translator: Josep Maria Antolin <josepma@gmail.com>, 2017\n"
+"Last-Translator: Alejandro Martín <aleha23.com@gmail.com>, 2017\n"
 "Language-Team: Spanish (https://www.transifex.com/driverpack-solution/teams/75453/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -22,7 +21,7 @@ msgid "seo_vendor-footer-anchor"
 msgstr "{{VENDOR.NAME}}"
 
 msgid "seo_devicegroups-footer-anchor"
-msgstr "{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}} "
+msgstr "{{CLASS.PLURAL.MAIN}} {{VENDOR.NAME}}"
 
 #. i18n: EN: Example: NAME=Acer E230H; RU: Пример: NAME=Acer E230H;
 msgid "seo_devicegroup-footer-anchor"
@@ -50,7 +49,7 @@ msgid "seo_main-title"
 msgstr "DriverPack Solution — instalador y actualizador de drivers automático | Descárgalo gratis"
 
 msgid "seo_main-description"
-msgstr "DriverPack Solution te sugiere que instales los drivers para tu dispositivo gratis, o que descargues el software de instalación y actualización de drivers automática. Disponible para Windows XP, 7, 8, 8.1 y 10."
+msgstr "DriverPack Solution te ofrece la posibilidad de instalar los drivers para tu dispositivo gratis, o descargar el software para la instalación y actualización automática de drivers. Disponible para Windows XP, 7, 8, 8.1 y 10."
 
 msgid "seo_main-keywords"
 msgstr "descargar driver pack windows 7 8 10 64 drivers portátil gratis instalador de drivers software de instalación de drivers"
@@ -82,12 +81,12 @@ msgstr "descargar drivers auto-instalación actualizar Windows 7, XP, 10, 8 y 8.
 #. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
 #. CLASS.PLURAL.FOR=мониторов|модемов;
 msgid "seo_deviceclass-title"
-msgstr "Descargar drivers de {{CLASS.SINGLE.FOR}} para Windows 7, XP, 10, 8 y 8.1"
+msgstr "Descargar drivers para{{CLASS.SINGLE.FOR}} para Windows 7, XP, 10, 8 y 8.1"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
 #. CLASS.PLURAL.FOR=мониторов|модемов;
 msgid "seo_deviceclass-description"
-msgstr "Descarga drivers de {{CLASS.SINGLE.FOR}} o instala el software de DriverPack Solution para una instalación y actualización de los drivers automática"
+msgstr "Descarga los drivers para{{CLASS.SINGLE.FOR}} o instala el software de DriverPack Solution para la instalación y actualización de drivers automática"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
 #. CLASS.PLURAL.FOR=мониторов|модемов;
@@ -102,7 +101,7 @@ msgstr "{{CLASS.SINGLE.FOR}} drivers windows 7 64 8 10 descargar"
 #. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
 #. CLASS.PLURAL.FOR=мониторов|модемов;
 msgid "seo_deviceclass-footer-description"
-msgstr "Descargar drivers para {{CLASS.PLURAL.FOR}} gratis"
+msgstr "Descarga drivers para {{CLASS.PLURAL.FOR}} gratis"
 
 msgid "seo_deviceclass-footer-application-category"
 msgstr "Categoría: <span itemprop='applicationCategory'>Dispositivos</span>"
@@ -113,10 +112,10 @@ msgid "seo_deviceclass-footer-application-subcategory"
 msgstr "Subcategoría: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_vendors-title"
-msgstr "Descarga drivers para PC, portátil y netbook | DriverPack Solution"
+msgstr "Descargar drivers para PC, portátil y netbook | DriverPack Solution"
 
 msgid "seo_vendors-description"
-msgstr "Instala drivers de PC, portátiles y netbooks gratis, o descarga el software para una instalación y actualización de los drivers automática"
+msgstr "Instala los drivers para PC, portátiles y netbooks gratis, o descarga el software para la instalación y actualización de drivers automática"
 
 msgid "seo_vendors-h1"
 msgstr "Fabricantes de hardware"
@@ -126,11 +125,11 @@ msgstr "drivers drivers windows 7 8 10 64 descargar descargar"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendor-title"
-msgstr "Descarga drivers para {{VENDOR.NAME}} para Windows 7, XP, 10, 8 y 8.1"
+msgstr "Descargar drivers para {{VENDOR.NAME}} para Windows 7, XP, 10, 8 y 8.1"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendor-description"
-msgstr "Descarga drivers para {{VENDOR.NAME}} o instala el software DriverPack Solution para una instalación y actualización de los drivers automática"
+msgstr "Descarga los drivers para {{VENDOR.NAME}} o instala el software DriverPack Solution para una instalación y actualización de los drivers automática"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendor-h1"
@@ -189,7 +188,7 @@ msgstr "Subcategoría: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MA
 #. i18n: EN: Example: CLASS.SINGLE.FOR=videocard|monitor; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.SINGLE.FOR=видеокарты|монитора; VENDOR.NAME=Acer;
 msgid "seo_devicegroups-footer-content"
-msgstr "Descarga drivers para {{CLASS.SINGLE.FOR}} de {{VENDOR.NAME}}, o instala el software DriverPack Solution para una instalación y actualización de los drivers automática"
+msgstr "Descarga los drivers para {{CLASS.SINGLE.FOR}} de {{VENDOR.NAME}}, o instala el software DriverPack Solution para una instalación y actualización de los drivers automática"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
 #. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
@@ -203,7 +202,7 @@ msgstr "Drivers para {{CLASS.SINGLE.FOR}} {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} |
 #. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
 #. GROUP.NAME=GeForce 210;
 msgid "seo_devicegroup-description"
-msgstr "Descarga drivers para {{CLASS.SINGLE.FOR}} {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} o instala el software DriverPack Solution para una instalación y actualización de los drivers automática"
+msgstr "Descarga los drivers para {{CLASS.SINGLE.FOR}} {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} o instala el software DriverPack Solution para una instalación y actualización de los drivers automática"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
 #. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
@@ -241,10 +240,10 @@ msgstr "Subcategoría: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MA
 #. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
 #. GROUP.NAME=GeForce 210;
 msgid "seo_devicegroup-footer-content"
-msgstr "Descarga drivers para {{CLASS.SINGLE.FOR}} {{GROUP.NAME}} de {{GROUP.VENDOR.NAME}}, o descarga el software DriverPack Solution para una instalación y actualización de los drivers automática"
+msgstr "Descarga los drivers para {{CLASS.SINGLE.FOR}} {{GROUP.NAME}} de {{GROUP.VENDOR.NAME}}, o descarga el software DriverPack Solution para una instalación y actualización de los drivers automática"
 
 msgid "seo_hwids-title"
-msgstr "Descarga drivers para dispositivos a partir de su Device_id | DriverPack Solution | Página {{PAGE}}"
+msgstr "Descargar drivers para dispositivos a partir de su Device_id | DriverPack Solution | Página {{PAGE}}"
 
 msgid "seo_hwids-description"
 msgstr "Descarga drivers para dispositivos a partir de su device_id"
@@ -255,12 +254,12 @@ msgstr "Todos los drivers para dispositivos"
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 msgid "seo_hwid-title"
-msgstr "descargar gratis driver {{DEVICE.DEVICEID}}"
+msgstr "Descargar gratis el driver para{{DEVICE.DEVICEID}}"
 
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 msgid "seo_hwid-description"
-msgstr "driver dispositivo {{DEVICE.DEVICEID}} para Windows 7, XP, 10, 8, y 8.1"
+msgstr "driver para el dispositivo {{DEVICE.DEVICEID}} para Windows 7, XP, 10, 8, y 8.1"
 
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
@@ -296,7 +295,7 @@ msgid "seo_notebooks-title"
 msgstr "Descargar drives de todos los modelos de portátiles para Windows 7, XP, 10, 8 y 8.1"
 
 msgid "seo_notebooks-description"
-msgstr "Descarga drivers para todos los modelos de portátiles y netbooks o instala el software DriverPack Solution para una actualización de los drivers automática"
+msgstr "Descarga los drivers para todos los modelos de portátiles y netbooks o instala el software DriverPack Solution para una actualización de los drivers automática"
 
 msgid "seo_notebooks-h1"
 msgstr "Drivers para portátiles y netbooks"
@@ -310,7 +309,7 @@ msgstr "Drivers para portátiles {{VENDOR.NAME}} | Descargar para Windows 7, XP,
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_notebookvendor-description"
-msgstr "Descarga drives para portátiles y netbooks {{VENDOR.NAME}} o instala DriverPack Solution para la actualización de drivers automática"
+msgstr "Descarga los drives para portátiles y netbooks {{VENDOR.NAME}} o instala DriverPack Solution para la actualización de drivers automática"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_notebookvendor-h1"
@@ -339,7 +338,7 @@ msgstr "Drivers para {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} | Descargar para
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebook-description"
-msgstr "Descarga drivers para {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} o instala el software DriverPack Solution para la actualización de drivers"
+msgstr "Descarga los drivers para {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} o instala el software DriverPack Solution para la actualización de drivers"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
@@ -354,7 +353,7 @@ msgstr "drivers portátil netbook windows 7 8 10 64 descargar {{NOTEBOOK.VENDOR.
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebook-footer-description"
-msgstr "Descarga drivers para portátiles {{NOTEBOOK.NAME}} de {{NOTEBOOK.VENDOR.NAME}} gratis"
+msgstr "Descargar drivers para portátiles {{NOTEBOOK.NAME}} de {{NOTEBOOK.VENDOR.NAME}} gratis"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; RU: Пример:
 #. NOTEBOOK.VENDOR.NAME=Acer;
@@ -369,28 +368,28 @@ msgstr "Subcategoría: <span itemprop='applicationSubCategory'>Portátiles {{NOT
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebook-footer-content"
-msgstr "Aquí puedes descargar drivers para portátiles {{NOTEBOOK.NAME}} de {{NOTEBOOK.VENDOR.NAME}}, o descarga el software DriverPack Solution para una instalación de drivers automática"
+msgstr "Aquí puedes descargar los drivers para portátiles {{NOTEBOOK.NAME}} de {{NOTEBOOK.VENDOR.NAME}}, o bien descargar el software DriverPack Solution para una instalación y actualización de drivers automática"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 #. CLASS.SINGLE.FOR=videocart|soundcart; RU: Пример:
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 #. CLASS.SINGLE.FOR=видеокарты|звуковой карты;
 msgid "seo_notebookdevices-title"
-msgstr "Drivers para {{CLASS.SINGLE.FOR}} {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} | Descargar para Windows"
+msgstr "Drivers para {{CLASS.SINGLE.FOR}} de portátiles {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} | Descargar para Windows"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 #. CLASS.SINGLE.FOR=videocart|soundcart; RU: Пример:
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 #. CLASS.SINGLE.FOR=видеокарты|звуковой карты;
 msgid "seo_notebookdevices-description"
-msgstr "Descarga drivers para {{CLASS.SINGLE.FOR}} {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} para Windows 7, XP, 10, 8 y 8.1, o instala el software DriverPack Solution"
+msgstr "Descarga los drivers para {{CLASS.SINGLE.FOR}} de {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} para Windows 7, XP, 10, 8 y 8.1, o instala el software DriverPack Solution"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 #. CLASS.PLURAL.FOR=videocarts|soundcarts; RU: Пример:
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 #. CLASS.PLURAL.FOR=видеокарт|звуковых карт;
 msgid "seo_notebookdevices-h1"
-msgstr "Drivers para {{CLASS.SINGLE.FOR}} de portátiles {{NOTEBOOK.NAME}} de {{NOTEBOOK.VENDOR.NAME}}"
+msgstr "Drivers para {{CLASS.SINGLE.FOR}} de portátiles {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets;
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU: Пример:
@@ -404,35 +403,35 @@ msgstr "drivers portátil netbook {{CLASS.PLURAL.MAIN}} windows 7 8 10 64 descar
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 #. CLASS.PLURAL.FOR=видеокарт|звуковых карт;
 msgid "seo_notebookdevices-footer-description"
-msgstr "Descarga drivers para {{CLASS.PLURAL.FOR}} de portátiles {{NOTEBOOK.VENDOR.NAME}} de {{NOTEBOOK.NAME}} gratis."
+msgstr "Descargar drivers para {{CLASS.PLURAL.FOR}} de portátiles {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} gratis."
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebookdevices-footer-application-category"
-msgstr "Categoría: <span itemprop='applicationCategory'>Portátiles {{NOTEBOOK.VENDOR.NAME}} de {{NOTEBOOK.NAME}}</span>"
+msgstr "Categoría: <span itemprop='applicationCategory'>Portátiles {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}</span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets;
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU: Пример:
 #. CLASS.PLURAL.MAIN=видеокарты|чипсеты; NOTEBOOK.VENDOR.NAME=Acer;
 #. NOTEBOOK.NAME=AO533;
 msgid "seo_notebookdevices-footer-application-subcategory"
-msgstr "Subcategoría: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}} para {{NOTEBOOK.NAME}} de{{NOTEBOOK.VENDOR.NAME}}</span>"
+msgstr "Subcategoría: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}} para {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}} </span>"
 
 #. i18n: EN: Example: CLASS.SINGLE.FOR=videocard|chipset;
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU: Пример:
 #. CLASS.SINGLE.FOR=видеокарты|чипсета; NOTEBOOK.VENDOR.NAME=Acer;
 #. NOTEBOOK.NAME=AO533;
 msgid "seo_notebookdevices-footer-content"
-msgstr "Descarga drivers de {{CLASS.SINGLE.FOR}} para portátiles {{NOTEBOOK.NAME}} de {{NOTEBOOK.VENDOR.NAME}} para Windows 7, XP, 10, 8, y 8.1, o descarga el software DriverPack Solution para una instalación de drivers automática"
+msgstr "Descarga los drivers para{{CLASS.SINGLE.FOR}} para portátiles {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}}  para Windows 7, XP, 10, 8 y 8.1, o descarga el software DriverPack Solution para una actualización de drivers automática"
 
 msgid "seo_search-title"
 msgstr "Resultados de búsqueda para: {{QUERY}} | DriverPack Solution "
 
 msgid "seo_devicegroupos-title"
-msgstr "Descarga drivers de {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} para Windows {{OS}}"
+msgstr "Descargar drivers para{{GROUP.VENDOR.NAME}} {{GROUP.NAME}} para Windows {{OS}}"
 
 msgid "seo_devicegroupos-description"
-msgstr "Instala drivers para {{GROUP.NAME}} de {{GROUP.VENDOR.NAME}}para Windows {{OS}}, o descarga el software DriverPack Solution para una instalación de drivers automática."
+msgstr "Instala los drivers para {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} para Windows {{OS}}, o descarga el software DriverPack Solution para una instalación y actualización de drivers automática."
 
 msgid "seo_devicegroupos-h1"
 msgstr "Drivers para {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} para Windows {{OS}}"
@@ -450,16 +449,16 @@ msgid "seo_devicegroupos-footer-application-subcategory"
 msgstr "Subcategoría: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}} {{GROUP.NAME}}</span>"
 
 msgid "seo_devicegroupos-footer-content"
-msgstr "Descarga drivers para {{CLASS.PLURAL.FOR}} {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} (Windows {{OS}}), o instala el software DriverPack Solution para una actualización de los drivers automática"
+msgstr "Descarga los drivers para {{CLASS.PLURAL.FOR}} {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} (Windows {{OS}}), o instala el software DriverPack Solution para una actualización de los drivers automática"
 
 msgid "seo_notebookos-title"
-msgstr "Descarga drivers para portátiles {{NOTEBOOK.NAME}} de {{NOTEBOOK.VENDOR.NAME}} para Windows {{OS}}"
+msgstr "Descargar drivers para portátiles {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} para Windows {{OS}}"
 
 msgid "seo_notebookos-description"
-msgstr "Instala drivers para portátil {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} para Windows {{OS}}, o descarga el software DriverPack Solution para una instalación y actualización de drivers automática"
+msgstr "Instala los drivers para el portátil {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} para Windows {{OS}}, o descarga el software DriverPack Solution para una instalación y actualización de drivers automática"
 
 msgid "seo_notebookos-h1"
-msgstr "Drivers para portátiles {{NOTEBOOK.NAME}} de {{NOTEBOOK.VENDOR.NAME}} para Windows {{OS}}"
+msgstr "Drivers para portátiles {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} para Windows {{OS}}"
 
 msgid "seo_notebookos-keywords"
 msgstr "drivers drivers portátil notebook portátil netbook netbook Windows {{OS}} descargar descargar{{NOTEBOOK.NAME}} {{NOTEBOOK.VENDOR.NAME}}"
@@ -471,25 +470,25 @@ msgid "seo_notebookos-footer-application-category"
 msgstr "Categoría: Portátiles <span itemprop='applicationCategory'>{{NOTEBOOK.VENDOR.NAME}}</span>"
 
 msgid "seo_notebookos-footer-application-subcategory"
-msgstr "Subcategoría: <span itemprop='applicationSubCategory'>Portátiles {{NOTEBOOK.NAME}} de {{NOTEBOOK.VENDOR.NAME}}</span>"
+msgstr "Subcategoría: <span itemprop='applicationSubCategory'>Portátiles {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}</span>"
 
 msgid "seo_notebookos-footer-content"
-msgstr "Aquí puedes descargar drivers para portátiles {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} (Windows {{OS}}), o descargar el software para instalación y actualización automática de drivers de DriverPack Solution"
+msgstr "Aquí puedes descargar drivers para portátiles {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} (Windows {{OS}}), o descargar el software de DriverPack Solution para instalación y actualización de drivers automática "
 
 msgid "seo_deviceclassos-title"
 msgstr "Descargar drivers de {{CLASS.SINGLE.FOR}} para Windows {{OS}}"
 
 msgid "seo_deviceclassos-description"
-msgstr "Instala drivers para {{CLASS.SINGLE.FOR}} para Windows {{OS}}, o descarga el software DriverPack Solution para la instalación y actualización automática de drivers"
+msgstr "Instala los drivers para {{CLASS.SINGLE.FOR}} para Windows {{OS}}, o descarga el software DriverPack Solution para la instalación y actualización de drivers automática"
 
 msgid "seo_deviceclassos-h1"
-msgstr "Drivers de {{CLASS.SINGLE.FOR}} para Windows {{OS}}"
+msgstr "Drivers para {{CLASS.SINGLE.FOR}} para Windows {{OS}}"
 
 msgid "seo_deviceclassos-keywords"
 msgstr "drivers {{CLASS.SINGLE.FOR}} Windows {{OS}} descargar descargar"
 
 msgid "seo_deviceclassos-footer-description"
-msgstr "Descargar drivers de {{CLASS.SINGLE.FOR}} para Windows{{OS}} gratis"
+msgstr "Descargar drivers para{{CLASS.SINGLE.FOR}} para Windows{{OS}} gratis"
 
 msgid "seo_deviceclassos-footer-application-category"
 msgstr "Categoría: <span itemprop='applicationCategory'>Dispositivos</span>"
@@ -501,7 +500,7 @@ msgid "seo_devicegroupsos-title"
 msgstr "Descargar drivers para {{CLASS.SINGLE.FOR}} {{VENDOR.NAME}} para Windows {{OS}}"
 
 msgid "seo_devicegroupsos-description"
-msgstr "Instala drivers para {{CLASS.SINGLE.FOR}} {{VENDOR.NAME}} para Windows {{OS}}, o descarga el software DriverPack Solution para la instalación y actualización automática de drivers"
+msgstr "Instala los drivers para {{CLASS.SINGLE.FOR}} de{{VENDOR.NAME}} para Windows {{OS}}, o descarga el software DriverPack Solution para la instalación y actualización de drivers automática"
 
 msgid "seo_devicegroupsos-h1"
 msgstr "Drivers para {{CLASS.SINGLE.FOR}} de {{VENDOR.NAME}} para Windows {{OS}}"
@@ -519,13 +518,13 @@ msgid "seo_devicegroupsos-footer-application-subcategory"
 msgstr "Subcategoría: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}} {{VENDOR.NAME}}</span>"
 
 msgid "seo_devicegroupsos-footer-content"
-msgstr "Descargar drivers para {{CLASS.PLURAL.FOR}} {{VENDOR.NAME}} (Windows {{OS}}) gratuitamente, o instala el software DriverPack Solution para la descarga y actualización de drivers"
+msgstr "Descarga los drivers para {{CLASS.PLURAL.FOR}} de{{VENDOR.NAME}} (Windows {{OS}}) gratuitamente, o instala el software DriverPack Solution para la descarga y actualización de drivers"
 
 msgid "seo_notebookvendoros-title"
 msgstr "Descargar drivers de portátiles {{VENDOR.NAME}} para Windows {{OS}}"
 
 msgid "seo_notebookvendoros-description"
-msgstr "Instala drivers para portátiles de {{VENDOR.NAME}} para Windows {{OS}}, o descarga el software DriverPack Solution para la instalación y actualización de drivers automática"
+msgstr "Instala los drivers para portátiles de {{VENDOR.NAME}} para Windows {{OS}}, o descarga el software DriverPack Solution para la instalación y actualización de drivers automática"
 
 msgid "seo_notebookvendoros-h1"
 msgstr "Drivers para portátiles {{VENDOR.NAME}} para Windows {{OS}}"
@@ -543,7 +542,7 @@ msgid "seo_notebookvendoros-footer-application-subcategory"
 msgstr "Subcategoría: <span itemprop='applicationSubCategory'>Portátiles {{VENDOR.NAME}}</span>"
 
 msgid "seo_notebookvendoros-footer-content"
-msgstr "Descarga drivers para portátiles {{VENDOR.NAME}} para Windows {{OS}} gratuitamente, o instala el software DriverPack Solution para la descarga y actualización de drivers automática"
+msgstr "Descarga los drivers para portátiles {{VENDOR.NAME}} para Windows {{OS}} gratuitamente, o instala el software DriverPack Solution para la descarga y actualización de drivers automática"
 
 msgid "seo_hwidos-title"
 msgstr "Descargar driver de {{DEVICE.DEVICEID}} para Windows {{OS}}"
@@ -567,43 +566,43 @@ msgid "seo_hwidos-footer-application-subcategory"
 msgstr "Subcategoría: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}} {{VENDOR.NAME}}</span>"
 
 msgid "seo_hwidos-footer-content"
-msgstr "Descarga driver para el dispositivo {{DEVICE.DEVICEID}} para Windows {{OS}}, o instala el software DriverPack Solution para la descarga i actualización automática de drivers"
+msgstr "Descarga el driver para el dispositivo {{DEVICE.DEVICEID}} para Windows {{OS}}, o instala el software DriverPack Solution para la descarga y actualización automática de drivers"
 
 msgid "seo_notebookdevicesos-title"
 msgstr "Drivers de {{CLASS.SINGLE.FOR}} para portátiles {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} | Descargar para Windows {{OS}}"
 
 msgid "seo_notebookdevicesos-description"
-msgstr "Instala drivers de {{CLASS.SINGLE.FOR}} para portátiles {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} para Windows {{OS}}, o descarga el software DriverPack Solution para la instalación y actualización automática de drivers"
+msgstr "Instala los drivers de {{CLASS.SINGLE.FOR}} para portátiles {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} para Windows {{OS}}, o descarga el software DriverPack Solution para la instalación y actualización automática de drivers"
 
 msgid "seo_notebookdevicesos-h1"
-msgstr "Drivers de {{CLASS.PLURAL.FOR}} para portátiles {{NOTEBOOK.NAME}} de {{NOTEBOOK.VENDOR.NAME}} | Windows {{OS}}"
+msgstr "Drivers para {{CLASS.PLURAL.FOR}} de portátiles{{NOTEBOOK.NAME}} {{NOTEBOOK.VENDOR.NAME}} | Windows {{OS}}"
 
 msgid "seo_notebookdevicesos-keywords"
 msgstr "drivers portátil netbook {{CLASS.PLURAL.MAIN}} Windows {{OS}} descargar {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
 
 msgid "seo_notebookdevicesos-footer-description"
-msgstr "Descargar drivers de {{CLASS.SINGLE.FOR}} para portátiles {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} para Windows {{OS}} gratuitamente"
+msgstr "Descargar drivers para{{CLASS.SINGLE.FOR}} de portátiles {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} para Windows {{OS}} gratuitamente"
 
 msgid "seo_notebookdevicesos-footer-application-category"
-msgstr "<span itemprop='applicationCategory'>Categoría: Portátiles {{NOTEBOOK.NAME}} de {{NOTEBOOK.VENDOR.NAME}}</span>"
+msgstr "<span itemprop='applicationCategory'>Categoría: Portátiles {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}</span>"
 
 msgid "seo_notebookdevicesos-footer-application-subcategory"
-msgstr "Subcategoría: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}} para {{NOTEBOOK.NAME}} de {{NOTEBOOK.VENDOR.NAME}}</span>"
+msgstr "Subcategoría: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}} para  {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}}</span>"
 
 msgid "seo_notebookdevicesos-footer-content"
-msgstr "Descarga drivers de {{CLASS.SINGLE.FOR}} para portátiles {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} (Windows {{OS}}), o descarga el software DriverPack Solution para actualización de drivers"
+msgstr "Descarga los drivers para{{CLASS.SINGLE.FOR}} de portátiles {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} (Windows {{OS}}), o descarga el software DriverPack Solution para actualización de drivers"
 
 msgid "seo_promopage_title"
 msgstr "DriverPack – actualización de drivers gratuita"
 
 msgid "seo_promo-description"
-msgstr "DriverPack Solution te sugiere que instales los drivers para tu dispositivo gratis, o que descargues el software de instalación y actualización de drivers automática"
+msgstr "DriverPack Solution te ofrece la posibilidad de instalar los drivers para tu dispositivo gratis, o descargar el software para la instalación y actualización automática de drivers. "
 
 msgid "seo_promo-keywords"
 msgstr "descargar driver pack drivers windows 7 8 10 64 portátil gratis driver instalador driver programa de instalación"
 
 msgid "seo_promodevice_title"
-msgstr "Descarga drivers para usb, bluetooth, impresoras, Wi-Fi y tarjetas gráficas gratis"
+msgstr "Descargar drivers para usb, bluetooth, impresoras, Wi-Fi y tarjetas gráficas gratis"
 
 msgid "seo_promodevice-description"
 msgstr "DriverPack Solution actualizará tus drivers de usb, bluetooth, impresoras, Wi-Fi y tarjetas gráficas a la última versión"
@@ -612,7 +611,7 @@ msgid "seo_promodevice-keywords"
 msgstr "driver, bluetooth, impresora, tarjeta de sonido, cámara web, mouse, driver de video"
 
 msgid "seo_promovendors_title"
-msgstr "Descarga drivers para Lenovo, Samsung, Acer, Asus y Dell gratis"
+msgstr "Descargar drivers para Lenovo, Samsung, Acer, Asus y Dell gratis"
 
 msgid "seo_promovendors-description"
 msgstr "DriverPack actualizará los drivers de Lenovo, Samsung, Acer, Asus y Dell a la última versión"
@@ -621,7 +620,7 @@ msgid "seo_promovendors-keywords"
 msgstr "driver, dell, samsung, lenovo, asus, acer, toshiba, asus"
 
 msgid "seo_promodrivers_title"
-msgstr "Descarga e instala drivers para Windows 7, 10, XP, 8"
+msgstr "Descargar e instalar drivers para Windows 7, 10, XP, 8"
 
 msgid "seo_promodrivers-description"
 msgstr "DriverPack acualizará drivers de Windows 7, Windows 10, Windows XP, Windows 8 gratis."
@@ -630,19 +629,19 @@ msgid "seo_promodrivers-keywords"
 msgstr "driver windows 7, descargar driver, driver windows 10, actualizar driver, driver windows, drivers gratis"
 
 msgid "seo_forgamers-description"
-msgstr "Instala drivers de tarjeta gráfica para Windows 7, XP, 10, 8 y 8.1, o descarga el software DriverPack Solution para la instalación y actualización automática de drivers"
+msgstr "Instala los drivers para tarjeta gráfica para Windows 7, XP, 10, 8 y 8.1, o descarga el software DriverPack Solution para la instalación y actualización automática de drivers"
 
 msgid "seo_forgamers-keywords"
 msgstr "drivers tarjeta video windows 7 64 8 10 descargar descargar"
 
 msgid "seo_wannacrypt_title"
-msgstr "¿Virus WannaСry - cómo proteger tu ordenador o portátil?"
+msgstr "Virus WannaСry - ¿cómo proteger tu ordenador o portátil?"
 
 msgid "seo_wannacrypt-description"
-msgstr "Descargar protección gratuita contra el virus WannaCry para tu ordenador o portátil"
+msgstr "Descarga la protección gratuita contra el virus WannaCry para tu ordenador o portátil"
 
 msgid "seo_badrabbit_title"
-msgstr "Virus criptográfico Bad Rabbit - сomo proteger tu PC?"
+msgstr "Virus criptográfico Bad Rabbit - ¿сomo proteger tu PC?"
 
 msgid "seo_badrabbit-description"
 msgstr "Descarga la protección gratuita contra el virus Bad Rabbit para tu ordenador y portátil."
@@ -669,196 +668,196 @@ msgid "seo_mainos-content-xp"
 msgstr "Windows XP es un honorado \"veterano\" entre los sistemas operativos de la família Windows NT, publicado el 25 de Octubre de 2001, y es aún uno de los sistemas más populares en el mundo. En torno a un 7% de PCs de todo el mundo aún usan Windows XP, 16 años después de su publicación. Se trata principalmente de máquinas antíguas, o de máquinas de poca eficiencia. Aún cuando el soporte para este SO terminó en 2014, es obvio que se va a seguir usando durante más tiempo. Puedes descargar las versiones más actuales de los drivers para Windows XP ya sea directamente de nuestro catálogo, o descargando el software DriverPack Solution."
 
 msgid "seo_mainos-content-7"
-msgstr "Windows 7 es un sistema operativo de la família Windows NT que salió después de Windows Vista pero antes que Windows 8. Segun los datos en verano de 2017, Windows 7 es el sistema operativo más popular en el mundo. Los datos de Julio de 2017 indican que Windows 7 es usado en el 48,91% de los ordenadores del mundo. Este sistema operativo salió a la venta el 22 de Octubre de 2009, menos de 3 años depués de la problemática salida de Windows Vista. Las imágenes de instalación de la versión definitiva estuvieron disponibles en internet desde el 21 de julio de ese año. Puedes descargar las versiones más actuales de los drivers para Windows 7 desde aquí."
+msgstr "Windows 7 es un sistema operativo de la família Windows NT que salió después de Windows Vista pero antes que Windows 8. Según los datos en verano de 2017, Windows 7 es el sistema operativo más popular en el mundo. Los datos de Julio de 2017 indican que Windows 7 es usado en el 48,91% de los ordenadores del mundo. Este sistema operativo salió a la venta el 22 de Octubre de 2009, menos de 3 años depués de la problemática salida de Windows Vista. Las imágenes de instalación de la versión definitiva estuvieron disponibles en internet desde el 21 de julio de ese año. Puedes descargar las versiones más actuales de los drivers para Windows 7 desde aquí."
 
 msgid "seo_mainos-content-8"
-msgstr "Windows 8 es un sistema operativo de la família Microsoft Windows que se publicó después de Windows 7, y que fue desarrollado por Microsoft Corporation. La versión interna es la 6.2. Windows 8 salió a la venta el 26 de Octubre de 2012. Según los datos en verano de 2017, este sistema operativo se usa en alrededor de un 5% de los ordenadores del mundo. Windows Server 2012 es su versión de servidor. La nueva interfaz Metro se usó en esta versión del SO. La venta de esta versión se detuvo el 12 de Enero de 2016, pero aún puedes descargar las versiones más actuales de drivers para Windows 8 en esta sección."
+msgstr "Windows 8 es un sistema operativo de la família Microsoft Windows que se publicó después de Windows 7, y que fue desarrollado por Microsoft Corporation. La versión interna es la 6.2. Windows 8 salió a la venta el 26 de Octubre de 2012. Según los datos en verano de 2017, este sistema operativo se usa en alrededor de un 5% de los ordenadores del mundo. Windows Server 2012 es su versión de servidor. La nueva interfaz Metro apareció en esta versión del SO. La venta de esta versión se detuvo el 12 de Enero de 2016, pero aún puedes descargar las versiones más actuales de drivers para Windows 8 en esta sección."
 
 msgid "seo_mainos-content-8.1"
-msgstr "El sistema operativo Windows 8.1 (família NT) se publicó después de Windows 8 y estaba principalmente encara a estaciones de trabajo, PCs y dispositivos móviles. Windows Server 2012 R2 es su versión de servidor Windows 8.1. Este sistema operativo difiere de Windows 8 en algunos cambios relativos a la interacción con la interfaz de usuario. Windows 8.1 también está encarado a su uso con dispositivos táctiles. Según los datos en verano de 2017, el 6,48% de ordenadores en el mundo usan este SO. Puedes descargar las versiones más recientes de drivers para Windows 8.1 desde este catálogo."
+msgstr "El sistema operativo Windows 8.1 (família NT) se publicó después de Windows 8 y estaba principalmente encarado a estaciones de trabajo, PCs y dispositivos móviles. Windows Server 2012 R2 es la versión de servidor de Windows 8.1. Este sistema operativo difiere de Windows 8 en algunos cambios relativos a la interacción con la interfaz de usuario. Windows 8.1 también está encarado a su uso con dispositivos táctiles. Según los datos en verano de 2017, el 6,48% de ordenadores en el mundo usan este SO. Puedes descargar las versiones más recientes de drivers para Windows 8.1 desde este catálogo."
 
 msgid "seo_mainos-content-10"
-msgstr "Se suponía que el sistema operativo Windows 10 íba a ser un SO universal para PCs, smartphones, tablets y hasta la consola de videojuegos Xbox One. Se publicó después de Windows 8.1 y pertence a la família NT. En la actualidad, un 27% de todos los dispositivos en el mundo operan con Windows 10, y cualquiera pudo actualizar las versiones con licencia de Windows 7, Windows 8.1 y Windows Phone 8.1 a Windows 10 de forma gratuita durante sus primeros 6 meses de existencia. Puedes descargar los drivers para todos los dispositivos soportados en Windows 10 desde el catálogo de DriverPack Solution. La diferencia de Windows 10 respecto a sus predecesores es que tiene una opción para crear múltiples escritorios, además de incorporar el asistente de voz Cortana."
+msgstr "Se suponía que el sistema operativo Windows 10 íba a ser un SO universal para PCs, smartphones, tablets y hasta la consola de videojuegos Xbox One. Se publicó después de Windows 8.1 y pertence a la família NT. En la actualidad, un 27% de todos los dispositivos en el mundo operan con Windows 10, y los usuarios con licencia de Windows 7, Windows 8.1 y Windows Phone 8.1  pudieron actualizar a Windows 10 de forma gratuita durante sus primeros 6 meses de existencia. Puedes descargar los drivers para todos los dispositivos soportados en Windows 10 desde el catálogo de DriverPack Solution. La diferencia de Windows 10 respecto a sus predecesores es que tiene una opción para crear múltiples escritorios, además de incorporar el asistente de voz Cortana."
 
 msgid "seo_deviceclass-footer-content-bluetooth"
-msgstr "En esta sección se pueden descarbar los drivers para Bluetooth de todas las versiones del sistema operativo Windows. Tanto los drivers de los fabricantes famosos (como Hewlett Packard, Qcom, and Celink) como los de los poco conocidos estan disponibles. Así pues, puedes descargar drivers para Bluetooth de más de 90 fabricantes desde este catálogo.<br/>Si no has podido encontrar el que necesitas, instala nuestro software DriverPack Solution para la actualización automática - es completamente gratuito!"
+msgstr "En esta sección se pueden descargar los drivers para Bluetooth de todas las versiones del sistema operativo Windows. Tanto los drivers de los fabricantes famosos (como Hewlett Packard, Qcom, and Celink) como los de los poco conocidos estan disponibles. Así pues, puedes descargar drivers para Bluetooth de más de 90 fabricantes desde este catálogo.<br/>Si no has podido encontrar el que necesitas, instala nuestro software DriverPack Solution para la actualización automática - ¡es completamente gratuito!"
 
 msgid "seo_deviceclass-footer-content-cardreader"
 msgstr "Los lectores de tarjetas son dispositivos para leer la información de una tarjeta de memoria. Si necesitas mover ficheros de la cámara de vídeo o de fotos a tu ordenador, este dispositivo te será útil. Los drivers para lectores de tarjeta estan disponibles en esta sección. Encontrarás, los drivers de más de 50 fabricantes para todas las versiones de Windows."
 
 msgid "seo_deviceclass-footer-content-chipset"
-msgstr "Esta sección incluye drivers para los chipsets de los principales fabricantes de este tipo de hardware, como Exar y Prolific. Los drivers de chipsets para todas las versiones de windows en uso como Windows XP, Windows 7, 8, 8.1 y 10 tanto en 64 como en 86 bits están aquí, e incluso dispones de drivers de chipset para Windows Vista, aún cuando este no es un sistema operativo muy polular."
+msgstr "Esta sección incluye drivers para los chipsets de los principales fabricantes de este tipo de hardware, como Exar y Prolific. Los drivers de chipsets para todas las versiones de windows en uso como Windows XP, Windows 7, 8, 8.1 y 10 tanto en x64 como en x86 están aquí, e incluso dispones de drivers de chipset para Windows Vista, aún cuando este no es un sistema operativo muy popular."
 
 msgid "seo_deviceclass-footer-content-inputdev"
-msgstr "Dado que hay una gran variedad de dispositivos de entrada (ratones, teclados, mandos de juegos, etc.) y de fabricantes, puede ser complicado seleccionar el driver adecuado. Solucionamos ese problema para ti; en esta sección puedes seleccionar y descargar los drivers para dispositivos de entrada de forma completamente gratuita."
+msgstr "Dado que hay una gran variedad de dispositivos de entrada (ratones, teclados, mandos de juegos, etc.) y de fabricantes, puede ser complicado seleccionar el driver adecuado. Te solucionamos ese problema - en esta sección puedes seleccionar y descargar los drivers para dispositivos de entrada de forma completamente gratuita."
 
 msgid "seo_deviceclass-footer-content-lan"
-msgstr "Sin una correcta selección del driver de tarjeta de red, un acceso correcto a internet sería difícil, si no impossible. Esta sección de nuestra página web te ayudará a seleccionar el adecuado para tu configuración de hardware de red, sin importar cual sea el fabricante - los drivers de más de 80 fabricantes de hardware de red estan disponibles aquí, para cada una de las versiones de Windows en uso actualmente."
+msgstr "Sin el driver adecuado para la tarjeta de red, un acceso correcto a internet sería difícil, si no impossible. Esta sección de nuestra página web te ayudará a seleccionar el adecuado para tu configuración de hardware de red, sin importar cual sea el fabricante - los drivers de más de 80 fabricantes de hardware de red estan disponibles aquí, para cada una de las versiones de Windows en uso actualmente."
 
 msgid "seo_deviceclass-footer-content-massstorage"
-msgstr "En esta sección puedes descargar drivers de controlador para todas las versiones de Windows en uso, de forma completamente gratuita. No puede encontrar el driver que necesitas? Usa nuestro software DriverPack Solution para la búsqueda e instalación de drivers - es completamente gratuito y lo se encagará de todo por ti!"
+msgstr "En esta sección puedes descargar drivers de controlador para todas las versiones de Windows en uso, de forma completamente gratuita. ¿No puedes encontrar el driver que necesitas? Usa nuestro software DriverPack Solution para la búsqueda e instalación de drivers - ¡es completamente gratuito y lo se encagará de todo por ti!"
 
 msgid "seo_deviceclass-footer-content-modem"
 msgstr "En esta sección puedes encontrar y descargar los drivers para modem para todas las versiones de Windows disponibles, de los principales fabricantes de este tipo de hardware y otros. Los drivers de fabricantes como Smartlink, AVM, Agere y otros 50 más estan disponibles aquí."
 
 msgid "seo_deviceclass-footer-content-monitor"
-msgstr "Normalmente, los drivers para monitores se encuentran en el CD proporcionado con la nueva pantala, pero la situación puede ser diferente si tu monitor es de segunda mano. Por eso aún si tu monitor parece funcionar correctamente, el sistema puede que no lo identifique correctamente. En este caso, siempre puedes acceder a esta sección de nuestra web - aquí encontrarás las versiones más actuales de los drivers para monitoroes para todas las versiones de Windows disponibles actualmente."
+msgstr "Normalmente, los drivers para monitores se encuentran en el CD proporcionado con la nueva pantalla, pero la situación puede ser diferente si tu monitor es de segunda mano. Por eso aún si tu monitor parece funcionar correctamente, el sistema puede que no lo identifique correctamente. En este caso, siempre puedes acceder a esta sección de nuestra web - aquí encontrarás las versiones más actuales de los drivers para monitores para todas las versiones de Windows disponibles actualmente."
 
 msgid "seo_deviceclass-footer-content-tvtuner"
-msgstr "Necesitas descargar el driver para una tarjeta sintonizadora de TV? Entonces estás en la sección adecuada - aquí puedes descargar e instalar los drivers más actuales para sintonizadoras de TV para todas las versiones de Windows en uso actualmente."
+msgstr "¿Necesitas descargar el driver para una tarjeta sintonizadora de TV? Entonces estás en la sección adecuada - aquí puedes descargar e instalar los drivers más actuales para sintonizadoras de TV para todas las versiones de Windows en uso actualmente."
 
 msgid "seo_deviceclass-footer-content-sound"
-msgstr "No tienes sonido en el ordenador? Cuanto hace que no actualizas los drivers de sonido? Descarga los drivers de tarjetas de sonido más actuales desde esta sección de nuestra web, o instala el software gratuito DriverPack Solution para la actualización de drivers - se encargará de los problemas de los drivers de tu tarjeta de sonido por ti."
+msgstr "¿No tienes sonido en el ordenador? ¿Cuanto hace que no actualizas los drivers de sonido? Descarga los drivers de tarjetas de sonido más actuales desde esta sección de nuestra web, o instala el software gratuito DriverPack Solution para la actualización de drivers - ¡se encargará de los problemas de los drivers de tu tarjeta de sonido por ti."
 
 msgid "seo_deviceclass-footer-content-video"
-msgstr "Un juego no funciona bien? Se ve la imagen con fallos? Entonces te recomendamos que descargues los drivers para la tarjeta gráfica desde nuestra web - generalmente este problema está relacionado con ellos. Los drivers de 43 fabricantes estan incluidos en esta sección. Puedes seleccionar fácilmente el driver para cualquier version de Windows en uso actualmente."
+msgstr "¿Un juego no funciona bien? ¿Se ve la imagen con fallos? Entonces te recomendamos que descargues los drivers para la tarjeta gráfica desde nuestra web - generalmente este problema está relacionado con ellos. Los drivers de 43 fabricantes estan incluidos en esta sección. Puedes seleccionar fácilmente el driver para cualquier version de Windows en uso actualmente."
 
 msgid "seo_deviceclass-footer-content-wifi"
-msgstr "En esta sección puedes descargar drivers para la tarjeta Wi-Fi tanto para el estandar 802.11n como el 802.11g para todas las versiones avanzadas de Windows. Los drivers de las últimas configuraciones, repetidamente verificados por nuestros expertos, estan disponibles aquí."
+msgstr "En esta sección puedes descargar drivers para la tarjeta Wi-Fi tanto para el estandar 802.11n como el 802.11g para todas las versiones avanzadas de Windows. Los drivers de las últimas configuraciones, continuamente verificados por nuestros expertos, estan disponibles aquí."
 
 msgid "seo_deviceclass-footer-content-phone"
-msgstr "Necesitas los drivers para un teléfono o smartphone? Sin problemas - en esta sección podrás descargar e instalar los drivers de casi cualquier modelo de smartphone y de los fabricantes más comunes del mercado actual. Nuestros drivers estan verificados y son fiables!"
+msgstr "¿Necesitas los drivers para un teléfono o smartphone? Sin problemas - en esta sección podrás descargar e instalar los drivers de casi cualquier modelo de smartphone y de los fabricantes más comunes del mercado actual. ¡Nuestros drivers estan verificados y son fiables!"
 
 msgid "seo_notebookvendor-footer-content-asus"
-msgstr "Los más recientes y fiables drives para portátiles Asus y para todas las versiones de Windows en uso actualmente (Windows XP, Windows 7, 8, 8.1 y 10) estan disponibles en nuestro catálogo."
+msgstr "Los drivers más recientes y fiables para portátiles Asus y para todas las versiones de Windows en uso actualmente (Windows XP, Windows 7, 8, 8.1 y 10) están disponibles en nuestro catálogo."
 
 msgid "seo_notebookvendor-footer-content-lg"
 msgstr "Todos los drivers más actuales para portátiles LG para todas las versiones de Windows en uso actualmente están disponibles en esta sección. Tambien puedes usar nuestro software DriverPack Solution para la instalación automática de drivers."
 
 msgid "seo_notebookvendor-footer-content-sony"
-msgstr "Has comprado un nuevo portátil de Sony y te has encontrado con problemas al usarlo? En esta sección puedes descargar los drivers más actualizados para portátiles Sony compatibles con tu Sistema Operativo. Los drivers para portátiles Sony Vaio adecuados para más de 200 modelos de este fabricante están disponibles aquí."
+msgstr "¿Has comprado un nuevo portátil de Sony y te has encontrado con problemas al usarlo? En esta sección puedes descargar los drivers más actualizados para portátiles Sony compatibles con tu Sistema Operativo. Los drivers para portátiles Sony Vaio adecuados para más de 200 modelos de este fabricante están disponibles aquí."
 
 msgid "seo_notebookvendor-footer-content-lenovo"
 msgstr "Los drivers para portátiles Lenovo pueden descargarse de esta sección de nuestra web - los drivers para todos los modelos populares y no tan populares de este fabricante (Ideapad, Thinkpad, etc.) están disponibles aquí. En nuesta web puedes encontras los drivers que correspondan exactamente con la versión de tu sistema operativo Windows."
 
 msgid "seo_notebookvendor-footer-content-samsung"
-msgstr "Has comprado un portátil Samsung y ahora necesitas sus drivers? Todos los drivers más actuales para portátiles Samsung para todas las versiones de Windows en uso actualmente están disponibles aquí. En nuestro catálogo hay drivers para más de 100 modelos de portátil y netbook de este fabricante, y la lista crece cada día."
+msgstr "¿Has comprado un portátil Samsung y ahora necesitas sus drivers? Todos los drivers más actuales para portátiles Samsung para todas las versiones de Windows en uso actualmente están disponibles aquí. En nuestro catálogo hay drivers para más de 100 modelos de portátil y netbook de este fabricante, y la lista crece cada día."
 
 msgid "seo_notebookvendor-footer-content-msi"
-msgstr "Aquí puedes encontrar y descargar los drivers para tu modelo de portátil MSI para cualquier versión de Windows en uso actualmente (incluyendo una versión tan poco habitual hoy en día como Vista). Si no has podido encontrar el driver que necesitas en nuestro catálogo, descarga nuestro software DriverPack Solution para la busqueda e instalación automática de drivers - es completamente gratuito!"
+msgstr "Aquí puedes encontrar y descargar los drivers para tu modelo de portátil MSI para cualquier versión de Windows en uso actualmente (incluyendo una versión tan poco habitual hoy en día como Vista). Si no has podido encontrar el driver que necesitas en nuestro catálogo, descarga nuestro software DriverPack Solution para la busqueda e instalación automática de drivers - ¡es completamente gratuito!"
 
 msgid "seo_notebookvendor-footer-content-toshiba"
 msgstr "En esta sección puedes descargar los drivers para portátiles Toshiba para absolutamente todas las versiones de Windows en uso actualmente. Más de 300 modelos de portátiles de este fabricante están disponibles en nuestro catálogo, y esta lista se incrementa a diario."
 
 msgid "seo_deviceclass-footer-content-video-amd"
-msgstr "Tienes un juego que no funciona en una tarjeta gráfica AMD? En esta sección puedes actualizar los drives de tarjetas gráficas AMD Radeon con la versión más reciente. Aquí puedes descargar los drivers para tarjetas gráficas AMD Radeon (incluyendo las de la serie AMD Radeon HD) para todas las versiones de Windows que existen ahora."
+msgstr "¿Tienes un juego que no funciona en una tarjeta gráfica AMD? En esta sección puedes actualizar los drives para tarjetas gráficas AMD Radeon con la versión más reciente. Aquí puedes descargar los drivers para tarjetas gráficas AMD Radeon (incluyendo las de la serie AMD Radeon HD) para todas las versiones de Windows en uso actualmente."
 
 msgid "seo_deviceclass-footer-content-video-nvidia"
-msgstr "Tienes un juego que no funciona bien? Puede que el problema sea debido a los drivers de tu tarjeta gráfica. Prueba a actualizar los drivers de la tarjeta gráfica Nvidia descargando la última versión en nuestra web. Aquí también podrás descargar los drivers para las tarjetas de video Nvidia Geforce incluyendo las últimas series para todas las versiones de Windows en uso actualmente, completemente gratis."
+msgstr "¿Tienes un juego que no funciona bien? Puede que el problema sea debido a los drivers de tu tarjeta gráfica. Prueba a actualizar los drivers de la tarjeta gráfica Nvidia descargando la última versión en nuestra web. Aquí también podrás descargar los drivers para las tarjetas gráficas Nvidia Geforce incluyendo las últimas series para todas las versiones de Windows en uso actualmente, completemente gratis."
 
 msgid "seo_deviceclass-footer-content-video-intel"
-msgstr "Necesitas los drivers para tarjetas gráficas Intel HD Graphics? En esta sección puedes descargar los drivers para esta serie de tarjetas gráficas completamente gratis. Si no has podido encontrar y descargar el driver, usa nuestro software gratuito DriverPack Solution para la búsqueda y actualización de drivers - se encargará de todo por ti!"
+msgstr "¿Necesitas los drivers para tarjetas gráficas Intel HD Graphics? En esta sección puedes descargar los drivers para esta serie de tarjetas gráficas completamente gratis. Si no has podido encontrar y descargar el driver, usa nuestro software gratuito DriverPack Solution para la búsqueda y actualización de drivers - ¡se encargará de todo por ti!"
 
 msgid "seo_deviceclass-footer-content-chipset-intel"
-msgstr "Tienes alguna pregunta acerca de como instalar los drivers para chipset Intel en tu ordenador? En esta sección puedes encontrar y descargar el driver para chipset Inten sin problemas."
+msgstr "¿Tienes alguna pregunta acerca de como instalar los drivers para el chipset Intel en tu ordenador? En esta sección puedes encontrar y descargar el driver para chipset Intel sin problemas."
 
 msgid "seo_deviceclass-footer-content-chipset-asus"
-msgstr "En esta seccióin puedes descargar el driver para el chipset Asus completamente gratis. Los drives para chipset Asus para todas las versiones de Windows ( 7, 8.1, etc.) en uso actualmente estan disponibles aquí."
+msgstr "En esta sección puedes descargar el driver para el chipset Asus completamente gratis. Los drives para el chipset Asus para todas las versiones de Windows ( 7, 8.1, etc.) en uso actualmente estan disponibles aquí."
 
 msgid "seo_deviceclass-footer-content-chipset-amd"
 msgstr "En esta sección te sugerimos que descargues el driver para chipset AMD absolutamente gratis. Encontrarás versiones del driver para chipset AMD para todas las versiones de Windows en uso, incluyendo Windows 7, Windows 10, Windows 8.1, etc."
 
 msgid "seo_deviceclass-footer-content-sound-msi"
-msgstr "Tienes algun problema con el funcionamiento de la tarjeta de sonido de la compañía Msi? Entonces te sugerimos actualizar los drivers - a menudo el problema está en tener una versión desactualizada del driver. En esta sección puedes encontrar y descargar el driver para la tarjeta de sonido Msi completamente gratis, para todas las versiones de Windows en uso actualmente."
+msgstr "¿Tienes algun problema con el funcionamiento de la tarjeta de sonido de la compañía Msi? Entonces te sugerimos actualizar los drivers - a menudo el problema está en tener una versión desactualizada del driver. En esta sección puedes encontrar y descargar el driver para la tarjeta de sonido Msi completamente gratis, para todas las versiones de Windows en uso actualmente."
 
 msgid "seo_deviceclass-footer-content-monitor-acer"
-msgstr "Tienes alguna pregunta sobre como instalar el driver para el monitor Acer? En esta sección puedes encontrar el driver más reciente para el monitor acer para todas las versiones de Windows en uso actualmente. Puedes actualizar los drivers para el monitor Acer de forma automática usando nuestro software gratuito DriverPack Solution."
+msgstr "¿Tienes alguna pregunta sobre cómo instalar el driver para el monitor Acer? En esta sección puedes encontrar el driver más reciente para el monitor Acer para todas las versiones de Windows en uso actualmente. Puedes actualizar los drivers para el monitor Acer de forma automática usando nuestro software gratuito DriverPack Solution."
 
 msgid "seo_deviceclass-footer-content-monitor-asus"
-msgstr "Tienes problemas con un monitor de la compañía Asus? Entonces el problema puede que sea el driver del monitor. Consulta nuestro catálogo donde podrás encontrar y descargar el driver para monitor Asus de cualquier modelo en que estés interesado."
+msgstr "¿Tienes problemas con un monitor de la compañía Asus? Entonces el problema puede que sea el driver del monitor. Consulta nuestro catálogo donde podrás encontrar y descargar el driver para monitores Asus de cualquier modelo en que estés interesado."
 
 msgid "seo_deviceclass-footer-content-monitor-benq"
-msgstr "Tienes problemeas con el funcionamiento de tu monitor? Necesitas descargar los drivers para el monitor Benq? En nuestro catálogo encontrarás los últimos drivers para todos los modelos de monitores BenQ. Si no has podido encontrar el driver necesario para tu modelo, no te preocupes. Usa nuestro software DriverPack Solution para búsqueda y actualización de drivers - encontrará el driver necesario de forma automática, sin que tengas que hacer nada!"
+msgstr "Tienes problemeas con el funcionamiento de tu monitor? ¿Necesitas descargar los drivers para el monitor Benq? En nuestro catálogo encontrarás los últimos drivers para todos los modelos de monitores BenQ. Si no has podido encontrar el driver necesario para tu modelo, no te preocupes. Usa nuestro software DriverPack Solution para búsqueda y actualización de drivers - ¡encontrará el driver necesario de forma automática, sin que tengas que hacer nada!"
 
 msgid "seo_deviceclass-footer-content-monitor-compaq"
-msgstr "Necesitas los drivers para el monitor Compaq? Te sugerimos que descargues los drivers para el monitor Compaq desde nuestro catálogo completamente gratis y sin necesidad de registrarte. También puedes usar nuestro software DriverPack Solution para la búsqueda y actualización de drivers. Seleccionará el driver más reciente para tu monitor de forma automática."
+msgstr "¿Necesitas los drivers para el monitor Compaq? Te sugerimos que descargues los drivers para el monitor Compaq desde nuestro catálogo completamente gratis y sin necesidad de registrarte. También puedes usar nuestro software DriverPack Solution para la búsqueda y actualización de drivers. Seleccionará el driver más reciente para tu monitor de forma automática."
 
 msgid "seo_deviceclass-footer-content-monitor-dell"
-msgstr "Te has encontrado con algun problema con tu monitor Dell? Te aparecen defectos gráficos en la pantalla? Es posible que el problema sea debido a unos drivers desactualizados. Puedes descargar el driver más reciente para el monitor Dell para todas las versiones de Windows desde nuestro catálogo."
+msgstr "¿Te has encontrado con algun problema con tu monitor Dell? ¿Te aparecen defectos gráficos en la pantalla? Es posible que el problema sea debido a unos drivers desactualizados. Puedes descargar el driver más reciente para el monitor Dell para todas las versiones de Windows desde nuestro catálogo."
 
 msgid "seo_deviceclass-footer-content-monitor-hp"
-msgstr "Necesitas descargar el driver para el monitor HP? En esta sección encontrarás los drivers más recientes para monitores HP para las últimas versiones de Windows. Todos los drivers de esta sección han sido seleccionados y verificados por nuestros expertos respecto a su funcionamiento y seguridad."
+msgstr "¿Necesitas descargar el driver para el monitor HP? En esta sección encontrarás los drivers más recientes para monitores HP para las últimas versiones de Windows. Todos los drivers de esta sección han sido seleccionados y verificados por nuestros expertos respecto a su funcionamiento y seguridad."
 
 msgid "seo_deviceclass-footer-content-monitor-lg"
-msgstr "Tienes desactualizado el driver de tu monitor LG? Te aparecen algunos defectos en la imágen o el monitor no quiere funcionar? Consulta nuestro gran catálogo donde podrás descargar el driver para monitores LG Flatron sin ningún tipo de problema o dificultad!"
+msgstr "¿Tienes desactualizado el driver de tu monitor LG? ¿Te aparecen algunos defectos en la imágen o el monitor no quiere funcionar? Consulta nuestro gran catálogo donde podrás descargar el driver para monitores LG Flatron, ¡sin ningún tipo de problema o dificultad!"
 
 msgid "seo_deviceclass-footer-content-monitor-panasonic"
-msgstr "Tienes problemas usando un monitor de la compañía Panasonic? El problema puede estar en los drivers. En nuestro catálogo puedes descargar los drivers para monitores Panasonic completamente gratis i sin problemas añadidos!"
+msgstr "¿Tienes problemas usando un monitor de la compañía Panasonic? El problema puede estar en los drivers. En nuestro catálogo puedes descargar los drivers para monitores Panasonic completamente gratis y sin problemas añadidos!"
 
 msgid "seo_deviceclass-footer-content-monitor-samsung"
 msgstr "En esta sección puedes descargar el driver para los monitores Samsung Syncmaster gratuitamente. Los drivers para las últimas versiones de Windows estan disponibles aquí. Si por algún motivo no has podido encontrar el driver que necesitas, usa nuestro software DriverPack Solution. Es gratuito y se encargará de todo automáticamente."
 
 msgid "seo_deviceclass-footer-content-monitor-sony"
-msgstr "Aquí puedes descargar los últimos drivers para monitores Sony para todas las versiones actuales de Windows. No quieres buscar el driver necesario por ti mismo? Entonces descarga nuestro software DriverPack Solution para la búsqueda y actualización de drivers. Se encagará de todo automáticamente!"
+msgstr "Aquí puedes descargar los últimos drivers para monitores Sony para todas las versiones actuales de Windows. ¿No quieres buscar el driver necesario por ti mismo? Entonces descarga nuestro software DriverPack Solution para la búsqueda y actualización de drivers. ¡Se encagará de todo automáticamente!"
 
 msgid "seo_deviceclass-footer-content-monitor-viewsonic"
-msgstr "En esta sección puedes descargar drivers para todos los modelos del monitor Viewsonic de forma completamente gratuita y sin necesidad de registrarte. Los drivers para todas las versiones avanzadas de Windows se encuentran en nuestro catálogo."
+msgstr "En esta sección puedes descargar los drivers para todos los modelos de monitor Viewsonic de forma completamente gratuita y sin necesidad de registrarte. Los drivers para todas las versiones avanzadas de Windows se encuentran en nuestro catálogo."
 
 msgid "seo_deviceclass-footer-content-monitor-sharp"
-msgstr "Te has encontrado con problemas al usar un monitor de la compañía Sharp? Puede que el problema sea unos drivers desactualizados. Descarga el driver desde nuestro catalogo tu mismo, o bien usa nuestro software DriverPack Solution. Se encargará de todo por ti rápidamente y sin problemas! Todos nuestros drivers estan verificados tanto a funcionamiento como seguridad!"
+msgstr "¿Te has encontrado con problemas al usar un monitor de la compañía Sharp? Puede que el problema sea unos drivers desactualizados. Descarga el driver desde nuestro catalogo tu mismo, o bien usa nuestro software DriverPack Solution. ¡Se encargará de todo por ti rápidamente y sin problemas! ¡Todos nuestros drivers estan verificados para funcionamiento y seguridad!"
 
 msgid "seo_deviceclass-footer-content-monitor-philips"
-msgstr "No sabes donde descargar el driver para el monitor Phillips? En esta sección encontrarás todos los drivers más recientes para monitores Phillips para todas las versiones de Windows. Si por algún motivo no has podido encontrar el driver por ti mismo, usa nuestro software DriverPack Solution. Es absolutamente gratuito y seleccionará el driver que necesitas al momento."
+msgstr "¿No sabes donde descargar el driver para el monitor Phillips? En esta sección encontrarás todos los drivers más recientes para monitores Phillips para todas las versiones de Windows. Si por algún motivo no has podido encontrar el driver por ti mismo, usa nuestro software DriverPack Solution. Es absolutamente gratuito y seleccionará el driver que necesites al momento."
 
 msgid "seo_deviceclass-footer-content-modem-d-link"
-msgstr "En esta sección puedes descargar el driver para modems d-link para todas las versiones de Windows en uso. Nuestro catálogo está ordenado de forma simple y es fácil de entender, así que te será facil encontrar el driver que necesitas."
+msgstr "En esta sección puedes descargar el driver para modems D-link para todas las versiones de Windows en uso. Nuestro catálogo está ordenado de forma simple y es fácil de entender, así que te será facil encontrar el driver que necesitas."
 
 msgid "seo_deviceclass-footer-content-tvtuner-avermedia"
-msgstr "Tienes algún problema para usar tu tarjeta sintonizadora de TV de Avermedia? Es bastante probable que el problema sean unos drivers desactualizados. En esta sección podrás descargar el driver para tarjetas de TV Avermedia desde nuestro catálogo útil y claro de forma gratuita."
+msgstr "¿Tienes algún problema para usar tu tarjeta sintonizadora de TV de Avermedia? Es bastante probable que el problema sean unos drivers desactualizados. En esta sección podrás descargar el driver para tarjetas de TV Avermedia desde nuestro catálogo útil y claro de forma gratuita."
 
 msgid "seo_deviceclass-footer-content-tvtuner-beholder"
-msgstr "Hay algun problema con tu tarjeta sintonizadora de TV de la compañía Beholder? El problema probablemente se solucionen actualizando los drivers a la versión más reciente. Puedes descargar los drivers para la tarjeta de TV Beholder rápida, facilmente, y completamente gratis!"
+msgstr "¿Hay algun problema con tu tarjeta sintonizadora de TV de la compañía Beholder? El problema probablemente se solucione actualizando los drivers a la versión más reciente. Puedes descargar los drivers para la tarjeta de TV Beholder rápida, facilmente, ¡y completamente gratis!"
 
 msgid "seo_deviceclass-footer-content-tvtuner-pinnacle"
-msgstr "Necesitas los drivers para la tarjeta sintonizadora de TV Pinnacle? En este catalogo puedes encontrar fácilmente los drivers para la tarjeta de TV Pinnacle y descargarlos de forma gratuita."
+msgstr "¿Necesitas los drivers para la tarjeta sintonizadora de TV Pinnacle? En este catalogo puedes encontrar fácilmente los drivers para la tarjeta de TV Pinnacle y descargarlos de forma gratuita."
 
 msgid "seo_deviceclass-footer-content-tvtuner-philips"
-msgstr "Te has encontrado con problemas al usar tu tarjeta sintonizadora de TV de Phillips? Puede que el problema sea debido a tener los drivers desactualizados. Aquí puedes descargar los drivers para las tarjetas sintonizadoras de TV Pillips para todas las versiones de Windows en uso actualmente. O puedes installar el software DriverPack Solution. Es gratuito y se encargará de todo por ti."
+msgstr "¿Te has encontrado con problemas al usar tu tarjeta sintonizadora de TV de Phillips? Puede que el problema sea debido a tener los drivers desactualizados. Aquí puedes descargar los drivers para las tarjetas sintonizadoras de TV Pillips para todas las versiones de Windows en uso actualmente. O puedes instalar el software DriverPack Solution. Es gratuito y se encargará de todo por ti."
 
 msgid "seo_deviceclass-footer-content-tvtuner-kworld"
-msgstr "Necesitas descargar los drivers para una tarjeta sintonizadora de TV de Kworld pero no sabes de donde? Entonces estás en el sitio adecuado! Aquí puedes descargar los drivers más recientes para tarjetas sintonizadoras de TV Kworld para todas las versiones de Windows."
+msgstr "¿Necesitas descargar los drivers para la tarjeta sintonizadora de TV de Kworld pero no sabes de donde? ¡Entonces estás en el sitio adecuado! Aquí puedes descargar los drivers más recientes para las tarjetas sintonizadoras de TV Kworld para todas las versiones de Windows."
 
 msgid "seo_deviceclass-footer-content-tvtuner-compro"
-msgstr "En esta sección puedes <b>descargar el driver para tarjetas sintonizadoras de TV Compro</b>  para todas las versiones de Windows absolutamente gratis. Todos los drivers de nuestro catálogo han sido verificado por expertos para su funcionamiento y seguridad. No has encontrado lo que necesitabas? Descarga el software DriverPack Solution. Se encargará de todo automáticamente, de forma rápida y sin problemas."
+msgstr "En esta sección puedes <b>descargar el driver para tarjetas sintonizadoras de TV Compro</b>  para todas las versiones de Windows absolutamente gratis. Todos los drivers de nuestro catálogo han sido verificados por expertos para su funcionamiento y seguridad. ¿No has encontrado lo que necesitabas? Descarga el software DriverPack Solution. Se encargará de todo automáticamente, de forma rápida y sin problemas."
 
 msgid "seo_deviceclass-footer-content-phone-htc"
-msgstr "Tienes problemas al usar tu móvil de la marca HTC? No puedes conectar el smartphone al ordenador? En esta sección puedes descargar los drivers para el teléfono móvil HTC. Encontrarás los drives más recientes para los teléfonos HTC."
+msgstr "¿Tienes problemas al usar tu móvil de la marca HTC? ¿No puedes conectar el smartphone al ordenador? En esta sección puedes descargar los drivers para el teléfono móvil HTC. Encontrarás los drives más recientes para los móviles HTC."
 
 msgid "seo_deviceclass-footer-content-phone-huawei"
-msgstr "No sabes de donde descargar los drivers para tu móvil Huawei? En esta sección encontrarás los drivers para varios modelos de móviles Huawei. Todos nuestros drivers han sido verificados para su funcionamiento y seguridad!"
+msgstr "¿No sabes de donde descargar los drivers para tu móvil Huawei? En esta sección encontrarás los drivers para varios modelos de móviles Huawei. ¡Todos nuestros drivers han sido verificados para su funcionamiento y seguridad!"
 
 msgid "seo_deviceclass-footer-content-phone-nokia"
-msgstr "En esta seccíon puedes encontrar los drivers para móviles Nokia completamente gratis y sin registrarte. Los drives de varios modelos de móviles Nokia estan disponibles. Además, todos nuestros drivers han sido verificados por expertos para su funcionamiento y seguridad."
+msgstr "En esta sección puedes encontrar los drivers para móviles Nokia completamente gratis y sin registrarte. Los drives de varios modelos de móviles Nokia están disponibles. Además, todos nuestros drivers han sido verificados por expertos para su funcionamiento y seguridad."
 
 msgid "seo_devicegroup-footer-content-video-nvidia-nvidia-geforce-9600-gt"
-msgstr "Necesitas los drives para la tarjeta gráfica Nvidia Geforce 9600 GT? Estás en el lugar adecuado! En esta seccíon puedes descargar los drivers para la tarjeta gráfica Nvidia Geforce 9600 GT para todas las versiones de Windows en uso actualmente."
+msgstr "¿Necesitas los drives para la tarjeta gráfica Nvidia Geforce 9600 GT? ¡Estás en el lugar adecuado! En esta sección puedes descargar los drivers para la tarjeta gráfica Nvidia Geforce 9600 GT para todas las versiones de Windows en uso actualmente."
 
 msgid "seo_devicegroup-footer-content-monitor-samsung-syncmaster-740n-179n-syncmaster-magic-cx721n-cx714n"
-msgstr "Tienes problemas para conectar un monitor Samsung Syncmaster 740n al ordenador? Aparecen distintos errores gráficos en la pantalla al mostrar información? En esta sección puedes encontrar y descargar el driver más reciente para este monitor para todas las versiones de Windows en uso actualmente."
+msgstr "¿Tienes problemas para conectar un monitor Samsung Syncmaster 740n al ordenador? ¿Aparecen distintos errores gráficos en la pantalla al mostrar información? En esta sección puedes encontrar y descargar el driver más reciente para este monitor para todas las versiones de Windows en uso actualmente."
 
 msgid "seo_notebook-footer-content-acer-aspire-5560g"
-msgstr "En esta sección puedes descargar los drivers para el portátil Acer Aspire 5560g para Windows XP, 7, 8, 8.1 y 10. Todos los drivers han sido verificados por nuestros expertos para su funcionamiento y seguridad. Si no puedes encontrar el driver que necesitas por ti mismo, usa nuestro software DriverPack Solution. Es completamente gratuito y se encargará de todo por ti!"
+msgstr "En esta sección puedes descargar los drivers para el portátil Acer Aspire 5560g para Windows XP, 7, 8, 8.1 y 10. Todos los drivers han sido verificados por nuestros expertos para su funcionamiento y seguridad. Si no puedes encontrar el driver que necesitas por ti mismo, usa nuestro software DriverPack Solution. ¡Es completamente gratuito y se encargará de todo por ti!"
 
 msgid "seo_notebook-footer-content-aspire-5750g"
-msgstr "Necesitas descargar los drivers para el portátil Acer Aspire 5750g? Encontrarás los driver para Windows XP, 7, 8, 8.1 y 10 en esta sección. Nuestros drivers han sido comprobados con un antivirus y son 100% seguros. No quieres buscar el driver que necesitas por ti mismo? Entonces descarga nuestro software DriverPack Solution. Es gratuito y es capaz de seleccionar todo lo que necesitas automáticamente."
+msgstr "¿Necesitas descargar los drivers para el portátil Acer Aspire 5750g? Encontrarás los driver para Windows XP, 7, 8, 8.1 y 10 en esta sección. Nuestros drivers han sido comprobados con un antivirus y son 100% seguros. ¿No quieres buscar el driver que necesitas por ti mismo? Entonces descarga nuestro software DriverPack Solution. Es gratuito y es capaz de seleccionar todo lo que necesitas automáticamente."
 
 msgid "seo_notebook-footer-content-acer-aspire-5100"
 msgstr "En esta sección puedes descargar los drivers para el portátil Acer Aspire 5100 (Windows XP, 7, 8, 8.1 y 10) gratuitamente. Si por algún motivo no puedes encontrar el driver que necesitas en el catálogo, no te precupes, descarga nuestro software DriverPack Solution. Se encargará de todo por ti."
 
 msgid "seo_notebook-footer-content-acer-aspire-5553g"
-msgstr "Necesitas descargar los drivers para el portátil Acer Aspire 5553g? En esta sección encontrarás todos los drivers requeridos para las versiones de Windows XP, 7, 8, 8.1 y 10. No has encontrado el que necesitas? Descarga nuestro software gratuito DriverPack Solution para la actualización de drivers. Se encargará de todo por ti."
+msgstr "¿Necesitas descargar los drivers para el portátil Acer Aspire 5553g? En esta sección encontrarás todos los drivers requeridos para las versiones de Windows XP, 7, 8, 8.1 y 10. ¿No has encontrado el que necesitas? Descarga nuestro software gratuito DriverPack Solution para la actualización de drivers. Se encargará de todo por ti."
 
 msgid "seo_notebook-footer-content-acer-aspire-7750g"
-msgstr "En esta sección puedes descargar los drivers para el portátil Acer Aspire 7750g de forma gratuita. Todos nuestros drivers han sido verificados por su funcionamiento y seguridad. No has encontrado el driver que necesitas en nuestro catálogo? Descarga el software DriverPack Solution. Encontrará lo que necesitas en unos minutos!"
+msgstr "En esta sección puedes descargar los drivers para el portátil Acer Aspire 7750g de forma gratuita. Todos nuestros drivers han sido verificados para su funcionamiento y seguridad. ¿No has encontrado el driver que necesitas en nuestro catálogo? Descarga el software DriverPack Solution. ¡Encontrará lo que necesitas en unos minutos!"
 
 msgid "seo_notebook-footer-content-acer-aspire-5551g"
-msgstr "Te recomendamos descargar gratuitamente los drivers para el portátil Acer Aspire 5551g disponible para todas las versiones de Windows en uso actualmente. No has encontrado el driver que necesitas en nuestro catálogo? Descarga el software DriverPack Solution. Se encargará de actualizar todos los drivers a la versión más reciente."
+msgstr "Te recomendamos descargar gratuitamente los drivers para el portátil Acer Aspire 5551g disponible para todas las versiones de Windows en uso actualmente. ¿No has encontrado el driver que necesitas en nuestro catálogo? Descarga el software DriverPack Solution. Se encargará de actualizar todos los drivers a la versión más reciente."
 
 msgid "seo_notebook-footer-content-acer-aspire-v3-571g"
-msgstr "Tu portátil Acer Aspire v3 571g no arranca? Puede que el problema esté en los drivers. En esta sección puedes encontrar los drivers para el Acer Aspire v3 571g gratuitamente. Los drivers para las versiones de Windows en uso actualmente - XP, 7, 8, 8.1, 10 - están disponibles aquí. No has podido resolver el problema tu mismo? Descarga el software DriverPack Solution - se encagará de encontrar el driver necesario y actualizarlo a una versión operativa."
+msgstr "¿Tu portátil Acer Aspire v3 571g no arranca? Puede que el problema esté en los drivers. En esta sección puedes encontrar los drivers para el Acer Aspire v3 571g gratuitamente. Los drivers para las versiones de Windows en uso actualmente - XP, 7, 8, 8.1, 10 - están disponibles aquí. ¿No has podido resolver el problema tu mismo? Descarga el software DriverPack Solution - se encagará de encontrar el driver necesario y actualizarlo a una versión operativa."
 
 msgid "seo_notebook-footer-content-asus-x550cc"
-msgstr "Necesitas los drivers para el portátil Asus X550CC? En esta sección de nuestra web encontrarás todo lo que necesitas para usar el portátil. Todos nuestros packs han sido verificados para su funcionamiento y seguridad. Si no puedes encontrar el driver que necesitas, descarga nuestro software DriverPack Solution. Comprobará el estado de los drivers de tu ordenador y los actualizará a la última versión."
+msgstr "¿Necesitas los drivers para el portátil Asus X550CC? En esta sección de nuestra web encontrarás todo lo que necesitas para usar el portátil. Todos nuestros packs han sido verificados para su funcionamiento y seguridad. Si no puedes encontrar el driver que necesitas, descarga nuestro software DriverPack Solution. Comprobará el estado de los drivers de tu ordenador y los actualizará a la última versión."
 
 msgid "seo_notebook-footer-content-asus-x550cl"
 msgstr "Desde aquí puedes descargar los drivers para el portátil Asus X550CL para Windows XP, 7, 8, 8.1 y 10 completamente gratis. Todos nuestros drivers han sido verificados para su funcionamiento y seguridad. Si por algún motivo no puedes encontrar el driver que necesitas, usa nuestro software DriverPack Solution - se encargará de todo por ti."
@@ -891,7 +890,7 @@ msgid "seo_notebook-footer-content-asus-x101ch"
 msgstr "Aquí puedes descargar los drivers para el portátil Asus X101CH para Windows XP, 7, 8, 8.1 y 10 gratuitamente. ¿No has encontrado el driver que necesitas en nuestro catálogo? Sin problemas, descarga el software DriverPack Solution para la instalación automática de drivers. Seleccionará el driver necesario para el dispositivo automáticamente, sin más complicaciones."
 
 msgid "seo_notebook-footer-content-asus-k50ij"
-msgstr "Aquí puedes descargar los drivers para el portátil Ass K50ij para Windows XP, 7, 8, 8.1 o 10. Si no has podido seleccionar el driver que necesitas en el catálogi, utiliza el software DriverPack Solution para la búsqueda e instalación de drivers - es gratuito y se encargará de todo por ti."
+msgstr "Aquí puedes descargar los drivers para el portátil Asus K50ij para Windows XP, 7, 8, 8.1 o 10. Si no has podido seleccionar el driver que necesitas en el catálogo, usa el software DriverPack Solution para la búsqueda e instalación de drivers - es gratuito y se encargará de todo por ti."
 
 msgid "seo_notebook-footer-content-asus-x551ma"
 msgstr "¿No puedes instalar la tarjeta de red del Asus x551ma? Descarga el driver necesario para Windows XP, 7, 8, 8.1 o 10 tu mismo, o usa nuestro software gratuito DriverPack Solution software para actualización de drivers."
@@ -906,7 +905,7 @@ msgid "seo_notebook-footer-content-lenovo-g580"
 msgstr "Aquí puedes descargar los drivers para el portátil Lenovo g580 para Windows XP, 7, 8, 8.1 o 10 completamente gratis. Todos los drivers han sido verificados por un antivirus. ¿No has encontrado el driver que necesitas? Descarga e instala el software DriverPack Solution - es gratuito y se encargará de todo por ti."
 
 msgid "seo_notebook-footer-content-lenovo-b590"
-msgstr "Descarga los drivers para el portátil Lenovo b590 para Windows XP, 7, 8, 8.1 o 10 desde aquí y completamente gratis. Todos los drivers han sido comprobados con un antivirus y son completamente seguros."
+msgstr "Descarga los drivers para el portátil Lenovo b590 para Windows XP, 7, 8, 8.1 o 10 desde aquí y completamente gratis. Todos los drivers han sido revisados con un antivirus y son completamente seguros."
 
 msgid "seo_notebook-footer-content-hp-pavilion-g6-chipset"
 msgstr "En esta sección puedes descargar los drivers para el chipset Pavilion G6 gratuitamente y sin registrate para todas las versiones de sistema operativo Windows en uso actualmente."
@@ -915,7 +914,7 @@ msgid "seo_notebook-footer-content-lenovo-g580-wifi"
 msgstr "¿Necesitas el driver de Wi-Fi para el portátil Lenovo g580 para Windows XP, 7, 8, 8.1 o 10? Descargalo directamente de nuestro catálogo. Todos los drivers son completamente funcionales y seguros."
 
 msgid "seo_notebook-footer-content-lenovo-b590-wifi"
-msgstr "Aquí puedes descargar drivers de Wi-Fi para portátiles b590 de Lenovo para Windows XP, 7, 8, 8.1 y 10. Nuestro catálogo está comprobado por antivirus."
+msgstr "Aquí puedes descargar drivers de Wi-Fi para portátiles b590 de Lenovo para Windows XP, 7, 8, 8.1 y 10. Nuestro catálogo está revisado por un antivirus."
 
 msgid "seo_notebook-footer-content-acer-aspire-v3-571g-wifi"
 msgstr "Aquí puedes descargar drivers de Wi-Fi para portátiles Aspire v3 571g de Acer para Windows XP, 7, 8, 8.1 y 10 gratis."
@@ -924,13 +923,13 @@ msgid "seo_notebook-footer-content-acer-aspire-v3-571g-video"
 msgstr "En esta sección puedes descargar los drivers para la targeta gráfica del portátil Acer Aspire v3 571g. ¿No lo encuentras satisfactorio? Entonces usa nuestro software DriverPack Solution - seleccionará el driver más compatible con tu configuración."
 
 msgid "seo_notebook-footer-content-acer-aspire-v3-571g-sound"
-msgstr "En esta sección puedes descargar los drivers de sonido para el portátil Acer Aspire v3 571g para todas las versiones de Windows en uso actualmente. Nuestros drivers son absolutamente seguros y funcionan de forma excelente!"
+msgstr "En esta sección puedes descargar los drivers de sonido para el portátil Acer Aspire v3 571g para todas las versiones de Windows en uso actualmente. ¡Nuestros drivers son absolutamente seguros y funcionan de forma excelente!"
 
 msgid "seo_notebook-footer-content-acer-aspire-v3-571g-inputdev"
 msgstr "Aquí puedes descargar los drivers para el teclado y otros dispositivos de entrada del portátil Acer Aspire v3 571g para Windows XP, 7, 8, 8.1 y 10 completamente gratis. Todos nuestros drivers han sido verificados para su funcionamiento y seguridad."
 
 msgid "seo_notebook-footer-content-acer-aspire-v3-571g-lan"
-msgstr "Aquí puedes descargar el driver para la tarjeta de red del portátil Acer Aspire v3 571g para Windows XP, 7, 8, 8.1 y 10. ¿No has encontrado el driver que necesitas? Usa nuestro software DriverPack Solution - seleccionará todo lo que necesitas por si solo."
+msgstr "Aquí puedes descargar el driver para la tarjeta de red del portátil Acer Aspire v3 571g para Windows XP, 7, 8, 8.1 y 10. ¿No has encontrado el driver que necesitas? Usa nuestro software DriverPack Solution - seleccionará todo lo que necesitas automáticamente."
 
 msgid "seo_notebook-footer-content-acer-aspire-v3-571g-cardreader"
 msgstr "En esta sección puedes descargar los drivers para el lector de tarjetas del portátil Acer Aspire v3 571g para Windows XP, 7, 8, 8.1 y 10 sin más problemas. También puedes descargar nuestro software DriverPack Solution. Analizará tu hardware y seleccionará e instalará los drivers requeridos automáticamente."
@@ -939,28 +938,28 @@ msgid "seo_notebook-footer-content-asus-x550cc-wifi"
 msgstr "¿No te funciona la Wi-Fi en el portátil Asus X550CC? El problema puede deberse a unos drives desactualizados. Descarga la última versión del driver para Wi-Fi del portátil Asus X550CC, o instala el software gratuito DriverPack Solution - se encargará de todo automáticamente."
 
 msgid "seo_notebook-footer-content-asus-x550cc-lan"
-msgstr "Aquí puedes descargar los drivers de red para el portátil Asus X550CC para Windows XP, 7, 8, 8.1 y 10 gratuitamente. Si por algún motivo no estás satisfecho con estos drivers, usa nuestro software DriverPack Solution - es gratuito y se encargará de todo por ti."
+msgstr "Aquí puedes descargar los drivers para la tarjeta de red del portátil Asus X550CC para Windows XP, 7, 8, 8.1 y 10 gratuitamente. Si por algún motivo no estás satisfecho con estos drivers, usa nuestro software DriverPack Solution - es gratuito y se encargará de todo por ti."
 
 msgid "seo_notebook-footer-content-asus-k50c-video"
 msgstr "¿No arranca un juego en el portátil Asus k50c? Aquí puedes descargar el driver de la tarjeta gráfica para el Asus k50c para Windows XP, 7, 8, 8.1 o 10."
 
 msgid "seo_notebook-footer-content-asus-k50c-wifi"
-msgstr "¿Tienes problemas con el acceso a internet por Wi-Fi? Aquí puedes descargar los drivers de Wi-Fi para el portátil Asus k50c  para Windows XP, 7, 8, 8.1 o 10 - ¡puede que solucione el problema!"
+msgstr "¿Tienes problemas con el acceso a internet por Wi-Fi? Aquí puedes descargar los drivers para Wi-Fi para el portátil Asus k50c  para Windows XP, 7, 8, 8.1 o 10 - ¡puede que solucione el problema!"
 
 msgid "seo_notebook-footer-content-asus-x553ma-video"
 msgstr "¿Tienes los drivers desactualizados de la tarjeta gráfica de tu portátil Asus x553ma? Aquí puedes descargar los drivers para el Asus X553MA  para Windows XP, 7, 8, 8.1 o 10."
 
 msgid "seo_notebook-footer-content-asus-x101ch-video"
-msgstr "¿No arranca un juego en tu portátil Asus X101CH? Aquí puedes descargar los drivers de la tarjeta gráfica del Asus X101CH  para Windows XP, 7, 8, 8.1 o 10 gratuitamente - ¡puede que solucione el problema!"
+msgstr "¿No arranca un juego en tu portátil Asus X101CH? Aquí puedes descargar los drivers para la tarjeta gráfica del Asus X101CH  para Windows XP, 7, 8, 8.1 o 10 gratuitamente - ¡puede que solucione el problema!"
 
 msgid "seo_notebook-footer-content-asus-k50ij-wifi"
-msgstr "¿Necesitas los drivers de Wi-Fi del portátil Asus k50ij  para Windows XP, 7, 8, 8.1 o 10? Descárgalo de nuestro catálogo, o instala el software DriverPack Solution para la actualización automática del driver - es completamente gratuito."
+msgstr "¿Necesitas los drivers para Wi-Fi del portátil Asus k50ij  para Windows XP, 7, 8, 8.1 o 10? Descárgalo de nuestro catálogo, o instala el software DriverPack Solution para la actualización automática de drivers - es completamente gratuito."
 
 msgid "seo_notebook-footer-content-asus-x551ma-lan"
-msgstr "¿No puedes instalar el driver de red para el Asus x551ma? Descarga el driver necesario  para Windows XP, 7, 8, 8.1 o 10 tu mismo, o usa nuestro software gratuito DriverPack Solution para actualización de drivers."
+msgstr "¿No puedes instalar el driver de red para el Asus x551ma? Descarga el driver necesario para Windows XP, 7, 8, 8.1 o 10 tu mismo, o usa nuestro software gratuito DriverPack Solution para actualización de drivers."
 
 msgid "seo_notebook-footer-content-lenovo-g580-lan"
-msgstr "Aquí puedes descargar los drivers de red para el portátil Lenovo g580  para Windows XP, 7, 8, 8.1 o 10. ¿No has encontrado el driver que necesitas? Descarga e instala el software DriverPack Solution. Es gratuito y seleccionará todo lo que necesites para el correcto funcionamento del portátil automáticamente."
+msgstr "Aquí puedes descargar los drivers para tarjeta de red del portátil Lenovo g580  para Windows XP, 7, 8, 8.1 o 10. ¿No has encontrado el driver que necesitas? Descarga e instala el software DriverPack Solution. Es gratuito y seleccionará todo lo que necesites para el correcto funcionamento del portátil automáticamente."
 
 msgid "seo_notebook-footer-content-acer-aspire-v3-571g-7-x86"
 msgstr "En esta sección puedes descargar los drivers para el portátil Acer Aspire v3 571g para Windows 7. Todos nuestros drivers han sido verificados por expertos y son completamente operativos."
@@ -987,10 +986,10 @@ msgid "seo_notebook-footer-content-asus-x540sa-7-x64"
 msgstr "¿Necesitas los drivers para el portátil Asus X540SA para Windows 7x64? Encontrarás todo lo que necesitas en esta sección. Todos los drivers han sido verificados para su funcionamiento y seguridad por nuestros expertos."
 
 msgid "seo_notebook-footer-content-asus-x540sa-8.1-x64"
-msgstr "¿Necesitas los drivers para el portátil Asus x540sa para Windows 8.1x64? Aquí puedes encontrar todo lo que necesitas. Nuestros drivers han sido verificados para su funcionalidad y seguridad por nuestros mejores expertos."
+msgstr "¿Necesitas los drivers para el portátil Asus x540sa para Windows 8.1x64? Aquí puedes encontrar todo lo que necesitas. Nuestros drivers han sido verificados para su funcionamiento y seguridad por nuestros mejores expertos."
 
 msgid "seo_notebook-footer-content-asus-x540sa-10-x64"
-msgstr "¿Neceistas descargar los drivers para el portátil Asus X540SA para Windows 10x64? ¡Estás en el sitio adecuado! Si por algún motivo no has encontrado el driver que necesitas en el catálogo, descarga nuestro software DriverPack Solution - ¡encontrará las últimas versiones y las instalará en tu portátil automáticamente!"
+msgstr "¿Necesitas descargar los drivers para el portátil Asus X540SA para Windows 10x64? ¡Estás en el sitio adecuado! Si por algún motivo no has encontrado el driver que necesitas en el catálogo, descarga nuestro software DriverPack Solution - ¡encontrará las últimas versiones y las instalará en tu portátil automáticamente!"
 
 msgid "seo_notebook-footer-content-asus-x540sc-7-x64"
 msgstr "¿Necesitas descargar los drivers para el portátil Asus X540SC para Windows 7x64? Aquí encontrarás todo lo que necesitas. ¡Todos nuestros packs de drivers han sido verificados para su funcionamiento y seguridad!"

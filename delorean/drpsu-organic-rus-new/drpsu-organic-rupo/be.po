@@ -1,26 +1,25 @@
 # Translators:
-# Azat Abdullayev <azatabd@live.com>, 2017
-# Nadia Tegeneva <nadia@drp.su>, 2017
+# Дмитрий Долгерт <dolgert@gmail.com>, 2017
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-10-26 10:03+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
-"Last-Translator: Nadia Tegeneva <nadia@drp.su>, 2017\n"
-"Language-Team: Turkmen (https://www.transifex.com/driverpack-solution/teams/75452/tk/)\n"
+"Last-Translator: Дмитрий Долгерт <dolgert@gmail.com>, 2017\n"
+"Language-Team: Belarusian (https://www.transifex.com/driverpack-solution/teams/75452/be/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: tk\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: be\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);\n"
 
 #. i18n: EN: Example: VENDOR.NAME=Asus; RU: Пример: VENDOR.NAME=Asus;
 msgid "seo_vendor-footer-anchor"
 msgstr "{{VENDOR.NAME}}"
 
 msgid "seo_devicegroups-footer-anchor"
-msgstr "{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
+msgstr "{{CLASS.PLURAL.MAIN}} {{VENDOR.NAME}}"
 
 #. i18n: EN: Example: NAME=Acer E230H; RU: Пример: NAME=Acer E230H;
 msgid "seo_devicegroup-footer-anchor"
@@ -28,13 +27,13 @@ msgstr "{{NAME}}"
 
 #. i18n: EN: Example: NAME=Asus X550EA; RU: Пример: NAME=Asus X550EA;
 msgid "seo_notebookvendor-footer-anchor"
-msgstr "{{NOTEBOOK.VENDOR.NAME}} noutbuklary"
+msgstr "Ноўтбукі {{NOTEBOOK.VENDOR.NAME}}"
 
 msgid "seo_notebook-footer-anchor"
-msgstr "{{NAME}} noutbuklary"
+msgstr "Ноўтбукі {{NAME}}"
 
 msgid "seo_notebookdevices-footer-anchor"
-msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} {{CLASS.PLURAL.MAIN}}"
+msgstr "{{CLASS.PLURAL.MAIN}} {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
 #. CLASS.PLURAL.FOR=мониторов|модемов;
@@ -42,31 +41,31 @@ msgid "seo_deviceclass-footer-anchor"
 msgstr "{{CLASS.PLURAL.MAIN}}"
 
 msgid "seo_hwidos-footer-anchor"
-msgstr "Windows {{OS.NAME}} üçin sürüji wersiýasy"
+msgstr "Версія драйвера для Windows {{OS.NAME}}"
 
 msgid "seo_main-title"
-msgstr "DriverPack Solution — sürüjileri awtomatiki täzelemek | Mugt ýüklemek"
+msgstr "DriverPack Solution — аўтаматычнае абнаўленне драйвераў | Спампаваць бясплатна"
 
 msgid "seo_main-description"
-msgstr "DriverPack Solution Size Siziň enjamyňyz üçin sürüjileri mugt ýüklemägi ýa-da programmany ýükläp sürüjileri awtomatiki gurnamagy we täzelemägi hödürleýär "
+msgstr ""
 
 msgid "seo_main-keywords"
-msgstr "ýüklemek sürüji pak sürüjiler windows 7 8 10 64 ýüklemek ýüklemek PK noutbuk mugt gurnaýjy sürüjileriň programma üçin gurmagyň sürüjileriň"
+msgstr ""
 
 msgid "seo_mainos-title"
-msgstr "Windows {{OS.VERSION}} üçin sürüjileri ýüklemek | DriverPack Solution"
+msgstr ""
 
 msgid "seo_mainos-description"
 msgstr ""
 
 msgid "seo_mainos-h1"
-msgstr "Windows {{OS.VERSION}} üçin sürüjiler"
+msgstr "Драйвера для Windows {{OS.VERSION}}"
 
 msgid "seo_mainos-keywords"
 msgstr ""
 
 msgid "seo_mainos-h3"
-msgstr "Windows {{OS.VERSION}} üçin iň uly sürüji bazasy bir sany DriverPack Online mugt programmada"
+msgstr "Самая вялікая база драйвераў для Windows {{OS.VERSION}} у адной бясплатнай праграме DriverPack Online"
 
 msgid "seo_mainlanding-title"
 msgstr ""
@@ -90,7 +89,7 @@ msgstr ""
 #. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
 #. CLASS.PLURAL.FOR=мониторов|модемов;
 msgid "seo_deviceclass-h1"
-msgstr "<span class='bold'>{{CLASS.PLURAL.FOR}}</span> üçin sürüjiler"
+msgstr "Драйверы для <span class='bold'>{{CLASS.PLURAL.FOR}}</span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
 #. CLASS.PLURAL.FOR=мониторов|модемов;
@@ -103,12 +102,12 @@ msgid "seo_deviceclass-footer-description"
 msgstr ""
 
 msgid "seo_deviceclass-footer-application-category"
-msgstr "Bölüm: <span itemprop='applicationCategory'>enjamlar</span>"
+msgstr ""
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=monitors|modem; RU: Пример:
 #. CLASS.PLURAL.MAIN=мониторы|модемы;
 msgid "seo_deviceclass-footer-application-subcategory"
-msgstr "Kiçi bölüm: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+msgstr ""
 
 msgid "seo_vendors-title"
 msgstr ""
@@ -117,10 +116,10 @@ msgid "seo_vendors-description"
 msgstr ""
 
 msgid "seo_vendors-h1"
-msgstr "Enjamlaryň öndürüjileri"
+msgstr "Вытворцы абсталявання"
 
 msgid "seo_vendors-keywords"
-msgstr "sürüjiler sürüjiler windows 7 8 10 64 ýüklemek ýüklemek"
+msgstr ""
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendor-title"
@@ -132,7 +131,7 @@ msgstr ""
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendor-h1"
-msgstr "<span class='bold'>{{VENDOR.NAME}}</span> enjam üçin sürüjiler"
+msgstr "Драйвера для прылад <span class='bold'>{{VENDOR.NAME}}</span>"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendor-keywords"
@@ -140,10 +139,10 @@ msgstr ""
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendor-footer-description"
-msgstr "{{VENDOR.NAME}} enjamlar üçin sürüjileri mugt yükläň"
+msgstr ""
 
 msgid "seo_vendor-footer-application-category"
-msgstr "Bölüm: <span itemprop='applicationCategory'>enjamlar</span>"
+msgstr ""
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendor-footer-application-subcategory"
@@ -162,7 +161,7 @@ msgstr ""
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|monitors; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.FOR=видеокарт|мониторов; VENDOR.NAME=Acer;
 msgid "seo_devicegroups-h1"
-msgstr "<span class='bold'>{{VENDOR.NAME}}</span> {{CLASS.PLURAL.FOR}} üçin sürüjiler"
+msgstr "Драйверы для {{CLASS.PLURAL.FOR}} <span class='bold'>{{VENDOR.NAME}}</span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|monitors; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|мониторы; VENDOR.NAME=Acer;
@@ -177,7 +176,7 @@ msgstr ""
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|monitors; RU: Пример:
 #. CLASS.PLURAL.MAIN=видеокарты|мониторы;
 msgid "seo_devicegroups-footer-application-category"
-msgstr "Bölüm: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+msgstr "Раздзел: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|monitors; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|мониторы; VENDOR.NAME=Acer;
@@ -208,7 +207,7 @@ msgstr ""
 #. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
 #. GROUP.NAME=GeForce 210;
 msgid "seo_devicegroup-h1"
-msgstr "<span class='bold'>{{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.PLURAL.FOR}}</span> üçin sürüjiler"
+msgstr "Драйверы для <span class='bold'>{{CLASS.PLURAL.FOR}} {{GROUP.VENDOR.NAME}} {{GROUP.NAME}}</span>"
 
 #. i18n: EN: Example: GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU:
 #. Пример: GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210;
@@ -226,7 +225,7 @@ msgstr ""
 #. GROUP.VENDOR.NAME=Nvidia; RU: Пример: CLASS.PLURAL.FOR=видеокарт|чипсетов;
 #. GROUP.VENDOR.NAME=Nvidia;
 msgid "seo_devicegroup-footer-application-category"
-msgstr ""
+msgstr "Раздзел: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}} {{GROUP.VENDOR.NAME}}</span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets;
 #. GROUP.NAME=GeForce 210; RU: Пример: CLASS.PLURAL.MAIN=видеокарты|чипсеты;
@@ -248,7 +247,7 @@ msgid "seo_hwids-description"
 msgstr ""
 
 msgid "seo_hwids-h1"
-msgstr "Enjam üçin ähli sürüjiler"
+msgstr "Усе драйвера для прылад"
 
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
@@ -273,12 +272,12 @@ msgstr ""
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 msgid "seo_hwid-footer-description"
-msgstr "{{DEVICE.DEVICEID}} enjamlar üüçin sürüjileri mugt ýüklemek"
+msgstr ""
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets; RU: Пример:
 #. CLASS.PLURAL.MAIN=видеокарты|чипсеты;
 msgid "seo_hwid-footer-application-category"
-msgstr "Bölüm: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+msgstr "Раздзел: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|чипсеты; VENDOR.NAME=Acer;
@@ -297,7 +296,7 @@ msgid "seo_notebooks-description"
 msgstr ""
 
 msgid "seo_notebooks-h1"
-msgstr "Noutbuklar we netbuklar üçin sürüjiler"
+msgstr "Драйвера для ноўтбукаў і нэтбукаў"
 
 msgid "seo_notebooks-keywords"
 msgstr ""
@@ -312,7 +311,7 @@ msgstr ""
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_notebookvendor-h1"
-msgstr "<span class='bold'>{{VENDOR.NAME}}</span> noutbuk we netbuklar üçin sürüjiler"
+msgstr "Драйвера для ноўтбукаў і нэтбукаў <span class='bold'>{{VENDOR.NAME}}</span>"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_notebookvendor-keywords"
@@ -320,7 +319,7 @@ msgstr ""
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_notebookvendor-footer-description"
-msgstr "{{VENDOR.NAME}} noutbuklar üçin sürüjileri ýükläň"
+msgstr ""
 
 msgid "seo_notebookvendor-footer-application-category"
 msgstr ""
@@ -342,7 +341,7 @@ msgstr ""
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebook-h1"
-msgstr "<span class='bold'>{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}</span> noutbuklar üçin sürüjiler"
+msgstr "Драйвера для ноўтбука <span class='bold'>{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}</span>"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
@@ -388,7 +387,7 @@ msgstr ""
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 #. CLASS.PLURAL.FOR=видеокарт|звуковых карт;
 msgid "seo_notebookdevices-h1"
-msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} noutbuklar üçin {{CLASS.PLURAL.FOR}} sürüjiler"
+msgstr "Драйвера {{CLASS.PLURAL.FOR}} для ноўтбукаў {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets;
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU: Пример:
@@ -433,7 +432,7 @@ msgid "seo_devicegroupos-description"
 msgstr ""
 
 msgid "seo_devicegroupos-h1"
-msgstr "{{GROUP.VENDOR.NAME}} {{GROUP.NAME}} üçin Windows {{OS}} sürüjileri"
+msgstr "Драйверы {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} для Windows {{OS}}"
 
 msgid "seo_devicegroupos-keywords"
 msgstr ""
@@ -442,7 +441,7 @@ msgid "seo_devicegroupos-footer-description"
 msgstr ""
 
 msgid "seo_devicegroupos-footer-application-category"
-msgstr ""
+msgstr "Раздзел: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}} {{GROUP.VENDOR.NAME}}</span>"
 
 msgid "seo_devicegroupos-footer-application-subcategory"
 msgstr ""
@@ -457,7 +456,7 @@ msgid "seo_notebookos-description"
 msgstr ""
 
 msgid "seo_notebookos-h1"
-msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} noutbuklara Windows {{OS}} üçin sürüjiler"
+msgstr "Драйвера ноўтбука {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} для Windows {{OS}}"
 
 msgid "seo_notebookos-keywords"
 msgstr ""
@@ -481,7 +480,7 @@ msgid "seo_deviceclassos-description"
 msgstr ""
 
 msgid "seo_deviceclassos-h1"
-msgstr "{{CLASS.PLURAL.FOR}} üçin Windows {{OS}} sürüjileri"
+msgstr "Драйвера {{CLASS.PLURAL.FOR}} для Windows {{OS}}"
 
 msgid "seo_deviceclassos-keywords"
 msgstr ""
@@ -490,10 +489,10 @@ msgid "seo_deviceclassos-footer-description"
 msgstr ""
 
 msgid "seo_deviceclassos-footer-application-category"
-msgstr "Bölüm: <span itemprop='applicationCategory'>enjamlar</span>"
+msgstr ""
 
 msgid "seo_deviceclassos-footer-application-subcategory"
-msgstr "Kiçi bölüm: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+msgstr ""
 
 msgid "seo_devicegroupsos-title"
 msgstr ""
@@ -502,7 +501,7 @@ msgid "seo_devicegroupsos-description"
 msgstr ""
 
 msgid "seo_devicegroupsos-h1"
-msgstr "{{CLASS.PLURAL.FOR}} {{VENDOR.NAME}} üçin Windows {{OS}} sürüjileri"
+msgstr "Драйвера {{CLASS.PLURAL.FOR}} {{VENDOR.NAME}} для Windows {{OS}}"
 
 msgid "seo_devicegroupsos-keywords"
 msgstr ""
@@ -511,7 +510,7 @@ msgid "seo_devicegroupsos-footer-description"
 msgstr ""
 
 msgid "seo_devicegroupsos-footer-application-category"
-msgstr "Bölüm: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+msgstr "Раздзел: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_devicegroupsos-footer-application-subcategory"
 msgstr ""
@@ -526,7 +525,7 @@ msgid "seo_notebookvendoros-description"
 msgstr ""
 
 msgid "seo_notebookvendoros-h1"
-msgstr "{{VENDOR.NAME}} noutbuklara Windows {{OS}} üçin sürüjiler"
+msgstr "Драйвера ноўтбукаў {{VENDOR.NAME}} для Windows {{OS}}"
 
 msgid "seo_notebookvendoros-keywords"
 msgstr ""
@@ -550,7 +549,7 @@ msgid "seo_hwidos-description"
 msgstr ""
 
 msgid "seo_hwidos-h1"
-msgstr "{{DEVICE.DEVICEID}} enjamlar üçin Windows {{OS}} sürüjileri"
+msgstr "Драйвер для прылады {{DEVICE.DEVICEID}} для Windows {{OS}}"
 
 msgid "seo_hwidos-keywords"
 msgstr ""
@@ -559,7 +558,7 @@ msgid "seo_hwidos-footer-description"
 msgstr ""
 
 msgid "seo_hwidos-footer-application-category"
-msgstr ""
+msgstr "Раздзел: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_hwidos-footer-application-subcategory"
 msgstr ""
@@ -574,7 +573,7 @@ msgid "seo_notebookdevicesos-description"
 msgstr ""
 
 msgid "seo_notebookdevicesos-h1"
-msgstr "{{CLASS.PLURAL.FOR}} noutbuklar üçin {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} Windows {{OS}} sürüjileri"
+msgstr "Драйвера {{CLASS.PLURAL.FOR}} для ноўтбукаў {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} для Windows {{OS}}"
 
 msgid "seo_notebookdevicesos-keywords"
 msgstr ""
@@ -592,7 +591,7 @@ msgid "seo_notebookdevicesos-footer-content"
 msgstr ""
 
 msgid "seo_promopage_title"
-msgstr "DriverPack – sürüjielri mugt gurmak"
+msgstr ""
 
 msgid "seo_promo-description"
 msgstr ""
@@ -616,7 +615,7 @@ msgid "seo_promovendors-description"
 msgstr ""
 
 msgid "seo_promovendors-keywords"
-msgstr ""
+msgstr "драйвер, dell, samsung, lenovo, asus, acer, toshiba, asus"
 
 msgid "seo_promodrivers_title"
 msgstr ""
@@ -634,7 +633,7 @@ msgid "seo_forgamers-keywords"
 msgstr ""
 
 msgid "seo_wannacrypt_title"
-msgstr "WannaCry wirus - öz PK we noutbuklaryňyzy nädip goramaly?"
+msgstr ""
 
 msgid "seo_wannacrypt-description"
 msgstr ""
@@ -646,7 +645,7 @@ msgid "seo_badrabbit-description"
 msgstr ""
 
 msgid "seo_license_title"
-msgstr "Lisenzion ylalaşyk | DriverPack Solution"
+msgstr ""
 
 msgid "seo_license-description"
 msgstr ""
