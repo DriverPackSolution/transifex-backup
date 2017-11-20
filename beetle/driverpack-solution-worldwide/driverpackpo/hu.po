@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-10-18 12:44+0000\n"
-"PO-Revision-Date: 2017-11-06 10:10+0000\n"
+"PO-Revision-Date: 2017-11-16 18:29+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Hungarian (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/hu/)\n"
 "MIME-Version: 1.0\n"
@@ -238,7 +238,7 @@ msgid "settings_language-anchor"
 msgstr "Információ a fordítók részére"
 
 msgid "settings_language-href"
-msgstr "https://drp.su/en/info/translators"
+msgstr "https://driverpack.io/hu/info/translators"
 
 msgid "settings_logging-title"
 msgstr "Naplók mentése"
@@ -262,7 +262,7 @@ msgid "settings_soft-and-utilities-title"
 msgstr "Driver eszközök és hasznos alkalmazások telepítése"
 
 msgid "settings_soft-and-utilities-caption"
-msgstr "A számítógépe megfelelő konfigurálásához, a driverek mellett további eszközökre és hasznos alkalmazásokra is szüksége lesz, pl. Visual C++, .Net és egyebek. Ezek az alkalmazások és szoftverek szükségesek bizonyos eszközök, pl. USB 3.0, FN gombok és egyebek megfelelő működéséhez. Ezen okból kifolyólag nem ajánljuk, hogy kikapcsolja ezt a részt."
+msgstr "A számítógépe megfelelő konfigurálásához, a driverek mellett további eszközökre és hasznos alkalmazásokra is szüksége lesz, pl. Visual C++, *.Net és egyebek. Ezek az alkalmazások és szoftverek szükségesek bizonyos eszközök, pl. USB 3.0, FN gombok és egyebek megfelelő működéséhez. Ezen okból kifolyólag nem ajánljuk, hogy kikapcsolja ezt a részt."
 
 msgid "settings_soft-and-utilities-anchor"
 msgstr "Részletek"
@@ -274,7 +274,7 @@ msgid "settings_protect-title"
 msgstr "DriverPack Protect"
 
 msgid "settings_protect-caption"
-msgstr "Ez a technológia segít önnek megtisztítani a számítógépét a kártevőktől és beépülő hirdetésektől, melyeket még a vírusirtó programok és hirdetésblokkoló alkalmazások is gyakran figyelmen kívül hagynak. A saját kártevő és felesleges szoftvertakarító programunkkal lényeges mennyiségű helyet szabadíthat fel, és megnövelheti a számítógépe hatékonyságát. Ezért továbbra is azt tanácsoljuk, használja ki ezt a funkciót, és élvezze az előnyeit!"
+msgstr "Ez a technológia segít önnek megtisztítani a számítógépét a kártevőktől és beépülő hirdetésektől, melyeket még a vírusirtó programok és hirdetésblokkoló alkalmazások is gyakran figyelmen kívül hagynak. A saját kártevő és felesleges szoftvertakarító programunkkal lényeges mennyiségű helyet szabadíthat fel, és megnövelheti a számítógépe hatékonyságát. Ezért továbbra is azt tanácsoljuk, használja ki ezt a funkciót, és élvezze az előnyeit."
 
 msgid "settings_protect-anchor"
 msgstr "Részletek"
@@ -286,7 +286,7 @@ msgid "settings_diagnostics-title"
 msgstr "Diagnosztika mód engedélyezése"
 
 msgid "settings_diagnostics-caption"
-msgstr "Ez a lap tartalmazza a számítógépe konfigurációjának összes adatát. A mindenre kiterjedő diagnosztika mellett a DriverPack algoritmus a lehető legpontosabb és gyorsabb módon telepíti a szükséges drivereket. Emiatt erősen ajánlott, hogy ne tiltsa le ezt a funkciót!"
+msgstr "Ez a lap tartalmazza a számítógépe konfigurációjának összes adatát. A mindenre kiterjedő diagnosztika mellett a DriverPack algoritmus a lehető legpontosabb és gyorsabb módon telepíti a szükséges drivereket. Emiatt erősen ajánlott, hogy ne tiltsa le ezt a funkciót."
 
 msgid "settings_expert-mode-title"
 msgstr "Szakértő mód engedélyezése"
@@ -535,7 +535,7 @@ msgid "drivers_screen_most_important"
 msgstr "A legszükségesebb driverek"
 
 msgid "drivers_screen_updates"
-msgstr "Telepített driverek (elérhető frissítések)"
+msgstr "Driver frissítések"
 
 msgid "drivers_screen_utils"
 msgstr "Driver kiegészítők"
@@ -547,12 +547,12 @@ msgid "drivers_screen_alternative"
 msgstr "Alternatív driverek"
 
 msgid "drivers_screen_show"
-msgstr "Kijelző"
+msgstr "Megjelenítés"
 
 #. i18n: EN: text for {{LINK}} is in key zero-drivers_cta-msg-caption-link;
 #. RU: текст для {{LINK}} находится в ключе zero-drivers_cta-msg-caption-link;
 msgid "zero-drivers_cta-msg-caption"
-msgstr "Ha megoldatlan problémába ütközne, {{LINK}}"
+msgstr "Ha megoldatlan problémába ütköznél, {{LINK}}"
 
 msgid "zero-drivers_cta-msg"
 msgstr "Az összes szükséges driver már fel van telepítve"
@@ -609,7 +609,7 @@ msgid "final_popover_new_driver_not_installed_caption"
 msgstr "Hiba történt a telepítés közben, és emiatt a korábbi driver került visszaállításra ennél az eszköznél."
 
 msgid "final_computer_setup_ok_title"
-msgstr "Szuper! A számítógépe konfigurálása befejeződött."
+msgstr "Szuper! A számítógépe konfigurálása befejeződött!"
 
 msgid "final_drivers_not_better_title"
 msgid_plural "final_drivers_not_better_title_n"
@@ -634,7 +634,7 @@ msgid "final_single_program_failed_title"
 msgstr "A szoftver nem került telepítésre"
 
 msgid "final_offline_restart"
-msgstr "Hálózati kapcsolat észlelve. Kérem indítsa újra a DriverPack-ot a driverek legfrissebb verziójának telepítéséhez!"
+msgstr "Hálózati kapcsolat észlelve. Kérem indítsa újra a DriverPack-ot a driverek legfrissebb verziójának telepítéséhez."
 
 msgid "final_drivers_ok_programs_subtitle"
 msgstr "Az összes fontos driver és alkalmazás telepítésre került."
@@ -645,7 +645,7 @@ msgstr "Az összes fontos driver telepítésre került."
 msgid "final_drivers_not_better_subtitle"
 msgid_plural "final_drivers_not_better_subtitle_n"
 msgstr[0] "Azonban {{COUNT}} fontos driver nem került telepítésre. Azt tanácsoljuk, hogy ismételje meg a telepítést, vagy ellenőrizze az eszközei megfelelő működését!"
-msgstr[1] "Azonban {{COUNT}} fontos driver nem került telepítésre. Azt tanácsoljuk, hogy ismételje meg a telepítést, vagy ellenőrizze az eszközei megfelelő működését!"
+msgstr[1] "Azonban {{COUNT}} fontos driver nem került telepítésre. Azt tanácsoljuk, hogy ismételje meg a telepítést, vagy ellenőrizze az eszközei megfelelő működését."
 
 msgid "final_single_driver_ok_programs_subtitle"
 msgstr "Az összes fontos driver és alkalmazás telepítésre került."
@@ -668,10 +668,10 @@ msgid "final_single_program_finished_subtitle"
 msgstr "1 szoftver telepítésre került."
 
 msgid "final_single_program_failed_subtitle"
-msgstr "Valami balul sült el, és ez a szoftver nem került telepítésre. Próbálja meg újra elindítani a telepítést!"
+msgstr "Valami balul sült el, és ez a szoftver nem került telepítésre. Próbálja meg újra elindítani a telepítést."
 
 msgid "final_main_remove_harmful_advice"
-msgstr "Kártevőt észleltünk a számítógépén. Azt tanácsoljuk, hogy ne hagyja figyelmen kívül az eltávolítását!"
+msgstr "Kártevőt észleltünk a számítógépén. Azt tanácsoljuk, hogy ne hagyja figyelmen kívül az eltávolítását"
 
 msgid "final_main_remove_harmful_caption"
 msgstr "Nemkívánatos szoftverek eltávolítása a számítógépről"
@@ -949,10 +949,10 @@ msgid "loading_backup_failed"
 msgstr "Hiba történt a drivermentés létrehozása közben"
 
 msgid "about_run_error"
-msgstr "Hiba történt a DriverPack Solution műveletének elindítása közben <br> <br> Ha a gond továbbra is fennáll, írjon nekünk e-mail üzenetet a support@drp.su címre!"
+msgstr "Hiba történt a DriverPack Solution műveletének elindítása közben <br> <br> Ha a gond továbbra is fennáll, írjon nekünk e-mail üzenetet a support@drp.su címre"
 
 msgid "loading_preparing"
-msgstr "Az alkalmazás az elindulásra készül"
+msgstr "Az alkalmazás az elindulásra készül..."
 
 msgid "loading_system_scanning"
 msgstr "Ellenőrizzük a számítógép konfigurációját..."
@@ -1015,19 +1015,19 @@ msgid "no-internet-screen_guide-step-1"
 msgstr "1. lépés"
 
 msgid "no-internet-screen_guide-step-1-action"
-msgstr "Látogassa meg a <span class='bold'>www.drp.su</span> honlapot <br /> egy másik számítógépen!"
+msgstr "Látogassa meg a <span class='bold'>www.drp.su</span> honlapot <br /> egy másik számítógépen"
 
 msgid "no-internet-screen_guide-step-2"
 msgstr "2. lépés"
 
 msgid "no-internet-screen_guide-step-2-action"
-msgstr "<div>Töltse le a <span class='bold'>DriverPack Offline</span>-t<br /> egy USB meghajtóra!"
+msgstr "<div>Töltse le a <span class='bold'>DriverPack Offline</span>-t <br /> egy USB meghajtóra"
 
 msgid "no-internet-screen_guide-step-complete"
 msgstr "Kész"
 
 msgid "no-internet-screen_guide-step-complete-action"
-msgstr "Futtassa az alkalmazást a számítógépen, és <br /> konfigurálja azt egyetlen gombnyomással!"
+msgstr "Futtassa az alkalmazást a számítógépen, és <br /> konfigurálja azt egyetlen gombnyomással"
 
 msgid "programs_btn_install_single"
 msgstr "telepítés"
@@ -1102,7 +1102,7 @@ msgid "protect_state_warn"
 msgstr "{{COUNT}} darab nemkívánatos szoftver került eltávolításra."
 
 msgid "protect_state_err"
-msgstr "Annak érdekében, hogy engedélyezze a DriverPack Protect működését, először kapcsolódjon a számítógépével az internethez, majd indítsa újra a DriverPack-ot!"
+msgstr "Annak érdekében, hogy engedélyezze a DriverPack Protect működését, először kapcsolódjon a számítógépével az internethez, majd indítsa újra a DriverPack-ot"
 
 msgid "protect_show_more"
 msgstr "Több infó"
@@ -1111,12 +1111,12 @@ msgid "settings-header_title"
 msgstr "Beállítások haladó felhasználóknak"
 
 msgid "settings-header_caption"
-msgstr "A DriverPack-ot főként rendszergazdák részére fejlesztettük ki, de még kezdő felhasználók számára érthető. A használatával több millió rendszergazda képes gyorsan bekonfigurálni a számítógépeit, emellett pedig saját igényeikre és feladataikra is szabhatják a DriverPack-ot. Az új kiválasztási algoritmus feltelepíti a drivereket, melyet lehetővé teszik a készülékei maximális hatékonyságát. Próbálja ki a DriverPack-ot — biztosak vagyunk benne, hogy tetszeni fog."
+msgstr "A DriverPack-ot főként rendszergazdák részére fejlesztettük ki, de még kezdő felhasználók számára érthető. A használatával több millió rendszergazda képes gyorsan bekonfigurálni a számítógépeit, emellett pedig saját igényeikre és feladataikra is szabhatják a DriverPack-ot. Az új kiválasztási algoritmus feltelepíti a drivereket, melyet lehetővé teszik a készülékei maximális hatékonyságát. Próbálja ki a DriverPack-ot — biztosak vagyunk benne, hogy tetszeni fog!"
 
 #. i18n: EN: default value for {{MODEL}} in start_title key; RU: значение по
 #. умолчанию для {{MODEL}} в ключе start_title
 msgid "start_title_default_model"
-msgstr "Az ön számítógépe"
+msgstr "az ön számítógépe"
 
 msgid "start_title"
 msgstr "{{MODEL}} automatikus konfigurációja"
@@ -1195,7 +1195,7 @@ msgid "installation_header_promo_title_avast"
 msgstr "Miért jobb az Avast, mint más vírusirtók?"
 
 msgid "installation_header_promo_text_avast"
-msgstr "Az Avastaz egyik legnépszerűbb vírusirtó a világon, mert jó védelmet nyújt, nem lassítja a rendszert, és képes hatékonyan együttműködni más vírusirtókkal is.<br />Ami még jobb, hogy ingyenes, így mindenképp megérdemli az ajánlásunkat."
+msgstr "Az Avastaz egyik legnépszerűbb vírusirtó a világon, mert jó védelmet nyújt, nem lassítja a rendszert, és képes hatékonyan együttműködni más vírusirtókkal is. <br /> Ami még jobb, hogy ingyenes, így mindenképp megérdemli az ajánlásunkat."
 
 msgid "installation_header_promo_title_catalog"
 msgstr "Hogyan találhatja meg a szükséges drivereket?"
@@ -1204,7 +1204,7 @@ msgid "installation_header_promo_text_catalog"
 msgstr "Azok, akik inkább manuálisan telepítenék a drivereket, létrehoztunk egy speciális keresőmotort, mely lehetővé teszi a driverek kikeresését a DeviceID vagy név megadásával. Ez a keresőmotor egymilliónál is több drivert tartalmaz, így a legnagyobbá vált a világon. Ez a keresőmotor gyakran frissül a legújabb driverekkel, melyeket manuálisan tesztelnek, ezáltal pedig mindig aktuális maradhat."
 
 msgid "installation_header_promo_title_authorization"
-msgstr "Jelentkezzen be a beállításai elmentéséhez!"
+msgstr "Jelentkezzen be a beállításai elmentéséhez"
 
 msgid "installation_header_promo_text_authorization"
 msgstr "Bejelentkezett felhasználóként többé nem kell módosítania a beállításokat minden egyes számítógépen — a profilban elmentésre kerülnek, és más eszközökön automatikusan aktiválódnak. A bejelentkezett felhasználók emellett hozzáférnek a CDN szerverekhez a gyorsabb driverletöltési sebességekért. További fontos előnyei a haladó beállítások, mellyel még jobban testre szabhatja az alkalmazást."
@@ -1213,7 +1213,7 @@ msgid "installation_header_promo_title_opera"
 msgstr "Miért jó az Opera böngésző?"
 
 msgid "installation_header_promo_text_opera"
-msgstr "Az Opera egy biztonságos, már bizonyított böngésző, mely több innovatív technológiát tartalmaz, beleértve a beépített VPN-t, hirdetésblokkolót a zavaró hirdetések ellen, és a videók megtekintését külön ablakban. Emellett a böngésző legújabb változata minden weboldalt 13%-kal gyorsabban tölt be, mint korábban, az Opera pedig ezáltal a leggyorsabb böngésző."
+msgstr "Az Opera egy biztonságos, már bizonyított böngésző, mely több innovatív technológiát tartalmaz, beleértve a beépített VPN-t, AdBlock hirdetésblokkolót a zavaró hirdetések ellen, és a videók megtekintését külön ablakban. Emellett a böngésző legújabb változata minden weboldalt 13%-kal gyorsabban tölt be, mint korábban, az Opera pedig ezáltal a leggyorsabb böngésző."
 
 msgid "installation_header_promo_title_how_it_works"
 msgstr "Hogyan működik a DriverPack?"
@@ -1228,7 +1228,7 @@ msgid "installation_header_promo_text_win_10"
 msgstr "A szóbeszéd szerint a Windows 10 képes magától helyesen feltelepíteni az összes szükséges drivert. Sajnos ez nem igaz — a legtöbb esetben a Windows 10 szabványos drivert telepít anélkül, hogy kiválasztaná az éppen megfelelő minden egyes eszközhöz. Ami a ritka és régi drivereket illeti, azokkal gyakran nem is rendelkezik. Szerencsére a DriverPack sokkal alaposabban választja ki a drivereket.<br /><br />"
 
 msgid "installation_header_promo_title_social"
-msgstr "Csatlakozz a DriverPack közösséghez!"
+msgstr "Csatlakozz a DriverPack közösséghez"
 
 msgid "installation_header_promo_text_social"
 msgstr "A nyilvános csoportjainkban mindig megválaszoljuk a szoftverrel kapcsolatos kérdéseket, megosztjuk az információt a frissítéseinkről és technológiákról, valamint tájékoztatást adunk az informatika fontosabb híreiről és irányzatairól."
@@ -1249,7 +1249,7 @@ msgid "installation_header_promo_title_browsers"
 msgstr "Egy újabb jó böngésző sosem felesleges"
 
 msgid "installation_header_promo_text_browsers"
-msgstr "A statisztikák szerint az emberek több mint 70%-a telepít legalább két böngészőt, ami az internetet aktívan használók körében logikus lépés. Minden egyes általunk ajánlott böngészőnek megvan a maga előnye: a Yandex böngésző tökéletes az orosz nyelvű oldalakhoz, az Operát a könnyen és névtelenül, VPN-en keresztül keresők használják, a Firefox támogatók hada pedig nem maradhat a kiegészítők és beépülők nélkül, melyeket a jobb internetes élmény érdekében gyűjtöttek össze. Miért ne legyen mindjárt kéznél az összes? Nem lassítják a számítógépet, és hasznosak lehetnek,ha ki akar törni a munkája korlátai közül például."
+msgstr "A statisztikák szerint az emberek több mint 70% -a telepít legalább két böngészőt, ami az internetet aktívan használók körében logikus lépés. Minden egyes általunk ajánlott böngészőnek megvan a maga előnye: a Yandex böngésző tökéletes az orosz nyelvű oldalakhoz, az Operát a könnyen és névtelenül, VPN-en keresztül keresők használják, a Firefox támogatók hada pedig nem maradhat a kiegészítők és beépülők nélkül, melyeket a jobb internetes élmény érdekében gyűjtöttek össze. Miért ne legyen mindjárt kéznél az összes? Nem lassítják a számítógépet, és hasznosak lehetnek,ha ki akar törni a munkája korlátai közül például."
 
 msgid "installation_header_promo_title_driverpack_for_all"
 msgstr "A DriverPack alkalmazkodik bármely számítógéphez"
@@ -1297,7 +1297,7 @@ msgid "installation_application_restart_confirm_title"
 msgstr "Ajánlatok"
 
 msgid "deviceproblems_usb_connection"
-msgstr "Lehetetlen bármilyen driver feltelepíteni erre az eszközre az USB port kapcsolati hibái miatt. A probléma megoldása érdekében próbálja meg újracsatlakoztatni az USB eszközét, vagy kicserélni az összekötő kábeleket! Ha ez nem segít, a portokkal vagy magukkal az eszközökkel lehet a gond."
+msgstr "Lehetetlen bármilyen driver feltelepíteni erre az eszközre az USB port kapcsolati hibái miatt. A probléma megoldása érdekében próbálja meg újracsatlakoztatni az USB eszközét, vagy kicserélni az összekötő kábeleket. Ha ez nem segít, a portokkal vagy magukkal az eszközökkel lehet a gond."
 
 msgid "deviceproblems_root_legacy"
 msgstr "Ez az eszköz jelenleg nem található meg az ön rendszerében, de a támogató szoftver nyomai hátramaradtak. A probléma megoldása érdekében törölje az eszköz maradványait a rendszerleíróból kézzel vagy kifejezetten erre készült programmal."
@@ -1306,13 +1306,13 @@ msgid "deviceproblems_vpn_no_need_drivers"
 msgstr "Nem szükséges drivertelepítés ehhez a virtuális VPN eszközhöz"
 
 msgid "deviceproblems_damaged_system_driver"
-msgstr "Ez egy szabványos rendszerdriver, mely valamilyen okból kifolyólag megsérült, vagy egyszerűen nem található meg az ön Windows változatában. Ennek oka lehet például a nem eredeti, módosított Windows, vagy egyéb szoftverek, esetleg vírusok mellékhatása a szóban forgó fájlokon. A probléma megoldásához fel kellene telepítenie egy eredeti Windows példányt."
+msgstr "Ez egy szabványos rendszerdriver, mely valamilyen okból kifolyólag megsérült, vagy egyszerűen nem található meg az ön Windows változatában. Ennek oka lehet például a nem eredeti, módosított Windows, vagy egyéb szoftverek, esetleg vírusok mellékhatása a szóban forgó fájlokon. A probléma megoldásához fel kellene telepítenie egy eredeti Windows példányt"
 
 msgid "deviceproblems_usb_unknown_vendor"
-msgstr "Ez a csatlakoztatott USB eszköz feltelepítésre került, de a gyártóját nem sikerült meghatározni. A probléma megoldásához állítsa automatikus indításra a Windows illesztőprogram-alaprendszer, vagyis Windows Driver Foundation szolgáltatást! A Sajátgép Kezelés menüpontjában, a Szolgáltatások fülön található a Windows illesztőprogram-alaprendszer, vagyis Windows Driver Foundation, ezután pedig válassza ki az Indítás típusaként az automatikus opciót!"
+msgstr "Ez a csatlakoztatott USB eszköz feltelepítésre került, de a gyártóját nem sikerült meghatározni. A probléma megoldásához állítsa automatikus indításra a Windows illesztőprogram-alaprendszer, vagyis a Windows Driver Foundation szolgáltatást. A Sajátgép Kezelés menüpontjában, a Szolgáltatások fülön található a Windows illesztőprogram-alaprendszer, vagyis Windows Driver Foundation, ezután pedig válassza ki az Indítás típusaként az automatikus opciót!"
 
 msgid "deviceproblems_sound_card"
-msgstr "A hankártya nem megfelelően csatlakozott, vagy gond adódott a működésében."
+msgstr "A hankártya nem megfelelően csatlakozott, vagy gond adódott a működésében"
 
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
