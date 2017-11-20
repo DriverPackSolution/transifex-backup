@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-11-10 17:00+0000\n"
+"POT-Creation-Date: 2017-11-16 14:57+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>, 2017\n"
 "Language-Team: Belarusian (https://www.transifex.com/driverpack-solution/teams/75452/be/)\n"
@@ -415,8 +415,8 @@ msgstr "Іншыя версіі праграмы"
 msgid "landingproducts_item-title-online"
 msgstr "DriverPack Online"
 
-msgid "landingproducts_item-caption-online"
-msgstr "Спампоўваецца імгненна і дапампоўвае патрэбныя драйверы падчас усталёўкі"
+msgid "landingproducts_item-description-online"
+msgstr "Спампоўваецца імгненна, загружае і ўсталёўвае ўсе драйверы пры наяўнасці інтэрнэту <span class='nobr'>({{SIZE}} Мб)</span>"
 
 msgid "landingproducts_item-version"
 msgstr "Версія:"
@@ -425,16 +425,16 @@ msgid "landingproducts_item-button"
 msgstr "Спампаваць"
 
 msgid "landingproducts_item-title-network"
-msgstr "DriverPack Network"
+msgstr "DriverPack Offline Network"
 
-msgid "landingproducts_item-caption-network"
-msgstr "Спампоўваецца хутка і адразу ўтрымвае драйверы для сеткавага абсталявання"
+msgid "landingproducts_item-description-network"
+msgstr "Утрымлівае драйверы для сеткавага абсталявання (Lan/Wi-Fi), працуе без інтэрнэту <span class='nobr'>({{SIZE}} Мб)</span>"
 
 msgid "landingproducts_item-title-offline"
-msgstr "DriverPack Offline"
+msgstr "DriverPack Offline Full"
 
-msgid "landingproducts_item-caption-offline"
-msgstr "Працуе без Інтэрнэту, але важыць 13,9 Гб (варыянт для сісадмінаў)"
+msgid "landingproducts_item-description-offline"
+msgstr "Утрымлівае ўсе драйверы, працуе без інтэрнэту, спампоўваецца праз torrent <span class='nobr'>({{SIZE}} Гб)</span>"
 
 msgid "landingpublications__landing-title"
 msgstr "Пра DriverPack пішуць журналісты"
@@ -450,6 +450,12 @@ msgstr "Далучайцеся да супольнасці DriverPack"
 
 msgid "landingsocial_landing-subtitle"
 msgstr "Сачыце за навінамі і ўдзельнічайце у абмеркаваннях"
+
+msgid "landingtopvideocardlist_landing-title"
+msgstr "Папулярныя мадэлі відэакарт"
+
+msgid "landingtopvideocardlist_landing-caption"
+msgstr "DriverPack падбірае драйверы для ўсякіх мадэляў відэакарт, вось самыя папулярныя"
 
 msgid "landingusers_cta"
 msgstr "Колькасць карыстальнікаў DriverPack па ўсім свеце расце з кожнай секундай"
@@ -869,7 +875,7 @@ msgid "landingPagePublications_pcmag"
 msgstr "DriverPack Protect дапаможа абараніць кампутар ад шкодных і рэкламных праграм і плагінаў, з адсевам якіх часта не спраўляюцца антывірусы і сродкі блакавання рэкламы."
 
 msgid "landingPagePublications_habr"
-msgstr "Неабходнасць пошуку і ўсталёўкі драйвераў пры кожным пераўсталяванні Windows, як мне здаецца, адна з самых істотных недастач усяго сямейства Windows. Аднак, яшчэ ў 2008 годзе, я вырашыў выправіць гэту праблему і напісаў сваю праграму, якая атрымала назву DriverPack. Сёння маім прадуктам карыстаюцца 40 мільёнаў юзараў па ўсім свеце і можна сказаць, што праблема драйвераў у Windows вырашана, хоць і пабочным рашэннем."
+msgstr "Неабходнасць пошуку і ўсталёўкі драйвераў пры кожнаму пераўсталяванні Windows, як мне здаецца, адна з самы істотных недастач усяго сямейства Windows. Аднак, яшчэ ў 2008 годзе, я вырашыў выправіць гэту праблему і напісаў сваю праграму, якая атрымала назву DriverPack. Сёння маім прадуктам карыстаюцца 40 мільёнаў юзараў па ўсім свеце і можна сказаць, што праблема драйвераў у Windows вырашана, хоць і пабочным рашэннем."
 
 msgid "landingPagePublications_computerra"
 msgstr "Новая версія дае карыстальніку больш сродкаў для стварэння ўласнай падборкі. Асабліва гэта актуальна для тых, хто займаецца абслугоўваннем кампутараў або адмініструе вялікі парк разнастайнай тэхнікі. Зараз у DriverPack можна інтэграваць альтэрнатыўныя драйверпакі, а не толькі выдаляць лішняе."
