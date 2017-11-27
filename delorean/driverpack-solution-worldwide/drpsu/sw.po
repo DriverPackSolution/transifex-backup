@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-11-10 17:00+0000\n"
+"POT-Creation-Date: 2017-11-16 14:57+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Ir Kayembe Blaise <kablaise22@gmail.com>, 2017\n"
 "Language-Team: Swahili (https://www.transifex.com/driverpack-solution/teams/75453/sw/)\n"
@@ -72,7 +72,7 @@ msgid "adminpromo_list-item-soft"
 msgstr "Ufungaji wa kulazimishwa kwa programu kwa default ni OFF"
 
 msgid "adminpromo_list-item-packs"
-msgstr "mbinu ya msingi ya driverpacks ya kisheria imebadilishwa katika jaribio la kuondoa 'screen ya bluu ya kifo' na kesi nyingine."
+msgstr "Mbinu ya msingi ya driverpacks ya kisheria imebadilishwa katika jaribio la kuondoa 'screen ya bluu ya kifo' na kesi nyingine."
 
 msgid "adminpromo_list-item-device-support"
 msgstr "Driver mbalimbali yanashughulikia aina nyingi za vifaa (ikiwa ni pamoja na vifaa vya zamani sana)"
@@ -415,8 +415,8 @@ msgstr "Nyingine matoleo ya DriverPack matoleo"
 msgid "landingproducts_item-title-online"
 msgstr "DriverPack Online"
 
-msgid "landingproducts_item-caption-online"
-msgstr "Inapakuliwa mara moja, na itakuondoa madereva yote yanayohitajika wakati wa kufunga"
+msgid "landingproducts_item-description-online"
+msgstr ""
 
 msgid "landingproducts_item-version"
 msgstr "Mufumo:"
@@ -425,16 +425,16 @@ msgid "landingproducts_item-button"
 msgstr "Pakua"
 
 msgid "landingproducts_item-title-network"
-msgstr "DriverPack Network"
+msgstr "DriverPack Offline Network"
 
-msgid "landingproducts_item-caption-network"
-msgstr "Inapakuliwa haraka, na tayari ina madereva ya vifaa vya mtandao"
+msgid "landingproducts_item-description-network"
+msgstr "Ina ma driver kwa vifaa vya mtandao (Lan/Wi-Fi), inafanya kazi bila kuunganisha kwenye mtandao <span class='nobr'>({{SIZE}} MB)</span>"
 
 msgid "landingproducts_item-title-offline"
-msgstr "DriverPack Offline"
+msgstr "DriverPack Offline Full"
 
-msgid "landingproducts_item-caption-offline"
-msgstr "Inaweza kufanya kazi bila uunganisho wa intaneti lakini ukubwa wake ni 13.9 GB (yenye manufaa kwa admins ya mfumo)"
+msgid "landingproducts_item-description-offline"
+msgstr ""
 
 msgid "landingpublications__landing-title"
 msgstr "Machapisho ya vyombo vya habari kuhusu DriverPack"
@@ -450,6 +450,12 @@ msgstr "Jiunge na jumuiya ya DriverPack"
 
 msgid "landingsocial_landing-subtitle"
 msgstr "Fuata habari na ushiriki katika majadiliano"
+
+msgid "landingtopvideocardlist_landing-title"
+msgstr "Mifano maarufu za kadi ya video"
+
+msgid "landingtopvideocardlist_landing-caption"
+msgstr "DriverPack huchagua ma driver kwa kadi za video za mifano yoyote, hapa ndio maarufu zaidi"
 
 msgid "landingusers_cta"
 msgstr "Idadi ya watumiaji wa DriverPack duniani kote inaendelea kukua na pili ya pili"
@@ -827,7 +833,7 @@ msgid "translationheader_bubble-team"
 msgstr "Je! Ungependa kuwa sehemu ya timu ya watafsiri kwa huduma kubwa duniani ya kusanidi kompyuta moja kwa moja ?"
 
 msgid "translationheader_bubble-languages"
-msgstr "Unajua Kiingereza au Kirusi vizuri kabisa, ili uwe tayari kutafsiri kutoka kwa mmoja wao hadi lugha yako ya asili?"
+msgstr "Je! Unajua Kiingereza au Kirusi vizuri kabisa, ili uwe tayari kutafsiri kutoka kwa mmoja wao hadi lugha yako ya asili?"
 
 msgid "translationheader_bubble-experience"
 msgstr "Je! Una uzoefu wowote katika kutafsiri programu au tovuti kwa kutumia huduma za kutafsiri mtandaoni?"
@@ -878,13 +884,13 @@ msgid "landingPagePublications_vc"
 msgstr "Shukrani kwa mizabibu, bidhaa hii imetafsiriwa na watumiaji katika lugha 45 bila ushiriki wa timu yetu."
 
 msgid "adminpagefaq_official_vendors-q"
-msgstr "Kabla ya DriverPack, nilitumia madereva kutoka kwenye tovuti rasmi lakini nimeona masuala hata pamoja nao. Kwa nini madereva katika DriverPack yanaaminika zaidi kuliko yale kutoka kwa wazalishaji?"
+msgstr "Kabla ya DriverPack, nilitumia ma dreva kutoka kwenye tovuti rasmi lakini nimeona masuala hata pamoja nao. Je! kwa nini ma dreva katika DriverPack yanaaminika zaidi kuliko yale kutoka kwa wazalishaji?"
 
 msgid "adminpagefaq_official_vendors-a"
 msgstr "Ili kufanya database yetu ya driver siyo tu kubwa lakini pia imara, tunaendelea kufanya kazi kwa bidii ili kuimarisha kabisa, na hata tunatengeneza mende ambazo wazalishaji rasmi huruhusu! Tunatumia kujifunza mashine na shukrani kwao, algorithm yetu ya uteuzi inaendelea kuboresha. Na hiyo ndiyo sababu madereva kutoka kwa DriverPack ni ya kuaminika zaidi :-)"
 
 msgid "adminpagefaq_database-q"
-msgstr "Mbegu ya DriverPack inapanuaje? Je, ninaweza kupata madereva niliyohitaji ndani yake?"
+msgstr "Je! mbegu ya DriverPack inapanuaje? Je! ninaweza kupata madereva niliyohitaji ndani yake?"
 
 msgid "adminpagefaq_database-a"
 msgstr "Hadi sasa, database yetu ya driver ni kubwa duniani, ndiyo sababu utaweza kupata dereva kwa kifaa chochote kilicho na mafanikio zaidi ya 99%. Ili kuendelea kukusanya na kuunga mkono database hiyo, tunashirikiana moja kwa moja na wazalishaji wa kifaa na watengenezaji wa driver. Tunakusanya na kuchunguza madereva kutoka kwenye maeneo rasmi na pia kutoka kwa seva za FTP binafsi, na pia tunachukua mapendekezo ya watumiaji wa kazi."
@@ -899,10 +905,10 @@ msgid "adminpagefaq_antivirus-q"
 msgstr "Antivirus yangu imegundua virusi katika DriverPack - inawezaje kutokea?"
 
 msgid "adminpagefaq_antivirus-a"
-msgstr "Hii ni uwezekano mkubwa wa uongo, kwa vile matoleo yote ya DriverPack huchunguzwa na kuthibitishwa vizuri na Maabara ya Kaspersky. Kampuni yetu inashirikiana na watoa huduma wengi wa programu ya antivirus kama vile Avast, na Usalama wa Jumla ya 360. Ili kuendelea kufanya kazi, ongeza DriverPack kwenye orodha yako nyeupe ya antivirus. Pia tutathamini ikiwa unasema hii kama chanya cha kweli kwa kampuni yako ya antivirus na pia Huduma yetu ya Usaidizi."
+msgstr "Hii ni uwezekano mkubwa wa uongo, kwa vile matoleo yote ya DriverPack huchunguzwa na kuthibitishwa vizuri na Kaspersky Laboratory. Kampuni yetu inashirikiana na watoa huduma wengi wa programu ya antivirus kama vile Avast, na Usalama wa  360 Total Security. Ili kuendelea kufanya kazi, ongeza DriverPack kwenye orodha yako nyeupe ya antivirus. Pia tutathamini ikiwa unasema hii kama chanya cha kweli kwa kampuni yako ya antivirus na pia Huduma yetu ya Usaidizi."
 
 msgid "adminpagefaq_expert_mode-q"
-msgstr "Nini mode ambayo ni rahisi zaidi kwa kutumia DriverPack?"
+msgstr "Je! nini mode ambayo ni rahisi zaidi kwa kutumia DriverPack?"
 
 msgid "adminpagefaq_expert_mode-a"
 msgstr "Kwa default, DriverPack inakuja kwa hali ya moja kwa moja, iliyoundwa kueleweka na rahisi kutumia hata watumiaji wapya. Hata hivyo, kwa urahisi wa watumiaji wa juu na admins mfumo, tumeanzisha Mtaalam Mode ambayo ina mazingira kupanuliwa na chaguzi customization. Ili kuamsha hali hii, ni ya kutosha tu bonyeza kitufe kinachofanana kilicho chini ya skrini."
@@ -914,7 +920,7 @@ msgid "adminpagefaq_stable-a"
 msgstr "Utekelezaji wa programu ya DriverPack ni mojawapo ya vipaumbele vyenye kuu lakini kushindwa madogo bado kunajitokeza, ingawa ni chache. Hii ndio sababu tunaunda uhakika wa kurejesha ambayo itawawezesha kurudi kila kitu kwenye hali iliyowekwa awali. Ili kuzuia tatizo sawa katika siku zijazo, tunakupendekeza kwenda kwenye Menyu ya DriverPack na tuma ripoti ambayo imeundwa moja kwa moja na programu, kwa huduma zetu za kiufundi."
 
 msgid "badrabbitpromopage_cta-text"
-msgstr "Bad Rabbit virusi vya kielelezo — jinsi ya kulinda PC yako?"
+msgstr "Bad Rabbit virusi vya kielelezo — Je! jinsi ya kulinda PC yako?"
 
 msgid "badrabbitpromopage_cta-subtext"
 msgstr "DriverPack ina njia maalumu za kuondoa uharibifu kati ya zana za usanidi wa kompyuta. Unaweza kushusha ulinzi wa bure dhidi ya virusi vya Bad Rabbit kwa PC na kompyuta yako ambayo itahifadhi kompyuta yako."
@@ -926,16 +932,16 @@ msgid "badrabbitpromopage_caption-text"
 msgstr "Programu hii hutolewa kwa bure"
 
 msgid "badrabbitpromopage_info-text-title-1"
-msgstr "Bad Rabbit ni nini?"
+msgstr "Je! Bad Rabbit ni nini?"
 
 msgid "badrabbitpromopage_info-text-1"
 msgstr "Bad Rabbit  ni virusi mpya ya cryptographic ambayo imeshambulia kompyuta za watumiaji nchini Russia, Ukraine, Bulgaria, na Uturuki tangu mwishoni mwa mwezi wa Oktoba 2017. Pia kati ya waathirika walioathirika ni Interfax RIA, The Fontanka RIA, Wizara kadhaa ya Ukraine , pamoja na uwanja wa ndege wa Odessa. Kanuni ya operesheni ni rahisi: inatumia matumizi ya Mimikatz ili kupata data ya akaunti nje ya kumbukumbu ya PC yako. Pia inatafuta data ya akaunti ya admin ya kazi. Sungura mbaya basi hujaribu kufikia vituo vya kazi kwenye mtandao wa ndani kwa kutumia SMB na WebDAV. Mara tu inapata upatikanaji wa PC, virusi huchukua data yote ambayo imeweza kufikia, na baada ya hayo inabadilisha Kumbukumbu ya Boot Mwalimu. Wakati utaratibu huu ukamilika, Bad Rabbit hupunguza kompyuta yako na kupiga ujumbe wake kwa mahitaji ya Bitcoins 0.05 (ni nini cha dola 300 hadi Oktoba 26, 2017)."
 
 msgid "badrabbitpromopage_info-text-title-2"
-msgstr "Jinsi ya kuilinda PC yako dhidi ya virusi vya kipaji cha kijijini cha Bad Rabbit?"
+msgstr "Je! Jinsi ya kuilinda PC yako dhidi ya virusi vya kipaji cha kijijini cha Bad Rabbit?"
 
 msgid "badrabbitpromopage_info-text-2"
-msgstr "Je! unaweza kufanya nini ili kujilinda dhidi ya virusi mpya:<br/>• Create faili ya infpub.dat kwenye folda ya C:\\\\Windows\\\\ na bonyeza chaguo la 'Read-only' katika mali zake<br/>• Tazama kwa uangalifu kujenga kazi mpya katika 'Task Scheduler'<br/>• Usi install updates yoyote ya FlashPlayer kutoka kwenye tovuti ya nje<br/>• Update Windows na programu zote za kulinda zilizowekwa<br/>• Fanya salama za mfumo wako wa operating system<br/><br/> Pia, unaweza kutumia tu suluhisho jipya kutoka kwa DriverPack Solution kwa kupakua kwenye ukurasa huu - itahifadhi wakati wako!<br/><b> Suluhisho letu linatumika kwenye Windows 7, 8, 8.1, 10, na XP. </b>"
+msgstr "Je! unaweza kufanya nini ili kujilinda dhidi ya virusi mpya:<br/>• Create faili ya infpub.dat kwenye folda ya C:\\\\Windows\\\\ na bonyeza chaguo la 'Read-only' katika mali zake<br/>• Tazama kwa uangalifu kujenga kazi mpya katika 'Task Scheduler'<br/>• Usi install updates yoyote ya FlashPlayer kutoka kwenye tovuti ya nje<br/>• Update Windows na programu zote za kulinda zilizowekwa<br/>• Fanya salama za mfumo wako wa operating system<br/><br/>Pia, unaweza kutumia tu suluhisho jipya kutoka kwa DriverPack Solution kwa kupakua kwenye ukurasa huu - itahifadhi wakati wako!<br/><b>Suluhisho letu linatumika kwenye Windows 7, 8, 8.1, 10, na XP.</b>"
 
 msgid "badrabbitpromopage_links-text"
 msgstr "Maendeleo wa ufumbuzi huu ulitegemea vifaa vifuatavyo"
@@ -947,7 +953,7 @@ msgid "devicegrouppage_show-more-link"
 msgstr "Ona zaidi"
 
 msgid "devicestypepage_subtitle"
-msgstr "Wote{{CLASS.SINGLE.FOR}} wazalishaji "
+msgstr "Wote {{CLASS.SINGLE.FOR}} wazalishaji "
 
 msgid "devicetypevendorpage_subtitle-popular"
 msgstr "Inajulikana {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
@@ -962,7 +968,7 @@ msgid "landingfooter_landing-subtitle"
 msgstr "DriverPack ina ma driver kwa matoleo yote maarufu ya Windows"
 
 msgid "landing-footer_catalog-os"
-msgstr "driver ya {{OS}}"
+msgstr "drivers ya {{OS}}"
 
 msgid "landing-footer_download"
 msgstr "Pakua DriverPack"
@@ -1007,10 +1013,10 @@ msgid "notebookspage_subtitle"
 msgstr "Orodha zote za wazalishaji wa Laptop na Netbook"
 
 msgid "notebooksvendorpage_subtitle-popular"
-msgstr "maarufu {{VENDOR.NAME}} ma Laptop  na ma netbook"
+msgstr "Maarufu {{VENDOR.NAME}} ma laptop  na ma netbook"
 
 msgid "notebooksvendorpage_subtitle-all"
-msgstr "Wote {{VENDOR.NAME}} ma Laptop  na ma netbook"
+msgstr "Wote {{VENDOR.NAME}} ma laptop na ma netbook"
 
 msgid "reviewpage_title"
 msgstr "Vikwazo na mapendekezo ya kuboresha DriverPack"
@@ -1021,7 +1027,7 @@ msgstr "Ona zaidi"
 #. i18n: EN: text for {{LINK}} is in key thankyoupopup_download-link; RU:
 #. текст для {{LINK}} находится в ключе thankyoupopup_download-link;
 msgid "thankyoupopup_download-text"
-msgstr "Upakuaji haujaanza? Bonyeza hapa {{LINK}}"
+msgstr "Je! upakuaji haujaanza? Bonyeza hapa {{LINK}}"
 
 msgid "thankyoupopup_title"
 msgstr "Anza DriverPack"
@@ -1033,7 +1039,7 @@ msgid "thankyoupopup_download-link"
 msgstr "pakua"
 
 msgid "translate-feedback-header_caption"
-msgstr "Ukurasa huu umechapishwa hivi karibuni. Je! Umepata misprint? Kuzia na ubonyeze{{HOTKEY}}"
+msgstr "Ukurasa huu umechapishwa hivi karibuni. Je! Umepata misprint? Kuzia na ubonyeze {{HOTKEY}}"
 
 msgid "translate-feedback-form-popup_preview-title"
 msgstr "Umesisitiza kipande cha maandishi:"
@@ -1069,7 +1075,7 @@ msgid "vendorpage_subtitle-popular"
 msgstr "Maarufu {{VENDOR.NAME}} vifaa"
 
 msgid "wannacryptpromopage_cta-text"
-msgstr "Virusi WannaCrypt cryptographer — jinsi ya kulinda kompyuta dhidi ya mashambulizi makubwa katika historia?"
+msgstr "Virusi WannaCrypt cryptographer — Je! jinsi ya kulinda kompyuta dhidi ya mashambulizi makubwa katika historia?"
 
 msgid "wannacryptpromopage_cta-subtext"
 msgstr "DriverPack ina njia maalum za kuondoa uharibifu kati ya zana za usanidi wa kompyuta. Unaweza kushusha ulinzi wa bure dhidi ya virusi vya WannaCry, ambayo itasaidia kulinda PC yako au kompyuta yako."
@@ -1081,16 +1087,16 @@ msgid "wannacryptpromopage_caption-text"
 msgstr "Programu hii hutolewa kwa bure"
 
 msgid "wannacryptpromopage_info-text-title-1"
-msgstr "WannaCrypt ni nini?"
+msgstr "Je! WannaCrypt ni nini?"
 
 msgid "wannacryptpromopage_info-text-1"
-msgstr "WannaCrypt virusmailmailer (kwa jina la jina la WannaCry kwa waathirika) alimaliza kompyuta duniani kote Mei 12, na kuambukizwa vifaa vya watumiaji zaidi ya 300,000 katika nchi 150. Ulaya ya Magharibi, Urusi, China ilikuwa hit mbaya zaidi. Katika Uingereza, virusi vya walemavu viliimarisha mitandao ya Idara ya Afya na kusimamisha operesheni ya hospitali nchini kote. Uchina, shambulio hilo liliathiri kompyuta za zamani kwenye viwanda ambavyo viliimarisha viwanda kadhaa.<br/><br/> Hiti kuu ya jinsi virusi hii inavyofanya kazi ni rahisi: inapenya kwenye PC yako au kompyuta yako, na inakumbusha hati zote, faili na vifaa ambavyo vinaweza kupata, na huwafanya kuwa haipatikani kwa matumizi. Kisha wahusika wanadai kiasi kikubwa cha pesa kwa ajili ya kuamua — karibu dola 300. Hata hivyo, hakuna uhakika kwamba utapata upatikanaji wa faili zako nyuma. Kwa sasa, hakuna njia ya kuifuta faili zako mwenyewe, na ufumbuzi unaopatikana kwenye mtandao hivi sasa ni uvuvi, kueneza virusi vingine, au haifanyi kazi kwa uhakika wa 100%."
+msgstr "WannaCrypt virusmailmailer (kwa jina la jina la WannaCry kwa waathirika) alimaliza kompyuta duniani kote Mei 12, na kuambukizwa vifaa vya watumiaji zaidi ya 300,000 katika nchi 150. Ulaya ya Magharibi, Urusi, China ilikuwa hit mbaya zaidi. Katika Uingereza, virusi vya walemavu viliimarisha mitandao ya Idara ya Afya na kusimamisha operesheni ya hospitali nchini kote. Uchina, shambulio hilo liliathiri kompyuta za zamani kwenye viwanda ambavyo viliimarisha viwanda kadhaa.<br/><br/>Hiti kuu ya jinsi virusi hii inavyofanya kazi ni rahisi: inapenya kwenye PC yako au kompyuta yako, na inakumbusha hati zote, faili na vifaa ambavyo vinaweza kupata, na huwafanya kuwa haipatikani kwa matumizi. Kisha wahusika wanadai kiasi kikubwa cha pesa kwa ajili ya kuamua — karibu dola 300. Hata hivyo, hakuna uhakika kwamba utapata upatikanaji wa faili zako nyuma. Kwa sasa, hakuna njia ya kuifuta faili zako mwenyewe, na ufumbuzi unaopatikana kwenye mtandao hivi sasa ni uvuvi, kueneza virusi vingine, au haifanyi kazi kwa uhakika wa 100%."
 
 msgid "wannacryptpromopage_info-text-title-2"
-msgstr "Nani ana hatari?"
+msgstr "Je! nani ana hatari?"
 
 msgid "wannacryptpromopage_info-text-2"
-msgstr "PC zilizo na mfumo wa uendeshaji mapema kuliko Windows 10 na bandari za SMB zilizo wazi zina hatari zaidi. Kwa sasa, nusu ya watumiaji wote wa Windows ni hatari  — watumiaji 18% hutumia nakala za Windows zisizoombwa (kwa kuwafanya wawe hatari), watumiaji 23% wamezima huduma yao ya Mwisho Windows (ambayo inawazuia kupakua hivi karibuni & # 147; hotfixes & # 148 ; kutoka Microsoft), na mwingine 6% wanatumia matoleo ya OS ya nje ambayo haipati tu updates yoyote.<br/><br/> Hitimisho kutoka kwa yote hii ni kwamba mitandao ya makampuni mbalimbali na makampuni ya biashara ambao bado hutumia Mfumo wa Uendeshaji kama vile Windows XP ni hatari kubwa zaidi. Katika mashambulizi juu ya mitandao hii, hasara ya data inaweza kuwa mbaya na gharama itakuwa kubwa, kama yoyote & # 147; ransom & # 148; itabidi kulipwa kwa kila PC tofauti."
+msgstr "PC zilizo na mfumo wa uendeshaji mapema kuliko Windows 10 na bandari za SMB zilizo wazi zina hatari zaidi. Kwa sasa, nusu ya watumiaji wote wa Windows ni hatari  — watumiaji 18% hutumia nakala za Windows zisizoombwa (kwa kuwafanya wawe hatari), watumiaji 23% wamezima huduma yao ya Mwisho Windows (ambayo inawazuia kupakua hivi karibuni &#147;marekebisho&#148; kutoka Microsoft), na mwingine 6% wanatumia matoleo ya OS ya nje ambayo haipati tu updates yoyote.<br/><br/>Hitimisho kutoka kwa yote hii ni kwamba mitandao ya makampuni mbalimbali na makampuni ya biashara ambao bado hutumia Mfumo wa Uendeshaji kama vile Windows XP ni hatari kubwa zaidi. Katika mashambulizi juu ya mitandao hii, hasara ya data inaweza kuwa mbaya na gharama itakuwa kubwa, kama yoyote &#147;fidia&#148; itabidi kulipwa kwa kila PC tofauti."
 
 msgid "wannacryptpromopage_info-text-title-3"
 msgstr "Jinsi ya kulinda biashara yako — suluhisho kutoka kwa DriverPack Solution"

@@ -4,13 +4,14 @@
 # D O <ozzimek1@gmail.com>, 2017
 # Srbastjan Colnaric <seba1.colnaric17@gmail.com>, 2017
 # Nadia Tegeneva <nadia@drp.su>, 2017
+# ales rakovic <alesrakovic96@gmail.com>, 2017
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-11-10 17:00+0000\n"
+"POT-Creation-Date: 2017-11-16 14:57+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
-"Last-Translator: Nadia Tegeneva <nadia@drp.su>, 2017\n"
+"Last-Translator: ales rakovic <alesrakovic96@gmail.com>, 2017\n"
 "Language-Team: Slovenian (https://www.transifex.com/driverpack-solution/teams/75453/sl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -22,13 +23,13 @@ msgid "adminlandingpage_title"
 msgstr "DriverPack za profesionalce – samodejna namestitev gonilnikov na kateri koli računalnik"
 
 msgid "admincackle_dialog-star"
-msgstr ""
+msgstr "Prosimo ocenite kako ste zadovolnji z namestitve DriverPack"
 
 msgid "admindriverpacks_landing-title"
 msgstr "Driverpacks (paketi gonilnikov)"
 
 msgid "admindriverpacks_landing-subtitle"
-msgstr ""
+msgstr "Naši driverpacks vsebujejo 1,131,989 gonilnikov, ki so bili ročno izbrani in preverjeni"
 
 msgid "admindriverpacks_downloaded"
 msgstr "Prenosi:"
@@ -40,16 +41,16 @@ msgid "adminfaq_landing-title"
 msgstr "Odgovarjamo na vaša vprašanja"
 
 msgid "adminfaq_landing-subtitle"
-msgstr ""
+msgstr "Ljudje pogosto postavljajo vprašanja o programu DriverPack — Odgovorili smo na najbolj pogosta vprašanja"
 
 msgid "adminheader_cta-text"
-msgstr ""
+msgstr "DriverPack je bil ustvarjen za moderatorje, ampak vseeno je  prijazen do vseh uporabnikov"
 
 msgid "adminheader_cta-btn"
 msgstr "Prenesite DriverPack Online"
 
 msgid "adminheader_products-caption"
-msgstr ""
+msgstr "DriverPack bo posodobil vaš računalnik v najhitrejšem možnem času, izberite paket gonilnikov, ki ga potrebujete:"
 
 msgid "adminpromo_landing-title"
 msgstr "Nova različica DriverPack 18 je v razvoju"
@@ -58,34 +59,34 @@ msgid "adminpromo_landing-subtitle"
 msgstr "Nova različica je zasnovana posebej za skrbnike in upošteva njihove potrebe."
 
 msgid "adminpromo_banner-text"
-msgstr ""
+msgstr "Novi DriverPack 18 je še izboljšan v primerjavi za prejšnjimi različicami, ki so se vse pokazale kot izredno zanesljive in stabilne. Datum izida je predviden za leto 2017."
 
 msgid "adminpromo_list-item-speed"
-msgstr ""
+msgstr "Hitrost nadgradnje in optimizacija je bila še izboljšana."
 
 msgid "adminpromo_list-item-ui"
-msgstr ""
+msgstr "DriverPack vmesnik je bil optimiziran za boljšo uporabniško izkušnjo in moderatorjem nudi več informacij"
 
 msgid "adminpromo_list-item-settings"
-msgstr ""
+msgstr "Izbor opcij je bil povečan in individualna izbira  je bila dodana v program."
 
 msgid "adminpromo_list-item-soft"
-msgstr ""
+msgstr "Samosvoja namestitev programa je onemogočena"
 
 msgid "adminpromo_list-item-packs"
-msgstr ""
+msgstr "Samo delovanje driverpacks je bilo spremenjeno v taki meri da ne povzroča več uporabniku pogostih pojavov kot so modri zaslon smrti, sesutja PC ja in podobnih težav"
 
 msgid "adminpromo_list-item-device-support"
-msgstr ""
+msgstr "Bzta gonilnikov vsebuje gonilnike za vse več naprav (tudi gonilnike za zelo staro opremo)"
 
 msgid "adminpromo_list-item-expert-mode"
 msgstr "Napredni način je privzeto aktiviran."
 
 msgid "adminpromo_list-item-stable-db"
-msgstr ""
+msgstr "Najbolj stabilna baza gonilnikov je bila ustvarjena. Sam format baze je bil nadgrajen."
 
 msgid "adminpromo_list-item-full-db"
-msgstr ""
+msgstr "Največja in najbolj unikatna baza gonilnikov na svetu je bila ustvarjena"
 
 msgid "buttonsplitdropdown_main-button"
 msgstr "Prenesi"
@@ -94,7 +95,7 @@ msgid "breadcrumbs_main-text"
 msgstr "Domča stran"
 
 msgid "breadcrumbs_catalog-main-text"
-msgstr ""
+msgstr "gonilniki za {{OS.NAME}}"
 
 msgid "breadcrumbs_vendors-text"
 msgstr "Proizvajalci"
@@ -146,7 +147,7 @@ msgstr "Prenesi gonilnik"
 #. NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10 x86; Текст для
 #. {{DOWNLOAD}} находится в ключе drivercard_no-results_download-link;
 msgid "devicecard_details_no-results-text"
-msgstr ""
+msgstr "Gonilnikov za {{NAME}} sistema Windows {{OSVERSIONS}} nismo našli v našem katalogu. {{DOWNLOAD}} za avtomatsko izbiro gonilnikov."
 
 msgid "devicecard_details_no-results_download-link"
 msgstr "Prenesite DriverPack"
@@ -191,7 +192,7 @@ msgid "devicecard_details-links-notebook_device"
 msgstr "Oglejte si vse voznike"
 
 msgid "devicecard_details-links"
-msgstr ""
+msgstr "Vsi gonilniki za"
 
 msgid "devicecardlist_no-result_download-link"
 msgstr "Prenesite DriverPack"
@@ -202,7 +203,7 @@ msgstr "Prenesite DriverPack"
 #. x86; Текст для {{DOWNLOAD}} находится в ключе devicecardlist_no-
 #. result_download-link;
 msgid "devicecardlist_no-results-device-text"
-msgstr ""
+msgstr "Gonilnikov za {{DEVICENAME}} sistema Windows {{OSVERSIONS}} ni mogoče najti v našem katalogu, prosimo izberite. {{DOWNLOAD}} za avtomatsko izbiro."
 
 #. i18n: EN: Example: DEVICECLASS=chipsets|videocards; NOTEBOOK=Acer AO521;
 #. OSVERSIONS=Windows 10 x86; Text for {{DOWNLOAD}} is in key
@@ -211,14 +212,14 @@ msgstr ""
 #. OSVERSIONS=Windows 10 x86; Текст для {{DOWNLOAD}} находится в ключе
 #. devicecardlist_no-result_download-link;
 msgid "devicecardlist_no-results-notebook-text"
-msgstr ""
+msgstr "Gonilnikov za {{NOTEBOOK}} prenosnik za Windows {{OSVERSIONS}} nismo našli va nšem katalogu,prosimo izberite. {{DOWNLOAD}} za avtomatslo izbiro gonilnika."
 
 #. i18n: EN: Example: NOTEBOOK=Acer AO521; OSVERSIONS=Windows 10 x86; Text for
 #. {{DOWNLOAD}} is in key devicecardlist_no-result_download-link; RU: Пример:
 #. NOTEBOOK=Acer AO521; Пример: OSVERSIONS=Windows 10 x86; Текст для
 #. {{DOWNLOAD}} находится в ключе devicecardlist_no-result_download-link;
 msgid "devicecardlist_no-results-notebook-device-class-text"
-msgstr ""
+msgstr "Gonilnikov za {{DEVICECLASS}} za {{NOTEBOOK}} prenosnik za Windows {{OSVERSIONS}} ni bilo mogoče najti. {{DOWNLOAD}} za avtomatsko izbiro."
 
 msgid "devicegrouppage_all-systems"
 msgstr "Vsi sistemi"
@@ -236,10 +237,10 @@ msgid "deviceidheader_caption-single"
 msgstr "Ime naprave:"
 
 msgid "deviceidheader_caption-many"
-msgstr ""
+msgstr "Ta naprava je znana tudi kot:"
 
 msgid "devicetypelist_title_os"
-msgstr ""
+msgstr "Gonilniki za naprave {{OS}}"
 
 msgid "devicetypelist_title"
 msgstr "Iskanje gonilnikov za naprave"
@@ -252,7 +253,7 @@ msgstr "Prenesite DriverPack Online"
 #. NAME=Acer Aspire 4830TG; Пример: OSVERSIONS=Windows 10 x86; Текст для
 #. {{DOWNLOAD}} находится в ключе drivercard_no-results_download-link;
 msgid "drivercard_no-results-text"
-msgstr ""
+msgstr "Gonilnikov  za {{NAME}} sistema Windows {{OSVERSIONS}} nismo našli v našem katalogu. {{DOWNLOAD}} za avtomatsko izbiro gonilnikov."
 
 msgid "drivercard_no-results_download-link"
 msgstr "Prenesite DriverPack"
@@ -291,13 +292,13 @@ msgid "deviceidpage_all-systems"
 msgstr "vsi sistemi"
 
 msgid "dropdowndriverversion_no-results"
-msgstr ""
+msgstr "Gonilnikov za izbrani operaciski sistem OS ni v naši bazi"
 
 msgid "dropdownos_current"
 msgstr "sedanji"
 
 msgid "footer_banner-title"
-msgstr ""
+msgstr "Ste utrujeni od neprestanega iskanja gonilnikov za vaš računalnik?"
 
 msgid "footer_banner-caption"
 msgstr "DriverPack Online samodejno <span style='color: {{COLOR}}'>poišče in namesti</span> gonilnike, ki jih potrebujete."
@@ -306,16 +307,16 @@ msgid "footer_banner_btn"
 msgstr "Brezplačno prenesite <span class='bold'>DriverPack Online</span>"
 
 msgid "footer_translate-feedback"
-msgstr ""
+msgstr "Najdene napake ali napačnega izraza?<br />Le tega označite in pritisnite {{HOTKEY}}"
 
 msgid "header_search-title"
-msgstr ""
+msgstr "<span class='bold'>Iskanje gonilnikov po</span> največji bazi gonilnikov — več kot milijon gonilnikov prisotnih v naši bazi"
 
 msgid "header_search-examples"
 msgstr "Naprimer:"
 
 msgid "header_cta-text"
-msgstr ""
+msgstr "Nalođite DriverPack za avtomatsko izbiro gonilnikov"
 
 msgid "header_cta-btn"
 msgstr "Samodejno namesti gonilnike"
@@ -333,10 +334,10 @@ msgid "headerbutton_label"
 msgstr "Programska oprema DriverPack je povsem brezplačna."
 
 msgid "headeros_cta-btn"
-msgstr ""
+msgstr "Naložite gonilnike za <span class='HeaderOs__cta-btn-marked'>{{OS}}</span>"
 
 msgid "headeros_search-text"
-msgstr ""
+msgstr "Uporabite iskanje za dostop do naše baze gonilnikov"
 
 msgid "landingdevicetypelist_landing-title"
 msgstr "DriverPack je primeren za vsako napravo"
@@ -348,40 +349,40 @@ msgid "landingdevicetypelist_cta-btn"
 msgstr "Namesti vse potrebne gonilnike"
 
 msgid "landingdevicetypelist_versions"
-msgstr ""
+msgstr "Druge verzije DriverPack"
 
 msgid "landingfeatures_landing-title"
-msgstr ""
+msgstr "DriverPack je najprijaznejši in najhitrejši način za izboljšanje delovanja vašega računalnika"
 
 msgid "landingfeatures_landing-subtitle"
-msgstr ""
+msgstr "Program je predvideno brezplačno, primeren tako za profesionalce kot začetnike"
 
 msgid "landingfeatures_item-title-free"
-msgstr ""
+msgstr "Brezplačno"
 
 msgid "landingfeatures_item-caption-free"
-msgstr ""
+msgstr "DriverPack je predvideno brezplačno"
 
 msgid "landingfeatures_item-title-safe"
 msgstr "Varno"
 
 msgid "landingfeatures_item-caption-safe"
-msgstr ""
+msgstr "DriverPack uradno sodeluje z proizvajalci antivirusnih programov in tako pomaga pri vaši zaščiti v internetu"
 
 msgid "landingfeatures_item-title-for-all-devices"
 msgstr "Za vse naprave"
 
 msgid "landingfeatures_item-caption-for-all-devices"
-msgstr ""
+msgstr "DriverPack ima največjo zbirko gonilnikov na svetu in tako lahko posodobi vsak računalnik"
 
 msgid "landingheader_cta-text"
-msgstr ""
+msgstr "DriverPack bo namestil vse gonilnike brezplačno in tako rešil težave z vsako napravo"
 
 msgid "landingheader_cta-btn"
 msgstr "Namesti vse potrebne gonilnike"
 
 msgid "landingheadernav_badrabbit"
-msgstr ""
+msgstr "Zaščita pred virusom Bad Rabbit"
 
 msgid "landingheadernav_search"
 msgstr "Poišči gonilnike"
@@ -390,33 +391,33 @@ msgid "landingheadernav_foradmin"
 msgstr "Za skrbnike sistemov"
 
 msgid "landingintroduction_author-title"
-msgstr ""
+msgstr "Pozdravljeni! Moje ime je Artur Kuzyakov, sem ustanovitelj in založnik programa DriverPack"
 
 msgid "landingintroduction_author-speech"
-msgstr ""
+msgstr "Iz malega programčka, napisanega pred 8 leti, tako iz navdušenja smo zrasli v Globalnega igralca, ki je pomagal več kot 40 milijonom uporabnikov, da konfigurijajo svoje računalnike!<br /><br />V tem času je naš program postal izredno hiter, stabilen ter pametnejši. Danes ima DriverPack najobsežnejšo zbirko unikatnih gonilnikov na svetu, ki so dosegljivi na ultra hitrih serverjih po vsem svetu. Da bi bil sam postopek nameščanja gonilnikov čim hitrejši in brez napak uporabljamo najnovejšo in najmodernejšo tehnologijo strojno učenje pomaga našemu izbirnemu logaritmu pri izbiri gonilnikov, tako da je ta še boljši in natančnejši. Vse to smo dosegli na način, da je program ostal brezplačen za vse vas končne uporabnike in dostopen vsakomur po svetu.<br /><br />Moja ekipa in jaz smo ponosni na naš izdelek in upamo da bo program postal vaš zvest pomočnik pri konfiguriranju katerega koli računalnika v najkrajpem možnem času."
 
 msgid "landingintroduction_author-speech-marked"
-msgstr ""
+msgstr "Smo porabili vse naše čas, da bi za shranjevanje tvoj!"
 
 msgid "landingintroduction_video-caption"
-msgstr ""
+msgstr "In tu, kaj si o DriverPack Solution misli Dmitry Medvedev, premier Ruske Federacije"
 
 msgid "landingnotebookvendorslist_landing-title"
 msgstr "DriverPack je primeren za vse računalnike"
 
 msgid "landingnotebookvendorslist_landing-subtitle"
-msgstr ""
+msgstr "Da, za vsak PC - preverjeno!"
 
 msgid "landingnotebookvendorslist_cta-btn"
 msgstr "Namesti vse potrebne gonilnike"
 
 msgid "landingnotebookvendorslist_versions"
-msgstr ""
+msgstr "Druge verzije DriverPack"
 
 msgid "landingproducts_item-title-online"
 msgstr "DriverPack Online"
 
-msgid "landingproducts_item-caption-online"
+msgid "landingproducts_item-description-online"
 msgstr ""
 
 msgid "landingproducts_item-version"
@@ -426,25 +427,25 @@ msgid "landingproducts_item-button"
 msgstr "Prenos"
 
 msgid "landingproducts_item-title-network"
-msgstr "DriverPack Network"
+msgstr "DriverPack Offline Network"
 
-msgid "landingproducts_item-caption-network"
-msgstr ""
+msgid "landingproducts_item-description-network"
+msgstr "Vsebuje gonilnike za mrežne naprave (Lan/Wi-Fi), deluje tudi brez internetne povezave <span class='nobr'>({{SIZE}} MB)</span>"
 
 msgid "landingproducts_item-title-offline"
-msgstr "DriverPack Offline"
+msgstr "DriverPack Offline Full"
 
-msgid "landingproducts_item-caption-offline"
+msgid "landingproducts_item-description-offline"
 msgstr ""
 
 msgid "landingpublications__landing-title"
 msgstr "Množičnih medijskih objav o DriverPack"
 
 msgid "landingscreenshots_landing-title"
-msgstr ""
+msgstr "DriverPack je najprijaznejša in najhitrejša pot za konfiguracijo vapšega računalnika"
 
 msgid "landingscreenshots_landing-subtitle"
-msgstr ""
+msgstr "Program je predvideno brezplačno, primeren tako za profesionalce kot začetnike"
 
 msgid "landingsocial_landing-title"
 msgstr "Pridružite se skupnosti DriverPack"
@@ -452,29 +453,35 @@ msgstr "Pridružite se skupnosti DriverPack"
 msgid "landingsocial_landing-subtitle"
 msgstr "Spremljajte novice in sodelujte v razpravah"
 
+msgid "landingtopvideocardlist_landing-title"
+msgstr "Najpogostejši modeli grafičnih kartic"
+
+msgid "landingtopvideocardlist_landing-caption"
+msgstr "DriverPack izbere gonilnike za najbolj pogosto uporabljene grafične kartice, tu je seznam najbolj pogostih"
+
 msgid "landingusers_cta"
-msgstr ""
+msgstr "Število uporabnikov programa DriverPack po svetu raste vsako sekundo"
 
 msgid "landingusers_cta-btn"
 msgstr "Namesti vse potrebne gonilnike"
 
 msgid "landingusers_versions"
-msgstr ""
+msgstr "Druge verzije DriverPack"
 
 msgid "landingvideocardlist_landing-title"
-msgstr ""
+msgstr "Najpogostejši proizvajalci grafičnih kartic"
 
 msgid "landingwizard_landing-title"
-msgstr ""
+msgstr "Računalnika ni mogoče konfigurirati z enim klikom"
 
 msgid "landingwizard_item-caption-download"
-msgstr ""
+msgstr "Naložite in poženite DriverPack Online"
 
 msgid "landingwizard_item-caption-setup"
-msgstr ""
+msgstr "Konfigurirajte vaš računalnik z enim preprostim dejanjem"
 
 msgid "landingwizard_item-caption-profit"
-msgstr ""
+msgstr "Hura! Moj računalnik deluje kot nov!"
 
 msgid "landingwizard_cta-btn"
 msgstr "Namesti vse potrebne gonilnike"
@@ -486,7 +493,7 @@ msgid "navbar_download-link"
 msgstr "Prenesite DriverPack Online"
 
 msgid "notfound_cta-text"
-msgstr ""
+msgstr "Z uporabo DriverPack Online programa boste našli in nalođili vse potrebne gonilnike brezplačno"
 
 msgid "notfound_cta-btn"
 msgstr "Prenesite DriverPack Online"
@@ -501,22 +508,22 @@ msgid "notebookfilters-title"
 msgstr "Razpoložljivi vozniki"
 
 msgid "notebookvendorslist_other-text"
-msgstr ""
+msgstr "Drugi proizvajalci"
 
 msgid "notebookvendorslist_title_os"
-msgstr ""
+msgstr "Gonilniki za prenosnike na {{OS}}"
 
 msgid "notebookvendorslist_title"
 msgstr "Iskanje gonilnikov za prenosne računalnike"
 
 msgid "promoheader_cta-text-gamers"
-msgstr ""
+msgstr "Vaš računalnik je lahko zmoglivejši, kot si predstavljate: posodobite ga brezplačno"
 
 msgid "promoheader_cta-text-gamers-caption"
 msgstr "Če so vam všeč računalniške igre, vam priporočamo, da posodobite gonilnike na vašem računalniku in to bolj pogosto, da bi dosegli največjo možno učinkovitost vaše strojne opreme. Do kar do 37% več FPS-ja - najboljše izkušenje in novi dosežki iger z DriverPack. "
 
 msgid "promoheader_cta-text"
-msgstr ""
+msgstr "DriverPack bo namestil vse gonilnike brezplačno in tako rešil težave z vsako napravo"
 
 msgid "promoheader_cta-btn"
 msgstr "Namesti vse potrebne gonilnike"
@@ -534,13 +541,13 @@ msgid "promoheader_uninstall"
 msgstr "Odstranitev programa DriverPack"
 
 msgid "reviewheader_cta-text"
-msgstr ""
+msgstr "Pridružite se DriverPack skupnosti v socialnih omrežjih, tako boste obveščeni o vseh novostih v zvezi z programom, lahko pa sodelujete tudi v razpravah"
 
 msgid "reviewheader_cta"
-msgstr ""
+msgstr "Tu sprejemamo predloge in izkušnje za izboljšanje programa DriverPack"
 
 msgid "search_input-placeholder"
-msgstr ""
+msgstr "Iskanje po imenu gonilnika, prenosnika, modelu, ali DeviceID"
 
 msgid "search_btn-text"
 msgstr "Poišči"
@@ -590,16 +597,16 @@ msgid "deviceclasses_cardreader-plural-for"
 msgstr "bralnike kartic"
 
 msgid "deviceclasses_chipset-single-main"
-msgstr ""
+msgstr "sistemski nabor"
 
 msgid "deviceclasses_chipset-single-for"
-msgstr ""
+msgstr "sistemski nabor"
 
 msgid "deviceclasses_chipset-plural-main"
-msgstr ""
+msgstr "sistemski nabori"
 
 msgid "deviceclasses_chipset-plural-for"
-msgstr ""
+msgstr "sistemski nabori"
 
 msgid "deviceclasses_inputdev-single-main"
 msgstr "Vhodna naprava"
@@ -614,16 +621,16 @@ msgid "deviceclasses_inputdev-plural-for"
 msgstr "Vhodne naprave"
 
 msgid "deviceclasses_lan-single-main"
-msgstr ""
+msgstr "omrežna kartica"
 
 msgid "deviceclasses_lan-single-for"
-msgstr ""
+msgstr "omrežna kartica"
 
 msgid "deviceclasses_lan-plural-main"
-msgstr ""
+msgstr "omrežne kartice"
 
 msgid "deviceclasses_lan-plural-for"
-msgstr ""
+msgstr "omrežne kartice"
 
 msgid "deviceclasses_massstorage-single-main"
 msgstr "Krmilnik"
@@ -674,16 +681,16 @@ msgid "deviceclasses_phone-plural-for"
 msgstr "pametne telefone"
 
 msgid "deviceclasses_printer-single-main"
-msgstr ""
+msgstr "tiskalnik"
 
 msgid "deviceclasses_printer-single-for"
-msgstr ""
+msgstr "tiskalnik"
 
 msgid "deviceclasses_printer-plural-main"
-msgstr ""
+msgstr "tiskalniki"
 
 msgid "deviceclasses_printer-plural-for"
-msgstr ""
+msgstr "tiskalniki"
 
 msgid "deviceclasses_sound-single-main"
 msgstr "zvočna kartica"
@@ -768,7 +775,7 @@ msgstr "Vozniki se bodo prenessli v izbranem OS"
 #. AO521; Текст для {{DOWNLOAD}} находится в ключе searchresult_details-
 #. content_download-link
 msgid "searchresult_details-content-notebook-text"
-msgstr ""
+msgstr "{{DOWNLOAD}} za avtomatsko izbiro in namestitev vseh potrebnih gonilnikov ali izberite {{NOTEBOOK}} in jih izberite ročno iz menija"
 
 msgid "searchresult_details-content_download-link"
 msgstr "Prenesite DriverPack"
@@ -798,16 +805,16 @@ msgstr "{{DOWNLOAD}}za samodejno prepoznavanje in namestitev potrebnih gonilniko
 #. i18n: EN: Example: CLASS.SINGLE.MAIN=monitor|chipset; COUNT=12; RU: Пример:
 #. CLASS.SINGLE.MAIN=монитор|чипсет; COUNT=12;
 msgid "searchresult_device"
-msgstr ""
+msgstr "{{CLASS.SINGLE.MAIN}} ({{COUNT}} rezultati iskanja)"
 
 msgid "searchresult_details-content-text-many"
-msgstr ""
+msgstr "Za to napravo je na voljo več različnih gonilnikov"
 
 msgid "seofooter_os-list-title"
 msgstr "Različice Operacijskega Sistema: <span itemprop='operatingSystem'>{{OSLIST}}</span>"
 
 msgid "seofooter_offers-title"
-msgstr ""
+msgstr "<span itemprop='offers' itemscope='' itemtype='http://schema.org/Offer'>Na voljo <meta itemprop='price' content='0' />brezplačno</span>"
 
 msgid "seofooter_driver-description-title"
 msgstr "Opis gonilnikov"
@@ -816,16 +823,16 @@ msgid "seofooter_popular-drivers-title"
 msgstr "Priljubljeni gonilniki"
 
 msgid "sidebanner_title"
-msgstr ""
+msgstr "Utrujeni od iskanja gonilnikov?"
 
 msgid "sidebanner_caption"
-msgstr ""
+msgstr "DriverPack bo avtomatsko <span class='SideBanner__caption-marked'>našel in namestil</span> vse potrebne gonilnike"
 
 msgid "translationheader_cta-text"
-msgstr ""
+msgstr "Pomagajte da bo DriverPack na voljo milijonom uporabnikov po svetu — sodelujte  kot prostovoljec v projektu prevajanja v druge jezike"
 
 msgid "translationheader_bubble-team"
-msgstr ""
+msgstr "Si želite biti del ekipe prevajalcev v največjem svetovnem centru za računalniško konfiguracijo?"
 
 msgid "translationheader_bubble-languages"
 msgstr "Ali znate, Angleški ali Ruski jezik zelo dobro, tako da ste pripravljeni prevajati iz enega od njih v svoj materni jezik?"
@@ -834,7 +841,7 @@ msgid "translationheader_bubble-experience"
 msgstr "Ali imate izkušnje pri prevajanju programske opreme ali spletnih strani s pomočjo spletnih prevajalskih storitev?"
 
 msgid "translationheader_bubble-email"
-msgstr ""
+msgstr "Če je vaš odgovor da na vsa tri vprašanja, vas prosimo da pošljete e-mail na {{EMAIL}} '{{SUBJECT}}' odstavku tema, navedite jezik s katerim v katerem ste pripravljeni prevajati."
 
 msgid "translationlist_title"
 msgstr "Seznam pooblaščenih prevajalcev programa DriverPack"
@@ -852,139 +859,139 @@ msgid "language_title"
 msgstr "Slovenian"
 
 msgid "landingPagePublications_rbk"
-msgstr ""
+msgstr "DriverPack je program, ki vsebuje vse Windows gonilnike, selektivno izbrane in testirane pri ekipi Artura Kuzyaka. Program analizira uporabnikov PC in namesti vse potrebne gonilnike, kar vam omogoča rešite dve težavi hkrati: prvič pohitri proces namestitve gonilnikov (posebej pomembno če delo poteka na več kot enem PC-ju hkrati);in drugič izboljša stabilnost delovanja PC-ja."
 
 msgid "landingPagePublications_secretfirmy"
-msgstr ""
+msgstr "Danes ima DriverPack največjo bazo gonilnikov na sveto, program je  preveden v 45 svetovnih jezikov in deluje v več kot 42 domovih in različnih računalnikih."
 
 msgid "landingPagePublications_cnews"
-msgstr ""
+msgstr "Od dne nastanka je DriverPack Solution zelo priljubljen med uporabniki. Program je na voljo popolnoma brezplačno. S tem se DriverPack Solution razlikuje od drugih podobnih programov in privablja vse več uporabnikov vsak dan."
 
 msgid "landingPagePublications_xbit"
-msgstr ""
+msgstr "DriverPack Solution je zanimiva izbira,ker vsebuje več opcij kot konkurenčni programi. Vsak uporabnik lahko sam konfigurira svoj PC in sistem v le dveh klikih na aplikacijo. V tem trenutku DriverPack baza gonilnikov vsebuje že več kot 1.1 milijona gonilnikov in VSI so bili testirani tako da je prenos in namestitev iz naše baze popolnoma varna za vaš PC in vas."
 
 msgid "landingPagePublications_chip"
-msgstr ""
+msgstr "Z programom DriverPack iskanje in namestitev gonilnikov za vaš PC ne predstavlja več nobenega izziva. Najprijetnejši del je ta da uporabnik ne rabi delati ničesar, vse naredi program sam."
 
 msgid "landingPagePublications_pcmag"
-msgstr ""
+msgstr "DriverPack Protect vam bopomagal zaščititi vaš računalnik pred vso nezaželeno in navarno programsko opremo, brskalniškimi vtičniki, ki jih tudi antivirus in blokatorji reklam programi ne zaznajo."
 
 msgid "landingPagePublications_habr"
-msgstr ""
+msgstr "Iskanje in ponovno nameščanje vseh potrebnih gonilnikov ob vsaki ponovni namestitvi programa Windows, je po mojem mnenju ena od največjih napak same Windows skupine. Tako sem se leta 2008 odloćil da bom temu naredil konec in napisal svoj program, ki sem ga poimenoval DriverPack. Danes moj program uporablja več kot 40 milijonov uporabnikov po vsem svetu, tako je po mojem mnenju problem namestitve gonilnikov v sistemu Windows rešen, ša čeprav po zaslugi programerja, ki z Windows nima nič v poslovni povezavi."
 
 msgid "landingPagePublications_computerra"
-msgstr ""
+msgstr "Nova različica omogoča uporabniku več svobode pri izbiri gonilnikov. To je posebej pomembno za računalniške serviserje, ki se ukvarjajo z veliko različnimi modeli, proizvajalci in količino opreme. Tako je sedaj mogoče v sam DriverPack vstaviti alternativne driverpacks, kar je hitrje kot odstranjevati nezaželjene ali nepotrebne. "
 
 msgid "landingPagePublications_vc"
-msgstr ""
+msgstr "Po zaslugi uporabnikov prostovoljcev je bil program preveden v 45 svetovnih jezikov brez posredovanja moje delovne skupine."
 
 msgid "adminpagefaq_official_vendors-q"
-msgstr ""
+msgstr "Pred programom DriverPack sem gonilnike nalagal in nameščal iz uradnih podpornih strani,kar pa je večkrat privedlo do nezaćželenih napak in okvar,nedelovanja mojega PC-ja. Zakaj so gonilniki v programu DriverPack bolj zanesljivi kot gonilniki iz uradnih podpornih strani?"
 
 msgid "adminpagefaq_official_vendors-a"
-msgstr ""
+msgstr "Da bi naša baza gonilnikov ostala največja in najzaneslivejša baza na svetu delamo trdo in poskušamo vse skupaj izboljševati tudi tako da z dovoljenjem proizvajalcev programske opreme popravljamo celo njohove napake v gonilnikih! Uporablajmo strojno učenje tehnologijo in po njeni zaslugi se naš izbirni logaritem izboljšuje iz dneva v dan. In zato so gonilniki iz baze DriverPack najzaneslivejša izbira za vas in vaš PC :-)"
 
 msgid "adminpagefaq_database-q"
-msgstr ""
+msgstr "Kako se povečuje baza gonilnikov programa DriverPack? Lahko najdem vse potrebne gonilnike na enem mestu?"
 
 msgid "adminpagefaq_database-a"
-msgstr ""
+msgstr "Do današnjega dne je naša baza gonilnikov največja na svetu, zato smo prepričani da boste našli gonilnik za katerokoli napravo z 99% zanesljivostjo. Da lahko obdržimo in nadgrajujemo našo bazo smo začeli sodelovati direktno z izdelovalci naprav in razvijalci programske opreme. Zbiramo in testiramo iz uradnih strani ,kot tudi iz privatnih FTP serverjev. Vse predloge aktivnih uporabnikov pregledamo in poskušamo integrirati v program in njegovo delovanje."
 
 msgid "adminpagefaq_free-q"
 msgstr "Je pa res, da DriverPack je popolnoma brezplačen?"
 
 msgid "adminpagefaq_free-a"
-msgstr ""
+msgstr "Vsa naša programska oprema je popolnoma brezplačna! Če nas želite podpreti v naših prizadevanjih namestite programsko opremo za lastno uporabo in  priporočite DriverPack tudi svojim prijateljem :-)"
 
 msgid "adminpagefaq_antivirus-q"
 msgstr "Moj antivirus je odkril virus v DriverPack - kako bi se lahko to zgodilo?"
 
 msgid "adminpagefaq_antivirus-a"
-msgstr ""
+msgstr "Vse verzije programa DriverPack so testirane Kaspersky Laboratory, zato so antivirusna opozorila lažno pozitivna,naš program je popolnoma varen za vas in vašo opremo.Sodelujemo z proizvajalci antivirusne programske opreme kot so Avast in 360 Total Security. Će ste naleteli na težave,dodajte program DriverPack na listo izjem v vašem antivirus programu. Prav tako bomo zelo cenili. Če boste težavo posredovali svojemu proizvajalcu antivirusne zaćite in naši ekipi za  podporo."
 
 msgid "adminpagefaq_expert_mode-q"
-msgstr ""
+msgstr "Kateri način je najprimernejši za uporabo programa DriverPack ?"
 
 msgid "adminpagefaq_expert_mode-a"
-msgstr ""
+msgstr "Že v osnovi je DriverPack narejen tako da starta v avtomatskem načinu in je tako prijazen tudi do neizkušenih uporabnikov. Za vse izkušene, admine in napredne uporabnike pa smo razvili napredni vmesnik, ki vsebuje dodatne funkcije za konfiguracijo po lastnih željah. Da vključite to funcijo je dovolj le klik na gumb na dnu zaslona."
 
 msgid "adminpagefaq_stable-q"
-msgstr ""
+msgstr "Gonilnik ni bil pravilno nameščen in sedaj imam težave. Kako popravim težavo?"
 
 msgid "adminpagefaq_stable-a"
-msgstr ""
+msgstr "Stabilnost programa DriverPack je naša primarna skrb, toda vedno se lahko pojavijo manjše težave,ki pa so zelo redke. Zato program vedno ustvari obnovitveno točko v sistemu, s katero se lahko vrnete na stanje pred konfiguracijo. Da bi preprečili težave v prihodnosti priporočamo da uporabite DriverPack menu in sporočite vse potencialne našemu podpornemu timu, tako bomo lahko skupaj preprečili ponovitev napak v prihodnosti."
 
 msgid "badrabbitpromopage_cta-text"
-msgstr ""
+msgstr "Bad Rabbit cryptographer virus — kako zaščitim svoj PC?"
 
 msgid "badrabbitpromopage_cta-subtext"
-msgstr ""
+msgstr "Program DriverPack vsebuje in namesti specifično zaščito pred virusi kot je Bad Rabbit virus med samo konfiguracijo vašega PC in Vam tako pomaga da ostanete zaščiteni pred spletnimi napadi."
 
 msgid "badrabbitpromopage_cta-btn"
-msgstr ""
+msgstr "Konfigurirajte Vaš PC tako da ostanete zaščiteni pred možnostjo okužbe z Bad Rabbit virusom"
 
 msgid "badrabbitpromopage_caption-text"
-msgstr ""
+msgstr "Program je predvideno brezplačno"
 
 msgid "badrabbitpromopage_info-text-title-1"
-msgstr ""
+msgstr "Kaj je to Bad Rabbit?"
 
 msgid "badrabbitpromopage_info-text-1"
-msgstr ""
+msgstr "Bad Rabbit je nov kriptografski virus, ki je napadel računalnike v Rusiji, Ukrajini, Bolgariji in Turčiji v Oktobru 2017. Med Okuženimi računalniki so se znašli tudi računalniki korporacij Interfax RIA, Fontanka RIA, več ministerstev in samo letališče Odessa. Princip delovanja virusa je preprost: uporablja Mimikatz orodje, ki vdre v vaš PC in iz njega pridobi podatke kot so Skrbniške pravice, gesla itd. Nato preko lokalne povezave z uporabo SMB in WedDav tehnologije poskuša vdreti v vaš PC. Takoj ko dobi dostop do vašega PC-ja vam zakodira vse podatke in spremeni sam postopek zagona. Ko je postopek končan vam ob vklopu PC-ja pokaže sporočilo z zahtevo za plačilo v vrednosti 0.05 Bitcoina (kar ustreza protivrednosti cca 300$ na dan Oktober 26.2017)"
 
 msgid "badrabbitpromopage_info-text-title-2"
-msgstr ""
+msgstr "Kako zaščitite svoj PC pre napadom z virusom Bad Rabbit ?"
 
 msgid "badrabbitpromopage_info-text-2"
-msgstr ""
+msgstr "Kaj lahko storite da zaščitite svoj PC pred napadom novih virusov:<br/>• Naredite novo mapo-infpub.dat file v direktoriju C:\\\\Windows\\\\ in jo označite kot  'Read-only' v lastnostih mape.<br/>• Bodite pozorni na ustvarjanjenovih opravil v direktoriju 'Task Scheduler'<br/>• Ne nameščajte nobenih posodobitev programa FlashPlayer iz zunanjih virov<br/>• Posodobite Windows in vso nameščeno protivirusno zaščito na vašem PC.ju<br/>• Naredite si shranjeno kopijo sistema<br/><br/>Ali pa enostavno uporabite rešitve, ki jih ponuja program DriverPack Solution, ki ga namestite iz povezave na tej strani-tako boste prihranili čas!<br/><b>Naša rešitev deluje na Windows 7, 8, 8.1, 10, in XP.</b>"
 
 msgid "badrabbitpromopage_links-text"
-msgstr ""
+msgstr "Rešitve smo pridobili z uporabo navedenih storitev"
 
 msgid "badrabbitpromopage_link-smb"
-msgstr ""
+msgstr "Kako omogočim in onemogočim verzije 1, 2 in 3 SMB protokola za Windows in Windows Server?"
 
 msgid "devicegrouppage_show-more-link"
 msgstr "Poglej več"
 
 msgid "devicestypepage_subtitle"
-msgstr ""
+msgstr "Vsi {{CLASS.SINGLE.FOR}} proizvajalci"
 
 msgid "devicetypevendorpage_subtitle-popular"
-msgstr ""
+msgstr "Najboljpriljubljeni {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
 
 msgid "devicetypevendorpage_subtitle-all"
-msgstr ""
+msgstr "Vsi {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
 
 msgid "errorpage_title"
-msgstr ""
+msgstr "Napaka 500: notranja napaka strežnika"
 
 msgid "landingfooter_landing-subtitle"
-msgstr ""
+msgstr "DriverPack vsebuje gonilnike za vse priljubljene različice sistema Windows"
 
 msgid "landing-footer_catalog-os"
-msgstr ""
+msgstr "gonilniki za {{OS}}"
 
 msgid "landing-footer_download"
 msgstr "Prenesite DriverPack"
 
 msgid "landing-footer_versions"
-msgstr ""
+msgstr "Vse različice programa"
 
 msgid "landing-footer_manufacturers"
-msgstr ""
+msgstr "Proizvajalci komponent"
 
 msgid "landing-footer_badrabbit"
-msgstr ""
+msgstr "Zaščita pred virusom Bad Rabbit"
 
 msgid "landing-footer_for-admin"
-msgstr ""
+msgstr "Za skrbnike sistema"
 
 msgid "landing-footer_for-translators"
-msgstr ""
+msgstr "Za prevajalce"
 
 msgid "landing-footer_hwids"
-msgstr ""
+msgstr "Device ID"
 
 msgid "landing-footer_wannacry"
 msgstr "Zaščita pred WannaCry"
@@ -996,25 +1003,25 @@ msgid "landing-footer_remove"
 msgstr "Odstranitev programa DriverPack"
 
 msgid "notfoundpage_title"
-msgstr ""
+msgstr "Napaka 404: strani ni mogoče najti"
 
 msgid "notebookpage_show-more-link"
 msgstr "Poglej več"
 
 msgid "notebookpage_all-devices"
-msgstr ""
+msgstr "za vse naprave"
 
 msgid "notebookspage_subtitle"
-msgstr ""
+msgstr "Vsi proizvajalci notesnikov in prenosnikov"
 
 msgid "notebooksvendorpage_subtitle-popular"
-msgstr ""
+msgstr "Priljubljeni modeli {{VENDOR.NAME}} prenosnikov in notesnikov"
 
 msgid "notebooksvendorpage_subtitle-all"
-msgstr ""
+msgstr "Vsi {{VENDOR.NAME}} laptopi in notesniki"
 
 msgid "reviewpage_title"
-msgstr ""
+msgstr "Vaše povratne informacije in predlogi za izboljšanje programa DriverPack "
 
 msgid "searchpage_show-more-link"
 msgstr "Poglej več"
@@ -1022,85 +1029,85 @@ msgstr "Poglej več"
 #. i18n: EN: text for {{LINK}} is in key thankyoupopup_download-link; RU:
 #. текст для {{LINK}} находится в ключе thankyoupopup_download-link;
 msgid "thankyoupopup_download-text"
-msgstr ""
+msgstr "Prenos se ni začel? Kliknite tu {{LINK}}"
 
 msgid "thankyoupopup_title"
-msgstr ""
+msgstr "Poženite program DriverPack"
 
 msgid "thankyoupopup_cta-text"
-msgstr ""
+msgstr "Za izbiro in namestitev gonilnikov na vaš računalnik"
 
 msgid "thankyoupopup_download-link"
-msgstr ""
+msgstr "prenos"
 
 msgid "translate-feedback-header_caption"
-msgstr ""
+msgstr "Ta stran je bila prevedena pred kratkim. Ste našli napako ali napačen izraz? Označite jo in pritisnite  {{HOTKEY}}"
 
 msgid "translate-feedback-form-popup_preview-title"
-msgstr ""
+msgstr "Ste poudarili naslednje kos besedilo:"
 
 msgid "translate-feedback-form-popup_correct-title"
-msgstr ""
+msgstr "Prosimo razložite napako in vnesite pravilen izraz:"
 
 msgid "translate-feedback-form-popup_submit"
-msgstr ""
+msgstr "Pošlji"
 
 msgid "translate-feedback-popup_title-error"
-msgstr ""
+msgstr "Nekaj je šlo po zlu"
 
 msgid "translate-feedback-popup_description-error"
-msgstr ""
+msgstr "Oznalen del besedila ni bil poslan zaradi napake na serverju. <br />Poskusite ponovno kasneje."
 
 msgid "translate-feedback-popup_title-success"
-msgstr ""
+msgstr "Hvala lepa"
 
 msgid "translate-feedback-popup_description-success"
-msgstr ""
+msgstr "Oznalen tekst je bil poslan uredniku."
 
 msgid "translate-feedback-popup_description-join-us"
-msgstr ""
+msgstr "Podprite nas s prevodom v vaš jezik."
 
 msgid "translate-feedback-popup_description-join-link"
-msgstr ""
+msgstr "Pridružite se naši skupini prevajalcev!"
 
 msgid "translationlandingpage_title"
-msgstr ""
+msgstr "Prevodi programa DriverPack"
 
 msgid "vendorpage_subtitle-popular"
-msgstr ""
+msgstr "Priljubljeni {{VENDOR.NAME}} komponent"
 
 msgid "wannacryptpromopage_cta-text"
-msgstr ""
+msgstr "WannaCrypt cryptographer virus — kako se zasčitim pred največjim napadom v zgodovini?"
 
 msgid "wannacryptpromopage_cta-subtext"
-msgstr ""
+msgstr "Program DriverPack vsebuje začito pred ranljivostmi vaših komponent v primeru napada. Prenesite brezplačno zaščito pred napadom WannaCry virusa za vaš PC ali prenosnik."
 
 msgid "wannacryptpromopage_cta-btn"
-msgstr ""
+msgstr "Konfigurirajte in zaščitite vaš računalnik pred napadom virusa WannaCry"
 
 msgid "wannacryptpromopage_caption-text"
-msgstr ""
+msgstr "Program je predvideno brezplačno"
 
 msgid "wannacryptpromopage_info-text-title-1"
-msgstr ""
+msgstr "Kaj je WannaCrypt?"
 
 msgid "wannacryptpromopage_info-text-1"
-msgstr ""
+msgstr "WannaCrypt izsiljevalski virus, (ki so ga žrtve napadov poimenovale WannaCry) je napadel računalnike po vsem svetu 12 maja in okužil več kot 300.000 računalnikov v 150 državah sveta. Zahodna Evropa, Rusija, Kitajska so doživele najhujši napad. V Združenem Kraljestvu je virus onesposobil mrežo ministrstva za zdravje in onemogočil izvajanje nujnih operacij v bolnišnicah po vsej državi. Na Kitajskem je napadel predvsem starejše računalnike v tovarnah, kar je ustavilo proizvodnjo.<br/><br/>Način delovanja virusa je preprost: vdre v vaš PC ali prenosnik in zakodira popolnoma vse kar najde na njem in onemogoči uporabo slednjega. Nato ustvarjalci virusa zahtevajo plačilo —300 $ za dostop do podatkov. Toda nobene garancije ni da bo dostop tudi v resnici omogočen, sami pa tudi ne morete dekodirati vaših dokumento ko so enkrat okuženi. Vse rešitve trenutno, ki jih najdete na internetu so širjenje novih virusov, poskusi pridobitve vaših podatkov ali pa ne delujejo 100%."
 
 msgid "wannacryptpromopage_info-text-title-2"
-msgstr ""
+msgstr "Kdo je v nevarnosti?"
 
 msgid "wannacryptpromopage_info-text-2"
-msgstr ""
+msgstr "Računalniki z OS pred Windows 10, ki imajo odprta SMB vrata so med najbolj ogroženimi. V tem trenutku je ogrožena vsaj polovica uporabnikov sistema Windows — 18% jih uporablja nelicenčno kopijo sistema Windows, (kar jih avtomatsko postavlja v nevarnost), 23% jih je onemogočilo Windows posodobitve (kar preprečuje namestitev nujnih popravkov  # 147,# 148  sistema   s strani Microsofta) in 6% jih uporablja zastarelo različico, ki ne prejema nobenih novih posodobitev. <br/><br/>Zaključek je da so omrežja in razna podjetja, ki še vedno uporabljajo zastareli OS kot je Windows XP v največji nevarnosti. V primeru napada v teh omrežjih bodo posledice neizmerljive in nastala bo ogromna finačna izguba saj bo z zahtevo za  odkupnino treba plačati za vsak PC posebej."
 
 msgid "wannacryptpromopage_info-text-title-3"
-msgstr ""
+msgstr "Začsčitite svoje poslovanje — uporabite rešitve, ki vam jih ponuja DriverPack Solution"
 
 msgid "wannacryptpromopage_info-text-3"
-msgstr ""
+msgstr "Največja nevarnost napadov z virusom  WannaCrypt (WannaCry) je da se širi preko ranljivosti v SMBv1 protokolu varnostnega sistema MS17-010. Tako je virus WannaCry praktično neviden za večino antivirusnih programov. Rešitev programa DriverPack Solution vam omogoči da namestite in posodobite vse kritične ranljivosti vašega sistema in onemogočite zastarele protokole, ki so groćnja in omogočajo napad, ne glede na vašo zgodovino licenc OS in samo verzijo, ki jo uporabljate."
 
 msgid "wannacryptpromopage_links-text"
-msgstr ""
+msgstr "Rešitve smo pridobili z uporabo navedenih storitev"
 
 msgid "wannacryptpromopage_link-smb"
-msgstr ""
+msgstr "Kako omogočim in onemogočim verzije 1, 2 in 3 SMB protokola za Windows in Windows Server?"

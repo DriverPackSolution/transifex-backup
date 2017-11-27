@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-11-10 17:00+0000\n"
+"POT-Creation-Date: 2017-11-16 14:57+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Momentum Z <momentum.ns@gmail.com>, 2017\n"
 "Language-Team: Serbian (https://www.transifex.com/driverpack-solution/teams/75453/sr/)\n"
@@ -86,7 +86,7 @@ msgid "adminpromo_list-item-stable-db"
 msgstr ""
 
 msgid "adminpromo_list-item-full-db"
-msgstr ""
+msgstr "Jedinstvena i najveća baza drajvera na svetu je kreirana"
 
 msgid "buttonsplitdropdown_main-button"
 msgstr "Preuzimanje"
@@ -292,19 +292,19 @@ msgid "deviceidpage_all-systems"
 msgstr "svi sistemi"
 
 msgid "dropdowndriverversion_no-results"
-msgstr ""
+msgstr "Drajveri za izabrani OS nisu pronadjeni"
 
 msgid "dropdownos_current"
 msgstr "trenutni"
 
 msgid "footer_banner-title"
-msgstr ""
+msgstr "Da li ste umorni od potrage za drajverima za vaš uredjaj?"
 
 msgid "footer_banner-caption"
-msgstr ""
+msgstr "DriverPack Online <span style='color: {{COLOR}}'>će pronaći i instalirati</span> drajvere za Vas automatski"
 
 msgid "footer_banner_btn"
-msgstr ""
+msgstr "Skinite <span class='bold'>DriverPack Online</span> besplatno"
 
 msgid "footer_translate-feedback"
 msgstr ""
@@ -346,10 +346,10 @@ msgid "landingdevicetypelist_landing-subtitle"
 msgstr ""
 
 msgid "landingdevicetypelist_cta-btn"
-msgstr ""
+msgstr "Instalirajte sve potrebne drajvere"
 
 msgid "landingdevicetypelist_versions"
-msgstr ""
+msgstr "Ostale DriverPack verzije"
 
 msgid "landingfeatures_landing-title"
 msgstr ""
@@ -361,37 +361,37 @@ msgid "landingfeatures_item-title-free"
 msgstr "Besplatno"
 
 msgid "landingfeatures_item-caption-free"
-msgstr ""
+msgstr "DriverPack je besplatan"
 
 msgid "landingfeatures_item-title-safe"
 msgstr "Sigurno"
 
 msgid "landingfeatures_item-caption-safe"
-msgstr ""
+msgstr "DriverPack zvanično saradjuje sa proizvodjačima antivirus programa, i štiti Vaš računar"
 
 msgid "landingfeatures_item-title-for-all-devices"
-msgstr ""
+msgstr "Za sve uredjaje"
 
 msgid "landingfeatures_item-caption-for-all-devices"
-msgstr ""
+msgstr "DriverPack poseduje najveću bazu drajvera na svetu, i može da konfiguriše bilo koji računar"
 
 msgid "landingheader_cta-text"
-msgstr ""
+msgstr "DriverPack će instalirati drajvere besplatno i rešiti probleme sa drajverima na bilo kom uredjaju"
 
 msgid "landingheader_cta-btn"
-msgstr ""
+msgstr "Instalirajte sve potrebne drajvere"
 
 msgid "landingheadernav_badrabbit"
-msgstr ""
+msgstr "Zaštita od Bad Rabbit-a"
 
 msgid "landingheadernav_search"
-msgstr ""
+msgstr "Pretraga drajvera"
 
 msgid "landingheadernav_foradmin"
-msgstr ""
+msgstr "Za administratore sistema"
 
 msgid "landingintroduction_author-title"
-msgstr ""
+msgstr "Zdravo! Moje ime je Artur Kuzyakov. Ja sam autor i osnivač DriverPack-a"
 
 msgid "landingintroduction_author-speech"
 msgstr ""
@@ -403,21 +403,21 @@ msgid "landingintroduction_video-caption"
 msgstr ""
 
 msgid "landingnotebookvendorslist_landing-title"
-msgstr ""
+msgstr "DriverPack je pogodan za bilo koji računar"
 
 msgid "landingnotebookvendorslist_landing-subtitle"
-msgstr ""
+msgstr "Da, za BILO koji računar - proverili smo!"
 
 msgid "landingnotebookvendorslist_cta-btn"
-msgstr ""
+msgstr "Instalirajte sve potrebne drajvere"
 
 msgid "landingnotebookvendorslist_versions"
-msgstr ""
+msgstr "Ostale DriverPack verzije"
 
 msgid "landingproducts_item-title-online"
 msgstr "DriverPack Online"
 
-msgid "landingproducts_item-caption-online"
+msgid "landingproducts_item-description-online"
 msgstr ""
 
 msgid "landingproducts_item-version"
@@ -427,58 +427,64 @@ msgid "landingproducts_item-button"
 msgstr "Preuzimanje"
 
 msgid "landingproducts_item-title-network"
-msgstr "DriverPack Network"
+msgstr "DriverPack Offline Network"
 
-msgid "landingproducts_item-caption-network"
-msgstr ""
+msgid "landingproducts_item-description-network"
+msgstr "Sadrži drajvere za mrežni hardware (Lan/Wi-Fi), radi bez internet konekcije <span class='nobr'>({{SIZE}} MB)</span>"
 
 msgid "landingproducts_item-title-offline"
-msgstr "DriverPack Offline"
+msgstr "DriverPack Offline Full"
 
-msgid "landingproducts_item-caption-offline"
+msgid "landingproducts_item-description-offline"
 msgstr ""
 
 msgid "landingpublications__landing-title"
-msgstr ""
+msgstr "Objave masovnih medija o DriverPack-u"
 
 msgid "landingscreenshots_landing-title"
-msgstr ""
+msgstr "DriverPack je najpovoljniji i najbrži način da konfigurišete računar"
 
 msgid "landingscreenshots_landing-subtitle"
 msgstr ""
 
 msgid "landingsocial_landing-title"
-msgstr ""
+msgstr "Pridružite se DriverPack zajednici"
 
 msgid "landingsocial_landing-subtitle"
-msgstr ""
+msgstr "Pratite vesti i učestvujte u diskusijama"
+
+msgid "landingtopvideocardlist_landing-title"
+msgstr "Popularni modeli grafičkih kartica"
+
+msgid "landingtopvideocardlist_landing-caption"
+msgstr "DriverPack bira drajvere za grafičke kartice bilo kog modela, ovo su neki od najpopularnijih"
 
 msgid "landingusers_cta"
-msgstr ""
+msgstr "Broj DriverPack korisnika širom sveta raste svake sekunde"
 
 msgid "landingusers_cta-btn"
-msgstr ""
+msgstr "Instalirajte sve potrebne drajvere"
 
 msgid "landingusers_versions"
-msgstr ""
+msgstr "Ostale DriverPack verzije"
 
 msgid "landingvideocardlist_landing-title"
-msgstr ""
+msgstr "Popularni proizvodjači grafičkih kartica"
 
 msgid "landingwizard_landing-title"
-msgstr ""
+msgstr "Sada je moguće konfigurisati računar jednim klikom"
 
 msgid "landingwizard_item-caption-download"
-msgstr ""
+msgstr "Skinite i pokrenite DriverPack Online"
 
 msgid "landingwizard_item-caption-setup"
-msgstr ""
+msgstr "Konfigurišite Vaš računar jednim jednostavnim klikom"
 
 msgid "landingwizard_item-caption-profit"
-msgstr ""
+msgstr "To! Sada moj računar radi kao nov!"
 
 msgid "landingwizard_cta-btn"
-msgstr ""
+msgstr "Instalirajte sve potrebne drajvere"
 
 msgid "navbar_download-link-short"
 msgstr "Preuzimanje"
@@ -487,16 +493,16 @@ msgid "navbar_download-link"
 msgstr "Preuzimanje DriverPack Online"
 
 msgid "notfound_cta-text"
-msgstr ""
+msgstr "Možete pronaći i instalirati drajvere automatski koristeći DriverPack Online besplatno"
 
 msgid "notfound_cta-btn"
 msgstr "Preuzimanje DriverPack Online "
 
 msgid "notfound_info-404"
-msgstr ""
+msgstr "{{404}} — tražena stranica nije pronadjena"
 
 msgid "notfound_info-500"
-msgstr ""
+msgstr "{{500}}— nešto je krenulo naopako (greška servera) "
 
 msgid "notebookfilters-title"
 msgstr "Dostupni drajveri"
@@ -505,31 +511,31 @@ msgid "notebookvendorslist_other-text"
 msgstr "Drugi proizvođači"
 
 msgid "notebookvendorslist_title_os"
-msgstr ""
+msgstr "Drajveri za laptopove za {{OS}}"
 
 msgid "notebookvendorslist_title"
-msgstr ""
+msgstr "Pretraga drajvera za laptopove"
 
 msgid "promoheader_cta-text-gamers"
-msgstr ""
+msgstr "Vaš računar je moćniji nego što mislite: ažurirajte sve drajvere besplatno"
 
 msgid "promoheader_cta-text-gamers-caption"
 msgstr ""
 
 msgid "promoheader_cta-text"
-msgstr ""
+msgstr "DriverPack će instalirati drajvere besplatno i rešiti probleme sa drajverima na bilo kom uredjaju"
 
 msgid "promoheader_cta-btn"
-msgstr ""
+msgstr "Instalirajte sve potrebne drajvere"
 
 msgid "promoheader_size"
-msgstr ""
+msgstr "Veličina fajla: {{SIZE}} KB"
 
 msgid "promoheader_license"
 msgstr "Ugovorna licenca"
 
 msgid "promoheader_os-versions"
-msgstr ""
+msgstr "Ovaj software je pogodan za Windows 10, 8.1, 8, 7, Vista, XP"
 
 msgid "promoheader_uninstall"
 msgstr ""
@@ -538,7 +544,7 @@ msgid "reviewheader_cta-text"
 msgstr ""
 
 msgid "reviewheader_cta"
-msgstr ""
+msgstr "Dodajte Vaše mišljenje ili sugestiju za unapredjenje DriverPack-a"
 
 msgid "search_input-placeholder"
 msgstr ""
@@ -547,7 +553,7 @@ msgid "search_btn-text"
 msgstr "Pronađi"
 
 msgid "searchformitem_type-section"
-msgstr ""
+msgstr "Kategorija"
 
 msgid "searchformitem_type-notebook"
 msgstr "laptop"
@@ -556,7 +562,7 @@ msgid "searchformitem_type-device"
 msgstr "уређај"
 
 msgid "searchformitem_type-free"
-msgstr ""
+msgstr "besplatno"
 
 #. i18n: EN: Example: NAME=Acer; RU: Пример: NAME=Acer;
 msgid "generatesearchitemname_notebookvendor"
@@ -762,7 +768,7 @@ msgid "searchheader_caption-subtitle"
 msgstr ""
 
 msgid "searchheader_caption-filter-label"
-msgstr ""
+msgstr "Drajveri će biti skinuti za izabrani OS"
 
 #. i18n: EN: Example: NOTEBOOK=Acer AO521; Text for {{DOWNLOAD}} is in key
 #. searchresult_details-content_download-link; RU: Пример: NOTEBOOK=Acer
@@ -778,7 +784,7 @@ msgid "searchresult_notebook"
 msgstr "Laptop"
 
 msgid "searchresult_download-btn"
-msgstr ""
+msgstr "Instalirati drajvere automatski"
 
 msgid "searchresult_details-content-text-placeholder"
 msgstr "Učitavanje podataka"
@@ -802,22 +808,22 @@ msgid "searchresult_device"
 msgstr ""
 
 msgid "searchresult_details-content-text-many"
-msgstr ""
+msgstr "Nekoliko različitih drajvera je pronadjeno za ovaj uredjaj"
 
 msgid "seofooter_os-list-title"
-msgstr ""
+msgstr "Verzije operativnog sistema: <span itemprop='operatingSystem'>{{OSLIST}}</span>"
 
 msgid "seofooter_offers-title"
-msgstr ""
+msgstr "<span itemprop='offers' itemscope='' itemtype='http://schema.org/Offer'>Dostupno <meta itemprop='price' content='0' />besplatno</span>"
 
 msgid "seofooter_driver-description-title"
-msgstr ""
+msgstr "Opis drajvera"
 
 msgid "seofooter_popular-drivers-title"
-msgstr ""
+msgstr "Popularni drajveri"
 
 msgid "sidebanner_title"
-msgstr ""
+msgstr "Da li ste umorni od potrage za drajverima?"
 
 msgid "sidebanner_caption"
 msgstr "DriverPack će automatski <span class='SideBanner__caption-marked'>izabrati i instalirati</span> potrebne drajvere"
@@ -826,10 +832,10 @@ msgid "translationheader_cta-text"
 msgstr ""
 
 msgid "translationheader_bubble-team"
-msgstr ""
+msgstr "Da li biste voleli da budete deo tima prevodilaca za najveći servis na svetu za automatsko kompjutersko konfigurisanje?"
 
 msgid "translationheader_bubble-languages"
-msgstr ""
+msgstr "Da li znate Engleski ili Ruski jezik veoma dobro, tako da ste spremni da prevodite sa tih na Vaš maternji jezik?"
 
 msgid "translationheader_bubble-experience"
 msgstr ""
@@ -892,13 +898,13 @@ msgid "adminpagefaq_database-a"
 msgstr ""
 
 msgid "adminpagefaq_free-q"
-msgstr ""
+msgstr "Da li je tačno da je DriverPack apsolutno besplatan?"
 
 msgid "adminpagefaq_free-a"
-msgstr ""
+msgstr "Svi naši softwari su besplatni! Ali ako želite da podržite naš projekat, možete instalirati ovaj koristan software koji vam nudimo za Vašu upotrebu, i preporučiti DriverPack Vašim prijateljima :-)"
 
 msgid "adminpagefaq_antivirus-q"
-msgstr ""
+msgstr "Moj antivirus je pronašao virus u DriverPack-u - kako je to moguće?"
 
 msgid "adminpagefaq_antivirus-a"
 msgstr ""
@@ -922,13 +928,13 @@ msgid "badrabbitpromopage_cta-subtext"
 msgstr ""
 
 msgid "badrabbitpromopage_cta-btn"
-msgstr ""
+msgstr "Konfigurišite računar i zaštitite ga od Bad Rabbit-a"
 
 msgid "badrabbitpromopage_caption-text"
-msgstr ""
+msgstr "Ovaj software je besplatan"
 
 msgid "badrabbitpromopage_info-text-title-1"
-msgstr ""
+msgstr "Šta je Bad Rabbit?"
 
 msgid "badrabbitpromopage_info-text-1"
 msgstr ""
@@ -937,138 +943,138 @@ msgid "badrabbitpromopage_info-text-title-2"
 msgstr ""
 
 msgid "badrabbitpromopage_info-text-2"
-msgstr ""
+msgstr "Šta možete da učinite da se zaštitite od novog virusa:<br/>• Kreirajte infpun.dat fajl u C:\\\\Windows\\\\ folderu i uključite 'Read-only' opciju u proporcijama<br/>• Pažljivo pratite kreiranje zadataka u 'Task Scheduler'<br/>• Ne instalirajte nove verzije FlashPlayer-a sa nepoznatih sajtova<br/>• Ažurirajte Windows i sve instalirane zaštitne programe<br/>• Napravite backup verziju Vašeg operativnog sistema<br/><br/>Takodje, možete koristiti novo rešenje od DriverPack Solution tako što ćete skinuti na ovoj stranici - sačuvaće Vaše vreme!<br/><b>Naša rešenja rade na Windows 7, 8, 8.1, 10 i XP.</b>"
 
 msgid "badrabbitpromopage_links-text"
-msgstr ""
+msgstr "Razvoj ovog rešenja je baziran na sledećem materijalu"
 
 msgid "badrabbitpromopage_link-smb"
-msgstr ""
+msgstr "Kako omogućiti i onemogućiti verzije 1, 2, i 3 SMB protokola za Windows i Windows servere"
 
 msgid "devicegrouppage_show-more-link"
-msgstr ""
+msgstr "Pogledati više"
 
 msgid "devicestypepage_subtitle"
-msgstr ""
+msgstr "Svi {{CLASS.SINGLE.FOR}} proizvodjači"
 
 msgid "devicetypevendorpage_subtitle-popular"
-msgstr ""
+msgstr "Popularni {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
 
 msgid "devicetypevendorpage_subtitle-all"
-msgstr ""
+msgstr "Svi {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
 
 msgid "errorpage_title"
-msgstr ""
+msgstr "Greška 500: interna greška servera"
 
 msgid "landingfooter_landing-subtitle"
-msgstr ""
+msgstr "DriverPack sadrži drajvere za sve popularne verzije Windows-a"
 
 msgid "landing-footer_catalog-os"
-msgstr ""
+msgstr "Drajveri za {{OS}}"
 
 msgid "landing-footer_download"
 msgstr "Preuzimanje DriverPack"
 
 msgid "landing-footer_versions"
-msgstr ""
+msgstr "Sve verzije aplikacije"
 
 msgid "landing-footer_manufacturers"
-msgstr ""
+msgstr "Proizvodjači hardware-a"
 
 msgid "landing-footer_badrabbit"
-msgstr ""
+msgstr "Zaštita od Bad Rabbit-a"
 
 msgid "landing-footer_for-admin"
-msgstr ""
+msgstr "Za administratore sistema"
 
 msgid "landing-footer_for-translators"
-msgstr ""
+msgstr "Za prevodioce"
 
 msgid "landing-footer_hwids"
-msgstr ""
+msgstr "Device ID"
 
 msgid "landing-footer_wannacry"
-msgstr ""
+msgstr "Zaštita od WannaCry"
 
 msgid "landing-footer_license"
 msgstr "Ugovorna licenca"
 
 msgid "landing-footer_remove"
-msgstr ""
+msgstr "DriverPack brisanje"
 
 msgid "notfoundpage_title"
-msgstr ""
+msgstr "Greška 404: stranica nije pronadjena"
 
 msgid "notebookpage_show-more-link"
-msgstr ""
+msgstr "Pogledati više"
 
 msgid "notebookpage_all-devices"
-msgstr ""
+msgstr "za sve uredjaje"
 
 msgid "notebookspage_subtitle"
-msgstr ""
+msgstr "Lista proizvodjača svih laptopova i netbukova"
 
 msgid "notebooksvendorpage_subtitle-popular"
-msgstr ""
+msgstr "Popularni {{VENDOR.NAME}} laptopovi i netbukovi"
 
 msgid "notebooksvendorpage_subtitle-all"
-msgstr ""
+msgstr "Svi {{VENDOR.NAME}} laptopovi i netbukovi"
 
 msgid "reviewpage_title"
-msgstr ""
+msgstr "Povratne informacije i sugestije za unapredjenje DriverPack-a"
 
 msgid "searchpage_show-more-link"
-msgstr ""
+msgstr "Pogledati više"
 
 #. i18n: EN: text for {{LINK}} is in key thankyoupopup_download-link; RU:
 #. текст для {{LINK}} находится в ключе thankyoupopup_download-link;
 msgid "thankyoupopup_download-text"
-msgstr ""
+msgstr "Preuzimanje još nije počelo? Kliknite ovde da {{LINK}}"
 
 msgid "thankyoupopup_title"
-msgstr ""
+msgstr "Pokrenite DriverPack"
 
 msgid "thankyoupopup_cta-text"
-msgstr ""
+msgstr "da biste odabrali i instalirali drajvere na Vaš računar"
 
 msgid "thankyoupopup_download-link"
-msgstr ""
+msgstr "preuzmete"
 
 msgid "translate-feedback-header_caption"
-msgstr ""
+msgstr "Ova stranica je skoro prevedena. Da li ste našli grešku? Obeležite je i pritisnite {{HOTKEY}}"
 
 msgid "translate-feedback-form-popup_preview-title"
-msgstr ""
+msgstr "Obeležili ste sledeći deo teksta:"
 
 msgid "translate-feedback-form-popup_correct-title"
 msgstr ""
 
 msgid "translate-feedback-form-popup_submit"
-msgstr ""
+msgstr "Pošaljite"
 
 msgid "translate-feedback-popup_title-error"
-msgstr ""
+msgstr "Nešto nije u redu"
 
 msgid "translate-feedback-popup_description-error"
-msgstr ""
+msgstr "Obeleženi tekst nije poslat zbog problema na serveru. <br />Molimo, pokusajte kasnije."
 
 msgid "translate-feedback-popup_title-success"
-msgstr ""
+msgstr "Hvala Vam"
 
 msgid "translate-feedback-popup_description-success"
-msgstr ""
+msgstr "Obeleženi tekst je poslat editoru."
 
 msgid "translate-feedback-popup_description-join-us"
-msgstr ""
+msgstr "Molimo Vas da nam pomognete u prevodjenju na Vaš maternji jezik."
 
 msgid "translate-feedback-popup_description-join-link"
-msgstr ""
+msgstr "Pridružite se našem timu prevodilaca!"
 
 msgid "translationlandingpage_title"
-msgstr ""
+msgstr "DriverPack prevod"
 
 msgid "vendorpage_subtitle-popular"
-msgstr ""
+msgstr "Popularni {{VENDOR.NAME}} uredjaji"
 
 msgid "wannacryptpromopage_cta-text"
 msgstr ""
@@ -1077,13 +1083,13 @@ msgid "wannacryptpromopage_cta-subtext"
 msgstr ""
 
 msgid "wannacryptpromopage_cta-btn"
-msgstr ""
+msgstr "Konfigurišite računar i zaštitite ga od WannaCry"
 
 msgid "wannacryptpromopage_caption-text"
-msgstr ""
+msgstr "Ovaj software je besplatan"
 
 msgid "wannacryptpromopage_info-text-title-1"
-msgstr ""
+msgstr "Šta je WannaCrypt?"
 
 msgid "wannacryptpromopage_info-text-1"
 msgstr ""
@@ -1101,7 +1107,7 @@ msgid "wannacryptpromopage_info-text-3"
 msgstr ""
 
 msgid "wannacryptpromopage_links-text"
-msgstr ""
+msgstr "Razvoj ovog rešenja je baziran na sledećem materijalu"
 
 msgid "wannacryptpromopage_link-smb"
-msgstr ""
+msgstr "Kako omogućiti i onemogućiti verzije 1, 2, i 3 SMB protokola za Windows i Windows servere"

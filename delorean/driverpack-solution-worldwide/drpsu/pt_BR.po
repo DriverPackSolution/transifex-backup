@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-11-10 17:00+0000\n"
+"POT-Creation-Date: 2017-11-16 14:57+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>, 2017\n"
 "Language-Team: Portuguese (Brazil) (https://www.transifex.com/driverpack-solution/teams/75453/pt_BR/)\n"
@@ -414,8 +414,8 @@ msgstr "Outras versões do DriverPack"
 msgid "landingproducts_item-title-online"
 msgstr "DriverPack Online"
 
-msgid "landingproducts_item-caption-online"
-msgstr "Ele é transferido instantaneamente e baixará todos os drivers necessários que faltam durante a instalação"
+msgid "landingproducts_item-description-online"
+msgstr "É baixado instantaneamente, baixa e instala todos os drivers se você tiver uma conexão com a Internet <span class='nobr'>({{SIZE}} MB)</span>"
 
 msgid "landingproducts_item-version"
 msgstr "Versão:"
@@ -424,16 +424,16 @@ msgid "landingproducts_item-button"
 msgstr "Baixar"
 
 msgid "landingproducts_item-title-network"
-msgstr "DriverPack Network"
+msgstr "DriverPack Offline Network"
 
-msgid "landingproducts_item-caption-network"
-msgstr "É baixado rapidamente e já contém drivers para equipamentos de rede"
+msgid "landingproducts_item-description-network"
+msgstr "Contém drivers para hardware de rede (Lan/Wi-Fi), ele opera sem conexão com a Internet <span class='nobr'>({{SIZE}} MB)</span>"
 
 msgid "landingproducts_item-title-offline"
-msgstr "DriverPack Offline"
+msgstr "DriverPack Offline Full"
 
-msgid "landingproducts_item-caption-offline"
-msgstr "Ele pode funcionar sem uma conexão à Internet, mas seu tamanho é de 13,9 GB (útil para administradores de sistema)"
+msgid "landingproducts_item-description-offline"
+msgstr "Contém todos os drivers, opera sem conexão com a Internet, pode ser baixado através do Torrent-tracker <span class='nobr'>({{SIZE}} GB)</span>"
 
 msgid "landingpublications__landing-title"
 msgstr "Publicações da mídia sobre o DriverPack"
@@ -449,6 +449,12 @@ msgstr "Junte-se à comunidade do DriverPack"
 
 msgid "landingsocial_landing-subtitle"
 msgstr "Siga as novidades e participe de discussões"
+
+msgid "landingtopvideocardlist_landing-title"
+msgstr "Modelos de placa de vídeo populares"
+
+msgid "landingtopvideocardlist_landing-caption"
+msgstr "O DriverPack seleciona os drivers para placas de vídeo de qualquer modelo, aqui estão os mais populares"
 
 msgid "landingusers_cta"
 msgstr "O número de usuários do DriverPack em todo o mundo continua crescendo a cada segundo que passa"

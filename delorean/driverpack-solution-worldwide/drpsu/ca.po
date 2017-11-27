@@ -1,12 +1,13 @@
 # Translators:
 # jmontane <joan@montane.cat>, 2017
+# Josep Maria Antolin <josepma@gmail.com>, 2017
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-11-10 17:00+0000\n"
+"POT-Creation-Date: 2017-11-16 14:57+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
-"Last-Translator: jmontane <joan@montane.cat>, 2017\n"
+"Last-Translator: Josep Maria Antolin <josepma@gmail.com>, 2017\n"
 "Language-Team: Catalan (https://www.transifex.com/driverpack-solution/teams/75453/ca/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -15,182 +16,182 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "adminlandingpage_title"
-msgstr ""
+msgstr "DriverPack per a professionals - instal·lació automàtica de controladors per a qualsevol ordinador"
 
 msgid "admincackle_dialog-star"
-msgstr ""
+msgstr "Si us plau, puntueu DriverPack"
 
 msgid "admindriverpacks_landing-title"
-msgstr ""
+msgstr "Driverpacks (paquets de controladors)"
 
 msgid "admindriverpacks_landing-subtitle"
-msgstr ""
+msgstr "Els nostres driverpacks contenen 1.1131.989 controladors que han estat seleccionats manualment i provats"
 
 msgid "admindriverpacks_downloaded"
-msgstr ""
+msgstr "Descàrregues:"
 
 msgid "admindriverpacks_download"
-msgstr ""
+msgstr "Descarrega"
 
 msgid "adminfaq_landing-title"
-msgstr ""
+msgstr "Responem els teus dubtes"
 
 msgid "adminfaq_landing-subtitle"
-msgstr ""
+msgstr "Sovint ens feu preguntes sobre DriverPack — Us responem les més populars"
 
 msgid "adminheader_cta-text"
-msgstr ""
+msgstr "DriverPack s'ha fet per a administradors però és fàcil d'utilitzar fins i tot per a principiants"
 
 msgid "adminheader_cta-btn"
-msgstr ""
+msgstr "Descarrega el DriverPack Online"
 
 msgid "adminheader_products-caption"
-msgstr ""
+msgstr "Pots configurar l'ordinador amb qualsevol dels DriverPack en un moment. Tan sols tria el que necessites:"
 
 msgid "adminpromo_landing-title"
-msgstr ""
+msgstr "La versió 18 del DriverPack està en desenvolupament"
 
 msgid "adminpromo_landing-subtitle"
-msgstr ""
+msgstr "La nova versió està dissenyada específicament per a administradors i té en compte les seves necessitats"
 
 msgid "adminpromo_banner-text"
-msgstr ""
+msgstr "El nou DriverPack 18 ha estat redissenyat basant-se en les versions anteriors que han provat de sobres la seva estabilitat excepcional. La publicació de la nova versió està planificada per a l'any 2017."
 
 msgid "adminpromo_list-item-speed"
-msgstr ""
+msgstr "La rapidesa en la instal·lació i en l'inici de l'aplicació han estat millorats."
 
 msgid "adminpromo_list-item-ui"
-msgstr ""
+msgstr "La pestanya de Controladors ha estat redissenyada i conté més informació per als administradors de sistema"
 
 msgid "adminpromo_list-item-settings"
-msgstr ""
+msgstr "El rang d'opcions ha estat ampliat i s'ha afegit la opció de personalització ."
 
 msgid "adminpromo_list-item-soft"
-msgstr ""
+msgstr "La instal·lació de les aplicacions addicionals està desactivada per defecte"
 
 msgid "adminpromo_list-item-packs"
-msgstr ""
+msgstr "La manera en que s'instal·len els driverpacks s'ha canviat en un intent d'eliminar les 'pantalles blaves de la mort' i altres problemàtiques."
 
 msgid "adminpromo_list-item-device-support"
-msgstr ""
+msgstr "El rang de controladors engloba significativament molts més tipus de dispositius (incloent alguns de molt antics)"
 
 msgid "adminpromo_list-item-expert-mode"
-msgstr ""
+msgstr "El mode expert està activat per defecte"
 
 msgid "adminpromo_list-item-stable-db"
-msgstr ""
+msgstr "Hem creat la versió més estable de la base de dades de controladors. També hem actualitzat el format de dades que utilitza."
 
 msgid "adminpromo_list-item-full-db"
-msgstr ""
+msgstr "Hem creat la més gran i exclusiva base de dades de controladors del mon"
 
 msgid "buttonsplitdropdown_main-button"
-msgstr ""
+msgstr "Descarrega"
 
 msgid "breadcrumbs_main-text"
-msgstr ""
+msgstr "Pàgina d'inici"
 
 msgid "breadcrumbs_catalog-main-text"
-msgstr ""
+msgstr "controladors per a {{OS.NAME}}"
 
 msgid "breadcrumbs_vendors-text"
-msgstr ""
+msgstr "Fabricants"
 
 #. i18n: EN: Example: VENDOR.NAME=Lenovo; RU: Пример: VENDOR.NAME=Lenovo;
 msgid "breadcrumbs_vendor-text"
-msgstr ""
+msgstr "{{VENDOR.NAME}}"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=cardreaders|monitors; RU: Пример:
 #. CLASS.PLURAL.MAIN=картридеры|мониторы;
 msgid "breadcrumbs_deviceclass-text"
-msgstr ""
+msgstr "{{CLASS.PLURAL.MAIN}}"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=cardreaders|monitors,
 #. VENDOR.NAME=Realtek; RU: Пример: CLASS.PLURAL.MAIN=картридеры|мониторы;
 #. VENDOR.NAME=Realtek;
 msgid "breadcrumbs_devicegroups-text"
-msgstr ""
+msgstr "{{CLASS.PLURAL.MAIN}}{{VENDOR.NAME}}"
 
 #. i18n: EN: Example: GROUP.VENDOR.NAME=Nvidia, GROUP.NAME=GeForce 210; RU:
 #. Пример: GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210;
 msgid "breadcrumbs_devicegroup-text"
-msgstr ""
+msgstr "{{GROUP.VENDOR.NAME}}{{GROUP.NAME}}"
 
 msgid "breadcrumbs_notebooks-text"
-msgstr ""
+msgstr "Portàtils"
 
 #. i18n: EN: Example: VENDOR.NAME=Asus; RU: Пример: VENDOR.NAME=Asus;
 msgid "breadcrumbs_notebookvendor-text"
-msgstr ""
+msgstr "Portàtils {{VENDOR.NAME}}"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=X1 carbon;
 #. RU: Пример: NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=X1 carbon;
 msgid "breadcrumbs_notebook-text"
-msgstr ""
+msgstr "{{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}}"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=Videocards|Chipsets ,
 #. NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=G580; RU: Пример:
 #. CLASS.PLURAL.MAIN=видеокарты|чипсеты, NOTEBOOK.VENDOR.NAME=Lenovo,
 #. NOTEBOOK.NAME=G580;
 msgid "breadcrumbs_notebookdevices-text"
-msgstr ""
+msgstr "{{CLASS.PLURAL.MAIN}} per a portàtil {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}}"
 
 msgid "devicecard_download-btn"
-msgstr ""
+msgstr "Descarrega el controlador"
 
 #. i18n: EN: Example: NAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10 x86; Text
 #. for {{DOWNLOAD}} is in key drivercard_no-results_download-link; RU: Пример:
 #. NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10 x86; Текст для
 #. {{DOWNLOAD}} находится в ключе drivercard_no-results_download-link;
 msgid "devicecard_details_no-results-text"
-msgstr ""
+msgstr "Els controladors per a {{NAME}} per a Windows {{OSVERSIONS}} no s'han trobat al catàleg. {{DOWNLOAD}} per a seleccionar el controlador automàticament."
 
 msgid "devicecard_details_no-results_download-link"
-msgstr ""
+msgstr "Descarrega el DriverPack"
 
 msgid "devicecard_details-content-text"
-msgstr ""
+msgstr "Carregant dades..."
 
 msgid "devicecard_details_all-systems"
-msgstr ""
+msgstr "tots els sistemes"
 
 msgid "devicecard_details-content-label-version"
-msgstr ""
+msgstr "Versió:"
 
 msgid "devicecard_details-content-label-version-recommended"
-msgstr ""
+msgstr "recomanada"
 
 msgid "devicecard_details-content-label-date"
-msgstr ""
+msgstr "Data:"
 
 msgid "devicecard_details-content-label-type"
-msgstr ""
+msgstr "Tipus de Controlador:"
 
 msgid "devicecard_details-content-label-manufacturer"
-msgstr ""
+msgstr "Fabricant:"
 
 msgid "devicecard_details-content-label-systems"
-msgstr ""
+msgstr "Sistema operatiu:"
 
 msgid "devicecard_details-content-label-deviceid"
-msgstr ""
+msgstr "Device ID:"
 
 msgid "devicecard_details-content-label-inf"
-msgstr ""
+msgstr "Fitxer *.inf:"
 
 msgid "devicecard_details-content-label-section"
-msgstr ""
+msgstr "Categoria:"
 
 msgid "devicecard_details-links-merged_label"
-msgstr ""
+msgstr "Si el Device ID que necessites no es troba a la llista, introdueix-lo al camp de cerca."
 
 msgid "devicecard_details-links-notebook_device"
-msgstr ""
+msgstr "Veure tots els controladors"
 
 msgid "devicecard_details-links"
-msgstr ""
+msgstr "Veure tots els controladors per a"
 
 msgid "devicecardlist_no-result_download-link"
-msgstr ""
+msgstr "Descarrega el DriverPack"
 
 #. i18n: EN: Example: DEVICENAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10
 #. x86; Text for {{DOWNLOAD}} is in key devicecardlist_no-result_download-
@@ -198,7 +199,7 @@ msgstr ""
 #. x86; Текст для {{DOWNLOAD}} находится в ключе devicecardlist_no-
 #. result_download-link;
 msgid "devicecardlist_no-results-device-text"
-msgstr ""
+msgstr "Els controladors per a {{DEVICENAME}} per a Windows {{OSVERSIONS}} no s'han trobat al catàleg. {{DOWNLOAD}} per a seleccionar el controlador automàticament."
 
 #. i18n: EN: Example: DEVICECLASS=chipsets|videocards; NOTEBOOK=Acer AO521;
 #. OSVERSIONS=Windows 10 x86; Text for {{DOWNLOAD}} is in key
@@ -207,896 +208,902 @@ msgstr ""
 #. OSVERSIONS=Windows 10 x86; Текст для {{DOWNLOAD}} находится в ключе
 #. devicecardlist_no-result_download-link;
 msgid "devicecardlist_no-results-notebook-text"
-msgstr ""
+msgstr "Els controladors per a portàtil {{NOTEBOOK}} per a Windows {{OSVERSIONS}} no s'han trobat al catàleg. {{DOWNLOAD}} per a seleccionar el controlador automàticament."
 
 #. i18n: EN: Example: NOTEBOOK=Acer AO521; OSVERSIONS=Windows 10 x86; Text for
 #. {{DOWNLOAD}} is in key devicecardlist_no-result_download-link; RU: Пример:
 #. NOTEBOOK=Acer AO521; Пример: OSVERSIONS=Windows 10 x86; Текст для
 #. {{DOWNLOAD}} находится в ключе devicecardlist_no-result_download-link;
 msgid "devicecardlist_no-results-notebook-device-class-text"
-msgstr ""
+msgstr "Els controladors per a {{DEVICECLASS}} per al portàtil {{NOTEBOOK}} per a Windows {{OSVERSIONS}} no s'han trobat. {{DOWNLOAD}} per a seleccionar el controlador automàticament."
 
 msgid "devicegrouppage_all-systems"
-msgstr ""
+msgstr "tots els sistemes"
 
 msgid "notebookpage_all-systems"
-msgstr ""
+msgstr "tots els sistemes"
 
 msgid "devicegroupfilters_filter-title"
-msgstr ""
+msgstr "Controladors disponibles"
 
 msgid "deviceidfilters-filter-label-version"
-msgstr ""
+msgstr "Versió del controlador:"
 
 msgid "deviceidheader_caption-single"
-msgstr ""
+msgstr "Nom del dispositiu:"
 
 msgid "deviceidheader_caption-many"
-msgstr ""
+msgstr "Aquest dispositiu també es coneix com:"
 
 msgid "devicetypelist_title_os"
-msgstr ""
+msgstr "Controlador per a dispositius per {{OS}}"
 
 msgid "devicetypelist_title"
-msgstr ""
+msgstr "Cerca de controladors per a dispositius"
 
 msgid "search_noresult"
-msgstr ""
+msgstr "Descarrega el DriverPack Online"
 
 #. i18n: EN: Example: NAME=Acer Aspire 4830TG; OSVERSIONS=Windows 10 x86; Text
 #. for {{DOWNLOAD}} is in key drivercard_no-results_download-link; RU: Пример:
 #. NAME=Acer Aspire 4830TG; Пример: OSVERSIONS=Windows 10 x86; Текст для
 #. {{DOWNLOAD}} находится в ключе drivercard_no-results_download-link;
 msgid "drivercard_no-results-text"
-msgstr ""
+msgstr "Els controladors per a {{NAME}} per a Windows {{OSVERSIONS}} no s'han trobat al catàleg. {{DOWNLOAD}} per a seleccionar el controlador automàticament."
 
 msgid "drivercard_no-results_download-link"
-msgstr ""
+msgstr "Descarrega el DriverPack"
 
 msgid "drivercard_caption-version"
-msgstr ""
+msgstr "Versió:"
 
 msgid "drivercard_caption-version-recommended"
-msgstr ""
+msgstr "recomanada"
 
 msgid "drivercard_caption-date"
-msgstr ""
+msgstr "Data:"
 
 msgid "drivercard_caption-class"
-msgstr ""
+msgstr "Tipus de dispositiu:"
 
 msgid "drivercard_caption-manufacturer"
-msgstr ""
+msgstr "Fabricant:"
 
 msgid "drivercard_caption-os"
-msgstr ""
+msgstr "Sistema operatiu:"
 
 msgid "drivercard_caption-deviceid"
-msgstr ""
+msgstr "Device ID:"
 
 msgid "drivercard_caption-inf"
-msgstr ""
+msgstr "Fitxer *.inf:"
 
 msgid "drivercard_caption-section"
-msgstr ""
+msgstr "Categoria:"
 
 msgid "drivercard_caption-btn"
-msgstr ""
+msgstr "Descarrega el controlador"
 
 msgid "deviceidpage_all-systems"
-msgstr ""
+msgstr "tots els sistemes"
 
 msgid "dropdowndriverversion_no-results"
-msgstr ""
+msgstr "No s'han trobat els controladors per al sistema operatiu seleccionat"
 
 msgid "dropdownos_current"
-msgstr ""
+msgstr "actual"
 
 msgid "footer_banner-title"
-msgstr ""
+msgstr "Estàs cansat de cercar els controladors per als teus dispositius?"
 
 msgid "footer_banner-caption"
-msgstr ""
+msgstr "El DriverPack Online <span style='color: {{COLOR}}'>trobarà i instal·larà</span> els controladors que necessites automàticament"
 
 msgid "footer_banner_btn"
-msgstr ""
+msgstr "Descarrega el <span class='bold'>DriverPack Online</span> gratuitament"
 
 msgid "footer_translate-feedback"
-msgstr ""
+msgstr "Heu trobat una errada o error d'impressió? <br /> Seleccioneu-la i premeu {{HOTKEY}}"
 
 msgid "header_search-title"
-msgstr ""
+msgstr "<span class='bold'>Cerca de controladors en</span> la base de dades mes gran — més d'un milió de controladors"
 
 msgid "header_search-examples"
-msgstr ""
+msgstr "Per exemple:"
 
 msgid "header_cta-text"
-msgstr ""
+msgstr "Descarrega el DriverPack per a seleccionar automàticament el controlador"
 
 msgid "header_cta-btn"
-msgstr ""
+msgstr "Instal·la els controladors automàticament"
 
 msgid "header_cta-label-1"
-msgstr ""
+msgstr "Es <span style='color: {{COLOR}}'>descarregarà</span> en un moment"
 
 msgid "header_cta-label-2"
-msgstr ""
+msgstr "<span style='color: {{COLOR}}'>Seleccionarà i instal·larà</span> els controladors automàticament"
 
 msgid "headerbutton_title"
-msgstr ""
+msgstr "Instal·la els controladors automàticament"
 
 msgid "headerbutton_label"
-msgstr ""
+msgstr "L'aplicació DriverPack és completament gratuïta"
 
 msgid "headeros_cta-btn"
-msgstr ""
+msgstr "Instal·la els controladors per a <span class='HeaderOs__cta-btn-marked'>{{OS}}</span>"
 
 msgid "headeros_search-text"
-msgstr ""
+msgstr "O realitzeu una cerca a la nostra inmensa base de dades de controladors"
 
 msgid "landingdevicetypelist_landing-title"
-msgstr ""
+msgstr "El DriverPack serveix per a qualsevol dispositiu"
 
 msgid "landingdevicetypelist_landing-subtitle"
-msgstr ""
+msgstr "Fins i tot per a USB 3.0 en Windows 7 SP1"
 
 msgid "landingdevicetypelist_cta-btn"
-msgstr ""
+msgstr "Instal·la tots els controladors necessaris"
 
 msgid "landingdevicetypelist_versions"
-msgstr ""
+msgstr "Altres versions de DriverPack"
 
 msgid "landingfeatures_landing-title"
-msgstr ""
+msgstr "DriverPack és la manera més ràpida i convenient per a configurar un ordinador"
 
 msgid "landingfeatures_landing-subtitle"
-msgstr ""
+msgstr "L'aplicació es distribueix gratuitament, i és apta tant per a professionals com per a principiants"
 
 msgid "landingfeatures_item-title-free"
-msgstr ""
+msgstr "Grauïta"
 
 msgid "landingfeatures_item-caption-free"
-msgstr ""
+msgstr "DriverPack es distribueix gratuitament"
 
 msgid "landingfeatures_item-title-safe"
-msgstr ""
+msgstr "Segur"
 
 msgid "landingfeatures_item-caption-safe"
-msgstr ""
+msgstr "DriverPack coopera oficialment amb els fabricants d'antivius i protegeix el teu ordinador"
 
 msgid "landingfeatures_item-title-for-all-devices"
-msgstr ""
+msgstr "Per a tots els dispositius"
 
 msgid "landingfeatures_item-caption-for-all-devices"
-msgstr ""
+msgstr "DriverPack té la base de dades de controladors més gran del mon, i es pot utilitzar per a configurar qualsevol ordinador"
 
 msgid "landingheader_cta-text"
-msgstr ""
+msgstr "DriverPack instal·larà els controladors gratuitament i corregeix problemes amb els controladors de qualsevol dispositiu"
 
 msgid "landingheader_cta-btn"
-msgstr ""
+msgstr "Instal·la tots els controladors necessaris"
 
 msgid "landingheadernav_badrabbit"
-msgstr ""
+msgstr "Protecció contra el Bat Rabbit"
 
 msgid "landingheadernav_search"
-msgstr ""
+msgstr "Cerca de controladors"
 
 msgid "landingheadernav_foradmin"
-msgstr ""
+msgstr "Per a administradors de sistemes"
 
 msgid "landingintroduction_author-title"
-msgstr ""
+msgstr "Hola! El meu nom és Artur Kuzyakov. Sóc l'autor i fundador de DriverPack"
 
 msgid "landingintroduction_author-speech"
-msgstr ""
+msgstr "Des d'una petita aplicació escrita purament amb entusiasme fa 8 anys, ens hem transformat en una companyia que ha ajudat a més de 40 milions de persones arreu del món a configurar els seus ordinadors!<br /><br /> Durant aquest temps, la nostra aplicació s'ha fet increïblement més ràpida i intel·lgent. Avui, DriverPack és la base de dades més gran i exclusiva de controladors del món, ubicada en servidors de ultra alta velocitat arreu del món. Amb l'objectiu de realitzar la instalació dels controladors sempre de forma ràpida i amb alta qualitat, utilitzem tecnologíes d'aprenentatge artificial que fa que el nostre algorisme de selecció sigui cada vegada millor i més acurat. Hem aconseguit tot això fent possible que l'aplicació continuï sent completament gratuïta i la pugui fer servir tothom. <br /><br /> El meu equip i jo estem orgullosos del nostre producte i esperem que es converteixi en el teu assistent de confiança per a configurar qualsevol ordinador en el temps més curt possible."
 
 msgid "landingintroduction_author-speech-marked"
-msgstr ""
+msgstr "Hi dediquem tot el nostre temps per a puguis estalviar-te el teu!"
 
 msgid "landingintroduction_video-caption"
-msgstr ""
+msgstr "I això és el que Dmitry Medvedev, el Primer ministre de la Federació Russa pensa sobre DriverPack Solution"
 
 msgid "landingnotebookvendorslist_landing-title"
-msgstr ""
+msgstr "DriverPack és útil per a qualsevol ordinador"
 
 msgid "landingnotebookvendorslist_landing-subtitle"
-msgstr ""
+msgstr "Sí, per a QUALSEVOL ordinador - ho hem comprovat!"
 
 msgid "landingnotebookvendorslist_cta-btn"
-msgstr ""
+msgstr "Instal·la tots els controladors necessaris"
 
 msgid "landingnotebookvendorslist_versions"
-msgstr ""
+msgstr "Altres versions de DriverPack"
 
 msgid "landingproducts_item-title-online"
-msgstr ""
+msgstr "DriverPack Online"
 
-msgid "landingproducts_item-caption-online"
-msgstr ""
+msgid "landingproducts_item-description-online"
+msgstr "Es pot descarregar ràpidament, descarrega i instal·la qualsevol controlador sempre que disposeu de connexió a Internet <span class='nobr'>({{SIZE}} MB)</span>"
 
 msgid "landingproducts_item-version"
-msgstr ""
+msgstr "Versió:"
 
 msgid "landingproducts_item-button"
-msgstr ""
+msgstr "Descarrega"
 
 msgid "landingproducts_item-title-network"
-msgstr ""
+msgstr "DriverPack Offline Network"
 
-msgid "landingproducts_item-caption-network"
-msgstr ""
+msgid "landingproducts_item-description-network"
+msgstr "Conté els controladors per a targetes de xarxa (Lan/Wi-Fi), i es pot utilitzar sense connexió a Internet <span class='nobr'>({{SIZE}}MB)</span>"
 
 msgid "landingproducts_item-title-offline"
-msgstr ""
+msgstr "DriverPack Offline Full"
 
-msgid "landingproducts_item-caption-offline"
-msgstr ""
+msgid "landingproducts_item-description-offline"
+msgstr "Conté tots els controladors, es pot utilitzar sense connexió a Internet i es pot descarregar utilitzant el Torrent-tracker <span class='nobr'>({{SIZE}} GB)</span>"
 
 msgid "landingpublications__landing-title"
-msgstr ""
+msgstr "Publicacions dels mitjans de comunicació sobre DriverPack"
 
 msgid "landingscreenshots_landing-title"
-msgstr ""
+msgstr "DriverPack és la manera més ràpida i convenient de configurar un ordinador"
 
 msgid "landingscreenshots_landing-subtitle"
-msgstr ""
+msgstr "L'aplicació es distribueix gratuitament, i és apta tant per a professionals com per a principiants"
 
 msgid "landingsocial_landing-title"
-msgstr ""
+msgstr "Uneix-te a la comunicat de DriverPack"
 
 msgid "landingsocial_landing-subtitle"
-msgstr ""
+msgstr "Segueix les notícies i pren part en els debats"
+
+msgid "landingtopvideocardlist_landing-title"
+msgstr "Models de targetes gràfiques populars"
+
+msgid "landingtopvideocardlist_landing-caption"
+msgstr "DriverPack selecciona els controladors per qualsevol model de targeta gràfica, aquí tenu les més populars"
 
 msgid "landingusers_cta"
-msgstr ""
+msgstr "La quantitat d'usuaris de DriverPack en tot el món continua creixent a cada segon que passa"
 
 msgid "landingusers_cta-btn"
-msgstr ""
+msgstr "Instal·la tots els controladors necessaris"
 
 msgid "landingusers_versions"
-msgstr ""
+msgstr "Altres versions de DriverPack"
 
 msgid "landingvideocardlist_landing-title"
-msgstr ""
+msgstr "Fabricants de targetes gràfiques populars"
 
 msgid "landingwizard_landing-title"
-msgstr ""
+msgstr "Ara es possible configurar un ordinador amb un sol clic"
 
 msgid "landingwizard_item-caption-download"
-msgstr ""
+msgstr "Descarrega i executa el DriverPack Online"
 
 msgid "landingwizard_item-caption-setup"
-msgstr ""
+msgstr "Configura el teu ordinador amb una simple acció"
 
 msgid "landingwizard_item-caption-profit"
-msgstr ""
+msgstr "Que bé! Ara el meu ordinador funciona com si fos nou!"
 
 msgid "landingwizard_cta-btn"
-msgstr ""
+msgstr "Instal·la tots els controladors necessaris"
 
 msgid "navbar_download-link-short"
-msgstr ""
+msgstr "Descarrega"
 
 msgid "navbar_download-link"
-msgstr ""
+msgstr "Descarrega el DriverPack Online"
 
 msgid "notfound_cta-text"
-msgstr ""
+msgstr "Podeu trobar i instal·lar els controladors automàticament utilitzant el DriverPack Online gratuitament"
 
 msgid "notfound_cta-btn"
-msgstr ""
+msgstr "Descarrega el DriverPack Online"
 
 msgid "notfound_info-404"
-msgstr ""
+msgstr "{{404}}— la pàgina que heu demanat no existeix"
 
 msgid "notfound_info-500"
-msgstr ""
+msgstr "{{500}} — alguna cosa no ha anat bé (error en el servidor)"
 
 msgid "notebookfilters-title"
-msgstr ""
+msgstr "Controladors disponibles"
 
 msgid "notebookvendorslist_other-text"
-msgstr ""
+msgstr "Altres fabricants"
 
 msgid "notebookvendorslist_title_os"
-msgstr ""
+msgstr "Controladors per a portàtils per a {{OS}}"
 
 msgid "notebookvendorslist_title"
-msgstr ""
+msgstr "Cerca de controladors per a portàtils"
 
 msgid "promoheader_cta-text-gamers"
-msgstr ""
+msgstr "El teu ordinador és més potent del que et penses: actualitza tots els controladors gratuitament"
 
 msgid "promoheader_cta-text-gamers-caption"
-msgstr ""
+msgstr "Si t'agraden els jocs d'ordinador, et recomanem que actualitzis els controladors del teu ordinador sovint per tal d'aconseguir la major eficiència de la teva màquina. Fins a un 37% més de FPS - la millor experiència en jocs i nous èxits amb DriverPack"
 
 msgid "promoheader_cta-text"
-msgstr ""
+msgstr "DriverPack instal·larà els controladors gratuitament i corregeix problemes amb els controladors de qualsevol dispositiu"
 
 msgid "promoheader_cta-btn"
-msgstr ""
+msgstr "Instal·la tots els controladors necessaris"
 
 msgid "promoheader_size"
-msgstr ""
+msgstr "Mida: {{SIZE}} KB"
 
 msgid "promoheader_license"
-msgstr ""
+msgstr "Acord de llicència"
 
 msgid "promoheader_os-versions"
-msgstr ""
+msgstr "L'aplicació funciona en Windows 10, 8.1, 8, 7, Vista, XP"
 
 msgid "promoheader_uninstall"
-msgstr ""
+msgstr "Desinstal·lació de DriverPack"
 
 msgid "reviewheader_cta-text"
-msgstr ""
+msgstr "Uneix-te a la comunitat de DriverPack a les xarxes socials i estigues informat de les notícies sobre l'aplicació i pren part en els debats"
 
 msgid "reviewheader_cta"
-msgstr ""
+msgstr "Afegeix la teva opinió o suggerència per a millorar DriverPack"
 
 msgid "search_input-placeholder"
-msgstr ""
+msgstr "Cerca pel nom del controlador, del portàtil o pel DeviceID"
 
 msgid "search_btn-text"
-msgstr ""
+msgstr "Cerca"
 
 msgid "searchformitem_type-section"
-msgstr ""
+msgstr "Categoria"
 
 msgid "searchformitem_type-notebook"
-msgstr ""
+msgstr "portàtil"
 
 msgid "searchformitem_type-device"
-msgstr ""
+msgstr "dispositiu"
 
 msgid "searchformitem_type-free"
-msgstr ""
+msgstr "gratuït"
 
 #. i18n: EN: Example: NAME=Acer; RU: Пример: NAME=Acer;
 msgid "generatesearchitemname_notebookvendor"
-msgstr ""
+msgstr "Portàtils {{NAME}}"
 
 #. i18n: EN: Example: NAME=Asus; RU: Пример: NAME=Asus;
 msgid "generatesearchitemname_vendor"
-msgstr ""
+msgstr "Dispositius {{NAME}}"
 
 msgid "deviceclasses_bluetooth-single-main"
-msgstr ""
+msgstr "dispositiu Bluetooth"
 
 msgid "deviceclasses_bluetooth-single-for"
-msgstr ""
+msgstr "dispositiu Bluetooth"
 
 msgid "deviceclasses_bluetooth-plural-main"
-msgstr ""
+msgstr "dispositius Bluetooth"
 
 msgid "deviceclasses_bluetooth-plural-for"
-msgstr ""
+msgstr "dispositius Bluetooth"
 
 msgid "deviceclasses_cardreader-single-main"
-msgstr ""
+msgstr "lector de targetes"
 
 msgid "deviceclasses_cardreader-single-for"
-msgstr ""
+msgstr "lector de targetes"
 
 msgid "deviceclasses_cardreader-plural-main"
-msgstr ""
+msgstr "lectors de targetes"
 
 msgid "deviceclasses_cardreader-plural-for"
-msgstr ""
+msgstr "lectors de targetes"
 
 msgid "deviceclasses_chipset-single-main"
-msgstr ""
+msgstr "chipset"
 
 msgid "deviceclasses_chipset-single-for"
-msgstr ""
+msgstr "chipset"
 
 msgid "deviceclasses_chipset-plural-main"
-msgstr ""
+msgstr "chipsets"
 
 msgid "deviceclasses_chipset-plural-for"
-msgstr ""
+msgstr "chipsets"
 
 msgid "deviceclasses_inputdev-single-main"
-msgstr ""
+msgstr "dispositiu d'entrada"
 
 msgid "deviceclasses_inputdev-single-for"
-msgstr ""
+msgstr "dispositiu d'entrada"
 
 msgid "deviceclasses_inputdev-plural-main"
-msgstr ""
+msgstr "dispositius d'entrada"
 
 msgid "deviceclasses_inputdev-plural-for"
-msgstr ""
+msgstr "dispositius d'entrada"
 
 msgid "deviceclasses_lan-single-main"
-msgstr ""
+msgstr "targeta de xarxa"
 
 msgid "deviceclasses_lan-single-for"
-msgstr ""
+msgstr "targeta de xarxa"
 
 msgid "deviceclasses_lan-plural-main"
-msgstr ""
+msgstr "targetes de xarxa"
 
 msgid "deviceclasses_lan-plural-for"
-msgstr ""
+msgstr "targetes de xarxa"
 
 msgid "deviceclasses_massstorage-single-main"
-msgstr ""
+msgstr "controladora"
 
 msgid "deviceclasses_massstorage-single-for"
-msgstr ""
+msgstr "controladora"
 
 msgid "deviceclasses_massstorage-plural-main"
-msgstr ""
+msgstr "controladores"
 
 msgid "deviceclasses_massstorage-plural-for"
-msgstr ""
+msgstr "controladores"
 
 msgid "deviceclasses_modem-single-main"
-msgstr ""
+msgstr "mòdem"
 
 msgid "deviceclasses_modem-single-for"
-msgstr ""
+msgstr "mòdem"
 
 msgid "deviceclasses_modem-plural-main"
-msgstr ""
+msgstr "mòdems"
 
 msgid "deviceclasses_modem-plural-for"
-msgstr ""
+msgstr "módems"
 
 msgid "deviceclasses_monitor-single-main"
-msgstr ""
+msgstr "monitor"
 
 msgid "deviceclasses_monitor-single-for"
-msgstr ""
+msgstr "monitor"
 
 msgid "deviceclasses_monitor-plural-main"
-msgstr ""
+msgstr "monitors"
 
 msgid "deviceclasses_monitor-plural-for"
-msgstr ""
+msgstr "monitors"
 
 msgid "deviceclasses_phone-single-main"
-msgstr ""
+msgstr "telèfon intel·ligent"
 
 msgid "deviceclasses_phone-single-for"
-msgstr ""
+msgstr "telèfon intel·ligent"
 
 msgid "deviceclasses_phone-plural-main"
-msgstr ""
+msgstr "telèfons intel·ligents"
 
 msgid "deviceclasses_phone-plural-for"
-msgstr ""
+msgstr "telèfons intel·ligents"
 
 msgid "deviceclasses_printer-single-main"
-msgstr ""
+msgstr "impressora"
 
 msgid "deviceclasses_printer-single-for"
-msgstr ""
+msgstr "impressora"
 
 msgid "deviceclasses_printer-plural-main"
-msgstr ""
+msgstr "impressores"
 
 msgid "deviceclasses_printer-plural-for"
-msgstr ""
+msgstr "impressores"
 
 msgid "deviceclasses_sound-single-main"
-msgstr ""
+msgstr "targeta de so"
 
 msgid "deviceclasses_sound-single-for"
-msgstr ""
+msgstr "targeta de so"
 
 msgid "deviceclasses_sound-plural-main"
-msgstr ""
+msgstr "targetes de so"
 
 msgid "deviceclasses_sound-plural-for"
-msgstr ""
+msgstr "targetes de so"
 
 msgid "deviceclasses_tvtuner-single-main"
-msgstr ""
+msgstr "sintonitzador de TV"
 
 msgid "deviceclasses_tvtuner-single-for"
-msgstr ""
+msgstr "sintonitzador de TV"
 
 msgid "deviceclasses_tvtuner-plural-main"
-msgstr ""
+msgstr "sintonitzadors de TV"
 
 msgid "deviceclasses_tvtuner-plural-for"
-msgstr ""
+msgstr "sintonitzadors de TV"
 
 msgid "deviceclasses_video-single-main"
-msgstr ""
+msgstr "targeta gràfica"
 
 msgid "deviceclasses_video-single-for"
-msgstr ""
+msgstr "targeta gràfica"
 
 msgid "deviceclasses_video-plural-main"
-msgstr ""
+msgstr "targetes gràfiques"
 
 msgid "deviceclasses_video-plural-for"
-msgstr ""
+msgstr "targetes gràfiques"
 
 msgid "deviceclasses_webcamera-single-main"
-msgstr ""
+msgstr "càmera web"
 
 msgid "deviceclasses_webcamera-single-for"
-msgstr ""
+msgstr "càmera web"
 
 msgid "deviceclasses_webcamera-plural-main"
-msgstr ""
+msgstr "càmeres web"
 
 msgid "deviceclasses_webcamera-plural-for"
-msgstr ""
+msgstr "càmeres web"
 
 msgid "deviceclasses_wifi-single-main"
-msgstr ""
+msgstr "dispositiu Wi-Fi"
 
 msgid "deviceclasses_wifi-single-for"
-msgstr ""
+msgstr "dispositiu Wi-Fi"
 
 msgid "deviceclasses_wifi-plural-main"
-msgstr ""
+msgstr "dispositius Wi-Fi"
 
 msgid "deviceclasses_wifi-plural-for"
-msgstr ""
+msgstr "dispositius Wi-Fi"
 
 msgid "deviceclasses_other-single-main"
-msgstr ""
+msgstr "un altre dispositiu"
 
 msgid "deviceclasses_other-single-for"
-msgstr ""
+msgstr "un altre dispositiu"
 
 msgid "deviceclasses_other-plural-main"
-msgstr ""
+msgstr "altres dispositius"
 
 msgid "deviceclasses_other-plural-for"
-msgstr ""
+msgstr "altres dispositius"
 
 msgid "searchheader_caption-subtitle"
-msgstr ""
+msgstr "Cerca de controladors amb les paraules:"
 
 msgid "searchheader_caption-filter-label"
-msgstr ""
+msgstr "Es decarregarà el controlador per al sistema operatiu seleccionat"
 
 #. i18n: EN: Example: NOTEBOOK=Acer AO521; Text for {{DOWNLOAD}} is in key
 #. searchresult_details-content_download-link; RU: Пример: NOTEBOOK=Acer
 #. AO521; Текст для {{DOWNLOAD}} находится в ключе searchresult_details-
 #. content_download-link
 msgid "searchresult_details-content-notebook-text"
-msgstr ""
+msgstr "{{DOWNLOAD}} per a identificar i instal·lar els controladors necessaris automàticament, o ves a la pàgina de {{NOTEBOOK}} i selecciona'ls manualment"
 
 msgid "searchresult_details-content_download-link"
-msgstr ""
+msgstr "Descarrega el DriverPack"
 
 msgid "searchresult_notebook"
-msgstr ""
+msgstr "Portàtil"
 
 msgid "searchresult_download-btn"
-msgstr ""
+msgstr "Instal·la el controlador automàticament"
 
 msgid "searchresult_details-content-text-placeholder"
-msgstr ""
+msgstr "Carregant dades..."
 
 msgid "searchresult_details-content-label-1"
-msgstr ""
+msgstr "SO"
 
 msgid "searchresult_details-content-label-2"
-msgstr ""
+msgstr "tots els sistemes"
 
 #. i18n: EN: Example: DEVICE=NVIDIA GeForce 205; Text for {{DOWNLOAD}} is in
 #. key searchresult_details-content_download-link; RU: Пример: DEVICE=NVIDIA
 #. GeForce 205; Текст для {{DOWNLOAD}} находится в ключе searchresult_details-
 #. content_download-link
 msgid "searchresult_details-content-group-text"
-msgstr ""
+msgstr "{{DOWNLOAD}} per a identificar i instal·lar els controladors necessaris automàticament, o ves a la pàgina del dispositiu {{DEVICE}} i selecciona'ls manualment"
 
 #. i18n: EN: Example: CLASS.SINGLE.MAIN=monitor|chipset; COUNT=12; RU: Пример:
 #. CLASS.SINGLE.MAIN=монитор|чипсет; COUNT=12;
 msgid "searchresult_device"
-msgstr ""
+msgstr "{{CLASS.SINGLE.MAIN}} (hi ha {{COUNT}} resultats)"
 
 msgid "searchresult_details-content-text-many"
-msgstr ""
+msgstr "S'ha trobat múltiples controladors per a aquest dispositiu"
 
 msgid "seofooter_os-list-title"
-msgstr ""
+msgstr "Versions del sistema operatiu: <span itemprop='operatingSystem'>{{OSLIST}}</span>"
 
 msgid "seofooter_offers-title"
-msgstr ""
+msgstr "<span itemprop='offers' itemscope='' itemtype='http://schema.org/Offer'>Disponible <meta itemprop='price' content='0' />gratuïtament</span>"
 
 msgid "seofooter_driver-description-title"
-msgstr ""
+msgstr "Descripció del controlador"
 
 msgid "seofooter_popular-drivers-title"
-msgstr ""
+msgstr "Controladors populars"
 
 msgid "sidebanner_title"
-msgstr ""
+msgstr "Esteu cansat de cercar els controladors?"
 
 msgid "sidebanner_caption"
-msgstr ""
+msgstr "DriverPack <span class='SideBanner__caption-marked'>seleccionarà i instal·larà</span> automàticament els controladors necessaris"
 
 msgid "translationheader_cta-text"
-msgstr ""
+msgstr "Ajuda'ns a fer que DriverPack estigui disponible per a milions d'usuaris d'ordinador del món — pren part en el nostre projecte voluntari de traducció a altres idiomes"
 
 msgid "translationheader_bubble-team"
-msgstr ""
+msgstr "Vols formar part de l'equip de traductors del servei més gran del món per a la configuració automàtica d'ordinadors?"
 
 msgid "translationheader_bubble-languages"
-msgstr ""
+msgstr "Tens bons coneixements d'anglès o rús, per tal de poder traduïr un d'ells al teu idioma nadiu?"
 
 msgid "translationheader_bubble-experience"
-msgstr ""
+msgstr "Teniu alguna experiència en traduïr aplicacions o pàgines webs fent servir serveis de traducció online?"
 
 msgid "translationheader_bubble-email"
-msgstr ""
+msgstr "Si les teves respostes han estat SÍ a les tres preguntes, si us plau, envia'ns un correu electrònic a {{EMAIL}} amb l'assumpte: '{{SUBJECT}}' i fes-nos saber quin idioma tens pensat traduïr."
 
 msgid "translationlist_title"
-msgstr ""
+msgstr "Llista de traductors autoritzats de DriverPack"
 
 msgid "translationtool_text-transifex"
-msgstr ""
+msgstr "A DriverPack Solution realitzem les traduccions fent servir el servei transifex.com:"
 
 msgid "translationtool_example-ru-to-en"
-msgstr ""
+msgstr "Frases per a traduïr de Rús (RU) a Anglès (EN) i llenguatges CEI (CIS)"
 
 msgid "translationtool_example-en-to-all"
-msgstr ""
+msgstr "Frases per a traduïr de l'Anglès (EN) a altres idiomes del món"
 
 msgid "language_title"
 msgstr "Catalan"
 
 msgid "landingPagePublications_rbk"
-msgstr ""
+msgstr "DriverPack és l'aplicació que consisteix en una col·lecció de controladors per a Windows detingudament seleccionats i provats per l'equip de Argur Kuzyakov. Aquesta aplicació analitza l'ordinador de l'usuari instal·la els controladors necessaris, el que permet solucionar dues problemàtiques: primer, realitzar més ràpidament el procés de configuració d'un ordinador (especialment important si parlem de dotzenes d'ordinadors en un sistema), i en segon, millorar el seu funcionament."
 
 msgid "landingPagePublications_secretfirmy"
-msgstr ""
+msgstr "Actualment, DriverPack té la base de dades més gran del món, està traduïda a 45 idiomes i s'utilitza en ordinadors de més de 42 milions d'usuaris."
 
 msgid "landingPagePublications_cnews"
-msgstr ""
+msgstr "Des dels seus inicis, DriverPack Solution ha estat molt popular entre els usuaris. L'aplicació es pot descarregar completament gratis. Això distingeix DriverPack Solution d'altres competidors i fa que atregui més i més usuaris nous. "
 
 msgid "landingPagePublications_xbit"
-msgstr ""
+msgstr "DriverPack Solution és una aplicación interessant, doncs conté un conjunt d'opcions que altres aplicacions del mateix tipus no tenen. Qualsevol usuario pot arreglar els errors i configurar adequadament un sistema i tots els seus dispositius en tan sols dos clics. Actualment, el nombre de controladors de la base de dades de DriverPack ha sobrepassat la xifra de 1,1 milió, i tots ells han estat provats per a la seva seguretat."
 
 msgid "landingPagePublications_chip"
-msgstr ""
+msgstr "Amb DriverPack no és pas difícil trobar les últimes versions dels controladors per als components del teu ordinador. La característica més agradable és que l'usuari no necessita fer res per si mateix. Aquesta utilitat està completament automatitzada i és còmoda d'utilitzar."
 
 msgid "landingPagePublications_pcmag"
-msgstr ""
+msgstr "DriverPack Protect t'ajudarà a protegir el teu ordinador d'aplicacions de malware i adware, que fins i tot alguns antivirus i eines de bloqueig no aconsegueixen fer."
 
 msgid "landingPagePublications_habr"
-msgstr ""
+msgstr "La necessitat de cercar i instal·lar els controladors cada com que resinstales Windows és, en la meva opinió, un dels defectes més significatius de la família Windows. Mirant enrera a l'any 2008, vaig decidir corregir aquest problema i vaig escriure la meva pròpia aplicació que vaig anomenar DriverPack. Avui , el meu producte l'utilitzen més de 40 milions d'usuaris d'arreu del món, i considero que hem solucionat el problema dels controladors en Windows, tot i que hagi necessitat una aplicació de tercers."
 
 msgid "landingPagePublications_computerra"
-msgstr ""
+msgstr "La nova versió ofereix a l'usuari més eines per a generar la seva pròpia selecció de controladors. És una necessitat especialment important d'aquells que reparen ordinadors o administren moltes màquines heterogènies. Ara és possible integrar qualsevol driverpack alternatiu a DriverPack en comptes d'eliminar aquells que no es necessiten."
 
 msgid "landingPagePublications_vc"
-msgstr ""
+msgstr "Gràcies a grapevine, aquest producte ha estat traduït pels usuaris a més de 45 idiomes sense la necessitat que hi participés el nostre equip."
 
 msgid "adminpagefaq_official_vendors-q"
-msgstr ""
+msgstr "Abans de DriverPack, descarregava els controladors des de les pàgines oficials, però vaig tenir problemes fins i tot amb aquests. Per què són els controladors de DriverPack més fiables que els dels fabricants?"
 
 msgid "adminpagefaq_official_vendors-a"
-msgstr ""
+msgstr "Per tal de fer de la nostra base de dades, no només la més gran, sinó la més estable, continuem treballant-hi per millorar-la permanentment, i fins i tot corregim errors que els fabricants deixen passar! Utilitzem tecnologia l'aprenentatge artificial i gràcies a això, el nostre algorisme de selecció millora constantment. I és per això que els controladors de DriverPack són els mes fiables"
 
 msgid "adminpagefaq_database-q"
-msgstr ""
+msgstr "Com s'incrementa la base de dades de DriverPack? Hi podré trobar realment els controladors que necessito?"
 
 msgid "adminpagefaq_database-a"
-msgstr ""
+msgstr "Fins a la data, la nostra base de dades de controladors és la més gran del món, per això hauríes de poder trobar els controladors per a qualsevol dispositiu amb una probabilitat del 99%. Per tal de seguir recopilant i mantenint una base de dades com aquesta, cooperem directament amb els fabricants de dispositius i els desenvolupadors dels controladors. Obtenim i provem els controladors dels llocs oficials així com de servidors FTP privats, i també tenim en compte les recomanacions d'usuaris actius."
 
 msgid "adminpagefaq_free-q"
-msgstr ""
+msgstr "És realment cert que DriverPack és completament gratuït?"
 
 msgid "adminpagefaq_free-a"
-msgstr ""
+msgstr "Totes les nostres aplicacions són completament gratuïtes! Però si vols donar-nos el teu suport, pots instal·lar les aplicacions addicionals que t'oferim, i recomanar DriverPack als teus amics :-)"
 
 msgid "adminpagefaq_antivirus-q"
-msgstr ""
+msgstr "El meu antivirus ha detectat un virus en DriverPack - Com ha pogut passar?"
 
 msgid "adminpagefaq_antivirus-a"
-msgstr ""
+msgstr "El més segur és que es tracti d'un fals positiu, ja que totes les versions de DriverPack passen un examen detingut i una acreditació pel laboratori de Karspersky. La nostra empresa coopera amb molts proveïdors d'antivirus com Avast i 360 Total Security. Per tal de poder continuar, afegeix DriverPack a la llista blanca del teu antivirus. A més a més, agrairíem que reportessis aquest fals positiu a la companyia del vostre antivirus així com al nostre servei de suport."
 
 msgid "adminpagefaq_expert_mode-q"
-msgstr ""
+msgstr "Quin mode és el més adequat per a utilitzar el DriverPack?"
 
 msgid "adminpagefaq_expert_mode-a"
-msgstr ""
+msgstr "Per defecte, DriverPack inicia en el mode automàtic, dissenyat per a que s'entengui i sigui convenient fins i tot per a nous usuaris. Tot i això, de cara als usuaris avançats i administradors de sistemes, hem desenvolupat el mode Expert que disposa d'opcions addicionals i opcions per a personalitzar-lo. Per a activar aquest mode, tan sols cal fer clic al botó corresponent ubicat a la part baixa de la pantalla."
 
 msgid "adminpagefaq_stable-q"
-msgstr ""
+msgstr "El controlador no s'ha instal·lat correctament i l'ordinador ara no funciona bé. Com puc arreglar-ho?"
 
 msgid "adminpagefaq_stable-a"
-msgstr ""
+msgstr "La estabilitat de DriverPack és una de les nostres prioritats principals, però tot i això es poden donar petits problemes, tot i que no és gaire habitual. Per això generem un punt de restauració que et permet retornar-ho tot a l'estat anterior. Per tal d'evitar un problema com aquest en el futur, et recomanem anar al menú de DriverPack i enviar-nos l'informe que l'aplicació genera automàticament al nostre servei tècnic."
 
 msgid "badrabbitpromopage_cta-text"
-msgstr ""
+msgstr "Virus criptogràfic Bad Rabbit — com puc protegir l'ordinador?"
 
 msgid "badrabbitpromopage_cta-subtext"
-msgstr ""
+msgstr "DriverPAck conté mecanismes específics per a eliminar vulnerabilitats entre les utilitats de configuració de l'ordinador. Podeu descarregar la protecció gratuïta contra el virus Bad Rabbit per al vostre ordinador o portàtil el que farà més segur el vostre ordinador."
 
 msgid "badrabbitpromopage_cta-btn"
-msgstr ""
+msgstr "Configura l'ordinador i protegeix-lo contra el Bad Rabbit"
 
 msgid "badrabbitpromopage_caption-text"
-msgstr ""
+msgstr "Aquesta aplicació és completament gratuïta"
 
 msgid "badrabbitpromopage_info-text-title-1"
-msgstr ""
+msgstr "Que és el Bad Rabbit?"
 
 msgid "badrabbitpromopage_info-text-1"
-msgstr ""
+msgstr "El Bad Rabbit és un nou virus criptogràfic que ha atacat els ordinadors d'usuaris de Rússia, Ucraïna, Bulgaria i Turquia des de l'octubre de 2017. També inclou entre les seves víctimes The Interfax RIA, The Fontanka RIA, un nombre de ministres d'Ucraïna i del aeroport d'Odessa. LA manera en que funciona és simple: utilitza la utilitat Mimikatz per a obtenir informació del compte d'usuari de la memòria de l'ordinador. També cerca la informació del compte d'administrador actiu. El Bad Rabbit aleshores intenta accedir als ordinadors de la xarxa local utilitzant SMB i WebDAV. Tan aviat com obté accés a l'odinador, el virus encripta totes les dades que aconsegueix accedir, i després d'això, canvia el Master Boot Record. Un com realitzats aquests passos, reinicia l'ordinador i mostra un missatge demanant uns 0,05 Bitcoins (que corresponen a 300 $ a data de 26 d'octubre de 2017)"
 
 msgid "badrabbitpromopage_info-text-title-2"
-msgstr ""
+msgstr "Com protegir l'ordinador contra el virus criptogràfic Bad Rabbit?"
 
 msgid "badrabbitpromopage_info-text-2"
-msgstr ""
+msgstr "El que pots fer per protegir-te contra el nou virus:<br/> • Crear un fitxer infpub.dat al directori C:\\\\Windows\\\\ i marcar que és de \"només lectura\" en les propietats<br/>• Comprovar detingudament si es creen noves tasques a \"l'Administrador de taques\" <br/>• No instal·lar actualitzacions de FlashPkayer des de llocs webs de tercers <br/>• Actualitzar Windows i totes les aplicacions de seguretat <br/>• Fer còpies de seguretat del sistema operatiu <br/><br/> També pots simplement descarregar la nova utilitat de DriverPack Solution des d'aquesta pàgina  -  t'estalviarà temps! <br/><b>La nostra utilitat funciona en Windows 7, 8, 8.1, 10 i XP.</b>"
 
 msgid "badrabbitpromopage_links-text"
-msgstr ""
+msgstr "El desenvolupament d'aquesta solució s'ha basat en les fonts següents"
 
 msgid "badrabbitpromopage_link-smb"
-msgstr ""
+msgstr "Com activar i desactivar les versions 1, 2 i 3 del protocol SMB per a Windows i Windows Server"
 
 msgid "devicegrouppage_show-more-link"
-msgstr ""
+msgstr "Mostra'n més"
 
 msgid "devicestypepage_subtitle"
-msgstr ""
+msgstr "Tots els fabricants de {{CLASS.SINGLE.FOR}}"
 
 msgid "devicetypevendorpage_subtitle-popular"
-msgstr ""
+msgstr "{{CLASS.PLURAL.MAIN}} populars de {{VENDOR.NAME}}"
 
 msgid "devicetypevendorpage_subtitle-all"
-msgstr ""
+msgstr "Totes les {{CLASS.PLURAL.MAIN}} de {{VENDOR.NAME}}"
 
 msgid "errorpage_title"
-msgstr ""
+msgstr "Error 500: error del servidor"
 
 msgid "landingfooter_landing-subtitle"
-msgstr ""
+msgstr "DriverPack disposa de controladors per a totes les versions populars de Windows"
 
 msgid "landing-footer_catalog-os"
-msgstr ""
+msgstr "controladors per a {{OS}}"
 
 msgid "landing-footer_download"
-msgstr ""
+msgstr "Descarrega el DriverPack"
 
 msgid "landing-footer_versions"
-msgstr ""
+msgstr "Totes les versions de l'aplicació"
 
 msgid "landing-footer_manufacturers"
-msgstr ""
+msgstr "Fabricants de maquinari"
 
 msgid "landing-footer_badrabbit"
-msgstr ""
+msgstr "Protecció contra el Bat Rabbit"
 
 msgid "landing-footer_for-admin"
-msgstr ""
+msgstr "Per a administradors de sistemes"
 
 msgid "landing-footer_for-translators"
-msgstr ""
+msgstr "Per a traductors"
 
 msgid "landing-footer_hwids"
-msgstr ""
+msgstr "Device ID"
 
 msgid "landing-footer_wannacry"
-msgstr ""
+msgstr "Protecció contra el WannaCry"
 
 msgid "landing-footer_license"
-msgstr ""
+msgstr "Acord de llicència"
 
 msgid "landing-footer_remove"
-msgstr ""
+msgstr "Desinstal·lació de DriverPack"
 
 msgid "notfoundpage_title"
-msgstr ""
+msgstr "Error 404: no s'ha trobat la pàgina"
 
 msgid "notebookpage_show-more-link"
-msgstr ""
+msgstr "Mostra'n més"
 
 msgid "notebookpage_all-devices"
-msgstr ""
+msgstr "per a tots els dispositius"
 
 msgid "notebookspage_subtitle"
-msgstr ""
+msgstr "Llista de tots els fabricats de portàtils i Netbooks"
 
 msgid "notebooksvendorpage_subtitle-popular"
-msgstr ""
+msgstr "Portàtils i netbooks populars de {{VENDOR.NAME}}"
 
 msgid "notebooksvendorpage_subtitle-all"
-msgstr ""
+msgstr "Tots els portàtils i netbooks de {{VENDOR.NAME}}"
 
 msgid "reviewpage_title"
-msgstr ""
+msgstr "Comentaris i suggeriments per a millorar DriverPack"
 
 msgid "searchpage_show-more-link"
-msgstr ""
+msgstr "Mostra'n més"
 
 #. i18n: EN: text for {{LINK}} is in key thankyoupopup_download-link; RU:
 #. текст для {{LINK}} находится в ключе thankyoupopup_download-link;
 msgid "thankyoupopup_download-text"
-msgstr ""
+msgstr "La descàrrega no comença? Fes clic aquí per a {{LINK}}"
 
 msgid "thankyoupopup_title"
-msgstr ""
+msgstr "Inicia el DriverPack"
 
 msgid "thankyoupopup_cta-text"
-msgstr ""
+msgstr "per a seleccionar i instal·lar els controladors al teu ordinador"
 
 msgid "thankyoupopup_download-link"
-msgstr ""
+msgstr "descarregar"
 
 msgid "translate-feedback-header_caption"
-msgstr ""
+msgstr "Aquesta pàgina s'ha traduït recentment. Heu trobat alguna errada? Seleccioneu-la i premeu {{HOTKEY}}"
 
 msgid "translate-feedback-form-popup_preview-title"
-msgstr ""
+msgstr "Heu seleccionat el text següent:"
 
 msgid "translate-feedback-form-popup_correct-title"
-msgstr ""
+msgstr "Si us plau, expliqueu perquè creieu que està malament, i digueu-nos la versió correcta:"
 
 msgid "translate-feedback-form-popup_submit"
-msgstr ""
+msgstr "Envia"
 
 msgid "translate-feedback-popup_title-error"
-msgstr ""
+msgstr "Alguna cosa no ha anat bé"
 
 msgid "translate-feedback-popup_description-error"
-msgstr ""
+msgstr "No s'ha pogut enviar el text seleccionat degut a un error en el servidor. <br /> Intenteu-ho de nou més tard."
 
 msgid "translate-feedback-popup_title-success"
-msgstr ""
+msgstr "Gràcies"
 
 msgid "translate-feedback-popup_description-success"
-msgstr ""
+msgstr "El text seleccionat s'ha enviat a l'editor."
 
 msgid "translate-feedback-popup_description-join-us"
-msgstr ""
+msgstr "Si us plau, ajudeu-nos amb la traducció al vostre idioma nadiu."
 
 msgid "translate-feedback-popup_description-join-link"
-msgstr ""
+msgstr "Uneix-te al nostre equip de traductors!"
 
 msgid "translationlandingpage_title"
-msgstr ""
+msgstr "Traducció de DriverPack"
 
 msgid "vendorpage_subtitle-popular"
-msgstr ""
+msgstr "Dispositius populars de {{VENDOR.NAME}}"
 
 msgid "wannacryptpromopage_cta-text"
-msgstr ""
+msgstr "Virus criptogràfic WannaCrypt — com protegir l'ordinador contra l'atac més gran de la història?"
 
 msgid "wannacryptpromopage_cta-subtext"
-msgstr ""
+msgstr "DriverPack conté mecanismes específics per a eliminar vulnerabilitats entre les utilitats de configuració de l'ordinador. Podeu descarregar la protecció gratuïta contra el virus WannaCry per tal fer el vostre ordinador o portàtil més segur."
 
 msgid "wannacryptpromopage_cta-btn"
-msgstr ""
+msgstr "Configura l'ordinador i protegeix-lo contra el WannaCry"
 
 msgid "wannacryptpromopage_caption-text"
-msgstr ""
+msgstr "Aquesta aplicació és completament gratuïta"
 
 msgid "wannacryptpromopage_info-text-title-1"
-msgstr ""
+msgstr "Què és WannaCrypt?"
 
 msgid "wannacryptpromopage_info-text-1"
-msgstr ""
+msgstr "El virus WannaCrypt (reanomenat espontàniament com a WannaCry per les víctimes) va atacar ordinadors de tot el mon el 12 de maig de 2017 i va infectar els dispositius de més de 300.000 usuaris de 150 països. Europa occidental, Rússia i Xina van ser els que en van sortir més mal parats. A la Gran Bretanya, el virus va fer caure la xarxa del Departament de Salut el que va parar l'activitat dels hospitals de tot el país. A Xina, l'atac va afectar els ordinadors antics de les fàbriques, el que va paralitzar algunes indústries. <br/><br/> El punt clau del funcionament del virus és simple: entra a l'ordinador o portàtil i ho encripta absolutament tots els documents i fitxers que pot trobar, fet que impossibilita poder-los utilitzar. Aleshores, l'intrús demana una quantitat important de diners per desencriptar-ho, uns 300 $. Tot i això, no hi ha garantia de que es pugui accedir de nou als fitxers. Actualment, no hi ha cap manera de desencriptar-ho un mateix, i les solucions que hi ha per Internet, o bé són paranys, o distribueixen un altre virus, o simplement no funcionen amb una seguerat del 100%."
 
 msgid "wannacryptpromopage_info-text-title-2"
-msgstr ""
+msgstr "Qui està en perill?"
 
 msgid "wannacryptpromopage_info-text-2"
-msgstr ""
+msgstr "Els ordinadors que tenen sistemes operatius anteriors a Windows 10 amb ports SMB oberts són els que estan més en risc. Actualment això significa que la meitat dels usuaris de Windows estan en risc — un 18% dels usuaris utilitzen còpies pirates de Windows (el que ja de per sí els posa en risc), un 23% del usuaris desactiven el servei d'Actualitzacions de Windows (el que impedeix descarregar les últimes &#147;actualitzacions de seguretat&#148; de Microsoft), i un altre 6% utilitzen versions antigues del SO que ja no reben actualitzacions. <br/><br/> La conclusió de tot això és que si les xarxes de diferents firmes i empreses que encara utilitzen Windows XP són els que tenen més risc. En un atac a aquestes xarxes, la pèrdua de les dades pot ser molt gran i el cost de pagar seria enorme, doncs qualsevol &#147;infecció&#148; ha de ser pagada individualment per a cada ordinador."
 
 msgid "wannacryptpromopage_info-text-title-3"
-msgstr ""
+msgstr "Com protegir la teva empresa — solució de DriverPack Solution"
 
 msgid "wannacryptpromopage_info-text-3"
-msgstr ""
+msgstr "La perill principal del virus WanaCrypt (WannaCry) recau en que es copia de màquina en màquina utilitzant vulnerabilitats crítiques del protocol SMBv1 corregides en el pedaç de seguretat MS17-010. Això fa que el WannaCry sigui invisible als antivirus. La solució de DriverPack Solution permet instal·lar i actualitzar les vulnerabilitats crítiques del sistema, i desactivar els protocols obsolets que causen aquest perill, independentment de l'estat de la llicència del sistema operatiu."
 
 msgid "wannacryptpromopage_links-text"
-msgstr ""
+msgstr "El desenvolupament d'aquesta solució s'ha basat en les fonts següents"
 
 msgid "wannacryptpromopage_link-smb"
-msgstr ""
+msgstr "Com activar i desactivar les versions 1, 2 i 3 del protocol SMB per a Windows i Windows Server"

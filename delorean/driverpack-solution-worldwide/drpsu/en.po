@@ -1,12 +1,13 @@
 # Translators:
 # Nadia Tegeneva <nadia@drp.su>, 2016
+# Leonid Beschasny <lbeschastny@iknow.travel>, 2017
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-11-10 17:00+0000\n"
+"POT-Creation-Date: 2017-11-16 14:57+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
-"Last-Translator: Nadia Tegeneva <nadia@drp.su>, 2016\n"
+"Last-Translator: Leonid Beschasny <lbeschastny@iknow.travel>, 2017\n"
 "Language-Team: English (https://www.transifex.com/driverpack-solution/teams/75452/en/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -412,8 +413,8 @@ msgstr "Other DriverPack versions"
 msgid "landingproducts_item-title-online"
 msgstr "DriverPack Online"
 
-msgid "landingproducts_item-caption-online"
-msgstr "It is downloaded instantly, and will download all missing required drivers during installing"
+msgid "landingproducts_item-description-online"
+msgstr "It is downloaded instantly, downloads and installs all drivers if you have Internet connection <span class='nobr'>({{SIZE}} MB)</span>"
 
 msgid "landingproducts_item-version"
 msgstr "Version:"
@@ -422,16 +423,16 @@ msgid "landingproducts_item-button"
 msgstr "Download"
 
 msgid "landingproducts_item-title-network"
-msgstr "DriverPack Network"
+msgstr "DriverPack Offline Network"
 
-msgid "landingproducts_item-caption-network"
-msgstr "It is downloaded quickly, and already contains the drivers for network hardware"
+msgid "landingproducts_item-description-network"
+msgstr "It contains drivers for network hardware (Lan/Wi-Fi), it operates without connection to Internet  <span class='nobr'>({{SIZE}} MB)</span>"
 
 msgid "landingproducts_item-title-offline"
-msgstr "DriverPack Offline"
+msgstr "DriverPack Offline Full"
 
-msgid "landingproducts_item-caption-offline"
-msgstr "It can operate without an Internet connection but its size is 13.9 GB (useful for system admins)"
+msgid "landingproducts_item-description-offline"
+msgstr "It contains all drivers, operates without connection to Internet, it can be downloaded through the Torrent-tracker <span class='nobr'>({{SIZE}} GB)</span>"
 
 msgid "landingpublications__landing-title"
 msgstr "Mass media publications about DriverPack"
@@ -447,6 +448,12 @@ msgstr "Join the DriverPack community"
 
 msgid "landingsocial_landing-subtitle"
 msgstr "Follow the news and take part in discussions"
+
+msgid "landingtopvideocardlist_landing-title"
+msgstr "Popular video card models"
+
+msgid "landingtopvideocardlist_landing-caption"
+msgstr "DriverPack selects drivers for video cards of any models, here are the most popular ones"
 
 msgid "landingusers_cta"
 msgstr "The number of DriverPack users around the world keeps growing with every passing second"

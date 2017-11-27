@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-11-10 17:00+0000\n"
+"POT-Creation-Date: 2017-11-16 14:57+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Burhan Keleş <klsburhan@hotmail.com>, 2017\n"
 "Language-Team: Turkish (https://www.transifex.com/driverpack-solution/teams/75453/tr/)\n"
@@ -414,8 +414,8 @@ msgstr "Diğer DriverPack sürümleri"
 msgid "landingproducts_item-title-online"
 msgstr "DriverPack Online"
 
-msgid "landingproducts_item-caption-online"
-msgstr "Anında indirilir, ve tüm eksik gerekli sürücüler kurulum sırasında indirilecektir"
+msgid "landingproducts_item-description-online"
+msgstr "Internet bağlantınız varsa anında indirilir, tüm sürücüleri indirir ve yükler <span class='nobr'>({{SIZE}} MB)</span>"
 
 msgid "landingproducts_item-version"
 msgstr "Sürüm:"
@@ -424,16 +424,16 @@ msgid "landingproducts_item-button"
 msgstr "İndir"
 
 msgid "landingproducts_item-title-network"
-msgstr "DriverPack Network"
+msgstr "DriverPack Offline Network"
 
-msgid "landingproducts_item-caption-network"
-msgstr "Hızlı bir şekilde indirilir, ve ağ donanımı için sürücüleri zaten içerir"
+msgid "landingproducts_item-description-network"
+msgstr "Ağ donanımı için sürücüleri içerir (Lan/Wi-Fi), Internet bağlantısı olmadan çalışır <span class='nobr'>({{SIZE}} MB)</span>"
 
 msgid "landingproducts_item-title-offline"
-msgstr "DriverPack Offline"
+msgstr "DriverPack Offline Full"
 
-msgid "landingproducts_item-caption-offline"
-msgstr "Internet bağlantısı olmadan çalışabilir ancak boyutu 13.9 GB'tır (sistem yöneticileri için faydalıdır)"
+msgid "landingproducts_item-description-offline"
+msgstr "Tüm sürücüleri içerir, Internet bağlantısı olmadan çalışır, Torrent aracılığıyla indirilebilir <span class='nobr'>({{SIZE}} GB)</span>"
 
 msgid "landingpublications__landing-title"
 msgstr "DriverPack hakkında kitlesel medya yayınları"
@@ -449,6 +449,12 @@ msgstr "DriverPack topluluğuna katılın"
 
 msgid "landingsocial_landing-subtitle"
 msgstr "Haberleri takip edin ve tartışmalarda yer alın"
+
+msgid "landingtopvideocardlist_landing-title"
+msgstr "Popüler görüntü kartı modelleri"
+
+msgid "landingtopvideocardlist_landing-caption"
+msgstr "DriverPack herhangi bir modele ait görüntü kartı için sürücüleri seçer, işte en popüler olanlar"
 
 msgid "landingusers_cta"
 msgstr "DriverPack kullanıcılarının sayısı her geçen saniye dünya çapında büyümeye devam ediyor"

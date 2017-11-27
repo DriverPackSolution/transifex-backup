@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-11-10 17:00+0000\n"
+"POT-Creation-Date: 2017-11-16 14:57+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: danfong <danfong.hsieh@gmail.com>, 2017\n"
 "Language-Team: Chinese (https://www.transifex.com/driverpack-solution/teams/75453/zh/)\n"
@@ -413,8 +413,8 @@ msgstr "其他 DriverPack 版本"
 msgid "landingproducts_item-title-online"
 msgstr "DriverPack Online"
 
-msgid "landingproducts_item-caption-online"
-msgstr "即時下載，所有必需的驅動程式將在安裝過程中完全下載"
+msgid "landingproducts_item-description-online"
+msgstr ""
 
 msgid "landingproducts_item-version"
 msgstr "版本:"
@@ -423,16 +423,16 @@ msgid "landingproducts_item-button"
 msgstr "下載"
 
 msgid "landingproducts_item-title-network"
-msgstr "DriverPack Network"
+msgstr "DriverPack Offline 網路版"
 
-msgid "landingproducts_item-caption-network"
-msgstr "它快速下載，同時包含網路硬體的驅動程式"
+msgid "landingproducts_item-description-network"
+msgstr "它包含網路硬體（Lan / Wi-Fi）的驅動程式，它執行時無需連接到網路 <span class='nobr'>({{SIZE}} MB）</span>"
 
 msgid "landingproducts_item-title-offline"
-msgstr "DriverPack Offline"
+msgstr "DriverPack Offline 完整版"
 
-msgid "landingproducts_item-caption-offline"
-msgstr "它操作不需網際網路連線，但其大小為 13.9 GB(系統管理員的變體)"
+msgid "landingproducts_item-description-offline"
+msgstr ""
 
 msgid "landingpublications__landing-title"
 msgstr "關於 DriverPack 的大眾媒體出版物"
@@ -449,6 +449,12 @@ msgstr "加入 DriverPack 社群"
 msgid "landingsocial_landing-subtitle"
 msgstr "跟蹤新聞並參與討論"
 
+msgid "landingtopvideocardlist_landing-title"
+msgstr "常用的顯卡型號"
+
+msgid "landingtopvideocardlist_landing-caption"
+msgstr "DriverPack 選擇任何型號顯卡的驅動程式，這裡是最常用的流行的"
+
 msgid "landingusers_cta"
 msgstr "全球各地的 DriverPack 用戶 數量不斷增長"
 
@@ -459,7 +465,7 @@ msgid "landingusers_versions"
 msgstr "其他 DriverPack 版本"
 
 msgid "landingvideocardlist_landing-title"
-msgstr ""
+msgstr "常用的顯卡製造商"
 
 msgid "landingwizard_landing-title"
 msgstr "現在可以一鍵安裝一台電腦"
@@ -927,7 +933,7 @@ msgid "badrabbitpromopage_info-text-title-1"
 msgstr "什麼是 Bad Rabbit?"
 
 msgid "badrabbitpromopage_info-text-1"
-msgstr ""
+msgstr "Bad Rabbit 是一種新的加密技術病毒，最近一周襲擊了俄羅斯、烏克蘭、保加利亞和土耳其用戶的電腦。遭受襲擊的受害者還有 Interfax RIA、Fontanka RIA、烏克蘭以及敖德薩機場的許多部門。操作原理很簡單：它使用 Mimikatz 工具，從電腦的記憶體中擷取帳戶資料。它還搜尋系統管理員使用中的帳戶資料。Bad Rabbit 嘗試使用 SMB 和 WebDAV 存取區域網路中的工作站。一旦它存取電腦，病毒會加密其管理的所有資料，然後變更主開機記錄。當這個程序完成後，Bad Rabbit 重新設定您的電腦，並彈出訊息，要求支付 0.05 比特幣(在 2017 年 10 月 26 日約 300 美元)。"
 
 msgid "badrabbitpromopage_info-text-title-2"
 msgstr "如何保護您的電腦免受 Bad Rabbit 加密病毒感染?"
@@ -1034,13 +1040,13 @@ msgid "translate-feedback-header_caption"
 msgstr "此頁面最近已被翻譯。您找到印刷錯誤了嗎?反白並按一下 {{HOTKEY}}"
 
 msgid "translate-feedback-form-popup_preview-title"
-msgstr ""
+msgstr "您已經反白顯示了以下一段文字:"
 
 msgid "translate-feedback-form-popup_correct-title"
-msgstr ""
+msgstr "請解釋究竟是什麼錯誤，並提供正確的變異:"
 
 msgid "translate-feedback-form-popup_submit"
-msgstr ""
+msgstr "傳送"
 
 msgid "translate-feedback-popup_title-error"
 msgstr "出了些問題"
