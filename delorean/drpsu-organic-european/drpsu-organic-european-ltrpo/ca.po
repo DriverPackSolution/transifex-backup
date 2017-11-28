@@ -1,12 +1,13 @@
 # Translators:
 # Josep Maria Antolin <josepma@gmail.com>, 2017
+# Nadia Tegeneva <nadia@drp.su>, 2017
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-10-26 10:03+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
-"Last-Translator: Josep Maria Antolin <josepma@gmail.com>, 2017\n"
+"Last-Translator: Nadia Tegeneva <nadia@drp.su>, 2017\n"
 "Language-Team: Catalan (https://www.transifex.com/driverpack-solution/teams/75453/ca/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -33,7 +34,7 @@ msgid "seo_notebook-footer-anchor"
 msgstr "Portàtils {{NAME}}"
 
 msgid "seo_notebookdevices-footer-anchor"
-msgstr "{{CLASS.PLURAL.MAIN}} per a {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}}"
+msgstr "{{CLASS.PLURAL.MAIN}} per a {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
 #. CLASS.PLURAL.FOR=мониторов|модемов;
@@ -207,7 +208,7 @@ msgstr ""
 #. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
 #. GROUP.NAME=GeForce 210;
 msgid "seo_devicegroup-h1"
-msgstr "Controladors per a <span class='bold'>{{CLASS.SINGLE.FOR}}{{GROUP.VENDOR.NAME}}{{GROUP.NAME}}</span>"
+msgstr "Controladors per a <span class='bold'>{{CLASS.SINGLE.FOR}} {{GROUP.VENDOR.NAME}} {{GROUP.NAME}}</span>"
 
 #. i18n: EN: Example: GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU:
 #. Пример: GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210;
@@ -341,7 +342,7 @@ msgstr ""
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebook-h1"
-msgstr "Controladors per a portàtils <span class='bold'>{{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}}</span>"
+msgstr "Controladors per a portàtils <span class='bold'>{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}</span>"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
@@ -387,7 +388,7 @@ msgstr ""
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 #. CLASS.PLURAL.FOR=видеокарт|звуковых карт;
 msgid "seo_notebookdevices-h1"
-msgstr "Controladors de {{CLASS.SINGLE.FOR}} per a portàtils {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}}"
+msgstr "Controladors de {{CLASS.SINGLE.FOR}} per a portàtils {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets;
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU: Пример:
@@ -432,7 +433,7 @@ msgid "seo_devicegroupos-description"
 msgstr ""
 
 msgid "seo_devicegroupos-h1"
-msgstr "Controladors per a {{GROUP.VENDOR.NAME}}{{GROUP.NAME}} per a Windows {{OS}}"
+msgstr "Controladors per a {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} per a Windows {{OS}}"
 
 msgid "seo_devicegroupos-keywords"
 msgstr ""
@@ -456,7 +457,7 @@ msgid "seo_notebookos-description"
 msgstr ""
 
 msgid "seo_notebookos-h1"
-msgstr "Controladors per a portàtil {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}} per a Windows {{OS}}"
+msgstr "Controladors per a portàtil {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} per a Windows {{OS}}"
 
 msgid "seo_notebookos-keywords"
 msgstr ""
@@ -501,7 +502,7 @@ msgid "seo_devicegroupsos-description"
 msgstr ""
 
 msgid "seo_devicegroupsos-h1"
-msgstr "Controladors per a {{CLASS.SINGLE.FOR}}{{VENDOR.NAME}} per a Windows {{OS}}"
+msgstr "Controladors per a {{CLASS.SINGLE.FOR}} {{VENDOR.NAME}} per a Windows {{OS}}"
 
 msgid "seo_devicegroupsos-keywords"
 msgstr ""
@@ -573,7 +574,7 @@ msgid "seo_notebookdevicesos-description"
 msgstr ""
 
 msgid "seo_notebookdevicesos-h1"
-msgstr "Controladors per a {{CLASS.PLURAL.FOR}} per a portàtils {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}}  | Windows  {{OS}}"
+msgstr "Controladors per a {{CLASS.PLURAL.FOR}} per a portàtils {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} | Windows {{OS}}"
 
 msgid "seo_notebookdevicesos-keywords"
 msgstr ""
