@@ -1,14 +1,15 @@
 # Translators:
 # Translators:
 # Nadia Tegeneva <nadia@drp.su>, 2017
+# Peter Rožník <729mail@gmail.com>, 2017
 # Tibor Repček <tiborepcek@gmail.com>, 2016
 msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-10-18 12:44+0000\n"
-"PO-Revision-Date: 2017-11-22 16:09+0000\n"
-"Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
+"POT-Creation-Date: 2017-11-27 10:29+0000\n"
+"PO-Revision-Date: 2017-11-30 16:01+0000\n"
+"Last-Translator: Peter Rožník <729mail@gmail.com>\n"
 "Language-Team: Slovak (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/sk/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,13 +18,13 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 
 msgid "installation_close_confirm"
-msgstr ""
+msgstr "Naozaj chcete prerušiť inštaláciu? Môže to spôsobiť poruchu počítača."
 
 msgid "authorize_failed"
-msgstr ""
+msgstr "Chyba prihlásenia"
 
 msgid "unauthorize_failed"
-msgstr ""
+msgstr "Chyba pri odhlásení"
 
 msgid "deviceclasses_bluetooth-single-main"
 msgstr "Bluetooth zariadenie"
@@ -217,1111 +218,1158 @@ msgstr "iné zariadenia"
 msgid "deviceclasses_other-plural-for"
 msgstr "iné zariadenia"
 
+msgid "programs_btn_install_single"
+msgstr "inštalovať"
+
+msgid "programs_btn_installed_single"
+msgstr "Inštalované"
+
 msgid "settings_common-settings"
-msgstr ""
+msgstr "Všeobecné nastavenia"
 
 msgid "settings_error"
-msgstr ""
+msgstr "Prevencia chýb"
 
 msgid "settings_algorithm"
-msgstr ""
+msgstr "Algoritmus výberu ovládača"
 
 msgid "settings_language-title"
-msgstr ""
+msgstr "Jazyky aplikácie"
 
 msgid "settings_language-caption"
-msgstr ""
+msgstr "Ak chcete, aby vaše skúsenosti s DriverPack boli jednoduchšie a ešte pohodlnejšie, vyberte v nastavení váš rodný jazyk!"
 
 msgid "settings_language-anchor"
-msgstr ""
+msgstr "Informácie pre prekladateľov"
 
 msgid "settings_language-href"
 msgstr "https://driverpack.io/sk/info/translators"
 
 msgid "settings_logging-title"
-msgstr ""
+msgstr "Ukladanie logovacích záznamov"
 
 msgid "settings_logging-caption"
-msgstr ""
+msgstr "Logovacie záznamy aplikácie sa ukladajú počas procesu konfigurácie počítača, aby vývojári a tím technickej podpory mohli preskúmať a odstrániť akékoľvek problémy, s ktorými sa stretnete."
 
 msgid "settings_firebug-title"
-msgstr ""
+msgstr "Otvorenie ladiacej konzoly"
 
 msgid "settings_firebug-caption"
-msgstr ""
+msgstr "Pre pokročilých používateľov, inžinieri programu DriverPack zaradili možnosť spustenia programu Firebug a samotnú identifikáciu príčiny chyby (stlačením klávesy F12 otvorte konzolu)."
 
 msgid "settings_cleanup-title"
-msgstr ""
+msgstr "Odstránenie dočasných súborov"
 
 msgid "settings_cleanup-caption"
-msgstr ""
+msgstr "Pri konfigurovaní počítača načíta systém DriverPack sériu dočasných súborov, ktoré sú potrebné na inštaláciu ovládačov. Po úplnom nakonfigurovaní počítača táto funkcia automaticky odstráni z počítača nepotrebné súbory, čo vám pomôže ušetriť viac miesta na pevnom disku."
 
 msgid "settings_soft-and-utilities-title"
-msgstr ""
+msgstr "Inštalácia nástrojov ovládačov a užitočných aplikácií"
 
 msgid "settings_soft-and-utilities-caption"
-msgstr ""
+msgstr "Ak chcete správne nakonfigurovať počítač, okrem ovládačov budete potrebovať aj ďalšie nástroje a sadu užitočných softvérových a systémových knižníc, ako napríklad Visual C++, * .Net a tak ďalej. Tieto nástroje a softvér sú potrebné pre správnu funkciu niektorých zariadení, vrátane USB 3.0, FN kľúčov a ďalších. Z tohto dôvodu neodporúčame zakázať túto sekciu."
 
 msgid "settings_soft-and-utilities-anchor"
-msgstr ""
+msgstr "Viac k nahliadnutiu"
 
 msgid "settings_soft-and-utilities-href"
-msgstr ""
+msgstr "https://vk.com/topic-29220845_34742910"
 
 msgid "settings_protect-title"
-msgstr ""
+msgstr "Ochrana DriverPack"
 
 msgid "settings_protect-caption"
-msgstr ""
+msgstr "Táto technológia vám pomôže vyčistiť váš počítač od malwarových a adware plug-inov, ktoré dokonca ani antivírusový softvér a nástroje na blokovanie reklamy často nedokážu úplne odhaliť alebo opraviť. Náš systém čistenia škodlivého softvéru a zbytočného softvéru vám umožní uvoľniť výrazne viac priestoru na pevnom disku a zvýšiť výkon počítača. Preto dôrazne odporúčame, aby ste túto funkciu využili a ťažili z jej výhod."
 
 msgid "settings_protect-anchor"
-msgstr ""
+msgstr "Viac k nahliadnutiu"
 
 msgid "settings_protect-href"
-msgstr ""
+msgstr "https://vk.com/topic-29220845_34742915"
 
 msgid "settings_diagnostics-title"
-msgstr ""
+msgstr "Povolenie režimu diagnostiky"
 
 msgid "settings_diagnostics-caption"
-msgstr ""
+msgstr "Táto časť obsahuje všetky informácie o konfigurácii počítača. Okrem toho, vďaka komplexnej diagnostike, algoritmus DriverPack-u nainštaluje všetky požadované ovládače čo najpresnejšie a najrýchlejšie. Preto dôrazne odporúčame, aby ste túto funkciu neblokovali."
 
 msgid "settings_expert-mode-title"
-msgstr ""
+msgstr "Povoliť Expertný režim"
 
 msgid "settings_expert-mode-caption"
-msgstr ""
+msgstr "Expertný režim je vyvinutý špeciálne pre pohodlie pokročilých používateľov a profesionálov. Tento režim umožňuje prispôsobiť prevádzku programu DriverPack podľa vašich osobných potrieb a úloh. Po aktivovaní tejto funkcie bude Expertný režim navolený štandardne."
 
 msgid "settings_minify-menu-title"
-msgstr ""
+msgstr "Zmenšiť veľkosť navigačného panela"
 
 msgid "settings_minify-menu-caption"
-msgstr ""
+msgstr "Pre väčšie pohodlie pri práci s rozšírenými nastaveniami môžete nastaviť veľkosť navigačnej lišty vľavo."
 
 msgid "settings_authorization-title"
-msgstr ""
+msgstr "Povoliť režim prihlásenia"
 
 msgid "settings_authorization-caption"
-msgstr ""
+msgstr "Po krátkom a jednoduchom prihlasovacom postupe budete mať prístup k rozšíreným nastaveniam ako aj k množstvu užitočných funkcií, vrátane rýchlejšieho sťahovania ovládačov zo serverov CDN, nastavení uložených na úrovni profilu a mnohých ďalších. Veľmi odporúčame, aby ste sa prihlásili a využili tieto pokročilé funkcie."
 
 msgid "settings_news-title"
-msgstr ""
+msgstr "Zobraziť novinky o ovládačoch"
 
 msgid "settings_news-caption"
-msgstr ""
+msgstr "Táto časť obsahuje užitočné správy ohľadne vydania nových ovládačov a nástrojov."
 
 msgid "settings_drivers-title"
-msgstr ""
+msgstr "Zakázať automatickú inštaláciu odporúčaných ovládačov"
 
 msgid "settings_drivers-caption"
-msgstr ""
+msgstr "Ak je táto funkcia aktivovaná, automatická inštalácia odporúčaných ovládačov bude vypnutá."
 
 msgid "settings_soft-title"
-msgstr ""
+msgstr "Zakázať inštaláciu odporúčaného softvéru"
 
 msgid "settings_soft-caption"
-msgstr ""
+msgstr "Ak je táto funkcia aktivovaná, inštalácia odporúčaných aplikácií a softvéru bude vypnutá. Znamená to však, že vo vašom počítači nebudú nainštalované mnohé užitočné a bezplatné aplikácie. Naozaj si chcete nechať túto príležitosť ujsť?"
 
 msgid "settings_banners-title"
-msgstr ""
+msgstr "Zakázať informačné bannery"
 
 msgid "settings_banners-caption"
-msgstr ""
+msgstr "Tieto bannery obsahujú užitočné informácie týkajúce sa prevádzky viacerých aplikácií, ktoré ponúka DriverPack. Môžete zakázať ich zobrazenie, ale znamená to, že vám budú chýbať dodatočné možnosti a nové funkcie tohto softvéru."
 
 msgid "settings_notifier-title"
-msgstr ""
+msgstr "DriverPack Oznamovač"
 
 msgid "settings_notifier-caption"
-msgstr ""
+msgstr "DriverPack Oznamovač je monitorovací systém, ktorý vás okamžite informuje o poruchách softvéru a hardvéru. Pomôže to zabrániť systémovým chybám a nepredvídateľným zlyhaniam počítača."
 
 msgid "settings_notifier-anchor"
-msgstr ""
+msgstr "Viac k nahliadnutiu"
 
 msgid "settings_notifier-href"
-msgstr ""
+msgstr "https://vk.com/topic-29220845_34742952"
 
 msgid "settings_bug-report-title"
-msgstr ""
+msgstr "Povolenie možnosti zachytenia chýb (Zachytávanie Chýb)"
 
 msgid "settings_bug-report-caption"
-msgstr ""
+msgstr "Inžinieri systému DriverPack vyvinuli tento systém, aby softvér sám bol schopný vás informovať o akýchkoľvek problémoch s prevádzkou a potom ponúknuť spôsoby, ako ich rýchlo opraviť."
 
 msgid "settings_bug-report-anchor"
-msgstr ""
+msgstr "Viac k nahliadnutiu"
 
 msgid "settings_bug-report-href"
-msgstr ""
+msgstr "https://vk.com/topic-29220845_34742960"
 
 msgid "settings_restore-point-title"
-msgstr ""
+msgstr "Vytvorenie bodov obnovenia"
 
 msgid "settings_restore-point-caption"
-msgstr ""
+msgstr "DriverPack je najspoľahlivejší a najrýchlejší spôsob konfigurácie počítača a inštalácie ovládačov, ale pre prípad akejkoľvek núdzovej situácie, sa pred spustením procesu konfigurácie počítača, vytvorí bod obnovenia. Umožňuje kedykoľvek vrátiť počítač späť k predchádzajúcej konfigurácii."
 
 msgid "settings_drivers-backup-title"
-msgstr ""
+msgstr "Vytvorenie záloh ovládača (zálohovanie)"
 
 msgid "settings_drivers-backup-caption"
-msgstr ""
+msgstr "Pre ešte väčšie pohodlie pre všetkých používateľov, vytvorili vývojári programu DriverPack možnosť, uložiť zálohy vašich aktuálnych ovládačov do priečinka Moje dokumenty."
 
 msgid "settings_system-check-title"
-msgstr ""
+msgstr "Povoliť možnosť kontroly systému (Kontrola Systému)"
 
 msgid "settings_system-check-caption"
-msgstr ""
+msgstr "Aby ste sa uistili, že všetky zariadenia vášho počítača fungujú správne, tím DriverPack vyvinul pre váš počítač veľmi efektívny kontrolný systém. Aktivuje sa bezprostredne po reštarte a vykoná rýchlu kontrolu všetkých zariadení, aby sa ubezpečil, že fungujú správne."
 
 msgid "settings_system-check-anchor"
-msgstr ""
+msgstr "Viac k nahliadnutiu"
 
 msgid "settings_system-check-href"
-msgstr ""
+msgstr "https://vk.com/topic-29220845_34742983"
 
 msgid "settings_statistics-title"
-msgstr ""
+msgstr "Odošlite štatistiky o prevádzke systému"
 
 msgid "settings_statistics-caption"
-msgstr ""
+msgstr "S cieľom zlepšiť systém DriverPack pri každom štarte počítača, musia vývojári zhromažďovať a analyzovať (anonymne) údaje, týkajúce sa prevádzky systému. Týka sa to takých dát, ako je konfigurácia počítača, spustený softvér, systémové chyby a ďalšie informácie pre službu Google Analytics."
 
 msgid "settings_statistics-anchor"
-msgstr ""
+msgstr "Viac k nahliadnutiu"
 
 msgid "settings_statistics-href"
-msgstr ""
+msgstr "https://vk.com/topic-29220845_34742999"
 
 msgid "settings_machine-learning-title"
-msgstr ""
+msgstr "Povoliť možnosť strojového učenia (Strojové učenie)"
 
 msgid "settings_machine-learning-caption"
-msgstr ""
+msgstr "Unikátny systém umelej inteligencie vyvinutý našimi inžiniermi a zabudovaný do systému DriverPack pracuje starostlivo v prospech vášho systému. Pretože je to samo-učiaci sa systém, stále zlepšuje algoritmus výberu ovládačov po každom štarte počítača a naďalej konfiguruje počítač ešte rýchlejšie a presnejšie."
 
 msgid "settings_machine-learning-anchor"
-msgstr ""
+msgstr "Viac k nahliadnutiu"
 
 msgid "settings_machine-learning-href"
-msgstr ""
+msgstr "https://vk.com/topic-29220845_34743004"
 
 msgid "settings_bsods-title"
-msgstr ""
+msgstr "Analýza prípadov pádu počítača \"modrá obrazovka smrti\" (BSoD)"
 
 msgid "settings_bsods-caption"
-msgstr ""
+msgstr "Pravdepodobnosť, že dôjde k pádu počítača typu \"modrá obrazovka smrti\" (BSoD), je menej ako 0,3%, ale ak sa to stane, naša aplikácia sama analyzuje protokoly Windows a generuje správu pre analytický systém. Tým sa znižuje pravdepodobnosť opakovania tohto problému v tomto počítači a v iných s podobnou konfiguráciou."
 
 msgid "settings_bsods-anchor"
-msgstr ""
+msgstr "Viac k nahliadnutiu"
 
 msgid "settings_bsods-href"
-msgstr ""
+msgstr "https://vk.com/topic-29220845_34743011"
 
 msgid "settings_collect-drivers-title"
-msgstr ""
+msgstr "Stiahnite si chýbajúce ovládače"
 
 msgid "settings_collect-drivers-caption"
-msgstr ""
+msgstr "Aby mohla databáza ovládačov DriverPack pokryť ešte viac zariadení, vyvinul sa jedinečný systém na zhromažďovanie údajov. Analyzuje informácie o ovládačoch, ktoré už sú nainštalované v počítačoch a ak systém zistí vzácny ovládač, automaticky ho pridá do databázy ovládačov. Všetky tieto údaje sa zbierajú úplne anonymne a týkajú sa iba ovládačov zariadení."
 
 msgid "settings_collect-drivers-anchor"
-msgstr ""
+msgstr "Viac k nahliadnutiu"
 
 msgid "settings_collect-drivers-href"
-msgstr ""
+msgstr "https://vk.com/topic-29220845_34743007"
 
 msgid "menu_create_recovery_point"
-msgstr ""
+msgstr "Vytvoryť bod obnovenia"
 
 msgid "menu_create_drivers_backup"
-msgstr ""
+msgstr "Vytvoriť zálohu ovládačov"
 
 msgid "menu_add_remove_programs"
-msgstr ""
+msgstr "Odinštalácia softvéru"
 
 msgid "menu_device_manager"
-msgstr ""
+msgstr "Správca Zariadení"
 
 msgid "menu_system_properties"
-msgstr ""
+msgstr "Vlastnosti Systému"
 
 msgid "menu_display_properties"
-msgstr ""
+msgstr "Nastavenia Zobrazenia"
 
 msgid "menu_power_options"
-msgstr ""
+msgstr "Možnosti Napájania"
 
 msgid "menu_network_connections"
-msgstr ""
+msgstr "Sieťové Pripojenia"
 
 msgid "menu_computer_management"
-msgstr ""
+msgstr "Správa Počítača"
 
 msgid "menu_control_panel"
-msgstr ""
+msgstr "Ovládací panel"
 
 msgid "menu_disk_management"
-msgstr ""
+msgstr "Správa Diskov"
 
 msgid "menu_task_manager"
-msgstr ""
+msgstr "Správca Úloh"
 
 msgid "menu_cmd"
-msgstr ""
+msgstr "Príkazový Riadok"
 
 msgid "diagnostics_section_title"
-msgstr ""
+msgstr "Diagnostika Systému"
 
 msgid "drivers_screen_list-name-title-unknown"
-msgstr ""
+msgstr "Neznáme zariadenie"
 
 msgid "device_row_current_version"
-msgstr ""
+msgstr "Aktuálna verzia"
 
 msgid "device_row_installation"
-msgstr ""
+msgstr "Inštalácia"
 
 msgid "device_row_update"
-msgstr ""
+msgstr "Aktualizácia"
 
 msgid "driver_row_version"
-msgstr ""
+msgstr "Verzia"
 
 msgid "driver_row_date"
-msgstr ""
+msgstr "Dátum"
 
 msgid "drivers_row_current_driver"
-msgstr ""
+msgstr "Aktuálny ovládač"
 
 msgid "driver_row_driver-menu-state-install"
-msgstr ""
+msgstr "Inštalovať"
 
 msgid "driver_row_driver-menu-state-update"
-msgstr ""
+msgstr "Aktualizovať"
 
 msgid "driver_row_driver-menu-state-rollback"
-msgstr ""
+msgstr "Vrátiť späť"
 
 msgid "driver_row_vendor"
-msgstr ""
+msgstr "Výrobca"
 
 msgid "driver_row_inf"
-msgstr ""
+msgstr "Súbor *.inf"
 
 msgid "driver_row_section"
-msgstr ""
+msgstr "Sekcia"
 
 msgid "driver_row_os"
-msgstr ""
+msgstr "Verzia OS"
 
 msgid "drivers_row_recommended"
-msgstr ""
+msgstr "Odporúčaný"
 
 msgid "driver_row_driver-menu-search"
-msgstr ""
+msgstr "Vyhľadať na internete"
 
 msgid "drivers_btn_install_all"
-msgstr ""
+msgstr "Nainštalovať všetky <b>({{COUNT}})</b>"
 
 msgid "drivers_header_driver_for_computer"
-msgstr ""
+msgstr "Ovládače pre tento počítač"
 
 msgid "drivers_btn_install_all_caption"
-msgstr ""
+msgstr "Inštalácia odporúčaného softvéru môže byť zakázaná v nastaveniach"
 
 msgid "drivers_header_show_already_installed"
-msgstr ""
+msgstr "Zobraziť nainštalované a alternatívne ovládače"
 
 msgid "drivers_header_show_additional_info"
-msgstr ""
+msgstr "Zobraziť ďalšie informácie"
 
 msgid "drivers_screen_most_important"
-msgstr ""
+msgstr "Najpožadovanejšie ovládače"
 
 msgid "drivers_screen_updates"
-msgstr ""
+msgstr "Aktualizácie ovládačov"
 
 msgid "drivers_screen_utils"
-msgstr ""
+msgstr "Pomocné nástroje ovládačov"
 
 msgid "drivers_screen_installed"
-msgstr ""
+msgstr "Inštalované ovládače"
 
 msgid "drivers_screen_alternative"
-msgstr ""
+msgstr "Alternatívne ovládače"
 
 msgid "drivers_screen_show"
-msgstr ""
+msgstr "Zobraziť"
 
 #. i18n: EN: text for {{LINK}} is in key zero-drivers_cta-msg-caption-link;
 #. RU: текст для {{LINK}} находится в ключе zero-drivers_cta-msg-caption-link;
 msgid "zero-drivers_cta-msg-caption"
-msgstr ""
+msgstr "Ak stále máte nevyriešené problémy s vašimi zariadeniami, môžete {{LINK}}"
 
 msgid "zero-drivers_cta-msg"
-msgstr ""
+msgstr "Všetky požadované ovládače sú už nainštalované"
 
 msgid "zero-drivers_cta-msg-caption-link"
-msgstr ""
+msgstr "ovládače reinštalovať alebo vrátiť späť"
 
 msgid "zero-drivers_cta-btn"
-msgstr ""
+msgstr "Prejsť na čistenie počítača"
 
 msgid "zero-drivers_footer_device-manager"
-msgstr ""
+msgstr "Správca Zariadení"
 
 msgid "zero-drivers_footer_support"
-msgstr ""
+msgstr "Technická Podpora"
 
 msgid "zero-drivers_footer_system-restore"
-msgstr ""
+msgstr "Obnova Systému"
 
 msgid "drivers_screen_view_options_vendor"
-msgstr ""
+msgstr "Výrobca"
 
 msgid "drivers_screen_view_options_version"
-msgstr ""
+msgstr "Verzia"
 
 msgid "drivers_screen_view_options_date"
-msgstr ""
+msgstr "Dátum"
 
 msgid "drivers_screen_view_options_device_id"
-msgstr ""
+msgstr "DeviceID"
 
 msgid "drivers_screen_view_options_inf"
 msgstr "Súbor *.inf:"
 
 msgid "drivers_screen_view_options_section"
-msgstr ""
+msgstr "Sekcia"
 
 msgid "drivers_screen_view_options_os"
-msgstr ""
+msgstr "Verzia OS"
 
 msgid "final_popover_old_driver"
-msgstr ""
+msgstr "Predchádzajúci ovládač"
 
 msgid "version"
-msgstr ""
+msgstr "Verzia"
 
 msgid "date"
-msgstr ""
+msgstr "Dátum"
 
 msgid "final_popover_new_driver"
-msgstr ""
+msgstr "Aktualizovaný ovládač"
 
 msgid "final_popover_new_driver_not_installed_caption"
-msgstr ""
+msgstr "Pri inštalácii sa vyskytla chyba a na tomto zariadení bol obnovený predchádzajúci ovládač."
 
 msgid "final_computer_setup_ok_title"
-msgstr ""
+msgstr "Jéj! Váš počítač bol nakonfigurovaný!"
 
 msgid "final_drivers_not_better_title"
 msgid_plural "final_drivers_not_better_title_n"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "{{COUNT1}} z {{COUNT2}} ovládačov boli nainštalované"
+msgstr[1] "{{COUNT1}} z {{COUNT2}} ovládačov boli nainštalované"
+msgstr[2] "{{COUNT1}} z {{COUNT2}} ovládačov boli nainštalované"
 
 msgid "final_single_driver_better_installed_title"
-msgstr ""
+msgstr "Ovládač bol nainštalovaný"
 
 msgid "final_single_driver_better_not_installed_title"
-msgstr ""
+msgstr "Ovládač nebol nainštalovaný"
 
 msgid "final_programs_some_finished_title"
 msgid_plural "final_programs_some_finished_title_n"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "{{COUNT1}} z {{COUNT2}} softvér programov boli nainštalované "
+msgstr[1] "{{COUNT1}} z {{COUNT2}} softvér programov boli nainštalované"
+msgstr[2] "{{COUNT1}} z {{COUNT2}} softvérových programov boli nainštalované"
 
 msgid "final_programs_all_failed_title"
-msgstr ""
+msgstr "0 softvér programov z {{COUNT}} je nainštalovaných"
 
 msgid "final_single_program_failed_title"
-msgstr ""
+msgstr "Softvérový program nebol nainštalovaný"
 
 msgid "final_offline_restart"
-msgstr ""
+msgstr "Bolo zistené sieťové pripojenie. Reštartujte program DriverPack a nainštalujte najnovšie verzie ovládačov."
 
 msgid "final_drivers_ok_programs_subtitle"
-msgstr ""
+msgstr "Všetky dôležité ovládače a nástroje boli nainštalované."
 
 msgid "final_drivers_ok_subtitle"
-msgstr ""
+msgstr "Všetky dôležité ovládače boli nainštalované."
 
 msgid "final_drivers_not_better_subtitle"
 msgid_plural "final_drivers_not_better_subtitle_n"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "{{COUNT}} z dôležitých ovládačov však nebol nainštalovaný. Odporúčame zopakovať inštaláciu alebo kontrolu operácií s vašimi zariadeniami."
+msgstr[1] "{{COUNT}}z dôležitých ovládačov však neboli nainštalované. Odporúčame zopakovať inštaláciu alebo kontrolu operácií s vašimi zariadeniami."
+msgstr[2] "{{COUNT}} z dôležitých ovládačov však neboli nainštalované. Odporúčame zopakovať inštaláciu alebo kontrolu operácií s vašimi zariadeniami."
 
 msgid "final_single_driver_ok_programs_subtitle"
-msgstr ""
+msgstr "Všetky dôležité ovládače a nástroje boli nainštalované."
 
 msgid "final_single_driver_ok_subtitle"
-msgstr ""
+msgstr "Všetky dôležité ovládače sú nainštalované."
 
 msgid "final_programs_all_finished_subtitle"
 msgid_plural "final_programs_all_finished_subtitle_n"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "{{COUNT}}softvér bol nainštalovaný. "
+msgstr[1] "{{COUNT}}softvérové programy boli nainštalované. "
+msgstr[2] "{{COUNT}} softvérové programy boli nainštalované."
 
 msgid "final_programs_some_finished_subtitle"
-msgstr ""
+msgstr "Inštalácia niektorého užitočného softvéru zlyhala."
 
 msgid "final_programs_all_failed_subtitle"
-msgstr ""
+msgstr "Inštalácia softvéru zlyhala."
 
 msgid "final_single_program_finished_subtitle"
-msgstr ""
+msgstr "1 softvérový program bol nainštalovaný."
 
 msgid "final_single_program_failed_subtitle"
-msgstr ""
+msgstr "Niečo sa pokazilo a tento softvér nebol nainštalovaný. Skúste spustiť inštaláciu znova."
 
 msgid "final_main_remove_harmful_advice"
-msgstr ""
+msgstr "V počítači bol zistený škodlivý softvér. Odporúčame vám vykonať kroky na jeho odstránenie"
 
 msgid "final_main_remove_harmful_caption"
-msgstr ""
+msgstr "Prejsť k čisteniu počítača od nežiadúceho softvéru"
 
 msgid "final_main_offline_reload"
-msgstr ""
+msgstr "Reštartovať a skontrolovať pre aktualizácie"
 
 msgid "final_main_next_btn"
-msgstr ""
+msgstr "Pokračovať"
 
 msgid "final_restart_installation_btn"
-msgstr ""
+msgstr "Znova spustiť inštaláciu"
 
 msgid "final_skip_btn"
-msgstr ""
+msgstr "Preskočiť"
 
 msgid "final_install_required_drivers_btn"
-msgstr ""
+msgstr "Inštalovať dôležité ovládače"
 
 msgid "loading_reboot"
-msgstr ""
+msgstr "Odporúčame počítač reštartovať ihneď po dokončení inštalácie"
 
 msgid "final_aside_installed_drivers_title"
 msgid_plural "final_aside_installed_drivers_title_n"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "{{COUNT}}ovládač bol nainštalovaný  "
+msgstr[1] "{{COUNT}}ovládače boli nainštalované  "
+msgstr[2] "{{COUNT}}ovládačov bolo nainštalovaných  "
 
 msgid "final_some_drivers_not_installed"
-msgstr ""
+msgstr "Niektoré ovládače neboli nainštalované"
 
 msgid "final_rollback_drivers"
-msgstr ""
+msgstr "Vrátiť späť problémové ovládače"
 
 msgid "final_required_drivers_not_installed"
-msgstr ""
+msgstr "Dôležité ovládače neboli nainštalované"
 
 msgid "final_aside_installed_drivers_caption"
-msgstr ""
+msgstr "Nainštalovali sme pre vás užitočný a bezplatný softvér vrátane antivírusu, prehliadačov a pomocné nástroje ovládačov. Všetky z nich sú potenciálne užitočné."
 
 msgid "final_aside_remove_harmful_programs"
-msgstr ""
+msgstr "Odstrániť nežiaduci softvér"
 
 msgid "final_aside_install_additional_programs"
-msgstr ""
+msgstr "Inštalovať doplňujúci softvér"
 
 msgid "final_aside_some_programs_not_installed"
-msgstr ""
+msgstr "Niektorý softvér nebol nainštalovaný"
 
 msgid "final_aside_broken_devices_title"
-msgstr ""
+msgstr "Boli zistené problematické zariadenia"
 
 msgid "final_aside_broken_devices_caption"
-msgstr ""
+msgstr "Niektoré zariadenia v tomto počítači nepracujú správne a nie je možné pre ne nainštalovať ovládače. Odporúčame vám skontrolovať ich použiteľnosť."
 
 msgid "games_top_game_free_demo"
-msgstr ""
+msgstr "Voľná ​​demo-verzia"
 
 msgid "games_top_game_free_paid"
-msgstr ""
+msgstr "You will need a game copy purchased from {{SELLER}}"
 
 msgid "games_top_game_play"
-msgstr ""
+msgstr "Start playing"
 
 msgid "games_playkey_top_title"
-msgstr ""
+msgstr "Play <span class='games_title-marked bold'>the top games</span> on the highest level <br /> <span class='bold'>settings even on the weak computer</span>"
 
 msgid "games_playkey_open_catalog_button"
-msgstr ""
+msgstr "More than 150 games in the PlayKey catalog"
 
 msgid "games_playkey_cloud_title"
-msgstr ""
+msgstr "The game starts <span class='games_title-marked bold'>in the Cloud</span> on the server side,<br /> <span class='bold'>so, it doesn't use your computer's resources</span>"
 
 msgid "games_playkey_cloud_img_pc_caption"
-msgstr ""
+msgstr "The computer transfers the user's actions"
 
 msgid "games_playkey_cloud_img_cloud_caption"
-msgstr ""
+msgstr "The signal is transferred to the Сloud"
 
 msgid "games_playkey_cloud_img_server_caption"
-msgstr ""
+msgstr "The game starts on the server"
 
 msgid "games_playkey_cloud_img_joystick_caption"
-msgstr ""
+msgstr "You enjoy the game without any issues or delays"
 
 msgid "games_playkey_create_account_button"
-msgstr ""
+msgstr "Create an account on the PlayKey"
 
 msgid "header_authorize_button"
-msgstr ""
+msgstr "Prihlásiť sa"
 
 msgid "authorize_popup_logout_button"
-msgstr ""
+msgstr "Odhlásiť sa"
 
 msgid "installation_header_subtitle"
-msgstr ""
+msgstr "Môže to chvíľu trvať, ale&nbsp;stojí za to"
 
 msgid "installation_header_subtitle_installing-driver"
-msgstr ""
+msgstr "Inštaluje sa ovládač - {{CLASS.SINGLE.FOR}} "
 
 msgid "installation_header_subtitle_installing-program-plural"
-msgstr ""
+msgstr "Inštalujú sa {{CATEGORY.PLURAL.FOR}}"
 
 msgid "installation_header_subtitle_installing-program"
-msgstr ""
+msgstr "Inštaluje sa {{CATEGORY.SINGLE.FOR}}"
 
 msgid "installation_header_subtitle_downloading"
-msgstr ""
+msgstr "Nahrávanie súborov"
 
 msgid "installation_header_preparing"
-msgstr ""
+msgstr "Vytvára sa bod obnovenia ..."
 
 msgid "installation_header_title"
-msgstr ""
+msgstr "Konfiguruje sa počítač ..."
 
 msgid "installation_header_promo_more"
-msgstr ""
+msgstr "viac k nahliadnutiu"
 
 msgid "installation_header_promo_install"
-msgstr ""
+msgstr "inštalovať"
 
 msgid "installation_header_promo_fb"
-msgstr ""
+msgstr "Komunita na Facebooku"
 
 msgid "installation_item_category_restorepoint"
-msgstr ""
+msgstr "Bod obnovenia"
 
 msgid "driver_class_bluetooth"
 msgstr "Bluetooth zariadenie"
 
 msgid "driver_class_cardreader"
-msgstr ""
+msgstr "Čítačka kariet"
 
 msgid "driver_class_chipset"
-msgstr ""
+msgstr "Čipset"
 
 msgid "driver_class_inputdev"
-msgstr ""
+msgstr "Vstupné zariadenie"
 
 msgid "driver_class_lan"
-msgstr ""
+msgstr "Sieťová karta"
 
 msgid "driver_class_massstorage"
-msgstr ""
+msgstr "Kontrolér"
 
 msgid "driver_class_modem"
-msgstr ""
+msgstr "Modem"
 
 msgid "driver_class_monitor"
-msgstr ""
+msgstr "Monitor"
 
 msgid "driver_class_phone"
-msgstr ""
+msgstr "Smartfón"
 
 msgid "driver_class_printer"
-msgstr ""
+msgstr "Tlačiareň"
 
 msgid "driver_class_sound"
-msgstr ""
+msgstr "Zvuková karta"
 
 msgid "driver_class_tvtuner"
 msgstr "TV-tuner"
 
 msgid "driver_class_video"
-msgstr ""
+msgstr "Grafická karta"
 
 msgid "driver_class_webcamera"
-msgstr ""
+msgstr "Webkamera"
 
 msgid "driver_class_wifi"
 msgstr "Wi-Fi zariadenie"
 
 msgid "driver_class_other"
-msgstr ""
+msgstr "Iné zariadenia"
 
 msgid "soft_category_archiver"
-msgstr ""
+msgstr "Operácie s archívmi"
 
 msgid "soft_category_browser"
-msgstr ""
+msgstr "Rýchla a bezpečná prevádzka na internete"
 
 msgid "soft_category_viewer"
-msgstr ""
+msgstr "Zobrazenie obrázkov a dokumentov"
 
 msgid "soft_category_messenger"
-msgstr ""
+msgstr "Bezplatné hovory a zasielanie správ"
 
 msgid "soft_category_internet"
-msgstr ""
+msgstr "Internetové nástroje"
 
 msgid "soft_category_player"
-msgstr ""
+msgstr "Sledovanie filmov a videí"
 
 msgid "soft_category_backup"
-msgstr ""
+msgstr "Zálohovanie a obnova údajov"
 
 msgid "soft_category_antivirus"
-msgstr ""
+msgstr "Antivírusová ochrana"
 
 msgid "soft_category_system"
-msgstr ""
+msgstr "Systémové nástroje"
 
 msgid "soft_category_drivers"
-msgstr ""
+msgstr "Nástroje pre monitorovanie ovládačov"
 
 msgid "installation_error_download"
-msgstr ""
+msgstr "Chyba pri preberaní"
 
 msgid "installation_error_unzip"
-msgstr ""
+msgstr "Chyba pri rozbaľovaní"
 
 msgid "installation_error_install"
-msgstr ""
+msgstr "Chyba pri inštalácii"
 
 msgid "installation_error_restore_disabled"
-msgstr ""
+msgstr "Chyba: zakázané systémovými nastaveniami"
 
 msgid "installation_error_restore_not_created"
-msgstr ""
+msgstr "Chyba pri vytváraní"
 
 msgid "installation_progress_stage_creating"
-msgstr ""
+msgstr "Vytvára sa..."
 
 msgid "installation_progress_stage_created"
-msgstr ""
+msgstr "Bol vytvorený"
 
 msgid "installation_progress_stage_waiting"
-msgstr ""
+msgstr "Čaká sa na stiahnutie"
 
 msgid "installation_progress_stage_downloading"
-msgstr ""
+msgstr "Nahráva sa..."
 
 msgid "installation_progress_downloading_speed"
-msgstr ""
+msgstr "rýchlosť"
 
 msgid "installation_progress_downloading_of"
-msgstr ""
+msgstr "z"
 
 msgid "installation_progress_stage_downloaded"
-msgstr ""
+msgstr "Čaká sa na inštaláciu"
 
 msgid "installation_progress_stage_unzipping"
-msgstr ""
+msgstr "Rozbaľuje sa..."
 
 msgid "installation_progress_unzipping_unzipped"
-msgstr ""
+msgstr "rozbalené"
 
 msgid "installation_progress_stage_installing"
-msgstr ""
+msgstr "Inštaluje sa..."
 
 msgid "installation_progress_stage_done"
-msgstr ""
+msgstr "Hotové"
 
 msgid "installation_canceled"
-msgstr ""
+msgstr "Zrušené na vašu požiadavku"
 
 msgid "installation_title_name"
-msgstr ""
+msgstr "Položky na inštaláciu"
 
 msgid "installation_title_button_settings"
-msgstr ""
+msgstr "Konfigurovať"
 
 msgid "installation_item_description_restorepoint"
-msgstr ""
+msgstr "Umožňuje vrátiť systém do predchádzajúceho stavu, ak sa niečo pokazí"
 
 msgid "loading_backup_drivers"
-msgstr ""
+msgstr "Vytvára sa záloha ovládačov"
 
 msgid "loading_backup_done"
-msgstr ""
+msgstr "Záloha ovládačov bola úspešne vytvorená"
 
 msgid "loading_button_finish"
-msgstr ""
+msgstr "Hotovo"
 
 msgid "loading_backup_failed"
-msgstr ""
+msgstr "Pri vytváraní zálohy ovládačov sa vyskytla chyba"
 
 msgid "about_run_error"
-msgstr ""
+msgstr "Pri prevádzke DriverPack Solution sa vyskytol problém <br> <br>Ak problém pretrváva, pošlite nám e-mail na adresu support@drp.su"
 
 msgid "loading_preparing"
-msgstr ""
+msgstr "Aplikácia sa pripravuje na spustenie ..."
 
 msgid "loading_system_scanning"
-msgstr ""
+msgstr "Kontroluje sa konfigurácia počítača ..."
 
 msgid "loading_sending_api_request"
-msgstr ""
+msgstr "Načítavajú sa údaje z cloud servera ..."
 
 msgid "loading_checking_installed_programs"
-msgstr ""
+msgstr "Analyzuje sa softvér ..."
 
 msgid "loading_ordering_drivers"
-msgstr ""
+msgstr "Vytvára sa poradie inštalácie ovládačov ..."
 
 msgid "menu_install_drivers"
-msgstr ""
+msgstr "Inštalácia ovládačov do počítača"
 
 msgid "menu_drivers"
-msgstr ""
+msgstr "Ovládače"
 
 msgid "menu_install_programs"
-msgstr ""
+msgstr "Základná inštalácia softvéru do počítača"
 
 msgid "menu_programs"
-msgstr ""
+msgstr "Softvér"
 
 msgid "menu_protect_title"
-msgstr ""
+msgstr "Asistent pre váš antivírus"
 
-msgid "menu_protect"
-msgstr ""
+msgid "menu_protect_clean_up"
+msgstr "Ochrana a čistenie"
 
 msgid "menu_computer_diagnostics"
-msgstr ""
+msgstr "Diagnostika stavu počítača"
 
 msgid "menu_diagnostics"
-msgstr ""
+msgstr "Diagnostika"
 
 msgid "menu_cloud_games_title"
-msgstr ""
+msgstr "Play the most advanced games on any computer"
 
 msgid "menu_cloud_games"
-msgstr ""
+msgstr "Games"
 
 msgid "menu_cloud_games_new"
-msgstr ""
+msgstr "New"
 
 msgid "menu_settings"
-msgstr ""
+msgstr "Nastavenia"
 
 msgid "menu_bugreport"
-msgstr ""
+msgstr "Hlásenia o chybách"
 
 msgid "no-internet-screen_header-title"
-msgstr ""
+msgstr "Žiadne pripojenie k serveru"
 
 msgid "no-internet-screen_guide-title"
-msgstr ""
+msgstr "Ako nainštalovať všetky potrebné ovládače bez pripojenia k internetu?"
 
 msgid "no-internet-screen_guide-step-1"
-msgstr ""
+msgstr "Krok 1"
 
 msgid "no-internet-screen_guide-step-1-action"
-msgstr ""
+msgstr "Navštívte webové stránky <span class='bold'>www.drp.su</span> <br />pomocou iného počítača"
 
 msgid "no-internet-screen_guide-step-2"
-msgstr ""
+msgstr "Krok 2"
 
 msgid "no-internet-screen_guide-step-2-action"
-msgstr ""
+msgstr "<div>Stiahnite si<span class='bold'> DriverPack Offline</span> <br /> na USB flash disk"
 
 msgid "no-internet-screen_guide-step-complete"
-msgstr ""
+msgstr "Hotovo"
 
 msgid "no-internet-screen_guide-step-complete-action"
-msgstr ""
-
-msgid "programs_btn_install_single"
-msgstr ""
-
-msgid "programs_btn_installed_single"
-msgstr ""
+msgstr "Spustite aplikáciu v tomto počítači a <br />nakonfigurujte počítač jedným tlačidlom"
 
 msgid "programs_header_text_title"
-msgstr ""
+msgstr "Všetok užitočný softvér na jednom mieste"
 
 msgid "programs_btn_install_all"
-msgstr ""
+msgstr "Inštalovať požadované softvérové ​​programy <b>({{COUNT}})</b>"
 
 msgid "programs_header_text_caption"
-msgstr ""
+msgstr "Už nie je viac potrebné hľadať softvérové ​​programy jeden po druhom. Všetko môžete jednoducho nainštalovať jediným kliknutím."
 
 msgid "drivers_program_counter"
-msgstr ""
+msgstr "Odporúčaný softvér"
+
+msgid "protect_popup_title"
+msgstr "Konfigurácia zabezpečenia počítača"
+
+msgid "protect_popup_install_button"
+msgstr "Inštalovať"
+
+msgid "protect_popup_cancel_button"
+msgstr "Odmietnuť"
 
 msgid "protect_row_rating"
-msgstr ""
+msgstr "Hodnotenie:"
 
 msgid "protect_row_size"
-msgstr ""
+msgstr "Veľkosť:"
 
 msgid "protect_row_publisher"
-msgstr ""
+msgstr "Vydavateľ:"
 
 msgid "protect_row_version"
 msgstr "Verzia:"
 
 msgid "protect_row_install_date"
-msgstr ""
+msgstr "Dátum inštalácie:"
 
 msgid "protect_rating_level_large"
-msgstr ""
+msgstr "odporúčame vám odstránenie"
 
 msgid "protect_rating_level_middle"
-msgstr ""
+msgstr "môžete to odstrániť"
 
 msgid "protect_rating_level_small"
-msgstr ""
+msgstr "môžete si ponechať"
 
 msgid "protect_rating_level_large_caption"
-msgstr ""
+msgstr "Odporúčame odstrániť tento softvér, pretože 70% všetkých používateľov ho odstráni."
 
 msgid "protect_uninstall_single"
-msgstr ""
+msgstr "odstrániť"
 
-msgid "protect_header_title"
-msgstr ""
+msgid "protect_clean_up_btn"
+msgstr "Ochrániť a vyčistiť počítač"
 
-msgid "protect_header_caption"
-msgstr ""
+msgid "protect_remove_all_btn_uninstalling"
+msgstr "Tento podozrivý softvér bude odstránený: {{COUNT}}"
 
-msgid "protect_remove_all_btn"
-msgstr ""
+msgid "protect_remove_all_btn_installing"
+msgstr "Tento dôležitý softvér bude nainštalovaný: {{COUNT}}"
 
-msgid "protect_state_success"
-msgstr ""
+msgid "protect_installed-programs_api_failed"
+msgstr "Žiadne internetové pripojenie. Sieťové pripojenie je potrebné na zobrazenie zoznamu softvéru v počítači."
 
-msgid "protect_state_success_caption"
-msgstr ""
+msgid "protect_installed-programs_no_harmful"
+msgstr "Na vašom počítači nebol detekovaný žiadny nežiaduci softvér"
 
-msgid "protect_state_warn_unchecked"
-msgstr ""
+msgid "protect_clean_up_header_title"
+msgstr "DriverPack Protect — ochrana a vyčistenie vášho počítača"
 
-msgid "protect_state_warn_unchecked_caption"
-msgstr ""
+msgid "protect_clean_up_header_caption"
+msgstr "Program DriverPack Protect vyčistí nežiadúci softvér a poskytne ochranu vášho počítača ako doplnok k vašim antivírusovým funkciám, ako je napríklad: detekcia, odstránenie a blokovanie škodlivého softvéru a rušivej reklamy"
 
-msgid "protect_state_warn"
-msgstr ""
+msgid "protect_installed_programs_title"
+msgstr "Softvér nainštalovaný v počítači"
 
-msgid "protect_state_err"
-msgstr ""
+msgid "protect_installed_programs_switch"
+msgstr "Zobraziť iba podozrivý softvér"
 
 msgid "protect_show_more"
 msgstr "Zobraziť viac"
 
+msgid "protect_security_programs_title"
+msgstr "Dôležitý softvér pre bezpečnosť"
+
 msgid "settings-header_title"
-msgstr ""
+msgstr "Nastavenia pre pokročilých používateľov"
 
 msgid "settings-header_caption"
-msgstr ""
+msgstr "DriverPack bol vytvorený špeciálne pre administrátorov, ale je zrozumiteľný a vhodný aj pre začínajúcich používateľov. Pomocou tohto systému milióny systémových administrátorov na celom svete môžu konfigurovať počítače nielen rýchlo, ale môžu tiež prispôsobiť DriverPack podľa vlastných potrieb a úloh. Nový algoritmus výberu nainštaluje ovládače, ktoré umožňujú vašim zariadeniam pracovať s maximálnou účinnosťou. Vyskúšajte DriverPack — sme si istí, že sa vám bude páčiť!"
 
 #. i18n: EN: default value for {{MODEL}} in start_title key; RU: значение по
 #. умолчанию для {{MODEL}} в ключе start_title
 msgid "start_title_default_model"
-msgstr ""
+msgstr "vášho počitača"
 
 msgid "start_title"
-msgstr ""
+msgstr "Automatická konfigurácia {{MODEL}}"
 
 msgid "start_button_install"
-msgstr ""
+msgstr "Konfigurovať počítač automaticky"
 
 msgid "start_caption"
-msgstr ""
+msgstr "Program DriverPack naskenuje systém, nainštaluje požadované <br/>ovládače a softvér a vykoná diagnostiku. <br/>Účinnosť počítača by sa mala zvýšiť."
 
 msgid "start_expert_mode"
-msgstr ""
+msgstr "Expertný režim"
 
 msgid "start_drivers_title"
 msgid_plural "start_drivers_title_n"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "{{COUNT}}ovládač bude nainštalovaný  "
+msgstr[1] "{{COUNT}}ovládače budú nainštalované  "
+msgstr[2] "{{COUNT}} ovládačov bude nainštalovaných "
 
 msgid "start_drivers_popover"
-msgstr ""
+msgstr "Ovládače pre váš počítač boli vybraté a sú pripravené na inštaláciu. Pred spustením inštalácie sa vytvorí bod obnovenia."
 
 msgid "start_programs_title"
 msgid_plural "start_programs_title_n"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "{{COUNT}} aplikácia bude nainštalovaná"
+msgstr[1] "{{COUNT}}aplikácie budú nainštalované "
+msgstr[2] "{{COUNT}}aplikácií bude nainštalovaných "
 
 msgid "start_programs_popover"
-msgstr ""
+msgstr "Pre váš počítač boli vybraté nasledujúce bezplatné odporúčané softvérové ​​programy: antivírusy, archivátory, prehliadače a súbory nástrojov ovládačov — všetko, čo môže byť užitočné pre pohodlnú prácu."
 
 msgid "start_diagnostics_title"
-msgstr ""
+msgstr "Vykoná sa Diagnostika"
 
 msgid "start_diagnostics_popover"
-msgstr ""
+msgstr "Akonáhle je dokončená inštalácia a reštart systému, program DriverPack spustí diagnostiku, aby skontroloval, či všetky zariadenia pracujú s maximálnou účinnosťou."
 
 msgid "start_diagnostics_network"
-msgstr ""
+msgstr "Kontrola pripojenia k sieti"
 
 msgid "start_diagnostics_video"
-msgstr ""
+msgstr "Kontrola grafickej karty"
 
 msgid "start_diagnostics_audio"
-msgstr ""
+msgstr "Kontrola zvukovej karty"
 
 msgid "start_diagnostics_other"
-msgstr ""
+msgstr "Kontrola iných zariadení"
 
 msgid "delorean_use_remote_confirm"
-msgstr ""
+msgstr "Na vašom počítači bolo zistené aktívne internetové pripojenie. Úplná databáza ovládačov je k dispozícii online a obsahuje najnovšie verzie. Chcete použiť databázu z internetu? (je možný zvýšený prenos)"
 
 msgid "games_playkey_top_witcher_3_demo"
-msgstr ""
+msgstr "The Witcher III Wild Hunt"
 
 msgid "games_playkey_top_doom_demo"
-msgstr ""
+msgstr "Doom"
 
 msgid "games_playkey_top_sid_meiers_civilization_vi_demo"
-msgstr ""
+msgstr "Sid Meier’s Civilization VI"
 
 msgid "games_playkey_top_resident_evil_7_demo"
-msgstr ""
+msgstr "Resident Evill VII Biohazard"
 
 msgid "games_playkey_top_gta_5"
-msgstr ""
+msgstr "Grand Theft Auto V"
 
 msgid "games_playkey_top_overwatch"
-msgstr ""
+msgstr "Overwatch"
 
 msgid "installation_header_promo_title_cloud"
-msgstr ""
+msgstr "Niečo nové: DriverPack Cloud Beta"
 
 msgid "installation_header_promo_text_cloud"
-msgstr ""
+msgstr "Náš nový nástroj predpovedá určité poruchy spôsobené technológiou strojového učenia a navrhuje riešenia bežných problémov. <br>Vyskúšajte verziu beta a nezabudnite zdieľať svoje dojmy — pomôže nám to zlepšiť DriverPack Cloud a urobiť ho ešte užitočnejším."
 
 msgid "installation_header_promo_title_avast"
-msgstr ""
+msgstr "Čo robí Avast lepším ako iné antivírusy?"
 
 msgid "installation_header_promo_text_avast"
-msgstr ""
+msgstr "Avast je jedným z najpopulárnejších antivírusov na svete, pretože chráni počítač dobre, nespomaľuje systém a účinne funguje ako doplňujúci antivírus. <br /> Ešte lepšie, je zadarmo, takže si naozaj zaslúži naše odporúčanie."
 
 msgid "installation_header_promo_title_catalog"
-msgstr ""
+msgstr "Ako nájsť ovládače?"
 
 msgid "installation_header_promo_text_catalog"
-msgstr ""
+msgstr "Pre tých, ktorí radšej hľadajú ovládače ručne, sme vytvorili špeciálny vyhľadávač, ktorý vám umožní nájsť ovládače zadaním DeviceID alebo názvu. Táto databáza vyhľadávacích nástrojov obsahuje viac ako milión ovládačov, čo z nej robí najväčšiu na svete. Tento vyhľadávací nástroj sa pravidelne rozširuje o nové ručne testované ovládače, ktoré mu umožňujú zostať v plnom rozsahu aktuálnym."
 
 msgid "installation_header_promo_title_authorization"
-msgstr ""
+msgstr "Prihláste sa, aby ste uložili nastavenia"
 
 msgid "installation_header_promo_text_authorization"
-msgstr ""
+msgstr "Ako prihlásený používateľ už nebudete musieť upravovať nastavenia v každom počítači — budú uložené na úrovni profilu a automaticky sa aktivujú aj na akomkoľvek inom zariadení. Prihlásení používatelia majú tiež prístup na servery CDN, ktoré prispievajú k väčšej rýchlosti sťahovania ovládačov. Ďalšou dôležitou výhodou prihlásenia, je prístup k rozšíreným nastaveniam, ktoré vám umožnia prispôsobiť aplikáciu ešte viac podľa vašich potrieb."
 
 msgid "installation_header_promo_title_opera"
-msgstr ""
+msgstr "Čo je dobré na prehliadači Opera?"
 
 msgid "installation_header_promo_text_opera"
-msgstr ""
+msgstr "Opera je bezpečný časovo preverený prehliadač, ktorý obsahuje množstvo inovatívnych technológií vrátane zabudovanej VPN, AdBlock, ktoré eliminuje rušivú reklamu a má možnosť pozerať si video v samostatnom okne. Okrem toho najnovšia verzia tohto prehliadača sťahuje všetky webové stránky o 13% rýchlejšie ako predchádzajúce, čo robí z Opery najrýchlejší prehliadač v tejto dobe."
 
 msgid "installation_header_promo_title_how_it_works"
-msgstr ""
+msgstr "Ako funguje DriverPack?"
 
 msgid "installation_header_promo_text_how_it_works"
-msgstr ""
+msgstr "Prevádzka aplikácie začína diagnostikou, počas ktorej samotný softvér definuje, ktoré zariadenia potrebujú nainštalovať alebo aktualizovať ovládače. Vďaka technológii strojového učenia vyberá DriverPack presne tie ovládače, ktoré dokážu poskytnúť najvyššiu efektivitu. Aby bola naša aplikácia schopná konfigurovať ľubovoľný počítač, zhromaždili sme najväčšiu databázu ovládačov na svete, ktorá obsahuje viac ako milión ovládačov. Okrem toho používame vysokorýchlostné servery a technológiu Cloud, ktorá umožňuje vysokú kvalitu a rýchlosť konfigurácie vášho počítača."
 
 msgid "installation_header_promo_title_win_10"
-msgstr ""
+msgstr "Prečo by ste mali aktualizovať ovládače v systéme Windows 10?"
 
 msgid "installation_header_promo_text_win_10"
-msgstr ""
+msgstr "Je mýtus, že systém Windows 10 je schopný nainštalovať všetky potrebné ovládače na počítači správne a samostatne. Bohužiaľ, nie je to pravda — vo väčšine prípadov systém Windows 10 nainštaluje iba štandardné ovládače, bez toho, aby ste ich vybrali jednotlivo pre každé zariadenie. Čo sa týka vzácnych a zastaraných ovládačov, často ich vôbec nemá. Našťastie existuje DriverPack, ktorý vyberá ovládače oveľa dôkladnejšie.<br /><br />"
 
 msgid "installation_header_promo_title_social"
 msgstr "Pridajte sa do komunity DriverPack"
 
 msgid "installation_header_promo_text_social"
-msgstr ""
+msgstr "V našich verejných skupinách vždy odpovedáme na vaše otázky o softvéri, zdieľame informácie o našich aktualizáciách a technológiách a povieme vám o významných novinkách a trendoch v oblasti IT."
 
 msgid "installation_header_promo_title_protect"
-msgstr ""
+msgstr "Ako pomáha DriverPack Protect počítaču?"
 
 msgid "installation_header_promo_text_protect"
-msgstr ""
+msgstr "Pomôže vám vyčistiť váš počítač od rozširujúceho softvéru a doplnkov, ktoré často ani antivírusy neodstránia. Program DriverPack Protect vám tiež umožňuje uvoľniť viac miesta na pevných diskoch a zvýšiť výkon počítača."
 
 msgid "installation_header_promo_title_restore"
-msgstr ""
+msgstr "Bod obnovenia systému"
 
 msgid "installation_header_promo_text_restore"
-msgstr ""
+msgstr "DriverPack vždy vytvorí bod obnovenia pred inštaláciou ovládačov. <br /><br />Môžete ho použiť k vráteniu vášho systému do predchádzajúceho stavu kedykoľvek, v prípade, že sa niečo pokazí."
 
 msgid "installation_header_promo_title_browsers"
-msgstr ""
+msgstr "Ďalší dobrý prehliadač nemôže byť navyše"
 
 msgid "installation_header_promo_text_browsers"
-msgstr ""
+msgstr "Podľa štatistických údajov viac ako 70% ľudí používa aspoň dva prehliadače, čo je dosť logické pre tých, ktorí sú aktívni na internete. Každý prehliadač, ktorý navrhujeme na inštaláciu, má svoje vlastné výhody: Yandex. Prehliadač je ideálny pre prevádzku v rámci ruského jazyka; ľudia volia Operu. Prehliadač, ktorý umožňuje jednoduchú a anonymnú návštevu akýchkoľvek webových stránok pomocou VPN; a armáda podporovateľov prehliadača Firefox nedokáže zahrnúť všetky doplnky a rozšírenia, ktoré boli zhromaždené pre lepší zážitok z internetu. Prečo nemať k dispozícii všetko a po ruke? Nepredstavujú spomalenie počítača a môžu napríklad pomôcť pri zdolávaní rôznych komponentov vašej práce."
 
 msgid "installation_header_promo_title_driverpack_for_all"
-msgstr ""
+msgstr "DriverPack bude vyhovovať ľubovoľnému počítaču"
 
 msgid "installation_header_promo_text_driverpack_for_all"
-msgstr ""
+msgstr "Vytvorili sme nástroj, ktorý umožňuje úplnú automatickú konfiguráciu ľubovoľného počítača. DriverPack obsahuje viac ako milión ovládačov, čo umožňuje konfigurovať ľubovoľný počítač iba jedným tlačidlom. Výsledkom sú nainštalované ovládače a pomôcky, starostlivo vybraný softvér (ktorý je integrovanou súčasťou konfigurácie), ako aj diagnostika počítača. To znamená, že DriverPack rýchlo nakonfiguruje celý počítač na maximálnu efektivitu jediným kliknutím na tlačidlo."
 
 msgid "softcategories_archiver-single-for"
-msgstr ""
+msgstr "archivátor súborov"
 
 msgid "softcategories_browser-single-for"
-msgstr ""
+msgstr "prehliadač"
 
 msgid "softcategories_viewer-single-for"
-msgstr ""
+msgstr "softvér na prezeranie súborov"
 
 msgid "softcategories_messenger-single-for"
-msgstr ""
+msgstr "softvér na odosielanie správ"
 
 msgid "softcategories_internet-single-for"
-msgstr ""
+msgstr "softvéru na prevádzku v Internetovej sieti"
 
 msgid "softcategories_player-single-for"
-msgstr ""
+msgstr "mediálny prehrávač"
 
 msgid "softcategories_backup-single-for"
-msgstr ""
+msgstr "nástroj na tvorbu záloh"
 
 msgid "softcategories_antivirus-single-for"
-msgstr ""
+msgstr "antivírus"
 
 msgid "softcategories_system-plural-for"
-msgstr ""
+msgstr "systémové nástroje"
 
 msgid "softcategories_drivers-plural-for"
-msgstr ""
+msgstr "nástroje na správnu prevádzku ovládačov"
 
 msgid "installation_application_restart_confirm_text_1"
-msgstr ""
+msgstr "Počas inštalácie ovládačov odporúčame zatvoriť iný aktívny softvér"
 
 msgid "installation_application_restart_confirm_text_2"
-msgstr ""
+msgstr "Tu je zoznam procesov, ktoré budú uzavreté počas inštalácie a potom budú automaticky reštartované:"
 
 msgid "installation_application_restart_confirm_title"
-msgstr ""
+msgstr "Odporúčania"
 
 msgid "deviceproblems_usb_connection"
-msgstr ""
+msgstr "Nie je možné inštalovať žiadne ovládače na toto zariadenie z dôvodu problémov s pripojením portu USB. Ak chcete vyriešiť tento problém, pokúste sa znova pripojiť vaše USB zariadenia, alebo vymeniť káble, ktoré sú k nim pripojené. Ak to nepomôže, mohli sa vyskytnúť niektoré prevádzkové problémy s portami alebo samotnými zariadeniami."
 
 msgid "deviceproblems_root_legacy"
-msgstr ""
+msgstr "Toto zariadenie nie je vo vašom systéme, ale zostali stopy v systéme po odstránení softvéru, ktorý ho podporuje. Ak chcete vyriešiť tento problém, mali by ste vymazať ľubovoľnú zmienku o tomto zariadení z registra, a to buď manuálne, alebo pomocou špecifických nástrojov."
 
 msgid "deviceproblems_vpn_no_need_drivers"
-msgstr ""
+msgstr "Inštalácia ovládača pre toto virtuálne zariadenie VPN sa nevyžaduje "
 
 msgid "deviceproblems_damaged_system_driver"
-msgstr ""
+msgstr "Toto je štandardný systémový ovládač, ktorý je z nejakého dôvodu poškodený, alebo vo vašej verzii systému Windows chýba. Jedným z možných dôvodov môže byť oklieštená pirátska verzia systému Windows, alebo strata súboru v dôsledku vedľajších účinkov niektorého softvéru, alebo vírusov. Ak chcete vyriešiť tento problém, mali by ste nainštalovať plne licencovanú verziu systému Windows"
 
 msgid "deviceproblems_usb_unknown_vendor"
-msgstr ""
+msgstr "Toto pripojené zariadenie USB bolo nainštalované, ale jeho výrobca sa nedá určiť. Ak to chcete vyriešiť, mali by ste priradiť automatické spustenie pre službu Windows Driver Foundation. Prejdite na kartu Správa počítača → karta Služby → karta Windows Driver Foundation a potom zvoľte možnosť 'Typ spustenia: automatické'"
 
 msgid "deviceproblems_sound_card"
-msgstr ""
+msgstr "Zvuková karta nie je správne pripojená, alebo sa vyskytli problémy s jej funkčnosťou"
 
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Slovak"
+
+#~ msgid "menu_protect"
+#~ msgstr "Security"
+
+#~ msgid "protect_header_title"
+#~ msgstr "DriverPack Protect — protection and cleanup of your computer"
+
+#~ msgid "protect_header_caption"
+#~ msgstr ""
+#~ "DriverPack Protect will clean of undesirable software and provide protection"
+#~ " for your computer as a complement to your antivirus' capabilities such as: "
+#~ "detecting, removing and blocking malware and intrusive advertisement"
+
+#~ msgid "protect_remove_all_btn"
+#~ msgstr "Protect and clean the computer"
+
+#~ msgid "protect_state_success"
+#~ msgstr "Unwanted software has not been found"
+
+#~ msgid "protect_state_success_caption"
+#~ msgstr "There is no unwanted software on your computer"
+
+#~ msgid "protect_state_warn_unchecked"
+#~ msgstr "Unwanted software programs have been found"
+
+#~ msgid "protect_state_warn_unchecked_caption"
+#~ msgstr "It is possible to remove them by ticking them in the list below"
+
+#~ msgid "protect_state_warn"
+#~ msgstr "The unwanted software programs will be removed: {{COUNT}} psc."
+
+#~ msgid "protect_state_err"
+#~ msgstr ""
+#~ "In order to enable DriverPack Protect you should first connect your computer"
+#~ " to the Internet and then restart DriverPack"
 
 #~ msgid "installation_header_promo_title_wannacrypt"
 #~ msgstr "Attention! Dangerous virus activity"

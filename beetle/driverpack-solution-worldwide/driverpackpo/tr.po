@@ -9,8 +9,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-10-18 12:44+0000\n"
-"PO-Revision-Date: 2017-11-23 11:31+0000\n"
+"POT-Creation-Date: 2017-11-27 10:29+0000\n"
+"PO-Revision-Date: 2017-12-01 06:18+0000\n"
 "Last-Translator: BouRock\n"
 "Language-Team: Turkish (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/tr/)\n"
 "MIME-Version: 1.0\n"
@@ -219,6 +219,12 @@ msgstr "diğer aygıtlar"
 
 msgid "deviceclasses_other-plural-for"
 msgstr "diğer aygıtlar"
+
+msgid "programs_btn_install_single"
+msgstr "yükle"
+
+msgid "programs_btn_installed_single"
+msgstr "Yüklendi"
 
 msgid "settings_common-settings"
 msgstr "Genel Ayarlar"
@@ -982,8 +988,8 @@ msgstr "Yazılımlar"
 msgid "menu_protect_title"
 msgstr "Antivirüsünüz için yardımcınız"
 
-msgid "menu_protect"
-msgstr "Güvenlik"
+msgid "menu_protect_clean_up"
+msgstr "Koruma ve temizlik"
 
 msgid "menu_computer_diagnostics"
 msgstr "Bilgisayar durumunun tanılamaları"
@@ -1030,12 +1036,6 @@ msgstr "Bitti"
 msgid "no-internet-screen_guide-step-complete-action"
 msgstr "Bu bilgisayarda uygulamayı çalıştırın, ve<br />bilgisayarı bir düğmeye tıklayarak yapılandırın"
 
-msgid "programs_btn_install_single"
-msgstr "yükle"
-
-msgid "programs_btn_installed_single"
-msgstr "Yüklendi"
-
 msgid "programs_header_text_title"
 msgstr "Tüm faydalı yazılımlar bir yerde"
 
@@ -1047,6 +1047,15 @@ msgstr "Bundan böyle tek tek yazılımları aramaya gerek yok. Herşeyi tek bir
 
 msgid "drivers_program_counter"
 msgstr "Önerilen yazılımlar"
+
+msgid "protect_popup_title"
+msgstr "Bilgisayar güvenliği yapılandırmanız"
+
+msgid "protect_popup_install_button"
+msgstr "Yükle"
+
+msgid "protect_popup_cancel_button"
+msgstr "Reddet"
 
 msgid "protect_row_rating"
 msgstr "Puan:"
@@ -1078,35 +1087,38 @@ msgstr "Tüm kullanıcıların %70'i bunu kaldırdığı için bu yazılımı ka
 msgid "protect_uninstall_single"
 msgstr "kaldır"
 
-msgid "protect_header_title"
-msgstr "DriverPack Protect, antivirüs yazılımınız için bir yardımcıdır"
+msgid "protect_clean_up_btn"
+msgstr "Bilgisayarı koru ve temizle"
 
-msgid "protect_header_caption"
-msgstr "DriverPack Protect, antivirüs yazılımlarının sık sık başarısız olduğu yerlerde bilgisayarınızın korunmasını sağlar: kötü amaçlı yazılım, ve aynı zamanda sızan reklamlı istenmeyen yazılım algılama, kaldırma ve engelleme"
+msgid "protect_remove_all_btn_uninstalling"
+msgstr "Bu şüpheli yazılım kaldırılacaktır: {{COUNT}}"
 
-msgid "protect_remove_all_btn"
-msgstr "İstenmeyen yazılımı kaldır <b>({{COUNT}})</b>"
+msgid "protect_remove_all_btn_installing"
+msgstr "Bu önemli yazılım kaldırılacaktır: {{COUNT}}"
 
-msgid "protect_state_success"
-msgstr "İstenmeyen yazılım bulunmadı"
+msgid "protect_installed-programs_api_failed"
+msgstr "Internet bağlantısı yok. Bilgisayarınızda yazılım listesini görmek için ağ bağlantısı gerekir."
 
-msgid "protect_state_success_caption"
-msgstr "Bilgisayarınızda istenmeyen yazılım yok"
+msgid "protect_installed-programs_no_harmful"
+msgstr "Bilgisayarınızda istenmeyen yazılım algılanmadı"
 
-msgid "protect_state_warn_unchecked"
-msgstr "İstenmeyen yazılımlar bulundu"
+msgid "protect_clean_up_header_title"
+msgstr "DriverPack Protect — bilgisayarınızın koruması ve temizleyicisi"
 
-msgid "protect_state_warn_unchecked_caption"
-msgstr "Aşağıdaki listede bunları işaretleyerek kaldırmak mümkündür"
+msgid "protect_clean_up_header_caption"
+msgstr "DriverPack Protect, istenmeyen yazılımları temizleyecek ve şunlar gibi antivirüsünüzün yeteneklerini tamamlayıcı olarak bilgisayarınız için koruma sağlayacak: kötü amaçlı yazılım ve istenmeyen reklamları algılama, kaldırma ve engelleme"
 
-msgid "protect_state_warn"
-msgstr "Kaldırılacak olan istenmeyen yazılım: {{COUNT}} parça"
+msgid "protect_installed_programs_title"
+msgstr "Bilgisayardaki yüklü yazılımlar"
 
-msgid "protect_state_err"
-msgstr "DriverPack Protect'i etkinleştirmek için önce bilgisayarınızı Internet'e bağlamalısınız ve ondan sonra DriverPack'i yeniden başlatın"
+msgid "protect_installed_programs_switch"
+msgstr "Sadece şüpheli yazılımları görüntüle"
 
 msgid "protect_show_more"
 msgstr "Daha fazla göster"
+
+msgid "protect_security_programs_title"
+msgstr "Güvenlik için önemli yazılımlar"
 
 msgid "settings-header_title"
 msgstr "İleri düzey kullanıcılar için ayarlar"
@@ -1318,6 +1330,41 @@ msgstr "Ses kartı yanlış olarak bağlanmış, ya da işlerliği ile ilgili ba
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Turkish"
+
+#~ msgid "menu_protect"
+#~ msgstr "Security"
+
+#~ msgid "protect_header_title"
+#~ msgstr "DriverPack Protect — protection and cleanup of your computer"
+
+#~ msgid "protect_header_caption"
+#~ msgstr ""
+#~ "DriverPack Protect will clean of undesirable software and provide protection"
+#~ " for your computer as a complement to your antivirus' capabilities such as: "
+#~ "detecting, removing and blocking malware and intrusive advertisement"
+
+#~ msgid "protect_remove_all_btn"
+#~ msgstr "Protect and clean the computer"
+
+#~ msgid "protect_state_success"
+#~ msgstr "Unwanted software has not been found"
+
+#~ msgid "protect_state_success_caption"
+#~ msgstr "There is no unwanted software on your computer"
+
+#~ msgid "protect_state_warn_unchecked"
+#~ msgstr "Unwanted software programs have been found"
+
+#~ msgid "protect_state_warn_unchecked_caption"
+#~ msgstr "It is possible to remove them by ticking them in the list below"
+
+#~ msgid "protect_state_warn"
+#~ msgstr "The unwanted software programs will be removed: {{COUNT}} psc."
+
+#~ msgid "protect_state_err"
+#~ msgstr ""
+#~ "In order to enable DriverPack Protect you should first connect your computer"
+#~ " to the Internet and then restart DriverPack"
 
 #~ msgid "installation_header_promo_title_wannacrypt"
 #~ msgstr "Attention! Dangerous virus activity"

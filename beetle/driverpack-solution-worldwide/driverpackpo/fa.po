@@ -4,6 +4,7 @@
 # Mehrshad Shafaghi <mehrshad.shafaghi@gmail.com>, 2017
 # Mohammad Esmaili <infob2v@yahoo.com>, 2016
 # Mohammad Hosein Ammari <mhd4mr@gmail.com>, 2017
+# Nima Rabiei <nnima98@gmail.com>, 2017
 # Parviz Ansaryan <parviz.ansaryan@gmail.com>, 2017
 # Ruhulamin Ebrahimi <ruhulaminebrahimi@gmail.com>, 2017
 # sina akramian <sinaakramian@gmail.com>, 2016
@@ -11,9 +12,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-10-18 12:44+0000\n"
-"PO-Revision-Date: 2017-11-19 11:14+0000\n"
-"Last-Translator: Parviz Ansaryan <parviz.ansaryan@gmail.com>\n"
+"POT-Creation-Date: 2017-11-27 10:29+0000\n"
+"PO-Revision-Date: 2017-11-30 11:12+0000\n"
+"Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Persian (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/fa/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -222,6 +223,12 @@ msgstr "سایر دستگاه‌ها"
 msgid "deviceclasses_other-plural-for"
 msgstr "سایر دستگاه‌ها"
 
+msgid "programs_btn_install_single"
+msgstr "نصب"
+
+msgid "programs_btn_installed_single"
+msgstr "نصب شد"
+
 msgid "settings_common-settings"
 msgstr "تنظیمات کلی"
 
@@ -298,7 +305,7 @@ msgid "settings_expert-mode-caption"
 msgstr ""
 
 msgid "settings_minify-menu-title"
-msgstr ""
+msgstr "کاهش اندازه پنل ناوبری"
 
 msgid "settings_minify-menu-caption"
 msgstr ""
@@ -313,7 +320,7 @@ msgid "settings_news-title"
 msgstr "نمایش اخبار مربوط به درایورها"
 
 msgid "settings_news-caption"
-msgstr ""
+msgstr "این بخش شامل اخبار مفید در مورد انتشار درایورها و ابزارهای جدید است"
 
 msgid "settings_drivers-title"
 msgstr "غیرفعال کردن نصب خودکار درایورهای پیشنهادی"
@@ -364,7 +371,7 @@ msgid "settings_restore-point-caption"
 msgstr ""
 
 msgid "settings_drivers-backup-title"
-msgstr ""
+msgstr "ایجاد نسخه پشتیبان درایور (پشتیبان)"
 
 msgid "settings_drivers-backup-caption"
 msgstr ""
@@ -382,7 +389,7 @@ msgid "settings_system-check-href"
 msgstr ""
 
 msgid "settings_statistics-title"
-msgstr ""
+msgstr "ارسال آمار در مورد عملکرد سیستم"
 
 msgid "settings_statistics-caption"
 msgstr ""
@@ -394,7 +401,7 @@ msgid "settings_statistics-href"
 msgstr "https://vk.com/topic-29220845_34742999"
 
 msgid "settings_machine-learning-title"
-msgstr ""
+msgstr "فعال سازی گزینه یادگیری دستگاه ( یادگیری ماشین )"
 
 msgid "settings_machine-learning-caption"
 msgstr ""
@@ -418,7 +425,7 @@ msgid "settings_bsods-href"
 msgstr "https://vk.com/topic-29220845_34743011"
 
 msgid "settings_collect-drivers-title"
-msgstr ""
+msgstr "دانلود کردن درایورهای ناموجود"
 
 msgid "settings_collect-drivers-caption"
 msgstr ""
@@ -430,22 +437,22 @@ msgid "settings_collect-drivers-href"
 msgstr "https://vk.com/topic-29220845_34743007"
 
 msgid "menu_create_recovery_point"
-msgstr ""
+msgstr "ساخت نقطه بازگشت"
 
 msgid "menu_create_drivers_backup"
-msgstr ""
+msgstr "ساخت نسخه پشتیبان درایورها"
 
 msgid "menu_add_remove_programs"
-msgstr ""
+msgstr "حذف نرم افزار"
 
 msgid "menu_device_manager"
 msgstr "مدیریت دستگاه"
 
 msgid "menu_system_properties"
-msgstr ""
+msgstr "خصوصیات سیستم"
 
 msgid "menu_display_properties"
-msgstr ""
+msgstr "تنظیمات نمایشگر"
 
 msgid "menu_power_options"
 msgstr "تنظیمات قدرت"
@@ -457,7 +464,7 @@ msgid "menu_computer_management"
 msgstr "مدیریت کامپیوتر"
 
 msgid "menu_control_panel"
-msgstr ""
+msgstr "صفحه کنترل"
 
 msgid "menu_disk_management"
 msgstr "مدیریت دیسک"
@@ -466,19 +473,19 @@ msgid "menu_task_manager"
 msgstr "مدیریت وظایف"
 
 msgid "menu_cmd"
-msgstr ""
+msgstr "خط فرمان"
 
 msgid "diagnostics_section_title"
-msgstr ""
+msgstr "تشخیص سیستم"
 
 msgid "drivers_screen_list-name-title-unknown"
 msgstr "دستگاه ناشناخته"
 
 msgid "device_row_current_version"
-msgstr ""
+msgstr "نسخه کنونی"
 
 msgid "device_row_installation"
-msgstr ""
+msgstr "نصب"
 
 msgid "device_row_update"
 msgstr "بروزرسانی"
@@ -499,10 +506,10 @@ msgid "driver_row_driver-menu-state-update"
 msgstr "بروزرسانی"
 
 msgid "driver_row_driver-menu-state-rollback"
-msgstr ""
+msgstr "بازگشت به عقب"
 
 msgid "driver_row_vendor"
-msgstr ""
+msgstr "سازنده"
 
 msgid "driver_row_inf"
 msgstr ""
@@ -511,13 +518,13 @@ msgid "driver_row_section"
 msgstr "بخش"
 
 msgid "driver_row_os"
-msgstr ""
+msgstr "نسخه سیستم عامل"
 
 msgid "drivers_row_recommended"
-msgstr ""
+msgstr "پیشنهادی"
 
 msgid "driver_row_driver-menu-search"
-msgstr ""
+msgstr "جستجوی اینترنتی"
 
 msgid "drivers_btn_install_all"
 msgstr ""
@@ -529,28 +536,28 @@ msgid "drivers_btn_install_all_caption"
 msgstr ""
 
 msgid "drivers_header_show_already_installed"
-msgstr ""
+msgstr "درایورهای نصب شده و جایگزین را مشاهده کنید"
 
 msgid "drivers_header_show_additional_info"
-msgstr ""
+msgstr "مشاهده اطلاعات اضافی"
 
 msgid "drivers_screen_most_important"
-msgstr ""
+msgstr "بیشترین درایورهای مورد نیاز"
 
 msgid "drivers_screen_updates"
 msgstr "بروزرسانی های درایو"
 
 msgid "drivers_screen_utils"
-msgstr ""
+msgstr "ابزارهای درایور"
 
 msgid "drivers_screen_installed"
 msgstr "درایورهای نصب شده"
 
 msgid "drivers_screen_alternative"
-msgstr ""
+msgstr "درایورهای جایگزین"
 
 msgid "drivers_screen_show"
-msgstr ""
+msgstr "نمایش"
 
 #. i18n: EN: text for {{LINK}} is in key zero-drivers_cta-msg-caption-link;
 #. RU: текст для {{LINK}} находится в ключе zero-drivers_cta-msg-caption-link;
@@ -558,7 +565,7 @@ msgid "zero-drivers_cta-msg-caption"
 msgstr ""
 
 msgid "zero-drivers_cta-msg"
-msgstr ""
+msgstr "تمام درایورهای مورد نیاز فبلا نصب شده است"
 
 msgid "zero-drivers_cta-msg-caption-link"
 msgstr ""
@@ -570,13 +577,13 @@ msgid "zero-drivers_footer_device-manager"
 msgstr "مدیریت دستگاه"
 
 msgid "zero-drivers_footer_support"
-msgstr ""
+msgstr "پشتیبانی فنی"
 
 msgid "zero-drivers_footer_system-restore"
 msgstr ""
 
 msgid "drivers_screen_view_options_vendor"
-msgstr ""
+msgstr "سازنده"
 
 msgid "drivers_screen_view_options_version"
 msgstr "نسخه"
@@ -585,7 +592,7 @@ msgid "drivers_screen_view_options_date"
 msgstr "تاریخ"
 
 msgid "drivers_screen_view_options_device_id"
-msgstr ""
+msgstr "شناسه دستگاه"
 
 msgid "drivers_screen_view_options_inf"
 msgstr "فایل *.inf:"
@@ -594,7 +601,7 @@ msgid "drivers_screen_view_options_section"
 msgstr "بخش"
 
 msgid "drivers_screen_view_options_os"
-msgstr ""
+msgstr "نسخه سیستم عامل"
 
 msgid "final_popover_old_driver"
 msgstr ""
@@ -606,7 +613,7 @@ msgid "date"
 msgstr "تاریخ"
 
 msgid "final_popover_new_driver"
-msgstr ""
+msgstr "بروزرسانی درایور"
 
 msgid "final_popover_new_driver_not_installed_caption"
 msgstr ""
@@ -619,7 +626,7 @@ msgid_plural "final_drivers_not_better_title_n"
 msgstr[0] ""
 
 msgid "final_single_driver_better_installed_title"
-msgstr ""
+msgstr "درایور نصب شده است"
 
 msgid "final_single_driver_better_not_installed_title"
 msgstr ""
@@ -632,7 +639,7 @@ msgid "final_programs_all_failed_title"
 msgstr ""
 
 msgid "final_single_program_failed_title"
-msgstr ""
+msgstr "برنامه نرم افزاری نصب نشده است"
 
 msgid "final_offline_restart"
 msgstr ""
@@ -651,7 +658,7 @@ msgid "final_single_driver_ok_programs_subtitle"
 msgstr ""
 
 msgid "final_single_driver_ok_subtitle"
-msgstr ""
+msgstr "تمام درایورهای مهم نصب شده اند"
 
 msgid "final_programs_all_finished_subtitle"
 msgid_plural "final_programs_all_finished_subtitle_n"
@@ -979,8 +986,8 @@ msgstr "نرم افزار"
 msgid "menu_protect_title"
 msgstr ""
 
-msgid "menu_protect"
-msgstr "امنیت"
+msgid "menu_protect_clean_up"
+msgstr ""
 
 msgid "menu_computer_diagnostics"
 msgstr ""
@@ -1027,12 +1034,6 @@ msgstr "انجام شد"
 msgid "no-internet-screen_guide-step-complete-action"
 msgstr ""
 
-msgid "programs_btn_install_single"
-msgstr "نصب"
-
-msgid "programs_btn_installed_single"
-msgstr "نصب شد"
-
 msgid "programs_header_text_title"
 msgstr ""
 
@@ -1043,6 +1044,15 @@ msgid "programs_header_text_caption"
 msgstr ""
 
 msgid "drivers_program_counter"
+msgstr ""
+
+msgid "protect_popup_title"
+msgstr ""
+
+msgid "protect_popup_install_button"
+msgstr "نصب"
+
+msgid "protect_popup_cancel_button"
 msgstr ""
 
 msgid "protect_row_rating"
@@ -1075,35 +1085,38 @@ msgstr ""
 msgid "protect_uninstall_single"
 msgstr ""
 
-msgid "protect_header_title"
+msgid "protect_clean_up_btn"
 msgstr ""
 
-msgid "protect_header_caption"
+msgid "protect_remove_all_btn_uninstalling"
 msgstr ""
 
-msgid "protect_remove_all_btn"
-msgstr "حذف نرم افزار های ناخواسته را <b> ({{شمار}}) </ B>"
-
-msgid "protect_state_success"
+msgid "protect_remove_all_btn_installing"
 msgstr ""
 
-msgid "protect_state_success_caption"
-msgstr "هیچ نرم افزار ناخواسته ای در کامپیوتر شما وجود ندارد"
-
-msgid "protect_state_warn_unchecked"
+msgid "protect_installed-programs_api_failed"
 msgstr ""
 
-msgid "protect_state_warn_unchecked_caption"
+msgid "protect_installed-programs_no_harmful"
 msgstr ""
 
-msgid "protect_state_warn"
+msgid "protect_clean_up_header_title"
 msgstr ""
 
-msgid "protect_state_err"
+msgid "protect_clean_up_header_caption"
+msgstr ""
+
+msgid "protect_installed_programs_title"
+msgstr ""
+
+msgid "protect_installed_programs_switch"
 msgstr ""
 
 msgid "protect_show_more"
 msgstr "مشاهده بیشتر"
+
+msgid "protect_security_programs_title"
+msgstr ""
 
 msgid "settings-header_title"
 msgstr ""
@@ -1313,6 +1326,41 @@ msgstr ""
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "انگلیسی"
+
+#~ msgid "menu_protect"
+#~ msgstr "Security"
+
+#~ msgid "protect_header_title"
+#~ msgstr "DriverPack Protect — protection and cleanup of your computer"
+
+#~ msgid "protect_header_caption"
+#~ msgstr ""
+#~ "DriverPack Protect will clean of undesirable software and provide protection"
+#~ " for your computer as a complement to your antivirus' capabilities such as: "
+#~ "detecting, removing and blocking malware and intrusive advertisement"
+
+#~ msgid "protect_remove_all_btn"
+#~ msgstr "Protect and clean the computer"
+
+#~ msgid "protect_state_success"
+#~ msgstr "Unwanted software has not been found"
+
+#~ msgid "protect_state_success_caption"
+#~ msgstr "There is no unwanted software on your computer"
+
+#~ msgid "protect_state_warn_unchecked"
+#~ msgstr "Unwanted software programs have been found"
+
+#~ msgid "protect_state_warn_unchecked_caption"
+#~ msgstr "It is possible to remove them by ticking them in the list below"
+
+#~ msgid "protect_state_warn"
+#~ msgstr "The unwanted software programs will be removed: {{COUNT}} psc."
+
+#~ msgid "protect_state_err"
+#~ msgstr ""
+#~ "In order to enable DriverPack Protect you should first connect your computer"
+#~ " to the Internet and then restart DriverPack"
 
 #~ msgid "installation_header_promo_title_wannacrypt"
 #~ msgstr "Attention! Dangerous virus activity"

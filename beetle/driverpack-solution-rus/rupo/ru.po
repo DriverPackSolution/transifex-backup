@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-10-18 12:44+0000\n"
+"POT-Creation-Date: 2017-11-27 10:29+0000\n"
 "PO-Revision-Date: 2016-02-25 10:55+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -213,6 +213,12 @@ msgstr "прочие устройства"
 
 msgid "deviceclasses_other-plural-for"
 msgstr "прочих устройств"
+
+msgid "programs_btn_install_single"
+msgstr "установить"
+
+msgid "programs_btn_installed_single"
+msgstr "установлено"
 
 msgid "settings_common-settings"
 msgstr "Общие настройки"
@@ -986,8 +992,8 @@ msgstr "Софт"
 msgid "menu_protect_title"
 msgstr "Помощник для вашего антивируса"
 
-msgid "menu_protect"
-msgstr "Безопасность"
+msgid "menu_protect_clean_up"
+msgstr "Защита и чистка"
 
 msgid "menu_computer_diagnostics"
 msgstr "Диагностика состояния компьютера"
@@ -1034,12 +1040,6 @@ msgstr "Готово"
 msgid "no-internet-screen_guide-step-complete-action"
 msgstr "Запустите приложение на этом компьютере и <br /> настройте компьютер одной кнопкой"
 
-msgid "programs_btn_install_single"
-msgstr "установить"
-
-msgid "programs_btn_installed_single"
-msgstr "установлено"
-
 msgid "programs_header_text_title"
 msgstr "Весь полезный софт в одном месте"
 
@@ -1051,6 +1051,15 @@ msgstr "Больше нет необходимости искать програ
 
 msgid "drivers_program_counter"
 msgstr "Рекомендуемые программы"
+
+msgid "protect_popup_title"
+msgstr "Настройка безопасности вашего компьютера"
+
+msgid "protect_popup_install_button"
+msgstr "Установить"
+
+msgid "protect_popup_cancel_button"
+msgstr "Отказаться"
 
 msgid "protect_row_rating"
 msgstr "Рейтинг:"
@@ -1082,35 +1091,38 @@ msgstr "Рекомендуем удалить эту программу, пот�
 msgid "protect_uninstall_single"
 msgstr "удалить"
 
-msgid "protect_header_title"
-msgstr "DriverPack Protect&nbsp;— помощник для вашего антивируса"
+msgid "protect_clean_up_btn"
+msgstr "Защитить и очистить компьютер"
 
-msgid "protect_header_caption"
-msgstr "DriverPack Protect обеспечит защиту вашего компьютера там, где антивирус не справится: выявление, удаление и блокировка вредоносных и нежелательных программ с навязчивой рекламой"
+msgid "protect_remove_all_btn_uninstalling"
+msgstr "Будут удалены сомнительные программы: {{COUNT}} шт."
 
-msgid "protect_remove_all_btn"
-msgstr "Удалить нежелательное ПО <b>({{COUNT}})</b>"
+msgid "protect_remove_all_btn_installing"
+msgstr "Будут установлены важные программы: {{COUNT}} шт."
 
-msgid "protect_state_success"
-msgstr "Нежелательное ПО не обнаружено"
+msgid "protect_installed-programs_api_failed"
+msgstr "Интернет-соединение отсутствует. Для просмотра программ на вашем компьютере необходимо подключение к сети"
 
-msgid "protect_state_success_caption"
-msgstr "На вашем компьютере нет нежелательных программ"
+msgid "protect_installed-programs_no_harmful"
+msgstr "На вашем компьютере не обнаружены нежелательные программы"
 
-msgid "protect_state_warn_unchecked"
-msgstr "Найдены нежелательные программы"
+msgid "protect_clean_up_header_title"
+msgstr "DriverPack Protect — защита и очистка компьютера"
 
-msgid "protect_state_warn_unchecked_caption"
-msgstr "Можно удалить их, выбрав в списке ниже"
+msgid "protect_clean_up_header_caption"
+msgstr "DriverPack Protect очистит от нежелательного ПО и обеспечит защиту вашего компьютера, дополняя возможности антивируса: выявление, удаление и блокировка вредоносных программ и навязчивой рекламы"
 
-msgid "protect_state_warn"
-msgstr "Будут удалены нежелательные программы: {{COUNT}} шт."
+msgid "protect_installed_programs_title"
+msgstr "Установленные на компьютере программы"
 
-msgid "protect_state_err"
-msgstr "Для работы DriverPack Protect необходимо подключить компьютер к сети Интернет и перезапустить DriverPack"
+msgid "protect_installed_programs_switch"
+msgstr "Показывать только сомнительные"
 
 msgid "protect_show_more"
 msgstr "показать ещё"
+
+msgid "protect_security_programs_title"
+msgstr "Важные программы для безопасности"
 
 msgid "settings-header_title"
 msgstr "Настройки для продвинутых пользователей"
@@ -1326,6 +1338,41 @@ msgstr "Звуковая карта неправильно подключена 
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Russian"
+
+#~ msgid "menu_protect"
+#~ msgstr "Безопасность"
+
+#~ msgid "protect_header_title"
+#~ msgstr "DriverPack Protect — защита и очистка компьютера"
+
+#~ msgid "protect_header_caption"
+#~ msgstr ""
+#~ "DriverPack Protect очистит от нежелательного ПО и обеспечит защиту вашего "
+#~ "компьютера, дополняя возможности антивируса: выявление, удаление и "
+#~ "блокировка вредоносных программ и навязчивой рекламы"
+
+#~ msgid "protect_remove_all_btn"
+#~ msgstr "Защитить и очистить компьютер"
+
+#~ msgid "protect_state_success"
+#~ msgstr "Нежелательное ПО не обнаружено"
+
+#~ msgid "protect_state_success_caption"
+#~ msgstr "На вашем компьютере нет нежелательных программ"
+
+#~ msgid "protect_state_warn_unchecked"
+#~ msgstr "Найдены нежелательные программы"
+
+#~ msgid "protect_state_warn_unchecked_caption"
+#~ msgstr "Можно удалить их, выбрав в списке ниже"
+
+#~ msgid "protect_state_warn"
+#~ msgstr "Будут удалены нежелательные программы: {{COUNT}} шт."
+
+#~ msgid "protect_state_err"
+#~ msgstr ""
+#~ "Для работы DriverPack Protect необходимо подключить компьютер к сети "
+#~ "Интернет и перезапустить DriverPack"
 
 #~ msgid "installation_header_promo_title_wannacrypt"
 #~ msgstr "Внимание! Опасная вирусная активность"

@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-10-18 12:44+0000\n"
-"PO-Revision-Date: 2017-10-31 13:06+0000\n"
+"POT-Creation-Date: 2017-11-27 10:29+0000\n"
+"PO-Revision-Date: 2017-11-30 11:12+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Chinese (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/zh/)\n"
 "MIME-Version: 1.0\n"
@@ -218,6 +218,12 @@ msgstr "其他裝置"
 
 msgid "deviceclasses_other-plural-for"
 msgstr "其他裝置"
+
+msgid "programs_btn_install_single"
+msgstr "安裝"
+
+msgid "programs_btn_installed_single"
+msgstr "已安裝"
 
 msgid "settings_common-settings"
 msgstr "一般設定"
@@ -454,7 +460,7 @@ msgid "menu_computer_management"
 msgstr "電腦管理"
 
 msgid "menu_control_panel"
-msgstr "控制列"
+msgstr "控制台"
 
 msgid "menu_disk_management"
 msgstr "磁碟管理"
@@ -976,8 +982,8 @@ msgstr "軟體"
 msgid "menu_protect_title"
 msgstr "防毒軟體助手"
 
-msgid "menu_protect"
-msgstr "安全性"
+msgid "menu_protect_clean_up"
+msgstr ""
 
 msgid "menu_computer_diagnostics"
 msgstr "電腦狀態診斷"
@@ -1024,12 +1030,6 @@ msgstr "完成"
 msgid "no-internet-screen_guide-step-complete-action"
 msgstr "在這台電腦上執行該應用程式，並 <br /> 使用一個按鈕配置電腦"
 
-msgid "programs_btn_install_single"
-msgstr "安裝"
-
-msgid "programs_btn_installed_single"
-msgstr "已安裝"
-
 msgid "programs_header_text_title"
 msgstr "所有有用的軟體在一個地方"
 
@@ -1041,6 +1041,15 @@ msgstr "沒有必要再一個一個尋找軟體程式。您可以輕鬆地一鍵
 
 msgid "drivers_program_counter"
 msgstr "建議的軟體"
+
+msgid "protect_popup_title"
+msgstr ""
+
+msgid "protect_popup_install_button"
+msgstr "安裝"
+
+msgid "protect_popup_cancel_button"
+msgstr ""
 
 msgid "protect_row_rating"
 msgstr "評比:"
@@ -1072,35 +1081,38 @@ msgstr "建議您刪除此軟體，因為 70% 的使用者將其刪除。"
 msgid "protect_uninstall_single"
 msgstr "刪除"
 
-msgid "protect_header_title"
-msgstr "DriverPack Protect 是您防毒軟體的協助程式"
+msgid "protect_clean_up_btn"
+msgstr ""
 
-msgid "protect_header_caption"
-msgstr "DriverPack Protect 為防毒軟體經常失敗的電腦提供保護: 偵測、刪除和阻止惡意軟體以及包含侵入性廣告的垃圾軟體"
+msgid "protect_remove_all_btn_uninstalling"
+msgstr ""
 
-msgid "protect_remove_all_btn"
-msgstr "刪除垃圾軟體 <b>({{COUNT}})</b>"
+msgid "protect_remove_all_btn_installing"
+msgstr ""
 
-msgid "protect_state_success"
-msgstr "未找到垃圾軟體"
+msgid "protect_installed-programs_api_failed"
+msgstr ""
 
-msgid "protect_state_success_caption"
-msgstr "您的電腦上沒有垃圾軟體"
+msgid "protect_installed-programs_no_harmful"
+msgstr ""
 
-msgid "protect_state_warn_unchecked"
-msgstr "找到垃圾軟體程式"
+msgid "protect_clean_up_header_title"
+msgstr ""
 
-msgid "protect_state_warn_unchecked_caption"
-msgstr "可以透過在下面的清單中勾選它們來刪除它們"
+msgid "protect_clean_up_header_caption"
+msgstr ""
 
-msgid "protect_state_warn"
-msgstr "該垃圾軟體程式將被刪除: {{COUNT}}"
+msgid "protect_installed_programs_title"
+msgstr ""
 
-msgid "protect_state_err"
-msgstr "為了啟用 DriverPack Protect，您應先將您的電腦連接到網路然後將 DriverPack 重新啟動"
+msgid "protect_installed_programs_switch"
+msgstr ""
 
 msgid "protect_show_more"
 msgstr "查看更多"
+
+msgid "protect_security_programs_title"
+msgstr ""
 
 msgid "settings-header_title"
 msgstr "進階使用者的設定"
@@ -1310,6 +1322,41 @@ msgstr "音效卡連接不正確，或其可操作性存在一些問題"
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Chinese (Traditional)"
+
+#~ msgid "menu_protect"
+#~ msgstr "Security"
+
+#~ msgid "protect_header_title"
+#~ msgstr "DriverPack Protect — protection and cleanup of your computer"
+
+#~ msgid "protect_header_caption"
+#~ msgstr ""
+#~ "DriverPack Protect will clean of undesirable software and provide protection"
+#~ " for your computer as a complement to your antivirus' capabilities such as: "
+#~ "detecting, removing and blocking malware and intrusive advertisement"
+
+#~ msgid "protect_remove_all_btn"
+#~ msgstr "Protect and clean the computer"
+
+#~ msgid "protect_state_success"
+#~ msgstr "Unwanted software has not been found"
+
+#~ msgid "protect_state_success_caption"
+#~ msgstr "There is no unwanted software on your computer"
+
+#~ msgid "protect_state_warn_unchecked"
+#~ msgstr "Unwanted software programs have been found"
+
+#~ msgid "protect_state_warn_unchecked_caption"
+#~ msgstr "It is possible to remove them by ticking them in the list below"
+
+#~ msgid "protect_state_warn"
+#~ msgstr "The unwanted software programs will be removed: {{COUNT}} psc."
+
+#~ msgid "protect_state_err"
+#~ msgstr ""
+#~ "In order to enable DriverPack Protect you should first connect your computer"
+#~ " to the Internet and then restart DriverPack"
 
 #~ msgid "installation_header_promo_title_wannacrypt"
 #~ msgstr "Attention! Dangerous virus activity"

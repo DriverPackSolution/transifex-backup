@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-10-18 12:44+0000\n"
-"PO-Revision-Date: 2017-11-16 18:29+0000\n"
+"POT-Creation-Date: 2017-11-27 10:29+0000\n"
+"PO-Revision-Date: 2017-11-30 11:12+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Hungarian (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/hu/)\n"
 "MIME-Version: 1.0\n"
@@ -218,6 +218,12 @@ msgstr "egyéb eszköz"
 
 msgid "deviceclasses_other-plural-for"
 msgstr "egyéb eszköz"
+
+msgid "programs_btn_install_single"
+msgstr "telepítés"
+
+msgid "programs_btn_installed_single"
+msgstr "Telepítve"
 
 msgid "settings_common-settings"
 msgstr "Általános beállítások"
@@ -454,7 +460,7 @@ msgid "menu_computer_management"
 msgstr "Számítógép kezelés"
 
 msgid "menu_control_panel"
-msgstr "Irányítósáv"
+msgstr "Vezérlőpult"
 
 msgid "menu_disk_management"
 msgstr "Lemezkezelő"
@@ -981,8 +987,8 @@ msgstr "Szoftver"
 msgid "menu_protect_title"
 msgstr "A vírusirtód kiegészítője"
 
-msgid "menu_protect"
-msgstr "Biztonság"
+msgid "menu_protect_clean_up"
+msgstr ""
 
 msgid "menu_computer_diagnostics"
 msgstr "A számítógép állapotának vizsgálata"
@@ -1029,12 +1035,6 @@ msgstr "Kész"
 msgid "no-internet-screen_guide-step-complete-action"
 msgstr "Futtassa az alkalmazást a számítógépen, és <br /> konfigurálja azt egyetlen gombnyomással"
 
-msgid "programs_btn_install_single"
-msgstr "telepítés"
-
-msgid "programs_btn_installed_single"
-msgstr "Telepítve"
-
 msgid "programs_header_text_title"
 msgstr "Minden hasznos szoftver egy helyen"
 
@@ -1046,6 +1046,15 @@ msgstr "Többé nem kell egyesével kutatnia a szoftverek után. Egyetlen kattin
 
 msgid "drivers_program_counter"
 msgstr "Ajánlott szoftver"
+
+msgid "protect_popup_title"
+msgstr ""
+
+msgid "protect_popup_install_button"
+msgstr "Telepítés"
+
+msgid "protect_popup_cancel_button"
+msgstr ""
 
 msgid "protect_row_rating"
 msgstr "Értékelés:"
@@ -1077,35 +1086,38 @@ msgstr "Azt tanácsoljuk, hogy távolítsa el ezt a szoftvert, mert az összes f
 msgid "protect_uninstall_single"
 msgstr "eltávolít"
 
-msgid "protect_header_title"
-msgstr "A DriverPack Protect kiegészítő védelmet nyújt az ön vírusirtójához"
+msgid "protect_clean_up_btn"
+msgstr ""
 
-msgid "protect_header_caption"
-msgstr "A DriverPack Protect számítógépes védelmet nyújt ott, ahol a vírusirtók gyakran csődöt mondanak: kártevők, valamint a zavaró hirdetésekkel támadó, nemkívánatos szoftverek észlelése, eltávolítása és blokkolása"
+msgid "protect_remove_all_btn_uninstalling"
+msgstr ""
 
-msgid "protect_remove_all_btn"
-msgstr "Kéretlen programok törlése <b>({{COUNT}})</b>"
+msgid "protect_remove_all_btn_installing"
+msgstr ""
 
-msgid "protect_state_success"
-msgstr "Nem található nemkívánatos szoftver"
+msgid "protect_installed-programs_api_failed"
+msgstr ""
 
-msgid "protect_state_success_caption"
-msgstr "Nem található nem kívánt szoftver a számítógépen"
+msgid "protect_installed-programs_no_harmful"
+msgstr ""
 
-msgid "protect_state_warn_unchecked"
-msgstr "Nemkívánatos szoftvert észleltünk"
+msgid "protect_clean_up_header_title"
+msgstr ""
 
-msgid "protect_state_warn_unchecked_caption"
-msgstr "Lehetséges ezeket eltávolítani, ha bejelöli őket az alábbi listán"
+msgid "protect_clean_up_header_caption"
+msgstr ""
 
-msgid "protect_state_warn"
-msgstr "{{COUNT}} darab nemkívánatos szoftver került eltávolításra."
+msgid "protect_installed_programs_title"
+msgstr ""
 
-msgid "protect_state_err"
-msgstr "Annak érdekében, hogy engedélyezze a DriverPack Protect működését, először kapcsolódjon a számítógépével az internethez, majd indítsa újra a DriverPack-ot"
+msgid "protect_installed_programs_switch"
+msgstr ""
 
 msgid "protect_show_more"
 msgstr "Több infó"
+
+msgid "protect_security_programs_title"
+msgstr ""
 
 msgid "settings-header_title"
 msgstr "Beállítások haladó felhasználóknak"
@@ -1317,6 +1329,41 @@ msgstr "A hankártya nem megfelelően csatlakozott, vagy gond adódott a működ
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Hungarian"
+
+#~ msgid "menu_protect"
+#~ msgstr "Security"
+
+#~ msgid "protect_header_title"
+#~ msgstr "DriverPack Protect — protection and cleanup of your computer"
+
+#~ msgid "protect_header_caption"
+#~ msgstr ""
+#~ "DriverPack Protect will clean of undesirable software and provide protection"
+#~ " for your computer as a complement to your antivirus' capabilities such as: "
+#~ "detecting, removing and blocking malware and intrusive advertisement"
+
+#~ msgid "protect_remove_all_btn"
+#~ msgstr "Protect and clean the computer"
+
+#~ msgid "protect_state_success"
+#~ msgstr "Unwanted software has not been found"
+
+#~ msgid "protect_state_success_caption"
+#~ msgstr "There is no unwanted software on your computer"
+
+#~ msgid "protect_state_warn_unchecked"
+#~ msgstr "Unwanted software programs have been found"
+
+#~ msgid "protect_state_warn_unchecked_caption"
+#~ msgstr "It is possible to remove them by ticking them in the list below"
+
+#~ msgid "protect_state_warn"
+#~ msgstr "The unwanted software programs will be removed: {{COUNT}} psc."
+
+#~ msgid "protect_state_err"
+#~ msgstr ""
+#~ "In order to enable DriverPack Protect you should first connect your computer"
+#~ " to the Internet and then restart DriverPack"
 
 #~ msgid "installation_header_promo_title_wannacrypt"
 #~ msgstr "Attention! Dangerous virus activity"

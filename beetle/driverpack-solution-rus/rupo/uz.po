@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-10-18 12:44+0000\n"
+"POT-Creation-Date: 2017-11-27 10:29+0000\n"
 "PO-Revision-Date: 2016-02-25 10:55+0000\n"
 "Last-Translator: Shérov <azamat9006@mail.ru>, 2017\n"
 "Language-Team: Uzbek (https://www.transifex.com/driverpack-solution/teams/75452/uz/)\n"
@@ -218,6 +218,12 @@ msgstr "qolgan qurilmalar"
 
 msgid "deviceclasses_other-plural-for"
 msgstr "qolgan qurilma"
+
+msgid "programs_btn_install_single"
+msgstr "o'rnatish"
+
+msgid "programs_btn_installed_single"
+msgstr "o'rnatildi"
 
 msgid "settings_common-settings"
 msgstr "Umumiy sozlamlar"
@@ -976,8 +982,8 @@ msgstr "Soft"
 msgid "menu_protect_title"
 msgstr "Antivirusingiz uchun yordamchi"
 
-msgid "menu_protect"
-msgstr "Xavfsizlik"
+msgid "menu_protect_clean_up"
+msgstr ""
 
 msgid "menu_computer_diagnostics"
 msgstr "Kompyuter holatini tashxislash"
@@ -1024,12 +1030,6 @@ msgstr "Tayyor"
 msgid "no-internet-screen_guide-step-complete-action"
 msgstr "Ushbu kompyuterda dasturni ishga tushiring va <br /> kompyuterni bitta tugma bilan sozlang"
 
-msgid "programs_btn_install_single"
-msgstr "o'rnatish"
-
-msgid "programs_btn_installed_single"
-msgstr "o'rnatildi"
-
 msgid "programs_header_text_title"
 msgstr "Hamma foydali dasturlar bir joyda"
 
@@ -1041,6 +1041,15 @@ msgstr "Dasturlani aloxida izlashga endi hojat yo'q&nbsp;— hammasini bir klikd
 
 msgid "drivers_program_counter"
 msgstr "Tavsiya etilgan dasturlar"
+
+msgid "protect_popup_title"
+msgstr ""
+
+msgid "protect_popup_install_button"
+msgstr ""
+
+msgid "protect_popup_cancel_button"
+msgstr ""
 
 msgid "protect_row_rating"
 msgstr "Reytingi:"
@@ -1072,35 +1081,38 @@ msgstr "Bu dasturlarni o'chirishni maslaxat beramiz nega deganda foydalanuvchila
 msgid "protect_uninstall_single"
 msgstr "o'chirish"
 
-msgid "protect_header_title"
-msgstr "DriverPack Protect&nbsp;— sizning antivirusnigizga yordamchi"
+msgid "protect_clean_up_btn"
+msgstr ""
 
-msgid "protect_header_caption"
-msgstr "Antivirusingiz eplomiydigan himoyani DriverPack Protect kompyuteringizda himoyani taminlaydi: reklama bilan bog'langan zararkunanda va istalmagan dasturlarni aniqlash, o'chirish va bloklash"
+msgid "protect_remove_all_btn_uninstalling"
+msgstr ""
 
-msgid "protect_remove_all_btn"
-msgstr "Istalmagan dasturiy ta'minotni o'chirish <b>({{COUNT}})</b>"
+msgid "protect_remove_all_btn_installing"
+msgstr ""
 
-msgid "protect_state_success"
-msgstr "Istalmagan DT kuzatilmadi"
+msgid "protect_installed-programs_api_failed"
+msgstr ""
 
-msgid "protect_state_success_caption"
-msgstr "Sizning kompyuteringizda istalmagan dasturlar yo'q"
+msgid "protect_installed-programs_no_harmful"
+msgstr ""
 
-msgid "protect_state_warn_unchecked"
-msgstr "Istalmagan dasturlar topildi"
+msgid "protect_clean_up_header_title"
+msgstr ""
 
-msgid "protect_state_warn_unchecked_caption"
-msgstr "Ularni o'chirish mumkin, pastdagi ro'yxatdan tanlangandan holda"
+msgid "protect_clean_up_header_caption"
+msgstr ""
 
-msgid "protect_state_warn"
-msgstr "Istalmagan dasturlar o'chiriladi: {{COUNT}} dona."
+msgid "protect_installed_programs_title"
+msgstr ""
 
-msgid "protect_state_err"
-msgstr "DriverPack Protect bilan ishlash uchun kompyuteringizni internet tarmog'iga ulanishi kerak va DriverPack ni qayta yuklang"
+msgid "protect_installed_programs_switch"
+msgstr ""
 
 msgid "protect_show_more"
 msgstr "yana ko'rsatish"
+
+msgid "protect_security_programs_title"
+msgstr ""
 
 msgid "settings-header_title"
 msgstr "Yaxshi tushunadigan foydalanuvchilar uchun sozlashlar"
@@ -1310,6 +1322,38 @@ msgstr "Ovoz kartasi to'g'ri ulanmagan yoki uning ishlashi bilan bog'liq muammol
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Uzbek"
+
+#~ msgid "menu_protect"
+#~ msgstr "Xavfsizlik"
+
+#~ msgid "protect_header_title"
+#~ msgstr ""
+
+#~ msgid "protect_header_caption"
+#~ msgstr ""
+
+#~ msgid "protect_remove_all_btn"
+#~ msgstr ""
+
+#~ msgid "protect_state_success"
+#~ msgstr "Istalmagan DT kuzatilmadi"
+
+#~ msgid "protect_state_success_caption"
+#~ msgstr "Sizning kompyuteringizda istalmagan dasturlar yo'q"
+
+#~ msgid "protect_state_warn_unchecked"
+#~ msgstr "Istalmagan dasturlar topildi"
+
+#~ msgid "protect_state_warn_unchecked_caption"
+#~ msgstr "Ularni o'chirish mumkin, pastdagi ro'yxatdan tanlangandan holda"
+
+#~ msgid "protect_state_warn"
+#~ msgstr "Istalmagan dasturlar o'chiriladi: {{COUNT}} dona."
+
+#~ msgid "protect_state_err"
+#~ msgstr ""
+#~ "DriverPack Protect bilan ishlash uchun kompyuteringizni internet tarmog'iga "
+#~ "ulanishi kerak va DriverPack ni qayta yuklang"
 
 #~ msgid "installation_header_promo_title_wannacrypt"
 #~ msgstr "Diqqat! Xavfli virusli aktivlik"

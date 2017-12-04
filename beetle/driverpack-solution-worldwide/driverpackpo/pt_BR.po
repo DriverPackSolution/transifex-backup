@@ -9,8 +9,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-10-18 12:44+0000\n"
-"PO-Revision-Date: 2017-11-26 23:59+0000\n"
+"POT-Creation-Date: 2017-11-27 10:29+0000\n"
+"PO-Revision-Date: 2017-12-03 23:40+0000\n"
 "Last-Translator: Alessandro João <ajkmetiuk@bol.com.br>\n"
 "Language-Team: Portuguese (Brazil) (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/pt_BR/)\n"
 "MIME-Version: 1.0\n"
@@ -220,6 +220,12 @@ msgstr "outros dispositivos"
 msgid "deviceclasses_other-plural-for"
 msgstr "outros dispositivos"
 
+msgid "programs_btn_install_single"
+msgstr "instalar"
+
+msgid "programs_btn_installed_single"
+msgstr "Instalado"
+
 msgid "settings_common-settings"
 msgstr "Configurações Gerais"
 
@@ -275,7 +281,7 @@ msgid "settings_protect-title"
 msgstr "DriverPack Protect"
 
 msgid "settings_protect-caption"
-msgstr "Esta tecnologia irá ajudá-lo a limpar o seu computador de malware e plug-ins maliciosos que, mesmo o antivírus e as ferramentas de bloqueio de anúncios muitas vezes não conseguem detectar ou corrigir completamente. O nosso sistema de limpeza de malware e programas indesejados permitirá liberar muito mais espaço no seu disco rígido e aumentar a eficiência do seu computador. É por isso que recomendamos insistentemente que você use essa função e se beneficie de suas vantagens."
+msgstr "Esta tecnologia irá ajudá-lo a limpar o seu computador de malwares e plug-ins maliciosos que, mesmo o antivírus e as ferramentas de bloqueio de anúncios muitas vezes não conseguem detectar ou corrigir completamente. O nosso sistema de limpeza de malware e programas indesejados permitirá liberar muito mais espaço no seu disco rígido e aumentar a eficiência do seu computador. É por isso que recomendamos insistentemente que você use essa função e se beneficie de suas vantagens."
 
 msgid "settings_protect-anchor"
 msgstr "Saiba mais "
@@ -284,7 +290,7 @@ msgid "settings_protect-href"
 msgstr "https://vk.com/topic-29220845_34742915"
 
 msgid "settings_diagnostics-title"
-msgstr "Ativar Modo de Diagnóstico"
+msgstr "Ativar o Modo de Diagnósticos"
 
 msgid "settings_diagnostics-caption"
 msgstr "Esta seção contém todas as informações sobre a configuração do computador. Além disso, devido a diagnósticos abrangentes, o algoritmo do DriverPack instala todos os drivers necessários com a maior precisão e rapidez possível. É por isso que recomendamos que não desabilite essa função."
@@ -305,13 +311,13 @@ msgid "settings_authorization-title"
 msgstr "Habilitar o modo de Log-In"
 
 msgid "settings_authorization-caption"
-msgstr "Após um procedimento de login curto e fácil, você terá acesso a configurações estendidas, bem como a uma série de recursos úteis, incluindo download de driver mais rápido de servidores CDN, configurações salvas no nível do perfil e muitos outros. Recomendamos que você faça o login e aproveite esses recursos avançados."
+msgstr "Após um procedimento de login curto e fácil, você terá acesso a configurações estendidas, bem como a uma série de recursos úteis, incluindo o download de driver mais rápido de servidores CDN, configurações salvas no nível do perfil e muitos outros. Recomendamos que você faça o login e aproveite esses recursos avançados."
 
 msgid "settings_news-title"
 msgstr "Exibir notícias sobre os drivers"
 
 msgid "settings_news-caption"
-msgstr "Esta seção contém notícias úteis sobre a liberação de novos drivers e utilitários."
+msgstr "Esta seção contém notícias úteis sobre o lançamento de novos drivers e utilitários."
 
 msgid "settings_drivers-title"
 msgstr "Desativar a instalação automática dos drivers recomendados"
@@ -320,7 +326,7 @@ msgid "settings_drivers-caption"
 msgstr "Quando esta função é ativada, a instalação automática dos drivers recomendados será desativada."
 
 msgid "settings_soft-title"
-msgstr "Desativa a instalação dos programas recomendados"
+msgstr "Desativar a instalação dos programas recomendados"
 
 msgid "settings_soft-caption"
 msgstr "Quando esta função é ativada, a instalação dos aplicativos e programas recomendados será desativada. No entanto, isso significa que muitos aplicativos úteis e gratuitos não serão instalados em seu computador. Tem certeza de que quer deixar passar esta oportunidade?"
@@ -335,7 +341,7 @@ msgid "settings_notifier-title"
 msgstr "DriverPack Notifier"
 
 msgid "settings_notifier-caption"
-msgstr "DriverPack Notifier é um sistema de monitoramento que o informará instantaneamente sobre falhas de software e hardware. Isso ajudará a evitar erros no sistema e falhas no PC imprevisíveis."
+msgstr "O DriverPack Notifier é um sistema de monitoramento que o informará instantaneamente sobre falhas de software e hardware. Isso ajudará a evitar erros no sistema e falhas imprevisíveis no PC."
 
 msgid "settings_notifier-anchor"
 msgstr "Saiba mais "
@@ -344,7 +350,7 @@ msgid "settings_notifier-href"
 msgstr "https://vk.com/topic-29220845_34742952"
 
 msgid "settings_bug-report-title"
-msgstr "Ative a opção de interceptação de erro (Error Catch)"
+msgstr "Ativar a opção de interceptação de erro (Error Catch)"
 
 msgid "settings_bug-report-caption"
 msgstr "Os engenheiros do DriverPack desenvolveram este sistema para que o próprio programa possa informá-lo sobre quaisquer problemas de operação e, em seguida, oferecer maneiras de corrigi-los rapidamente."
@@ -455,7 +461,7 @@ msgid "menu_computer_management"
 msgstr "Gerenciamento do Computador"
 
 msgid "menu_control_panel"
-msgstr "Barra de Controle"
+msgstr "Painel de controle"
 
 msgid "menu_disk_management"
 msgstr "Gerenciamento de Disco"
@@ -982,8 +988,8 @@ msgstr "Programas"
 msgid "menu_protect_title"
 msgstr "Assistente para o seu antivírus"
 
-msgid "menu_protect"
-msgstr "Segurança"
+msgid "menu_protect_clean_up"
+msgstr "Proteção e limpeza"
 
 msgid "menu_computer_diagnostics"
 msgstr "Diagnóstico do estado do computador"
@@ -1030,12 +1036,6 @@ msgstr "Concluído"
 msgid "no-internet-screen_guide-step-complete-action"
 msgstr "Execute o aplicativo neste computador e <br /> configure o computador com um botão"
 
-msgid "programs_btn_install_single"
-msgstr "instalar"
-
-msgid "programs_btn_installed_single"
-msgstr "Instalado"
-
 msgid "programs_header_text_title"
 msgstr "Todos os softwares úteis em um só lugar"
 
@@ -1047,6 +1047,15 @@ msgstr "Não há necessidade de procurar os programas de software um a um por ma
 
 msgid "drivers_program_counter"
 msgstr "Software recomendado"
+
+msgid "protect_popup_title"
+msgstr "Sua configuração de segurança do computador"
+
+msgid "protect_popup_install_button"
+msgstr "Instalar"
+
+msgid "protect_popup_cancel_button"
+msgstr "Recusar"
 
 msgid "protect_row_rating"
 msgstr "Avaliar:"
@@ -1078,35 +1087,38 @@ msgstr "Recomendamos que você remova esse software porque 70% de todos os usuá
 msgid "protect_uninstall_single"
 msgstr "remover"
 
-msgid "protect_header_title"
-msgstr "DriverPack Protect é um ajudante para o seu antivírus"
+msgid "protect_clean_up_btn"
+msgstr "Proteja e limpe o computador"
 
-msgid "protect_header_caption"
-msgstr "O DriverPack Protect fornece a proteção do seu computador onde os programas antivírus muitas vezes falham: detecção, remoção e bloqueio de malware, além de software indesejado com publicidade intrusiva"
+msgid "protect_remove_all_btn_uninstalling"
+msgstr "Estes programas suspeitos serão removidos: {{COUNT}}"
 
-msgid "protect_remove_all_btn"
-msgstr "Remover programas indesejados <b>({{COUNT}})</b>"
+msgid "protect_remove_all_btn_installing"
+msgstr "Estes programas importantes serão instalados: {{COUNT}}"
 
-msgid "protect_state_success"
-msgstr "Software indesejado não foi encontrado"
+msgid "protect_installed-programs_api_failed"
+msgstr "Não há conexão com a Internet. Uma conexão de rede é necessária para visualizar a lista de programa em seu computador."
 
-msgid "protect_state_success_caption"
-msgstr "Não há nenhum programa indesejado no seu computador"
+msgid "protect_installed-programs_no_harmful"
+msgstr "Nenhum programa indesejável foi detectado em seu computador"
 
-msgid "protect_state_warn_unchecked"
-msgstr "Programas indesejados foram encontrados"
+msgid "protect_clean_up_header_title"
+msgstr "DriverPack Protect — proteção e limpeza do seu computador"
 
-msgid "protect_state_warn_unchecked_caption"
-msgstr "É possível removê-los, marcando-os na lista abaixo"
+msgid "protect_clean_up_header_caption"
+msgstr "O DriverPack Protect irá limpar o programa indesejável e fornecer proteção para o seu computador como complemento dos recursos do seu antivírus, tais como: detectar, remover e bloquear malware e propaganda intrusiva"
 
-msgid "protect_state_warn"
-msgstr "Os programas de software indesejados serão removidos: {{COUNT}} psc."
+msgid "protect_installed_programs_title"
+msgstr "Programa instalado no computador"
 
-msgid "protect_state_err"
-msgstr "Para habilitar o DriverPack Protect, você deve primeiro conectar seu computador à Internet e reiniciar o DriverPack"
+msgid "protect_installed_programs_switch"
+msgstr "Mostrar apenas o programa suspeito"
 
 msgid "protect_show_more"
 msgstr "Ver mais"
+
+msgid "protect_security_programs_title"
+msgstr "Programa importante para segurança"
 
 msgid "settings-header_title"
 msgstr "Configurações para usuários avançados"
@@ -1318,6 +1330,41 @@ msgstr "A placa de som está conectada incorretamente, ou há alguns problemas c
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Portuguese (Brazil)"
+
+#~ msgid "menu_protect"
+#~ msgstr "Security"
+
+#~ msgid "protect_header_title"
+#~ msgstr "DriverPack Protect — protection and cleanup of your computer"
+
+#~ msgid "protect_header_caption"
+#~ msgstr ""
+#~ "DriverPack Protect will clean of undesirable software and provide protection"
+#~ " for your computer as a complement to your antivirus' capabilities such as: "
+#~ "detecting, removing and blocking malware and intrusive advertisement"
+
+#~ msgid "protect_remove_all_btn"
+#~ msgstr "Protect and clean the computer"
+
+#~ msgid "protect_state_success"
+#~ msgstr "Unwanted software has not been found"
+
+#~ msgid "protect_state_success_caption"
+#~ msgstr "There is no unwanted software on your computer"
+
+#~ msgid "protect_state_warn_unchecked"
+#~ msgstr "Unwanted software programs have been found"
+
+#~ msgid "protect_state_warn_unchecked_caption"
+#~ msgstr "It is possible to remove them by ticking them in the list below"
+
+#~ msgid "protect_state_warn"
+#~ msgstr "The unwanted software programs will be removed: {{COUNT}} psc."
+
+#~ msgid "protect_state_err"
+#~ msgstr ""
+#~ "In order to enable DriverPack Protect you should first connect your computer"
+#~ " to the Internet and then restart DriverPack"
 
 #~ msgid "installation_header_promo_title_wannacrypt"
 #~ msgstr "Attention! Dangerous virus activity"

@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-10-18 12:44+0000\n"
-"PO-Revision-Date: 2017-11-16 18:33+0000\n"
+"POT-Creation-Date: 2017-11-27 10:29+0000\n"
+"PO-Revision-Date: 2017-11-30 11:12+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Romanian (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/ro/)\n"
 "MIME-Version: 1.0\n"
@@ -218,6 +218,12 @@ msgstr "alte dispozitive"
 
 msgid "deviceclasses_other-plural-for"
 msgstr "alte dispozitive"
+
+msgid "programs_btn_install_single"
+msgstr "instalare"
+
+msgid "programs_btn_installed_single"
+msgstr "Instalat"
 
 msgid "settings_common-settings"
 msgstr "Setări Generale"
@@ -454,7 +460,7 @@ msgid "menu_computer_management"
 msgstr "Management Computer"
 
 msgid "menu_control_panel"
-msgstr "Bară Control"
+msgstr ""
 
 msgid "menu_disk_management"
 msgstr "Disk Management"
@@ -986,8 +992,8 @@ msgstr "Software"
 msgid "menu_protect_title"
 msgstr "Asistent pentru antivirusul dvs."
 
-msgid "menu_protect"
-msgstr "Securitate"
+msgid "menu_protect_clean_up"
+msgstr ""
 
 msgid "menu_computer_diagnostics"
 msgstr "Diagnosticarea stării computerului"
@@ -1034,12 +1040,6 @@ msgstr "Finalizare"
 msgid "no-internet-screen_guide-step-complete-action"
 msgstr "Rulați aplicația pe acest computer și <br /> configurați computerul cu un singur buton"
 
-msgid "programs_btn_install_single"
-msgstr "instalare"
-
-msgid "programs_btn_installed_single"
-msgstr "Instalat"
-
 msgid "programs_header_text_title"
 msgstr "Toate softwarele utile într-un singur loc"
 
@@ -1051,6 +1051,15 @@ msgstr "Nu este nevoie să căutați programele software unu câte unu. Puteți 
 
 msgid "drivers_program_counter"
 msgstr "Software recomandat"
+
+msgid "protect_popup_title"
+msgstr ""
+
+msgid "protect_popup_install_button"
+msgstr "Instalează"
+
+msgid "protect_popup_cancel_button"
+msgstr ""
 
 msgid "protect_row_rating"
 msgstr "Evaluare:"
@@ -1082,35 +1091,38 @@ msgstr "Vă recomandăm să eliminați acest software deoarece 70% din toți uti
 msgid "protect_uninstall_single"
 msgstr "şterge"
 
-msgid "protect_header_title"
-msgstr "DriverPack Protect este un ajutor de nadejde al antivirusului tau."
+msgid "protect_clean_up_btn"
+msgstr ""
 
-msgid "protect_header_caption"
-msgstr "DriverPack Protect ii ofera calculatorului tau protectie, acolo unde, programele antivirus in general dau gres: detectie, eliminare si blocare a virusilor de tip malware precum si a altor aplicatii nedorite care genereaza reclame abuzive"
+msgid "protect_remove_all_btn_uninstalling"
+msgstr ""
 
-msgid "protect_remove_all_btn"
-msgstr "Eliminare software nedorit <b>({{COUNT}})</b>"
+msgid "protect_remove_all_btn_installing"
+msgstr ""
 
-msgid "protect_state_success"
-msgstr "Nu a fost găsit software nedorit"
+msgid "protect_installed-programs_api_failed"
+msgstr ""
 
-msgid "protect_state_success_caption"
-msgstr "Nu există software nedorit pe computerul dvs."
+msgid "protect_installed-programs_no_harmful"
+msgstr ""
 
-msgid "protect_state_warn_unchecked"
-msgstr "Au fost găsite programe software nedorite"
+msgid "protect_clean_up_header_title"
+msgstr ""
 
-msgid "protect_state_warn_unchecked_caption"
-msgstr "Este posibil să le eliminați marcându-le în lista de mai jos"
+msgid "protect_clean_up_header_caption"
+msgstr ""
 
-msgid "protect_state_warn"
-msgstr "Programele software nedorite vor fi eliminate: {{COUNT}} psc."
+msgid "protect_installed_programs_title"
+msgstr ""
 
-msgid "protect_state_err"
-msgstr "Pentru a activa DriverPack Protect, ar trebui întâi să conectați computerul la Internet și apoi să reporniți DriverPack"
+msgid "protect_installed_programs_switch"
+msgstr ""
 
 msgid "protect_show_more"
 msgstr "Vezi mai multe"
+
+msgid "protect_security_programs_title"
+msgstr ""
 
 msgid "settings-header_title"
 msgstr "Setări pentru utilizatorii avansați"
@@ -1324,6 +1336,41 @@ msgstr "Placa de sunet este conectată incorect, sau există unele probleme lega
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Romanian"
+
+#~ msgid "menu_protect"
+#~ msgstr "Security"
+
+#~ msgid "protect_header_title"
+#~ msgstr "DriverPack Protect — protection and cleanup of your computer"
+
+#~ msgid "protect_header_caption"
+#~ msgstr ""
+#~ "DriverPack Protect will clean of undesirable software and provide protection"
+#~ " for your computer as a complement to your antivirus' capabilities such as: "
+#~ "detecting, removing and blocking malware and intrusive advertisement"
+
+#~ msgid "protect_remove_all_btn"
+#~ msgstr "Protect and clean the computer"
+
+#~ msgid "protect_state_success"
+#~ msgstr "Unwanted software has not been found"
+
+#~ msgid "protect_state_success_caption"
+#~ msgstr "There is no unwanted software on your computer"
+
+#~ msgid "protect_state_warn_unchecked"
+#~ msgstr "Unwanted software programs have been found"
+
+#~ msgid "protect_state_warn_unchecked_caption"
+#~ msgstr "It is possible to remove them by ticking them in the list below"
+
+#~ msgid "protect_state_warn"
+#~ msgstr "The unwanted software programs will be removed: {{COUNT}} psc."
+
+#~ msgid "protect_state_err"
+#~ msgstr ""
+#~ "In order to enable DriverPack Protect you should first connect your computer"
+#~ " to the Internet and then restart DriverPack"
 
 #~ msgid "installation_header_promo_title_wannacrypt"
 #~ msgstr "Attention! Dangerous virus activity"

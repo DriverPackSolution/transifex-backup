@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-10-18 12:44+0000\n"
+"POT-Creation-Date: 2017-11-27 10:29+0000\n"
 "PO-Revision-Date: 2016-02-25 10:55+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>, 2017\n"
 "Language-Team: Belarusian (https://www.transifex.com/driverpack-solution/teams/75452/be/)\n"
@@ -219,6 +219,12 @@ msgstr "іншыя прылады"
 msgid "deviceclasses_other-plural-for"
 msgstr "іншых прылад"
 
+msgid "programs_btn_install_single"
+msgstr "усталяваць"
+
+msgid "programs_btn_installed_single"
+msgstr "усталявана"
+
 msgid "settings_common-settings"
 msgstr "Агульныя налады"
 
@@ -247,22 +253,22 @@ msgid "settings_logging-caption"
 msgstr "Для таго, каб распрацоўнікі і служба тэхнічнай падтрымкі заўсёды маглі разабрацца з кожнай вашай праблемай або складанасцю, падчас налады кампутара адбываецца захаванне лог-файлаў праграмы."
 
 msgid "settings_firebug-title"
-msgstr ""
+msgstr "Адкрыць наладачную кансоль"
 
 msgid "settings_firebug-caption"
-msgstr ""
+msgstr "Для прасунутых карыстачоў інжынеры DriverPack рэалізавалі магчымасць самастойна запусціць firebug і высветліць прычыну памылкі (выклік кансолі адбываецца пры націску клавішы F12)."
 
 msgid "settings_cleanup-title"
-msgstr ""
+msgstr "Выдаляць часовыя файлы"
 
 msgid "settings_cleanup-caption"
-msgstr ""
+msgstr "Падчас налады кампутара DriverPack загружае шэраг часовых файлаў, патрэбных для ўсталёўкі драйвераў. Пасля таго, як завершыцца налада кампутара, дадзеная функцыя аўтаматычна ачысціць кампутар ад ужо непатрэбных файлаў і тым самым сэканоміць месца на жорсткім дыску."
 
 msgid "settings_soft-and-utilities-title"
-msgstr ""
+msgstr "Усталёўка драйверных утыліт і карысных праграм"
 
 msgid "settings_soft-and-utilities-caption"
-msgstr ""
+msgstr "Для паўнавартаснай налады кампутара, акрамя драйвераў, спатрэбяцца дадатковыя ўтыліты, шэраг карысных праграм і сістэмныя бібліятэкі, такія як:: Visual C++, .Net и т.д.. Дадзеныя ўтыліты і софт неабходны для карэктнай працы некаторых прылад, такіх як USB 3.0, FN клавіш і г.д.. Менавіта таму адключэнне дадзенага раздзела крайне не рэкамендуецца."
 
 msgid "settings_soft-and-utilities-anchor"
 msgstr "Падрабязней"
@@ -274,7 +280,7 @@ msgid "settings_protect-title"
 msgstr "DriverPack Protect"
 
 msgid "settings_protect-caption"
-msgstr ""
+msgstr "Гэта тэхналогія дапаможа ачысціць кампутар ад шкодных праграм і рэкламных плагінаў, з адсевам якіх часта не спраўляюцца антывірусы і сродкі блакавання рэкламы. Дзякуючы ачыстцы сістэмы ад шкодных і непатрэбных праграм, можна істотна вызваліць месца на жорсткіх дысках, а таксама павялічыць прадукцыйнасць кампутара. Менавіта таму, настойліва рэкамендуем скарыстацца дадзенай функцыяй і ацаніць яе перавагі."
 
 msgid "settings_protect-anchor"
 msgstr "Падрабязней"
@@ -283,58 +289,58 @@ msgid "settings_protect-href"
 msgstr "https://vk.com/topic-29220845_34742915"
 
 msgid "settings_diagnostics-title"
-msgstr ""
+msgstr "Уключыць рэжым дыягностыкі"
 
 msgid "settings_diagnostics-caption"
-msgstr ""
+msgstr "Дадзены раздзел утрымлівае поўную інфармацыю пра канфігурацыю кампутара. Таксама, дзякуючы комплекснай дыягностыцы, алгарытм DriverPack усталёўвае ўсе патрэбныя драйверы максімальна дакладна і хутка. Менавіта таму крайне не рэкамендуем адключаць дадзеную функцыю."
 
 msgid "settings_expert-mode-title"
-msgstr ""
+msgstr "Уключыць рэжым эксперта"
 
 msgid "settings_expert-mode-caption"
-msgstr ""
+msgstr "Рэжым эксперта распрацаваны спецыяльна для выгоды прасунутых карыстачоў і прафесіяналаў. Дадзены рэжым дазваляе персанальна кастамізаваць працу праграмы, выходзячы са сваіх патрэб і заданняў. Уключэнне дадзенай функцыі азначае, што рэжым эксперта будзе ўключаны па змаўчанні."
 
 msgid "settings_minify-menu-title"
-msgstr ""
+msgstr "Паменшыць памер панэлі навігацыі"
 
 msgid "settings_minify-menu-caption"
-msgstr ""
+msgstr "Для яшчэ большай выгоды працы з пашыраным наладамі, вы можаце рэгуляваць памер панэлі навігацыі злева."
 
 msgid "settings_authorization-title"
-msgstr ""
+msgstr "Уключыць рэжым аўтарызацыі"
 
 msgid "settings_authorization-caption"
-msgstr ""
+msgstr "Пасля праходжання кароткай і простай аўтарызацыі, вам будзе прапанаваны доступ да пашыраных налад, а таксама да шэрага карысных пераваг, такіх як: павялічаная хуткасць загрузкі драйвераў (дзякуючы CDN-серверам), захаванне налад на роўні профілю і шмат што іншае. Настойліва рэкамендуем скарыстацца дадзенымі перавагамі."
 
 msgid "settings_news-title"
-msgstr ""
+msgstr "Адлюстроўваць навіны пра драйверы"
 
 msgid "settings_news-caption"
-msgstr ""
+msgstr "Дадзены раздзел утрымлівае ў сабе ўсе карысныя навіны, што тычацца выхаду новых драйвераў і ўтыліт."
 
 msgid "settings_drivers-title"
-msgstr ""
+msgstr "Адключыць аўтаматычную ўсталёўку рэкамендаваных драйвераў"
 
 msgid "settings_drivers-caption"
-msgstr ""
+msgstr "Пры актывацыі дадзенай функцыі аўтаматычная ўсталёўка рэкамендаваных драйвераў будзе адключана."
 
 msgid "settings_soft-title"
-msgstr ""
+msgstr "Адключыць усталёўку рэкамендаваных праграм"
 
 msgid "settings_soft-caption"
-msgstr ""
+msgstr "Пры актывацыі дадзенай функцыі, усталёўка рэкамендаваных прыкладанняў і праграм будзе адключана. Аднак гэта азначае, што многія патрэбныя і бясплатныя прыкладання так і не будуць усталяваны на ваш кампутар. Вы ўпэўнены, што хочаце адмовіцца ад іх?"
 
 msgid "settings_banners-title"
-msgstr ""
+msgstr "Адключыць інфармацыйныя банары"
 
 msgid "settings_banners-caption"
-msgstr ""
+msgstr "Дадзеныя банары ўтрымваюць карысную інфармацыю пра працу шэрага праграм, якія прапаноўваюцца DriverPack. Вы можаце адключыць іх адлюстраванне, аднак гэта будзе азначаць, што вы не пазнаеце пра ўсе магчымасці і новыя функцыі гэтых праграм."
 
 msgid "settings_notifier-title"
 msgstr "DriverPack Notifier"
 
 msgid "settings_notifier-caption"
-msgstr ""
+msgstr "DriverPack Notifier — гэта сістэма маніторынгу, якая імгненна паведаміць карыстачу аб любых збоях у працы праграмнага і апаратнага забеспячэння і тым самым дапаможа прадухіліць сістэмныя памылкі і непрадбачаныя паломкі ПК."
 
 msgid "settings_notifier-anchor"
 msgstr "Падрабязней"
@@ -343,10 +349,10 @@ msgid "settings_notifier-href"
 msgstr "https://vk.com/topic-29220845_34742952"
 
 msgid "settings_bug-report-title"
-msgstr ""
+msgstr "Уключыць перахоп памылак (Error Catch)"
 
 msgid "settings_bug-report-caption"
-msgstr ""
+msgstr "Інжынеры DriverPack распрацавалі гэту сістэму для таго, каб праграма магла самастойна паінфармаваць карыстача пра ўзнікненне праблемы, а таксама прапанаваць хуткія варыянты па яе ўхіленні."
 
 msgid "settings_bug-report-anchor"
 msgstr "Падрабязней"
@@ -355,22 +361,22 @@ msgid "settings_bug-report-href"
 msgstr "https://vk.com/topic-29220845_34742960"
 
 msgid "settings_restore-point-title"
-msgstr ""
+msgstr "Ствараць кропкі аднаўлення"
 
 msgid "settings_restore-point-caption"
-msgstr ""
+msgstr "DriverPack з'яўляецца самым надзейным і хуткім спосабам наладзіць кампутар і ўсталяваць драйверы, аднак на выпадак кожнай няштатнай сітуацыі перад наладай кампутара ствараецца кропка аднаўлення. Гэта дае магчымасць у любы момант вярнуць кампутар у зыходны стан."
 
 msgid "settings_drivers-backup-title"
-msgstr ""
+msgstr "Ствараць рэзервовую копію (backup) драйвераў"
 
 msgid "settings_drivers-backup-caption"
-msgstr ""
+msgstr "Для яшчэ большай выгоды карыстачоў распрацоўнікі DriverPack рэалізавалі магчымасць захоўваць рэзервовыя копіі ўсіх бягучых драйвераў у папцы «Мае дакументы»."
 
 msgid "settings_system-check-title"
-msgstr ""
+msgstr "Уключыць праверку сістэмы (System Check)"
 
 msgid "settings_system-check-caption"
-msgstr ""
+msgstr "Для таго, каб пераканацца, што ўсе прылады кампутара працуюць спраўна, каманда DriverPack распрацавала эфектыўную сістэму праверкі працы кампутара. Сістэма актывуецца пасля перазагрузкі кампутара і дазваляе правесці хуткую праверку працаздольнасці ўсіх прылад."
 
 msgid "settings_system-check-anchor"
 msgstr "Падрабязней"
@@ -379,10 +385,10 @@ msgid "settings_system-check-href"
 msgstr "https://vk.com/topic-29220845_34742983"
 
 msgid "settings_statistics-title"
-msgstr ""
+msgstr "Адпраўляць статыстыку працы сістэмы"
 
 msgid "settings_statistics-caption"
-msgstr ""
+msgstr "Для таго, каб DriverPack мог рабіцца лепш і стабільней з кожным новым запускам, распрацоўнікам трэба збіраць і аналізаваць дадзеныя (абязлічаныя) пра працу сістэмы. Гаворка ідзе пра такія дадзеныя, як: канфігурацыя кампутара, запушчаныя ўтыліты, сістэмныя памылкі і іншая інфармацыя для Google Analytics."
 
 msgid "settings_statistics-anchor"
 msgstr "Падрабязней"
@@ -391,10 +397,10 @@ msgid "settings_statistics-href"
 msgstr "https://vk.com/topic-29220845_34742999"
 
 msgid "settings_machine-learning-title"
-msgstr ""
+msgstr "Уключыць машыннае навучанне (Machine Learning)"
 
 msgid "settings_machine-learning-caption"
-msgstr ""
+msgstr "Пад капотам DriverPack працуе ўнікальная сістэма штучнага інтэлекту, распрацаваная нашымі інжынерамі. Дзякуючы таму, што сістэма саманавучальнай, пасля кожнага запуску яна самастойна ўдасканальвае алгарытм падбору драйвераў і за кошт гэтага наладжвае кампутар яшчэ хутчэй і дакладней."
 
 msgid "settings_machine-learning-anchor"
 msgstr "Падрабязней"
@@ -403,10 +409,10 @@ msgid "settings_machine-learning-href"
 msgstr "https://vk.com/topic-29220845_34743004"
 
 msgid "settings_bsods-title"
-msgstr ""
+msgstr "Аналізаваць выпадкі збою 'сіні экран смерці' (BSoD)"
 
 msgid "settings_bsods-caption"
-msgstr ""
+msgstr "Імавернасць узнікнення збою 'сіні экран смерці' (BSoD) не перавышае 0,3%, аднак, у выпадку яго ўзнікнення, праграма самастойна праводзіць аналіз лог-файлаў Windows і фармуе справаздачу для сістэмы аналітыкі. Гэта дазваляе зменшыць імавернасць паўтору дадзенай праблемы на гэтым і іншых аналагічных кампутарах."
 
 msgid "settings_bsods-anchor"
 msgstr "Падрабязней"
@@ -415,10 +421,10 @@ msgid "settings_bsods-href"
 msgstr "https://vk.com/topic-29220845_34743011"
 
 msgid "settings_collect-drivers-title"
-msgstr ""
+msgstr "Загружаць патрэбныя драйверы"
 
 msgid "settings_collect-drivers-caption"
-msgstr ""
+msgstr "Каб база DriverPack мела яшчэ большы ахоп прылад, была распрацавана ўнікальная сістэма збору дадзеных. Яна аналізуе інфармацыю пра ўжо ўсталяваныя драйверы на кампутарах, і ў выпадку выяўлення рэдкага драйвера сістэма аўтаматычна дадае яго ў базу. Усе дадзеныя збіраюцца зусім абязлічана і тычацца вылучна драйвераў прылад."
 
 msgid "settings_collect-drivers-anchor"
 msgstr "Падрабязней"
@@ -427,52 +433,52 @@ msgid "settings_collect-drivers-href"
 msgstr "https://vk.com/topic-29220845_34743007"
 
 msgid "menu_create_recovery_point"
-msgstr ""
+msgstr "Стварыць кропку аднаўлення"
 
 msgid "menu_create_drivers_backup"
-msgstr ""
+msgstr "Стварыць рэзервовую копію драйвераў"
 
 msgid "menu_add_remove_programs"
-msgstr ""
+msgstr "Выдаленне праграм"
 
 msgid "menu_device_manager"
 msgstr "Дыспетчар прылад"
 
 msgid "menu_system_properties"
-msgstr ""
+msgstr "Уласцівасці сістэмы"
 
 msgid "menu_display_properties"
-msgstr ""
+msgstr "Налады экрана"
 
 msgid "menu_power_options"
-msgstr ""
+msgstr "Электрасілкаванне"
 
 msgid "menu_network_connections"
-msgstr ""
+msgstr "Сеткавыя падключэнні"
 
 msgid "menu_computer_management"
-msgstr ""
+msgstr "Кіраванне кампутарам"
 
 msgid "menu_control_panel"
-msgstr ""
+msgstr "Панэль кіравання"
 
 msgid "menu_disk_management"
-msgstr ""
+msgstr "Кіраванне дыскамі"
 
 msgid "menu_task_manager"
-msgstr ""
+msgstr "Дыспетчар задач"
 
 msgid "menu_cmd"
-msgstr ""
+msgstr "Камандны радок"
 
 msgid "diagnostics_section_title"
-msgstr ""
+msgstr "Дыягноста сістэмы"
 
 msgid "drivers_screen_list-name-title-unknown"
-msgstr ""
+msgstr "Невядомая прылада"
 
 msgid "device_row_current_version"
-msgstr ""
+msgstr "Бягучая версія"
 
 msgid "device_row_installation"
 msgstr "Устаноўка"
@@ -496,7 +502,7 @@ msgid "driver_row_driver-menu-state-update"
 msgstr "Абнавіць"
 
 msgid "driver_row_driver-menu-state-rollback"
-msgstr ""
+msgstr "Адкаціць"
 
 msgid "driver_row_vendor"
 msgstr "Вытворца"
@@ -514,63 +520,63 @@ msgid "drivers_row_recommended"
 msgstr "Рэкамендаваны"
 
 msgid "driver_row_driver-menu-search"
-msgstr ""
+msgstr "Пошук у інтэрнэце"
 
 msgid "drivers_btn_install_all"
-msgstr ""
+msgstr "Усталяваць усё <b>({{COUNT}})</b>"
 
 msgid "drivers_header_driver_for_computer"
-msgstr ""
+msgstr "Драйверы для дадзенага кампутара"
 
 msgid "drivers_btn_install_all_caption"
-msgstr ""
+msgstr "Адключыць усталёўку рэкамендаваных праграм можна ў наладах"
 
 msgid "drivers_header_show_already_installed"
-msgstr ""
+msgstr "Паказаць усталяваныя і альтэрнатыўныя драйверы"
 
 msgid "drivers_header_show_additional_info"
-msgstr ""
+msgstr "Паказаць дадатковую інфармацыю"
 
 msgid "drivers_screen_most_important"
-msgstr ""
+msgstr "Самыя неабходныя драйверы"
 
 msgid "drivers_screen_updates"
-msgstr ""
+msgstr "Абнаўленні драйвераў"
 
 msgid "drivers_screen_utils"
-msgstr ""
+msgstr "Драйверные ўтыліты"
 
 msgid "drivers_screen_installed"
-msgstr ""
+msgstr "Усталяваныя драйверы"
 
 msgid "drivers_screen_alternative"
-msgstr ""
+msgstr "Альтэрнатыўныя драйверы"
 
 msgid "drivers_screen_show"
-msgstr ""
+msgstr "Адлюстраваць"
 
 #. i18n: EN: text for {{LINK}} is in key zero-drivers_cta-msg-caption-link;
 #. RU: текст для {{LINK}} находится в ключе zero-drivers_cta-msg-caption-link;
 msgid "zero-drivers_cta-msg-caption"
-msgstr ""
+msgstr "Калі ў вас засталіся праблемы з прыладамі, вы можаце {{LINK}}"
 
 msgid "zero-drivers_cta-msg"
-msgstr ""
+msgstr "Усе неабходныя драйверы ўжо ўсталяваны"
 
 msgid "zero-drivers_cta-msg-caption-link"
-msgstr ""
+msgstr "пераўсталяваць або адкаціць драйверы"
 
 msgid "zero-drivers_cta-btn"
-msgstr ""
+msgstr "Перайсці да ачысткі кампутара"
 
 msgid "zero-drivers_footer_device-manager"
 msgstr "Дыспетчар прылад"
 
 msgid "zero-drivers_footer_support"
-msgstr ""
+msgstr "Тэхпадтрымка"
 
 msgid "zero-drivers_footer_system-restore"
-msgstr ""
+msgstr "Аднаўленне сістэмы"
 
 msgid "drivers_screen_view_options_vendor"
 msgstr "Вытворца"
@@ -594,7 +600,7 @@ msgid "drivers_screen_view_options_os"
 msgstr "Версия АС"
 
 msgid "final_popover_old_driver"
-msgstr ""
+msgstr "Ранейшы драйвер"
 
 msgid "version"
 msgstr "Версія"
@@ -603,210 +609,210 @@ msgid "date"
 msgstr "Дата"
 
 msgid "final_popover_new_driver"
-msgstr ""
+msgstr "Абноўлены драйвер"
 
 msgid "final_popover_new_driver_not_installed_caption"
-msgstr ""
+msgstr "Падчас абнаўлення драйвера адбылася памылка, таму на гэтай прыладзе быў адноўлены ранейшы драйвер"
 
 msgid "final_computer_setup_ok_title"
-msgstr ""
+msgstr "Ура! Кампутар наладжаны!"
 
 msgid "final_drivers_not_better_title"
 msgid_plural "final_drivers_not_better_title_n"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgstr[0] "Усталяваны {{COUNT1}} драйвер з {{COUNT2}}"
+msgstr[1] "Усталявана {{COUNT1}} драйвера з {{COUNT2}}"
+msgstr[2] "Усталявана {{COUNT1}} драйвераў з {{COUNT2}}"
+msgstr[3] "Усталявана {{COUNT1}} драйвера з {{COUNT2}}"
 
 msgid "final_single_driver_better_installed_title"
-msgstr ""
+msgstr "Драйвер усталяваны"
 
 msgid "final_single_driver_better_not_installed_title"
-msgstr ""
+msgstr "Драйвер не ўсталяваны"
 
 msgid "final_programs_some_finished_title"
 msgid_plural "final_programs_some_finished_title_n"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgstr[0] "Усталявана {{COUNT1}} праграма з {{COUNT2}}"
+msgstr[1] "Усталявана {{COUNT1}} праграмы з {{COUNT2}}"
+msgstr[2] "Усталявана {{COUNT1}} праграм з {{COUNT2}}"
+msgstr[3] "Усталявана {{COUNT1}} праграмы з {{COUNT2}}"
 
 msgid "final_programs_all_failed_title"
-msgstr ""
+msgstr "Усталявана 0 праграм з {{COUNT}}"
 
 msgid "final_single_program_failed_title"
-msgstr ""
+msgstr "Праграма не ўсталявана"
 
 msgid "final_offline_restart"
-msgstr ""
+msgstr "Выяўлена падключэнне да сеткі — перазапусціце DriverPack для ўсталёўкі больш за актуальныя версіі драйвераў."
 
 msgid "final_drivers_ok_programs_subtitle"
-msgstr ""
+msgstr "Усе важныя драйверы і ўтыліты ўсталяваны."
 
 msgid "final_drivers_ok_subtitle"
-msgstr ""
+msgstr "Усе важныя драйверы ўсталяваны."
 
 msgid "final_drivers_not_better_subtitle"
 msgid_plural "final_drivers_not_better_subtitle_n"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgstr[0] "Пры гэтым не быў усталяваны {{COUNT}} важны драйвер. Мы раім запусціць усталёўку паўторна або праверыць працу прылад."
+msgstr[1] "Пры гэтым не былі ўсталяваны {{COUNT}} важных драйвера. Мы раім запусціць усталёўку паўторна або праверыць працу прылад."
+msgstr[2] "Пры гэтым не былі ўсталяваны {{COUNT}} важных драйвераў. Мы раім запусціць усталёўку паўторна або праверыць працу прылад."
+msgstr[3] "Пры гэтым не былі ўсталяваны {{COUNT}} важных драйвера. Мы раім запусціць усталёўку паўторна або праверыць працу прылад."
 
 msgid "final_single_driver_ok_programs_subtitle"
-msgstr ""
+msgstr "Усе важныя драйверы і ўтыліты ўсталяваны."
 
 msgid "final_single_driver_ok_subtitle"
-msgstr ""
+msgstr "Усе важныя драйверы ўсталяваны."
 
 msgid "final_programs_all_finished_subtitle"
 msgid_plural "final_programs_all_finished_subtitle_n"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgstr[0] "Усталявана {{COUNT}} праграма."
+msgstr[1] "Усталявана {{COUNT}} праграмы."
+msgstr[2] "Усталявана {{COUNT}} праграм."
+msgstr[3] "Усталявана {{COUNT}} праграмы."
 
 msgid "final_programs_some_finished_subtitle"
-msgstr ""
+msgstr "Не атрымалася ўсталяваць некалькі карысных праграм."
 
 msgid "final_programs_all_failed_subtitle"
-msgstr ""
+msgstr "Не атрымалася ўсталяваць праграмы."
 
 msgid "final_single_program_finished_subtitle"
-msgstr ""
+msgstr "Усталявана 1 праграма."
 
 msgid "final_single_program_failed_subtitle"
-msgstr ""
+msgstr "Нешта пайшло не так, і праграма не ўсталявалася. Паспрабуйце запусціць усталёўку паўторна."
 
 msgid "final_main_remove_harmful_advice"
-msgstr ""
+msgstr "На вашым кампутары выяўлены шкодныя праграмы — рэкамендуем іх выдаліць"
 
 msgid "final_main_remove_harmful_caption"
-msgstr ""
+msgstr "Перайсці да ачысткі кампутара ад непажаданых праграм"
 
 msgid "final_main_offline_reload"
-msgstr ""
+msgstr "Перазапусціць і праверыць абнаўленні"
 
 msgid "final_main_next_btn"
 msgstr "Далей"
 
 msgid "final_restart_installation_btn"
-msgstr ""
+msgstr "Запусціць усталёўку яшчэ раз"
 
 msgid "final_skip_btn"
-msgstr ""
+msgstr "Прапусціць"
 
 msgid "final_install_required_drivers_btn"
-msgstr ""
+msgstr "Усталяваць важныя драйверы"
 
 msgid "loading_reboot"
-msgstr ""
+msgstr "Рэкамендуем перазагрузіць кампутар пасля завяршэння ўсталёўкі"
 
 msgid "final_aside_installed_drivers_title"
 msgid_plural "final_aside_installed_drivers_title_n"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgstr[0] "Усталяваны {{COUNT}} драйвер"
+msgstr[1] "Усталявана {{COUNT}} драйвера"
+msgstr[2] "Усталявана {{COUNT}} драйвераў"
+msgstr[3] "Усталявана {{COUNT}} драйвера"
 
 msgid "final_some_drivers_not_installed"
-msgstr ""
+msgstr "Некаторыя драйверы не ўсталяваліся"
 
 msgid "final_rollback_drivers"
-msgstr ""
+msgstr "Адкаціць праблемныя драйверы"
 
 msgid "final_required_drivers_not_installed"
-msgstr ""
+msgstr "Не ўсталяваны важныя драйверы"
 
 msgid "final_aside_installed_drivers_caption"
-msgstr ""
+msgstr "Мы ўсталявалі вам некалькі карысных і бясплатных праграм, сярод якіх: антывірус, браўзары і драйверныя ўтыліты — усе гэта можа спатрэбіцца для камфортнай працы."
 
 msgid "final_aside_remove_harmful_programs"
-msgstr ""
+msgstr "Выдаленне непажаданых праграм"
 
 msgid "final_aside_install_additional_programs"
-msgstr ""
+msgstr "Усталяваць дадатковыя праграмы"
 
 msgid "final_aside_some_programs_not_installed"
-msgstr ""
+msgstr "Некаторыя праграмы не ўсталяваліся"
 
 msgid "final_aside_broken_devices_title"
-msgstr ""
+msgstr "Выяўлены збойныя прылады"
 
 msgid "final_aside_broken_devices_caption"
-msgstr ""
+msgstr "Некаторыя прылады на дадзеным кампутары працуюць некарэктна, таму на іх няможна ўсталяваць драйверы. Рэкамендуем праверыць іх спраўнасць."
 
 msgid "games_top_game_free_demo"
-msgstr ""
+msgstr "Бясплатная дэма-версія"
 
 msgid "games_top_game_free_paid"
-msgstr ""
+msgstr "Запатрабуецца копія гульні, купленая ў {{SELLER}}"
 
 msgid "games_top_game_play"
 msgstr "Гуляць"
 
 msgid "games_playkey_top_title"
-msgstr ""
+msgstr "Гуляйце ў <span class='games_title-marked bold'>топавыя гульні</span> на максімальных <br /> <span class='bold'>наладах нават на слабым кампутары</span>"
 
 msgid "games_playkey_open_catalog_button"
-msgstr ""
+msgstr "Больш за 150 гульняў у каталозе PlayKey"
 
 msgid "games_playkey_cloud_title"
-msgstr ""
+msgstr "Гульня запускаецца <span class='games_title-marked bold'>ў воблаку</span> на боку сервера <br /> <span class='bold'>і не расходуе рэсурсы вашага кампутара</span>"
 
 msgid "games_playkey_cloud_img_pc_caption"
-msgstr ""
+msgstr "Кампутар перадае дзеянні карыстача"
 
 msgid "games_playkey_cloud_img_cloud_caption"
-msgstr ""
+msgstr "Сігнал перадаецца ў воблака"
 
 msgid "games_playkey_cloud_img_server_caption"
-msgstr ""
+msgstr "Гульня запускаецца на серверы"
 
 msgid "games_playkey_cloud_img_joystick_caption"
-msgstr ""
+msgstr "Вы атрымліваеце асалоду ад гульні без праблем і тармазоў"
 
 msgid "games_playkey_create_account_button"
-msgstr ""
+msgstr "Стварыць акаўнт у PlayKey"
 
 msgid "header_authorize_button"
-msgstr ""
+msgstr "Аўтарызацыя"
 
 msgid "authorize_popup_logout_button"
-msgstr ""
+msgstr "Выйсці з сістэмы"
 
 msgid "installation_header_subtitle"
-msgstr ""
+msgstr "Гэта можа заняць некаторы час, але&nbsp;яно таго каштуе"
 
 msgid "installation_header_subtitle_installing-driver"
-msgstr ""
+msgstr "Усталёўка драйвера {{CLASS.SINGLE.FOR}}"
 
 msgid "installation_header_subtitle_installing-program-plural"
-msgstr ""
+msgstr "Усталёўка {{CATEGORY.PLURAL.FOR}}"
 
 msgid "installation_header_subtitle_installing-program"
-msgstr ""
+msgstr "Усталёўка {{CATEGORY.SINGLE.FOR}}"
 
 msgid "installation_header_subtitle_downloading"
-msgstr ""
+msgstr "Загрузка файлаў"
 
 msgid "installation_header_preparing"
-msgstr ""
+msgstr "Ствараем кропку аднаўлення…"
 
 msgid "installation_header_title"
-msgstr ""
+msgstr "Наладжваем ваш кампутар..."
 
 msgid "installation_header_promo_more"
-msgstr ""
+msgstr "падрабязней"
 
 msgid "installation_header_promo_install"
-msgstr ""
+msgstr "усталяваць"
 
 msgid "installation_header_promo_fb"
-msgstr ""
+msgstr "Супольнасць на Facebook"
 
 msgid "installation_item_category_restorepoint"
-msgstr ""
+msgstr "Кропка аднаўлення"
 
 msgid "driver_class_bluetooth"
 msgstr "Прылада Bluetooth"
@@ -857,76 +863,76 @@ msgid "driver_class_other"
 msgstr "Іншыя прылады"
 
 msgid "soft_category_archiver"
-msgstr ""
+msgstr "Праца з архівамі"
 
 msgid "soft_category_browser"
-msgstr ""
+msgstr "Хуткая і бяспечная праца ў інтэрнэце"
 
 msgid "soft_category_viewer"
-msgstr ""
+msgstr "Прагляд малюнкаў і дакументаў"
 
 msgid "soft_category_messenger"
-msgstr ""
+msgstr "Бясплатныя званкі і абмен паведамленнямі"
 
 msgid "soft_category_internet"
-msgstr ""
+msgstr "Інтэрнэт утыліты"
 
 msgid "soft_category_player"
-msgstr ""
+msgstr "Прагляд фільмаў і відэа"
 
 msgid "soft_category_backup"
-msgstr ""
+msgstr "Рэзервовае капіраванне і аднаўленне дадзеных"
 
 msgid "soft_category_antivirus"
-msgstr ""
+msgstr "Антывірусная абарона"
 
 msgid "soft_category_system"
-msgstr ""
+msgstr "Сістэмныя ўтыліты"
 
 msgid "soft_category_drivers"
-msgstr ""
+msgstr "Утыліты для працы драйвераў"
 
 msgid "installation_error_download"
-msgstr ""
+msgstr "Памылка загрузкі"
 
 msgid "installation_error_unzip"
-msgstr ""
+msgstr "Памылка распакавання"
 
 msgid "installation_error_install"
-msgstr ""
+msgstr "Памылка ўсталёўкі"
 
 msgid "installation_error_restore_disabled"
-msgstr ""
+msgstr "Памылка: Забаронена наладамі сістэмы"
 
 msgid "installation_error_restore_not_created"
-msgstr ""
+msgstr "Памылка пры стварэнні"
 
 msgid "installation_progress_stage_creating"
-msgstr ""
+msgstr "Ствараецца"
 
 msgid "installation_progress_stage_created"
-msgstr ""
+msgstr "Створана"
 
 msgid "installation_progress_stage_waiting"
-msgstr ""
+msgstr "Чакае сваёй чаргі на загрузку"
 
 msgid "installation_progress_stage_downloading"
-msgstr ""
+msgstr "Загрузка"
 
 msgid "installation_progress_downloading_speed"
-msgstr ""
+msgstr "хуткасць"
 
 msgid "installation_progress_downloading_of"
-msgstr ""
+msgstr "з"
 
 msgid "installation_progress_stage_downloaded"
-msgstr ""
+msgstr "Чакае сваю чаргу на ўсталёўку"
 
 msgid "installation_progress_stage_unzipping"
-msgstr ""
+msgstr "Распакаванне"
 
 msgid "installation_progress_unzipping_unzipped"
-msgstr ""
+msgstr "распакавана"
 
 msgid "installation_progress_stage_installing"
 msgstr "Устаноўка"
@@ -935,73 +941,73 @@ msgid "installation_progress_stage_done"
 msgstr "Гатова"
 
 msgid "installation_canceled"
-msgstr ""
+msgstr "Вы адмянілі"
 
 msgid "installation_title_name"
-msgstr ""
+msgstr "Элементы ўсталёўкі"
 
 msgid "installation_title_button_settings"
-msgstr ""
+msgstr "Наладзіць"
 
 msgid "installation_item_description_restorepoint"
-msgstr ""
+msgstr "Дазваляе зрабіць адкат сістэмы да папярэдняга стану, калі нешта пойдзе не так"
 
 msgid "loading_backup_drivers"
-msgstr ""
+msgstr "Ствараецца рэзервовая копія драйвераў"
 
 msgid "loading_backup_done"
-msgstr ""
+msgstr "Рэзервовая копія драйвераў паспяхова створана"
 
 msgid "loading_button_finish"
 msgstr "Гатова"
 
 msgid "loading_backup_failed"
-msgstr ""
+msgstr "Падчас стварэння рэзервовай копіі драйвераў адбылася памылка"
 
 msgid "about_run_error"
-msgstr ""
+msgstr "Пры працы DriverPack Solution паўстала праблема <br> <br> Калі праблема паўтараецца, напішыце нам на support@drp.su"
 
 msgid "loading_preparing"
-msgstr ""
+msgstr "Падрыхтоўка да запуску праграмы…"
 
 msgid "loading_system_scanning"
-msgstr ""
+msgstr "Правяраем канфігурацыю кампутара…"
 
 msgid "loading_sending_api_request"
-msgstr ""
+msgstr "Загружаем дадзеныя з воблачнага сервера…"
 
 msgid "loading_checking_installed_programs"
-msgstr ""
+msgstr "Аналізуем праграмнае забеспячэнне…"
 
 msgid "loading_ordering_drivers"
-msgstr ""
+msgstr "Фарміруем парадак усталёўкі драйвераў…"
 
 msgid "menu_install_drivers"
-msgstr ""
+msgstr "Усталёўка драйвераў на кампутар"
 
 msgid "menu_drivers"
 msgstr "Драйверы"
 
 msgid "menu_install_programs"
-msgstr ""
+msgstr "Усталёўка асноўных праграм на кампутар"
 
 msgid "menu_programs"
-msgstr ""
+msgstr "Софт"
 
 msgid "menu_protect_title"
-msgstr ""
+msgstr "Памочнік для вашага антывіруса"
 
-msgid "menu_protect"
-msgstr ""
+msgid "menu_protect_clean_up"
+msgstr "Абарона і чыстка"
 
 msgid "menu_computer_diagnostics"
-msgstr ""
+msgstr "Дыягноста стану кампутара"
 
 msgid "menu_diagnostics"
 msgstr "Дыягностыка"
 
 msgid "menu_cloud_games_title"
-msgstr ""
+msgstr "Гуляй у самыя сучасныя гульні на кожным кампутары"
 
 msgid "menu_cloud_games"
 msgstr "Гульні"
@@ -1013,49 +1019,52 @@ msgid "menu_settings"
 msgstr "Налады"
 
 msgid "menu_bugreport"
-msgstr ""
+msgstr "Паведаміць пра памылку"
 
 msgid "no-internet-screen_header-title"
-msgstr ""
+msgstr "Няма злучэння з серверам"
 
 msgid "no-internet-screen_guide-title"
-msgstr ""
+msgstr "Як усталяваць усе патрэбныя драйверы без Інтэрнэту?"
 
 msgid "no-internet-screen_guide-step-1"
 msgstr "Крок 1"
 
 msgid "no-internet-screen_guide-step-1-action"
-msgstr ""
+msgstr "Зайдзіце на сайт <span class='bold'>www.drp.su</span> <br /> выкарыстоўваючы іншы кампутар"
 
 msgid "no-internet-screen_guide-step-2"
 msgstr "Крок 2"
 
 msgid "no-internet-screen_guide-step-2-action"
-msgstr ""
+msgstr "<div>Спампуйце <span class='bold'>DriverPack Offline</span> <br /> на USB-флэшку"
 
 msgid "no-internet-screen_guide-step-complete"
 msgstr "Гатова"
 
 msgid "no-internet-screen_guide-step-complete-action"
-msgstr ""
-
-msgid "programs_btn_install_single"
-msgstr ""
-
-msgid "programs_btn_installed_single"
-msgstr ""
+msgstr "Запусціце праграму на гэтым кампутары і  <br /> наладзьце кампутар адной кнопкай"
 
 msgid "programs_header_text_title"
-msgstr ""
+msgstr "Увесь карысны софт у адным месцы"
 
 msgid "programs_btn_install_all"
-msgstr ""
+msgstr "Усталяваць патрэбныя праграмы <b>({{COUNT}})</b>"
 
 msgid "programs_header_text_caption"
-msgstr ""
+msgstr "Больш няма неабходнасці шукаць праграмы па асобнасці&nbsp;— усё можна ўсталяваць у адзін клік."
 
 msgid "drivers_program_counter"
-msgstr ""
+msgstr "Рэкамендаваныя праграмы"
+
+msgid "protect_popup_title"
+msgstr "Налада бяспекі вашага кампутара"
+
+msgid "protect_popup_install_button"
+msgstr "Усталяваць"
+
+msgid "protect_popup_cancel_button"
+msgstr "Адмовіцца"
 
 msgid "protect_row_rating"
 msgstr "Рэйтынг:"
@@ -1073,113 +1082,116 @@ msgid "protect_row_install_date"
 msgstr "Дата ўсталёўкі:"
 
 msgid "protect_rating_level_large"
-msgstr ""
+msgstr "рэкамендуем выдаліць"
 
 msgid "protect_rating_level_middle"
-msgstr ""
+msgstr "можна выдаліць"
 
 msgid "protect_rating_level_small"
-msgstr ""
+msgstr "можна не выдаляць"
 
 msgid "protect_rating_level_large_caption"
-msgstr ""
+msgstr "Рэкамендуем выдаліць гэту праграму, таму што яе падаляюць больш 70% карыстачоў."
 
 msgid "protect_uninstall_single"
-msgstr ""
+msgstr "выдаліць"
 
-msgid "protect_header_title"
-msgstr ""
+msgid "protect_clean_up_btn"
+msgstr "Абараніць і ачысціць кампутар"
 
-msgid "protect_header_caption"
-msgstr ""
+msgid "protect_remove_all_btn_uninstalling"
+msgstr "Будуць выдалены сумнеўныя праграмы: {{COUNT}} шт."
 
-msgid "protect_remove_all_btn"
-msgstr ""
+msgid "protect_remove_all_btn_installing"
+msgstr "Будуць усталяваны важныя праграмы: {{COUNT}} шт."
 
-msgid "protect_state_success"
-msgstr ""
+msgid "protect_installed-programs_api_failed"
+msgstr "Інтэрнэт-злучэнне адсутнічае. Для прагляду праграм на вашым кампутары патрэбна падключэнне да сеткі"
 
-msgid "protect_state_success_caption"
-msgstr ""
+msgid "protect_installed-programs_no_harmful"
+msgstr "На вашым кампутары не выяўлены нежаданыя праграмы"
 
-msgid "protect_state_warn_unchecked"
-msgstr ""
+msgid "protect_clean_up_header_title"
+msgstr "DriverPack Protect — абарона і ачыстка кампутара"
 
-msgid "protect_state_warn_unchecked_caption"
-msgstr ""
+msgid "protect_clean_up_header_caption"
+msgstr "DriverPack Protect ачысціць ад непажаданага ПА і забяспечыць абарону вашага кампутара, дапаўняючы магчымасці антывіруса: выяўленне, выдаленне і блакаванне шкодных праграм і дакучлівай рэкламы"
 
-msgid "protect_state_warn"
-msgstr ""
+msgid "protect_installed_programs_title"
+msgstr "Усталяваныя на кампутары праграмы"
 
-msgid "protect_state_err"
-msgstr ""
+msgid "protect_installed_programs_switch"
+msgstr "Паказваць толькі сумнеўныя"
 
 msgid "protect_show_more"
 msgstr "паказаць яшчэ"
 
+msgid "protect_security_programs_title"
+msgstr "Важныя праграмы для бяспекі"
+
 msgid "settings-header_title"
-msgstr ""
+msgstr "Налады для прасунутых карыстачоў"
 
 msgid "settings-header_caption"
-msgstr ""
+msgstr "DriverPack створаны спецыяльна для прафесіяналаў, але зразумелы і зручны нават распачыналым карыстачам. З яго дапамогай мільёны сістэмных адміністратараў па ўсім свеце могуць не толькі хутка наладжваць кампутары, але і кастамізаваць працу праграмы, выходзячы са сваіх патрэб і задач. Новы алгарытм падбору ўсталёўвае драйверы, што забяспечваюць максімальную прадукцыйнасць прылад. Паспрабуйце DriverPack — мы ўпэўнены, што вам спадабаецца!"
 
 #. i18n: EN: default value for {{MODEL}} in start_title key; RU: значение по
 #. умолчанию для {{MODEL}} в ключе start_title
 msgid "start_title_default_model"
-msgstr ""
+msgstr "вашага кампутара"
 
 msgid "start_title"
-msgstr ""
+msgstr "Аўтаматычная налада {{MODEL}}"
 
 msgid "start_button_install"
-msgstr ""
+msgstr "Наладзіць кампутар аўтаматычна"
 
 msgid "start_caption"
-msgstr ""
+msgstr "DriverPack праскануе сістэму, усталюе патрэбныя<br/>драйверы, софт і вырабіць дыягностыку.<br/>Прадукцыйнасць кампутара павінна павялічыцца."
 
 msgid "start_expert_mode"
-msgstr ""
+msgstr "Рэжым эксперта"
 
 msgid "start_drivers_title"
 msgid_plural "start_drivers_title_n"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgstr[0] "Будзе ўсталяваны {{COUNT}} драйвер"
+msgstr[1] "Будзе ўсталявана {{COUNT}} драйвера"
+msgstr[2] "Будзе ўсталявана {{COUNT}} драйвераў"
+msgstr[3] "Будзе ўсталявана {{COUNT}} драйвера"
 
 msgid "start_drivers_popover"
-msgstr ""
+msgstr "Драйверы для вашага кампутара падабраны і гатовы да ўсталёўкі. Перад усталёўкай будзе створана кантрольная кропка аднаўлення."
 
 msgid "start_programs_title"
 msgid_plural "start_programs_title_n"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgstr[0] "Будзе ўсталявана {{COUNT}} праграма"
+msgstr[1] "Будзе ўсталявана {{COUNT}} праграм"
+msgstr[2] "Будзе ўсталявана {{COUNT}} праграм"
+msgstr[3] "Будзе ўсталявана {{COUNT}} праграмы"
 
 msgid "start_programs_popover"
-msgstr ""
+msgstr "Для вашага кампутара падабраны спіс рэкамендаваных бясплатных праграм: антывірусы, архіватары, браўзары і драйверныя ўтыліты — усе, што можа спатрэбіцца для камфортнай працы."
 
 msgid "start_diagnostics_title"
-msgstr ""
+msgstr "Будзе выраблена дыягностыка"
 
 msgid "start_diagnostics_popover"
-msgstr ""
+msgstr "Пасля ўсталёўкі і перазагрузкі сістэмы DriverPack запусціць дыягностыку, каб праверыць працаздольнасць прылад."
 
 msgid "start_diagnostics_network"
-msgstr ""
+msgstr "Праверка сеткавага падлучэння"
 
 msgid "start_diagnostics_video"
-msgstr ""
+msgstr "Праверка відэакарты"
 
 msgid "start_diagnostics_audio"
-msgstr ""
+msgstr "Праверка гукавой карты"
 
 msgid "start_diagnostics_other"
-msgstr ""
+msgstr "Праверка астатніх прылад"
 
 msgid "delorean_use_remote_confirm"
-msgstr ""
+msgstr "На вашым кампутары выяўлена актыўнае падключэнне да Інтэрнэту. Поўная база драйвераў знаходзіцца ў сеткі і ўтрымвае навейшыя версіі. Скарыстаць базу з сеткі? (магчымы расход трафіка)"
 
 msgid "games_playkey_top_witcher_3_demo"
 msgstr "The Witcher III Wild Hunt"
@@ -1203,137 +1215,179 @@ msgid "installation_header_promo_title_cloud"
 msgstr "Сёе-тое новае: DriverPack Cloud Beta"
 
 msgid "installation_header_promo_text_cloud"
-msgstr ""
+msgstr "Наша новая прылада прадбачыць паломкі за кошт тэхналогіі машыннага навучання і прапануе вырашэнні для распаўсюджаных праблем.<br>Паспрабуйце бэта-версію і не забудзьцеся расказаць пра свае ўражанні — гэта дапаможа нам зрабіць DriverPack Cloud яшчэ карысней."
 
 msgid "installation_header_promo_title_avast"
-msgstr ""
+msgstr "Чым Avast лепш іншых антывірусаў?"
 
 msgid "installation_header_promo_text_avast"
-msgstr ""
+msgstr "Avast – адзін з самых папулярных антывірусаў у свеце, таму што добра абараняе кампутар, не тармозіць сістэму і можа эфектыўна працаваць як другі антывірус. <br />З улікам таго, што ён яшчэ і бясплатны — ён сумленна заслугоўвае нашай рэкамендацыі."
 
 msgid "installation_header_promo_title_catalog"
-msgstr ""
+msgstr "Як знайсці драйверы самастойна?"
 
 msgid "installation_header_promo_text_catalog"
-msgstr ""
+msgstr "Для тых, хто аддае перавагу шукаць драйверы ўручную, мы зрабілі спецыяльны пошукавік, які дазваляе знайсці драйверы, увядучы DeviceID або назву прылады. База пошукавіка ўтрымвае больш за мільён драйвераў, што робіць яе самай вялікай у свеце. Пры гэтым пошукавік рэгулярна папаўняецца новымі, пратэставанымі ўручную драйверамі, што дазваляе яму заўсёды заставацца актуальным."
 
 msgid "installation_header_promo_title_authorization"
-msgstr ""
+msgstr "Аўтарызуйцеся, каб захаваць налады"
 
 msgid "installation_header_promo_text_authorization"
-msgstr ""
+msgstr "Дзякуючы аўтарызацыі вам больш не спатрэбіцца выстройваць налады на кожным кампутары зноў — яны будуць захаваны на узроўні профілю і аўтаматычна актываваны на кожнай іншай прыладзе. Таксама аўтарызаваным карыстачам робяцца даступныя CDN-серверы, за кошт якіх хуткасць загрузкі драйвераў павялічваецца. Важнай перавагай аўтарызацыі з'яўляецца доступ да пашыраных налад, якія дазваляюць яшчэ больш кастамізаваць праграму пад сябе."
 
 msgid "installation_header_promo_title_opera"
-msgstr ""
+msgstr "Чым добры браўзар Opera?"
 
 msgid "installation_header_promo_text_opera"
-msgstr ""
+msgstr "Opera з'яўляецца бяспечным і правераным часам браўзарам, які валодае цэлым шэрагам інавацыйных тэхналогій: убудаваным VPN, AdBlock`ам, якія ратуюць вашы вочы ад дакучлівай рэкламы, а таксама магчымасцю прагляду відэа ў асобным акне. Апроч таго, апошняя версія браўзара загружае ўсе сайты на 13% хутчэй чым папярэднія, што робіць Opera самым хуткім браўзарам на бягучы момант."
 
 msgid "installation_header_promo_title_how_it_works"
 msgstr "Як працуе DriverPack?"
 
 msgid "installation_header_promo_text_how_it_works"
-msgstr ""
+msgstr "Праца праграмы пачынаецца з дыягностыкі, падчас якой праграма самастойна вызначае, на якія прылады трэба ўсталяваць або абнавіць драйверы. Дзякуючы тэхналогіі машыннага навучання, DriverPack падбірае менавіта тыя драйверы, якія забяспечваюць максімальную прадукцыйнасць. Каб наша праграма змагла наладжваць любы кампутар, мы сабралі самую вялікую базу драйвераў у свеце, якая налічвае больш за мільён драйвераў. Апроч таго, мы выкарыстоўваем высакахуткасныя сервера і воблачныя тэхналогіі, таму налада кампутара праходзіць не толькі якасна, але і максімальна хутка."
 
 msgid "installation_header_promo_title_win_10"
-msgstr ""
+msgstr "Навошта абнаўляць драйверы на Windows 10?"
 
 msgid "installation_header_promo_text_win_10"
-msgstr ""
+msgstr "Існуе міф пра тое, што Windows 10 здольная самастойна і карэктна ўсталяваць усе патрэбныя драйверы на кампутар. На жаль, гэта не заўсёды так — у большасці выпадкаў Windows 10 усталёўвае толькі стандартныя драйверы, не падбіраючы іх пад кожную пэўную прыладу, а на рэдкія і састарэлыя часта не мае драйвераў зусім. На шчасце, існуе DriverPack, які падбірае драйверы намнога старанней.<br /><br />"
 
 msgid "installation_header_promo_title_social"
-msgstr ""
+msgstr "Далучайцеся да супольнасці DriverPack"
 
 msgid "installation_header_promo_text_social"
-msgstr ""
+msgstr "У нашых пабліках мы пастаянна адказваем на вашы пытанні аб працы праграмы, дзелімся інфармацыяй пра нашы абнаўлення і тэхналогіі, а таксама расказваем аб значных навінах і трэндах ў IT-індустрыі."
 
 msgid "installation_header_promo_title_protect"
-msgstr ""
+msgstr "Як DriverPack Protect дапамагае кампутару?"
 
 msgid "installation_header_promo_text_protect"
-msgstr ""
+msgstr "Ён дапаможа ачысціць кампутар ад лішніх праграм і рэкламных плагінаў, з адсевам якіх часта не спраўляюцца антывірусы. Таксама з дапамогай DriverPack Protect можна вызваліць месца на жорсткіх дысках і павялічыць прадукцыйнасць кампутара."
 
 msgid "installation_header_promo_title_restore"
-msgstr ""
+msgstr "Кропка аднаўлення сістэмы"
 
 msgid "installation_header_promo_text_restore"
-msgstr ""
+msgstr "Перад усталёўкай драйвераў DriverPack заўсёды стварае кропку аднаўлення.<br /><br />З яе дапамогай можна ў любы момант адкаціць сістэму ў зыходны стан у тым выпадку, калі нешта пойдзе не так."
 
 msgid "installation_header_promo_title_browsers"
-msgstr ""
+msgstr "Добрых браўзараў шмат не бывае"
 
 msgid "installation_header_promo_text_browsers"
-msgstr ""
+msgstr "Па статыстыцы, больш 70% людзей выкарыстоўваюць не менш за два браўзары, што вельмі лагічна для тых, хто вядзе актыўнае жыццё ў інтэрнэце. У кожнага з браўзараў, якія мы прапануем да ўсталёўкі, ёсць свае перавагі: Яндэкс.Браўзар ідэальны для працы ў рускамоўным інтэрнэце, Opera выбіраюць за магчымасць бесперашкодна і ананімна заходзіць на кожныя сайты з дапамогай VPN, а армія прыхільнікаў Firefox не можа расстацца з усімі плагінамі і дапаўненнямі, якія былі сабраны для камфортнай працы ў інтэрнэце. Хай кожны з іх будзе пад рукой — яны зусім не запавольваюць кампутар і дакладна спатрэбяцца ў працы."
 
 msgid "installation_header_promo_title_driverpack_for_all"
-msgstr ""
+msgstr "DriverPack падыдзе для кожнага кампутара"
 
 msgid "installation_header_promo_text_driverpack_for_all"
-msgstr ""
+msgstr "Мы стварылі прыладу, які дазваляе зрабіць наладу кожнага кампутара цалкам аўтаматычнай. DriverPack утрымлівае больш за мільён драйвераў, што дазваляе адной кнопкай наладжваць любы кампутар. Усталёўваюцца драйверы і ўтыліты, старанна адабраны софт (які з'яўляецца неадымнай часткай налады), а таксама праводзіцца дыягностыка кампутара. Такім чынам, DriverPack хутка наладжвае кампутар націскам адной кнопкі."
 
 msgid "softcategories_archiver-single-for"
-msgstr ""
+msgstr "файлавага архіватара"
 
 msgid "softcategories_browser-single-for"
-msgstr ""
+msgstr "браўзара"
 
 msgid "softcategories_viewer-single-for"
-msgstr ""
+msgstr "праграмы для прагляду файлаў"
 
 msgid "softcategories_messenger-single-for"
-msgstr ""
+msgstr "праграмы для абмену паведамленнямі"
 
 msgid "softcategories_internet-single-for"
-msgstr ""
+msgstr "праграмы для працы ў сеткі Інтэрнэт"
 
 msgid "softcategories_player-single-for"
-msgstr ""
+msgstr "медыя прайгравальніка"
 
 msgid "softcategories_backup-single-for"
-msgstr ""
+msgstr "прылады для стварэння рэзервовых копій"
 
 msgid "softcategories_antivirus-single-for"
-msgstr ""
+msgstr "антывіруса"
 
 msgid "softcategories_system-plural-for"
-msgstr ""
+msgstr "сістэмных утыліт"
 
 msgid "softcategories_drivers-plural-for"
-msgstr ""
+msgstr "утыліт для правільнай працы драйвераў"
 
 msgid "installation_application_restart_confirm_text_1"
-msgstr ""
+msgstr "На час усталёўкі драйвераў мы рэкамендуем зачыніць усе іншыя праграмы, якія працуюць "
 
 msgid "installation_application_restart_confirm_text_2"
-msgstr ""
+msgstr "Працэсы, якія будуць зачынены на час усталёўкі, а потым аўтаматычна перазапушчаны:"
 
 msgid "installation_application_restart_confirm_title"
-msgstr ""
+msgstr "Рэкамендацыі"
 
 msgid "deviceproblems_usb_connection"
-msgstr ""
+msgstr "На дадзеную прыладу немагчыма ўсталяваць драйверы з-за узнікшых непаладкаў з падлучэннем да USB-партоў. Для вырашэння праблемы паспрабуйце перападключыць USB-прылады або памяняць падключаныя да іх кабелі. Калі гэта не дапамагло, магчыма ёсць праблемы з працаздольнасцю саміх партоў або прылад"
 
 msgid "deviceproblems_root_legacy"
-msgstr ""
+msgstr "Дадзеная прылада адсутнічае, але яго сляды засталіся ў сістэме пасля выдалення спалучанай з ім праграмы. Для вырашэння праблемы трэба выдаліць згадванне пра гэту прыладу з рэестра ўручную або адмысловымі ўтылітамі"
 
 msgid "deviceproblems_vpn_no_need_drivers"
-msgstr ""
+msgstr "Для дадзенай віртуальнай VPN-прылады ўсталёўка драйвера не патрабуецца"
 
 msgid "deviceproblems_damaged_system_driver"
-msgstr ""
+msgstr "Гэта стандартны сістэмны драйвер, які па нейкай прычыне пашкоджаны або адсутнічае ў вашай версіі Windows. Прычынай можа быць урэзаная версія пірацкай Windows або страта файлаў у выніку пабочных дзеянняў праграм або вірусаў. Для вырашэння праблемы трэба ўсталяваць паўнавартасную версію ліцэнзійнай Windows"
 
 msgid "deviceproblems_usb_unknown_vendor"
-msgstr ""
+msgstr "Падлучаная USB-прылада ўсталявана, але яго вытворцы не атрымалася вызначыць. Для выпраўлення трэба задаць службе Windows Driver Foundation аўтаматычны запуск. Зайдзіце ў Кіраванне кампутарам → Службы → Windows Driver Foundation і выберыце Тып запуску: Аўтаматычна"
 
 msgid "deviceproblems_sound_card"
-msgstr ""
+msgstr "Гукавая карта няправільна падлучана або ёсць праблемы з яе працаздольнасцю"
 
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Belarusian"
 
-#~ msgid "installation_header_promo_title_wannacrypt"
+#~ msgid "menu_protect"
+#~ msgstr "Бяспека"
+
+#~ msgid "protect_header_title"
+#~ msgstr "DriverPack Protect — абарона і ачыстка кампутара"
+
+#~ msgid "protect_header_caption"
 #~ msgstr ""
+#~ "DriverPack Protect ачысціць ад непажаданага ПА і забяспечыць абарону вашага "
+#~ "кампутара, дапаўняючы магчымасці антывіруса: выяўленне, выдаленне і "
+#~ "блакаванне шкодных праграм і дакучлівай рэкламы"
+
+#~ msgid "protect_remove_all_btn"
+#~ msgstr "Абараніць і ачысціць кампутар"
+
+#~ msgid "protect_state_success"
+#~ msgstr "Нежаданае ПА не выяўлена"
+
+#~ msgid "protect_state_success_caption"
+#~ msgstr "На вашым кампутары няма нежаданых праграм"
+
+#~ msgid "protect_state_warn_unchecked"
+#~ msgstr "Знойдзены нежаданыя праграмы"
+
+#~ msgid "protect_state_warn_unchecked_caption"
+#~ msgstr "Можна выдаліць іх, выбраўшы ў спісе ніжэй"
+
+#~ msgid "protect_state_warn"
+#~ msgstr "Будут удалены нежелательные программы: {{COUNT}} шт."
+
+#~ msgid "protect_state_err"
+#~ msgstr ""
+#~ "Для працы DriverPack Protect трэба далучыць кампутар да сеткі Інтэрнэт і "
+#~ "перазапусціць DriverPack"
+
+#~ msgid "installation_header_promo_title_wannacrypt"
+#~ msgstr "Увага! Небяспечная вірусная актыўнасць"
 
 #~ msgid "installation_header_promo_text_wannacrypt"
 #~ msgstr ""
+#~ "Цяпер актыўна шырыцца вірус WannaCry — ён зашыфроўвае файлы і патрабуе грошы"
+#~ " за іх расшыфроўку. Атацы падвергліся ужо больш 300 тысяч карыстачоў, таму "
+#~ "мы дадалі ў DriverPack прылады, якія засцерагуць "
+#~ "кампутар:<br><br>&nbsp;&nbsp;• Апошняе абнаўленне Windows — Update "
+#~ "MS17-010<br>&nbsp;&nbsp;• Зачыненне галоўнай слабасці — пратакола доступу да"
+#~ " агульных папак SMBv1<br>&nbsp;&nbsp;• Бясплатны антывірус Avast, які "
+#~ "засцеражэ кампутар надалей"

@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-10-18 12:44+0000\n"
-"PO-Revision-Date: 2017-11-16 18:29+0000\n"
+"POT-Creation-Date: 2017-11-27 10:29+0000\n"
+"PO-Revision-Date: 2017-11-30 11:12+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Hindi (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/hi/)\n"
 "MIME-Version: 1.0\n"
@@ -216,6 +216,12 @@ msgstr "कई अन्य उपकरण"
 
 msgid "deviceclasses_other-plural-for"
 msgstr "कई अन्य उपकरण"
+
+msgid "programs_btn_install_single"
+msgstr "इंस्टॉल करें"
+
+msgid "programs_btn_installed_single"
+msgstr "स्थापित"
 
 msgid "settings_common-settings"
 msgstr "सामान्य सेटिंग्स"
@@ -452,7 +458,7 @@ msgid "menu_computer_management"
 msgstr "कंप्यूटर प्रबंधन"
 
 msgid "menu_control_panel"
-msgstr "नियंत्रण बार"
+msgstr ""
 
 msgid "menu_disk_management"
 msgstr "डिस्क प्रबंधन"
@@ -979,8 +985,8 @@ msgstr "सॉफ़्टवेयर"
 msgid "menu_protect_title"
 msgstr "आपके एंटीवायरस के लिए सहायक"
 
-msgid "menu_protect"
-msgstr "सुरक्षा"
+msgid "menu_protect_clean_up"
+msgstr ""
 
 msgid "menu_computer_diagnostics"
 msgstr "कंप्यूटर दशा के निदान"
@@ -1027,12 +1033,6 @@ msgstr "हो चुका"
 msgid "no-internet-screen_guide-step-complete-action"
 msgstr "इस कंप्यूटर पर ऐप चलाएं, और <br /> एक बटन के साथ कंप्यूटर को कॉन्फ़िगर करें"
 
-msgid "programs_btn_install_single"
-msgstr "इंस्टॉल करें"
-
-msgid "programs_btn_installed_single"
-msgstr "स्थापित"
-
 msgid "programs_header_text_title"
 msgstr "एक ही स्थान पर सभी उपयोगी सॉफ़्टवेयर"
 
@@ -1044,6 +1044,15 @@ msgstr "सॉफ़्टवेयर प्रोग्रामों को 
 
 msgid "drivers_program_counter"
 msgstr "अनुशंसित सॉफ़्टवेयर"
+
+msgid "protect_popup_title"
+msgstr ""
+
+msgid "protect_popup_install_button"
+msgstr "इंस्टॉल करें"
+
+msgid "protect_popup_cancel_button"
+msgstr ""
 
 msgid "protect_row_rating"
 msgstr "मूल्यांकन करें:"
@@ -1075,35 +1084,38 @@ msgstr "हम आपको यह सॉफ़्टवेयर हटान�
 msgid "protect_uninstall_single"
 msgstr "हटायें"
 
-msgid "protect_header_title"
-msgstr "DriverPack Protect आपके एंटीवायरस के लिए एक सहायक है"
+msgid "protect_clean_up_btn"
+msgstr ""
 
-msgid "protect_header_caption"
-msgstr "DriverPack Protect आपके कंप्यूटर की सुरक्षा प्रदान करती है जहां एंटीवायरस प्रोग्राम अक्सर विफल होते हैं: मालवेयर का पता लगाने, हटाने और रुकावट में और अवांछित सॉफ़्टवेयर के साथ घुसपैठ विज्ञापन में भी"
+msgid "protect_remove_all_btn_uninstalling"
+msgstr ""
 
-msgid "protect_remove_all_btn"
-msgstr "अवांछित सॉफ्टवेयर <b>({{COUNT}})</b> निकालें"
+msgid "protect_remove_all_btn_installing"
+msgstr ""
 
-msgid "protect_state_success"
-msgstr "अवांछित सॉफ़्टवेयर नहीं मिला है"
+msgid "protect_installed-programs_api_failed"
+msgstr ""
 
-msgid "protect_state_success_caption"
-msgstr "आपके कंप्यूटर पर कोई अवांछित सॉफ्टवेयर नहीं है"
+msgid "protect_installed-programs_no_harmful"
+msgstr ""
 
-msgid "protect_state_warn_unchecked"
-msgstr "अवांछित सॉफ़्टवेयर प्रोग्राम मिले हैं"
+msgid "protect_clean_up_header_title"
+msgstr ""
 
-msgid "protect_state_warn_unchecked_caption"
-msgstr "नीचे दी गई सूची में उन्हें टिक कर उन्हें निकालना संभव है"
+msgid "protect_clean_up_header_caption"
+msgstr ""
 
-msgid "protect_state_warn"
-msgstr "अवांछित सॉफ़्टवेयर प्रोग्राम निकाल दिए जाएंगे: {{COUNT}} psc"
+msgid "protect_installed_programs_title"
+msgstr ""
 
-msgid "protect_state_err"
-msgstr "DriverPack Protect को सक्षम करने के लिए आपको पहले अपने कंप्यूटर को इंटरनेट से कनेक्ट करना चाहिए और फिर DriverPack को पुनः आरंभ करना चाहिए"
+msgid "protect_installed_programs_switch"
+msgstr ""
 
 msgid "protect_show_more"
 msgstr "और देखो"
+
+msgid "protect_security_programs_title"
+msgstr ""
 
 msgid "settings-header_title"
 msgstr "उन्नत उपयोगकर्ताओं के लिए सेटिंग"
@@ -1315,6 +1327,41 @@ msgstr "ध्वनि कार्ड गलत तरीके से जु�
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Hindi"
+
+#~ msgid "menu_protect"
+#~ msgstr "Security"
+
+#~ msgid "protect_header_title"
+#~ msgstr "DriverPack Protect — protection and cleanup of your computer"
+
+#~ msgid "protect_header_caption"
+#~ msgstr ""
+#~ "DriverPack Protect will clean of undesirable software and provide protection"
+#~ " for your computer as a complement to your antivirus' capabilities such as: "
+#~ "detecting, removing and blocking malware and intrusive advertisement"
+
+#~ msgid "protect_remove_all_btn"
+#~ msgstr "Protect and clean the computer"
+
+#~ msgid "protect_state_success"
+#~ msgstr "Unwanted software has not been found"
+
+#~ msgid "protect_state_success_caption"
+#~ msgstr "There is no unwanted software on your computer"
+
+#~ msgid "protect_state_warn_unchecked"
+#~ msgstr "Unwanted software programs have been found"
+
+#~ msgid "protect_state_warn_unchecked_caption"
+#~ msgstr "It is possible to remove them by ticking them in the list below"
+
+#~ msgid "protect_state_warn"
+#~ msgstr "The unwanted software programs will be removed: {{COUNT}} psc."
+
+#~ msgid "protect_state_err"
+#~ msgstr ""
+#~ "In order to enable DriverPack Protect you should first connect your computer"
+#~ " to the Internet and then restart DriverPack"
 
 #~ msgid "installation_header_promo_title_wannacrypt"
 #~ msgstr "Attention! Dangerous virus activity"

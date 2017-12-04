@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-10-18 12:44+0000\n"
-"PO-Revision-Date: 2017-11-16 18:31+0000\n"
+"POT-Creation-Date: 2017-11-27 10:29+0000\n"
+"PO-Revision-Date: 2017-11-30 11:12+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Kurdish (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/ku/)\n"
 "MIME-Version: 1.0\n"
@@ -218,6 +218,12 @@ msgstr "ئامێره‌كانی دیكه‌"
 
 msgid "deviceclasses_other-plural-for"
 msgstr "ئامێره‌كانی دیكه‌"
+
+msgid "programs_btn_install_single"
+msgstr "دامه‌زراندن"
+
+msgid "programs_btn_installed_single"
+msgstr "دامەزرا"
 
 msgid "settings_common-settings"
 msgstr "ڕێكخستنه‌ گشتییه‌كان"
@@ -454,7 +460,7 @@ msgid "menu_computer_management"
 msgstr "بەڕێوەبردنی کۆمپیوتەر"
 
 msgid "menu_control_panel"
-msgstr "هێڵی كۆنترۆڵكردن"
+msgstr "کۆنترۆل پاناڵ"
 
 msgid "menu_disk_management"
 msgstr "بەڕێوەبردنی پەپکە"
@@ -981,8 +987,8 @@ msgstr "نەرمەکاڵا"
 msgid "menu_protect_title"
 msgstr "یارمه‌تیده‌ر بۆ دژه‌ ڤایرۆسه‌كه‌ت"
 
-msgid "menu_protect"
-msgstr "پاراستن"
+msgid "menu_protect_clean_up"
+msgstr ""
 
 msgid "menu_computer_diagnostics"
 msgstr ""
@@ -1029,12 +1035,6 @@ msgstr ""
 msgid "no-internet-screen_guide-step-complete-action"
 msgstr "ئه‌م به‌رنامه‌یه‌ له‌سه‌ر ئه‌م كۆمپیوته‌ره‌ كارپێبكه‌، له‌گه‌ڵ <br /> ڕێكخستنی كۆمپیوته‌ره‌كه‌ به‌یه‌ك دووگمه‌."
 
-msgid "programs_btn_install_single"
-msgstr "دامه‌زراندن"
-
-msgid "programs_btn_installed_single"
-msgstr "دامەزرا"
-
 msgid "programs_header_text_title"
 msgstr "هه‌موو به‌رنامه‌ به‌سووده‌كان له‌ یه‌ك شوێن"
 
@@ -1046,6 +1046,15 @@ msgstr "لێره‌ ئیتر پێویست ناكات بگه‌ڕێیت به‌د
 
 msgid "drivers_program_counter"
 msgstr "نه‌رمه‌كاڵا پێشنیاركراوه‌كان"
+
+msgid "protect_popup_title"
+msgstr ""
+
+msgid "protect_popup_install_button"
+msgstr "دامەزراندن"
+
+msgid "protect_popup_cancel_button"
+msgstr ""
 
 msgid "protect_row_rating"
 msgstr "رێژه‌:"
@@ -1077,35 +1086,38 @@ msgstr "ئێمه‌ پێشنیار بۆ تۆ ده‌كه‌ین كه‌ ئه‌�
 msgid "protect_uninstall_single"
 msgstr "لابردن"
 
-msgid "protect_header_title"
-msgstr "DriverPack Protect یارمه‌تیده‌رێكه‌ بۆ دژه‌ ڤایرۆسه‌كه‌ت"
-
-msgid "protect_header_caption"
+msgid "protect_clean_up_btn"
 msgstr ""
 
-msgid "protect_remove_all_btn"
-msgstr "لابردنی نه‌رمه‌كاڵا ناپێویسته‌كان <b>({{COUNT}})</b>"
-
-msgid "protect_state_success"
-msgstr "به‌رنامه‌ ناپێویسته‌كه‌ نه‌دۆزرایه‌وه‌"
-
-msgid "protect_state_success_caption"
-msgstr "لێره‌ هیچ نه‌رمه‌كاڵایه‌كی ناپێویست نییه‌ له‌ ناو كۆمپیوته‌ره‌كه‌ت"
-
-msgid "protect_state_warn_unchecked"
-msgstr "به‌رنامه‌ی ناپێویست دۆزرایه‌وه‌"
-
-msgid "protect_state_warn_unchecked_caption"
-msgstr "ئه‌وه‌ گونجاوه‌ بۆ لابردنی ئه‌وان به‌ ته‌نها نیشانه‌ی ڕاست لێدان لێێان له‌و لیسته‌ی خواره‌وه‌"
-
-msgid "protect_state_warn"
+msgid "protect_remove_all_btn_uninstalling"
 msgstr ""
 
-msgid "protect_state_err"
+msgid "protect_remove_all_btn_installing"
+msgstr ""
+
+msgid "protect_installed-programs_api_failed"
+msgstr ""
+
+msgid "protect_installed-programs_no_harmful"
+msgstr ""
+
+msgid "protect_clean_up_header_title"
+msgstr ""
+
+msgid "protect_clean_up_header_caption"
+msgstr ""
+
+msgid "protect_installed_programs_title"
+msgstr ""
+
+msgid "protect_installed_programs_switch"
 msgstr ""
 
 msgid "protect_show_more"
 msgstr "بینینی زیاتر"
+
+msgid "protect_security_programs_title"
+msgstr ""
 
 msgid "settings-header_title"
 msgstr "رێكخسته‌كان بۆ به‌كارهێنه‌ره‌ پێشكه‌وتووه‌كان"
@@ -1317,6 +1329,41 @@ msgstr ""
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "ئینگلیزی"
+
+#~ msgid "menu_protect"
+#~ msgstr "Security"
+
+#~ msgid "protect_header_title"
+#~ msgstr "DriverPack Protect — protection and cleanup of your computer"
+
+#~ msgid "protect_header_caption"
+#~ msgstr ""
+#~ "DriverPack Protect will clean of undesirable software and provide protection"
+#~ " for your computer as a complement to your antivirus' capabilities such as: "
+#~ "detecting, removing and blocking malware and intrusive advertisement"
+
+#~ msgid "protect_remove_all_btn"
+#~ msgstr "Protect and clean the computer"
+
+#~ msgid "protect_state_success"
+#~ msgstr "Unwanted software has not been found"
+
+#~ msgid "protect_state_success_caption"
+#~ msgstr "There is no unwanted software on your computer"
+
+#~ msgid "protect_state_warn_unchecked"
+#~ msgstr "Unwanted software programs have been found"
+
+#~ msgid "protect_state_warn_unchecked_caption"
+#~ msgstr "It is possible to remove them by ticking them in the list below"
+
+#~ msgid "protect_state_warn"
+#~ msgstr "The unwanted software programs will be removed: {{COUNT}} psc."
+
+#~ msgid "protect_state_err"
+#~ msgstr ""
+#~ "In order to enable DriverPack Protect you should first connect your computer"
+#~ " to the Internet and then restart DriverPack"
 
 #~ msgid "installation_header_promo_title_wannacrypt"
 #~ msgstr "Attention! Dangerous virus activity"

@@ -12,9 +12,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-10-18 12:44+0000\n"
-"PO-Revision-Date: 2017-11-23 15:41+0000\n"
-"Last-Translator: Joel Carreno Urrutia <joelcarrenourrutia@gmail.com>\n"
+"POT-Creation-Date: 2017-11-27 10:29+0000\n"
+"PO-Revision-Date: 2017-11-30 11:12+0000\n"
+"Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Spanish (Latin America) (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/es_419/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -222,6 +222,12 @@ msgstr "Otros dispositivos"
 
 msgid "deviceclasses_other-plural-for"
 msgstr "Otros dispositivos"
+
+msgid "programs_btn_install_single"
+msgstr "instalar"
+
+msgid "programs_btn_installed_single"
+msgstr "Instalado"
 
 msgid "settings_common-settings"
 msgstr "Configuración General"
@@ -458,7 +464,7 @@ msgid "menu_computer_management"
 msgstr "Administrador de Equipos"
 
 msgid "menu_control_panel"
-msgstr "Barra de Control"
+msgstr ""
 
 msgid "menu_disk_management"
 msgstr "Administrador de discos"
@@ -985,8 +991,8 @@ msgstr "Software"
 msgid "menu_protect_title"
 msgstr "Asistente para su antivirus"
 
-msgid "menu_protect"
-msgstr "Seguridad"
+msgid "menu_protect_clean_up"
+msgstr ""
 
 msgid "menu_computer_diagnostics"
 msgstr "Diagnóstico del estado de la computadora"
@@ -1033,12 +1039,6 @@ msgstr "Hecho"
 msgid "no-internet-screen_guide-step-complete-action"
 msgstr "Ejecute la aplicación en esta computadora, y <br /> configure la computadora con un botón"
 
-msgid "programs_btn_install_single"
-msgstr "instalar"
-
-msgid "programs_btn_installed_single"
-msgstr "Instalado"
-
 msgid "programs_header_text_title"
 msgstr "Todo el software útil en un solo lugar"
 
@@ -1050,6 +1050,15 @@ msgstr "No hay necesidad de buscar los programas de software uno por uno por má
 
 msgid "drivers_program_counter"
 msgstr "Software recomendado"
+
+msgid "protect_popup_title"
+msgstr ""
+
+msgid "protect_popup_install_button"
+msgstr "Instalar"
+
+msgid "protect_popup_cancel_button"
+msgstr ""
 
 msgid "protect_row_rating"
 msgstr "Tarifa:"
@@ -1081,35 +1090,38 @@ msgstr "Le recomendamos que elimine este software porque el 70% de todos los usu
 msgid "protect_uninstall_single"
 msgstr "retirar"
 
-msgid "protect_header_title"
-msgstr "DriverPack Protect es un ayudante para su antivirus"
+msgid "protect_clean_up_btn"
+msgstr ""
 
-msgid "protect_header_caption"
-msgstr "DriverPack Protect proporciona protección a su computadora donde los programas antivirus a menudo fallan: detección, eliminación y bloqueo de malware, y también software no deseado con publicidad intrusiva"
+msgid "protect_remove_all_btn_uninstalling"
+msgstr ""
 
-msgid "protect_remove_all_btn"
-msgstr "Eliminar el software no deseado <b>({{COUNT}})</b>"
+msgid "protect_remove_all_btn_installing"
+msgstr ""
 
-msgid "protect_state_success"
-msgstr "No se ha encontrado software no deseado"
+msgid "protect_installed-programs_api_failed"
+msgstr ""
 
-msgid "protect_state_success_caption"
-msgstr "No hay software no deseados en su computadora"
+msgid "protect_installed-programs_no_harmful"
+msgstr ""
 
-msgid "protect_state_warn_unchecked"
-msgstr "Se han encontrado programas de software no deseados"
+msgid "protect_clean_up_header_title"
+msgstr ""
 
-msgid "protect_state_warn_unchecked_caption"
-msgstr "Es posible eliminarlos marcándolos en la lista a continuación"
+msgid "protect_clean_up_header_caption"
+msgstr ""
 
-msgid "protect_state_warn"
-msgstr "Los programas de software no deseados se eliminarán: {{COUNT}} psc."
+msgid "protect_installed_programs_title"
+msgstr ""
 
-msgid "protect_state_err"
-msgstr "Para habilitar DriverPack Protect, primero debe conectar su computadora a Internet y luego reiniciar DriverPack"
+msgid "protect_installed_programs_switch"
+msgstr ""
 
 msgid "protect_show_more"
 msgstr "Ver más"
+
+msgid "protect_security_programs_title"
+msgstr ""
 
 msgid "settings-header_title"
 msgstr "Configuración para los usuarios avanzados"
@@ -1321,6 +1333,41 @@ msgstr "La tarjeta de sonido está conectada incorrectamente, o hay algunos prob
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Spanish (Latin America)"
+
+#~ msgid "menu_protect"
+#~ msgstr "Security"
+
+#~ msgid "protect_header_title"
+#~ msgstr "DriverPack Protect — protection and cleanup of your computer"
+
+#~ msgid "protect_header_caption"
+#~ msgstr ""
+#~ "DriverPack Protect will clean of undesirable software and provide protection"
+#~ " for your computer as a complement to your antivirus' capabilities such as: "
+#~ "detecting, removing and blocking malware and intrusive advertisement"
+
+#~ msgid "protect_remove_all_btn"
+#~ msgstr "Protect and clean the computer"
+
+#~ msgid "protect_state_success"
+#~ msgstr "Unwanted software has not been found"
+
+#~ msgid "protect_state_success_caption"
+#~ msgstr "There is no unwanted software on your computer"
+
+#~ msgid "protect_state_warn_unchecked"
+#~ msgstr "Unwanted software programs have been found"
+
+#~ msgid "protect_state_warn_unchecked_caption"
+#~ msgstr "It is possible to remove them by ticking them in the list below"
+
+#~ msgid "protect_state_warn"
+#~ msgstr "The unwanted software programs will be removed: {{COUNT}} psc."
+
+#~ msgid "protect_state_err"
+#~ msgstr ""
+#~ "In order to enable DriverPack Protect you should first connect your computer"
+#~ " to the Internet and then restart DriverPack"
 
 #~ msgid "installation_header_promo_title_wannacrypt"
 #~ msgstr "Attention! Dangerous virus activity"

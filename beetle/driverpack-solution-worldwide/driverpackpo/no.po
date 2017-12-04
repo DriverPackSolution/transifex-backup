@@ -6,9 +6,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-10-18 12:44+0000\n"
-"PO-Revision-Date: 2017-10-25 02:44+0000\n"
-"Last-Translator: Harry Eliassen <harryemail@gmail.com>\n"
+"POT-Creation-Date: 2017-11-27 10:29+0000\n"
+"PO-Revision-Date: 2017-11-30 11:12+0000\n"
+"Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Norwegian (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/no/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -216,6 +216,12 @@ msgstr "andre enheter"
 
 msgid "deviceclasses_other-plural-for"
 msgstr "andre enheter"
+
+msgid "programs_btn_install_single"
+msgstr "installer"
+
+msgid "programs_btn_installed_single"
+msgstr "Installert"
 
 msgid "settings_common-settings"
 msgstr "Generelle Innstillinger"
@@ -452,7 +458,7 @@ msgid "menu_computer_management"
 msgstr "Datamaskin Styring"
 
 msgid "menu_control_panel"
-msgstr "Kontrollpanel"
+msgstr ""
 
 msgid "menu_disk_management"
 msgstr "Disk Styring"
@@ -979,8 +985,8 @@ msgstr "Programvare"
 msgid "menu_protect_title"
 msgstr "Hjelp for din antivirus"
 
-msgid "menu_protect"
-msgstr "Sikkerhet"
+msgid "menu_protect_clean_up"
+msgstr ""
 
 msgid "menu_computer_diagnostics"
 msgstr "Diagnose av datamaskin status"
@@ -1027,12 +1033,6 @@ msgstr "Utført"
 msgid "no-internet-screen_guide-step-complete-action"
 msgstr "Kjør app'en på denne datamaskinen og <br /> konfigurer datamaskinen med en knapp"
 
-msgid "programs_btn_install_single"
-msgstr "installer"
-
-msgid "programs_btn_installed_single"
-msgstr "Installert"
-
 msgid "programs_header_text_title"
 msgstr "All nyttig programvare på et sted"
 
@@ -1044,6 +1044,15 @@ msgstr "Det er ikke nødvendig å lete etter programvare et etter et lenger. Du 
 
 msgid "drivers_program_counter"
 msgstr "Anbefalt programvare"
+
+msgid "protect_popup_title"
+msgstr ""
+
+msgid "protect_popup_install_button"
+msgstr "Installer"
+
+msgid "protect_popup_cancel_button"
+msgstr ""
 
 msgid "protect_row_rating"
 msgstr "Rate:"
@@ -1075,35 +1084,38 @@ msgstr "Vi anbefaler at du fjerner denne programvaren fordi 70% av alle brukerne
 msgid "protect_uninstall_single"
 msgstr "fjern"
 
-msgid "protect_header_title"
-msgstr "DriverPack Protect hjelper din antivirus"
+msgid "protect_clean_up_btn"
+msgstr ""
 
-msgid "protect_header_caption"
-msgstr "DriverPack Protect gir datamaskinen beskyttelse der antivirusprogrammer ofte mislykkes: deteksjon, fjerning og blokkering av skadelig programvare og uønsket programvare med påtrengende reklame"
+msgid "protect_remove_all_btn_uninstalling"
+msgstr ""
 
-msgid "protect_remove_all_btn"
-msgstr "Fjern uønsket programvare <b>({{COUNT}})</b>"
+msgid "protect_remove_all_btn_installing"
+msgstr ""
 
-msgid "protect_state_success"
-msgstr "Uønsket programvare ble ikke funnet"
+msgid "protect_installed-programs_api_failed"
+msgstr ""
 
-msgid "protect_state_success_caption"
-msgstr "Det finnes ikke uønsket programvare på din datamaskin"
+msgid "protect_installed-programs_no_harmful"
+msgstr ""
 
-msgid "protect_state_warn_unchecked"
-msgstr "Uønsket programvare ble funnet"
+msgid "protect_clean_up_header_title"
+msgstr ""
 
-msgid "protect_state_warn_unchecked_caption"
-msgstr "Det er mulig å fjerne dem ved å krysse av i listen nedenfor"
+msgid "protect_clean_up_header_caption"
+msgstr ""
 
-msgid "protect_state_warn"
-msgstr "Den uønskede programmene vil bli fjernet: {{COUNT}} stk."
+msgid "protect_installed_programs_title"
+msgstr ""
 
-msgid "protect_state_err"
-msgstr "For å aktivere DriverPack Protect bør du først koble datamaskinen til Internett og starte DriverPack på nytt"
+msgid "protect_installed_programs_switch"
+msgstr ""
 
 msgid "protect_show_more"
 msgstr "Vis mer"
+
+msgid "protect_security_programs_title"
+msgstr ""
 
 msgid "settings-header_title"
 msgstr "Instillinger for avanserte brukere"
@@ -1315,6 +1327,41 @@ msgstr "Lydkortet er koblet feil, eller det er noen problemer med driften"
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Norwegian"
+
+#~ msgid "menu_protect"
+#~ msgstr "Security"
+
+#~ msgid "protect_header_title"
+#~ msgstr "DriverPack Protect — protection and cleanup of your computer"
+
+#~ msgid "protect_header_caption"
+#~ msgstr ""
+#~ "DriverPack Protect will clean of undesirable software and provide protection"
+#~ " for your computer as a complement to your antivirus' capabilities such as: "
+#~ "detecting, removing and blocking malware and intrusive advertisement"
+
+#~ msgid "protect_remove_all_btn"
+#~ msgstr "Protect and clean the computer"
+
+#~ msgid "protect_state_success"
+#~ msgstr "Unwanted software has not been found"
+
+#~ msgid "protect_state_success_caption"
+#~ msgstr "There is no unwanted software on your computer"
+
+#~ msgid "protect_state_warn_unchecked"
+#~ msgstr "Unwanted software programs have been found"
+
+#~ msgid "protect_state_warn_unchecked_caption"
+#~ msgstr "It is possible to remove them by ticking them in the list below"
+
+#~ msgid "protect_state_warn"
+#~ msgstr "The unwanted software programs will be removed: {{COUNT}} psc."
+
+#~ msgid "protect_state_err"
+#~ msgstr ""
+#~ "In order to enable DriverPack Protect you should first connect your computer"
+#~ " to the Internet and then restart DriverPack"
 
 #~ msgid "installation_header_promo_title_wannacrypt"
 #~ msgstr "Attention! Dangerous virus activity"

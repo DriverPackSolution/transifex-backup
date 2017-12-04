@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-10-18 12:44+0000\n"
+"POT-Creation-Date: 2017-11-27 10:29+0000\n"
 "PO-Revision-Date: 2016-02-25 10:55+0000\n"
 "Last-Translator: Boris Ovsepyan <boris@drp.su>, 2017\n"
 "Language-Team: English (https://www.transifex.com/driverpack-solution/teams/75452/en/)\n"
@@ -219,6 +219,12 @@ msgstr "other devices"
 
 msgid "deviceclasses_other-plural-for"
 msgstr "other devices"
+
+msgid "programs_btn_install_single"
+msgstr "install"
+
+msgid "programs_btn_installed_single"
+msgstr "Installed"
 
 msgid "settings_common-settings"
 msgstr "General Settings"
@@ -455,7 +461,7 @@ msgid "menu_computer_management"
 msgstr "Computer Management"
 
 msgid "menu_control_panel"
-msgstr "Control Bar"
+msgstr "Control Panel"
 
 msgid "menu_disk_management"
 msgstr "Disk Management"
@@ -982,8 +988,8 @@ msgstr "Software"
 msgid "menu_protect_title"
 msgstr "Assistant for your antivirus"
 
-msgid "menu_protect"
-msgstr "Security"
+msgid "menu_protect_clean_up"
+msgstr "Protection and cleanup"
 
 msgid "menu_computer_diagnostics"
 msgstr "Diagnostics of the computer state"
@@ -1030,12 +1036,6 @@ msgstr "Done"
 msgid "no-internet-screen_guide-step-complete-action"
 msgstr "Run the app on this computer, and <br /> configure the computer with one button"
 
-msgid "programs_btn_install_single"
-msgstr "install"
-
-msgid "programs_btn_installed_single"
-msgstr "Installed"
-
 msgid "programs_header_text_title"
 msgstr "All useful software in one place"
 
@@ -1047,6 +1047,15 @@ msgstr "There is no need to look for the software programs one by one any longer
 
 msgid "drivers_program_counter"
 msgstr "Recommended software"
+
+msgid "protect_popup_title"
+msgstr "Your computer security configuration"
+
+msgid "protect_popup_install_button"
+msgstr "Install"
+
+msgid "protect_popup_cancel_button"
+msgstr "Refuse"
 
 msgid "protect_row_rating"
 msgstr "Rate:"
@@ -1078,35 +1087,38 @@ msgstr "We recommend you to remove this software because 70% of all users remove
 msgid "protect_uninstall_single"
 msgstr "remove"
 
-msgid "protect_header_title"
-msgstr "DriverPack Protect is a helper for your antivirus"
+msgid "protect_clean_up_btn"
+msgstr "Protect and clean the computer"
 
-msgid "protect_header_caption"
-msgstr "DriverPack Protect provides your computer protection where antivirus programs often fail: detection, removal and blockage of malware, and also unwanted software with intrusive advertising"
+msgid "protect_remove_all_btn_uninstalling"
+msgstr "These suspicious software will be removed: {{COUNT}}"
 
-msgid "protect_remove_all_btn"
-msgstr "Remove unwanted software <b>({{COUNT}})</b>"
+msgid "protect_remove_all_btn_installing"
+msgstr "These important software will be installed: {{COUNT}}"
 
-msgid "protect_state_success"
-msgstr "Unwanted software has not been found"
+msgid "protect_installed-programs_api_failed"
+msgstr "No Internet connection. Network connection is needed to view software list on your computer."
 
-msgid "protect_state_success_caption"
-msgstr "There is no unwanted software on your computer"
+msgid "protect_installed-programs_no_harmful"
+msgstr "No undesirable software has been detected on your computer"
 
-msgid "protect_state_warn_unchecked"
-msgstr "Unwanted software programs have been found"
+msgid "protect_clean_up_header_title"
+msgstr "DriverPack Protect — protection and cleanup of your computer"
 
-msgid "protect_state_warn_unchecked_caption"
-msgstr "It is possible to remove them by ticking them in the list below"
+msgid "protect_clean_up_header_caption"
+msgstr "DriverPack Protect will clean of undesirable software and provide protection for your computer as a complement to your antivirus' capabilities such as: detecting, removing and blocking malware and intrusive advertisement"
 
-msgid "protect_state_warn"
-msgstr "The unwanted software programs will be removed: {{COUNT}} psc."
+msgid "protect_installed_programs_title"
+msgstr "Software installed on the computer"
 
-msgid "protect_state_err"
-msgstr "In order to enable DriverPack Protect you should first connect your computer to the Internet and then restart DriverPack"
+msgid "protect_installed_programs_switch"
+msgstr "Display the suspicious software only"
 
 msgid "protect_show_more"
 msgstr "View more"
+
+msgid "protect_security_programs_title"
+msgstr "Important software for security"
 
 msgid "settings-header_title"
 msgstr "Settings for the advanced users"
@@ -1318,6 +1330,41 @@ msgstr "The sound card is connected incorrectly, or there are some problems with
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "English"
+
+#~ msgid "menu_protect"
+#~ msgstr "Security"
+
+#~ msgid "protect_header_title"
+#~ msgstr "DriverPack Protect — protection and cleanup of your computer"
+
+#~ msgid "protect_header_caption"
+#~ msgstr ""
+#~ "DriverPack Protect will clean of undesirable software and provide protection"
+#~ " for your computer as a complement to your antivirus' capabilities such as: "
+#~ "detecting, removing and blocking malware and intrusive advertisement"
+
+#~ msgid "protect_remove_all_btn"
+#~ msgstr "Protect and clean the computer"
+
+#~ msgid "protect_state_success"
+#~ msgstr "Unwanted software has not been found"
+
+#~ msgid "protect_state_success_caption"
+#~ msgstr "There is no unwanted software on your computer"
+
+#~ msgid "protect_state_warn_unchecked"
+#~ msgstr "Unwanted software programs have been found"
+
+#~ msgid "protect_state_warn_unchecked_caption"
+#~ msgstr "It is possible to remove them by ticking them in the list below"
+
+#~ msgid "protect_state_warn"
+#~ msgstr "The unwanted software programs will be removed: {{COUNT}} psc."
+
+#~ msgid "protect_state_err"
+#~ msgstr ""
+#~ "In order to enable DriverPack Protect you should first connect your computer"
+#~ " to the Internet and then restart DriverPack"
 
 #~ msgid "installation_header_promo_title_wannacrypt"
 #~ msgstr "Attention! Dangerous virus activity"

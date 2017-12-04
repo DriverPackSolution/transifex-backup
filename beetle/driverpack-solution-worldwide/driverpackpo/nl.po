@@ -9,8 +9,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-10-18 12:44+0000\n"
-"PO-Revision-Date: 2017-11-16 18:25+0000\n"
+"POT-Creation-Date: 2017-11-27 10:29+0000\n"
+"PO-Revision-Date: 2017-11-30 11:12+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Dutch (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/nl/)\n"
 "MIME-Version: 1.0\n"
@@ -219,6 +219,12 @@ msgstr "andere apparaten"
 
 msgid "deviceclasses_other-plural-for"
 msgstr "andere apparaten"
+
+msgid "programs_btn_install_single"
+msgstr "installeren"
+
+msgid "programs_btn_installed_single"
+msgstr "Geïnstalleerd"
 
 msgid "settings_common-settings"
 msgstr "Algemene instellingen"
@@ -455,7 +461,7 @@ msgid "menu_computer_management"
 msgstr "Computerbeheer"
 
 msgid "menu_control_panel"
-msgstr "Controle Balk"
+msgstr "Configuratiescherm"
 
 msgid "menu_disk_management"
 msgstr "Schijfbeheer"
@@ -982,8 +988,8 @@ msgstr "Software"
 msgid "menu_protect_title"
 msgstr "Assistent voor uw antivirus"
 
-msgid "menu_protect"
-msgstr "Beveiliging"
+msgid "menu_protect_clean_up"
+msgstr ""
 
 msgid "menu_computer_diagnostics"
 msgstr "Diagnostiek van de toestand op deze computer "
@@ -1030,12 +1036,6 @@ msgstr "Klaar"
 msgid "no-internet-screen_guide-step-complete-action"
 msgstr "Start de app op deze computer en <br /> configureer de computer met een knop"
 
-msgid "programs_btn_install_single"
-msgstr "installeren"
-
-msgid "programs_btn_installed_single"
-msgstr "Geïnstalleerd"
-
 msgid "programs_header_text_title"
 msgstr "Alle nuttige software op één plaats"
 
@@ -1047,6 +1047,15 @@ msgstr "Het is niet nodig om de software een voor een op te zoeken. U kunt alles
 
 msgid "drivers_program_counter"
 msgstr "Aanbevolen software"
+
+msgid "protect_popup_title"
+msgstr ""
+
+msgid "protect_popup_install_button"
+msgstr "Installeer"
+
+msgid "protect_popup_cancel_button"
+msgstr ""
 
 msgid "protect_row_rating"
 msgstr "Waardeer:"
@@ -1078,35 +1087,38 @@ msgstr "We raden u aan deze software te verwijderen omdat 70% van alle gebruiker
 msgid "protect_uninstall_single"
 msgstr "verwijderen"
 
-msgid "protect_header_title"
-msgstr "DriverPack Protect is een helper voor uw antivirus"
+msgid "protect_clean_up_btn"
+msgstr ""
 
-msgid "protect_header_caption"
-msgstr "DriverPack Protect biedt uw computer beveiliging waar antivirusprogramma's vaak falen: detectie, verwijdering en blokkering van malware en ook ongewenste software met opdringerige reclame"
+msgid "protect_remove_all_btn_uninstalling"
+msgstr ""
 
-msgid "protect_remove_all_btn"
-msgstr "Verwijder ongewenste software <b>({{COUNT}})</b>"
+msgid "protect_remove_all_btn_installing"
+msgstr ""
 
-msgid "protect_state_success"
-msgstr "Ongewenste software is niet gevonden"
+msgid "protect_installed-programs_api_failed"
+msgstr ""
 
-msgid "protect_state_success_caption"
-msgstr "Er is geen ongewenste software op uw computer"
+msgid "protect_installed-programs_no_harmful"
+msgstr ""
 
-msgid "protect_state_warn_unchecked"
-msgstr "Ongewenste softwareprogramma's zijn gevonden"
+msgid "protect_clean_up_header_title"
+msgstr ""
 
-msgid "protect_state_warn_unchecked_caption"
-msgstr "Het is mogelijk om ze te verwijderen door ze in de onderstaande lijst aan te klikken"
+msgid "protect_clean_up_header_caption"
+msgstr ""
 
-msgid "protect_state_warn"
-msgstr "De ongewenste softwareprogramma's worden verwijderd: {{COUNT}}stuks."
+msgid "protect_installed_programs_title"
+msgstr ""
 
-msgid "protect_state_err"
-msgstr "Om DriverPack Protect in te schakelen, moet u uw computer eerst op internet aansluiten en dan DriverPack opnieuw starten"
+msgid "protect_installed_programs_switch"
+msgstr ""
 
 msgid "protect_show_more"
 msgstr "Toon meer"
+
+msgid "protect_security_programs_title"
+msgstr ""
 
 msgid "settings-header_title"
 msgstr "Instellingen voor de geavanceerde gebruikers"
@@ -1318,6 +1330,41 @@ msgstr "De geluidskaart is verkeerd aangesloten of er zijn problemen met de werk
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Dutch"
+
+#~ msgid "menu_protect"
+#~ msgstr "Security"
+
+#~ msgid "protect_header_title"
+#~ msgstr "DriverPack Protect — protection and cleanup of your computer"
+
+#~ msgid "protect_header_caption"
+#~ msgstr ""
+#~ "DriverPack Protect will clean of undesirable software and provide protection"
+#~ " for your computer as a complement to your antivirus' capabilities such as: "
+#~ "detecting, removing and blocking malware and intrusive advertisement"
+
+#~ msgid "protect_remove_all_btn"
+#~ msgstr "Protect and clean the computer"
+
+#~ msgid "protect_state_success"
+#~ msgstr "Unwanted software has not been found"
+
+#~ msgid "protect_state_success_caption"
+#~ msgstr "There is no unwanted software on your computer"
+
+#~ msgid "protect_state_warn_unchecked"
+#~ msgstr "Unwanted software programs have been found"
+
+#~ msgid "protect_state_warn_unchecked_caption"
+#~ msgstr "It is possible to remove them by ticking them in the list below"
+
+#~ msgid "protect_state_warn"
+#~ msgstr "The unwanted software programs will be removed: {{COUNT}} psc."
+
+#~ msgid "protect_state_err"
+#~ msgstr ""
+#~ "In order to enable DriverPack Protect you should first connect your computer"
+#~ " to the Internet and then restart DriverPack"
 
 #~ msgid "installation_header_promo_title_wannacrypt"
 #~ msgstr "Attention! Dangerous virus activity"
