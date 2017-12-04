@@ -1,13 +1,14 @@
 # Translators:
 # jmontane <joan@montane.cat>, 2017
 # Josep Maria Antolin <josepma@gmail.com>, 2017
+# Nadia Tegeneva <nadia@drp.su>, 2017
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-11-16 14:57+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
-"Last-Translator: Josep Maria Antolin <josepma@gmail.com>, 2017\n"
+"Last-Translator: Nadia Tegeneva <nadia@drp.su>, 2017\n"
 "Language-Team: Catalan (https://www.transifex.com/driverpack-solution/teams/75453/ca/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -109,12 +110,12 @@ msgstr "{{CLASS.PLURAL.MAIN}}"
 #. VENDOR.NAME=Realtek; RU: Пример: CLASS.PLURAL.MAIN=картридеры|мониторы;
 #. VENDOR.NAME=Realtek;
 msgid "breadcrumbs_devicegroups-text"
-msgstr "{{CLASS.PLURAL.MAIN}}{{VENDOR.NAME}}"
+msgstr "{{CLASS.PLURAL.MAIN}} {{VENDOR.NAME}}"
 
 #. i18n: EN: Example: GROUP.VENDOR.NAME=Nvidia, GROUP.NAME=GeForce 210; RU:
 #. Пример: GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210;
 msgid "breadcrumbs_devicegroup-text"
-msgstr "{{GROUP.VENDOR.NAME}}{{GROUP.NAME}}"
+msgstr "{{GROUP.VENDOR.NAME}} {{GROUP.NAME}}"
 
 msgid "breadcrumbs_notebooks-text"
 msgstr "Portàtils"
@@ -126,14 +127,14 @@ msgstr "Portàtils {{VENDOR.NAME}}"
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=X1 carbon;
 #. RU: Пример: NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=X1 carbon;
 msgid "breadcrumbs_notebook-text"
-msgstr "{{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}}"
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=Videocards|Chipsets ,
 #. NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=G580; RU: Пример:
 #. CLASS.PLURAL.MAIN=видеокарты|чипсеты, NOTEBOOK.VENDOR.NAME=Lenovo,
 #. NOTEBOOK.NAME=G580;
 msgid "breadcrumbs_notebookdevices-text"
-msgstr "{{CLASS.PLURAL.MAIN}} per a portàtil {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}}"
+msgstr "{{CLASS.PLURAL.MAIN}} per a portàtil {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
 
 msgid "devicecard_download-btn"
 msgstr "Descarrega el controlador"
@@ -182,7 +183,7 @@ msgid "devicecard_details-content-label-section"
 msgstr "Categoria:"
 
 msgid "devicecard_details-links-merged_label"
-msgstr "Si el Device ID que necessites no es troba a la llista, introdueix-lo al camp de cerca."
+msgstr "Si el Device ID que necessites no es troba a la llista, introdueix-lo al camp de cerca"
 
 msgid "devicecard_details-links-notebook_device"
 msgstr "Veure tots els controladors"
@@ -303,7 +304,7 @@ msgid "footer_banner_btn"
 msgstr "Descarrega el <span class='bold'>DriverPack Online</span> gratuitament"
 
 msgid "footer_translate-feedback"
-msgstr "Heu trobat una errada o error d'impressió? <br /> Seleccioneu-la i premeu {{HOTKEY}}"
+msgstr "Heu trobat una errada o error d'impressió?<br />Seleccioneu-la i premeu {{HOTKEY}}"
 
 msgid "header_search-title"
 msgstr "<span class='bold'>Cerca de controladors en</span> la base de dades mes gran — més d'un milió de controladors"
@@ -390,7 +391,7 @@ msgid "landingintroduction_author-title"
 msgstr "Hola! El meu nom és Artur Kuzyakov. Sóc l'autor i fundador de DriverPack"
 
 msgid "landingintroduction_author-speech"
-msgstr "Des d'una petita aplicació escrita purament amb entusiasme fa 8 anys, ens hem transformat en una companyia que ha ajudat a més de 40 milions de persones arreu del món a configurar els seus ordinadors!<br /><br /> Durant aquest temps, la nostra aplicació s'ha fet increïblement més ràpida i intel·lgent. Avui, DriverPack és la base de dades més gran i exclusiva de controladors del món, ubicada en servidors de ultra alta velocitat arreu del món. Amb l'objectiu de realitzar la instalació dels controladors sempre de forma ràpida i amb alta qualitat, utilitzem tecnologíes d'aprenentatge artificial que fa que el nostre algorisme de selecció sigui cada vegada millor i més acurat. Hem aconseguit tot això fent possible que l'aplicació continuï sent completament gratuïta i la pugui fer servir tothom. <br /><br /> El meu equip i jo estem orgullosos del nostre producte i esperem que es converteixi en el teu assistent de confiança per a configurar qualsevol ordinador en el temps més curt possible."
+msgstr "Des d'una petita aplicació escrita purament amb entusiasme fa 8 anys, ens hem transformat en una companyia que ha ajudat a més de 40 milions de persones arreu del món a configurar els seus ordinadors!<br /><br />Durant aquest temps, la nostra aplicació s'ha fet increïblement més ràpida i intel·lgent. Avui, DriverPack és la base de dades més gran i exclusiva de controladors del món, ubicada en servidors de ultra alta velocitat arreu del món. Amb l'objectiu de realitzar la instalació dels controladors sempre de forma ràpida i amb alta qualitat, utilitzem tecnologíes d'aprenentatge artificial que fa que el nostre algorisme de selecció sigui cada vegada millor i més acurat. Hem aconseguit tot això fent possible que l'aplicació continuï sent completament gratuïta i la pugui fer servir tothom. <br /><br />El meu equip i jo estem orgullosos del nostre producte i esperem que es converteixi en el teu assistent de confiança per a configurar qualsevol ordinador en el temps més curt possible."
 
 msgid "landingintroduction_author-speech-marked"
 msgstr "Hi dediquem tot el nostre temps per a puguis estalviar-te el teu!"
@@ -426,7 +427,7 @@ msgid "landingproducts_item-title-network"
 msgstr "DriverPack Offline Network"
 
 msgid "landingproducts_item-description-network"
-msgstr "Conté els controladors per a targetes de xarxa (Lan/Wi-Fi), i es pot utilitzar sense connexió a Internet <span class='nobr'>({{SIZE}}MB)</span>"
+msgstr "Conté els controladors per a targetes de xarxa (Lan/Wi-Fi), i es pot utilitzar sense connexió a Internet <span class='nobr'>({{SIZE}} MB)</span>"
 
 msgid "landingproducts_item-title-offline"
 msgstr "DriverPack Offline Full"
@@ -495,7 +496,7 @@ msgid "notfound_cta-btn"
 msgstr "Descarrega el DriverPack Online"
 
 msgid "notfound_info-404"
-msgstr "{{404}}— la pàgina que heu demanat no existeix"
+msgstr "{{404}} — la pàgina que heu demanat no existeix"
 
 msgid "notfound_info-500"
 msgstr "{{500}} — alguna cosa no ha anat bé (error en el servidor)"
@@ -516,7 +517,7 @@ msgid "promoheader_cta-text-gamers"
 msgstr "El teu ordinador és més potent del que et penses: actualitza tots els controladors gratuitament"
 
 msgid "promoheader_cta-text-gamers-caption"
-msgstr "Si t'agraden els jocs d'ordinador, et recomanem que actualitzis els controladors del teu ordinador sovint per tal d'aconseguir la major eficiència de la teva màquina. Fins a un 37% més de FPS - la millor experiència en jocs i nous èxits amb DriverPack"
+msgstr "Si t'agraden els jocs d'ordinador, et recomanem que actualitzis els controladors del teu ordinador sovint per tal d'aconseguir la major eficiència de la teva màquina. Fins a un 37% més de FPS - la millor experiència en jocs i nous èxits amb DriverPack."
 
 msgid "promoheader_cta-text"
 msgstr "DriverPack instal·larà els controladors gratuitament i corregeix problemes amb els controladors de qualsevol dispositiu"
@@ -885,7 +886,7 @@ msgid "adminpagefaq_official_vendors-q"
 msgstr "Abans de DriverPack, descarregava els controladors des de les pàgines oficials, però vaig tenir problemes fins i tot amb aquests. Per què són els controladors de DriverPack més fiables que els dels fabricants?"
 
 msgid "adminpagefaq_official_vendors-a"
-msgstr "Per tal de fer de la nostra base de dades, no només la més gran, sinó la més estable, continuem treballant-hi per millorar-la permanentment, i fins i tot corregim errors que els fabricants deixen passar! Utilitzem tecnologia l'aprenentatge artificial i gràcies a això, el nostre algorisme de selecció millora constantment. I és per això que els controladors de DriverPack són els mes fiables"
+msgstr "Per tal de fer de la nostra base de dades, no només la més gran, sinó la més estable, continuem treballant-hi per millorar-la permanentment, i fins i tot corregim errors que els fabricants deixen passar! Utilitzem tecnologia l'aprenentatge artificial i gràcies a això, el nostre algorisme de selecció millora constantment. I és per això que els controladors de DriverPack són els mes fiables :-)"
 
 msgid "adminpagefaq_database-q"
 msgstr "Com s'incrementa la base de dades de DriverPack? Hi podré trobar realment els controladors que necessito?"
@@ -903,7 +904,7 @@ msgid "adminpagefaq_antivirus-q"
 msgstr "El meu antivirus ha detectat un virus en DriverPack - Com ha pogut passar?"
 
 msgid "adminpagefaq_antivirus-a"
-msgstr "El més segur és que es tracti d'un fals positiu, ja que totes les versions de DriverPack passen un examen detingut i una acreditació pel laboratori de Karspersky. La nostra empresa coopera amb molts proveïdors d'antivirus com Avast i 360 Total Security. Per tal de poder continuar, afegeix DriverPack a la llista blanca del teu antivirus. A més a més, agrairíem que reportessis aquest fals positiu a la companyia del vostre antivirus així com al nostre servei de suport."
+msgstr "El més segur és que es tracti d'un fals positiu, ja que totes les versions de DriverPack passen un examen detingut i una acreditació pel Laboratori de Karspersky. La nostra empresa coopera amb molts proveïdors d'antivirus com Avast i 360 Total Security. Per tal de poder continuar, afegeix DriverPack a la llista blanca del teu antivirus. A més a més, agrairíem que reportessis aquest fals positiu a la companyia del vostre antivirus així com al nostre servei de suport."
 
 msgid "adminpagefaq_expert_mode-q"
 msgstr "Quin mode és el més adequat per a utilitzar el DriverPack?"
@@ -921,7 +922,7 @@ msgid "badrabbitpromopage_cta-text"
 msgstr "Virus criptogràfic Bad Rabbit — com puc protegir l'ordinador?"
 
 msgid "badrabbitpromopage_cta-subtext"
-msgstr "DriverPAck conté mecanismes específics per a eliminar vulnerabilitats entre les utilitats de configuració de l'ordinador. Podeu descarregar la protecció gratuïta contra el virus Bad Rabbit per al vostre ordinador o portàtil el que farà més segur el vostre ordinador."
+msgstr "DriverPack conté mecanismes específics per a eliminar vulnerabilitats entre les utilitats de configuració de l'ordinador. Podeu descarregar la protecció gratuïta contra el virus Bad Rabbit per al vostre ordinador o portàtil el que farà més segur el vostre ordinador."
 
 msgid "badrabbitpromopage_cta-btn"
 msgstr "Configura l'ordinador i protegeix-lo contra el Bad Rabbit"
@@ -1052,7 +1053,7 @@ msgid "translate-feedback-popup_title-error"
 msgstr "Alguna cosa no ha anat bé"
 
 msgid "translate-feedback-popup_description-error"
-msgstr "No s'ha pogut enviar el text seleccionat degut a un error en el servidor. <br /> Intenteu-ho de nou més tard."
+msgstr "No s'ha pogut enviar el text seleccionat degut a un error en el servidor. <br />Intenteu-ho de nou més tard."
 
 msgid "translate-feedback-popup_title-success"
 msgstr "Gràcies"
@@ -1088,13 +1089,13 @@ msgid "wannacryptpromopage_info-text-title-1"
 msgstr "Què és WannaCrypt?"
 
 msgid "wannacryptpromopage_info-text-1"
-msgstr "El virus WannaCrypt (reanomenat espontàniament com a WannaCry per les víctimes) va atacar ordinadors de tot el mon el 12 de maig de 2017 i va infectar els dispositius de més de 300.000 usuaris de 150 països. Europa occidental, Rússia i Xina van ser els que en van sortir més mal parats. A la Gran Bretanya, el virus va fer caure la xarxa del Departament de Salut el que va parar l'activitat dels hospitals de tot el país. A Xina, l'atac va afectar els ordinadors antics de les fàbriques, el que va paralitzar algunes indústries. <br/><br/> El punt clau del funcionament del virus és simple: entra a l'ordinador o portàtil i ho encripta absolutament tots els documents i fitxers que pot trobar, fet que impossibilita poder-los utilitzar. Aleshores, l'intrús demana una quantitat important de diners per desencriptar-ho, uns 300 $. Tot i això, no hi ha garantia de que es pugui accedir de nou als fitxers. Actualment, no hi ha cap manera de desencriptar-ho un mateix, i les solucions que hi ha per Internet, o bé són paranys, o distribueixen un altre virus, o simplement no funcionen amb una seguerat del 100%."
+msgstr "El virus WannaCrypt (reanomenat espontàniament com a WannaCry per les víctimes) va atacar ordinadors de tot el mon el 12 de maig de 2017 i va infectar els dispositius de més de 300.000 usuaris de 150 països. Europa occidental, Rússia i Xina van ser els que en van sortir més mal parats. A la Gran Bretanya, el virus va fer caure la xarxa del Departament de Salut el que va parar l'activitat dels hospitals de tot el país. A Xina, l'atac va afectar els ordinadors antics de les fàbriques, el que va paralitzar algunes indústries.<br/><br/>El punt clau del funcionament del virus és simple: entra a l'ordinador o portàtil i ho encripta absolutament tots els documents i fitxers que pot trobar, fet que impossibilita poder-los utilitzar. Aleshores, l'intrús demana una quantitat important de diners per desencriptar-ho — uns 300 $. Tot i això, no hi ha garantia de que es pugui accedir de nou als fitxers. Actualment, no hi ha cap manera de desencriptar-ho un mateix, i les solucions que hi ha per Internet, o bé són paranys, o distribueixen un altre virus, o simplement no funcionen amb una seguerat del 100%."
 
 msgid "wannacryptpromopage_info-text-title-2"
 msgstr "Qui està en perill?"
 
 msgid "wannacryptpromopage_info-text-2"
-msgstr "Els ordinadors que tenen sistemes operatius anteriors a Windows 10 amb ports SMB oberts són els que estan més en risc. Actualment això significa que la meitat dels usuaris de Windows estan en risc — un 18% dels usuaris utilitzen còpies pirates de Windows (el que ja de per sí els posa en risc), un 23% del usuaris desactiven el servei d'Actualitzacions de Windows (el que impedeix descarregar les últimes &#147;actualitzacions de seguretat&#148; de Microsoft), i un altre 6% utilitzen versions antigues del SO que ja no reben actualitzacions. <br/><br/> La conclusió de tot això és que si les xarxes de diferents firmes i empreses que encara utilitzen Windows XP són els que tenen més risc. En un atac a aquestes xarxes, la pèrdua de les dades pot ser molt gran i el cost de pagar seria enorme, doncs qualsevol &#147;infecció&#148; ha de ser pagada individualment per a cada ordinador."
+msgstr "Els ordinadors que tenen sistemes operatius anteriors a Windows 10 amb ports SMB oberts són els que estan més en risc. Actualment això significa que la meitat dels usuaris de Windows estan en risc — un 18% dels usuaris utilitzen còpies pirates de Windows (el que ja de per sí els posa en risc), un 23% del usuaris desactiven el servei d'Actualitzacions de Windows (el que impedeix descarregar les últimes &#147;actualitzacions de seguretat&#148; de Microsoft), i un altre 6% utilitzen versions antigues del SO que ja no reben actualitzacions. <br/><br/>La conclusió de tot això és que si les xarxes de diferents firmes i empreses que encara utilitzen Windows XP són els que tenen més risc. En un atac a aquestes xarxes, la pèrdua de les dades pot ser molt gran i el cost de pagar seria enorme, doncs qualsevol &#147;infecció&#148; ha de ser pagada individualment per a cada ordinador."
 
 msgid "wannacryptpromopage_info-text-title-3"
 msgstr "Com protegir la teva empresa — solució de DriverPack Solution"

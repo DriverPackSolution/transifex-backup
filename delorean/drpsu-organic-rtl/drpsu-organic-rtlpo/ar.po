@@ -8,13 +8,14 @@
 # Ali Alaa Aldeen <oaliomali@gmail.com>, 2017
 # AlBara' AlAdaleh <bara9880@hotmail.com>, 2017
 # Milad Naaman <milad0011988@gmail.com>, 2017
+# Boualem Dahmane <b.dahmane13@gmail.com>, 2017
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-10-26 10:03+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
-"Last-Translator: Milad Naaman <milad0011988@gmail.com>, 2017\n"
+"Last-Translator: Boualem Dahmane <b.dahmane13@gmail.com>, 2017\n"
 "Language-Team: Arabic (https://www.transifex.com/driverpack-solution/teams/75453/ar/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -189,7 +190,7 @@ msgstr "الفئة: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|monitors; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|мониторы; VENDOR.NAME=Acer;
 msgid "seo_devicegroups-footer-application-subcategory"
-msgstr ""
+msgstr "الفئة الفرعيه: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 #. i18n: EN: Example: CLASS.SINGLE.FOR=videocard|monitor; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.SINGLE.FOR=видеокарты|монитора; VENDOR.NAME=Acer;
@@ -239,7 +240,7 @@ msgstr "الفئة: <span itemprop='applicationCategory'>{{GROUP.VENDOR.NAME}} {
 #. GROUP.NAME=GeForce 210; RU: Пример: CLASS.PLURAL.MAIN=видеокарты|чипсеты;
 #. GROUP.NAME=GeForce 210;
 msgid "seo_devicegroup-footer-application-subcategory"
-msgstr ""
+msgstr "الفئة الفرعية: <span itemprop='applicationSubCategory'>{{GROUP.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
 #. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
@@ -290,7 +291,7 @@ msgstr "الفئة: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|чипсеты; VENDOR.NAME=Acer;
 msgid "seo_hwid-footer-application-subcategory"
-msgstr ""
+msgstr "الفئة الفرعيه: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
@@ -449,10 +450,10 @@ msgid "seo_devicegroupos-footer-description"
 msgstr "تحميل تعريف {{CLASS.SINGLE.FOR}} ال {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} على نظام تشغيل Windows {{OS}} مجانا"
 
 msgid "seo_devicegroupos-footer-application-category"
-msgstr ""
+msgstr "الفئة: <span itemprop='applicationCategory'>{{GROUP.VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_devicegroupos-footer-application-subcategory"
-msgstr ""
+msgstr "الفئة الفرعية: <span itemprop='applicationSubCategory'>{{GROUP.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_devicegroupos-footer-content"
 msgstr "تحميل تعريفات {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.PLURAL.FOR}} (على نظام تشغيل Windows {{OS}}), أو تنصيب برنامج DriverPack Solution للتحميل والتثبيت التلقائي للتعريف."
@@ -521,7 +522,7 @@ msgid "seo_devicegroupsos-footer-application-category"
 msgstr "الفئة: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_devicegroupsos-footer-application-subcategory"
-msgstr ""
+msgstr "الفئة الفرعية: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_devicegroupsos-footer-content"
 msgstr "تحميل تعريفات {{VENDOR.NAME}} {{CLASS.PLURAL.FOR}} (على نظام تشغيل Windows {{OS}}) مجانا, أو تثبيت برنامج DriverPack Solution لتحميل و تحديث التعريفات"
@@ -569,7 +570,7 @@ msgid "seo_hwidos-footer-application-category"
 msgstr "الفئة: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_hwidos-footer-application-subcategory"
-msgstr ""
+msgstr "الفئة الفرعية: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_hwidos-footer-content"
 msgstr "تحميل تعريف جهاز {{DEVICE.DEVICEID}} على نظام تشغيل Windows {{OS}}, أو تثبيت برنامج DriverPack Solution لتحميل والتحديث التعريف تلقائيا"
@@ -728,7 +729,7 @@ msgid "seo_notebookvendor-footer-content-asus"
 msgstr "أحدث <strong>تعريفات Asus لابتوب</strong> وأكثرها موثوقية لكافة اصدارات نظام التشغيل Windows المستخدمة حالياً (Windows XP, Windows 7, 8, 8.1, و 10) موجودة في الكتالوج الخاص بنا. اذا لم تكن راضي لسبب ما من <b>تعريفات Asus لابتوب</b> او اذا واجهتك مشكلة بإيجاد تعريف لنوع حاسبك بالتحديد, استخدم برنامجنا لتحديث التعريفات DriverPack Solution - انه مجاني وسيقوم بكل شيء لك."
 
 msgid "seo_notebookvendor-footer-content-lg"
-msgstr ""
+msgstr "هذا القسم يحتوي على جميع <strong>تعريفات LG لابتوب</strong> بأحدث اصداراتها و لكافة اصدارات نظام التشغيل Windows المستخدمة حالياً. يمكنك ايضاً استخدام برنامجنا DriverPack Solution لتثبيت التعريفات بشكل تلقائي, في حال فشلت في ايجاد <b>التعريفات ل LG لابتوب</b> الخاصة بطراز حاسوبك - برنامجنا مجاني كلياً وسيقوم بكل ما يلزم من تلقاء نفسه."
 
 msgid "seo_notebookvendor-footer-content-sony"
 msgstr "هل اشتريت لابتوب جديد من شركة Sony لكن واجهتك مشاكل بقابليته على تشغيل العمليات؟ يمكنك في هذا القسم تحميل كل <strong>تعريفات Sony لابتوب</strong> بأحدث اصداراتها والمتوافقة تماماً مع نظام التشغيل الخاص بك. <b>تعريفات Sony Vaio لابتوب</b> المتوافقة مع اكثر من 200 طراز من هذه الشركة المصنعة كلها متوفرة هنا. اذا فشلت و لسبب ما في إيجاد التعريف المناسب الذي تحتاجه في قائمتنا, ما عليك سوى استخدام برنامجنا لتحديث التعريفات - انه مجاني كلياً و سيختار التعريف المناسب تماما باللابتوب الخاص بك."
@@ -743,13 +744,13 @@ msgid "seo_notebookvendor-footer-content-msi"
 msgstr "يمكنك هنا إيجاد و تحميل <strong>تعريفات MSI لابتوب</strong> للطراز الخاص بك وعلى أي اصدار من إصدارات نظام التشغيل Windows المستخدمة حالياً (تتضمن نسخة نادرة بوقتنا الحالي كنسخة Vista). اذا فشلت في إيجاد التعريف الذي تحتاجه في الكتالوج الخاص بنا بنفسك , ما عليك سوى تحميل برنامجنا DriverPack Solution للبحث عن التعريفات و تثبيتها بشكل تلقائي - فهو مجاني تماماً."
 
 msgid "seo_notebookvendor-footer-content-toshiba"
-msgstr ""
+msgstr "في هذا القسم يمكنك تحميل <b>تعريفات Toshiba لابتوب</b> لجميع إصدارات نظام التشغيل Windows المستخدمة حالياً. يحتوي الكتالوج الخاص بنا اكثر من 300 من طرازات اللابتوب لهذه الشركة المصنعة, وتزداد هذه القائمة كل يوم. هل فشلت في إيجاد الطراز الذي تحتاجه في الكتالوج؟ اذا حمل برنامجنا DriverPack Solution للبحث والتثبيت التلقائي للتعريفات - سيقوم بكل شيء عوضا عنك وبشكل تلقائي."
 
 msgid "seo_deviceclass-footer-content-video-amd"
 msgstr "هل العبة لا تعمل مع بطاقة رسوميات AMD؟ في هذا القسم يمكنك <b>تحديث تعريفات بطاقة الرسوميات AMD Radeon</b> الى أحدث اصدار. ويمكنك هنا تحميل التعريفات لبطاقة الرسومياتAMD Radeon (متضمة التعريفات الخاصة بسلسلة AMD Radeon HD) لجميع اصدارات نظام التشغيل Windows الموجودة حالياً. هل فشلت في إيجاد التعريف الذي تحتاجة بنفسك؟ اذاً استخدم برنامجنا المجاني DriverPack Solution - فهو سيقوم بتحديث <b>تعريفات بطاقة الرسوميات AMD</b> و ATI بشكل تلقائي بدون الحاجة لأي تدخل يدوي من قبلك. "
 
 msgid "seo_deviceclass-footer-content-video-nvidia"
-msgstr ""
+msgstr "هل لديك لعبة لا تعمل؟ قد تكون المشكلة من تعريفات بطاقة الرسوميات. جرب <b>تحديث تعريفات بطاقة الرسوميات Nvidia</b>من خلال تحميل آخر تحديث لها من موقعنا. و يمكنك ايضا هنا <b>تحميل تعريفات بطاقة الرسوميات Nvidia Geforce</b> بأحدث نسخة من هذه السلسة لجميع انظمة التشغيل Windows المستخدمة حاليا وبشكل مجاني تماماً. اذا فشلت ولسببٍ ما بإيجاد التعريفات المناسبة لبطاقة الرسوميات Nvidia الخاصة بك في الكتالوج, ما عليك سو استخدام برنامجنا المجاني DriverPack Solution للبحث عن التعريفات وتحديثها - فهو مجاني كلياً وسيختار التعريف المطلوب بنفسه بدون أي تأخير."
 
 msgid "seo_deviceclass-footer-content-video-intel"
 msgstr "هل تحتاج تعريفات لبطاقة الرسوميات Intel HD Graphics؟ يمكنك في هذا القسم تحميل التعريفات لهذه السلسلة من بطاقات الرسوميات مجاناً. اذا لم تستطع إيجاد و <b>تحميل تعريفات بطاقات الرسوميات Intel</b> بنفسك, استخدم برنامجنا المجاني DriverPack Solution التلقائي في البحث و تحديث التعريفات - فهو سيقوم يكل شيء عوضا عنك. "
@@ -785,7 +786,7 @@ msgid "seo_deviceclass-footer-content-monitor-hp"
 msgstr "هل تحتاج <b>لتحميل تعريفات جهاز العرض HP</b>؟ في هذه القسم ستجد كل تعريفات أجهزة العرض HP بأحدث اصداراتها لجميع أنظمة التشغيل Windows. جميع التعريفات المقدمة في هذا القسم تم اختيارها و التحقق منها من قبل خبرائنا بأنها آمنة و فعالة. اذا لم تستطيع إيجاد التعريف الذي تحتاجه بجهودك الخاصة, استخدم برنامجنا DriverPack Solution - فهو سيقوم بكل شيء بسرعة وبدون الحاجة لأي تدخل منك."
 
 msgid "seo_deviceclass-footer-content-monitor-lg"
-msgstr ""
+msgstr "هل <b>تعريفات جهاز العرض LG</b> الخاص بك قديمة؟ هل تظهر بعض التشوهات بالصورة, او جهاز العرض يرفض العمل؟ اذا استخدم الكتالوج الضخم الخاص بنا حيث يمكنك <b>تحميل تعريفات جهاز العرض LG Flatron</b> بدون أي مشكل او صعوبات! واذا لم تملك الوقت للبحث عن التعريف المطلوب بنفسك, استخدم برنامجنا DriverPack Solution - فهو سيختار لك كل التعريفات المطلوبة بنفسه."
 
 msgid "seo_deviceclass-footer-content-monitor-panasonic"
 msgstr "هل واجهتك أي مشاكل في عمل جهاز العرض الخاص بك من شركة Panasonic؟ اذاً قد تكون المشكلة غالباً بالتعريفات. يمكنك في الكتالوج الخاص بنا <b>تحميل تعريفات جهاز العرض Panasonic</b> بشكل مجاني وبدون أي مشاكل! اذا لم تستطع ولأي سبب إيجاد التعريف المطلوب لجهاز عرض Panasonic الخاص بك, حمل برنامجنا الخاص بالبحث وتحديث التعريفات DriverPack Solution - فهو مجاني تماماً."
@@ -806,7 +807,7 @@ msgid "seo_deviceclass-footer-content-monitor-philips"
 msgstr "لا تعرف اين يمكنك <b>تحميل التعريفات لجهاز العرض Philips</b>؟ في هذا القسم ستجد كل التعريفات لأجهزة العرض Philips بأحدث اصداراتها ولجميع أنظمة التشغيل Windows. اذا ولسببٍ ما لم تجد التعريف الذي تحتاجه بنفسك, استخدم برنامجنا DriverPack Solution - فهو مجاني تماماً وسيقوم باختيار التعريف الذي تحتاجه في لمح البصر."
 
 msgid "seo_deviceclass-footer-content-modem-d-link"
-msgstr ""
+msgstr "في هذا القسم يمكنك تحميل <b>تعريفات المودم d-link</b> لجميع إصدارات نظام التشغيل Windows المتوفرة حالياً. إن الكنالوج الخاص بنا منظم بطريقة بسيطة وسهلة الفهم, لذلك سيكون من السهل عليك إيجاد التعريف الذي تحتاجه. ولكن اذا ولسببٍ ما فشلت في إيجاد التعريف المطلوب الخاص المودم d-link, ما عليك سوى استخدام البرنامج الخاص بنا DriverPack Solution - فهو مجاني تماماً وسيقوم بتحميل كل التعريفات التي تحتاجها بشكل تلقائي."
 
 msgid "seo_deviceclass-footer-content-tvtuner-avermedia"
 msgstr "هل واجهتك أي مشاكل في عمل جهاز توليف التلفزيون الخاص بك من Avermedia؟ اذا فالمشكلة قد تكون بشكل مرجح جداً بأن التعريفات قديمة. في هذا القسم يمكنك <b>تحميل تعريفات جهاز توليف التلفزيون Avermedia</b> من الكتالوج الخاص بنا الواضح و السهل وبشكل مجاني. يمكنك أيضاً استخدام برنامجنا المجاني DriverPack Solution - فهو سيقوم بكل شيء بسرعة وسيوفر عليك الوقت في البحث عن التعريف المطلوب الذي تحتاجه."
@@ -827,19 +828,19 @@ msgid "seo_deviceclass-footer-content-tvtuner-compro"
 msgstr "في هذا القسم يمكنك <b>تحميل تعريفات جهاز توليف التلفزيون Compro</b> مجاناً لكل اصدارات نظام التشغيل Windows. جميع التعريفات المتوفرة في الكتالوج الخاص بنا تم التحقق منها من قبل خبرائنا بأنها آمنة وفعالة. هل فشلت في إيجاد ما تبحث عنه؟ حمل برنامجنا DriverPack Solution - فهو سيقوم بكل شيء عنك بشكل تلقائي و سريع دون أي مشاكل."
 
 msgid "seo_deviceclass-footer-content-phone-htc"
-msgstr ""
+msgstr "هل لديك أية مشاكل مع نظام تشغيل وهاتفك HTC؟ هل تنعدم امكانية ربط هاتفك مع الحاسب الآلي؟ في هذا القسم يمكنك <b>تحميل تعريفات هواتف HTC</b> بنفسك. آخر وأحين التعريفات الخاصة بهواتف HTC  موجودة هنا. "
 
 msgid "seo_deviceclass-footer-content-phone-huawei"
-msgstr ""
+msgstr "لا تعلم أين <b>ان تحمل تعريف لهاتفك Huawei</b>. في هذا القسم سوف تجد التعريفات لجميع أصناف هواتف Huawei . كل تعريفاتنا تم فحصها للتشغيل والأمان!"
 
 msgid "seo_deviceclass-footer-content-phone-nokia"
-msgstr ""
+msgstr "في هذا القسم يمكنك <b>تحميل تعريف لهاتف نوكيا </b>مجانا تماما وبدون أي تسجيل. التعريفات الخاصة بجميع أنواع هواتف نوكيا موجودة هنا. كذلك، كل تعريفاتنا تم فحصها من قبل خبراء للأمن والتشغيل. "
 
 msgid "seo_devicegroup-footer-content-video-nvidia-nvidia-geforce-9600-gt"
-msgstr ""
+msgstr "هل تحتاج تعريفات لبطاقة الرسوميات Nvidia Geforce 9600 GT؟ أنت في المكان الصحيح! في هذا القسم يمكنك <b> تحميل تعريفات كرت الشاشة Nvidia Geforce 9600 GT</b> لجميع أصدارات نظام تشغيل Windows الموجودة و المعمول بها حالياً. في حالة ما إذا لم تجد التعريفات التي تحتاجها  بنفسك في دليل تعريفاتنا، إستخدم  DriverPack Solution للبحث  عن التعريفات وتحديثها تلقائيا مجانا تماماً."
 
 msgid "seo_devicegroup-footer-content-monitor-samsung-syncmaster-740n-179n-syncmaster-magic-cx721n-cx714n"
-msgstr ""
+msgstr "هل واجهتك أي مشاكل في ربط جهاز العرض Samsung Syncmaster 740n مع جهازك؟ هل بدأت تشوهات مختلفة بالظهور على الشاشة عند عرض المعلومات؟ في هذا القسم. يمكنك <b> تحميل تعريفات جهاز العرض Samsung Syncmaster 740n</b> بأحدث اصداراتها لكافة أنظمة التشغيل Windows من الفهرس الخاص بنا. اذا لم تستطع إيجاد التعريف الذي تحتاجه بنفسك، حمل برنامجنا DriverPack Solution - فهو مجاني وصنع خصيصا ليقوم بتحديث التعريف المطلوب تلقائياً."
 
 msgid "seo_notebook-footer-content-acer-aspire-5560g"
 msgstr ""
