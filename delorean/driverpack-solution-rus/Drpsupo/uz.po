@@ -28,7 +28,7 @@ msgid "admindriverpacks_landing-title"
 msgstr "Drayverpacklar (drayverlar to'plami)"
 
 msgid "admindriverpacks_landing-subtitle"
-msgstr ""
+msgstr "Bizning drayverpackda {{COUNT}} drayverlar bo'lib, qo'lda tanlangan va testlangan"
 
 msgid "admindriverpacks_download"
 msgstr "Yuklab olish"
@@ -303,7 +303,7 @@ msgid "footer_translate-feedback"
 msgstr "Xatolik topdingizmi?<br />Uni belgilang va {{HOTKEY}} bosing"
 
 msgid "header_search-title"
-msgstr "Eng katta bazadan <span class='bold'>Draverlarni izlash</span> — milliondan ortiq "
+msgstr "Eng katta bazadan <span class='bold'>drayverlarni izlash</span> — milliondan ortiq "
 
 msgid "header_search-examples"
 msgstr "Misol:"
@@ -417,7 +417,7 @@ msgid "landingproducts_item-title-online"
 msgstr "DriverPack Online"
 
 msgid "landingproducts_item-description-online"
-msgstr ""
+msgstr "Internet mavjud bo'lsa, bir soniyada yuklanadi va barcha drayverlarni yuklab oladi va o'rnatadi <span class='nobr'>({{SIZE}})</span>"
 
 msgid "landingproducts_item-version"
 msgstr "Versiya:"
@@ -429,13 +429,13 @@ msgid "landingproducts_item-title-network"
 msgstr "DriverPack Offline Network"
 
 msgid "landingproducts_item-description-network"
-msgstr ""
+msgstr "Tarmoq qurilmalari uchun drayverlarni o'z ichiga olgan (Lan/Wi-Fi), internetsiz ishlaydi <span class='nobr'>({{SIZE}})</span>"
 
 msgid "landingproducts_item-title-offline"
 msgstr "DriverPack Offline Full"
 
 msgid "landingproducts_item-description-offline"
-msgstr ""
+msgstr "Hamma drayverlar yuklanadi, internetsiz ishlaydi, torrent bilan yuklab olinadi. <span class='nobr'>({{SIZE}})</span>"
 
 msgid "landingpublications__landing-title"
 msgstr "DriverPack haqida jurnalistlar yozadi"
@@ -519,19 +519,19 @@ msgid "productlandingheader-online_cta-btn"
 msgstr "DriverPack Online ni yuklab olish"
 
 msgid "productlandingheader-online_caption"
-msgstr ""
+msgstr "DriverPack Online - {{SIZE}} hajmidagi eng mashhur mahsulotdir. Zudlik bilan yuklab olinadi, kompyuter yoki noutbuk uchun drayverlarni tanlaydi, so'ng barcha kerakli drayverlarni Internet orqali yuklaydi va o'rnatadi. Oddiy foydalanuvchi uchun ideal. Faqat internet bilan ishlaydi"
 
 msgid "productlandingheader-network_cta-btn"
 msgstr "DriverPack Offline Network ni yuklab olish"
 
 msgid "productlandingheader-network_caption"
-msgstr ""
+msgstr "DriverPack Offline Network - tarmoq uskunalari uchun drayverlar bir joyda ({{SIZE}}). Tezda yuklab olinadi, yanda tezroq o'rnatiladi! Windows ni qayta o'rnatgandan so'ng DriverPack Offline Network internetdan boshqa drayverlarni yuklab olishingiz uchun tarmoq qurilmalariga drayver o'rnatadi!"
 
 msgid "productlandingheader-offline_cta-btn"
 msgstr "DriverPack Offline Full ni yuklab olish"
 
 msgid "productlandingheader-offline_caption"
-msgstr ""
+msgstr "DriverPack Offline Full -  {{SIZE}} hajmdagi internetga ulanmasdan drayverlarni o'rnatishning eng katta bazasi. Faqatgina DriverPack Offline Full ni to'liq yuklab oling va joriy drayverlarning katta kutubxonasidan istalgan joyda foydalaning. Tizim administratorlari uchun ideal."
 
 msgid "promoheader_cta-text-gamers"
 msgstr "Kompyuteringiz siz o'ylagandan ko'ra kuchliroq: barcha drayverlarni bepul yangilash"
@@ -897,7 +897,7 @@ msgid "landingPagePublications_habr"
 msgstr "Windows ni qayta o'rnatgandan so'ng drayverlarni topish va o'rnatish kerakligi, menimcha, butun Windows oilasining eng muhim kamchiliklaridan biri hisoblanadi. Ammo, 2008 yilda men ushbu muammoni hal qilishga qaror qildim va DriverPack nomini olgan dasturni yozdim. Bugungi kunda mahsulotim butun dunyo bo'ylab 40 million foydalanuvchi tomonidan ishlatiladi va Windows-ning drayverlar bilan muammolari uchinchi tomondan bajarilishiga qaramasdan hal qiladi."
 
 msgid "landingPagePublications_computerra"
-msgstr "Yangi versiyada foydalanuvchini o'z to'plamini yaratish uchun qo'shimcha vositalar bilan ta'minlangan. Bu, ayniqsa, kompyuter texnikasi bilan shug'ullanadigan yoki katta turdagi uskunalar parkini boshqaradiganlar administratorlarga mos keladi. Endi DriverPack-da siz alternativ drayverpaklarni birlashtirasiz va keraksizlarni yo'q qilasiz."
+msgstr "Yangi versiyada foydalanuvchini o'z to'plamini yaratish uchun qo'shimcha vositalar bilan ta'minlangan. Bu, ayniqsa, kompyuter texnikasi bilan shug'ullanadigan yoki katta turdagi uskunalar parkini boshqaradiganlar administratorlarga mos keladi. Endi DriverPack-da siz alternativ drayverpaklarni, birlashtirasiz va keraksizlarni yo'q qilasiz."
 
 msgid "landingPagePublications_vc"
 msgstr "Gap so'zlar tufayli mahsulot bizning jamoa ishtirokisiz 45 ta tilga tarjima qilindi."
@@ -1109,19 +1109,19 @@ msgid "wannacryptpromopage_info-text-title-1"
 msgstr "WannaCrypt nima o'zi?"
 
 msgid "wannacryptpromopage_info-text-1"
-msgstr "WannaCrypt virusi (WannaCry, jabrlanganlar o'g'zi bilan) 12 may kuni dunyodagi kompyuterlarga hujum qilib, 150 mamlakatdan 300 000 ortiq foydalanuvchilarga hujum qildi. Eng ko'p G'arbiy Evropa, Rossiya va Xitoy hujumga uchradi. Buyuk Britaniyada virus Sog'liqni saqlash vazirligining tarmog'ini o'chirib qo'ydi, mamlakat bo'ylab shifoxonalar ishini to'xtatib qo'ydi. Xitoyda, virus hujumi bir qator fabrikalardagi eskirgan kompyuterlarga to'g'ri keldi. Buning oqibatida ishlab chiqarish vaqtincha to'xtab qoldi.<br/><br/>Virus ishlar mohiyati oddiy - u kompyuteringizga kirib, barcha hujjatlar, fayllar va materiallarni shifrlaydi. Buning oqibatida fayllardan foydalanib bo'lmaydi. Virusdan qutulish uchun pul talab etiladi — qariyb 300 dollar. Shu bilan birga, to'lovdan keyin sizga fayllarga kirish huquqi berilishini kafolatlamaydi. Virusdan qutulishning hozirgi vaqtda mustaqil yo'li yo'q. Hozirda internetda taklif etilayotgan yechimlarning 100% fishing yoki yana bir boshqa virusni tarqatishdir yoki umuman ishlamaydigan holatdir."
+msgstr "WannaCrypt virusi (WannaCry, jabrlanganlar o'g'zi bilan) 12 may kuni dunyodagi kompyuterlarga hujum qilib, 150 mamlakatdan 300 000 ortiq foydalanuvchilarga hujum qildi. Eng ko'p G'arbiy Evropa, Rossiya va Xitoy hujumga uchradi. Buyuk Britaniyada virus Sog'liqni saqlash vazirligining tarmog'ini o'chirib qo'ydi, mamlakat bo'ylab shifoxonalar ishini to'xtatib qo'ydi. Xitoyda, virus hujumi bir qator fabrikalardagi eskirgan kompyuterlarga to'g'ri keldi. Buning oqibatida ishlab chiqarish vaqtincha to'xtab qoldi.<br/><br/>Virus ishlar mohiyati oddiy - u kompyuteringizga kirib, topgan barcha hujjatlar, fayllar va materiallarni shifrlaydi. Buning oqibatida fayllardan foydalanib bo'lmaydi. Virusdan qutulish uchun pul talab etiladi — qariyb 300 dollar. Shu bilan birga, to'lovdan keyin sizga fayllardan foydalanish huquqini kafolatlamaydi. Virusdan qutulishning hozirgi vaqtda mustaqil yo'li yo'q. Hozirda internetda taklif etilayotgan yechimlar esa 100% fishing yoki yana bir boshqa virusni tarqatishdir yoki shunchaki ishlamaydi."
 
 msgid "wannacryptpromopage_info-text-title-2"
 msgstr "Kimlar xavf ostida?"
 
 msgid "wannacryptpromopage_info-text-2"
-msgstr "Eng katta xavf ostida Windows 10  dan past bo'lgan SMB portlari ochiq operatsion tizim o'rnatilgan kompyuterlar kiradi. Xavf ostida hozirda kamida Windows OSning yarim foydalanuvchilari kiradi — 18% foydalanuvchilar Windows ning litsenziyalanmagan nusxalardan foydalanib (avtomatik tarzda xavf zonasiga kirishadi). Yana 23% foydalanuvchilarda Windows Update xizmati o'chirilgan bo'lib (Microsoftdan yangilanishlarni yuklab olmaydi) va yana 6% foydalanuvchilar eskirgan OSlardan foydalanishadi. Ularga yangilanishlar umuman chiqarilmaydi.<br/><br/>Yuqorilardan kelib chiqib, xulosa qilish mumkinki eng katta xavf Windows XP ishlatayotgan kichik kompaniyalarga to'g'ri keladi. Hujum ostida qolgan bunaqa tarmoqda ma'lumotlarning yo'qotilishi juda katta xarajatlarga olib kelishi mumkin va hatto har bitta kompyuter uchun alohida &laquo;to'lov&raquo qilishga to'g'ri keladi."
+msgstr "Eng katta xavf ostida Windows 10  dan past bo'lgan SMB portlari ochiq operatsion tizim o'rnatilgan kompyuterlar kiradi. Xavf ostida hozirda kamida Windows OSning yarim foydalanuvchilari kiradi — 18% foydalanuvchilar Windows ning litsenziyalanmagan nusxalardan foydalanib (avtomatik tarzda xavf zonasiga kirishadi). Yana 23% foydalanuvchilarda Windows Update xizmati o'chirilgan bo'lib (Microsoftdan yangi \"yamoqlarni\" yuklab olmaydi) va yana 6% foydalanuvchilar eskirgan OSlardan foydalanishadi. Ularga yangilanishlar umuman chiqarilmaydi.<br/><br/>Yuqorilardan kelib chiqib, xulosa qilish mumkinki eng katta xavf Windows XP ishlatayotgan kichik kompaniyalarning lokal tarmoqlariga to'g'ri keladi. Hujum ostida qolgan bunaqa tarmoqda ma'lumotlarning yo'qotilishi juda katta xarajatlarga olib kelishi mumkin va hatto har bitta kompyuter uchun alohida \"to'lov\" qilishga to'g'ri keladi."
 
 msgid "wannacryptpromopage_info-text-title-3"
 msgstr "O'z biznesingizni qanday gimoya qilasiz — DriverPack Solution dan yechim"
 
 msgid "wannacryptpromopage_info-text-3"
-msgstr "WannaCrypt (WannaCry) virusining xavfiligining asosiy sababi SMBv1 protokolidagi MS17-010 xavfsizlik tizimining zaifligi bilan bog'liqdir. Bu antivirus dasturiga WannaCry deyarli ko'rinmas qilib qo'yadi. DriverPack Solution dagi yechim sizning tizimingizning muhim zaifliklarini yopish va xavf tug'diradigan eskirib qolgan protokollarni o'chirish uchun sizning OSga yangilashlarni o'rnatadi. "
+msgstr "WannaCrypt (WannaCry) — virusining xavfiligining asosiy sababi SMBv1 protokolidagi MS17-010 xavfsizlik tizimining zaifligidan foydalanib tarqatiladi. Bu holat antivirus dasturiga WannaCry ni deyarli ko'rinmas qilib qo'yadi. DriverPack Solution dagi yechim sizning operatsion tizimingizning versiyasi va litsenziyasidan qat'iy nazar muhim zaifliklarini yopish va xavf tug'diradigan eskirib qolgan protokollarni o'chirish uchun sizning OSga yangilashlarni o'rnatadi. "
 
 msgid "wannacryptpromopage_links-text"
 msgstr "Izlanish quyidagi materiallarga asoslangan"
