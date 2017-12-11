@@ -10,8 +10,8 @@ msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-11-27 10:29+0000\n"
-"PO-Revision-Date: 2017-12-04 13:44+0000\n"
-"Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
+"PO-Revision-Date: 2017-12-11 00:12+0000\n"
+"Last-Translator: Alessandro João <ajkmetiuk@bol.com.br>\n"
 "Language-Team: Portuguese (Brazil) (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/pt_BR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -23,10 +23,10 @@ msgid "installation_close_confirm"
 msgstr "Tem certeza de que deseja interromper a instalação? Isso poderia causar um mau funcionamento no seu computador."
 
 msgid "authorize_failed"
-msgstr "Erro de Log-In"
+msgstr "Erro de Entrada"
 
 msgid "unauthorize_failed"
-msgstr "Erro de Log-Out"
+msgstr "Erro de Saída"
 
 msgid "deviceclasses_bluetooth-single-main"
 msgstr "dispositivo Bluetooth"
@@ -308,7 +308,7 @@ msgid "settings_minify-menu-caption"
 msgstr "Para maior comodidade ao trabalhar com configurações avançadas, você pode ajustar o tamanho da barra de navegação à esquerda."
 
 msgid "settings_authorization-title"
-msgstr "Habilitar o modo de Log-In"
+msgstr "Habilitar o Modo de Entrada"
 
 msgid "settings_authorization-caption"
 msgstr "Após um procedimento de login curto e fácil, você terá acesso a configurações estendidas, bem como a uma série de recursos úteis, incluindo o download de driver mais rápido de servidores CDN, configurações salvas no nível do perfil e muitos outros. Recomendamos que você faça o login e aproveite esses recursos avançados."
@@ -374,10 +374,10 @@ msgid "settings_drivers-backup-caption"
 msgstr "Para uma maior comodidade para todos os usuários, os desenvolvedores do DriverPack criaram a opção de salvar backups de seus drivers atuais na pasta Meus documentos."
 
 msgid "settings_system-check-title"
-msgstr "Ative a opção de verificação do sistema (System Check)"
+msgstr "Ativar a opção de verificação do sistema (System Check)"
 
 msgid "settings_system-check-caption"
-msgstr "Para garantir que todos os dispositivos do seu computador funcionem corretamente, a equipe DriverPack desenvolveu um sistema de check-up muito eficaz para o seu computador. É ativado imediatamente após uma reinicialização, e fará um check-up rápido de todos os dispositivos para garantir que eles funcionem corretamente."
+msgstr "Para garantir que todos os dispositivos do seu computador funcionem corretamente, a equipe do DriverPack desenvolveu um sistema de check-up muito eficaz para o seu computador. Ele é ativado imediatamente após uma reinicialização, e fará um check-up rápido de todos os dispositivos para garantir que eles funcionem corretamente."
 
 msgid "settings_system-check-anchor"
 msgstr "Saiba mais "
@@ -389,7 +389,7 @@ msgid "settings_statistics-title"
 msgstr "Enviar estatísticas sobre a operação do sistema."
 
 msgid "settings_statistics-caption"
-msgstr "Para melhorar o DriverPack com cada inicialização, os desenvolvedores precisam coletar e analisar dados (anônimos) relacionados à operação do sistema. Isso diz respeito a dados como a configuração do computador, execução de software, erros do sistema e outras informações para o Google Analytics."
+msgstr "Para melhorar o DriverPack em cada inicialização, os desenvolvedores precisam coletar e analisar dados (anônimos) relacionados à operação do sistema. Isso diz respeito a dados como a configuração do computador, execução de programas, erros do sistema e outras informações para o Google Analytics."
 
 msgid "settings_statistics-anchor"
 msgstr "Saiba mais "
@@ -401,7 +401,7 @@ msgid "settings_machine-learning-title"
 msgstr "Ative a opção de aprendizado da máquina (Machine Learning)."
 
 msgid "settings_machine-learning-caption"
-msgstr "O sistema de inteligência artificial exclusivo, desenvolvido por nossos engenheiros e incorporado no sistema DriverPack, está trabalhando diligentemente em benefício de seu sistema. Como é auto-aprendizagem, ele continua melhorando o algoritmo de seleção do driver após cada inicialização e continua a configurar um computador ainda mais rápido e com mais precisão."
+msgstr "O sistema de inteligência artificial exclusivo, desenvolvido por nossos engenheiros e incorporado no sistema DriverPack, está trabalhando diligentemente em benefício do seu sistema. Como é auto-aprendizagem, ele continua melhorando o algoritmo de seleção do driver após cada inicialização e continua a configurar um computador ainda mais rápido e com mais precisão."
 
 msgid "settings_machine-learning-anchor"
 msgstr "Saiba mais "
@@ -413,7 +413,7 @@ msgid "settings_bsods-title"
 msgstr "Analisa os casos de falha \"tela azul da morte\" (BSoD)"
 
 msgid "settings_bsods-caption"
-msgstr "A probabilidade de ocorrência da falha de \"tela azul da morte\" (BSoD) é inferior a 0,3%, mas, se acontecer, a nossa aplicação analisa os registos do Windows e gera um relatório para o sistema analítico. Isso diminui a probabilidade de que este problema seja repetido neste computador e em outros com uma configuração semelhante."
+msgstr "A probabilidade de ocorrência da falha de \"tela azul da morte\" (BSoD) é inferior a 0,3%, mas, se acontecer, o nosso aplicativo analisa os registos do Windows e gera um relatório para o sistema analítico. Isso diminui a probabilidade de que este problema seja repetido neste computador e em outros com uma configuração semelhante."
 
 msgid "settings_bsods-anchor"
 msgstr "Saiba mais "
@@ -425,7 +425,7 @@ msgid "settings_collect-drivers-title"
 msgstr "Baixar os drivers ausentes"
 
 msgid "settings_collect-drivers-caption"
-msgstr "Para permitir que o banco de dados do driver DriverPack cubra ainda mais dispositivos, um sistema de coleta de dados exclusivo foi desenvolvido. Ele analisa informações sobre os drivers que já estão instalados nos computadores e, se o sistema descobrir um driver raro, ele o adiciona ao banco de dados do driver automaticamente. Todos esses dados são coletados de forma absolutamente anônima e se relacionam somente com drivers de dispositivo."
+msgstr "Para permitir que o banco de dados do driver do DriverPack cubra ainda mais dispositivos, um sistema de coleta de dados exclusivo foi desenvolvido. Ele analisa informações sobre os drivers que já estão instalados nos computadores e, se o sistema descobrir um driver raro, ele o adiciona ao banco de dados do driver automaticamente. Todos esses dados são coletados de forma absolutamente anônima e se relacionam somente com drivers de dispositivo."
 
 msgid "settings_collect-drivers-anchor"
 msgstr "Saiba mais "
@@ -461,7 +461,7 @@ msgid "menu_computer_management"
 msgstr "Gerenciamento do Computador"
 
 msgid "menu_control_panel"
-msgstr "Painel de controle"
+msgstr "Painel de Controle"
 
 msgid "menu_disk_management"
 msgstr "Gerenciamento de Disco"
@@ -530,7 +530,7 @@ msgid "drivers_header_driver_for_computer"
 msgstr "Drivers para este computador"
 
 msgid "drivers_btn_install_all_caption"
-msgstr "A instalação do software recomendado pode ser desabilitada nas configurações"
+msgstr "A instalação dos programas recomendados pode ser desabilitada nas configurações"
 
 msgid "drivers_header_show_already_installed"
 msgstr "Ver os drivers instalados e os alternativos"
@@ -559,13 +559,13 @@ msgstr "Exibição"
 #. i18n: EN: text for {{LINK}} is in key zero-drivers_cta-msg-caption-link;
 #. RU: текст для {{LINK}} находится в ключе zero-drivers_cta-msg-caption-link;
 msgid "zero-drivers_cta-msg-caption"
-msgstr "Se você ainda tiver problemas não resolvidos com seus dispositivos, você pode{{LINK}}"
+msgstr "Se você ainda tiver problemas não resolvidos com seus dispositivos, você pode {{LINK}}"
 
 msgid "zero-drivers_cta-msg"
 msgstr "Todos os drivers necessários já estão instalados"
 
 msgid "zero-drivers_cta-msg-caption-link"
-msgstr "reinstale ou recupere os drivers"
+msgstr "reinstalar ou reverter os drivers"
 
 msgid "zero-drivers_cta-btn"
 msgstr "Vá para a limpeza do computador"
@@ -616,7 +616,7 @@ msgid "final_popover_new_driver_not_installed_caption"
 msgstr "Ocorreu um erro durante o processo de instalação e o driver anterior foi restaurado neste dispositivo."
 
 msgid "final_computer_setup_ok_title"
-msgstr "Opa! Seu computador foi configurado!"
+msgstr "Legal! Seu computador foi configurado!"
 
 msgid "final_drivers_not_better_title"
 msgid_plural "final_drivers_not_better_title_n"
@@ -635,10 +635,10 @@ msgstr[0] "Foi instalado {{COUNT1}} dos {{COUNT2}} programas"
 msgstr[1] "Foram instalados {{COUNT1}} dos {{COUNT2}} programas"
 
 msgid "final_programs_all_failed_title"
-msgstr "0 programas de software de {{COUNT}} estão instalados"
+msgstr "Estão instalados 0 dos {{COUNT}} programas"
 
 msgid "final_single_program_failed_title"
-msgstr "O programa de software não foi instalado"
+msgstr "O programa não foi instalado"
 
 msgid "final_offline_restart"
 msgstr "Foi detectada uma conexão de rede. Reinicie o DriverPack para instalar as versões mais recentes dos drivers."
@@ -651,8 +651,8 @@ msgstr "Todos os drivers importantes foram instalados."
 
 msgid "final_drivers_not_better_subtitle"
 msgid_plural "final_drivers_not_better_subtitle_n"
-msgstr[0] "No entanto, {{COUNT}} driver importantes não foram instalados. Recomendamos que você repita a instalação ou verifique a operação de seus dispositivos."
-msgstr[1] "No entanto, {{COUNT}} drivers importantes não foram instalados. Recomendamos que você repita a instalação ou verifique a operação de seus dispositivos. "
+msgstr[0] "No entanto, {{COUNT}} driver importante não foi instalado. Recomendamos que você repita a instalação ou verifique o funcionamento dos seus dispositivos. "
+msgstr[1] "No entanto, {{COUNT}} drivers importantes não foram instalados. Recomendamos que você repita a instalação ou verifique o funcionamento dos seus dispositivos. "
 
 msgid "final_single_driver_ok_programs_subtitle"
 msgstr "Todos os drivers e utilitários importantes foram instalados."
@@ -662,29 +662,29 @@ msgstr "Todos os drivers importantes foram instalados."
 
 msgid "final_programs_all_finished_subtitle"
 msgid_plural "final_programs_all_finished_subtitle_n"
-msgstr[0] "{{COUNT}} o software foi instalado."
-msgstr[1] " {{COUNT}} software de programa foi instalado. "
+msgstr[0] "{{COUNT}} programa foi instalado."
+msgstr[1] " {{COUNT}} programas foram instalados. "
 
 msgid "final_programs_some_finished_subtitle"
-msgstr "A instalação de algum software útil falhou."
+msgstr "A instalação de algum programa útil falhou."
 
 msgid "final_programs_all_failed_subtitle"
-msgstr "A instalação do software falhou."
+msgstr "A instalação do programa falhou."
 
 msgid "final_single_program_finished_subtitle"
-msgstr "1 programa de software foi instalado."
+msgstr "1 programa foi instalado."
 
 msgid "final_single_program_failed_subtitle"
-msgstr "Algo deu errado e este software não foi instalado. Tente iniciar a instalação novamente."
+msgstr "Algo deu errado e este programa não foi instalado. Tente iniciar a instalação novamente."
 
 msgid "final_main_remove_harmful_advice"
 msgstr "Um malware foi detectado em seu computador. Recomendamos que você tome medidas para removê-lo."
 
 msgid "final_main_remove_harmful_caption"
-msgstr "Vá para limpeza do computador para se livrar do software indesejado"
+msgstr "Vá para a limpeza do computador de programa indesejado"
 
 msgid "final_main_offline_reload"
-msgstr "Reiniciar e verificar atualizações"
+msgstr "Reiniciar e verificar se há atualizações"
 
 msgid "final_main_next_btn"
 msgstr "Continuar"
@@ -703,8 +703,8 @@ msgstr "Recomendamos que você reinicie seu computador assim que a instalação 
 
 msgid "final_aside_installed_drivers_title"
 msgid_plural "final_aside_installed_drivers_title_n"
-msgstr[0] "{{COUNT}} o driver foi instalado"
-msgstr[1] "{{COUNT}} os drivers foram instalados"
+msgstr[0] "{{COUNT}} driver foi instalado"
+msgstr[1] "{{COUNT}} drivers foram instalados"
 
 msgid "final_some_drivers_not_installed"
 msgstr "Alguns drivers não foram instalados"
@@ -719,31 +719,31 @@ msgid "final_aside_installed_drivers_caption"
 msgstr "Nós instalamos alguns programas úteis e gratuitos para você, incluindo antivírus, navegadores e kits de ferramentas do driver. Todos eles são potencialmente úteis."
 
 msgid "final_aside_remove_harmful_programs"
-msgstr "Eliminar software indesejado"
+msgstr "Eliminar programa indesejado"
 
 msgid "final_aside_install_additional_programs"
-msgstr "Instalar software adicional"
+msgstr "Instalar programa adicional"
 
 msgid "final_aside_some_programs_not_installed"
-msgstr "Algum software não foi instalado"
+msgstr "Alguns programas não foram instalados"
 
 msgid "final_aside_broken_devices_title"
 msgstr "Dispositivos problemáticos foram detectados"
 
 msgid "final_aside_broken_devices_caption"
-msgstr "Alguns dispositivos neste computador não estão funcionando corretamente, e é impossível instalar drivers para eles. Recomendamos que você verifique sua manutenção."
+msgstr "Alguns dispositivos neste computador não estão funcionando corretamente, e é impossível instalar os drivers para eles. Recomendamos que você verifique sua capacidade de manutenção."
 
 msgid "games_top_game_free_demo"
-msgstr "Versão demo grátis"
+msgstr "Versão demo gratuita"
 
 msgid "games_top_game_free_paid"
-msgstr "Você precisará de uma cópia do jogo comprada de {{SELLER}}"
+msgstr "Você precisará de uma cópia do jogo comprada do {{SELLER}}"
 
 msgid "games_top_game_play"
 msgstr "Comece a jogar"
 
 msgid "games_playkey_top_title"
-msgstr "Jogue <span class='games_title-marked bold'>nos melhores jogos</span> no nível mais alto <br /> <span class='bold'>de configuração, mesmo no computador fraco</span>"
+msgstr "Jogue <span class='games_title-marked bold'>os melhores jogos</span> nas configurações de nível mais alto <br /> <span class='bold'>mesmo em um computador fraco</span>"
 
 msgid "games_playkey_open_catalog_button"
 msgstr "Mais de 150 jogos no catálogo PlayKey"
@@ -755,10 +755,10 @@ msgid "games_playkey_cloud_img_pc_caption"
 msgstr "O computador transfere as ações do usuário"
 
 msgid "games_playkey_cloud_img_cloud_caption"
-msgstr "O sinal é transferido para o Сloud"
+msgstr "O sinal é transferido para a Nuvem"
 
 msgid "games_playkey_cloud_img_server_caption"
-msgstr "O jogo começa no servidor"
+msgstr "O jogo inicia no servidor"
 
 msgid "games_playkey_cloud_img_joystick_caption"
 msgstr "Você aproveita o jogo sem problemas ou atrasos"
@@ -773,7 +773,7 @@ msgid "authorize_popup_logout_button"
 msgstr "Sair"
 
 msgid "installation_header_subtitle"
-msgstr "Pode levar algum tempo, mas&nbsp;vale a pena"
+msgstr "Isso pode levar algum tempo, mas&nbsp;valerá a pena"
 
 msgid "installation_header_subtitle_installing-driver"
 msgstr "{{CLASS.SINGLE.FOR}} o driver está instalando"
@@ -1022,19 +1022,19 @@ msgid "no-internet-screen_guide-step-1"
 msgstr "Passo 1"
 
 msgid "no-internet-screen_guide-step-1-action"
-msgstr ""
+msgstr "Vá para o site <span class=\"bold\">drp.su/pt-br/foradmin</span> usando outro computador"
 
 msgid "no-internet-screen_guide-step-2"
 msgstr "Passo 2"
 
 msgid "no-internet-screen_guide-step-2-action"
-msgstr ""
+msgstr "Baixe o <span class=\"bold\">DriverPack Offline Full</span> ou <span class=\"bold\">DriverPack Offline Network</span> para uma unidade flash USB para instalar os drivers no seu computador sem uma conexão com a Internet <br /><br /> <span class=\"bold\">O DriverPack Offline Network</span> inclui drivers para hardware de rede (Lan/Wi-Fi), ele opera sem uma conexão com a Internet (500 MB) <br /><br /> <span class=\"bold\">O DriverPack Offline Full</span> inclui todos os drivers, funciona sem uma conexão com a Internet"
 
 msgid "no-internet-screen_guide-step-complete"
 msgstr "Concluído"
 
 msgid "no-internet-screen_guide-step-complete-action"
-msgstr ""
+msgstr "Inicie o aplicativo neste computador e configure-o com um clique"
 
 msgid "programs_header_text_title"
 msgstr "Todos os softwares úteis em um só lugar"
@@ -1202,7 +1202,7 @@ msgid "installation_header_promo_title_cloud"
 msgstr "Algo novo: DriverPack Cloud Beta"
 
 msgid "installation_header_promo_text_cloud"
-msgstr "Nossa nova ferramenta prevê algumas quebras devido à tecnologia de aprendizagem em máquina e sugere soluções para problemas comuns.<br>Experimente a versão beta e não se esqueça de compartilhar suas impressões — isso nos ajudará a melhorar o DriverPack Cloud e torná-lo ainda mais útil."
+msgstr "Nossa nova ferramenta prevê algumas quebras devido à tecnologia do aprendizado de máquina e sugere soluções para problemas comuns.<br>Experimente a versão beta e não se esqueça de compartilhar suas impressões — isso nos ajudará a melhorar o DriverPack Cloud e torná-lo ainda mais útil."
 
 msgid "installation_header_promo_title_avast"
 msgstr "O que torna o Avast melhor do que outros antivírus?"

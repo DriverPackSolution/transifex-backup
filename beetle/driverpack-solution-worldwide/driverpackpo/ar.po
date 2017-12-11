@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-11-27 10:29+0000\n"
-"PO-Revision-Date: 2017-12-04 13:44+0000\n"
+"PO-Revision-Date: 2017-12-09 17:31+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Arabic (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/ar/)\n"
 "MIME-Version: 1.0\n"
@@ -229,7 +229,7 @@ msgid "programs_btn_install_single"
 msgstr "تثبيت"
 
 msgid "programs_btn_installed_single"
-msgstr "مُثبت"
+msgstr "تم تثبيته"
 
 msgid "settings_common-settings"
 msgstr "الاعدادات العامة"
@@ -286,7 +286,7 @@ msgid "settings_protect-title"
 msgstr "DriverPack Protect"
 
 msgid "settings_protect-caption"
-msgstr "هذه التقنية ستساعدك بتنظيف الحاسب من البرمجيات الخبيثة و الإعلانات المزعجة التي قد تفشل حتى مضادات الفايروسات وبرامج حجب الإعلانات من كشفها والتعامل معها. سيسمح لك نظام تنظيف البرمجيات الخبيثة والإعلانات المزعجة الخاص بنا بتوفير المساحة على القرص الصلب وزيادة كفاءة الحاسب بشكل فعال. لذلك نحن ننصحك بشدة باستخدام هذه الأداة والاستفادة من جميع مميزاتها."
+msgstr "هذه التقنية ستساعدك بتنظيف جهازك الكمبيوتر من البرمجيات الخبيثة و الإعلانات المزعجة التي قد تفشل حتى مضادات الفايروسات وبرامج حجب الإعلانات من كشفها والتعامل معها. سيسمح لك نظام تنظيف البرمجيات الخبيثة والإعلانات المزعجة الخاص بنا بتوفير المساحة على القرص الصلب وزيادة كفاءة الكمبيوتر بشكل فعال. لذلك نحن ننصحك بشدة باستخدام هذه الأداة والاستفادة من جميع مميزاتها."
 
 msgid "settings_protect-anchor"
 msgstr "اعرف أكثر"
@@ -358,7 +358,7 @@ msgid "settings_bug-report-title"
 msgstr "تمكين خيار إعتراض الخطأ (Error Catch)"
 
 msgid "settings_bug-report-caption"
-msgstr "طور مهندسو DriverPack هذا النظام ليكون قادر من تلقاء نفسه على الإبلاغ عن أي مشاكل عملية, و بالتالي تقديم طرق سريعة لإصلاحها."
+msgstr "مهندسو DriverPack قد طوروا هذا النظام ليكون التطبيق قادر من تلقاء نفسه على الإبلاغ عن أي مشاكل عملية, و بالتالي تقديم طرق سريعة لإصلاحها."
 
 msgid "settings_bug-report-anchor"
 msgstr "اعرف أكثر"
@@ -373,13 +373,13 @@ msgid "settings_restore-point-caption"
 msgstr "DriverPack هو الطريق الأسهل والأجدر بالثقة لضبط اعدادات جهاز الكمبيوتر و تثبيت التعريفات, ولكن في حال حدوث أي أمر طارئ, قبل البدء بعملية ضبط الاعدادات, يتم إنشاء نقطة استرجاع. تمكنك من العودة إلى الاعدادات السابقة في أي لحظة."
 
 msgid "settings_drivers-backup-title"
-msgstr "إنشاء برنامج تشغيل احتياطي (نسخة احتياطية)"
+msgstr "إنشاء برنامج تشغيل احتياطي (backup)"
 
 msgid "settings_drivers-backup-caption"
 msgstr ""
 
 msgid "settings_system-check-title"
-msgstr "تمكين خيار التحقق من النظام (فحص النظام)"
+msgstr "تمكين خيار التحقق من النظام (System Check)"
 
 msgid "settings_system-check-caption"
 msgstr ""
@@ -403,7 +403,7 @@ msgid "settings_statistics-href"
 msgstr "https://vk.com/topic-29220845_34742999"
 
 msgid "settings_machine-learning-title"
-msgstr "تمكين خيار التعلم الآلي (التعلم التقائي)"
+msgstr "تمكين خيار التَعلُّم الآلي للجهاز (تَعلُّم الجهاز التقائي)"
 
 msgid "settings_machine-learning-caption"
 msgstr ""
@@ -415,7 +415,7 @@ msgid "settings_machine-learning-href"
 msgstr "https://vk.com/topic-29220845_34743004"
 
 msgid "settings_bsods-title"
-msgstr "تحليل أسباب تحطم  (BSoD)  \"شاشة الموت الزرقاء\""
+msgstr "تحليل أسباب تحطم \"شاشة الموت الزرقاء\" (BSoD)"
 
 msgid "settings_bsods-caption"
 msgstr ""
@@ -427,7 +427,7 @@ msgid "settings_bsods-href"
 msgstr "https://vk.com/topic-29220845_34743011"
 
 msgid "settings_collect-drivers-title"
-msgstr "تحميل برامج التشغيل المفقودة"
+msgstr "تحميل التعريفات المفقودة"
 
 msgid "settings_collect-drivers-caption"
 msgstr ""
@@ -439,13 +439,13 @@ msgid "settings_collect-drivers-href"
 msgstr "https://vk.com/topic-29220845_34743007"
 
 msgid "menu_create_recovery_point"
-msgstr "خلق نقطة استعادة"
+msgstr "انشاء نقطة استعادة"
 
 msgid "menu_create_drivers_backup"
 msgstr "عمل نسخة احتياطية من التعريفات"
 
 msgid "menu_add_remove_programs"
-msgstr "الغاء تثبيت البرنامج"
+msgstr "إزالة تثبيت البرنامج"
 
 msgid "menu_device_manager"
 msgstr "مدير الجهاز"
@@ -484,7 +484,7 @@ msgid "drivers_screen_list-name-title-unknown"
 msgstr "جهاز غير معروف"
 
 msgid "device_row_current_version"
-msgstr "الإصدار الحالى"
+msgstr "الإصدار الحالي"
 
 msgid "device_row_installation"
 msgstr "التثبيت"
@@ -493,10 +493,10 @@ msgid "device_row_update"
 msgstr "تحديث"
 
 msgid "driver_row_version"
-msgstr "النسخة"
+msgstr "الإصدار"
 
 msgid "driver_row_date"
-msgstr "التاريخ"
+msgstr "تاريخ"
 
 msgid "drivers_row_current_driver"
 msgstr "التعريف الحالي"
@@ -511,7 +511,7 @@ msgid "driver_row_driver-menu-state-rollback"
 msgstr "التراجع"
 
 msgid "driver_row_vendor"
-msgstr "الصانع"
+msgstr "الجهة المصنعة"
 
 msgid "driver_row_inf"
 msgstr "ملف *.inf"
@@ -526,7 +526,7 @@ msgid "drivers_row_recommended"
 msgstr "موصى به"
 
 msgid "driver_row_driver-menu-search"
-msgstr "بحث على الانترنت"
+msgstr "ابحث على الإنترنت"
 
 msgid "drivers_btn_install_all"
 msgstr "تثبيت الكل <b>({{COUNT}})</b>"
@@ -559,7 +559,7 @@ msgid "drivers_screen_alternative"
 msgstr "التعريفات البديلة"
 
 msgid "drivers_screen_show"
-msgstr "العرض"
+msgstr "عرض"
 
 #. i18n: EN: text for {{LINK}} is in key zero-drivers_cta-msg-caption-link;
 #. RU: текст для {{LINK}} находится в ключе zero-drivers_cta-msg-caption-link;
@@ -567,7 +567,7 @@ msgid "zero-drivers_cta-msg-caption"
 msgstr ""
 
 msgid "zero-drivers_cta-msg"
-msgstr "جميع التعريفات الضرورية تم تثبيتها بالفعل"
+msgstr "لقد تم تثبيت جميع التعريفات المطلوبة"
 
 msgid "zero-drivers_cta-msg-caption-link"
 msgstr "التراجع و إعادة تثبيت التعريفات"
@@ -579,13 +579,13 @@ msgid "zero-drivers_footer_device-manager"
 msgstr "مدير الجهاز"
 
 msgid "zero-drivers_footer_support"
-msgstr "الدعم التقنى"
+msgstr "الدعم الفني"
 
 msgid "zero-drivers_footer_system-restore"
 msgstr "استعادة النظام"
 
 msgid "drivers_screen_view_options_vendor"
-msgstr "الصانع"
+msgstr "الجهة المصنعة"
 
 msgid "drivers_screen_view_options_version"
 msgstr "الإصدار"
@@ -651,10 +651,10 @@ msgid "final_programs_all_failed_title"
 msgstr ""
 
 msgid "final_single_program_failed_title"
-msgstr "تم تثبيت البرنامج"
+msgstr "لم يتم تثبيت البرنامج"
 
 msgid "final_offline_restart"
-msgstr "تم تحديد إتصال بالانترنت . رجاء أعد تشغيل DriverPack لتثبيت أحدث إصدارات من التعريفات."
+msgstr "تم تحديد إتصال بالانترنت . رجاء أعد تشغيل DriverPack لتثبيت أحدث إصدارات التعريفات."
 
 msgid "final_drivers_ok_programs_subtitle"
 msgstr "تم تثبيت جميع التعريفات و الخدمات المهمة"
@@ -708,7 +708,7 @@ msgid "final_main_offline_reload"
 msgstr "إعادة التشغيل، والتحقق من وجود تحديثات"
 
 msgid "final_main_next_btn"
-msgstr "استمر"
+msgstr "استمرار"
 
 msgid "final_restart_installation_btn"
 msgstr "ابدأ التثبيت مرة أخرى"
@@ -732,7 +732,7 @@ msgstr[4] ""
 msgstr[5] ""
 
 msgid "final_some_drivers_not_installed"
-msgstr "لم يتم تثبيت بعض التعريفات"
+msgstr "بعض التعريفات لم يتم تثبيتها"
 
 msgid "final_rollback_drivers"
 msgstr "التراجع عن مشاكل التعريفات"
@@ -747,7 +747,7 @@ msgid "final_aside_remove_harmful_programs"
 msgstr "ازالة البرامج غير المرغوب بها"
 
 msgid "final_aside_install_additional_programs"
-msgstr "تثبيت برامج إضافية."
+msgstr "تثبيت برامج إضافية"
 
 msgid "final_aside_some_programs_not_installed"
 msgstr "بعض البرامج لم يتم تثبيتها"
@@ -825,13 +825,13 @@ msgid "installation_header_promo_install"
 msgstr "تثبيت"
 
 msgid "installation_header_promo_fb"
-msgstr "مجتمعنا على فيسبوك"
+msgstr "مجتمعنا على Facebook"
 
 msgid "installation_item_category_restorepoint"
 msgstr "استعادة لنقطة"
 
 msgid "driver_class_bluetooth"
-msgstr "جهاز البلوتوث"
+msgstr "جهاز Bluetooth"
 
 msgid "driver_class_cardreader"
 msgstr "قارئات الذاكرة"
@@ -855,7 +855,7 @@ msgid "driver_class_monitor"
 msgstr "شاشة العرض"
 
 msgid "driver_class_phone"
-msgstr "هاتف ذكي"
+msgstr "الهاتف الذكي"
 
 msgid "driver_class_printer"
 msgstr "الطابعة"
@@ -867,7 +867,7 @@ msgid "driver_class_tvtuner"
 msgstr "موالف التلفزيون"
 
 msgid "driver_class_video"
-msgstr "كرت شاشة"
+msgstr "كرت الشاشة"
 
 msgid "driver_class_webcamera"
 msgstr "كاميرا ويب"
@@ -876,25 +876,25 @@ msgid "driver_class_wifi"
 msgstr "جهاز واي فاي"
 
 msgid "driver_class_other"
-msgstr "أجهزة أخري"
+msgstr "أجهزة أخرى"
 
 msgid "soft_category_archiver"
 msgstr "العمليات مع الأرشيف"
 
 msgid "soft_category_browser"
-msgstr "عملية سريعة وآمنة على شبكة الإنترنت"
+msgstr "لإستخدام آمن وسريع على الإنترنت"
 
 msgid "soft_category_viewer"
 msgstr "عرض الصور والمستندات"
 
 msgid "soft_category_messenger"
-msgstr "مكالمات مجانية والرسائل"
+msgstr "مكالمات مجانية ورسائل"
 
 msgid "soft_category_internet"
-msgstr "مرافق الإنترنت"
+msgstr "برمجية خدمات الإنترنت"
 
 msgid "soft_category_player"
-msgstr "الفيلم ومشاهدة الفيديو"
+msgstr "مشاهدة الأفلام والفيديوهات"
 
 msgid "soft_category_backup"
 msgstr ""
@@ -903,13 +903,13 @@ msgid "soft_category_antivirus"
 msgstr "حماية مضاد الفيروسات"
 
 msgid "soft_category_system"
-msgstr "نظام المرافق"
+msgstr "برمجية خدمات النظام"
 
 msgid "soft_category_drivers"
 msgstr ""
 
 msgid "installation_error_download"
-msgstr "خلل في التنزيل"
+msgstr "خلل في التحميل"
 
 msgid "installation_error_unzip"
 msgstr ""
@@ -1274,7 +1274,7 @@ msgid "installation_header_promo_text_win_10"
 msgstr ""
 
 msgid "installation_header_promo_title_social"
-msgstr "انضم الي مجتمع DriverPack"
+msgstr "انضم الى مجتمع DriverPack"
 
 msgid "installation_header_promo_text_social"
 msgstr ""
@@ -1298,7 +1298,7 @@ msgid "installation_header_promo_text_browsers"
 msgstr ""
 
 msgid "installation_header_promo_title_driverpack_for_all"
-msgstr "DriverPack سيلائم أى حاسب"
+msgstr "DriverPack سيتوافق مع أي جهاز كمبيوتر "
 
 msgid "installation_header_promo_text_driverpack_for_all"
 msgstr ""
@@ -1313,7 +1313,7 @@ msgid "softcategories_viewer-single-for"
 msgstr "برنامج عرض الملفات"
 
 msgid "softcategories_messenger-single-for"
-msgstr "برامج المراسلة"
+msgstr "برامج تبادل الرسائل"
 
 msgid "softcategories_internet-single-for"
 msgstr "برامج للعمل على الإنترنت"
@@ -1322,16 +1322,16 @@ msgid "softcategories_player-single-for"
 msgstr "مشغل الوسائط"
 
 msgid "softcategories_backup-single-for"
-msgstr "أداة النسخ الإحتياطى"
+msgstr "أداة النسخ الإحتياطي"
 
 msgid "softcategories_antivirus-single-for"
-msgstr "مضاد للفيروسات"
+msgstr "مضاد الفيروسات"
 
 msgid "softcategories_system-plural-for"
-msgstr "أدوات النظام"
+msgstr "برمجية خدمات النظام"
 
 msgid "softcategories_drivers-plural-for"
-msgstr "أدوات تشغيل عمليات التعريفات"
+msgstr "أدوات لعمل التعريفات بشكل صحيح"
 
 msgid "installation_application_restart_confirm_text_1"
 msgstr ""
