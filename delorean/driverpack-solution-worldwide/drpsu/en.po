@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-11-24 08:35+0000\n"
+"POT-Creation-Date: 2017-12-08 15:35+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Leonid Beschasny <lbeschastny@iknow.travel>, 2017\n"
 "Language-Team: English (https://www.transifex.com/driverpack-solution/teams/75452/en/)\n"
@@ -25,10 +25,7 @@ msgid "admindriverpacks_landing-title"
 msgstr "Driverpacks (packages of drivers)"
 
 msgid "admindriverpacks_landing-subtitle"
-msgstr "Our driverpacks contain 1,131,989 drivers which have been manually selected and tested"
-
-msgid "admindriverpacks_downloaded"
-msgstr "Downloads:"
+msgstr "Our driverpacks contain {{COUNT}} drivers which have been manually selected and tested"
 
 msgid "admindriverpacks_download"
 msgstr "Download"
@@ -417,7 +414,7 @@ msgid "landingproducts_item-title-online"
 msgstr "DriverPack Online"
 
 msgid "landingproducts_item-description-online"
-msgstr "It is downloaded instantly, downloads and installs all drivers if you have Internet connection <span class='nobr'>({{SIZE}} MB)</span>"
+msgstr "It is downloaded instantly, downloads and installs all drivers if you have Internet connection <span class='nobr'>({{SIZE}})</span>"
 
 msgid "landingproducts_item-version"
 msgstr "Version:"
@@ -429,13 +426,13 @@ msgid "landingproducts_item-title-network"
 msgstr "DriverPack Offline Network"
 
 msgid "landingproducts_item-description-network"
-msgstr "It contains drivers for network hardware (Lan/Wi-Fi), it operates without connection to Internet  <span class='nobr'>({{SIZE}} MB)</span>"
+msgstr "It contains drivers for network hardware (Lan/Wi-Fi), it operates without connection to Internet  <span class='nobr'>({{SIZE}})</span>"
 
 msgid "landingproducts_item-title-offline"
 msgstr "DriverPack Offline Full"
 
 msgid "landingproducts_item-description-offline"
-msgstr "It contains all drivers, operates without connection to Internet, it can be downloaded through the Torrent-tracker <span class='nobr'>({{SIZE}} GB)</span>"
+msgstr "It contains all drivers, operates without connection to Internet, it can be downloaded through the Torrent-tracker <span class='nobr'>({{SIZE}})</span>"
 
 msgid "landingpublications__landing-title"
 msgstr "Mass media publications about DriverPack"
@@ -519,19 +516,19 @@ msgid "productlandingheader-online_cta-btn"
 msgstr "Download DriverPack Online"
 
 msgid "productlandingheader-online_caption"
-msgstr "DriverPack Online - the most popular product of just {{SIZE}} MB size. It is downloaded instantly, it selects drivers for your computer or laptop, and after that downloads all required drivers via Internet and installs them. It perfectly fits an ordinary user. It operates only with Internet access."
+msgstr "DriverPack Online - the most popular product of just {{SIZE}} size. It is downloaded instantly, it selects drivers for your computer or laptop, and after that downloads all required drivers via Internet and installs them. It perfectly fits an ordinary user. It operates only with Internet access."
 
 msgid "productlandingheader-network_cta-btn"
 msgstr "Download DriverPack Offline Network"
 
 msgid "productlandingheader-network_caption"
-msgstr "DriverPack Offline Network - drivers for network hardware in one place ({{SIZE}} MB). It is downloaded fast, and installed even faster! As soon as Windows is re-installed, DriverPack Offline Network will configure network drivers to connect to Internet, and then download drivers for the rest devices!"
+msgstr "DriverPack Offline Network - drivers for network hardware in one place ({{SIZE}}). It is downloaded fast, and installed even faster! As soon as Windows is re-installed, DriverPack Offline Network will configure network drivers to connect to Internet, and then download drivers for the rest devices!"
 
 msgid "productlandingheader-offline_cta-btn"
 msgstr "Download DriverPack Offline Full"
 
 msgid "productlandingheader-offline_caption"
-msgstr "DriverPack Offline Full - a huge pack of {{SIZE}} GB size for driver installation without Internet access. Just download DriverPack Offline Full and use the enormous library of up-to-date drivers wherever you like. It perfectly fits system admins."
+msgstr "DriverPack Offline Full - a huge pack of {{SIZE}} size for driver installation without Internet access. Just download DriverPack Offline Full and use the enormous library of up-to-date drivers wherever you like. It perfectly fits system admins."
 
 msgid "promoheader_cta-text-gamers"
 msgstr "Your computer is more powerful than you think: update all drivers for free"
@@ -1128,8 +1125,3 @@ msgstr "The development of this solution was based on the following materials"
 
 msgid "wannacryptpromopage_link-smb"
 msgstr "How to enable and disable versions 1, 2, and 3 of SMB protocols for Windows and Windows Server"
-
-#~ msgid "adminheader_products-caption"
-#~ msgstr ""
-#~ "Any DriverPack will configure your computer in no time. Just choose the pack"
-#~ " you need:"
