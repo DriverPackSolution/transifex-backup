@@ -1,18 +1,17 @@
 # Translators:
 # Nadia Tegeneva <nadia@drp.su>, 2017
-# Moses Matewe <mosmat2002@yahoo.co.uk>, 2017
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-11-24 08:35+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
-"Last-Translator: Moses Matewe <mosmat2002@yahoo.co.uk>, 2017\n"
-"Language-Team: Shona (https://www.transifex.com/driverpack-solution/teams/75453/sn/)\n"
+"Last-Translator: Nadia Tegeneva <nadia@drp.su>, 2017\n"
+"Language-Team: Pushto (https://www.transifex.com/driverpack-solution/teams/75453/ps/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: sn\n"
+"Language: ps\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "adminlandingpage_title"
@@ -95,23 +94,23 @@ msgstr ""
 
 #. i18n: EN: Example: VENDOR.NAME=Lenovo; RU: Пример: VENDOR.NAME=Lenovo;
 msgid "breadcrumbs_vendor-text"
-msgstr ""
+msgstr "{{VENDOR.NAME}}"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=cardreaders|monitors; RU: Пример:
 #. CLASS.PLURAL.MAIN=картридеры|мониторы;
 msgid "breadcrumbs_deviceclass-text"
-msgstr ""
+msgstr "{{CLASS.PLURAL.MAIN}}"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=cardreaders|monitors,
 #. VENDOR.NAME=Realtek; RU: Пример: CLASS.PLURAL.MAIN=картридеры|мониторы;
 #. VENDOR.NAME=Realtek;
 msgid "breadcrumbs_devicegroups-text"
-msgstr ""
+msgstr "{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
 
 #. i18n: EN: Example: GROUP.VENDOR.NAME=Nvidia, GROUP.NAME=GeForce 210; RU:
 #. Пример: GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210;
 msgid "breadcrumbs_devicegroup-text"
-msgstr ""
+msgstr "{{GROUP.VENDOR.NAME}} {{GROUP.NAME}}"
 
 msgid "breadcrumbs_notebooks-text"
 msgstr ""
@@ -123,7 +122,7 @@ msgstr ""
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=X1 carbon;
 #. RU: Пример: NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=X1 carbon;
 msgid "breadcrumbs_notebook-text"
-msgstr ""
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=Videocards|Chipsets ,
 #. NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=G580; RU: Пример:
@@ -170,7 +169,7 @@ msgid "devicecard_details-content-label-systems"
 msgstr ""
 
 msgid "devicecard_details-content-label-deviceid"
-msgstr ""
+msgstr "Device ID:"
 
 msgid "devicecard_details-content-label-inf"
 msgstr ""
@@ -270,7 +269,7 @@ msgid "drivercard_caption-os"
 msgstr ""
 
 msgid "drivercard_caption-deviceid"
-msgstr ""
+msgstr "Device ID:"
 
 msgid "drivercard_caption-inf"
 msgstr ""
@@ -414,7 +413,7 @@ msgid "landingproducts_cta-description"
 msgstr ""
 
 msgid "landingproducts_item-title-online"
-msgstr ""
+msgstr "DriverPack Online"
 
 msgid "landingproducts_item-description-online"
 msgstr ""
@@ -426,13 +425,13 @@ msgid "landingproducts_item-button"
 msgstr ""
 
 msgid "landingproducts_item-title-network"
-msgstr ""
+msgstr "DriverPack Offline Network"
 
 msgid "landingproducts_item-description-network"
 msgstr ""
 
 msgid "landingproducts_item-title-offline"
-msgstr ""
+msgstr "DriverPack Offline Full"
 
 msgid "landingproducts_item-description-offline"
 msgstr ""
@@ -579,7 +578,7 @@ msgid "searchformitem_type-device"
 msgstr ""
 
 msgid "searchformitem_type-free"
-msgstr "zvisina mubhadharo"
+msgstr ""
 
 #. i18n: EN: Example: NAME=Acer; RU: Пример: NAME=Acer;
 msgid "generatesearchitemname_notebookvendor"
@@ -873,7 +872,7 @@ msgid "translationtool_example-en-to-all"
 msgstr ""
 
 msgid "language_title"
-msgstr "Shona"
+msgstr "Pushto"
 
 msgid "landingPagePublications_rbk"
 msgstr ""
@@ -969,7 +968,7 @@ msgid "badrabbitpromopage_link-smb"
 msgstr ""
 
 msgid "devicegrouppage_show-more-link"
-msgstr "Wona zvizhinji"
+msgstr ""
 
 msgid "devicestypepage_subtitle"
 msgstr ""
@@ -1023,7 +1022,7 @@ msgid "notfoundpage_title"
 msgstr ""
 
 msgid "notebookpage_show-more-link"
-msgstr "Wona zvizhinji"
+msgstr ""
 
 msgid "notebookpage_all-devices"
 msgstr ""
@@ -1041,7 +1040,7 @@ msgid "reviewpage_title"
 msgstr ""
 
 msgid "searchpage_show-more-link"
-msgstr "Wona zvizhinji"
+msgstr ""
 
 #. i18n: EN: text for {{LINK}} is in key thankyoupopup_download-link; RU:
 #. текст для {{LINK}} находится в ключе thankyoupopup_download-link;

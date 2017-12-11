@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-10-26 10:03+0000\n"
+"POT-Creation-Date: 2017-11-22 09:26+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>, 2017\n"
 "Language-Team: Swahili (https://www.transifex.com/driverpack-solution/teams/75453/sw/)\n"
@@ -77,6 +77,33 @@ msgstr "Pakua ma driver la Windows XP,  7, 8, 8.1 na 10."
 msgid "seo_mainlanding-keywords"
 msgstr "pakua ma driver ya ku install update yenye kwa yenyewe ya Windows 7, XP, 10, 8, na 8.1 programu driver update"
 
+msgid "seo_productonline_title"
+msgstr "DriverPack Online | Pakua madereva haraka na kwa moja kwa moja"
+
+msgid "seo_productonline_description"
+msgstr "DriverPack Online inaruhusu kupakua na ku install / ku update ma driver yote yanayotakiwa kwa PC yako au kompyuta yako ikiwa una mutandao wa intaneti"
+
+msgid "seo_productonline_h1"
+msgstr ""
+
+msgid "seo_productnetwork_title"
+msgstr ""
+
+msgid "seo_productnetwork_description"
+msgstr ""
+
+msgid "seo_productnetwork_h1"
+msgstr ""
+
+msgid "seo_productoffline_title"
+msgstr ""
+
+msgid "seo_productoffline_description"
+msgstr ""
+
+msgid "seo_productoffline_h1"
+msgstr ""
+
 #. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
 #. CLASS.PLURAL.FOR=мониторов|модемов;
 msgid "seo_deviceclass-title"
@@ -147,17 +174,17 @@ msgstr "Jamii: <span itemprop='applicationCategory'>Vifaa</span>"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendor-footer-application-subcategory"
-msgstr ""
+msgstr "Kikundi: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}}  kifaa</span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|monitors; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.FOR=видеокарт|мониторов; VENDOR.NAME=Acer;
 msgid "seo_devicegroups-title"
-msgstr ""
+msgstr "{{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} ma driver | Pakua ya Windows 7, XP, 10, 8, na 8.1"
 
 #. i18n: EN: Example: CLASS.SINGLE.FOR=videocard|monitor; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.SINGLE.FOR=видеокарты|монитора; VENDOR.NAME=Acer;
 msgid "seo_devicegroups-description"
-msgstr ""
+msgstr "Pakua {{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} ma driver ao install DriverPack Solution programu kwa swala ya driver na uptade"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|monitors; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.FOR=видеокарт|мониторов; VENDOR.NAME=Acer;
@@ -167,22 +194,22 @@ msgstr "<span class='bold'>{{VENDOR.NAME}}</span> {{CLASS.SINGLE.FOR}} ma driver
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|monitors; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|мониторы; VENDOR.NAME=Acer;
 msgid "seo_devicegroups-keywords"
-msgstr ""
+msgstr "{{CLASS.PLURAL.MAIN}} {{VENDOR.NAME}} ma driver windows 7 8 10 64 pakua PC"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|monitors; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.FOR=видеокарт|мониторов; VENDOR.NAME=Acer;
 msgid "seo_devicegroups-footer-description"
-msgstr ""
+msgstr "Pakua ma driver ya {{VENDOR.NAME}} {{CLASS.PLURAL.FOR}}"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|monitors; RU: Пример:
 #. CLASS.PLURAL.MAIN=видеокарты|мониторы;
 msgid "seo_devicegroups-footer-application-category"
-msgstr ""
+msgstr "Kikundi: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|monitors; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|мониторы; VENDOR.NAME=Acer;
 msgid "seo_devicegroups-footer-application-subcategory"
-msgstr ""
+msgstr "Kikundi: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 #. i18n: EN: Example: CLASS.SINGLE.FOR=videocard|monitor; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.SINGLE.FOR=видеокарты|монитора; VENDOR.NAME=Acer;

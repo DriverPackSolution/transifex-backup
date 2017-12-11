@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-11-16 14:57+0000\n"
+"POT-Creation-Date: 2017-11-24 08:35+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>, 2017\n"
 "Language-Team: Hungarian (https://www.transifex.com/driverpack-solution/teams/75453/hu/)\n"
@@ -48,9 +48,6 @@ msgstr "A DriverPack a rendszergazdák számára készült, de a kezdők is kön
 msgid "adminheader_cta-btn"
 msgstr "DriverPack Online letöltése"
 
-msgid "adminheader_products-caption"
-msgstr "Bármely DriverPack pillanatok alatt települ a számítógépre. Egész egyszerűen válaszd ki azt a csomagot, amelyre szükséged van:"
-
 msgid "adminpromo_landing-title"
 msgstr "Az új DriverPack 18 fejlesztés alatt van"
 
@@ -58,7 +55,7 @@ msgid "adminpromo_landing-subtitle"
 msgstr "Az új verzió kimondottan a rendszergazdák számára készült, és az ő igényeiket tartja szem előtt."
 
 msgid "adminpromo_banner-text"
-msgstr "Az új DriverPack 18 az előző verziókon alapul, és már bizonyította kivételes stabilitását. Az új verzió kiadása a 2017-es év során esedékes."
+msgstr "Az új DriverPack 18-at a korábbi verziók alapján terveztük újra, mely már bizonyította kivételes stabilitását. Az új verzió kiadása a 2017-es év során esedékes."
 
 msgid "adminpromo_list-item-speed"
 msgstr "A telepítés sebessége és az alkalmazás elindítása optimalizálásra került."
@@ -413,11 +410,17 @@ msgstr "Összes szükséges driver telepítése"
 msgid "landingnotebookvendorslist_versions"
 msgstr "Egyéb DriverPack verziók"
 
+msgid "landingproducts_cta-title"
+msgstr "Válasszon DriverPack változatot!"
+
+msgid "landingproducts_cta-description"
+msgstr "Töltse le a megfelelő csomagot!"
+
 msgid "landingproducts_item-title-online"
 msgstr "DriverPack Online"
 
 msgid "landingproducts_item-description-online"
-msgstr ""
+msgstr "Azonnal letöltődik, letölti és telepíti az összes drivert, ha ön kapcsolódik az internethez <span class='nobr'>({{SIZE}} MB)</span>"
 
 msgid "landingproducts_item-version"
 msgstr "Verzió:"
@@ -435,7 +438,7 @@ msgid "landingproducts_item-title-offline"
 msgstr "DriverPack Offline Full"
 
 msgid "landingproducts_item-description-offline"
-msgstr ""
+msgstr "Tartalmazza az összes drivert, és internetkapcsolat nélkül is működik, és akár torrenten keresztül is letölthető <span class='nobr'>({{SIZE}} GB)</span>"
 
 msgid "landingpublications__landing-title"
 msgstr "Média publikációk a DriverPack -ról"
@@ -514,6 +517,24 @@ msgstr "{{OS}} laptopok driverei"
 
 msgid "notebookvendorslist_title"
 msgstr "Driverek keresése laptopokhoz"
+
+msgid "productlandingheader-online_cta-btn"
+msgstr "DriverPack Online letöltése"
+
+msgid "productlandingheader-online_caption"
+msgstr ""
+
+msgid "productlandingheader-network_cta-btn"
+msgstr ""
+
+msgid "productlandingheader-network_caption"
+msgstr ""
+
+msgid "productlandingheader-offline_cta-btn"
+msgstr ""
+
+msgid "productlandingheader-offline_caption"
+msgstr ""
 
 msgid "promoheader_cta-text-gamers"
 msgstr "A számítógéped erősebb, mint hinnéd: frissítsd az összes drivert ingyen!"
@@ -921,10 +942,10 @@ msgid "adminpagefaq_stable-a"
 msgstr "A DriverPack folyamatainak stabilitása a legfőbb prioritásaink közé tartozik, de apróbb hibák előfordulhatnak, még ha ritkán is. Emiatt rendszervisszaállítási pontot hozunk létre, mely lehetővé teszi a korábbi, beállítások nélküli állapot visszaállítását. Annak érdekében, hogy megelőzzük a hasonló problémákat, ajánlott a DriverPack alkalmazás menüjének meglátogatása, ahonnan elküldheted a technikai háttércsoportunknak a szoftver automatikus jelentését."
 
 msgid "badrabbitpromopage_cta-text"
-msgstr "Bad Rabbit kriptograrfikus vírus — hogyan védheti meg a számítógépét?"
+msgstr ""
 
 msgid "badrabbitpromopage_cta-subtext"
-msgstr "A DriverPack megfelelő megoldást nyújt a számítógép telepítőeszközök sérülékenységének megszüntetésére.  Ingyenesen letöltheti a Bad Rabbit elleni védelmet a számítógépére és a laptopjára, mely biztonságot nyújt."
+msgstr ""
 
 msgid "badrabbitpromopage_cta-btn"
 msgstr "Számítógép beállítása, és a Bad Rabbit védelem telepítése"
@@ -936,10 +957,10 @@ msgid "badrabbitpromopage_info-text-title-1"
 msgstr "Mi az a Bad Rabbit?"
 
 msgid "badrabbitpromopage_info-text-1"
-msgstr "A Bad Rabbit egy új kriptografikus vírus, mely Oroszország, Ukrajna, Bulgária és Törökország felhasználóit támadta meg 2017 októbere óta. Az áldozatok között van az Interfax RIA, a Fontanka RIA, több ukrán minisztérium és az odesszai repülőtér is. A művelet egyszerűen működik: a Mimikatz alkalmazás segítségével megszerezi a fiók adatait a számítógép memóriájából. Átkutatja a rendszergazda aktív fiókját adatok után. A Bad Rabbit megpróbál hozzáférni a helyi hálózathoz csatlakozó munkaállomásokhoz is SMB-n és WebDAV-on keresztül. Amint hozzáfér egy számítógéphez, a vírus lekódolja az elért adatokat, azután pedig módosítja az MBR-t. Amikor a folyamat véget ér, a Bad Rabbit újraindítja a számítógépet, és megjeleníti az üzenetet a 0,05 Bitcoin kifizetésének követeléséről (ez 2017. október 26-i árfolyamon körülbelül 300 dollárt jelent)."
+msgstr ""
 
 msgid "badrabbitpromopage_info-text-title-2"
-msgstr "Hogyan védhetem meg a számítógépemet a Bad Rabbit kriptografikus vírustól?"
+msgstr "Hogyan védheti meg a számítógépét a Bad Rabbit kriptografikus vírustól?"
 
 msgid "badrabbitpromopage_info-text-2"
 msgstr "A következőket teheti az új vírus elleni védelemhez:<br/>• Hozzonlétre egy infpub.dat nevű fájlt a C:\\\\Windows\\\\ mappában, és jelölje be a \"Csak olvasható\" mezőt a tulajdonságaiban!<br/>• FIgyeljen a Feladatkezelőben esetlegesen megjelenő új feladatokra!<br/>• Ne telepítsen Flash Player frissítést külső oldalakról!<br/>• Frissítse gyakran a Windows-t, és az összes telepített védelmi szoftvert!<br/>• Készítsen biztonsági mentést az operációs rendszeréről!<br/><br/>Emellett használhatja a DriverPack Solution új megoldását, melyet erről az oldalról tölthet le. Sok időt spórolhat meg vele.<br/><b>Ami megoldásunk Windows 7, 8, 8.1, 10, és XP rendszereken is működik.</b>"
@@ -1079,7 +1100,7 @@ msgid "wannacryptpromopage_cta-text"
 msgstr "WannaCrypt kriptografikus vírus — hogyan védd meg a számítógépet a történelem legnagyobb támadása ellen?"
 
 msgid "wannacryptpromopage_cta-subtext"
-msgstr "A DriverPack megfelelő megoldást nyújt a számítógép telepítőeszközök sérülékenységének megszüntetésére.  Ingyenesen letöltheted a WannaCry elleni védelmet a számítógépedre és a laptopodra, mely biztonságot nyújt."
+msgstr ""
 
 msgid "wannacryptpromopage_cta-btn"
 msgstr "Számítógép beállítása, és a WannaCry védelem telepítése"
@@ -1110,3 +1131,8 @@ msgstr "A fejlesztés az alábbiak segítségével készül"
 
 msgid "wannacryptpromopage_link-smb"
 msgstr "Hogyan engedélyezhető vagy tiltható le az SMB protokollok 1, 2 és 3-as verziója Windows vagy Windows szerver rendszeren?"
+
+#~ msgid "adminheader_products-caption"
+#~ msgstr ""
+#~ "Bármely DriverPack pillanatok alatt települ a számítógépre. Egész egyszerűen"
+#~ " válaszd ki azt a csomagot, amelyre szükséged van:"

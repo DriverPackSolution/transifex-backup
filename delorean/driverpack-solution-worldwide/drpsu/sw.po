@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-11-16 14:57+0000\n"
+"POT-Creation-Date: 2017-11-24 08:35+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Ir Kayembe Blaise <kablaise22@gmail.com>, 2017\n"
 "Language-Team: Swahili (https://www.transifex.com/driverpack-solution/teams/75453/sw/)\n"
@@ -47,9 +47,6 @@ msgstr "DriverPack imeundwa kwa admins lakini ni rahisi kutumia hata kwa yeyote 
 msgid "adminheader_cta-btn"
 msgstr "Pakua DriverPack Online"
 
-msgid "adminheader_products-caption"
-msgstr "DriverPack yoyote ya mpangilio itatsaidia kompyuta yako kwa wakati wowote. Chagua tu pack unayohitaji:"
-
 msgid "adminpromo_landing-title"
 msgstr "DriverPack 18 mpya ni chini ya maendeleo"
 
@@ -57,7 +54,7 @@ msgid "adminpromo_landing-subtitle"
 msgstr "Toleo jipya limeundwa mahususi kwa admins na inachukua mahitaji yao katika ankouti"
 
 msgid "adminpromo_banner-text"
-msgstr "DriverPack 18 mpya imefanywa upya kulingana na matoleo yaliyotangulia ambayo tayari yameonyesha utulivu wao wa kipekee. Toleo la toleo jipya limepangwa mwaka 2017."
+msgstr "DriverPack mupya 18 imefanywa kulingana na matoleo ya awali ambayo yameonyesha kuthibitisha yao ya kipekee. Toleo la toleo jipya limepangwa mwaka 2017."
 
 msgid "adminpromo_list-item-speed"
 msgstr "Haraka kwa ufungaji na ufunguwaji wa programu imetekelezwa upya."
@@ -412,11 +409,17 @@ msgstr "Install ma drever yote yanayotakiwa"
 msgid "landingnotebookvendorslist_versions"
 msgstr "Nyingine matoleo ya DriverPack matoleo"
 
+msgid "landingproducts_cta-title"
+msgstr "Chagua DriverPack yako"
+
+msgid "landingproducts_cta-description"
+msgstr "Pakua pakiti inayofaa kwako"
+
 msgid "landingproducts_item-title-online"
 msgstr "DriverPack Online"
 
 msgid "landingproducts_item-description-online"
-msgstr ""
+msgstr "Inapakuliwa mara moja, kupakuliwa na install ma drever yote ikiwa una mutandao wa intaneti <span class='nobr'>({{SIZE}} MB)</span>"
 
 msgid "landingproducts_item-version"
 msgstr "Mufumo:"
@@ -434,7 +437,7 @@ msgid "landingproducts_item-title-offline"
 msgstr "DriverPack Offline Full"
 
 msgid "landingproducts_item-description-offline"
-msgstr ""
+msgstr "Ina ma drever yote, yanafanya kazi bila kuunganisha kwenye mtandao wa intaneti, inaweza kupakuliwa kupitia Torrent-tracker <span class='nobr'>({{SIZE}} GB)</span>"
 
 msgid "landingpublications__landing-title"
 msgstr "Machapisho ya vyombo vya habari kuhusu DriverPack"
@@ -513,6 +516,24 @@ msgstr "Driver ya laptop ku {{OS}}"
 
 msgid "notebookvendorslist_title"
 msgstr "Driver inatafuta kifaa"
+
+msgid "productlandingheader-online_cta-btn"
+msgstr "Pakua DriverPack Online"
+
+msgid "productlandingheader-online_caption"
+msgstr "DriverPack Online - bidhaa maarufu sana ya ukubwa wa {{SIZE}} MB tu. Inapakuliwa mara moja, huchagua ma driver kwa kompyuta yako ao laptop yako, na baada ya kupakua ma driver yote yanayotakiwa kupitia mtandao wa intaneti  na ku install. Inafaa kabisa mtumiaji wa kawaida. Inafanya kazi tu kwa upatikanaji wa mtandao wa intaneti."
+
+msgid "productlandingheader-network_cta-btn"
+msgstr "Pakua DriverPack Offline Network"
+
+msgid "productlandingheader-network_caption"
+msgstr "DriverPack Offline Network -  ma driver kwa vifaa vya mtandao katika sehemu moja ({{SIZE}}MB). Inapakuliwa haraka, na hata ku install haraka! Mara baada ya Windows kuwa install tena, Offline Network  itaandaa ma driver ya mtandao kuunganisha kwenye mtandao wa intaneti, na kisha kupakua ma driver kwa vifaa vingine!"
+
+msgid "productlandingheader-offline_cta-btn"
+msgstr "Pakua DriverPack Offline Full"
+
+msgid "productlandingheader-offline_caption"
+msgstr "DriverPack Offline Full - pakiti kubwa ya {{SIZE}}GB ya ukubwa ya ku install driver bila upatikanaji wa mtandao wa intaneti. Pakua tu DriverPack Offline Full kamili na utumie maktaba kubwa ya ma driver ya up-to-date popote unapopenda. Inastahili kikamilifu admins ya mfumo."
 
 msgid "promoheader_cta-text-gamers"
 msgstr "Kompyuta yako ni nguvu zaidi kuliko unafikiria: sasisha madereva wote kwa bure"
@@ -920,10 +941,10 @@ msgid "adminpagefaq_stable-a"
 msgstr "Utekelezaji wa programu ya DriverPack ni mojawapo ya vipaumbele vyenye kuu lakini kushindwa madogo bado kunajitokeza, ingawa ni chache. Hii ndio sababu tunaunda uhakika wa kurejesha ambayo itawawezesha kurudi kila kitu kwenye hali iliyowekwa awali. Ili kuzuia tatizo sawa katika siku zijazo, tunakupendekeza kwenda kwenye Menyu ya DriverPack na tuma ripoti ambayo imeundwa moja kwa moja na programu, kwa huduma zetu za kiufundi."
 
 msgid "badrabbitpromopage_cta-text"
-msgstr "Bad Rabbit virusi vya kielelezo — Je! jinsi ya kulinda PC yako?"
+msgstr "Virusi vya Bad Rabbit ya cryptographic - jinsi ya kulinda PC yako?"
 
 msgid "badrabbitpromopage_cta-subtext"
-msgstr "DriverPack ina njia maalumu za kuondoa uharibifu kati ya zana za usanidi wa kompyuta. Unaweza kushusha ulinzi wa bure dhidi ya virusi vya Bad Rabbit kwa PC na kompyuta yako ambayo itahifadhi kompyuta yako."
+msgstr "DriverPack ina vitendo maalum vya kuondokana na udhaifu katika zana za usanidi wa kompyuta. Unaweza kupata PC yako au laptop yako kwa kupakua ulinzi wetu wa bure dhidi ya virusi vya Bad Rabbit."
 
 msgid "badrabbitpromopage_cta-btn"
 msgstr "Sanidi kompyuta na uilinde dhidi ya Bad Rabbit"
@@ -935,10 +956,10 @@ msgid "badrabbitpromopage_info-text-title-1"
 msgstr "Je! Bad Rabbit ni nini?"
 
 msgid "badrabbitpromopage_info-text-1"
-msgstr "Bad Rabbit  ni virusi mpya ya cryptographic ambayo imeshambulia kompyuta za watumiaji nchini Russia, Ukraine, Bulgaria, na Uturuki tangu mwishoni mwa mwezi wa Oktoba 2017. Pia kati ya waathirika walioathirika ni Interfax RIA, The Fontanka RIA, Wizara kadhaa ya Ukraine , pamoja na uwanja wa ndege wa Odessa. Kanuni ya operesheni ni rahisi: inatumia matumizi ya Mimikatz ili kupata data ya akaunti nje ya kumbukumbu ya PC yako. Pia inatafuta data ya akaunti ya admin ya kazi. Sungura mbaya basi hujaribu kufikia vituo vya kazi kwenye mtandao wa ndani kwa kutumia SMB na WebDAV. Mara tu inapata upatikanaji wa PC, virusi huchukua data yote ambayo imeweza kufikia, na baada ya hayo inabadilisha Kumbukumbu ya Boot Mwalimu. Wakati utaratibu huu ukamilika, Bad Rabbit hupunguza kompyuta yako na kupiga ujumbe wake kwa mahitaji ya Bitcoins 0.05 (ni nini cha dola 300 hadi Oktoba 26, 2017)."
+msgstr "Bad Rabbit ni virusi mpya ya cryptographic ambayo imeshambulia kompyuta nchini Urusi, Ukraine, Bulgaria, na Uturuki tangu mwishoni mwa Oktoba 2017. Pia kati ya waathirika ni Interfax RIA, Fontanka RIA, Wizara kadhaa ya Ukraine, pamoja na Uwanja wa Ndege wa Odessa. Kanuni ya operesheni ni rahisi: inatumia matumizi ya Mimikatz ili kupata data ya akaunti kutoka kumbukumbu ya PC yako. Pia inatafuta data ya akaunti ya admin ya kazi. Sungura mbaya kisha hujaribu kufikia vituo vya kazi kwenye mtandao wa ndani kwa kutumia SMB na WebDAV. Mara tu inapata upatikanaji wa PC yako, virusi huficha data yote ambayo imeweza kufikia, na baada ya hayo inabadilisha Kumbukumbu yaMaster Boot Record. Wakati utaratibu huu ukamilika, Bad Rabbit hupunguza kompyuta yako na kupiga ujumbe wake kwa mahitaji ya Bitcoins 0.05 (karibu dola 300 hadi mwisho wa Oktoba 2017)."
 
 msgid "badrabbitpromopage_info-text-title-2"
-msgstr "Je! Jinsi ya kuilinda PC yako dhidi ya virusi vya kipaji cha kijijini cha Bad Rabbit?"
+msgstr "Jinsi ya kulinda PC yako dhidi ya virusi vyaBad Rabbit cryptographic?"
 
 msgid "badrabbitpromopage_info-text-2"
 msgstr "Je! unaweza kufanya nini ili kujilinda dhidi ya virusi mpya:<br/>• Create faili ya infpub.dat kwenye folda ya C:\\\\Windows\\\\ na bonyeza chaguo la 'Read-only' katika mali zake<br/>• Tazama kwa uangalifu kujenga kazi mpya katika 'Task Scheduler'<br/>• Usi install updates yoyote ya FlashPlayer kutoka kwenye tovuti ya nje<br/>• Update Windows na programu zote za kulinda zilizowekwa<br/>• Fanya salama za mfumo wako wa operating system<br/><br/>Pia, unaweza kutumia tu suluhisho jipya kutoka kwa DriverPack Solution kwa kupakua kwenye ukurasa huu - itahifadhi wakati wako!<br/><b>Suluhisho letu linatumika kwenye Windows 7, 8, 8.1, 10, na XP.</b>"
@@ -1078,7 +1099,7 @@ msgid "wannacryptpromopage_cta-text"
 msgstr "Virusi WannaCrypt cryptographer — Je! jinsi ya kulinda kompyuta dhidi ya mashambulizi makubwa katika historia?"
 
 msgid "wannacryptpromopage_cta-subtext"
-msgstr "DriverPack ina njia maalum za kuondoa uharibifu kati ya zana za usanidi wa kompyuta. Unaweza kushusha ulinzi wa bure dhidi ya virusi vya WannaCry, ambayo itasaidia kulinda PC yako au kompyuta yako."
+msgstr "DriverPack ina vitendo maalum vya kuondokana na udhaifu katika zana za usanidi wa kompyuta. Unaweza kupata PC au laptop yako kwa kupakua ulinzi wetu wa bure dhidi ya virusi vya WannaCry."
 
 msgid "wannacryptpromopage_cta-btn"
 msgstr "Sanidi kompyuta na uilinde dhidi ya WannaCry"
@@ -1109,3 +1130,8 @@ msgstr "Maendeleo wa ufumbuzi huu ulitegemea vifaa vifuatavyo"
 
 msgid "wannacryptpromopage_link-smb"
 msgstr "Jinsi ya kuwawezesha na kutowawezesha matoleo ya 1, 2, na ya 3 ya SMB kwa Windows na Windows Server"
+
+#~ msgid "adminheader_products-caption"
+#~ msgstr ""
+#~ "DriverPack yoyote ya mpangilio itatsaidia kompyuta yako kwa wakati wowote. "
+#~ "Chagua tu pack unayohitaji:"

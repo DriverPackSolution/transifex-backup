@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-11-16 14:57+0000\n"
+"POT-Creation-Date: 2017-11-24 08:35+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: BestiaPL <bestiapl@gmail.com>, 2017\n"
 "Language-Team: Polish (https://www.transifex.com/driverpack-solution/teams/75453/pl/)\n"
@@ -52,9 +52,6 @@ msgstr "DriverPack został stworzony dla administratorów, ale jest łatwy w obs
 msgid "adminheader_cta-btn"
 msgstr "Pobierz DriverPack Online"
 
-msgid "adminheader_products-caption"
-msgstr "DriverPack umożliwia skonfigurowanie komputera w każdej chwili. Wystarczy jedynie wybrać pakiet, którego potrzebujesz:"
-
 msgid "adminpromo_landing-title"
 msgstr "Zupełnie nowy DriverPack 18 jest w trakcie tworzenia"
 
@@ -62,7 +59,7 @@ msgid "adminpromo_landing-subtitle"
 msgstr "Nowa wersja przygotowana została specjalnie dla administratorów i bierze ich potrzeby pod uwagę"
 
 msgid "adminpromo_banner-text"
-msgstr "Nowy DriverPack 18 stworzony jest na podstawie starszych wersji które już pokazały swą wyjątkową stabilność. Wydanie nowej wersji planowane jest na rok 2017."
+msgstr ""
 
 msgid "adminpromo_list-item-speed"
 msgstr "Szybkość instalacji oraz uruchamiania aplikacji została zoptymalizowana."
@@ -417,6 +414,12 @@ msgstr "Zainstaluj wszystkie wymagane sterowniki"
 msgid "landingnotebookvendorslist_versions"
 msgstr "Inne wersje DriverPack'a"
 
+msgid "landingproducts_cta-title"
+msgstr ""
+
+msgid "landingproducts_cta-description"
+msgstr ""
+
 msgid "landingproducts_item-title-online"
 msgstr "DriverPack Online"
 
@@ -518,6 +521,24 @@ msgstr "Sterowniki do laptopów pod {{OS}}"
 
 msgid "notebookvendorslist_title"
 msgstr "Pobierz sterowniki dla komputer przenośny"
+
+msgid "productlandingheader-online_cta-btn"
+msgstr "Pobierz DriverPack Online"
+
+msgid "productlandingheader-online_caption"
+msgstr ""
+
+msgid "productlandingheader-network_cta-btn"
+msgstr ""
+
+msgid "productlandingheader-network_caption"
+msgstr ""
+
+msgid "productlandingheader-offline_cta-btn"
+msgstr ""
+
+msgid "productlandingheader-offline_caption"
+msgstr ""
 
 msgid "promoheader_cta-text-gamers"
 msgstr "Twój komputer jest wydajniejszy, niż sądzisz: zaktualizuj wszystkie sterowniki za darmo"
@@ -925,10 +946,10 @@ msgid "adminpagefaq_stable-a"
 msgstr "Stabilność działania DriverPack'a jest jednym z naszych priorytetów, jednak drobne błędy ciągle się zdarzają, na szczęście rzadko. Dlatego tworzymy punkt przywracania, który pozwoli przywrócić wszystko do poprzedniego stanu. Aby zapobiec podobnym problemom w przyszłości sugerujemy przejście do menu DriverPack'a i wysłanie raportu, który jest automatycznie tworzony przez oprogramowanie, do naszego wsparcia technicznego."
 
 msgid "badrabbitpromopage_cta-text"
-msgstr "Wirus szyfrujący Bad Rabbit — jak ochronić swój komputer?"
+msgstr ""
 
 msgid "badrabbitpromopage_cta-subtext"
-msgstr "DriverPack zawiera specjalne narzędzia eliminujące podatności komputera wśród narzędzi konfigurujących. Możesz pobrać darmową ochronę przed wirusem Bad Rabbit, która zabezpieczy Twój komputer PC lub laptop."
+msgstr ""
 
 msgid "badrabbitpromopage_cta-btn"
 msgstr "Skonfiguruj i zabezpiecz komputer przed Bad Rabbit"
@@ -940,10 +961,10 @@ msgid "badrabbitpromopage_info-text-title-1"
 msgstr "Czym jest Bad Rabbit?"
 
 msgid "badrabbitpromopage_info-text-1"
-msgstr "Bad Rabbit jest nowy wirusem szyfrującym, który zaatakował komputery użytkowników z Rosji, Ukrainy, Bułgarii i Turcji w końcu października 2017. Wśród zaatakowanych ofiarami były Interfax RIA, Fontanka RIA, kilka ministertw Ukrainy oraz lotnisko w Odessie. Sposób działania wirusa jest prosty: używa on narzędzia Mimikatz do pozyskania danych logowania do kont z pamięci komputera ofiary. Szuka również informacji o aktywnym koncie administracyjnym  Potem Bad Rabbit próbuje uzyskać dostęp do komputerów w sieci lokalnej przy pomocy protokołów SMB i WebDAV. Kiedy tylko wirus uzyska dostęp do komputera szyfruje wszystkie dane, które uda mu się znaleźć a następnie zmienia Master Boot Record. Kiedy zakończy te czynności resetuje komputer i wyświetla komunikat z żądaniem 0,05 Bitcoina (co stanowiło 26 października ok. 300$)."
+msgstr ""
 
 msgid "badrabbitpromopage_info-text-title-2"
-msgstr "Jak ochronić komputer przed wirusem kryptograficznym Bad Rabbit?"
+msgstr ""
 
 msgid "badrabbitpromopage_info-text-2"
 msgstr "Co możesz zrobić, aby uchronić się przed nowym wirusem:<br/>• Utwórz plik infpub.dat w folderze C:\\\\Windows\\\\ o zaznacz w jego właściwościach 'Tylko do odczytu'<br/>• Kontroluj pojawiające się nowe zadania w 'Harmonogramie zadań' <br/>• Nie instaluj żadnych aktualizacji FlashPlayer'a spoza oficjalnych stron<br/>• Regularnie aktualizuj Windows i wszelkie oprogramowanie chroniące komputer<br/>• Regularnie twórz kopie zapasowe systemu operacyjnego<br/><br/>Poza tym możesz po prostu użyć nowego produktu od DriverPack Solution pobierając go z jego strony - zaoszczędzisz mnóstwo czasu!<br/><b>Nasze produkt działa na Windows 7, 8, 8.1, 10, i XP.</b>"
@@ -1083,7 +1104,7 @@ msgid "wannacryptpromopage_cta-text"
 msgstr "Wirus szyfrujący WannaCrypt — jak ochronić swój komputer przed największym atakiem w historii?"
 
 msgid "wannacryptpromopage_cta-subtext"
-msgstr "DriverPack zawiera specjalne narzędzia eliminujące podatności komputera wśród narzędzi konfigurujących. Możesz pobrać darmową ochronę przed wirusem WannaCrypt, która zabezpieczy Twój komputer PC lub laptop."
+msgstr ""
 
 msgid "wannacryptpromopage_cta-btn"
 msgstr "Skonfiguruj swój komputer i zabezpiecz go przed WannaCry"
@@ -1114,3 +1135,8 @@ msgstr "Opracowano na podstawie poniższych materiałów źródłowych"
 
 msgid "wannacryptpromopage_link-smb"
 msgstr "Jak włączyć lub wyłączyć wersje 1,2 lub 3 protokołów SMB dla Windows lub Windows Server"
+
+#~ msgid "adminheader_products-caption"
+#~ msgstr ""
+#~ "DriverPack umożliwia skonfigurowanie komputera w każdej chwili. Wystarczy "
+#~ "jedynie wybrać pakiet, którego potrzebujesz:"

@@ -6,13 +6,14 @@
 # sergiu <vandenboosch@mail.ru>, 2017
 # Driver Pack <team@drp.su>, 2017
 # Cetina Alexandru <cetina_alexandru95@yahoo.com>, 2017
+# Andrei Pavalachi <apavalac@student.42.fr>, 2017
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-11-16 14:57+0000\n"
+"POT-Creation-Date: 2017-11-24 08:35+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
-"Last-Translator: Cetina Alexandru <cetina_alexandru95@yahoo.com>, 2017\n"
+"Last-Translator: Andrei Pavalachi <apavalac@student.42.fr>, 2017\n"
 "Language-Team: Romanian (https://www.transifex.com/driverpack-solution/teams/75453/ro/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -50,9 +51,6 @@ msgstr "DriverPack a fost creat pentru administratori, dar este ușor de utiliza
 msgid "adminheader_cta-btn"
 msgstr "Descarcă DriverPack Online"
 
-msgid "adminheader_products-caption"
-msgstr "Orice DriverPack va configura computerul dvs. în cel mai scurt timp posibil. Doar alegeți pachetul de care aveți nevoie:"
-
 msgid "adminpromo_landing-title"
 msgstr "Noua versiune a DriverPack 18 este în dezvoltare"
 
@@ -60,7 +58,7 @@ msgid "adminpromo_landing-subtitle"
 msgstr "Noua versiune este special configurată pentru admini și ia în considerare nevoile lor"
 
 msgid "adminpromo_banner-text"
-msgstr "Noul DriverPack 18 a fost reproiectat pe baza versiunilor anterioare care și-au demonstrat deja stabilitatea excepțională. Eliberarea noii versiuni este programată pentru anul 2017."
+msgstr "Noul DriverPack 18 a fost reconceput fiind bazat pe versiunile precedente care au deja o stabilitate excepţională. Noua versiune este preconizată pentru anul 2017."
 
 msgid "adminpromo_list-item-speed"
 msgstr "Vitezele de instalare și pornire a aplicației au fost optimizate."
@@ -383,7 +381,7 @@ msgid "landingheader_cta-btn"
 msgstr "Instalează toate driverele necesare "
 
 msgid "landingheadernav_badrabbit"
-msgstr ""
+msgstr "Protecție împotriva Bad Rabbit"
 
 msgid "landingheadernav_search"
 msgstr "Căutare de drivere"
@@ -415,11 +413,17 @@ msgstr "Instalează toate driverele necesare "
 msgid "landingnotebookvendorslist_versions"
 msgstr "Alte versiuni DriverPack"
 
+msgid "landingproducts_cta-title"
+msgstr "Alege-ţi propriul DriverPack"
+
+msgid "landingproducts_cta-description"
+msgstr "Descarcă pachetul care ţi se potriveşte"
+
 msgid "landingproducts_item-title-online"
 msgstr "DriverPack Online"
 
 msgid "landingproducts_item-description-online"
-msgstr ""
+msgstr "Este descărcat instant, descarcă și instalează toate drivere necesare dacă ai conexiune la internet <span class='nobr'>({{SIZE}} MB)</span>"
 
 msgid "landingproducts_item-version"
 msgstr "Versiune:"
@@ -431,13 +435,13 @@ msgid "landingproducts_item-title-network"
 msgstr "DriverPack Offline Network"
 
 msgid "landingproducts_item-description-network"
-msgstr ""
+msgstr "Conține drivere de rețea (Lan/Wi-Fi), funcționează fără conexiune la internet <span class='nobr'>({{SIZE}} MB)</span>"
 
 msgid "landingproducts_item-title-offline"
 msgstr "DriverPack Offline Full"
 
 msgid "landingproducts_item-description-offline"
-msgstr ""
+msgstr "Conține toate driverele, funcționeză fără conexiune de internet, se poate descărca prin Torrent <span class='nobr'>({{SIZE}} GB)</span>"
 
 msgid "landingpublications__landing-title"
 msgstr "Știri despre DriverPack"
@@ -455,10 +459,10 @@ msgid "landingsocial_landing-subtitle"
 msgstr "Urmărește știrile și ia parte la discuții"
 
 msgid "landingtopvideocardlist_landing-title"
-msgstr ""
+msgstr "Modele cunoscute de plăci video"
 
 msgid "landingtopvideocardlist_landing-caption"
-msgstr ""
+msgstr "DriverPack selectează driverele pentru orice placă video, aici sunt cele mai populare"
 
 msgid "landingusers_cta"
 msgstr "Numărul utilizatorilor DriverPack din întreaga lume continuă să crească cu fiecare secundă"
@@ -470,7 +474,7 @@ msgid "landingusers_versions"
 msgstr "Alte versiuni DriverPack"
 
 msgid "landingvideocardlist_landing-title"
-msgstr ""
+msgstr "Producători de plăci video cunoscuți"
 
 msgid "landingwizard_landing-title"
 msgstr "Acum este posibilă configurarea unui computer cu un singur click"
@@ -516,6 +520,24 @@ msgstr "Drivere pentru laptopuri pe {{OS}}"
 
 msgid "notebookvendorslist_title"
 msgstr "Caută drivere pentru laptopuri"
+
+msgid "productlandingheader-online_cta-btn"
+msgstr "Descarcă DriverPack Online"
+
+msgid "productlandingheader-online_caption"
+msgstr ""
+
+msgid "productlandingheader-network_cta-btn"
+msgstr "Descarcă DriverPack Offline Network"
+
+msgid "productlandingheader-network_caption"
+msgstr ""
+
+msgid "productlandingheader-offline_cta-btn"
+msgstr "Descarcă DriverPack Offline Full"
+
+msgid "productlandingheader-offline_caption"
+msgstr ""
 
 msgid "promoheader_cta-text-gamers"
 msgstr "Computerul tău este mai puternic decât crezi: actualizați gratuit toate driverele"
@@ -923,28 +945,28 @@ msgid "adminpagefaq_stable-a"
 msgstr "Stabilitatea operațiunii software-ului DriverPack este una dintre prioritățile noastre, dar unele eșecuri minore încă persistă, deși rar. Din acest motiv creăm un punct de restaurare care vă va permite să readuceți totul la starea anterioară. Pentru a preveni o problemă similară în viitor, vă recomandăm să mergeți la Meniul DriverPack și să trimiteți raportul creat automat de software, serviciilor noastre tehnice."
 
 msgid "badrabbitpromopage_cta-text"
-msgstr ""
+msgstr "Virusul criptografic Bad Rabbit — cum să protejezi calculatorul tău?"
 
 msgid "badrabbitpromopage_cta-subtext"
 msgstr ""
 
 msgid "badrabbitpromopage_cta-btn"
-msgstr ""
+msgstr "Configurează calculatorul și protejează-l împotriva Bad Rabbit"
 
 msgid "badrabbitpromopage_caption-text"
 msgstr "Acest software este oferit gratuit"
 
 msgid "badrabbitpromopage_info-text-title-1"
-msgstr ""
+msgstr "Ce este Bad Rabbit?"
 
 msgid "badrabbitpromopage_info-text-1"
 msgstr ""
 
 msgid "badrabbitpromopage_info-text-title-2"
-msgstr ""
+msgstr "Cum îţi protejezi calculatorul impotriva virusului criptografic Bad Rabbit?"
 
 msgid "badrabbitpromopage_info-text-2"
-msgstr ""
+msgstr "Ce poți face pentru a te proteja împotriva noului virus:<br/>• Crează un fișier infpub.dat în folderul C:\\\\Windows\\\\ și selectează opțiunea 'Read-only' din proprietăți<br/>• Crează cu atenție noi task-uri în 'Task Scheduler'<br/>• Nu instala update-uri pentru FlashPlayer de pe alte site-uri externe<br/>• Fă update la Windows și la toate programele de protecție<br/>• Fă o copie de siguranță sistemului de operare<br/><br/>De asemenea, poți utiliza noua variantă oferită de DriverPack Solution prin descărcarea de pe pagina oficială - salvezi timp!<br/><b>Varianta noastră functionează cu Windows 7, 8, 8.1, 10, și XP. </b>"
 
 msgid "badrabbitpromopage_links-text"
 msgstr "Dezvoltarea acestei soluții s-a bazat pe următoarele materiale"
@@ -983,7 +1005,7 @@ msgid "landing-footer_manufacturers"
 msgstr "Producători de componente"
 
 msgid "landing-footer_badrabbit"
-msgstr ""
+msgstr "Protecție împotriva Bad Rabbit"
 
 msgid "landing-footer_for-admin"
 msgstr "Pentru admini"
@@ -1045,13 +1067,13 @@ msgid "translate-feedback-header_caption"
 msgstr "Această pagină a fost tradusă recent. Ai găsit o greșeală? Evidențiați-o și apăsați {{HOTKEY}}"
 
 msgid "translate-feedback-form-popup_preview-title"
-msgstr ""
+msgstr "Ai selectat următoarea parte din text:"
 
 msgid "translate-feedback-form-popup_correct-title"
-msgstr ""
+msgstr "Te rugăm frumos, să ne explici cu exactitate ce este greșit și să ne oferi varianta corectă:"
 
 msgid "translate-feedback-form-popup_submit"
-msgstr ""
+msgstr "Trimite"
 
 msgid "translate-feedback-popup_title-error"
 msgstr "Ceva nu a mers bine"
@@ -1081,7 +1103,7 @@ msgid "wannacryptpromopage_cta-text"
 msgstr "Virusul criptografic WannaCrypt — cum să îţi protejezi calculatorul împotriva celui mai mare atac din istorie?"
 
 msgid "wannacryptpromopage_cta-subtext"
-msgstr "DriverPack conține mijloace specifice pentru eliminarea vulnerabilităților printre instrumentele de configurare a computerului. Puteți descărca gratuit protecție împotriva virusului WannaCry, care vă va asigura PC-ul sau laptopul."
+msgstr ""
 
 msgid "wannacryptpromopage_cta-btn"
 msgstr "Configurați calculatorul și protejați-l împotriva WannaCry"
@@ -1112,3 +1134,8 @@ msgstr "Dezvoltarea acestei soluții s-a bazat pe următoarele materiale"
 
 msgid "wannacryptpromopage_link-smb"
 msgstr "Cum să activezi sau să dezactivezi veriunile 1,2 și 3 a protocoalelor SMB pentru Windows si Windows server"
+
+#~ msgid "adminheader_products-caption"
+#~ msgstr ""
+#~ "Orice DriverPack va configura computerul dvs. în cel mai scurt timp posibil."
+#~ " Doar alegeți pachetul de care aveți nevoie:"

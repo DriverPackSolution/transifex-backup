@@ -5,13 +5,14 @@
 # Srbastjan Colnaric <seba1.colnaric17@gmail.com>, 2017
 # Nadia Tegeneva <nadia@drp.su>, 2017
 # ales rakovic <alesrakovic96@gmail.com>, 2017
+# Marko <kadarkoli@gmail.com>, 2017
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-11-16 14:57+0000\n"
+"POT-Creation-Date: 2017-11-24 08:35+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
-"Last-Translator: ales rakovic <alesrakovic96@gmail.com>, 2017\n"
+"Last-Translator: Marko <kadarkoli@gmail.com>, 2017\n"
 "Language-Team: Slovenian (https://www.transifex.com/driverpack-solution/teams/75453/sl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -49,9 +50,6 @@ msgstr "DriverPack je bil ustvarjen za moderatorje, ampak vseeno je  prijazen do
 msgid "adminheader_cta-btn"
 msgstr "Prenesite DriverPack Online"
 
-msgid "adminheader_products-caption"
-msgstr "DriverPack bo posodobil vaš računalnik v najhitrejšem možnem času, izberite paket gonilnikov, ki ga potrebujete:"
-
 msgid "adminpromo_landing-title"
 msgstr "Nova različica DriverPack 18 je v razvoju"
 
@@ -59,7 +57,7 @@ msgid "adminpromo_landing-subtitle"
 msgstr "Nova različica je zasnovana posebej za skrbnike in upošteva njihove potrebe."
 
 msgid "adminpromo_banner-text"
-msgstr "Novi DriverPack 18 je še izboljšan v primerjavi za prejšnjimi različicami, ki so se vse pokazale kot izredno zanesljive in stabilne. Datum izida je predviden za leto 2017."
+msgstr "Novi DriverPack 18 je bil preoblikovan na podlagi prejšnjih različic, ki so že dokazale svojo izjemno stabilnost. Izdaja nove različice je predvidena za leto 2017."
 
 msgid "adminpromo_list-item-speed"
 msgstr "Hitrost nadgradnje in optimizacija je bila še izboljšana."
@@ -414,6 +412,12 @@ msgstr "Namesti vse potrebne gonilnike"
 msgid "landingnotebookvendorslist_versions"
 msgstr "Druge verzije DriverPack"
 
+msgid "landingproducts_cta-title"
+msgstr "Izberite svojo verzijo DriverPack"
+
+msgid "landingproducts_cta-description"
+msgstr "Prenesite paket, ki vam ustreza"
+
 msgid "landingproducts_item-title-online"
 msgstr "DriverPack Online"
 
@@ -515,6 +519,24 @@ msgstr "Gonilniki za prenosnike na {{OS}}"
 
 msgid "notebookvendorslist_title"
 msgstr "Iskanje gonilnikov za prenosne računalnike"
+
+msgid "productlandingheader-online_cta-btn"
+msgstr "Prenesite DriverPack Online"
+
+msgid "productlandingheader-online_caption"
+msgstr "DriverPack Online - najbolj priljubljen izdelek s samo velikostjo {{SIZE}} MB. Prenos se začne v trenutku, program  sam  izbere gonilnike za vaš PC ali prenosni računalnik in  prenese vse zahtevane gonilnike prek interneta ter jih namesti. Popolnoma se prilega navadnemu uporabniku. Deluje samo z dostopom do interneta."
+
+msgid "productlandingheader-network_cta-btn"
+msgstr "Prenesite DriverPack Offline Network"
+
+msgid "productlandingheader-network_caption"
+msgstr "DriverPack Offline Network - gonilniki strojne opreme na enem mestu ({{SIZE}} MB). Prenesemo ga hitro in namestimo še hitreje! Takoj, ko je Windows ponovno nameščen, bo DriverPack Offline Network konfiguriral omrežne gonilnike za povezavo z internetom in nato prenesel gonilnike za ostale naprave!"
+
+msgid "productlandingheader-offline_cta-btn"
+msgstr "Prenesite DriverPack Offline Full"
+
+msgid "productlandingheader-offline_caption"
+msgstr "DriverPack Offline Full - ogromen paket velikosti {{SIZE}} GB za namestitev gonilnikov brez dostopa do interneta. Prenesite DriverPack Offline Full in uporabite ogromno knjižnico posodobljenih gonilnikov, kjer koli želite. Popolnoma ustreza sistemskim administratorjem."
 
 msgid "promoheader_cta-text-gamers"
 msgstr "Vaš računalnik je lahko zmoglivejši, kot si predstavljate: posodobite ga brezplačno"
@@ -922,10 +944,10 @@ msgid "adminpagefaq_stable-a"
 msgstr "Stabilnost programa DriverPack je naša primarna skrb, toda vedno se lahko pojavijo manjše težave,ki pa so zelo redke. Zato program vedno ustvari obnovitveno točko v sistemu, s katero se lahko vrnete na stanje pred konfiguracijo. Da bi preprečili težave v prihodnosti priporočamo da uporabite DriverPack menu in sporočite vse potencialne našemu podpornemu timu, tako bomo lahko skupaj preprečili ponovitev napak v prihodnosti."
 
 msgid "badrabbitpromopage_cta-text"
-msgstr "Bad Rabbit cryptographer virus — kako zaščitim svoj PC?"
+msgstr "Bad Rabbit kriptografski virus — kako zaščitim svoj PC?"
 
 msgid "badrabbitpromopage_cta-subtext"
-msgstr "Program DriverPack vsebuje in namesti specifično zaščito pred virusi kot je Bad Rabbit virus med samo konfiguracijo vašega PC in Vam tako pomaga da ostanete zaščiteni pred spletnimi napadi."
+msgstr "DriverPack vsebuje posebne ukrepe za odpravo ranljivosti v računalniških orodjih za konfiguracijo.  Varnost vašega računalnika ali prenosnega računalnika lahko zagotovite tako, da prenesete našo brezplačno zaščito pred virusom Bad Rabbit."
 
 msgid "badrabbitpromopage_cta-btn"
 msgstr "Konfigurirajte Vaš PC tako da ostanete zaščiteni pred možnostjo okužbe z Bad Rabbit virusom"
@@ -937,10 +959,10 @@ msgid "badrabbitpromopage_info-text-title-1"
 msgstr "Kaj je to Bad Rabbit?"
 
 msgid "badrabbitpromopage_info-text-1"
-msgstr "Bad Rabbit je nov kriptografski virus, ki je napadel računalnike v Rusiji, Ukrajini, Bolgariji in Turčiji v Oktobru 2017. Med Okuženimi računalniki so se znašli tudi računalniki korporacij Interfax RIA, Fontanka RIA, več ministerstev in samo letališče Odessa. Princip delovanja virusa je preprost: uporablja Mimikatz orodje, ki vdre v vaš PC in iz njega pridobi podatke kot so Skrbniške pravice, gesla itd. Nato preko lokalne povezave z uporabo SMB in WedDav tehnologije poskuša vdreti v vaš PC. Takoj ko dobi dostop do vašega PC-ja vam zakodira vse podatke in spremeni sam postopek zagona. Ko je postopek končan vam ob vklopu PC-ja pokaže sporočilo z zahtevo za plačilo v vrednosti 0.05 Bitcoina (kar ustreza protivrednosti cca 300$ na dan Oktober 26.2017)"
+msgstr "Bad Rabbit je nov kriptografski virus, ki je od konca oktobra 2017 napadel računalnike v Rusiji, Ukrajini, Bolgariji in Turčiji. Med žrtvami napada so Interfax RIA, The Fontanka RIA, številna ministrstva Ukrajine in tudi Letališče Odessa. Načelo delovanja je preprosto: uporablja pripomoček Mimikatz, da pridobi podatke o računu iz pomnilnika vašega računalnika. Prav tako išče aktivne podatke skrbnika računa. Bad Rabbit  nato poskuša pridobiti dostop do delovnih postaj v lokalnem omrežju z uporabo SMB in WebDAV. Takoj ko pride do dostopa do vašega računalnika, virus šifrira vse podatke,  katere je uspel doseči, in nato spremeni Master Boot Record. Ko je ta postopek končan, Bad Rabbit ponastavi vaš računalnik in pokaže svoje sporočilo s zahtevo plačila v vrednosti 0,05 bitkoina (približno 300 dolarjev od konca oktobra 2017)."
 
 msgid "badrabbitpromopage_info-text-title-2"
-msgstr "Kako zaščitite svoj PC pre napadom z virusom Bad Rabbit ?"
+msgstr "Kako zaščitite vaš  računalnik pred kriptografskim virusom Bad Rabbit?"
 
 msgid "badrabbitpromopage_info-text-2"
 msgstr "Kaj lahko storite da zaščitite svoj PC pred napadom novih virusov:<br/>• Naredite novo mapo-infpub.dat file v direktoriju C:\\\\Windows\\\\ in jo označite kot  'Read-only' v lastnostih mape.<br/>• Bodite pozorni na ustvarjanjenovih opravil v direktoriju 'Task Scheduler'<br/>• Ne nameščajte nobenih posodobitev programa FlashPlayer iz zunanjih virov<br/>• Posodobite Windows in vso nameščeno protivirusno zaščito na vašem PC.ju<br/>• Naredite si shranjeno kopijo sistema<br/><br/>Ali pa enostavno uporabite rešitve, ki jih ponuja program DriverPack Solution, ki ga namestite iz povezave na tej strani-tako boste prihranili čas!<br/><b>Naša rešitev deluje na Windows 7, 8, 8.1, 10, in XP.</b>"
@@ -1080,7 +1102,7 @@ msgid "wannacryptpromopage_cta-text"
 msgstr "WannaCrypt cryptographer virus — kako se zasčitim pred največjim napadom v zgodovini?"
 
 msgid "wannacryptpromopage_cta-subtext"
-msgstr "Program DriverPack vsebuje začito pred ranljivostmi vaših komponent v primeru napada. Prenesite brezplačno zaščito pred napadom WannaCry virusa za vaš PC ali prenosnik."
+msgstr "DriverPack vsebuje posebne ukrepe za odpravo ranljivosti v računalniških orodjih za konfiguracijo. Varnost vašega računalnika ali prenosnega računalnika lahko zagotovite tako, da prenesete našo brezplačno zaščito pred napadom virusa WannaCry."
 
 msgid "wannacryptpromopage_cta-btn"
 msgstr "Konfigurirajte in zaščitite vaš računalnik pred napadom virusa WannaCry"
@@ -1111,3 +1133,8 @@ msgstr "Rešitve smo pridobili z uporabo navedenih storitev"
 
 msgid "wannacryptpromopage_link-smb"
 msgstr "Kako omogočim in onemogočim verzije 1, 2 in 3 SMB protokola za Windows in Windows Server?"
+
+#~ msgid "adminheader_products-caption"
+#~ msgstr ""
+#~ "DriverPack bo posodobil vaš računalnik v najhitrejšem možnem času, izberite "
+#~ "paket gonilnikov, ki ga potrebujete:"

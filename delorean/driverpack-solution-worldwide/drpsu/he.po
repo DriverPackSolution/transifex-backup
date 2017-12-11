@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-11-16 14:57+0000\n"
+"POT-Creation-Date: 2017-11-24 08:35+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Alexander Boglachov <alexbog98@gmail.com>, 2017\n"
 "Language-Team: Hebrew (https://www.transifex.com/driverpack-solution/teams/75453/he/)\n"
@@ -51,9 +51,6 @@ msgstr "תוכנת DriverPack נוצרה עבור מנהלי מערכות אבל
 msgid "adminheader_cta-btn"
 msgstr "הורד DriverPack Online"
 
-msgid "adminheader_products-caption"
-msgstr "כל אחד מתוכנות DriverPack שלנו יגדירו את המחשב שלך במהירות. פשוט בחרו את החבילה המתאימה לכם ביותר:"
-
 msgid "adminpromo_landing-title"
 msgstr "DriverPack 18 נמצאת כרגע בפיתוח"
 
@@ -61,7 +58,7 @@ msgid "adminpromo_landing-subtitle"
 msgstr "הגרסה החדשה מיועדת למנהלי מערכת"
 
 msgid "adminpromo_banner-text"
-msgstr "DriverPack 18 עוצבה מחדש ומבוססת על הגירסאות הקודמות שהוכיחו יציבות יוצאת דופן. הגירסה החדשה תצא בשנת 2017."
+msgstr "תוכנת DriverPack 18 עוצבה מחדש ומבוססת על הגירסאות הקודמות שכבר הוכיחו יציבות יוצאת דופן. הגירסה החדשה תצא בשנת 2017."
 
 msgid "adminpromo_list-item-speed"
 msgstr "שיפורים במהירות ההתקנה ובזמני ההפעלה של התוכנה"
@@ -416,11 +413,17 @@ msgstr "התקן את כל הדרייברים הנחוצים"
 msgid "landingnotebookvendorslist_versions"
 msgstr "גרסאות DriverPack שונות"
 
+msgid "landingproducts_cta-title"
+msgstr "בחר את גירסת DriverPack"
+
+msgid "landingproducts_cta-description"
+msgstr "הורד את החבילה המתאימה עבורך"
+
 msgid "landingproducts_item-title-online"
 msgstr "DriverPack Online"
 
 msgid "landingproducts_item-description-online"
-msgstr ""
+msgstr "החבילה יורדת מיידית, מורידה ומתקינה את כל הדרייברים הנחוצים אם יש לך חיבור אינטרנט תקין <span class='nobr'>({{SIZE}} MB)</span>"
 
 msgid "landingproducts_item-version"
 msgstr "גירסה:"
@@ -438,7 +441,7 @@ msgid "landingproducts_item-title-offline"
 msgstr "DriverPack Offline Full"
 
 msgid "landingproducts_item-description-offline"
-msgstr ""
+msgstr "החבילה מכילה את כל הדרייברים, ופועלת גם ללא חיבור לאינטרנט, וניתנת להורדה גם דרך טורנט <span class='nobr'>({{SIZE}} GB)</span>"
 
 msgid "landingpublications__landing-title"
 msgstr "פרסומים ומאמרים על DriverPack"
@@ -517,6 +520,24 @@ msgstr "מנהלי התקנים למחשבים ניידים ב-{{OS}}"
 
 msgid "notebookvendorslist_title"
 msgstr "חיפוש דרייברים למחשבים ניידים"
+
+msgid "productlandingheader-online_cta-btn"
+msgstr "הורד את DriverPack Online"
+
+msgid "productlandingheader-online_caption"
+msgstr "חבילת DriverPack Online - החבילה הפופולרית ביותר בגודל {{SIZE}} MB בלבד. החבילה יורדת באופן מיידי, בוחרת את הדרייברים עבורך המחשב, ולאחר מכן, מורידה את הדרייברים הנחוצים דרך האינטרנט ומתקינה אותם. החבילה מתאימה באופן מושלם למשתמשים רגילים. החבילה דורשת חיבור אינטרנט פעיל."
+
+msgid "productlandingheader-network_cta-btn"
+msgstr "הורד את DriverPack Offline Network"
+
+msgid "productlandingheader-network_caption"
+msgstr "חבילת DriverPack Offline לרשת - כל הדרייברים עבור כרטיסי רשת במקום אחד ({{SIZE}} MB). החבילה יורדת ומותקנת במהירות! ברגע שמערכת Windows מאפשרת, חבילת DriverPack Offline מגדירה את התקני הרשת עבור חיבור תקין לאינטרנט, ואז מורידה דרייברים עבור שאר ההתקנים במחשב!"
+
+msgid "productlandingheader-offline_cta-btn"
+msgstr "הורד את DriverPack Offline Full"
+
+msgid "productlandingheader-offline_caption"
+msgstr ""
 
 msgid "promoheader_cta-text-gamers"
 msgstr "המחשב שלך חזק מכפי שאתה חושב: עדכן את כל הדרייברים בחינם"
@@ -924,10 +945,10 @@ msgid "adminpagefaq_stable-a"
 msgstr "הדבר שנמצא בעדיפות עליונה בתוכנת DriverPack הוא יציבות המערכת. אבל, לעיתים נדירות יש גם כשלונות קטנים. זו הסיבה שלפני התקנה של כל דרייבר אנו יוצרים נקודת שחזור המאפשרת לך לשחזר את המערכת לנקודת הזמן שלפני ההתקנהץ בכדי למנוע בעיות דומות בעתיד, אנו ממליצים שתשלח לנו דוח באמצעות תפריט DriverPack. הדוח יווצר וישלח למחלקה הטכנית שלנו, אוטומטית."
 
 msgid "badrabbitpromopage_cta-text"
-msgstr "וירוס קריפטוגרפי Bad Rabbit — איך תוכל להגן על המחשב שלך?"
+msgstr ""
 
 msgid "badrabbitpromopage_cta-subtext"
-msgstr "תוכנת DriverPack מכילה אפשרות לחסום מספר חולשות ידועות. האפשרויות הללו מופיעות תחת קטגוריית כלי הגדרות מחשב. באפשרותך להוריד תוכנת הגנה חינמית למחשבך כנגד הוירוס Bad Rabbit בכדי לאבטח את המחשב שלך."
+msgstr ""
 
 msgid "badrabbitpromopage_cta-btn"
 msgstr "הגדר את המחשב שלך והגן עליו מפני הוירוס Bad Rabbit"
@@ -939,10 +960,10 @@ msgid "badrabbitpromopage_info-text-title-1"
 msgstr "מה זה Bad Rabbit?"
 
 msgid "badrabbitpromopage_info-text-1"
-msgstr "הוירוס Bad Rabbit הוא וירוס קריפטוגרפי שתקף מחשבים ברוסיה, אוקראינה, בולגריה, וטורקיה מחל מסוף אוקטובר 2017. בין הקרבנות ניתן למצוא את Interfax RIA, Fontanka RIA, מספר משרדי ממשלה באוקראינה, ושדה התעופה של אואדסה. עקרון התהליך של הוירוס הוא פשוט: הוירוס משתמש בכלי בשם Mimikatz עבור השגת כל נתוני המשתמש כמו סיסמאות מהדפדפנים ומהזיכרון. כמו כן, הכלי מחפש נתונים של מנהל המחשב. אז, Bad Rabbit מנסה לגשת לעמדות נוספות ברשת המקומית על ידי שימוש בפרוטוקולים SMB וWebDAV. ברגע שהוירוס משיג גישה למחשב נוסף, הוירוס מצפים את כל המידע שהוא יכול, ומשנה את רשומת האתחול המרכזית בדיסק הקשיח. ברגע שהתהליך הושלם, Bad Rabbit מפעיל מחדש את המחשב ומציג הודעה עם דרישה לתשלום של 0.05 ביטקוין (שווה ערך ל300$ בתאריך 26 לאוקטובר 2017)."
+msgstr ""
 
 msgid "badrabbitpromopage_info-text-title-2"
-msgstr "איך ניתן להגן על המחשב כנגד הוירוס הקריפטוגרפי Bad Rabbit?"
+msgstr ""
 
 msgid "badrabbitpromopage_info-text-2"
 msgstr "מה ניתן לעשות כדי להגן על עצמך מפני התקפה של הוירוס החדש:<br/>• צור את הקובץ infpub.dat בתיקיית C:\\\\Windows\\\\ וסמן את הקובץ כ'לקריאה בלבד' במאפיינים.<br/>• בדוק שאין משימות מתוזמנות מוזרות ב'מתזמן המשימות'<br/>• אל תתקין עדכונים לFlash Player ממקור חיצוני<br/>• עדכן את Windows לגירסה האחרונה והתקן תוכנת הגנה<br/>• צור גיבויים של מערכת ההפעלה שלך<br/><br/>כמו כן, באפשרותך להשתמש בפתרון החדש מבין DriverPack Solution על ידי הורדה בעמוד הזה - וכך לחסוך לך את הזמן!<br/><b>הפתרון שלנו עובד על Windows 7,8,8.1,10 וXP</b>"
@@ -1082,7 +1103,7 @@ msgid "wannacryptpromopage_cta-text"
 msgstr "וירוס WannaCrypt — איך להגן על המחשב כנגד המתקפה הגדולה בהיסטוריה?"
 
 msgid "wannacryptpromopage_cta-subtext"
-msgstr "תוכנת DriverPack מכילה, בין שאר כלי ההגדרה, גם אמצעים ספציפיים למניעת נקודות תורפה. באפשרותך להוריד תוכנת הגנה חינמית, למחשב הנייח או הנייד - כנגד וירוס WannaCry, ."
+msgstr ""
 
 msgid "wannacryptpromopage_cta-btn"
 msgstr "הגדר את המחשב והתגונן מפני WannaCry"
@@ -1113,3 +1134,8 @@ msgstr "פיתוח הפתרון התבסס על המאמרים הבאים"
 
 msgid "wannacryptpromopage_link-smb"
 msgstr "איך לאפשר ולבטל את כל הגירסאות (1,2,3) של פרוטוקול SMB בWindows ובשרתי Windows"
+
+#~ msgid "adminheader_products-caption"
+#~ msgstr ""
+#~ "כל אחד מתוכנות DriverPack שלנו יגדירו את המחשב שלך במהירות. פשוט בחרו את "
+#~ "החבילה המתאימה לכם ביותר:"

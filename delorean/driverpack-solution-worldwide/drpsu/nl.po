@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-11-16 14:57+0000\n"
+"POT-Creation-Date: 2017-11-24 08:35+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Richard Bussé <rbusse@live.be>, 2017\n"
 "Language-Team: Dutch (https://www.transifex.com/driverpack-solution/teams/75453/nl/)\n"
@@ -49,9 +49,6 @@ msgstr "DriverPack is gemaakt voor beheerders maar is ook gemakkelijk in gebruik
 msgid "adminheader_cta-btn"
 msgstr "Download DriverPack Online"
 
-msgid "adminheader_products-caption"
-msgstr "Elk DriverPack configureert uw computer in no time. Kies het pakket dat U nodig heeft: "
-
 msgid "adminpromo_landing-title"
 msgstr "Nieuw DriverPack 18 is in ontwikkeling"
 
@@ -59,7 +56,7 @@ msgid "adminpromo_landing-subtitle"
 msgstr "De nieuwe versie is speciaal ontwikkelt voor beheerders en houdt rekening met hun behoeften"
 
 msgid "adminpromo_banner-text"
-msgstr "Het nieuwe DriverPack 18 is herontworpen op basis van de vorige versies die hun uitzonderlijke stabiliteit al hebben bewezen. De release van de nieuwe versie is gepland voor het jaar 2017."
+msgstr "De nieuwe DriverPack 18 is opnieuw ontworpen op basis van de vorige versies die hun uitzonderlijke stabiliteit al hebben bewezen. De release van de nieuwe versie is gepland voor het jaar 2017."
 
 msgid "adminpromo_list-item-speed"
 msgstr "De installatiesnelheid en het opstarten van de applicatie zijn geoptimaliseerd."
@@ -414,11 +411,17 @@ msgstr "Installeer alle benodigde stuurprogramma's"
 msgid "landingnotebookvendorslist_versions"
 msgstr "Andere DriverPack versies"
 
+msgid "landingproducts_cta-title"
+msgstr "Kies je DriverPack"
+
+msgid "landingproducts_cta-description"
+msgstr "Download het pakket dat bij je past"
+
 msgid "landingproducts_item-title-online"
 msgstr "DriverPack Online"
 
 msgid "landingproducts_item-description-online"
-msgstr ""
+msgstr "Het wordt direct gedownload, downloadt en installeert alle drivers als u een internetverbinding hebt <span class='nobr'>({{SIZE}} MB)</span>"
 
 msgid "landingproducts_item-version"
 msgstr "Versie:"
@@ -436,7 +439,7 @@ msgid "landingproducts_item-title-offline"
 msgstr "DriverPack Offline Full"
 
 msgid "landingproducts_item-description-offline"
-msgstr ""
+msgstr "Het bevat alle drivers, werkt zonder verbinding met internet, het kan worden gedownload via de Torrent-tracker <span class='nobr'>({{SIZE}} GB)</span>"
 
 msgid "landingpublications__landing-title"
 msgstr "Media publicaties over DriverPack"
@@ -515,6 +518,24 @@ msgstr "Drivers voor laptops op {{OS}}"
 
 msgid "notebookvendorslist_title"
 msgstr "Driver zoeker voor laptops"
+
+msgid "productlandingheader-online_cta-btn"
+msgstr "Download DriverPack Online"
+
+msgid "productlandingheader-online_caption"
+msgstr "DriverPack Online - het meest populaire product van maar {{SIZE}} MB grootte. Het wordt direct gedownload, het selecteert drivers voor uw computer of laptop en download daarna alle vereiste drivers via internet en installeert ze. Het past perfect bij een gewone gebruiker. Het werkt alleen met internettoegang."
+
+msgid "productlandingheader-network_cta-btn"
+msgstr "Download DriverPack Offline Network"
+
+msgid "productlandingheader-network_caption"
+msgstr "DriverPack Offline Network - drivers voor netwerkhardware op één plaats ({{SIZE}} MB). Het wordt snel gedownload en nog sneller geïnstalleerd! Zodra Windows opnieuw is geïnstalleerd, configureert DriverPack Offline Network netwerkstuurprogramma's om verbinding met internet te maken en downloadt dan drivers voor de overige apparaten!"
+
+msgid "productlandingheader-offline_cta-btn"
+msgstr "Download DriverPack Offline Full"
+
+msgid "productlandingheader-offline_caption"
+msgstr "DriverPack Offline Full - een enorm pakket van {{SIZE}} GB grootte voor driver-installatie zonder internettoegang. Download gewoon DriverPack Offline Full en gebruik de enorme bibliotheek met up-to-date drivers waar en wanneer u maar wilt. Het past perfect bij systeembeheerders."
 
 msgid "promoheader_cta-text-gamers"
 msgstr "Uw computer is krachtiger dan u denkt: update alle drivers gratis"
@@ -922,10 +943,10 @@ msgid "adminpagefaq_stable-a"
 msgstr "De operationele stabiliteit van de DriverPack -software is een van onze voornaamste prioriteiten, maar er zijn nog steeds kleine storingen, hoewel deze zeldzaam zijn. Daarom maken we steeds een herstelpunt waarmee u altijd terug kunt keren naar de eerder geconfigureerde toestand. Om een soortgelijk probleem in de toekomst te voorkomen, raden wij u aan om naar het DriverPack -menu te gaan en het rapport te verzenden, dat automatisch door het programma wordt gemaakt, naar onze technische diensten."
 
 msgid "badrabbitpromopage_cta-text"
-msgstr "Bad Rabbit cryptographer virus — hoe bescherm je jouw pc?"
+msgstr "Bad Rabbit cryptographic virus — hoe bescherm je je pc?"
 
 msgid "badrabbitpromopage_cta-subtext"
-msgstr "DriverPack bevat specifieke middelen om kwetsbaarheden te elimineren onder de computer configuratie tools. U kunt gratis bescherming tegen het Bad Rabbit virus downloaden voor uw pc en laptop die uw computer beveiligt."
+msgstr "DriverPack bevat specifieke acties voor het elimineren van kwetsbaarheden in computer-configuratie-hulpmiddelen. U kunt uw pc of laptop beveiligen door onze gratis bescherming tegen het Bad Rabbit-virus te downloaden."
 
 msgid "badrabbitpromopage_cta-btn"
 msgstr "Configureer de computer en bescherm deze tegen Bad Rabbit"
@@ -937,10 +958,10 @@ msgid "badrabbitpromopage_info-text-title-1"
 msgstr "Wat is Bad Rabbit"
 
 msgid "badrabbitpromopage_info-text-1"
-msgstr "Bad Rabbit is een nieuw cryptografisch virus dat sinds eind oktober 2017 de computers van gebruikers in Rusland, Oekraïne, Bulgarije en Turkije heeft aangevallen. Onder de aangevallen slachtoffers bevinden zich ook de Interfax RIA, de Fontanka RIA, een aantal ministeries van Oekraïne en Odessa Airport. Het werkingsprincipe is eenvoudig: het gebruikt het Mimikatz-hulpprogramma om de accountgegevens uit het geheugen van uw pc op te halen. Het zoekt ook naar de actieve accountgegevens van de beheerder. Bad Rabbit probeert vervolgens via SMB en WebDAV toegang te krijgen tot de werkstations in het lokale netwerk. Zodra het toegang heeft tot de pc, het virus versleutelt alle gegevens die het heeft weten te bereiken en daarna verandert het de Master Boot Record. Wanneer deze procedure is voltooid, Bad Rabbit reset je computer en geeft zijn boodschap weer met een vraag naar 0,05 Bitcoins (wat ongeveer $ 300 is sinds 26 oktober 2017)."
+msgstr "Bad Rabbit is een nieuw cryptografisch virus dat sinds eind oktober 2017 computers in Rusland, Oekraïne, Bulgarije en Turkije heeft aangevallen. Onder de slachtoffers zijn ook de Interfax RIA, de Fontanka RIA, een aantal ministeries van Oekraïne, evenals Odessa Airport. Het bedieningsprincipe is eenvoudig: het gebruikt het hulpprogramma Mimikatz om de accountgegevens uit het geheugen van uw pc op te halen. Het zoekt ook naar de actieve accountgegevens van de beheerder. Bad Rabbit probeert vervolgens via SMB en WebDAV toegang te krijgen tot de werkstations in het lokale netwerk. Zodra het toegang krijgt tot uw pc, het virus versleutelt alle gegevens die het heeft weten te bereiken en daarna verandert het de Master Boot Record. Wanneer deze procedure is voltooid, Bad Rabbit reset je computer en geeft zijn boodschap weer met een vraag naar 0,05 Bitcoins (ongeveer $ 300 vanaf eind oktober 2017)."
 
 msgid "badrabbitpromopage_info-text-title-2"
-msgstr "Hoe bescherm je je pc tegen het Bad Rabbit cryptograaf virus?"
+msgstr "Hoe bescherm je  je pc tegen het cryptografisch virus van Bad Rabbit?"
 
 msgid "badrabbitpromopage_info-text-2"
 msgstr "Wat kan u doen om uzelf te beschermen tegen het nieuwe virus:<br/>• Maak een infpub.dat-bestand in de map C: \\\\Windows\\\\ en tik de optie 'Alleen lezen' in de eigenschappen ervan<br/>• Bekijk de nieuwe taken zorgvuldig in 'Taakplanner'<br/>• Installeer geen updates voor FlashPlayer van de outsider sites<br/>• Update Windows en alle geïnstalleerde beveiligingssoftware<br/>• Maak back-ups van uw besturingssysteem<br/><br/>Ook kunt u de nieuwe oplossing van DriverPack Solution gewoon gebruiken door deze van deze pagina te downloaden - het bespaart je tijd!<br/><b>Onze oplossing werkt op Windows 7, 8, 8.1, 10 en XP.</b>"
@@ -1080,7 +1101,7 @@ msgid "wannacryptpromopage_cta-text"
 msgstr "WannaCrypt-cryptograafviru — hoe bescherm je uw computer tegen de grootste aanval in de geschiedenis?"
 
 msgid "wannacryptpromopage_cta-subtext"
-msgstr "DriverPack bevat specifieke middelen om kwetsbaarheden te elimineren onder de computer configuratie tools. U kunt gratis beveiliging downloaden tegen het WannaCry-virus, dat uw pc of laptop beveiligt."
+msgstr "DriverPack bevat specifieke acties voor het elimineren van kwetsbaarheden in computer-configuratie-hulpmiddelen. U kunt uw pc of laptop beveiligen door onze gratis bescherming tegen het WannaCry-virus te downloaden."
 
 msgid "wannacryptpromopage_cta-btn"
 msgstr "Configureer de computer en bescherm deze tegen WannaCry"
@@ -1111,3 +1132,8 @@ msgstr "De ontwikkeling van deze oplossing was gebaseerd op de volgende material
 
 msgid "wannacryptpromopage_link-smb"
 msgstr "Hoe versies 1, 2, en 3 van SMB-protocollen voor Windows en Windows Server inschakelen en uitschakelen?"
+
+#~ msgid "adminheader_products-caption"
+#~ msgstr ""
+#~ "Elk DriverPack configureert uw computer in no time. Kies het pakket dat U "
+#~ "nodig heeft: "

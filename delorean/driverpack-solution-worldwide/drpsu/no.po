@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-11-16 14:57+0000\n"
+"POT-Creation-Date: 2017-11-24 08:35+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Harry Eliassen <harryemail@gmail.com>, 2017\n"
 "Language-Team: Norwegian (https://www.transifex.com/driverpack-solution/teams/75453/no/)\n"
@@ -47,9 +47,6 @@ msgstr "DriverPack er utviklet for administratorer men er enkel å bruke selv fo
 msgid "adminheader_cta-btn"
 msgstr "Last ned DriverPack Online"
 
-msgid "adminheader_products-caption"
-msgstr "Alle DriverPack's vil raskt konfigurere din datamaskin. Bare velg den pakken du trenger:"
-
 msgid "adminpromo_landing-title"
 msgstr "En ny DriverPack 18 er under utvikling"
 
@@ -57,7 +54,7 @@ msgid "adminpromo_landing-subtitle"
 msgstr "Den nye versjonen er utviklet spesielt for administratorer og ivaretar deres behov"
 
 msgid "adminpromo_banner-text"
-msgstr "Den nye DriverPack 18 har blitt redesignet basert på tidligere versjoner som allerede har vist sin eksepsjonelle stabilitet. Utgivelsen av den nye versjonen er planlagt i 2017."
+msgstr "Ny DriverPack 18 har blitt redesignet basert på tidligere versjoner som allerede har bevist sin eksepsjonelle stabilitet. Utgivelsen av den nye versjonen er planlagt for 2017."
 
 msgid "adminpromo_list-item-speed"
 msgstr "Hastigheten til installasjon og oppstart av applikasjonen er optimalisert."
@@ -412,11 +409,17 @@ msgstr "Installer alle nødvendige drivere"
 msgid "landingnotebookvendorslist_versions"
 msgstr "Andre DriverPack versjoner"
 
+msgid "landingproducts_cta-title"
+msgstr "Velg din DriverPack"
+
+msgid "landingproducts_cta-description"
+msgstr "Last ned den pakken som passer deg"
+
 msgid "landingproducts_item-title-online"
 msgstr "DriverPack Online"
 
 msgid "landingproducts_item-description-online"
-msgstr ""
+msgstr "Den lastes ned umiddelbart, laster ned og installerer alle drivere hvis du har Internett tilkobling <span class='nobr'>({{SIZE}} MB)</span>"
 
 msgid "landingproducts_item-version"
 msgstr "Versjon:"
@@ -428,13 +431,13 @@ msgid "landingproducts_item-title-network"
 msgstr "DriverPack Offline Network"
 
 msgid "landingproducts_item-description-network"
-msgstr ""
+msgstr "Den inneholder drivere for nettverks maskinvare (Lan / Wi-Fi), og opererer uten Internett tilkobling   <span class='nobr'>({{SIZE}} MB)</span>"
 
 msgid "landingproducts_item-title-offline"
 msgstr "DriverPack Offline Full"
 
 msgid "landingproducts_item-description-offline"
-msgstr ""
+msgstr "Den inneholder alle drivere, opererer uten forbindelse til Internett, og kan lastes ned gjennom Torrent-tracker <span class='nobr'>({{SIZE}} GB)</span>"
 
 msgid "landingpublications__landing-title"
 msgstr "Massemedia omtaler av DriverPack"
@@ -452,10 +455,10 @@ msgid "landingsocial_landing-subtitle"
 msgstr "Følg nyhetene og delta i diskusjoner"
 
 msgid "landingtopvideocardlist_landing-title"
-msgstr ""
+msgstr "Populære skjermkort modeller"
 
 msgid "landingtopvideocardlist_landing-caption"
-msgstr ""
+msgstr "DriverPack velger skjermkort drivere til alle modeller, her er de mest populære"
 
 msgid "landingusers_cta"
 msgstr "Antallet DriverPack brukere rundt om i verden fortsetter å vokse med hvert eneste sekund"
@@ -467,7 +470,7 @@ msgid "landingusers_versions"
 msgstr "Andre DriverPack versjoner"
 
 msgid "landingvideocardlist_landing-title"
-msgstr ""
+msgstr "Populære videokort produsenter"
 
 msgid "landingwizard_landing-title"
 msgstr "Det er nå mulig å konfigurere en datamaskin med et eneste klikk"
@@ -513,6 +516,24 @@ msgstr "Drivere for bærbare med {{OS}}"
 
 msgid "notebookvendorslist_title"
 msgstr "Søk drivere for bærbare"
+
+msgid "productlandingheader-online_cta-btn"
+msgstr "Last ned DriverPack Online"
+
+msgid "productlandingheader-online_caption"
+msgstr "DriverPack Online - det mest populære produktet på bare {{SIZE}} MB størrelse. Den lastes ned umiddelbart, den velger drivere for din datamaskinen eller bærbare PC, og etter det laster den ned alle nødvendige drivere via Internett og installerer dem. Den passer perfekt til en vanlig bruker. Den opererer kun med internettilgang."
+
+msgid "productlandingheader-network_cta-btn"
+msgstr "Last ned DriverPack Offline Network"
+
+msgid "productlandingheader-network_caption"
+msgstr "DriverPack Offline Network - drivere for nettverk maskinvare på et sted ({{SIZE}} MB). Den lastes ned raskt, og installeres enda raskere! Så snart Windows er installert på nytt, vil DriverPack Offline Network konfigurere nettverksdrivere for å koble til Internett, og deretter laste ned drivere for resten enheter!"
+
+msgid "productlandingheader-offline_cta-btn"
+msgstr "Last ned DriverPack Offline Full"
+
+msgid "productlandingheader-offline_caption"
+msgstr "DriverPack Offline Full - En stor pakke på {{SIZE}} GB størrelse for driverinstallasjon uten Internett tilgang. Bare last ned DriverPack Offline Full, og bruk det enorme biblioteket med oppdaterte drivere hvor du vil. Den passer perfekt til systemadministratorer."
 
 msgid "promoheader_cta-text-gamers"
 msgstr "Datamaskinen din er kraftigere enn du tror: oppdater alle drivere gratis"
@@ -923,7 +944,7 @@ msgid "badrabbitpromopage_cta-text"
 msgstr "Bad Rabbit kryptografisk virus — hvordan beskytte din PC?"
 
 msgid "badrabbitpromopage_cta-subtext"
-msgstr "DriverPack inneholder bestemte metoder for å eliminere sårbarheter blant datamaskinens konfigurasjonsverktøy. Du kan laste ned gratis beskyttelse mot Bad Rabbit viruset til din PC og bærbare som vil sikre datamaskinen din."
+msgstr "DriverPack inneholder spesifikke tiltak for å eliminere sårbarheter i datakonfigurasjonsverktøy. Du kan sikre din PC eller bærbar datamaskin ved å laste ned vår gratis beskyttelse mot Bad Rabbit viruset."
 
 msgid "badrabbitpromopage_cta-btn"
 msgstr "Konfigurer datamaskinen og beskytt den mot Bad Rabbit"
@@ -935,10 +956,10 @@ msgid "badrabbitpromopage_info-text-title-1"
 msgstr "Hva er Bad Rabbit"
 
 msgid "badrabbitpromopage_info-text-1"
-msgstr "Bad Rabbit er et nytt kryptografisk virus som har angrepet brukere av datamaskiner i Russland, Ukraina, Bulgaria og Tyrkia siden slutten av Oktober 2017. Blant de angrepne ofrene er også The Interfax RIA, The Fontanka RIA, en rekke Ukrainske Departementer , samt Odessa Flyplass. Måten det virker på er enkelt: det bruker Mimikatz verktøyet for å hente kontodataene ut av PC'ens minne. Det søker også etter administrators aktive konto data. Bad Rabbit forsøker deretter å få tilgang til arbeidsstasjonene i det lokale nettverket ved å bruke SMB og WebDAV. Så snart det får tilgang til PC'en, krypterer viruset alle dataene som det klarte å finne, og deretter endrer det Master Boot Record. Når denne prosedyren er fullført, tilbakestiller Bad Rabbit datamaskinen din og spretter opp sin melding om et krav på 0,05 Bitcoins (som utgjør ca $ 300 den 26 oktober 2017)."
+msgstr "Bad Rabbit er et nytt kryptografisk virus som har angrepet datamaskiner i Russland, Ukraina, Bulgaria og Tyrkia siden slutten av oktober 2017. Blant ofrene er The Interfax RIA, The Fontanka RIA, en rekke ukrainske departementer, så vel som Odessa flyplass. Operasjonsprinsippet er enkelt: det bruker Mimikatz verktøyet for å hente kontodataene fra PC'ens minne. Den søker også etter administrasjonens aktive konto data. Bad Rabbit forsøker deretter å få tilgang til arbeidsstasjonene i det lokale nettverket ved å bruke SMB og WebDAV. Så snart det får tilgang til PC'en, krypterer viruset alle dataene som det klarte å nå, og deretter endrer det Master Boot Record. Når denne prosedyren er fullført, tilbakestiller Bad Rabbit datamaskinen din og dukker opp en meldingen med etterspørsel etter 0,05 Bitcoins (ca. $ 300 ved utgangen av oktober 2017)."
 
 msgid "badrabbitpromopage_info-text-title-2"
-msgstr "Hvordan beskytte din PC mot det kryptografiske Bad Rabbit viruset?"
+msgstr "Hvordan beskytte PC'en mot krypteringsviruset ¨Bad Rabbit?"
 
 msgid "badrabbitpromopage_info-text-2"
 msgstr "Hva kan du gjøre for å beskyttel deg selv mot det nye viruset:<br/>• Lag en infpub.dat fil i C:\\\\Windows\\\\ katalogen og marker den som 'Read-only' under egenskaper<br/>• Se nøye med opprettelse av nye oppgaver i \"Oppgaveplanlegger\"<br/>• Ikke installer noen oppdateringer for FlashPlayer fra utenforstående sider<br/>• Oppdater Windows og installer beskyttelses programmer<br/>• Ta sikkerhetskopi av ditt operativ<br/><br/>Videre kan du bare bruke den nye løsningen fra DriverPack Solution ved å laste den ned fra denne siden - det vil spare deg tid!<br/><b>Vår løsning fungerer med Windows 7, 8, 8.1, 10, og XP.</b>"
@@ -1042,13 +1063,13 @@ msgid "translate-feedback-header_caption"
 msgstr "Denne siden er nylig oversatt. Har du funnet en feil? Vennligst merk denne og trykk {{HOTKEY}}"
 
 msgid "translate-feedback-form-popup_preview-title"
-msgstr ""
+msgstr "Du har fremhevet følgende stykke tekst:"
 
 msgid "translate-feedback-form-popup_correct-title"
-msgstr ""
+msgstr "Vennligst forklar hva som er feil, og oppgi den riktige varianten:"
 
 msgid "translate-feedback-form-popup_submit"
-msgstr ""
+msgstr "Send"
 
 msgid "translate-feedback-popup_title-error"
 msgstr "Noe gikk galt"
@@ -1078,7 +1099,7 @@ msgid "wannacryptpromopage_cta-text"
 msgstr "WannaCrypt kryptografi virus — hvordan beskytte datamaskinen mot det største angrepet i historien?"
 
 msgid "wannacryptpromopage_cta-subtext"
-msgstr "DriverPack inneholder spesielle metoder for å eliminere sårbarheter blant datamaskinens konfigurasjonsverktøy. Du kan laste ned gratis beskyttelse mot WannaCry-viruset, som vil sikre din PC eller bærbare."
+msgstr "DriverPack inneholder spesifikke tiltak for å eliminere sårbarheter i datakonfigurasjonsverktøy. Du kan sikre din PC eller bærbare datamaskin ved å laste ned vår gratis beskyttelse mot WannaCry viruset."
 
 msgid "wannacryptpromopage_cta-btn"
 msgstr "Konfigurer datamaskinen og beskytt den mot WannaCry"
@@ -1109,3 +1130,8 @@ msgstr "Utviklingen av denne løsningen er basert på følgende materiale"
 
 msgid "wannacryptpromopage_link-smb"
 msgstr "Slik aktiverer og deaktiverer du versjonene 1, 2 og 3 av SMB-protokollene for Windows og Windows Server"
+
+#~ msgid "adminheader_products-caption"
+#~ msgstr ""
+#~ "Alle DriverPack's vil raskt konfigurere din datamaskin. Bare velg den pakken"
+#~ " du trenger:"

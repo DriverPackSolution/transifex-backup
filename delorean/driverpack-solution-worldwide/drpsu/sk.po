@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-11-16 14:57+0000\n"
+"POT-Creation-Date: 2017-11-24 08:35+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>, 2017\n"
 "Language-Team: Slovak (https://www.transifex.com/driverpack-solution/teams/75453/sk/)\n"
@@ -46,9 +46,6 @@ msgstr "DriverPack bol vytvorený pre administrátorov, ale je ľahko použiteľ
 msgid "adminheader_cta-btn"
 msgstr "Stiahnuť DriverPack Online"
 
-msgid "adminheader_products-caption"
-msgstr "Každá aplikácia DriverPack nakonfiguruje Váš počítač rýchlo, stačí vybrať balíček, ktorý potrebujete:"
-
 msgid "adminpromo_landing-title"
 msgstr "Nový DriverPack 18 je vo vývoji"
 
@@ -56,7 +53,7 @@ msgid "adminpromo_landing-subtitle"
 msgstr "Nová verzia je navrhnutá špeciálne pre administrátorov a zohľadňuje ich potreby"
 
 msgid "adminpromo_banner-text"
-msgstr "Nový DriverPack 18 bol prepracovaný na základe predchádzajúcich verzií, ktoré už preukázali výnimočnú stabilitu. Uvoľnenie novej verzie je naplánované na rok 2017."
+msgstr ""
 
 msgid "adminpromo_list-item-speed"
 msgstr "Rýchlosť inštalácie a spustenia aplikácie bola optimalizovaná."
@@ -411,6 +408,12 @@ msgstr "Inštalovať všetky požadované ovládače"
 msgid "landingnotebookvendorslist_versions"
 msgstr "Ďalšie verzie programu DriverPack"
 
+msgid "landingproducts_cta-title"
+msgstr ""
+
+msgid "landingproducts_cta-description"
+msgstr ""
+
 msgid "landingproducts_item-title-online"
 msgstr "DriverPack Online"
 
@@ -512,6 +515,24 @@ msgstr "Ovládače pre notebooky s {{OS}}"
 
 msgid "notebookvendorslist_title"
 msgstr "Vyhľadávanie ovládača pre notebooky"
+
+msgid "productlandingheader-online_cta-btn"
+msgstr "Stiahnuť DriverPack Online"
+
+msgid "productlandingheader-online_caption"
+msgstr ""
+
+msgid "productlandingheader-network_cta-btn"
+msgstr ""
+
+msgid "productlandingheader-network_caption"
+msgstr ""
+
+msgid "productlandingheader-offline_cta-btn"
+msgstr ""
+
+msgid "productlandingheader-offline_caption"
+msgstr ""
 
 msgid "promoheader_cta-text-gamers"
 msgstr "Váš počítač je výkonnejší ako si myslíte: aktualizujte všetky ovládače zadarmo"
@@ -919,10 +940,10 @@ msgid "adminpagefaq_stable-a"
 msgstr "Prevádzková stabilita softvéru DriverPack je jednou z našich hlavných priorít, ale naďalej dochádza k menším chybám, aj keď sú zriedkavé. Z tohto dôvodu vytvoríme bod obnovenia, ktorý Vám umožní vrátiť všetko späť do stavu, ktorý bol nakonfigurovaný predtým. Ak chcete zabrániť podobnému problému v budúcnosti, odporúčame vám prejsť do DriverPack Menu a odoslať report - \"list kondície\", ktorý je automaticky vytvorený softvérom, našej službe technickej podpory."
 
 msgid "badrabbitpromopage_cta-text"
-msgstr "Bad Rabbit cryptographer vírus — ako chrániť počítač?"
+msgstr ""
 
 msgid "badrabbitpromopage_cta-subtext"
-msgstr "Program DriverPack obsahuje konkrétne prostriedky na odstránenie zraniteľnosti medzi nástrojmi na konfiguráciu počítača. Môžete si stiahnuť bezplatnú ochranu pred vírusom Bad Rabbit pre váš počítač a notebook, ktorý zabezpečí Váš počítač."
+msgstr ""
 
 msgid "badrabbitpromopage_cta-btn"
 msgstr "Konfigurujte počítač a chráňte ho pred Bad Rabbit vírusom"
@@ -934,10 +955,10 @@ msgid "badrabbitpromopage_info-text-title-1"
 msgstr "Čo je Bad Rabbit?"
 
 msgid "badrabbitpromopage_info-text-1"
-msgstr "Bad Rabbit je nový kryptografický vírus, ktorý napadol počítače používateľov v Rusku, na Ukrajine, v Bulharsku a Turecku od konca októbra 2017. Medzi napadnutými obeťami sú tiež The Interfax RIA, The Fontanka RIA, niekoľko ministerstiev Ukrajiny , ako aj letisko Odessa. Princíp fungovania je jednoduchý: používa nástroj Mimikatz na získanie údajov účtov z pamäte počítača. Tiež hľadá aktívne údaje účtu administrátora. Bad Rabbit sa potom pokúsi získať prístup na pracovné stanice v lokálnej sieti pomocou SMB a WebDAV. Akonáhle získa prístup k počítaču, vírus zašifruje všetky dáta, ktoré sa mu podarilo nájsť a ovládnuť a potom zmení MBR - Master Boot Record - hlavnú zavádzaciu oblasť disku. Keď je tento postup dokončený, Bad Rabbit obnoví Váš počítač a objaví sa vyskakovacie okno so správou a požiadavkou na 0,05 Bitcoins (čo je približne 300 dolárov - 26. októbra 2017)."
+msgstr ""
 
 msgid "badrabbitpromopage_info-text-title-2"
-msgstr "Ako chrániť počítač pred vírusom cryptographer Bad Rabbit?"
+msgstr ""
 
 msgid "badrabbitpromopage_info-text-2"
 msgstr "Čo môžete urobiť, aby ste sa chránili pred novým vírusom:<br/>• Vytvorte súbor infpub.dat v priečinku C:\\\\Windows\\\\ a začiarknite možnosť 'Len na čítanie' vo vlastnostiach<br/>• Pozorne si prezrite nové úlohy v nástroji 'Plánovač úloh'<br/>• Neinštalujte žiadne aktualizácie pre aplikáciu FlashPlayer z iných stránok<br/>• Aktualizujte systém Windows a všetok nainštalovaný ochranný softvér<br/>• Vytvorte zálohy Vášho operačného systému<br/><br/>Taktiež môžete jednoducho použiť iba nové riešenie od DriverPack Solution jeho stiahnutím na tejto stránke - ušetrí Vám to Váš čas!<br/><b>Naše riešenie funguje na systémoch Windows 7, 8, 8.1, 10 a XP.</b>"
@@ -1077,7 +1098,7 @@ msgid "wannacryptpromopage_cta-text"
 msgstr "Vírus WannaCrypt cryptographer — ako chrániť počítač pred najväčším útokom v histórii?"
 
 msgid "wannacryptpromopage_cta-subtext"
-msgstr "Program DriverPack obsahuje konkrétne prostriedky na odstránenie zraniteľnosti medzi nástrojmi na konfiguráciu počítača. Môžete si stiahnuť bezplatnú ochranu pred vírusom WannaCry, ktorá zabezpečí váš počítač alebo notebook."
+msgstr ""
 
 msgid "wannacryptpromopage_cta-btn"
 msgstr "Nakonfigurujte počítač a chráňte ho pred WannaCry"
@@ -1108,3 +1129,8 @@ msgstr "Vývoj tohto riešenia bol založený na nasledujúcich materiáloch"
 
 msgid "wannacryptpromopage_link-smb"
 msgstr "Ako povoliť a zakázať verzie 1, 2 a 3 protokolov SMB pre systémy Windows a Windows Server"
+
+#~ msgid "adminheader_products-caption"
+#~ msgstr ""
+#~ "Každá aplikácia DriverPack nakonfiguruje Váš počítač rýchlo, stačí vybrať "
+#~ "balíček, ktorý potrebujete:"

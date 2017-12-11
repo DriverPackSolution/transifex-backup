@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-11-16 14:57+0000\n"
+"POT-Creation-Date: 2017-11-24 08:35+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Leonid Beschasny <lbeschastny@iknow.travel>, 2017\n"
 "Language-Team: English (https://www.transifex.com/driverpack-solution/teams/75452/en/)\n"
@@ -45,9 +45,6 @@ msgstr "DriverPack has been created for admins but is easy to use even for begin
 msgid "adminheader_cta-btn"
 msgstr "Download DriverPack Online"
 
-msgid "adminheader_products-caption"
-msgstr "Any DriverPack will configure your computer in no time. Just choose the pack you need:"
-
 msgid "adminpromo_landing-title"
 msgstr "New DriverPack 18 is under development"
 
@@ -55,7 +52,7 @@ msgid "adminpromo_landing-subtitle"
 msgstr "The new version is designed specifically for admins and takes their needs into account"
 
 msgid "adminpromo_banner-text"
-msgstr "New DriverPack 18 has been redesigned based on the previous versions which have already proved their exceptional stability. Release of the new version is scheduled for year 2017."
+msgstr "New DriverPack 18 has been redesigned based on the previous versions which have already proven their exceptional stability. Release of the new version is scheduled for year 2017."
 
 msgid "adminpromo_list-item-speed"
 msgstr "Speed of installation and start-up of the application have been optimized."
@@ -410,6 +407,12 @@ msgstr "Install all required drivers"
 msgid "landingnotebookvendorslist_versions"
 msgstr "Other DriverPack versions"
 
+msgid "landingproducts_cta-title"
+msgstr "Choose your DriverPack"
+
+msgid "landingproducts_cta-description"
+msgstr "Download the pack that fits you"
+
 msgid "landingproducts_item-title-online"
 msgstr "DriverPack Online"
 
@@ -511,6 +514,24 @@ msgstr "Drivers for laptops on {{OS}}"
 
 msgid "notebookvendorslist_title"
 msgstr "Driver search for laptops"
+
+msgid "productlandingheader-online_cta-btn"
+msgstr "Download DriverPack Online"
+
+msgid "productlandingheader-online_caption"
+msgstr "DriverPack Online - the most popular product of just {{SIZE}} MB size. It is downloaded instantly, it selects drivers for your computer or laptop, and after that downloads all required drivers via Internet and installs them. It perfectly fits an ordinary user. It operates only with Internet access."
+
+msgid "productlandingheader-network_cta-btn"
+msgstr "Download DriverPack Offline Network"
+
+msgid "productlandingheader-network_caption"
+msgstr "DriverPack Offline Network - drivers for network hardware in one place ({{SIZE}} MB). It is downloaded fast, and installed even faster! As soon as Windows is re-installed, DriverPack Offline Network will configure network drivers to connect to Internet, and then download drivers for the rest devices!"
+
+msgid "productlandingheader-offline_cta-btn"
+msgstr "Download DriverPack Offline Full"
+
+msgid "productlandingheader-offline_caption"
+msgstr "DriverPack Offline Full - a huge pack of {{SIZE}} GB size for driver installation without Internet access. Just download DriverPack Offline Full and use the enormous library of up-to-date drivers wherever you like. It perfectly fits system admins."
 
 msgid "promoheader_cta-text-gamers"
 msgstr "Your computer is more powerful than you think: update all drivers for free"
@@ -918,10 +939,10 @@ msgid "adminpagefaq_stable-a"
 msgstr "The operation stability of the DriverPack software is one of our main priorities but minor failures still happen, though they are rare. This is why we create a restore point which will enable you to return everything back to the previously configured state. In order to prevent a similar problem in the future, we recommend you to go to the DriverPack Menu and send the report that is automatically created by the software, to our technical services."
 
 msgid "badrabbitpromopage_cta-text"
-msgstr "Bad Rabbit cryptographer virus — how to protect your PC?"
+msgstr "Bad Rabbit cryptographic virus — how to protect your PC?"
 
 msgid "badrabbitpromopage_cta-subtext"
-msgstr "DriverPack contains specific means for eliminating vulnerabilities among the computer configuration tools. You can download free protection against the Bad Rabbit virus for your PC and laptop which will secure your computer."
+msgstr "DriverPack contains specific actions for eliminating vulnerabilities in computer configuration tools. You can secure your PC or laptop by downloading our free protection against the Bad Rabbit virus."
 
 msgid "badrabbitpromopage_cta-btn"
 msgstr "Configure the computer and protect it against Bad Rabbit"
@@ -933,10 +954,10 @@ msgid "badrabbitpromopage_info-text-title-1"
 msgstr "What is Bad Rabbit?"
 
 msgid "badrabbitpromopage_info-text-1"
-msgstr "Bad Rabbit is a new cryptographic virus which has attacked the computers of users in Russia, the Ukraine, Bulgaria, and Turkey since late October 2017. Also among the attacked victims are The Interfax RIA, The Fontanka RIA, a number of Ministries of the Ukraine, as well as Odessa Airport. The principle of operation is simple: it uses the Mimikatz utility in order to retrieve the account data out of your PC's memory. It also searches for the admin's active account data. Bad Rabbit then tries to get access to the workstations in the local network by using SMB and WebDAV. As soon as it gets access to the PC, the virus encrypts all the data that it managed to reach, and after that it changes the Master Boot Record. When this procedure is complete, Bad Rabbit resets your computer and pops up its message with a demand for 0.05 Bitcoins (what make about $300 as of October 26, 2017)."
+msgstr "Bad Rabbit is a new cryptographic virus which has attacked computers in Russia, the Ukraine, Bulgaria, and Turkey since late October 2017. Also among the victims are The Interfax RIA, The Fontanka RIA, a number of Ministries of the Ukraine, as well as Odessa Airport. The principle of operation is simple: it uses the Mimikatz utility in order to retrieve the account data from your PC's memory. It also searches for the admin's active account data. Bad Rabbit then tries to gain access to the workstations in the local network by using SMB and WebDAV. As soon as it gets access to your PC, the virus encrypts all the data that it managed to reach, and after that it changes the Master Boot Record. When this procedure is complete, Bad Rabbit resets your computer and pops up its message with a demand for 0.05 Bitcoins (about $300 as of the end of October 2017)."
 
 msgid "badrabbitpromopage_info-text-title-2"
-msgstr "How to protect your PC against the Bad Rabbit cryptographer virus?"
+msgstr "How to protect your PC against the Bad Rabbit cryptographic virus?"
 
 msgid "badrabbitpromopage_info-text-2"
 msgstr "What can you do to protect yourself against the new virus:<br/>• Create an infpub.dat file in the C:\\\\Windows\\\\ folder and tick 'Read-only' option in its properties<br/>• Watch carefully creating new tasks in 'Task Scheduler'<br/>• Don't install any updates for FlashPlayer from the outsider sites<br/>• Update Windows and all installed protect software<br/>• Make backups of your operating system<br/><br/>Also, you can just use the new solution from DriverPack Solution by downloading it on this page - it will save your time!<br/><b>Our solution works out on Windows 7, 8, 8.1, 10, and XP.</b>"
@@ -1076,7 +1097,7 @@ msgid "wannacryptpromopage_cta-text"
 msgstr "WannaCrypt cryptographer virus — how to protect the computer against the biggest attack in the history?"
 
 msgid "wannacryptpromopage_cta-subtext"
-msgstr "DriverPack contains specific means for eliminating vulnerabilities among the computer configuration tools. You can download free protection against the WannaCry virus, which will secure your PC or laptop."
+msgstr "DriverPack contains specific actions for eliminating vulnerabilities in computer configuration tools. You can secure your PC or laptop by downloading our free protection against the WannaCry virus."
 
 msgid "wannacryptpromopage_cta-btn"
 msgstr "Configure the computer and protect it against WannaCry"
@@ -1107,3 +1128,8 @@ msgstr "The development of this solution was based on the following materials"
 
 msgid "wannacryptpromopage_link-smb"
 msgstr "How to enable and disable versions 1, 2, and 3 of SMB protocols for Windows and Windows Server"
+
+#~ msgid "adminheader_products-caption"
+#~ msgstr ""
+#~ "Any DriverPack will configure your computer in no time. Just choose the pack"
+#~ " you need:"

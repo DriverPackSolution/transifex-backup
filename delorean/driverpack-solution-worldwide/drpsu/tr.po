@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-11-16 14:57+0000\n"
+"POT-Creation-Date: 2017-11-24 08:35+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Burhan Keleş <klsburhan@hotmail.com>, 2017\n"
 "Language-Team: Turkish (https://www.transifex.com/driverpack-solution/teams/75453/tr/)\n"
@@ -45,9 +45,6 @@ msgstr "DriverPack yöneticiler için yaratıldı, ancak yeni başlayanlar için
 
 msgid "adminheader_cta-btn"
 msgstr "DriverPack Online'ı İndir"
-
-msgid "adminheader_products-caption"
-msgstr "Herhangi bir DriverPack zaman kaybetmeden bilgisayarınızı yapılandıracaktır. Sadece ihtiyacınız olan paketi seçin:"
 
 msgid "adminpromo_landing-title"
 msgstr "Yeni DriverPack 18 geliştirme aşamasında"
@@ -411,6 +408,12 @@ msgstr "Tüm gerekli sürücüleri yükleyin"
 msgid "landingnotebookvendorslist_versions"
 msgstr "Diğer DriverPack sürümleri"
 
+msgid "landingproducts_cta-title"
+msgstr "DriverPack'nizi seçin"
+
+msgid "landingproducts_cta-description"
+msgstr "Size uyan paketi indirin"
+
 msgid "landingproducts_item-title-online"
 msgstr "DriverPack Online"
 
@@ -512,6 +515,24 @@ msgstr "{{OS}} uyumlu dizüstüler için sürücüler"
 
 msgid "notebookvendorslist_title"
 msgstr "Dizüstüler için sürücü arayın"
+
+msgid "productlandingheader-online_cta-btn"
+msgstr "DriverPack Online'ı İndir"
+
+msgid "productlandingheader-online_caption"
+msgstr "DriverPack Online - sadece {{SIZE}} MB boyutundaki en popüler ürün. Anında indirilir, bilgisayarınız ve dizüstünüz için sürücüleri seçer, ve sonrasında Internet aracılığıyla tüm gerekli sürücüleri indirir ve bunları yükler. Sıradan bir kullanıcıya mükemmel uyar. Sadece Internet erişimi ile çalışır."
+
+msgid "productlandingheader-network_cta-btn"
+msgstr "DriverPack Offline Network'ü İndir"
+
+msgid "productlandingheader-network_caption"
+msgstr "DriverPack Offline Network - ağ donanımı için sürücüler tek bir yerde ({{SIZE}} MB). Hızlı indirilir, ve hatta hızlı yüklenir! Windows yeniden yüklenir yüklenmez, DriverPack Offline Network, Internet'e bağlanmak için ağ sürücülerini yapılandıracak, ve sonrasında aygıtların kalanı için sürücüleri indirecek!"
+
+msgid "productlandingheader-offline_cta-btn"
+msgstr "DriverPack Offline Full'ü İndir"
+
+msgid "productlandingheader-offline_caption"
+msgstr "DriverPack Offline Full - Internet erişimi olmadan sürücü kurulumu için {{SIZE}} GB boyutunda büyük bir paket. Sadece DriverPack Offline Full'ü indirin ve istediğiniz yerde bu güncel sürücülerin muazzam kütüphanesini kullanın. Sistem yöneticilerine mükemmel uyar."
 
 msgid "promoheader_cta-text-gamers"
 msgstr "Bilgisayarınız düşündüğünüzden daha güçlüdür: tüm sürücüleri ücretsiz güncelleyin"
@@ -919,10 +940,10 @@ msgid "adminpagefaq_stable-a"
 msgstr "DriverPack yazılımının işleyiş istikrarı ana önceliklerimizden biridir, fakat küçük hatalar nadir de olsa hala olabilir. İşte bu yüzden herşeyi önceki yapılandırılmış duruma geri döndürmenizi sağlayacak bir geri yükleme noktası oluşturuyoruz. Gelecekte benzer sorunları önlemek için DriverPack Menüsüne gitmenizi ve yazılım tarafından otomatik olarak oluşturulan raporu teknik hizmetlerimize göndermenizi öneririz."
 
 msgid "badrabbitpromopage_cta-text"
-msgstr "Bad Rabbit şifreleyici virüs — PC'nizi nasıl korursunuz?"
+msgstr "Bad Rabbit şifreleyici virüs — PC’nizi nasıl korursunuz?"
 
 msgid "badrabbitpromopage_cta-subtext"
-msgstr "DriverPack bilgisayar yapılandırma araçları arasında güvenlik açığını ortadan kaldırmak için belirli amaçlar içerir. PC ve dizüstünüz için Bad Rabbit virüsüne karşı bilgisayarınızı güven altına alacak olan ücretsiz korumayı indirebilirsiniz."
+msgstr "DriverPack bilgisayar yapılandırma araçları içinde güvenlik açığını ortadan kaldırmak için belirli eylemler içerir. Bad Rabbit virüsüne karşı ücretsiz korumamızı indirerek PC veya dizüstünüzü koruyabilirsiniz."
 
 msgid "badrabbitpromopage_cta-btn"
 msgstr "Bilgisayarı yapılandırın ve Bad Rabbit virüsüne karşı koruyun"
@@ -934,7 +955,7 @@ msgid "badrabbitpromopage_info-text-title-1"
 msgstr "Bad Rabbit nedir?"
 
 msgid "badrabbitpromopage_info-text-1"
-msgstr "Bad Rabbit, Ekim 2017'nin sonlarından itibaren Rusya, Ukrayna, Bulgaristan ve Türkiye'deki kullanıcıların bilgisayarlarına saldıran yeni bir şifreleyici virüstür. Saldırıya uğrayan kurbanlar arasında Odessa Havaalanı'nın yanı sıra ayrıca Interfax RIA, Fontanka RIA, Ukrayna'nın birkaç bakanlığı da vardır. İşlemin prensibi basittir: PC'nizin belleğinden hesap verilerini almak için Mimikatz yardımcı uygulamasını kullanır. Aynı zamanda yöneticinin aktif hesap verilerini de arar. Bad Rabbit, SMB ve WebDAV kullanarak yerel ağdaki iş istasyonlarına erişmeye çalışır. PC'ye erişir erişmez, virüs, ulaşmak için uğraştığı tüm verileri şifreler, ve ondan sonra Master Boot Record alanını değiştirir. Bu işlem tamamlandıktan sonra, Bad Rabbit bilgisayarınızı yeniden başlatır ve 0.05 Bitcoin (26 Ekim 2017 oranına göre yaklaşık 300 Dolar yapar) ödeme talebi ile açılır pencere içinde bir ileti gelir."
+msgstr "Bad Rabbit, Ekim 2017'nin sonlarından itibaren Rusya, Ukrayna, Bulgaristan ve Türkiye'deki bilgisayarlara saldıran yeni bir şifreleyici virüstür. Saldırıya uğrayan kurbanlar arasında Odessa Havaalanı'nın yanı sıra ayrıca Interfax RIA, Fontanka RIA, Ukrayna'nın birkaç bakanlığı da vardır. İşlemin prensibi basittir: PC'nizin belleğinden hesap verilerini almak için Mimikatz yardımcı uygulamasını kullanır. Aynı zamanda yöneticinin aktif hesap verilerini de arar. Bad Rabbit, SMB ve WebDAV kullanarak yerel ağdaki iş istasyonlarına erişmeye çalışır. PC'ye erişir erişmez, virüs, ulaşmak için uğraştığı tüm verileri şifreler, ve ondan sonra Master Boot Record alanını değiştirir. Bu işlem tamamlandıktan sonra, Bad Rabbit bilgisayarınızı yeniden başlatır ve 0.05 Bitcoin (Ekim 2017 sonu oranına göre yaklaşık 300 Dolar) ödeme talebi ile açılır pencere içinde bir ileti gelir."
 
 msgid "badrabbitpromopage_info-text-title-2"
 msgstr "Bad Rabbit şifreleyici virüsüne karşı PC'nizi nasıl korursunuz?"
@@ -1077,7 +1098,7 @@ msgid "wannacryptpromopage_cta-text"
 msgstr "WannaCrypt şifreleyici virüs — tarihteki en büyük saldırıya karşı bilgisayarı nasıl korursunuz?"
 
 msgid "wannacryptpromopage_cta-subtext"
-msgstr "DriverPack bilgisayar yapılandırma araçları arasında güvenlik açığını ortadan kaldırmak için belirli amaçlar içerir. PC veya dizüstünüzü güven altına alacak olan, WannaCry virüsüne karşı ücretsiz korumayı indirebilirsiniz."
+msgstr "DriverPack bilgisayar yapılandırma araçları içinde güvenlik açığını ortadan kaldırmak için belirli eylemler içerir. WannaCry virüsüne karşı ücretsiz korumamızı indirerek PC veya dizüstünüzü koruyabilirsiniz."
 
 msgid "wannacryptpromopage_cta-btn"
 msgstr "Bilgisayarı yapılandırın ve WannaCry virüsüne karşı koruyun"
@@ -1108,3 +1129,8 @@ msgstr "Bu çözümün gelişimi aşağıdaki gereçlere bağlıdır"
 
 msgid "wannacryptpromopage_link-smb"
 msgstr "Windows ve Windows Server için SMB protokollerinin 1, 2, ve 3. sürümlerini nasıl etkinleştirir ve etkisizleştirirsiniz"
+
+#~ msgid "adminheader_products-caption"
+#~ msgstr ""
+#~ "Herhangi bir DriverPack zaman kaybetmeden bilgisayarınızı yapılandıracaktır."
+#~ " Sadece ihtiyacınız olan paketi seçin:"

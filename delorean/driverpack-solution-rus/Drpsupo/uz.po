@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-11-16 14:57+0000\n"
+"POT-Creation-Date: 2017-11-24 08:35+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Shérov <azamat9006@mail.ru>, 2017\n"
 "Language-Team: Uzbek (https://www.transifex.com/driverpack-solution/teams/75452/uz/)\n"
@@ -47,9 +47,6 @@ msgstr "DriverPack  – administratorlar uchun yaratilgan, ammo birinchi marta i
 
 msgid "adminheader_cta-btn"
 msgstr "DriverPack Online ni yuklab olish"
-
-msgid "adminheader_products-caption"
-msgstr "Xoxlagan DriverPack ikki holda ham bir xilkompyuterni sozlaydi, shunchaki o'zingiznikini tanlang:"
 
 msgid "adminpromo_landing-title"
 msgstr "Yangi DriverPack 18 ishlab chiqish"
@@ -202,7 +199,7 @@ msgstr "DriverPack yuklab oling"
 #. x86; Текст для {{DOWNLOAD}} находится в ключе devicecardlist_no-
 #. result_download-link;
 msgid "devicecardlist_no-results-device-text"
-msgstr ""
+msgstr "Katalogda Windows {{OSVERSIONS}} ga o'rnatilgan {{DEVICENAME}} uchun drayver yo'q.  Drayverlarni avtomatik tanlash uchun {{DOWNLOAD}}. "
 
 #. i18n: EN: Example: DEVICECLASS=chipsets|videocards; NOTEBOOK=Acer AO521;
 #. OSVERSIONS=Windows 10 x86; Text for {{DOWNLOAD}} is in key
@@ -211,14 +208,14 @@ msgstr ""
 #. OSVERSIONS=Windows 10 x86; Текст для {{DOWNLOAD}} находится в ключе
 #. devicecardlist_no-result_download-link;
 msgid "devicecardlist_no-results-notebook-text"
-msgstr ""
+msgstr "Katalogda Windows {{OSVERSIONS}} o'rnatilgan {{NOTEBOOK}} uchun drayverlar yo'q.  Drayverlarni avtomatik tanlash uchun {{DOWNLOAD}}."
 
 #. i18n: EN: Example: NOTEBOOK=Acer AO521; OSVERSIONS=Windows 10 x86; Text for
 #. {{DOWNLOAD}} is in key devicecardlist_no-result_download-link; RU: Пример:
 #. NOTEBOOK=Acer AO521; Пример: OSVERSIONS=Windows 10 x86; Текст для
 #. {{DOWNLOAD}} находится в ключе devicecardlist_no-result_download-link;
 msgid "devicecardlist_no-results-notebook-device-class-text"
-msgstr ""
+msgstr "Katalogda Windows {{OSVERSIONS}} o'rnatilgan {{NOTEBOOK}} uchun {{DEVICECLASS}}  drayverlar yo'q. Drayverlarni avtomatik tanlash uchun {{DOWNLOAD}}."
 
 msgid "devicegrouppage_all-systems"
 msgstr "hamma tizimlar"
@@ -252,7 +249,7 @@ msgstr "DriverPack Online ni yuklab olish"
 #. NAME=Acer Aspire 4830TG; Пример: OSVERSIONS=Windows 10 x86; Текст для
 #. {{DOWNLOAD}} находится в ключе drivercard_no-results_download-link;
 msgid "drivercard_no-results-text"
-msgstr ""
+msgstr "Katalogda Windows {{OSVERSIONS}} uchun {{NAME}} drayverlar yo'q. Drayverlarni avtomatik tanlash uchun {{DOWNLOAD}}."
 
 msgid "drivercard_no-results_download-link"
 msgstr "DriverPack yuklab oling"
@@ -300,16 +297,16 @@ msgid "footer_banner-title"
 msgstr "Qurilmangiz uchun drayver izlab charchadingizmi?"
 
 msgid "footer_banner-caption"
-msgstr ""
+msgstr "DriverPack Online sizga kerakli drayverlarni avtomatik tarzda <span style='color: {{COLOR}}'>tanlaydi va o'rnatadi</span>"
 
 msgid "footer_banner_btn"
 msgstr "<span class='bold'>DriverPack Online</span> ni bepul yuklab oling"
 
 msgid "footer_translate-feedback"
-msgstr ""
+msgstr "Xatolik topdingizmi?<br />Uni belgilang va {{HOTKEY}} bosing"
 
 msgid "header_search-title"
-msgstr ""
+msgstr "Eng katta bazadan <span class='bold'>Draverlarni izlash</span> — milliondan ortiq "
 
 msgid "header_search-examples"
 msgstr "Misol:"
@@ -381,7 +378,7 @@ msgid "landingheader_cta-btn"
 msgstr "Barcha kerakli drayverlarni o'rnatish"
 
 msgid "landingheadernav_badrabbit"
-msgstr ""
+msgstr "Bad Rabbit dan himoya"
 
 msgid "landingheadernav_search"
 msgstr "Drayverlarni qidirish"
@@ -393,7 +390,7 @@ msgid "landingintroduction_author-title"
 msgstr "Salom! Men —  Artur, DriverPack ning muallifi va asoschisi bo'laman"
 
 msgid "landingintroduction_author-speech"
-msgstr ""
+msgstr "8 yil oldin sof xayrixohlik bilan yozilgan kichik dasturdan biz butun dunyo bo'ylab 40 milliondan ortiq odamga kompyuterni sozlashga yordam bergan kompaniyaga aylandik!<br /><br />Ushbu 8 yil mobaynida dastur juda tezkor va aqlliroq bo'ldi. Bugungi kunda DriverPack dunyodagi tezkor serverlarda joylashgan noyob drayverlarning dunyodagi eng katta ma'lumotlar bazasi hisoblanadi. Drayverlarning nafaqat tez o'rnatilishi va maksimal sifatli bo'lishi uchun biz mashina ta'lim texnologiyasiga o'tdik. Bu bizga algoritmimizni yanada yaxshiroq va aniqroq qilishda yordam beradi. Bularning hammasi bizga dasturni mutlaqo bepul qoldirishga yordam berdi. Hohlagan odam undan bemalol foydalanishi mumkin.<br /><br />Men va mening jamoam bizning mahsulot bilan faxrlanamiz va  sizga ikompyuterni sozlashda ishonchli yordamchingiz bo'ladi deb umid qilamiz."
 
 msgid "landingintroduction_author-speech-marked"
 msgstr "Vaqtingizni tejash uchun biz barcha vaqtimizni sarflaymiz!"
@@ -413,11 +410,17 @@ msgstr "Barcha kerakli drayverlani o'rnatish"
 msgid "landingnotebookvendorslist_versions"
 msgstr "Dasturning boshqa versiyalari"
 
+msgid "landingproducts_cta-title"
+msgstr "O'zingizga  DriverPack tanlang"
+
+msgid "landingproducts_cta-description"
+msgstr "Aynan sizga kerak bo'lgan to'plamni tanlang"
+
 msgid "landingproducts_item-title-online"
 msgstr "DriverPack Online"
 
 msgid "landingproducts_item-description-online"
-msgstr ""
+msgstr "Internet mavjud bo'lsa, bir soniyada yuklanadi va barcha drayverlarni yuklab oladi va o'rnatadi <span class='nobr'>({{SIZE}} MB)</span>"
 
 msgid "landingproducts_item-version"
 msgstr "Versiya:"
@@ -429,13 +432,13 @@ msgid "landingproducts_item-title-network"
 msgstr "DriverPack Offline Network"
 
 msgid "landingproducts_item-description-network"
-msgstr ""
+msgstr "Tarmoq qurilmalari uchun drayverlarni o'z ichiga olgan (Lan/Wi-Fi), internetsiz ishlaydi <span class='nobr'>({{SIZE}} MB)</span>"
 
 msgid "landingproducts_item-title-offline"
 msgstr "DriverPack Offline Full"
 
 msgid "landingproducts_item-description-offline"
-msgstr ""
+msgstr "Hamma drayverlar yuklanadi, internetsiz ishlaydi, torrent bilan yuklab olinadi. <span class='nobr'>({{SIZE}} Gb)</span>"
 
 msgid "landingpublications__landing-title"
 msgstr "DriverPack haqida jurnalistlar yozadi"
@@ -453,10 +456,10 @@ msgid "landingsocial_landing-subtitle"
 msgstr "Yangiliklarga kuzatib boring va muhokamalarda ishtirok eting"
 
 msgid "landingtopvideocardlist_landing-title"
-msgstr ""
+msgstr "Eng ommabop videokarta modellari"
 
 msgid "landingtopvideocardlist_landing-caption"
-msgstr ""
+msgstr "DriverPack eng barcha videokartalar uchun drayver topadi, bular eng ommaboplari "
 
 msgid "landingusers_cta"
 msgstr "Dunyo bo'ylab DriverPack foydalanuvchilari soni har soniyada ortib bormoqda"
@@ -468,7 +471,7 @@ msgid "landingusers_versions"
 msgstr "Dasturning boshqa versiyalari"
 
 msgid "landingvideocardlist_landing-title"
-msgstr ""
+msgstr "Eng ommabop videokarta ishlab chiqaruvchilar"
 
 msgid "landingwizard_landing-title"
 msgstr "Endi siz kompyuterni bir marta bosish bilan sozlashingiz mumkin"
@@ -514,6 +517,24 @@ msgstr "{{OS}} noutbuk uchun drayverlar"
 
 msgid "notebookvendorslist_title"
 msgstr "Notebooklar uchun drayverlarni izlash"
+
+msgid "productlandingheader-online_cta-btn"
+msgstr "DriverPack Online ni yuklab olish"
+
+msgid "productlandingheader-online_caption"
+msgstr "DriverPack Online - {{SIZE}}Mb hajmidagi eng mashhur mahsulotdir. Zudlik bilan yuklab olish, kompyuter yoki noutbuk uchun drayverlarni tanlaydi, so'ng barcha kerakli drayverlarni Internet orqali yuklaydi va o'rnatadi. Oddiy foydalanuvchi uchun ideal. Faqat internet bilan ishlaydi"
+
+msgid "productlandingheader-network_cta-btn"
+msgstr "DriverPack Offline Network ni yuklab olish"
+
+msgid "productlandingheader-network_caption"
+msgstr "DriverPack Offline Network - tarmoq uskunalari uchun drayverlar bir joyda ({{SIZE}} MB). Tezda yuklab olinadi, yanda tezroq o'rnatiladi! Windows ni qayta o'rnatgandan so'ng DriverPack Offline Network internetdan boshqa drayverlarni yuklab olishingiz uchun tarmoq qurilmalariga drayver o'rnatadi!"
+
+msgid "productlandingheader-offline_cta-btn"
+msgstr "DriverPack Offline Full ni yuklab olish"
+
+msgid "productlandingheader-offline_caption"
+msgstr "DriverPack Offline Full -  {{SIZE}} Gb hajmdagi internetga ulanmasdan drayverlarni o'rnatishning eng katta bazasi. Faqatgina DriverPack Offline Full ni to'liq yuklab oling va joriy drayverlarning katta kutubxonasidan istalgan joyda foydalaning. Tizim administratorlari uchun ideal."
 
 msgid "promoheader_cta-text-gamers"
 msgstr "Kompyuteringiz siz o'ylagandan ko'ra kuchliroq: barcha drayverlarni bepul yangilash"
@@ -774,7 +795,7 @@ msgstr "Drayver tanlangan OS uchun yuklab olinadi"
 #. AO521; Текст для {{DOWNLOAD}} находится в ключе searchresult_details-
 #. content_download-link
 msgid "searchresult_details-content-notebook-text"
-msgstr ""
+msgstr "{{DOWNLOAD}}, oling va kerakli drayverlarni avtomatik ravishda aniqlaydi va o'rnatadi yoki {{NOTEBOOK}} noutbuk sahifasiga o'ting va to'g'ri drayverni qo'lda tanlang"
 
 msgid "searchresult_details-content_download-link"
 msgstr "DriverPack yuklab oling"
@@ -799,18 +820,18 @@ msgstr "hamma tizimlar"
 #. GeForce 205; Текст для {{DOWNLOAD}} находится в ключе searchresult_details-
 #. content_download-link
 msgid "searchresult_details-content-group-text"
-msgstr ""
+msgstr "{{DOWNLOAD}}, oling va kerakli drayverlarni avtomatik ravishda aniqlaydi va o'rnatadi yoki {{DEVICE}} sahifasiga o'ting va to'g'ri drayverni qo'lda tanlang"
 
 #. i18n: EN: Example: CLASS.SINGLE.MAIN=monitor|chipset; COUNT=12; RU: Пример:
 #. CLASS.SINGLE.MAIN=монитор|чипсет; COUNT=12;
 msgid "searchresult_device"
-msgstr ""
+msgstr "{{CLASS.SINGLE.MAIN}} ({{COUNT}} ta topildi)"
 
 msgid "searchresult_details-content-text-many"
 msgstr "Ushbu qurilma uchun bir nechta drayver topildi"
 
 msgid "seofooter_os-list-title"
-msgstr ""
+msgstr "Operatsion tizim versiyalari: <span itemprop='operatingSystem'>{{OSLIST}}</span>"
 
 msgid "seofooter_offers-title"
 msgstr "<meta itemprop='price' content='0' />Bepul <span itemprop='offers' itemscope='' itemtype='http://schema.org/Offer'>tarqatiladi</span>"
@@ -825,7 +846,7 @@ msgid "sidebanner_title"
 msgstr "Drayver izlab charchadingizmi?"
 
 msgid "sidebanner_caption"
-msgstr ""
+msgstr "DriverPack kerakli drayverlarni avtomatik tarzda <span class='SideBanner__caption-marked'>tanlaydi va o'rnatadi</span>"
 
 msgid "translationheader_cta-text"
 msgstr "Dunyoning millionlab foydalanuvchilari uchun DriverPack dan foydalanishga yordam bering —ixtiyoriy loyihamizda dasturni boshqa tillarga tarjima qilishda ishtirok eting"
@@ -840,7 +861,7 @@ msgid "translationheader_bubble-experience"
 msgstr "Onlayn tarjima xizmatlaridan foydalanib, dasturlarni yoki veb-saytlarni tarjima qilish tajribangiz bormi?"
 
 msgid "translationheader_bubble-email"
-msgstr ""
+msgstr "Agar siz barcha savollarga \"Ha\" deb javob bergan bo'lsangiz, iltimos, bizga {{EMAIL}} ga '{{SUBJECT}}' mavzuda e-mail yuboring va qaysi tilga tarjima qilmoqchi ekanligingizni yozing."
 
 msgid "translationlist_title"
 msgstr "DriverPack ning rasmiy tarjimonlari ro'yxati"
@@ -849,7 +870,7 @@ msgid "translationtool_text-transifex"
 msgstr "DriverPack Solution lokalizatsiyasi transifex.com xizmati yordamida amalga oshiriladi:"
 
 msgid "translationtool_example-ru-to-en"
-msgstr ""
+msgstr "Rus tilidan (RU) Ingliz tiliga (EN) va MDH (CIS) mamlakatlari uchun tarjima qatorlari"
 
 msgid "translationtool_example-en-to-all"
 msgstr "Ingliz tilidan (EN) boshqa tillarga tarjima qilish uchun satrlar"
@@ -867,109 +888,109 @@ msgid "landingPagePublications_cnews"
 msgstr "Dasturning birinchi versiyasi yaratilganligidan boshlab DriverPack Solution foydalanuvchilar orasida juda mashhur. Dasturni bepul yuklab olish mumkin. Bu, DriverPack Solution ni raqobatchilardan ajratib turadi va ko'plab yangi foydalanuvchilarni jalb qiladi."
 
 msgid "landingPagePublications_xbit"
-msgstr ""
+msgstr "DriverPack Solution — bu turdagi dasturlarda mavjud bo'lmagan bir qator xususiyatlar bilan qiziqarli dastur. Har bir foydalanuvchi ikki marta bosishdagi barcha xatoni tuzatishi va tizimning va uning barcha qurilmalarining to'g'ri ishlashini ta'minlashi mumkin. Hozirgi vaqtda DriverPack ma'lumotlar bazasidagi drayverlar soni 1,1 milliondan oshib ketdi, ularning hammasi xavfsizlik uchun sinovdan o'tgan."
 
 msgid "landingPagePublications_chip"
-msgstr ""
+msgstr "DriverPack bilans shaxsiy kompyuteringiz tarkibiy qismlari uchun drayverlarning eng so'nggi versiyasini topish — juda oson. Eng yoqimli narsa shundaki, foydalanuvchining o'zi hech narsa qilmaydi. Ushbu vosita to'liq avtomatlashtirilgan va undan foydalanish juda oson."
 
 msgid "landingPagePublications_pcmag"
-msgstr ""
+msgstr "DriverPack Protect kompyuteringizni zararli dasturlardan va adware va plaginlardan himoyalashga yordam beradi, buni ko'pincha antiviruslar va reklamalarni blokirovka qilish vositalari bajara olmaydi."
 
 msgid "landingPagePublications_habr"
-msgstr ""
+msgstr "Windows ni qayta o'rnatgandan so'ng drayverlarni topish va o'rnatish kerakligi, menimcha, butun Windows oilasining eng muhim kamchiliklaridan biri hisoblanadi. Ammo, 2008 yilda men ushbu muammoni hal qilishga qaror qildim va DriverPack nomini olgan dasturni yozdim. Bugungi kunda mahsulotim butun dunyo bo'ylab 40 million foydalanuvchi tomonidan ishlatiladi va Windows-ning drayverlar bilan muammolari uchinchi tomondan bajarilishiga qaramasdan hal qiladi."
 
 msgid "landingPagePublications_computerra"
-msgstr ""
+msgstr "Yangi versiyada foydalanuvchini o'z to'plamini yaratish uchun qo'shimcha vositalar bilan ta'minlangan. Bu, ayniqsa, kompyuter texnikasi bilan shug'ullanadigan yoki katta turdagi uskunalar parkini boshqaradiganlar administratorlarga mos keladi. Endi DriverPack-da siz alternativ drayverpaklarni birlashtirasiz va keraksizlarni yo'q qilasiz."
 
 msgid "landingPagePublications_vc"
-msgstr ""
+msgstr "Gap so'zlar tufayli mahsulot bizning jamoa ishtirokisiz 45 ta tilga tarjima qilindi."
 
 msgid "adminpagefaq_official_vendors-q"
-msgstr ""
+msgstr "Men oldin rasmiy saytlardan drayverlarni yuklab olganman, hatto ular bilan ham muammolar bo'lgan. DriverPack-dagi drayverlari nima uchun ishlab chiqaruvchilar saytlaridan ko'ra ishonchli bo'ladi?"
 
 msgid "adminpagefaq_official_vendors-a"
-msgstr ""
+msgstr "Ma'lumotlar bazamiz nafaqat eng katta, balki eng barqaror bo'lishini ta'minlash uchun biz doimiy ravishda uni takomillashtirish ustida ish olib bormoqdamiz va rasmiy ishlab chiqaruvchilar yo'l qo'ygan xatolarni to'g'rilaymiz! Bundan tashqari, biz mashinani o'rganish texnologiyasidan foydalanamiz, buning natijasida tanlov algoritmi doimiy ravishda takomillashtirilmoqda. Shuning uchun DriverPack-ning drayverlari eng ishonchli hisoblanadi :-)"
 
 msgid "adminpagefaq_database-q"
-msgstr ""
+msgstr "DriverPack bazasi qanday to'ldiriladi? Men kerakli drayverlarni aniq topa olamanmi?"
 
 msgid "adminpagefaq_database-a"
-msgstr ""
+msgstr "Bugungi kunga kelib bizning drayverlar bazasi dunyodagi eng katta hisoblanadi, shuning uchun 99% ehtimollik bilan har qanday qurilma uchun drayver topa olamiz. Bunday ma'lumotlar bazasini yig'ish va saqlash uchun biz qurilma ishlab chiqaruvchilari, drayver mualliflari bilan hamkorlik qilamiz, drayverlarni rasmiy saytlardan, maxsus FTP-serverlardan to'playmiz va testdan o'tkazamiz, shuningdek, faol foydalanuvchilarning tavsiyalarini hisobga olamiz."
 
 msgid "adminpagefaq_free-q"
-msgstr ""
+msgstr "Hahotki, DriverPack to'liq bepulmi?"
 
 msgid "adminpagefaq_free-a"
-msgstr ""
+msgstr "Barcha dasturlarimiz mutlaqo bepul! Agar siz loyihaga yordam berishni istasangiz, biz taklif qilayotgan foydali dasturlarni o'rnatishingiz va DriverPack-ni do'stlaringizga tavsiya qilishingiz mumkin :-)"
 
 msgid "adminpagefaq_antivirus-q"
-msgstr ""
+msgstr "Mening antivirusim DriverPack da virus aniqladi — bu qanday ro'y bergan ekan?"
 
 msgid "adminpagefaq_antivirus-a"
-msgstr ""
+msgstr "Ko'rinishidan, noto'g'ri holat yuz berdi, chunki DriverPack-ning barcha versiyalari to'liq sinovdan o'tkazildi va Kasperskiy Laboratoriyasi tomonidan tasdiqlanadi. Bundan tashqari, bizning kompaniya Avast va 360 Total Security kabi ko'plab antiviruslar bilan hamkorlik qiladi. Ishni davom ettirish uchun DriverPack-ni antivirusni oq ro'yxatga kiriting. Antivirus shirkatiga noto'g'ri signal haqida va bizning texnik yordamga xabar qilsangiz, biz juda minnatdor bo'lamiz."
 
 msgid "adminpagefaq_expert_mode-q"
 msgstr "DriverPack bilan ishlash uchun eng qulay rejim qaysi?"
 
 msgid "adminpagefaq_expert_mode-a"
-msgstr ""
+msgstr "Asosan, DriverPack avtomatik rejimda ishlaydi, u hattoki yangi foydalanuvchilar uchun ham tushunarli va qulay bo'lishi kerak. Lekin ilg'or foydalanuvchilar va tizim administratorlari qulayligi uchun biz rivojlangan sozlamalar va sozlash qobiliyatlari mavjud bo'lgan mutaxassis rejimini ishlab chiqdik. Ushbu rejimni yoqish uchun ekranning past qismidagi mos keladigan tugmachani bosing."
 
 msgid "adminpagefaq_stable-q"
-msgstr ""
+msgstr "Drayver noto'g'ri o'rnatildi, kompyuter ishlashi bilan bog'liq muammolar paydo bo'ldi. Buni qanday hal qilish mumkin?"
 
 msgid "adminpagefaq_stable-a"
-msgstr ""
+msgstr "DriverPack-ning barqarorligi — bizning asosiy ustuvor yo'nalishlarimizdandir, ammo kamchiliklar kam bo'lsada sodir bo'ladi. Shuning uchun biz tiklash nuqtasini yaratamiz, u hamma narsani asl holatiga qaytaradi. Kelajakda bunday muammolarni bartaraf qilish uchun, DriverPack dastur menyusiga kirib, dastur tomonidan avtomatik ravishda ishlab chiqariladigan texnik xizmatimizga hisobot jo'natishni tavsiya etamiz."
 
 msgid "badrabbitpromopage_cta-text"
-msgstr ""
+msgstr "Shifrlovchi virus Bad Rabbit — kompyuterni qanday himoya qilish kerak"
 
 msgid "badrabbitpromopage_cta-subtext"
-msgstr ""
+msgstr "DriverPack, kompyuter konfiguratsiya vositalaridagi zaifliklarni bartaraf etish uchun maxsus vositalarni o'z ichiga oladi. Kompyuteringizni va noutbukingizni Bad Rabbit virusidan himoya qilish uchun bepul himoya qilish vositasini yuklab olishingiz mumkin."
 
 msgid "badrabbitpromopage_cta-btn"
-msgstr ""
+msgstr "Kompyuterni sozlash va Bad Rabbit dan himoya qilish"
 
 msgid "badrabbitpromopage_caption-text"
-msgstr ""
+msgstr "Dastur bepul tarqatiladi"
 
 msgid "badrabbitpromopage_info-text-title-1"
-msgstr ""
+msgstr "Bad Rabbit nima o'zi?"
 
 msgid "badrabbitpromopage_info-text-1"
-msgstr ""
+msgstr "Bad Rabbit - o'tgan hafta davomida Rossiya, Ukraina, Bolgariya va Turkiyada foydalanuvchilarning kompyuterlariga hujum qilgan yangi kriptografik virus. RIA \"Interfaks\", \"Fontanka\", Ukrainaning bir qator vazirliklari, shuningdek, \"Odessa\" aeroportiga hujum qildi. Virusning printsipi sodda - sizning shaxsiy kompyuteringizdagi xotira ma'lumotlarini olish uchun Mimikatz dasturidan foydalanadi, shuningdek, faol administrator hisob varaqasini qidiradi. Bad Rabbit SMB va WebDAV yordamida mahalliy tarmoqdagi ish stantsiyalariga kirishga harakat qiladi. Kompyuterga kirgandan so'ng virus barcha ma'lumotlarga parollaydi va keyin Master Boot Recordni o'zgartiradi. Ushbu protsedurani tugatgandan so'ng, Bad Rabbit kompyuterni qayta ishga tushiradi va 0,05 Bitkoin to'lashni talab qiladigan xabarni ko'rsatadi (10.12.2017 holatiga  5 715 897 so'mni tashkil qiladi)."
 
 msgid "badrabbitpromopage_info-text-title-2"
-msgstr ""
+msgstr "Qanday qilib o'z kompyuterimni Bad Rabbit shifrlovchi virusidan himoya qilishim mumkin?"
 
 msgid "badrabbitpromopage_info-text-2"
-msgstr ""
+msgstr "Yangi virusga qarshi himoya qilish uchun nima qilish kerak:<br/>• C:\\Windows\\ papkasida infpub.dat faylini yarating va \"Faqat o'qish\" belgisini  belgilang<br/>• \"Vazifa rejalashtiruvchisi\" da yangi vazifalar yaratilishini kuzating<br/>• FlashPlayer uchun boshqa saytlardan yangilanishlarni o'rnatmang<br/>• Windows dagi barcha o'rnatilgan himoyalanish dasturlarini yangilash<br/>• Operatsion tizimning zaxira nusxalarini yaratish<br/><br/>Shuningdek, ushbu yangi DriverPack Solution ni yuklab olish yo'li bilan yangi yechimdan foydalanishingiz mumkin - bu sizning vaqtingizni tejaydi!<br/><b>Bizning yechimimiz Windows 7, 8, 8.1, 10 va XP uchun.</b>"
 
 msgid "badrabbitpromopage_links-text"
-msgstr ""
+msgstr "Izlanish quyidagi materiallarga asoslangan"
 
 msgid "badrabbitpromopage_link-smb"
-msgstr ""
+msgstr "Qanday qilib Windows va Windows Serverda  SMB 1, 2 va 3 versiyalarini o'chirish va yoqish mumkin"
 
 msgid "devicegrouppage_show-more-link"
 msgstr "yana ko'rsatish"
 
 msgid "devicestypepage_subtitle"
-msgstr ""
+msgstr "{{CLASS.PLURAL.FOR}} ning barcha ishlab chiqaruvchilari"
 
 msgid "devicetypevendorpage_subtitle-popular"
-msgstr ""
+msgstr "{{VENDOR.NAME}} ning ommabop {{CLASS.PLURAL.MAIN}}"
 
 msgid "devicetypevendorpage_subtitle-all"
-msgstr ""
+msgstr "{{VENDOR.NAME}} ning barcha {{CLASS.PLURAL.MAIN}}"
 
 msgid "errorpage_title"
 msgstr "Xato 500: serverdagi ichki xatolik"
 
 msgid "landingfooter_landing-subtitle"
-msgstr ""
+msgstr "DriverPack da Windows ning barcha ommabop versiyalari uchun drayverlar bor"
 
 msgid "landing-footer_catalog-os"
-msgstr ""
+msgstr "{{OS}} uchun drayverlar"
 
 msgid "landing-footer_download"
 msgstr "DriverPack’ni yuklab olish"
@@ -978,10 +999,10 @@ msgid "landing-footer_versions"
 msgstr "Dasturning barcha versiyalari"
 
 msgid "landing-footer_manufacturers"
-msgstr ""
+msgstr "Qurilma ishlab chiqaruvchilari"
 
 msgid "landing-footer_badrabbit"
-msgstr ""
+msgstr "Bad Rabbit dan himoya"
 
 msgid "landing-footer_for-admin"
 msgstr "Tizim administratorlari uchun"
@@ -993,7 +1014,7 @@ msgid "landing-footer_hwids"
 msgstr "Device ID"
 
 msgid "landing-footer_wannacry"
-msgstr ""
+msgstr "WannaCry dan himoya"
 
 msgid "landing-footer_license"
 msgstr "Litsenziya shartnomasi"
@@ -1014,10 +1035,10 @@ msgid "notebookspage_subtitle"
 msgstr "Noutbuklar va netbuklarni ishlab chiqaruvchilari ro'yxati"
 
 msgid "notebooksvendorpage_subtitle-popular"
-msgstr ""
+msgstr "{{VENDOR.NAME}} ning ommabop netbuk va noutbuklari"
 
 msgid "notebooksvendorpage_subtitle-all"
-msgstr ""
+msgstr "{{VENDOR.NAME}} ning barcha netbuk va noutbuklari"
 
 msgid "reviewpage_title"
 msgstr "DriverPack ni yaxshilash uchun fikr va takliflar"
@@ -1040,22 +1061,22 @@ msgid "thankyoupopup_download-link"
 msgstr "yuklab olish"
 
 msgid "translate-feedback-header_caption"
-msgstr ""
+msgstr "Ushbu sahifa yaqinda tarjima qilingan. Agar xatolik topgan bo'lsangiz uni tanlab {{HOTKEY}}  tugmasini bosing"
 
 msgid "translate-feedback-form-popup_preview-title"
-msgstr ""
+msgstr "Siz bir qismni tanladingiz:"
 
 msgid "translate-feedback-form-popup_correct-title"
-msgstr ""
+msgstr "Xato nimada ekanligini ko'rsating va to'g'ri versiyani yozing:"
 
 msgid "translate-feedback-form-popup_submit"
-msgstr ""
+msgstr "Yuborish"
 
 msgid "translate-feedback-popup_title-error"
 msgstr "Nimadir o'xshamadi"
 
 msgid "translate-feedback-popup_description-error"
-msgstr ""
+msgstr "Tanlangan matn serverdagi muammo tufayli yuborilmadi.<br />Iltimos keyinroq qayta urinib ko'ring."
 
 msgid "translate-feedback-popup_title-success"
 msgstr "Rahmat"
@@ -1073,13 +1094,13 @@ msgid "translationlandingpage_title"
 msgstr "DriverPack -ni tarjima qilish"
 
 msgid "vendorpage_subtitle-popular"
-msgstr ""
+msgstr "{{VENDOR.NAME}} ning ommabop qurilmalari"
 
 msgid "wannacryptpromopage_cta-text"
 msgstr "WannaCrypt shifrlovchi virusi — tarixda eng katta virus hujumidan qanday himoyalanish mumkin?"
 
 msgid "wannacryptpromopage_cta-subtext"
-msgstr ""
+msgstr "DriverPack, kompyuter konfiguratsiya vositalaridagi zaifliklarni bartaraf etish uchun maxsus vositalarni o'z ichiga oladi. Kompyuteringizni va noutbukingizni WannaCry virusidan himoya qilish uchun bepul himoya qilish vositasini yuklab olishingiz mumkin."
 
 msgid "wannacryptpromopage_cta-btn"
 msgstr "Kompyuterni sozlash va WannaCry dan himoya qilish"
@@ -1091,22 +1112,27 @@ msgid "wannacryptpromopage_info-text-title-1"
 msgstr "WannaCrypt nima o'zi?"
 
 msgid "wannacryptpromopage_info-text-1"
-msgstr ""
+msgstr "WannaCrypt virusi (WannaCry, jabrlanganlar o'g'zi bilan) 12 may kuni dunyodagi kompyuterlarga hujum qilib, 150 mamlakatdan 300 000 ortiq foydalanuvchilarga hujum qildi. Eng ko'p G'arbiy Evropa, Rossiya va Xitoy hujumga uchradi. Buyuk Britaniyada virus Sog'liqni saqlash vazirligining tarmog'ini o'chirib qo'ydi, mamlakat bo'ylab shifoxonalar ishini falajga soldi. Xitoyda, virus hujumi bir qator fabrikalardagi eskirgan kompyuterlarga to'g'ri keldi. Buning oqibatida ishlab chiqarish to'xtab qoldi.<br/><br/>Virus ishlar mohiyati oddiy - u kompyuteringizga kirib, barcha hujjatlar, fayllar va materiallarni shifrlaydi. Virusdan qutulish uchun jiddiy pul talab etiladi — qariyb 300 dollar. Shu bilan birga, to'lovdan keyin sizga fayllarga kirish huquqi berilishini kafolatlamaydi. Virusdan qutulishning hozirgi vaqtda mustaqil yo'li yo'q. Hozirda internetda taklif etilayotgan yechimlar fishing yoki yana bir boshqa virusni tarqatishdir yoki umuman ishlamaydigan holatdir."
 
 msgid "wannacryptpromopage_info-text-title-2"
 msgstr "Kimlar xavf ostida?"
 
 msgid "wannacryptpromopage_info-text-2"
-msgstr ""
+msgstr "Eng katta xavf ostida Windows 10  dan past bo'lgan SMB portlari ochiq operatsion tizim o'rnatilgan kompyuterlar kiradi. Xavf ostida hozirda kamida Windows OSning yarim foydalanuvchilari kiradi — 18% foydalanuvchilar Windows ning litsenziyalanmagan nusxalardan foydalanib (avtomatik tarzda xavf zonasiga kirishadi). Yana 23% foydalanuvchilarda Windows Update xizmati o'chirilgan bo'lib (Microsoftdan yangilanishlarni yuklab olmaydi) va yana 6% foydalanuvchilar eskirgan OSlardan foydalanishadi. Ularga yangilanishlar umuman chiqarilmaydi.<br/><br/>Yuqorilardan kelib chiqib, xulosa qilish mumkinki eng katta xavf Windows XP ishlatayotgan kichik kompaniyalarga to'g'ri keladi. Hujum ostida qolgan bunaqa tarmoqda barcha kompyuterlar zararlanadi va har bitta kompyuter uchun alohida to'lov qilishga to'g'ri keladi."
 
 msgid "wannacryptpromopage_info-text-title-3"
 msgstr "O'z biznesingizni qanday gimoya qilasiz — DriverPack Solution dan yechim"
 
 msgid "wannacryptpromopage_info-text-3"
-msgstr ""
+msgstr "WannaCrypt (WannaCry) virusining xavfiligining asosiy sababi SMBv1 protokolidagi MS17-010 xavfsizlik tizimining zaifligi bilan bog'liqdir. Bu antivirus dasturiga WannaCry deyarli ko'rinmas qilib qo'yadi. DriverPack Solution dagi yechim sizning tizimingizning muhim zaifliklarini yopish va xavf tug'diradigan eskirib qolgan protokollarni o'chirish uchun sizning OSga yangilashlarni o'rnatadi. "
 
 msgid "wannacryptpromopage_links-text"
-msgstr ""
+msgstr "Izlanish quyidagi materiallarga asoslangan"
 
 msgid "wannacryptpromopage_link-smb"
-msgstr ""
+msgstr "Qanday qilib Windows va Windows Serverda  SMB 1, 2 va 3 versiyalarini o'chirish va yoqish mumkin"
+
+#~ msgid "adminheader_products-caption"
+#~ msgstr ""
+#~ "Xoxlagan DriverPack ikki holda ham bir xilkompyuterni sozlaydi, shunchaki "
+#~ "o'zingiznikini tanlang:"

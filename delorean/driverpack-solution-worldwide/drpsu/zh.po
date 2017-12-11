@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-11-16 14:57+0000\n"
+"POT-Creation-Date: 2017-11-24 08:35+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: danfong <danfong.hsieh@gmail.com>, 2017\n"
 "Language-Team: Chinese (https://www.transifex.com/driverpack-solution/teams/75453/zh/)\n"
@@ -45,9 +45,6 @@ msgstr "DriverPack – 它是為系統管理員建立，但即使對初學者也
 msgid "adminheader_cta-btn"
 msgstr "下載 DriverPack Online"
 
-msgid "adminheader_products-caption"
-msgstr "任何 DriverPack 都將隨時安裝您的電腦，只需選擇所需的驅動程式包:"
-
 msgid "adminpromo_landing-title"
 msgstr "新版的 DriverPack 18 正在開發中"
 
@@ -55,7 +52,7 @@ msgid "adminpromo_landing-subtitle"
 msgstr "新版本專為系統管理員而設計，並考慮到他們的需求"
 
 msgid "adminpromo_banner-text"
-msgstr "新版的 DriverPack 18 是根據以前的版本設計的，它們已經證明了它們的特殊穩定性。新版本的計畫在 2017 年發佈。"
+msgstr ""
 
 msgid "adminpromo_list-item-speed"
 msgstr "應用程式的安裝和啟動速度已最佳化"
@@ -410,6 +407,12 @@ msgstr "安裝所有所需的驅動程式"
 msgid "landingnotebookvendorslist_versions"
 msgstr "其他 DriverPack 版本"
 
+msgid "landingproducts_cta-title"
+msgstr ""
+
+msgid "landingproducts_cta-description"
+msgstr ""
+
 msgid "landingproducts_item-title-online"
 msgstr "DriverPack Online"
 
@@ -511,6 +514,24 @@ msgstr "{{OS}} 上的膝上型電腦驅動程式"
 
 msgid "notebookvendorslist_title"
 msgstr "搜尋筆記型電腦驅動程式"
+
+msgid "productlandingheader-online_cta-btn"
+msgstr "下載 DriverPack Online"
+
+msgid "productlandingheader-online_caption"
+msgstr ""
+
+msgid "productlandingheader-network_cta-btn"
+msgstr ""
+
+msgid "productlandingheader-network_caption"
+msgstr ""
+
+msgid "productlandingheader-offline_cta-btn"
+msgstr ""
+
+msgid "productlandingheader-offline_caption"
+msgstr ""
 
 msgid "promoheader_cta-text-gamers"
 msgstr "您的電腦比您想像的更強大: 免費更新所有驅動程式"
@@ -918,10 +939,10 @@ msgid "adminpagefaq_stable-a"
 msgstr "DriverPack 軟體的操作穩定性是我們的主要優先事項之一，但是一些輕微的故障仍然很少發生。這就是為什麼我們建立一個還原點，使您能夠將所有內容還原到未組態的狀態。為了防止將來出現類似的問題，我們建議您前往 DriverPack 應用程式選單，並將報告發送給我們的技術服務，由軟體自動形成。"
 
 msgid "badrabbitpromopage_cta-text"
-msgstr "Bad Rabbit 加密病毒 — 如何保護您的電腦?"
+msgstr ""
 
 msgid "badrabbitpromopage_cta-subtext"
-msgstr "DriverPack 包含消除電腦組態工具中漏洞的特定方法。您可以下載來免費保護您的電腦和筆記型電腦免受 Bad Rabbit 病毒威脅。"
+msgstr ""
 
 msgid "badrabbitpromopage_cta-btn"
 msgstr "設定電腦並保護它不受 Bad Rabbit 的感染"
@@ -933,10 +954,10 @@ msgid "badrabbitpromopage_info-text-title-1"
 msgstr "什麼是 Bad Rabbit?"
 
 msgid "badrabbitpromopage_info-text-1"
-msgstr "Bad Rabbit 是一種新的加密技術病毒，最近一周襲擊了俄羅斯、烏克蘭、保加利亞和土耳其用戶的電腦。遭受襲擊的受害者還有 Interfax RIA、Fontanka RIA、烏克蘭以及敖德薩機場的許多部門。操作原理很簡單：它使用 Mimikatz 工具，從電腦的記憶體中擷取帳戶資料。它還搜尋系統管理員使用中的帳戶資料。Bad Rabbit 嘗試使用 SMB 和 WebDAV 存取區域網路中的工作站。一旦它存取電腦，病毒會加密其管理的所有資料，然後變更主開機記錄。當這個程序完成後，Bad Rabbit 重新設定您的電腦，並彈出訊息，要求支付 0.05 比特幣(在 2017 年 10 月 26 日約 300 美元)。"
+msgstr ""
 
 msgid "badrabbitpromopage_info-text-title-2"
-msgstr "如何保護您的電腦免受 Bad Rabbit 加密病毒感染?"
+msgstr ""
 
 msgid "badrabbitpromopage_info-text-2"
 msgstr "您可以如何保護自己免受新病毒的攻擊: <br/>•在 C:\\\\Windows\\\\ 資料夾中建立一個 infpub.dat 檔案，並在其屬性中勾選「唯讀」選項<br/>•在「工作排程器」中仔細建立新工作<br/>•不要從外部網站安裝 FlashPlayer 的任何更新<br/>•更新 Windows 和所有已安裝的保護軟體<br/>•備份您的作業系統<br/><br/>此外，您可以透過在此頁面上下載 DriverPack Solution 來使用新解決方案 - 將節省您的時間!<br/><b> 我們的解決方案適用於Windows 7, 8, 8.1, 10 和 XP。</b>"
@@ -1076,7 +1097,7 @@ msgid "wannacryptpromopage_cta-text"
 msgstr "WannaCrypt 加密勒索病毒 — 如何保護電腦免受歷史上最大的攻擊?"
 
 msgid "wannacryptpromopage_cta-subtext"
-msgstr "DriverPack 包含用於消除電腦安裝工具中漏洞的特定方法。您可以下載來免費保護您的電腦和筆記本電腦免遭 WannaCry 勒索病毒感染，這將保護您的電腦。"
+msgstr ""
 
 msgid "wannacryptpromopage_cta-btn"
 msgstr "安裝電腦並保護它免受 WannaCry 的感染"
@@ -1107,3 +1128,6 @@ msgstr "發展是以下列材料為主"
 
 msgid "wannacryptpromopage_link-smb"
 msgstr "如何啟用、停用 Windows and Windows Server SMB 通訊協定版本 1、2 和 3"
+
+#~ msgid "adminheader_products-caption"
+#~ msgstr "任何 DriverPack 都將隨時安裝您的電腦，只需選擇所需的驅動程式包:"

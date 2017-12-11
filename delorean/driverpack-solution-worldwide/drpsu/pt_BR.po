@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-11-16 14:57+0000\n"
+"POT-Creation-Date: 2017-11-24 08:35+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>, 2017\n"
 "Language-Team: Portuguese (Brazil) (https://www.transifex.com/driverpack-solution/teams/75453/pt_BR/)\n"
@@ -46,9 +46,6 @@ msgstr "O DriverPack foi criado para administradores, mas é fácil de usar mes
 msgid "adminheader_cta-btn"
 msgstr "Baixar o DriverPack Online"
 
-msgid "adminheader_products-caption"
-msgstr "Qualquer DriverPack irá configurar seu computador rapidamente. Basta escolher o pacote que você precisa:"
-
 msgid "adminpromo_landing-title"
 msgstr "O novo DriverPack 18 está em desenvolvimento"
 
@@ -56,7 +53,7 @@ msgid "adminpromo_landing-subtitle"
 msgstr "A nova versão foi projetada especificamente para administradores e leva em conta as suas necessidades"
 
 msgid "adminpromo_banner-text"
-msgstr "O novo DriverPack 18 foi redesenhado com base nas versões anteriores, que já demonstraram sua excepcional estabilidade. O lançamento da nova versão está prevista para o ano de 2017. "
+msgstr "O novo DriverPack 18 foi redesenhado com base nas versões anteriores que já demonstraram sua excepcional estabilidade. O lançamento da nova versão está prevista para o ano de 2017. "
 
 msgid "adminpromo_list-item-speed"
 msgstr "A velocidade de instalação e inicialização do aplicativo foram otimizados."
@@ -411,6 +408,12 @@ msgstr "Instalar todos os drivers necessários"
 msgid "landingnotebookvendorslist_versions"
 msgstr "Outras versões do DriverPack"
 
+msgid "landingproducts_cta-title"
+msgstr "Escolha o seu DriverPack"
+
+msgid "landingproducts_cta-description"
+msgstr "Baixe o pacote mais adequado para você "
+
 msgid "landingproducts_item-title-online"
 msgstr "DriverPack Online"
 
@@ -512,6 +515,24 @@ msgstr "Drivers para notebooks no {{OS}}"
 
 msgid "notebookvendorslist_title"
 msgstr "Busca de drivers para notebook"
+
+msgid "productlandingheader-online_cta-btn"
+msgstr "Baixar o DriverPack Online"
+
+msgid "productlandingheader-online_caption"
+msgstr "DriverPack Online - o produto mais popular de apenas {{SIZE}} MB de tamanho. Ele é baixado instantaneamente, depois seleciona os drivers para o seu computador ou notebook e depois disso, baixa todos os drivers necessários pela Internet e os instala. É perfeitamente adequado para um usuário comum. Funciona apenas com acesso à Internet."
+
+msgid "productlandingheader-network_cta-btn"
+msgstr "Baixar o DriverPack Offline Network"
+
+msgid "productlandingheader-network_caption"
+msgstr "DriverPack Offline Network - drivers para hardware de rede em um só lugar ({{SIZE}} MB). É baixado rapidamente e instalado ainda mais rápido! Assim que o Windows for reinstalado, o DriverPack Offline Network configurará os drivers de rede para se conectar à Internet e, em seguida, baixará os drivers para o resto dos dispositivos!"
+
+msgid "productlandingheader-offline_cta-btn"
+msgstr "Baixar o DriverPack Offline Full"
+
+msgid "productlandingheader-offline_caption"
+msgstr "DriverPack Offline Full - um grande pacote de {{SIZE}} GB de tamanho para instalação do driver sem acesso à Internet. Basta baixar o DriverPack Offline Full e usar a enorme biblioteca de drivers atualizados onde quiser. É perfeitamente adequado aos administradores do sistema."
 
 msgid "promoheader_cta-text-gamers"
 msgstr "Seu computador é mais poderoso do que você pensa: atualize todos os drivers gratuitamente"
@@ -919,10 +940,10 @@ msgid "adminpagefaq_stable-a"
 msgstr "A estabilidade de operação do programa DriverPack é uma das nossas principais prioridades, mas pequenas falhas ainda acontecem, embora sejam raras. É por isso que criamos um ponto de restauração que lhe permitirá retornar tudo de volta ao estado previamente configurado. Para evitar um problema semelhante no futuro, recomendamos que você vá ao Menu DriverPack e envie o relatório que é criado automaticamente pelo programa, para nossos serviços técnicos."
 
 msgid "badrabbitpromopage_cta-text"
-msgstr "Vírus criptógrafo Bad Rabbit — como proteger o seu PC?"
+msgstr "Vírus criptográfico Bad Rabbit — como proteger o seu PC?"
 
 msgid "badrabbitpromopage_cta-subtext"
-msgstr "O DriverPack contém meios específicos para eliminar vulnerabilidades entre as ferramentas de configuração do computador. Você pode baixar a proteção gratuita contra o vírus Bad Rabbit para o seu PC e notebook, que protegerá o seu computador."
+msgstr "O DriverPack contém meios específicos para eliminar vulnerabilidades entre as ferramentas de configuração do computador. Você pode proteger seu PC ou notebook baixando nossa proteção gratuita contra o vírus Bad Rabbit."
 
 msgid "badrabbitpromopage_cta-btn"
 msgstr "Configure o computador e proteja-o contra o Bad Rabbit"
@@ -934,10 +955,10 @@ msgid "badrabbitpromopage_info-text-title-1"
 msgstr "O que é Bad Rabbit?"
 
 msgid "badrabbitpromopage_info-text-1"
-msgstr "Bad Rabbit é um novo vírus de criptografia que atacou os computadores dos usuários na Rússia, Ucrânia, Bulgária e Turquia desde o final de outubro de 2017. Entre as vítimas atacadas estão também o Interfax RIA, o Fontanka RIA, vários Ministérios da Ucrânia, bem como o Aeroporto de Odessa. O princípio da operação é simples: ele usa o utilitário Mimikatz a fim de recuperar os dados da conta da memória do seu PC. Ele também procura os dados da conta ativa do administrador. O Bad Rabbit então tenta acessar as estações de trabalho na rede local usando o SMB e WebDAV. Assim que tiver acesso ao PC, o vírus criptografa todos os dados que conseguiu alcançar, e depois disso ele muda o Master Boot Record. Quando este procedimento estiver completo, o Bad Rabbit redefinirá seu computador e exibirá sua mensagem com demanda de 0,05 Bitcoins (o que faz cerca de $300 a partir de 26 de outubro de 2017). "
+msgstr "Bad Rabbit é um novo vírus de criptografia que atacou os computadores dos usuários na Rússia, Ucrânia, Bulgária e Turquia desde o final de outubro de 2017. Entre as vítimas atacadas estão também o Interfax RIA, o Fontanka RIA, vários Ministérios da Ucrânia, bem como o Aeroporto de Odessa. O princípio da operação é simples: ele usa o utilitário Mimikatz a fim de recuperar os dados da conta da memória do seu PC. Ele também procura os dados da conta ativa do administrador. O Bad Rabbit então tenta acessar as estações de trabalho na rede local usando o SMB e WebDAV. Assim que tiver acesso ao PC, o vírus criptografa todos os dados que conseguiu alcançar, e depois disso ele muda o Master Boot Record. Quando este procedimento estiver completo, o Bad Rabbit redefinirá seu computador e exibirá sua mensagem com demanda de 0,05 Bitcoins (o que faz cerca de $300 até o final de outubro de 2017). "
 
 msgid "badrabbitpromopage_info-text-title-2"
-msgstr "Como proteger seu PC contra o vírus criptógrafo Bad Rabbit?"
+msgstr "Como proteger seu PC contra o vírus criptográfico Bad Rabbit?"
 
 msgid "badrabbitpromopage_info-text-2"
 msgstr "O que você pode fazer para se proteger contra o novo vírus: <br/>• Crie um arquivo infpub.dat na pasta C:\\\\Windows\\\\ e marque a opção 'Somente leitura' em suas propriedades<br/>• Observe cuidadosamente ao criar novas tarefas no 'Agendador de Tarefas'<br/>• Não instale atualizações para o FlashPlayer de sites externos<br/>• Atualize o Windows e todo programa de proteção instalado<br/>• Faça backups do seu sistema operacional<br/><br/>Além disso, você pode usar a nova solução do DriverPack Solution baixando-a nesta página - ela economizará seu tempo!<br/><b>Nossa solução funciona no Windows 7, 8, 8.1, 10 e XP.</b>"
@@ -1077,7 +1098,7 @@ msgid "wannacryptpromopage_cta-text"
 msgstr "Vírus criptografador WannaCrypt — como proteger o computador contra o maior ataque da história?"
 
 msgid "wannacryptpromopage_cta-subtext"
-msgstr "O DriverPack contém meios específicos para eliminar vulnerabilidades entre as ferramentas de configuração do computador. Você pode baixar uma proteção gratuita contra o vírus WannaCry, que protegerá seu PC ou notebook."
+msgstr "O DriverPack contém ações específicas para eliminar vulnerabilidades nas ferramentas de configuração do computador. Você pode proteger seu PC ou notebook baixando nossa proteção gratuita contra o vírus WannaCry."
 
 msgid "wannacryptpromopage_cta-btn"
 msgstr "Configure o computador e proteja-o contra o WannaCry"
@@ -1108,3 +1129,8 @@ msgstr "O desenvolvimento desta solução baseou-se nos seguintes materiais"
 
 msgid "wannacryptpromopage_link-smb"
 msgstr "Como habilitar e desabilitar as versões 1, 2 e 3 dos protocolos SMB para Windows e Windows Server"
+
+#~ msgid "adminheader_products-caption"
+#~ msgstr ""
+#~ "Qualquer DriverPack irá configurar seu computador rapidamente. Basta "
+#~ "escolher o pacote que você precisa:"

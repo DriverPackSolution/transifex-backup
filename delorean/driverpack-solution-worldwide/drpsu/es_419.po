@@ -6,8 +6,8 @@
 # German Alonso Pimentel Vera <gpimentelv@gmail.com>, 2017
 # Pablo Vila <inactive+pvila@transifex.com>, 2017
 # Maximo Umbral <lintiman54@hotmail.com>, 2017
-# Mario Antonio Baldi <proteus8ar@gmail.com>, 2017
 # Ignacio L'Episcopo <ignaciolep@gmail.com>, 2017
+# Mario Antonio Baldi <proteus8ar@gmail.com>, 2017
 # Jose Maria CL <chema9703@gmail.com>, 2017
 # Paulo Abraham Barrientos Casanova <cnnick.ex@gmail.com>, 2017
 # Alvaro Samudio <alvarosamudio1@gmail.com>, 2017
@@ -15,7 +15,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-11-16 14:57+0000\n"
+"POT-Creation-Date: 2017-11-24 08:35+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Alvaro Samudio <alvarosamudio1@gmail.com>, 2017\n"
 "Language-Team: Spanish (Latin America) (https://www.transifex.com/driverpack-solution/teams/75453/es_419/)\n"
@@ -55,9 +55,6 @@ msgstr "DriverPack ha sido creado para administradores, pero es fácilmente util
 msgid "adminheader_cta-btn"
 msgstr "Descarga DriverPack Online"
 
-msgid "adminheader_products-caption"
-msgstr "Cualquier DriverPack configurara tu computador en poco tiempo. Solo selecciona el instalador que quieres:"
-
 msgid "adminpromo_landing-title"
 msgstr "El nuevo DriverPack 18 está en desarrollo"
 
@@ -65,7 +62,7 @@ msgid "adminpromo_landing-subtitle"
 msgstr "La nueva versión está diseñada específicamente para los administradores y tiene en cuenta sus necesidades"
 
 msgid "adminpromo_banner-text"
-msgstr "El nuevo DriverPack 18 ha sido re-diseñado basándose en versiones anteriores las cuales han probado su excepcional estabilidad. El lanzamiento de esta nueva versión esta programada para el año 2017"
+msgstr "El nuevo DriverPack 18 ha sido rediseñado en base a las versiones anteriores que ya han demostrado su excepcional estabilidad. La publicación de la nueva versión está programada para el año 2017."
 
 msgid "adminpromo_list-item-speed"
 msgstr "La velocidad de inicio e instalación de la aplicación ha sido optimizada."
@@ -379,7 +376,7 @@ msgid "landingfeatures_item-title-for-all-devices"
 msgstr "Para todos los dispositivos"
 
 msgid "landingfeatures_item-caption-for-all-devices"
-msgstr "DriverPack tiene la base de datos más grande del conductor en el mundo, y se puede utilizar para configurar cualquier computadora"
+msgstr "DriverPack posee la mayor base de datos de controladores del mundo y puede ser utilizado para configurar cualquier computadora"
 
 msgid "landingheader_cta-text"
 msgstr "DriverPack instalará los controladores de forma gratuita y resolverá los problemas con cualquier dispositivo"
@@ -420,11 +417,17 @@ msgstr "Instalar todos los controladores necesarios"
 msgid "landingnotebookvendorslist_versions"
 msgstr "Otras versiones de DriverPack"
 
+msgid "landingproducts_cta-title"
+msgstr "Elija su DriverPack"
+
+msgid "landingproducts_cta-description"
+msgstr "Descargue el paquete que más le convenga"
+
 msgid "landingproducts_item-title-online"
 msgstr "DriverPack Online"
 
 msgid "landingproducts_item-description-online"
-msgstr ""
+msgstr "Se descarga al instante, descarga e instala todos los controladores si tiene conexión a Internet <span class='nobr'>({{SIZE}} MB)</span>"
 
 msgid "landingproducts_item-version"
 msgstr "Versión:"
@@ -442,7 +445,7 @@ msgid "landingproducts_item-title-offline"
 msgstr "DriverPack Offline Full"
 
 msgid "landingproducts_item-description-offline"
-msgstr ""
+msgstr "Contiene todos los controladores, funciona sin conexión a Internet, se puede descargar a través del rastreador de Torrent <span class='nobr'>({{SIZE}} GB)</span>"
 
 msgid "landingpublications__landing-title"
 msgstr "Publicaciones de medios de comunicación sobre DriverPack"
@@ -481,7 +484,7 @@ msgid "landingwizard_landing-title"
 msgstr "Ahora es posible configurar un ordenador en un solo clic"
 
 msgid "landingwizard_item-caption-download"
-msgstr "Descargar y ejecutar DriverPack Online"
+msgstr "Descarga y ejecuta DriverPack Online"
 
 msgid "landingwizard_item-caption-setup"
 msgstr "Configure su computadora con una sola acciòn"
@@ -521,6 +524,24 @@ msgstr "Controladores para portátiles en {{OS}} "
 
 msgid "notebookvendorslist_title"
 msgstr "Buscar controladores para equipos"
+
+msgid "productlandingheader-online_cta-btn"
+msgstr "Descarga DriverPack Online"
+
+msgid "productlandingheader-online_caption"
+msgstr "DriverPack Online - el producto más popular de solo {{SIZE}} MB tamaño. Se descarga instantáneamente, selecciona los controladores para su computadora o computadora portátil, y luego descarga todos los controladores necesarios a través de Internet y los instala. Se adapta perfectamente a un usuario ordinario. Funciona solo con acceso a Internet."
+
+msgid "productlandingheader-network_cta-btn"
+msgstr "Descarga DriverPack Offline Network"
+
+msgid "productlandingheader-network_caption"
+msgstr "DriverPack Offline Network - controladores para hardware de red en un solo lugar ({{SIZE}} MB). Se descarga rápido, ¡e instalado aún más rápido! Tan pronto como se reinstale Windows, la red fuera de línea de DriverPack configurará los controladores de red para conectarse a Internet y luego descargará los controladores para el resto de los dispositivos."
+
+msgid "productlandingheader-offline_cta-btn"
+msgstr "Descarga DriverPack Offline Full"
+
+msgid "productlandingheader-offline_caption"
+msgstr "DriverPack Offline Full - un paquete enorme de {{SIZE}} GB tamaño para la instalación del controlador sin acceso a Internet. Simplemente descargue DriverPack Offline Full y use la enorme biblioteca de controladores actualizados donde desee. Se adapta perfectamente a los administradores del sistema."
 
 msgid "promoheader_cta-text-gamers"
 msgstr "Tu computadora es más potente de lo que piensas: actualiza todos los controladores de forma gratuita"
@@ -928,10 +949,10 @@ msgid "adminpagefaq_stable-a"
 msgstr "La estabilidad de la operación del software DriverPack es una de nuestras principales prioridades, pero los fallos menores siguen ocurriendo, aunque son raros. Esta es la razón por la que creamos un punto de restauración que le permitirá devolver todo al estado previamente configurado. Para evitar un problema similar en el futuro, le recomendamos que vaya al Menú DriverPack y envíe el informe que el software crea automáticamente a nuestros servicios técnicos."
 
 msgid "badrabbitpromopage_cta-text"
-msgstr "Bad Rabbit es un virus cryptógrafo — ¿cómo proteger tu PC?"
+msgstr "Virus criptográfico Bad Rabbit — ¿cómo proteger tu PC?"
 
 msgid "badrabbitpromopage_cta-subtext"
-msgstr "DriverPack contiene medios específicos para eliminar vulnerabilidades entre las herramientas de configuración. Puedes descargar protección gratis contra el virus Bad Rabbit para proteger tu PC y laptop."
+msgstr "DriverPack contiene acciones específicas para eliminar vulnerabilidades en las herramientas de configuración de la computadora. Puede proteger su PC o computadora portátil descargando nuestra protección gratuita contra el virus Bad Rabbit."
 
 msgid "badrabbitpromopage_cta-btn"
 msgstr "Configurar y proteger el equipo contra Bad Rabbit"
@@ -943,10 +964,10 @@ msgid "badrabbitpromopage_info-text-title-1"
 msgstr "¿Que es Bad Rabbit?"
 
 msgid "badrabbitpromopage_info-text-1"
-msgstr "Bad Rabbit es un nuevo virus criptográfico que ataca las computadoras de los usuarios en Rusia, Ucrania, Bulgaria y Turquía, desde los finales de octubre de 2017. También encuentran entre las víctimas atacadas: Interfax RIA, Fontanka RIA, los varios Ministerios de Ucrania, y el aeropuerto de Odessa. El principio de funcionamiento es muy simples: si utiliza el utilitário Mimikatz para recuperar los datos de la cuenta de la memoria de su PC. También busca los datos de la cuenta activa del administrador. Bad Rabbit luego trata de obtener acceso a las estaciones de trabajo en la red local mediante el uso de SMB y WebDAV. Tan pronto como obtiene acceso al PC, el virus cifra todos los datos que logró alcanzar, y luego, entonces cambia el Registro maestro del arranque. Cuando se completa eso procedimiento, el virus Bad Rabbit reinicia su computadora y muestra su mensaje con una demanda de 0.05 Bitcoins (lo que equivale a unos $ 300 según el tipo de cambio del 26 de octubre de 2017)."
+msgstr "Bad Rabbit es un nuevo virus criptográfico que atacó computadoras en Rusia, Ucrania, Bulgaria y Turquía desde finales de octubre de 2017. También entre las víctimas se encuentran The Interfax RIA, The Fontanka RIA, un número de los Ministerios de Ucrania, así como del Aeropuerto de Odessa. El principio de funcionamiento es simple: utiliza la utilidad Mimikatz para recuperar los datos de la cuenta de la memoria de su PC. También busca los datos de la cuenta activa del administrador. Bad Rabbit luego trata de obtener acceso a las estaciones de trabajo en la red local mediante el uso de SMB y WebDAV. Tan pronto como obtiene acceso a su PC, el virus cifra todos los datos que logró alcanzar, y luego cambia el Registro maestro de arranque. Cuando se completa este procedimiento, Bad Rabbit restablece su computadora y muestra su mensaje con una demanda de 0.05 Bitcoins (aproximadamente $300 a fines de octubre de 2017) .configuration tools. Puede proteger su PC o computadora portátil descargando nuestra protección gratuita contra el virus Bad Rabbit."
 
 msgid "badrabbitpromopage_info-text-title-2"
-msgstr "¿Cómo proteger a tu PC contra el virus cryptógrafo Bad Rabbit?"
+msgstr "¿Cómo proteger su PC contra el virus criptográfico Bad Rabbit?"
 
 msgid "badrabbitpromopage_info-text-2"
 msgstr "Esto es lo que puedes hacer tú mismo para protegerte del nuevo virus:<br/>• Crear un archivo infpub.dat en la carpeta C:\\\\Windows\\\\ y marca la opción 'Solo lectura' en sus propiedades<br/>Observa cuidadosamente la creación de nuevas tareas en el 'Programador de tareas'<br/>• No instales ninguna actualización para FlashPlayer desde sitios externos<br/>• Actualiza Windows y todos los softwares de protección instalados<br/>• Realiza respaldos de tu sistema operativo<br/><br/>También, puedes solo usar la nueva solución DriverPack Solution descargandola de esta pagina - ¡Ahorrará tu tiempo!<br/><b>Nuestra solución funciona en Windows 7, 8, 8.1, 10, y XP.</b>"
@@ -973,7 +994,7 @@ msgid "errorpage_title"
 msgstr "Error 500: Error interno del servidor"
 
 msgid "landingfooter_landing-subtitle"
-msgstr "DriverPack contiene los controladores para los mas populares verciones de Windows"
+msgstr "DriverPack contiene controladores para todas las versiones populares de Windows"
 
 msgid "landing-footer_catalog-os"
 msgstr "controladores para {{OS}}"
@@ -1086,7 +1107,7 @@ msgid "wannacryptpromopage_cta-text"
 msgstr "WannaCrypt es un virus cryptógrafo — ¿cómo proteger a la computadora contra el mayor ataque en la historia?"
 
 msgid "wannacryptpromopage_cta-subtext"
-msgstr "DriverPack contiene medios específicos para eliminar vulnerabilidades entre las herramientas de configuración del equipo. Puede descargar una protección gratuita contra el virus WannaCry, que protegerá su PC o portátil."
+msgstr "DriverPack contiene acciones específicas para eliminar vulnerabilidades en las herramientas de configuración de la computadora. Puede proteger su PC o computadora portátil descargando nuestra protección gratuita contra el virus WannaCry."
 
 msgid "wannacryptpromopage_cta-btn"
 msgstr "Configurando la computadora y protegiendolo de WannaCry"
@@ -1104,7 +1125,7 @@ msgid "wannacryptpromopage_info-text-title-2"
 msgstr "¿Quién está en riesgo?"
 
 msgid "wannacryptpromopage_info-text-2"
-msgstr "Las computadoras que operan verciones anteriores de Windows 10 con el puerto SMB abierto tienen el mayor riesgo. Al presente, la mitad de los usuarios de Windows corren riesgo — 18% de los usuarios usan Windows sin una licencia (poniendose en riesgo automaticamente), el 23% de los usuarios desactivan las actualizaciones de Windows (El cual previene la descarga de los ultimos &#147;arreglos importantes&#148; de Microsoft), y otro 6% usan Sistemas Operativos antiguos que simplemente no reciben mas las actualizaciones importantes.  <br/><br/>La conclucion que todas estas redes y varias firmas de empresas que usan Systemas Operativos tal como Windows XP corren alto riesgo. El ataque de estas redes, las perdidas de datos pueden ser incapacitante y puede acarrear costos enormes, ya que el  &#147;rescate&#148; es el pedido de pago por cada PC por separado."
+msgstr "Las computadoras con sistemas operativos anteriores a Windows 10 que tienen puertos SMB abiertos son los de mayor riesgo. Actualmente, la mitad de todos los usuarios de Windows están en riesgo — el 18% de los usuarios no tienen licencia (poniéndose en riesgo automáticamente). Un 23% de los usuarios tienen deshabilitado el servicio de Windows Update (que les impide descargar las últimas &#147;actualizaciones de seguridad&#148; de Microsoft), y otro 6% usa versiones obsoletas del sistema operativo que simplemente no reciben más actualizaciones. <br/><br/>La conclusión de todo esto es que las redes de las diversas empresas que todavía utilizan sistemas operativos como Windows XP tienen el mayor riesgo. En los ataques a estas redes, la pérdida de datos puede ser muy alta y el costo enorme, ya que cualquier &#147;rescate&#148; debe ser pagado por cada computadora por separado."
 
 msgid "wannacryptpromopage_info-text-title-3"
 msgstr "Como proteger su negocio — soucion de DriverPack Solution"
@@ -1117,3 +1138,8 @@ msgstr "El desarrollo se basa en los siguientes materiales"
 
 msgid "wannacryptpromopage_link-smb"
 msgstr "Cómo habilitar y deshabilitar las versiones 1, 2 y 3 de los protocolos SMB para Windows y Windows Server"
+
+#~ msgid "adminheader_products-caption"
+#~ msgstr ""
+#~ "Cualquier DriverPack configurara tu computador en poco tiempo. Solo "
+#~ "selecciona el instalador que quieres:"
