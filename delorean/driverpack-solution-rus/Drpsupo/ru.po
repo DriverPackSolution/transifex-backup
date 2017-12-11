@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-11-24 08:35+0000\n"
+"POT-Creation-Date: 2017-12-08 15:35+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -23,10 +23,7 @@ msgid "admindriverpacks_landing-title"
 msgstr "Драйверпаки (наборы драйверов)"
 
 msgid "admindriverpacks_landing-subtitle"
-msgstr "В наших драйверпаках 1 131 989 драйверов, отобранных и протестированных вручную"
-
-msgid "admindriverpacks_downloaded"
-msgstr "Скачали:"
+msgstr "В наших драйверпаках {{COUNT}} драйверов, отобранных и протестированных вручную"
 
 msgid "admindriverpacks_download"
 msgstr "Скачать"
@@ -415,7 +412,7 @@ msgid "landingproducts_item-title-online"
 msgstr "DriverPack Online"
 
 msgid "landingproducts_item-description-online"
-msgstr "Скачивается мгновенно, загружает и устанавливает все драйверы при наличии интернета <span class='nobr'>({{SIZE}} Мб)</span>"
+msgstr "Скачивается мгновенно, загружает и устанавливает все драйверы при наличии интернета <span class='nobr'>({{SIZE}})</span>"
 
 msgid "landingproducts_item-version"
 msgstr "Версия:"
@@ -427,13 +424,13 @@ msgid "landingproducts_item-title-network"
 msgstr "DriverPack Offline Network"
 
 msgid "landingproducts_item-description-network"
-msgstr "Содержит драйверы для сетевого оборудования (Lan/Wi-Fi), работает без интернета <span class='nobr'>({{SIZE}} Мб)</span>"
+msgstr "Содержит драйверы для сетевого оборудования (Lan/Wi-Fi), работает без интернета <span class='nobr'>({{SIZE}})</span>"
 
 msgid "landingproducts_item-title-offline"
 msgstr "DriverPack Offline Full"
 
 msgid "landingproducts_item-description-offline"
-msgstr "Содержит все драйверы, работает без интернета, скачивается через torrent <span class='nobr'>({{SIZE}} Гб)</span>"
+msgstr "Содержит все драйверы, работает без интернета, скачивается через torrent <span class='nobr'>({{SIZE}})</span>"
 
 msgid "landingpublications__landing-title"
 msgstr "Про DriverPack пишут журналисты"
@@ -517,19 +514,19 @@ msgid "productlandingheader-online_cta-btn"
 msgstr "Скачать DriverPack Online"
 
 msgid "productlandingheader-online_caption"
-msgstr "DriverPack Online - самый популярный продукт размером всего в {{SIZE}} Мб. Мгновенно скачивается, подбирает драйверы для вашего компьютера или ноутбука, после чего скачивает все необходимые драйвера через интернет и устанавливает. Идеально подходит для простого пользователя. Работает только с доступом в Интернет"
+msgstr "DriverPack Online - самый популярный продукт размером всего в {{SIZE}}. Мгновенно скачивается, подбирает драйверы для вашего компьютера или ноутбука, после чего скачивает все необходимые драйвера через интернет и устанавливает. Идеально подходит для простого пользователя. Работает только с доступом в Интернет"
 
 msgid "productlandingheader-network_cta-btn"
 msgstr "Скачать DriverPack Offline Network"
 
 msgid "productlandingheader-network_caption"
-msgstr "DriverPack Offline Network - драйвера для сетевого оборудования в одном месте ({{SIZE}} Мб). Скачивается быстро, устанавливается ещё быстрее! После переустановки Windows DriverPack Offline Network настроит сетевые драйвера для подключения к интернету и скачает  драйверы на остальные устройства!"
+msgstr "DriverPack Offline Network - драйвера для сетевого оборудования в одном месте ({{SIZE}}). Скачивается быстро, устанавливается ещё быстрее! После переустановки Windows DriverPack Offline Network настроит сетевые драйвера для подключения к интернету и скачает  драйверы на остальные устройства!"
 
 msgid "productlandingheader-offline_cta-btn"
 msgstr "Скачать DriverPack Offline Full"
 
 msgid "productlandingheader-offline_caption"
-msgstr "DriverPack Offline Full - огромная сборка на {{SIZE}} Гб для установки драверов без доступа к интернету. Просто скачайте DriverPack Offline Full и пользуйтесь огромной библиотекой актуальных драйверов в любом месте. Идеально подходит для работы системных администраторов."
+msgstr "DriverPack Offline Full - огромная сборка на {{SIZE}} для установки драверов без доступа к интернету. Просто скачайте DriverPack Offline Full и пользуйтесь огромной библиотекой актуальных драйверов в любом месте. Идеально подходит для работы системных администраторов."
 
 msgid "promoheader_cta-text-gamers"
 msgstr "Ваш компьютер мощнее, чем вы думаете: обновите все драйверы бесплатно"
