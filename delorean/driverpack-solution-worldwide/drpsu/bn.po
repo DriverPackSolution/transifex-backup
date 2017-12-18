@@ -27,7 +27,7 @@ msgid "admindriverpacks_landing-title"
 msgstr "Driverpacks (driver এর সমষ্টি)"
 
 msgid "admindriverpacks_landing-subtitle"
-msgstr ""
+msgstr "আমাদের driverpacks এ আছে {{COUNT}} ড্রাইভার যেগুলো বিশেষভাবে বাছাই করা ও পরীক্ষিত"
 
 msgid "admindriverpacks_download"
 msgstr "ডাউনলোড"
@@ -416,7 +416,7 @@ msgid "landingproducts_item-title-online"
 msgstr "DriverPack Online"
 
 msgid "landingproducts_item-description-online"
-msgstr ""
+msgstr "এটা সাথে সাথেই ডাউনলোড হয়ে যায়, ইন্টারনেট সংযোগ থাকলে সকল ড্রাইভার ডাউনলোড ও ইন্সটল করে <span class='nobr'>({{SIZE}})</span> "
 
 msgid "landingproducts_item-version"
 msgstr "ভার্সন:"
@@ -428,13 +428,13 @@ msgid "landingproducts_item-title-network"
 msgstr "DriverPack Offline Network"
 
 msgid "landingproducts_item-description-network"
-msgstr ""
+msgstr "এতে নেটওয়ার্ক হার্ডওয়্যার (ল্যান/ওয়্যাই-ফাই) এর ড্রাইভারসমূহ আছে, ইন্টারনেট সংযোগ ছাড়াই কাজ করে <span class='nobr'>({{SIZE}})</span>"
 
 msgid "landingproducts_item-title-offline"
 msgstr "DriverPack Offline Full"
 
 msgid "landingproducts_item-description-offline"
-msgstr ""
+msgstr "এতে সকল ড্রাইভার রয়েছে, ইন্টারনেট সংযোগ ছাড়াই কাজ করে, এটা টরেন্ট-ট্র‍্যাকারটির মাধ্যমে ডাউনলোড করা যাবে <span class='nobr'>({{SIZE}})</span>"
 
 msgid "landingpublications__landing-title"
 msgstr "DriverPack সম্পর্কে বিভিন্ন গণমাধ্যমের প্রকাশনা"
@@ -518,19 +518,19 @@ msgid "productlandingheader-online_cta-btn"
 msgstr "DriverPack Online ডাউনলোড করুন"
 
 msgid "productlandingheader-online_caption"
-msgstr ""
+msgstr "DriverPack Online - মাত্র {{SIZE}} আকারের সবচেয়ে জনপ্রিয় পণ্য। এটা সাথে সাথেই ডাউনলোড হয়ে যায়, কম্পিউটার বা ল্যাপটপের জন্য ড্রাইভারসমূহ বাছাই করে, এবং তারপরে ইন্টারনেটের মাধ্যমে দরকারি সব ড্রাইভার ডাউনলোড করে ও সেগুলো ইন্সটল করে। একজন সাধারণ ব্যবহারকারীর জন্য এটা যথার্থই মানানসই। এটা শুধু ইন্টারনেট সংযোগ ব্যবহার করে কাজ করে।"
 
 msgid "productlandingheader-network_cta-btn"
 msgstr "DriverPack Offline Network ডাউনলোড করুন"
 
 msgid "productlandingheader-network_caption"
-msgstr ""
+msgstr "DriverPack Offline Network - এক জায়গাতে নেটওয়ার্ক হার্ডওয়্যারের ড্রাইভারসমূহ ({{SIZE}})। এটা দ্রুত ডাউনলোড হয়ে যায়, এমনকি তার চেয়ে দ্রুত ইন্সটল হয়ে যায়! Windows পুনরায় ইন্সটলড্ হওয়ামাত্র DriverPack Offline Network ইন্টারনেটে সংযুক্ত হতে নেটওয়ার্ক ড্রাইভারসমূহ সমন্বয় করে, এবং তারপরে অবশিষ্ট যন্ত্রসমূহের জন্য ড্রাইভারসমূহ ডাউনলোড করে।"
 
 msgid "productlandingheader-offline_cta-btn"
 msgstr "DriverPack Offline Full ডাউনলোড করুন"
 
 msgid "productlandingheader-offline_caption"
-msgstr ""
+msgstr "DriverPack Offline Full - ইন্টারনেট সংযোগ বাদেই ড্রাইভার ইন্সটলেশনের জন্য {{SIZE}} আকারের একটি বিশাল প্যাক। শুধু DriverPack Offline Full ডাউনলোড করুন ও হালনাগাদ ড্রাইভারসমূহের বিশাল সংগ্রহটি যেখানে দরকার সেখানে কাজে লাগান। এটা সিস্টেম অ্যাডমিনদের জন্য যথার্থই মানানসই।"
 
 msgid "promoheader_cta-text-gamers"
 msgstr "আপনার কম্পিউটার আপনার ধারণার চেয়ে শক্তিশালী: সব ড্রাইভার আপডেট করুন বিনামূল্যে"
@@ -1114,7 +1114,7 @@ msgid "wannacryptpromopage_info-text-title-2"
 msgstr "কে ঝুঁকিতে আছে?"
 
 msgid "wannacryptpromopage_info-text-2"
-msgstr "উইন্ডোজ 10 এর আগের, ওপেন SMB পোর্টস্‌ সম্বলিত অপারেটিং সিস্টেমগুলো দিয়ে চালিত পিসিগুলো সবচেয়ে ঝুঁকিতে আছে। বর্তমানে, সকল উইন্ডোজ ব্যবহারকারীর অর্ধেক অংশ ঝুঁকিতে আছে  — 18% ব্যবহারকারী উইন্ডোজ এর অনিবন্ধিত কপি ব্যবহার করে (স্বয়ংক্রিয়ভাবে তারা ঝুঁকিপ্রবণ), 23% ব্যবহারকারী তাদের উইন্ডোজ আপডেট সেবা নিষ্ক্রিয় করেছে (যা তাদেরকে মাইক্রোসফট এর সর্বশেষ  &#147;hotfixes&#148; ডাউনলোড করা থেকে বিরত রাখে), এবং অন্য 6% সেকেলে ওএস সংস্করণ ব্যবহার করছেন যেগুলো আর আপডেট পাবে না। <br/><br/>এসব থেকে পাওয়া সিদ্ধান্ত হল বিভিন্ন ফার্ম ও এন্টারপ্রাইজ যারা এখনও উইন্ডোজ এক্সপি এর মতো অপারেটিং সিস্টেম ব্যবহার করছে তাদের নেটওয়ার্কসমূহ সর্বোচ্চ ঝুঁকিতে আছে। এসব নেটওয়ার্কে আক্রমণে, তথ্য ব্যবহার অনুপযোগী হতে পারে ও এর খরচ বিশাল হতে পারে, কারণ &#147; র‍্যানসম &#148; যেকোনোটির জন্যে প্রতি পিসির জন্য আলাদাভাবে মুক্তিপণ শোধ করতে হবে।"
+msgstr "উইন্ডোজ 10 এর আগের, ওপেন SMB পোর্টস্‌ সম্বলিত অপারেটিং সিস্টেমগুলো দিয়ে চালিত পিসিগুলো সবচেয়ে ঝুঁকিতে আছে। বর্তমানে, সকল উইন্ডোজ ব্যবহারকারীর অর্ধেক অংশ ঝুঁকিতে আছে  — 18% ব্যবহারকারী উইন্ডোজ এর অনিবন্ধিত কপি ব্যবহার করে (স্বয়ংক্রিয়ভাবে তারা ঝুঁকিপ্রবণ), 23% ব্যবহারকারী তাদের উইন্ডোজ আপডেট সেবা নিষ্ক্রিয় করেছে (যা তাদেরকে মাইক্রোসফট এর সর্বশেষ  \"হটফিক্সগুলি\" ডাউনলোড করা থেকে বিরত রাখে), এবং অন্য 6% সেকেলে ওএস সংস্করণ ব্যবহার করছেন যেগুলো আর আপডেট পাবে না। <br/><br/>এসব থেকে পাওয়া সিদ্ধান্ত হল বিভিন্ন ফার্ম ও এন্টারপ্রাইজ যারা এখনও উইন্ডোজ এক্সপি এর মতো অপারেটিং সিস্টেম ব্যবহার করছে তাদের নেটওয়ার্কসমূহ সর্বোচ্চ ঝুঁকিতে আছে। এসব নেটওয়ার্কে আক্রমণে, তথ্য ব্যবহার অনুপযোগী হতে পারে ও এর খরচ বিশাল হতে পারে, কারণ \" র‍্যানসম \" যেকোনোটির জন্যে প্রতি পিসির জন্য আলাদাভাবে মুক্তিপণ শোধ করতে হবে।"
 
 msgid "wannacryptpromopage_info-text-title-3"
 msgstr "যেভাবে আপনার ব্যবসাকে নিরাপদ রাখবেন — DriverPack Solution এর সমাধান"
