@@ -27,7 +27,7 @@ msgid "admindriverpacks_landing-title"
 msgstr "Driverpacks (pakot e drivers)"
 
 msgid "admindriverpacks_landing-subtitle"
-msgstr "Pakot me drajvera përmbarjnë {{COUNT}} drajvera"
+msgstr "Driverpacks ynë përmban {{COUNT}} drajvera të cilat janë përzgjedhur dhe testuar manualisht"
 
 msgid "admindriverpacks_download"
 msgstr "Shkarko"
@@ -51,7 +51,7 @@ msgid "adminpromo_landing-subtitle"
 msgstr "Versioni i ri është projektuar posaçërisht për administratorët dhe merr parasysh nevojat e tyre"
 
 msgid "adminpromo_banner-text"
-msgstr "Pakoja me Drajvera 18 është ridizenjuar duke u bazuar në versionet e mëparshme të cilat tashmë janë dëshmuar si jashtëzakonisht stabël. Lëshimi i versionit të ri është planifikuar për vitin 2017."
+msgstr "Të reja DriverPack 18 ka qenë redesigned duke u bazuar në versionet e mëparshme të cilat tashmë janë dëshmuar si jashtëzakonisht stabël. Lëshimi i versionit të ri është planifikuar për vitin 2017."
 
 msgid "adminpromo_list-item-speed"
 msgstr "Shpejtësia e instalimit dhe fillimi i aplikacionit janë optimizuar"
@@ -129,7 +129,7 @@ msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
 #. CLASS.PLURAL.MAIN=видеокарты|чипсеты, NOTEBOOK.VENDOR.NAME=Lenovo,
 #. NOTEBOOK.NAME=G580;
 msgid "breadcrumbs_notebookdevices-text"
-msgstr ""
+msgstr "{{CLASS.PLURAL.MAIN}} për laptopin {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
 
 msgid "devicecard_download-btn"
 msgstr "Shkarko Driver"
@@ -178,7 +178,7 @@ msgid "devicecard_details-content-label-section"
 msgstr "Kategoria:"
 
 msgid "devicecard_details-links-merged_label"
-msgstr "Nëse ID e Pajisjes që ju kërkoni nuk gjendet në listë, atëhere shkruajeni të atë tek fusha e kërkimit"
+msgstr "Nëse Device ID që ju kërkoni nuk gjendet në listë, atëhere shkruajeni të atë tek fusha e kërkimit"
 
 msgid "devicecard_details-links-notebook_device"
 msgstr "Shiko të gjith driverat"
@@ -211,7 +211,7 @@ msgstr "Drajverat për laptopin {{NOTEBOOK}} me Windows {{OSVERSIONS}} nuk u gje
 #. NOTEBOOK=Acer AO521; Пример: OSVERSIONS=Windows 10 x86; Текст для
 #. {{DOWNLOAD}} находится в ключе devicecardlist_no-result_download-link;
 msgid "devicecardlist_no-results-notebook-device-class-text"
-msgstr "Drajverat për  për laptopin {{NOTEBOOK}} me Windows  nuk u gjetën. {{OSVERSIONS}} për të përzgjedhur drajverin automatikisht."
+msgstr "Drajverat për  për laptopin {{NOTEBOOK}} {{DEVICECLASS}}me Windows  nuk u gjetën. {{OSVERSIONS}}. {{DOWNLOAD}}për të përzgjedhur drajverin automatikisht."
 
 msgid "devicegrouppage_all-systems"
 msgstr "gjitha sistemet"
@@ -299,10 +299,10 @@ msgid "footer_banner_btn"
 msgstr "Shkarko <span class='bold'>DriverPack Online</span> falas"
 
 msgid "footer_translate-feedback"
-msgstr "Keni hasur ndonjë gabim shtypi ose gabim të përgjithshëm? <br />Theksojeni dhe shtypni {{HOTKEY}}"
+msgstr "Keni hasur ndonjë gabim shtypi ose gabim të përgjithshëm?<br />Theksojeni dhe shtypni {{HOTKEY}}"
 
 msgid "header_search-title"
-msgstr "<span class='bold'>Kërkim drajeri në </span> databazën më të madhe - mbi një milion drajvera"
+msgstr "<span class='bold'>Kërkim drajeri në</span> databazën më të madhe — mbi një milion drajvera"
 
 msgid "header_search-examples"
 msgstr "Për Shembull:"
@@ -314,10 +314,10 @@ msgid "header_cta-btn"
 msgstr "Instalo drajverat automatikisht"
 
 msgid "header_cta-label-1"
-msgstr "Do <span style='color: {{COLOR}}'> të instalohet </span> në çast"
+msgstr "Do <span style='color: {{COLOR}}'>të instalohet</span> në çast"
 
 msgid "header_cta-label-2"
-msgstr "Do <span style='color: {{COLOR}}'> të selektojë dhe instalojë </span> drajverat automatikisht"
+msgstr "Do <span style='color: {{COLOR}}'>të selektojë dhe instalojë</span> drajverat automatikisht"
 
 msgid "headerbutton_title"
 msgstr "Instalo drajverat automatikisht"
@@ -326,7 +326,7 @@ msgid "headerbutton_label"
 msgstr "Softeri DriverPack është tërësisht falas"
 
 msgid "headeros_cta-btn"
-msgstr "Instalo drajverat për <span class='HeaderOs__cta-btn-marked'> {{OS}} </span>"
+msgstr "Instalo drajverat për <span class='HeaderOs__cta-btn-marked'>{{OS}}</span>"
 
 msgid "headeros_search-text"
 msgstr "Osë përdorni kërkimin në bazën tonë gjigande të drajverave"
@@ -374,7 +374,7 @@ msgid "landingheader_cta-btn"
 msgstr "instalo të gjith driverat e nevojshëm"
 
 msgid "landingheadernav_badrabbit"
-msgstr "Mbrojtje nga Bad Rabbit (Lepuri i Keq)"
+msgstr "Mbrojtje nga Bad Rabbit"
 
 msgid "landingheadernav_search"
 msgstr "Kërkim Drajveri"
@@ -386,7 +386,7 @@ msgid "landingintroduction_author-title"
 msgstr "Përshendetje! Emri im është Artur Kuzyakov. Jam autori dhe themeluesi i DriverPack"
 
 msgid "landingintroduction_author-speech"
-msgstr ""
+msgstr "Nga një pjesëz e vogël softueri e shkruajtur me entuziazëm të patër 8 vite më parë, jemi transformuar në kompaninë që ka ndihmuar më shumë se 40 milion njerëz në të gjithë botën për të konfiguruar kompjuterat e tyre! <br /><br />Gjatë kësaj kohe, softueri ynë është bërë jashtëzakonisht më i shpejtë dhe inteligjent. Sot, DriverPack është databaza më e madhe në botë me drajvera unikë, e vendos në servera ultra të shpejtë në të gjithë botën. Për të kryer procein e instalimit të drajverave gjithmonë shpejt dhe me cilësinë më të lartë të mundshme, ne përdorim teknologji të mësimit të makinës që e bën algoritmin tonë të përzgjedhjes edhe më të mirë dhe më të saktë. Kemi arritur ta realizojmë të gjithë këtë në atë mënyrë që softueri të mbetet tërësisht pa pagesë, dhe gjithkush mund ta përdorë atë. <br /><br />Grupi im dhe unë jemi krenarë për produktin tonë dhe shpresojmë që do të jetë asistenti juaj në konfigurimin e çdo kompjuteri në kohën më të shpejtë të mundshme."
 
 msgid "landingintroduction_author-speech-marked"
 msgstr "Ne harxhojmë kohën tonë për të kursyer tuajën"
@@ -416,7 +416,7 @@ msgid "landingproducts_item-title-online"
 msgstr "DriverPack Online"
 
 msgid "landingproducts_item-description-online"
-msgstr "Shkarkohet në çast, shkarkohet dhe instalon të gjithë drajverat nëse keni lidhje Interneti <span class='nobr'> ({{SIZE}})</span>"
+msgstr "Shkarkohet në çast, shkarkohet dhe instalon të gjithë drajverat nëse keni lidhje Interneti <span class='nobr'>({{SIZE}})</span>"
 
 msgid "landingproducts_item-version"
 msgstr "Versioni:"
@@ -425,13 +425,13 @@ msgid "landingproducts_item-button"
 msgstr "Shkarko"
 
 msgid "landingproducts_item-title-network"
-msgstr "Rrjeti i DriverPack Offline"
+msgstr "DriverPack Offline Network"
 
 msgid "landingproducts_item-description-network"
-msgstr "Përmban drajvera për karta rrjeti (Lan/Wi-Fi), funksionon pa lidhje në Internet <span class='nobr'> ({{SIZE}}) </span>"
+msgstr "Përmban drajvera për karta rrjeti (Lan/Wi-Fi), funksionon pa lidhje në Internet <span class='nobr'>({{SIZE}})</span>"
 
 msgid "landingproducts_item-title-offline"
-msgstr "DriverPack Offline i Plotë"
+msgstr "DriverPack Offline Full"
 
 msgid "landingproducts_item-description-offline"
 msgstr "Përmban të gjithë drajverat, funksionon pa lidhje në Internet, mund të shkarkohen nëpërmjet Torrent-tracker <span class='nobr'>({{SIZE}})</span>"
@@ -479,7 +479,7 @@ msgid "landingwizard_item-caption-setup"
 msgstr "Konfiguro kompjuterin me një veprim të thjeshtë"
 
 msgid "landingwizard_item-caption-profit"
-msgstr ""
+msgstr "Urraaa! Tani kompjuteri im funksionon si një i ri fare!"
 
 msgid "landingwizard_cta-btn"
 msgstr "instalo të gjith driverat e nevojshëm"
@@ -491,16 +491,16 @@ msgid "navbar_download-link"
 msgstr "Shkarko DriverPack Online"
 
 msgid "notfound_cta-text"
-msgstr ""
+msgstr "Ju mund te gjeni drajvera dhe t'i instaloni automatikisht duke përdorur DriverPack Online falas"
 
 msgid "notfound_cta-btn"
 msgstr "Shkarko DriverPack Online"
 
 msgid "notfound_info-404"
-msgstr ""
+msgstr "{{404}} — faqja e kërkuar nuk u gjet"
 
 msgid "notfound_info-500"
-msgstr ""
+msgstr "{{500}} — diçka shkoi keq (gabim serveri)"
 
 msgid "notebookfilters-title"
 msgstr "Driverat në dispozicion"
@@ -509,7 +509,7 @@ msgid "notebookvendorslist_other-text"
 msgstr "Prodhuesit tjerë"
 
 msgid "notebookvendorslist_title_os"
-msgstr ""
+msgstr "Drajvera për laptopë me {{OS}}"
 
 msgid "notebookvendorslist_title"
 msgstr "Kërkimi i driverave për laptopa"
@@ -518,25 +518,25 @@ msgid "productlandingheader-online_cta-btn"
 msgstr "Shkarko DriverPack Online"
 
 msgid "productlandingheader-online_caption"
-msgstr ""
+msgstr "DriverPack Online - produkti më popullor me madhësi vetëm {{SIZE}}. Shkarkohet në çast, përzgjedh drajverat për kompjuterin ose laptopin tuaj dhe pastaj shkarkon të gjithë drajverat që duhen nëpërmjet Internet-it dhe i instalon ata. Përshtatet në mënyrë perfekte për përdoruesin e thjeshtë. Funksionon vetëm me akses në Internet."
 
 msgid "productlandingheader-network_cta-btn"
-msgstr ""
+msgstr "Shkarko DriverPack Offline Network"
 
 msgid "productlandingheader-network_caption"
-msgstr ""
+msgstr "DriverPack Offline Network - drajvera për karta rrjeti në një vend ({{SIZE}}). Shkarkohet shpejt dhe instalohet dhe më shpejt! Sapo Windows riinstalohet, DriverPack Offline Network konfiguron drajverat e rrjetit për t'u lidhur në Internet dhe pastaj shkarkon drajverat për pajisjet e tjera."
 
 msgid "productlandingheader-offline_cta-btn"
-msgstr ""
+msgstr "Shkarko DriverPack Offline Full"
 
 msgid "productlandingheader-offline_caption"
-msgstr ""
+msgstr "DriverPack Offline Full - është një paketë gjigande me madhësi {{SIZE}} për instalimin e drajverave pa akses në Internet. Thjesht shkarko DriverPack Offline Full dhe përdor librarinë e stërmadhe të drajverave të përditësuar kudo që dëshironi. Përshtatet në mënyrë perfekte për administratorët e sistemit."
 
 msgid "promoheader_cta-text-gamers"
-msgstr ""
+msgstr "Kompjuteri juaj është më i fuqishëm se sa ju mendoni: përditësoni të gjithë drajverat falas"
 
 msgid "promoheader_cta-text-gamers-caption"
-msgstr ""
+msgstr "Nëse i pëlqeni lojrat kompjuteri, iu rekomandojmë të përditësoni drajverat në kompjuterin tuaj më shpesh për arritur efiçencën më të lartë të mundshme të harduerit tuaj. Deri në 37% më shumë FPS -  eksperienca më e mirë në lojë dhe arritje të reja me DriverPack."
 
 msgid "promoheader_cta-text"
 msgstr "DriverPack instalon drajverat falas dhe zgjidh problemet me drajverat në çdo pajisje"
@@ -545,37 +545,37 @@ msgid "promoheader_cta-btn"
 msgstr "instalo të gjith driverat e nevojshëm"
 
 msgid "promoheader_size"
-msgstr ""
+msgstr "Madhësia e skedarit: {{SIZE}} KB"
 
 msgid "promoheader_license"
 msgstr "Marrëveshja e Licencës"
 
 msgid "promoheader_os-versions"
-msgstr ""
+msgstr "Softueri përshtatet me Windows 10, 8.1, 8, 7, Vista, XP"
 
 msgid "promoheader_uninstall"
-msgstr ""
+msgstr "Fshirje e DriverPack"
 
 msgid "reviewheader_cta-text"
-msgstr ""
+msgstr "Bashkohu me komunitetin e DriverPack në rrjetet sociale për të qenë i përditësuar me të rejat e produktit dhe merr pjesë në diskutime"
 
 msgid "reviewheader_cta"
-msgstr ""
+msgstr "Shto opinionin ose sugjerimin tuaj për përmirësimin e DriverPack"
 
 msgid "search_input-placeholder"
-msgstr ""
+msgstr "Kërko emrin e drajverit, laptopit ose DeviceID"
 
 msgid "search_btn-text"
-msgstr ""
+msgstr "Gjej"
 
 msgid "searchformitem_type-section"
-msgstr ""
+msgstr "Kategoria"
 
 msgid "searchformitem_type-notebook"
-msgstr ""
+msgstr "laptop"
 
 msgid "searchformitem_type-device"
-msgstr ""
+msgstr "pajisje"
 
 msgid "searchformitem_type-free"
 msgstr "falas"
@@ -589,224 +589,224 @@ msgid "generatesearchitemname_vendor"
 msgstr "{{NAME}} pajisje"
 
 msgid "deviceclasses_bluetooth-single-main"
-msgstr ""
+msgstr "pajisja Bluetooth"
 
 msgid "deviceclasses_bluetooth-single-for"
-msgstr ""
+msgstr "të pajisjes Bluetooth"
 
 msgid "deviceclasses_bluetooth-plural-main"
-msgstr ""
+msgstr "pajisjet Bluetooth"
 
 msgid "deviceclasses_bluetooth-plural-for"
-msgstr ""
+msgstr "pajisjet Bluetooth"
 
 msgid "deviceclasses_cardreader-single-main"
-msgstr ""
+msgstr "lexues kartë memorie"
 
 msgid "deviceclasses_cardreader-single-for"
-msgstr ""
+msgstr "lexuesin për kartë memorie"
 
 msgid "deviceclasses_cardreader-plural-main"
-msgstr ""
+msgstr "lexuesit e kartave memorie"
 
 msgid "deviceclasses_cardreader-plural-for"
-msgstr ""
+msgstr "lexuesit e kartave memorie"
 
 msgid "deviceclasses_chipset-single-main"
-msgstr ""
+msgstr "çipseti"
 
 msgid "deviceclasses_chipset-single-for"
-msgstr ""
+msgstr "e çipsetit"
 
 msgid "deviceclasses_chipset-plural-main"
-msgstr ""
+msgstr "çipsetët"
 
 msgid "deviceclasses_chipset-plural-for"
-msgstr ""
+msgstr "e çipsetëve"
 
 msgid "deviceclasses_inputdev-single-main"
-msgstr ""
+msgstr "pajisja hyrëse"
 
 msgid "deviceclasses_inputdev-single-for"
-msgstr ""
+msgstr "pajisjen hyrëse"
 
 msgid "deviceclasses_inputdev-plural-main"
-msgstr ""
+msgstr "pajisje hyrëse"
 
 msgid "deviceclasses_inputdev-plural-for"
-msgstr ""
+msgstr "pajisjet hyrëse"
 
 msgid "deviceclasses_lan-single-main"
-msgstr ""
+msgstr "karta e rrjetit"
 
 msgid "deviceclasses_lan-single-for"
-msgstr ""
+msgstr "të kartës së rrjetit"
 
 msgid "deviceclasses_lan-plural-main"
-msgstr ""
+msgstr "karta rrjeti"
 
 msgid "deviceclasses_lan-plural-for"
-msgstr ""
+msgstr "kartat e rrjetit"
 
 msgid "deviceclasses_massstorage-single-main"
-msgstr ""
+msgstr "kontrolluesi"
 
 msgid "deviceclasses_massstorage-single-for"
-msgstr ""
+msgstr "kontrolluesin"
 
 msgid "deviceclasses_massstorage-plural-main"
-msgstr ""
+msgstr "kontrollues"
 
 msgid "deviceclasses_massstorage-plural-for"
-msgstr ""
+msgstr "kontrollues"
 
 msgid "deviceclasses_modem-single-main"
-msgstr ""
+msgstr "modemi"
 
 msgid "deviceclasses_modem-single-for"
-msgstr ""
+msgstr "modemin"
 
 msgid "deviceclasses_modem-plural-main"
-msgstr ""
+msgstr "modemë"
 
 msgid "deviceclasses_modem-plural-for"
-msgstr ""
+msgstr "modemët"
 
 msgid "deviceclasses_monitor-single-main"
-msgstr ""
+msgstr "monitori"
 
 msgid "deviceclasses_monitor-single-for"
-msgstr ""
+msgstr "monitorin"
 
 msgid "deviceclasses_monitor-plural-main"
-msgstr ""
+msgstr "monitorë"
 
 msgid "deviceclasses_monitor-plural-for"
-msgstr ""
+msgstr "monitorë"
 
 msgid "deviceclasses_phone-single-main"
-msgstr ""
+msgstr "smartfoni"
 
 msgid "deviceclasses_phone-single-for"
-msgstr ""
+msgstr "smartfon"
 
 msgid "deviceclasses_phone-plural-main"
-msgstr ""
+msgstr "smartfonë"
 
 msgid "deviceclasses_phone-plural-for"
-msgstr ""
+msgstr "smartfonë"
 
 msgid "deviceclasses_printer-single-main"
-msgstr ""
+msgstr "printeri"
 
 msgid "deviceclasses_printer-single-for"
-msgstr ""
+msgstr "printerin"
 
 msgid "deviceclasses_printer-plural-main"
-msgstr ""
+msgstr "printera"
 
 msgid "deviceclasses_printer-plural-for"
-msgstr ""
+msgstr "printerët"
 
 msgid "deviceclasses_sound-single-main"
-msgstr ""
+msgstr "karta e zërit"
 
 msgid "deviceclasses_sound-single-for"
-msgstr ""
+msgstr "kartën e zërit"
 
 msgid "deviceclasses_sound-plural-main"
-msgstr ""
+msgstr "karta e zërit"
 
 msgid "deviceclasses_sound-plural-for"
-msgstr ""
+msgstr "kartat e zërit"
 
 msgid "deviceclasses_tvtuner-single-main"
-msgstr ""
+msgstr "Akorduesi-TV"
 
 msgid "deviceclasses_tvtuner-single-for"
-msgstr ""
+msgstr "akorduesin-TV"
 
 msgid "deviceclasses_tvtuner-plural-main"
-msgstr ""
+msgstr "akordues-TV"
 
 msgid "deviceclasses_tvtuner-plural-for"
-msgstr ""
+msgstr "akordues-TV"
 
 msgid "deviceclasses_video-single-main"
-msgstr ""
+msgstr "karta grafike"
 
 msgid "deviceclasses_video-single-for"
-msgstr ""
+msgstr "kartën grafike"
 
 msgid "deviceclasses_video-plural-main"
-msgstr ""
+msgstr "karta grafike"
 
 msgid "deviceclasses_video-plural-for"
-msgstr ""
+msgstr "karta grafike"
 
 msgid "deviceclasses_webcamera-single-main"
-msgstr ""
+msgstr "Uebkamera"
 
 msgid "deviceclasses_webcamera-single-for"
-msgstr ""
+msgstr "uebkamerën"
 
 msgid "deviceclasses_webcamera-plural-main"
-msgstr ""
+msgstr "uebkamera"
 
 msgid "deviceclasses_webcamera-plural-for"
-msgstr ""
+msgstr "uebkamera"
 
 msgid "deviceclasses_wifi-single-main"
-msgstr ""
+msgstr "pajisja Wi-Fi"
 
 msgid "deviceclasses_wifi-single-for"
-msgstr ""
+msgstr "pajisjen Wi-Fi"
 
 msgid "deviceclasses_wifi-plural-main"
-msgstr ""
+msgstr "pajisje Wi-Fi"
 
 msgid "deviceclasses_wifi-plural-for"
-msgstr ""
+msgstr "pajisje Wi-Fi"
 
 msgid "deviceclasses_other-single-main"
-msgstr ""
+msgstr "pajisje tjetër"
 
 msgid "deviceclasses_other-single-for"
-msgstr ""
+msgstr "pajisja tjetër"
 
 msgid "deviceclasses_other-plural-main"
-msgstr ""
+msgstr "pajisje të tjera"
 
 msgid "deviceclasses_other-plural-for"
-msgstr ""
+msgstr "pajisje të tjera"
 
 msgid "searchheader_caption-subtitle"
-msgstr ""
+msgstr "Kërkim drajveri me pyetje:"
 
 msgid "searchheader_caption-filter-label"
-msgstr ""
+msgstr "Drajveri do të shkarkohet për SO të zgjedhur"
 
 #. i18n: EN: Example: NOTEBOOK=Acer AO521; Text for {{DOWNLOAD}} is in key
 #. searchresult_details-content_download-link; RU: Пример: NOTEBOOK=Acer
 #. AO521; Текст для {{DOWNLOAD}} находится в ключе searchresult_details-
 #. content_download-link
 msgid "searchresult_details-content-notebook-text"
-msgstr ""
+msgstr "{{DOWNLOAD}} në mënyrë që të identifikoni dhe instaloni drajverat e kërkuar automatikisht ose shko tek faqja {{NOTEBOOK}} dhe përzgjidh drajverin e kërkuar manualisht"
 
 msgid "searchresult_details-content_download-link"
 msgstr "Shkarko DriverPack"
 
 msgid "searchresult_notebook"
-msgstr ""
+msgstr "Laptop"
 
 msgid "searchresult_download-btn"
-msgstr ""
+msgstr "Instalo drajverin automatikisht"
 
 msgid "searchresult_details-content-text-placeholder"
 msgstr "Duke ngarkuar të dhënat..."
 
 msgid "searchresult_details-content-label-1"
-msgstr ""
+msgstr "SO"
 
 msgid "searchresult_details-content-label-2"
 msgstr "gjitha sistemet"
@@ -816,7 +816,7 @@ msgstr "gjitha sistemet"
 #. GeForce 205; Текст для {{DOWNLOAD}} находится в ключе searchresult_details-
 #. content_download-link
 msgid "searchresult_details-content-group-text"
-msgstr ""
+msgstr "{{DOWNLOAD}} në mënyrë që të identifikosh dhe instalosh drajverat e kërkuar automatikisht ose shko tek faqja e pajisjes {{DEVICE}} dhe përzgjidh drajverin e kërkuar manualisht"
 
 #. i18n: EN: Example: CLASS.SINGLE.MAIN=monitor|chipset; COUNT=12; RU: Пример:
 #. CLASS.SINGLE.MAIN=монитор|чипсет; COUNT=12;
@@ -827,7 +827,7 @@ msgid "searchresult_details-content-text-many"
 msgstr "Disa drivera të ndryshem jan gjetur për këtë pajisje"
 
 msgid "seofooter_os-list-title"
-msgstr ""
+msgstr "Versionet e Sistemit Operativ: <span itemprop='operatingSystem'>{{OSLIST}}</span>"
 
 msgid "seofooter_offers-title"
 msgstr "<span itemprop='offers' itemscope='' itemtype='http://schema.org/Offer'>Gjithmon<meta itemprop='price' content='0' /> falas</span>"
@@ -836,103 +836,103 @@ msgid "seofooter_driver-description-title"
 msgstr "Përshkrimi i Driverit"
 
 msgid "seofooter_popular-drivers-title"
-msgstr ""
+msgstr "Drajvera Popullorë"
 
 msgid "sidebanner_title"
-msgstr ""
+msgstr "Jeni lodhur duke kërkuar për drajvera?"
 
 msgid "sidebanner_caption"
-msgstr ""
+msgstr "DriverPack do përzgjedhë dhe <span class='SideBanner__caption-marked'>instalojë automatikisht</span> drajverat e kërkuar"
 
 msgid "translationheader_cta-text"
-msgstr ""
+msgstr "Na ndihmoni ta bëjmë DriverPack të disponueshëm për miliona përdorues kompjuteri në të gjithë botën — tmerrni pjesë në projektin tonë vullnetar për përkthimin e tij në gjuhë të tjera"
 
 msgid "translationheader_bubble-team"
-msgstr ""
+msgstr "Do dëshironit të jeni pjese e ekipit tonë të përkthyesve të shërbimit më të madh në botë të konfigurimit automatik të kompjuterit?"
 
 msgid "translationheader_bubble-languages"
-msgstr ""
+msgstr "Dini anglisht ose rusisht mjaft mirë saqë jeni gati të përktheni nga njëra prej tyre në gjuhën tuaj mëmë?"
 
 msgid "translationheader_bubble-experience"
-msgstr ""
+msgstr "Keni eksperiencë në përkthimin e softuerëve ose uebsajteve duke përdorur shërbime online përkthimi?"
 
 msgid "translationheader_bubble-email"
-msgstr ""
+msgstr "Nëse përgjigja juaj është po në të gjitha pyetjet, iu lutem na dërgoni një e-mail në {{EMAIL}} me '{{SUBJECT}}' në subjekt dhe na tregoni gjuhën që mund të përktheni."
 
 msgid "translationlist_title"
-msgstr ""
+msgstr "Lista  e Përkthyesve të Autorizuar të DriverPack"
 
 msgid "translationtool_text-transifex"
-msgstr ""
+msgstr "Në DriverPack Solution ne e bëjmë lokalizimin duke përdorur shërbimin e transifex.com:"
 
 msgid "translationtool_example-ru-to-en"
-msgstr ""
+msgstr "Rreshtat për përkthimin nga rusisht (RU) në anglisht (EN), dhe gjuhët CIS (CIS)"
 
 msgid "translationtool_example-en-to-all"
-msgstr ""
+msgstr "Rreshtat për përkthim nga anglisht (EN) në gjuhë të tjera të botës"
 
 msgid "language_title"
 msgstr "Albanian"
 
 msgid "landingPagePublications_rbk"
-msgstr ""
+msgstr "DriverPack është softueri që përmban drajvera për Windows të përzgjedhur dhe testuar tërësisht nga ekipi i Artur Kuzyakov. Ky aplikacion analizon kompjuterin e përdoruesit dhe instalon në të drajverat e duhur, gjë që iu ndihmon të zgjidhni dy probleme: së pari, të përshpejtoni procesin e konfigurimit të kompjuterit (që është veçanerisht e rëndësishme nëse keni shumë kompjutera brenda një sistemi); dhe së dyti, për të përmirësuar aftësitë operacionale."
 
 msgid "landingPagePublications_secretfirmy"
-msgstr ""
+msgstr "Sot, DriverPack ka databazën më të madhe në botë të drajverave që është e përkthyer në 45 gjuhë dhe operon në kompjuterat e mbi 42 milion përdoruesve."
 
 msgid "landingPagePublications_cnews"
-msgstr ""
+msgstr "Qysh nga momenti që u krijua versioni i parë i softuerit, DriverPack Solution ka qenë shumë popullor për përdoruesit. Softueri është i disponueshëm për shkarkim absolutisht falas. Kjo e dallon DriverPack Solution nga konkurentët e tij dhe tërheq gjithmonë e më shumë përdorues të rinj."
 
 msgid "landingPagePublications_xbit"
-msgstr ""
+msgstr "DriverPack Solution është një aplikacion interesant, përmban një grup opsionesh që softuerë të tjerë të këtij lloji nuk i kanë. Çdo përdorues mund të rregullojë të gjithë gabimet dhe të bëjë sistemin të funksionojë siç duhet me gjithë pajisjet e tij vetëm me dy klikime. Në çdo moment, numri i drajverave në databazën e DriverPack i kalon numrin e 1.1 milion elementëve, dhe të gjithë janë testuar për sigurinë e tyre."
 
 msgid "landingPagePublications_chip"
-msgstr ""
+msgstr "Me DriverPack nuk është aspak sfidë për të gjetur versionet e fundit të drajverave për komponentët e kompjuterit tuaj. Aspekti më i këndshëm është që një përdorues nuk ka nevojë asgjë vetë. Kjo vegël është tërësisht e automatizuar dhe e lehtë në funksionim."
 
 msgid "landingPagePublications_pcmag"
-msgstr ""
+msgstr "DriverPack Protect mbron kompjuterin tuaj nga maluerët dhe programet dhe pluginet aduer të cilat as softuerët antivirus dhe mjetet rekalama-bllokuese shpesh dështojnë  ta bëjnë."
 
 msgid "landingPagePublications_habr"
-msgstr ""
+msgstr "Nevoja për të kërkuar dhe instaluar drajvera çdo herë kur riinstaloni Windows-in, sipas opinionit tim është një nga të metat më madhore të të gjithë familjes Windows. Para vitit 2008, vendosa ta rregulloj këtë problem dhe shkrova softuerin tim i cili u quajt DriverPack. Sot, produkti im përdoret nga 40 milion përdorues në të gjithë botën, dhe mendoj që problemi i drajverave në Windows tani është zgjidhur, megjithëse nëpërmjet një pale të tretë."
 
 msgid "landingPagePublications_computerra"
-msgstr ""
+msgstr "Versioni i ri i jep përdoruesit më shumë mjete që të bëjë përzgjedhjen e tij të drajverave. Është një çështje veçanerisht e rëndësishme për ata të cilët servisojnë kompjutera dhe administrojnë sasi hardueri të ndryshëm. Tani është e mundur të integrosh driverpacks alternativë në DriverPack në vend që thjesht të hiqen të panevojshmet."
 
 msgid "landingPagePublications_vc"
-msgstr ""
+msgstr "Falë fjalëve të mira, ky produkt është përkthyer nga përdoruesit në 45 gjuhë pa pjesëmarrjen e ekipit tonë."
 
 msgid "adminpagefaq_official_vendors-q"
-msgstr ""
+msgstr "Para DriverPack, unë shkarkoja drajverat nga sajtet zyrtare por hasja probleme edhe me to. Pse janë drajverat në DriverPack më të sigurtë se ato të prodhuesve?"
 
 msgid "adminpagefaq_official_vendors-a"
-msgstr ""
+msgstr "Që ta bëjmë databazën tonë jo vetëm më të madhen por edhe më të qëndrueshmen, ne vazhdojmë të punojmë shumë për përmirësimin e saj në mënyrë permanente, dhe madje rregullojmë mangësitë që prodhuesit lejojnë! Ne përdorim teknologji të mësimit të makinës dhe falë saj algoritmi jonë përzgjedhës përmirësohet vazhdimisht. Dhe kjo është arsyeja përse drajverat nga DriverPack janë më të besueshmit :-)"
 
 msgid "adminpagefaq_database-q"
-msgstr ""
+msgstr "Si zgjerohet databaza e DriverPack? A është e mundur të gjej drajverat që më duhen në të?"
 
 msgid "adminpagefaq_database-a"
-msgstr ""
+msgstr "Deri më sot databaza jonë është më e madhja në botë, prandaj ju mund të gjeni drajver për çdo pajisje me mbi 99% sukses. Që të vazhdojmë të mbledhim dhe mbështesim një databazë të tillë, ne bashkëpunojmë direkt me prodhuesit e pajisjeve dhe zhvilluesit e drajverave. Ne mbledhim dhe testojmë drajvera nga sajte zyrtare si edhe servera FTP privatë, dhe gjithashtu marrim në konsideratë rekomandimet e përdoruesve aktivë."
 
 msgid "adminpagefaq_free-q"
-msgstr ""
+msgstr "Është e vërtetë që DriverPack është tërësisht pa pagesë?"
 
 msgid "adminpagefaq_free-a"
-msgstr ""
+msgstr "I gjithë softueri ynë është pa pagesë! Por nëse doni të mbështesni projektin tonë, ju mund të instaloni softuerin e dobishëm që ne ofrojmë për përdorimin tuaj, dhe rekomandojeni DriverPack tek miqtë tuaj :-)"
 
 msgid "adminpagefaq_antivirus-q"
-msgstr ""
+msgstr "Antivirus-i im ka zbuluar një virus në DriverPack - si është e mundur?"
 
 msgid "adminpagefaq_antivirus-a"
-msgstr ""
+msgstr "Me shumë gjasë kjo është një pozitiv fals, sepse të gjithë versionet e DriverPack kalojnë nëpërmjet egzaminimeve dhe akreditimeve nga Laboratori Kaspersky. Kompania jonë bashkepunon me shumë sigurues të softuerëve antivirus siç është Avast dhe 360 Total Security. Për të vazhduar funksionimin, thjeshtë shtojeni DriverPack tek lista e bardhe (white list) tek antivirus-i juaj. Do ta vlerësonim nëse do ta raportonit si një pozitiv fals tek kompania e antivirus-it tuaj si edhe tek Shërbimi i Suportit tonë."
 
 msgid "adminpagefaq_expert_mode-q"
-msgstr ""
+msgstr "Cila gjendje është më e përshtatshme për përdorimin e DriverPack?"
 
 msgid "adminpagefaq_expert_mode-a"
-msgstr ""
+msgstr "Normalisht, DriverPack starton në gjendje automatike, e projektuar të jetë i kuptueshëm dhe i lehtë për t'u përdorur edhe nga përdoruesit e rinj. Megjithatë, për lehtësinë e përdoruesve të përparuar dhe administratorët e sistemeve, ne kemi zhvilluar Gjendjen Ekspert e cila përmban cilësime të zgjeruara dhe opsione të personalizuara. Për ta aktivizuar këtë gjendje, mjafton të kliko buton korrespondues të vendosur në fund të ekranit."
 
 msgid "adminpagefaq_stable-q"
-msgstr ""
+msgstr "Drajveri nuk është instaluar siç duhet dhe kompjuteri tani ka probleme. Si mund ta rregulloj këtë gjendje?"
 
 msgid "adminpagefaq_stable-a"
 msgstr ""
@@ -998,7 +998,7 @@ msgid "landing-footer_manufacturers"
 msgstr ""
 
 msgid "landing-footer_badrabbit"
-msgstr "Mbrojtje nga Bad Rabbit (Lepuri i Keq)"
+msgstr "Mbrojtje nga Bad Rabbit"
 
 msgid "landing-footer_for-admin"
 msgstr ""
@@ -1016,7 +1016,7 @@ msgid "landing-footer_license"
 msgstr "Marrëveshja e Licencës"
 
 msgid "landing-footer_remove"
-msgstr ""
+msgstr "Fshirje e DriverPack"
 
 msgid "notfoundpage_title"
 msgstr ""

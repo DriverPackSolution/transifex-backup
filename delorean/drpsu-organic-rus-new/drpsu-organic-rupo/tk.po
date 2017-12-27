@@ -240,7 +240,7 @@ msgstr "<span class='bold'>{{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.PLURAL.F
 #. i18n: EN: Example: GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU:
 #. Пример: GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210;
 msgid "seo_devicegroup-keywords"
-msgstr ""
+msgstr "sürüjiler windows 7 8 10 64 ýüklemek ýüklemek PK {{GROUP.VENDOR.NAME}}{{GROUP.NAME}}"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
 #. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
@@ -269,10 +269,10 @@ msgid "seo_devicegroup-footer-content"
 msgstr ""
 
 msgid "seo_hwids-title"
-msgstr ""
+msgstr "Device ID boýunça sürüji gözlemek | Sahypa {{PAGE}}"
 
 msgid "seo_hwids-description"
-msgstr ""
+msgstr "Device ID enjamlar üçin sürüjileri ýükelemek"
 
 msgid "seo_hwids-h1"
 msgstr "Enjam üçin ähli sürüjiler"
@@ -280,7 +280,7 @@ msgstr "Enjam üçin ähli sürüjiler"
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 msgid "seo_hwid-title"
-msgstr ""
+msgstr "{{DEVICE.DEVICEID}} sürüjileri mugt ýüklemek"
 
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
@@ -318,7 +318,7 @@ msgid "seo_hwid-footer-content"
 msgstr ""
 
 msgid "seo_notebooks-title"
-msgstr ""
+msgstr " Windows 7, XP, 10, 8 we 8.1  noutbuklar üçin sürüjileri ýüklemek | DriverPack Solution"
 
 msgid "seo_notebooks-description"
 msgstr ""
@@ -331,7 +331,7 @@ msgstr ""
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_notebookvendor-title"
-msgstr ""
+msgstr "{{VENDOR.NAME}} noutbuklary üçin sürüjileri ýüklemek | DriverPack Solution"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_notebookvendor-description"
@@ -350,11 +350,11 @@ msgid "seo_notebookvendor-footer-description"
 msgstr "{{VENDOR.NAME}} noutbuklar üçin sürüjileri ýükläň"
 
 msgid "seo_notebookvendor-footer-application-category"
-msgstr ""
+msgstr "Bölüm:<span itemprop='applicationCategory'>noutbuklar</span>"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_notebookvendor-footer-application-subcategory"
-msgstr ""
+msgstr "Kiçi bölüm:<span itemprop='applicationSubCategory'>{{VENDOR.NAME}}noutbuklary</span>"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
@@ -384,7 +384,7 @@ msgstr ""
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; RU: Пример:
 #. NOTEBOOK.VENDOR.NAME=Acer;
 msgid "seo_notebook-footer-application-category"
-msgstr ""
+msgstr "Bölüm:<span itemprop='applicationCategory'>{{NOTEBOOK.VENDOR.NAME}}noutbuklary</span>"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
@@ -451,7 +451,7 @@ msgid "seo_notebookdevices-footer-content"
 msgstr ""
 
 msgid "seo_search-title"
-msgstr ""
+msgstr "{{QUERY}}söz üçin gözleg netijeleri | DriverPack Solution"
 
 msgid "seo_devicegroupos-title"
 msgstr ""
@@ -493,7 +493,7 @@ msgid "seo_notebookos-footer-description"
 msgstr ""
 
 msgid "seo_notebookos-footer-application-category"
-msgstr ""
+msgstr "Bölüm:<span itemprop='applicationCategory'>{{NOTEBOOK.VENDOR.NAME}}noutbuklary</span>"
 
 msgid "seo_notebookos-footer-application-subcategory"
 msgstr ""
@@ -541,13 +541,13 @@ msgid "seo_devicegroupsos-footer-application-category"
 msgstr "Bölüm: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_devicegroupsos-footer-application-subcategory"
-msgstr ""
+msgstr "Kiçi bölüm: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_devicegroupsos-footer-content"
 msgstr ""
 
 msgid "seo_notebookvendoros-title"
-msgstr ""
+msgstr "{{VENDOR.NAME}} noutbuklary üçin Windows {{OS}} sürüjileri ýüklemek | DriverPack Solution"
 
 msgid "seo_notebookvendoros-description"
 msgstr ""
@@ -562,10 +562,10 @@ msgid "seo_notebookvendoros-footer-description"
 msgstr ""
 
 msgid "seo_notebookvendoros-footer-application-category"
-msgstr ""
+msgstr "Bölüm:<span itemprop='applicationCategory'>noutbuklar</span>"
 
 msgid "seo_notebookvendoros-footer-application-subcategory"
-msgstr ""
+msgstr "Kiçi bölüm:<span itemprop='applicationSubCategory'>{{VENDOR.NAME}}noutbuklary</span>"
 
 msgid "seo_notebookvendoros-footer-content"
 msgstr ""
@@ -586,10 +586,10 @@ msgid "seo_hwidos-footer-description"
 msgstr ""
 
 msgid "seo_hwidos-footer-application-category"
-msgstr ""
+msgstr "Bölüm: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_hwidos-footer-application-subcategory"
-msgstr ""
+msgstr "Kiçi bölüm: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_hwidos-footer-content"
 msgstr ""
@@ -622,7 +622,7 @@ msgid "seo_promopage_title"
 msgstr "DriverPack – sürüjielri mugt gurmak"
 
 msgid "seo_promo-description"
-msgstr ""
+msgstr "DriverPack Solution Size Siziň enjamyňyz üçin sürüjileri mugt ýüklemägi ýa-da programmany ýükläp sürüjileri awtomatiki gurnamagy we täzelemägi hödürleýär "
 
 msgid "seo_promo-keywords"
 msgstr ""
@@ -637,19 +637,19 @@ msgid "seo_promodevice-keywords"
 msgstr ""
 
 msgid "seo_promovendors_title"
-msgstr ""
+msgstr "Lenovo, Samsung, Acer, Asus we Dell üçin sürüjileri mugt ýüklemek"
 
 msgid "seo_promovendors-description"
-msgstr ""
+msgstr "DriverPack  Lenovo, Samsung, Acer, Asus we Dell üçin sürüjileri iň soňky wersiýasyna çenli täzeler"
 
 msgid "seo_promovendors-keywords"
 msgstr ""
 
 msgid "seo_promodrivers_title"
-msgstr ""
+msgstr "Windows 7, 10, XP, 8 üçin sürüjileri ýüklemek we gurnamak"
 
 msgid "seo_promodrivers-description"
-msgstr ""
+msgstr "DriverPack Windows 7, Windows 10, Windows XP, Windows 8 sürüjilerini mugt täzeler"
 
 msgid "seo_promodrivers-keywords"
 msgstr ""
@@ -667,7 +667,7 @@ msgid "seo_wannacrypt-description"
 msgstr ""
 
 msgid "seo_badrabbit_title"
-msgstr ""
+msgstr "Şifrleýän wirus Bad Rabbit - öz PK nädip goramaly?"
 
 msgid "seo_badrabbit-description"
 msgstr ""
@@ -682,7 +682,7 @@ msgid "seo_license-keywords"
 msgstr ""
 
 msgid "seo_standards_title"
-msgstr ""
+msgstr "Maslahat berilen standart programma üpjünçiligi | DriverPack Solution"
 
 msgid "seo_standards-description"
 msgstr ""
@@ -970,7 +970,7 @@ msgid "seo_notebook-footer-content-asus-k50c-video"
 msgstr ""
 
 msgid "seo_notebook-footer-content-asus-k50c-wifi"
-msgstr ""
+msgstr "Wi-Fi bilen internete girende mesele ýüze çykýarmy? Bu ýerde Asus k50c noutbuk üçin Windows XP, 7, 8, 8.1 ýa-da 10 Wi-Fi sürüjilerini ýükläp bolar - belki bu meseläni çözer!"
 
 msgid "seo_notebook-footer-content-asus-x553ma-video"
 msgstr ""
