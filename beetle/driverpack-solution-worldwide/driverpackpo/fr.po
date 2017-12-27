@@ -1,6 +1,7 @@
 # Translators:
 # Translators:
 # Dany Courchesne (Radiodrag) <dany.courchesne@gmail.com>, 2017
+# FREDERIQUE PETIT <frederiquepetit@gmx.com>, 2017
 # Nadia Tegeneva <nadia@drp.su>, 2017
 # zaki dzz <zakidze@gmail.com>, 2017
 msgid ""
@@ -8,8 +9,8 @@ msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-11-27 10:29+0000\n"
-"PO-Revision-Date: 2017-12-04 13:44+0000\n"
-"Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
+"PO-Revision-Date: 2017-12-26 15:29+0000\n"
+"Last-Translator: FREDERIQUE PETIT <frederiquepetit@gmx.com>\n"
 "Language-Team: French (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -39,10 +40,10 @@ msgid "deviceclasses_bluetooth-plural-for"
 msgstr "Périphériques Bluetooth"
 
 msgid "deviceclasses_cardreader-single-main"
-msgstr "Lecteur de carte"
+msgstr "lecteur de carte"
 
 msgid "deviceclasses_cardreader-single-for"
-msgstr "Lecteur de carte"
+msgstr "lecteur de carte"
 
 msgid "deviceclasses_cardreader-plural-main"
 msgstr "lecteurs de carte"
@@ -219,10 +220,10 @@ msgid "deviceclasses_other-plural-for"
 msgstr "autres périphériques"
 
 msgid "programs_btn_install_single"
-msgstr ""
+msgstr "installer"
 
 msgid "programs_btn_installed_single"
-msgstr ""
+msgstr "installée"
 
 msgid "settings_common-settings"
 msgstr "Paramètres généraux"
@@ -246,7 +247,7 @@ msgid "settings_language-href"
 msgstr "https://driverpack.io/fr/info/translators"
 
 msgid "settings_logging-title"
-msgstr "Sauvegarder les journaux."
+msgstr "Sauvegarder les journaux"
 
 msgid "settings_logging-caption"
 msgstr "Les journaux de l'application sont sauvegardés durant le processus de configuration de l'ordinateur pour que les développeurs et le support technique puissent examiner et rectifier les problèmes rencontrés."
@@ -366,13 +367,13 @@ msgid "settings_restore-point-caption"
 msgstr "DriverPack est le moyen le plus fiable et le plus rapide de configurer un ordinateur et d'installer des pilotes, mais juste en cas de situation d'urgence, avant que le processus de configuration de l'ordinateur ne commence, un point de restauration est créé. Cela vous permet de revenir à tout moment à votre configuration précédente."
 
 msgid "settings_drivers-backup-title"
-msgstr "Créer une sauvegarde de pilote (sauvegarde)"
+msgstr "Créer une sauvegarde de pilote (backup)"
 
 msgid "settings_drivers-backup-caption"
 msgstr "Pour encore plus de commodité pour tous les utilisateurs, les développeurs de DriverPack ont créé l'option d'enregistrer les sauvegardes de vos pilotes actuels dans le dossier Mes documents."
 
 msgid "settings_system-check-title"
-msgstr ""
+msgstr "Activer l'option de vérification du système (System Check)"
 
 msgid "settings_system-check-caption"
 msgstr "Pour s'assurer que tous les périphériques de votre ordinateur fonctionnent correctement, l'équipe DriverPack a développé un système de vérification très efficace pour votre ordinateur. Il est activé immédiatement après un redémarrage, et fera un contrôle rapide de tous les appareils pour s'assurer qu'ils fonctionnent correctement."
@@ -408,10 +409,10 @@ msgid "settings_machine-learning-href"
 msgstr "https://vk.com/topic-29220845_34743004"
 
 msgid "settings_bsods-title"
-msgstr ""
+msgstr "Analyser les cas de crash du 'écran bleu de la mort' (BSoD)"
 
 msgid "settings_bsods-caption"
-msgstr "La probabilité que le crash «écran bleu de la mort» (BSoD) se produise est inférieure à 0,3%, mais si cela se produit, notre application elle-même analyse les journaux Windows et génère un rapport pour le système d'analyse. Cela diminue la probabilité que ce problème se répète sur cet ordinateur et sur d'autres avec une configuration similaire."
+msgstr "La probabilité que le crash 'écran bleu de la mort' (BSoD) se produise est inférieure à 0,3%, mais si cela se produit, notre application elle-même analyse les journaux Windows et génère un rapport pour le système d'analyse. Cela diminue la probabilité que ce problème se répète sur cet ordinateur et sur d'autres avec une configuration similaire."
 
 msgid "settings_bsods-anchor"
 msgstr "En apprendre plus"
@@ -432,22 +433,22 @@ msgid "settings_collect-drivers-href"
 msgstr "https://vk.com/topic-29220845_34743007"
 
 msgid "menu_create_recovery_point"
-msgstr ""
+msgstr "Créer un point de restauration"
 
 msgid "menu_create_drivers_backup"
-msgstr ""
+msgstr "Créer une sauvegarde des pilotes"
 
 msgid "menu_add_remove_programs"
-msgstr ""
+msgstr "Désinstallation du logiciel"
 
 msgid "menu_device_manager"
 msgstr "Gestionnaire de périphériques"
 
 msgid "menu_system_properties"
-msgstr ""
+msgstr "Propriétés du système"
 
 msgid "menu_display_properties"
-msgstr ""
+msgstr "Paramètres d'affichage"
 
 msgid "menu_power_options"
 msgstr "Options d'alimentation"
@@ -489,7 +490,7 @@ msgid "driver_row_version"
 msgstr "Version"
 
 msgid "driver_row_date"
-msgstr "date"
+msgstr "Date"
 
 msgid "drivers_row_current_driver"
 msgstr "Pilote actuel"
@@ -507,7 +508,7 @@ msgid "driver_row_vendor"
 msgstr "Fabricant"
 
 msgid "driver_row_inf"
-msgstr ""
+msgstr "Fichier * .inf"
 
 msgid "driver_row_section"
 msgstr "Section"
@@ -516,13 +517,13 @@ msgid "driver_row_os"
 msgstr "Version OS"
 
 msgid "drivers_row_recommended"
-msgstr ""
+msgstr "Conseillé"
 
 msgid "driver_row_driver-menu-search"
 msgstr "recherche Internet"
 
 msgid "drivers_btn_install_all"
-msgstr ""
+msgstr "Installer tout <b>({{COUNT}})</b>"
 
 msgid "drivers_header_driver_for_computer"
 msgstr "Pilotes pour cet ordinateur"
@@ -531,13 +532,13 @@ msgid "drivers_btn_install_all_caption"
 msgstr "L'installation du logiciel recommandé peut être désactivée dans les paramètres"
 
 msgid "drivers_header_show_already_installed"
-msgstr ""
+msgstr "Voir les pilotes installés et alternatifs"
 
 msgid "drivers_header_show_additional_info"
 msgstr "Voir des informations supplémentaires"
 
 msgid "drivers_screen_most_important"
-msgstr ""
+msgstr "Les pilotes les plus demandés"
 
 msgid "drivers_screen_updates"
 msgstr "Mises à jour des pilotes"
@@ -549,15 +550,15 @@ msgid "drivers_screen_installed"
 msgstr "Pilotes installés"
 
 msgid "drivers_screen_alternative"
-msgstr ""
+msgstr "Pilotes alternatifs"
 
 msgid "drivers_screen_show"
-msgstr "Affichage"
+msgstr "Afficher"
 
 #. i18n: EN: text for {{LINK}} is in key zero-drivers_cta-msg-caption-link;
 #. RU: текст для {{LINK}} находится в ключе zero-drivers_cta-msg-caption-link;
 msgid "zero-drivers_cta-msg-caption"
-msgstr ""
+msgstr "Si vous avez toujours des problèmes non résolus avec vos appareils, vous pouvez {{LINK}}"
 
 msgid "zero-drivers_cta-msg"
 msgstr "Tous les pilotes requis sont déjà installés"
@@ -584,10 +585,10 @@ msgid "drivers_screen_view_options_version"
 msgstr "Version"
 
 msgid "drivers_screen_view_options_date"
-msgstr "date"
+msgstr "Date"
 
 msgid "drivers_screen_view_options_device_id"
-msgstr ""
+msgstr "DeviceID"
 
 msgid "drivers_screen_view_options_inf"
 msgstr "Fichier *inf:"
@@ -599,44 +600,44 @@ msgid "drivers_screen_view_options_os"
 msgstr "Version OS"
 
 msgid "final_popover_old_driver"
-msgstr ""
+msgstr "Pilote précédent"
 
 msgid "version"
 msgstr "Version"
 
 msgid "date"
-msgstr "date"
+msgstr "Date"
 
 msgid "final_popover_new_driver"
-msgstr ""
+msgstr "Pilote mis à jour"
 
 msgid "final_popover_new_driver_not_installed_caption"
 msgstr "Une erreur s'est produite lors du processus d'installation et le pilote précédent a été restauré sur ce périphérique."
 
 msgid "final_computer_setup_ok_title"
-msgstr ""
+msgstr "Yay! Votre ordinateur a été configuré!"
 
 msgid "final_drivers_not_better_title"
 msgid_plural "final_drivers_not_better_title_n"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{{COUNT1}} un pilote de {{COUNT2}} a été installé"
+msgstr[1] "{{COUNT1}} des pilotes de {{COUNT2}} ont été installés"
 
 msgid "final_single_driver_better_installed_title"
-msgstr ""
+msgstr "Le pilote a été installé"
 
 msgid "final_single_driver_better_not_installed_title"
-msgstr ""
+msgstr "Le pilote n'a pas été installé"
 
 msgid "final_programs_some_finished_title"
 msgid_plural "final_programs_some_finished_title_n"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{{COUNT1}} un logiciel de {{COUNT2}} a été installé"
+msgstr[1] "{{COUNT1}} des logiciels de {{COUNT2}} ont été installés"
 
 msgid "final_programs_all_failed_title"
-msgstr ""
+msgstr "0 logiciels de {{COUNT}} est installé"
 
 msgid "final_single_program_failed_title"
-msgstr ""
+msgstr "Le logiciel n'a pas été installé"
 
 msgid "final_offline_restart"
 msgstr "Une connexion réseau a été détectée. Veuillez redémarrer DriverPack pour installer les dernières versions des pilotes."
@@ -649,28 +650,28 @@ msgstr "Tous les pilotes importants ont été installés."
 
 msgid "final_drivers_not_better_subtitle"
 msgid_plural "final_drivers_not_better_subtitle_n"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Toutefois, {{COUNT}} pilote important n'a pas été installé. Nous vous recommandons de répéter l'installation ou de vérifier le fonctionnement de vos appareils."
+msgstr[1] "Toutefois, {{COUNT}} pilotes importants n'ont pas été installés. Nous vous recommandons de répéter l'installation ou de vérifier le fonctionnement de vos appareils."
 
 msgid "final_single_driver_ok_programs_subtitle"
 msgstr "Tous les pilotes et utilitaires importants ont été installés."
 
 msgid "final_single_driver_ok_subtitle"
-msgstr ""
+msgstr "Tous les pilotes importants sont installés."
 
 msgid "final_programs_all_finished_subtitle"
 msgid_plural "final_programs_all_finished_subtitle_n"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{{COUNT}} logiciel a été installé."
+msgstr[1] "{{COUNT}} logiciels ont été installés."
 
 msgid "final_programs_some_finished_subtitle"
-msgstr ""
+msgstr "L'installation de certains logiciels utiles a échoué."
 
 msgid "final_programs_all_failed_subtitle"
-msgstr ""
+msgstr "L'installation du logiciel a échoué."
 
 msgid "final_single_program_finished_subtitle"
-msgstr ""
+msgstr "1 logiciel a été installé."
 
 msgid "final_single_program_failed_subtitle"
 msgstr "Une erreur s'est produite et ce logiciel n'a pas été installé. Essayez de redémarrer l'installation."
@@ -682,126 +683,126 @@ msgid "final_main_remove_harmful_caption"
 msgstr "Aller à nettoyer l'ordinateur à partir de logiciels indésirables"
 
 msgid "final_main_offline_reload"
-msgstr ""
+msgstr "Redémarrez et vérifiez les mises à jour"
 
 msgid "final_main_next_btn"
-msgstr ""
+msgstr "Continuer"
 
 msgid "final_restart_installation_btn"
-msgstr ""
+msgstr "Commencez l'installation encore une fois"
 
 msgid "final_skip_btn"
-msgstr ""
+msgstr "Sauter"
 
 msgid "final_install_required_drivers_btn"
-msgstr ""
+msgstr "Installez des pilotes importants"
 
 msgid "loading_reboot"
-msgstr ""
+msgstr "Nous vous recommandons de redémarrer votre ordinateur dès que l'installation est terminée"
 
 msgid "final_aside_installed_drivers_title"
 msgid_plural "final_aside_installed_drivers_title_n"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{{COUNT}} pilote a été installé"
+msgstr[1] "{{COUNT}} pilotes ont été installés"
 
 msgid "final_some_drivers_not_installed"
-msgstr ""
+msgstr "Certains pilotes n'ont pas été installés"
 
 msgid "final_rollback_drivers"
-msgstr ""
+msgstr "Faire reculer le problème de pilotes"
 
 msgid "final_required_drivers_not_installed"
-msgstr ""
+msgstr "Les pilotes importants n'ont pas été installés"
 
 msgid "final_aside_installed_drivers_caption"
-msgstr ""
+msgstr "Nous avons installé des logiciels utiles et gratuits pour vous, y compris des antivirus, des navigateurs et des boîtes à outils de pilote. Tous sont potentiellement utiles."
 
 msgid "final_aside_remove_harmful_programs"
-msgstr ""
+msgstr "Supprimer les logiciels indésirables"
 
 msgid "final_aside_install_additional_programs"
-msgstr ""
+msgstr "Installer un logiciel supplémentaire"
 
 msgid "final_aside_some_programs_not_installed"
-msgstr ""
+msgstr "Certains logiciels n'ont pas été installés"
 
 msgid "final_aside_broken_devices_title"
-msgstr ""
+msgstr "Des appareils problématiques ont été détectés"
 
 msgid "final_aside_broken_devices_caption"
-msgstr ""
+msgstr "Certains périphériques de cet ordinateur ne fonctionnent pas correctement et il est impossible d'installer des pilotes pour eux. Nous vous recommandons de vérifier leur facilité de maintenance."
 
 msgid "games_top_game_free_demo"
-msgstr ""
+msgstr "Free demo-version"
 
 msgid "games_top_game_free_paid"
-msgstr ""
+msgstr "You will need a game copy purchased from {{SELLER}}"
 
 msgid "games_top_game_play"
-msgstr ""
+msgstr "Start playing"
 
 msgid "games_playkey_top_title"
-msgstr ""
+msgstr "Play <span class='games_title-marked bold'>the top games</span> on the highest level <br /> <span class='bold'>settings even on the weak computer</span>"
 
 msgid "games_playkey_open_catalog_button"
-msgstr ""
+msgstr "More than 150 games in the PlayKey catalog"
 
 msgid "games_playkey_cloud_title"
-msgstr ""
+msgstr "The game starts <span class='games_title-marked bold'>in the Cloud</span> on the server side, <br /> <span class='bold'>so, it doesn't use your computer's resources</span>"
 
 msgid "games_playkey_cloud_img_pc_caption"
-msgstr ""
+msgstr "The computer transfers the user's actions"
 
 msgid "games_playkey_cloud_img_cloud_caption"
-msgstr ""
+msgstr "The signal is transferred to the Сloud"
 
 msgid "games_playkey_cloud_img_server_caption"
-msgstr ""
+msgstr "The game starts on the server"
 
 msgid "games_playkey_cloud_img_joystick_caption"
-msgstr ""
+msgstr "You enjoy the game without any issues or delays"
 
 msgid "games_playkey_create_account_button"
-msgstr ""
+msgstr "Create an account on the PlayKey"
 
 msgid "header_authorize_button"
-msgstr ""
+msgstr "S'identifier"
 
 msgid "authorize_popup_logout_button"
-msgstr ""
+msgstr "Deconnection"
 
 msgid "installation_header_subtitle"
-msgstr ""
+msgstr "Cela peut prendre du temps, mais&nbsp;ça en vaut la peine"
 
 msgid "installation_header_subtitle_installing-driver"
-msgstr ""
+msgstr "{{CLASS.SINGLE.FOR}} pilote en cours d'installation"
 
 msgid "installation_header_subtitle_installing-program-plural"
-msgstr ""
+msgstr "{{CATEGORY.PLURAL.FOR}} installation"
 
 msgid "installation_header_subtitle_installing-program"
-msgstr ""
+msgstr "{{CATEGORY.SINGLE.FOR}} installation"
 
 msgid "installation_header_subtitle_downloading"
-msgstr ""
+msgstr "Fichier en cours de téléchargement"
 
 msgid "installation_header_preparing"
-msgstr ""
+msgstr "Nous sommes en train de créer le point de restauration..."
 
 msgid "installation_header_title"
-msgstr ""
+msgstr "Nous sommes en train de configurer votre ordinateur..."
 
 msgid "installation_header_promo_more"
-msgstr ""
+msgstr "Pour en savoir plus"
 
 msgid "installation_header_promo_install"
-msgstr ""
+msgstr "installer"
 
 msgid "installation_header_promo_fb"
-msgstr ""
+msgstr "Communauté sur Facebook"
 
 msgid "installation_item_category_restorepoint"
-msgstr ""
+msgstr "Point de restauration"
 
 msgid "driver_class_bluetooth"
 msgstr "Périphérique Bluetooth"
@@ -813,10 +814,10 @@ msgid "driver_class_chipset"
 msgstr "Chipset"
 
 msgid "driver_class_inputdev"
-msgstr ""
+msgstr "Périphérique d’entrée"
 
 msgid "driver_class_lan"
-msgstr ""
+msgstr "Carte réseau"
 
 msgid "driver_class_massstorage"
 msgstr "Contrôleur"
@@ -837,7 +838,7 @@ msgid "driver_class_sound"
 msgstr "Carte son"
 
 msgid "driver_class_tvtuner"
-msgstr "carte-TV"
+msgstr "Carte-TV"
 
 msgid "driver_class_video"
 msgstr "Carte graphique"
@@ -846,305 +847,305 @@ msgid "driver_class_webcamera"
 msgstr "Webcam"
 
 msgid "driver_class_wifi"
-msgstr "périphérique Wi-Fi"
+msgstr "Périphérique Wi-Fi"
 
 msgid "driver_class_other"
 msgstr "Autres Périphériques"
 
 msgid "soft_category_archiver"
-msgstr ""
+msgstr "Opérations avec les archives"
 
 msgid "soft_category_browser"
-msgstr ""
+msgstr "Fonctionnement rapide et sécurisé sur Internet"
 
 msgid "soft_category_viewer"
-msgstr ""
+msgstr "Vue d'images et de documents"
 
 msgid "soft_category_messenger"
-msgstr ""
+msgstr "Appels et messages gratuits"
 
 msgid "soft_category_internet"
-msgstr ""
+msgstr "Utilitaires Internet"
 
 msgid "soft_category_player"
-msgstr ""
+msgstr "Visionnage film et vidéo"
 
 msgid "soft_category_backup"
-msgstr ""
+msgstr "Sauvegarde et restauration de données"
 
 msgid "soft_category_antivirus"
 msgstr "Protection antivirus"
 
 msgid "soft_category_system"
-msgstr ""
+msgstr "Utilitaires système"
 
 msgid "soft_category_drivers"
-msgstr ""
+msgstr "Boîtes à outils pour le fonctionnement du pilote"
 
 msgid "installation_error_download"
 msgstr "Erreur de téléchargement"
 
 msgid "installation_error_unzip"
-msgstr ""
+msgstr "Erreur de déballage"
 
 msgid "installation_error_install"
-msgstr ""
+msgstr "Erreur d'installation"
 
 msgid "installation_error_restore_disabled"
-msgstr ""
+msgstr "Erreur: interdit par les paramètres du système"
 
 msgid "installation_error_restore_not_created"
-msgstr ""
+msgstr "Erreur de création"
 
 msgid "installation_progress_stage_creating"
-msgstr ""
+msgstr "En cours de création..."
 
 msgid "installation_progress_stage_created"
-msgstr ""
+msgstr "Il a été créé"
 
 msgid "installation_progress_stage_waiting"
-msgstr ""
+msgstr "Il attend son tour pour être téléchargé"
 
 msgid "installation_progress_stage_downloading"
-msgstr ""
+msgstr "En cours de chargement..."
 
 msgid "installation_progress_downloading_speed"
 msgstr "vitesse"
 
 msgid "installation_progress_downloading_of"
-msgstr "sur"
+msgstr "de"
 
 msgid "installation_progress_stage_downloaded"
-msgstr ""
+msgstr "Il attend son tour pour être installé"
 
 msgid "installation_progress_stage_unzipping"
-msgstr ""
+msgstr "En cours de décompression..."
 
 msgid "installation_progress_unzipping_unzipped"
 msgstr "décompressé"
 
 msgid "installation_progress_stage_installing"
-msgstr ""
+msgstr "En cours d'installation..."
 
 msgid "installation_progress_stage_done"
-msgstr ""
+msgstr "Terminé"
 
 msgid "installation_canceled"
-msgstr ""
+msgstr "Vous l'avez annulé"
 
 msgid "installation_title_name"
-msgstr ""
+msgstr "Éléments d'installation"
 
 msgid "installation_title_button_settings"
-msgstr ""
+msgstr "Configurer"
 
 msgid "installation_item_description_restorepoint"
-msgstr ""
+msgstr "Il permet à un système de revenir à son état précédent si quelque chose ne va pas"
 
 msgid "loading_backup_drivers"
-msgstr ""
+msgstr "La sauvegarde du pilote est en cours de création"
 
 msgid "loading_backup_done"
-msgstr ""
+msgstr "La sauvegarde du pilote a été créée avec succès"
 
 msgid "loading_button_finish"
-msgstr ""
+msgstr "Terminé"
 
 msgid "loading_backup_failed"
-msgstr ""
+msgstr "Une erreur s'est produite dans le processus de création de la sauvegarde du pilote"
 
 msgid "about_run_error"
-msgstr ""
+msgstr "Un problème est survenu pendant le fonctionnement de DriverPack Solution <br> <br> Si le problème persiste, envoyez-nous e-mail à support@drp.su "
 
 msgid "loading_preparing"
-msgstr ""
+msgstr "L'application va être lancée…"
 
 msgid "loading_system_scanning"
-msgstr ""
+msgstr "Nous sommes en train de vérifier la configuration de l'ordinateur…"
 
 msgid "loading_sending_api_request"
-msgstr ""
+msgstr "Nous sommes en train de charger des données du serveur cloud..."
 
 msgid "loading_checking_installed_programs"
-msgstr ""
+msgstr "Nous sommes en train d'analyser le logiciel..."
 
 msgid "loading_ordering_drivers"
-msgstr ""
+msgstr "Nous sommes en train de générer l'ordre d'installation du pilote..."
 
 msgid "menu_install_drivers"
-msgstr ""
+msgstr "Installation du pilote sur l'ordinateur"
 
 msgid "menu_drivers"
 msgstr "Pilotes"
 
 msgid "menu_install_programs"
-msgstr ""
+msgstr "Installation du logiciel de base sur l'ordinateur"
 
 msgid "menu_programs"
 msgstr "Logiciel"
 
 msgid "menu_protect_title"
-msgstr ""
+msgstr "Assistant pour votre antivirus"
 
 msgid "menu_protect_clean_up"
-msgstr ""
+msgstr "Protection et nettoyage"
 
 msgid "menu_computer_diagnostics"
-msgstr ""
+msgstr "Diagnostic de l'état de l'ordinateur"
 
 msgid "menu_diagnostics"
 msgstr "Diagnostics"
 
 msgid "menu_cloud_games_title"
-msgstr ""
+msgstr "Jouez aux jeux les plus avancés sur n'importe quel ordinateur"
 
 msgid "menu_cloud_games"
-msgstr ""
+msgstr "Jeux"
 
 msgid "menu_cloud_games_new"
-msgstr ""
+msgstr "Nouveau"
 
 msgid "menu_settings"
 msgstr "Paramètres"
 
 msgid "menu_bugreport"
-msgstr ""
+msgstr "Rapport d'erreur"
 
 msgid "no-internet-screen_header-title"
-msgstr ""
+msgstr "Pas de connexion au serveur"
 
 msgid "no-internet-screen_guide-title"
-msgstr ""
+msgstr "Comment installer tous les pilotes requis sans connexion Internet?"
 
 msgid "no-internet-screen_guide-step-1"
-msgstr ""
+msgstr "Étape 1"
 
 msgid "no-internet-screen_guide-step-1-action"
-msgstr ""
+msgstr "Aller au site <span class=\"bold\">driverpack.io/fr/foradmin</span> en utilisant un autre ordinateur"
 
 msgid "no-internet-screen_guide-step-2"
-msgstr ""
+msgstr "Étape 2"
 
 msgid "no-internet-screen_guide-step-2-action"
-msgstr ""
+msgstr "Télécharger <span class=\"bold\">DriverPack Offline Full</span> ou <span class=\"bold\">DriverPack Offline Network</span> à un lecteur flash USB pour installer les pilotes sur votre ordinateur sans connexion Internet <br /><br /> <span class=\"bold\">DriverPack Offline Network</span> inclut des pilotes pour le matériel réseau (Lan/Wi-Fi), il fonctionne sans connexion Internet (500 MB) <br /><br /> <span class=\"bold\">DriverPack Offline Full</span> inclut tous les pilotes, fonctionne sans connexion Internet"
 
 msgid "no-internet-screen_guide-step-complete"
-msgstr ""
+msgstr "Terminé"
 
 msgid "no-internet-screen_guide-step-complete-action"
-msgstr ""
+msgstr "Lancez l'application sur cet ordinateur et configurez-la en un clic"
 
 msgid "programs_header_text_title"
-msgstr ""
+msgstr "Tous les logiciels utiles en un seul endroit"
 
 msgid "programs_btn_install_all"
-msgstr ""
+msgstr "Installez les logiciels requis <b>({{COUNT}})</b>"
 
 msgid "programs_header_text_caption"
-msgstr ""
+msgstr "Il n'est plus nécessaire de rechercher les logiciels un à un. Vous pouvez facilement tout installer en un clic."
 
 msgid "drivers_program_counter"
-msgstr ""
+msgstr "Logiciel recommandé"
 
 msgid "protect_popup_title"
-msgstr ""
+msgstr "Configuration de sécurité de votre ordinateur"
 
 msgid "protect_popup_install_button"
 msgstr "Installer"
 
 msgid "protect_popup_cancel_button"
-msgstr ""
+msgstr "Refuser"
 
 msgid "protect_row_rating"
-msgstr ""
+msgstr "Taux:"
 
 msgid "protect_row_size"
-msgstr ""
+msgstr "Taille:"
 
 msgid "protect_row_publisher"
-msgstr ""
+msgstr "Éditeur:"
 
 msgid "protect_row_version"
 msgstr "Version actuelle:"
 
 msgid "protect_row_install_date"
-msgstr ""
+msgstr "Date d'installation:"
 
 msgid "protect_rating_level_large"
-msgstr ""
+msgstr "nous vous recommandons de supprimer cela"
 
 msgid "protect_rating_level_middle"
-msgstr ""
+msgstr "vous pouvez supprimer cela"
 
 msgid "protect_rating_level_small"
-msgstr ""
+msgstr "vous pouvez garder ceci"
 
 msgid "protect_rating_level_large_caption"
-msgstr ""
+msgstr "Nous vous recommandons de supprimer ce logiciel car 70% des utilisateurs le suppriment."
 
 msgid "protect_uninstall_single"
-msgstr ""
+msgstr "retirer"
 
 msgid "protect_clean_up_btn"
-msgstr ""
+msgstr "Protégez et nettoyez l'ordinateur"
 
 msgid "protect_remove_all_btn_uninstalling"
-msgstr ""
+msgstr "Ces logiciels suspects seront supprimés: {{COUNT}}"
 
 msgid "protect_remove_all_btn_installing"
-msgstr ""
+msgstr "Ces logiciels importants seront installés: {{COUNT}}"
 
 msgid "protect_installed-programs_api_failed"
-msgstr ""
+msgstr "Pas de connexion Internet. La connexion réseau est nécessaire pour afficher la liste des logiciels sur votre ordinateur."
 
 msgid "protect_installed-programs_no_harmful"
-msgstr ""
+msgstr "Aucun logiciel indésirable n'a été détecté sur votre ordinateur"
 
 msgid "protect_clean_up_header_title"
-msgstr ""
+msgstr "DriverPack Protect —protection et nettoyage de votre ordinateur"
 
 msgid "protect_clean_up_header_caption"
-msgstr ""
+msgstr "DriverPack Protect nettoiera les logiciels indésirables et protégera votre ordinateur en complément des capacités de votre antivirus, notamment: détecter, supprimer et bloquer les logiciels malveillants et la publicité intrusive"
 
 msgid "protect_installed_programs_title"
-msgstr ""
+msgstr "Logiciel installé sur l'ordinateur"
 
 msgid "protect_installed_programs_switch"
-msgstr ""
+msgstr "Afficher uniquement le logiciel suspect"
 
 msgid "protect_show_more"
 msgstr "Voir plus"
 
 msgid "protect_security_programs_title"
-msgstr ""
+msgstr "Logiciel important pour la sécurité"
 
 msgid "settings-header_title"
-msgstr ""
+msgstr "Paramètres pour les utilisateurs avancés"
 
 msgid "settings-header_caption"
-msgstr ""
+msgstr "DriverPack a été créé spécifiquement pour les administrateurs, mais il est clair et pratique, même pour les utilisateurs novices. En l'utilisant, des millions d'administrateurs système dans le monde entier peuvent non seulement configurer leurs ordinateurs rapidement, mais peuvent également personnaliser DriverPack en fonction de leurs propres besoins et de leurs tâches. Le nouvel algorithme de sélection installe des pilotes qui permettent à vos appareils de fonctionner avec une efficacité maximale. Essayez DriverPack — nous sommes sûrs que vous l'aimerez!"
 
 #. i18n: EN: default value for {{MODEL}} in start_title key; RU: значение по
 #. умолчанию для {{MODEL}} в ключе start_title
 msgid "start_title_default_model"
-msgstr ""
+msgstr "votre ordinateur"
 
 msgid "start_title"
-msgstr ""
+msgstr "Configuration automatique de {{MODEL}}"
 
 msgid "start_button_install"
-msgstr ""
+msgstr "Configurer l'ordinateur automatiquement"
 
 msgid "start_caption"
-msgstr ""
+msgstr "DriverPack va scanner le système, installer<br/>les pilotes et logiciels requis, et effectuer des diagnostics. <br/>L'efficacité de l'ordinateur devrait augmenter."
 
 msgid "start_expert_mode"
-msgstr ""
+msgstr "Mode Expert"
 
 msgid "start_drivers_title"
 msgid_plural "start_drivers_title_n"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{{COUNT}} le pilote sera installé"
+msgstr[1] "{{COUNT}} les pilotes seront installés"
 
 msgid "start_drivers_popover"
 msgstr ""

@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-11-27 10:29+0000\n"
-"PO-Revision-Date: 2017-12-04 13:44+0000\n"
+"PO-Revision-Date: 2017-12-25 12:19+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Akan (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/ak/)\n"
 "MIME-Version: 1.0\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 
 msgid "installation_close_confirm"
-msgstr "Wo gyidi sε wo pε sε wo twa driver nhyehyεε no so? Ɛtumi de nsεm brε wo kͻmputa"
+msgstr "Wo gyidi sε wo pε sε wo twa driver nhyehyεε no so? Ɛtumi de nsεm brε wo kͻmputa."
 
 msgid "authorize_failed"
 msgstr "Nwura mu akwanhyia"
@@ -159,16 +159,16 @@ msgid "deviceclasses_sound-plural-for"
 msgstr "nnfidie a edi dede ho dwuma"
 
 msgid "deviceclasses_tvtuner-single-main"
-msgstr "TV-tuner"
+msgstr "TV-dwontobea"
 
 msgid "deviceclasses_tvtuner-single-for"
-msgstr "TV-tuner"
+msgstr "TV-dwontobea"
 
 msgid "deviceclasses_tvtuner-plural-main"
-msgstr "TV-tuners"
+msgstr "TV-nnwontobea"
 
 msgid "deviceclasses_tvtuner-plural-for"
-msgstr "TV-tuners"
+msgstr "TV-nnwontobea"
 
 msgid "deviceclasses_video-single-main"
 msgstr "sini hwεfo kaade"
@@ -219,13 +219,13 @@ msgid "deviceclasses_other-plural-for"
 msgstr "nfidie foforo"
 
 msgid "programs_btn_install_single"
-msgstr ""
+msgstr "hyehyε"
 
 msgid "programs_btn_installed_single"
 msgstr ""
 
 msgid "settings_common-settings"
-msgstr "nhyehyεε a εfa ne nyinaa ho"
+msgstr "Nhyehyεε a εfa ne nyinaa ho"
 
 msgid "settings_error"
 msgstr "Akwanhyia ho akwansie"
@@ -234,10 +234,10 @@ msgid "settings_algorithm"
 msgstr ""
 
 msgid "settings_language-title"
-msgstr "kasa"
+msgstr "Kasa"
 
 msgid "settings_language-caption"
-msgstr "Sε wo pε sεε w’asuahunu εma DriverPack no kͻ mee a, yi wo kurom kasa wo hyehyεε no mu"
+msgstr "Sε wo pε sεε w’asuahunu εma DriverPack no kͻ mee a, yi wo kurom kasa wo hyehyεε no mu!"
 
 msgid "settings_language-anchor"
 msgstr "Kasa kyerε asefoͻ Nkrabͻ"
@@ -276,7 +276,7 @@ msgid "settings_soft-and-utilities-href"
 msgstr "https://vk.com/topic-29220845_34742910"
 
 msgid "settings_protect-title"
-msgstr "DriverPack banbͻ"
+msgstr "DriverPack Protect"
 
 msgid "settings_protect-caption"
 msgstr ""
@@ -315,7 +315,7 @@ msgid "settings_news-title"
 msgstr "Kyerε drivers ho nkrabͻ"
 
 msgid "settings_news-caption"
-msgstr "Ɛfa yi kura nkrabͻ a εho hia εfa drivers foforo aba dwam"
+msgstr "Ɛfa yi kura nkrabͻ a εho hia εfa drivers foforo aba dwam."
 
 msgid "settings_drivers-title"
 msgstr "Ɛnma ho kwan sε yε bε si drivers a εho hia amonomuhoa"
@@ -336,7 +336,7 @@ msgid "settings_banners-caption"
 msgstr ""
 
 msgid "settings_notifier-title"
-msgstr "DriverPack nkaeε"
+msgstr "DriverPack Notifier"
 
 msgid "settings_notifier-caption"
 msgstr ""
@@ -384,7 +384,7 @@ msgid "settings_system-check-href"
 msgstr "https://vk.com/topic-29220845_34742983"
 
 msgid "settings_statistics-title"
-msgstr "Soma w’afidie ho dwuma die ho nsεm brε yεn."
+msgstr "Soma w’afidie ho dwuma die ho nsεm brε yεn"
 
 msgid "settings_statistics-caption"
 msgstr ""
@@ -495,7 +495,7 @@ msgid "drivers_row_current_driver"
 msgstr "Driver a εwͻ so"
 
 msgid "driver_row_driver-menu-state-install"
-msgstr "Si"
+msgstr "Hyehyε"
 
 msgid "driver_row_driver-menu-state-update"
 msgstr ""
@@ -507,7 +507,7 @@ msgid "driver_row_vendor"
 msgstr "Abͻfo"
 
 msgid "driver_row_inf"
-msgstr "To santene *.inf:"
+msgstr "To santene *.inf"
 
 msgid "driver_row_section"
 msgstr "Ɛfa"
@@ -516,13 +516,13 @@ msgid "driver_row_os"
 msgstr "OS su"
 
 msgid "drivers_row_recommended"
-msgstr "neε yεn kanfo εma wo"
+msgstr "Neε yεn kanfo εma wo"
 
 msgid "driver_row_driver-menu-search"
 msgstr "Hwehwε internet so"
 
 msgid "drivers_btn_install_all"
-msgstr "Hyehyε ni nyinara<b>({{COUNT}})</b>"
+msgstr "Hyehyε ni nyinara <b>({{COUNT}})</b>"
 
 msgid "drivers_header_driver_for_computer"
 msgstr "Drivers ma wo kͻmputa"
@@ -552,7 +552,7 @@ msgid "drivers_screen_alternative"
 msgstr "Drivers koro"
 
 msgid "drivers_screen_show"
-msgstr "Display"
+msgstr "Kyerε"
 
 #. i18n: EN: text for {{LINK}} is in key zero-drivers_cta-msg-caption-link;
 #. RU: текст для {{LINK}} находится в ключе zero-drivers_cta-msg-caption-link;
@@ -563,7 +563,7 @@ msgid "zero-drivers_cta-msg"
 msgstr "Drivers a εho hia nyinara εwͻ wo kͻmputa no so"
 
 msgid "zero-drivers_cta-msg-caption-link"
-msgstr "San hyehyε anaa hyehyε drivers dada"
+msgstr "san hyehyε anaa hyehyε drivers dada"
 
 msgid "zero-drivers_cta-btn"
 msgstr "Kͻ kͻmputa asiesieε mu"
@@ -590,7 +590,7 @@ msgid "drivers_screen_view_options_device_id"
 msgstr "DeviceID"
 
 msgid "drivers_screen_view_options_inf"
-msgstr "To santene"
+msgstr "To santene *.inf:"
 
 msgid "drivers_screen_view_options_section"
 msgstr "Ɛfa"
@@ -614,7 +614,7 @@ msgid "final_popover_new_driver_not_installed_caption"
 msgstr "Akwanhyia bi si yε mmrε a na wo hyehyε wo kͻmputa, nti yε de driver dada no ahyε wo kͻmputa no mu"
 
 msgid "final_computer_setup_ok_title"
-msgstr "Anigyie! Y’ahyehyε kͻmputa no"
+msgstr "Anigyie! Y’ahyehyε kͻmputa no!"
 
 msgid "final_drivers_not_better_title"
 msgid_plural "final_drivers_not_better_title_n"
@@ -633,7 +633,7 @@ msgstr[0] ""
 msgstr[1] ""
 
 msgid "final_programs_all_failed_title"
-msgstr "0 Nhyehyεε efiri {{COUNT}}na y’ahyehyε"
+msgstr "0 nhyehyεε efiri {{COUNT}} na y’ahyehyε"
 
 msgid "final_single_program_failed_title"
 msgstr ""
@@ -642,10 +642,10 @@ msgid "final_offline_restart"
 msgstr ""
 
 msgid "final_drivers_ok_programs_subtitle"
-msgstr "Drivers a εho hia ne nhyehyεε nyinara εwͻ wo kͻmputa no so"
+msgstr "Drivers a εho hia ne nhyehyεε nyinara εwͻ wo kͻmputa no so."
 
 msgid "final_drivers_ok_subtitle"
-msgstr "Drivers a εho hia nyinara εwͻ wo kͻmputa no so"
+msgstr "Drivers a εho hia nyinara εwͻ wo kͻmputa no so."
 
 msgid "final_drivers_not_better_subtitle"
 msgid_plural "final_drivers_not_better_subtitle_n"
@@ -653,10 +653,10 @@ msgstr[0] ""
 msgstr[1] ""
 
 msgid "final_single_driver_ok_programs_subtitle"
-msgstr "Drivers a εho hia ne nhyehyεε nyinara εwͻ wo kͻmputa no so"
+msgstr "Drivers a εho hia ne nhyehyεε nyinara εwͻ wo kͻmputa no so."
 
 msgid "final_single_driver_ok_subtitle"
-msgstr "Drivers a εho hia nyinara εwͻ wo kͻmputa no so"
+msgstr "Drivers a εho hia nyinara εwͻ wo kͻmputa no so."
 
 msgid "final_programs_all_finished_subtitle"
 msgid_plural "final_programs_all_finished_subtitle_n"
@@ -795,7 +795,7 @@ msgid "installation_header_promo_more"
 msgstr "sua bi ka ho"
 
 msgid "installation_header_promo_install"
-msgstr ""
+msgstr "hyehyε"
 
 msgid "installation_header_promo_fb"
 msgstr "Facebook kuo"
@@ -807,7 +807,7 @@ msgid "driver_class_bluetooth"
 msgstr "Bluetooth afidie"
 
 msgid "driver_class_cardreader"
-msgstr "kaade akenkanfoͻ"
+msgstr "Kaade akenkanfoͻ"
 
 msgid "driver_class_chipset"
 msgstr "Chipset"
@@ -825,10 +825,10 @@ msgid "driver_class_modem"
 msgstr "Modem"
 
 msgid "driver_class_monitor"
-msgstr "afidie a εbͻ nkaeε"
+msgstr "Afidie a εbͻ nkaeε"
 
 msgid "driver_class_phone"
-msgstr "ahomatorofoͻ"
+msgstr "Ahomatorofoͻ"
 
 msgid "driver_class_printer"
 msgstr ""
@@ -840,16 +840,16 @@ msgid "driver_class_tvtuner"
 msgstr "TV-tuner"
 
 msgid "driver_class_video"
-msgstr "sini hwεfo kaade"
+msgstr "Sini hwεfo kaade"
 
 msgid "driver_class_webcamera"
-msgstr "internet so kamεra"
+msgstr "Internet so kamεra"
 
 msgid "driver_class_wifi"
 msgstr "Wi-Fi afidie"
 
 msgid "driver_class_other"
-msgstr "nfidie foforo"
+msgstr "Nfidie foforo"
 
 msgid "soft_category_archiver"
 msgstr ""
@@ -1050,7 +1050,7 @@ msgid "protect_popup_title"
 msgstr ""
 
 msgid "protect_popup_install_button"
-msgstr "Si"
+msgstr "Hyehyε"
 
 msgid "protect_popup_cancel_button"
 msgstr ""
@@ -1071,7 +1071,7 @@ msgid "protect_row_install_date"
 msgstr "Nhyehyεe da:"
 
 msgid "protect_rating_level_large"
-msgstr "Ɛbε hia sεε wo bε yi wei afiri mu"
+msgstr "εbε hia sεε wo bε yi wei afiri mu"
 
 msgid "protect_rating_level_middle"
 msgstr "wo bεtumi ayi wei aifiri mu"
@@ -1113,7 +1113,7 @@ msgid "protect_installed_programs_switch"
 msgstr ""
 
 msgid "protect_show_more"
-msgstr "hwε pii"
+msgstr "Hwε pii"
 
 msgid "protect_security_programs_title"
 msgstr ""

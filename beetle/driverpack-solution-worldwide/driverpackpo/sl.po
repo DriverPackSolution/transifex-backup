@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-11-27 10:29+0000\n"
-"PO-Revision-Date: 2017-12-08 13:52+0000\n"
+"PO-Revision-Date: 2017-12-20 21:46+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Slovenian (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/sl/)\n"
 "MIME-Version: 1.0\n"
@@ -636,7 +636,7 @@ msgstr[2] "Nameščeno je bilo {{COUNT1}} programov od skupnega števila {{COUNT
 msgstr[3] "Nameščeno je bilo {{COUNT1}} programov od skupnega števila {{COUNT2}}"
 
 msgid "final_programs_all_failed_title"
-msgstr ""
+msgstr "0 programov iz {{COUNT}} je bilo nameščenih"
 
 msgid "final_single_program_failed_title"
 msgstr "Program ni bil nameščen"
@@ -654,8 +654,8 @@ msgid "final_drivers_not_better_subtitle"
 msgid_plural "final_drivers_not_better_subtitle_n"
 msgstr[0] "Vendar, {{COUNT}} pomembno gonilnik ni nameščen. Priporočamo vam, da ponovno zaženete namestitev ali preverite delovanje naprav."
 msgstr[1] "Vendar, {{COUNT}} pomembno gonilniki niso nameščeni. Priporočamo vam, da ponovno zaženete namestitev ali preverite delovanje naprav."
-msgstr[2] "Vendar, {{COUNT}} pomembno gonilniki niso nameščeni. Priporočamo vam, da ponovno zaženete namestitev ali preverite delovanje naprav."
-msgstr[3] "Vendar, {{COUNT}} pomembno gonilniki niso nameščeni. Priporočamo vam, da ponovno zaženete namestitev ali preverite delovanje naprav."
+msgstr[2] "Vendar, {{COUNT}} pomembno gonilnikov niso nameščenih. Priporočamo vam, da ponovno zaženete namestitev ali preverite delovanje naprav."
+msgstr[3] "Vendar, {{COUNT}} pomembno gonilnikov niso nameščenih. Priporočamo vam, da ponovno zaženete namestitev ali preverite delovanje naprav."
 
 msgid "final_single_driver_ok_programs_subtitle"
 msgstr "Nameščeni so bili vsi pomembni gonilniki in pripomočki."
@@ -708,10 +708,10 @@ msgstr "Priporočamo vam ponovni zagon računalnika, takoj po končani namestitv
 
 msgid "final_aside_installed_drivers_title"
 msgid_plural "final_aside_installed_drivers_title_n"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgstr[0] "{{COUNT}} gonilnik je bil nameščen"
+msgstr[1] "{{COUNT}} gonilniki so bili nameščeni"
+msgstr[2] "{{COUNT}} gonilnikov so bili nameščenih"
+msgstr[3] "{{COUNT}} gonilnikov so bili nameščenih"
 
 msgid "final_some_drivers_not_installed"
 msgstr "Nekaterih gonilnikov ni bilo mogoče namestiti"
@@ -783,13 +783,13 @@ msgid "installation_header_subtitle"
 msgstr "To lahko traja nekaj časa, vendar je vredno počakati"
 
 msgid "installation_header_subtitle_installing-driver"
-msgstr ""
+msgstr "Gonilnik za {{CLASS.SINGLE.FOR}} je namestitev"
 
 msgid "installation_header_subtitle_installing-program-plural"
-msgstr ""
+msgstr "Namestitev za {{CATEGORY.PLURAL.FOR}}"
 
 msgid "installation_header_subtitle_installing-program"
-msgstr ""
+msgstr "Namestitev za {{CATEGORY.SINGLE.FOR}}"
 
 msgid "installation_header_subtitle_downloading"
 msgstr "Nalaganje datoteke"
@@ -1029,19 +1029,19 @@ msgid "no-internet-screen_guide-step-1"
 msgstr "Korak 1"
 
 msgid "no-internet-screen_guide-step-1-action"
-msgstr ""
+msgstr "Obiščite spletno stran <span class=\"bold\">drp.su/sl/foradmin</span> z uporabo drugega računalnika"
 
 msgid "no-internet-screen_guide-step-2"
 msgstr "Korak 2"
 
 msgid "no-internet-screen_guide-step-2-action"
-msgstr ""
+msgstr "Prenesite <span class=\"bold\">DriverPack Offline Full</span> ali <span class=\"bold\">DriverPack Offline Network</span> na USB-pogon za namestitev gonilnikov na vaš računalnik brez Internetne povezave <br /><br /> <span class=\"bold\">DriverPack Offline Network</span> vključuje gonilnike za omrežno strojno opremo (Lan/Wi-Fi), deluje brez Internetne povezave (500 MB) <br /><br /> <span class=\"bold\">DriverPack Offline Full</span> vključuje vsi gonilniki, deluje brez Internetne povezave"
 
 msgid "no-internet-screen_guide-step-complete"
 msgstr "Končano"
 
 msgid "no-internet-screen_guide-step-complete-action"
-msgstr ""
+msgstr "Zaženite aplikacijo v tem računalniku in konfigurirajte računalnik z enim gumbom"
 
 msgid "programs_header_text_title"
 msgstr "Vsa koristna programska oprema na enem mestu"

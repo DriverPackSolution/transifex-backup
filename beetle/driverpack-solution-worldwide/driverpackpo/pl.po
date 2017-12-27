@@ -6,6 +6,7 @@
 # Kacper Mucha <cov.ssin@gmail.com>, 2017
 # Łukasz Sumera <sumera.lukasz@gmail.com>, 2017
 # Marcin Rudzki <m.k.rudzki@gmail.com>, 2016-2017
+# Nadia Tegeneva <nadia@drp.su>, 2017
 # pasterzppp <pasterzppp@gmail.com>, 2016
 # Wojciech Milewski <milewski1974@gmail.com>, 2017
 # Артур Кузяков <artx@drp.su>, 2016
@@ -14,7 +15,7 @@ msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-11-27 10:29+0000\n"
-"PO-Revision-Date: 2017-12-04 13:44+0000\n"
+"PO-Revision-Date: 2017-12-25 09:34+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Polish (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/pl/)\n"
 "MIME-Version: 1.0\n"
@@ -24,7 +25,7 @@ msgstr ""
 "Plural-Forms: nplurals=4; plural=(n==1 ? 0 : (n%10>=2 && n%10<=4) && (n%100<12 || n%100>14) ? 1 : n!=1 && (n%10>=0 && n%10<=1) || (n%10>=5 && n%10<=9) || (n%100>=12 && n%100<=14) ? 2 : 3);\n"
 
 msgid "installation_close_confirm"
-msgstr "Czy jesteś pewien przerwania instalacji ? Może to doprowadzić do uszkodzenia komputera."
+msgstr "Czy jesteś pewien przerwania instalacji? Może to doprowadzić do uszkodzenia komputera."
 
 msgid "authorize_failed"
 msgstr "Błąd logowania"
@@ -57,16 +58,16 @@ msgid "deviceclasses_cardreader-plural-for"
 msgstr "czytniki kart"
 
 msgid "deviceclasses_chipset-single-main"
-msgstr "chpsety"
+msgstr "chipset"
 
 msgid "deviceclasses_chipset-single-for"
 msgstr "chipset"
 
 msgid "deviceclasses_chipset-plural-main"
-msgstr "chpsety"
+msgstr "chipsety"
 
 msgid "deviceclasses_chipset-plural-for"
-msgstr "urządzenie wejściowe"
+msgstr "chipsety"
 
 msgid "deviceclasses_inputdev-single-main"
 msgstr "urządzenie wejściowe"
@@ -213,19 +214,19 @@ msgid "deviceclasses_wifi-plural-for"
 msgstr "urządzenia WiFi"
 
 msgid "deviceclasses_other-single-main"
-msgstr "inne urządzenia"
+msgstr "inne urządzenie"
 
 msgid "deviceclasses_other-single-for"
-msgstr "inne urządzenia"
+msgstr "inne urządzenie"
 
 msgid "deviceclasses_other-plural-main"
-msgstr "Inne urządzenia"
+msgstr "inne urządzenia"
 
 msgid "deviceclasses_other-plural-for"
 msgstr "inne urządzenia"
 
 msgid "programs_btn_install_single"
-msgstr "Instaluj"
+msgstr "instaluj"
 
 msgid "programs_btn_installed_single"
 msgstr "Zainstalowano"
@@ -234,7 +235,7 @@ msgid "settings_common-settings"
 msgstr "Ustawienia ogólne"
 
 msgid "settings_error"
-msgstr "Błąd "
+msgstr "Unikanie Błędów"
 
 msgid "settings_algorithm"
 msgstr "Wybór algorytmu sterowników"
@@ -243,13 +244,13 @@ msgid "settings_language-title"
 msgstr "Języki aplikacji"
 
 msgid "settings_language-caption"
-msgstr "Dla lepszego i prostszego korzystania z DriverPack, wybierz swój ojczysty język w ustawieniach."
+msgstr "Dla lepszego i prostszego korzystania z DriverPack, wybierz swój ojczysty język w ustawieniach!"
 
 msgid "settings_language-anchor"
 msgstr "Informacja dla tłumaczy"
 
 msgid "settings_language-href"
-msgstr "https://drp.su/en/info/translators"
+msgstr "https://driverpack.io/pl/info/translators"
 
 msgid "settings_logging-title"
 msgstr "Zapisz dzienniki"
@@ -306,7 +307,7 @@ msgid "settings_expert-mode-caption"
 msgstr ""
 
 msgid "settings_minify-menu-title"
-msgstr "Zmniejsz rozmiar panelu nawigacji."
+msgstr "Zmniejsz rozmiar panelu nawigacji"
 
 msgid "settings_minify-menu-caption"
 msgstr ""
@@ -423,7 +424,7 @@ msgid "settings_bsods-anchor"
 msgstr "Dowiedz się więcej"
 
 msgid "settings_bsods-href"
-msgstr "https://vk.com/topic-29220845_34743004"
+msgstr "https://vk.com/topic-29220845_34743011"
 
 msgid "settings_collect-drivers-title"
 msgstr "Pobierz brakujące sterowniki"
@@ -558,7 +559,7 @@ msgid "drivers_screen_alternative"
 msgstr "Alternatywne sterowniki"
 
 msgid "drivers_screen_show"
-msgstr "Ekran"
+msgstr "Wyświetl"
 
 #. i18n: EN: text for {{LINK}} is in key zero-drivers_cta-msg-caption-link;
 #. RU: текст для {{LINK}} находится в ключе zero-drivers_cta-msg-caption-link;
@@ -811,7 +812,7 @@ msgid "installation_header_promo_more"
 msgstr "dowiedz się więcej"
 
 msgid "installation_header_promo_install"
-msgstr "Instaluj"
+msgstr "instaluj"
 
 msgid "installation_header_promo_fb"
 msgstr "Społeczność na Facebooku"
@@ -853,13 +854,13 @@ msgid "driver_class_sound"
 msgstr "Karta dźwiękowa"
 
 msgid "driver_class_tvtuner"
-msgstr "tuner TV"
+msgstr "Tuner TV"
 
 msgid "driver_class_video"
 msgstr "Karta graficzna"
 
 msgid "driver_class_webcamera"
-msgstr "Kamera"
+msgstr "Kamerka"
 
 msgid "driver_class_wifi"
 msgstr "Karta sieciowa WiFi"
@@ -1030,7 +1031,7 @@ msgid "no-internet-screen_header-title"
 msgstr "Brak połączenia z serwerem"
 
 msgid "no-internet-screen_guide-title"
-msgstr "Jak zainstalować potrzebne sterowniki bez połączenia z internetem ?"
+msgstr "Jak zainstalować potrzebne sterowniki bez połączenia z internetem?"
 
 msgid "no-internet-screen_guide-step-1"
 msgstr "Krok 1"
@@ -1152,7 +1153,7 @@ msgid "start_button_install"
 msgstr "Konfiguruje komputer automatycznie"
 
 msgid "start_caption"
-msgstr "DriverPack przeskanuje system, zainstaluje<br/>potrzebne sterowniki i programy i przeprowadzi diagnostykę.<br/> Sprawność komputera powinna się poprawić"
+msgstr "DriverPack przeskanuje system, zainstaluje<br/>potrzebne sterowniki i programy i przeprowadzi diagnostykę. <br/>Sprawność komputera powinna się poprawić."
 
 msgid "start_expert_mode"
 msgstr "Tryb eksperta"
@@ -1165,7 +1166,7 @@ msgstr[2] "Zostanie zainstalowane {{COUNT}} sterowników"
 msgstr[3] "Zostanie zainstalowane {{COUNT}} sterowników"
 
 msgid "start_drivers_popover"
-msgstr "Sterowniki dla Twojego komputera zostały wybrane i są gotowe do instalacji. Zanim zaczniemy zostanie utworzony punkt przywracania systemu."
+msgstr "Sterowniki dla twojego komputera zostały wybrane i są gotowe do instalacji. Zanim zaczniemy zostanie utworzony punkt przywracania systemu."
 
 msgid "start_programs_title"
 msgid_plural "start_programs_title_n"
@@ -1223,13 +1224,13 @@ msgid "installation_header_promo_text_cloud"
 msgstr ""
 
 msgid "installation_header_promo_title_avast"
-msgstr "Co czyni Avast lepszym od innych programów antywirusowych ?"
+msgstr "Co czyni Avast lepszym od innych programów antywirusowych?"
 
 msgid "installation_header_promo_text_avast"
 msgstr ""
 
 msgid "installation_header_promo_title_catalog"
-msgstr "Jak zainstalować sterowniki we własnym zakresie ?"
+msgstr "Jak zainstalować sterowniki we własnym zakresie?"
 
 msgid "installation_header_promo_text_catalog"
 msgstr ""
@@ -1247,7 +1248,7 @@ msgid "installation_header_promo_text_opera"
 msgstr ""
 
 msgid "installation_header_promo_title_how_it_works"
-msgstr "Jak działa DriverPack ?"
+msgstr "Jak działa DriverPack?"
 
 msgid "installation_header_promo_text_how_it_works"
 msgstr ""
@@ -1265,7 +1266,7 @@ msgid "installation_header_promo_text_social"
 msgstr ""
 
 msgid "installation_header_promo_title_protect"
-msgstr "Jak DriverPack pomaga chronić Twój komputer ?"
+msgstr "Jak DriverPack Protect pomóc twój komputer?"
 
 msgid "installation_header_promo_text_protect"
 msgstr ""
@@ -1343,7 +1344,7 @@ msgid "deviceproblems_usb_unknown_vendor"
 msgstr ""
 
 msgid "deviceproblems_sound_card"
-msgstr "Karta dźwiękowa jest źle podłączona lub jest problem z jej działaniem."
+msgstr "Karta dźwiękowa jest źle podłączona lub jest problem z jej działaniem"
 
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"

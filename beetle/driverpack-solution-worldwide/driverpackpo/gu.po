@@ -7,8 +7,8 @@ msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-11-27 10:29+0000\n"
-"PO-Revision-Date: 2017-12-11 04:25+0000\n"
-"Last-Translator: POOJAN JOSHI <joshipoojan.pj@gmail.com>\n"
+"PO-Revision-Date: 2017-12-25 10:33+0000\n"
+"Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Gujarati (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/gu/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -26,16 +26,16 @@ msgid "unauthorize_failed"
 msgstr "લૉગ-આઉટ ભૂલ"
 
 msgid "deviceclasses_bluetooth-single-main"
-msgstr "Bluetooth"
+msgstr "Bluetooth ઉપકરણ"
 
 msgid "deviceclasses_bluetooth-single-for"
-msgstr "Bluetooth device"
+msgstr "Bluetooth ઉપકરણ"
 
 msgid "deviceclasses_bluetooth-plural-main"
-msgstr "Bluetooth devices"
+msgstr "Bluetooth ઉપકરણો"
 
 msgid "deviceclasses_bluetooth-plural-for"
-msgstr "Bluetooth devices"
+msgstr "Bluetooth ઉપકરણો"
 
 msgid "deviceclasses_cardreader-single-main"
 msgstr "કાર્ડ રીડર"
@@ -410,7 +410,7 @@ msgid "settings_bsods-title"
 msgstr "'blue screen of death' (BSoD) નું crash cases અંગે વિશ્લેષણ કરો"
 
 msgid "settings_bsods-caption"
-msgstr "સંભાવના છે કે 'મૃત્યુની વાદળી સ્ક્રીન' (બીએસઓડી) ક્રેશ બનશે તે 0.3% કરતાં ઓછી છે, પરંતુ જો તે બને, તો અમારી એપ્લિકેશન પોતે Windows લોગોનું વિશ્લેષણ કરે છે અને એનાલિટિક્સ સિસ્ટમ માટે રિપોર્ટ જનરેટ કરે છે. આ સંભાવનાને ઘટાડે છે કે આ સમસ્યા આ કમ્પ્યુટર પર અને સમાન રૂપરેખાંકન સાથે અન્ય લોકો પર પુનરાવર્તિત થશે."
+msgstr "સંભાવના છે કે 'મૃત્યુની વાદળી સ્ક્રીન' (BSoD) ક્રેશ બનશે તે 0.3% કરતાં ઓછી છે, પરંતુ જો તે બને, તો અમારી એપ્લિકેશન પોતે Windows લોગોનું વિશ્લેષણ કરે છે અને એનાલિટિક્સ સિસ્ટમ માટે રિપોર્ટ જનરેટ કરે છે. આ સંભાવનાને ઘટાડે છે કે આ સમસ્યા આ કમ્પ્યુટર પર અને સમાન રૂપરેખાંકન સાથે અન્ય લોકો પર પુનરાવર્તિત થશે."
 
 msgid "settings_bsods-anchor"
 msgstr "વધુ જાણો"
@@ -521,7 +521,7 @@ msgid "driver_row_driver-menu-search"
 msgstr "ઇન્ટરનેટ સર્ચ"
 
 msgid "drivers_btn_install_all"
-msgstr "બધુ જ ઇન્સ્ટોલ કરો <b> ({{COUNT}})</b>"
+msgstr "બધુ જ ઇન્સ્ટોલ કરો <b>({{COUNT}})</b>"
 
 msgid "drivers_header_driver_for_computer"
 msgstr "આ કમ્પ્યુટર માટે ડ્રાઇવર્સ"
@@ -598,7 +598,7 @@ msgid "drivers_screen_view_options_os"
 msgstr "OS સંસ્કરણ"
 
 msgid "final_popover_old_driver"
-msgstr "પાછલું driver"
+msgstr "અગાઉના ડ્રાઈવર"
 
 msgid "version"
 msgstr "સંસ્કરણ"
@@ -607,7 +607,7 @@ msgid "date"
 msgstr "તારીખ"
 
 msgid "final_popover_new_driver"
-msgstr "અપડેટેડ driver"
+msgstr "સુધારાશે ડ્રાઈવર"
 
 msgid "final_popover_new_driver_not_installed_caption"
 msgstr "ઇન્સ્ટોલેશન પ્રક્રિયા દરમિયાન એક ભૂલ આવી છે, અને પાછલા driver ને આ ઉપકરણ પર પુનઃસ્થાપિત કરવામાં આવી છે."
@@ -635,7 +635,7 @@ msgid "final_programs_all_failed_title"
 msgstr "0 software પ્રોગ્રામ્સ આઉટ ઓફ {{COUNT}} ઇન્સ્ટોલ થયા"
 
 msgid "final_single_program_failed_title"
-msgstr "software પ્રોગ્રામ ઇન્સ્ટોલ થયેલ નથી"
+msgstr "Software પ્રોગ્રામ ઇન્સ્ટોલ થયેલ નથી"
 
 msgid "final_offline_restart"
 msgstr "નેટવર્ક કનેક્શન મળ્યું છે, કૃપયા DriverPack ને બંધ કરી ફરી એક વખત ચાલુ કરો, તેવું કરવાથી વર્તમાન સંસ્કરણ drivers' ઇન્સ્ટોલ થશે"
@@ -740,7 +740,7 @@ msgid "games_top_game_play"
 msgstr "રમવાનું ચાલું કરો"
 
 msgid "games_playkey_top_title"
-msgstr "નબળા કમ્પ્યુટર <span class='bold'> પર ઉચ્ચતમ સ્તરની ગેમ <br /> </span> ટોચ સેટિંગ્સ પર <span class='games_title-marked bold'> ટોચની રમતો </span> રમો"
+msgstr "<span class='bold'>નબળા કમ્પ્યુટર</span> પર ઉચ્ચતમ સ્તરની ગેમ <br /> ટોચ સેટિંગ્સ પર <span class='games_title-marked bold'>ટોચની રમતો</span> રમો"
 
 msgid "games_playkey_open_catalog_button"
 msgstr "PlayKey સૂચિમાં 150 થી વધુ રમતો"
@@ -803,7 +803,7 @@ msgid "installation_item_category_restorepoint"
 msgstr ""
 
 msgid "driver_class_bluetooth"
-msgstr "Bluetooth"
+msgstr "Bluetooth ઉપકરણ"
 
 msgid "driver_class_cardreader"
 msgstr ""
@@ -1064,7 +1064,7 @@ msgid "protect_row_publisher"
 msgstr ""
 
 msgid "protect_row_version"
-msgstr "સંસ્કરણ"
+msgstr "સંસ્કરણ:"
 
 msgid "protect_row_install_date"
 msgstr ""
@@ -1326,4 +1326,4 @@ msgstr ""
 
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
-msgstr "અંગ્રેજી"
+msgstr "Gujarati"
