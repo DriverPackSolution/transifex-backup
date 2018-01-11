@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-11-22 09:26+0000\n"
+"POT-Creation-Date: 2018-01-11 11:55+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Zsolt Brechler <zsolt.brechler@gmail.com>, 2017\n"
 "Language-Team: Hungarian (https://www.transifex.com/driverpack-solution/teams/75453/hu/)\n"
@@ -302,16 +302,6 @@ msgstr "driverek windows 7 8 10 64 letöltés letöltés PC {{DEVICE.DEVICEID}}"
 msgid "seo_hwid-footer-description"
 msgstr "{{DEVICE.DEVICEID}} driverek letöltése ingyen"
 
-#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets; RU: Пример:
-#. CLASS.PLURAL.MAIN=видеокарты|чипсеты;
-msgid "seo_hwid-footer-application-category"
-msgstr "Kategória: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
-
-#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets; VENDOR.NAME=Acer;
-#. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|чипсеты; VENDOR.NAME=Acer;
-msgid "seo_hwid-footer-application-subcategory"
-msgstr "Alkategória: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}} </span>"
-
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 msgid "seo_hwid-footer-content"
@@ -584,12 +574,6 @@ msgstr "driverek Windows {{OS}} letöltés letöltés PC {{DEVICE.DEVICEID}}"
 
 msgid "seo_hwidos-footer-description"
 msgstr "{{DEVICE.DEVICEID}} eszközdriverek letöltése Windows {{OS}} verzióhoz ingyen"
-
-msgid "seo_hwidos-footer-application-category"
-msgstr "Kategória: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
-
-msgid "seo_hwidos-footer-application-subcategory"
-msgstr "Alkategória: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}} </span>"
 
 msgid "seo_hwidos-footer-content"
 msgstr "{{DEVICE.DEVICEID}}driverek letöltése Windows {{OS}} rendszerhez, vagy telepítse a DriverPack Solution szoftvert a driverkereséshez és frissítéshez"
@@ -1046,3 +1030,21 @@ msgstr "A Lenovo g580 laptop driverei Windows XP, 7, 8, 8.1 vagy 10 rendszerhez 
 
 msgid "seo_notebook-footer-content-asus-x550cc-sound-10-x64"
 msgstr "Itt letöltheti az Asus X550CC laptop drivereit Windows 10x64 rendszerhez ingyen. Emellett letöltheti a DriverPack Solution szoftvert is, mely megvizsgálja a laptopja aktuális drivereit, és a legfrissebb verzióra frissíti őket."
+
+#~ msgid "seo_hwid-footer-application-category"
+#~ msgstr ""
+#~ "Kategória: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+
+#~ msgid "seo_hwid-footer-application-subcategory"
+#~ msgstr ""
+#~ "Alkategória: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} "
+#~ "{{CLASS.PLURAL.MAIN}} </span>"
+
+#~ msgid "seo_hwidos-footer-application-category"
+#~ msgstr ""
+#~ "Kategória: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+
+#~ msgid "seo_hwidos-footer-application-subcategory"
+#~ msgstr ""
+#~ "Alkategória: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} "
+#~ "{{CLASS.PLURAL.MAIN}} </span>"

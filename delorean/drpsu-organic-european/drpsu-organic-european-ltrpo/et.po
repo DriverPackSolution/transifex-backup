@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-11-22 09:26+0000\n"
+"POT-Creation-Date: 2018-01-11 11:55+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>, 2018\n"
 "Language-Team: Estonian (https://www.transifex.com/driverpack-solution/teams/75453/et/)\n"
@@ -302,16 +302,6 @@ msgstr "draiverid windows 7 8 10 64  lae alla lae alla arvuti {{DEVICE.DEVICEID
 msgid "seo_hwid-footer-description"
 msgstr "Lae alla draiverid {{DEVICE.DEVICEID}} seadmele tasuta"
 
-#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets; RU: Пример:
-#. CLASS.PLURAL.MAIN=видеокарты|чипсеты;
-msgid "seo_hwid-footer-application-category"
-msgstr "Kategooria: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
-
-#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets; VENDOR.NAME=Acer;
-#. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|чипсеты; VENDOR.NAME=Acer;
-msgid "seo_hwid-footer-application-subcategory"
-msgstr "Alamkategooria: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
-
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 msgid "seo_hwid-footer-content"
@@ -584,12 +574,6 @@ msgstr "draiverid Windows {{OS}} lae alla lae alla arvuti {{DEVICE.DEVICEID}}"
 
 msgid "seo_hwidos-footer-description"
 msgstr "Lae alla {{DEVICE.DEVICEID}} seadme draiver Windows {{OS}} jaoks tasuta"
-
-msgid "seo_hwidos-footer-application-category"
-msgstr "Kategooria: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
-
-msgid "seo_hwidos-footer-application-subcategory"
-msgstr "Alamkategooria: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_hwidos-footer-content"
 msgstr "Lae alla draiver {{DEVICE.DEVICEID}} seadmele Windows {{OS}} jaoks, või paigalda DriverPack Solution tarkvara, et automaatselt laadida alla ja uuendada draivereid"
@@ -1046,3 +1030,23 @@ msgstr "Draiverid Lenovo g580 sülearvuti jaoks, Windows XP, 7, 8, 8.1 või 10 j
 
 msgid "seo_notebook-footer-content-asus-x550cc-sound-10-x64"
 msgstr "Siit saate te allalaadida draiverid Asus X550CC sülearvutile, Windows 10x64 jaoks tasuta. Siit saate allalaadida ka DriverPack Solution tarkvara - see kontrollib teie sülearvuti praegust draiverite seisu ja uuendab draivereid vastavalt vajadusele."
+
+#~ msgid "seo_hwid-footer-application-category"
+#~ msgstr ""
+#~ "Kategooria: <span "
+#~ "itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+
+#~ msgid "seo_hwid-footer-application-subcategory"
+#~ msgstr ""
+#~ "Alamkategooria: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} "
+#~ "{{CLASS.PLURAL.MAIN}}</span>"
+
+#~ msgid "seo_hwidos-footer-application-category"
+#~ msgstr ""
+#~ "Kategooria: <span "
+#~ "itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+
+#~ msgid "seo_hwidos-footer-application-subcategory"
+#~ msgstr ""
+#~ "Alamkategooria: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} "
+#~ "{{CLASS.PLURAL.MAIN}}</span>"

@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-11-22 09:33+0000\n"
+"POT-Creation-Date: 2018-01-11 11:55+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Kir Tolstopyatov <kir@drp.su>, 2017\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/driverpack-solution/teams/75453/zh_CN/)\n"
@@ -303,16 +303,6 @@ msgstr "下载 PC {{DEVICE.DEVICEID}} 驱动程序"
 msgid "seo_hwid-footer-description"
 msgstr "免费下载 {{DEVICE.DEVICEID}} 设备驱动程序"
 
-#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets; RU: Пример:
-#. CLASS.PLURAL.MAIN=видеокарты|чипсеты;
-msgid "seo_hwid-footer-application-category"
-msgstr "类別: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
-
-#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets; VENDOR.NAME=Acer;
-#. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|чипсеты; VENDOR.NAME=Acer;
-msgid "seo_hwid-footer-application-subcategory"
-msgstr "子类別: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
-
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 msgid "seo_hwid-footer-content"
@@ -585,12 +575,6 @@ msgstr "下载用于 {{DEVICE.DEVICEID}} Windows {{OS}} 驱动程序"
 
 msgid "seo_hwidos-footer-description"
 msgstr "免费下载 Windows {{OS}} 的 {{DEVICE.DEVICEID}} 设备驱动程序"
-
-msgid "seo_hwidos-footer-application-category"
-msgstr "类別: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
-
-msgid "seo_hwidos-footer-application-subcategory"
-msgstr "子类別: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_hwidos-footer-content"
 msgstr "下载用于 Windows {{OS}} 的 {{DEVICE.DEVICEID}} 设备驱动程序，或安装 DriverPack Solution 软件来自动安装更新驱动程序"
@@ -1047,3 +1031,19 @@ msgstr " 适用于 Windows XP, 7, 8, 8.1 或 10 的联想 g580 笔记本电脑�
 
 msgid "seo_notebook-footer-content-asus-x550cc-sound-10-x64"
 msgstr "在这里您可以免费下载适用于 Windows 10 x64 的华硕 X550CC 笔记本电脑的驱动程序。您还可以下载 DriverPack Solution 软件 - 它将评估笔记本电脑上驱动程序的当前状态，并将其更新为最新的版本。"
+
+#~ msgid "seo_hwid-footer-application-category"
+#~ msgstr "类別: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+
+#~ msgid "seo_hwid-footer-application-subcategory"
+#~ msgstr ""
+#~ "子类別: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} "
+#~ "{{CLASS.PLURAL.MAIN}}</span>"
+
+#~ msgid "seo_hwidos-footer-application-category"
+#~ msgstr "类別: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+
+#~ msgid "seo_hwidos-footer-application-subcategory"
+#~ msgstr ""
+#~ "子类別: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} "
+#~ "{{CLASS.PLURAL.MAIN}}</span>"

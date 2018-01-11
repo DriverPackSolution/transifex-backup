@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-11-22 09:26+0000\n"
+"POT-Creation-Date: 2018-01-11 11:55+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>, 2017\n"
 "Language-Team: Catalan (https://www.transifex.com/driverpack-solution/teams/75453/ca/)\n"
@@ -302,16 +302,6 @@ msgstr "controladors windows 7 8 10 64 descàrrega descarregar ordinador {{DEVIC
 msgid "seo_hwid-footer-description"
 msgstr "Descarrega el controlador per al dispositiu {{DEVICE.DEVICEID}} gratuïtament"
 
-#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets; RU: Пример:
-#. CLASS.PLURAL.MAIN=видеокарты|чипсеты;
-msgid "seo_hwid-footer-application-category"
-msgstr "Categoria: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
-
-#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets; VENDOR.NAME=Acer;
-#. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|чипсеты; VENDOR.NAME=Acer;
-msgid "seo_hwid-footer-application-subcategory"
-msgstr "Subcategoria: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}} {{VENDOR.NAME}}</span>"
-
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 msgid "seo_hwid-footer-content"
@@ -584,12 +574,6 @@ msgstr "controladors Windows {{OS}} descàrrega descarregar ordinador {{DEVICE.D
 
 msgid "seo_hwidos-footer-description"
 msgstr "Descarrega els controladors per al dispositiu {{DEVICE.DEVICEID}} per a Windows {{OS}} gratuïtament"
-
-msgid "seo_hwidos-footer-application-category"
-msgstr "Categoria: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
-
-msgid "seo_hwidos-footer-application-subcategory"
-msgstr "Subcategoria: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}} {{VENDOR.NAME}}</span>"
 
 msgid "seo_hwidos-footer-content"
 msgstr "Descarrega el controlador per al dispositiu {{DEVICE.DEVICEID}} per a Windows {{OS}}, o instal·la l'aplicació DriverPack Solution per a la descàrrega i actualització automàtica de controladors."
@@ -1046,3 +1030,21 @@ msgstr "Els controladors per al portàtil Lenovo g580 per a Windows XP, 7, 8, 8.
 
 msgid "seo_notebook-footer-content-asus-x550cc-sound-10-x64"
 msgstr "Aquí podeu descarregar els controladors per al portàtil Asus X550CC per a Windows 10 x64 gratuïtament. També podeu descarregar l'aplicació DriverPack Solution - comprovarà l'estat actual dels controladors del vostre portàtil i els actualitzarà a la versió més recent."
+
+#~ msgid "seo_hwid-footer-application-category"
+#~ msgstr ""
+#~ "Categoria: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+
+#~ msgid "seo_hwid-footer-application-subcategory"
+#~ msgstr ""
+#~ "Subcategoria: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}} "
+#~ "{{VENDOR.NAME}}</span>"
+
+#~ msgid "seo_hwidos-footer-application-category"
+#~ msgstr ""
+#~ "Categoria: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+
+#~ msgid "seo_hwidos-footer-application-subcategory"
+#~ msgstr ""
+#~ "Subcategoria: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}} "
+#~ "{{VENDOR.NAME}}</span>"

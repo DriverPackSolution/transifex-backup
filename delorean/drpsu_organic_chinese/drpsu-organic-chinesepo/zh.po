@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-11-22 09:33+0000\n"
+"POT-Creation-Date: 2018-01-11 11:55+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: danfong <danfong.hsieh@gmail.com>, 2017\n"
 "Language-Team: Chinese (https://www.transifex.com/driverpack-solution/teams/75453/zh/)\n"
@@ -302,16 +302,6 @@ msgstr "下载 PC {{DEVICE.DEVICEID}} 驱动"
 msgid "seo_hwid-footer-description"
 msgstr "免費下載 {{DEVICE.DEVICEID}} 裝置驅動程式"
 
-#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets; RU: Пример:
-#. CLASS.PLURAL.MAIN=видеокарты|чипсеты;
-msgid "seo_hwid-footer-application-category"
-msgstr "類別: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
-
-#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets; VENDOR.NAME=Acer;
-#. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|чипсеты; VENDOR.NAME=Acer;
-msgid "seo_hwid-footer-application-subcategory"
-msgstr ""
-
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 msgid "seo_hwid-footer-content"
@@ -584,12 +574,6 @@ msgstr "下载用于 {{DEVICE.DEVICEID}} Windows {{OS}} 驱动程序"
 
 msgid "seo_hwidos-footer-description"
 msgstr "免費下載適用於 Windows {{OS}} 的 {{DEVICE.DEVICEID}} 裝置驅動程式"
-
-msgid "seo_hwidos-footer-application-category"
-msgstr "類別: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
-
-msgid "seo_hwidos-footer-application-subcategory"
-msgstr ""
 
 msgid "seo_hwidos-footer-content"
 msgstr "下載適用於 Windows {{OS}} 的 {{DEVICE.DEVICEID}} 裝置驅動程式，或安裝 DriverPack Solution 軟體來自動下載、更新驅動程式"
@@ -1046,3 +1030,15 @@ msgstr ""
 
 msgid "seo_notebook-footer-content-asus-x550cc-sound-10-x64"
 msgstr "在這裡您可以免費下載適用於 Windows 10x64 的 Asus X550CC 筆記型電腦的驅動程式。您還可以下載 DriverPack Solution 軟體 - 它將評估筆記型電腦上驅動程式的目前狀態，並將其更新為最新的版本。"
+
+#~ msgid "seo_hwid-footer-application-category"
+#~ msgstr "類別: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+
+#~ msgid "seo_hwid-footer-application-subcategory"
+#~ msgstr ""
+
+#~ msgid "seo_hwidos-footer-application-category"
+#~ msgstr "類別: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+
+#~ msgid "seo_hwidos-footer-application-subcategory"
+#~ msgstr ""

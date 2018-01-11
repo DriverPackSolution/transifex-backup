@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-11-22 09:26+0000\n"
+"POT-Creation-Date: 2018-01-11 11:55+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Mihael Wagner <mihaelwa@gmail.com>, 2017\n"
 "Language-Team: Croatian (https://www.transifex.com/driverpack-solution/teams/75453/hr/)\n"
@@ -302,16 +302,6 @@ msgstr "upravljački programi windows 7 8 10 64 preuzimanje preuzmite osobno ra�
 msgid "seo_hwid-footer-description"
 msgstr "Besplatno preuzmite upravljačke programe za uređaj {{DEVICE.DEVICEID}}"
 
-#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets; RU: Пример:
-#. CLASS.PLURAL.MAIN=видеокарты|чипсеты;
-msgid "seo_hwid-footer-application-category"
-msgstr "Kategorija: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
-
-#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets; VENDOR.NAME=Acer;
-#. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|чипсеты; VENDOR.NAME=Acer;
-msgid "seo_hwid-footer-application-subcategory"
-msgstr ""
-
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 msgid "seo_hwid-footer-content"
@@ -584,12 +574,6 @@ msgstr "upravljački programi Windows {{OS}} preuzmite preuzimanje osobno račun
 
 msgid "seo_hwidos-footer-description"
 msgstr "Besplatno preuzmite upravljačke programe uređaja {{DEVICE.DEVICEID}} za Windows {{OS}}"
-
-msgid "seo_hwidos-footer-application-category"
-msgstr "Kategorija: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
-
-msgid "seo_hwidos-footer-application-subcategory"
-msgstr ""
 
 msgid "seo_hwidos-footer-content"
 msgstr "Preuzmite upravljački program za uređaj {{DEVICE.DEVICEID}} za Windows {{OS}} ili instalirajte program DriverPack Solution za automatsko ažuriranje i preuzimanje upravljačkih programa"
@@ -1046,3 +1030,19 @@ msgstr ""
 
 msgid "seo_notebook-footer-content-asus-x550cc-sound-10-x64"
 msgstr "Ovdje možete besplatno preuzeti upravljačke programe za prijenosno računalo Asus X550CC za za 64 - bitnu verziju operacijskog sustava Windows 10. Možete i preuzeti naš program DriverPack Solution - prikazat će stanje upravljačkih programa na Vašem prijenosnom računalu i ažurirati ih na najnoviju dostupnu verziju."
+
+#~ msgid "seo_hwid-footer-application-category"
+#~ msgstr ""
+#~ "Kategorija: <span "
+#~ "itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+
+#~ msgid "seo_hwid-footer-application-subcategory"
+#~ msgstr ""
+
+#~ msgid "seo_hwidos-footer-application-category"
+#~ msgstr ""
+#~ "Kategorija: <span "
+#~ "itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+
+#~ msgid "seo_hwidos-footer-application-subcategory"
+#~ msgstr ""

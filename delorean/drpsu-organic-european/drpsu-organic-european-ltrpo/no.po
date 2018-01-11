@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-11-22 09:26+0000\n"
+"POT-Creation-Date: 2018-01-11 11:55+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Harry Eliassen <harryemail@gmail.com>, 2017\n"
 "Language-Team: Norwegian (https://www.transifex.com/driverpack-solution/teams/75453/no/)\n"
@@ -302,16 +302,6 @@ msgstr "drivere windows 7 8 10 64 nedlasting nedlasting PC {{DEVICE.DEVICEID}}"
 msgid "seo_hwid-footer-description"
 msgstr "Last ned gratis drivere for {{DEVICE.DEVICEID}} enheter"
 
-#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets; RU: Пример:
-#. CLASS.PLURAL.MAIN=видеокарты|чипсеты;
-msgid "seo_hwid-footer-application-category"
-msgstr "Kategori: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
-
-#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets; VENDOR.NAME=Acer;
-#. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|чипсеты; VENDOR.NAME=Acer;
-msgid "seo_hwid-footer-application-subcategory"
-msgstr "Subkategori: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
-
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 msgid "seo_hwid-footer-content"
@@ -584,12 +574,6 @@ msgstr "drivere Windows {{OS}} nedlasting nedlasting PC {{DEVICE.DEVICEID}}"
 
 msgid "seo_hwidos-footer-description"
 msgstr "Last ned gratis {{DEVICE.DEVICEID}} enhets drivere for Windows {{OS}}"
-
-msgid "seo_hwidos-footer-application-category"
-msgstr "Kategori: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
-
-msgid "seo_hwidos-footer-application-subcategory"
-msgstr "Subkategori: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_hwidos-footer-content"
 msgstr "Last ned driver for {{DEVICE.DEVICEID}} enhet for Windows {{OS}}, eller installer DriverPack Solution programvare for automatisk driver nedlasting og oppdatering"
@@ -1046,3 +1030,21 @@ msgstr "Driverne til Lenovo g580 bærbare for Windows XP, 7, 8, 8.1 eller 10 er 
 
 msgid "seo_notebook-footer-content-asus-x550cc-sound-10-x64"
 msgstr "Her kan du laste ned driverne for Asus X550CC bærbare for Windows 10x64 gratis. Du kan også laste ned DriverPack Solution programvare - den vil vurdere den nåværende tilstanden til driverne på den bærbare datamaskinen og oppdatere dem til den nyeste oppdaterte versjonen."
+
+#~ msgid "seo_hwid-footer-application-category"
+#~ msgstr ""
+#~ "Kategori: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+
+#~ msgid "seo_hwid-footer-application-subcategory"
+#~ msgstr ""
+#~ "Subkategori: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} "
+#~ "{{CLASS.PLURAL.MAIN}}</span>"
+
+#~ msgid "seo_hwidos-footer-application-category"
+#~ msgstr ""
+#~ "Kategori: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+
+#~ msgid "seo_hwidos-footer-application-subcategory"
+#~ msgstr ""
+#~ "Subkategori: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} "
+#~ "{{CLASS.PLURAL.MAIN}}</span>"

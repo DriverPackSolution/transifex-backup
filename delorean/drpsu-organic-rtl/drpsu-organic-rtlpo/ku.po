@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-11-22 09:33+0000\n"
+"POT-Creation-Date: 2018-01-11 11:55+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>, 2017\n"
 "Language-Team: Kurdish (https://www.transifex.com/driverpack-solution/teams/75453/ku/)\n"
@@ -302,16 +302,6 @@ msgstr "پێناسه‌كانی windows 7 8 10 64 داببه‌زێنه‌ دا�
 msgid "seo_hwid-footer-description"
 msgstr "دابه‌زاندنی پێناسه‌كان بۆ ئامێری {{DEVICE.DEVICEID}} به‌ خۆڕایی"
 
-#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets; RU: Пример:
-#. CLASS.PLURAL.MAIN=видеокарты|чипсеты;
-msgid "seo_hwid-footer-application-category"
-msgstr "جۆر:<span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
-
-#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets; VENDOR.NAME=Acer;
-#. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|чипсеты; VENDOR.NAME=Acer;
-msgid "seo_hwid-footer-application-subcategory"
-msgstr ""
-
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 msgid "seo_hwid-footer-content"
@@ -584,12 +574,6 @@ msgstr "پێناسه‌كانی Windows{{OS}} داببه‌زێنه‌ دابب�
 
 msgid "seo_hwidos-footer-description"
 msgstr "دابه‌زاندنی پێناسه‌كانی ئامێری {{DEVICE.DEVICEID}} بۆ Windows{{OS}} به‌ خۆڕایی"
-
-msgid "seo_hwidos-footer-application-category"
-msgstr "جۆر: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
-
-msgid "seo_hwidos-footer-application-subcategory"
-msgstr ""
 
 msgid "seo_hwidos-footer-content"
 msgstr "دابه‌زاندنی پێناسه‌ بۆ ئامێری {{DEVICE.DEVICEID}} بۆ Windows {{OS}}، یان دامه‌زراندنی نه‌رمه‌كاڵای DriverPack Solution  بۆ دابه‌زاندن و نوێكردنه‌وه‌ی پێناسه‌ به‌ ئۆتۆماتیكی"
@@ -1046,3 +1030,16 @@ msgstr ""
 
 msgid "seo_notebook-footer-content-asus-x550cc-sound-10-x64"
 msgstr "تۆ لێره‌دا ده‌توانیت پێناسه‌كان دا ببه‌زێنیت بۆ لاپتۆپی Asus X550CC بۆ Windows 10x64 به‌ خۆڕایی. هه‌روه‌ها تۆ ده‌توانیت نه‌رمه‌كاڵای DriverPack Solution به‌كاربهێنیت - ئه‌وحاڵه‌تی ئێستای پێناسه‌كان هه‌ڵده‌سه‌نگێنێت له‌ لاپتۆپه‌كه‌تدا وه‌ نوێیانده‌كاته‌وه‌ بۆ نوێترین و كۆتاترین نوسخه‌."
+
+#~ msgid "seo_hwid-footer-application-category"
+#~ msgstr "جۆر:<span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+
+#~ msgid "seo_hwid-footer-application-subcategory"
+#~ msgstr ""
+
+#~ msgid "seo_hwidos-footer-application-category"
+#~ msgstr ""
+#~ "جۆر: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+
+#~ msgid "seo_hwidos-footer-application-subcategory"
+#~ msgstr ""

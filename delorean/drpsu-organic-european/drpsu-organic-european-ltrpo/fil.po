@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-11-22 09:26+0000\n"
+"POT-Creation-Date: 2018-01-11 11:55+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: leyahn mallorca <leyahnmallorca110198@gmail.com>, 2017\n"
 "Language-Team: Filipino (https://www.transifex.com/driverpack-solution/teams/75453/fil/)\n"
@@ -303,16 +303,6 @@ msgstr "mga driver para sa windows 7 8 10 64 i-download i-download para sa PC {{
 msgid "seo_hwid-footer-description"
 msgstr "I-download ang mga driver para sa {{DEVICE.DEVICEID}} device ng libre"
 
-#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets; RU: Пример:
-#. CLASS.PLURAL.MAIN=видеокарты|чипсеты;
-msgid "seo_hwid-footer-application-category"
-msgstr "Kategorya: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
-
-#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets; VENDOR.NAME=Acer;
-#. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|чипсеты; VENDOR.NAME=Acer;
-msgid "seo_hwid-footer-application-subcategory"
-msgstr "Subcategory: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
-
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 msgid "seo_hwid-footer-content"
@@ -585,12 +575,6 @@ msgstr "drivers Windows {{OS}} i-download i-download PC {{DEVICE.DEVICEID}}"
 
 msgid "seo_hwidos-footer-description"
 msgstr "I-download ang {{DEVICE.DEVICEID}} driver sa Windows {{OS}} ng libre"
-
-msgid "seo_hwidos-footer-application-category"
-msgstr "Kategorya: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
-
-msgid "seo_hwidos-footer-application-subcategory"
-msgstr "Subcategory: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_hwidos-footer-content"
 msgstr "I-download ang driver para sa {{DEVICE.DEVICEID}} na device para sa Windows {{OS}}, o i-install ang DriverPack Solution software para sa awtomatikong pag-download at pag-update ng driver"
@@ -1047,3 +1031,21 @@ msgstr "Sa seksyon na ito maari mong i-download ang mga driver ng Lenovo g580 la
 
 msgid "seo_notebook-footer-content-asus-x550cc-sound-10-x64"
 msgstr "Dito maaari mong i-download ang mga driver para sa Asus X550CC laptop para sa Windows 10x64 nang libre. Maaari mo ring i-download ang software ng DriverPack Solution - masusukat at malalaman nito ang kasalukuyang estado ng mga driver sa iyong laptop at i-update ang mga ito sa pinakabagong bersyon."
+
+#~ msgid "seo_hwid-footer-application-category"
+#~ msgstr ""
+#~ "Kategorya: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+
+#~ msgid "seo_hwid-footer-application-subcategory"
+#~ msgstr ""
+#~ "Subcategory: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} "
+#~ "{{CLASS.PLURAL.MAIN}}</span>"
+
+#~ msgid "seo_hwidos-footer-application-category"
+#~ msgstr ""
+#~ "Kategorya: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+
+#~ msgid "seo_hwidos-footer-application-subcategory"
+#~ msgstr ""
+#~ "Subcategory: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} "
+#~ "{{CLASS.PLURAL.MAIN}}</span>"

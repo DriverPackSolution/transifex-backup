@@ -14,7 +14,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-11-22 09:33+0000\n"
+"POT-Creation-Date: 2018-01-11 11:55+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Emad Abdo <3omda3bdo@gmail.com>, 2017\n"
 "Language-Team: Arabic (https://www.transifex.com/driverpack-solution/teams/75453/ar/)\n"
@@ -311,16 +311,6 @@ msgstr "تعريفات windows 7 8 10 للنواة 64 تحميل تحميل كم
 msgid "seo_hwid-footer-description"
 msgstr "تحميل التعريفات من أجل {{DEVICE.DEVICEID}} الجهاز مجاناً"
 
-#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets; RU: Пример:
-#. CLASS.PLURAL.MAIN=видеокарты|чипсеты;
-msgid "seo_hwid-footer-application-category"
-msgstr "الفئة: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
-
-#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets; VENDOR.NAME=Acer;
-#. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|чипсеты; VENDOR.NAME=Acer;
-msgid "seo_hwid-footer-application-subcategory"
-msgstr "الفئة الفرعيه: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
-
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 msgid "seo_hwid-footer-content"
@@ -593,12 +583,6 @@ msgstr "تعريفات نظام تشغيل Windows {{OS}} تحميل تحميل 
 
 msgid "seo_hwidos-footer-description"
 msgstr "تحميل تعريف جهاز {{DEVICE.DEVICEID}} على نظام تشغيل Windows {{OS}} مجانا"
-
-msgid "seo_hwidos-footer-application-category"
-msgstr "الفئة: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
-
-msgid "seo_hwidos-footer-application-subcategory"
-msgstr "الفئة الفرعية: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_hwidos-footer-content"
 msgstr "تحميل تعريف جهاز {{DEVICE.DEVICEID}} على نظام تشغيل Windows {{OS}}, أو تثبيت برنامج DriverPack Solution لتحميل والتحديث التعريف تلقائيا"
@@ -1055,3 +1039,21 @@ msgstr ""
 
 msgid "seo_notebook-footer-content-asus-x550cc-sound-10-x64"
 msgstr "هنا يمكنك تحميل تعاريف للكمبيوتر المحمول  Asus X550CC  لنظام التشغيل Windows 10x64 مجانا . يمكنك أيضا تحميل برنامج DriverPack Solution  الذي يقوم بفحص التعاريف الحالية على حاسوبك وتحديثها الى آخر إصدار متوفر ."
+
+#~ msgid "seo_hwid-footer-application-category"
+#~ msgstr ""
+#~ "الفئة: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+
+#~ msgid "seo_hwid-footer-application-subcategory"
+#~ msgstr ""
+#~ "الفئة الفرعيه: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} "
+#~ "{{CLASS.PLURAL.MAIN}}</span>"
+
+#~ msgid "seo_hwidos-footer-application-category"
+#~ msgstr ""
+#~ "الفئة: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+
+#~ msgid "seo_hwidos-footer-application-subcategory"
+#~ msgstr ""
+#~ "الفئة الفرعية: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} "
+#~ "{{CLASS.PLURAL.MAIN}}</span>"

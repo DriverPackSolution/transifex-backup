@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-11-22 09:33+0000\n"
+"POT-Creation-Date: 2018-01-11 11:55+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Raheel  Baig <imrb@live.com>, 2017\n"
 "Language-Team: Urdu (https://www.transifex.com/driverpack-solution/teams/75453/ur/)\n"
@@ -303,16 +303,6 @@ msgstr "ڈرائیور  windows 7 8 10 64 ڈاؤن لوڈ ڈاؤن لوڈ پی �
 msgid "seo_hwid-footer-description"
 msgstr "{{DEVICE.DEVICEID}} آلہ کیلئے مفت ڈرائیور ڈاؤن لوڈ کریں"
 
-#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets; RU: Пример:
-#. CLASS.PLURAL.MAIN=видеокарты|чипсеты;
-msgid "seo_hwid-footer-application-category"
-msgstr "زمرہ: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
-
-#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets; VENDOR.NAME=Acer;
-#. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|чипсеты; VENDOR.NAME=Acer;
-msgid "seo_hwid-footer-application-subcategory"
-msgstr "ذیلی زمرہ: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
-
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 msgid "seo_hwid-footer-content"
@@ -585,12 +575,6 @@ msgstr "ڈرائیور Windows {{OS}} ڈاؤن لوڈ پی سی {{DEVICE.DEVICEI
 
 msgid "seo_hwidos-footer-description"
 msgstr "{{DEVICE.DEVICEID}} Windows {{OS}} کیلئے مفت ڈرائیوروں کو ڈاؤن لوڈ کریں"
-
-msgid "seo_hwidos-footer-application-category"
-msgstr "زمرہ: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
-
-msgid "seo_hwidos-footer-application-subcategory"
-msgstr "ذیلی زمرہ: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_hwidos-footer-content"
 msgstr "Windows {{OS}} کیلئے {{DEVICE.DEVICEID}} آلہ کیلئے ڈرائیور ڈاؤن لوڈ کریں، یا خود کار طریقے سے ڈرائیور ڈاؤن لوڈ کرنے اور اپ ڈیٹ کیلئے DriverPack Solution سافٹ ویئر انسٹال کریں."
@@ -1047,3 +1031,21 @@ msgstr "Windows XP, 7, 8, 8.1, 9, 10  کے لئے Lenovo g580 لیپ ٹاپ کے
 
 msgid "seo_notebook-footer-content-asus-x550cc-sound-10-x64"
 msgstr "یہاں سے آپ Asus X550CC کے ڈرائیورز Windows 10x64 کے لیے مفت حاصل کر سکتے ہیں. آپ DriverPack Solution سافٹ ویئر کو بھی ڈاؤن لوڈ کرسکتے ہیں. یہ آپ کے لیپ ٹاپ پر ڈرائیوروں کی موجودہ حالت کا جائزہ لے گا اور تازہ ترین ورژن کو اپ ڈیٹ کرے گا."
+
+#~ msgid "seo_hwid-footer-application-category"
+#~ msgstr ""
+#~ "زمرہ: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+
+#~ msgid "seo_hwid-footer-application-subcategory"
+#~ msgstr ""
+#~ "ذیلی زمرہ: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} "
+#~ "{{CLASS.PLURAL.MAIN}}</span>"
+
+#~ msgid "seo_hwidos-footer-application-category"
+#~ msgstr ""
+#~ "زمرہ: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+
+#~ msgid "seo_hwidos-footer-application-subcategory"
+#~ msgstr ""
+#~ "ذیلی زمرہ: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} "
+#~ "{{CLASS.PLURAL.MAIN}}</span>"

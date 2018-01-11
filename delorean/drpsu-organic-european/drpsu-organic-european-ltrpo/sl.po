@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-11-22 09:26+0000\n"
+"POT-Creation-Date: 2018-01-11 11:55+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: ales rakovic <alesrakovic96@gmail.com>, 2017\n"
 "Language-Team: Slovenian (https://www.transifex.com/driverpack-solution/teams/75453/sl/)\n"
@@ -302,16 +302,6 @@ msgstr "gonilniki windows 7 8 10 64 prenos prenos PC {{DEVICE.DEVICEID}}"
 msgid "seo_hwid-footer-description"
 msgstr "Prenos gonilnikov za {{DEVICE.DEVICEID}} naprava za brezplačno"
 
-#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets; RU: Пример:
-#. CLASS.PLURAL.MAIN=видеокарты|чипсеты;
-msgid "seo_hwid-footer-application-category"
-msgstr "Kategorija: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
-
-#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets; VENDOR.NAME=Acer;
-#. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|чипсеты; VENDOR.NAME=Acer;
-msgid "seo_hwid-footer-application-subcategory"
-msgstr "Podkategorija:<span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
-
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 msgid "seo_hwid-footer-content"
@@ -584,12 +574,6 @@ msgstr "gonilniki Windows {{OS}} prenos prenos PC {{DEVICE.DEVICEID}}"
 
 msgid "seo_hwidos-footer-description"
 msgstr "Brezplačen prenos gonilnikov za napravo {{DEVICE.DEVICEID}} za Windows {{OS}}"
-
-msgid "seo_hwidos-footer-application-category"
-msgstr "Kategorija: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
-
-msgid "seo_hwidos-footer-application-subcategory"
-msgstr "Podkategorija: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_hwidos-footer-content"
 msgstr "Prenos gonilnike za napravo {{DEVICE.DEVICEID}} za Windows {{OS}}, ali namestite program DriverPack Solution za samodejno prenos  in nadgradnjo gonilnikov"
@@ -1046,3 +1030,23 @@ msgstr "Gonilniki za prenosnik Lenovo g580 v sistemih Windows XP, 7, 8, 8.1 ali 
 
 msgid "seo_notebook-footer-content-asus-x550cc-sound-10-x64"
 msgstr "V tem zavihku lahko prenesete gonilnike za Asus X550CC prenosnik v OS Windows 10x64 popolnoma brezplačno. Lahko pa uporabite naš program DriverPack Solution - preveril bo stanje vaših gonilnikov in po potrebi izbral ter nadgradil izbrane gonilnike na najsodobnejšo verzijo."
+
+#~ msgid "seo_hwid-footer-application-category"
+#~ msgstr ""
+#~ "Kategorija: <span "
+#~ "itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+
+#~ msgid "seo_hwid-footer-application-subcategory"
+#~ msgstr ""
+#~ "Podkategorija:<span itemprop='applicationSubCategory'>{{VENDOR.NAME}} "
+#~ "{{CLASS.PLURAL.MAIN}}</span>"
+
+#~ msgid "seo_hwidos-footer-application-category"
+#~ msgstr ""
+#~ "Kategorija: <span "
+#~ "itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+
+#~ msgid "seo_hwidos-footer-application-subcategory"
+#~ msgstr ""
+#~ "Podkategorija: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} "
+#~ "{{CLASS.PLURAL.MAIN}}</span>"

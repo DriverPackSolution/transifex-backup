@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-11-22 09:26+0000\n"
+"POT-Creation-Date: 2018-01-11 11:55+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: ivan Montibeller <terrivelmenteivan@hotmail.com>, 2017\n"
 "Language-Team: Portuguese (Brazil) (https://www.transifex.com/driverpack-solution/teams/75453/pt_BR/)\n"
@@ -304,16 +304,6 @@ msgstr "drivers windows 7 8 10 64 baixar baixar PC {{DEVICE.DEVICEID}}"
 msgid "seo_hwid-footer-description"
 msgstr "Baixar drivers para o dispositivo {{DEVICE.DEVICEID}} gratuitamente"
 
-#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets; RU: Пример:
-#. CLASS.PLURAL.MAIN=видеокарты|чипсеты;
-msgid "seo_hwid-footer-application-category"
-msgstr "Categoria: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
-
-#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets; VENDOR.NAME=Acer;
-#. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|чипсеты; VENDOR.NAME=Acer;
-msgid "seo_hwid-footer-application-subcategory"
-msgstr "Subcategoria: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}} da {{VENDOR.NAME}} </span>"
-
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 msgid "seo_hwid-footer-content"
@@ -586,12 +576,6 @@ msgstr "drivers Windows {{OS}}baixar baixar PC {{DEVICE.DEVICEID}}"
 
 msgid "seo_hwidos-footer-description"
 msgstr "Baixe os drivers do dispositivo {{DEVICE.DEVICEID}} para o Windows {{OS}} gratuitamente"
-
-msgid "seo_hwidos-footer-application-category"
-msgstr "Categoria: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
-
-msgid "seo_hwidos-footer-application-subcategory"
-msgstr "Subcategoria: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}} da {{VENDOR.NAME}}</span> "
 
 msgid "seo_hwidos-footer-content"
 msgstr "Baixe o driver para o dispositivo {{DEVICE.DEVICEID}} para o Windows {{OS}}, ou instale o programa DriverPack Solution para baixar e atualizar o driver automaticamente"
@@ -1048,3 +1032,21 @@ msgstr "Os drivers do notebook Lenovo g580 para o Windows XP, 7, 8, 8.1 ou 10 
 
 msgid "seo_notebook-footer-content-asus-x550cc-sound-10-x64"
 msgstr "Aqui você pode baixar gratuitamente os drivers do notebook Asus X550CC para Windows 10x64. Você também pode baixar o programa DriverPack Solution - ele avaliará a situação atual dos drivers em seu notebook e os atualizará para a versão mais recente."
+
+#~ msgid "seo_hwid-footer-application-category"
+#~ msgstr ""
+#~ "Categoria: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+
+#~ msgid "seo_hwid-footer-application-subcategory"
+#~ msgstr ""
+#~ "Subcategoria: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}} "
+#~ "da {{VENDOR.NAME}} </span>"
+
+#~ msgid "seo_hwidos-footer-application-category"
+#~ msgstr ""
+#~ "Categoria: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+
+#~ msgid "seo_hwidos-footer-application-subcategory"
+#~ msgstr ""
+#~ "Subcategoria: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}} "
+#~ "da {{VENDOR.NAME}}</span> "

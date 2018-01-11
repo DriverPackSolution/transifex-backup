@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-11-22 09:26+0000\n"
+"POT-Creation-Date: 2018-01-11 11:55+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: ᅠOrrhan <ofy.site@outlook.com>, 2017\n"
 "Language-Team: Turkish (https://www.transifex.com/driverpack-solution/teams/75453/tr/)\n"
@@ -303,16 +303,6 @@ msgstr "sürücüler windows 7 8 10 64 indirin PC {{DEVICE.DEVICEID}}"
 msgid "seo_hwid-footer-description"
 msgstr "{{DEVICE.DEVICEID}} aygıtı için sürücüleri ücretsiz indirin"
 
-#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets; RU: Пример:
-#. CLASS.PLURAL.MAIN=видеокарты|чипсеты;
-msgid "seo_hwid-footer-application-category"
-msgstr "Kategori: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
-
-#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets; VENDOR.NAME=Acer;
-#. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|чипсеты; VENDOR.NAME=Acer;
-msgid "seo_hwid-footer-application-subcategory"
-msgstr "Alt kategori: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
-
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 msgid "seo_hwid-footer-content"
@@ -585,12 +575,6 @@ msgstr "sürücüler Windows {{OS}} indirin indirin PC {{DEVICE.DEVICEID}}"
 
 msgid "seo_hwidos-footer-description"
 msgstr "Windows {{OS}} için {{DEVICE.DEVICEID}} aygıtı sürücülerini ücretsiz indirin"
-
-msgid "seo_hwidos-footer-application-category"
-msgstr "Kategori: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
-
-msgid "seo_hwidos-footer-application-subcategory"
-msgstr "Alt kategori: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}}  {{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_hwidos-footer-content"
 msgstr "Windows {{OS}} için {{DEVICE.DEVICEID}} aygıtının sürücüsünü indirin, ya da otomatik sürücü kurulumu ve güncelleme için DriverPack Solution yazılımını yükleyin"
@@ -1047,3 +1031,21 @@ msgstr "Windows XP, 7, 8, 8.1 veya 10 için Lenovo G580 dizüstü sürücüleri 
 
 msgid "seo_notebook-footer-content-asus-x550cc-sound-10-x64"
 msgstr "Buradan Windows10x64 uyumlu Asus X550CC dizüstü sürücülerini ücretsiz olarak indirebilirsiniz. Aynı zamanda DriverPack Solution yazılımını da indirebilirsiniz, bu program sürücülerin şu andaki versiyonlarını en son güncellenen halleri ile karşılaştırarak otomatik olarak günceller."
+
+#~ msgid "seo_hwid-footer-application-category"
+#~ msgstr ""
+#~ "Kategori: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+
+#~ msgid "seo_hwid-footer-application-subcategory"
+#~ msgstr ""
+#~ "Alt kategori: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} "
+#~ "{{CLASS.PLURAL.MAIN}}</span>"
+
+#~ msgid "seo_hwidos-footer-application-category"
+#~ msgstr ""
+#~ "Kategori: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+
+#~ msgid "seo_hwidos-footer-application-subcategory"
+#~ msgstr ""
+#~ "Alt kategori: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}}  "
+#~ "{{CLASS.PLURAL.MAIN}}</span>"

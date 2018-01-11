@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-11-22 09:26+0000\n"
+"POT-Creation-Date: 2018-01-11 11:55+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Shahriar Latif <shahriarmithunewuu@gmail.com>, 2017\n"
 "Language-Team: Bengali (https://www.transifex.com/driverpack-solution/teams/75453/bn/)\n"
@@ -303,16 +303,6 @@ msgstr "windows 7 8 10 64 ড্রাইভারসমূহ ডাউনল�
 msgid "seo_hwid-footer-description"
 msgstr "বিনামূল্যে যন্ত্র {{DEVICE.DEVICEID}} এর জন্য ড্রাইভারসমূহ ডাউনলোড "
 
-#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets; RU: Пример:
-#. CLASS.PLURAL.MAIN=видеокарты|чипсеты;
-msgid "seo_hwid-footer-application-category"
-msgstr "শ্রেণি: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
-
-#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets; VENDOR.NAME=Acer;
-#. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|чипсеты; VENDOR.NAME=Acer;
-msgid "seo_hwid-footer-application-subcategory"
-msgstr "উপশ্রেণি: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
-
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 msgid "seo_hwid-footer-content"
@@ -585,12 +575,6 @@ msgstr "ড্রাইভারসমূহ Windows {{OS}} ডাউনলো�
 
 msgid "seo_hwidos-footer-description"
 msgstr "Windows {{OS}} এর জন্য {{DEVICE.DEVICEID}} যন্ত্রের ড্রাইভারসমূহ বিনামূল্যে ডাউনলোড করুন"
-
-msgid "seo_hwidos-footer-application-category"
-msgstr "শ্রেণি: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
-
-msgid "seo_hwidos-footer-application-subcategory"
-msgstr "উপশ্রেণি: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_hwidos-footer-content"
 msgstr "Windows {{OS}} এর জন্য {{DEVICE.DEVICEID}} যন্ত্রের ড্রাইভার ডাউনলোড করুন, অথবা স্বয়ংক্রিয় ড্রাইভার ডাউনলোড এবং আপডেট এর জন্য DriverPack Solution সফটওয়্যার ইন্সটল করুন"
@@ -1047,3 +1031,21 @@ msgstr ""
 
 msgid "seo_notebook-footer-content-asus-x550cc-sound-10-x64"
 msgstr ""
+
+#~ msgid "seo_hwid-footer-application-category"
+#~ msgstr ""
+#~ "শ্রেণি: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+
+#~ msgid "seo_hwid-footer-application-subcategory"
+#~ msgstr ""
+#~ "উপশ্রেণি: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} "
+#~ "{{CLASS.PLURAL.MAIN}}</span>"
+
+#~ msgid "seo_hwidos-footer-application-category"
+#~ msgstr ""
+#~ "শ্রেণি: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+
+#~ msgid "seo_hwidos-footer-application-subcategory"
+#~ msgstr ""
+#~ "উপশ্রেণি: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} "
+#~ "{{CLASS.PLURAL.MAIN}}</span>"

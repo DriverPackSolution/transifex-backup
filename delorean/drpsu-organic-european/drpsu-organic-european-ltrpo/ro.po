@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-11-22 09:26+0000\n"
+"POT-Creation-Date: 2018-01-11 11:55+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Cetina Alexandru <cetina_alexandru95@yahoo.com>, 2017\n"
 "Language-Team: Romanian (https://www.transifex.com/driverpack-solution/teams/75453/ro/)\n"
@@ -304,16 +304,6 @@ msgstr "drivere windows 7 8 10 64 descarcă descarcă PC {{DEVICE.DEVICEID}}"
 msgid "seo_hwid-footer-description"
 msgstr "Descarcă drivere pentru {{DEVICE.DEVICEID}} gratuit"
 
-#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets; RU: Пример:
-#. CLASS.PLURAL.MAIN=видеокарты|чипсеты;
-msgid "seo_hwid-footer-application-category"
-msgstr "Categoria: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
-
-#. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets; VENDOR.NAME=Acer;
-#. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|чипсеты; VENDOR.NAME=Acer;
-msgid "seo_hwid-footer-application-subcategory"
-msgstr ""
-
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 msgid "seo_hwid-footer-content"
@@ -586,12 +576,6 @@ msgstr "drivere Windows {{OS}} descarcă descarcă PC {{DEVICE.DEVICEID}}"
 
 msgid "seo_hwidos-footer-description"
 msgstr "Descarcă {{DEVICE.DEVICEID}} dispozitiv drivere pentru Windows {{OS}} gratuit"
-
-msgid "seo_hwidos-footer-application-category"
-msgstr "Categoria: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
-
-msgid "seo_hwidos-footer-application-subcategory"
-msgstr ""
 
 msgid "seo_hwidos-footer-content"
 msgstr "Descarcă driverul pentru {{DEVICE.DEVICEID}} dispozitiv pentru Windows {{OS}}, sau instalează DriverPack Solution pentru descărcare și update automat de drivere"
@@ -1048,3 +1032,17 @@ msgstr ""
 
 msgid "seo_notebook-footer-content-asus-x550cc-sound-10-x64"
 msgstr "Aici puteți descărca gratuit driver-i pentru laptop-ul Asus X550CC și Windows 10 pe 64 de biți. De asemenea puteți descărca aplicația DriverPack Solution - ea va evalua starea curentă a driver-ilor instalați pe laptop-ul dvs. și îi va actualiza la cea mai recentă versiune."
+
+#~ msgid "seo_hwid-footer-application-category"
+#~ msgstr ""
+#~ "Categoria: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+
+#~ msgid "seo_hwid-footer-application-subcategory"
+#~ msgstr ""
+
+#~ msgid "seo_hwidos-footer-application-category"
+#~ msgstr ""
+#~ "Categoria: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
+
+#~ msgid "seo_hwidos-footer-application-subcategory"
+#~ msgstr ""
