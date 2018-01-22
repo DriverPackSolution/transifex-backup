@@ -2,13 +2,14 @@
 # Ir Kayembe Blaise <kablaise22@gmail.com>, 2017
 # Nadia Tegeneva <nadia@drp.su>, 2017
 # Nashon Lusanda <lusandanashon@yahoo.com>, 2017
+# Ahmad Abdul Nasibu <ahmadnasibu@gmail.com>, 2018
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-01-11 11:55+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
-"Last-Translator: Nashon Lusanda <lusandanashon@yahoo.com>, 2017\n"
+"Last-Translator: Ahmad Abdul Nasibu <ahmadnasibu@gmail.com>, 2018\n"
 "Language-Team: Swahili (https://www.transifex.com/driverpack-solution/teams/75453/sw/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -273,7 +274,7 @@ msgid "seo_hwids-title"
 msgstr "Pakua madereva ya kifaa kwa Device_id | DriverPack Solution | kukurasa {{PAGE}}"
 
 msgid "seo_hwids-description"
-msgstr ""
+msgstr "Pakua driva za kifaa kwa device_id wake"
 
 msgid "seo_hwids-h1"
 msgstr "Ma driver yote ya vifaa"
@@ -281,12 +282,12 @@ msgstr "Ma driver yote ya vifaa"
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 msgid "seo_hwid-title"
-msgstr ""
+msgstr "{{DEVICE.DEVICEID}} pakua driva bure"
 
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 msgid "seo_hwid-description"
-msgstr ""
+msgstr "Driver za kifaa {{DEVICE.DEVICEID}} kwa ajili ya Windows 7, XP, 10, 8, na 8.1"
 
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
@@ -296,20 +297,20 @@ msgstr "<span class='bold'>{{DEVICE.DEVICEID}}</span>"
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 msgid "seo_hwid-keywords"
-msgstr ""
+msgstr "pakua driver za windows 7 8 10 64 pakua PC {{DEVICE.DEVICEID}}"
 
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 msgid "seo_hwid-footer-description"
-msgstr ""
+msgstr "Pakua driver za kifaa {{DEVICE.DEVICEID}} bure"
 
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 msgid "seo_hwid-footer-content"
-msgstr ""
+msgstr "Pakua driver za {{DEVICE.DEVICEID}}, au sanikisha programu ya DriverPack Solution kwa upakuzi na upandishaji driver kiotomatiki"
 
 msgid "seo_notebooks-title"
-msgstr ""
+msgstr "Pakua driver za Windows 7, XP, 10, 8, na 8.1 kwa ajili ya kompyuta-mipakato mitindo yote"
 
 msgid "seo_notebooks-description"
 msgstr ""
@@ -322,7 +323,7 @@ msgstr ""
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_notebookvendor-title"
-msgstr ""
+msgstr "Driver za kompyuta-mpakato {{VENDOR.NAME}} | Pakua kwa ajili ya Windows 7, XP, 10, 8, na 8.1 "
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_notebookvendor-description"
@@ -338,24 +339,24 @@ msgstr ""
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_notebookvendor-footer-description"
-msgstr ""
+msgstr "Pakua driver kwa ajili ya ko pyuta-mipakato {{VENDOR.NAME}} bure"
 
 msgid "seo_notebookvendor-footer-application-category"
-msgstr ""
+msgstr "Kundi: <span itemprop='applicationCategory'>Kompyuta-mipakato</span>"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_notebookvendor-footer-application-subcategory"
-msgstr ""
+msgstr "Kundi-dogo: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} kompyuta-mipakato</span>"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebook-title"
-msgstr ""
+msgstr "Driver za{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} | Pakua kwa ajili ya Windows 7, XP, 10, 8, na 8.1"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebook-description"
-msgstr ""
+msgstr "Pakua driver za kompyuta-mipakato {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} au sanikisha programu ya  DriverPack Solution kwa upandishaji driver"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
@@ -370,17 +371,17 @@ msgstr ""
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebook-footer-description"
-msgstr ""
+msgstr "Pakua drivers kwa ajili ya kompyuta-mpakato {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} bure"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; RU: Пример:
 #. NOTEBOOK.VENDOR.NAME=Acer;
 msgid "seo_notebook-footer-application-category"
-msgstr ""
+msgstr "Kundi: <span itemprop='applicationCategory'>{{NOTEBOOK.VENDOR.NAME}} kompyuta-mipakato</span>"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebook-footer-application-subcategory"
-msgstr ""
+msgstr "Kund-dogo: <span itemprop='applicationSubCategory'>{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} kompyuta-mipakato</span>"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
@@ -392,14 +393,14 @@ msgstr ""
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 #. CLASS.SINGLE.FOR=видеокарты|звуковой карты;
 msgid "seo_notebookdevices-title"
-msgstr ""
+msgstr "Drivers za {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} {{CLASS.SINGLE.FOR}} | Pakua kwa ajili ya Windows"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 #. CLASS.SINGLE.FOR=videocart|soundcart; RU: Пример:
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 #. CLASS.SINGLE.FOR=видеокарты|звуковой карты;
 msgid "seo_notebookdevices-description"
-msgstr ""
+msgstr "Pakua drivers za  {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} {{CLASS.SINGLE.FOR}}kwa ajili ya Windows 7, XP, 10, 8, na 8.1, au sanikisha programu ya DriverPack Solution"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 #. CLASS.PLURAL.FOR=videocarts|soundcarts; RU: Пример:
@@ -420,19 +421,19 @@ msgstr ""
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 #. CLASS.PLURAL.FOR=видеокарт|звуковых карт;
 msgid "seo_notebookdevices-footer-description"
-msgstr ""
+msgstr "Pakua drivers kwa ajili ya {{CLASS.PLURAL.FOR}} kwa ajili ya kompyuta-mipakato {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} bure."
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebookdevices-footer-application-category"
-msgstr ""
+msgstr "Kundi: <span itemprop='applicationCategory'>{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} kompyuta-mipakato</span> "
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets;
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU: Пример:
 #. CLASS.PLURAL.MAIN=видеокарты|чипсеты; NOTEBOOK.VENDOR.NAME=Acer;
 #. NOTEBOOK.NAME=AO533;
 msgid "seo_notebookdevices-footer-application-subcategory"
-msgstr ""
+msgstr "Kundi-dogo: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}} kwa ajili ya {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}</span>"
 
 #. i18n: EN: Example: CLASS.SINGLE.FOR=videocard|chipset;
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU: Пример:
@@ -460,7 +461,7 @@ msgid "seo_devicegroupos-footer-description"
 msgstr ""
 
 msgid "seo_devicegroupos-footer-application-category"
-msgstr ""
+msgstr "Kundi: <span itemprop='applicationCategory'>{{GROUP.VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_devicegroupos-footer-application-subcategory"
 msgstr ""
@@ -469,7 +470,7 @@ msgid "seo_devicegroupos-footer-content"
 msgstr ""
 
 msgid "seo_notebookos-title"
-msgstr ""
+msgstr "Pakua driver za kompyuta-mpakato {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} kwa ajili ya Windows {{OS}}"
 
 msgid "seo_notebookos-description"
 msgstr ""
@@ -481,7 +482,7 @@ msgid "seo_notebookos-keywords"
 msgstr ""
 
 msgid "seo_notebookos-footer-description"
-msgstr ""
+msgstr "Pakua drivers kwa ajili ya kompyuta-mpakato {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} kwa ajili ya Windows {{OS}} bure"
 
 msgid "seo_notebookos-footer-application-category"
 msgstr ""
@@ -613,7 +614,7 @@ msgid "seo_promo-keywords"
 msgstr ""
 
 msgid "seo_promodevice_title"
-msgstr ""
+msgstr "Pakua driver kwa ajili ya usb, bluetooth, vichapishaji, Wi-Fi, na kadi za video bure"
 
 msgid "seo_promodevice-description"
 msgstr ""
@@ -631,7 +632,7 @@ msgid "seo_promovendors-keywords"
 msgstr ""
 
 msgid "seo_promodrivers_title"
-msgstr ""
+msgstr "Pakua na sanikisha driver kwa ajili ya Windows 7, 10, XP, 8"
 
 msgid "seo_promodrivers-description"
 msgstr ""

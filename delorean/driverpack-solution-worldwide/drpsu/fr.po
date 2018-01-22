@@ -1,6 +1,6 @@
 # Translators:
-# Nadia Tegeneva <nadia@drp.su>, 2017
 # FREDERIQUE PETIT <frederiquepetit@gmx.com>, 2017
+# Nadia Tegeneva <nadia@drp.su>, 2017
 # Dany Courchesne (Radiodrag) <dany.courchesne@gmail.com>, 2017
 # Артур Кузяков <artx@drp.su>, 2017
 # jessy tardif <jessytardif_3@hotmail.com>, 2017
@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-12-08 15:35+0000\n"
+"POT-Creation-Date: 2018-01-11 11:55+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: zaki dzz <zakidze@gmail.com>, 2017\n"
 "Language-Team: French (https://www.transifex.com/driverpack-solution/teams/75453/fr/)\n"
@@ -45,42 +45,6 @@ msgstr "DriverPack a été créé pour les administrateurs mais est facile à ut
 
 msgid "adminheader_cta-btn"
 msgstr "Télécharger DriverPack Online"
-
-msgid "adminpromo_landing-title"
-msgstr "Le nouveau DriverPack 18 est en développement"
-
-msgid "adminpromo_landing-subtitle"
-msgstr "La nouvelle version est conçue spécifiquement pour les administrateurs et prend en compte leurs besoins"
-
-msgid "adminpromo_banner-text"
-msgstr "Le nouveau DriverPack 18 a été repensé sur la base des versions précédentes qui ont déjà prouvé leur stabilité exceptionnelle. La sortie de la nouvelle version est prévue pour l'année 2017."
-
-msgid "adminpromo_list-item-speed"
-msgstr "La vitesse de l'installation et le démarrage de l'application ont été optimisés."
-
-msgid "adminpromo_list-item-ui"
-msgstr "L'interface de l'onglet des pilotes a été redessiné et est maintenant plus informative pour les administrateurs système"
-
-msgid "adminpromo_list-item-settings"
-msgstr "La gamme des paramètres a été étendue et l'option de personnalisation individuelle a été ajoutée."
-
-msgid "adminpromo_list-item-soft"
-msgstr "L'installation forcé du logiciel par défaut est OFF"
-
-msgid "adminpromo_list-item-packs"
-msgstr "La base de l'approche de driverpacks a été changé dans la tentative d'éliminé les cas de crashs par \"l’écran bleu de la mort\" et d'autres problèmes."
-
-msgid "adminpromo_list-item-device-support"
-msgstr "La gamme de pilotes couvre beaucoup plus de types de matériel (incluant le très vieux matériel)"
-
-msgid "adminpromo_list-item-expert-mode"
-msgstr "Le mode Expert est actif par défaut"
-
-msgid "adminpromo_list-item-stable-db"
-msgstr "La base de données pilote la plus stable a été créée. Le format de la base de données pilote a été mis à jour."
-
-msgid "adminpromo_list-item-full-db"
-msgstr "La base de données pilote la plus grande et la plus unique au monde a été créée"
 
 msgid "buttonsplitdropdown_main-button"
 msgstr "Télécharger"
@@ -253,7 +217,7 @@ msgid "drivercard_no-results_download-link"
 msgstr "Télécharger DriverPack"
 
 msgid "drivercard_caption-version"
-msgstr "Version actuelle:"
+msgstr "Version:"
 
 msgid "drivercard_caption-version-recommended"
 msgstr "recommandé"
@@ -265,10 +229,10 @@ msgid "drivercard_caption-class"
 msgstr "Type de périphérique:"
 
 msgid "drivercard_caption-manufacturer"
-msgstr "Manufacturier:"
+msgstr "Fabricant:"
 
 msgid "drivercard_caption-os"
-msgstr "Système d'exploitation:"
+msgstr "Systèmes d'exploitation:"
 
 msgid "drivercard_caption-deviceid"
 msgstr "Device ID:"
@@ -280,28 +244,28 @@ msgid "drivercard_caption-section"
 msgstr "Catégorie:"
 
 msgid "drivercard_caption-btn"
-msgstr "Télécharger le driver"
+msgstr "Télécharger le pilote"
 
 msgid "deviceidpage_all-systems"
 msgstr "tous les systèmes"
 
 msgid "dropdowndriverversion_no-results"
-msgstr "Les pilotes pour l'OS choisi sont introuvables"
+msgstr "Les pilotes de l'OS choisi n'ont pas été trouvés"
 
 msgid "dropdownos_current"
 msgstr "actuel"
 
 msgid "footer_banner-title"
-msgstr "Êtes vous fatigué de chercher les pilotes de vos périphériques?"
+msgstr "Êtes vous fatigué de chercher les pilotes pour vos périphériques?"
 
 msgid "footer_banner-caption"
 msgstr "DriverPack Online <span style='color: {{COLOR}}'>trouvera et installera</span> les pilotes dont vous avez besoin automatiquement"
 
 msgid "footer_banner_btn"
-msgstr "Télécharger <span class='bold'>DriverPack Online</span> gratis"
+msgstr "Télécharger <span class='bold'>DriverPack Online</span> gratuitement"
 
 msgid "footer_translate-feedback"
-msgstr "Vous avez trouvé une faute d'orthographe ou une erreur?<br />Sélectionnez-là et appuyez sur {{HOTKEY}}"
+msgstr "Avez-vous trouvé une faute de frappe ou une erreur?<br />Mettez-le en surbrillance et appuyez sur {{HOTKEY}}"
 
 msgid "header_search-title"
 msgstr "<span class='bold'>Recherche de pilote sur</span> la plus grande base de données — plus d'un million de pilotes"
@@ -310,7 +274,7 @@ msgid "header_search-examples"
 msgstr "Par exemple:"
 
 msgid "header_cta-text"
-msgstr "Téléchargez DriverPack pour la sélection automatique du pilote"
+msgstr "Télécharger DriverPack pour la sélection automatique du pilote"
 
 msgid "header_cta-btn"
 msgstr "Installer les pilotes automatiquement"
@@ -319,7 +283,7 @@ msgid "header_cta-label-1"
 msgstr "Il <span style='color: {{COLOR}}'>téléchargera</span> instantanément"
 
 msgid "header_cta-label-2"
-msgstr "<span style='color: {{COLOR}}'>Il sélectionnera et installera</span> les pilotes automatiquement"
+msgstr "Il <span style='color: {{COLOR}}'>sélectionnera et installera</span> les pilotes automatiquement"
 
 msgid "headerbutton_title"
 msgstr "Installer les pilotes automatiquement"
@@ -331,7 +295,7 @@ msgid "headeros_cta-btn"
 msgstr "Installer les pilotes pour <span class='HeaderOs__cta-btn-marked'>{{OS}}</span>"
 
 msgid "headeros_search-text"
-msgstr "Ou faites une recherche sur notre gigantesque base de données de pilotes"
+msgstr "Ou utilisez la recherche sur notre formidable base de données de pilote"
 
 msgid "landingdevicetypelist_landing-title"
 msgstr "DriverPack est adapté à tous les périphériques"
@@ -340,7 +304,7 @@ msgid "landingdevicetypelist_landing-subtitle"
 msgstr "Même pour l'USB 3.0 sur Windows 7 SP1"
 
 msgid "landingdevicetypelist_cta-btn"
-msgstr "Installez tous les pilotes requis"
+msgstr "Installer tous les pilotes requis"
 
 msgid "landingdevicetypelist_versions"
 msgstr "Autres versions de DriverPack"
@@ -349,19 +313,19 @@ msgid "landingfeatures_landing-title"
 msgstr "DriverPack est la manière la plus pratique et rapide de configurer un ordinateur"
 
 msgid "landingfeatures_landing-subtitle"
-msgstr "Le logiciel est gratuit, et adapté autant pour les professionnels que pour les débutants"
+msgstr "Le logiciel est fourni gratuitement, et est adapté à la fois pour les professionnels et pour les débutants"
 
 msgid "landingfeatures_item-title-free"
 msgstr "Gratuit"
 
 msgid "landingfeatures_item-caption-free"
-msgstr "DriverPack est gratuit"
+msgstr "DriverPack est fourni gratuitement"
 
 msgid "landingfeatures_item-title-safe"
 msgstr "Sûr"
 
 msgid "landingfeatures_item-caption-safe"
-msgstr "DriverPack coopère avec les fabricants d'anti-virus et protège votre ordinateur"
+msgstr "DriverPack coopère officiellement avec les fabricants de logiciels antivirus et protège votre ordinateur"
 
 msgid "landingfeatures_item-title-for-all-devices"
 msgstr "Pour tous les périphériques"
@@ -373,13 +337,13 @@ msgid "landingheader_cta-text"
 msgstr "DriverPack installera les pilotes gratuitement et réglera les problèmes de pilote sur n'importe quel périphérique"
 
 msgid "landingheader_cta-btn"
-msgstr "Installez tous les pilotes requis"
+msgstr "Installer tous les pilotes requis"
 
 msgid "landingheadernav_badrabbit"
 msgstr "Protection contre Bad Rabbit"
 
 msgid "landingheadernav_search"
-msgstr "Recherche de pilotes"
+msgstr "Recherche de pilote"
 
 msgid "landingheadernav_foradmin"
 msgstr "Pour les administrateurs système"
@@ -388,22 +352,22 @@ msgid "landingintroduction_author-title"
 msgstr "Bonjour! Mon nom est Arthur Kuzyakov. Je suis l’auteur et fondateur de DriverPack"
 
 msgid "landingintroduction_author-speech"
-msgstr "D'un petit morceau de logiciel écrit par pur enthousiasme il y a 8 ans, nous nous sommes transformés en une entreprise qui a aidé plus de 40 million de gens, à l'échelle mondiale, à configurer leurs ordinateurs!<br /><br />Pendant ce temps, notre logiciel est devenu incroyablement plus rapide et intelligent. Aujourd'hui, DriverPack est la plus grande base de données de pilotes uniques au monde, située sur des serveurs à ultra haute vitesse à travers le monde. Afin d’effectuer le processus d'installation de pilotes aussi rapidement et de la plus grande qualité possible, nous utilisons la technologie de Machine Learning qui rend notre algorithme meilleure et plus précise. Nous avons réussis tout cela d'une telle sorte que le logiciel reste totalement gratuit, et que n'importe qui puisse l'utiliser. <br /><br />Mon équipe et moi sommes fiers de notre produit et nous espérons qu'il devienne votre fidèle assistant afin de configurer n'importe quel ordinateur le plus rapidement possible."
+msgstr "D'un petit morceau de logiciel écrit par pur enthousiasme il y a 8 ans, nous nous sommes transformés en une entreprise qui a aidé plus de 40 million de gens, à l'échelle mondiale, à configurer leurs ordinateurs!<br /><br />Pendant ce temps, notre logiciel est devenu incroyablement plus rapide et intelligent. Aujourd'hui, DriverPack est la plus grande base de données de pilotes uniques au monde, installée sur des serveurs ultra-rapides dans le monde entier. Afin d'effectuer le processus d'installation du pilote toujours rapidement et avec la meilleure qualité possible, nous utilisons des technologies d'apprentissage automatique qui rendent notre algorithme de sélection encore meilleur et plus précis. Nous avons réussi à réaliser tout cela de telle sorte que le logiciel reste absolument gratuit, et tout le monde peut l'utiliser. <br /><br />Mon équipe et moi sommes fiers de notre produit, et nous espérons qu'il deviendra votre assistant fiable dans la configuration de n'importe quel ordinateur dans les plus brefs délais."
 
 msgid "landingintroduction_author-speech-marked"
 msgstr "Nous passons tout notre temps à sauver le vôtre!"
 
 msgid "landingintroduction_video-caption"
-msgstr "Et voici ce que Dmitry Medvedev, le Premier Ministre de la Fédérations de Russie, pense à propos de DriverPack Solution"
+msgstr "Et voici ce que Dmitri Medvedev, le Premier ministre de la Fédération de Russie, pense de la DriverPack Solution"
 
 msgid "landingnotebookvendorslist_landing-title"
 msgstr "DriverPack est adapté à tous les ordinateurs"
 
 msgid "landingnotebookvendorslist_landing-subtitle"
-msgstr "Oui, TOUS les ordinateurs - Nous avons vérifié!"
+msgstr "Oui, pour TOUT ordinateur - nous avons vérifié!"
 
 msgid "landingnotebookvendorslist_cta-btn"
-msgstr "Installez tous les pilotes requis"
+msgstr "Installer tous les pilotes requis"
 
 msgid "landingnotebookvendorslist_versions"
 msgstr "Autres versions de DriverPack"
@@ -418,10 +382,10 @@ msgid "landingproducts_item-title-online"
 msgstr "DriverPack Online"
 
 msgid "landingproducts_item-description-online"
-msgstr "Il télécharge instantanément et installe tous les pilotes si vous êtes connecté sur internernet <span class='nobr'>({{SIZE}})</span>"
+msgstr "Il est téléchargé instantanément, télécharge et installe tous les pilotes si vous avez une connexion Internet<span class='nobr'>({{SIZE}})</span>"
 
 msgid "landingproducts_item-version"
-msgstr "Version actuelle:"
+msgstr "Version:"
 
 msgid "landingproducts_item-button"
 msgstr "Télécharger"
@@ -430,13 +394,13 @@ msgid "landingproducts_item-title-network"
 msgstr "DriverPack Offline Network"
 
 msgid "landingproducts_item-description-network"
-msgstr "Il contient les pilotes pour le matériel réseau (Lan/Wi-Fi), il opère sans connection à internet <span class='nobr'>({{SIZE}})</span>"
+msgstr "Il contient les pilotes pour le matériel réseau (Lan/Wi-Fi), il fonctionne sans connexion à Internet <span class='nobr'>({{SIZE}})</span>"
 
 msgid "landingproducts_item-title-offline"
 msgstr "DriverPack Offline Full"
 
 msgid "landingproducts_item-description-offline"
-msgstr "Il contient tous les pilotes. opère sans connection à internet, il peut être téléchargé en torrent <span class='nobr'>({{SIZE}})</span>"
+msgstr "Il contient tous les pilotes, fonctionne sans connexion à Internet, il peut être téléchargé via le Torrent-tracker <span class='nobr'>({{SIZE}})</span>"
 
 msgid "landingpublications__landing-title"
 msgstr "Publications de médias à propos de DriverPack"
@@ -445,7 +409,7 @@ msgid "landingscreenshots_landing-title"
 msgstr "DriverPack est la manière la plus pratique et rapide de configurer un ordinateur"
 
 msgid "landingscreenshots_landing-subtitle"
-msgstr "Le logiciel est gratuit, et adapté autant pour les professionnels que pour les débutants"
+msgstr "Le logiciel est fourni gratuitement, et est adapté à la fois pour les professionnels et pour les débutants"
 
 msgid "landingsocial_landing-title"
 msgstr "Rejoignez la communauté DriverPack"
@@ -463,7 +427,7 @@ msgid "landingusers_cta"
 msgstr "Le nombre d'utilisateurs de DriverPack autour du monde grandit à chaque secondes qui passent"
 
 msgid "landingusers_cta-btn"
-msgstr "Installez tous les pilotes requis"
+msgstr "Installer tous les pilotes requis"
 
 msgid "landingusers_versions"
 msgstr "Autres versions de DriverPack"
@@ -502,13 +466,13 @@ msgid "notfound_info-404"
 msgstr "{{404}}—  la page demandée est introuvable"
 
 msgid "notfound_info-500"
-msgstr "{{500}}— quelque chose ne va pas (erreur serveur)"
+msgstr "{{500}} — quelque chose s'est mal passé (erreur du serveur)"
 
 msgid "notebookfilters-title"
 msgstr "Pilotes disponibles"
 
 msgid "notebookvendorslist_other-text"
-msgstr "Autres manufacturiers"
+msgstr "Autres fabricants"
 
 msgid "notebookvendorslist_title_os"
 msgstr "Pilotes pour ordinateurs portables sur {{OS}}"
@@ -538,7 +502,7 @@ msgid "promoheader_cta-text-gamers"
 msgstr "Votre ordinateur est plus puissant que vous le pensez: mettez à jour tous vos pilotes gratuitement"
 
 msgid "promoheader_cta-text-gamers-caption"
-msgstr "Si vous aimez les jeux informatiques, nous vous recommandons de mettre à jour les pilotes de votre ordinateur le plus souvent possible afin d'obtenir la plus haute efficacité possible de votre matériel. Jusqu'à 37% plus de FPS - la meilleur expérience de jeu et de nouveaux succès avec DriverPack."
+msgstr "Si vous aimez les jeux d'ordinateur, nous vous recommandons de mettre à jour les pilotes sur votre ordinateur plus souvent pour atteindre l'efficacité maximale de votre matériel. Jusqu'à 37% FPS de plus - la meilleure expérience de jeu et de nouvelles réalisations avec DriverPack."
 
 msgid "promoheader_cta-text"
 msgstr "DriverPack installera les pilotes gratuitement et réglera les problèmes de pilote sur n'importe quel périphérique"
@@ -547,7 +511,7 @@ msgid "promoheader_cta-btn"
 msgstr "Installez tous les pilotes requis"
 
 msgid "promoheader_size"
-msgstr "Taille du fichier: {{SIZE}} KO"
+msgstr "Taille du fichier: {{SIZE}} KB"
 
 msgid "promoheader_license"
 msgstr "Contrat de licence"
@@ -562,7 +526,7 @@ msgid "reviewheader_cta-text"
 msgstr "Rejoignez la communauté DriverPack dans les réseaux sociaux afin d'être au courant des nouvelles à propos du produit et prendre part aux discussions"
 
 msgid "reviewheader_cta"
-msgstr "Ajoutez votre opinion ou suggestions afin d'améliorer DriverPack"
+msgstr "Ajoutez votre opinion ou une suggestion sur l'amélioration de DriverPack"
 
 msgid "search_input-placeholder"
 msgstr "Rechercher le nom du pilote, ordinateur portable ou DeviceID"
@@ -615,16 +579,16 @@ msgid "deviceclasses_cardreader-plural-for"
 msgstr "lecteurs de carte"
 
 msgid "deviceclasses_chipset-single-main"
-msgstr "chipset"
+msgstr "jeu de puces"
 
 msgid "deviceclasses_chipset-single-for"
-msgstr "chipset"
+msgstr "jeu de puces"
 
 msgid "deviceclasses_chipset-plural-main"
-msgstr "chipsets"
+msgstr "jeux de puces"
 
 msgid "deviceclasses_chipset-plural-for"
-msgstr "chipsets"
+msgstr "jeux de puces"
 
 msgid "deviceclasses_inputdev-single-main"
 msgstr "périphérique d'entrée"
@@ -699,16 +663,16 @@ msgid "deviceclasses_phone-plural-for"
 msgstr "téléphones intelligents"
 
 msgid "deviceclasses_printer-single-main"
-msgstr "imprimeur"
+msgstr "imprimante"
 
 msgid "deviceclasses_printer-single-for"
-msgstr "imprimeur"
+msgstr "imprimante"
 
 msgid "deviceclasses_printer-plural-main"
-msgstr "imprimeurs"
+msgstr "imprimantes"
 
 msgid "deviceclasses_printer-plural-for"
-msgstr "imprimeurs"
+msgstr "imprimantes"
 
 msgid "deviceclasses_sound-single-main"
 msgstr "carte son"
@@ -723,16 +687,16 @@ msgid "deviceclasses_sound-plural-for"
 msgstr "cartes son"
 
 msgid "deviceclasses_tvtuner-single-main"
-msgstr "carte-TV"
+msgstr "Récepteur TV"
 
 msgid "deviceclasses_tvtuner-single-for"
-msgstr "carte-TV"
+msgstr "Récepteur TV"
 
 msgid "deviceclasses_tvtuner-plural-main"
-msgstr "cartes-TV"
+msgstr "récepteurs-TV"
 
 msgid "deviceclasses_tvtuner-plural-for"
-msgstr "cartes-TV"
+msgstr "récepteurs-TV"
 
 msgid "deviceclasses_video-single-main"
 msgstr "carte graphique"
@@ -805,7 +769,7 @@ msgid "searchresult_download-btn"
 msgstr "Installer le pilote automatiquement"
 
 msgid "searchresult_details-content-text-placeholder"
-msgstr "Données en chargement..."
+msgstr "Chargement des données..."
 
 msgid "searchresult_details-content-label-1"
 msgstr "OS"
@@ -818,18 +782,18 @@ msgstr "tous les systèmes"
 #. GeForce 205; Текст для {{DOWNLOAD}} находится в ключе searchresult_details-
 #. content_download-link
 msgid "searchresult_details-content-group-text"
-msgstr "{{DOWNLOAD}} afin d’identifier et installer les pilotes requis automatiquement. ou allez sur la page de {{DEVICE}} et sélectionnez le pilote requis manuellement"
+msgstr "{{DOWNLOAD}} afin d’identifier et installer les pilotes requis automatiquement. ou allez sur {{DEVICE}} la page du périphérique  et sélectionnez le pilote requis manuellement"
 
 #. i18n: EN: Example: CLASS.SINGLE.MAIN=monitor|chipset; COUNT=12; RU: Пример:
 #. CLASS.SINGLE.MAIN=монитор|чипсет; COUNT=12;
 msgid "searchresult_device"
-msgstr "{{CLASS.SINGLE.MAIN}} ({{COUNT}} résultats trouvés)"
+msgstr "{{CLASS.SINGLE.MAIN}} ({{COUNT}} les résultats ont été trouvés)"
 
 msgid "searchresult_details-content-text-many"
 msgstr "Plusieurs pilotes différents ont été trouvés pour ce périphérique"
 
 msgid "seofooter_os-list-title"
-msgstr "Versions des systèmes d'exploitation: <span itemprop='operatingSystem'>{{OSLIST}}</span>"
+msgstr "Versions du système d'exploitation: <span itemprop='operatingSystem'>{{OSLIST}}</span>"
 
 msgid "seofooter_offers-title"
 msgstr "<span itemprop='offers' itemscope='' itemtype='http://schema.org/Offer'>Disponible <meta itemprop='price' content='0' />gratuitement</span>"
@@ -844,16 +808,16 @@ msgid "sidebanner_title"
 msgstr "Êtes-vous fatigué de chercher des pilotes?"
 
 msgid "sidebanner_caption"
-msgstr "DriverPack <span class='SideBanner__caption-marked'>sélectionnera et installera</span> les pilotes requis"
+msgstr "DriverPack <span class='SideBanner__caption-marked'>sélectionnera et installera automatiquement</span> les pilotes requis"
 
 msgid "translationheader_cta-text"
-msgstr "Aidez-nous à rendre DriverPack disponible pour des millions d'utilisateurs de PC dans le monde — participez à notre projet de bénévolat sur la traduction dans les autres langues"
+msgstr "Aidez-nous à rendre DriverPack disponible pour des millions d'utilisateurs de PC dans le monde — prenez part à notre projet bénévole en le traduisant dans d'autres langues."
 
 msgid "translationheader_bubble-team"
 msgstr "Aimeriez-vous faire partie de l'équipe des traducteurs pour le plus grand service de configuration automatique d'ordinateurs au monde?"
 
 msgid "translationheader_bubble-languages"
-msgstr "Connaissez-vous bien l'anglais ou le russe, pour que vous puissiez traduire l'un d'entre eux à votre langue maternelle?"
+msgstr "Connaissez-vous assez bien l'anglais ou le russe, de sorte que vous soyez prêt à traduire l'un d'entre eux dans votre langue maternelle."
 
 msgid "translationheader_bubble-experience"
 msgstr "Avez-vous une quelconque experience dans la traduction de logiciels ou de sites webs en utilisant des services de traduction en ligne?"
@@ -871,73 +835,73 @@ msgid "translationtool_example-ru-to-en"
 msgstr "Lignes pour la traduction du Russe (RU) en Anglais (EN), et les langues du CEI (CIS)"
 
 msgid "translationtool_example-en-to-all"
-msgstr "Lignes pour la traduction de l'Anglais (EN) en les autres langues du monde"
+msgstr "Lignes pour la traduction de l'Anglais (EN) en d'autres langues du monde"
 
 msgid "language_title"
-msgstr "French"
+msgstr "Anglais"
 
 msgid "landingPagePublications_rbk"
 msgstr "DriverPack est le logiciel qui se compose de pilotes pour Windows minutieusement sélectionnés et testés par l'équipe d'Artur Kuzyakov. Cette application analyse l'ordinateur d'un utilisateur et installe sur celui-ci les pilotes requis, ce qui vous permet de régler deux problèmes; premièrement, accélérer le processus de la configuration de l'ordinateur (ce qui est spécialement important s'il y a des douzaines d'ordinateurs dans un seul système); puis, améliorer sa capacité opérationnelle."
 
 msgid "landingPagePublications_secretfirmy"
-msgstr "Aujourd'hui, DriverPack détient la plus grande base de données de pilotes au monde, qui est traduite dans 45 langues, et opère sur les ordinateurs de plus de 42 millions d'utilisateurs."
+msgstr "Aujourd'hui, DriverPack détient la plus grande base de données de pilotes au monde, qui est traduite dans 45 langues, et fonctionne sur les ordinateurs de plus de 42 millions d'utilisateurs."
 
 msgid "landingPagePublications_cnews"
-msgstr "Depuis le moment de la création de la première version du logiciel, DriverPack Solution est devenu très populaire parmi les utilisateurs. Le logiciel est disponible complètement gratuitement au téléchargement. Cela distingue DriverPack Solution de ses compétiteurs et attire de plus en plus de nouveaux utilisateurs."
+msgstr "Depuis le moment où la toute première version du logiciel a été créée, DriverPack Solution a été très populaire parmi les utilisateurs. Le logiciel est disponible en téléchargement absolument gratuit. Cela distingue DriverPack Solution de ses concurrents et attire de plus en plus de nouveaux utilisateurs."
 
 msgid "landingPagePublications_xbit"
-msgstr "DriverPack Solution est une application intéressante, elle contient une gamme d'options que les autres logiciels du genre ne fournissent pas. N'importe quel utilisateur peut régler toutes les erreurs et configurer le bon fonctionnement du système et de tous ses périphériques en deux cliques. En ce moment, le nombre de pilotes contenu dans la base de données de DriverPack dépasse les 1.1 million d'entrées, qui ont toutes étés testés pour la sécurité."
+msgstr "DriverPack Solution est une application intéressante, elle contient un ensemble d'options que d'autres solutions logicielles du même type ne fournissent pas. Tout utilisateur peut corriger toutes les erreurs et configurer le bon fonctionnement du système et de tous ses périphériques en seulement deux clics. À l'heure actuelle, le nombre de pilotes dans la base de données DriverPack a déjà dépassé 1,1 million d'entrées, et tous ont été testés pour la sécurité."
 
 msgid "landingPagePublications_chip"
-msgstr "Avec DriverPack il n'est pas un défi du tout de trouver les dernières versions des pilotes des composantes de votre PC. L'aspect le plus plaisant est qu'un utilisateur n'a pas a faire quoique ce soit par lui même. Cet outil est complètement automatisé et pratique en fonctionnement."
+msgstr "Avec DriverPack ce n'est pas un défi du tout de trouver les dernières versions des pilotes des composantes de votre PC. L'aspect le plus plaisant est qu'un utilisateur n'a pas a faire quoique ce soit par lui même. Cet outil est complètement automatisé et pratique en fonctionnement."
 
 msgid "landingPagePublications_pcmag"
-msgstr "DriverPack Protect protégera votre ordinateur des malwares et adwares, ce que même les antivirus et les outils de blocage publicitaire ne parviennent souvent pas à faire."
+msgstr "DriverPack Protect aidera à protéger votre ordinateur des logiciels malveillants et publicitaires et plug-ins, ce que même les logiciels antivirus et les outils de blocage publicitaire ne parviennent souvent pas à faire."
 
 msgid "landingPagePublications_habr"
-msgstr "Le besoin de chercher et installer des pilotes à chaque fois que vous réinstallez Windows est, en mon opinion, une des plus grandes failles de toute la famille Windows. En 2008, j'ai décidé de régler ce problème et j'ai écris mon propre logiciel appelé DriverPack. Aujourd'hui, mon produit est utilisé par 40 millions d'utilisateurs à travers le monde et je considère que le problème des pilotes dans Windows est à présent réglé, bien que par une solution tiers."
+msgstr "Le besoin de rechercher et d'installer des pilotes chaque fois que vous réinstallez Windows est, à mon avis, l'un des défauts les plus importants de toute la famille Windows. Déjà en 2008, j'ai décidé de résoudre ce problème et j'ai écrit mon propre logiciel qui s'appelait DriverPack. Aujourd'hui, mon produit est utilisé par 40 millions d'utilisateurs dans le monde entier, et je considère que le problème des pilotes sous Windows a maintenant été résolu, bien que par le biais d'une solution tierce."
 
 msgid "landingPagePublications_computerra"
-msgstr "La nouvelle version fourni l'utilisateur de plus d'outils pour faire sa propre sélection de pilotes. C'est un problème particulièrement urgent pour ceux qui s'occupent des ordinateurs et administrent plusieurs types de matériels. Il est maintenant possible d'intégrer n'importe quel driverpacks alternatif dans DriverPack plutôt que de retirer celui qui n'est pas nécéssaire."
+msgstr "La nouvelle version fournit à l'utilisateur plus d'outils pour composer sa propre sélection de pilotes.. C'est un problème particulièrement urgent pour ceux qui s'occupent des ordinateurs et administrent beaucoup de matériel différent. Il est maintenant possible d'intégrer n'importe quel driverpacks alternatif dans DriverPack  plutôt que juste enlever l'inutile.."
 
 msgid "landingPagePublications_vc"
-msgstr "Grâce à la vigne, ce produit a été traduis par des utilisateurs dans 45 langues sans la participation de notre équipe."
+msgstr "Grâce à la vigne, ce produit a été traduis par les utilisateurs dans 45 langues sans la participation de notre équipe."
 
 msgid "adminpagefaq_official_vendors-q"
-msgstr "Avant de connaitre DriverPack, je téléchargeais les pilotes à partir des sites officiels, mais j'éprouvais des problèmes même avec eux. Pourquoi les pilotes dans DriverPack sont t'ils plus fiables que ceux des manufacturiers?"
+msgstr "Avant DriverPack, j'ai téléchargé les pilotes des sites officiels mais j'ai rencontré des problèmes même avec eux. Pourquoi les pilotes de DriverPack sont-ils plus fiables que ceux des fabricants?"
 
 msgid "adminpagefaq_official_vendors-a"
-msgstr "Afin de faire de notre base de données de pilotes pas seulement la plus grande, mais aussi la plus stable, nous travaillons dur à l'améliorer en permanence et avons même réglé les bugs dont les manufacturiers officiels permettent! Nous utilisons la technologie de Machine Learning et grâce a elle, notre algorithme de sélection est en constante amélioration. C'est exactement pourquoi que les pilotes de DriverPack sont les plus fiables ;-)"
+msgstr "Afin de rendre notre base de données de pilotes non seulement la plus grande mais aussi la plus stable, nous continuons à travailler dur pour l'améliorer de façon permanente, et nous corrigeons même les bugs que les fabricants officiels permettent! Nous utilisons la technologie d'apprentissage automatique et grâce à cela, notre algorithme de sélection s'améliore constamment. Et c'est exactement pourquoi les pilotes de DriverPack sont les plus fiables :-)"
 
 msgid "adminpagefaq_database-q"
-msgstr "Comment la base de données de DriverPack s'étend? Puis-je vraiment y trouver les pilotes que j'ai besoin?"
+msgstr "Comment la base de données DriverPack se développe-t-elle? Puis-je vraiment trouver les pilotes dont j'ai besoin?"
 
 msgid "adminpagefaq_database-a"
-msgstr "À ce jour, notre base de données de pilotes est la plus grande au monde, c'est pourquoi nous sommes capable de trouver le pilote pour n'importe quel périphérique avec plus de 99% de succès. Afin de continuer de rassembler et supporter une telle base de données, nous coopérons directement avec les manufacturiers des périphériques et les développeurs de pilotes. Nous collectons et testons les pilotes des sites officiels ainsi que des serveurs FTP privés et prenons aussi les recommendations des utilisateurs actifs en compte."
+msgstr "À ce jour, notre base de données de pilotes est la plus importante au monde, c'est pourquoi vous pourrez trouver le pilote pour n'importe quel appareil avec plus de 99% de succès. Afin de continuer à rassembler et soutenir une telle base de données, nous coopérons directement avec les fabricants d'appareils et les développeurs de pilotes. Nous collectons et testons les pilotes des sites officiels ainsi que des serveurs FTP privés, et nous prenons également en compte les recommandations des utilisateurs actifs."
 
 msgid "adminpagefaq_free-q"
 msgstr "Est-il vrai que DriverPack est complètement gratuit?"
 
 msgid "adminpagefaq_free-a"
-msgstr "Notre logiciel complet est absolument gratuit! Vous pouvez toutefois supporter notre projet, vous pouvez installer de pratiques logiciels que nous offrons pour votre propre utilisation, et recommander DriverPack à vos amis :-)"
+msgstr "Tout notre logiciel est absolument gratuit! Mais si vous voulez soutenir notre projet, vous pouvez installer le logiciel utile que nous offrons pour votre propre utilisation et recommander DriverPack à vos amis: -)"
 
 msgid "adminpagefaq_antivirus-q"
-msgstr "Mon antivirus a découvert un virus dans DriverPack - comment c'est possible?"
+msgstr "Mon antivirus a découvert un virus dans DriverPack - comment est-ce possible?"
 
 msgid "adminpagefaq_antivirus-a"
-msgstr "C'est fort probablement un faux positif, puisque toutes les versions de DriverPack subissent une examination profonde et une accréditation par les Laboratoires Kaspersky. Notre compagnie coopère avec plusieurs fournisseurs d'anti-virus tel qu'Avast et 360 Total Security. Afin de continuer d'opérer. ajoutez DriverPack à votre liste blanche. Nous apprécierions aussi que vous signaliez ceci comme un faux positif à votre compagnie d'anti-virus ainsi qu'à notre service de support."
+msgstr "Ceci est probablement un faux positif, car toutes les versions de DriverPack subissent un examen approfondi et une accréditation par le Laboratoire Kaspersky. Notre société coopère avec de nombreux fournisseurs de logiciels antivirus tels que Avast et 360 Total Security. Pour continuer à fonctionner, il suffit d'ajouter DriverPack à votre liste blanche antivirus. Nous apprécierons également que vous signaliez cela comme un faux positif à votre société antivirus ainsi qu'à notre service de support."
 
 msgid "adminpagefaq_expert_mode-q"
-msgstr "Quel mode est le plus pratique afin d'utiliser DriverPack?"
+msgstr "Quel est le mode le plus pratique pour utiliser DriverPack?"
 
 msgid "adminpagefaq_expert_mode-a"
-msgstr "Par défaut, DriverPack démarre en mode autimatique, créé pour être facile a comprendre et pratique à utiliser même pour les nouveaux utilisateurs. Par contre, pour la commodité des utilisateurs avancés et des administrateurs système, nous avons développés le mode expert qui contient des configurations étendues et des options de personnalisation. Afin d'activer ce mode, il faut simplement cliquer sur le bouton correspondant situé dans le bas de l'écran."
+msgstr "Par défaut, DriverPack démarre en mode automatique, conçu pour être compréhensible et pratique même pour les nouveaux utilisateurs. Cependant, pour la commodité des utilisateurs avancés et des administrateurs système, nous avons développé le mode expert qui contient des paramètres étendus et des options de personnalisation. Pour activer ce mode, il suffit juste de cliquer sur le bouton correspondant situé en bas de l'écran."
 
 msgid "adminpagefaq_stable-q"
-msgstr "Le pilote n'a pas été installé correctement et mon ordinateur a maintenant des problèmes. Comment régler cette situation?"
+msgstr "Le pilote n'a pas été installé correctement et mon ordinateur a maintenant des problèmes. Comment puis-je corriger cette situation?"
 
 msgid "adminpagefaq_stable-a"
-msgstr "La stabilité d'opération du logiciel DriverPack est une de nos plus grandes priorités mais des échecs mineurs se produisent quand même, même s'il sont très rare. C'est pourquoi nous créons un point de restauration qui vous permettra de restaurer votre système vers la configuration précédente. Afin de prévenir un problème similaire dans le futur, nous vous recommandons d'aller dans le menu de DriverPack  et d'envoyer le rapport, qui sera automatiquement créé par le logiciel, à nos services technique."
+msgstr "La stabilité de fonctionnement du logiciel DriverPack est l'une de nos principales priorités, mais des défaillances mineures surviennent encore, bien qu'elles soient rares. C'est pourquoi nous créons un point de restauration qui vous permettra de tout retourner à l'état précédemment configuré. Afin d'éviter un problème similaire dans le futur, nous vous recommandons d'aller dans le menu DriverPack et d'envoyer le rapport qui est automatiquement créé par le logiciel à nos services techniques."
 
 msgid "badrabbitpromopage_cta-text"
 msgstr "Virus cryptographique Bad Rabbit — comment protéger votre PC?"
@@ -961,19 +925,19 @@ msgid "badrabbitpromopage_info-text-title-2"
 msgstr "Comment protéger votre PC contre le virus cryptographique Bad Rabbit?"
 
 msgid "badrabbitpromopage_info-text-2"
-msgstr "Que pouvez-vous faire pour vous protéger contre le nouveau virus:<br/>• Créez un fichier infpub.dat dans le dossier C: \\\\ Windows \\\\ et cochez l'option 'Lecture seule' dans ses propriétés<br/>• Regardez attentivement la création de nouvelles tâches dans 'Task Scheduler'<br/>• N'installez aucune mise à jour pour FlashPlayer depuis les sites externes<br/>• Mettre à jour Windows et tous les logiciels de protection installés<br/>• Faire des sauvegardes de votre système d'exploitation<br/><br/>De plus, vous pouvez simplement utiliser la nouvelle solution de DriverPack Solution en la téléchargeant sur cette page - cela vous fera gagner du temps!<br/><b>Notre solution fonctionne sur Windows 7, 8, 8.1, 10 et XP.9</b>"
+msgstr "Que pouvez-vous faire pour vous protéger contre le nouveau virus:<br/>• Créez un fichier infpub.dat dans le dossier C: \\\\ Windows \\\\ et cochez l'option 'Lecture seule' dans ses propriétés<br/>• Regardez attentivement la création de nouvelles tâches dans 'Task Scheduler'<br/>• N'installez aucune mise à jour pour FlashPlayer depuis les sites étrangers<br/>• Mettre à jour Windows et tous les logiciels de protection installés<br/>• Faire des sauvegardes de votre système d'exploitation<br/><br/>De plus, vous pouvez simplement utiliser la nouvelle solution de DriverPack Solution en la téléchargeant sur cette page - cela vous fera gagner du temps!<br/><b>Notre solution fonctionne sur Windows 7, 8, 8.1, 10 et XP.9</b>"
 
 msgid "badrabbitpromopage_links-text"
-msgstr "Le développement de cette solution a été basé sur le matériel suivent"
+msgstr "Le développement de cette solution a été basé sur les matériels suivants"
 
 msgid "badrabbitpromopage_link-smb"
-msgstr "Comment activer et désactiver les versions 1, 2 et 3 du protocole SMB pour Windows et Windows Server"
+msgstr "Comment activer et désactiver les versions 1, 2 et 3 des protocoles SMB pour Windows et Windows Server"
 
 msgid "devicegrouppage_show-more-link"
 msgstr "Voir plus"
 
 msgid "devicestypepage_subtitle"
-msgstr "Tous les manufacturiers de {{CLASS.SINGLE.FOR}}"
+msgstr "Tous les fabricants de {{CLASS.SINGLE.FOR}}"
 
 msgid "devicetypevendorpage_subtitle-popular"
 msgstr "{{CLASS.PLURAL.MAIN}} {{VENDOR.NAME}} populaires"
@@ -982,7 +946,7 @@ msgid "devicetypevendorpage_subtitle-all"
 msgstr "Tous les {{CLASS.PLURAL.MAIN}} {{VENDOR.NAME}}"
 
 msgid "errorpage_title"
-msgstr "Erreur 500: erreur du serveur interne"
+msgstr "Erreur 500: erreur interne du serveur"
 
 msgid "landingfooter_landing-subtitle"
 msgstr "DriverPack contient les pilotes pour toutes les versions populaires de Windows"
@@ -1030,7 +994,7 @@ msgid "notebookpage_all-devices"
 msgstr "pour tous les périphériques"
 
 msgid "notebookspage_subtitle"
-msgstr "Liste des manufacturiers d'ordinateurs portables et netbooks"
+msgstr "Liste de tous les fabricants de portable et netbook"
 
 msgid "notebooksvendorpage_subtitle-popular"
 msgstr "Ordinateurs portables et netbooks {{VENDOR.NAME}} populaires"
@@ -1059,10 +1023,10 @@ msgid "thankyoupopup_download-link"
 msgstr "télécharger"
 
 msgid "translate-feedback-header_caption"
-msgstr "Cette page a été traduite récemment. Vous avez trouvé une erreur? Soulignez la et appuyez sur {{HOTKEY}}"
+msgstr "Cette page vient d'être traduite. Avez-vous trouvé une erreur d'impression? Mettez-la en surbrillance et appuyez sur {{HOTKEY}}"
 
 msgid "translate-feedback-form-popup_preview-title"
-msgstr "Vous avez mis en évidence le morceau de texte suivant:"
+msgstr "Vous avez mis en surbrillance le morceau de texte suivant:"
 
 msgid "translate-feedback-form-popup_correct-title"
 msgstr "S'il vous plaît, expliquez ce qui ne va pas et fournissez la bonne variante:"
@@ -1074,16 +1038,16 @@ msgid "translate-feedback-popup_title-error"
 msgstr "Quelque chose a mal tourné"
 
 msgid "translate-feedback-popup_description-error"
-msgstr "Le texte souligné n'a pas été envoyé à cause de problèmes sur le serveur. <br />Veuillez essayer plus tard."
+msgstr "Le texte en surbrillance n'a pas été envoyé en raison de problèmes sur le serveur. <br />Réessayez plus tard, s'il vous plaît."
 
 msgid "translate-feedback-popup_title-success"
 msgstr "Merci"
 
 msgid "translate-feedback-popup_description-success"
-msgstr "Le texte souligné a été envoyé a l'éditeur."
+msgstr "Le texte en surbrillance a été envoyé à l'éditeur."
 
 msgid "translate-feedback-popup_description-join-us"
-msgstr "Aidez nous pour la traduction vers votre langue maternelle."
+msgstr "S'il vous plaît, aidez-nous à traduire dans votre langue maternelle."
 
 msgid "translate-feedback-popup_description-join-link"
 msgstr "Rejoignez notre équipe de traducteurs!"
@@ -1110,22 +1074,22 @@ msgid "wannacryptpromopage_info-text-title-1"
 msgstr "Qu'est-ce que WannaCrypt?"
 
 msgid "wannacryptpromopage_info-text-1"
-msgstr "Le virus de chantage WannaCrypt (spontanément renommé WannaCry par les victimes) a attaqué des ordinateurs à travers le monde le 12 mai, et a infecté les périphériques de plus de 300 000 utilisateurs dans 150 pays. L'Europe de l'est, la Russie et la Chine ont subits les pires dégâts. En Grande-Bretagne, le virus a désactivé les réseaux du Département de la Santé et a arrêté le fonctionnement des hôpitaux  dans tout le pays. En Chine, l'attaque a infecté de vieux ordinateurs dans plusieurs usines, ce qui a affecté plusieurs industries.<br/><br/>Le principal fonctionnement du virus est simple, il pénètre dans votre PC ou ordinateur portable et encode absolument tous vos documents, fichiers et matériels qu'il peut trouvé et les rend inutilisables. Ensuite, les intrus demandent une somme considérable d'argent pour les décoder — environ 300$. Par contre, il n'y a aucune garantie que vous obtiendrez l'accès à vos fichiers. À présent, il n'y a plus aucun moyen de décoder les fichiers par vous-même et les solutions offertes sur le internet sont soit de hameçonnage, la propagation d'un autre virus ou ne fonctionne pas à 100% de certitude."
+msgstr "Le virus maître-chanteur WannaCrypt (spontanément renommé WannaCry par les victimes) a attaqué des ordinateurs à travers le monde le 12 mai, et a infecté les appareils de plus de 300 000 utilisateurs dans 150 pays. L'Europe de l'Ouest, la Russie et la Chine ont été les plus touchées. En Grande-Bretagne, le virus a désactivé les réseaux du Département de la Santé et a arrêté le fonctionnement des hôpitaux  dans tout le pays. En Chine, l'attaque a affecté de vieux ordinateurs dans les usines, ce qui a stoppé plusieurs industries.<br/><br/>Le principal moyen de fonctionnement de ce virus est simple, il pénètre dans votre PC ou ordinateur portable et encode absolument tous les documents, fichiers et matériels qu'il peut trouvé et les rend inutilisables. Ensuite, les intrus demandent une somme d'argent substantielle pour le décodage — environ 300 $. Cependant, il n'y a aucune garantie que vous récupérerez l'accès à vos fichiers. À présent, il n'y a plus aucun moyen de décoder les fichiers par vous-même et les solutions offertes sur Internet sont soit de hameçonnage, la propagation d'un autre virus ou ne fonctionne pas à 100% de certitude."
 
 msgid "wannacryptpromopage_info-text-title-2"
 msgstr "Qui est à risque?"
 
 msgid "wannacryptpromopage_info-text-2"
-msgstr "Les PCs avec un système d'exploitation antérieur à Windows 10 avec un ou des ports SMB ouverts sont à risque. Présentement, la moitié des utilisateurs de Windows sont à risque — 18% des utilisateurs utilisent des copies de Windows sans licence (les mettant automatiquement à risque), 23% des utilisateurs désactivent leur service Windows Update (ce qui les empêchent de télécharger les dernières \"hotfixes\" de Microsoft), et un autre 6% qui utilisent une version de l'OS périmé qui ne reçoit simplement plus de mise-à-jour.<br/><br/>La conclusion de tout ça est que les réseaux de plusieurs firmes et entreprises qui utilisent des systèmes d'exploitation tel que Windows XP sont les plus à risques. Dans une attaque sur ces réseaux, les pertes de données peuvent s'avérés paralysantes le coût peut être énorme, puisque les \"rançons\" doivent être payés pour chaque PC séparément."
+msgstr "Les PC équipés d'un système d'exploitation antérieur à Windows 10 avec des ports SMB ouverts sont les plus exposés. Actuellement, la moitié des utilisateurs de Windows sont en danger - 18% des utilisateurs utilisent des copies Windows non autorisées (les mettant automatiquement en danger), 23% des utilisateurs désactivent leur service Windows Update (ce qui les empêche de télécharger les derniers correctifs de Microsoft), et 6% utilisent des versions d'OS obsolètes qui ne reçoivent plus de mises à jour.<br/><br/>La conclusion de tout cela est que les réseaux de plusieurs firmes et entreprises qui utilisent encore des systèmes d'exploitation tel que Windows XP sont les plus à risques. Dans les attaques sur ces réseaux, les pertes de données peuvent s'avérer paralysantes le coût peut être énorme, puisque les \"rançons\" doivent être payés pour chaque PC séparément."
 
 msgid "wannacryptpromopage_info-text-title-3"
 msgstr "Comment protégé votre entreprise — Une solution par DriverPack Solution"
 
 msgid "wannacryptpromopage_info-text-3"
-msgstr "La principale raison pour laquelle le virus WannaCrypt (WannaCry) est un danger est qu'il se transmet en utilisant les failles critiques du protocol SMBv1 du système de sécurité MS17-010. C'est ce qui rend WannaCry invisible aux anti-virus. La solution de DriverPack Solution vous permet d'installer une mise-à-jour protégeant les failles critiques de votre système et de désactiver tous les protocoles périmés qui sont un danger, peu importe votre historique de licence et la version de votre OS."
+msgstr "La principale raison pour laquelle le virus WannaCrypt (WannaCry) est un danger est qu'il se propage en utilisant une vulnérabilité critique dans le protocole SMBv1 du système de sécurité MS17-010. C'est ce qui rend WannaCry invisible aux anti-virus. La solution de DriverPack Solution vous permet d'installer une mise-à-jour protégeant les failles critiques de votre système et de désactiver tous les protocoles périmés qui sont un danger, peu importe votre historique de licence et la version de votre système d'exploitation."
 
 msgid "wannacryptpromopage_links-text"
-msgstr "Le développement de cette solution a été basé sur le matériel suivent"
+msgstr "Le développement de cette solution a été basé sur les matériels suivants"
 
 msgid "wannacryptpromopage_link-smb"
-msgstr "Comment activer et désactiver les versions 1, 2 et 3 du protocole SMB pour Windows et Windows Server"
+msgstr "Comment activer et désactiver les versions 1, 2 et 3 des protocoles SMB pour Windows et Windows Server"

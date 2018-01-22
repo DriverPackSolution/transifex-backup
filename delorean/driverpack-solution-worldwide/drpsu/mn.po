@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-12-08 15:35+0000\n"
+"POT-Creation-Date: 2018-01-11 11:55+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Munkhlkhagva <juvel.artyom@gmail.com>, 2018\n"
 "Language-Team: Mongolian (https://www.transifex.com/driverpack-solution/teams/75453/mn/)\n"
@@ -22,167 +22,131 @@ msgid "admincackle_dialog-star"
 msgstr "DriverPack-ийн холболтыг үнэлж, дүгнэж өгнө үү?"
 
 msgid "admindriverpacks_landing-title"
-msgstr "Driverpacks (драйверуудын багцууд)"
+msgstr "Драйверпаки (драйверуудын багцууд) "
 
 msgid "admindriverpacks_landing-subtitle"
-msgstr "бидний driverpacks нь гар ажиллагаагаар сонгогдож, шалгагдсан {{COUNT}}драйвер-уудаас бүрддэг."
+msgstr "Бидний драйверпаки нь гар ажиллагаагаар сонгогдож, шалгагдсан {{COUNT}}драйвер-уудаас бүрддэг"
 
 msgid "admindriverpacks_download"
 msgstr "Татаж авах"
 
 msgid "adminfaq_landing-title"
-msgstr "Бид таны асуултанд хариулт өгнө."
+msgstr "Бид таны асуултанд хариулт өгнө"
 
 msgid "adminfaq_landing-subtitle"
-msgstr "Хэрэглэгчид DriverPack - ын талаар их асуудаг — Бид хамгийн түгээмэл асуудаг асуултуудад хариулт өгдөг."
+msgstr "Хэрэглэгчид DriverPack - ын талаар их асуудаг — Бид хамгийн түгээмэл асуудаг асуултуудад хариулт өгдөг"
 
 msgid "adminheader_cta-text"
-msgstr "Driverpack нь админуудад зориулагдан бүтээгдсэн хэдий ч ямар түвшиний хүн хэрэглэхэд хялбар юм."
+msgstr "DriverPack нь админуудад зориулагдан бүтээгдсэн хэдий ч ямар түвшиний хүн хэрэглэхэд хялбар юм"
 
 msgid "adminheader_cta-btn"
 msgstr "DriverPack Online татаж авах"
-
-msgid "adminpromo_landing-title"
-msgstr "Шинэ DriverPack 18 нь хөгжлийнхөө шатанд явж байна."
-
-msgid "adminpromo_landing-subtitle"
-msgstr "Шинэ загвар нь тусгайлан админуудад зориулагдсан бөгөөд тэдний хэрэгцээг аккаунт хэлбэрээр бүрэн хангана."
-
-msgid "adminpromo_banner-text"
-msgstr "шинэ DriverPack 18 нь ер бусын тогтвортой байдлаа батлан харуулсан өмнөх загварт тулгуурлан шинэчлэн сайжруулсан бүтээл юм. шинэ загвар нь 2017 онд гарахаар төлөблөгдсөн байна. "
-
-msgid "adminpromo_list-item-speed"
-msgstr ""
-
-msgid "adminpromo_list-item-ui"
-msgstr ""
-
-msgid "adminpromo_list-item-settings"
-msgstr ""
-
-msgid "adminpromo_list-item-soft"
-msgstr ""
-
-msgid "adminpromo_list-item-packs"
-msgstr ""
-
-msgid "adminpromo_list-item-device-support"
-msgstr ""
-
-msgid "adminpromo_list-item-expert-mode"
-msgstr ""
-
-msgid "adminpromo_list-item-stable-db"
-msgstr ""
-
-msgid "adminpromo_list-item-full-db"
-msgstr ""
 
 msgid "buttonsplitdropdown_main-button"
 msgstr "Татаж авах"
 
 msgid "breadcrumbs_main-text"
-msgstr ""
+msgstr "Үндсэн хуудас"
 
 msgid "breadcrumbs_catalog-main-text"
-msgstr ""
+msgstr " {{OS.NAME}}-т зориулсан драйвер"
 
 msgid "breadcrumbs_vendors-text"
-msgstr ""
+msgstr "Гар аргаар үйлдвэрлэгчид"
 
 #. i18n: EN: Example: VENDOR.NAME=Lenovo; RU: Пример: VENDOR.NAME=Lenovo;
 msgid "breadcrumbs_vendor-text"
-msgstr ""
+msgstr "{{VENDOR.NAME}}"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=cardreaders|monitors; RU: Пример:
 #. CLASS.PLURAL.MAIN=картридеры|мониторы;
 msgid "breadcrumbs_deviceclass-text"
-msgstr ""
+msgstr "{{CLASS.PLURAL.MAIN}}"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=cardreaders|monitors,
 #. VENDOR.NAME=Realtek; RU: Пример: CLASS.PLURAL.MAIN=картридеры|мониторы;
 #. VENDOR.NAME=Realtek;
 msgid "breadcrumbs_devicegroups-text"
-msgstr ""
+msgstr "{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
 
 #. i18n: EN: Example: GROUP.VENDOR.NAME=Nvidia, GROUP.NAME=GeForce 210; RU:
 #. Пример: GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210;
 msgid "breadcrumbs_devicegroup-text"
-msgstr ""
+msgstr "{{GROUP.VENDOR.NAME}} {{GROUP.NAME}}"
 
 msgid "breadcrumbs_notebooks-text"
-msgstr ""
+msgstr "Зөөврийн компьютерууд"
 
 #. i18n: EN: Example: VENDOR.NAME=Asus; RU: Пример: VENDOR.NAME=Asus;
 msgid "breadcrumbs_notebookvendor-text"
-msgstr ""
+msgstr "{{VENDOR.NAME}} зөөврийн компьютерүүд"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=X1 carbon;
 #. RU: Пример: NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=X1 carbon;
 msgid "breadcrumbs_notebook-text"
-msgstr ""
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=Videocards|Chipsets ,
 #. NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=G580; RU: Пример:
 #. CLASS.PLURAL.MAIN=видеокарты|чипсеты, NOTEBOOK.VENDOR.NAME=Lenovo,
 #. NOTEBOOK.NAME=G580;
 msgid "breadcrumbs_notebookdevices-text"
-msgstr ""
+msgstr "{{CLASS.PLURAL.MAIN}}-ийн {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} зөөврийн компьютер"
 
 msgid "devicecard_download-btn"
-msgstr ""
+msgstr "Драйвер татах"
 
 #. i18n: EN: Example: NAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10 x86; Text
 #. for {{DOWNLOAD}} is in key drivercard_no-results_download-link; RU: Пример:
 #. NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10 x86; Текст для
 #. {{DOWNLOAD}} находится в ключе drivercard_no-results_download-link;
 msgid "devicecard_details_no-results-text"
-msgstr ""
+msgstr "Драйвер {{NAME}} нь Windows зориулагдсан бөгөөд {{OSVERSIONS}} нь энэ танилцуулганаас олдохгүй. {{DOWNLOAD}}-ыг дарснаар автоматаар сонгох боломжтой."
 
 msgid "devicecard_details_no-results_download-link"
 msgstr "DriverPack-г татах"
 
 msgid "devicecard_details-content-text"
-msgstr ""
+msgstr "Мэдээлэл ачааллаж байна..."
 
 msgid "devicecard_details_all-systems"
-msgstr ""
+msgstr "бүх системүүд"
 
 msgid "devicecard_details-content-label-version"
-msgstr ""
+msgstr "Хувилбар:"
 
 msgid "devicecard_details-content-label-version-recommended"
-msgstr ""
+msgstr "санал болгогдож буй"
 
 msgid "devicecard_details-content-label-date"
-msgstr ""
+msgstr "Он сар өдөр:"
 
 msgid "devicecard_details-content-label-type"
-msgstr ""
+msgstr "Драйверийн төрөл:"
 
 msgid "devicecard_details-content-label-manufacturer"
-msgstr ""
+msgstr "Гар аргаар үйлдвэрлэгч:"
 
 msgid "devicecard_details-content-label-systems"
-msgstr ""
+msgstr "Холбож буй системүүд:"
 
 msgid "devicecard_details-content-label-deviceid"
-msgstr ""
+msgstr "Device ID:"
 
 msgid "devicecard_details-content-label-inf"
-msgstr ""
+msgstr "File *.inf:"
 
 msgid "devicecard_details-content-label-section"
-msgstr ""
+msgstr "Категори:"
 
 msgid "devicecard_details-links-merged_label"
-msgstr ""
+msgstr "Танд хэрэгтэй Device ID жагсаалтнаас олдохгүй бол хайлтын шугаманд оруул"
 
 msgid "devicecard_details-links-notebook_device"
-msgstr ""
+msgstr "Бүх драйверыг харах"
 
 msgid "devicecard_details-links"
-msgstr ""
+msgstr "Бүх драйверүүдыг хармар аядах"
 
 msgid "devicecardlist_no-result_download-link"
 msgstr "DriverPack-г татах"
@@ -193,7 +157,7 @@ msgstr "DriverPack-г татах"
 #. x86; Текст для {{DOWNLOAD}} находится в ключе devicecardlist_no-
 #. result_download-link;
 msgid "devicecardlist_no-results-device-text"
-msgstr ""
+msgstr "Драйвер {{DEVICENAME}} нь Windows  зориулагдсан бөгөөд {{OSVERSIONS}} нь энэ танилцуулганаас олдохгүй. {{DOWNLOAD}}-ыг дарснаар автоматаар сонгох боломжтой."
 
 #. i18n: EN: Example: DEVICECLASS=chipsets|videocards; NOTEBOOK=Acer AO521;
 #. OSVERSIONS=Windows 10 x86; Text for {{DOWNLOAD}} is in key
@@ -202,372 +166,372 @@ msgstr ""
 #. OSVERSIONS=Windows 10 x86; Текст для {{DOWNLOAD}} находится в ключе
 #. devicecardlist_no-result_download-link;
 msgid "devicecardlist_no-results-notebook-text"
-msgstr ""
+msgstr "Драйвер нь {{NOTEBOOK}} Windows зөөврийн компьютерт зориулагдсан бөгөөд {{OSVERSIONS}} танилцуулганаас олдохгүй. {{DOWNLOAD}}-ыг дарснаар автоматаар сонгох боломжтой."
 
 #. i18n: EN: Example: NOTEBOOK=Acer AO521; OSVERSIONS=Windows 10 x86; Text for
 #. {{DOWNLOAD}} is in key devicecardlist_no-result_download-link; RU: Пример:
 #. NOTEBOOK=Acer AO521; Пример: OSVERSIONS=Windows 10 x86; Текст для
 #. {{DOWNLOAD}} находится в ключе devicecardlist_no-result_download-link;
 msgid "devicecardlist_no-results-notebook-device-class-text"
-msgstr ""
+msgstr "Драйвер {{DEVICECLASS}} нь {{NOTEBOOK}} Windows зөөврийн компьютерт зориулагдсан бөгөөд {{OSVERSIONS}} нь олдохгүй. {{DOWNLOAD}}-ыг дарснаар автоматаар драйверыг сонгох боломжтой."
 
 msgid "devicegrouppage_all-systems"
-msgstr ""
+msgstr "бүх системүүд"
 
 msgid "notebookpage_all-systems"
-msgstr ""
+msgstr "бүх системүүд"
 
 msgid "devicegroupfilters_filter-title"
-msgstr ""
+msgstr "Боломжит драйверууд"
 
 msgid "deviceidfilters-filter-label-version"
-msgstr ""
+msgstr "Драйверийн хувилбар:"
 
 msgid "deviceidheader_caption-single"
-msgstr ""
+msgstr "Төхөөрөмжийн нэр:"
 
 msgid "deviceidheader_caption-many"
-msgstr ""
+msgstr "Энэ төхөөрөмжийг өөрөөр:"
 
 msgid "devicetypelist_title_os"
-msgstr ""
+msgstr " {{OS}} төхөөрөмжинд зориулсан драйвер"
 
 msgid "devicetypelist_title"
-msgstr ""
+msgstr "Төхөөрөмжинд тохирсон драйвер хайх"
 
 msgid "search_noresult"
-msgstr "DriverPack онлайн татаж авах"
+msgstr "DriverPack Online татаж авах"
 
 #. i18n: EN: Example: NAME=Acer Aspire 4830TG; OSVERSIONS=Windows 10 x86; Text
 #. for {{DOWNLOAD}} is in key drivercard_no-results_download-link; RU: Пример:
 #. NAME=Acer Aspire 4830TG; Пример: OSVERSIONS=Windows 10 x86; Текст для
 #. {{DOWNLOAD}} находится в ключе drivercard_no-results_download-link;
 msgid "drivercard_no-results-text"
-msgstr ""
+msgstr "Драйвер {{NAME}} нь Windows зориулагдсан бөгөөд {{OSVERSIONS}} нь энэ танилцуулганаас олдохгүй. {{DOWNLOAD}}-ыг дарснаар автоматаар сонгох боломжтой."
 
 msgid "drivercard_no-results_download-link"
 msgstr "DriverPack-г татах"
 
 msgid "drivercard_caption-version"
-msgstr ""
+msgstr "Хувилбар:"
 
 msgid "drivercard_caption-version-recommended"
-msgstr ""
+msgstr "санал болгогдож буй"
 
 msgid "drivercard_caption-date"
-msgstr ""
+msgstr "Он сар өдөр:"
 
 msgid "drivercard_caption-class"
-msgstr ""
+msgstr "Төхөөрөмжийн төрөл:"
 
 msgid "drivercard_caption-manufacturer"
-msgstr ""
+msgstr "Гар аргаар үйлдвэрлэгч:"
 
 msgid "drivercard_caption-os"
-msgstr ""
+msgstr "Холбож буй системүүд:"
 
 msgid "drivercard_caption-deviceid"
-msgstr ""
+msgstr "Device ID:"
 
 msgid "drivercard_caption-inf"
-msgstr ""
+msgstr "File *.inf:"
 
 msgid "drivercard_caption-section"
-msgstr ""
+msgstr "Категори:"
 
 msgid "drivercard_caption-btn"
-msgstr ""
+msgstr "Драйвер татах"
 
 msgid "deviceidpage_all-systems"
-msgstr ""
+msgstr "бүх системүүд"
 
 msgid "dropdowndriverversion_no-results"
-msgstr ""
+msgstr "Сонгосон OS -д тохирсон драйвер олдохгүй байна"
 
 msgid "dropdownos_current"
-msgstr ""
+msgstr "одоогийн"
 
 msgid "footer_banner-title"
-msgstr ""
+msgstr "Та өөрийн төхөөрөмжинд тохирсон драйвер хайсаар залхаж байна уу?"
 
 msgid "footer_banner-caption"
-msgstr ""
+msgstr "DriverPack Online <span style='color: {{COLOR}}'>нь танд хэрэгтэй</span> драйверуудыг автоматаар хайж, суулгаж өгнө"
 
 msgid "footer_banner_btn"
-msgstr ""
+msgstr "<span class='bold'>DriverPack Online</span>-ыг үнэгүй татаж авах"
 
 msgid "footer_translate-feedback"
-msgstr ""
+msgstr "Та ямар нэгэн хэвлэлтийн болон үгийн алдаа олсон уу?<br />Олсон бол тодруулаад энд дарна уу {{HOTKEY}}"
 
 msgid "header_search-title"
-msgstr ""
+msgstr "<span class='bold'>Driver search over</span> хамгийн том мэдээллийн сан — 1 сая гаруй драйвертай"
 
 msgid "header_search-examples"
-msgstr ""
+msgstr "Жишээлбэл:"
 
 msgid "header_cta-text"
-msgstr ""
+msgstr " DriverPack -ыг автомат драйвер сонголттойгоор татаж авах"
 
 msgid "header_cta-btn"
-msgstr ""
+msgstr "Драйверуудыг автоматаар суулгах"
 
 msgid "header_cta-label-1"
-msgstr ""
+msgstr "энэ <span style='color: {{COLOR}}'>шууд</span> татаж авагдана"
 
 msgid "header_cta-label-2"
-msgstr ""
+msgstr "Энэ нь <span style='color: {{COLOR}}'>драйверуудыг автоматаар</span> сонгож, суулгаж өгнө"
 
 msgid "headerbutton_title"
-msgstr ""
+msgstr "Драйверуудыг автоматаар суулгах"
 
 msgid "headerbutton_label"
-msgstr ""
+msgstr "DriverPack софтваре ямар ч шимтгэл төлөх шаардлагагүй"
 
 msgid "headeros_cta-btn"
-msgstr ""
+msgstr "<span class='HeaderOs__cta-btn-marked'>{{OS}}</span>-д зориулсан драйверууд суулгах"
 
 msgid "headeros_search-text"
-msgstr ""
+msgstr "Эсвэл манай үлэмж том драйверуудын сангаас хайлт хийх цэсийг ашиглах"
 
 msgid "landingdevicetypelist_landing-title"
-msgstr ""
+msgstr "DriverPack бүх төрлийн төхөөрөмжинд тохиромжтой"
 
 msgid "landingdevicetypelist_landing-subtitle"
-msgstr ""
+msgstr " Windows 7 SP1-т суурилсан USB 3.0-д хүртэл зориулагдсан"
 
 msgid "landingdevicetypelist_cta-btn"
-msgstr ""
+msgstr "Бүх шаардлагатай драйверүүдийг суулга"
 
 msgid "landingdevicetypelist_versions"
-msgstr ""
+msgstr "Бусад DriverPack-ын хувилбарууд"
 
 msgid "landingfeatures_landing-title"
-msgstr ""
+msgstr "DriverPack нь компьютерийг хэлбэрчлэх хамгийн хялбар, хурдан арга зам юм"
 
 msgid "landingfeatures_landing-subtitle"
-msgstr ""
+msgstr "Софтваре нь мэргэжлийнхэн болон анхлан хэрэглэгчдийн алинд ч тохиромжтой бөгөөд үнэ төлбөргүй үйлчилгээ юм"
 
 msgid "landingfeatures_item-title-free"
-msgstr ""
+msgstr "Үнэгүй"
 
 msgid "landingfeatures_item-caption-free"
-msgstr ""
+msgstr "DriverPack нь үнэ төлбөргүй байхаар хийгдсэн"
 
 msgid "landingfeatures_item-title-safe"
 msgstr "аюулгүй"
 
 msgid "landingfeatures_item-caption-safe"
-msgstr ""
+msgstr "DriverPack албан ёсоор вирусын эсрэг софтваре гар аргаар үйлдвэрлэгчидтэй хамтарч таны компьютерийг хамгаалдаг"
 
 msgid "landingfeatures_item-title-for-all-devices"
-msgstr ""
+msgstr "Бүх төхөөрөмжинд зориулсан"
 
 msgid "landingfeatures_item-caption-for-all-devices"
-msgstr ""
+msgstr "DriverPack дэлхий дээрх хамгийн том драйверуудын өгөгдлийн сантай бөгөөд бүх төрлийн компьютерийг хэлбэрчлэх боломжтой"
 
 msgid "landingheader_cta-text"
-msgstr ""
+msgstr "DriverPack драйверуудыг үнэгүй суулгаж, бүх төхөөрөмж дээрх драйвертай холбоотой асуудлуудыг шийдвэрлэнэ"
 
 msgid "landingheader_cta-btn"
-msgstr ""
+msgstr "Бүх шаардлагатай драйверүүдийг суулга"
 
 msgid "landingheadernav_badrabbit"
-msgstr ""
+msgstr " Bad Rabbit-ын эсрэг хамгаалалт"
 
 msgid "landingheadernav_search"
-msgstr ""
+msgstr "Driver Хайлт"
 
 msgid "landingheadernav_foradmin"
-msgstr ""
+msgstr "Системийн Админуудад"
 
 msgid "landingintroduction_author-title"
-msgstr ""
+msgstr "Сайн байна уу! Намайг Artur Kuzyakov гэдэг. Би бол DriverPack-ыг үндэслэн байгуулагч, ерөнхий захирал."
 
 msgid "landingintroduction_author-speech"
-msgstr ""
+msgstr "8 н жилийн өмнө цэвэр хүсэл сонирхлын үндсэн дээр бичигдсэн cофтваре-ийн жижиг хэсгээс эхлэсэн бид өдийд дэлхий даяар 40 гаруй сая хүнд өөрсдийн компьютероо хэлбэрчлэхэд нь тусалсан компани болтлоо өөрчлөгдөж чадсан!<br /><br />Энэ хугацаанд бидний cофтваре санаанд оромгүй хурдан бас ухаалаг болсон. Өнөөдрийн байдлаар DriverPack нь дэлхий дээрх өвөрмөц драйверуудыг агуулсан хамгийн том сан бөгөөд дэлхийн хаа сайгүй байрлах хэт өндөр хурдны серверүүдэд суурилдаг. Драйвер суулгах процессийг үргэлжид хурдан, хамгийн өндөр чанартай явуулахын тулд бид өөрсдийн алгоритмыг сайжруулж, улам нямбай ажиллагаатай явуулдаг автоматаар суралцах технологийг ашигладаг. Бид энэ бүх сайжруулалтыг хийхдээ Софтваре ээ ямар ч төлбөр шаардахгүй, бүх хүнд хүртээмжтэй байхаар зохицуулдаг. <br /><br />Би болон манай багийнхан өөрсдийн бүтээгдэхүүнээр бахархдагаас гадна таны үнэнч туслах байж бүх төрлийн компьютерийг боломжит хамгийн бага хугацаанд хэлбэрчилж чадна гэдэгт итгэж байна."
 
 msgid "landingintroduction_author-speech-marked"
-msgstr ""
+msgstr "Бид өөрсдийн бүхий л цагийг таны өмчийг хамгаалахад зориулж байна"
 
 msgid "landingintroduction_video-caption"
-msgstr ""
+msgstr "Харин энд Орос улсын ерөнхий сайд Дмитрий Медведев DriverPack Solution-ы талаар санал бодлоо илэрхийлсэн байна"
 
 msgid "landingnotebookvendorslist_landing-title"
-msgstr ""
+msgstr "DriverPack бүх төрлийн компьютерт тохиромжтой"
 
 msgid "landingnotebookvendorslist_landing-subtitle"
-msgstr ""
+msgstr "Тиймээ, БҮХ компьютерт - бид шалгаж үзсэн!"
 
 msgid "landingnotebookvendorslist_cta-btn"
-msgstr ""
+msgstr "Бүх шаардлагатай драйверүүдийг суулга"
 
 msgid "landingnotebookvendorslist_versions"
-msgstr ""
+msgstr "Бусад DriverPack-ын хувилбарууд"
 
 msgid "landingproducts_cta-title"
-msgstr ""
+msgstr "Өөрийн DriverPack-аа сонго"
 
 msgid "landingproducts_cta-description"
-msgstr ""
+msgstr "Өөртөө тохирсон багцыг татаж авна уу"
 
 msgid "landingproducts_item-title-online"
-msgstr ""
+msgstr "DriverPack Online"
 
 msgid "landingproducts_item-description-online"
-msgstr ""
+msgstr "Энэ шууд татагдана, интернет-д холбогдсон л бол бүх драйверуудыг татаж, суулгаж болно <span class='nobr'>({{SIZE}})</span>"
 
 msgid "landingproducts_item-version"
-msgstr ""
+msgstr "Хувилбар:"
 
 msgid "landingproducts_item-button"
 msgstr "Татаж авах"
 
 msgid "landingproducts_item-title-network"
-msgstr ""
+msgstr "DriverPack Offline Network"
 
 msgid "landingproducts_item-description-network"
-msgstr ""
+msgstr "(Lan/Wi-Fi) гэх мэт сүлжээний Хардваре-д зориулсан драйверуудыг агуулсан, интернет холболтгүй үед ашиглах боломжтой <span class='nobr'>({{SIZE}})</span>"
 
 msgid "landingproducts_item-title-offline"
-msgstr ""
+msgstr "DriverPack Offline Full"
 
 msgid "landingproducts_item-description-offline"
-msgstr ""
+msgstr "Энэ нь бүх драйверуудыг агуулдгаас гадна интернет холболтгүй үед ашиглах боломжтой, Torrent-tracker ашиглан татаж болно <span class='nobr'>({{SIZE}})</span>"
 
 msgid "landingpublications__landing-title"
-msgstr ""
+msgstr "DriverPack-ын тухай хэвлэл мэдээллийн хэрэгслээр түгсэн ихэнх нийтлэлүүд"
 
 msgid "landingscreenshots_landing-title"
-msgstr ""
+msgstr "DriverPack нь компьютерийг хэлбэрчлэх хамгийн хялбар, хурдан арга зам юм"
 
 msgid "landingscreenshots_landing-subtitle"
-msgstr ""
+msgstr "Cофтваре нь мэргэжлийнхэн болон анхлан хэрэглэгчдийн алинд ч тохиромжтой бөгөөд үнэ төлбөргүй үйлчилгээ юм"
 
 msgid "landingsocial_landing-title"
-msgstr ""
+msgstr "DriverPack-ын бүлгэмд нэгд"
 
 msgid "landingsocial_landing-subtitle"
-msgstr ""
+msgstr "Мэдээний агуулгыг дагаад, хэлэлцүүлэгт оролц"
 
 msgid "landingtopvideocardlist_landing-title"
-msgstr ""
+msgstr "Алдартай видео картны загварууд"
 
 msgid "landingtopvideocardlist_landing-caption"
-msgstr ""
+msgstr "DriverPack бүх загварын видео картанд зориулсан драйвер сонгодог, энд хамгийн алдартай заримыг нь харуулж байна"
 
 msgid "landingusers_cta"
-msgstr ""
+msgstr "DriverPack хэрэглэгчдийн тоо дэлхийн даяар секунд бүрт өсөн нэмэгдсээр байна"
 
 msgid "landingusers_cta-btn"
-msgstr ""
+msgstr "Бүх шаардлагатай драйверүүдийг суулга"
 
 msgid "landingusers_versions"
-msgstr ""
+msgstr "Бусад DriverPack-ын хувилбарууд"
 
 msgid "landingvideocardlist_landing-title"
-msgstr ""
+msgstr "Алдартай видео карт гар аргаар үйлдвэрлэгчид"
 
 msgid "landingwizard_landing-title"
-msgstr ""
+msgstr "Одоо компьютерийг ганцхан товч дарснаар хэлбэрчлэх боломжтой боллоо"
 
 msgid "landingwizard_item-caption-download"
-msgstr ""
+msgstr "DriverPack Online-г татаж аваад, ажиллуул"
 
 msgid "landingwizard_item-caption-setup"
-msgstr ""
+msgstr "Ганцхан энгийн үйлдлээр өөрийнхөө компьютерийг хэлбэрчил"
 
 msgid "landingwizard_item-caption-profit"
-msgstr ""
+msgstr "Тиймээ! Миний компьютер одоо яг л шинэ юм шиг ажиллаж байна!"
 
 msgid "landingwizard_cta-btn"
-msgstr ""
+msgstr "Бүх шаардлагатай драйверүүдийг суулга"
 
 msgid "navbar_download-link-short"
 msgstr "Татаж авах"
 
 msgid "navbar_download-link"
-msgstr "DriverPack онлайн татаж авах"
+msgstr "DriverPack Online татаж авах"
 
 msgid "notfound_cta-text"
-msgstr ""
+msgstr "DriverPack Online-ыг үнэгүй ашиглан, драйверүүдийг автоматаар олж суулгах боломжтой"
 
 msgid "notfound_cta-btn"
-msgstr "DriverPack онлайн татаж авах"
+msgstr "DriverPack Online татаж авах"
 
 msgid "notfound_info-404"
-msgstr ""
+msgstr "{{404}} — нэвтрэхийг хүссэн хуудас олдохгүй байна"
 
 msgid "notfound_info-500"
-msgstr ""
+msgstr "{{500}} — ямар нэг зүйл буруу байна (серверийн алдаа)"
 
 msgid "notebookfilters-title"
-msgstr ""
+msgstr "Боломжит драйверүүд"
 
 msgid "notebookvendorslist_other-text"
-msgstr ""
+msgstr "Бусад гар аргаар үйлдвэрлэгчид"
 
 msgid "notebookvendorslist_title_os"
-msgstr ""
+msgstr "{{OS}}-д байх зөөврийн компьютерүүдийн драйверууд"
 
 msgid "notebookvendorslist_title"
-msgstr ""
+msgstr "Зөөврийн компьютерүүдэд зориулсан драйвер"
 
 msgid "productlandingheader-online_cta-btn"
-msgstr "DriverPack онлайн татаж авах"
+msgstr "DriverPack Online татаж авах"
 
 msgid "productlandingheader-online_caption"
-msgstr ""
+msgstr "DriverPack Online - ердөө {{SIZE}} хэмжээтэй хамгийн алдартай бүтээгдэхүүн. Өөрөө шууд татагдахаас гадна таны суурин болон зөөврийн компьютерт тохирсон драйверуудыг сонгодог. Татагдсаныхаа дараа шаардлагатай бүх драйверуудыг интернетээр татаж суулгадаг. Зөвхөн интернеттэй үед холбогддог энэ хувилбар энгийн хэрэглэгчдэд төгс зохицно."
 
 msgid "productlandingheader-network_cta-btn"
-msgstr ""
+msgstr "DriverPack Offline Network татаж авах"
 
 msgid "productlandingheader-network_caption"
 msgstr ""
 
 msgid "productlandingheader-offline_cta-btn"
-msgstr ""
+msgstr "DriverPack Offline Full татаж авах"
 
 msgid "productlandingheader-offline_caption"
 msgstr ""
 
 msgid "promoheader_cta-text-gamers"
-msgstr ""
+msgstr "Таны компьютер бодсоноос чинь илүү хүчтэй: бүх драйверуудаа үнэ төлбөргүй шинэчил"
 
 msgid "promoheader_cta-text-gamers-caption"
 msgstr ""
 
 msgid "promoheader_cta-text"
-msgstr ""
+msgstr "DriverPack драйверуудыг үнэгүй суулгаж, бүх төхөөрөмж дээрх драйвертай холбоотой асуудлуудыг шийдвэрлэнэ"
 
 msgid "promoheader_cta-btn"
-msgstr ""
+msgstr "Бүх шаардлагатай драйверүүдийг суулга"
 
 msgid "promoheader_size"
-msgstr ""
+msgstr "Файлын хэмжээ: {{SIZE}} KB"
 
 msgid "promoheader_license"
-msgstr ""
+msgstr "Лицензийн Зөвшөөрөл"
 
 msgid "promoheader_os-versions"
-msgstr ""
+msgstr "Софтваре нь Windows 10, 8.1, 8, 7, Vista, XP-д тохиромжтой"
 
 msgid "promoheader_uninstall"
-msgstr ""
+msgstr "DriverPack арилгалт"
 
 msgid "reviewheader_cta-text"
 msgstr ""
 
 msgid "reviewheader_cta"
-msgstr ""
+msgstr "DriverPack-г сайжруулах тал дээр өөрийн үзэл бодол зөвөлгөөг нэмэх"
 
 msgid "search_input-placeholder"
-msgstr ""
+msgstr "Driver, laptop болон DeviceID-ийн нэрээр хайлт хийх"
 
 msgid "search_btn-text"
-msgstr "хайх"
+msgstr "Хайх"
 
 msgid "searchformitem_type-section"
-msgstr ""
+msgstr "Категори"
 
 msgid "searchformitem_type-notebook"
 msgstr "зөөврийн компьютер"
@@ -576,11 +540,11 @@ msgid "searchformitem_type-device"
 msgstr "сүлжээний төхөөрөмж"
 
 msgid "searchformitem_type-free"
-msgstr "Үнэгүйгээр"
+msgstr "үнэгүйгээр"
 
 #. i18n: EN: Example: NAME=Acer; RU: Пример: NAME=Acer;
 msgid "generatesearchitemname_notebookvendor"
-msgstr "{{NAME}} Зөөврийн компьютерүүд"
+msgstr "{{NAME}} зөөврийн компьютерүүд"
 
 #. i18n: EN: Example: NAME=Asus; RU: Пример: NAME=Asus;
 msgid "generatesearchitemname_vendor"
@@ -599,76 +563,76 @@ msgid "deviceclasses_bluetooth-plural-for"
 msgstr "Bluetooth төхөөрөмжүүд"
 
 msgid "deviceclasses_cardreader-single-main"
-msgstr "Карт уншигч"
+msgstr "карт уншигч"
 
 msgid "deviceclasses_cardreader-single-for"
-msgstr "Карт уншигч"
+msgstr "карт уншигч"
 
 msgid "deviceclasses_cardreader-plural-main"
-msgstr "Карт уншигчид"
+msgstr "карт уншигчид"
 
 msgid "deviceclasses_cardreader-plural-for"
-msgstr "Карт уншигчид"
+msgstr "карт уншигчид"
 
 msgid "deviceclasses_chipset-single-main"
-msgstr "Чипсэт"
+msgstr "чипсэт"
 
 msgid "deviceclasses_chipset-single-for"
-msgstr "Чипсэт"
+msgstr "чипсэт"
 
 msgid "deviceclasses_chipset-plural-main"
-msgstr "Чипсэтүүд"
+msgstr "чипсэтүүд"
 
 msgid "deviceclasses_chipset-plural-for"
-msgstr "Чипсэтүүд"
+msgstr "чипсэтүүд"
 
 msgid "deviceclasses_inputdev-single-main"
-msgstr "Оролтын төхөөрөмж"
+msgstr "оролтын төхөөрөмж"
 
 msgid "deviceclasses_inputdev-single-for"
-msgstr "Оролтын төхөөрөмж"
+msgstr "оролтын төхөөрөмж"
 
 msgid "deviceclasses_inputdev-plural-main"
-msgstr "Оролтын төхөөрөмжүүд"
+msgstr "оролтын төхөөрөмжүүд"
 
 msgid "deviceclasses_inputdev-plural-for"
-msgstr "Оролтын төхөөрөмжүүд"
+msgstr "оролтын төхөөрөмжүүд"
 
 msgid "deviceclasses_lan-single-main"
-msgstr "Цахим карт"
+msgstr "цахим карт"
 
 msgid "deviceclasses_lan-single-for"
-msgstr "Цахим карт"
+msgstr "цахим карт"
 
 msgid "deviceclasses_lan-plural-main"
-msgstr "Цахим картнууд"
+msgstr "цахим картнууд"
 
 msgid "deviceclasses_lan-plural-for"
-msgstr "Цахим картнууд"
+msgstr "цахим картнууд"
 
 msgid "deviceclasses_massstorage-single-main"
-msgstr "Удирдлага"
+msgstr "удирдлага"
 
 msgid "deviceclasses_massstorage-single-for"
-msgstr "Удирдлага"
+msgstr "удирдлага"
 
 msgid "deviceclasses_massstorage-plural-main"
-msgstr "Удирдлагууд"
+msgstr "удирдлагууд"
 
 msgid "deviceclasses_massstorage-plural-for"
-msgstr "Удирдлагууд"
+msgstr "удирдлагууд"
 
 msgid "deviceclasses_modem-single-main"
-msgstr "Модем"
+msgstr "модем"
 
 msgid "deviceclasses_modem-single-for"
-msgstr "Модем"
+msgstr "модем"
 
 msgid "deviceclasses_modem-plural-main"
-msgstr "Модемууд"
+msgstr "модемууд"
 
 msgid "deviceclasses_modem-plural-for"
-msgstr "Модемууд"
+msgstr "модемууд"
 
 msgid "deviceclasses_monitor-single-main"
 msgstr "хяналтын самбар"
@@ -683,28 +647,28 @@ msgid "deviceclasses_monitor-plural-for"
 msgstr "хяналтын самбарууд"
 
 msgid "deviceclasses_phone-single-main"
-msgstr "Ухаалаг гар утас"
+msgstr "ухаалаг гар утас"
 
 msgid "deviceclasses_phone-single-for"
-msgstr "Ухаалаг гар утас"
+msgstr "ухаалаг гар утас"
 
 msgid "deviceclasses_phone-plural-main"
-msgstr "Ухаалаг гар утаснууд"
+msgstr "ухаалаг гар утаснууд"
 
 msgid "deviceclasses_phone-plural-for"
-msgstr "Ухаалаг гар утаснууд"
+msgstr "ухаалаг гар утаснууд"
 
 msgid "deviceclasses_printer-single-main"
-msgstr "Хэвлэгч"
+msgstr "хэвлэгч"
 
 msgid "deviceclasses_printer-single-for"
-msgstr "Хэвлэгч"
+msgstr "хэвлэгч"
 
 msgid "deviceclasses_printer-plural-main"
-msgstr "Хэвлэгч машинууд"
+msgstr "хэвлэгч машинууд"
 
 msgid "deviceclasses_printer-plural-for"
-msgstr "Хэвлэгч машинууд"
+msgstr "хэвлэгч машинууд"
 
 msgid "deviceclasses_sound-single-main"
 msgstr "дуу авианы карт"
@@ -731,58 +695,58 @@ msgid "deviceclasses_tvtuner-plural-for"
 msgstr "ТВ хүлээн-авагчид"
 
 msgid "deviceclasses_video-single-main"
-msgstr "ВИДЕО КАРТ"
+msgstr "видео карт"
 
 msgid "deviceclasses_video-single-for"
-msgstr "ВИДЕО КАРТ"
+msgstr "видео карт"
 
 msgid "deviceclasses_video-plural-main"
-msgstr "ВИДЕО КАРТНУУД"
+msgstr "видео картнууд"
 
 msgid "deviceclasses_video-plural-for"
-msgstr "ВИДЕО КАРТНУУД"
+msgstr "видео картнууд"
 
 msgid "deviceclasses_webcamera-single-main"
-msgstr "ВЭБ КАМЕРА"
+msgstr "вэб-камера"
 
 msgid "deviceclasses_webcamera-single-for"
-msgstr "ВЭБ КАМЕРА"
+msgstr "вэб-камера"
 
 msgid "deviceclasses_webcamera-plural-main"
-msgstr "Веб-камерууд"
+msgstr "вэб-камерууд"
 
 msgid "deviceclasses_webcamera-plural-for"
-msgstr "Веб-камерууд"
+msgstr "вэб-камерууд"
 
 msgid "deviceclasses_wifi-single-main"
-msgstr "Wi-Fi сүлжээний төхөөрөмж"
+msgstr "Wi-Fi сүлжээ үүсгүүр"
 
 msgid "deviceclasses_wifi-single-for"
-msgstr "Wi-Fi сүлжээний төхөөрөмж"
+msgstr "Wi-Fi сүлжээ үүсгүүр"
 
 msgid "deviceclasses_wifi-plural-main"
-msgstr "Wi-Fi сүлжээний төхөөрөмжүүд"
+msgstr "Wi-Fi сүлжээ үүсгүүрүүд"
 
 msgid "deviceclasses_wifi-plural-for"
-msgstr "Wi-Fi сүлжээний төхөөрөмжүүд"
+msgstr "Wi-Fi сүлжээ үүсгүүрүүд"
 
 msgid "deviceclasses_other-single-main"
-msgstr "Бусад сүлжээний төхөөрөмж"
+msgstr "бусад төхөөрөмжүүд"
 
 msgid "deviceclasses_other-single-for"
-msgstr "Бусад сүлжээний төхөөрөмж"
+msgstr "бусад төхөөрөмжүүд"
 
 msgid "deviceclasses_other-plural-main"
-msgstr "Бусад сүлжээний төхөөрөмжүүд"
+msgstr "бусад сүлжээний төхөөрөмжүүд"
 
 msgid "deviceclasses_other-plural-for"
-msgstr "Бусад сүлжээний төхөөрөмжүүд"
+msgstr "бусад сүлжээний төхөөрөмжүүд"
 
 msgid "searchheader_caption-subtitle"
-msgstr ""
+msgstr "Лавлагаан дундаас драйвер хайх:"
 
 msgid "searchheader_caption-filter-label"
-msgstr ""
+msgstr "Сонгогдсон OS зориулж драйвер татагдана"
 
 #. i18n: EN: Example: NOTEBOOK=Acer AO521; Text for {{DOWNLOAD}} is in key
 #. searchresult_details-content_download-link; RU: Пример: NOTEBOOK=Acer
@@ -795,19 +759,19 @@ msgid "searchresult_details-content_download-link"
 msgstr "DriverPack-г татах"
 
 msgid "searchresult_notebook"
-msgstr ""
+msgstr "Зөөврийн компьютер"
 
 msgid "searchresult_download-btn"
-msgstr ""
+msgstr "Драйверыг автоматаар суулга"
 
 msgid "searchresult_details-content-text-placeholder"
-msgstr ""
+msgstr "Мэдээлэл ачааллаж байна..."
 
 msgid "searchresult_details-content-label-1"
-msgstr ""
+msgstr "OS"
 
 msgid "searchresult_details-content-label-2"
-msgstr ""
+msgstr "бүх системүүд"
 
 #. i18n: EN: Example: DEVICE=NVIDIA GeForce 205; Text for {{DOWNLOAD}} is in
 #. key searchresult_details-content_download-link; RU: Пример: DEVICE=NVIDIA
@@ -819,37 +783,37 @@ msgstr ""
 #. i18n: EN: Example: CLASS.SINGLE.MAIN=monitor|chipset; COUNT=12; RU: Пример:
 #. CLASS.SINGLE.MAIN=монитор|чипсет; COUNT=12;
 msgid "searchresult_device"
-msgstr ""
+msgstr "{{CLASS.SINGLE.MAIN}} ({{COUNT}} үр дүнгүүд олдсон)"
 
 msgid "searchresult_details-content-text-many"
-msgstr ""
+msgstr "Энэ төхөөрөмжинд тохирсон хэдэн өөр төрлийн драйверууд олдлоо"
 
 msgid "seofooter_os-list-title"
-msgstr ""
+msgstr "Холбогч системийн хувилбарууд: <span itemprop='operatingSystem'>{{OSLIST}}</span>"
 
 msgid "seofooter_offers-title"
-msgstr ""
+msgstr "<span itemprop='offers' itemscope='' itemtype='http://schema.org/Offer'>үнэгүй авах <meta itemprop='price' content='0' />боломжтой</span>"
 
 msgid "seofooter_driver-description-title"
-msgstr ""
+msgstr "Драйверын тайлбар"
 
 msgid "seofooter_popular-drivers-title"
-msgstr ""
+msgstr "Алдартай драйверууд"
 
 msgid "sidebanner_title"
-msgstr ""
+msgstr "Драйверуудыг хайсаар залхаж байна уу?"
 
 msgid "sidebanner_caption"
-msgstr ""
+msgstr "DriverPack автоматаар <span class='SideBanner__caption-marked'>шаардлагатай драйверуудыг</span> сонгоод суулгана"
 
 msgid "translationheader_cta-text"
-msgstr ""
+msgstr "DriverPack-г дэлхий даяарх олон сая PC хэрэглэгчдэд хүртээмжтэй болгоход бидэнд туслаач — бусад хэл рүү орчуулах бидний сайн дурын үйлсэд хувь нэмрээ оруулна уу"
 
 msgid "translationheader_bubble-team"
-msgstr ""
+msgstr "Та дэлхийн хамгийн том автомат компьютер хэлбэрчлэх үйлчилгээний орчуулагчдын багт элсэхийг хүсэж байна уу?"
 
 msgid "translationheader_bubble-languages"
-msgstr ""
+msgstr "Та англи эсвэл орос хэлийг сайн мэддэг үү? Тийм бол та энэ хоёр хэлний аль нэгээс төрөлх хэл рүүгээ орчуулахад бэлэн үү?"
 
 msgid "translationheader_bubble-experience"
 msgstr ""
@@ -858,7 +822,7 @@ msgid "translationheader_bubble-email"
 msgstr ""
 
 msgid "translationlist_title"
-msgstr ""
+msgstr "DriverPack Итгэмжлэгдсэн орчуулагчдын жагсаалт"
 
 msgid "translationtool_text-transifex"
 msgstr ""
@@ -912,19 +876,19 @@ msgid "adminpagefaq_database-a"
 msgstr ""
 
 msgid "adminpagefaq_free-q"
-msgstr ""
+msgstr "DriverPack ямар ч төлбөргүи гэж үнэхээр үнэн юмуу?"
 
 msgid "adminpagefaq_free-a"
 msgstr ""
 
 msgid "adminpagefaq_antivirus-q"
-msgstr ""
+msgstr "Миний вирусны эсрэг программ DriverPack-аас вирус олсон - ийм юм байж болохуу?"
 
 msgid "adminpagefaq_antivirus-a"
 msgstr ""
 
 msgid "adminpagefaq_expert_mode-q"
-msgstr ""
+msgstr "Аль загвар нь DriverPack-ыг хэрэглэхэд хамгийн хялбар вэ?"
 
 msgid "adminpagefaq_expert_mode-a"
 msgstr ""
@@ -936,19 +900,19 @@ msgid "adminpagefaq_stable-a"
 msgstr ""
 
 msgid "badrabbitpromopage_cta-text"
-msgstr ""
+msgstr "Bad Rabbit крифтографик вирус — өөрийнхөө PC-г яаж хамгаалах вэ?"
 
 msgid "badrabbitpromopage_cta-subtext"
 msgstr ""
 
 msgid "badrabbitpromopage_cta-btn"
-msgstr ""
+msgstr "Компьютерийг хэлбэрчилж, Bad Rabbit-ын эсрэг хамгаалалт бий болго"
 
 msgid "badrabbitpromopage_caption-text"
-msgstr ""
+msgstr "Энэ софтваре үнэгүй байхаар зохиогдсон"
 
 msgid "badrabbitpromopage_info-text-title-1"
-msgstr ""
+msgstr "Bad Rabbit гэж юу вэ?"
 
 msgid "badrabbitpromopage_info-text-1"
 msgstr ""
@@ -960,135 +924,135 @@ msgid "badrabbitpromopage_info-text-2"
 msgstr ""
 
 msgid "badrabbitpromopage_links-text"
-msgstr ""
+msgstr "Энэ өвөрмөц шийдлийн хөгжил нь дараах материалуудад тулгуурласан"
 
 msgid "badrabbitpromopage_link-smb"
 msgstr ""
 
 msgid "devicegrouppage_show-more-link"
-msgstr ""
+msgstr "Илүү ихийг харах"
 
 msgid "devicestypepage_subtitle"
-msgstr ""
+msgstr "Бүх {{CLASS.SINGLE.FOR}} гар аргаар үйлдвэрлэгчид"
 
 msgid "devicetypevendorpage_subtitle-popular"
-msgstr ""
+msgstr "Алдартай {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
 
 msgid "devicetypevendorpage_subtitle-all"
-msgstr ""
+msgstr "Бүгд {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
 
 msgid "errorpage_title"
-msgstr ""
+msgstr "Error 500: дотоод серверийн алдаа"
 
 msgid "landingfooter_landing-subtitle"
-msgstr ""
+msgstr "DriverPack бүх алдартай Windows-ын загваруудад зориулсан драйверууд агуулдаг"
 
 msgid "landing-footer_catalog-os"
-msgstr ""
+msgstr "{{OS}} -т зориулсан драйвер"
 
 msgid "landing-footer_download"
 msgstr "DriverPack-г татах"
 
 msgid "landing-footer_versions"
-msgstr ""
+msgstr "Бүх аппликешний хувилбарууд"
 
 msgid "landing-footer_manufacturers"
-msgstr ""
+msgstr "Hardware гар аргаар үйлдвэрлэгчид"
 
 msgid "landing-footer_badrabbit"
-msgstr ""
+msgstr " Bad Rabbit - эсрэг хамгаалалт"
 
 msgid "landing-footer_for-admin"
-msgstr ""
+msgstr "Системийн админуудад"
 
 msgid "landing-footer_for-translators"
-msgstr ""
+msgstr "Орчуулагчдад"
 
 msgid "landing-footer_hwids"
-msgstr ""
+msgstr "Device ID"
 
 msgid "landing-footer_wannacry"
-msgstr ""
+msgstr "WannaCry-ын эсрэг хамгаалалт"
 
 msgid "landing-footer_license"
-msgstr ""
+msgstr "Лицензийн Зөвшөөрөл"
 
 msgid "landing-footer_remove"
-msgstr ""
+msgstr "DriverPack арилгалт"
 
 msgid "notfoundpage_title"
-msgstr ""
+msgstr "Error 404: хуудас олдохгүй байна"
 
 msgid "notebookpage_show-more-link"
-msgstr ""
+msgstr "Илүү ихийг харах"
 
 msgid "notebookpage_all-devices"
-msgstr ""
+msgstr "бүх төхөөрөмжинд зориулсан"
 
 msgid "notebookspage_subtitle"
-msgstr ""
+msgstr "Бүх зөөврийн том, жижиг компьютер гар аргаар үйлдвэрлэгчдийн жагсаалт"
 
 msgid "notebooksvendorpage_subtitle-popular"
-msgstr ""
+msgstr "Алдартай {{VENDOR.NAME}} зөөврийн том, жижиг компьютерүүд"
 
 msgid "notebooksvendorpage_subtitle-all"
-msgstr ""
+msgstr "Бүх {{VENDOR.NAME}} зөөврийн том, жижиг компьютерүүд"
 
 msgid "reviewpage_title"
-msgstr ""
+msgstr "DriverPack-ыг сайжруулах талаар санал хүсэлтүүд болон зөвөлгөөнүүд"
 
 msgid "searchpage_show-more-link"
-msgstr ""
+msgstr "Илүү ихийг харах"
 
 #. i18n: EN: text for {{LINK}} is in key thankyoupopup_download-link; RU:
 #. текст для {{LINK}} находится в ключе thankyoupopup_download-link;
 msgid "thankyoupopup_download-text"
-msgstr ""
+msgstr "Татаж эхлэхгүй байна уу? {{LINK}} энд дарна уу"
 
 msgid "thankyoupopup_title"
-msgstr ""
+msgstr "DriverPack-ыг эхлүүлэх"
 
 msgid "thankyoupopup_cta-text"
-msgstr ""
+msgstr "компьютертээ драйверууд сонгож, суулгаж эхлэх"
 
 msgid "thankyoupopup_download-link"
-msgstr "Татаж авах"
+msgstr "татаж авах"
 
 msgid "translate-feedback-header_caption"
 msgstr ""
 
 msgid "translate-feedback-form-popup_preview-title"
-msgstr ""
+msgstr "Та бичвэрийн дараах хэсгийг тодруулсан байна:"
 
 msgid "translate-feedback-form-popup_correct-title"
-msgstr ""
+msgstr "Яг ямар алдаа байгааг тайлбарлаж, зөв хувилбарыг нь бичиж өгнө үү?"
 
 msgid "translate-feedback-form-popup_submit"
-msgstr ""
+msgstr "Илгээх"
 
 msgid "translate-feedback-popup_title-error"
-msgstr ""
+msgstr "Ямар нэг зүйл буруу хийсэн байна"
 
 msgid "translate-feedback-popup_description-error"
 msgstr ""
 
 msgid "translate-feedback-popup_title-success"
-msgstr ""
+msgstr "Баярлалаа"
 
 msgid "translate-feedback-popup_description-success"
-msgstr ""
+msgstr "Тодруулсан бичвэр засварлагчид рүү илгээгдчихсэн."
 
 msgid "translate-feedback-popup_description-join-us"
-msgstr ""
+msgstr "Таны төрөлх хэл рүү орчуулахад бидэнд тусална уу?"
 
 msgid "translate-feedback-popup_description-join-link"
-msgstr ""
+msgstr "Манай орчуулагчдийн багт нэгдээрэй!"
 
 msgid "translationlandingpage_title"
-msgstr ""
+msgstr "DriverPack Орчуулалт"
 
 msgid "vendorpage_subtitle-popular"
-msgstr ""
+msgstr "Алдартай {{VENDOR.NAME}} төхөөрөмжүүд"
 
 msgid "wannacryptpromopage_cta-text"
 msgstr ""
@@ -1097,13 +1061,13 @@ msgid "wannacryptpromopage_cta-subtext"
 msgstr ""
 
 msgid "wannacryptpromopage_cta-btn"
-msgstr ""
+msgstr "Компьютерийг хэлбэрчилж, WannaCry-ын эсрэг хамгаалалт бий болго"
 
 msgid "wannacryptpromopage_caption-text"
-msgstr ""
+msgstr "Энэ софтваре үнэгүй байхаар зохиогдсон"
 
 msgid "wannacryptpromopage_info-text-title-1"
-msgstr ""
+msgstr "WannaCrypt гэж юу вэ?"
 
 msgid "wannacryptpromopage_info-text-1"
 msgstr ""
@@ -1115,13 +1079,13 @@ msgid "wannacryptpromopage_info-text-2"
 msgstr ""
 
 msgid "wannacryptpromopage_info-text-title-3"
-msgstr ""
+msgstr "Өөрийн бизнессээ яаж хамгаалах вэ — шийдлийг DriverPack Solution-аас"
 
 msgid "wannacryptpromopage_info-text-3"
 msgstr ""
 
 msgid "wannacryptpromopage_links-text"
-msgstr ""
+msgstr "Энэ өвөрмөц шийдлийн хөгжил нь дараах материалуудад тулгуурласан"
 
 msgid "wannacryptpromopage_link-smb"
 msgstr ""

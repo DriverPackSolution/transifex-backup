@@ -3,13 +3,15 @@
 # بهمن جهانتیغ <mikaeel2010g@gmail.com>, 2017
 # Pouria Javaheri <PouriaJavaheri@yahoo.com>, 2017
 # sepehr rahmani <sepehrahmani@mail.com>, 2018
+# Arman Mirzaei <arman.mirzaei@gmail.com>, 2018
+# Milad Zamany Pour <miladzp@live.com>, 2018
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-01-11 11:55+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
-"Last-Translator: sepehr rahmani <sepehrahmani@mail.com>, 2018\n"
+"Last-Translator: Milad Zamany Pour <miladzp@live.com>, 2018\n"
 "Language-Team: Persian (https://www.transifex.com/driverpack-solution/teams/75453/fa/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -249,32 +251,32 @@ msgstr "درایورها windows 7 8 10 64 دانلود دانلود پی سی {
 #. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
 #. GROUP.NAME=GeForce 210;
 msgid "seo_devicegroup-footer-description"
-msgstr ""
+msgstr "دانلود درایورهای {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.PLURAL.FOR}} به صورت رایگان"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
 #. GROUP.VENDOR.NAME=Nvidia; RU: Пример: CLASS.PLURAL.FOR=видеокарт|чипсетов;
 #. GROUP.VENDOR.NAME=Nvidia;
 msgid "seo_devicegroup-footer-application-category"
-msgstr ""
+msgstr "شاخه: <span itemprop='applicationCategory'>{{GROUP.VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets;
 #. GROUP.NAME=GeForce 210; RU: Пример: CLASS.PLURAL.MAIN=видеокарты|чипсеты;
 #. GROUP.NAME=GeForce 210;
 msgid "seo_devicegroup-footer-application-subcategory"
-msgstr ""
+msgstr "زیرشاخه: <span itemprop='applicationSubCategory'>{{GROUP.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
 #. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
 #. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
 #. GROUP.NAME=GeForce 210;
 msgid "seo_devicegroup-footer-content"
-msgstr ""
+msgstr "دانلود دریاورها برای {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.SINGLE.FOR}} ، یا دانلود نرم افزار DriverPack Solution به منظور دانلود و برزوسانی خودکار درایورها"
 
 msgid "seo_hwids-title"
-msgstr ""
+msgstr "دانلود درایور ابزار به وسیله Device ID آن | DriverPack Solution | صفحه {{PAGE}}"
 
 msgid "seo_hwids-description"
-msgstr ""
+msgstr "دانلود درایور ابزار به وسیله Device ID آن"
 
 msgid "seo_hwids-h1"
 msgstr "تمامی درایور ها برای دستگاه ها"
@@ -287,7 +289,7 @@ msgstr "{{DEVICE.DEVICEID}} دانلود درایور به رایگان"
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 msgid "seo_hwid-description"
-msgstr ""
+msgstr "{{DEVICE.DEVICEID}} درایور ابزار برای Windows 7، XP، 10، 8 و8.1"
 
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
@@ -297,23 +299,23 @@ msgstr "<span class='bold'>{{DEVICE.DEVICEID}}</span>"
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 msgid "seo_hwid-keywords"
-msgstr ""
+msgstr "دانلود درایورهای windows 64 بیتی نسخه 7 8 10 {{DEVICE.DEVICEID}}"
 
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 msgid "seo_hwid-footer-description"
-msgstr ""
+msgstr "دانلود مجانی راه اندازها برای دستگاه {{DEVICE.DEVICEID}}"
 
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 msgid "seo_hwid-footer-content"
-msgstr ""
+msgstr "دانلود راه انداز {{DEVICE.DEVICEID}}، یا نصب نرم افزار DriverPack Solution برای دانلود خودکار راه انداز و به روز رسانی"
 
 msgid "seo_notebooks-title"
-msgstr ""
+msgstr "دانلود راه اندازهای سیستم عامل Windows برای همۀ مدل های لپ تاپ"
 
 msgid "seo_notebooks-description"
-msgstr ""
+msgstr "بارگذاری و نصب راه انداز برای همۀ مدل های لپ تاپ و نت بوک برای Windows 7, XP, 10,8 و 8.1   یا دانلود نرم افزار DriverPack Solution برای دانلود خودکار به روز رسانی و نصب آن"
 
 msgid "seo_notebooks-h1"
 msgstr "درایور های لپ تاپ و نت بوک"
@@ -470,7 +472,7 @@ msgid "seo_devicegroupos-footer-content"
 msgstr ""
 
 msgid "seo_notebookos-title"
-msgstr ""
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} راه انداز های لپتاپ برای Windows {{OS}}"
 
 msgid "seo_notebookos-description"
 msgstr ""
@@ -605,10 +607,10 @@ msgid "seo_notebookdevicesos-footer-content"
 msgstr ""
 
 msgid "seo_promopage_title"
-msgstr ""
+msgstr "DriverPack – نصب رایگان راه انداز"
 
 msgid "seo_promo-description"
-msgstr ""
+msgstr "DriverPack Solution به شما پیشنهاد می کند که راه اندازهای دستگاهتان را به صورت رایگان نصب کنید یا نرم افزار را دانلود کنید تا راه اندازها و به روز رسانی ها را به صورت خودکار نصب کند."
 
 msgid "seo_promo-keywords"
 msgstr ""

@@ -1,0 +1,1091 @@
+# Translators:
+# Nadia Tegeneva <nadia@drp.su>, 2018
+# Vivekanandan M <bharanicompu@gmail.com>, 2018
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-01-11 11:55+0000\n"
+"PO-Revision-Date: 2016-09-23 09:12+0000\n"
+"Last-Translator: Vivekanandan M <bharanicompu@gmail.com>, 2018\n"
+"Language-Team: Tamil (https://www.transifex.com/driverpack-solution/teams/75453/ta/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ta\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "adminlandingpage_title"
+msgstr "DriverPack வன்பொருள்தொகுப்பு கணினி வல்லுநர்களுக்காக - எந்த கணினிக்கும் தானாகவே தேவையான வன்பொருளை நிறுவும்"
+
+msgid "admincackle_dialog-star"
+msgstr "தயவுசெய்து DriverPack வன்பொருள்தொகுப்பு பயன்பாட்டை மதிப்பீடு செய்யவும். "
+
+msgid "admindriverpacks_landing-title"
+msgstr "Driverpacks வன்பொருள்தொகுப்பு (அனைத்து வகை வன்பொருள்களுக்கும்) "
+
+msgid "admindriverpacks_landing-subtitle"
+msgstr "நமது driverpacks வன்பொருள்தொகுப்பில் உள்ள {{COUNT}} வன்பொருள் தேர்ந்தெடுக்கப்பட்டு, பரிசோதிக்கப்பட்டது "
+
+msgid "admindriverpacks_download"
+msgstr "பதிவிறக்கம்"
+
+msgid "adminfaq_landing-title"
+msgstr "நாங்கள் உங்கள் கேள்விகளுக்கு  பதில் அளிக்கிறோம்."
+
+msgid "adminfaq_landing-subtitle"
+msgstr "DriverPack வன்பொருள்தொகுப்பு பற்றி நீங்கள் அடிக்கடி கேட்கப்படும் கேள்விகள் —  அதில் மிக அதிகமாக பதிலளிக்கப்பட்டவற்றில் இருந்து பதிலளிக்கிறோம். "
+
+msgid "adminheader_cta-text"
+msgstr "DriverPack வன்பொருள்தொகுப்பு உருவானது அமைப்பு நிர்வாகத்தினருக்கு. ஆனால் தொடக்க நிலையிலுள்ள அனுபவமில்லாதவரும் எளிதில் பயன்படுத்தலாம்"
+
+msgid "adminheader_cta-btn"
+msgstr "DriverPack Online வன்பொருள்தொகுப்பு இணையதளம் வழியாக பதிவிறக்கம் செய்ய"
+
+msgid "buttonsplitdropdown_main-button"
+msgstr "பதிவிறக்கம்"
+
+msgid "breadcrumbs_main-text"
+msgstr "முகப்பு"
+
+msgid "breadcrumbs_catalog-main-text"
+msgstr "வன்பொருள் ஒன்று {{OS.NAME}}"
+
+msgid "breadcrumbs_vendors-text"
+msgstr "உற்பத்தியாளர்கள்"
+
+#. i18n: EN: Example: VENDOR.NAME=Lenovo; RU: Пример: VENDOR.NAME=Lenovo;
+msgid "breadcrumbs_vendor-text"
+msgstr "{{VENDOR.NAME}} விற்பனையாளர்.பெயர் "
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=cardreaders|monitors; RU: Пример:
+#. CLASS.PLURAL.MAIN=картридеры|мониторы;
+msgid "breadcrumbs_deviceclass-text"
+msgstr "{{CLASS.PLURAL.MAIN}}"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=cardreaders|monitors,
+#. VENDOR.NAME=Realtek; RU: Пример: CLASS.PLURAL.MAIN=картридеры|мониторы;
+#. VENDOR.NAME=Realtek;
+msgid "breadcrumbs_devicegroups-text"
+msgstr "{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
+
+#. i18n: EN: Example: GROUP.VENDOR.NAME=Nvidia, GROUP.NAME=GeForce 210; RU:
+#. Пример: GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210;
+msgid "breadcrumbs_devicegroup-text"
+msgstr "{{GROUP.VENDOR.NAME}} {{GROUP.NAME}}"
+
+msgid "breadcrumbs_notebooks-text"
+msgstr "மடிக்கணினிகள்"
+
+#. i18n: EN: Example: VENDOR.NAME=Asus; RU: Пример: VENDOR.NAME=Asus;
+msgid "breadcrumbs_notebookvendor-text"
+msgstr "{{VENDOR.NAME}} மடிக்கணினிகள்"
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=X1 carbon;
+#. RU: Пример: NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=X1 carbon;
+msgid "breadcrumbs_notebook-text"
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} "
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=Videocards|Chipsets ,
+#. NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=G580; RU: Пример:
+#. CLASS.PLURAL.MAIN=видеокарты|чипсеты, NOTEBOOK.VENDOR.NAME=Lenovo,
+#. NOTEBOOK.NAME=G580;
+msgid "breadcrumbs_notebookdevices-text"
+msgstr "{{CLASS.PLURAL.MAIN}} உடைய {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}லேப்டாப்"
+
+msgid "devicecard_download-btn"
+msgstr "வன்பொருள் பதிவிறக்கம்"
+
+#. i18n: EN: Example: NAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10 x86; Text
+#. for {{DOWNLOAD}} is in key drivercard_no-results_download-link; RU: Пример:
+#. NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10 x86; Текст для
+#. {{DOWNLOAD}} находится в ключе drivercard_no-results_download-link;
+msgid "devicecard_details_no-results-text"
+msgstr "வன்பொருள்கள் {{NAME}} Windows விண்டோஸிற்கு {{OSVERSIONS}} அட்டவணையில் இல்லை. {{DOWNLOAD}} தானாக நிறுவ தேர்ந்தெடுக்கவும்."
+
+msgid "devicecard_details_no-results_download-link"
+msgstr "DriverPack வன்பொருள்தொகுப்பு பதிவிறக்கம் "
+
+msgid "devicecard_details-content-text"
+msgstr "தகவல் வரிசைப்படுத்தப்படுகின்றன..."
+
+msgid "devicecard_details_all-systems"
+msgstr "அனைத்து அமைப்புகள்"
+
+msgid "devicecard_details-content-label-version"
+msgstr "பதிப்பு:"
+
+msgid "devicecard_details-content-label-version-recommended"
+msgstr "பரிந்துரைக்கப்படுவது"
+
+msgid "devicecard_details-content-label-date"
+msgstr "தேதி:"
+
+msgid "devicecard_details-content-label-type"
+msgstr "வன்பொருள் வகை:"
+
+msgid "devicecard_details-content-label-manufacturer"
+msgstr "உற்பத்தியாளர்:"
+
+msgid "devicecard_details-content-label-systems"
+msgstr "இயக்க முறைமைகள்:"
+
+msgid "devicecard_details-content-label-deviceid"
+msgstr "சாதனம் ஐடி Device ID:"
+
+msgid "devicecard_details-content-label-inf"
+msgstr "கோப்பு *.inf :"
+
+msgid "devicecard_details-content-label-section"
+msgstr "வகை:"
+
+msgid "devicecard_details-links-merged_label"
+msgstr "ஒருவேளை நீங்கள் தேடும் சாதனத்தின் ஐடி Device ID வன்பொருள் பட்டியலில் காணாவிட்டால் நீங்கள் தேடல் வரியில் பதிவிட்டு தேடவும் "
+
+msgid "devicecard_details-links-notebook_device"
+msgstr "அனைத்து வன்பொருள்கள் பார்வையிட"
+
+msgid "devicecard_details-links"
+msgstr "தேவைக்கேற்ப அனைத்து வன்பொருள்களையும் பார்வையிட"
+
+msgid "devicecardlist_no-result_download-link"
+msgstr "DriverPack வன்பொருள்தொகுப்பு பதிவிறக்கம்"
+
+#. i18n: EN: Example: DEVICENAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10
+#. x86; Text for {{DOWNLOAD}} is in key devicecardlist_no-result_download-
+#. link; RU: Пример: NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10
+#. x86; Текст для {{DOWNLOAD}} находится в ключе devicecardlist_no-
+#. result_download-link;
+msgid "devicecardlist_no-results-device-text"
+msgstr "வன்பொருள்கள் {{DEVICENAME}} Windows விண்டோஸிற்க்கு {{OSVERSIONS}} அட்டவணையில் காணப்படவில்லை. {{DOWNLOAD}} தேர்ந்தெடுக்க தானியங்கி முறையை பயன்படுத்தவும்."
+
+#. i18n: EN: Example: DEVICECLASS=chipsets|videocards; NOTEBOOK=Acer AO521;
+#. OSVERSIONS=Windows 10 x86; Text for {{DOWNLOAD}} is in key
+#. devicecardlist_no-result_download-link; RU: Пример:
+#. DEVICECLASS=чипсета|видеокарты; NOTEBOOK=Acer AO521; Пример:
+#. OSVERSIONS=Windows 10 x86; Текст для {{DOWNLOAD}} находится в ключе
+#. devicecardlist_no-result_download-link;
+msgid "devicecardlist_no-results-notebook-text"
+msgstr "வன்பொருள்கள் {{NOTEBOOK}} Windows மடிக்கணினி விண்டோஸிற்கு {{OSVERSIONS}} அட்டவணையில் காணப்படவில்லை. {{DOWNLOAD}} தேர்ந்தெடுக்க தானியங்கி முறையை பயன்படுத்தவும்."
+
+#. i18n: EN: Example: NOTEBOOK=Acer AO521; OSVERSIONS=Windows 10 x86; Text for
+#. {{DOWNLOAD}} is in key devicecardlist_no-result_download-link; RU: Пример:
+#. NOTEBOOK=Acer AO521; Пример: OSVERSIONS=Windows 10 x86; Текст для
+#. {{DOWNLOAD}} находится в ключе devicecardlist_no-result_download-link;
+msgid "devicecardlist_no-results-notebook-device-class-text"
+msgstr "உங்களுக்கு தேவையான வன்பொருள்கள் {{DEVICECLASS}} ஆக {{NOTEBOOK}} மடிக்கணினி விண்டோஸ் Windows {{OSVERSIONS}} தகவல் காணப்படவில்லை. {{DOWNLOAD}} தானியங்கி முறையை பின்பற்றவும்."
+
+msgid "devicegrouppage_all-systems"
+msgstr "அனைத்து அமைப்புகள்"
+
+msgid "notebookpage_all-systems"
+msgstr "அனைத்து அமைப்புகள்"
+
+msgid "devicegroupfilters_filter-title"
+msgstr "இருப்பிலுள்ள வன்பொருள்கள் "
+
+msgid "deviceidfilters-filter-label-version"
+msgstr "வன்பொருள் பதிப்பு:"
+
+msgid "deviceidheader_caption-single"
+msgstr "சாதனத்தின் பெயர்:"
+
+msgid "deviceidheader_caption-many"
+msgstr "இந்த சாதனம் ஏற்கனவே இவ்வாறு அறியப்பட்டுள்ளது:"
+
+msgid "devicetypelist_title_os"
+msgstr "சாதனங்களுக்கு தேவையான வன்பொருள் {{OS}}"
+
+msgid "devicetypelist_title"
+msgstr "சாதனங்களுக்காக வன்பொருள் தேடு"
+
+msgid "search_noresult"
+msgstr "DriverPack Online வன்பொருள்தொகுப்பு இணையதளம் வழியாக பதிவிறக்கம் செய்ய"
+
+#. i18n: EN: Example: NAME=Acer Aspire 4830TG; OSVERSIONS=Windows 10 x86; Text
+#. for {{DOWNLOAD}} is in key drivercard_no-results_download-link; RU: Пример:
+#. NAME=Acer Aspire 4830TG; Пример: OSVERSIONS=Windows 10 x86; Текст для
+#. {{DOWNLOAD}} находится в ключе drivercard_no-results_download-link;
+msgid "drivercard_no-results-text"
+msgstr "வன்பொருள்கள் {{NAME}} விண்டோஸிற்கு Windows {{OSVERSIONS}} அட்டவணையில் இல்லை. {{DOWNLOAD}} தானாக நிறுவ தேர்ந்தெடுக்கவும்."
+
+msgid "drivercard_no-results_download-link"
+msgstr "DriverPack வன்பொருள்தொகுப்பு  பதிவிறக்கம்"
+
+msgid "drivercard_caption-version"
+msgstr "பதிப்பு:"
+
+msgid "drivercard_caption-version-recommended"
+msgstr "பரிந்துரைக்கப்படுகிறது"
+
+msgid "drivercard_caption-date"
+msgstr "தேதி:"
+
+msgid "drivercard_caption-class"
+msgstr "சாதனத்தின் வகை:"
+
+msgid "drivercard_caption-manufacturer"
+msgstr "உற்பத்தியாளர்:"
+
+msgid "drivercard_caption-os"
+msgstr "இயக்க முறைமைகள்:"
+
+msgid "drivercard_caption-deviceid"
+msgstr "சாதனம் ஐடி Device ID:"
+
+msgid "drivercard_caption-inf"
+msgstr "கோப்பு *.inf :"
+
+msgid "drivercard_caption-section"
+msgstr "வகை:"
+
+msgid "drivercard_caption-btn"
+msgstr "வன்பொருள் பதிவிறக்கம்"
+
+msgid "deviceidpage_all-systems"
+msgstr "அனைத்து அமைப்புகள்"
+
+msgid "dropdowndriverversion_no-results"
+msgstr "தேர்ந்தெடுக்கப்பட்டுள்ள வன்பொருள் தேர்ந்தெடுக்கப்பட்டுள்ள இறைமை பொருளுக்கு ஒத்துப்போகவில்லை"
+
+msgid "dropdownos_current"
+msgstr "தற்போதுள்ள"
+
+msgid "footer_banner-title"
+msgstr "உங்கள் சாதனங்களுக்காக வன்பொருள் தேடுவதில் சிக்கல் உள்ளதா?"
+
+msgid "footer_banner-caption"
+msgstr "DriverPack Online வன்பொருள்தொகுப்பு இணையதளம் வழியாக <span style='color: {{COLOR}}'>தேவையானவற்றை தேடி நிறுவ</span> உங்களுக்கு தேவையான வன்பொருள்கள் தானாகவே "
+
+msgid "footer_banner_btn"
+msgstr "பதிவிறக்கம் <span class='bold'>DriverPack Online வன்பொருள்தொகுப்பு இணையதளம் வழியாக </span>இலவசமாக "
+
+msgid "footer_translate-feedback"
+msgstr "நீங்கள் தவறாக அல்லது தவறாகக் கண்டீர்களா?<br />அதை தேர்ந்தெடுத்து அழுத்தவும் {{HOTKEY}}"
+
+msgid "header_search-title"
+msgstr "<span class='bold'>வன்பொருள்களை தேடுங்கள்</span> மிகப்பெரிய தகவல் தளத்திலிருந்து  — பத்து லட்சத்திற்கும் அதிகமான வன்பொருள்கள்"
+
+msgid "header_search-examples"
+msgstr "உதாரணத்திற்கு:"
+
+msgid "header_cta-text"
+msgstr "தானாகவே சரியானவற்றை தேர்ந்தெடுத்து நிறுவும் DriverPack வன்பொருளை பதிவிறக்கம் செய் "
+
+msgid "header_cta-btn"
+msgstr "வன்பொருள் தானாகவே நிறுவு"
+
+msgid "header_cta-label-1"
+msgstr "அது <span style='color: {{COLOR}}'>பதிவிறக்கும்</span> உடனடியாக"
+
+msgid "header_cta-label-2"
+msgstr "இது தானாகவே <span style='color: {{COLOR}}'>தேவையானவற்றை தேர்ந்தெடுத்து வன்பொருளை தானியங்கி முறையில் நிறுவும்</span> "
+
+msgid "headerbutton_title"
+msgstr "வன்பொருள் தானாகவே நிறுவு"
+
+msgid "headerbutton_label"
+msgstr "DriverPack வன்பொருள்தொகுப்பு முற்றிலும் கட்டணமில்லா இலவசமானது"
+
+msgid "headeros_cta-btn"
+msgstr "வன்பொருள்களை நிறுவு <span class='HeaderOs__cta-btn-marked'>{{OS}}</span>"
+
+msgid "headeros_search-text"
+msgstr "அல்லது எங்கள் மிகப்பெரிய தொகுப்புதளத்தில் தேடுதல் வழியாக தேடு"
+
+msgid "landingdevicetypelist_landing-title"
+msgstr "எந்த சாதனங்களுக்கும் DriverPack வன்பொருள்தொகுப்பு பொருத்தமானது"
+
+msgid "landingdevicetypelist_landing-subtitle"
+msgstr "Windows 7 SP1 - ல் உள்ள USB 3.0 கூட "
+
+msgid "landingdevicetypelist_cta-btn"
+msgstr "அனைத்து தேவையான வன்பொருள்ககளையும் நிறுவு "
+
+msgid "landingdevicetypelist_versions"
+msgstr "மற்ற வன்பொருள்தொகுப்பு DriverPack பதிப்புகள்"
+
+msgid "landingfeatures_landing-title"
+msgstr "DriverPack வன்பொருள்தொகுப்பு ஒரு கணினியை  கட்டமைக்க மிகவும் வசதியான மற்றும் விரைவான வழி"
+
+msgid "landingfeatures_landing-subtitle"
+msgstr "இந்த மென்பொருள் இலவசமாக வழங்கப்படுகிறது, மேலும் இருதரப்பினர்களான தொழில்முறை சார்ந்தவர்களுக்கும், தொடக்கநிலையில் உள்ளவர்களுக்கும் இது பொருத்தமானது "
+
+msgid "landingfeatures_item-title-free"
+msgstr "இலவசம்"
+
+msgid "landingfeatures_item-caption-free"
+msgstr "DriverPack வன்பொருள்தொகுப்பு இலவசமாக வழங்குகிறது"
+
+msgid "landingfeatures_item-title-safe"
+msgstr "பாதுகாப்பானது"
+
+msgid "landingfeatures_item-caption-safe"
+msgstr "DriverPack வன்பொருள்தொகுப்பு அனைத்து ஆன்டி வைரஸ் தயாரிப்பாளர்களோடு அதிகாரப்பூர்வமாக ஒத்துழைக்கிறது மற்றும் உங்கள் கணினியை பாதுகாக்கிறது"
+
+msgid "landingfeatures_item-title-for-all-devices"
+msgstr "அனைத்து சாதனங்களுக்கும்"
+
+msgid "landingfeatures_item-caption-for-all-devices"
+msgstr "DriverPack வன்பொருள்தொகுப்பு உலகிலேயே மிகப்பெரிய தொகுப்பு தளத்தை கொண்டுள்ளது, மேலும் இதை பயன்படுத்தி எந்த கணினியையும் கட்டமைக்க முடியும்"
+
+msgid "landingheader_cta-text"
+msgstr "DriverPack வன்பொருள்தொகுப்பு எந்தவொரு சாதனத்தையும் அதற்குரிய வன்பொருளை இலவசமாக நிறுவி அதன் பிரச்னையை தீர்வு செய்கிறது"
+
+msgid "landingheader_cta-btn"
+msgstr "அனைத்து தேவையான வன்பொருள்ககளையும் நிறுவு "
+
+msgid "landingheadernav_badrabbit"
+msgstr "Bad Rabbit பேட் ரேப்பிட் டிற்கு எதிராக பாதுகாப்பு"
+
+msgid "landingheadernav_search"
+msgstr "வன்பொருள் தேடு"
+
+msgid "landingheadernav_foradmin"
+msgstr "அமைப்பு நிர்வாகத்தினருக்கு "
+
+msgid "landingintroduction_author-title"
+msgstr "வணக்கம்!!! என் Artur Kuzyakov பெயர் அர்துர் குஸ்யாகோவ். நான்தான் DriverPack வன்பொருள்தொகுப்பின் ஆசிரியர் மற்றும் ஸ்தாபித்தவர்"
+
+msgid "landingintroduction_author-speech"
+msgstr "8 ஆண்டுகளுக்கு முன்னர் தூய ஆர்வத்துடன் எழுதப்பட்ட மென்பொருளிலிருந்து, 40 மில்லியன் மக்களுக்கு உலகளாவிய ரீதியில் உதவுகின்ற நிறுவனமாக நாம் மாற்றியுள்ளோம்!<br /><br />இந்த நேரத்தில், எங்கள் மென்பொருள் நம்பமுடியாத வேகமானதாகவும், சிறந்ததாகவும் உள்ளது.இன்று, DriverPack வன்பொருள் தொகுப்பு உலகின் மிகப்பெரிய அதிவேக சேவையகங்களில் அமைந்துள்ள உலகின் தனிப்பட்ட இயக்கிகளின் மிகப்பெரிய தரவுத்தளமாகும். இயக்கி நிறுவலின் செயல்முறை எப்போதுமே விரைவாகவும், மிக உயர்ந்த தரத்திலும் செயல்படுவதற்காக, எங்கள் தேர்வு படிமுறை மேலும் சிறப்பாகவும் துல்லியமாகவும் செயல்படும் இயந்திர கற்றல் தொழில்நுட்பங்களைப் பயன்படுத்துகிறோம். மென்பொருளை முற்றிலும் இலவசமாகக் கொண்டிருக்கும் வகையில் இது அனைத்தையும் அடைந்துவிட்டோம், அனைவருக்கும் அதைப் பயன்படுத்த முடியும். <br /><br />என் அணி மற்றும் நான் எங்கள் தயாரிப்பு பெருமை, மற்றும் அது குறுகிய சாத்தியமான கால கட்டத்தில் எந்த கணினி கட்டமைக்கும் உங்கள் நம்பகமான உதவியாளர் ஆக நம்புகிறேன்."
+
+msgid "landingintroduction_author-speech-marked"
+msgstr "உங்கள் நேரத்தை காக்க எங்கள் எல்லா நேரத்தையும் செலவிடுகிறோம்!"
+
+msgid "landingintroduction_video-caption"
+msgstr "ரஷியன் கூட்டமைப்பு பிரதமர்,உயர்திரு Dmitry Medvedev டிமிட்ரி மெட்வெடேவ் DriverPack Solution வன்பொருள் தொகுப்பு  தீர்வு பற்றி நினைக்கிறார் என்பதை இங்கே காணுங்கள்"
+
+msgid "landingnotebookvendorslist_landing-title"
+msgstr "எல்லா வகையான கணினிக்கும் வன்பொருள்தொகுப்பு DriverPack பொருத்தமானது"
+
+msgid "landingnotebookvendorslist_landing-subtitle"
+msgstr "ஆம், எல்லா வகையான கணினிக்கும் - எங்களால் பரிசோதிக்கப்பட்டவை!"
+
+msgid "landingnotebookvendorslist_cta-btn"
+msgstr "அனைத்து தேவையான வன்பொருள்ககளையும் நிறுவு "
+
+msgid "landingnotebookvendorslist_versions"
+msgstr "மற்ற வன்பொருள்தொகுப்பு DriverPack பதிப்புகள்"
+
+msgid "landingproducts_cta-title"
+msgstr "உங்களுக்கான வன்பொருள்தொகுப்பை DriverPack தேர்ந்தெடுங்கள் "
+
+msgid "landingproducts_cta-description"
+msgstr "எனக்கு பொருந்தக்கூடிய தொகுப்பை பதிவிறக்கம் செய்"
+
+msgid "landingproducts_item-title-online"
+msgstr "DriverPack Online"
+
+msgid "landingproducts_item-description-online"
+msgstr "இது உடனடியாக பதிவிறக்கம் ஆகி, உங்களுக்கு தேவையான அனைத்து வன்பொருளையும் உடனடியாக நிறுவித்தரும். இதற்கு இணையதளம் இணைப்பு அவசியம் <span class='nobr'>({{SIZE}})</span>"
+
+msgid "landingproducts_item-version"
+msgstr "பதிப்பு:"
+
+msgid "landingproducts_item-button"
+msgstr "பதிவிறக்கம்"
+
+msgid "landingproducts_item-title-network"
+msgstr "DriverPack Offline Network"
+
+msgid "landingproducts_item-description-network"
+msgstr "நெட்ஒர்க்கிற்கு தேவையான வன்பொருளை உள்ளடக்கியது (லேன்,வைபை), இணைய உதவியின்றி பயன்படுத்த <span class='nobr'>({{SIZE}})</span>"
+
+msgid "landingproducts_item-title-offline"
+msgstr "DriverPack Offline Full"
+
+msgid "landingproducts_item-description-offline"
+msgstr "இது அனைத்து வன்பொருள் தொகுப்பையும் கொண்டுள்ளது.இதற்கு இணையதள இணைப்பு தேவையில்லை. இது டோரென்ட் ட்ராக்கர் வழியாக பதிவிறக்கம் செய்யலாம் <span class='nobr'>({{SIZE}})</span>"
+
+msgid "landingpublications__landing-title"
+msgstr "DriverPack வன்பொருள்தொகுப்பு பற்றி மாஸ் மீடியா வெளியீடு"
+
+msgid "landingscreenshots_landing-title"
+msgstr "DriverPack வன்பொருள்தொகுப்பு கணினியை கட்டமைக்க மிகவும் வசதியான மற்றும் விரைவான வழியாக உள்ளது"
+
+msgid "landingscreenshots_landing-subtitle"
+msgstr "இந்த மென்பொருள் இலவசமாக வழங்கப்படுகிறது, மேலும் இருதரப்பினர்களான தொழில்முறை சார்ந்தவர்களுக்கும், தொடக்கநிலையில் உள்ளவர்களுக்கும் இது பொருத்தமானது "
+
+msgid "landingsocial_landing-title"
+msgstr "DriverPack வன்பொருள்தொகுப்பு குழுமத்தில் சேர்க"
+
+msgid "landingsocial_landing-subtitle"
+msgstr "பின்வரும் செய்திகளில் இருந்து கலந்தாய்வுக்கு எடுத்துக் கொள்ளபட்டன "
+
+msgid "landingtopvideocardlist_landing-title"
+msgstr "பிரபலமான வீடியோ அட்டை மாதிரிகள்"
+
+msgid "landingtopvideocardlist_landing-caption"
+msgstr "DriverPack வன்பொருள்தொகுப்பிலிருந்து எந்தவொரு வீடியோ கார்டுக்கும் வன்பொருள் தேர்ந்தெடுக்கும், இங்கு மிக பிரபலமான சிலவகைகளில் ஒன்று"
+
+msgid "landingusers_cta"
+msgstr "உலகெங்கிலும் DriverPack வன்பொருள்தொகுப்பை பயன்படுத்தும் பயனர்கள் ஒவ்வொரு வளரும் நொடியில் "
+
+msgid "landingusers_cta-btn"
+msgstr "அனைத்து தேவையான வன்பொருள்களையும் நிறுவு "
+
+msgid "landingusers_versions"
+msgstr "மற்ற வன்பொருள்தொகுப்பு DriverPack பதிப்புகள்"
+
+msgid "landingvideocardlist_landing-title"
+msgstr "பிரபலமான வீடியோ கார்ட் தயாரிப்பாளர்கள்"
+
+msgid "landingwizard_landing-title"
+msgstr "தற்போது ஒரு கிளிக்கில் கணினியை கட்டமைக்க முடியும்"
+
+msgid "landingwizard_item-caption-download"
+msgstr "பதிவிறக்கம் செய்து தொடங்கவும் DriverPack Online வன்பொருள்தொகுப்பு இணையதளம் உதவியோடு "
+
+msgid "landingwizard_item-caption-setup"
+msgstr "ஒரு எளிய செயல் மூலம் உங்கள் கணினியை கட்டமைக்கவும்"
+
+msgid "landingwizard_item-caption-profit"
+msgstr "அருமை! இப்போது எனது கணினி புத்தம்புதியது போல் செயல்படுகிறது!"
+
+msgid "landingwizard_cta-btn"
+msgstr "அனைத்து தேவையான வன்பொருள்ககளையும் நிறுவு "
+
+msgid "navbar_download-link-short"
+msgstr "பதிவிறக்கம்"
+
+msgid "navbar_download-link"
+msgstr "DriverPack Online வன்பொருள்தொகுப்பு இணையதளம் வழியாக பதிவிறக்கம் செய்ய"
+
+msgid "notfound_cta-text"
+msgstr "நீங்கள் இதன் மூலம் உங்களுக்கு தேவையான DriverPack Online வன்பொருளை பதிவிறக்கம் செய்து தானியங்கி முறையில் நிறுவ முடியும் இலவசமாக"
+
+msgid "notfound_cta-btn"
+msgstr "DriverPack Online வன்பொருள்தொகுப்பு இணையதளம் வழியாக பதிவிறக்கம் செய்ய"
+
+msgid "notfound_info-404"
+msgstr "{{404}} — நீங்கள் தேடும் பக்கம் காணப்படவில்லை"
+
+msgid "notfound_info-500"
+msgstr "{{500}} — ஏதோ பிழையாகி உள்ளது (செர்வர் எர்ரர்)"
+
+msgid "notebookfilters-title"
+msgstr "இருப்பிலுள்ள வன்பொருள்"
+
+msgid "notebookvendorslist_other-text"
+msgstr "மற்ற உற்பத்தியாளர்கள்"
+
+msgid "notebookvendorslist_title_os"
+msgstr "மடிக்கணினிக்கு தேவையான வன்பொருள்கள் உள்ளன {{OS}}"
+
+msgid "notebookvendorslist_title"
+msgstr "மடிக்கணினிக்கு தேவையான வன்பொருள் தேடல்"
+
+msgid "productlandingheader-online_cta-btn"
+msgstr "DriverPack Online வன்பொருள்தொகுப்பு இணையதளம் வழியாக பதிவிறக்கம் செய்ய"
+
+msgid "productlandingheader-online_caption"
+msgstr "DriverPack Online - வன்பொருள்தொகுப்பு ஆன்லைன் மிக பிரபலமான தயாரிப்பு, இதன் அளவு {{SIZE}}. இது உடனடியாக பதிவிறக்கம் ஆகும். இது உங்கள் கணினிக்கு அல்லது மடிக்கணினிக்கு தேவையான வன்பொருளை தானாகவே இணையதளம் வழியாக பதிவிறக்கம் செய்து உங்கள் கணினி அல்லது மடிக்கணினியில் நிறுவும். இது கணினி வன்பொருள் பற்றி அறியாதவர்களுக்கு மிகவும் உதவிகரமாக இருக்கும். இது இணையதளம் இருந்தால் மட்டுமே செயல்படும்."
+
+msgid "productlandingheader-network_cta-btn"
+msgstr "DriverPack Offline Network நெட்ஒர்க்கிற்குரிய இணையதளம் உதவியில்லாத வன்பொருள்தொகுப்பு பதிவிறக்கம்  "
+
+msgid "productlandingheader-network_caption"
+msgstr "DriverPack Offline Network வன்பொருள்தொகுப்பு ஆஃப்லைன் நெட்வொர்க் - வலையமைப்பு வன்பொருளுக்கான இயக்கிகள் ஒரே இடத்தில் ({{SIZE}}). அது வேகமாக பதிவிறக்கம் செய்து வேகமாக நிறுவப்பட்டுள்ளது! Windows விண்டோஸ் மீண்டும் நிறுவப்பட்டவுடன், DriverPack Offline Network வன்பொருள்தொகுப்பு ஆஃப்லைன் நெட்வொர்க் இயக்கிகளை இணையத்துடன் இணைக்க கட்டமைக்க வேண்டும், பின்னர் மற்ற சாதனங்கள் இயக்கிகளைப் பதிவிறக்குக!"
+
+msgid "productlandingheader-offline_cta-btn"
+msgstr "DriverPack Offline Full இணையதளம் உதவியில்லாத முழுமையான வன்பொருள்தொகுப்பு பதிவிறக்கம்"
+
+msgid "productlandingheader-offline_caption"
+msgstr "DriverPack Offline Full வன்பொருள்தொகுப்பு ஆஃப்லைன் முழு - இணைய அணுகல் இல்லாமல் இயக்கி நிறுவல் ஒரு பெரிய பேக் அளவு. DriverPack Offline Full வன்பொருள்தொகுப்பு ஆஃப்லைன் முழு ஐ {{SIZE}} முழுவதுமாகப் பதிவிறக்கவும், உங்களுக்கு எங்கு வேண்டுமானாலும், புதுப்பித்த இயக்ககங்களின் மகத்தான நூலகத்தைப் பயன்படுத்தவும்.இது கணினி நிர்வாகிகளுக்கு பொருந்துகிறது."
+
+msgid "promoheader_cta-text-gamers"
+msgstr "உங்கள் கணினி நீங்கள் நினைத்ததை விட சக்தி வாய்ந்தது: அனைத்து பழைய வன்பொருளையும் மேம்படுத்துங்கள் இலவசமாக"
+
+msgid "promoheader_cta-text-gamers-caption"
+msgstr "கணினி விளையாட்டுகள் பிடிக்கும் என்றால், உங்கள் கணினியில் இயக்கி இயக்கிகளை மேம்படுத்துவதற்கு பரிந்துரைக்கிறோம். 37% அதிகமான FPS வரை - சிறந்த விளையாட்டு அனுபவம் மற்றும் DriverPack DriverPack உடன் புதிய சாதனைகள்."
+
+msgid "promoheader_cta-text"
+msgstr "DriverPack வன்பொருள்தொகுப்பு எந்தவொரு சாதனத்தையும் அதற்குரிய வன்பொருளை இலவசமாக நிறுவி அதன் பிரச்னையை தீர்வு செய்கிறது"
+
+msgid "promoheader_cta-btn"
+msgstr "அனைத்து தேவையான வன்பொருள்ககளையும் நிறுவு "
+
+msgid "promoheader_size"
+msgstr "கோப்பு அளவு: {{SIZE}} கிலோ பைட்"
+
+msgid "promoheader_license"
+msgstr "உரிம ஒப்பந்தம்"
+
+msgid "promoheader_os-versions"
+msgstr "இந்த மென்பொருள் பயன்பாடு விண்டோஸ் Windows 10, 8.1, 8, 7, Vista, XP"
+
+msgid "promoheader_uninstall"
+msgstr "DriverPack வன்பொருள்தொகுப்பை அகற்ற"
+
+msgid "reviewheader_cta-text"
+msgstr "DriverPack வன்பொருள் தொகுப்பு குழுமத்தில் சேர்ந்து அதன் செய்திகளை வலைப்பின்னல் வாயிலாக தெரிந்து கொள்ளலாம். மேலும் நீங்கள் கலந்தாய்வு செய்ய முடியும் "
+
+msgid "reviewheader_cta"
+msgstr "உங்கள் கருத்துக்களை மற்றும் ஆலோசனைகளை சேர்ப்பியுங்கள். DriverPack வன்பொருள்தொகுப்பு வளர்ச்சியடைய உதவுங்கள் "
+
+msgid "search_input-placeholder"
+msgstr "பெயர் கொண்டு தேடுங்கள் வன்பொருள், கணினி, மடிக்கணினி அல்லது DeviceID சாதனம் ஐடி"
+
+msgid "search_btn-text"
+msgstr "கண்டுபிடி"
+
+msgid "searchformitem_type-section"
+msgstr "வகை"
+
+msgid "searchformitem_type-notebook"
+msgstr "மடிக்கணினி"
+
+msgid "searchformitem_type-device"
+msgstr "சாதனம்"
+
+msgid "searchformitem_type-free"
+msgstr "இலவசமாக"
+
+#. i18n: EN: Example: NAME=Acer; RU: Пример: NAME=Acer;
+msgid "generatesearchitemname_notebookvendor"
+msgstr "{{NAME}} மடிக்கணினிகள்"
+
+#. i18n: EN: Example: NAME=Asus; RU: Пример: NAME=Asus;
+msgid "generatesearchitemname_vendor"
+msgstr "{{NAME}} சாதனங்கள்"
+
+msgid "deviceclasses_bluetooth-single-main"
+msgstr "Bluetooth ப்ளூடூத் சாதனம்"
+
+msgid "deviceclasses_bluetooth-single-for"
+msgstr "Bluetooth ப்ளூடூத் சாதனம்"
+
+msgid "deviceclasses_bluetooth-plural-main"
+msgstr "Bluetooth ப்ளூடூத் சாதனங்கள்"
+
+msgid "deviceclasses_bluetooth-plural-for"
+msgstr "Bluetooth ப்ளூடூத் சாதனங்கள்"
+
+msgid "deviceclasses_cardreader-single-main"
+msgstr "கார்டு ரீடர்"
+
+msgid "deviceclasses_cardreader-single-for"
+msgstr "கார்டு ரீடர்"
+
+msgid "deviceclasses_cardreader-plural-main"
+msgstr "கார்டு ரீடர்கள்"
+
+msgid "deviceclasses_cardreader-plural-for"
+msgstr "கார்டு ரீடர்கள்"
+
+msgid "deviceclasses_chipset-single-main"
+msgstr "சில்லுத் தொகுதி (சிப்செட்)"
+
+msgid "deviceclasses_chipset-single-for"
+msgstr "சில்லுத் தொகுதி (சிப்செட்)"
+
+msgid "deviceclasses_chipset-plural-main"
+msgstr "சில்லுத் தொகுதிகள் (சிப்செட்)"
+
+msgid "deviceclasses_chipset-plural-for"
+msgstr "சில்லுத் தொகுதிகள் (சிப்செட்)"
+
+msgid "deviceclasses_inputdev-single-main"
+msgstr "உள்ளீடு சாதனம்"
+
+msgid "deviceclasses_inputdev-single-for"
+msgstr "உள்ளீடு சாதனம்"
+
+msgid "deviceclasses_inputdev-plural-main"
+msgstr "உள்ளீடு சாதனங்கள்"
+
+msgid "deviceclasses_inputdev-plural-for"
+msgstr "உள்ளீடு சாதனங்கள்"
+
+msgid "deviceclasses_lan-single-main"
+msgstr "நெட்ஒர்க் கார்டு"
+
+msgid "deviceclasses_lan-single-for"
+msgstr "நெட்ஒர்க் கார்டு"
+
+msgid "deviceclasses_lan-plural-main"
+msgstr "நெட்ஒர்க் கார்டுகள்"
+
+msgid "deviceclasses_lan-plural-for"
+msgstr "நெட்ஒர்க் கார்டுகள்"
+
+msgid "deviceclasses_massstorage-single-main"
+msgstr "கட்டுப்படுத்தி கண்ட்ரோலர்"
+
+msgid "deviceclasses_massstorage-single-for"
+msgstr "கட்டுப்படுத்தி கண்ட்ரோலர்"
+
+msgid "deviceclasses_massstorage-plural-main"
+msgstr "கட்டுப்படுத்திகள் கண்ட்ரோலர்ஸ்"
+
+msgid "deviceclasses_massstorage-plural-for"
+msgstr "கட்டுப்படுத்திகள் கண்ட்ரோலர்ஸ்"
+
+msgid "deviceclasses_modem-single-main"
+msgstr "மோடம்"
+
+msgid "deviceclasses_modem-single-for"
+msgstr "மோடம்"
+
+msgid "deviceclasses_modem-plural-main"
+msgstr "மோடம்ஸ்"
+
+msgid "deviceclasses_modem-plural-for"
+msgstr "மோடம்ஸ்"
+
+msgid "deviceclasses_monitor-single-main"
+msgstr "மானிட்டர்"
+
+msgid "deviceclasses_monitor-single-for"
+msgstr "மானிட்டர்"
+
+msgid "deviceclasses_monitor-plural-main"
+msgstr "மானிட்டர்கள்"
+
+msgid "deviceclasses_monitor-plural-for"
+msgstr "மானிட்டர்கள்"
+
+msgid "deviceclasses_phone-single-main"
+msgstr "ஸ்மார்ட் போன்"
+
+msgid "deviceclasses_phone-single-for"
+msgstr "ஸ்மார்ட் போன்"
+
+msgid "deviceclasses_phone-plural-main"
+msgstr "ஸ்மார்ட் போன்ஸ் "
+
+msgid "deviceclasses_phone-plural-for"
+msgstr "ஸ்மார்ட் போன்ஸ் "
+
+msgid "deviceclasses_printer-single-main"
+msgstr "அச்சு இயந்திரம்"
+
+msgid "deviceclasses_printer-single-for"
+msgstr "அச்சு இயந்திரம்"
+
+msgid "deviceclasses_printer-plural-main"
+msgstr "அச்சு இயந்திரங்கள்"
+
+msgid "deviceclasses_printer-plural-for"
+msgstr "அச்சு இயந்திரங்கள்"
+
+msgid "deviceclasses_sound-single-main"
+msgstr "ஒலி அட்டை சவுண்ட் கார்டு"
+
+msgid "deviceclasses_sound-single-for"
+msgstr "ஒலி அட்டை சவுண்ட் கார்டு"
+
+msgid "deviceclasses_sound-plural-main"
+msgstr "ஒலி அட்டைகள் சவுண்ட் கார்டுஸ்"
+
+msgid "deviceclasses_sound-plural-for"
+msgstr "ஒலி அட்டைகள் சவுண்ட் கார்டுஸ்"
+
+msgid "deviceclasses_tvtuner-single-main"
+msgstr "மற்ற சாதனங்கள்"
+
+msgid "deviceclasses_tvtuner-single-for"
+msgstr "டிவி ட்யுனர் "
+
+msgid "deviceclasses_tvtuner-plural-main"
+msgstr "டிவி ட்யுனர்ஸ்"
+
+msgid "deviceclasses_tvtuner-plural-for"
+msgstr "டிவி ட்யுனர்ஸ்"
+
+msgid "deviceclasses_video-single-main"
+msgstr "வீடியோ கார்ட் ஒளி அட்டை "
+
+msgid "deviceclasses_video-single-for"
+msgstr "வீடியோ கார்ட் ஒளி அட்டை "
+
+msgid "deviceclasses_video-plural-main"
+msgstr "வீடியோ கார்ட்ஸ் ஒளி அட்டைகள் "
+
+msgid "deviceclasses_video-plural-for"
+msgstr "வீடியோ கார்ட்ஸ் ஒளி அட்டைகள் "
+
+msgid "deviceclasses_webcamera-single-main"
+msgstr "வெப்கேம்"
+
+msgid "deviceclasses_webcamera-single-for"
+msgstr "வெப்கேம்"
+
+msgid "deviceclasses_webcamera-plural-main"
+msgstr "வெப்கேம்ஸ்"
+
+msgid "deviceclasses_webcamera-plural-for"
+msgstr "வெப்கேம்ஸ்"
+
+msgid "deviceclasses_wifi-single-main"
+msgstr "வைபை சாதனம்"
+
+msgid "deviceclasses_wifi-single-for"
+msgstr "வைபை சாதனம்"
+
+msgid "deviceclasses_wifi-plural-main"
+msgstr "வைபை சாதனங்கள்"
+
+msgid "deviceclasses_wifi-plural-for"
+msgstr "வைபை சாதனங்கள்"
+
+msgid "deviceclasses_other-single-main"
+msgstr "மற்றொரு சாதனம்"
+
+msgid "deviceclasses_other-single-for"
+msgstr "மற்ற சாதனம்"
+
+msgid "deviceclasses_other-plural-main"
+msgstr "மற்ற சாதனங்கள்"
+
+msgid "deviceclasses_other-plural-for"
+msgstr "மற்ற சாதனங்கள்"
+
+msgid "searchheader_caption-subtitle"
+msgstr "வேண்டுதளுக்கேற்ப வன்பொருள் தேடல்:"
+
+msgid "searchheader_caption-filter-label"
+msgstr "தேர்ந்தெடுக்கப்பட்ட இயக்க முறைமைக்கு உரிய வன்பொருள் பதிவிறக்கம்"
+
+#. i18n: EN: Example: NOTEBOOK=Acer AO521; Text for {{DOWNLOAD}} is in key
+#. searchresult_details-content_download-link; RU: Пример: NOTEBOOK=Acer
+#. AO521; Текст для {{DOWNLOAD}} находится в ключе searchresult_details-
+#. content_download-link
+msgid "searchresult_details-content-notebook-text"
+msgstr "{{DOWNLOAD}} தேவையான வன்பொருளை தானாகவே தேர்ந்தெடுத்து நிறுவும், அல்லது செல்க {{NOTEBOOK}} பக்கம் மற்றும் தேவையான வன்பொருளை நீங்களாகவே தேந்தெடுக்கவும்"
+
+msgid "searchresult_details-content_download-link"
+msgstr "DriverPack வன்பொருள்தொகுப்பு பதிவிறக்கம் "
+
+msgid "searchresult_notebook"
+msgstr "மடிக்கணினி"
+
+msgid "searchresult_download-btn"
+msgstr "வன்பொருளை தானியங்கி முறையில் நிறுவ"
+
+msgid "searchresult_details-content-text-placeholder"
+msgstr "தகவல் வரிசைப்படுத்தப்படுகின்றன..."
+
+msgid "searchresult_details-content-label-1"
+msgstr "இயக்க முறைமை"
+
+msgid "searchresult_details-content-label-2"
+msgstr "அனைத்து அமைப்புகள்"
+
+#. i18n: EN: Example: DEVICE=NVIDIA GeForce 205; Text for {{DOWNLOAD}} is in
+#. key searchresult_details-content_download-link; RU: Пример: DEVICE=NVIDIA
+#. GeForce 205; Текст для {{DOWNLOAD}} находится в ключе searchresult_details-
+#. content_download-link
+msgid "searchresult_details-content-group-text"
+msgstr "{{DOWNLOAD}} தேவையான வன்பொருளை தானாகவே தேர்ந்தெடுத்து நிறுவும், அல்லது செல்க {{DEVICE}} பக்கம் மற்றும் தேவையான வன்பொருளை நீங்களாகவே தேந்தெடுக்கவும்"
+
+#. i18n: EN: Example: CLASS.SINGLE.MAIN=monitor|chipset; COUNT=12; RU: Пример:
+#. CLASS.SINGLE.MAIN=монитор|чипсет; COUNT=12;
+msgid "searchresult_device"
+msgstr "{{CLASS.SINGLE.MAIN}} ({{COUNT}} காணப்பட்ட முடிவுகள்)"
+
+msgid "searchresult_details-content-text-many"
+msgstr "இந்த சாதனத்திற்கு பல்வேறு வித்யாசமான வன்பொருள்கள் உள்ளன"
+
+msgid "seofooter_os-list-title"
+msgstr "இயக்க முறைமை பதிப்புகள்: <span itemprop='operatingSystem'>{{OSLIST}}</span>"
+
+msgid "seofooter_offers-title"
+msgstr "<span itemprop='offers' itemscope='' itemtype='http://schema.org/Offer'>கிடைக்கும் <meta itemprop='price' content='0' />இலவசமாக</span>"
+
+msgid "seofooter_driver-description-title"
+msgstr "வன்பொருள் விளக்கம்"
+
+msgid "seofooter_popular-drivers-title"
+msgstr "பிரபலமான வன்பொருள்"
+
+msgid "sidebanner_title"
+msgstr "நீங்கள் வன்பொருள் தேடுவதில் சோர்வுற்று உள்ளீரா?"
+
+msgid "sidebanner_caption"
+msgstr "DriverPack வன்பொருள்  தானாகவே <span class='SideBanner__caption-marked'>தேர்ந்தெடுத்து நிறுவு</span>தேவைப்படும் வன்பொருள்"
+
+msgid "translationheader_cta-text"
+msgstr "DriverPack வன்பொருள்தொகுப்பு உலகெங்கிலும் லட்சக்கணக்கான பயனர்கள் பயன்பட தன்னார்வு திட்டத்தில் — ஒரு பகுதியாக இணைந்து மற்ற மொழிகளில் மொழிமாற்றம் செய்து உதவுங்கள்"
+
+msgid "translationheader_bubble-team"
+msgstr "உலகின் மிகப்பெரிய தானியங்கி கணினி கட்டமைக்கும் சேவையில் மொழி பெயர்பாளராக பங்கு பெற இணைய விரும்புகிறீர்களா?"
+
+msgid "translationheader_bubble-languages"
+msgstr "உங்களுக்கு ஆங்கிலம் அல்லது ரஷிய மொழி நன்கு தெரியுமா, இப்போது நீங்கள் தயார் உங்கள் மொழியில் மொழிமாற்றம் செய்ய ஆங்கிலம் அல்லது ரஷிய மொழி மூலமாக?"
+
+msgid "translationheader_bubble-experience"
+msgstr "மொழிமாற்றம் மென்பொருள் அல்லது வலைப்பக்கம் இணையதளம் வழியாக மொழிமாற்றம் அனுபவம் உள்ளதா?"
+
+msgid "translationheader_bubble-email"
+msgstr "உங்கள் பதில் மூன்று கேள்விகளுக்கும் ஆம் என்றால்,தயவுசெய்து, மின்னஞ்சல் e-mail எங்களுக்குஅனுப்ப {{EMAIL}} மற்றும் '{{SUBJECT}}' சப்ஜெக்ட் வரியில் நீங்கள் மொழிமாற்றம் செய்ய நினைக்கும் மொழி அது உங்களுக்கு நன்கு தெரிந்தவையாக."
+
+msgid "translationlist_title"
+msgstr "DriverPack வன்பொருள்தொகுப்பு  அங்கீகரிக்கப்பட்ட மொழிபெயர்ப்பாளர் பட்டியல்"
+
+msgid "translationtool_text-transifex"
+msgstr "DriverPack Solution வன்பொருள்தொகுப்பு பகுதியில் எங்கள் உள்ளூர்மயமாக்கல் transifex.com சேவையைப் பயன்படுத்துவதன் மூலம் செய்கிறோம்:"
+
+msgid "translationtool_example-ru-to-en"
+msgstr "மொழிமாற்றம் செய்யும் வரிகளில் ரஷிய (RU) ஆங்கிலத்திற்கு (EN), மற்றும் CIS மொழிகளுக்கு (CIS)"
+
+msgid "translationtool_example-en-to-all"
+msgstr "பிற உலக மொழிமாற்றம் ஆங்கிலம் வாயிலாக செய்ய வரிகள் (EN)"
+
+msgid "language_title"
+msgstr "Tamil"
+
+msgid "landingPagePublications_rbk"
+msgstr "DriverPack ஆனது Windows க்கான இயக்ககர்களைக் கொண்ட மென்பொருளாகும், அது ஆரூர் குசியாகோவின் குழுவினரால் தேர்வு செய்யப்பட்டு சோதிக்கப்பட்டது.இந்த பயன்பாடு ஒரு பயனரின் கணினியை பகுப்பாய்வு செய்கிறது மற்றும் அவசியமான இயக்கிகளுக்குள் நிறுவுகிறது, இது இரண்டு சிக்கல்களை தீர்க்க உங்களுக்கு உதவுகிறது: முதலாவதாக, கணினியின் உள்ளமைவின் செயல்முறையை விரைவுபடுத்துதல் (இது ஒரு கணினியில் டஜன் கணக்கான கணினிகள் இருந்தால் முக்கியமானது);இரண்டாவதாக, அதன் செயல்பாட்டு திறனை மேம்படுத்துவதற்காக."
+
+msgid "landingPagePublications_secretfirmy"
+msgstr "இன்று, DriverPack வன்பொருள்தொகுப்பு உலகில் மிகப்பெரிய வன்பொருள் தரவுத்தளத்தைக் கொண்டுள்ளது, இது 45 மொழிகளில் மொழிபெயர்க்கப்பட்டு 42 மில்லியன் பயனர்களுக்கும் மேலான கணினிகளில் செயல்படுகிறது."
+
+msgid "landingPagePublications_cnews"
+msgstr "மென்பொருளின் முதல் பதிப்பை உருவாக்கிய நேரத்தில், DriverPack Solution வன்பொருள் தீர்வு பயனர்களிடையே மிகவும் பிரபலமாகி உள்ளது. மென்பொருள் முற்றிலும் இலவசமாக பதிவிறக்க கிடைக்கிறது. இந்த DriverPack Solution வன்பொருள் தீர்வு அதன் போட்டியாளர்களிடமிருந்து வேறுபடுத்தி மேலும் புதிய பயனர்களை ஈர்க்கிறது."
+
+msgid "landingPagePublications_xbit"
+msgstr "DriverPack Solution வன்பொருள் தொகுப்பு தீர்வு என்பது ஒரு சுவாரஸ்யமான பயன்பாடாகும், அதே வகைகளின் மற்ற மென்பொருள் தீர்வுகள் வழங்காத விருப்பங்களின் தொகுப்பை இது கொண்டுள்ளது. எந்தவொரு பயனரும் பிழைகளை சரிசெய்யலாம் மற்றும் கணினி மற்றும் அதன் அனைத்து சாதனங்களின் சரியான செயல்பாட்டை இரண்டு கிளிக்குகளில் அமைக்கலாம். இந்த நேரத்தில், DriverPack வன்பொருள் தொகுப்பு தீர்வு  தரவுத்தளத்தில் உள்ள இயக்கிகளின் எண்ணிக்கை ஏற்கனவே 1.1 மில்லியனுக்கும் மேற்பட்ட நுழைவுகளைக் கடந்துவிட்டது, அவை அனைத்தும் பாதுகாப்புக்காக சோதனை செய்யப்பட்டுள்ளன."
+
+msgid "landingPagePublications_chip"
+msgstr "DriverPack வன்பொருள் தொகுப்புடன் உங்கள் கணினி கூறுகளுக்கான இயக்கிகளின் சமீபத்திய பதிப்பை கண்டுபிடிக்க இது ஒரு பெரிய சவாலாக இல்லை. மிகவும் இனிமையான அம்சம் என்னவென்றால் ஒரு பயனர் தனது கணினியில் இதற்காக எதுவும் செய்ய வேண்டியதில்லை. இந்த கருவி முழுமையாக தானியங்கி மற்றும் செயல்பாட்டில் வசதியாக உள்ளது."
+
+msgid "landingPagePublications_pcmag"
+msgstr "DriverPack Protect வன்பொருள் தொகுப்பு உங்கள் கணினியை தீம்பொருள் மற்றும் ஆட்வேர் நிரல்கள் மற்றும் செருகுநிரல்களிலிருந்து பாதுகாக்க உதவுகிறது, இதை வைரஸ் தடுப்பு மென்பொருள் மற்றும் விளம்பர தடுப்பு கருவிகள் பெரும்பாலும் செய்யத் தவறக்கூடும்."
+
+msgid "landingPagePublications_habr"
+msgstr "நீங்கள் Windows விண்டோஸ் ஐ மீண்டும் நிறுவும் போது ஒவ்வொரு முறையும் இயக்கிகளைத் தேட மற்றும் நிறுவ வேண்டியது அவசியம், என் கருத்தில், முழு Windows விண்டோஸ் குடும்பத்தின் மிகவும் குறிப்பிடத்தக்க குறைபாடுகளில் ஒன்றாகும். 2008 ஆம் ஆண்டு வரை, இந்த சிக்கலை சரிசெய்ய முடிவு செய்தேன், என் சொந்த மென்பொருளை DriverPack வன்பொருள்தொகுப்பு என்று எழுதினேன். இன்று, என் தயாரிப்பு உலகம் முழுவதும் 40 மில்லியன் பயனர்களால் பயன்படுத்தப்படுகிறது, மேலும் Windows விண்டோஸ் இல் இயக்கிகள் பிரச்சனை இப்போது மூன்றாவது-தரப்பு தீர்வு மூலம் தீர்வு காணப்படுகிறது என்று கருதுகிறேன்."
+
+msgid "landingPagePublications_computerra"
+msgstr "புதிய பதிப்பு தனது சொந்த இயக்கி தேர்வை உருவாக்குவதற்கான கூடுதல் கருவிகளைக் கொண்ட ஒரு பயனரை வழங்குகிறது.இது கணினிகளுக்கு சேவையளிக்கும் மற்றும் பல்வேறு வன்பொருள் நிறைய நிர்வகிக்கும் ஒரு குறிப்பாக அழுத்தம் பிரச்சினை.இப்போது driverpacks வன்பொருள்களுக்கு மாற்றாக வேறு மாற்று DriverPack வன்பொருள்களை ஒருங்கிணைக்க முடியும், இது தேவையற்றதை நீக்குகிறது."
+
+msgid "landingPagePublications_vc"
+msgstr "திராட்சைக்கு நன்றி, இந்த தயாரிப்பு எங்கள் அணி பங்கேற்பு இல்லாமல் 45 மொழிகளில் பயனர் மொழிபெயர்க்கப்பட்டுள்ளது."
+
+msgid "adminpagefaq_official_vendors-q"
+msgstr "DriverPack வன்பொருள்கள் தொகுப்பிற்குக்கு முன், அதிகாரப்பூர்வ தளங்களில் இருந்து வன்பொருள்களை நான் பதிவிறக்கம் செய்தேன், ஆனால் அவைகளில் சில பிரச்சினைகளை நான் சந்தித்தேன். DriverPack வன்பொருள்கள் தொகுப்பின் வன்பொருள்கள் உற்பத்தியாளர்களிடமிருந்து பெறப்படுவதை விட அதிக நம்பகமானவை ஏன்?"
+
+msgid "adminpagefaq_official_vendors-a"
+msgstr "எங்கள் டிரைவர் தரவுத்தளத்தை மிகப்பெரியதாக மட்டுமல்லாமல் மிக உறுதியானதாக மாற்றுவதற்கும், நிரந்தரமாக அதை மேம்படுத்துவதில் நாங்கள் கடினமாக உழைத்து வருகிறோம், அதிகாரப்பூர்வ உற்பத்தியாளர்களை அனுமதிக்கின்ற பிழைகள் சரி!இயந்திர கருவி தொழில்நுட்பத்தை பயன்படுத்துகிறோம், நன்றி, எங்கள் தேர்வு படிமுறை தொடர்ந்து மேம்படுத்தப்படுகிறது. மேலும் DriverPack வன்பொருள் தொகுப்பில் இருந்து வன்பொருள்கள் மிகவும் நம்பகமான உள்ளன :-)"
+
+msgid "adminpagefaq_database-q"
+msgstr "DriverPack வன்பொருள் தொகுப்பு தரவுத்தளம் எவ்வாறு விரிவடைகிறது? எனக்கு இதில் தேவைப்படும் வன்பொருளை உண்மையில் கண்டுபிடிக்க முடியுமா?"
+
+msgid "adminpagefaq_database-a"
+msgstr "இன்றுவரை, எங்கள் வன்பொருள் தரவுத்தளமானது உலகிலேயே மிகப்பெரியது, அதனால்தான் நீங்கள் எந்தவொரு சாதனத்திற்கும் இயக்கிக்கு 99% வெற்றியைக் கொண்டிருப்பதை காண முடியும்.இத்தகைய தரவுத்தளத்தை சேகரித்து ஆதரிப்பதற்காக, சாதன உற்பத்தியாளர்கள் மற்றும் வன்பொருள்களை  உருவாக்குநர்களுடன் நேரடியாக ஒத்துழைக்கிறோம்.நாங்கள் அதிகாரப்பூர்வ தளங்களிலிருந்தும், தனிப்பட்ட FTP சேவையகங்களிலிருந்தும் வன்பொருள்களை  சேமித்தும் மற்றும் சோதிக்கிறோம், மேலும் நாங்கள் செயலில் உள்ள பயனர்களின் பரிந்துரைகளை கணக்கில் எடுத்துக்கொள்கிறோம்."
+
+msgid "adminpagefaq_free-q"
+msgstr "உண்மையாகவே வன்பொருள்தொகுப்பு DriverPack முற்றிலும் இலவசமானதா?"
+
+msgid "adminpagefaq_free-a"
+msgstr "எங்கள் மென்பொருள் அனைத்தும் முற்றிலும் இலவசம்!ஆனால் நீங்கள் எங்கள் திட்டத்தை ஆதரிக்க விரும்பினால், உங்கள் சொந்த பயன்பாட்டிற்கு நாங்கள் வழங்கும் பயனுள்ள மென்பொருளை நீங்கள் நிறுவலாம், மேலும் உங்கள் நண்பர்களுக்கு DriverPack வன்பொருள் தொகுப்பை பரிந்துரைக்கவும் :-)"
+
+msgid "adminpagefaq_antivirus-q"
+msgstr "எனது ஆன்டி வைரஸ் வன்பொருள்தொகுப்பை DriverPack வைரஸ் என தடை செய்கிறது - இது எவ்வாறு ஏற்படுகிறது?"
+
+msgid "adminpagefaq_antivirus-a"
+msgstr "Kaspersky Laboratory மூலமாக அனைத்து DriverPack வன்பொருள்தொகுப்பு பதிப்புகள் அனைத்தும் முழுமையான பரிசோதித்து  மற்றும் அங்கீகாரத்திற்கு உட்பட்டுள்ளதால், இது பெரும்பாலும் ஒரு தவறான நேர்மறையாகும். எங்களுடைய நிறுவனம் Avast, 360 Total Security போன்ற பல வைரஸ் தடுப்பு மென்பொருள் வழங்குநர்களுடன் தொடர்புடன் ஒத்துழைக்கிறது. இயக்கத்தை தொடர, உங்கள் வைரஸ் தடுப்பு மென்பொருளில் வெள்ளை பட்டியலில் DriverPack வன்பொருள்தொகுப்பை சேர்க்க வேண்டும். உங்கள் வைரஸ் தடுப்பு நிறுவனத்திற்கு தவறான தகவலாக நீங்கள் புகாரளித்தால் எங்கள் ஆதரவு சேவையில் நாங்கள் உங்களை பாராட்டுவோம்."
+
+msgid "adminpagefaq_expert_mode-q"
+msgstr "DriverPack வன்பொருள்தொகுப்பை பயன்படுத்துவதற்கு மிகவும் வசதியானது எது?"
+
+msgid "adminpagefaq_expert_mode-a"
+msgstr "இயல்பாக, DriverPack வன்பொருள்தொகுப்பு தானியங்கு முறையில் தொடங்குகிறது, புதிய பயனர்களுக்குப் பயன்படுத்தக்கூடிய வகையில் புரிந்துகொள்ளக்கூடியது மற்றும் வசதியானது.எனினும், மேம்பட்ட பயனர்கள் மற்றும் கணினி நிர்வாகிகளின் வசதிக்காக, நீட்டிக்கப்பட்ட அமைப்புகள் மற்றும் தனிப்பட்ட விருப்பங்களைக் கொண்ட நிபுணர் பயன்முறையை நாங்கள் உருவாக்கியுள்ளோம்.இந்த பயன்முறையை செயல்படுத்த, திரையின் அடிப்பகுதியில் உள்ள தொடர்புடைய பொத்தானைக் கிளிக் செய்வது போதுமானது."
+
+msgid "adminpagefaq_stable-q"
+msgstr "எனது கணினியில் வன்பொருள்கள் சரிவர நிறுவவில்லை.இதை எவ்வாறு சரி செய்வது?"
+
+msgid "adminpagefaq_stable-a"
+msgstr "DriverPack வன்பொருள்தொகுப்பு மென்பொருளின் செயல்பாட்டு நிலைத்தன்மை எங்களின் பிரதான முன்னுரிமைகளில் ஒன்றாகும், ஆனால் அவை சிறியதாகவே இருந்தாலும் அவை தோல்வியுற்றுள்ளன.இதனால்தான் நாம் ஒரு மீட்டெடுக்க புள்ளியை உருவாக்கிக் கொள்கிறோம், இது எல்லாவற்றையும் முன்பே கட்டமைக்கப்பட்ட நிலைக்குத் திருப்ப உதவும்.எதிர்காலத்தில் இதே போன்ற சிக்கலைத் தடுக்க, DriverPack வன்பொருள்தொகுப்பு மெனுவிற்கு சென்று, தானாகவே மென்பொருளால் உருவாக்கப்படும் அறிக்கையை எங்கள் தொழில்நுட்ப சேவைகளுக்கு அனுப்புமாறு பரிந்துரைக்கிறோம்."
+
+msgid "badrabbitpromopage_cta-text"
+msgstr "Bad Rabbit பேட் ரேபிட் க்ரைப்டோ க்ராபிக் வைரஸிடம் இருந்து — கணினியை எவ்வாறு பாதுகாப்பது?"
+
+msgid "badrabbitpromopage_cta-subtext"
+msgstr "DriverPack வன்பொருள்தொகுப்பு கணினி கட்டமைப்பு கருவிகளில் பாதிப்புகளை நீக்குவதற்கான குறிப்பிட்ட செயல்களைக் கொண்டுள்ளது.நீங்கள் Bad Rabbit பேட் ராபிட் வைரஸுக்கு எதிராக எங்கள் இலவச பாதுகாப்பு பதிவிறக்கம் மூலம் உங்கள் கணினி அல்லது மடிக்கணினியை பாதுகாக்க முடியும்."
+
+msgid "badrabbitpromopage_cta-btn"
+msgstr "கணினியை கட்டமைத்து Bad Rabbit பேட் ரேபிட் வைரஸிடம் இருந்து பாதுகாக்க"
+
+msgid "badrabbitpromopage_caption-text"
+msgstr "இந்த மென்பொருள் இலவசமாக வழங்கப்படுகிறது"
+
+msgid "badrabbitpromopage_info-text-title-1"
+msgstr "பேட் ராபிட்Bad Rabbit என்றால் என்ன?"
+
+msgid "badrabbitpromopage_info-text-1"
+msgstr "Bad Rabbit பேட் ரேபிட் ஒரு புதிய குறியாக்கவியல் வைரஸ் என்பது 2017 அக்டோபரில் இருந்து ரஷ்யா, உக்ரைன், பல்கேரியா மற்றும் துருக்கியில் கணினிகள் தாக்கியது. மேலும் பாதிக்கப்பட்டவர்களிடையே Interfax RIA, The Fontanka RIA, பல உக்ரேனிய அமைச்சகங்கள், அத்துடன் ஒடெஸ விமான நிலையம்.செயல்முறை கொள்கை எளிது: இது உங்கள் கணினியின் நினைவகத்திலிருந்து கணக்கு தரவை மீட்டதற்காக Mimikatz பயன்பாட்டைப் பயன்படுத்துகிறது.இது நிர்வாகியின் செயலில் உள்ள கணக்குத் தரவையும் தேடுகிறது.Bad Rabbit பேட் ரேபிட் SMB மற்றும் WebDAV ஐப் பயன்படுத்துவதன் மூலம் உள்ளூர் நெட்வொர்க்கில் உள்ள பணியிடங்களுக்கான அணுகலைப் பெற முயற்சிக்கிறது.உங்கள் கணினிக்கு அணுகல் கிடைத்தவுடன், வைரஸ் அதைச் சென்றடையும் அனைத்து தரவையும் குறியாக்குகிறது, அதன் பிறகு மாஸ்டர் பூட் ரெக்கார்டை மாற்றும்.இந்த நடைமுறை முடிவடைந்தவுடன், Bad Rabbit பேட் ரேபிட் உங்கள் கணினியை மீட்டெடுத்து, 0.05 Bitcoins (அக்டோபர் 2017 இறுதியில் சுமார் $ 300) கோரிக்கைக்கு அதன் செய்தியை மேல் தோன்றச் செய்யும்."
+
+msgid "badrabbitpromopage_info-text-title-2"
+msgstr "Bad Rabbit பேட் ராபிட் கிரிப்டோகிராஃபி வைரஸுக்கு எதிராக உங்கள் கணினியை பாதுகாப்பது எப்படி?"
+
+msgid "badrabbitpromopage_info-text-2"
+msgstr "புதிய வைரஸ் தொடர்பான உங்களை நீங்களே பாதுகாக்க என்ன செய்யலாம்:<br/>C:\\Windows\\ கோப்புறையில் ஒரு infpub.dat கோப்பை உருவாக்கவும் அதன் பண்புகளில் 'Read-only' ஐயும் தேர்வு செய்யவும்.<br/>பணி திட்டமிடலில் புதிய பணிகளை கவனமாக உருவாக்கவும்.<br/>வெளிப்புற தளங்களில் இருந்து FlashPlayer எந்த மேம்படுத்தல்கள் நிறுவ வேண்டாம்.<br/>புதுப்பிக்க Windows விண்டோஸ் மற்றும் அனைத்து நிறுவ பாதுகாக்க மென்பொருள்<br/>உங்கள் இயக்க முறைமை காப்பு செய்யவும்<br/><br/>அல்லது, நீங்கள் இந்த பக்கம் அதை பதிவிறக்கம் செய்வதின் மூலம் வன்பொருள்தொகுப்பு தீர்வு இல் இருந்து புதிய DriverPack Solution தீர்வை பயன்படுத்த முடியும் - அது உங்கள் நேரத்தை சேமிக்கும்!<br/><b>எங்கள் தீர்வு Windows விண்டோஸ் 7, 8, 8.1, 10, மற்றும் எக்ஸ்பி க்கு இயங்குகிறது.</b>"
+
+msgid "badrabbitpromopage_links-text"
+msgstr "பின்வரும் தீர்வுகளின் அடிப்படையில் இந்த தீர்வு அபிவிருத்தி செய்யப்பட்டது"
+
+msgid "badrabbitpromopage_link-smb"
+msgstr "Windows விண்டோஸ் மற்றும் Windows விண்டோஸ் சர்வர் க்கான SMB நெறிமுறைகளில் 1, 2 மற்றும் 3 பதிப்பை எவ்வாறு செயல்படுத்தவும் முடக்கவும் செய்வது"
+
+msgid "devicegrouppage_show-more-link"
+msgstr "மேலும் காண"
+
+msgid "devicestypepage_subtitle"
+msgstr "அனைத்து {{CLASS.SINGLE.FOR}} உற்பத்தியாளர்களும் "
+
+msgid "devicetypevendorpage_subtitle-popular"
+msgstr "பிரபலமான {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
+
+msgid "devicetypevendorpage_subtitle-all"
+msgstr "அனைத்து {{VENDOR.NAME}} உற்பத்தியாளர்களும் {{CLASS.PLURAL.MAIN}}"
+
+msgid "errorpage_title"
+msgstr "எரர் 500: இன்டெர்னல் சர்வர் எரர்"
+
+msgid "landingfooter_landing-subtitle"
+msgstr "DriverPack வன்பொருள்தொகுப்பு அனைத்து பிரபலமான பதிப்பு Windows விண்டோஸ் வன்பொருளையும் உள்ளடக்கியது "
+
+msgid "landing-footer_catalog-os"
+msgstr "வன்பொருள் {{OS}}"
+
+msgid "landing-footer_download"
+msgstr "DriverPack வன்பொருள்தொகுப்பு பதிவிறக்கம் "
+
+msgid "landing-footer_versions"
+msgstr "அனைத்து அப்ளிகேஷன் பதிப்புகள் "
+
+msgid "landing-footer_manufacturers"
+msgstr "வன்பொருள் உற்பத்தியாளர்கள்"
+
+msgid "landing-footer_badrabbit"
+msgstr "Bad Rabbit பேட் ரேப்பிட் டிற்கு எதிராக பாதுகாப்பு"
+
+msgid "landing-footer_for-admin"
+msgstr "கணினி நிர்வாகிகளுக்கு"
+
+msgid "landing-footer_for-translators"
+msgstr "மொழிபெயர்ப்பாளர்களுக்காக"
+
+msgid "landing-footer_hwids"
+msgstr "சாதனம் ஐடி Device ID"
+
+msgid "landing-footer_wannacry"
+msgstr "WannaCry வாணா க்ரை வைரஸுக்கு எதிராக பாதுகாப்பு"
+
+msgid "landing-footer_license"
+msgstr "உரிம ஒப்பந்தம்"
+
+msgid "landing-footer_remove"
+msgstr "DriverPack வன்பொருள்தொகுப்பு அகற்ற"
+
+msgid "notfoundpage_title"
+msgstr "எரர் 404: பக்கம் காணப்படவில்லை"
+
+msgid "notebookpage_show-more-link"
+msgstr "மேலும் காண"
+
+msgid "notebookpage_all-devices"
+msgstr "அனைத்து சாதனங்களுக்கும் "
+
+msgid "notebookspage_subtitle"
+msgstr "அனைத்து மடிக்கணினி மற்றும் நோட்புக் கணினி உற்பத்தியாளர்கள் பட்டியல் "
+
+msgid "notebooksvendorpage_subtitle-popular"
+msgstr "பிரபலமான {{VENDOR.NAME}} மடிக்கணினி மற்றும் நோட்புக் கணினி"
+
+msgid "notebooksvendorpage_subtitle-all"
+msgstr "அனைத்து {{VENDOR.NAME}} மடிக்கணினி மற்றும் நோட்புக் கணினி"
+
+msgid "reviewpage_title"
+msgstr "DriverPack வன்பொருள்தொகுப்பை முன்னேற மேம்படுத்தல்கள் மற்றும் ஆலோசனைகள்"
+
+msgid "searchpage_show-more-link"
+msgstr "மேலும் காண"
+
+#. i18n: EN: text for {{LINK}} is in key thankyoupopup_download-link; RU:
+#. текст для {{LINK}} находится в ключе thankyoupopup_download-link;
+msgid "thankyoupopup_download-text"
+msgstr "பதிவிறக்கம் தொடங்கவில்லையா? இங்கு சொடுக்கவும் {{LINK}}"
+
+msgid "thankyoupopup_title"
+msgstr "வன்பொருள்தொகுப்பு DriverPack துவங்கு"
+
+msgid "thankyoupopup_cta-text"
+msgstr "உங்கள் கணினியில் தேர்ந்தெடுத்து வன்பொருள்களை நிறுவ"
+
+msgid "thankyoupopup_download-link"
+msgstr "பதிவிறக்கம்"
+
+msgid "translate-feedback-header_caption"
+msgstr "இந்த பக்கம் சமீபத்தில் மொழிமாற்றம் செய்யப்பட்டது. ஏதேனும் அச்சுப்பிழை தென்பட்டால் அதை தேர்ந்தெடுத்து சொடுக்கவும் {{HOTKEY}}"
+
+msgid "translate-feedback-form-popup_preview-title"
+msgstr "நீங்கள் பின்வரும் வார்த்தைகளை தேர்ந்தெடுத்து உள்ளீர்கள்:"
+
+msgid "translate-feedback-form-popup_correct-title"
+msgstr "தயவுசெய்து,என்ன குறையென சரியாக விளக்குங்கள், மற்றும் சரியான வார்த்தையை குறிப்பிடுங்கள்:"
+
+msgid "translate-feedback-form-popup_submit"
+msgstr "அனுப்பு"
+
+msgid "translate-feedback-popup_title-error"
+msgstr "ஏதோ தவறாக உள்ளது"
+
+msgid "translate-feedback-popup_description-error"
+msgstr "செர்வெரில் கோளாறு தேர்ந்தெடுக்கப்பட்ட வார்த்தையை அனுப்ப இயலவில்லை. <br />மீண்டும் முயற்சிக்கவும், தயவுசெய்து."
+
+msgid "translate-feedback-popup_title-success"
+msgstr "உங்களுக்கு மிக்க நன்றி"
+
+msgid "translate-feedback-popup_description-success"
+msgstr "ஆசிரியருக்கு உயர்த்தி உரை அனுப்பப்பட்டுள்ளது."
+
+msgid "translate-feedback-popup_description-join-us"
+msgstr "தயவுசெய்து உங்கள் தாய்மொழியில் மொழிமாற்றம் செய்ய எங்களுக்கு உதவுங்கள்."
+
+msgid "translate-feedback-popup_description-join-link"
+msgstr "எங்கள் மொழிபெயர்ப்பாளர் குழுவில் சேரவும்!"
+
+msgid "translationlandingpage_title"
+msgstr "DriverPack வன்பொருள்தொகுப்பு மொழிபெயர்ப்பு"
+
+msgid "vendorpage_subtitle-popular"
+msgstr "பிரபலமான {{VENDOR.NAME}} சாதனங்கள் "
+
+msgid "wannacryptpromopage_cta-text"
+msgstr "WannaCrypt வாணா க்ரை க்ரைப்டோ க்ராப்ஹியிஎர் வைரஸ்  — வரலாற்றிலேயே மிகப்பெரிய தாக்குதல் நடத்திய வைரஸிடம் இருந்து கணினியை காப்பது எப்படி?"
+
+msgid "wannacryptpromopage_cta-subtext"
+msgstr "DriverPack வன்பொருள்தொகுப்பு கணினி கட்டமைப்பு கருவிகளில் பாதிப்புகளை நீக்குவதற்கான குறிப்பிட்ட செயல்களைக் கொண்டுள்ளது. நீங்கள் WannaCry வாணா க்ரை வைரஸுக்கு எதிராக எங்கள் இலவச பாதுகாப்பு பதிவிறக்கம் மூலம் உங்கள் கணினியை அல்லது மடிக்கணினியை பாதுகாக்க முடியும்."
+
+msgid "wannacryptpromopage_cta-btn"
+msgstr "வாணா க்ரையிடம் இருந்து பாதுகாக்க கணினி கட்டமைப்பு WannaCry"
+
+msgid "wannacryptpromopage_caption-text"
+msgstr "இந்த மென்பொருள் இலவசமாக வழங்கப்படுகிறது"
+
+msgid "wannacryptpromopage_info-text-title-1"
+msgstr "வாணா க்ரைப்ட் WannaCrypt என்றால் என்ன?"
+
+msgid "wannacryptpromopage_info-text-1"
+msgstr "WannaCrypt Blackmailer வைரஸ் (பாதிக்கப்பட்டவர்களுக்கு WannaCry என பெயர் மாற்றம் செய்யப்பட்டது) மே 12 அன்று உலகெங்கிலும் உள்ள கணினிகளை தாக்கி 150 நாடுகளில் 300,000 க்கும் அதிகமான பயனர்களை பாதித்தது. மேற்கு ஐரோப்பா, ரஷ்யா, சீனா ஆகியவை மிக மோசமான வெற்றி பெற்றன. கிரேட் பிரிட்டனில், இந்த வைரஸ் சுகாதார திணைக்களத்தை முடக்கியதுடன் நாடு முழுவதிலும் உள்ள மருத்துவமனைகளின் செயல்பாட்டை நிறுத்தி வைத்தது. சீனாவில் தாக்குதல்கள் பல தொழிற்சாலைகளை நிறுத்திவிட்ட தொழிற்சாலைகளில் பழைய கணினிகளைப் பாதித்தன. இந்த வைரஸ் எவ்வாறு இயங்குகிறது என்பது முக்கியமானது.<br/><br/>இது உங்கள் கணினியை  அல்லது மடிக்கணினிக்குள் ஊடுருவி, முற்றிலும் ஆவணங்களை, கோப்புகளையும், அதை கண்டுபிடிக்கும் பொருட்களையும் குறியாக்குகிறது, மேலும் பயன்பாட்டிற்கு கிடைக்காததாக்குகிறது. பின்னர், ஊடுருவல்கள் டிகோடிங் செய்வதற்கு கணிசமான அளவு பணம் தேவைப்படுகின்றன  — சுமார் $ 300. எனினும், நீங்கள் உங்கள் கோப்புகளை அணுகலைப் பெறுவீர்கள் என்பதற்கு உத்தரவாதம் இல்லை. தற்போது, ​​நீங்களே கோப்புகளை நீக்கமுடியாத வழி இல்லை, இன்டர்நெட்டில் தற்போது வழங்கப்படும் தீர்வுகள் மீன்பிடிக்கும் அல்லது வேறொரு வைரஸ் பரவுகின்றன அல்லது 100% உறுதியுடன் வேலை செய்யவில்லை."
+
+msgid "wannacryptpromopage_info-text-title-2"
+msgstr "யார் ஆபத்தில் உள்ளனர்?"
+
+msgid "wannacryptpromopage_info-text-2"
+msgstr "திறந்த SMB துறைமுகங்கள் கொண்ட Windows விண்டோஸ் 10 க்கு முந்தைய இயக்க முறைமை கொண்ட கணினிகள் மிகவும் ஆபத்தில் உள்ளன. தற்போது, அனைத்து Windows விண்டோஸ் பயனாளர்களில் பாதிக்கும் ஆபத்து உள்ளது — 18% பயனர்கள் உரிமம் பெறாத Windows விண்டோஸ் பிரதிகள் (தானாகவே அவற்றை ஆபத்தில் வைக்கும்) பயன்படுத்துகின்றனர், 23% பயனர்கள் தங்கள் Windows விண்டோஸ் புதுப்பிப்பு சேவையை முடக்கியுள்ளனர் (மைக்ரோசாபிலிருந்து சமீபத்திய \"hotfixes\" ஐப் பதிவிறக்குவதை தடுக்கிறது)மற்றும் மற்றொரு 6% ஓபன் இன் ஓஎஸ் பதிப்புகள் பயன்படுத்துகின்றன, இவை வெறுமனே புதுப்பிப்புகளை பெறாது. <br/><br/>இவை அனைத்திற்கும் முடிவு என்னவென்றால், Windows விண்டோஸ் எக்ஸ்பி போன்ற ஆப்பரேட்டிங் சிஸ்டங்களைப் பயன்படுத்தும் பல்வேறு நிறுவனங்கள் மற்றும் நிறுவனங்களின் நெட்வொர்க்குகள் அதிக ஆபத்தில் உள்ளன. இந்த நெட்வொர்க்குகள் மீதான தாக்குதல்களில், தரவு இழப்பு ஊனமுற்றவையாக இருக்கக்கூடும், மேலும் செலவினம் மிகப்பெரியதாக இருக்கும், ஏனெனில் ஒவ்வொரு \"மீட்கும்\" தனித்தனியாக ஒவ்வொரு கணினிகக்கும் பணம் செலுத்த வேண்டும்."
+
+msgid "wannacryptpromopage_info-text-title-3"
+msgstr "உங்கள் வணிகத்தை எப்படி பாதுகாப்பது — வன்பொருள் DriverPack Solution தொகுப்பிலிருந்து தீர்வுகள் "
+
+msgid "wannacryptpromopage_info-text-3"
+msgstr "(WannaCry) வாணா க்ரை வைரஸ் ஆபத்து முக்கிய WannyCrypt காரணம் MS17-010 பாதுகாப்பு அமைப்பு SMBv1 நெறிமுறை ஒரு முக்கியமான பாதிப்புகள் பயன்படுத்தி அது பரவுகிறது என்று.இது உண்மையில் WannaCry வாணா க்ரை வைரஸ். வைரஸ் தடுப்பு மென்பொருள் உதவாது. DriverPack Solution வன்பொருள்தொகுப்பு தீர்வு வழங்கும் தீர்வு. உங்கள் கணினியின் முக்கியமான பாதிப்புகளை பாதுகாக்கும் ஒரு புதுப்பிப்பை நிறுவ உதவுகிறது, மேலும் உங்கள் உரிம வரலாறு மற்றும் உங்கள் இயக்க முறைமை பதிப்பைப் பொருட்படுத்தாமல் அச்சுறுத்தலாக இருக்கும் தேதி நெறிமுறைகளை முடக்கவும்."
+
+msgid "wannacryptpromopage_links-text"
+msgstr "பின்வரும் தீர்வுகளின் அடிப்படையில் இந்த தீர்வு அபிவிருத்தி செய்யப்பட்டது"
+
+msgid "wannacryptpromopage_link-smb"
+msgstr "Windows விண்டோஸ் மற்றும் Windows விண்டோஸ் சர்வர் க்கான SMB நெறிமுறைகளில் 1, 2 மற்றும் 3 பதிப்பை எவ்வாறு செயல்படுத்தவும் முடக்கவும் செய்வது"
