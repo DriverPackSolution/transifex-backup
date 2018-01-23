@@ -1,6 +1,6 @@
 # Translators:
 # Translators:
-# Bakhtawar Barzan <bakhtawar.barzan95@hotmail.com>, 2017
+# Bakhtawar Barzan <bakhtawar.barzan95@hotmail.com>, 2017-2018
 # Haval Abdulkarim <haval.abdulkarim@gmail.com>, 2016
 # Nadia Tegeneva <nadia@drp.su>, 2017
 # ravyar tahir <ravyarguitar@gmail.com>, 2016
@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-11-27 10:29+0000\n"
-"PO-Revision-Date: 2017-12-25 08:59+0000\n"
-"Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
+"PO-Revision-Date: 2018-01-12 22:45+0000\n"
+"Last-Translator: Bakhtawar Barzan <bakhtawar.barzan95@hotmail.com>\n"
 "Language-Team: Kurdish (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/ku/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -619,8 +619,8 @@ msgstr "به‌ڵێ! كۆمپیوته‌ره‌كه‌ی تۆ ڕێكخرا!"
 
 msgid "final_drivers_not_better_title"
 msgid_plural "final_drivers_not_better_title_n"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "پێناسەکان{{COUNT1}} لە{{COUNT2}} دامەزرێندراون."
+msgstr[1] "پێناسەکان {{COUNT1}} لە {{COUNT2}} دامەزرێندراون."
 
 msgid "final_single_driver_better_installed_title"
 msgstr "پێناسه‌كه‌ دامه‌زرێندرا"
@@ -634,7 +634,7 @@ msgstr[0] ""
 msgstr[1] ""
 
 msgid "final_programs_all_failed_title"
-msgstr ""
+msgstr "0 پرۆگرامی نەرمەکاڵا دامەزرێنداوە لە {{COUNT}} ."
 
 msgid "final_single_program_failed_title"
 msgstr "به‌رنامه‌ی نه‌رمه‌كاڵاكه‌ دانه‌مه‌زرێندرا"
@@ -643,7 +643,7 @@ msgid "final_offline_restart"
 msgstr ""
 
 msgid "final_drivers_ok_programs_subtitle"
-msgstr ""
+msgstr "هەموو پێناسە و خزمەتگوزاریە گرنگەکان دامەزرێندران."
 
 msgid "final_drivers_ok_subtitle"
 msgstr "هه‌موو پێناسه‌ گرنگه‌كان دامه‌زرێندران"
@@ -654,15 +654,15 @@ msgstr[0] "هه‌رچۆنێك بێت، {{COUNT}} پێناسه‌ی گرنگ د�
 msgstr[1] "هه‌رچۆنێك بێت، {{COUNT}} پێناسه‌ی گرنگ دامه‌زرێندراون. ئێمه‌ پێشنیار ده‌كه‌ین بۆ تۆ به‌ دووباره‌كردنه‌وه‌ی دامه‌زراندنه‌كه‌ یان كاری ئامێره‌كانت بپشكنه‌."
 
 msgid "final_single_driver_ok_programs_subtitle"
-msgstr ""
+msgstr "هەموو پێناسە و خزمەتگوزاریە گرنگەکان دامەزرێندران."
 
 msgid "final_single_driver_ok_subtitle"
 msgstr "هه‌موو پێناسه‌ گرنگه‌كان دامه‌زرێندران"
 
 msgid "final_programs_all_finished_subtitle"
 msgid_plural "final_programs_all_finished_subtitle_n"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{{COUNT}} پرۆگرامی نەرمەکاڵا دامەزرێندرا."
+msgstr[1] "{{COUNT}} پرۆگرامی نەرمەکاڵا دامەزرێندرا."
 
 msgid "final_programs_some_finished_subtitle"
 msgstr "دامه‌زراندنی هه‌ندێ به‌رنامه‌ی به‌سوود شكستی هێنا."
@@ -671,7 +671,7 @@ msgid "final_programs_all_failed_subtitle"
 msgstr "دامه‌زراندنی به‌رنامه‌كه‌ شكستی هێنا."
 
 msgid "final_single_program_finished_subtitle"
-msgstr ""
+msgstr "1 پرۆگرامی نەرمەکاڵا دامەزرێندرا."
 
 msgid "final_single_program_failed_subtitle"
 msgstr ""
@@ -683,13 +683,13 @@ msgid "final_main_remove_harmful_caption"
 msgstr "بڕۆ بۆ پاككردنه‌وه‌ی كۆمپیوته‌ر له‌ نه‌رمه‌ كاڵا ناپێویسته‌كان"
 
 msgid "final_main_offline_reload"
-msgstr ""
+msgstr "دوبارە دەستی پێبکەرەوە، وە بگەڕێ بۆ نوێکردنەوە"
 
 msgid "final_main_next_btn"
 msgstr "به‌رده‌وامبه‌"
 
 msgid "final_restart_installation_btn"
-msgstr ""
+msgstr "دەست بکە بە دوبارە دامەزراندنەوەی دوبارە"
 
 msgid "final_skip_btn"
 msgstr "بیپه‌ڕێنه‌"
@@ -702,8 +702,8 @@ msgstr ""
 
 msgid "final_aside_installed_drivers_title"
 msgid_plural "final_aside_installed_drivers_title_n"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{{COUNT}} پێناسە دامەزرێندران "
+msgstr[1] "{{COUNT}}"
 
 msgid "final_some_drivers_not_installed"
 msgstr "هه‌ندێ له‌ پێناسه‌كان دانه‌مه‌زرێندراون"
@@ -727,7 +727,7 @@ msgid "final_aside_some_programs_not_installed"
 msgstr "هه‌ندێ نه‌رمه‌كاڵا دانه‌مه‌زرێندران"
 
 msgid "final_aside_broken_devices_title"
-msgstr ""
+msgstr "ئامێرە کێشاویەکە دۆزرایەوە"
 
 msgid "final_aside_broken_devices_caption"
 msgstr ""
@@ -748,19 +748,19 @@ msgid "games_playkey_open_catalog_button"
 msgstr "زیاتر له‌ 150 یاری له‌ خشته‌ی PlayKey "
 
 msgid "games_playkey_cloud_title"
-msgstr ""
+msgstr "یاریەکە دەست پێدەکات<span class='games_title-marked bold'>لە هەوردا</span> لەسەر لایەنی سێرڤەر، <br /><span class='bold'>هەروەها، ئەو هیچ سەرچاوەیەکی کۆمپیوتەرەکەت بەکارناهێنێت</span>"
 
 msgid "games_playkey_cloud_img_pc_caption"
 msgstr "كۆمپیوته‌ره‌كه‌ كرداره‌كانی به‌كارهێنه‌ره‌كه‌ ده‌گوازێته‌وه‌"
 
 msgid "games_playkey_cloud_img_cloud_caption"
-msgstr ""
+msgstr "ئاماژەکە گوازرایەوە بۆ Сloud"
 
 msgid "games_playkey_cloud_img_server_caption"
 msgstr "یاریه‌كه‌ ده‌ستپێده‌كات له‌سه‌ر سێرڤه‌ره‌كه‌"
 
 msgid "games_playkey_cloud_img_joystick_caption"
-msgstr ""
+msgstr "تۆ چێژ لە یاریەکەن وەردەگریت بە بێبونی هیچ کێشەیەک و دواکەوتنێک."
 
 msgid "games_playkey_create_account_button"
 msgstr "هه‌ژمارێك دروست بكه‌ له‌ PlayKey"
@@ -772,13 +772,13 @@ msgid "authorize_popup_logout_button"
 msgstr "چوونه‌ ده‌ره‌وه‌"
 
 msgid "installation_header_subtitle"
-msgstr ""
+msgstr "ئەمە هەندێ کاتی دەوێت، بەڵام &nbsp; ئەوە شایەنیەتی."
 
 msgid "installation_header_subtitle_installing-driver"
-msgstr ""
+msgstr "{{CLASS.SINGLE.FOR}} پێناسە دامەزراندن"
 
 msgid "installation_header_subtitle_installing-program-plural"
-msgstr ""
+msgstr "{{CATEGORY.PLURAL.FOR}}دامەزراندن"
 
 msgid "installation_header_subtitle_installing-program"
 msgstr ""
@@ -856,7 +856,7 @@ msgid "soft_category_archiver"
 msgstr ""
 
 msgid "soft_category_browser"
-msgstr ""
+msgstr "کارێکی خێرا و پارێزراو لەسەر کۆمپیوتەر."
 
 msgid "soft_category_viewer"
 msgstr "بینینی وێنه‌كان و نوسراوه‌كان"
@@ -928,13 +928,13 @@ msgid "installation_progress_stage_installing"
 msgstr "دامه‌زراندن..."
 
 msgid "installation_progress_stage_done"
-msgstr ""
+msgstr "تەواو"
 
 msgid "installation_canceled"
 msgstr ""
 
 msgid "installation_title_name"
-msgstr ""
+msgstr "ئامرازە دابەزێندراوەکان"
 
 msgid "installation_title_button_settings"
 msgstr "ڕێكخستن"
@@ -943,13 +943,13 @@ msgid "installation_item_description_restorepoint"
 msgstr ""
 
 msgid "loading_backup_drivers"
-msgstr ""
+msgstr "پشتگیری پێناسە دروستکرا"
 
 msgid "loading_backup_done"
 msgstr "یه‌ده‌كی پێناسه‌ به‌ سه‌ركه‌وتوویی دروستكرا"
 
 msgid "loading_button_finish"
-msgstr ""
+msgstr "تەواو"
 
 msgid "loading_backup_failed"
 msgstr "هه‌ڵه‌یه‌ك ڕویدا له‌ پرۆسه‌ی دروستكردنی یه‌ده‌كی پێناسه‌"
@@ -973,7 +973,7 @@ msgid "loading_ordering_drivers"
 msgstr ""
 
 msgid "menu_install_drivers"
-msgstr ""
+msgstr "دامەزراندنی پێناسە بۆ ناو کۆمپیوتەر"
 
 msgid "menu_drivers"
 msgstr "وه‌گه‌ڕخه‌رەکان"
@@ -988,7 +988,7 @@ msgid "menu_protect_title"
 msgstr "یارمه‌تیده‌ر بۆ دژه‌ ڤایرۆسه‌كه‌ت"
 
 msgid "menu_protect_clean_up"
-msgstr ""
+msgstr "پاراستن و پاککردنەوە"
 
 msgid "menu_computer_diagnostics"
 msgstr ""
@@ -1009,7 +1009,7 @@ msgid "menu_settings"
 msgstr "ڕێكخستنه‌كان"
 
 msgid "menu_bugreport"
-msgstr ""
+msgstr "ڕاپۆرت دەربارەی هەڵە"
 
 msgid "no-internet-screen_header-title"
 msgstr "هیچ په‌یوه‌ندییك به‌ سێرڤه‌ر نییه‌"
@@ -1021,7 +1021,7 @@ msgid "no-internet-screen_guide-step-1"
 msgstr "هه‌نگاوی 1"
 
 msgid "no-internet-screen_guide-step-1-action"
-msgstr ""
+msgstr "بڕۆ بۆ ماڵپەڕی <span class=\"bold\">drp.su/en/foradmin</span> بە بەکار‌هێنانی کۆمپیوتەرێکی دیکە"
 
 msgid "no-internet-screen_guide-step-2"
 msgstr "هه‌نگاوی 2"
@@ -1030,10 +1030,10 @@ msgid "no-internet-screen_guide-step-2-action"
 msgstr ""
 
 msgid "no-internet-screen_guide-step-complete"
-msgstr ""
+msgstr "تەواو"
 
 msgid "no-internet-screen_guide-step-complete-action"
-msgstr ""
+msgstr "دەستبکە بە بەرنامەکە لەسەر ئەم کۆمپیوتەرە وە ڕێکیبخە بە یەک کلیک"
 
 msgid "programs_header_text_title"
 msgstr "هه‌موو به‌رنامه‌ به‌سووده‌كان له‌ یه‌ك شوێن"
@@ -1048,13 +1048,13 @@ msgid "drivers_program_counter"
 msgstr "نه‌رمه‌كاڵا پێشنیاركراوه‌كان"
 
 msgid "protect_popup_title"
-msgstr ""
+msgstr "رێکخستنی پارێزگاری کۆمپیوتەرەکەت"
 
 msgid "protect_popup_install_button"
 msgstr "دامەزراندن"
 
 msgid "protect_popup_cancel_button"
-msgstr ""
+msgstr "ڕەتکردنەوە"
 
 msgid "protect_row_rating"
 msgstr "رێژه‌:"
@@ -1087,7 +1087,7 @@ msgid "protect_uninstall_single"
 msgstr "لابردن"
 
 msgid "protect_clean_up_btn"
-msgstr ""
+msgstr "کۆمپیوتەر پاکبکەرەوە و بیپارێزە"
 
 msgid "protect_remove_all_btn_uninstalling"
 msgstr ""
@@ -1117,7 +1117,7 @@ msgid "protect_show_more"
 msgstr "بینینی زیاتر"
 
 msgid "protect_security_programs_title"
-msgstr ""
+msgstr "نەرمەکاڵای گرنگ بۆ پارێزگاری"
 
 msgid "settings-header_title"
 msgstr "رێكخسته‌كان بۆ به‌كارهێنه‌ره‌ پێشكه‌وتووه‌كان"
