@@ -2,13 +2,14 @@
 # Nadia Tegeneva <nadia@drp.su>, 2017
 # Hrant Ohanyan <h.ohanyan@haysoft.org>, 2017
 # Артур Кузяков <artx@drp.su>, 2017
+# Norayr Manukyan <norayrmanukyan2020@gmail.com>, 2018
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-01-11 11:55+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
-"Last-Translator: Артур Кузяков <artx@drp.su>, 2017\n"
+"Last-Translator: Norayr Manukyan <norayrmanukyan2020@gmail.com>, 2018\n"
 "Language-Team: Armenian (https://www.transifex.com/driverpack-solution/teams/75453/hy/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -20,7 +21,7 @@ msgid "adminlandingpage_title"
 msgstr "DriverPack մասնագետների համար՝ սարքավարների ինքնաշխատ տեղադրում ցանկացած համակարգչում"
 
 msgid "admincackle_dialog-star"
-msgstr ""
+msgstr "Խնդրում ենք գնահատել DriverPack-ի գործողությունները"
 
 msgid "admindriverpacks_landing-title"
 msgstr "Driverpacks (սարքավարների փաթեթներ)"
@@ -35,10 +36,10 @@ msgid "adminfaq_landing-title"
 msgstr "Մենք պատասխանել ենք ձեր հարցին"
 
 msgid "adminfaq_landing-subtitle"
-msgstr ""
+msgstr "Դուք հարցնում եք DriverPack համակարգից — մենք՝ պատասխանում"
 
 msgid "adminheader_cta-text"
-msgstr ""
+msgstr "DriverPack-ը ստեղծվել է ադմինիստրատորների համար, բայց հեշտորեն կարող է օգտագործվել սկսնակների կողմից"
 
 msgid "adminheader_cta-btn"
 msgstr "Ներբեռնել DriverPack Online-ը"
@@ -50,7 +51,7 @@ msgid "breadcrumbs_main-text"
 msgstr "Տնային էջ"
 
 msgid "breadcrumbs_catalog-main-text"
-msgstr ""
+msgstr "դրայվերները {{OS.NAME}}-ի համար"
 
 msgid "breadcrumbs_vendors-text"
 msgstr "Արտադրողներ"
@@ -92,7 +93,7 @@ msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
 #. CLASS.PLURAL.MAIN=видеокарты|чипсеты, NOTEBOOK.VENDOR.NAME=Lenovo,
 #. NOTEBOOK.NAME=G580;
 msgid "breadcrumbs_notebookdevices-text"
-msgstr ""
+msgstr "{{NOTEBOOK.VENDOR.NAME}}-ի {{CLASS.PLURAL.MAIN}} {{NOTEBOOK.NAME}} նոթբուքի համար"
 
 msgid "devicecard_download-btn"
 msgstr "Ներբեռնել սարքավարը"
@@ -102,7 +103,7 @@ msgstr "Ներբեռնել սարքավարը"
 #. NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10 x86; Текст для
 #. {{DOWNLOAD}} находится в ключе drivercard_no-results_download-link;
 msgid "devicecard_details_no-results-text"
-msgstr ""
+msgstr "Windows {{OSVERSIONS}}-ի  համար {{NAME}} դրայվերը չի գտնվել: Խնդրում ենք {{DOWNLOAD}} դրայվերներն ավտոմատ ընտրելու համար:"
 
 msgid "devicecard_details_no-results_download-link"
 msgstr "Ներբեռնել DriverPack-ը"
@@ -141,16 +142,16 @@ msgid "devicecard_details-content-label-section"
 msgstr "Անվանակարգ."
 
 msgid "devicecard_details-links-merged_label"
-msgstr ""
+msgstr "Եթե Ձեզ անհրաժեշտ Device ID-ն չի գտնվել, խնդրում ենք որոնել"
 
 msgid "devicecard_details-links-notebook_device"
 msgstr "Դիտել բոլոր սարքավարները"
 
 msgid "devicecard_details-links"
-msgstr ""
+msgstr "Տեսնել բոլոր դրայվերները համար"
 
 msgid "devicecardlist_no-result_download-link"
-msgstr ""
+msgstr "Բեռնել DriverPack"
 
 #. i18n: EN: Example: DEVICENAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10
 #. x86; Text for {{DOWNLOAD}} is in key devicecardlist_no-result_download-
@@ -158,7 +159,7 @@ msgstr ""
 #. x86; Текст для {{DOWNLOAD}} находится в ключе devicecardlist_no-
 #. result_download-link;
 msgid "devicecardlist_no-results-device-text"
-msgstr ""
+msgstr "Windows {{OSVERSIONS}}-ի  համար {{DEVICENAME}} դրայվերը չի գտնվել: Խնդրում ենք {{DOWNLOAD}} դրայվերներն ավտոմատ տեղադրելու համար:"
 
 #. i18n: EN: Example: DEVICECLASS=chipsets|videocards; NOTEBOOK=Acer AO521;
 #. OSVERSIONS=Windows 10 x86; Text for {{DOWNLOAD}} is in key
@@ -167,14 +168,14 @@ msgstr ""
 #. OSVERSIONS=Windows 10 x86; Текст для {{DOWNLOAD}} находится в ключе
 #. devicecardlist_no-result_download-link;
 msgid "devicecardlist_no-results-notebook-text"
-msgstr ""
+msgstr "{{NOTEBOOK}} նոթբուքի համար Windows {{OSVERSIONS}} օպերացիոն համակարգի համար դրայվերները չեն գտնվել: Խնդրում ենք {{DOWNLOAD}} դրայվերներն ավտոմատ տեղադրելու համար: "
 
 #. i18n: EN: Example: NOTEBOOK=Acer AO521; OSVERSIONS=Windows 10 x86; Text for
 #. {{DOWNLOAD}} is in key devicecardlist_no-result_download-link; RU: Пример:
 #. NOTEBOOK=Acer AO521; Пример: OSVERSIONS=Windows 10 x86; Текст для
 #. {{DOWNLOAD}} находится в ключе devicecardlist_no-result_download-link;
 msgid "devicecardlist_no-results-notebook-device-class-text"
-msgstr ""
+msgstr "{{NOTEBOOK}} նոթբուքի Windows {{OSVERSIONS}} ՕՀ - համար {{DEVICECLASS}}-ի դրայվերները չեն գտնվել: Խնդրում ենք {{DOWNLOAD}} դրայվերներն ավտոմատ տեղադրելու համար:"
 
 msgid "devicegrouppage_all-systems"
 msgstr "բոլոր համակարգերը"
@@ -192,10 +193,10 @@ msgid "deviceidheader_caption-single"
 msgstr "Սարքի անունը."
 
 msgid "deviceidheader_caption-many"
-msgstr ""
+msgstr "Այս սարքն անվանում են նաև:"
 
 msgid "devicetypelist_title_os"
-msgstr ""
+msgstr "{{OS}}-ի համար սարքերի դրայվերներ"
 
 msgid "devicetypelist_title"
 msgstr "Սարքավարների որոնում սարքի համար"
@@ -208,10 +209,10 @@ msgstr "Ներբեռնել DriverPack Online-ը"
 #. NAME=Acer Aspire 4830TG; Пример: OSVERSIONS=Windows 10 x86; Текст для
 #. {{DOWNLOAD}} находится в ключе drivercard_no-results_download-link;
 msgid "drivercard_no-results-text"
-msgstr ""
+msgstr "Windows {{OSVERSIONS}}-ի համար {{NAME}} դրայվերը չի գտնվել: Խնդրում ենք {{DOWNLOAD}} դրայվերներն ավտոմատ ընտրելու համար:"
 
 msgid "drivercard_no-results_download-link"
-msgstr ""
+msgstr "Բեռնել DriverPack"
 
 msgid "drivercard_caption-version"
 msgstr "Տարբերակ:"
@@ -247,31 +248,31 @@ msgid "deviceidpage_all-systems"
 msgstr "բոլոր համակարգերը"
 
 msgid "dropdowndriverversion_no-results"
-msgstr ""
+msgstr "Նշված ՕՀ համար դրայվերներ չեն գտնվել"
 
 msgid "dropdownos_current"
 msgstr "ընթացիկ"
 
 msgid "footer_banner-title"
-msgstr ""
+msgstr "Դուք հոգնել փնտրում է վարորդին ձեր սարքի?"
 
 msgid "footer_banner-caption"
-msgstr ""
+msgstr "DriverPack Online-ը <span style='color: {{COLOR}}'>կփնտրի և կտեղադրի</span> Ձեզ անհարաժեշտ դրայվերներն ավտոմատ:"
 
 msgid "footer_banner_btn"
-msgstr ""
+msgstr "Բեռնեք <span class='bold'>DriverPack Online</span> անվճար"
 
 msgid "footer_translate-feedback"
-msgstr ""
+msgstr "Գտե՞լ եք սխալ: <br />Սեղմե՛ք {{HOTKEY}}"
 
 msgid "header_search-title"
-msgstr ""
+msgstr "<span class='bold'>Որոնել դրայվերներն</span> ամենամեծ բազայում — ավելի քան մեկ միլիոն դրայվերներ"
 
 msgid "header_search-examples"
 msgstr "Օրինակ՝:"
 
 msgid "header_cta-text"
-msgstr ""
+msgstr "Բեռնեք  DriverPack-ը անհրաժեշտ դրայվերներն ավտոմատ տեղադրելու համար"
 
 msgid "header_cta-btn"
 msgstr "Ինքնաբար տեղադրել սարքավարները"
@@ -289,55 +290,55 @@ msgid "headerbutton_label"
 msgstr "DriverPack ծրագիրը անվճար է"
 
 msgid "headeros_cta-btn"
-msgstr ""
+msgstr "Տեղադրել դրայվերներ <span class='HeaderOs__cta-btn-marked'>{{OS}}</span>-ի համար"
 
 msgid "headeros_search-text"
-msgstr ""
+msgstr "Կամ օգտվեք մեր բազայում որոնելու հնարավորությունից"
 
 msgid "landingdevicetypelist_landing-title"
 msgstr "DriverPack-ը համատեղելի է ցանկացած սարքի հետ"
 
 msgid "landingdevicetypelist_landing-subtitle"
-msgstr ""
+msgstr "Նույնիսկ USB 3.0  Windows 7 SP1-ի համար"
 
 msgid "landingdevicetypelist_cta-btn"
 msgstr "Տեղադրել պահանջվող բոլոր սարքավարները"
 
 msgid "landingdevicetypelist_versions"
-msgstr ""
+msgstr "DriverPack-ի այլ տարբերակներ"
 
 msgid "landingfeatures_landing-title"
-msgstr ""
+msgstr "DriverPack-ն ամենաարագ և հարմարավետ գործիքն է քոմփյութերը կարգավորեու համար"
 
 msgid "landingfeatures_landing-subtitle"
-msgstr ""
+msgstr "Ծրագիրը տրամադրվում է անվճար, նախատեսված է և՛ պրոֆեսիոնալների, և՛ սկսնակների համար"
 
 msgid "landingfeatures_item-title-free"
-msgstr ""
+msgstr "Անվճար"
 
 msgid "landingfeatures_item-caption-free"
-msgstr ""
+msgstr "DriverPack-ը տրամադրվում է անվճար"
 
 msgid "landingfeatures_item-title-safe"
-msgstr ""
+msgstr "Անվտանգ"
 
 msgid "landingfeatures_item-caption-safe"
-msgstr ""
+msgstr "DriverPack-ը պաշտոնապես համագործակցում է հակավիրուսային ծրագրերի արտադրողների հետ, և պաշտպանում է Ձեր քոմփյութերը"
 
 msgid "landingfeatures_item-title-for-all-devices"
 msgstr "Բոլոր սարքերի համար"
 
 msgid "landingfeatures_item-caption-for-all-devices"
-msgstr ""
+msgstr "DriverPack-ն ունի աշխարհում ամենամեծ տվյալների բազան, և կարող է օգտագործվել ցանկացած քոմփյութեր կարգավորելու համար"
 
 msgid "landingheader_cta-text"
-msgstr ""
+msgstr "DriverPack-ը անվճար կտեղադրի և կլուծի դրայվերների հետ կապված ցանկացած խնդիր"
 
 msgid "landingheader_cta-btn"
 msgstr "Տեղադրել պահանջվող բոլոր սարքավարները"
 
 msgid "landingheadernav_badrabbit"
-msgstr ""
+msgstr "Bad Rabbit վիրուսից պաշտպանություն"
 
 msgid "landingheadernav_search"
 msgstr "Սարքավարի որոնում"
@@ -346,31 +347,31 @@ msgid "landingheadernav_foradmin"
 msgstr "Համակարգի վարիչների համար"
 
 msgid "landingintroduction_author-title"
-msgstr ""
+msgstr "Բարև: Իմ անունն է Արթուր Կուզյակով: Ես DriverPack համակարգի հեղինակն ու հիմնադիրն եմ"
 
 msgid "landingintroduction_author-speech"
 msgstr ""
 
 msgid "landingintroduction_author-speech-marked"
-msgstr ""
+msgstr "Մենք ծախսում ենք մեր ամբողջ ժամանակը՝ Ձեր ժամանակը խնայելու համար!"
 
 msgid "landingintroduction_video-caption"
-msgstr ""
+msgstr "Ահա և ինչ է մտածում ՌԴ վարչապետ Դմիտրի Մեդվեդեվը DriverPack Solution-ի մասին"
 
 msgid "landingnotebookvendorslist_landing-title"
-msgstr ""
+msgstr "DriverPack-ը համատեղելի է ցանկացած քոմփյութերի հետ"
 
 msgid "landingnotebookvendorslist_landing-subtitle"
-msgstr ""
+msgstr "Այո՛, ԲՈԼՈՐ քոմփյութերների համար - մենք ստուգել ենք! "
 
 msgid "landingnotebookvendorslist_cta-btn"
 msgstr "Տեղադրել պահանջվող բոլոր սարքավարները"
 
 msgid "landingnotebookvendorslist_versions"
-msgstr ""
+msgstr "DriverPack-ի այլ տարբերակներ"
 
 msgid "landingproducts_cta-title"
-msgstr ""
+msgstr "Ընտրի՛ր քո DriverPack-ը"
 
 msgid "landingproducts_cta-description"
 msgstr ""
@@ -406,7 +407,7 @@ msgid "landingscreenshots_landing-title"
 msgstr ""
 
 msgid "landingscreenshots_landing-subtitle"
-msgstr ""
+msgstr "Ծրագիրը տրամադրվում է անվճար, նախատեսված է և՛ պրոֆեսիոնալների, և՛ սկսնակների համար"
 
 msgid "landingsocial_landing-title"
 msgstr ""
@@ -427,7 +428,7 @@ msgid "landingusers_cta-btn"
 msgstr "Տեղադրել պահանջվող բոլոր սարքավարները"
 
 msgid "landingusers_versions"
-msgstr ""
+msgstr "DriverPack-ի այլ տարբերակներ"
 
 msgid "landingvideocardlist_landing-title"
 msgstr ""
@@ -502,7 +503,7 @@ msgid "promoheader_cta-text-gamers-caption"
 msgstr ""
 
 msgid "promoheader_cta-text"
-msgstr ""
+msgstr "DriverPack-ը անվճար կտեղադրի և կլուծի դրայվերների հետ կապված ցանկացած խնդիր"
 
 msgid "promoheader_cta-btn"
 msgstr "Տեղադրել պահանջվող բոլոր սարքավարները"
@@ -961,7 +962,7 @@ msgid "landing-footer_manufacturers"
 msgstr ""
 
 msgid "landing-footer_badrabbit"
-msgstr ""
+msgstr "Bad Rabbit վիրուսից պաշտպանություն"
 
 msgid "landing-footer_for-admin"
 msgstr ""
