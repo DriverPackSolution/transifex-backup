@@ -1,12 +1,13 @@
 # Translators:
 # Nadia Tegeneva <nadia@drp.su>, 2017
+# Tobias Lindén <tobiasglinden@gmail.com>, 2018
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-01-11 11:55+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
-"Last-Translator: Nadia Tegeneva <nadia@drp.su>, 2017\n"
+"Last-Translator: Tobias Lindén <tobiasglinden@gmail.com>, 2018\n"
 "Language-Team: Swedish (https://www.transifex.com/driverpack-solution/teams/75453/sv/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -15,140 +16,140 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "adminlandingpage_title"
-msgstr ""
+msgstr "DriverPack För Proffs - Automatisk Installation Av Drivrutiner På Alla Datorer"
 
 msgid "admincackle_dialog-star"
-msgstr ""
+msgstr "Var snäll och betygsätt DriverPack-s funktion!"
 
 msgid "admindriverpacks_landing-title"
-msgstr ""
+msgstr "Driverpacks (paket med drivrutiner)"
 
 msgid "admindriverpacks_landing-subtitle"
-msgstr ""
+msgstr "Våra driverpacks innehåller {{COUNT}} drivrutiner som har blivit handplockade och testade"
 
 msgid "admindriverpacks_download"
-msgstr ""
+msgstr "Ladda ned"
 
 msgid "adminfaq_landing-title"
-msgstr ""
+msgstr "Vi svarar på dina frågor"
 
 msgid "adminfaq_landing-subtitle"
-msgstr ""
+msgstr "Ni ställer ofta frågor om DriverPack — vi svarar på de mest frekventa"
 
 msgid "adminheader_cta-text"
-msgstr ""
+msgstr "DriverPack är skapat för administratörer men är lätt att använda även för nybörjare"
 
 msgid "adminheader_cta-btn"
-msgstr ""
+msgstr "Ladda ned DriverPack Online"
 
 msgid "buttonsplitdropdown_main-button"
-msgstr ""
+msgstr "Ladda ned"
 
 msgid "breadcrumbs_main-text"
-msgstr ""
+msgstr "Hem"
 
 msgid "breadcrumbs_catalog-main-text"
-msgstr ""
+msgstr "drivrutiner för {{OS.NAME}}"
 
 msgid "breadcrumbs_vendors-text"
-msgstr ""
+msgstr "Tillverkare"
 
 #. i18n: EN: Example: VENDOR.NAME=Lenovo; RU: Пример: VENDOR.NAME=Lenovo;
 msgid "breadcrumbs_vendor-text"
-msgstr ""
+msgstr "{{VENDOR.NAME}}"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=cardreaders|monitors; RU: Пример:
 #. CLASS.PLURAL.MAIN=картридеры|мониторы;
 msgid "breadcrumbs_deviceclass-text"
-msgstr ""
+msgstr "{{CLASS.PLURAL.MAIN}}"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=cardreaders|monitors,
 #. VENDOR.NAME=Realtek; RU: Пример: CLASS.PLURAL.MAIN=картридеры|мониторы;
 #. VENDOR.NAME=Realtek;
 msgid "breadcrumbs_devicegroups-text"
-msgstr ""
+msgstr "{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
 
 #. i18n: EN: Example: GROUP.VENDOR.NAME=Nvidia, GROUP.NAME=GeForce 210; RU:
 #. Пример: GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210;
 msgid "breadcrumbs_devicegroup-text"
-msgstr ""
+msgstr "{{GROUP.VENDOR.NAME}} {{GROUP.NAME}}"
 
 msgid "breadcrumbs_notebooks-text"
-msgstr ""
+msgstr "Bärbara datorer"
 
 #. i18n: EN: Example: VENDOR.NAME=Asus; RU: Пример: VENDOR.NAME=Asus;
 msgid "breadcrumbs_notebookvendor-text"
-msgstr ""
+msgstr "{{VENDOR.NAME}} bärbara datorer"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=X1 carbon;
 #. RU: Пример: NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=X1 carbon;
 msgid "breadcrumbs_notebook-text"
-msgstr ""
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=Videocards|Chipsets ,
 #. NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=G580; RU: Пример:
 #. CLASS.PLURAL.MAIN=видеокарты|чипсеты, NOTEBOOK.VENDOR.NAME=Lenovo,
 #. NOTEBOOK.NAME=G580;
 msgid "breadcrumbs_notebookdevices-text"
-msgstr ""
+msgstr "{{CLASS.PLURAL.MAIN}} för {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} bärbar dator"
 
 msgid "devicecard_download-btn"
-msgstr ""
+msgstr "Ladda ned drivrutin"
 
 #. i18n: EN: Example: NAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10 x86; Text
 #. for {{DOWNLOAD}} is in key drivercard_no-results_download-link; RU: Пример:
 #. NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10 x86; Текст для
 #. {{DOWNLOAD}} находится в ключе drivercard_no-results_download-link;
 msgid "devicecard_details_no-results-text"
-msgstr ""
+msgstr "Drivrutinerna till {{NAME}} för Windows {{OSVERSIONS}} hittades inte i katalogen. {{DOWNLOAD}} för att välja drivrutin automatiskt."
 
 msgid "devicecard_details_no-results_download-link"
-msgstr ""
+msgstr "Ladda ned DriverPack"
 
 msgid "devicecard_details-content-text"
-msgstr ""
+msgstr "Hämtar information..."
 
 msgid "devicecard_details_all-systems"
-msgstr ""
+msgstr "alla operativsystem"
 
 msgid "devicecard_details-content-label-version"
-msgstr ""
+msgstr "Version:"
 
 msgid "devicecard_details-content-label-version-recommended"
-msgstr ""
+msgstr "rekommenderas"
 
 msgid "devicecard_details-content-label-date"
-msgstr ""
+msgstr "Datum:"
 
 msgid "devicecard_details-content-label-type"
-msgstr ""
+msgstr "Drivrutinstyp:"
 
 msgid "devicecard_details-content-label-manufacturer"
-msgstr ""
+msgstr "Tillverkare:"
 
 msgid "devicecard_details-content-label-systems"
-msgstr ""
+msgstr "Operativsystem:"
 
 msgid "devicecard_details-content-label-deviceid"
-msgstr ""
+msgstr "Device ID:"
 
 msgid "devicecard_details-content-label-inf"
-msgstr ""
+msgstr "Fil *.inf:"
 
 msgid "devicecard_details-content-label-section"
-msgstr ""
+msgstr "Kategori:"
 
 msgid "devicecard_details-links-merged_label"
-msgstr ""
+msgstr "Om det Device ID du behöver inte finns med i listan, skriv in det i sökrutan"
 
 msgid "devicecard_details-links-notebook_device"
-msgstr ""
+msgstr "Visa alla drivrutiner"
 
 msgid "devicecard_details-links"
-msgstr ""
+msgstr "Visa alla drivrutiner för"
 
 msgid "devicecardlist_no-result_download-link"
-msgstr ""
+msgstr "Ladda ned DriverPack"
 
 #. i18n: EN: Example: DEVICENAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10
 #. x86; Text for {{DOWNLOAD}} is in key devicecardlist_no-result_download-
@@ -156,7 +157,7 @@ msgstr ""
 #. x86; Текст для {{DOWNLOAD}} находится в ключе devicecardlist_no-
 #. result_download-link;
 msgid "devicecardlist_no-results-device-text"
-msgstr ""
+msgstr "Drivrutinerna till {{DEVICENAME}} för Windows {{OSVERSIONS}} hittades inte i katalogen. {{DOWNLOAD}} för att välja drivrutin automatiskt."
 
 #. i18n: EN: Example: DEVICECLASS=chipsets|videocards; NOTEBOOK=Acer AO521;
 #. OSVERSIONS=Windows 10 x86; Text for {{DOWNLOAD}} is in key
@@ -165,926 +166,926 @@ msgstr ""
 #. OSVERSIONS=Windows 10 x86; Текст для {{DOWNLOAD}} находится в ключе
 #. devicecardlist_no-result_download-link;
 msgid "devicecardlist_no-results-notebook-text"
-msgstr ""
+msgstr "Drivrutinerna till {{NOTEBOOK}} bärbar dator för Windows {{OSVERSIONS}} hittades inte i katalogen. {{DOWNLOAD}} för att välja drivrutin automatiskt."
 
 #. i18n: EN: Example: NOTEBOOK=Acer AO521; OSVERSIONS=Windows 10 x86; Text for
 #. {{DOWNLOAD}} is in key devicecardlist_no-result_download-link; RU: Пример:
 #. NOTEBOOK=Acer AO521; Пример: OSVERSIONS=Windows 10 x86; Текст для
 #. {{DOWNLOAD}} находится в ключе devicecardlist_no-result_download-link;
 msgid "devicecardlist_no-results-notebook-device-class-text"
-msgstr ""
+msgstr "Drivrutinerna till {{DEVICECLASS}} för {{NOTEBOOK}} bärbar dator för Windows {{OSVERSIONS}} hittades inte. {{DOWNLOAD}} för att välja drivrutin automatiskt."
 
 msgid "devicegrouppage_all-systems"
-msgstr ""
+msgstr "alla operativsystem"
 
 msgid "notebookpage_all-systems"
-msgstr ""
+msgstr "alla operativsystem"
 
 msgid "devicegroupfilters_filter-title"
-msgstr ""
+msgstr "Tillgängliga drivrutiner"
 
 msgid "deviceidfilters-filter-label-version"
-msgstr ""
+msgstr "Drivrutinsversion:"
 
 msgid "deviceidheader_caption-single"
-msgstr ""
+msgstr "Enhetsnamn:"
 
 msgid "deviceidheader_caption-many"
-msgstr ""
+msgstr "Den här enheten är också känd under följande namn:"
 
 msgid "devicetypelist_title_os"
-msgstr ""
+msgstr "Drivrutin för enheter på {{OS}}"
 
 msgid "devicetypelist_title"
-msgstr ""
+msgstr "Sök drivrutiner för enheter"
 
 msgid "search_noresult"
-msgstr ""
+msgstr "Ladda ned DriverPack Online"
 
 #. i18n: EN: Example: NAME=Acer Aspire 4830TG; OSVERSIONS=Windows 10 x86; Text
 #. for {{DOWNLOAD}} is in key drivercard_no-results_download-link; RU: Пример:
 #. NAME=Acer Aspire 4830TG; Пример: OSVERSIONS=Windows 10 x86; Текст для
 #. {{DOWNLOAD}} находится в ключе drivercard_no-results_download-link;
 msgid "drivercard_no-results-text"
-msgstr ""
+msgstr "Drivrutinerna för {{NAME}} för Windows {{OSVERSIONS}} hittades inte i katalogen. {{DOWNLOAD}} för att välja drivrutin automatiskt."
 
 msgid "drivercard_no-results_download-link"
-msgstr ""
+msgstr "Ladda ned DriverPack"
 
 msgid "drivercard_caption-version"
-msgstr ""
+msgstr "Version:"
 
 msgid "drivercard_caption-version-recommended"
-msgstr ""
+msgstr "rekommenderas"
 
 msgid "drivercard_caption-date"
-msgstr ""
+msgstr "Datum:"
 
 msgid "drivercard_caption-class"
-msgstr ""
+msgstr "Enhetstyp:"
 
 msgid "drivercard_caption-manufacturer"
-msgstr ""
+msgstr "Tillverkare:"
 
 msgid "drivercard_caption-os"
-msgstr ""
+msgstr "Operativsystem:"
 
 msgid "drivercard_caption-deviceid"
-msgstr ""
+msgstr "Device ID:"
 
 msgid "drivercard_caption-inf"
-msgstr ""
+msgstr "Fil *.inf:"
 
 msgid "drivercard_caption-section"
-msgstr ""
+msgstr "Kategori:"
 
 msgid "drivercard_caption-btn"
-msgstr ""
+msgstr "Ladda ned drivrutin"
 
 msgid "deviceidpage_all-systems"
-msgstr ""
+msgstr "alla operativsystem"
 
 msgid "dropdowndriverversion_no-results"
-msgstr ""
+msgstr "Drivrutinerna för det valda operativsystemet hittades inte"
 
 msgid "dropdownos_current"
-msgstr ""
+msgstr "nuvarande"
 
 msgid "footer_banner-title"
-msgstr ""
+msgstr "Har du tröttnat på att leta efter drivrutiner för dina enheter?"
 
 msgid "footer_banner-caption"
-msgstr ""
+msgstr "DriverPack Online <span style='color: {{COLOR}}'>hittar och installerar automatiskt</span> de drivrutiner du behöver"
 
 msgid "footer_banner_btn"
-msgstr ""
+msgstr "Ladda ned <span class='bold'>DriverPack Online</span> gratis"
 
 msgid "footer_translate-feedback"
-msgstr ""
+msgstr "Har du hittat ett feltryck eller misstag?<br />Markera det och tryck {{HOTKEY}}"
 
 msgid "header_search-title"
-msgstr ""
+msgstr "<span class='bold'>Sök efter drivrutiner</span> i den största databasen — över en miljon drivrutiner"
 
 msgid "header_search-examples"
-msgstr ""
+msgstr "Till exempel:"
 
 msgid "header_cta-text"
-msgstr ""
+msgstr "Ladda ned DriverPack för automatiskt val av drivrutiner"
 
 msgid "header_cta-btn"
-msgstr ""
+msgstr "Installera drivrutiner automatiskt"
 
 msgid "header_cta-label-1"
-msgstr ""
+msgstr "Det <span style='color: {{COLOR}}'>laddas hem</span> direkt"
 
 msgid "header_cta-label-2"
-msgstr ""
+msgstr "Det <span style='color: {{COLOR}}'>kommer välja och installera</span> drivrutiner automatiskt"
 
 msgid "headerbutton_title"
-msgstr ""
+msgstr "Installera drivrutiner automatiskt"
 
 msgid "headerbutton_label"
-msgstr ""
+msgstr "DriverPack mjukvara är helt gratis"
 
 msgid "headeros_cta-btn"
-msgstr ""
+msgstr "Installera drivrutiner för <span class='HeaderOs__cta-btn-marked'>{{OS}}</span>"
 
 msgid "headeros_search-text"
-msgstr ""
+msgstr "Eller använd sökfunktionen i vår enorma drivrutinsdatabas"
 
 msgid "landingdevicetypelist_landing-title"
-msgstr ""
+msgstr "DriverPack passar alla enhter"
 
 msgid "landingdevicetypelist_landing-subtitle"
-msgstr ""
+msgstr "Även för USB 3.0 på Windows 7 SP1"
 
 msgid "landingdevicetypelist_cta-btn"
-msgstr ""
+msgstr "Installera alla nödvändiga drivrutiner"
 
 msgid "landingdevicetypelist_versions"
-msgstr ""
+msgstr "Andra versioner av DriverPack"
 
 msgid "landingfeatures_landing-title"
-msgstr ""
+msgstr "DriverPack är det mest bekväma och snabbaste sättet att konfigurera en dator"
 
 msgid "landingfeatures_landing-subtitle"
-msgstr ""
+msgstr "Programmet är tillgängligt gratis, och är lämpligt både för proffs och nybörjare"
 
 msgid "landingfeatures_item-title-free"
-msgstr ""
+msgstr "Gratis"
 
 msgid "landingfeatures_item-caption-free"
-msgstr ""
+msgstr "DriverPack är tillgängligt gratis"
 
 msgid "landingfeatures_item-title-safe"
-msgstr ""
+msgstr "Säkert"
 
 msgid "landingfeatures_item-caption-safe"
-msgstr ""
+msgstr "DriverPack samarbetar officiellt med tillverkare av antivirusprogram, och skyddar din dator"
 
 msgid "landingfeatures_item-title-for-all-devices"
-msgstr ""
+msgstr "För alla enheter"
 
 msgid "landingfeatures_item-caption-for-all-devices"
-msgstr ""
+msgstr "DriverPack har världens största databas med drivrutiner, och kan användas för att konfigurera alla datorer"
 
 msgid "landingheader_cta-text"
-msgstr ""
+msgstr "DriverPack installerar drivrutiner gratis och löser problem med drivrutiner på alla enheter"
 
 msgid "landingheader_cta-btn"
-msgstr ""
+msgstr "Installera alla nödvändiga drivrutiner"
 
 msgid "landingheadernav_badrabbit"
-msgstr ""
+msgstr "Skydd mot Bad Rabbit"
 
 msgid "landingheadernav_search"
-msgstr ""
+msgstr "Sök efter drivrutiner"
 
 msgid "landingheadernav_foradmin"
-msgstr ""
+msgstr "För Systemadministratörer"
 
 msgid "landingintroduction_author-title"
-msgstr ""
+msgstr "Hej! Jag heter Artur Kuzyakov. Jag är skapare och grundare av DriverPack"
 
 msgid "landingintroduction_author-speech"
-msgstr ""
+msgstr "Från ett litet program skapat genom rent entusiasm för 8 år sedan, har vi förvandlats till ett företag som har hjälpt över 40 miljoner människor världen över att konfigurera deras datorer!<br /><br />Under den här tiden har vårt program blivit otroligt snabbt och smart. Idag är DriverPack världens största databas av unika drivrutiner, tillgängligt via ultrasnabba servrar runt om i världen. För att alltid kunna utföra processen med installation av drivrutiner snabbt och med högsta möjliga kvalité, använder vi maskininlärningsteknik som gör vår algoritm för val av drivrutin ännu bättre och snabbare. Vi har lyckats uppnå allt detta på ett sådant sätt att programmet förblir helt utan konstnad, och alla kan använda det. <br /><br />Mitt team och jag är stolta över vår produkt, och vi hoppas att det kommer bli din pålitliga assistent när du konfigurerar vilken dator som helt inom den kortast möjliga tidsramen."
 
 msgid "landingintroduction_author-speech-marked"
-msgstr ""
+msgstr "Vi spenderar all vår tid för att spara din!"
 
 msgid "landingintroduction_video-caption"
-msgstr ""
+msgstr "Och här är vad Dmitry Medvedev, Rysslands premiärminister, tycker om DriverPack Solution"
 
 msgid "landingnotebookvendorslist_landing-title"
-msgstr ""
+msgstr "DriverPack fungerar på alla datorer"
 
 msgid "landingnotebookvendorslist_landing-subtitle"
-msgstr ""
+msgstr "Ja, för ALLA datorer - vi har dubbelkollat!"
 
 msgid "landingnotebookvendorslist_cta-btn"
-msgstr ""
+msgstr "Installera alla nödvändiga drivrutiner"
 
 msgid "landingnotebookvendorslist_versions"
-msgstr ""
+msgstr "Andra versioner av DriverPack"
 
 msgid "landingproducts_cta-title"
-msgstr ""
+msgstr "Välj ditt DriverPack"
 
 msgid "landingproducts_cta-description"
-msgstr ""
+msgstr "Ladda ned det paket som passar dig"
 
 msgid "landingproducts_item-title-online"
-msgstr ""
+msgstr "DriverPack Online"
 
 msgid "landingproducts_item-description-online"
-msgstr ""
+msgstr "Det laddas ned direkt, och hämtar och installerar alla drivrutiner om du har en internetuppkoppling <span class='nobr'>({{SIZE}})</span>"
 
 msgid "landingproducts_item-version"
-msgstr ""
+msgstr "Version:"
 
 msgid "landingproducts_item-button"
-msgstr ""
+msgstr "Ladda ned"
 
 msgid "landingproducts_item-title-network"
-msgstr ""
+msgstr "DriverPack Offline Network"
 
 msgid "landingproducts_item-description-network"
-msgstr ""
+msgstr "Det innehåller drivrutiner för nätverksenheter (Lan/Wi-Fi), och fungerar utan internetuppkoppling <span class='nobr'>({{SIZE}})</span>"
 
 msgid "landingproducts_item-title-offline"
-msgstr ""
+msgstr "DriverPack Offline Full"
 
 msgid "landingproducts_item-description-offline"
-msgstr ""
+msgstr "Det innehåller alla drivrutiner, fungerar utan internetuppkoppling och kan laddas ned via Torrent-tracker <span class='nobr'>({{SIZE}})</span>"
 
 msgid "landingpublications__landing-title"
-msgstr ""
+msgstr "Publikationer om DriverPack i massmedia"
 
 msgid "landingscreenshots_landing-title"
-msgstr ""
+msgstr "DriverPack är det mest bekväma och snabbaste sättet att konfigurera en dator"
 
 msgid "landingscreenshots_landing-subtitle"
-msgstr ""
+msgstr "Programmet är tillgängligt gratis, och är lämpligt både för proffs och nybörjare"
 
 msgid "landingsocial_landing-title"
-msgstr ""
+msgstr "Gå med i DriverPack gemenskap"
 
 msgid "landingsocial_landing-subtitle"
-msgstr ""
+msgstr "Följ nyheterna och delta i diskussioner"
 
 msgid "landingtopvideocardlist_landing-title"
-msgstr ""
+msgstr "Populära grafikkortsmodeller"
 
 msgid "landingtopvideocardlist_landing-caption"
-msgstr ""
+msgstr "DriverPack väljer drivrutiner för alla modeller av grafikkort, här är de mest populära"
 
 msgid "landingusers_cta"
-msgstr ""
+msgstr "Antalet användare av DriverPack runt om i världen ökar för varje sekund"
 
 msgid "landingusers_cta-btn"
-msgstr ""
+msgstr "Installera alla nödvändiga drivrutiner"
 
 msgid "landingusers_versions"
-msgstr ""
+msgstr "Andra versioner av DriverPack"
 
 msgid "landingvideocardlist_landing-title"
-msgstr ""
+msgstr "Populära grafikkortstillverkare"
 
 msgid "landingwizard_landing-title"
-msgstr ""
+msgstr "Det är nu möjligt att konfigurera en dator genom ett enda klick"
 
 msgid "landingwizard_item-caption-download"
-msgstr ""
+msgstr "Ladda ned och starta DriverPack Online"
 
 msgid "landingwizard_item-caption-setup"
-msgstr ""
+msgstr "Konfigurera din dator med en enkel handling"
 
 msgid "landingwizard_item-caption-profit"
-msgstr ""
+msgstr "Yay! Min dator fungerar nu som helt ny!"
 
 msgid "landingwizard_cta-btn"
-msgstr ""
+msgstr "Installera alla nödvändiga drivrutiner"
 
 msgid "navbar_download-link-short"
-msgstr ""
+msgstr "Ladda ned"
 
 msgid "navbar_download-link"
-msgstr ""
+msgstr "Ladda ned DriverPack Online"
 
 msgid "notfound_cta-text"
-msgstr ""
+msgstr "Du kan hitta och installera drivrutiner automatiskt genom att använda DriverPack Online helt gratis"
 
 msgid "notfound_cta-btn"
-msgstr ""
+msgstr "Ladda ned DriverPack Online"
 
 msgid "notfound_info-404"
-msgstr ""
+msgstr "{{404}} — sidan hittades inte"
 
 msgid "notfound_info-500"
-msgstr ""
+msgstr "{{500}} — något gick fel (serverfel)"
 
 msgid "notebookfilters-title"
-msgstr ""
+msgstr "Tillgängliga drivrutiner"
 
 msgid "notebookvendorslist_other-text"
-msgstr ""
+msgstr "Andra tillverkare"
 
 msgid "notebookvendorslist_title_os"
-msgstr ""
+msgstr "Drivrutiner för bärbara datorer med {{OS}}"
 
 msgid "notebookvendorslist_title"
-msgstr ""
+msgstr "Sök efter drivrutiner för bärbara datorer"
 
 msgid "productlandingheader-online_cta-btn"
-msgstr ""
+msgstr "Ladda ned DriverPack Online"
 
 msgid "productlandingheader-online_caption"
-msgstr ""
+msgstr "DriverPack Online - den mest populära produkten, endast {{SIZE}} stor. Laddas ned direkt, väljer drivrutiner för din stationära eller bärbara dator, och laddar därefter ned och installerar alla nödvändiga drivrutiner via Internet. Passar perfekt för vanliga användare. Fungerar enbart med internetuppkoppling."
 
 msgid "productlandingheader-network_cta-btn"
-msgstr ""
+msgstr "Ladda ned DriverPack Offline Network"
 
 msgid "productlandingheader-network_caption"
-msgstr ""
+msgstr "DriverPack Offline Network - drivrutiner för nätverksenheter på ett enda ställe ({{SIZE}}). Laddas ned fort och installeras ännu snabbare! Så snart Windows är återinstallerat kommer DriverPack Offline Network konfigurera drivrutiner för att möjliggöra internetåtkomst, och laddar sedan ned drivrutiner för resterande enheter!"
 
 msgid "productlandingheader-offline_cta-btn"
-msgstr ""
+msgstr "Ladda ned DriverPack Offline Full"
 
 msgid "productlandingheader-offline_caption"
-msgstr ""
+msgstr "DriverPack Offline Full - ett stort paket på {{SIZE}} för installation av drivrutiner utan internetuppkoppling. Bara ladda ned DriverPack Offline Full och använd det enorma biblioteket av uppdaterade drivrutiner vart du än vill. Passar perfekt för systemadministratörer."
 
 msgid "promoheader_cta-text-gamers"
-msgstr ""
+msgstr "Din dator är mer kraftfull än vad du tror: uppdatera alla drivrutiner gratis"
 
 msgid "promoheader_cta-text-gamers-caption"
-msgstr ""
+msgstr "Om du gillar datorspel rekommenderar vi dig att uppdatera drivrutinerna på din dator oftare för att uppnå högsta möjliga effektivitet ur din hårdvara. Upp till 37% mer FPS - den bästa spelupplevelsen och nya prestationer med DriverPack."
 
 msgid "promoheader_cta-text"
-msgstr ""
+msgstr "DriverPack installerar drivrutiner gratis och löser problem med drivrutiner på alla enheter"
 
 msgid "promoheader_cta-btn"
-msgstr ""
+msgstr "Installera alla nödvändiga drivrutiner"
 
 msgid "promoheader_size"
-msgstr ""
+msgstr "Filstorlek: {{SIZE}} KB"
 
 msgid "promoheader_license"
-msgstr ""
+msgstr "Licensavtal"
 
 msgid "promoheader_os-versions"
-msgstr ""
+msgstr "Programvaran lämpar sig för Windows 10, 8.1, 8, 7, Vista, XP"
 
 msgid "promoheader_uninstall"
-msgstr ""
+msgstr "DriverPack avinstallation"
 
 msgid "reviewheader_cta-text"
-msgstr ""
+msgstr "Gå med i DriverPack gemenskapen i sociala nätverk för att hålla dig uppdaterad med nyheter om produkten och delta i diskussioner"
 
 msgid "reviewheader_cta"
-msgstr ""
+msgstr "Dela din åsikt eller ditt förslag för att förbättra DriverPack"
 
 msgid "search_input-placeholder"
-msgstr ""
+msgstr "Sök efter namnet på drivrutinen, datorn eller DeviceID"
 
 msgid "search_btn-text"
-msgstr ""
+msgstr "Hitta"
 
 msgid "searchformitem_type-section"
-msgstr ""
+msgstr "Kategori"
 
 msgid "searchformitem_type-notebook"
-msgstr ""
+msgstr "bärbar dator"
 
 msgid "searchformitem_type-device"
-msgstr ""
+msgstr "enhet"
 
 msgid "searchformitem_type-free"
-msgstr ""
+msgstr "gratis"
 
 #. i18n: EN: Example: NAME=Acer; RU: Пример: NAME=Acer;
 msgid "generatesearchitemname_notebookvendor"
-msgstr ""
+msgstr "{{NAME}} bärbara datorer"
 
 #. i18n: EN: Example: NAME=Asus; RU: Пример: NAME=Asus;
 msgid "generatesearchitemname_vendor"
-msgstr ""
+msgstr "{{NAME}} enheter"
 
 msgid "deviceclasses_bluetooth-single-main"
-msgstr ""
+msgstr "Bluetooth-enhet"
 
 msgid "deviceclasses_bluetooth-single-for"
-msgstr ""
+msgstr "Bluetooth-enhet"
 
 msgid "deviceclasses_bluetooth-plural-main"
-msgstr ""
+msgstr "Bluetooth-enheter"
 
 msgid "deviceclasses_bluetooth-plural-for"
-msgstr ""
+msgstr "Bluetooth-enheter"
 
 msgid "deviceclasses_cardreader-single-main"
-msgstr ""
+msgstr "kortläsare"
 
 msgid "deviceclasses_cardreader-single-for"
-msgstr ""
+msgstr "kortläsare"
 
 msgid "deviceclasses_cardreader-plural-main"
-msgstr ""
+msgstr "kortläsare"
 
 msgid "deviceclasses_cardreader-plural-for"
-msgstr ""
+msgstr "kortläsare"
 
 msgid "deviceclasses_chipset-single-main"
-msgstr ""
+msgstr "chipset"
 
 msgid "deviceclasses_chipset-single-for"
-msgstr ""
+msgstr "chipset"
 
 msgid "deviceclasses_chipset-plural-main"
-msgstr ""
+msgstr "chipsets"
 
 msgid "deviceclasses_chipset-plural-for"
-msgstr ""
+msgstr "chipsets"
 
 msgid "deviceclasses_inputdev-single-main"
-msgstr ""
+msgstr "inmatningsenhet"
 
 msgid "deviceclasses_inputdev-single-for"
-msgstr ""
+msgstr "inmatningsenhet"
 
 msgid "deviceclasses_inputdev-plural-main"
-msgstr ""
+msgstr "inmatningsenheter"
 
 msgid "deviceclasses_inputdev-plural-for"
-msgstr ""
+msgstr "inmatningsenheter"
 
 msgid "deviceclasses_lan-single-main"
-msgstr ""
+msgstr "nätverkskort"
 
 msgid "deviceclasses_lan-single-for"
-msgstr ""
+msgstr "nätverkskort"
 
 msgid "deviceclasses_lan-plural-main"
-msgstr ""
+msgstr "nätverkskort"
 
 msgid "deviceclasses_lan-plural-for"
-msgstr ""
+msgstr "nätverkskort"
 
 msgid "deviceclasses_massstorage-single-main"
-msgstr ""
+msgstr "kontroller"
 
 msgid "deviceclasses_massstorage-single-for"
-msgstr ""
+msgstr "kontroller"
 
 msgid "deviceclasses_massstorage-plural-main"
-msgstr ""
+msgstr "kontroller"
 
 msgid "deviceclasses_massstorage-plural-for"
-msgstr ""
+msgstr "kontroller"
 
 msgid "deviceclasses_modem-single-main"
-msgstr ""
+msgstr "modem"
 
 msgid "deviceclasses_modem-single-for"
-msgstr ""
+msgstr "modem"
 
 msgid "deviceclasses_modem-plural-main"
-msgstr ""
+msgstr "modem"
 
 msgid "deviceclasses_modem-plural-for"
-msgstr ""
+msgstr "modem"
 
 msgid "deviceclasses_monitor-single-main"
-msgstr ""
+msgstr "bildskärm"
 
 msgid "deviceclasses_monitor-single-for"
-msgstr ""
+msgstr "bildskärm"
 
 msgid "deviceclasses_monitor-plural-main"
-msgstr ""
+msgstr "bildskärmar"
 
 msgid "deviceclasses_monitor-plural-for"
-msgstr ""
+msgstr "bildskärmar"
 
 msgid "deviceclasses_phone-single-main"
-msgstr ""
+msgstr "smarttelefon"
 
 msgid "deviceclasses_phone-single-for"
-msgstr ""
+msgstr "smarttelefon"
 
 msgid "deviceclasses_phone-plural-main"
-msgstr ""
+msgstr "smarttelefoner"
 
 msgid "deviceclasses_phone-plural-for"
-msgstr ""
+msgstr "smarttelefoner"
 
 msgid "deviceclasses_printer-single-main"
-msgstr ""
+msgstr "skrivare"
 
 msgid "deviceclasses_printer-single-for"
-msgstr ""
+msgstr "skrivare"
 
 msgid "deviceclasses_printer-plural-main"
-msgstr ""
+msgstr "skrivare"
 
 msgid "deviceclasses_printer-plural-for"
-msgstr ""
+msgstr "skrivare"
 
 msgid "deviceclasses_sound-single-main"
-msgstr ""
+msgstr "ljudkort"
 
 msgid "deviceclasses_sound-single-for"
-msgstr ""
+msgstr "ljudkort"
 
 msgid "deviceclasses_sound-plural-main"
-msgstr ""
+msgstr "ljudkort"
 
 msgid "deviceclasses_sound-plural-for"
-msgstr ""
+msgstr "ljudkort"
 
 msgid "deviceclasses_tvtuner-single-main"
-msgstr ""
+msgstr "TV-mottagare"
 
 msgid "deviceclasses_tvtuner-single-for"
-msgstr ""
+msgstr "TV-mottagare"
 
 msgid "deviceclasses_tvtuner-plural-main"
-msgstr ""
+msgstr "TV-mottagare"
 
 msgid "deviceclasses_tvtuner-plural-for"
-msgstr ""
+msgstr "TV-mottagare"
 
 msgid "deviceclasses_video-single-main"
-msgstr ""
+msgstr "grafikkort"
 
 msgid "deviceclasses_video-single-for"
-msgstr ""
+msgstr "grafikkort"
 
 msgid "deviceclasses_video-plural-main"
-msgstr ""
+msgstr "grafikkort"
 
 msgid "deviceclasses_video-plural-for"
-msgstr ""
+msgstr "grafikkort"
 
 msgid "deviceclasses_webcamera-single-main"
-msgstr ""
+msgstr "webbkamera"
 
 msgid "deviceclasses_webcamera-single-for"
-msgstr ""
+msgstr "webbkamera"
 
 msgid "deviceclasses_webcamera-plural-main"
-msgstr ""
+msgstr "webbkameror"
 
 msgid "deviceclasses_webcamera-plural-for"
-msgstr ""
+msgstr "webbkameror"
 
 msgid "deviceclasses_wifi-single-main"
-msgstr ""
+msgstr "Wi-Fi enhet"
 
 msgid "deviceclasses_wifi-single-for"
-msgstr ""
+msgstr "Wi-Fi enhet"
 
 msgid "deviceclasses_wifi-plural-main"
-msgstr ""
+msgstr "Wi-Fi enheter"
 
 msgid "deviceclasses_wifi-plural-for"
-msgstr ""
+msgstr "Wi-Fi enheter"
 
 msgid "deviceclasses_other-single-main"
-msgstr ""
+msgstr "annan enhet"
 
 msgid "deviceclasses_other-single-for"
-msgstr ""
+msgstr "annan enhet"
 
 msgid "deviceclasses_other-plural-main"
-msgstr ""
+msgstr "andra enheter"
 
 msgid "deviceclasses_other-plural-for"
-msgstr ""
+msgstr "andra enheter"
 
 msgid "searchheader_caption-subtitle"
-msgstr ""
+msgstr "Sökresultat på:"
 
 msgid "searchheader_caption-filter-label"
-msgstr ""
+msgstr "Drivrutinen kommer laddas hem för det valda operativsystemet"
 
 #. i18n: EN: Example: NOTEBOOK=Acer AO521; Text for {{DOWNLOAD}} is in key
 #. searchresult_details-content_download-link; RU: Пример: NOTEBOOK=Acer
 #. AO521; Текст для {{DOWNLOAD}} находится в ключе searchresult_details-
 #. content_download-link
 msgid "searchresult_details-content-notebook-text"
-msgstr ""
+msgstr "{{DOWNLOAD}} för att automatiskt identifiera och installera de nödvändiga drivrutinerna, eller gå till sidan för {{NOTEBOOK}} och välj önskad drivrutin manuellt"
 
 msgid "searchresult_details-content_download-link"
-msgstr ""
+msgstr "Ladda ned DriverPack"
 
 msgid "searchresult_notebook"
-msgstr ""
+msgstr "Bärbar dator"
 
 msgid "searchresult_download-btn"
-msgstr ""
+msgstr "Installera drivrutinen automatiskt"
 
 msgid "searchresult_details-content-text-placeholder"
-msgstr ""
+msgstr "Hämtar information..."
 
 msgid "searchresult_details-content-label-1"
-msgstr ""
+msgstr "Operativsystem"
 
 msgid "searchresult_details-content-label-2"
-msgstr ""
+msgstr "alla operativsystem"
 
 #. i18n: EN: Example: DEVICE=NVIDIA GeForce 205; Text for {{DOWNLOAD}} is in
 #. key searchresult_details-content_download-link; RU: Пример: DEVICE=NVIDIA
 #. GeForce 205; Текст для {{DOWNLOAD}} находится в ключе searchresult_details-
 #. content_download-link
 msgid "searchresult_details-content-group-text"
-msgstr ""
+msgstr "{{DOWNLOAD}} för att automatiskt identifiera och installera de nödvändiga drivrutinerna, eller gå till sidan för {{DEVICE}} och välj önskad drivrutin manuellt "
 
 #. i18n: EN: Example: CLASS.SINGLE.MAIN=monitor|chipset; COUNT=12; RU: Пример:
 #. CLASS.SINGLE.MAIN=монитор|чипсет; COUNT=12;
 msgid "searchresult_device"
-msgstr ""
+msgstr "{{CLASS.SINGLE.MAIN}} ({{COUNT}} resultat hittades)"
 
 msgid "searchresult_details-content-text-many"
-msgstr ""
+msgstr "Flera olika drivrutiner för den här enheten hittades"
 
 msgid "seofooter_os-list-title"
-msgstr ""
+msgstr "Operativsystem: <span itemprop='operatingSystem'>{{OSLIST}}</span>"
 
 msgid "seofooter_offers-title"
-msgstr ""
+msgstr "<span itemprop='offers' itemscope='' itemtype='http://schema.org/Offer'>Tillgängligt <meta itemprop='price' content='0' />gratis</span>"
 
 msgid "seofooter_driver-description-title"
-msgstr ""
+msgstr "Drivrutinsbeskrivning"
 
 msgid "seofooter_popular-drivers-title"
-msgstr ""
+msgstr "Populära Drivrutiner"
 
 msgid "sidebanner_title"
-msgstr ""
+msgstr "Är du trött på att leta efter drivrutiner?"
 
 msgid "sidebanner_caption"
-msgstr ""
+msgstr "DriverPack <span class='SideBanner__caption-marked'>installerar och väljer</span> automatiskt de nödvändiga drivrutinerna"
 
 msgid "translationheader_cta-text"
-msgstr ""
+msgstr "Hjälp oss göra DriverPack tillgängligt för miljoner PC-användare världen över — gå med i vårt volontärprojekt för att översätta det till andra språk"
 
 msgid "translationheader_bubble-team"
-msgstr ""
+msgstr "Skulle du vilja vara en del av ett team av översättare för världens största service för automatisk datorkonfigurering?"
 
 msgid "translationheader_bubble-languages"
-msgstr ""
+msgstr "Kan du Engelska eller Ryska så pass bra att du är redo att översätta dem till ditt modersmål?"
 
 msgid "translationheader_bubble-experience"
-msgstr ""
+msgstr "Har du någon erfarenhet med att översätta programvara eller hemsidor genom att använda online-översättningstjänster?"
 
 msgid "translationheader_bubble-email"
-msgstr ""
+msgstr "Om ditt svar är JA på alla tre frågor, vänligen skicka ett mail till oss på adressen {{EMAIL}} med '{{SUBJECT}}' i rubrikraden och berätta för oss vilket språk du är redo att översätta till."
 
 msgid "translationlist_title"
-msgstr ""
+msgstr "Lista över auktoriserade översättare för DriverPack"
 
 msgid "translationtool_text-transifex"
-msgstr ""
+msgstr "För DriverPack Solution använder vi oss av tjänsten transifex.com för översättning:"
 
 msgid "translationtool_example-ru-to-en"
-msgstr ""
+msgstr "Meningar för översättning från Ryska (RU) till Engelska (EN), och OSS-språk (OSS)"
 
 msgid "translationtool_example-en-to-all"
-msgstr ""
+msgstr "Meningar för översättning från Engelska (EN) till andra språk"
 
 msgid "language_title"
 msgstr "Swedish"
 
 msgid "landingPagePublications_rbk"
-msgstr ""
+msgstr "DriverPack är en programvara som består av drivrutiner för Windows som noggrant testats och valts av Artur Kuzyakovs team. Programmet analyserar användarens dator och installerar nödvändiga drivrutiner, vilket löser två problem: för det första, att påskynda processen med datorns konfiguration (vilket är extra viktigt om det är ett stort antal datorer inom ett och samma system); och för det andra, förbättra datorns operativa förmåga."
 
 msgid "landingPagePublications_secretfirmy"
-msgstr ""
+msgstr "Idag har DriverPack världens största databas av drivrutiner, som är översatt till 45 språk och används på datorer hos över 42 miljoner användare."
 
 msgid "landingPagePublications_cnews"
-msgstr ""
+msgstr "Ända sedan första versionen DriverPack Solution skapades har det varit väldigt populärt bland dess användare. Programvaran är tillgänglig för nedladdning helt gratis. Det är det här som särskiljer DriverPack Solution från dess konkurrenter och locker mer och mer nya användare."
 
 msgid "landingPagePublications_xbit"
-msgstr ""
+msgstr "DriverPack Solution är en intressant programvara, då den innehåller inställningar och val som andra programvaror inom samma område inte erbjuder. Vilken användare som helst kan lösa alla problem och ställa in korrekt drift av systemet och alla dess enheter, med enbart två musklick. För närvarande överstiger antalet drivrutiner i DriverPack databas redan 1.1 miljoner, och samtliga har testats ur säkerhetssynpunkt."
 
 msgid "landingPagePublications_chip"
-msgstr ""
+msgstr "Med DriverPack är det inte längre en utmaning att hitta alla de senaste versionerna av drivrutiner för din dators enheter. Den bästa aspekten är att användare inte ens behöver göra någonting på egen hand, programvaran är helt automatisk och lätt att använda."
 
 msgid "landingPagePublications_pcmag"
-msgstr ""
+msgstr "DriverPack Protect skyddar din dator från malware- och adware-program och plugins, något till och med antivirus-program och ad-blockers ofta misslyckas med."
 
 msgid "landingPagePublications_habr"
-msgstr ""
+msgstr "Behovet av att hitta och installera drivrutiner varje gång du installerar om Windows är enligt mig ett av de största problemen med hela Windows-familjen. Redan 2008 bestämde jag mig för att lösa detta problem, och skapade då min egen programvara som jag kallade DriverPack. Idag används min produkt av mer än 40 miljoner användare över hela världen, och jag anser nu att drivrutinsproblemet med Windows är löst, om än genom en tredjepartslösning."
 
 msgid "landingPagePublications_computerra"
-msgstr ""
+msgstr "Den nya versionen ger användare fler verktyg för att själva kunna skräddarsy sina egna val av drivrutiner. Det är ett extra viktigt problem för de som servar datorer och administrerar flera olika typer av hårdvara. Det är nu möjligt att integrera alternativa driverpacks i DriverPack, istället för att ta bort de onödiga."
 
 msgid "landingPagePublications_vc"
-msgstr ""
+msgstr "Den här produkten har blivit översatt till 45 olika språk av våra användare genom ryktesspridning, utan deltagande av vårt team. "
 
 msgid "adminpagefaq_official_vendors-q"
-msgstr ""
+msgstr "Innan jag hittade DriverPack laddade jag ned drivrutiner från tillverkarnas officiella hemsidor, men även med dem upplevde jag problem. Varför är drivrutinerna i DriverPack mer pålitliga än de från tillverkarna?"
 
 msgid "adminpagefaq_official_vendors-a"
-msgstr ""
+msgstr "För att göra vår databas både störst och stabilast jobbar vi hårt för att förbättra den permanent. Vi fixar till och med buggar som de officiella tillverkarna släpper igenom! Tack vare att vi använder oss av maskininlärningsteknik förbättras vår algoritm för val av drivrutiner konstant. Det är på grund av det här som drivrutinerna från DriverPack är de mest pålitliga :-)"
 
 msgid "adminpagefaq_database-q"
-msgstr ""
+msgstr "Hur expanderar DriverPack databasen? Kan jag verkligen hitta de drivrutiner jag behöver i den?"
 
 msgid "adminpagefaq_database-a"
-msgstr ""
+msgstr "Hittills är vår drivrutinsdatabas den största i världen, det är därför du med 99% säkerhet kan hitta de drivrutiner du behöver, oavsett enhet. Vi samarbetar direkt med tillverkare och utvecklare för att hålla vår databas uppdaterad. Vi samlar in och testar drivrutiner både direkt från tillverkares officiella hemsidor samt från privata FTP-servrar, samtidigt som vi lyssnar på aktiva användares rekommendationer."
 
 msgid "adminpagefaq_free-q"
-msgstr ""
+msgstr "Är det sant att DriverPack är helt gratis?"
 
 msgid "adminpagefaq_free-a"
-msgstr ""
+msgstr "All vår programvara är absolut helt gratis! Men om du vill visa ditt stöd för vårt projekt kan du installera de användbara program som vi erbjuder, samt rekommendera DriverPack till dina vänner :-)"
 
 msgid "adminpagefaq_antivirus-q"
-msgstr ""
+msgstr "Mitt antivirusprogram hittade ett virus i DriverPack - hur kunde det hända?"
 
 msgid "adminpagefaq_antivirus-a"
-msgstr ""
+msgstr "Det är högst troligen ett falskt positivt resultat, då alla versioner av DriverPack genomgår grundlig undersökning och kvalitetssäkring av Kaspersky Laboratory. Vårt bolag samarbetar med en mängd olika leverantörer av antivirusprogram som Avast och 360 Total Security. Lägg till DriverPack i ditt antivirusprograms vitlista för fortsatt funktion. Vi skulle även uppskatta om du rapporterade detta som ett falskt positivt resultat till leverantören av ditt antivirusprogram, samt till vår Support Service."
 
 msgid "adminpagefaq_expert_mode-q"
-msgstr ""
+msgstr "I vilket läge är DriverPack mest lättanvänt?"
 
 msgid "adminpagefaq_expert_mode-a"
-msgstr ""
+msgstr "Som standard startar DriverPack inställt på automatiskt läge som är designat för att vara förståeligt och lättanvänt för även de nyaste användarna. Men för att tillmötesgå de mer avancerade användarna och systemadministratörer har vi utvecklat Expert Mode, som innehåller utökade inställningar och valmöjligheter. För att aktivera detta läge krävs det bara att man klickar på knappen längst ned på skärmen."
 
 msgid "adminpagefaq_stable-q"
-msgstr ""
+msgstr "Drivrutinen installerades inte korrekt och nu har jag problem med min dator. Hur kan jag lösa den här situationen?"
 
 msgid "adminpagefaq_stable-a"
-msgstr ""
+msgstr "En av våra största prioriteringar är stabiliteten på DriverPack men mindre fel kan tyvärr ändå hända, även om de är sällsynta. Med anledning av detta skapar vi alltid en återställningspunkt med din tidigare konfiguration som du kan återgå till. För att förebygga liknande problem i framtiden rekommenderar vi dig att gå till DriverPack menyn och skicka den autogenererade rapporten till vår tekniska service."
 
 msgid "badrabbitpromopage_cta-text"
-msgstr ""
+msgstr "Bad Rabbit, kryptografiskt virus — hur skyddar jag min dator?"
 
 msgid "badrabbitpromopage_cta-subtext"
-msgstr ""
+msgstr "DriverPack innehåller av ett antal funktioner för att eliminera sårbarheter i din dator.  Du kan säkra din PC genom att ladda ner vårt gratis skydd mot Bad Rabbit-viruset."
 
 msgid "badrabbitpromopage_cta-btn"
-msgstr ""
+msgstr "Konfigurera datorn och skydda den mot Bad Rabbit"
 
 msgid "badrabbitpromopage_caption-text"
-msgstr ""
+msgstr "Programmet är gratis"
 
 msgid "badrabbitpromopage_info-text-title-1"
-msgstr ""
+msgstr "Vad är Bad Rabbit?"
 
 msgid "badrabbitpromopage_info-text-1"
-msgstr ""
+msgstr "Bad Rabbit är ett nytt kryptografiskt virus som har attackerat datorer i Ryssland, Ukraina, Bulgarien och Turkiet sedan Oktober 2017. Bland de påverkade finns även The Interfax RIA, The Fontanka RIA, ett antal ministerier i Ukraina samt flygplatsen i Odessas internationella flygplats. Virusets tillvägagångssätt är enkelt: det använder sig av Mimikatz-verktyget för att hitta information om datorkonton från datorns minne. Det söker även efter information om datorns admin-konto. Sedan försöker Bad Rabbit få tillgång till andra datorer i det lokala nätverket genom att använda sig av SMB och WebDAV. Direkt när det får tillgång till din dator krypterar det all data det får tag i, och ändrar sedan huvudstartsektorn på hårddisken. När processen är klar startar Bad Rabbit om din dator varpå ett popup-meddelande visas, där du krävs på 0.05 Bitcoins (cirka 300$ vid slutet av Oktober 2017)."
 
 msgid "badrabbitpromopage_info-text-title-2"
-msgstr ""
+msgstr "Hur skyddar jag min dator mot det kryptografiska viruset Bad Rabbit?"
 
 msgid "badrabbitpromopage_info-text-2"
-msgstr ""
+msgstr "För att skydda dig mot detta nya viruset kan du:<br/>• Skapa en infpub.dat-fil i mappen C:\\\\Windows\\\\ och kryssa i 'Skrivskyddad' bland filens inställningar<br/>• Var extra varsam när du skapar nya aktiviteter i 'Schemaläggaren'<br/>• Installera inga uppdateringar för FlashPlayer från icke officiella hemsidor<br/>• Håll Windows och installerade antivirusprogram skyddade<br/>• Gör regelbundna backups av ditt operativsystem<br/><br/> Du kan även använda dig av den nya funktionen från DriverPack Solution genom att ladda ned den från den här sidan - det kommer spara dig tid!<br/><b>Vår funktion fungerar på Windows 7, 8, 8.1, 10 och XP.</b>"
 
 msgid "badrabbitpromopage_links-text"
-msgstr ""
+msgstr "Utvecklingen av den här lösningen baserar sig på följande material"
 
 msgid "badrabbitpromopage_link-smb"
-msgstr ""
+msgstr "Hur aktiverar och avaktiverar man version 1, 2 och 3 av SMB-protokoll för Windows och Windows Server"
 
 msgid "devicegrouppage_show-more-link"
-msgstr ""
+msgstr "Visa fler"
 
 msgid "devicestypepage_subtitle"
-msgstr ""
+msgstr "Alla {{CLASS.SINGLE.FOR}} tillverkare"
 
 msgid "devicetypevendorpage_subtitle-popular"
-msgstr ""
+msgstr "Populära {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
 
 msgid "devicetypevendorpage_subtitle-all"
-msgstr ""
+msgstr "Alla {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
 
 msgid "errorpage_title"
-msgstr ""
+msgstr "Error 500: internt serverfel"
 
 msgid "landingfooter_landing-subtitle"
-msgstr ""
+msgstr "DriverPack består av drivrutiner för alla populära versioner av Windows"
 
 msgid "landing-footer_catalog-os"
-msgstr ""
+msgstr "drivrutiner för {{OS}}"
 
 msgid "landing-footer_download"
-msgstr ""
+msgstr "Ladda ned DriverPack"
 
 msgid "landing-footer_versions"
-msgstr ""
+msgstr "Alla programversioner"
 
 msgid "landing-footer_manufacturers"
-msgstr ""
+msgstr "Hårvarutillverkare"
 
 msgid "landing-footer_badrabbit"
-msgstr ""
+msgstr "Skydd mot Bad Rabbit"
 
 msgid "landing-footer_for-admin"
-msgstr ""
+msgstr "För systemadministratörer"
 
 msgid "landing-footer_for-translators"
-msgstr ""
+msgstr "För översättare"
 
 msgid "landing-footer_hwids"
-msgstr ""
+msgstr "Device ID"
 
 msgid "landing-footer_wannacry"
-msgstr ""
+msgstr "Skydd mot WannaCry"
 
 msgid "landing-footer_license"
-msgstr ""
+msgstr "Licensavtal"
 
 msgid "landing-footer_remove"
-msgstr ""
+msgstr "DriverPack avinstallation"
 
 msgid "notfoundpage_title"
-msgstr ""
+msgstr "Error 404: sidan hittades inte"
 
 msgid "notebookpage_show-more-link"
-msgstr ""
+msgstr "Visa fler"
 
 msgid "notebookpage_all-devices"
-msgstr ""
+msgstr "för alla enheter"
 
 msgid "notebookspage_subtitle"
-msgstr ""
+msgstr "Lista över alla tillverkare av bärbara datorer"
 
 msgid "notebooksvendorpage_subtitle-popular"
-msgstr ""
+msgstr "Populära bärbara datorer från {{VENDOR.NAME}}"
 
 msgid "notebooksvendorpage_subtitle-all"
-msgstr ""
+msgstr "Alla bärbara datorer från {{VENDOR.NAME}}"
 
 msgid "reviewpage_title"
-msgstr ""
+msgstr "Feedback och förslag för att förbättra DriverPack"
 
 msgid "searchpage_show-more-link"
-msgstr ""
+msgstr "Visa fler"
 
 #. i18n: EN: text for {{LINK}} is in key thankyoupopup_download-link; RU:
 #. текст для {{LINK}} находится в ключе thankyoupopup_download-link;
 msgid "thankyoupopup_download-text"
-msgstr ""
+msgstr "Startar inte nedladdningen automatiskt? Klicka här för att {{LINK}}"
 
 msgid "thankyoupopup_title"
-msgstr ""
+msgstr "Starta DriverPack"
 
 msgid "thankyoupopup_cta-text"
-msgstr ""
+msgstr "för att komma igång med att välja och installation av drivrutiner på din dator"
 
 msgid "thankyoupopup_download-link"
-msgstr ""
+msgstr "ladda ned"
 
 msgid "translate-feedback-header_caption"
-msgstr ""
+msgstr "Den här sidan har nyligen blivit översatt. Har du hittat ett fel? Markera det och tryck {{HOTKEY}}"
 
 msgid "translate-feedback-form-popup_preview-title"
-msgstr ""
+msgstr "Du har markerat följande text:"
 
 msgid "translate-feedback-form-popup_correct-title"
-msgstr ""
+msgstr "Var snäll och förklara vad som är fel, och vad du anser vore korrekt:"
 
 msgid "translate-feedback-form-popup_submit"
-msgstr ""
+msgstr "Skicka"
 
 msgid "translate-feedback-popup_title-error"
-msgstr ""
+msgstr "Någonting gick fel"
 
 msgid "translate-feedback-popup_description-error"
-msgstr ""
+msgstr "Den markerade texten har inte skickats på grund av problem med servern. <br />Var snäll försök igen senare."
 
 msgid "translate-feedback-popup_title-success"
-msgstr ""
+msgstr "Tack"
 
 msgid "translate-feedback-popup_description-success"
-msgstr ""
+msgstr "Den markerade texten har skickats till redaktören"
 
 msgid "translate-feedback-popup_description-join-us"
-msgstr ""
+msgstr "Snälla hjälp oss att översätta till ditt modersmål."
 
 msgid "translate-feedback-popup_description-join-link"
-msgstr ""
+msgstr "Gå med i vårt team av översättare!"
 
 msgid "translationlandingpage_title"
-msgstr ""
+msgstr "Översätt DriverPack"
 
 msgid "vendorpage_subtitle-popular"
-msgstr ""
+msgstr "Populära {{VENDOR.NAME}} enheter"
 
 msgid "wannacryptpromopage_cta-text"
-msgstr ""
+msgstr "WannaCrypt kryptografiskt virus — hur skyddar jag min dator mot historiens största attack?"
 
 msgid "wannacryptpromopage_cta-subtext"
-msgstr ""
+msgstr "DriverPack innehåller av ett antal funktioner för att eliminera sårbarheter i din dator. Du kan säkra din PC genom att ladda ner vårt gratis skydd mot WannaCry-viruset."
 
 msgid "wannacryptpromopage_cta-btn"
-msgstr ""
+msgstr "Konfigurera datorn och skydda den mot WannaCry"
 
 msgid "wannacryptpromopage_caption-text"
-msgstr ""
+msgstr "Programmet är gratis"
 
 msgid "wannacryptpromopage_info-text-title-1"
-msgstr ""
+msgstr "Vad är WannaCry?"
 
 msgid "wannacryptpromopage_info-text-1"
-msgstr ""
+msgstr "WannaCrypt är ett utpressar-virus (som spontant döptes om till WannaCry av de drabbade) som attackerade datorer över hela världen den 12e Maj, och tog sig in i enheter hos mer än 300,000 användare i 150 länder. Västra Europa, Ryssland och Kina var värst drabbade. I Storbritannien spärrade viruset nätverken hos Socialdepartementet och hindrade arbetet på sjukhus över hela landet. I Kina drabbades gamla datorer på fabriker vilket hindrade arbetet på flertalet industrier.<br/><br/>Hur viruset huvudsakligen fungerar är enkelt: när det tagit sig in i din dator spärrar det alla dokument och filer det kommer åt och gör dem omöjliga att använda. Efter detta kräver utvecklarna en stor summa pengar för att låsa upp filerna igen — cirka 300$. Det finns dock inga garantier att du får tillbaka dina filer igen. För tillfället finns det inget sätt att låsa upp filerna på egen hand, och de så kallade lösningar som nu sprids på internet är antingen nätfiske, ett sätt att sprida nya virus eller helt enkelt inte 100% garanterade att fungera."
 
 msgid "wannacryptpromopage_info-text-title-2"
-msgstr ""
+msgstr "Vilka är i farozonen?"
 
 msgid "wannacryptpromopage_info-text-2"
-msgstr ""
+msgstr "Datorer med äldre operativsystem än Windows 10 med öppna SMB-portar är i den största farozonen. För tillfället är ungefär hälften av alla Windows-användare i farozonen — 18% använder ej licensierade versioner av Windows (vilket automatiskt placerar dem i farozonen), 23% har avaktiverat Windows Update (vilket gör att de inte får de senaste 'hotfix'-uppdateringarna från Microsoft), och ytterligare 6% använder gamla versioner av operativsystem som helt enkelt inte uppdateras längre. <br/><br/>Slutsatsen av detta är att företag och bolag som fortfarande använder operativsystem som exempelvis Windows XP är i den största farozonen. När dessa nätverk attackeras kan förlusten av filer och data bli förödande och kostnaden enorm, eftersom att \"lösensumman\" måste betalas för varje separat dator."
 
 msgid "wannacryptpromopage_info-text-title-3"
-msgstr ""
+msgstr "Skydda din verksamhet — en lösning från DriverPack Solution"
 
 msgid "wannacryptpromopage_info-text-3"
-msgstr ""
+msgstr "Den huvudsakliga anledningen till fara med WannaCrypt (WannaCry) är att det sprids genom att exploatera kritiska svagheter i SMBv1-protokollet i MS17-010-säkerhetsuppdateringen. I praktiken gör detta WannaCry osynligt för antivirus-program. Lösningen från DriverPack Solution låter dig installera en uppdatering som skyddar kritiska svagheter i ditt system, och avaktiverar de utdaterade protokollen som utgör ett hot, oavsett din licenshistoria och version av operativsystem."
 
 msgid "wannacryptpromopage_links-text"
-msgstr ""
+msgstr "Utvecklingen av den här lösningen baserar sig på följande material"
 
 msgid "wannacryptpromopage_link-smb"
-msgstr ""
+msgstr "Hur aktiverar och avaktiverar man version 1, 2 och 3 av SMB-protokoll för Windows och Windows Server"
