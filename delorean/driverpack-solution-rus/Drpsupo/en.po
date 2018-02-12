@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-01-11 11:55+0000\n"
+"POT-Creation-Date: 2018-02-07 13:21+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Leonid Beschasny <lbeschastny@iknow.travel>, 2017\n"
 "Language-Team: English (https://www.transifex.com/driverpack-solution/teams/75452/en/)\n"
@@ -44,6 +44,12 @@ msgstr "Download DriverPack Online"
 
 msgid "buttonsplitdropdown_main-button"
 msgstr "Download"
+
+msgid "cloudfaq_landing-title"
+msgstr ""
+
+msgid "cloudpagefooter_license-link"
+msgstr ""
 
 msgid "breadcrumbs_main-text"
 msgstr "Home Page"
@@ -334,9 +340,6 @@ msgstr "DriverPack will install drivers for free and solve driver problems on an
 
 msgid "landingheader_cta-btn"
 msgstr "Install all required drivers"
-
-msgid "landingheadernav_badrabbit"
-msgstr "Protection against Bad Rabbit"
 
 msgid "landingheadernav_search"
 msgstr "Driver Search"
@@ -899,6 +902,24 @@ msgstr "The driver has not been installed properly and my computer now has issue
 msgid "adminpagefaq_stable-a"
 msgstr "The operation stability of the DriverPack software is one of our main priorities but minor failures still happen, though they are rare. This is why we create a restore point which will enable you to return everything back to the previously configured state. In order to prevent a similar problem in the future, we recommend you to go to the DriverPack Menu and send the report that is automatically created by the software, to our technical services."
 
+msgid "cloudpagefaq_remove_soft-q"
+msgstr ""
+
+msgid "cloudpagefaq_remove_soft-a"
+msgstr ""
+
+msgid "cloudpagefaq_notifications-q"
+msgstr ""
+
+msgid "cloudpagefaq_notifications-a"
+msgstr ""
+
+msgid "cloudpagefaq_usb-q"
+msgstr ""
+
+msgid "cloudpagefaq_usb-a"
+msgstr ""
+
 msgid "badrabbitpromopage_cta-text"
 msgstr "Bad Rabbit cryptographic virus — how to protect your PC?"
 
@@ -928,6 +949,51 @@ msgstr "The development of this solution was based on the following materials"
 
 msgid "badrabbitpromopage_link-smb"
 msgstr "How to enable and disable versions 1, 2, and 3 of SMB protocols for Windows and Windows Server"
+
+msgid "cloudlandingpage_cackle-title"
+msgstr ""
+
+msgid "cloudlandingpage_cackle-caption"
+msgstr ""
+
+msgid "cloudlandingpage_header-title"
+msgstr ""
+
+msgid "cloudlandingpage_about-what-is-title"
+msgstr ""
+
+msgid "cloudlandingpage_about-what-is-caption"
+msgstr ""
+
+msgid "cloudlandingpage_about-how-works-title"
+msgstr ""
+
+msgid "cloudlandingpage_about-how-works-caption"
+msgstr ""
+
+msgid "cloudlandingpage_features-monitoring"
+msgstr ""
+
+msgid "cloudlandingpage_features-safety"
+msgstr ""
+
+msgid "cloudlandingpage_features-cloud"
+msgstr ""
+
+msgid "cloudlandingpage_uninstall-title"
+msgstr ""
+
+msgid "cloudlandingpage_uninstall-caption"
+msgstr ""
+
+msgid "cloudlandingpage_license"
+msgstr ""
+
+msgid "cloudlandingpage_features-install"
+msgstr ""
+
+msgid "cloudlandingpage_license-link"
+msgstr ""
 
 msgid "devicegrouppage_show-more-link"
 msgstr "View more"
@@ -1009,11 +1075,19 @@ msgstr "View more"
 msgid "thankyoupopup_download-text"
 msgstr "Download has not started? Click here to {{LINK}}"
 
+#. i18n: EN: text for {{LINK}} is in key thankyoupopup_licence-link; RU: текст
+#. для {{LINK}} находится в ключе thankyoupopup_licence-link;
+msgid "thankyoupopup_licence-text"
+msgstr ""
+
 msgid "thankyoupopup_title"
 msgstr "Start DriverPack"
 
 msgid "thankyoupopup_cta-text"
 msgstr "to begin selecting and installing the drivers onto your computer"
+
+msgid "thankyoupopup_licence-link"
+msgstr ""
 
 msgid "thankyoupopup_download-link"
 msgstr "download"
@@ -1089,3 +1163,18 @@ msgstr "The development of this solution was based on the following materials"
 
 msgid "wannacryptpromopage_link-smb"
 msgstr "How to enable and disable versions 1, 2, and 3 of SMB protocols for Windows and Windows Server"
+
+#~ msgid "cloudpagefooter_download"
+#~ msgstr ""
+
+#~ msgid "cloudlandingpage_download"
+#~ msgstr ""
+
+#~ msgid "cloudnewlandingpage_license"
+#~ msgstr ""
+
+#~ msgid "cloudnewlandingpage_license-link"
+#~ msgstr ""
+
+#~ msgid "landingheadernav_badrabbit"
+#~ msgstr "Protection against Bad Rabbit"

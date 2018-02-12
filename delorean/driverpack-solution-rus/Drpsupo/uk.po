@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-01-11 11:55+0000\n"
+"POT-Creation-Date: 2018-02-07 13:21+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Назар Будзак <naz95naz@gmail.com>, 2017\n"
 "Language-Team: Ukrainian (https://www.transifex.com/driverpack-solution/teams/75452/uk/)\n"
@@ -48,6 +48,12 @@ msgstr "Завантажити DriverPack Online"
 
 msgid "buttonsplitdropdown_main-button"
 msgstr "Завантажити"
+
+msgid "cloudfaq_landing-title"
+msgstr ""
+
+msgid "cloudpagefooter_license-link"
+msgstr ""
 
 msgid "breadcrumbs_main-text"
 msgstr "головна"
@@ -338,9 +344,6 @@ msgstr "DriverPack безкоштовно встановить драйвери 
 
 msgid "landingheader_cta-btn"
 msgstr "Встановити всі необхідні драйвери"
-
-msgid "landingheadernav_badrabbit"
-msgstr "Захист від Bad Rabbit"
 
 msgid "landingheadernav_search"
 msgstr "Пошук драйверів"
@@ -903,6 +906,24 @@ msgstr "Драйвер встановився некоректно, виника
 msgid "adminpagefaq_stable-a"
 msgstr "Стабільність роботи DriverPack — один з основних наших пріоритетів, але незначні збої хоч і рідко, але трапляються. Саме тому ми створюємо точку відновлення, яка дозволить все повернути в початковий стан. Щоб подібна проблема не виникла в подальшому, ми рекомендуємо зайти в меню програми DriverPack і відправити в нашу технічну службу звіт, який автоматично сформується програмою."
 
+msgid "cloudpagefaq_remove_soft-q"
+msgstr ""
+
+msgid "cloudpagefaq_remove_soft-a"
+msgstr ""
+
+msgid "cloudpagefaq_notifications-q"
+msgstr ""
+
+msgid "cloudpagefaq_notifications-a"
+msgstr ""
+
+msgid "cloudpagefaq_usb-q"
+msgstr ""
+
+msgid "cloudpagefaq_usb-a"
+msgstr ""
+
 msgid "badrabbitpromopage_cta-text"
 msgstr "Вірус-шифрувальник Bad Rabbit — як захистити свій ПК"
 
@@ -932,6 +953,51 @@ msgstr "Розробка проведена на основі наступних
 
 msgid "badrabbitpromopage_link-smb"
 msgstr "Як увімкнути або вимкнути протоколи SMB версії 1, 2 і 3 в Windows і Windows Server"
+
+msgid "cloudlandingpage_cackle-title"
+msgstr ""
+
+msgid "cloudlandingpage_cackle-caption"
+msgstr ""
+
+msgid "cloudlandingpage_header-title"
+msgstr ""
+
+msgid "cloudlandingpage_about-what-is-title"
+msgstr ""
+
+msgid "cloudlandingpage_about-what-is-caption"
+msgstr ""
+
+msgid "cloudlandingpage_about-how-works-title"
+msgstr ""
+
+msgid "cloudlandingpage_about-how-works-caption"
+msgstr ""
+
+msgid "cloudlandingpage_features-monitoring"
+msgstr ""
+
+msgid "cloudlandingpage_features-safety"
+msgstr ""
+
+msgid "cloudlandingpage_features-cloud"
+msgstr ""
+
+msgid "cloudlandingpage_uninstall-title"
+msgstr ""
+
+msgid "cloudlandingpage_uninstall-caption"
+msgstr ""
+
+msgid "cloudlandingpage_license"
+msgstr ""
+
+msgid "cloudlandingpage_features-install"
+msgstr ""
+
+msgid "cloudlandingpage_license-link"
+msgstr ""
 
 msgid "devicegrouppage_show-more-link"
 msgstr "показати ще"
@@ -1013,11 +1079,19 @@ msgstr "показати ще"
 msgid "thankyoupopup_download-text"
 msgstr "Не почалося завантаження? Натисніть {{LINK}}"
 
+#. i18n: EN: text for {{LINK}} is in key thankyoupopup_licence-link; RU: текст
+#. для {{LINK}} находится в ключе thankyoupopup_licence-link;
+msgid "thankyoupopup_licence-text"
+msgstr ""
+
 msgid "thankyoupopup_title"
 msgstr "Запустіть DriverPack"
 
 msgid "thankyoupopup_cta-text"
 msgstr "щоб почати підбір і встановлення драйверів на ваш комп'ютер"
+
+msgid "thankyoupopup_licence-link"
+msgstr ""
 
 msgid "thankyoupopup_download-link"
 msgstr "завантажити"
@@ -1093,3 +1167,18 @@ msgstr "Розробка проведена на основі наступних
 
 msgid "wannacryptpromopage_link-smb"
 msgstr "Як увімкнути або вимкнути протоколи SMB версії 1, 2 і 3 в Windows і Windows Server"
+
+#~ msgid "cloudpagefooter_download"
+#~ msgstr ""
+
+#~ msgid "cloudlandingpage_download"
+#~ msgstr ""
+
+#~ msgid "cloudnewlandingpage_license"
+#~ msgstr ""
+
+#~ msgid "cloudnewlandingpage_license-link"
+#~ msgstr ""
+
+#~ msgid "landingheadernav_badrabbit"
+#~ msgstr "Захист від Bad Rabbit"
