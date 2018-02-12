@@ -5,13 +5,14 @@
 # sepehr rahmani <sepehrahmani@mail.com>, 2018
 # Arman Mirzaei <arman.mirzaei@gmail.com>, 2018
 # Milad Zamany Pour <miladzp@live.com>, 2018
+# m Aghakhani <m.aghakhani@ymail.com>, 2018
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-01-11 11:55+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
-"Last-Translator: Milad Zamany Pour <miladzp@live.com>, 2018\n"
+"Last-Translator: m Aghakhani <m.aghakhani@ymail.com>, 2018\n"
 "Language-Team: Persian (https://www.transifex.com/driverpack-solution/teams/75453/fa/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -325,7 +326,7 @@ msgstr ""
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_notebookvendor-title"
-msgstr ""
+msgstr "دانلود {{VENDOR.NAME}} درایورهای لپ تاپ برای | Windows "
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_notebookvendor-description"
@@ -344,7 +345,7 @@ msgid "seo_notebookvendor-footer-description"
 msgstr "دانلود درایور های {{VENDOR.NAME}} برای لپ تاپ به رایگان"
 
 msgid "seo_notebookvendor-footer-application-category"
-msgstr ""
+msgstr "دسته بندی: <span itemprop='applicationCategory'> پ تاپ</span>"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_notebookvendor-footer-application-subcategory"
@@ -373,12 +374,12 @@ msgstr ""
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebook-footer-description"
-msgstr ""
+msgstr "دانلود رایگان درایور برای لپ تاپ {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} "
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; RU: Пример:
 #. NOTEBOOK.VENDOR.NAME=Acer;
 msgid "seo_notebook-footer-application-category"
-msgstr ""
+msgstr "دسته بندی: <span itemprop='applicationCategory'>لپ تاپ  {{NOTEBOOK.VENDOR.NAME}}</span>"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
@@ -395,7 +396,7 @@ msgstr ""
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 #. CLASS.SINGLE.FOR=видеокарты|звуковой карты;
 msgid "seo_notebookdevices-title"
-msgstr ""
+msgstr "دانلود درایور {{CLASS.SINGLE.FOR}} برای لپ تاپ {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} نسخه Windows"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 #. CLASS.SINGLE.FOR=videocart|soundcart; RU: Пример:
@@ -423,12 +424,12 @@ msgstr ""
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 #. CLASS.PLURAL.FOR=видеокарт|звуковых карт;
 msgid "seo_notebookdevices-footer-description"
-msgstr ""
+msgstr "دانلود رایگان {{CLASS.PLURAL.FOR}} برای لپ تاپ  {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} لپ تاپ."
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebookdevices-footer-application-category"
-msgstr ""
+msgstr "دسته بندی: <span itemprop='applicationCategory'>لپ تاپ {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}</span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets;
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU: Пример:
@@ -445,7 +446,7 @@ msgid "seo_notebookdevices-footer-content"
 msgstr ""
 
 msgid "seo_search-title"
-msgstr ""
+msgstr "جستجو برای عبارت: {{QUERY}} |  DriverPack Solution "
 
 msgid "seo_devicegroupos-title"
 msgstr ""

@@ -1,10 +1,12 @@
-# 
+# Translators:
+# Tobias Lindén <tobiasglinden@gmail.com>, 2018
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-01-11 11:55+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
+"Last-Translator: Tobias Lindén <tobiasglinden@gmail.com>, 2018\n"
 "Language-Team: Swedish (https://www.transifex.com/driverpack-solution/teams/75453/sv/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -57,7 +59,7 @@ msgid "seo_mainos-description"
 msgstr ""
 
 msgid "seo_mainos-h1"
-msgstr ""
+msgstr "Drivrutiner för Windows {{OS.VERSION}}"
 
 msgid "seo_mainos-keywords"
 msgstr ""
@@ -81,7 +83,7 @@ msgid "seo_productonline_description"
 msgstr ""
 
 msgid "seo_productonline_h1"
-msgstr ""
+msgstr "DriverPack Online - laddas ned direkt och installerar samtliga drivrutiner om du har internetuppkoppling"
 
 msgid "seo_productnetwork_title"
 msgstr ""
@@ -90,7 +92,7 @@ msgid "seo_productnetwork_description"
 msgstr ""
 
 msgid "seo_productnetwork_h1"
-msgstr ""
+msgstr "DriverPack Offline Network - inkluderar drivrutiner för nätverksenheter (Lan/Wi-Fi) och fungerar utan internetuppkoppling"
 
 msgid "seo_productoffline_title"
 msgstr ""
@@ -99,7 +101,7 @@ msgid "seo_productoffline_description"
 msgstr ""
 
 msgid "seo_productoffline_h1"
-msgstr ""
+msgstr "DriverPack Offline Full - inkluderar samtliga drivrutiner, fungerar utan internetuppkoppling och kan laddas ned via torrent"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
 #. CLASS.PLURAL.FOR=мониторов|модемов;
@@ -114,7 +116,7 @@ msgstr ""
 #. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
 #. CLASS.PLURAL.FOR=мониторов|модемов;
 msgid "seo_deviceclass-h1"
-msgstr ""
+msgstr "<span class='bold'>{{CLASS.SINGLE.FOR}}</span> drivrutiner"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
 #. CLASS.PLURAL.FOR=мониторов|модемов;
@@ -141,7 +143,7 @@ msgid "seo_vendors-description"
 msgstr ""
 
 msgid "seo_vendors-h1"
-msgstr ""
+msgstr "Hårdvarutillverkare"
 
 msgid "seo_vendors-keywords"
 msgstr ""
@@ -156,7 +158,7 @@ msgstr ""
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendor-h1"
-msgstr ""
+msgstr "<span class='bold'>{{VENDOR.NAME}}</span> drivrutiner"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendor-keywords"
@@ -186,7 +188,7 @@ msgstr ""
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|monitors; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.FOR=видеокарт|мониторов; VENDOR.NAME=Acer;
 msgid "seo_devicegroups-h1"
-msgstr ""
+msgstr "<span class='bold'>{{VENDOR.NAME}}</span> {{CLASS.SINGLE.FOR}} drivrutiner"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|monitors; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|мониторы; VENDOR.NAME=Acer;
@@ -232,7 +234,7 @@ msgstr ""
 #. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
 #. GROUP.NAME=GeForce 210;
 msgid "seo_devicegroup-h1"
-msgstr ""
+msgstr "<span class='bold'>{{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.SINGLE.FOR}}</span> drivrutiner"
 
 #. i18n: EN: Example: GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU:
 #. Пример: GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210;
@@ -272,7 +274,7 @@ msgid "seo_hwids-description"
 msgstr ""
 
 msgid "seo_hwids-h1"
-msgstr ""
+msgstr "Alla drivrutiner för enheter"
 
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
@@ -287,7 +289,7 @@ msgstr ""
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 msgid "seo_hwid-h1"
-msgstr ""
+msgstr "<span class='bold'>{{DEVICE.DEVICEID}}</span>"
 
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
@@ -311,7 +313,7 @@ msgid "seo_notebooks-description"
 msgstr ""
 
 msgid "seo_notebooks-h1"
-msgstr ""
+msgstr "Drivrutiner för bärbara datorer"
 
 msgid "seo_notebooks-keywords"
 msgstr ""

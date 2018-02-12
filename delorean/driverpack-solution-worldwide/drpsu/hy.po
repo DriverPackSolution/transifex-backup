@@ -78,11 +78,11 @@ msgid "breadcrumbs_devicegroup-text"
 msgstr "{{GROUP.VENDOR.NAME}} {{GROUP.NAME}}"
 
 msgid "breadcrumbs_notebooks-text"
-msgstr "Լափթոփ"
+msgstr "Նոութբուքեր"
 
 #. i18n: EN: Example: VENDOR.NAME=Asus; RU: Пример: VENDOR.NAME=Asus;
 msgid "breadcrumbs_notebookvendor-text"
-msgstr "{{VENDOR.NAME}} լափթոփ"
+msgstr "{{VENDOR.NAME}} Նոութբուքեր"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=X1 carbon;
 #. RU: Пример: NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=X1 carbon;
@@ -104,7 +104,7 @@ msgstr "Ներբեռնել սարքավարը"
 #. NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10 x86; Текст для
 #. {{DOWNLOAD}} находится в ключе drivercard_no-results_download-link;
 msgid "devicecard_details_no-results-text"
-msgstr "Windows {{OSVERSIONS}}-ի  համար {{NAME}} դրայվերը չի գտնվել: Խնդրում ենք {{DOWNLOAD}} դրայվերներն ավտոմատ ընտրելու համար:"
+msgstr "Windows {{OSVERSIONS}}-ի  համար {{NAME}} դրայվերը չի գտնվել. Խնդրում ենք {{DOWNLOAD}} դրայվերներն ավտոմատ ընտրելու համար."
 
 msgid "devicecard_details_no-results_download-link"
 msgstr "Ներբեռնել DriverPack-ը"
@@ -140,7 +140,7 @@ msgid "devicecard_details-content-label-inf"
 msgstr "Ֆայլ *.inf."
 
 msgid "devicecard_details-content-label-section"
-msgstr "Անվանակարգ."
+msgstr "Անվանակարգ:"
 
 msgid "devicecard_details-links-merged_label"
 msgstr "Եթե Ձեզ անհրաժեշտ Device ID-ն չի գտնվել, խնդրում ենք որոնել"
@@ -160,7 +160,7 @@ msgstr "Բեռնել DriverPack"
 #. x86; Текст для {{DOWNLOAD}} находится в ключе devicecardlist_no-
 #. result_download-link;
 msgid "devicecardlist_no-results-device-text"
-msgstr "Windows {{OSVERSIONS}}-ի  համար {{DEVICENAME}} դրայվերը չի գտնվել: Խնդրում ենք {{DOWNLOAD}} դրայվերներն ավտոմատ տեղադրելու համար:"
+msgstr "Windows {{OSVERSIONS}}-ի  համար {{DEVICENAME}} դրայվերը չի գտնվել. Խնդրում ենք {{DOWNLOAD}} դրայվերներն ավտոմատ տեղադրելու համար."
 
 #. i18n: EN: Example: DEVICECLASS=chipsets|videocards; NOTEBOOK=Acer AO521;
 #. OSVERSIONS=Windows 10 x86; Text for {{DOWNLOAD}} is in key
@@ -169,14 +169,14 @@ msgstr "Windows {{OSVERSIONS}}-ի  համար {{DEVICENAME}} դրայվերը չ
 #. OSVERSIONS=Windows 10 x86; Текст для {{DOWNLOAD}} находится в ключе
 #. devicecardlist_no-result_download-link;
 msgid "devicecardlist_no-results-notebook-text"
-msgstr "{{NOTEBOOK}} նոթբուքի համար Windows {{OSVERSIONS}} օպերացիոն համակարգի համար դրայվերները չեն գտնվել: Խնդրում ենք {{DOWNLOAD}} դրայվերներն ավտոմատ տեղադրելու համար: "
+msgstr "{{NOTEBOOK}} նոթբուքի համար Windows {{OSVERSIONS}} օպերացիոն համակարգի համար դրայվերները չեն գտնվել. Խնդրում ենք {{DOWNLOAD}} դրայվերներն ավտոմատ տեղադրելու համար. "
 
 #. i18n: EN: Example: NOTEBOOK=Acer AO521; OSVERSIONS=Windows 10 x86; Text for
 #. {{DOWNLOAD}} is in key devicecardlist_no-result_download-link; RU: Пример:
 #. NOTEBOOK=Acer AO521; Пример: OSVERSIONS=Windows 10 x86; Текст для
 #. {{DOWNLOAD}} находится в ключе devicecardlist_no-result_download-link;
 msgid "devicecardlist_no-results-notebook-device-class-text"
-msgstr "{{NOTEBOOK}} նոթբուքի Windows {{OSVERSIONS}} ՕՀ - համար {{DEVICECLASS}}-ի դրայվերները չեն գտնվել: Խնդրում ենք {{DOWNLOAD}} դրայվերներն ավտոմատ տեղադրելու համար:"
+msgstr "{{NOTEBOOK}} նոթբուքի Windows {{OSVERSIONS}} ՕՀ - համար {{DEVICECLASS}}-ի դրայվերները չեն գտնվել. Խնդրում ենք {{DOWNLOAD}} դրայվերներն ավտոմատ տեղադրելու համար."
 
 msgid "devicegrouppage_all-systems"
 msgstr "բոլոր համակարգերը"
@@ -210,7 +210,7 @@ msgstr "Ներբեռնել DriverPack Online-ը"
 #. NAME=Acer Aspire 4830TG; Пример: OSVERSIONS=Windows 10 x86; Текст для
 #. {{DOWNLOAD}} находится в ключе drivercard_no-results_download-link;
 msgid "drivercard_no-results-text"
-msgstr "Windows {{OSVERSIONS}}-ի համար {{NAME}} դրայվերը չի գտնվել: Խնդրում ենք {{DOWNLOAD}} դրայվերներն ավտոմատ ընտրելու համար:"
+msgstr "Windows {{OSVERSIONS}}-ի համար {{NAME}} դրայվերը չի գտնվել. Խնդրում ենք {{DOWNLOAD}} դրայվերներն ավտոմատ ընտրելու համար."
 
 msgid "drivercard_no-results_download-link"
 msgstr "Բեռնել DriverPack"
@@ -258,13 +258,13 @@ msgid "footer_banner-title"
 msgstr "Դուք հոգնել փնտրում է վարորդին ձեր սարքի?"
 
 msgid "footer_banner-caption"
-msgstr "DriverPack Online-ը <span style='color: {{COLOR}}'>կփնտրի և կտեղադրի</span> Ձեզ անհարաժեշտ դրայվերներն ավտոմատ:"
+msgstr "DriverPack Online-ը <span style='color: {{COLOR}}'>կփնտրի և կտեղադրի</span> Ձեզ անհարաժեշտ դրայվերներն ավտոմատ"
 
 msgid "footer_banner_btn"
 msgstr "Բեռնեք <span class='bold'>DriverPack Online</span> անվճար"
 
 msgid "footer_translate-feedback"
-msgstr "Գտե՞լ եք սխալ: <br />Սեղմե՛ք {{HOTKEY}}"
+msgstr "Գտե՞լ եք սխալ?<br />Սեղմե՛ք {{HOTKEY}}"
 
 msgid "header_search-title"
 msgstr "<span class='bold'>Որոնել դրայվերներն</span> ամենամեծ բազայում — ավելի քան մեկ միլիոն դրայվերներ"
@@ -348,10 +348,10 @@ msgid "landingheadernav_foradmin"
 msgstr "Համակարգի վարիչների համար"
 
 msgid "landingintroduction_author-title"
-msgstr "Բարև: Իմ անունն է Արթուր Կուզյակով: Ես DriverPack համակարգի հեղինակն ու հիմնադիրն եմ"
+msgstr "Բարև! Իմ անունն է Արթուր Կուզյակով. Ես DriverPack համակարգի հեղինակն ու հիմնադիրն եմ"
 
 msgid "landingintroduction_author-speech"
-msgstr ""
+msgstr "8 տարի առաջ մաքուր խանդավառությամբ գրված փոքր ծրագրից մենք վերածվեցինք մի ընկերության, որը օգնեց կարգավորել համակարգիչներն աշխարհի ավելի քան 40 միլիոն մարդկանց մոտ!<br /><br />Այդ 8 տարվա աշխատանքի արդյունքում ծրագիրը դարձավ անասելի արագ և խելացի։ Այսօր DriverPack-ը եզակի սարքավարների ամենամեծ շտեմարանն է ողջ աշխարհում, և գտնվում է աշխարհի գերարագ սպասարկիչների վրա։ Սարքավարները ոչ միայն արագորեն, այլև առավելագույնս որակով տեղադրելու համար մենք օգտագործում ենք մեքենայական ուսուցման տեխնոլոգիաները, ինչն ավելի ճշգրիտ է դարձնում մեր ընտրության ալգորիթմը։ Այդուհանդերձ մենք կարողացանք թողնել ծրագիրը ամբողջովին անվճար, որպեսզի բոլորը կարողանան օգտագործել այն։ <br /><br />Ես ու իմ թիմը հպարտանում ենք մեր արտադրանքով և հուսով ենք, որ այն կդառնա Ձեր հուսալի օգնականը, որը կկարողանա արագորեն կարգավորել ցանկացած համակարգիչ։"
 
 msgid "landingintroduction_author-speech-marked"
 msgstr "Մենք ծախսում ենք մեր ամբողջ ժամանակը՝ Ձեր ժամանակը խնայելու համար!"
@@ -375,13 +375,13 @@ msgid "landingproducts_cta-title"
 msgstr "Ընտրի՛ր քո DriverPack-ը"
 
 msgid "landingproducts_cta-description"
-msgstr ""
+msgstr "Ներբեռնեք այն փաթեթը, որը Ձեզ ձեռք է տալիս"
 
 msgid "landingproducts_item-title-online"
 msgstr "DriverPack Online"
 
 msgid "landingproducts_item-description-online"
-msgstr ""
+msgstr "Ներբեռնվում է մի ակնթարթում, համացանցի առկայության դեպքում ներբեռնում և տեղադրում է բոլոր սարքավարները <span class='nobr'>({{SIZE}})</span>"
 
 msgid "landingproducts_item-version"
 msgstr "Տարբերակ:"
@@ -390,40 +390,40 @@ msgid "landingproducts_item-button"
 msgstr "Ներբեռնել"
 
 msgid "landingproducts_item-title-network"
-msgstr ""
+msgstr "DriverPack Offline Network"
 
 msgid "landingproducts_item-description-network"
-msgstr ""
+msgstr "Պարունակում է սարքավարներ ցանցային սարքավորումների (Lan/Wi-Fi) համար, աշխատում է առանց համացանցի <span class='nobr'>({{SIZE}})</span>"
 
 msgid "landingproducts_item-title-offline"
-msgstr ""
+msgstr "DriverPack Offline Full"
 
 msgid "landingproducts_item-description-offline"
-msgstr ""
+msgstr "Պարունակում է բոլոր սարքավարները, աշխատում է առանց համացանցի, ներբեռնվում է հոսընթացի միջոցով <span class='nobr'>({{SIZE}})</span>"
 
 msgid "landingpublications__landing-title"
-msgstr ""
+msgstr "Լրագրողները DriverPack-ի մասին"
 
 msgid "landingscreenshots_landing-title"
-msgstr ""
+msgstr "DriverPack-ն — ամենահարմար և արագ գործիքն է համակարգիչը կարգավորեու համար"
 
 msgid "landingscreenshots_landing-subtitle"
 msgstr "Ծրագիրը տրամադրվում է անվճար, նախատեսված է և՛ պրոֆեսիոնալների, և՛ սկսնակների համար"
 
 msgid "landingsocial_landing-title"
-msgstr ""
+msgstr "Միացեք DriverPack-ի համայնքին"
 
 msgid "landingsocial_landing-subtitle"
-msgstr ""
+msgstr "Հետևեք նորություններին և մասնակցեք քննարկումներին"
 
 msgid "landingtopvideocardlist_landing-title"
-msgstr ""
+msgstr "Տեսաքարտերի տարածված մոդելներ"
 
 msgid "landingtopvideocardlist_landing-caption"
-msgstr ""
+msgstr "DriverPack-ը գտնում է ցանկացած տեսաքարտերի սարքավարները, ահա ամենատարածվածները"
 
 msgid "landingusers_cta"
-msgstr ""
+msgstr "DriverPack-ի օգտվողների թիվն ամբողջ աշխարհում աճում է ամեն վարկյան"
 
 msgid "landingusers_cta-btn"
 msgstr "Տեղադրել պահանջվող բոլոր սարքավարները"
@@ -432,19 +432,19 @@ msgid "landingusers_versions"
 msgstr "DriverPack-ի այլ տարբերակներ"
 
 msgid "landingvideocardlist_landing-title"
-msgstr ""
+msgstr "Տեսաքարտերի ամենահայտնի արտադրողները"
 
 msgid "landingwizard_landing-title"
-msgstr ""
+msgstr "Կարգավորել համակարգիչն այժմ կարելի է մեկ կտտոցով"
 
 msgid "landingwizard_item-caption-download"
-msgstr ""
+msgstr "Ներբեռնեք և թողարկեք DriverPack Online-ը"
 
 msgid "landingwizard_item-caption-setup"
-msgstr ""
+msgstr "Կարգավորեք Ձեր համակարգիչը մեկ հասարակ գործողությամբ"
 
 msgid "landingwizard_item-caption-profit"
-msgstr ""
+msgstr "Ուռա՜։ Այժմ համակարգիչը աշխատում է նորի պես!"
 
 msgid "landingwizard_cta-btn"
 msgstr "Տեղադրել պահանջվող բոլոր սարքավարները"
@@ -456,7 +456,7 @@ msgid "navbar_download-link"
 msgstr "Ներբեռնել DriverPack Online-ը"
 
 msgid "notfound_cta-text"
-msgstr ""
+msgstr "Ինքնաբար գտնել և տեղադրել սարքավարները կարելի է DriverPack Online-ի օգնությամբ"
 
 msgid "notfound_cta-btn"
 msgstr "Ներբեռնել DriverPack Online-ը"
@@ -471,10 +471,10 @@ msgid "notebookfilters-title"
 msgstr "Մատչելի սարքավարներ"
 
 msgid "notebookvendorslist_other-text"
-msgstr ""
+msgstr "Այլ արտադրողներ"
 
 msgid "notebookvendorslist_title_os"
-msgstr ""
+msgstr "Սարքավարներ {{OS}}-ով աշխատող նոութբուքների համար"
 
 msgid "notebookvendorslist_title"
 msgstr "Սարքավարների որոնում լափթոփի համար"
@@ -483,25 +483,25 @@ msgid "productlandingheader-online_cta-btn"
 msgstr "Ներբեռնել DriverPack Online-ը"
 
 msgid "productlandingheader-online_caption"
-msgstr ""
+msgstr "DriverPack Online-ը - {{SIZE}} չափ ունեցող արտադրանքներից առավել տարածվածն է։ Ակնթարթորեն ներբեռնվում է, ջոկում է սարքավարներ Ձեր համակարգչի կամ նոութբուքի համար, ինչից հետո ներբեռնում և տեղադրում է դրանք համացանցի միջոցով։ Կատարյալ ծրագիր է սովորական օգտվողի համար։ Աշխատում է միայն համացանցով։"
 
 msgid "productlandingheader-network_cta-btn"
-msgstr ""
+msgstr "Ներբեռնել DriverPack Offline Network-ը"
 
 msgid "productlandingheader-network_caption"
-msgstr ""
+msgstr "DriverPack Offline Network - սարքավարներ ցանցային սարքավորումների համար մեկ տեղում ({{SIZE}})։ Արագորեն ներբեռնվում է և ավելի արագորեն տեղադրվում։ Windows-ի վերատեղադրումից հետո DriverPack Offline Network-ը կկարգավորի ցանցային սարքավարները՝ համացացին միանալու համար և կներբեռնի մնացած սարքավարները։"
 
 msgid "productlandingheader-offline_cta-btn"
-msgstr ""
+msgstr "Ներբեռնել DriverPack Offline Full-ը"
 
 msgid "productlandingheader-offline_caption"
-msgstr ""
+msgstr "DriverPack Offline Full-ը - {{SIZE}} կազմող հսկա փաթեթ է՝ սարքավարներն առանց համացանցի տեղադրելու համար։ Պարզապես ներբեռնեք DriverPack Offline Full-ը և օգտվեք արդիական սարքավարների խոշորագույն գրադարանից։ Կատարելապես համապատասխանում է համակարգի ադմինիստրատորների պահանջներին։"
 
 msgid "promoheader_cta-text-gamers"
-msgstr ""
+msgstr "Ձեր համակարգիչն ավելի հզոր է, քան կարծում եք. թարմացրեք բոլոր սարքավարներն անվճար"
 
 msgid "promoheader_cta-text-gamers-caption"
-msgstr ""
+msgstr "Եթե Ձեզ դուր են գալիս տեսախաղերը, ապա խորհուրդ ենք տալիս ավելի հաճախ թարմացնել Ձեր համակարգչի սարքավարները՝ Ձեր երկաթից առավելագույն արդյունավետությունը ստանալու համար։ Մեծացրեք FPS-ը մինչև 37%-ով - լավագույն խաղայի փորձ և նոր նվաճումներ DriverPack-ի հետ."
 
 msgid "promoheader_cta-text"
 msgstr "DriverPack-ը անվճար կտեղադրի և կլուծի դրայվերների հետ կապված ցանկացած խնդիր"
@@ -513,265 +513,265 @@ msgid "promoheader_size"
 msgstr "Ֆայլի չափը՝: {{SIZE}} ԿԲ"
 
 msgid "promoheader_license"
-msgstr ""
+msgstr "Արտոնագրային Համաձայնագիր"
 
 msgid "promoheader_os-versions"
-msgstr ""
+msgstr "Ծրագիրը համատեղելի է Windows 10, 8.1, 8, 7, Vista և XP-ի հետ"
 
 msgid "promoheader_uninstall"
 msgstr ""
 
 msgid "reviewheader_cta-text"
-msgstr ""
+msgstr "Միացեք DriverPack-ի համայնքին սոցցանցերում՝ արտադրանքի մասին նորություններն իմանալու և քննարկումներին մասնակցելու համար"
 
 msgid "reviewheader_cta"
-msgstr ""
+msgstr "Ավելացրեք Ձեր կարծիքը կամ DriverPack-ի բարելավման առաջարկը"
 
 msgid "search_input-placeholder"
-msgstr ""
+msgstr "Որոնել ըստ սարքավարի կամ նոութբուքի անվան կամ էլ DeviceID-ի"
 
 msgid "search_btn-text"
-msgstr ""
+msgstr "Գտնել"
 
 msgid "searchformitem_type-section"
-msgstr ""
+msgstr "Անվանակարգ"
 
 msgid "searchformitem_type-notebook"
-msgstr ""
+msgstr "նոութբուք"
 
 msgid "searchformitem_type-device"
-msgstr ""
+msgstr "սարք"
 
 msgid "searchformitem_type-free"
-msgstr ""
+msgstr "անվճար"
 
 #. i18n: EN: Example: NAME=Acer; RU: Пример: NAME=Acer;
 msgid "generatesearchitemname_notebookvendor"
-msgstr ""
+msgstr "{{NAME}} նոութբուքներ"
 
 #. i18n: EN: Example: NAME=Asus; RU: Пример: NAME=Asus;
 msgid "generatesearchitemname_vendor"
-msgstr ""
+msgstr "{{NAME}} սարքեր"
 
 msgid "deviceclasses_bluetooth-single-main"
-msgstr ""
+msgstr "Bluetooth սարք"
 
 msgid "deviceclasses_bluetooth-single-for"
-msgstr ""
+msgstr "Bluetooth սարքի"
 
 msgid "deviceclasses_bluetooth-plural-main"
-msgstr ""
+msgstr "Bluetooth սարքերը"
 
 msgid "deviceclasses_bluetooth-plural-for"
-msgstr ""
+msgstr "Bluetooth սարքերի"
 
 msgid "deviceclasses_cardreader-single-main"
 msgstr "քարտի ընթերցիչ"
 
 msgid "deviceclasses_cardreader-single-for"
-msgstr "քարտի ընթերցիչ"
+msgstr "քարտի ընթերցիչի"
 
 msgid "deviceclasses_cardreader-plural-main"
-msgstr "քարտի ընթերցիչներ"
+msgstr "քարտի ընթերցիչները"
 
 msgid "deviceclasses_cardreader-plural-for"
-msgstr "քարտի ընթերցիչներ"
+msgstr "քարտի ընթերցիչների"
 
 msgid "deviceclasses_chipset-single-main"
-msgstr ""
+msgstr "չիպսեթ"
 
 msgid "deviceclasses_chipset-single-for"
-msgstr ""
+msgstr "չիպսեթի"
 
 msgid "deviceclasses_chipset-plural-main"
-msgstr ""
+msgstr "չիպսեթները"
 
 msgid "deviceclasses_chipset-plural-for"
-msgstr ""
+msgstr "չիպսեթների"
 
 msgid "deviceclasses_inputdev-single-main"
-msgstr ""
+msgstr "ներածման սարք"
 
 msgid "deviceclasses_inputdev-single-for"
-msgstr ""
+msgstr "ներածման սարքի"
 
 msgid "deviceclasses_inputdev-plural-main"
-msgstr ""
+msgstr "ներածման սարքերը"
 
 msgid "deviceclasses_inputdev-plural-for"
-msgstr ""
+msgstr "ներածման սարքերի"
 
 msgid "deviceclasses_lan-single-main"
-msgstr ""
+msgstr "ցանցային քարտ"
 
 msgid "deviceclasses_lan-single-for"
-msgstr ""
+msgstr "ցանցային քարտի"
 
 msgid "deviceclasses_lan-plural-main"
-msgstr ""
+msgstr "ցանցային քարտերը"
 
 msgid "deviceclasses_lan-plural-for"
-msgstr ""
+msgstr "ցանցային քարտերի"
 
 msgid "deviceclasses_massstorage-single-main"
-msgstr ""
+msgstr "կոնտրոլեր"
 
 msgid "deviceclasses_massstorage-single-for"
-msgstr ""
+msgstr "կոնտրոլերի"
 
 msgid "deviceclasses_massstorage-plural-main"
-msgstr ""
+msgstr "կոնտրոլերները"
 
 msgid "deviceclasses_massstorage-plural-for"
-msgstr ""
+msgstr "կոնտրոլերների"
 
 msgid "deviceclasses_modem-single-main"
-msgstr ""
+msgstr "մոդեմ"
 
 msgid "deviceclasses_modem-single-for"
-msgstr ""
+msgstr "մոդեմի"
 
 msgid "deviceclasses_modem-plural-main"
-msgstr ""
+msgstr "մոդեմները"
 
 msgid "deviceclasses_modem-plural-for"
-msgstr ""
+msgstr "մոդեմների"
 
 msgid "deviceclasses_monitor-single-main"
-msgstr ""
+msgstr "մոնիտոր"
 
 msgid "deviceclasses_monitor-single-for"
-msgstr ""
+msgstr "մոնիտորի"
 
 msgid "deviceclasses_monitor-plural-main"
-msgstr ""
+msgstr "մոնիտորները"
 
 msgid "deviceclasses_monitor-plural-for"
-msgstr ""
+msgstr "մոնիտորների"
 
 msgid "deviceclasses_phone-single-main"
-msgstr ""
+msgstr "խելախոս"
 
 msgid "deviceclasses_phone-single-for"
-msgstr ""
+msgstr "խելախոսի"
 
 msgid "deviceclasses_phone-plural-main"
-msgstr ""
+msgstr "խելախոսները"
 
 msgid "deviceclasses_phone-plural-for"
-msgstr ""
+msgstr "խելախոսների"
 
 msgid "deviceclasses_printer-single-main"
 msgstr "տպիչ"
 
 msgid "deviceclasses_printer-single-for"
-msgstr "տպիչ"
+msgstr "տպիչի"
 
 msgid "deviceclasses_printer-plural-main"
-msgstr "տպիչներ"
+msgstr "տպիչները"
 
 msgid "deviceclasses_printer-plural-for"
-msgstr "տպիչներ"
+msgstr "տպիչների"
 
 msgid "deviceclasses_sound-single-main"
-msgstr ""
+msgstr "ձայնային քարտ"
 
 msgid "deviceclasses_sound-single-for"
-msgstr ""
+msgstr "ձայնային քարտի"
 
 msgid "deviceclasses_sound-plural-main"
-msgstr ""
+msgstr "ձայնային քարտերը"
 
 msgid "deviceclasses_sound-plural-for"
-msgstr ""
+msgstr "ձայնային քարտերի"
 
 msgid "deviceclasses_tvtuner-single-main"
-msgstr "TV ընդունիչ"
+msgstr "ՀՏ-ընդունիչ"
 
 msgid "deviceclasses_tvtuner-single-for"
-msgstr "TV ընդունիչ"
+msgstr "ՀՏ-ընդունիչի"
 
 msgid "deviceclasses_tvtuner-plural-main"
-msgstr "TV ընդունիչներ"
+msgstr "ՀՏ-ընդունիչները"
 
 msgid "deviceclasses_tvtuner-plural-for"
-msgstr "TV ընդունիչներ"
+msgstr "ՀՏ-ընդունիչների"
 
 msgid "deviceclasses_video-single-main"
-msgstr ""
+msgstr "տեսաքարտ"
 
 msgid "deviceclasses_video-single-for"
-msgstr ""
+msgstr "տեսաքարտի"
 
 msgid "deviceclasses_video-plural-main"
-msgstr ""
+msgstr "տեսաքարտերը"
 
 msgid "deviceclasses_video-plural-for"
-msgstr ""
+msgstr "տեսաքարտերի"
 
 msgid "deviceclasses_webcamera-single-main"
-msgstr ""
+msgstr "վեբ-խցիկ"
 
 msgid "deviceclasses_webcamera-single-for"
-msgstr ""
+msgstr "վեբ-խցիկի"
 
 msgid "deviceclasses_webcamera-plural-main"
-msgstr ""
+msgstr "վեբ-խցիկները"
 
 msgid "deviceclasses_webcamera-plural-for"
-msgstr ""
+msgstr "վեբ-խցիկների"
 
 msgid "deviceclasses_wifi-single-main"
-msgstr ""
+msgstr "Wi-Fi սարք"
 
 msgid "deviceclasses_wifi-single-for"
-msgstr ""
+msgstr "Wi-Fi սարքի"
 
 msgid "deviceclasses_wifi-plural-main"
-msgstr ""
+msgstr "Wi-Fi սարքերը"
 
 msgid "deviceclasses_wifi-plural-for"
-msgstr ""
+msgstr "Wi-Fi սարքերի"
 
 msgid "deviceclasses_other-single-main"
-msgstr ""
+msgstr "այլ սարքեր"
 
 msgid "deviceclasses_other-single-for"
-msgstr ""
+msgstr "այլ սարքի"
 
 msgid "deviceclasses_other-plural-main"
-msgstr "այլ սարքեր"
+msgstr "այլ սարքերը"
 
 msgid "deviceclasses_other-plural-for"
-msgstr "այլ սարքեր"
+msgstr "այլ սարքերի"
 
 msgid "searchheader_caption-subtitle"
-msgstr ""
+msgstr "Սարքավարների որոնում ըստ հայտի:"
 
 msgid "searchheader_caption-filter-label"
-msgstr ""
+msgstr "Սարքավարը կներբեռնվի ընտրված ՕՀ-ի համար"
 
 #. i18n: EN: Example: NOTEBOOK=Acer AO521; Text for {{DOWNLOAD}} is in key
 #. searchresult_details-content_download-link; RU: Пример: NOTEBOOK=Acer
 #. AO521; Текст для {{DOWNLOAD}} находится в ключе searchresult_details-
 #. content_download-link
 msgid "searchresult_details-content-notebook-text"
-msgstr ""
+msgstr "{{DOWNLOAD}} պահանջվող սարքավարներն ինքնաբար որոշելու և տեղադրելու համար, կամ բաց արեք {{NOTEBOOK}} նոութբուքի էջը և ինքներդ ընտրեք անհրաժեշտ սարքավարը"
 
 msgid "searchresult_details-content_download-link"
 msgstr "Ներբեռնել DriverPack-ը"
 
 msgid "searchresult_notebook"
-msgstr ""
+msgstr "նոութբուք"
 
 msgid "searchresult_download-btn"
-msgstr ""
+msgstr "Ինքնաբար տեղադրել սարքավարը"
 
 msgid "searchresult_details-content-text-placeholder"
 msgstr "Տվյալների բեռնում..."
 
 msgid "searchresult_details-content-label-1"
-msgstr ""
+msgstr "ՕՀ"
 
 msgid "searchresult_details-content-label-2"
 msgstr "բոլոր համակարգերը"
@@ -781,84 +781,84 @@ msgstr "բոլոր համակարգերը"
 #. GeForce 205; Текст для {{DOWNLOAD}} находится в ключе searchresult_details-
 #. content_download-link
 msgid "searchresult_details-content-group-text"
-msgstr ""
+msgstr "{{DOWNLOAD}} պահանջվող սարքավարներն ինքնաբար որոշելու և տեղադրելու համար կամ բաց արեք {{DEVICE}} սարքի էջը և ինքներդ ընտրեք անհրաժեշտ սարքավարը"
 
 #. i18n: EN: Example: CLASS.SINGLE.MAIN=monitor|chipset; COUNT=12; RU: Пример:
 #. CLASS.SINGLE.MAIN=монитор|чипсет; COUNT=12;
 msgid "searchresult_device"
-msgstr ""
+msgstr "{{CLASS.SINGLE.MAIN}} (գտնվեց {{COUNT}})"
 
 msgid "searchresult_details-content-text-many"
-msgstr ""
+msgstr "Այս սարքի համար մի քանի տարբեր սարքավարներ են հայտնաբերվել"
 
 msgid "seofooter_os-list-title"
-msgstr ""
+msgstr "Օպերացիոն համակարգի տարբերակներ: <span itemprop='operatingSystem'>{{OSLIST}}</span>"
 
 msgid "seofooter_offers-title"
-msgstr ""
+msgstr "<span itemprop='offers' itemscope='' itemtype='http://schema.org/Offer'>Տրամադրվում է <meta itemprop='price' content='0' />անվճար</span>"
 
 msgid "seofooter_driver-description-title"
-msgstr ""
+msgstr "Սարքավարի նկարագրությունը"
 
 msgid "seofooter_popular-drivers-title"
-msgstr ""
+msgstr "Տարածված սարքավարներ"
 
 msgid "sidebanner_title"
-msgstr ""
+msgstr "Հոգնե՞լ եք սարքավարներ որոնելուց?"
 
 msgid "sidebanner_caption"
-msgstr ""
+msgstr "DriverPack-ն ինքնաբար <span class='SideBanner__caption-marked'>կգտնի և կտեղադրի</span> անհրաժեշտ սարքավարները"
 
 msgid "translationheader_cta-text"
-msgstr ""
+msgstr "Օգնեք մեզ հասանելի դարձնել DriverPack-ն միլիոնավոր օգտվողների համար ամբողջ աշխարհում — մասնակցեք մեր կամավորական նախագծում՝ այն այլ լեզուներով թարգմանելու համար"
 
 msgid "translationheader_bubble-team"
-msgstr ""
+msgstr "Ուզո՞ւմ եք դառնալ համակարգիչների ինքնաբար կարգավորման ամենախոշոր ծառայություններից մեկի թարգմանիչների թիմի մասը"
 
 msgid "translationheader_bubble-languages"
-msgstr ""
+msgstr "Դուք լավ գիտեք անգլերե՞նը կամ ռուսերե՞նը և պատրաստ եք թարգմանել ծրագիրը Ձեր մայրենի լեզվո՞վ?"
 
 msgid "translationheader_bubble-experience"
-msgstr ""
+msgstr "Դուք թարգմանչական առցանց ծառայությունների օգնությամբ ծրագրեր կամ կայքեր թարգմանելու փո՞րձ ունեք?"
 
 msgid "translationheader_bubble-email"
-msgstr ""
+msgstr "Եթե Դուք բոլոր հարցերին պատասխանեցիք Այո, խնդրում ենք ուղարկել մեզ e-mail {{EMAIL}} հասցեին '{{SUBJECT}}' թեմայով և նշել, թե որ լեզվով եք ուզում թարգմանել."
 
 msgid "translationlist_title"
-msgstr ""
+msgstr "DriverPack-ի պաշտոնական թարգմանիչների ցանկ"
 
 msgid "translationtool_text-transifex"
-msgstr ""
+msgstr "DriverPack Solution-ում տեղայնացումն իրականացվում է transifex.com-ի միջոցով՝"
 
 msgid "translationtool_example-ru-to-en"
-msgstr ""
+msgstr "Տողեր Ռուսերենից (RU) Անգլերեն (EN) և ԱՊՀ (CIS) երկրների լեզուներով թարգմանելու համար"
 
 msgid "translationtool_example-en-to-all"
-msgstr ""
+msgstr "Տողեր Անգլերենից (EN) աշխարհի այլ լեզուներով թարգմանելու համար"
 
 msgid "language_title"
 msgstr "Armenian"
 
 msgid "landingPagePublications_rbk"
-msgstr ""
+msgstr "DriverPack-ը — ծրագրաշար է, որը կազմված է Արթուր Կուզյակովի թիմի կողմից մանրազնին կերպով ընտրված և փորձարկված սարքավարներից Windows-ի համար։ Տվյալ հավելվածը վերլուծում է օգտվողի համակարգիչը և տեղադրում է դրա վրա հարկավոր սարքավարները, ինչը լուծում է երկու խնդիր. նախ արագացնում է համակարգչի կարգավորումը (ինչը հատկապես կարևոր է, երբ համակարգում կա մի քանի տասնյակ համակարգիչներ), այնուհետև՝ բարելավում է դրա գործառնական կարողությունները."
 
 msgid "landingPagePublications_secretfirmy"
-msgstr ""
+msgstr "Այսօր DriverPack-ն ունի սարքավարների ամենամեծ շտեմարանը, որը թարգմանված է 45 լեզուներով և աշխատում է ավելի քան 42 միլիոն օգտվողների համակարգիչների վրա."
 
 msgid "landingPagePublications_cnews"
-msgstr ""
+msgstr "Ծրագրի առաջին տարբերակը ստեղծելուց ի վեր DriverPack Solution-ը մեծ տարածում ստացավ օգտվողների մոտ. Ծրագիրը հասանելի է ներբեռնման համար բոլորովին անվճար. Դա առանձնացնում է DriverPack Solution-ը մրցակիցներից և գրավում է նորանոր օգտվողներ."
 
 msgid "landingPagePublications_xbit"
-msgstr ""
+msgstr "DriverPack Solution-ը — հետաքրքիր հավելված է, այն պարունակում է մի շարք ընտրանքներ, որոնք չկան նույն տեսակի այլ ծրագրերում. Ցանկացած օգտվող կարող է շտկել բոլոր սխալները և կարգավորել համակարգի և նրա բոլոր սարքերի պատշաճ աշխատանքն ընդամենը երկու կտտոցով. Ներկայումս DriverPack-ի տվյալների շտեմարանում գտնվող սարքավարների թիվը գերազանցել է 1.1 միլիոնը, և դրանք բոլորը փորձարկվել են անվտանգության նկատմամբ."
 
 msgid "landingPagePublications_chip"
-msgstr ""
+msgstr "DriverPack-ի օգնությամբ Ձեր ԱՀ-ի համալրիչների համար թարմ սարքավարներ գտնելը հեշտ խնդիր է. Ամենահաճելին այն է, որ օգտվողին ոչ մի բան անել պետք չէ. Գործիքը լիովին ավտոմատացվաց է և հարմար է օգտագործման համար."
 
 msgid "landingPagePublications_pcmag"
-msgstr ""
+msgstr "DriverPack Protect-ը կօգնի պաշտպանել համակարգիչը վնասակար և գովազդային ծրագրերից և փլագիններից, որոնց գործունեությունը շատ հաճախ չեն կարողանում հաղթահարել հակավիրուսները և գովազդի արգելափակման գործիքները."
 
 msgid "landingPagePublications_habr"
-msgstr ""
+msgstr "Windows-ի յուրաքանչյուր վերատեղադրման հետ կապված սարքավարների որոնման և տեղադրման անհրաժեշտությունը, կարծում եմ, Windows-ի ամբողջ ընտանիքի ամենակարևոր թերություններից մեկն է. Սակայն, դեռ 2008 թվականին ես որոշեցի լուծել այդ խնդիրը և գրեցի իմ ծրագիրը, որն ստացավ DriverPack անունը։ Այսօր իմ արտադրանքն օգտագործվում է աշխարհի 40 միլիոն օգտվողների կողմից, և կարելի է ասել, որ Windows-ի սարքավարների խնդիրը լուծված է, չնայած որ կողմնակի լուծմամբ."
 
 msgid "landingPagePublications_computerra"
 msgstr ""
@@ -978,7 +978,7 @@ msgid "landing-footer_wannacry"
 msgstr ""
 
 msgid "landing-footer_license"
-msgstr ""
+msgstr "Արտոնագրային Համաձայնագիր"
 
 msgid "landing-footer_remove"
 msgstr ""
