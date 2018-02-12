@@ -1,7 +1,7 @@
 # Translators:
 # Translators:
 # Andrei-Marian Maior <maior_andrei1998@yahoo.com>, 2017
-# Cetina Alexandru <cetina_alexandru95@yahoo.com>, 2017
+# Cetina Alexandru <cetina_alexandru95@yahoo.com>, 2017-2018
 # Nadia Tegeneva <nadia@drp.su>, 2017
 # Sebastian Petrov <petrov.sebastian@gmail.com>, 2017
 msgid ""
@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-11-27 10:29+0000\n"
-"PO-Revision-Date: 2017-12-10 15:16+0000\n"
-"Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
+"PO-Revision-Date: 2018-01-31 21:10+0000\n"
+"Last-Translator: Cetina Alexandru <cetina_alexandru95@yahoo.com>\n"
 "Language-Team: Romanian (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/ro/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -412,7 +412,7 @@ msgid "settings_bsods-title"
 msgstr "Analizați incidentele 'blue screen of death' (BSoD)"
 
 msgid "settings_bsods-caption"
-msgstr ""
+msgstr "Probabilitatea de apariție a \"ecranului albastru al morții\" (BSoD) este mai mic de 0,3%, dar dacă se întâmplă, aplicația noastră analizează propriile jurnale Windows și generează un raport pentru sistemul analitic. Acesta scade probabilitatea ca această problemă să se repete pe acest computer și pe altele cu configurație similară."
 
 msgid "settings_bsods-anchor"
 msgstr "Află mai multe"
@@ -424,7 +424,7 @@ msgid "settings_collect-drivers-title"
 msgstr "Descarcă driverele lipsă"
 
 msgid "settings_collect-drivers-caption"
-msgstr ""
+msgstr "Pentru a permite ca baza de date DriverPack să acopere și mai multe dispozitive, a fost dezvoltat un sistem unic de colectare a datelor. Analizează informații despre driverele deja instalate pe computere și, dacă sistemul descoperă un driver rar, îl adaugă automat în baza de date. Toate aceste date sunt adunate absolut anonim și fac referire numai la driverele dispozitivelor."
 
 msgid "settings_collect-drivers-anchor"
 msgstr "Află mai multe"
@@ -460,7 +460,7 @@ msgid "menu_computer_management"
 msgstr "Management Computer"
 
 msgid "menu_control_panel"
-msgstr ""
+msgstr "Panou de Control"
 
 msgid "menu_disk_management"
 msgstr "Disk Management"
@@ -993,7 +993,7 @@ msgid "menu_protect_title"
 msgstr "Asistent pentru antivirusul dvs."
 
 msgid "menu_protect_clean_up"
-msgstr ""
+msgstr "Protecție și curățare"
 
 msgid "menu_computer_diagnostics"
 msgstr "Diagnosticarea stării computerului"
@@ -1026,19 +1026,19 @@ msgid "no-internet-screen_guide-step-1"
 msgstr "Pasul 1"
 
 msgid "no-internet-screen_guide-step-1-action"
-msgstr ""
+msgstr "Accesați site-ul <span class=\"bold\">drp.su/en/foradmin</span> utilizând un alt computer"
 
 msgid "no-internet-screen_guide-step-2"
 msgstr "Pasul 2"
 
 msgid "no-internet-screen_guide-step-2-action"
-msgstr ""
+msgstr "Descărcați <span class=\"bold\">DriverPack Offline Full</span> sau <span class=\"bold\">DriverPack Offline Network</span> pe o unitate flash USB pentru a instala driverele pe compluter fără conexiune la Internet <br /><br /> <span class=\"bold\">DriverPack Offline Network</span> include drivere pentru hardware-ul de rețea (Lan / Wi-Fi), funcționează fără conexiune la Internet (500 MB) <br /><br /> <span class=\"bold\">DriverPack Offline Full</span>  include toate driverele, funcționează fără conexiune la Internet"
 
 msgid "no-internet-screen_guide-step-complete"
 msgstr "Finalizare"
 
 msgid "no-internet-screen_guide-step-complete-action"
-msgstr ""
+msgstr "Porniți aplicația pe acest computer și configurați-o cu un singur click"
 
 msgid "programs_header_text_title"
 msgstr "Toate softwarele utile într-un singur loc"
@@ -1053,13 +1053,13 @@ msgid "drivers_program_counter"
 msgstr "Software recomandat"
 
 msgid "protect_popup_title"
-msgstr ""
+msgstr "Configurația de securitate a computerului"
 
 msgid "protect_popup_install_button"
 msgstr "Instalează"
 
 msgid "protect_popup_cancel_button"
-msgstr ""
+msgstr "Refuză"
 
 msgid "protect_row_rating"
 msgstr "Evaluare:"
@@ -1092,43 +1092,43 @@ msgid "protect_uninstall_single"
 msgstr "şterge"
 
 msgid "protect_clean_up_btn"
-msgstr ""
+msgstr "Protejați și curățați computerul"
 
 msgid "protect_remove_all_btn_uninstalling"
-msgstr ""
+msgstr "Aceste programe suspecte vor fi eliminate: {{COUNT}}"
 
 msgid "protect_remove_all_btn_installing"
-msgstr ""
+msgstr "Aceste programe importante vor fi instalate: {{COUNT}}"
 
 msgid "protect_installed-programs_api_failed"
-msgstr ""
+msgstr "Fără conexiune la Internet. Este necesară conectarea la rețea pentru a vizualiza lista de programe de pe computer."
 
 msgid "protect_installed-programs_no_harmful"
-msgstr ""
+msgstr "Nu a fost detectat nici un software nedorit pe calculatorul dvs."
 
 msgid "protect_clean_up_header_title"
-msgstr ""
+msgstr "DriverPack Protect — protecție și curățare pentru computerul dvs."
 
 msgid "protect_clean_up_header_caption"
-msgstr ""
+msgstr "DriverPack Protect va curăța software-ul nedorit și va oferi protecție pentru calculatorului dvs. ca o completare a capabilităților antivirusului, cum ar fi: detectarea, eliminarea și blocarea programelor malware și a reclamelor intruzive"
 
 msgid "protect_installed_programs_title"
-msgstr ""
+msgstr "Software instalat pe calculator"
 
 msgid "protect_installed_programs_switch"
-msgstr ""
+msgstr "Afișați numai software-ul suspicios"
 
 msgid "protect_show_more"
 msgstr "Vezi mai multe"
 
 msgid "protect_security_programs_title"
-msgstr ""
+msgstr "Software important pentru securitate"
 
 msgid "settings-header_title"
 msgstr "Setări pentru utilizatorii avansați"
 
 msgid "settings-header_caption"
-msgstr ""
+msgstr "DriverPack a fost creat special pentru administratori, dar este clar și convenabil chiar și pentru utilizatorii începători. Prin utilizarea acestuia, milioane de administratori de sistem din întreaga lume nu își configurează doar rapid computerele, ci își pot personaliza și DriverPack în funcție de propriile nevoi și sarcini. Noul algoritm de selecție instalează driverele ce permit dispozitivelor să funcționeze la eficiență maximă. Încercați DriverPack — suntem siguri că o să vă placă!"
 
 #. i18n: EN: default value for {{MODEL}} in start_title key; RU: значение по
 #. умолчанию для {{MODEL}} в ключе start_title
@@ -1142,7 +1142,7 @@ msgid "start_button_install"
 msgstr "Configurați automat computerul"
 
 msgid "start_caption"
-msgstr ""
+msgstr "DriverPack va scana sistemul, va instala<br/>driverele și software-ul necesar, și va efectua diagnostice. <br/>Eficiența calculatorului ar trebui să crească."
 
 msgid "start_expert_mode"
 msgstr "Mod Expert"
@@ -1163,7 +1163,7 @@ msgstr[1] "{{COUNT}} aplicații vor fi instalate"
 msgstr[2] "{{COUNT}} aplicații vor fi instalate"
 
 msgid "start_programs_popover"
-msgstr ""
+msgstr "Următoarele programe software gratuite recomandate au fost selectate pentru computerul dvs.: antivirusuri, arhive, browsere și seturi de instrumente pentru drivere — tot ceea ce ar putea fi util pentru o operare confortabilă."
 
 msgid "start_diagnostics_title"
 msgstr "Diagnosticarea va fi făcută"
@@ -1208,49 +1208,49 @@ msgid "installation_header_promo_title_cloud"
 msgstr "Ceva nou: DriverPack Cloud Beta"
 
 msgid "installation_header_promo_text_cloud"
-msgstr ""
+msgstr "Noul nostru instrument prezice unele defecțiuni datorită tehnologiei machine learning, și sugerează soluții pentru problemele obișnuite.<br>Încercați versiunea beta și nu uitați să împărtășiți impresiile dvs. — ne va ajuta să îmbunătățim DriverPack Cloud și să îl facem chiar și mai util."
 
 msgid "installation_header_promo_title_avast"
 msgstr "Ce face Avast mai bun decât alte antivirusuri?"
 
 msgid "installation_header_promo_text_avast"
-msgstr ""
+msgstr "Avast este unul dintre cele mai populare antivirusuri din lume pentru că protejează bine calculatorul, nu încetinește sistemul și poate funcționa eficient ca un antivirus suplimentar. <br />  Chiar mai bine, este gratuit, deci merită cu adevărat recomandarea noastră."
 
 msgid "installation_header_promo_title_catalog"
 msgstr "Cum să găseşti drivere de unul singur?"
 
 msgid "installation_header_promo_text_catalog"
-msgstr ""
+msgstr "Pentru cei care preferă căutarea manuală a driverelor, am creat un motor de căutare special care vă permite să găsiți drivere prin introducerea unui DeviceID sau a unui nume. Baza de date a aceastui motor de căutare conține mai mult de un milion de drivere, ceea ce îl face cel mai mare din lume. Acest motor de căutare este extins în mod regulat cu drivere noi, care au fost testate manual, ceea ce îi permite să rămână pe deplin actualizat."
 
 msgid "installation_header_promo_title_authorization"
 msgstr "Conectați-vă pentru a salva setările"
 
 msgid "installation_header_promo_text_authorization"
-msgstr ""
+msgstr "Ca utilizator autentificat, nu va mai trebui să reglați din nou setările pe fiecare computer —  acestea vor fi salvate la nivelul profilului și activate automat pe orice alt dispozitiv. Utilizatorii conectați primesc, de asemenea, acces la serverele CDN ce contribuie la viteze mai mari de descărcare a driverului. Un alt avantaj important al conectării este accesul la setările extinse care vă permit să personalizați aplicația chiar mai mult în funcție de nevoile dvs."
 
 msgid "installation_header_promo_title_opera"
 msgstr "Ce este bun la browser-ul Opera ?"
 
 msgid "installation_header_promo_text_opera"
-msgstr ""
+msgstr "Opera este un browser ce s-a dovedit sigur in timp, care are o serie de tehnologii inovatoare, inclusiv un VPN încorporat, AdBlock ce elimină publicitatea intruzivă, și opțiunea de a viziona videoclipul într-o fereastră separată. În plus, cea mai recentă versiune a acestui browser descarcă de pe toate site-urile cu 13% mai rapid decât cele anterioare, ceea ce face ca Opera să fie cel mai rapid browser în acest moment."
 
 msgid "installation_header_promo_title_how_it_works"
 msgstr "Cum funcționează DriverPack?"
 
 msgid "installation_header_promo_text_how_it_works"
-msgstr ""
+msgstr "Activitatea aplicației începe cu diagnosticarea în care software-ul însuși determină dispozitivele care necesită instalarea sau actualizarea driverelor. Datorită tehnologiei sale machine learning, DriverPack selectează exact acele drivere ce pot oferi cea mai mare eficiență. Pentru ca aplicația noastră să fie capabilă să configureze orice computer, am adunat cea mai mare bază de date de drivere din lume ce include mai mult de un milion de drivere. În plus, folosim servere de mare viteză și tehnologie Cloud, care permite configurarea atât de înaltă calitate, cât și rapidă a calculatorului dvs. "
 
 msgid "installation_header_promo_title_win_10"
 msgstr "De ce ar trebui să actualizați driverele în Windows 10?"
 
 msgid "installation_header_promo_text_win_10"
-msgstr ""
+msgstr "Există un mit cum că Windows 10 este capabil să instaleze corect toate driverele necesare pe computer singur. Din păcate, nu este adevărat — în majoritatea cazurilor, Windows 10 instalează numai driverele standard, fără a le selecta individual pentru fiecare dispozitiv. În ceea ce privește driverele rare și învechite, adesea nu le au. Din fericire, există DriverPack care selectează driverele mult mai profund.<br /><br />"
 
 msgid "installation_header_promo_title_social"
 msgstr "Alătură-te comunității DriverPack"
 
 msgid "installation_header_promo_text_social"
-msgstr ""
+msgstr "În grupurile noastre publice răspundem mereu întrebărilor dvs. despre software, împărtășim informații despre actualizările și tehnologiile noastre, și vă comunicăm știri și trenduri semnificative din industria IT."
 
 msgid "installation_header_promo_title_protect"
 msgstr "Cum ajută DriverPack Protect computerul?"
@@ -1268,13 +1268,13 @@ msgid "installation_header_promo_title_browsers"
 msgstr "Un alt browser bun nu poate fi în plus"
 
 msgid "installation_header_promo_text_browsers"
-msgstr ""
+msgstr "Potrivit datelor statistice, mai mult de 70% dintre utilizatori folosesc cel puțin două browsere ceea ce este destul de logic pentru cei activi pe Internet. Fiecare browser pe care sugerăm să îl instalați are propriile sale avantaje: Yandex.Browser este perfect pentru operarea pe Internet în limba rusă; oamenii aleg Opera.Browser pentru capacitatea de a vizita orice site web ușor și anonim prin utilizarea VPN; iar armata susținătorilor Firefox nu se poate despărți de toate plug-in-urile și extensiile adunate pentru o mai bună experiență pe Internet. De ce să nu le avem pe toate disponibile și la îndemână? Acestea nu încetinesc calculatorul și pot fi de ajutor în a sparge diferite componente ale muncii dvs., de exemplu."
 
 msgid "installation_header_promo_title_driverpack_for_all"
 msgstr "DriverPack se va potrivi pe orice computer"
 
 msgid "installation_header_promo_text_driverpack_for_all"
-msgstr ""
+msgstr "Am creat instrumentul ce permite configurarea oricăror calculatoare complet automat. DriverPack conține mai mult de un milion de drivere, ceea ce permite configurarea oricărui computer cu un singur buton. În consecință, veți obține drivere și utilitare instalate, software-uri selecționate cu grijă (care este partea integrată a configurării), precum și diagnosticarea computerului dvs. Acest lucru înseamnă că DriverPack configurează rapid întregul computer la eficiență maximă printr-un singur click."
 
 msgid "softcategories_archiver-single-for"
 msgstr "arhivator fișiere"
@@ -1316,16 +1316,16 @@ msgid "installation_application_restart_confirm_title"
 msgstr "Recomandări"
 
 msgid "deviceproblems_usb_connection"
-msgstr ""
+msgstr "Este imposibil să instalați orice driver pe acest dispozitiv din cauza problemelor de conectare la portul USB. Pentru a rezolva această problemă, încercați să reconectați dispozitivele USB sau să înlocuiți cablurile de conectate. Dacă acest lucru nu ajută, este posibil să existe unele probleme operaționale cu porturile sau cu dispozitivele în sine."
 
 msgid "deviceproblems_root_legacy"
-msgstr ""
+msgstr "Acest dispozitiv nu este în sistemul dvs., dar urme ale acestuia au rămas în sistem după ce suportul software-ului a fost eliminat. Pentru a rezolva această problemă, trebuie să ștergeți orice mențiune despre acest dispozitiv din registri, fie manual, fie utilizând utilitare specifice."
 
 msgid "deviceproblems_vpn_no_need_drivers"
 msgstr "Nu este necesară instalarea driverului pentru acest dispozitiv virtual VPN"
 
 msgid "deviceproblems_damaged_system_driver"
-msgstr ""
+msgstr "Acesta este un driver standard de sistem deteriorat din anumite motive sau este absent în versiunea dvs. Windows. Unul dintre motivele posibile ar putea fi o versiune piratată de Windows, sau pierderea fișierului ca efect secundar în urma impactului unor programe sau viruși. Pentru a rezolva această problemă, trebuie să instalați o versiune Windows complet licențiată"
 
 msgid "deviceproblems_usb_unknown_vendor"
 msgstr "Acest dispozitiv USB conectat a fost instalat, dar producătorul acestuia nu a putut fi determinat. Pentru a remedia acest lucru, trebuie să alocați pornirea automată pentru serviciul Windows Driver Foundation. Accesați tabul Computer Management → tabul Services → tabul Windows Driver Foundation, și apoi alegeți opțiunea 'Startup Type: Automatic'"

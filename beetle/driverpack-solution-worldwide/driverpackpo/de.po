@@ -2,7 +2,8 @@
 # Translators:
 # Andreas Jacob <janetworkx@googlemail.com>, 2017
 # Kai Borchert <kai.borchert@outlook.com>, 2016-2017
-# Nadia Tegeneva <nadia@drp.su>, 2017
+# Nadia Tegeneva <nadia@drp.su>, 2017-2018
+# Patrick Wacker <crayzyone@gmail.com>, 2018
 # thor macha <machalowskithorsten@googlemail.com>, 2017
 # Артур Кузяков <artx@drp.su>, 2016
 msgid ""
@@ -10,7 +11,7 @@ msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-11-27 10:29+0000\n"
-"PO-Revision-Date: 2017-12-22 11:33+0000\n"
+"PO-Revision-Date: 2018-01-27 12:43+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: German (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/de/)\n"
 "MIME-Version: 1.0\n"
@@ -143,10 +144,10 @@ msgid "deviceclasses_printer-single-for"
 msgstr "Drucker"
 
 msgid "deviceclasses_printer-plural-main"
-msgstr ""
+msgstr "Drucker"
 
 msgid "deviceclasses_printer-plural-for"
-msgstr ""
+msgstr "Drucker"
 
 msgid "deviceclasses_sound-single-main"
 msgstr "Soundkarte"
@@ -989,7 +990,7 @@ msgid "menu_protect_title"
 msgstr "Assistent für Ihren Antivirus"
 
 msgid "menu_protect_clean_up"
-msgstr ""
+msgstr "Sicherheit und Bereinigung"
 
 msgid "menu_computer_diagnostics"
 msgstr "Diagnose des Computerzustandes"
@@ -1022,40 +1023,40 @@ msgid "no-internet-screen_guide-step-1"
 msgstr "Schritt 1"
 
 msgid "no-internet-screen_guide-step-1-action"
-msgstr ""
+msgstr "Gehe zu <span class=\"bold\">driverpack.io/de/foradmin</span> über einen anderen Computer"
 
 msgid "no-internet-screen_guide-step-2"
 msgstr "Schritt 2"
 
 msgid "no-internet-screen_guide-step-2-action"
-msgstr ""
+msgstr "Downloade <span class=\"bold\">DriverPack Offline Full</span> oder <span class=\"bold\">DriverPack Offline Network</span> auf einen USB-Stick um die Treiber auf deinem Computer ohne Internetverbindung zu installieren <br /><br /> <span class=\"bold\">DriverPack Offline Network</span> Beinhaltet Treiber für Netzwerkhardware (Lan/Wi-Fi), funktioniert ohne eine Internetverbindung (500MB) <br /><br /> <span class=\"bold\">DriverPack Offline Full</span> Beinhaltet alle Treiber, funktioniert ohne eine Internetverbindung"
 
 msgid "no-internet-screen_guide-step-complete"
 msgstr "Fertig"
 
 msgid "no-internet-screen_guide-step-complete-action"
-msgstr ""
+msgstr "Starte die App auf diesem Computer und konfiguriere sie mit einem Klick"
 
 msgid "programs_header_text_title"
 msgstr "Alle nützlichen Programme an einem Ort"
 
 msgid "programs_btn_install_all"
-msgstr ""
+msgstr "Installiere die erforderlichen Softwareprogramme <b>({{COUNT}})</b>"
 
 msgid "programs_header_text_caption"
-msgstr ""
+msgstr "Es gibt keine Notwendigkeit mehr, eins nach dem anderen, nach den Softwareprogrammen zu suchen. Sie können ganz einfach alles mit einem Klick installieren. "
 
 msgid "drivers_program_counter"
 msgstr "Empfohlene Software"
 
 msgid "protect_popup_title"
-msgstr ""
+msgstr "Ihre Computer-Sicherheitskonfiguration"
 
 msgid "protect_popup_install_button"
 msgstr "Installieren"
 
 msgid "protect_popup_cancel_button"
-msgstr ""
+msgstr "Ablehnen"
 
 msgid "protect_row_rating"
 msgstr "Bewertung:"
@@ -1088,43 +1089,43 @@ msgid "protect_uninstall_single"
 msgstr "Entfernen"
 
 msgid "protect_clean_up_btn"
-msgstr ""
+msgstr "Schütze und bereinige den Computer"
 
 msgid "protect_remove_all_btn_uninstalling"
-msgstr ""
+msgstr "Diese verdächtige Software wird entfernt: {{COUNT}}"
 
 msgid "protect_remove_all_btn_installing"
-msgstr ""
+msgstr "Diese wichtige Software wird installiert: {{COUNT}}"
 
 msgid "protect_installed-programs_api_failed"
-msgstr ""
+msgstr "Keine Internetverbindung. Eine Netzwerkverbindung wird benötigt um die Softwareliste auf deinem Computer anzuzeigen."
 
 msgid "protect_installed-programs_no_harmful"
-msgstr ""
+msgstr "Keine unerwünschte Software wurde auf ihrem Computer gefunden"
 
 msgid "protect_clean_up_header_title"
-msgstr ""
+msgstr "DriverPack Protect — Sicherheit und Bereinigung ihres Computers"
 
 msgid "protect_clean_up_header_caption"
 msgstr ""
 
 msgid "protect_installed_programs_title"
-msgstr ""
+msgstr "Auf dem Computer installierte Software"
 
 msgid "protect_installed_programs_switch"
-msgstr ""
+msgstr "Nur verdächtige Software anzeigen"
 
 msgid "protect_show_more"
 msgstr "Mehr anzeigen"
 
 msgid "protect_security_programs_title"
-msgstr ""
+msgstr "Wichtige Software für die Sicherheit"
 
 msgid "settings-header_title"
 msgstr "Einstellungen für die fortgeschrittenen Benutzer"
 
 msgid "settings-header_caption"
-msgstr ""
+msgstr "DriverPack wurde speziell für Administratoren erstellt, ist aber klar und bequem auch für unerfahrene Benutzer. Damit können Millionen von Systemadministratoren weltweit ihre Computer nicht nur schnell konfigurieren, sondern auch DriverPack nach Ihren eigenen Bedürfnissen und Aufgaben anpassen. Der neue Auswahlalgorithmus installiert Treiber, mit denen Ihre Geräte mit maximaler Effizienz betrieben werden können. Versuchen Sie DriverPack — wir sind sicher, Sie werden es mögen!"
 
 #. i18n: EN: default value for {{MODEL}} in start_title key; RU: значение по
 #. умолчанию для {{MODEL}} в ключе start_title
@@ -1138,7 +1139,7 @@ msgid "start_button_install"
 msgstr "Computer automatisch konfigurieren"
 
 msgid "start_caption"
-msgstr ""
+msgstr "DriverPack scannt das System, installiert die erforderlichen<br/>Treiber und Programme, und führt eine Diagnose durch. <br/>Die Effizienz des Computers sollte zunehmen."
 
 msgid "start_expert_mode"
 msgstr "Expertenmodus"
@@ -1149,7 +1150,7 @@ msgstr[0] "{{COUNT}} Treiber wird installiert"
 msgstr[1] "{{COUNT}} Treiber werden installiert"
 
 msgid "start_drivers_popover"
-msgstr ""
+msgstr "Die Treiber für Ihren Computer wurden ausgewählt und sind für die Installation bereit. Vor dem Start der Installation wird ein Wiederherstellungspunkt erstellt."
 
 msgid "start_programs_title"
 msgid_plural "start_programs_title_n"
@@ -1157,13 +1158,13 @@ msgstr[0] "{{COUNT}} App wird installiert"
 msgstr[1] "{{COUNT}} Apps werden installiert"
 
 msgid "start_programs_popover"
-msgstr ""
+msgstr "Die folgenden kostenlosen empfohlenen Programme wurden für Ihren Computer ausgewählt: Antivirenprogramme, Archivierer, Browser und Treiber-Toolkits — alles, was für einen komfortablen Betrieb hilfreich sein könnte."
 
 msgid "start_diagnostics_title"
 msgstr "Diagnose wird durchgeführt"
 
 msgid "start_diagnostics_popover"
-msgstr ""
+msgstr "Sobald die Installation und der Neustart des Systems abgeschlossen sind, startet DriverPack die Diagnose, um zu überprüfen, ob alle Geräte mit maximaler Effizienz betrieben werden."
 
 msgid "start_diagnostics_network"
 msgstr "Netzwerkverbindungs-Check"
@@ -1202,37 +1203,37 @@ msgid "installation_header_promo_title_cloud"
 msgstr "Etwas neues: DriverPack Cloud Beta"
 
 msgid "installation_header_promo_text_cloud"
-msgstr ""
+msgstr "Unser neues Tool prognostiziert einige Ausfälle aufgrund der Technologie des maschinellen Lernens und schlägt Lösungen für häufige Probleme vor.<br>Probieren Sie die Beta-Version und vergessen Sie nicht, Ihre Eindrücke zu teilen — es wird uns helfen, DriverPack Cloud zu verbessern und es noch nützlicher zu machen."
 
 msgid "installation_header_promo_title_avast"
 msgstr "Was macht Avast besser als andere Antiviren-Programme?"
 
 msgid "installation_header_promo_text_avast"
-msgstr ""
+msgstr "Avast ist eines der beliebtesten Antiviren in der Welt, weil es den Computer gut schütz, das System nicht verlangsamt und man es effektiv als zusätzliches Antiviren betreiben kann. <br /> Noch besser, es ist kostenlos, so dass es wirklich unsere Empfehlung verdient."
 
 msgid "installation_header_promo_title_catalog"
 msgstr "Wie findet man selber Treiber?"
 
 msgid "installation_header_promo_text_catalog"
-msgstr ""
+msgstr "Für diejenigen, die lieber manuell nach Treibern suchen, haben wir eine spezielle Suchmaschine erstellt, die es Ihnen ermöglicht, Treiber zu finden, indem Sie eine DeviceID oder einen Namen eingeben. Diese Suchmaschinen-Datenbank enthält mehr als eine Million Treiber, die es zu der größten in der Welt machen. Diese Suchmaschine wird regelmäßig mit neuen, manuell getesteten Treibern erweitert, so dass Sie vollständig auf dem neuesten Stand bleiben kann."
 
 msgid "installation_header_promo_title_authorization"
 msgstr "Anmelden, um die Einstellungen zu speichern"
 
 msgid "installation_header_promo_text_authorization"
-msgstr ""
+msgstr "Als angemeldeter Benutzer müssen Sie die Einstellungen auf jedem Computer nicht mehr ändern — Sie werden auf der Profilebene gespeichert und automatisch auf einem anderen Gerät aktiviert. Angemeldete Benutzer erhalten auch Zugriff auf die CDN-Server, die zu schnelleren Treiber Download Geschwindigkeiten beitragen. Ein weiterer wichtiger Vorteil der Anmeldung ist der Zugriff auf die erweiterten Einstellungen, mit denen Sie die App nach Ihren Anforderungen noch besser anpassen können."
 
 msgid "installation_header_promo_title_opera"
 msgstr "Was ist gut am Opera Browser?"
 
 msgid "installation_header_promo_text_opera"
-msgstr ""
+msgstr "Opera ist eine sichere Zeit-bewährter Browser, der eine Reihe von innovativen Technologien, einschließlich einer eingebetteten VPN, Adblock, die aufdringliche Werbung eliminiert, und die Möglichkeit, Video in einem separaten Fenster zu sehen hat. Außerdem downloadet die späteste Version dieses Browsers alle Web Site 13% schneller als die vorhergehenden, was Opera zum schnellsten Browser zu dieser Zeit macht."
 
 msgid "installation_header_promo_title_how_it_works"
 msgstr "Wie arbeitet DriverPack?"
 
 msgid "installation_header_promo_text_how_it_works"
-msgstr ""
+msgstr "Der App-Vorgang beginnt mit der Diagnose, während der die Software selbst festlegt, welche Gerätetreiber installiert oder aktualisiert werden müssen. Durch seine maschinelle Lerntechnologie wählt DriverPack genau jene Treiber, die die höchste Leistungsfähigkeit zur Verfügung stellen können. Damit unsere App in der Lage ist, jeden Computer zu konfigurieren, haben wir die größte Treiberdatenbank der Welt zusammengestellt, die mehr als eine Million Treiber umfasst. Darüber hinaus verwenden wir High-Speed-Server und Cloud-Technologie, die es ermöglicht, die Konfiguration Ihres Computers sowohl hoch Qualitativ als auch schnell zu machen."
 
 msgid "installation_header_promo_title_win_10"
 msgstr "Warum sollten Sie Treiber unter Windows 10 aktualisieren?"
