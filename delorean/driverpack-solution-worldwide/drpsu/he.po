@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-01-11 11:55+0000\n"
+"POT-Creation-Date: 2018-02-07 13:21+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Alexander Boglachov <alexbog98@gmail.com>, 2017\n"
 "Language-Team: Hebrew (https://www.transifex.com/driverpack-solution/teams/75453/he/)\n"
@@ -50,6 +50,12 @@ msgstr "הורד DriverPack Online"
 
 msgid "buttonsplitdropdown_main-button"
 msgstr "הורד"
+
+msgid "cloudfaq_landing-title"
+msgstr "אנו עונים על שאלותיכם"
+
+msgid "cloudpagefooter_license-link"
+msgstr "הסכם רישיון"
 
 msgid "breadcrumbs_main-text"
 msgstr "עמוד הבית"
@@ -341,9 +347,6 @@ msgstr "תוכנת DriverPack תתקין דרייברים בחינם, ותפתו
 msgid "landingheader_cta-btn"
 msgstr "התקן את כל הדרייברים הנחוצים"
 
-msgid "landingheadernav_badrabbit"
-msgstr "הגנה כנגד הוירוס Bad Rabbit"
-
 msgid "landingheadernav_search"
 msgstr "חיפוש דרייבר"
 
@@ -384,7 +387,7 @@ msgid "landingproducts_item-title-online"
 msgstr "DriverPack Online"
 
 msgid "landingproducts_item-description-online"
-msgstr "החבילה יורדת מיידית, מורידה ומתקינה את כל הדרייברים הנחוצים אם יש לך חיבור אינטרנט תקין <span class='nobr'>({{SIZE}})</span>"
+msgstr ""
 
 msgid "landingproducts_item-version"
 msgstr "גירסה:"
@@ -528,7 +531,7 @@ msgid "reviewheader_cta-text"
 msgstr "הצטרפו לקהילת DriverPack ברשתות החברתיות כדי להתעדכן בחדשות על המוצר ולקחת חלק בדיונים"
 
 msgid "reviewheader_cta"
-msgstr "אנא השאירו דעות/ הצעות שיעזרו לשפר את DriverPack"
+msgstr ""
 
 msgid "search_input-placeholder"
 msgstr "חפשו את שם מנהל ההתקנים, מחשב נייד או DeviceID"
@@ -905,6 +908,24 @@ msgstr "יש לי דרייבר שלא הותקן כראוי ויש בעיות ב
 msgid "adminpagefaq_stable-a"
 msgstr "הדבר שנמצא בעדיפות עליונה בתוכנת DriverPack הוא יציבות המערכת. אבל, לעיתים נדירות יש גם כשלונות קטנים. זו הסיבה שלפני התקנה של כל דרייבר אנו יוצרים נקודת שחזור המאפשרת לך לשחזר את המערכת לנקודת הזמן שלפני ההתקנהץ בכדי למנוע בעיות דומות בעתיד, אנו ממליצים שתשלח לנו דוח באמצעות תפריט DriverPack. הדוח יווצר וישלח למחלקה הטכנית שלנו, אוטומטית."
 
+msgid "cloudpagefaq_remove_soft-q"
+msgstr ""
+
+msgid "cloudpagefaq_remove_soft-a"
+msgstr ""
+
+msgid "cloudpagefaq_notifications-q"
+msgstr ""
+
+msgid "cloudpagefaq_notifications-a"
+msgstr ""
+
+msgid "cloudpagefaq_usb-q"
+msgstr ""
+
+msgid "cloudpagefaq_usb-a"
+msgstr ""
+
 msgid "badrabbitpromopage_cta-text"
 msgstr ""
 
@@ -934,6 +955,51 @@ msgstr "פיתוח הפתרון התבסס על המאמרים הבאים"
 
 msgid "badrabbitpromopage_link-smb"
 msgstr "איך לאפשר ולבטל את כל הגירסאות (1,2,3) של פרוטוקול SMB בWindows ובשרתי Windows"
+
+msgid "cloudlandingpage_cackle-title"
+msgstr ""
+
+msgid "cloudlandingpage_cackle-caption"
+msgstr ""
+
+msgid "cloudlandingpage_header-title"
+msgstr ""
+
+msgid "cloudlandingpage_about-what-is-title"
+msgstr ""
+
+msgid "cloudlandingpage_about-what-is-caption"
+msgstr ""
+
+msgid "cloudlandingpage_about-how-works-title"
+msgstr ""
+
+msgid "cloudlandingpage_about-how-works-caption"
+msgstr ""
+
+msgid "cloudlandingpage_features-monitoring"
+msgstr ""
+
+msgid "cloudlandingpage_features-safety"
+msgstr ""
+
+msgid "cloudlandingpage_features-cloud"
+msgstr ""
+
+msgid "cloudlandingpage_uninstall-title"
+msgstr ""
+
+msgid "cloudlandingpage_uninstall-caption"
+msgstr ""
+
+msgid "cloudlandingpage_license"
+msgstr ""
+
+msgid "cloudlandingpage_features-install"
+msgstr ""
+
+msgid "cloudlandingpage_license-link"
+msgstr "הסכם רישיון"
 
 msgid "devicegrouppage_show-more-link"
 msgstr "הצג עוד"
@@ -1015,11 +1081,19 @@ msgstr "הצג עוד"
 msgid "thankyoupopup_download-text"
 msgstr "ההורדה לא התחילה? לחץ כאן עבור {{LINK}}"
 
+#. i18n: EN: text for {{LINK}} is in key thankyoupopup_licence-link; RU: текст
+#. для {{LINK}} находится в ключе thankyoupopup_licence-link;
+msgid "thankyoupopup_licence-text"
+msgstr ""
+
 msgid "thankyoupopup_title"
 msgstr "הפעל את DriverPack"
 
 msgid "thankyoupopup_cta-text"
 msgstr "בחר והתקן דרייברים ישירות על מחשב שלך"
+
+msgid "thankyoupopup_licence-link"
+msgstr "הסכם רישיון"
 
 msgid "thankyoupopup_download-link"
 msgstr "הורדה"
@@ -1095,3 +1169,18 @@ msgstr "פיתוח הפתרון התבסס על המאמרים הבאים"
 
 msgid "wannacryptpromopage_link-smb"
 msgstr "איך לאפשר ולבטל את כל הגירסאות (1,2,3) של פרוטוקול SMB בWindows ובשרתי Windows"
+
+#~ msgid "cloudpagefooter_download"
+#~ msgstr ""
+
+#~ msgid "cloudlandingpage_download"
+#~ msgstr "הורד"
+
+#~ msgid "cloudnewlandingpage_license"
+#~ msgstr ""
+
+#~ msgid "cloudnewlandingpage_license-link"
+#~ msgstr "הסכם רישיון"
+
+#~ msgid "landingheadernav_badrabbit"
+#~ msgstr "הגנה כנגד הוירוס Bad Rabbit"

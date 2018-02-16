@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-01-11 11:55+0000\n"
+"POT-Creation-Date: 2018-02-07 13:21+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>, 2017\n"
 "Language-Team: Greek (https://www.transifex.com/driverpack-solution/teams/75453/el/)\n"
@@ -48,6 +48,12 @@ msgstr "Λήψη του DriverPack Online"
 
 msgid "buttonsplitdropdown_main-button"
 msgstr "Λήψη"
+
+msgid "cloudfaq_landing-title"
+msgstr "Απαντάμε τις ερωτήσεις σας"
+
+msgid "cloudpagefooter_license-link"
+msgstr "Άδεια Χρήσης"
 
 msgid "breadcrumbs_main-text"
 msgstr "Αρχική Σελίδα"
@@ -339,9 +345,6 @@ msgstr "Το DriverPack θα εγκαταστήσει προγράμματα ο�
 msgid "landingheader_cta-btn"
 msgstr "Εγκατάσταση όλων των απαραίτητων προγραμμάτων οδήγησης"
 
-msgid "landingheadernav_badrabbit"
-msgstr "Προστασία έναντι του Κακού Κούνελου - Bad Rabbit"
-
 msgid "landingheadernav_search"
 msgstr "Αναζήτηση Προγραμμάτων οδήγησης"
 
@@ -526,7 +529,7 @@ msgid "reviewheader_cta-text"
 msgstr "Συμμετέχετε στην κοινότητα του DriverPack στα κοινωνικά δίκτυα για να ενημερώνεστε για νέα σχετικά με το προϊόν και λάβετε μέρος σε συζητήσεις"
 
 msgid "reviewheader_cta"
-msgstr "Πείτε τη γνώμη σας ή την πρότασή σας για τη βελτίωση του DriverPack"
+msgstr ""
 
 msgid "search_input-placeholder"
 msgstr "Αναζήτηση για το όνομα του προγράμματος οδήγησης, φορητού υπολογιστή ή DeviceID"
@@ -903,6 +906,24 @@ msgstr "Το πρόγραμμα οδήγησης δεν έχει εγκατασ�
 msgid "adminpagefaq_stable-a"
 msgstr "Η σταθερότητα λειτουργίας του λογισμικού DriverPack είναι μια από τις βασικές μας προτεραιότητες αλλά μικρά σφάλματα συμβαίνουν, αν και σπάνια. Για αυτό δημιουργούμε ένα σημείο επαναφοράς που θα σας επιτρέψει να επιστρέψετε στην προηγούμενη κατάσταση. Για να αποφύγουμε παρόμοιο πρόβλημα στο μέλλον, σας προτείνουμε να μεταβείτε στο Μενού DriverPack και στείλτε μια αναφορά που δημιουργείτε αυτόματα από το λογισμικό στιςτεχνικές μας υπηρεσίες."
 
+msgid "cloudpagefaq_remove_soft-q"
+msgstr "Γιατί το DriverPack Cloud προτείνει την απομάκρυνση λογισμικού από τον υπολογιστή μου;"
+
+msgid "cloudpagefaq_remove_soft-a"
+msgstr "Το λογισμικό με χαμηλή βαθμολογία είναι συνήθως διαφημιστικά ή ιοί, για αυτό το DriverPack Cloud προτείνει την απομάκρυνσή τους. Η βαθμολογία διαμορφώνεται στη βάση των προτιμήσεων των χρηστών — όσο απομακρύνουν αυτό ή εκείνο το λογισμικό, τόσο λιγότερο βαθμολογείται."
+
+msgid "cloudpagefaq_notifications-q"
+msgstr "Μετά την εγκατάσταση του DriverPack Cloud, άρχισα να λαμβάνω ειδοποιήσεις στην επιφάνεια εργασίας μου, Πως να τις απενεργοποιήσω;"
+
+msgid "cloudpagefaq_notifications-a"
+msgstr "Αυτές οι ειδοποιήσεις είναι απλά προτάσεις. Μπορείτε να διαγραφείτε από τη λήψη ειδοποιήσεων του συγκεκριμένου τύπου πατώντας το εικονίδιο κουδουνιού στην πάνω δεξιά γωνία κάθε ειδοποίησης."
+
+msgid "cloudpagefaq_usb-q"
+msgstr ""
+
+msgid "cloudpagefaq_usb-a"
+msgstr "Το DriverPack Cloud αποκαλύπτει τη σύνδεση νέων συσκευών και εξετάζει αν έχουν κατάλληλα προγράμματα οδήγησης. Αν το απαραίτητο πρόγραμμα οδήγησης λείπει, μπορεί να το εγκαταστήσει άμεσα — είναι απαραίτητο για τη σωστή λειτουργία της συσκεύης."
+
 msgid "badrabbitpromopage_cta-text"
 msgstr "Ο κρυπτογραφικός ιός Bad Rabbit — πως να προστατέψετε τον Η/Υ σας;"
 
@@ -932,6 +953,51 @@ msgstr "Η ανάπτυξη αυτής της λύσης βασίστηκε στ
 
 msgid "badrabbitpromopage_link-smb"
 msgstr "Πως να ενεργοποιήσετε και απενεργοποιήσετε 1, 2 και 3 των πρωτοκόλλων SMB για τα Windows και τα Windows Διακομιστή"
+
+msgid "cloudlandingpage_cackle-title"
+msgstr "Πείτε μας τη γνώμη σας για το DriverPack Cloud"
+
+msgid "cloudlandingpage_cackle-caption"
+msgstr "Σας αρέσει το DriverPack Cloud; Ποιές άλλες λειτουργίες θα θέλατε να προστεθούν σε αυτό; Πείτε μας."
+
+msgid "cloudlandingpage_header-title"
+msgstr "Το DriverPack Cloud είναι ένα νέο λογισμικό για να αυξήσει την αποτελεσματικότητα του υπολογιστή σας"
+
+msgid "cloudlandingpage_about-what-is-title"
+msgstr "Τι είναι το λογισμικό DriverPack Cloud;"
+
+msgid "cloudlandingpage_about-what-is-caption"
+msgstr "Είναι ένα νέο προϊόν λογισμικό από την ομάδα DriverPack, που έχει ως σκοπό την αύξηση της αποδοτικότητας του υπολογιστή σας χωρίς επιπλέον έξοδα ή αναβάθμιση του υλικού του υπολογιστή σας. Δεν είστε ευχαριστημένοι με τα CS: GO ή Dota 2 όπως λειτουργούν στον υπολογιστή σας; Δοκιμάστε το DriverPack Cloud!"
+
+msgid "cloudlandingpage_about-how-works-title"
+msgstr "Πώς λειτουργεί το DriverPack Cloud;"
+
+msgid "cloudlandingpage_about-how-works-caption"
+msgstr "Το προϊόν μας αναλύει την κατάσταση των προγραμμάτων οδήγησης στον υπολογιστή σας, αποκαλύπτει κάθε λογισμικό που επηρεάζει την αποτελεσματικότητα του υπολογιστή σας με τον ένα ή τον άλλο τρόπο και προτείνει την ενημέρωση των προγραμμάτων οδήγησης και την απομάκρυνση του λογισμικού που επιβραδύνει τον υπολογιστή σας, ή αντίθετα, προτείνει την εγκατάσταση προϊόντων τρίτων που θα σας βοηθήσει στην αύξηση της ταχύτητας λειτουργίας του υλικού σας. Η όλη διαδικασία είναι είναι υπό τον πλήρη έλεγχό σας – καμιά ενέργεια από το DriverPack Cloud δεν πραγματοποιείται χωρίς την έγκρισή σας"
+
+msgid "cloudlandingpage_features-monitoring"
+msgstr "Εποπτεύει την κατάσταση των προγραμμάτων οδήγησής σας, λαμβάνει σημαντικές ενημερώσεις και χαμένα προγράμματα οδήγησης από την τεράστια βάση δεδομένων του DriverPack"
+
+msgid "cloudlandingpage_features-safety"
+msgstr "Ενεργοποιεί την αποκάληψη και απομάκρυνση πιθανού κακόβουλου λογισμικού γρήγορα, και έτσι, βοηθάει το πρόγραμμα προστασίας από ιούς"
+
+msgid "cloudlandingpage_features-cloud"
+msgstr "Κάνει υπολογισμούς στην υπηρεσία Σύννεφου που εξοικονομεί πόρους από τον υπολογιστή σας"
+
+msgid "cloudlandingpage_uninstall-title"
+msgstr "Πως να απομακρύνεται το DriverPack Cloud πλήρως από τον υπολογιστή σας"
+
+msgid "cloudlandingpage_uninstall-caption"
+msgstr "Έχετε εγκαταστήσει το προϊόν μας αλλά δεν θέλετε να το χρησιμοποιήσετε; Πηγαίνετε στον Τομέα Λογισμικού του Πίνακα Ελέγχου και πατήστε στην Απομάκρυνση Λογισμικού. Βρείτε το DriverPack Cloud στη λίστα και απομακρύνετέ το ακολουθείστε τη συνήθη διαδικασία. Αυτό είναι όλο, το λογισμικό απομακρύνεται. Το DriverPack Cloud δεν αφήνει κανένα κρυφό λογισμικό μετά την απομάκρυνσή του, ούτε αφήνει σκουπίδια στον υπολογιστή σας με σκουπίδια διαφημίσεων."
+
+msgid "cloudlandingpage_license"
+msgstr "Πριν ξεκινήσετε την εγκατάσταση, διαβάστε την {{LINK}}"
+
+msgid "cloudlandingpage_features-install"
+msgstr "Εγκατάσταση του DriverPack Cloud"
+
+msgid "cloudlandingpage_license-link"
+msgstr "Άδεια Χρήσης"
 
 msgid "devicegrouppage_show-more-link"
 msgstr "Δείτε περισσότερα"
@@ -1013,11 +1079,19 @@ msgstr "Δείτε περισσότερα"
 msgid "thankyoupopup_download-text"
 msgstr "Η λήψη δεν ξεκίνησε; Πατήστε εδώ για {{LINK}}"
 
+#. i18n: EN: text for {{LINK}} is in key thankyoupopup_licence-link; RU: текст
+#. для {{LINK}} находится в ключе thankyoupopup_licence-link;
+msgid "thankyoupopup_licence-text"
+msgstr "Με την εγκατάσταση του λογισμικού, αποδέχεστε την {{LINK}}χρήσης"
+
 msgid "thankyoupopup_title"
 msgstr "Έναρξη του DriverPack"
 
 msgid "thankyoupopup_cta-text"
 msgstr "για να ξεκινήσετε να επιλέγετε και να εγκαταστήσετε τα προγράμματα οδήγησης στον υπολογιστή σας"
+
+msgid "thankyoupopup_licence-link"
+msgstr "Άδεια Χρήσης"
 
 msgid "thankyoupopup_download-link"
 msgstr "λήψη"
@@ -1093,3 +1167,18 @@ msgstr "Η ανάπτυξη αυτής της λύσης βασίστηκε στ
 
 msgid "wannacryptpromopage_link-smb"
 msgstr "Πως να ενεργοποιήσετε και απενεργοποιήσετε 1, 2 και 3 των πρωτοκόλλων SMB για τα Windows και τα Windows Διακομιστή"
+
+#~ msgid "cloudpagefooter_download"
+#~ msgstr "Λήψη του DriverPack Cloud"
+
+#~ msgid "cloudlandingpage_download"
+#~ msgstr "Λήψη"
+
+#~ msgid "cloudnewlandingpage_license"
+#~ msgstr "Πριν ξεκινήσετε την εγκατάσταση, διαβάστε την {{LINK}}"
+
+#~ msgid "cloudnewlandingpage_license-link"
+#~ msgstr "Άδεια Χρήσης"
+
+#~ msgid "landingheadernav_badrabbit"
+#~ msgstr "Προστασία έναντι του Κακού Κούνελου - Bad Rabbit"

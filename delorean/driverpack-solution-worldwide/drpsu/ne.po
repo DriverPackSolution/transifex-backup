@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-01-11 11:55+0000\n"
+"POT-Creation-Date: 2018-02-07 13:21+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: sangharsha dahal <sangharshadahal58@gmail.com>, 2017\n"
 "Language-Team: Nepali (https://www.transifex.com/driverpack-solution/teams/75453/ne/)\n"
@@ -45,6 +45,12 @@ msgstr "DriverPack Online डाउनलाेड"
 
 msgid "buttonsplitdropdown_main-button"
 msgstr "डाउनलाेड"
+
+msgid "cloudfaq_landing-title"
+msgstr "हामी तपाईंको प्रश्नको जवाफ दिन्छौं "
+
+msgid "cloudpagefooter_license-link"
+msgstr "इजाजतपत्र सम्झौता"
 
 msgid "breadcrumbs_main-text"
 msgstr "होम पेज"
@@ -336,9 +342,6 @@ msgstr "DriverPack ड्राफ्टहरू नि: शुल्क स्
 msgid "landingheader_cta-btn"
 msgstr "सबै आवश्यक ड्राइभरहरू स्थापना गर्नुहोस्"
 
-msgid "landingheadernav_badrabbit"
-msgstr "विरुद्ध सुरक्षा Bad Rabbit"
-
 msgid "landingheadernav_search"
 msgstr "चालक खोजी"
 
@@ -379,7 +382,7 @@ msgid "landingproducts_item-title-online"
 msgstr "DriverPack Online"
 
 msgid "landingproducts_item-description-online"
-msgstr "यो तुरुन्त डाउनलोड हुन्छ, यदि तपाइँसँग इन्टरनेट जडान छ भने यस्ले सबै चालकहरू डाउनलोड गर्छ र स्थापना गर्छ    <span class='nobr'>({{SIZE}})</span>"
+msgstr ""
 
 msgid "landingproducts_item-version"
 msgstr "संस्करण:"
@@ -523,7 +526,7 @@ msgid "reviewheader_cta-text"
 msgstr "DriverPack समुदायमा सामेल नेटवर्कमा सामेल हुनुहोस् छलफलका बारेमा छलफल र छलफल"
 
 msgid "reviewheader_cta"
-msgstr "आफ्नो ड्राइभर थप्नुहोस् DriverPack"
+msgstr ""
 
 msgid "search_input-placeholder"
 msgstr "चालक, laptop वा DeviceID नाम खोज्नुहोस्"
@@ -900,6 +903,24 @@ msgstr "ड्राइभरले राम्ररी स्थापना 
 msgid "adminpagefaq_stable-a"
 msgstr "DriverPack सफ्टवेयरको अपरेशन स्थिरता हाम्रो मुख्य प्राथमिकता मध्ये एक हो तर सानो नाफा अझै पनि हुन्छ, तर तिनीहरू दुर्लभ छन्। यसैले हामी एक पुनर्स्थापना बिन्दु सिर्जना गर्दछौं भविष्यमा समान समस्यालाई रोक्नको लागि, हामी सिफारिस गर्दछौं कि तपाइँ DriverPack मेनुमा जानुहोस् र रिपोर्ट पठाउनुहोस् जुन स्वचालित रूपमा सफ्टवेयर सिर्जना गर्नेछ, हाम्रो प्राविधिक सेवाहरूमा।"
 
+msgid "cloudpagefaq_remove_soft-q"
+msgstr ""
+
+msgid "cloudpagefaq_remove_soft-a"
+msgstr ""
+
+msgid "cloudpagefaq_notifications-q"
+msgstr ""
+
+msgid "cloudpagefaq_notifications-a"
+msgstr ""
+
+msgid "cloudpagefaq_usb-q"
+msgstr ""
+
+msgid "cloudpagefaq_usb-a"
+msgstr ""
+
 msgid "badrabbitpromopage_cta-text"
 msgstr ""
 
@@ -929,6 +950,51 @@ msgstr "यस समाधानको विकास निम्न सा�
 
 msgid "badrabbitpromopage_link-smb"
 msgstr "Windows र Windows Server को लागि SMB प्रोटोकॉल को संस्करण 1, 2, र 3 को कैसे सक्षम गर्नुहोस र अक्षम करें"
+
+msgid "cloudlandingpage_cackle-title"
+msgstr ""
+
+msgid "cloudlandingpage_cackle-caption"
+msgstr ""
+
+msgid "cloudlandingpage_header-title"
+msgstr ""
+
+msgid "cloudlandingpage_about-what-is-title"
+msgstr ""
+
+msgid "cloudlandingpage_about-what-is-caption"
+msgstr ""
+
+msgid "cloudlandingpage_about-how-works-title"
+msgstr ""
+
+msgid "cloudlandingpage_about-how-works-caption"
+msgstr ""
+
+msgid "cloudlandingpage_features-monitoring"
+msgstr ""
+
+msgid "cloudlandingpage_features-safety"
+msgstr ""
+
+msgid "cloudlandingpage_features-cloud"
+msgstr ""
+
+msgid "cloudlandingpage_uninstall-title"
+msgstr ""
+
+msgid "cloudlandingpage_uninstall-caption"
+msgstr ""
+
+msgid "cloudlandingpage_license"
+msgstr ""
+
+msgid "cloudlandingpage_features-install"
+msgstr ""
+
+msgid "cloudlandingpage_license-link"
+msgstr "इजाजतपत्र सम्झौता"
 
 msgid "devicegrouppage_show-more-link"
 msgstr "थप हेर्नुहोस्"
@@ -1010,11 +1076,19 @@ msgstr "थप हेर्नुहोस्"
 msgid "thankyoupopup_download-text"
 msgstr "डाउनलोड सुरू भएको छैन? यहाँ क्लिक गर्नुहोस् {{LINK}}"
 
+#. i18n: EN: text for {{LINK}} is in key thankyoupopup_licence-link; RU: текст
+#. для {{LINK}} находится в ключе thankyoupopup_licence-link;
+msgid "thankyoupopup_licence-text"
+msgstr ""
+
 msgid "thankyoupopup_title"
 msgstr "DriverPack सुरु गर्नुहोस्"
 
 msgid "thankyoupopup_cta-text"
 msgstr "सुरु गर्न र स्थापना गर्न computer"
+
+msgid "thankyoupopup_licence-link"
+msgstr "इजाजतपत्र सम्झौता"
 
 msgid "thankyoupopup_download-link"
 msgstr "डाउनलोड"
@@ -1090,3 +1164,18 @@ msgstr "समाधानमा आधारित थियो"
 
 msgid "wannacryptpromopage_link-smb"
 msgstr "Windows र Windows Server को लागि SMB प्रोटोकॉल को संस्करण 1, 2, र 3 को कैसे सक्षम गर्नुहोस र अक्षम करें"
+
+#~ msgid "cloudpagefooter_download"
+#~ msgstr ""
+
+#~ msgid "cloudlandingpage_download"
+#~ msgstr "डाउनलाेड"
+
+#~ msgid "cloudnewlandingpage_license"
+#~ msgstr ""
+
+#~ msgid "cloudnewlandingpage_license-link"
+#~ msgstr "इजाजतपत्र सम्झौता"
+
+#~ msgid "landingheadernav_badrabbit"
+#~ msgstr "विरुद्ध सुरक्षा Bad Rabbit"

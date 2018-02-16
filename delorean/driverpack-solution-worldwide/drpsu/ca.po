@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-01-11 11:55+0000\n"
+"POT-Creation-Date: 2018-02-07 13:21+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>, 2017\n"
 "Language-Team: Catalan (https://www.transifex.com/driverpack-solution/teams/75453/ca/)\n"
@@ -45,6 +45,12 @@ msgstr "Descarrega el DriverPack Online"
 
 msgid "buttonsplitdropdown_main-button"
 msgstr "Descarrega"
+
+msgid "cloudfaq_landing-title"
+msgstr "Responem els teus dubtes"
+
+msgid "cloudpagefooter_license-link"
+msgstr "Acord de llicència"
 
 msgid "breadcrumbs_main-text"
 msgstr "Pàgina d'inici"
@@ -336,9 +342,6 @@ msgstr "DriverPack instal·larà els controladors gratuitament i corregeix probl
 msgid "landingheader_cta-btn"
 msgstr "Instal·la tots els controladors necessaris"
 
-msgid "landingheadernav_badrabbit"
-msgstr "Protecció contra el Bad Rabbit"
-
 msgid "landingheadernav_search"
 msgstr "Cerca de controladors"
 
@@ -379,7 +382,7 @@ msgid "landingproducts_item-title-online"
 msgstr "DriverPack Online"
 
 msgid "landingproducts_item-description-online"
-msgstr "Es pot descarregar ràpidament, descarrega i instal·la qualsevol controlador sempre que disposeu de connexió a Internet <span class='nobr'>({{SIZE}})</span>"
+msgstr "Es descarrega de seguida, descarrega i instal·la tots els controladors sempre que disposeu de connexió a Internet <span class='nobr'>({{SIZE}})</span>"
 
 msgid "landingproducts_item-version"
 msgstr "Versió:"
@@ -523,7 +526,7 @@ msgid "reviewheader_cta-text"
 msgstr "Uneix-te a la comunitat de DriverPack a les xarxes socials i estigues informat de les notícies sobre l'aplicació i pren part en els debats"
 
 msgid "reviewheader_cta"
-msgstr "Afegeix la teva opinió o suggerència per a millorar DriverPack"
+msgstr ""
 
 msgid "search_input-placeholder"
 msgstr "Cerca pel nom del controlador, del portàtil o pel DeviceID"
@@ -900,6 +903,24 @@ msgstr "El controlador no s'ha instal·lat correctament i l'ordinador ara no fun
 msgid "adminpagefaq_stable-a"
 msgstr "La estabilitat de DriverPack és una de les nostres prioritats principals, però tot i això es poden donar petits problemes, tot i que no és gaire habitual. Per això generem un punt de restauració que et permet retornar-ho tot a l'estat anterior. Per tal d'evitar un problema com aquest en el futur, et recomanem anar al menú de DriverPack i enviar-nos l'informe que l'aplicació genera automàticament al nostre servei tècnic."
 
+msgid "cloudpagefaq_remove_soft-q"
+msgstr ""
+
+msgid "cloudpagefaq_remove_soft-a"
+msgstr ""
+
+msgid "cloudpagefaq_notifications-q"
+msgstr ""
+
+msgid "cloudpagefaq_notifications-a"
+msgstr ""
+
+msgid "cloudpagefaq_usb-q"
+msgstr ""
+
+msgid "cloudpagefaq_usb-a"
+msgstr ""
+
 msgid "badrabbitpromopage_cta-text"
 msgstr "Virus criptogràfic Bad Rabbit — com puc protegir l'ordinador?"
 
@@ -929,6 +950,51 @@ msgstr "El desenvolupament d'aquesta solució s'ha basat en les fonts següents"
 
 msgid "badrabbitpromopage_link-smb"
 msgstr "Com activar i desactivar les versions 1, 2 i 3 del protocol SMB per a Windows i Windows Server"
+
+msgid "cloudlandingpage_cackle-title"
+msgstr ""
+
+msgid "cloudlandingpage_cackle-caption"
+msgstr ""
+
+msgid "cloudlandingpage_header-title"
+msgstr ""
+
+msgid "cloudlandingpage_about-what-is-title"
+msgstr ""
+
+msgid "cloudlandingpage_about-what-is-caption"
+msgstr ""
+
+msgid "cloudlandingpage_about-how-works-title"
+msgstr ""
+
+msgid "cloudlandingpage_about-how-works-caption"
+msgstr ""
+
+msgid "cloudlandingpage_features-monitoring"
+msgstr ""
+
+msgid "cloudlandingpage_features-safety"
+msgstr ""
+
+msgid "cloudlandingpage_features-cloud"
+msgstr ""
+
+msgid "cloudlandingpage_uninstall-title"
+msgstr ""
+
+msgid "cloudlandingpage_uninstall-caption"
+msgstr ""
+
+msgid "cloudlandingpage_license"
+msgstr ""
+
+msgid "cloudlandingpage_features-install"
+msgstr ""
+
+msgid "cloudlandingpage_license-link"
+msgstr "Acord de llicència"
 
 msgid "devicegrouppage_show-more-link"
 msgstr "Mostra'n més"
@@ -1010,11 +1076,19 @@ msgstr "Mostra'n més"
 msgid "thankyoupopup_download-text"
 msgstr "La descàrrega no comença? Fes clic aquí per a {{LINK}}"
 
+#. i18n: EN: text for {{LINK}} is in key thankyoupopup_licence-link; RU: текст
+#. для {{LINK}} находится в ключе thankyoupopup_licence-link;
+msgid "thankyoupopup_licence-text"
+msgstr ""
+
 msgid "thankyoupopup_title"
 msgstr "Inicia el DriverPack"
 
 msgid "thankyoupopup_cta-text"
 msgstr "per a seleccionar i instal·lar els controladors al teu ordinador"
+
+msgid "thankyoupopup_licence-link"
+msgstr "Acord de llicència"
 
 msgid "thankyoupopup_download-link"
 msgstr "descarregar"
@@ -1090,3 +1164,18 @@ msgstr "El desenvolupament d'aquesta solució s'ha basat en les fonts següents"
 
 msgid "wannacryptpromopage_link-smb"
 msgstr "Com activar i desactivar les versions 1, 2 i 3 del protocol SMB per a Windows i Windows Server"
+
+#~ msgid "cloudpagefooter_download"
+#~ msgstr ""
+
+#~ msgid "cloudlandingpage_download"
+#~ msgstr "Descarrega"
+
+#~ msgid "cloudnewlandingpage_license"
+#~ msgstr ""
+
+#~ msgid "cloudnewlandingpage_license-link"
+#~ msgstr "Acord de llicència"
+
+#~ msgid "landingheadernav_badrabbit"
+#~ msgstr "Protecció contra el Bad Rabbit"

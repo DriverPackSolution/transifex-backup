@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-01-11 11:55+0000\n"
+"POT-Creation-Date: 2018-02-07 13:21+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Munkhlkhagva <juvel.artyom@gmail.com>, 2018\n"
 "Language-Team: Mongolian (https://www.transifex.com/driverpack-solution/teams/75453/mn/)\n"
@@ -44,6 +44,12 @@ msgstr "DriverPack Online татаж авах"
 
 msgid "buttonsplitdropdown_main-button"
 msgstr "Татаж авах"
+
+msgid "cloudfaq_landing-title"
+msgstr "Бид таны асуултанд хариулт өгнө"
+
+msgid "cloudpagefooter_license-link"
+msgstr "Лицензийн Зөвшөөрөл"
 
 msgid "breadcrumbs_main-text"
 msgstr "Үндсэн хуудас"
@@ -335,9 +341,6 @@ msgstr "DriverPack драйверуудыг үнэгүй суулгаж, бүх 
 msgid "landingheader_cta-btn"
 msgstr "Бүх шаардлагатай драйверүүдийг суулга"
 
-msgid "landingheadernav_badrabbit"
-msgstr " Bad Rabbit-ын эсрэг хамгаалалт"
-
 msgid "landingheadernav_search"
 msgstr "Driver Хайлт"
 
@@ -378,7 +381,7 @@ msgid "landingproducts_item-title-online"
 msgstr "DriverPack Online"
 
 msgid "landingproducts_item-description-online"
-msgstr "Энэ шууд татагдана, интернет-д холбогдсон л бол бүх драйверуудыг татаж, суулгаж болно <span class='nobr'>({{SIZE}})</span>"
+msgstr ""
 
 msgid "landingproducts_item-version"
 msgstr "Хувилбар:"
@@ -522,7 +525,7 @@ msgid "reviewheader_cta-text"
 msgstr ""
 
 msgid "reviewheader_cta"
-msgstr "DriverPack-г сайжруулах тал дээр өөрийн үзэл бодол зөвөлгөөг нэмэх"
+msgstr ""
 
 msgid "search_input-placeholder"
 msgstr "Driver, laptop болон DeviceID-ийн нэрээр хайлт хийх"
@@ -899,6 +902,24 @@ msgstr ""
 msgid "adminpagefaq_stable-a"
 msgstr ""
 
+msgid "cloudpagefaq_remove_soft-q"
+msgstr ""
+
+msgid "cloudpagefaq_remove_soft-a"
+msgstr ""
+
+msgid "cloudpagefaq_notifications-q"
+msgstr ""
+
+msgid "cloudpagefaq_notifications-a"
+msgstr ""
+
+msgid "cloudpagefaq_usb-q"
+msgstr ""
+
+msgid "cloudpagefaq_usb-a"
+msgstr ""
+
 msgid "badrabbitpromopage_cta-text"
 msgstr "Bad Rabbit крифтографик вирус — өөрийнхөө PC-г яаж хамгаалах вэ?"
 
@@ -928,6 +949,51 @@ msgstr "Энэ өвөрмөц шийдлийн хөгжил нь дараах м
 
 msgid "badrabbitpromopage_link-smb"
 msgstr ""
+
+msgid "cloudlandingpage_cackle-title"
+msgstr ""
+
+msgid "cloudlandingpage_cackle-caption"
+msgstr ""
+
+msgid "cloudlandingpage_header-title"
+msgstr ""
+
+msgid "cloudlandingpage_about-what-is-title"
+msgstr ""
+
+msgid "cloudlandingpage_about-what-is-caption"
+msgstr ""
+
+msgid "cloudlandingpage_about-how-works-title"
+msgstr ""
+
+msgid "cloudlandingpage_about-how-works-caption"
+msgstr ""
+
+msgid "cloudlandingpage_features-monitoring"
+msgstr ""
+
+msgid "cloudlandingpage_features-safety"
+msgstr ""
+
+msgid "cloudlandingpage_features-cloud"
+msgstr ""
+
+msgid "cloudlandingpage_uninstall-title"
+msgstr ""
+
+msgid "cloudlandingpage_uninstall-caption"
+msgstr ""
+
+msgid "cloudlandingpage_license"
+msgstr ""
+
+msgid "cloudlandingpage_features-install"
+msgstr ""
+
+msgid "cloudlandingpage_license-link"
+msgstr "Лицензийн Зөвшөөрөл"
 
 msgid "devicegrouppage_show-more-link"
 msgstr "Илүү ихийг харах"
@@ -1009,11 +1075,19 @@ msgstr "Илүү ихийг харах"
 msgid "thankyoupopup_download-text"
 msgstr "Татаж эхлэхгүй байна уу? {{LINK}} энд дарна уу"
 
+#. i18n: EN: text for {{LINK}} is in key thankyoupopup_licence-link; RU: текст
+#. для {{LINK}} находится в ключе thankyoupopup_licence-link;
+msgid "thankyoupopup_licence-text"
+msgstr ""
+
 msgid "thankyoupopup_title"
 msgstr "DriverPack-ыг эхлүүлэх"
 
 msgid "thankyoupopup_cta-text"
 msgstr "компьютертээ драйверууд сонгож, суулгаж эхлэх"
+
+msgid "thankyoupopup_licence-link"
+msgstr "Лицензийн Зөвшөөрөл"
 
 msgid "thankyoupopup_download-link"
 msgstr "татаж авах"
@@ -1089,3 +1163,18 @@ msgstr "Энэ өвөрмөц шийдлийн хөгжил нь дараах м
 
 msgid "wannacryptpromopage_link-smb"
 msgstr ""
+
+#~ msgid "cloudpagefooter_download"
+#~ msgstr ""
+
+#~ msgid "cloudlandingpage_download"
+#~ msgstr "Татаж авах"
+
+#~ msgid "cloudnewlandingpage_license"
+#~ msgstr ""
+
+#~ msgid "cloudnewlandingpage_license-link"
+#~ msgstr "Лицензийн Зөвшөөрөл"
+
+#~ msgid "landingheadernav_badrabbit"
+#~ msgstr " Bad Rabbit-ын эсрэг хамгаалалт"

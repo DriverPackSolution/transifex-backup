@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-01-11 11:55+0000\n"
+"POT-Creation-Date: 2018-02-07 13:21+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>, 2017\n"
 "Language-Team: Croatian (https://www.transifex.com/driverpack-solution/teams/75453/hr/)\n"
@@ -44,6 +44,12 @@ msgstr "Preuzmite DriverPack Online"
 
 msgid "buttonsplitdropdown_main-button"
 msgstr "Preuzimanje"
+
+msgid "cloudfaq_landing-title"
+msgstr "Odgovaramo na Vaša pitanja"
+
+msgid "cloudpagefooter_license-link"
+msgstr "Sporazum o licenci"
 
 msgid "breadcrumbs_main-text"
 msgstr "Početna stranica"
@@ -335,9 +341,6 @@ msgstr "DriverPack će besplatno instalirati upravljačke programe na svakome ur
 msgid "landingheader_cta-btn"
 msgstr "Instalirajte sve potrebne upravljačke programe"
 
-msgid "landingheadernav_badrabbit"
-msgstr "Zaštita od Bad Rabbita"
-
 msgid "landingheadernav_search"
 msgstr "Pretraživanje upravljačkih programa"
 
@@ -378,7 +381,7 @@ msgid "landingproducts_item-title-online"
 msgstr "DriverPack Online"
 
 msgid "landingproducts_item-description-online"
-msgstr "Preuzima se odmah i instalira sve upravljačke programe ako imate internetsku vezu <span class='nobr'>({{SIZE}})</span>"
+msgstr ""
 
 msgid "landingproducts_item-version"
 msgstr "Verzija:"
@@ -522,7 +525,7 @@ msgid "reviewheader_cta-text"
 msgstr "Pridružite se DriverPack zajednici na društvenim mrežama kako biste bili u tijeku s novostima vezanim uz proizvod i sudjelovali u raspravama"
 
 msgid "reviewheader_cta"
-msgstr "Izrecite svoje mišljenje ili dajte prijedlog kako da poboljšamo DriverPack"
+msgstr ""
 
 msgid "search_input-placeholder"
 msgstr "Pretraživanje po upravljačkom programu, modelu prijenosnog računala ili DeviceID-u"
@@ -899,6 +902,24 @@ msgstr "Upravljački program nije se uspješno instalirao te sada prilikom kori�
 msgid "adminpagefaq_stable-a"
 msgstr "Stabilnost prilikom rada DriverPacka jedan je od naših glavnih prioriteta, ali rijetko se dogode neke manje pogreške. Iz tog razloga stvaramo točku vraćanja koja će Vam omogućiti da sve vratite u onakvo stanje kakvo je bilo prije DriverPacka. Kako bismo spriječili ponavljanje problema u budućnosti, preporučamo da odete na DriverPackov App izbornik i našoj tehničkoj službi pošaljete izvještaj koji program automatski stvara."
 
+msgid "cloudpagefaq_remove_soft-q"
+msgstr ""
+
+msgid "cloudpagefaq_remove_soft-a"
+msgstr ""
+
+msgid "cloudpagefaq_notifications-q"
+msgstr ""
+
+msgid "cloudpagefaq_notifications-a"
+msgstr ""
+
+msgid "cloudpagefaq_usb-q"
+msgstr ""
+
+msgid "cloudpagefaq_usb-a"
+msgstr ""
+
 msgid "badrabbitpromopage_cta-text"
 msgstr ""
 
@@ -928,6 +949,51 @@ msgstr "Razvoj ovog rješenja temeljili smo na sljedećem sadržaju"
 
 msgid "badrabbitpromopage_link-smb"
 msgstr "Kako uključiti i isključiti SMB protokole verzije 1, 2 i 3 u Windowsima i u Windows Serverima"
+
+msgid "cloudlandingpage_cackle-title"
+msgstr ""
+
+msgid "cloudlandingpage_cackle-caption"
+msgstr ""
+
+msgid "cloudlandingpage_header-title"
+msgstr ""
+
+msgid "cloudlandingpage_about-what-is-title"
+msgstr ""
+
+msgid "cloudlandingpage_about-what-is-caption"
+msgstr ""
+
+msgid "cloudlandingpage_about-how-works-title"
+msgstr ""
+
+msgid "cloudlandingpage_about-how-works-caption"
+msgstr ""
+
+msgid "cloudlandingpage_features-monitoring"
+msgstr ""
+
+msgid "cloudlandingpage_features-safety"
+msgstr ""
+
+msgid "cloudlandingpage_features-cloud"
+msgstr ""
+
+msgid "cloudlandingpage_uninstall-title"
+msgstr ""
+
+msgid "cloudlandingpage_uninstall-caption"
+msgstr ""
+
+msgid "cloudlandingpage_license"
+msgstr ""
+
+msgid "cloudlandingpage_features-install"
+msgstr ""
+
+msgid "cloudlandingpage_license-link"
+msgstr "Sporazum o licenci"
 
 msgid "devicegrouppage_show-more-link"
 msgstr "Više rezultata"
@@ -1009,11 +1075,19 @@ msgstr "Više rezultata"
 msgid "thankyoupopup_download-text"
 msgstr "Preuzimanje nije počelo? Kliknite ovdje {{LINK}}"
 
+#. i18n: EN: text for {{LINK}} is in key thankyoupopup_licence-link; RU: текст
+#. для {{LINK}} находится в ключе thankyoupopup_licence-link;
+msgid "thankyoupopup_licence-text"
+msgstr ""
+
 msgid "thankyoupopup_title"
 msgstr "Pokrenite DriverPack"
 
 msgid "thankyoupopup_cta-text"
 msgstr "da biste započeli s odabirom i instalacijom upravljačkih programa na računalo"
+
+msgid "thankyoupopup_licence-link"
+msgstr "Sporazum o licenci"
 
 msgid "thankyoupopup_download-link"
 msgstr "preuzimanje"
@@ -1089,3 +1163,18 @@ msgstr "Razvoj ovog rješenja temeljili smo na sljedećem sadržaju"
 
 msgid "wannacryptpromopage_link-smb"
 msgstr "Kako uključiti i isključiti SMB protokole verzije 1, 2 i 3 u Windowsima i u Windows Serverima"
+
+#~ msgid "cloudpagefooter_download"
+#~ msgstr ""
+
+#~ msgid "cloudlandingpage_download"
+#~ msgstr "Preuzimanje"
+
+#~ msgid "cloudnewlandingpage_license"
+#~ msgstr ""
+
+#~ msgid "cloudnewlandingpage_license-link"
+#~ msgstr "Sporazum o licenci"
+
+#~ msgid "landingheadernav_badrabbit"
+#~ msgstr "Zaštita od Bad Rabbita"

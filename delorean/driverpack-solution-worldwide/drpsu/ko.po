@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-01-11 11:55+0000\n"
+"POT-Creation-Date: 2018-02-07 13:21+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: JeongMin, Lim <jm1288@naver.com>, 2017\n"
 "Language-Team: Korean (https://www.transifex.com/driverpack-solution/teams/75453/ko/)\n"
@@ -44,6 +44,12 @@ msgstr "DriverPack Online 다운로드"
 
 msgid "buttonsplitdropdown_main-button"
 msgstr "다운로드"
+
+msgid "cloudfaq_landing-title"
+msgstr "우리는 귀하의 질문에 대답합니다"
+
+msgid "cloudpagefooter_license-link"
+msgstr "라이센스 동의"
 
 msgid "breadcrumbs_main-text"
 msgstr "홈페이지"
@@ -335,9 +341,6 @@ msgstr "DriverPack 은 무료로 드라이버를 설치하고 모든 장치에�
 msgid "landingheader_cta-btn"
 msgstr "필요한 모든 드라이버 설치"
 
-msgid "landingheadernav_badrabbit"
-msgstr "Bad Rabbit 으로부터 보호"
-
 msgid "landingheadernav_search"
 msgstr "드라이버 검색"
 
@@ -378,7 +381,7 @@ msgid "landingproducts_item-title-online"
 msgstr "DriverPack Online"
 
 msgid "landingproducts_item-description-online"
-msgstr "인터넷에 연결<span class='nobr'>({{SIZE}})</span>되어 있으면 즉시 다운로드되고 모든 드라이버가 다운로드 및 설치됩니다."
+msgstr ""
 
 msgid "landingproducts_item-version"
 msgstr "버전:"
@@ -522,7 +525,7 @@ msgid "reviewheader_cta-text"
 msgstr "소셜 네트워크에서 DriverPack 커뮤니티에 가입하여 제품에 대한 소식을 듣고 토론에 참여하세요"
 
 msgid "reviewheader_cta"
-msgstr "DriverPack 개선에 대한 의견이나 제안을 추가하세요"
+msgstr ""
 
 msgid "search_input-placeholder"
 msgstr "드라이버, 노트북 또는 DeviceID 의 이름 검색"
@@ -899,6 +902,24 @@ msgstr "드라이버가 제대로 설치되지 않아 컴퓨터에 문제가 있
 msgid "adminpagefaq_stable-a"
 msgstr "DriverPack 소프트웨어의 작동 안정성은 우리의 주요 우선 순위 중 하나이지만, 드문 경우이지만 사소한 오류는 여전히 발생합니다. 따라서 모든 것을 이전에 구성된 상태로 되돌릴 수 있는 복원 지점을 만듭니다. 향후 유사한 문제가 발생하지 않도록 DriverPack 메뉴로 이동하여 소프트웨어에서 자동으로 작성한 보고서를 기술 서비스로 보내주세요."
 
+msgid "cloudpagefaq_remove_soft-q"
+msgstr ""
+
+msgid "cloudpagefaq_remove_soft-a"
+msgstr ""
+
+msgid "cloudpagefaq_notifications-q"
+msgstr ""
+
+msgid "cloudpagefaq_notifications-a"
+msgstr ""
+
+msgid "cloudpagefaq_usb-q"
+msgstr ""
+
+msgid "cloudpagefaq_usb-a"
+msgstr ""
+
 msgid "badrabbitpromopage_cta-text"
 msgstr "Bad Rabbit 암호화 바이러스 — 귀하의 PC를 보호하는 방법?"
 
@@ -928,6 +949,51 @@ msgstr "이 솔루션의 개발은 다음 자료를 기반으로 했습니다"
 
 msgid "badrabbitpromopage_link-smb"
 msgstr "Windows 및 Windows Server 용 SMB 프로토콜의 버전 1, 2 및 3을 사용하거나 사용하지 않도록 설정하는 방법"
+
+msgid "cloudlandingpage_cackle-title"
+msgstr ""
+
+msgid "cloudlandingpage_cackle-caption"
+msgstr ""
+
+msgid "cloudlandingpage_header-title"
+msgstr ""
+
+msgid "cloudlandingpage_about-what-is-title"
+msgstr ""
+
+msgid "cloudlandingpage_about-what-is-caption"
+msgstr ""
+
+msgid "cloudlandingpage_about-how-works-title"
+msgstr ""
+
+msgid "cloudlandingpage_about-how-works-caption"
+msgstr ""
+
+msgid "cloudlandingpage_features-monitoring"
+msgstr ""
+
+msgid "cloudlandingpage_features-safety"
+msgstr ""
+
+msgid "cloudlandingpage_features-cloud"
+msgstr ""
+
+msgid "cloudlandingpage_uninstall-title"
+msgstr ""
+
+msgid "cloudlandingpage_uninstall-caption"
+msgstr ""
+
+msgid "cloudlandingpage_license"
+msgstr ""
+
+msgid "cloudlandingpage_features-install"
+msgstr ""
+
+msgid "cloudlandingpage_license-link"
+msgstr "라이센스 동의"
 
 msgid "devicegrouppage_show-more-link"
 msgstr "더 보기"
@@ -1009,11 +1075,19 @@ msgstr "더 보기"
 msgid "thankyoupopup_download-text"
 msgstr "다운로드가 시작되지 않았습니까? 여기를 클릭하세요 {{LINK}}"
 
+#. i18n: EN: text for {{LINK}} is in key thankyoupopup_licence-link; RU: текст
+#. для {{LINK}} находится в ключе thankyoupopup_licence-link;
+msgid "thankyoupopup_licence-text"
+msgstr ""
+
 msgid "thankyoupopup_title"
 msgstr "DriverPack 시작"
 
 msgid "thankyoupopup_cta-text"
 msgstr "컴퓨터에 드라이버를 선택하여 설치하기를 시작하려면"
+
+msgid "thankyoupopup_licence-link"
+msgstr "라이센스 동의"
 
 msgid "thankyoupopup_download-link"
 msgstr "다운로드"
@@ -1089,3 +1163,18 @@ msgstr "이 솔루션의 개발은 다음 자료를 기반으로 했습니다"
 
 msgid "wannacryptpromopage_link-smb"
 msgstr "Windows 및 Windows Server 용 SMB 프로토콜의 버전 1, 2 및 3 을 사용하거나 사용하지 않도록 설정하는 방법"
+
+#~ msgid "cloudpagefooter_download"
+#~ msgstr ""
+
+#~ msgid "cloudlandingpage_download"
+#~ msgstr "다운로드"
+
+#~ msgid "cloudnewlandingpage_license"
+#~ msgstr ""
+
+#~ msgid "cloudnewlandingpage_license-link"
+#~ msgstr "라이센스 동의"
+
+#~ msgid "landingheadernav_badrabbit"
+#~ msgstr "Bad Rabbit 으로부터 보호"

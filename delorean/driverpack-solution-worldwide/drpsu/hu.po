@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-01-11 11:55+0000\n"
+"POT-Creation-Date: 2018-02-07 13:21+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>, 2017\n"
 "Language-Team: Hungarian (https://www.transifex.com/driverpack-solution/teams/75453/hu/)\n"
@@ -47,6 +47,12 @@ msgstr "DriverPack Online letöltése"
 
 msgid "buttonsplitdropdown_main-button"
 msgstr "Letöltés"
+
+msgid "cloudfaq_landing-title"
+msgstr "Válaszolunk a kérdéseire"
+
+msgid "cloudpagefooter_license-link"
+msgstr "Általános Szerződési Feltételek"
 
 msgid "breadcrumbs_main-text"
 msgstr "Honlap"
@@ -338,9 +344,6 @@ msgstr "A DriverPack ingyenesen telepíti a drivereket, és megoldja bármely es
 msgid "landingheader_cta-btn"
 msgstr "Összes szükséges driver telepítése"
 
-msgid "landingheadernav_badrabbit"
-msgstr "Védelem a Bad Rabbit ellen"
-
 msgid "landingheadernav_search"
 msgstr "Illesztőprogram keresés"
 
@@ -381,7 +384,7 @@ msgid "landingproducts_item-title-online"
 msgstr "DriverPack Online"
 
 msgid "landingproducts_item-description-online"
-msgstr "Azonnal letöltődik, letölti és telepíti az összes drivert, ha ön kapcsolódik az internethez <span class='nobr'>({{SIZE}})</span>"
+msgstr ""
 
 msgid "landingproducts_item-version"
 msgstr "Verzió:"
@@ -525,7 +528,7 @@ msgid "reviewheader_cta-text"
 msgstr "Csatlakozz a DriverPack közösséghez a közösségi oldalakon, hogy ne maradj le az új hírekről, és részt vegyél a társalgásban!"
 
 msgid "reviewheader_cta"
-msgstr "Fogalmazz meg véleményt, vagy tanácsot a DriverPack továbbfejlesztéséhez!"
+msgstr ""
 
 msgid "search_input-placeholder"
 msgstr "Keresés név, laptop vagy DeviceID alapján"
@@ -902,6 +905,24 @@ msgstr "A driver nem került megfelelően telepítésre, problémák adódhattak
 msgid "adminpagefaq_stable-a"
 msgstr "A DriverPack folyamatainak stabilitása a legfőbb prioritásaink közé tartozik, de apróbb hibák előfordulhatnak, még ha ritkán is. Emiatt rendszervisszaállítási pontot hozunk létre, mely lehetővé teszi a korábbi, beállítások nélküli állapot visszaállítását. Annak érdekében, hogy megelőzzük a hasonló problémákat, ajánlott a DriverPack alkalmazás menüjének meglátogatása, ahonnan elküldheted a technikai háttércsoportunknak a szoftver automatikus jelentését."
 
+msgid "cloudpagefaq_remove_soft-q"
+msgstr ""
+
+msgid "cloudpagefaq_remove_soft-a"
+msgstr ""
+
+msgid "cloudpagefaq_notifications-q"
+msgstr ""
+
+msgid "cloudpagefaq_notifications-a"
+msgstr ""
+
+msgid "cloudpagefaq_usb-q"
+msgstr ""
+
+msgid "cloudpagefaq_usb-a"
+msgstr ""
+
 msgid "badrabbitpromopage_cta-text"
 msgstr "Bad Rabbit kriptografikus vírus — hogyan védheti meg a számítógépét?"
 
@@ -931,6 +952,51 @@ msgstr "A fejlesztés az alábbiak segítségével készül"
 
 msgid "badrabbitpromopage_link-smb"
 msgstr "Hogyan engedélyezhető vagy tiltható le az SMB protokollok 1, 2 és 3-as verziója Windows vagy Windows szerver rendszeren?"
+
+msgid "cloudlandingpage_cackle-title"
+msgstr ""
+
+msgid "cloudlandingpage_cackle-caption"
+msgstr ""
+
+msgid "cloudlandingpage_header-title"
+msgstr ""
+
+msgid "cloudlandingpage_about-what-is-title"
+msgstr ""
+
+msgid "cloudlandingpage_about-what-is-caption"
+msgstr ""
+
+msgid "cloudlandingpage_about-how-works-title"
+msgstr ""
+
+msgid "cloudlandingpage_about-how-works-caption"
+msgstr ""
+
+msgid "cloudlandingpage_features-monitoring"
+msgstr ""
+
+msgid "cloudlandingpage_features-safety"
+msgstr ""
+
+msgid "cloudlandingpage_features-cloud"
+msgstr ""
+
+msgid "cloudlandingpage_uninstall-title"
+msgstr ""
+
+msgid "cloudlandingpage_uninstall-caption"
+msgstr ""
+
+msgid "cloudlandingpage_license"
+msgstr ""
+
+msgid "cloudlandingpage_features-install"
+msgstr "DriverPack Cloud telepítése"
+
+msgid "cloudlandingpage_license-link"
+msgstr "Általános Szerződési Feltételek"
 
 msgid "devicegrouppage_show-more-link"
 msgstr "Több infó"
@@ -1012,11 +1078,19 @@ msgstr "Több infó"
 msgid "thankyoupopup_download-text"
 msgstr "Nem kezdődött el a letöltés? Kattints ide {{LINK}}!"
 
+#. i18n: EN: text for {{LINK}} is in key thankyoupopup_licence-link; RU: текст
+#. для {{LINK}} находится в ключе thankyoupopup_licence-link;
+msgid "thankyoupopup_licence-text"
+msgstr "Jelen program telepítéséve ön elfogadja az {{LINK}}et"
+
 msgid "thankyoupopup_title"
 msgstr "DriverPack indítása"
 
 msgid "thankyoupopup_cta-text"
 msgstr "a driverek kijelölésének elindításához, és számítógépre telepítéséhez"
+
+msgid "thankyoupopup_licence-link"
+msgstr "Általános Szerződési Feltételek"
 
 msgid "thankyoupopup_download-link"
 msgstr "letöltés"
@@ -1092,3 +1166,18 @@ msgstr "A fejlesztés az alábbiak segítségével készül"
 
 msgid "wannacryptpromopage_link-smb"
 msgstr "Hogyan engedélyezhető vagy tiltható le az SMB protokollok 1, 2 és 3-as verziója Windows vagy Windows szerver rendszeren?"
+
+#~ msgid "cloudpagefooter_download"
+#~ msgstr "DriverPack Cloud letöltése"
+
+#~ msgid "cloudlandingpage_download"
+#~ msgstr "Letöltés"
+
+#~ msgid "cloudnewlandingpage_license"
+#~ msgstr ""
+
+#~ msgid "cloudnewlandingpage_license-link"
+#~ msgstr "Általános Szerződési Feltételek"
+
+#~ msgid "landingheadernav_badrabbit"
+#~ msgstr "Védelem a Bad Rabbit ellen"

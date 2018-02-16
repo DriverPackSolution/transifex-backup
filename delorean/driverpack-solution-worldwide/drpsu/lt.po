@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-01-11 11:55+0000\n"
+"POT-Creation-Date: 2018-02-07 13:21+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Jevgenij Ivanov <jevgenij.ivanov27@gmail.com>, 2017\n"
 "Language-Team: Lithuanian (https://www.transifex.com/driverpack-solution/teams/75453/lt/)\n"
@@ -45,6 +45,12 @@ msgstr "Parsisiųsti DriverPack Online"
 
 msgid "buttonsplitdropdown_main-button"
 msgstr "Parsisiųsti "
+
+msgid "cloudfaq_landing-title"
+msgstr "Mes  atsakysime į jūsų  klausimus"
+
+msgid "cloudpagefooter_license-link"
+msgstr "Licencijos sutartis"
 
 msgid "breadcrumbs_main-text"
 msgstr "Pagrindinis puslapis"
@@ -336,9 +342,6 @@ msgstr "DriverPack įdiegs tvarkykles nemokamai ir spręs problemas  su bet kuri
 msgid "landingheader_cta-btn"
 msgstr "Įdiegti visas reikiamas tvarkykles "
 
-msgid "landingheadernav_badrabbit"
-msgstr ""
-
 msgid "landingheadernav_search"
 msgstr "Tvarkyklių paieška"
 
@@ -523,7 +526,7 @@ msgid "reviewheader_cta-text"
 msgstr "Prisijunkite prie DriverPack bendruomenės socialiniuose tinkluose kad galėtumėte sekti naujienas apie produktą ir dalyvauti diskusijose"
 
 msgid "reviewheader_cta"
-msgstr "Pridėkite savo nuomonę ar pasiūlymą tobulinti  DriverPack"
+msgstr ""
 
 msgid "search_input-placeholder"
 msgstr "Ieškokite tvarkyklės, nešiojamojo kompiuterio ar  DeviceID  pavadinime"
@@ -900,6 +903,24 @@ msgstr "Tvarkyklė tinkamai neįdiegta, kompiuterio veikimo metu kyla problemų.
 msgid "adminpagefaq_stable-a"
 msgstr "DriverPack programinės įrangos veikimo stabilumas yra vienas iš mūsų pagrindinių prioritetų, tačiau kai kurie neesminiai neatitikimai vis dar pasitaiko retai. Štai kodėl mes sukūrėme atkūrimo tašką, kuris leis jums grąžinti viską atgal į nenustatytą būseną. Siekiant išvengti panašios problemos ateityje, rekomenduojame eiti į DriverPack programos meniu ir siųsti technines paslaugas ataskaitą, kurią automatiškai sudaro programinė įranga."
 
+msgid "cloudpagefaq_remove_soft-q"
+msgstr ""
+
+msgid "cloudpagefaq_remove_soft-a"
+msgstr ""
+
+msgid "cloudpagefaq_notifications-q"
+msgstr ""
+
+msgid "cloudpagefaq_notifications-a"
+msgstr ""
+
+msgid "cloudpagefaq_usb-q"
+msgstr ""
+
+msgid "cloudpagefaq_usb-a"
+msgstr ""
+
 msgid "badrabbitpromopage_cta-text"
 msgstr ""
 
@@ -929,6 +950,51 @@ msgstr "Plėtra pagrįsta šiomis medžiagomis"
 
 msgid "badrabbitpromopage_link-smb"
 msgstr "Kaip įjungti ir išjungti SMB protokolų 1, 2 ir 3 versijas Windows ir Windows Server"
+
+msgid "cloudlandingpage_cackle-title"
+msgstr ""
+
+msgid "cloudlandingpage_cackle-caption"
+msgstr ""
+
+msgid "cloudlandingpage_header-title"
+msgstr ""
+
+msgid "cloudlandingpage_about-what-is-title"
+msgstr ""
+
+msgid "cloudlandingpage_about-what-is-caption"
+msgstr ""
+
+msgid "cloudlandingpage_about-how-works-title"
+msgstr ""
+
+msgid "cloudlandingpage_about-how-works-caption"
+msgstr ""
+
+msgid "cloudlandingpage_features-monitoring"
+msgstr ""
+
+msgid "cloudlandingpage_features-safety"
+msgstr ""
+
+msgid "cloudlandingpage_features-cloud"
+msgstr ""
+
+msgid "cloudlandingpage_uninstall-title"
+msgstr ""
+
+msgid "cloudlandingpage_uninstall-caption"
+msgstr ""
+
+msgid "cloudlandingpage_license"
+msgstr ""
+
+msgid "cloudlandingpage_features-install"
+msgstr ""
+
+msgid "cloudlandingpage_license-link"
+msgstr "Licencijos sutartis"
 
 msgid "devicegrouppage_show-more-link"
 msgstr "Peržiūrėti daugiau"
@@ -1010,11 +1076,19 @@ msgstr "Peržiūrėti daugiau "
 msgid "thankyoupopup_download-text"
 msgstr "Siuntimas neprasidėjo? Spauskite čia {{LINK}}"
 
+#. i18n: EN: text for {{LINK}} is in key thankyoupopup_licence-link; RU: текст
+#. для {{LINK}} находится в ключе thankyoupopup_licence-link;
+msgid "thankyoupopup_licence-text"
+msgstr ""
+
 msgid "thankyoupopup_title"
 msgstr "Paleiskite DriverPack"
 
 msgid "thankyoupopup_cta-text"
 msgstr "Kad pradėtumėte pasirinkti ir įdiegti  tvarkykles į savo kompiuterį"
+
+msgid "thankyoupopup_licence-link"
+msgstr "Licencijos sutartis"
 
 msgid "thankyoupopup_download-link"
 msgstr "Parsisiųsti"
@@ -1090,3 +1164,18 @@ msgstr "Plėtra pagrįsta šiomis medžiagomis"
 
 msgid "wannacryptpromopage_link-smb"
 msgstr "Kaip įjungti ir išjungti SMB protokolų 1, 2 ir 3 versijas Windows ir Windows Server"
+
+#~ msgid "cloudpagefooter_download"
+#~ msgstr ""
+
+#~ msgid "cloudlandingpage_download"
+#~ msgstr "Parsisiųsti "
+
+#~ msgid "cloudnewlandingpage_license"
+#~ msgstr ""
+
+#~ msgid "cloudnewlandingpage_license-link"
+#~ msgstr "Licencijos sutartis"
+
+#~ msgid "landingheadernav_badrabbit"
+#~ msgstr ""

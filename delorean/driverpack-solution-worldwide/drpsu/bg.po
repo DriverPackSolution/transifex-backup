@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-01-11 11:55+0000\n"
+"POT-Creation-Date: 2018-02-07 13:21+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Stoyan <stoqnvv94@gmail.com>, 2017\n"
 "Language-Team: Bulgarian (https://www.transifex.com/driverpack-solution/teams/75453/bg/)\n"
@@ -47,6 +47,12 @@ msgstr "Изтегли DriverPack Online"
 
 msgid "buttonsplitdropdown_main-button"
 msgstr "Изтегляне"
+
+msgid "cloudfaq_landing-title"
+msgstr "Ние отговаряме на твоите въпроси"
+
+msgid "cloudpagefooter_license-link"
+msgstr "Лицензионни условия"
 
 msgid "breadcrumbs_main-text"
 msgstr "Начална страница"
@@ -337,9 +343,6 @@ msgstr "DriverPack ще инсталира драйверите безплатн
 
 msgid "landingheader_cta-btn"
 msgstr "Инсталирайте всички необходими драйвери"
-
-msgid "landingheadernav_badrabbit"
-msgstr "Защита срещу Bad Rabbit"
 
 msgid "landingheadernav_search"
 msgstr "Търсене на драйвери"
@@ -902,6 +905,24 @@ msgstr "Драйверът не е инсталиран правилно и се
 msgid "adminpagefaq_stable-a"
 msgstr "Стабилността на работата на софтуера DriverPack е един от основните ни приоритети, но незначителни повреди все още се случват, въпреки че те са рядкост. Ето защо създаваме точка за възстановяване, която ще ви позволи да върнете всичко обратно на предишното конфигурирано състояние. За да се предотврати подобен проблем в бъдеще, ние Ви препоръчваме да отидете в Менюто на DriverPack и изпратете на доклад, който се създава автоматично от софтуера, за нашите технически сътрудници."
 
+msgid "cloudpagefaq_remove_soft-q"
+msgstr "Защо DriverPack Cloud предлага премахване на някакъв софтуер от компютъра ми?"
+
+msgid "cloudpagefaq_remove_soft-a"
+msgstr "Софтуерът с нисък рейтинг често е рекламен софтуер или вируси, затова DriverPack Cloud препоръчва да го премахнете. Оценката се формира въз основа на предпочитанията на нашите потребители — колкото повече те премахват този или онзи софтуер, толкова по-нисък е неговия рейтинг."
+
+msgid "cloudpagefaq_notifications-q"
+msgstr "След като инсталирах DriverPack Cloud, започнах да получавам известия на работния ми плот. Как мога да ги забраня?"
+
+msgid "cloudpagefaq_notifications-a"
+msgstr "Тези известия са само препоръки. Можете да се отпишете от получаването на известия от конкретния тип, като кликнете върху иконата със звънеца, в горния десен ъгъл на всяко известие."
+
+msgid "cloudpagefaq_usb-q"
+msgstr "Когато включа флаш-карта в USB слота, на моя компютър се появява известие за някакъв драйвер. За какво е това?"
+
+msgid "cloudpagefaq_usb-a"
+msgstr "DriverPack Cloud разкрива свързването на нови устройства и проверява дали имат правилните драйвери. Ако липсва необходимия драйвер, имате възможност да го инсталирате незабавно — това е нужно, за правилната работа на устройството."
+
 msgid "badrabbitpromopage_cta-text"
 msgstr "Bad Rabbit крипто вирус — как да защитите компютъра си?"
 
@@ -931,6 +952,51 @@ msgstr "В разработването на това решение са изп
 
 msgid "badrabbitpromopage_link-smb"
 msgstr "Как да активирате и деактивирате версии 1, 2 и 3 на SMB протоколи за Windows и Windows Server"
+
+msgid "cloudlandingpage_cackle-title"
+msgstr "Споделете мнението си за DriverPack Cloud"
+
+msgid "cloudlandingpage_cackle-caption"
+msgstr "Харесва ли ви DriverPack Cloud? Какви други функции бихте искали да добавиме към него? Кажете ни, моля."
+
+msgid "cloudlandingpage_header-title"
+msgstr "DriverPack Cloud е нов софтуер за повишаване ефективността на вашия компютър"
+
+msgid "cloudlandingpage_about-what-is-title"
+msgstr "Какво прави софтуерът DriverPack Cloud?"
+
+msgid "cloudlandingpage_about-what-is-caption"
+msgstr ""
+
+msgid "cloudlandingpage_about-how-works-title"
+msgstr "Как функционира DriverPack Cloud?"
+
+msgid "cloudlandingpage_about-how-works-caption"
+msgstr ""
+
+msgid "cloudlandingpage_features-monitoring"
+msgstr ""
+
+msgid "cloudlandingpage_features-safety"
+msgstr ""
+
+msgid "cloudlandingpage_features-cloud"
+msgstr ""
+
+msgid "cloudlandingpage_uninstall-title"
+msgstr "Как напълно да премахнете DriverPack Cloud от вашия компютър"
+
+msgid "cloudlandingpage_uninstall-caption"
+msgstr ""
+
+msgid "cloudlandingpage_license"
+msgstr "Преди да започнеш инсталация, моля прочети {{LINK}}"
+
+msgid "cloudlandingpage_features-install"
+msgstr "Инсталирай DriverPack Cloud"
+
+msgid "cloudlandingpage_license-link"
+msgstr "Лицензионни условия"
 
 msgid "devicegrouppage_show-more-link"
 msgstr "Виж още"
@@ -1012,11 +1078,19 @@ msgstr "Виж още"
 msgid "thankyoupopup_download-text"
 msgstr "Изтеглянето не е започнало? Цъкнете тук {{LINK}}"
 
+#. i18n: EN: text for {{LINK}} is in key thankyoupopup_licence-link; RU: текст
+#. для {{LINK}} находится в ключе thankyoupopup_licence-link;
+msgid "thankyoupopup_licence-text"
+msgstr "Инсталирайки този софтуер, ти приемаш условията от {{LINK}} "
+
 msgid "thankyoupopup_title"
 msgstr "Стартирай DriverPack"
 
 msgid "thankyoupopup_cta-text"
 msgstr "за да започне избирането и инсталирането на драйвери на вашия компютър"
+
+msgid "thankyoupopup_licence-link"
+msgstr "Лицензионни условия"
 
 msgid "thankyoupopup_download-link"
 msgstr "изтегли"
@@ -1092,3 +1166,18 @@ msgstr "В разработването на това решение са изп
 
 msgid "wannacryptpromopage_link-smb"
 msgstr "Как да активирате и деактивирате версии 1, 2 и 3 на SMB протоколи за Windows и Windows Server"
+
+#~ msgid "cloudpagefooter_download"
+#~ msgstr "Изтегли DriverPack Cloud"
+
+#~ msgid "cloudlandingpage_download"
+#~ msgstr "Изтегляне"
+
+#~ msgid "cloudnewlandingpage_license"
+#~ msgstr "Преди да започнеш инсталация, моля прочети {{LINK}}"
+
+#~ msgid "cloudnewlandingpage_license-link"
+#~ msgstr "Лицензионни условия"
+
+#~ msgid "landingheadernav_badrabbit"
+#~ msgstr "Защита срещу Bad Rabbit"

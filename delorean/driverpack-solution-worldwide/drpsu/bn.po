@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-01-11 11:55+0000\n"
+"POT-Creation-Date: 2018-02-07 13:21+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: BACKUP MAGNATE <backup.mflbd@gmail.com>, 2017\n"
 "Language-Team: Bengali (https://www.transifex.com/driverpack-solution/teams/75453/bn/)\n"
@@ -46,6 +46,12 @@ msgstr "DriverPack Online ডাউনলোড করুন"
 
 msgid "buttonsplitdropdown_main-button"
 msgstr "ডাউনলোড"
+
+msgid "cloudfaq_landing-title"
+msgstr "আমরা আপনার প্রশ্নগুলোর উত্তর দেই"
+
+msgid "cloudpagefooter_license-link"
+msgstr "লাইসেন্সের শর্তাবলী"
 
 msgid "breadcrumbs_main-text"
 msgstr "হোমপেজ"
@@ -337,9 +343,6 @@ msgstr "DriverPack বিনামূল্যে ড্রাইভারসম
 msgid "landingheader_cta-btn"
 msgstr "দরকারি সব ড্রাইভার ইন্সটল করুন"
 
-msgid "landingheadernav_badrabbit"
-msgstr "Bad Rabbit এর বিরুদ্ধে সুরক্ষা"
-
 msgid "landingheadernav_search"
 msgstr "ড্রাইভার অনুসন্ধান"
 
@@ -380,7 +383,7 @@ msgid "landingproducts_item-title-online"
 msgstr "DriverPack Online"
 
 msgid "landingproducts_item-description-online"
-msgstr "এটি সাথে সাথেই ডাউনলোড হয়ে যায়, ইন্টারনেট সংযোগ থাকলে সকল ড্রাইভার ডাউনলোড ও ইন্সটল করে <span class='nobr'>({{SIZE}})</span> "
+msgstr "এটি তৎক্ষণাৎ ডাউনলোড হয়, ইন্টারনেট সংযোগ থাকলে সকল ড্রাইভার ডাউনলোড ও ইন্সটল করে <span class='nobr'>({{SIZE}})</span>"
 
 msgid "landingproducts_item-version"
 msgstr "ভার্সন:"
@@ -524,7 +527,7 @@ msgid "reviewheader_cta-text"
 msgstr "পণ্যটি সম্বন্ধে নতুন খবরাখবর জানতে ও আলোচনায় অংশ নিতে সামাজিক যোগাযোগ মাধ্যমসমূহে DriverPack কমিউনিটিতে যোগ দিন"
 
 msgid "reviewheader_cta"
-msgstr "DriverPack উন্নয়নে আপনার মতামত অথবা পরামর্শ দিন"
+msgstr "DriverPack উন্নয়নে আপনার পর্যালোচনা বা পরামর্শ প্রদান করুন"
 
 msgid "search_input-placeholder"
 msgstr "ড্রাইভার, ল্যাপটপ বা DeviceID এর নাম দিয়ে অনুসন্ধান করুন"
@@ -901,6 +904,24 @@ msgstr "ড্রাইভারটি ঠিকমতো ইন্সটল হ
 msgid "adminpagefaq_stable-a"
 msgstr "DriverPack সফটওয়্যারের কাজের স্থিতিশীলতা আমাদের মূল অগ্রাধিকারগুলোর একটি কিন্তু তার পরেও ছোটখাটো ত্রুটি ঘটে থাকে, যদিও সেগুলো দুর্লভ। এজন্যে আমরা একটি রিস্টোর পয়েন্ট তৈরি করি যাতে আপনি সবকিছুকে আগের কনফিগার করা অবস্থায় ফিরিয়ে নিতে পারেন। ভবিষ্যতে এই সমস্যা এড়িয়ে চলতে পরামর্শ হল - DriverPack মেন্যুতে যান ও সফটওয়্যারটির দ্বারা স্বয়ংক্রিয়ভাবে তৈরি হওয়া রিপোর্টটি আমাদেরে কারিগরি সেবাদাতার কাছে পাঠিয়ে দিন।"
 
+msgid "cloudpagefaq_remove_soft-q"
+msgstr "কেন DriverPack Cloud আমার কম্পিউটার থেকে কিছু সফটওয়্যার সরানোর পরামর্শ দিচ্ছে?"
+
+msgid "cloudpagefaq_remove_soft-a"
+msgstr "কম গুণমানসম্পন্ন (রেটিং) সফটওয়্যার প্রায় সময় অ্যাডওয়্যার বা ভাইরাস হয়ে থাকে, সেজন্য DriverPack Cloud সেগুলো সরানোর পরামর্শ দেয়। আমাদের ব্যবহারকারীদের পছন্দের ভিত্তিতে গুণমান নির্ধারিত হয়ে থাকে — তারা গুণমান বা সফটওয়্যারটি যত সরায় সফটওয়্যারটির গুণমান তত কমে।"
+
+msgid "cloudpagefaq_notifications-q"
+msgstr "DriverPack Cloud ইন্সটল করার পরে, আমার ডেস্কপ্টপে বিভিন্ন প্রজ্ঞাপন (notifications) পাচ্ছি। কীভাবে সেগুলো বন্ধ করবো?"
+
+msgid "cloudpagefaq_notifications-a"
+msgstr "এই প্রজ্ঞাপনসমূহ শুধু কিছু সুপারিশ মাত্র। প্রতিটি প্রজ্ঞাপনের ডানদিকে উপরে ঘন্টার আইকনে ক্লিক করে নির্দিষ্ট ধরনের প্রজ্ঞাপন পাওয়ার সুবিধা বন্ধ করতে পারবেন।"
+
+msgid "cloudpagefaq_usb-q"
+msgstr "যখন ইউএসবি স্লটে আমার ফ্ল্যাশ কার্ড যুক্ত করলাম, ডেস্কটপে কিছু ড্রাইভার সম্বন্ধে একটি প্রজ্ঞাপন (notification) হাজির হলো। এটি কীসের জন্য?"
+
+msgid "cloudpagefaq_usb-a"
+msgstr "নতুন যন্ত্রসমূহের সংযুক্তির বিষয়ে DriverPack Cloud জানায় এবং সেগুলোর যথার্থ ড্রাইভার আছে কিনা তা পরীক্ষা করে। দরকারি ড্রাইভারটি অনুপস্থিত থাকলে, সেটি সাথেসাথে ইন্সটল করা সম্ভব — যন্ত্রটির যথার্থ কার্যক্ষমতার জন্য এটি প্রয়োজনীয়।"
+
 msgid "badrabbitpromopage_cta-text"
 msgstr "Bad Rabbit ক্রিপ্টোগ্রাফিক ভাইরাস — কীভাবে কম্পিউটারকে সুরক্ষিত রাখবেন?"
 
@@ -930,6 +951,51 @@ msgstr "এই সল্যুশনের উন্নয়ন নিম্নো
 
 msgid "badrabbitpromopage_link-smb"
 msgstr "যেভাবে Windows ও Windows Server এর ক্ষেত্রে SMB প্রোটোকলের 1, 2, ও 3 নং ভার্সন সক্রিয় ও নিষ্ক্রিয় করতে হয়"
+
+msgid "cloudlandingpage_cackle-title"
+msgstr "DriverPack Cloud সম্বন্ধে আপনার মতামত আমাদের জানান"
+
+msgid "cloudlandingpage_cackle-caption"
+msgstr "DriverPack Cloud ভাল লেগেছে? আপনি এতে আর কী কী ফাংশন যোগ করতে চান? অনুগ্রহপূর্বক, আমাদের বলুন।"
+
+msgid "cloudlandingpage_header-title"
+msgstr "DriverPack Cloud হলো পিসির দক্ষতা বৃদ্ধি করার নতুন সফটওয়্যার"
+
+msgid "cloudlandingpage_about-what-is-title"
+msgstr "DriverPack Cloud সফটওয়্যারটি কী?"
+
+msgid "cloudlandingpage_about-what-is-caption"
+msgstr "এটি DriverPack দলের পক্ষ থেকে নতুন সফটওয়্যার পণ্য, যা কোনো বাড়তি খরচ বা আপনার পিসির হার্ডওয়্যার আপগ্রেড ছাড়াই কম্পিউটারের দক্ষতা বৃদ্ধির উদ্দেশ্যে তৈরি। আপনার কম্পিউটারে CS: GO বা Dota 2-এর কাজের গতিতে কি সন্তুষ্ট নন? DriverPack Cloud পরখ করে দেখুন!"
+
+msgid "cloudlandingpage_about-how-works-title"
+msgstr "DriverPack Cloud কীভাবে কাজ করে?"
+
+msgid "cloudlandingpage_about-how-works-caption"
+msgstr "আমাদের পণ্য কম্পিউটারে ড্রাইভারসমূহের অবস্থা মূল্যায়ন করে, কম্পিউটারের দক্ষতাকে যেকোনোভাবে প্রভাবিত করে এমন প্রতিটি সফটওয়্যার চিহ্নিত করে, এবং ড্রাইভারসমূহ আপডেটের ও কম্পিউটার ধীর করে দেওয়া সফটওয়্যার সরানোর পরামর্শ দেয়, বা বিপরীতক্রমে, তৃতীয় পক্ষের পণ্যসমূহ ইন্সটলের পরামর্শ দেয় যেগুলো আপনার হার্ডওয়্যারের কাজের গতি বৃদ্ধিতে সাহায্য করবে। সম্পূর্ণ প্রক্রিয়াটি আপনার নিয়ন্ত্রণের মধ্য দিয়ে যায় – আপনার অনুমতি ছাড়া DriverPack Cloud-এর দিক থেকে কোনো ব্যবস্থা নেওয়া হয় না"
+
+msgid "cloudlandingpage_features-monitoring"
+msgstr "এটি ড্রাইভারসমূহের অবস্থা পর্যবেক্ষণ করে, সুবিশাল DriverPack ডেটাবেইজ থেকে গুরুত্বপূর্ণ আপডেটসমূহ ও অনুপস্থিত ড্রাইভারসমূহ ডাউনলোড করে"
+
+msgid "cloudlandingpage_features-safety"
+msgstr "এটি সম্ভাব্য ম্যালওয়্যার দ্রুত ধরতে ও সরাতে সক্ষম করে, এবং এভাবে, অ্যান্টিভাইরাসকে সাহায্য করে"
+
+msgid "cloudlandingpage_features-cloud"
+msgstr "এটি Cloud সেবায় হিসাবসমূহ করে যা কম্পিউটারে বাড়তি সম্পদ (শক্তি, হার্ডওয়্যার ও সফটওয়্যারের ব্যবহার) বাঁচাতে ভূমিকা রাখে"
+
+msgid "cloudlandingpage_uninstall-title"
+msgstr "যেভাবে কম্পিউটার থেকে DriverPack Cloud সম্পূর্ণরূপে সরাবেন"
+
+msgid "cloudlandingpage_uninstall-caption"
+msgstr "আমাদের পণ্য ইন্সটল করেছেন কিন্তু সেটি ব্যবহার করতে চাচ্ছেন না? Control Panel থেকে Software শাখায় যান, এবং Remove Software -এ ক্লিক করুন। ড্রপডাউন তালিকা থেকে DriverPack Cloud খুঁজে নিন এবং স্বাভাবিক প্রক্রিয়া অনুসরণ করে সেটি সরিয়ে ফেলুন। এই হলো পুরো প্রক্রিয়া, সফটওয়্যারটি সরানো সম্পন্ন। সরানোর পরে DriverPack Cloud কোনো গোপন সফটওয়্যার রেখে দেয় না, বা কোনো অ্যাডওয়্যার আবর্জনা দিয়ে আপনার পিসি ভরে দেয় না।"
+
+msgid "cloudlandingpage_license"
+msgstr "অনুগ্রহপূর্বক, ইন্সটলেশন শুরুর আগে {{LINK}} পড়ে নিন"
+
+msgid "cloudlandingpage_features-install"
+msgstr "DriverPack Cloud ইন্সটল করুন"
+
+msgid "cloudlandingpage_license-link"
+msgstr "লাইসেন্সের শর্তাবলী"
 
 msgid "devicegrouppage_show-more-link"
 msgstr "আরও দেখুন"
@@ -1011,11 +1077,19 @@ msgstr "আরও দেখুন"
 msgid "thankyoupopup_download-text"
 msgstr "ডাউনলোড শুরু হয় নি? ক্লিক করুন {{LINK}} এ"
 
+#. i18n: EN: text for {{LINK}} is in key thankyoupopup_licence-link; RU: текст
+#. для {{LINK}} находится в ключе thankyoupopup_licence-link;
+msgid "thankyoupopup_licence-text"
+msgstr "সফটওয়্যারটি ইন্সটলের মাধ্যমে আপনি {{LINK}} মেনে নিচ্ছেন"
+
 msgid "thankyoupopup_title"
 msgstr "DriverPack চালু করুন"
 
 msgid "thankyoupopup_cta-text"
 msgstr "আপনার কম্পিউটারের জন্য ড্রাইভার বাছাই এবং ইন্সটল করা শুরু করতে"
+
+msgid "thankyoupopup_licence-link"
+msgstr "লাইসেন্সের শর্তাবলী"
 
 msgid "thankyoupopup_download-link"
 msgstr "ডাউনলোড"
@@ -1091,3 +1165,18 @@ msgstr "এই সল্যুশনের উন্নয়ন নিম্নো
 
 msgid "wannacryptpromopage_link-smb"
 msgstr "কীভাবে উইন্ডোজ ও উইন্ডোজ সার্ভারের জন্য SMB প্রোটোকলের 1, 2, ও 3 নং ভার্সন সক্রিয় ও নিষ্ক্রিয় করতে হয়"
+
+#~ msgid "cloudpagefooter_download"
+#~ msgstr "DriverPack Cloud ডাউনলোড করুন"
+
+#~ msgid "cloudlandingpage_download"
+#~ msgstr "ডাউনলোড"
+
+#~ msgid "cloudnewlandingpage_license"
+#~ msgstr "অনুগ্রহপূর্বক, ইন্সটলেশন শুরুর আগে {{LINK}} পড়ে নিন"
+
+#~ msgid "cloudnewlandingpage_license-link"
+#~ msgstr "লাইসেন্সের শর্তাবলী"
+
+#~ msgid "landingheadernav_badrabbit"
+#~ msgstr "Bad Rabbit এর বিরুদ্ধে সুরক্ষা"

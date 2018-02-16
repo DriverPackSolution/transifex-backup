@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-01-11 11:55+0000\n"
+"POT-Creation-Date: 2018-02-07 13:21+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Adigun Olumide <adigunsamuel84@gmail.com>, 2017\n"
 "Language-Team: Yoruba (https://www.transifex.com/driverpack-solution/teams/75453/yo/)\n"
@@ -45,6 +45,12 @@ msgstr "Gba awọn DriverPack Online"
 
 msgid "buttonsplitdropdown_main-button"
 msgstr "Gbigba lati ayelujara"
+
+msgid "cloudfaq_landing-title"
+msgstr "A dahun ibeere rẹ"
+
+msgid "cloudpagefooter_license-link"
+msgstr "Adehun Iwe-aṣẹ"
 
 msgid "breadcrumbs_main-text"
 msgstr "Oju ile"
@@ -336,9 +342,6 @@ msgstr "DriverPack yoo fi awọn awakọ sii fun lọfẹ ati yanju awọn iwak�
 msgid "landingheader_cta-btn"
 msgstr "Fi gbogbo drivers ti a beere sii"
 
-msgid "landingheadernav_badrabbit"
-msgstr "Idaabobo lodi si Bad Rabbit"
-
 msgid "landingheadernav_search"
 msgstr "Iwadi driver"
 
@@ -379,7 +382,7 @@ msgid "landingproducts_item-title-online"
 msgstr "DriverPack Online"
 
 msgid "landingproducts_item-description-online"
-msgstr "O ti gba lati ayelujara lẹsẹkẹsẹ, gbigba lati ayelujara ati fifi gbogbo awakọ sii ti o ba ni asopọ Ayelujara <span class='nobr'>({{SIZE}})</span>"
+msgstr ""
 
 msgid "landingproducts_item-version"
 msgstr "Version: "
@@ -523,7 +526,7 @@ msgid "reviewheader_cta-text"
 msgstr "Darapọ mọ agbegbe DriverPack ni awọn aaye ayelujara ti nẹtiwoki lati tọju awọn iroyin nipa ọja naa ki o si kopa ninu awọn ijiroro"
 
 msgid "reviewheader_cta"
-msgstr "Fi ero rẹ tabi imọran si imudarasi DriverPack"
+msgstr ""
 
 msgid "search_input-placeholder"
 msgstr "Ṣawari fun orukọ driver, laptop tabi DeviceID"
@@ -900,6 +903,24 @@ msgstr "A ko ti fi sori ẹrọ driver naa daradara ati kọmputa mi bayi ni o n
 msgid "adminpagefaq_stable-a"
 msgstr "Iduroṣinṣin iṣiṣẹ ti DriverPack software jẹ ọkan ninu awọn iṣaaju pataki wa ṣugbọn awọn ikuna kekere ṣi ṣẹlẹ, bi o tilẹ jẹ pe o ṣe pataki. Eyi ni idi ti a fi ṣẹda aaye ti o pada wa ti yoo mu ki o pada ohun gbogbo pada si iṣeto ti iṣeto tẹlẹ. Lati le daabobo iru iṣoro kanna ni ojo iwaju, a ṣe iṣeduro fun ọ lati lọ si akojọ aṣayan DriverPack ki o si fi ijabọ naa ti o ṣẹda laifọwọyi nipa software naa, si awọn iṣẹ imọ ẹrọ wa."
 
+msgid "cloudpagefaq_remove_soft-q"
+msgstr ""
+
+msgid "cloudpagefaq_remove_soft-a"
+msgstr ""
+
+msgid "cloudpagefaq_notifications-q"
+msgstr ""
+
+msgid "cloudpagefaq_notifications-a"
+msgstr ""
+
+msgid "cloudpagefaq_usb-q"
+msgstr ""
+
+msgid "cloudpagefaq_usb-a"
+msgstr ""
+
 msgid "badrabbitpromopage_cta-text"
 msgstr "Bad Rabbit Iwoye cryptographic — bi o ṣe le dabobo PC rẹ?"
 
@@ -929,6 +950,51 @@ msgstr "Idagbasoke ti ojutu yii da lori awọn ohun elo wọnyi"
 
 msgid "badrabbitpromopage_link-smb"
 msgstr "Bawo ni lati ṣe mu ati mu awọn ẹya 1, 2, ati 3 ti awọn ilana SMB fun Windows ati Windows Server"
+
+msgid "cloudlandingpage_cackle-title"
+msgstr ""
+
+msgid "cloudlandingpage_cackle-caption"
+msgstr ""
+
+msgid "cloudlandingpage_header-title"
+msgstr ""
+
+msgid "cloudlandingpage_about-what-is-title"
+msgstr ""
+
+msgid "cloudlandingpage_about-what-is-caption"
+msgstr ""
+
+msgid "cloudlandingpage_about-how-works-title"
+msgstr ""
+
+msgid "cloudlandingpage_about-how-works-caption"
+msgstr ""
+
+msgid "cloudlandingpage_features-monitoring"
+msgstr ""
+
+msgid "cloudlandingpage_features-safety"
+msgstr ""
+
+msgid "cloudlandingpage_features-cloud"
+msgstr ""
+
+msgid "cloudlandingpage_uninstall-title"
+msgstr ""
+
+msgid "cloudlandingpage_uninstall-caption"
+msgstr ""
+
+msgid "cloudlandingpage_license"
+msgstr ""
+
+msgid "cloudlandingpage_features-install"
+msgstr ""
+
+msgid "cloudlandingpage_license-link"
+msgstr "Adehun Iwe-aṣẹ"
 
 msgid "devicegrouppage_show-more-link"
 msgstr "Wo si"
@@ -1010,11 +1076,19 @@ msgstr "Wo si"
 msgid "thankyoupopup_download-text"
 msgstr "Gba lati ayelujara ko ti bẹrẹ? Tẹ ibi si {{LINK}}"
 
+#. i18n: EN: text for {{LINK}} is in key thankyoupopup_licence-link; RU: текст
+#. для {{LINK}} находится в ключе thankyoupopup_licence-link;
+msgid "thankyoupopup_licence-text"
+msgstr ""
+
 msgid "thankyoupopup_title"
 msgstr "Bẹrẹ DriverPack"
 
 msgid "thankyoupopup_cta-text"
 msgstr "lati bẹrẹ yan ati fifi awọn driver sii si kọmputa rẹ"
+
+msgid "thankyoupopup_licence-link"
+msgstr "Adehun Iwe-aṣẹ"
 
 msgid "thankyoupopup_download-link"
 msgstr "Gbigba lati ayelujara"
@@ -1090,3 +1164,18 @@ msgstr "Idagbasoke ti ojutu yii da lori awọn ohun elo wọnyi"
 
 msgid "wannacryptpromopage_link-smb"
 msgstr "Bawo ni lati ṣe mu ati mu awọn ẹya 1, 2, ati 3 ti awọn ilana SMB fun Windows ati Windows Server"
+
+#~ msgid "cloudpagefooter_download"
+#~ msgstr ""
+
+#~ msgid "cloudlandingpage_download"
+#~ msgstr "Gbigba lati ayelujara"
+
+#~ msgid "cloudnewlandingpage_license"
+#~ msgstr ""
+
+#~ msgid "cloudnewlandingpage_license-link"
+#~ msgstr "Adehun Iwe-aṣẹ"
+
+#~ msgid "landingheadernav_badrabbit"
+#~ msgstr "Idaabobo lodi si Bad Rabbit"

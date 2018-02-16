@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-01-11 11:55+0000\n"
+"POT-Creation-Date: 2018-02-07 13:21+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Ir Kayembe Blaise <kablaise22@gmail.com>, 2017\n"
 "Language-Team: Swahili (https://www.transifex.com/driverpack-solution/teams/75453/sw/)\n"
@@ -46,6 +46,12 @@ msgstr "Pakua DriverPack Online"
 
 msgid "buttonsplitdropdown_main-button"
 msgstr "Pakua"
+
+msgid "cloudfaq_landing-title"
+msgstr "Tunajibu maswali yako"
+
+msgid "cloudpagefooter_license-link"
+msgstr "Mkataba wa leseni"
 
 msgid "breadcrumbs_main-text"
 msgstr "Ukurasa wa Mwanzo"
@@ -337,9 +343,6 @@ msgstr "DriverPack taweka ma driver kwa bure na kutatua matatizo ya driver kweny
 msgid "landingheader_cta-btn"
 msgstr "Install ma drever yote yanayotakiwa"
 
-msgid "landingheadernav_badrabbit"
-msgstr "Ulinzi dhidi ya Bad Rabbit"
-
 msgid "landingheadernav_search"
 msgstr "Utafutaji wa driver"
 
@@ -380,7 +383,7 @@ msgid "landingproducts_item-title-online"
 msgstr "DriverPack Online"
 
 msgid "landingproducts_item-description-online"
-msgstr "Inapakuliwa mara moja, kupakuliwa na install ma drever yote ikiwa una mutandao wa intaneti <span class='nobr'>({{SIZE}})</span>"
+msgstr ""
 
 msgid "landingproducts_item-version"
 msgstr "Mufumo:"
@@ -524,7 +527,7 @@ msgid "reviewheader_cta-text"
 msgstr "Jiunge DriverPack jamii katika mitandao ya kijamii ili kuendelea na habari kuhusu bidhaa na kushiriki katika majadiliano"
 
 msgid "reviewheader_cta"
-msgstr "Ongeza maoni yako au maoni juu ya kuboresha DriverPack"
+msgstr ""
 
 msgid "search_input-placeholder"
 msgstr "Tafuta jina la driver, laptop ao DeviceID"
@@ -901,6 +904,24 @@ msgstr "Driver haijawekwa vizuri na kompyuta yangu sasa ina matatizo. Nawezaje k
 msgid "adminpagefaq_stable-a"
 msgstr "Utekelezaji wa programu ya DriverPack ni mojawapo ya vipaumbele vyenye kuu lakini kushindwa madogo bado kunajitokeza, ingawa ni chache. Hii ndio sababu tunaunda uhakika wa kurejesha ambayo itawawezesha kurudi kila kitu kwenye hali iliyowekwa awali. Ili kuzuia tatizo sawa katika siku zijazo, tunakupendekeza kwenda kwenye Menyu ya DriverPack na tuma ripoti ambayo imeundwa moja kwa moja na programu, kwa huduma zetu za kiufundi."
 
+msgid "cloudpagefaq_remove_soft-q"
+msgstr ""
+
+msgid "cloudpagefaq_remove_soft-a"
+msgstr ""
+
+msgid "cloudpagefaq_notifications-q"
+msgstr ""
+
+msgid "cloudpagefaq_notifications-a"
+msgstr ""
+
+msgid "cloudpagefaq_usb-q"
+msgstr ""
+
+msgid "cloudpagefaq_usb-a"
+msgstr ""
+
 msgid "badrabbitpromopage_cta-text"
 msgstr "Virusi vya Bad Rabbit ya cryptographic — jinsi ya kulinda PC yako?"
 
@@ -930,6 +951,51 @@ msgstr "Maendeleo wa ufumbuzi huu ulitegemea vifaa vifuatavyo"
 
 msgid "badrabbitpromopage_link-smb"
 msgstr "Jinsi ya kuwawezesha na kutowawezesha matoleo ya 1, 2, na ya 3 ya SMB kwa Windows na Windows Server"
+
+msgid "cloudlandingpage_cackle-title"
+msgstr ""
+
+msgid "cloudlandingpage_cackle-caption"
+msgstr ""
+
+msgid "cloudlandingpage_header-title"
+msgstr ""
+
+msgid "cloudlandingpage_about-what-is-title"
+msgstr ""
+
+msgid "cloudlandingpage_about-what-is-caption"
+msgstr ""
+
+msgid "cloudlandingpage_about-how-works-title"
+msgstr ""
+
+msgid "cloudlandingpage_about-how-works-caption"
+msgstr ""
+
+msgid "cloudlandingpage_features-monitoring"
+msgstr ""
+
+msgid "cloudlandingpage_features-safety"
+msgstr ""
+
+msgid "cloudlandingpage_features-cloud"
+msgstr ""
+
+msgid "cloudlandingpage_uninstall-title"
+msgstr ""
+
+msgid "cloudlandingpage_uninstall-caption"
+msgstr ""
+
+msgid "cloudlandingpage_license"
+msgstr ""
+
+msgid "cloudlandingpage_features-install"
+msgstr ""
+
+msgid "cloudlandingpage_license-link"
+msgstr "Mkataba wa leseni"
 
 msgid "devicegrouppage_show-more-link"
 msgstr "Ona zaidi"
@@ -1011,11 +1077,19 @@ msgstr "Ona zaidi"
 msgid "thankyoupopup_download-text"
 msgstr "Je! upakuaji haujaanza? Bonyeza hapa {{LINK}}"
 
+#. i18n: EN: text for {{LINK}} is in key thankyoupopup_licence-link; RU: текст
+#. для {{LINK}} находится в ключе thankyoupopup_licence-link;
+msgid "thankyoupopup_licence-text"
+msgstr ""
+
 msgid "thankyoupopup_title"
 msgstr "Anza DriverPack"
 
 msgid "thankyoupopup_cta-text"
 msgstr "kuanza kuanza kuchagua na kufunga madereva kwenye kompyuta yako"
+
+msgid "thankyoupopup_licence-link"
+msgstr "Mkataba wa leseni"
 
 msgid "thankyoupopup_download-link"
 msgstr "pakua"
@@ -1091,3 +1165,18 @@ msgstr "Maendeleo wa ufumbuzi huu ulitegemea vifaa vifuatavyo"
 
 msgid "wannacryptpromopage_link-smb"
 msgstr "Jinsi ya kuwawezesha na kutowawezesha matoleo ya 1, 2, na ya 3 ya SMB kwa Windows na Windows Server"
+
+#~ msgid "cloudpagefooter_download"
+#~ msgstr ""
+
+#~ msgid "cloudlandingpage_download"
+#~ msgstr "Pakua"
+
+#~ msgid "cloudnewlandingpage_license"
+#~ msgstr ""
+
+#~ msgid "cloudnewlandingpage_license-link"
+#~ msgstr "Mkataba wa leseni"
+
+#~ msgid "landingheadernav_badrabbit"
+#~ msgstr "Ulinzi dhidi ya Bad Rabbit"

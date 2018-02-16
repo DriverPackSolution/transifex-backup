@@ -13,7 +13,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-01-11 11:55+0000\n"
+"POT-Creation-Date: 2018-02-07 13:21+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Nuriya Amin <riyanuri90@gmail.com>, 2017\n"
 "Language-Team: Indonesian (https://www.transifex.com/driverpack-solution/teams/75453/id/)\n"
@@ -52,6 +52,12 @@ msgstr "Unduh DrivePack Online"
 
 msgid "buttonsplitdropdown_main-button"
 msgstr "Unduh"
+
+msgid "cloudfaq_landing-title"
+msgstr "Kami menjawab pertanyaan-pertanyan anda"
+
+msgid "cloudpagefooter_license-link"
+msgstr "Perjanjian Lisensi"
 
 msgid "breadcrumbs_main-text"
 msgstr "Halaman depan"
@@ -343,9 +349,6 @@ msgstr "DriverPack akan menginstal driver secara gratis dan memecahkan masalah d
 msgid "landingheader_cta-btn"
 msgstr "Pasang semua driver yang dibutuhkan"
 
-msgid "landingheadernav_badrabbit"
-msgstr "Perlindungan serangan Bad Rabbit"
-
 msgid "landingheadernav_search"
 msgstr "Mencari Driver"
 
@@ -386,7 +389,7 @@ msgid "landingproducts_item-title-online"
 msgstr "DriverPack Online"
 
 msgid "landingproducts_item-description-online"
-msgstr "Ini di unduh dengan instan, unduh dan pasang semua driver jika Anda mempunyai koneks internet <span class='nobr'> ({{SIZE}}) </span>"
+msgstr ""
 
 msgid "landingproducts_item-version"
 msgstr "Versi:"
@@ -530,7 +533,7 @@ msgid "reviewheader_cta-text"
 msgstr "Bergabunglah dengan komunitas DriverPack di jejaring sosial untuk mengikuti berita tentang produk dan ikuti diskusi tentan DriverPack."
 
 msgid "reviewheader_cta"
-msgstr "Tambahkan opinimu atau usulan untuk meningkatkan DriverPack"
+msgstr ""
 
 msgid "search_input-placeholder"
 msgstr "Cari nama dari driver, komputer jingjing atau DeviceID"
@@ -907,6 +910,24 @@ msgstr "Driver belum diinstal dengan benar dan komputerku sekarang bermasalah. B
 msgid "adminpagefaq_stable-a"
 msgstr "Stabilitas pengoperasian dari perangkat lunak DriverPack adalah prioritas kami tetapi kesalahan kecil mungkin terjadi, tapi itu sangat jarang. Ini mengapa kami membuat titik kembalian yang akan dapat mengembalikan secara keseluruhan ke konfigurasi awal. Untuk mencegah masalah yang sama di kemudian hari, kami merekomendasikan untuk membuka menu DriverPack dan mengirim  laporan yang otomatis dibuat untuk dikirimkan ke pelayanan teknis kami."
 
+msgid "cloudpagefaq_remove_soft-q"
+msgstr ""
+
+msgid "cloudpagefaq_remove_soft-a"
+msgstr ""
+
+msgid "cloudpagefaq_notifications-q"
+msgstr ""
+
+msgid "cloudpagefaq_notifications-a"
+msgstr ""
+
+msgid "cloudpagefaq_usb-q"
+msgstr ""
+
+msgid "cloudpagefaq_usb-a"
+msgstr ""
+
 msgid "badrabbitpromopage_cta-text"
 msgstr "Virus Bad Rabbit cryptographic — bagaimana melindungi komputermu?"
 
@@ -936,6 +957,51 @@ msgstr "Pengembangan dari solusi ini didasarkan pada pilihan bahan-bahan"
 
 msgid "badrabbitpromopage_link-smb"
 msgstr "bagaimana menyalakan dan mematikan versi 1, 2 dan 3 protokol SMB untuk Windows dan Windows Server"
+
+msgid "cloudlandingpage_cackle-title"
+msgstr ""
+
+msgid "cloudlandingpage_cackle-caption"
+msgstr ""
+
+msgid "cloudlandingpage_header-title"
+msgstr ""
+
+msgid "cloudlandingpage_about-what-is-title"
+msgstr ""
+
+msgid "cloudlandingpage_about-what-is-caption"
+msgstr ""
+
+msgid "cloudlandingpage_about-how-works-title"
+msgstr ""
+
+msgid "cloudlandingpage_about-how-works-caption"
+msgstr ""
+
+msgid "cloudlandingpage_features-monitoring"
+msgstr ""
+
+msgid "cloudlandingpage_features-safety"
+msgstr ""
+
+msgid "cloudlandingpage_features-cloud"
+msgstr ""
+
+msgid "cloudlandingpage_uninstall-title"
+msgstr ""
+
+msgid "cloudlandingpage_uninstall-caption"
+msgstr ""
+
+msgid "cloudlandingpage_license"
+msgstr ""
+
+msgid "cloudlandingpage_features-install"
+msgstr ""
+
+msgid "cloudlandingpage_license-link"
+msgstr "Perjanjian Lisensi"
 
 msgid "devicegrouppage_show-more-link"
 msgstr "Tampilkan lebih banyak"
@@ -1017,11 +1083,19 @@ msgstr "Tampilkan lebih banyak"
 msgid "thankyoupopup_download-text"
 msgstr "Unduh belum dimulai? Klik disini untuk {{LINK}}"
 
+#. i18n: EN: text for {{LINK}} is in key thankyoupopup_licence-link; RU: текст
+#. для {{LINK}} находится в ключе thankyoupopup_licence-link;
+msgid "thankyoupopup_licence-text"
+msgstr ""
+
 msgid "thankyoupopup_title"
 msgstr "Mulai DriverPack"
 
 msgid "thankyoupopup_cta-text"
 msgstr "untuk memulai memilih dan memasang driver ke komputermu"
+
+msgid "thankyoupopup_licence-link"
+msgstr "Perjanjian Lisensi"
 
 msgid "thankyoupopup_download-link"
 msgstr "unduh"
@@ -1097,3 +1171,18 @@ msgstr "Pengembangan dari solusi ini didasarkan pada pilihan bahan-bahan"
 
 msgid "wannacryptpromopage_link-smb"
 msgstr "bagaimana menyalakan dan mematikan versi 1, 2 dan 3 protokol SMB untuk Windows dan Windows Server"
+
+#~ msgid "cloudpagefooter_download"
+#~ msgstr ""
+
+#~ msgid "cloudlandingpage_download"
+#~ msgstr "Unduh"
+
+#~ msgid "cloudnewlandingpage_license"
+#~ msgstr ""
+
+#~ msgid "cloudnewlandingpage_license-link"
+#~ msgstr "Perjanjian Lisensi"
+
+#~ msgid "landingheadernav_badrabbit"
+#~ msgstr "Perlindungan serangan Bad Rabbit"

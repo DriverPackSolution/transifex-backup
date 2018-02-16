@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-01-11 11:55+0000\n"
+"POT-Creation-Date: 2018-02-07 13:21+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Olavi EstFix <estfix@gmail.com>, 2017\n"
 "Language-Team: Estonian (https://www.transifex.com/driverpack-solution/teams/75453/et/)\n"
@@ -47,6 +47,12 @@ msgstr "Lae alla DriverPack Online"
 
 msgid "buttonsplitdropdown_main-button"
 msgstr "Lae alla"
+
+msgid "cloudfaq_landing-title"
+msgstr "Me vastame teie küsimustele"
+
+msgid "cloudpagefooter_license-link"
+msgstr "Litsents"
 
 msgid "breadcrumbs_main-text"
 msgstr "Koduleht"
@@ -337,9 +343,6 @@ msgstr "DriverPack paigaldab draiverid tasuta ja lahendab draiveriprobleemid iga
 
 msgid "landingheader_cta-btn"
 msgstr "Paigalda kõik vajalikud draiverid"
-
-msgid "landingheadernav_badrabbit"
-msgstr "Kaitse Bad Rabbiti eest"
 
 msgid "landingheadernav_search"
 msgstr "Draiverite otsing"
@@ -902,6 +905,24 @@ msgstr "Draiverit ei paigaldatud õigesti ja nüüd on mul probleeme. Kuidas sed
 msgid "adminpagefaq_stable-a"
 msgstr "DraiverPacki stabiilsus on meie prioriteet, kuid väiksed vead ikka tekivad, kuigi harva. Seepärast oleme loonud taastepunkti, mis lubab teil tagasi keerata kõik muudatused. Et vältida tulevikus sama probleemi, soovitame minna DriverPack menüüse ja saata raport, mis genereeritakse automaatselt meie tarkvara poolt ja saadetakse tehnikutele."
 
+msgid "cloudpagefaq_remove_soft-q"
+msgstr "Miks soovitab DriverPack Cloud eemaldada mul mõnda programmi arvutist?"
+
+msgid "cloudpagefaq_remove_soft-a"
+msgstr "Madalate hinnangutega tarkvara on tavaliselt pahavara või viirus, seepärast soovitab DriverPack Cloud need eemaldada. Hinnang põhineb kasutajate tegevusest  — mida rohkem kasutajaid eemaldab antud tarkvara seda madalam on tarkvara hinnang."
+
+msgid "cloudpagefaq_notifications-q"
+msgstr "Pärast DriverPack Cloud paigaldamist, olen saama hakanud erinevaid teadaandeid. Kuidas neid keelata?"
+
+msgid "cloudpagefaq_notifications-a"
+msgstr "Need teavitused on lihtsalt soovitused. Te saate erinevat sorti teavitused keelata, vajutades üleval paremal kella ikooniga nuppu teavituse aknas."
+
+msgid "cloudpagefaq_usb-q"
+msgstr "Kui ma ühendan oma mälukaardi usb pesasse, tuleb mulle ekraanile teavitus draiverite kohta. Mille jaoks see on?"
+
+msgid "cloudpagefaq_usb-a"
+msgstr "DriverPack Cloud tuvastab uute seadmete ühendamist teie arvutiga, ning kontrollib kas neil on vajalik draiver. Kui vajalik draiver puudub, on võimalus see paigaldada koheselt — see on vajalik, et saaksite kasutada oma seadmeid korralikult."
+
 msgid "badrabbitpromopage_cta-text"
 msgstr "Bad Rabbit krüptoviirus  —  kuidas ennast kaitsta?"
 
@@ -931,6 +952,51 @@ msgstr "Selle valiku arendamine põhineb sellel materjalil"
 
 msgid "badrabbitpromopage_link-smb"
 msgstr "Kuidas lubada ja keelata SMB protokolli 1, 2 ja 3 versioon Windowsis ja Windows Serveris"
+
+msgid "cloudlandingpage_cackle-title"
+msgstr "Teavita meid oma arvamusest DriverPack Cloud kohta"
+
+msgid "cloudlandingpage_cackle-caption"
+msgstr "Kas teile meeldib DriverPack Cloud? Milliseid lisafunktsoone te sellele sooviksite? Palun andke teada."
+
+msgid "cloudlandingpage_header-title"
+msgstr "DriverPack Cloud on uus tarkvara teie arvuti efektiivsuse tõstmiseks"
+
+msgid "cloudlandingpage_about-what-is-title"
+msgstr "Mis on DriverPack Cloud tarkvara?"
+
+msgid "cloudlandingpage_about-what-is-caption"
+msgstr "See on uus tarkvara DriverPack tiimi poolt, mis on mõeldud teie arvuti töövõime suurendamiseks ilma mingisuguste lisakuludeta või riistvara uuendusteta. Kas olete rahul CS: GO või Dota 2 töötamisega oma arvutis? Proovige DriverPack Cloud!"
+
+msgid "cloudlandingpage_about-how-works-title"
+msgstr "Kuidas töötab DriverPack Cloud?"
+
+msgid "cloudlandingpage_about-how-works-caption"
+msgstr "Meie toode analüüsib teie arvuti draiverite olukorda, tuvastab iga tarkvara mis mõjutab mingit moodi teie arvuti effektiivsust. Annab soovitusi draiverite uuendamise kohta, ning tarkvara eemaldamise kohta mis aeglustavad teie arvutit. Või vastupidi soovitab kolmandate osapoolte programme millega saaksite oma arvutit kiiremaks muuta. Kogu protsess toimub teie kontrolli all  – DriverPack Cloud ei tee ilma teie nõusolekuta mitte midagi."
+
+msgid "cloudlandingpage_features-monitoring"
+msgstr "See jälgib teie draivertite olekut, laeb alla vajalikud uuendused ning puuduvad draiverid tohutust DriverPack andmebaasist"
+
+msgid "cloudlandingpage_features-safety"
+msgstr "See lubab leida ja eemaldada potensiaalset pahavara kiirelt, ning seega abistab teie antiviirust"
+
+msgid "cloudlandingpage_features-cloud"
+msgstr "See teeb kalkulatsioone Cloud teenuses, mis lubab vabastada lisaresursse teie arvutis"
+
+msgid "cloudlandingpage_uninstall-title"
+msgstr "Kuidas eemaldada DriverPack Cloud täielikult teie arvutist"
+
+msgid "cloudlandingpage_uninstall-caption"
+msgstr "Kas olete paigaldanud meie tarkvara, kuid ei soovi seda kasutada? Minge juhtpaneeli, sealt programmide eemaldamisse - sealt otsige ülesse DriverPack Cloud ning eemaldage see. See ongi kõik, tarkvara on eemaldatud. DriverPack Cloud ei jäta teile mingeid peidetuid faile, ega ei risusta teie arvutit mingite pahavara lisadega."
+
+msgid "cloudlandingpage_license"
+msgstr "Ennem paigaldamise alustamist lugege palun {{LINK}}"
+
+msgid "cloudlandingpage_features-install"
+msgstr "Paigalda DriverPack Cloud"
+
+msgid "cloudlandingpage_license-link"
+msgstr "Litsents"
 
 msgid "devicegrouppage_show-more-link"
 msgstr "Kuva rohkem"
@@ -1012,11 +1078,19 @@ msgstr "Kuva rohkem"
 msgid "thankyoupopup_download-text"
 msgstr "Allalaadimine pole alanud? Vajuta siia {{LINK}}"
 
+#. i18n: EN: text for {{LINK}} is in key thankyoupopup_licence-link; RU: текст
+#. для {{LINK}} находится в ключе thankyoupopup_licence-link;
+msgid "thankyoupopup_licence-text"
+msgstr "Selle tarkvara paigaldamisega nõustute te {{LINK}} tingimustega"
+
 msgid "thankyoupopup_title"
 msgstr "Käivita DriverPack"
 
 msgid "thankyoupopup_cta-text"
 msgstr "et alustada oma arvutile draiverite valimist ja paigaldamist"
+
+msgid "thankyoupopup_licence-link"
+msgstr "Litsents"
 
 msgid "thankyoupopup_download-link"
 msgstr "lae alla"
@@ -1092,3 +1166,18 @@ msgstr "Selle valiku arendamine põhineb sellel materjalil"
 
 msgid "wannacryptpromopage_link-smb"
 msgstr "Kuidas lubada ja keelata SMB protokolli 1, 2 ja 3 versioon Windowsis ja Windows Serveris"
+
+#~ msgid "cloudpagefooter_download"
+#~ msgstr "Lae alla DriverPack Cloud"
+
+#~ msgid "cloudlandingpage_download"
+#~ msgstr "Lae alla"
+
+#~ msgid "cloudnewlandingpage_license"
+#~ msgstr "Ennem paigaldamise alustamist lugege palun {{LINK}}"
+
+#~ msgid "cloudnewlandingpage_license-link"
+#~ msgstr "Litsents"
+
+#~ msgid "landingheadernav_badrabbit"
+#~ msgstr "Kaitse Bad Rabbiti eest"

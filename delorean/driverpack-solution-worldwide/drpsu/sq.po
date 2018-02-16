@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-01-11 11:55+0000\n"
+"POT-Creation-Date: 2018-02-07 13:21+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Niti10 <adnitkamberi10@gmail.com>, 2018\n"
 "Language-Team: Albanian (https://www.transifex.com/driverpack-solution/teams/75453/sq/)\n"
@@ -47,6 +47,12 @@ msgstr "Shkarko DriverPack Online"
 
 msgid "buttonsplitdropdown_main-button"
 msgstr "Shkarko"
+
+msgid "cloudfaq_landing-title"
+msgstr "Ne i pergjigjemi pyetjeve tuaja"
+
+msgid "cloudpagefooter_license-link"
+msgstr "Marrëveshja e Licencës"
 
 msgid "breadcrumbs_main-text"
 msgstr "Faqja Hyrëse"
@@ -338,9 +344,6 @@ msgstr "DriverPack instalon drajverat falas dhe zgjidh problemet me drajverat n�
 msgid "landingheader_cta-btn"
 msgstr "instalo të gjith driverat e nevojshëm"
 
-msgid "landingheadernav_badrabbit"
-msgstr "Mbrojtje nga Bad Rabbit"
-
 msgid "landingheadernav_search"
 msgstr "Kërkim Drajveri"
 
@@ -381,7 +384,7 @@ msgid "landingproducts_item-title-online"
 msgstr "DriverPack Online"
 
 msgid "landingproducts_item-description-online"
-msgstr "Shkarkohet në çast, shkarkohet dhe instalon të gjithë drajverat nëse keni lidhje Interneti <span class='nobr'>({{SIZE}})</span>"
+msgstr ""
 
 msgid "landingproducts_item-version"
 msgstr "Versioni:"
@@ -525,7 +528,7 @@ msgid "reviewheader_cta-text"
 msgstr "Bashkohu me komunitetin e DriverPack në rrjetet sociale për të qenë i përditësuar me të rejat e produktit dhe merr pjesë në diskutime"
 
 msgid "reviewheader_cta"
-msgstr "Shto opinionin ose sugjerimin tuaj për përmirësimin e DriverPack"
+msgstr ""
 
 msgid "search_input-placeholder"
 msgstr "Kërko emrin e drajverit, laptopit ose DeviceID"
@@ -902,6 +905,24 @@ msgstr "Drajveri nuk është instaluar siç duhet dhe kompjuteri tani ka problem
 msgid "adminpagefaq_stable-a"
 msgstr ""
 
+msgid "cloudpagefaq_remove_soft-q"
+msgstr ""
+
+msgid "cloudpagefaq_remove_soft-a"
+msgstr ""
+
+msgid "cloudpagefaq_notifications-q"
+msgstr ""
+
+msgid "cloudpagefaq_notifications-a"
+msgstr ""
+
+msgid "cloudpagefaq_usb-q"
+msgstr ""
+
+msgid "cloudpagefaq_usb-a"
+msgstr ""
+
 msgid "badrabbitpromopage_cta-text"
 msgstr "Virusi kriptografik Bad Rabbit — si të mbrojmë kompjuterin tuaj?"
 
@@ -931,6 +952,51 @@ msgstr "Zhvillimi i kësaj zgjidhje është bazuar në materialet që vijojnë"
 
 msgid "badrabbitpromopage_link-smb"
 msgstr "Si të lejoni dhe anuloni versionet 1, 2, dhe 3 të protokolit SMB për Windows dhe Windows Server"
+
+msgid "cloudlandingpage_cackle-title"
+msgstr ""
+
+msgid "cloudlandingpage_cackle-caption"
+msgstr ""
+
+msgid "cloudlandingpage_header-title"
+msgstr ""
+
+msgid "cloudlandingpage_about-what-is-title"
+msgstr ""
+
+msgid "cloudlandingpage_about-what-is-caption"
+msgstr ""
+
+msgid "cloudlandingpage_about-how-works-title"
+msgstr ""
+
+msgid "cloudlandingpage_about-how-works-caption"
+msgstr ""
+
+msgid "cloudlandingpage_features-monitoring"
+msgstr ""
+
+msgid "cloudlandingpage_features-safety"
+msgstr ""
+
+msgid "cloudlandingpage_features-cloud"
+msgstr ""
+
+msgid "cloudlandingpage_uninstall-title"
+msgstr ""
+
+msgid "cloudlandingpage_uninstall-caption"
+msgstr ""
+
+msgid "cloudlandingpage_license"
+msgstr ""
+
+msgid "cloudlandingpage_features-install"
+msgstr ""
+
+msgid "cloudlandingpage_license-link"
+msgstr "Marrëveshja e Licencës"
 
 msgid "devicegrouppage_show-more-link"
 msgstr "Shiko më shum"
@@ -1012,11 +1078,19 @@ msgstr "Shiko më shum"
 msgid "thankyoupopup_download-text"
 msgstr "Shkarkimi nuk ka filluar? Kliko këtu për {{LINK}}"
 
+#. i18n: EN: text for {{LINK}} is in key thankyoupopup_licence-link; RU: текст
+#. для {{LINK}} находится в ключе thankyoupopup_licence-link;
+msgid "thankyoupopup_licence-text"
+msgstr ""
+
 msgid "thankyoupopup_title"
 msgstr "Nise DriverPack"
 
 msgid "thankyoupopup_cta-text"
 msgstr "për të filluar selektimin dhe instalimin e drajverave në kompjuterin tuaj"
+
+msgid "thankyoupopup_licence-link"
+msgstr "Marrëveshja e Licencës"
 
 msgid "thankyoupopup_download-link"
 msgstr "shkarko"
@@ -1092,3 +1166,18 @@ msgstr "Zhvillimi i kësaj zgjidhje është bazuar në materialet që vijojnë"
 
 msgid "wannacryptpromopage_link-smb"
 msgstr "Si të lejoni dhe anuloni versionet 1, 2, dhe 3 të protokolit SMB për Windows dhe Windows Server"
+
+#~ msgid "cloudpagefooter_download"
+#~ msgstr ""
+
+#~ msgid "cloudlandingpage_download"
+#~ msgstr "Shkarko"
+
+#~ msgid "cloudnewlandingpage_license"
+#~ msgstr ""
+
+#~ msgid "cloudnewlandingpage_license-link"
+#~ msgstr "Marrëveshja e Licencës"
+
+#~ msgid "landingheadernav_badrabbit"
+#~ msgstr "Mbrojtje nga Bad Rabbit"

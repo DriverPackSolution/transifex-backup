@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-01-11 11:55+0000\n"
+"POT-Creation-Date: 2018-02-07 13:21+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: danfong <danfong.hsieh@gmail.com>, 2017\n"
 "Language-Team: Chinese (https://www.transifex.com/driverpack-solution/teams/75453/zh/)\n"
@@ -44,6 +44,12 @@ msgstr "下載 DriverPack Online"
 
 msgid "buttonsplitdropdown_main-button"
 msgstr "下載"
+
+msgid "cloudfaq_landing-title"
+msgstr "我們回答您的問題"
+
+msgid "cloudpagefooter_license-link"
+msgstr "授權合約"
 
 msgid "breadcrumbs_main-text"
 msgstr "首頁"
@@ -335,9 +341,6 @@ msgstr "DriverPack 將免費安裝驅動程式 並解決任何裝置的問題"
 msgid "landingheader_cta-btn"
 msgstr "安裝所有所需的驅動程式"
 
-msgid "landingheadernav_badrabbit"
-msgstr "防止 Bad Rabbit"
-
 msgid "landingheadernav_search"
 msgstr "驅動程式搜尋"
 
@@ -378,7 +381,7 @@ msgid "landingproducts_item-title-online"
 msgstr "DriverPack Online"
 
 msgid "landingproducts_item-description-online"
-msgstr "如果您連接到網路 <span class='nobr'>({{SIZE}})</span>，它將立即下載 並安裝所有的驅動程式"
+msgstr ""
 
 msgid "landingproducts_item-version"
 msgstr "版本:"
@@ -522,7 +525,7 @@ msgid "reviewheader_cta-text"
 msgstr "在社交網絡中加入 DriverPack 社群，跟上產品的消息，並參與討論"
 
 msgid "reviewheader_cta"
-msgstr "加入您對 改進 DriverPack 的意見或建議"
+msgstr ""
 
 msgid "search_input-placeholder"
 msgstr "搜尋驅動程式、筆記型電腦或 DeviceID 的名稱"
@@ -899,6 +902,24 @@ msgstr "驅動程式未正確安裝，電腦操作過程中出現故障。我怎
 msgid "adminpagefaq_stable-a"
 msgstr "DriverPack 軟體的操作穩定性是我們的主要優先事項之一，但是一些輕微的故障仍然很少發生。這就是為什麼我們建立一個還原點，使您能夠將所有內容還原到未組態的狀態。為了防止將來出現類似的問題，我們建議您前往 DriverPack 應用程式選單，並將報告發送給我們的技術服務，由軟體自動形成。"
 
+msgid "cloudpagefaq_remove_soft-q"
+msgstr ""
+
+msgid "cloudpagefaq_remove_soft-a"
+msgstr ""
+
+msgid "cloudpagefaq_notifications-q"
+msgstr ""
+
+msgid "cloudpagefaq_notifications-a"
+msgstr ""
+
+msgid "cloudpagefaq_usb-q"
+msgstr ""
+
+msgid "cloudpagefaq_usb-a"
+msgstr ""
+
 msgid "badrabbitpromopage_cta-text"
 msgstr ""
 
@@ -928,6 +949,51 @@ msgstr "發展是以下列材質為主"
 
 msgid "badrabbitpromopage_link-smb"
 msgstr "如何啟用、停用 Windows 和 Windows Server SMB 通訊協定版本 1、2 和 3"
+
+msgid "cloudlandingpage_cackle-title"
+msgstr ""
+
+msgid "cloudlandingpage_cackle-caption"
+msgstr ""
+
+msgid "cloudlandingpage_header-title"
+msgstr ""
+
+msgid "cloudlandingpage_about-what-is-title"
+msgstr ""
+
+msgid "cloudlandingpage_about-what-is-caption"
+msgstr ""
+
+msgid "cloudlandingpage_about-how-works-title"
+msgstr ""
+
+msgid "cloudlandingpage_about-how-works-caption"
+msgstr ""
+
+msgid "cloudlandingpage_features-monitoring"
+msgstr ""
+
+msgid "cloudlandingpage_features-safety"
+msgstr ""
+
+msgid "cloudlandingpage_features-cloud"
+msgstr ""
+
+msgid "cloudlandingpage_uninstall-title"
+msgstr ""
+
+msgid "cloudlandingpage_uninstall-caption"
+msgstr ""
+
+msgid "cloudlandingpage_license"
+msgstr ""
+
+msgid "cloudlandingpage_features-install"
+msgstr ""
+
+msgid "cloudlandingpage_license-link"
+msgstr "授權合約"
 
 msgid "devicegrouppage_show-more-link"
 msgstr "查看更多"
@@ -1009,11 +1075,19 @@ msgstr "查看更多"
 msgid "thankyoupopup_download-text"
 msgstr "下載尚未開始?按一下此處 {{LINK}}"
 
+#. i18n: EN: text for {{LINK}} is in key thankyoupopup_licence-link; RU: текст
+#. для {{LINK}} находится в ключе thankyoupopup_licence-link;
+msgid "thankyoupopup_licence-text"
+msgstr ""
+
 msgid "thankyoupopup_title"
 msgstr "啟動 DriverPack"
 
 msgid "thankyoupopup_cta-text"
 msgstr "開始選擇並將驅動程式安裝到電腦上"
+
+msgid "thankyoupopup_licence-link"
+msgstr "授權合約"
 
 msgid "thankyoupopup_download-link"
 msgstr "下載"
@@ -1089,3 +1163,18 @@ msgstr "發展是以下列材料為主"
 
 msgid "wannacryptpromopage_link-smb"
 msgstr "如何啟用、停用 Windows and Windows Server SMB 通訊協定版本 1、2 和 3"
+
+#~ msgid "cloudpagefooter_download"
+#~ msgstr ""
+
+#~ msgid "cloudlandingpage_download"
+#~ msgstr "下載"
+
+#~ msgid "cloudnewlandingpage_license"
+#~ msgstr ""
+
+#~ msgid "cloudnewlandingpage_license-link"
+#~ msgstr "授權合約"
+
+#~ msgid "landingheadernav_badrabbit"
+#~ msgstr "防止 Bad Rabbit"

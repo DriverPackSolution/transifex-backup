@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-01-11 11:55+0000\n"
+"POT-Creation-Date: 2018-02-07 13:21+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Dragoblack <nabilalmosber@gmail.com>, 2017\n"
 "Language-Team: Spanish (https://www.transifex.com/driverpack-solution/teams/75453/es/)\n"
@@ -49,6 +49,12 @@ msgstr "Descargar DriverPack Online"
 
 msgid "buttonsplitdropdown_main-button"
 msgstr "Descargar"
+
+msgid "cloudfaq_landing-title"
+msgstr "Respondemos a tus preguntas"
+
+msgid "cloudpagefooter_license-link"
+msgstr "Acuerdo de Licencia"
 
 msgid "breadcrumbs_main-text"
 msgstr "Página Principal"
@@ -340,9 +346,6 @@ msgstr "DriverPack instala drivers gratuitamente y soluciona problemas con cualq
 msgid "landingheader_cta-btn"
 msgstr "Instala todos los drivers requeridos"
 
-msgid "landingheadernav_badrabbit"
-msgstr "Protección contra Bad Rabbit"
-
 msgid "landingheadernav_search"
 msgstr "Búsqueda de Drivers"
 
@@ -383,7 +386,7 @@ msgid "landingproducts_item-title-online"
 msgstr "DriverPack Online"
 
 msgid "landingproducts_item-description-online"
-msgstr "Se descarga al momento e instala todos los drivers si dispones de conexión a Internet <span class='nobr'>({{SIZE}})</span>"
+msgstr "Se descarga al momento, descarga e instala todos los drivers si dispones de conexión a Internet <span class='nobr'>({{SIZE}})</span>"
 
 msgid "landingproducts_item-version"
 msgstr "Versión:"
@@ -527,7 +530,7 @@ msgid "reviewheader_cta-text"
 msgstr "Únete a la comunidad de DriverPack en las redes sociales para mantenerte informado de las noticias sobre el producto y participar en las discusiones"
 
 msgid "reviewheader_cta"
-msgstr "Añade tu opinión o sugerencia para mejorar DriverPack"
+msgstr ""
 
 msgid "search_input-placeholder"
 msgstr "Busca según el nombre del driver, portátil o DeviceID"
@@ -904,6 +907,24 @@ msgstr "El driver no se ha instalado correctamente y mi ordenador tiene problema
 msgid "adminpagefaq_stable-a"
 msgstr "La estabilidad del software DriverPack es una de nuestras principales prioridades, pero fallos menores siguen ocurriendo, aunque pocas veces. Esta es la razón por la que creamos un punto de restauración que permitirá devolver todo al estado previamente guardado. Para evitar un problema similar en el futuro, te recomendamos ir al menú de DriverPack y enviar el informe que el software crea automáticamente."
 
+msgid "cloudpagefaq_remove_soft-q"
+msgstr ""
+
+msgid "cloudpagefaq_remove_soft-a"
+msgstr ""
+
+msgid "cloudpagefaq_notifications-q"
+msgstr ""
+
+msgid "cloudpagefaq_notifications-a"
+msgstr ""
+
+msgid "cloudpagefaq_usb-q"
+msgstr ""
+
+msgid "cloudpagefaq_usb-a"
+msgstr ""
+
 msgid "badrabbitpromopage_cta-text"
 msgstr "El virus criptográfico Bad Rabbit — ¿como proteger tu PC?"
 
@@ -933,6 +954,51 @@ msgstr "El desarrollo de esta solución se ha basado en los siguientes puntos"
 
 msgid "badrabbitpromopage_link-smb"
 msgstr "Cómo habilitar y deshabilitar las versiones 1, 2 y 3 de los protocolos SMB para Windows y Windows Server"
+
+msgid "cloudlandingpage_cackle-title"
+msgstr ""
+
+msgid "cloudlandingpage_cackle-caption"
+msgstr ""
+
+msgid "cloudlandingpage_header-title"
+msgstr ""
+
+msgid "cloudlandingpage_about-what-is-title"
+msgstr ""
+
+msgid "cloudlandingpage_about-what-is-caption"
+msgstr ""
+
+msgid "cloudlandingpage_about-how-works-title"
+msgstr ""
+
+msgid "cloudlandingpage_about-how-works-caption"
+msgstr ""
+
+msgid "cloudlandingpage_features-monitoring"
+msgstr ""
+
+msgid "cloudlandingpage_features-safety"
+msgstr ""
+
+msgid "cloudlandingpage_features-cloud"
+msgstr ""
+
+msgid "cloudlandingpage_uninstall-title"
+msgstr ""
+
+msgid "cloudlandingpage_uninstall-caption"
+msgstr ""
+
+msgid "cloudlandingpage_license"
+msgstr ""
+
+msgid "cloudlandingpage_features-install"
+msgstr ""
+
+msgid "cloudlandingpage_license-link"
+msgstr "Acuerdo de Licencia"
 
 msgid "devicegrouppage_show-more-link"
 msgstr "Mostrar más"
@@ -1014,11 +1080,19 @@ msgstr "Mostrar más"
 msgid "thankyoupopup_download-text"
 msgstr "¿La descarga no ha comenzado? Haz click aquí para {{LINK}}"
 
+#. i18n: EN: text for {{LINK}} is in key thankyoupopup_licence-link; RU: текст
+#. для {{LINK}} находится в ключе thankyoupopup_licence-link;
+msgid "thankyoupopup_licence-text"
+msgstr ""
+
 msgid "thankyoupopup_title"
 msgstr "Inicia DriverPack"
 
 msgid "thankyoupopup_cta-text"
 msgstr "para comenzar a seleccionar e instalar los drivers en tu ordenador"
+
+msgid "thankyoupopup_licence-link"
+msgstr "Acuerdo de Licencia"
 
 msgid "thankyoupopup_download-link"
 msgstr "descargar"
@@ -1094,3 +1168,18 @@ msgstr "El desarrollo de esta solución se ha basado en las siguientes referenci
 
 msgid "wannacryptpromopage_link-smb"
 msgstr "Cómo habilitar y deshabilitar las versiones 1, 2 y 3 de los protocolos SMB para Windows y Windows Server"
+
+#~ msgid "cloudpagefooter_download"
+#~ msgstr ""
+
+#~ msgid "cloudlandingpage_download"
+#~ msgstr "Descargar"
+
+#~ msgid "cloudnewlandingpage_license"
+#~ msgstr ""
+
+#~ msgid "cloudnewlandingpage_license-link"
+#~ msgstr "Acuerdo de Licencia"
+
+#~ msgid "landingheadernav_badrabbit"
+#~ msgstr "Protección contra Bad Rabbit"

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-01-11 11:55+0000\n"
+"POT-Creation-Date: 2018-02-07 13:21+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Kiet Pham <phamanhkiet160404@gmail.com>, 2017\n"
 "Language-Team: Vietnamese (https://www.transifex.com/driverpack-solution/teams/75453/vi/)\n"
@@ -47,6 +47,12 @@ msgstr "Tải DriverPack Online"
 
 msgid "buttonsplitdropdown_main-button"
 msgstr "Tải về:"
+
+msgid "cloudfaq_landing-title"
+msgstr "Bạn hỏi chúng tôi trả lời"
+
+msgid "cloudpagefooter_license-link"
+msgstr "Thỏa Thuận Cấp Phép"
 
 msgid "breadcrumbs_main-text"
 msgstr "Trang Chủ"
@@ -338,9 +344,6 @@ msgstr "DriverPack sẽ cài đặt các trình điều khiển miễn phí và 
 msgid "landingheader_cta-btn"
 msgstr "Cài đặt tất cả những trình điều khiển cần thiết"
 
-msgid "landingheadernav_badrabbit"
-msgstr "Bảo vệ khỏi Bad Rabbit"
-
 msgid "landingheadernav_search"
 msgstr "Tìm Kiếm Trình Điều Khiển"
 
@@ -381,7 +384,7 @@ msgid "landingproducts_item-title-online"
 msgstr "DriverPack Online"
 
 msgid "landingproducts_item-description-online"
-msgstr "Nó được tải về ngay lập tức, tải xuống và cài đặt tất cả các trình điều khiển nếu bạn có kết nối Internet <span class='nobr'>({{SIZE}})</span>"
+msgstr ""
 
 msgid "landingproducts_item-version"
 msgstr "Phiên bản:"
@@ -525,7 +528,7 @@ msgid "reviewheader_cta-text"
 msgstr "Gia nhập cộng đồng DriverPack trên các mạng xã hội để bắt kịp với những thông tin về sản phẩm và tham gia vào những cuộc thảo luận"
 
 msgid "reviewheader_cta"
-msgstr "Thêm ý kiến hoặc gợi ý của bạn để cải thiện DriverPack"
+msgstr ""
 
 msgid "search_input-placeholder"
 msgstr "Tìm kiếm tên của trình cài đặt, máy tính xách tay hoặc DeviceID"
@@ -902,6 +905,24 @@ msgstr "Trình điều khiển chưa được cài đặt đúng và bây giờ 
 msgid "adminpagefaq_stable-a"
 msgstr "Sự ổn định của phần mềm DriverPack là mọt trong những ưu tiên chính của chúng tôi nhưng những lỗi nhỏ đôi lúc vẫn có thể xảy ra. Đây là lý do tại sao chúng tôi tạo ra một điểm khôi phục, nó sẽ cho phép bạn trả về mọi thứ trở lại trạng thái được định cấu hình trước đó. Không để lỗi tương tự xảy ra trong tương lại, chúng tôi khuyên bạn nên truy cập vào DriverPack Menu, báo cáo sẽ được tự động tạo ra bởi phần mềm và bạn chỉ cần gửi báo cáo cho dịch vụ kỹ thuật của chúng tôi."
 
+msgid "cloudpagefaq_remove_soft-q"
+msgstr ""
+
+msgid "cloudpagefaq_remove_soft-a"
+msgstr ""
+
+msgid "cloudpagefaq_notifications-q"
+msgstr ""
+
+msgid "cloudpagefaq_notifications-a"
+msgstr ""
+
+msgid "cloudpagefaq_usb-q"
+msgstr ""
+
+msgid "cloudpagefaq_usb-a"
+msgstr ""
+
 msgid "badrabbitpromopage_cta-text"
 msgstr "Vi rút mã hóa dữ liệu Bad Rabbit — làm thế nào để bảo vệ máy tính cá nhân của bạn?"
 
@@ -931,6 +952,51 @@ msgstr "Sự phát triển của giải pháp này được dựa trên các th�
 
 msgid "badrabbitpromopage_link-smb"
 msgstr "Làm cách nào để khởi động và vô hiệu hóa các phiên bản 1, 2, và 3 của phương thức SMB cho Windows và Máy Chủ Windows"
+
+msgid "cloudlandingpage_cackle-title"
+msgstr ""
+
+msgid "cloudlandingpage_cackle-caption"
+msgstr ""
+
+msgid "cloudlandingpage_header-title"
+msgstr ""
+
+msgid "cloudlandingpage_about-what-is-title"
+msgstr ""
+
+msgid "cloudlandingpage_about-what-is-caption"
+msgstr ""
+
+msgid "cloudlandingpage_about-how-works-title"
+msgstr ""
+
+msgid "cloudlandingpage_about-how-works-caption"
+msgstr ""
+
+msgid "cloudlandingpage_features-monitoring"
+msgstr ""
+
+msgid "cloudlandingpage_features-safety"
+msgstr ""
+
+msgid "cloudlandingpage_features-cloud"
+msgstr ""
+
+msgid "cloudlandingpage_uninstall-title"
+msgstr ""
+
+msgid "cloudlandingpage_uninstall-caption"
+msgstr ""
+
+msgid "cloudlandingpage_license"
+msgstr ""
+
+msgid "cloudlandingpage_features-install"
+msgstr ""
+
+msgid "cloudlandingpage_license-link"
+msgstr "Thỏa Thuận Cấp Phép"
 
 msgid "devicegrouppage_show-more-link"
 msgstr "Xem thêm"
@@ -1012,11 +1078,19 @@ msgstr "Xem thêm"
 msgid "thankyoupopup_download-text"
 msgstr "Nếu quá trình tải về  chưa được bắt đầu? Nhấp vào đây {{LINK}}"
 
+#. i18n: EN: text for {{LINK}} is in key thankyoupopup_licence-link; RU: текст
+#. для {{LINK}} находится в ключе thankyoupopup_licence-link;
+msgid "thankyoupopup_licence-text"
+msgstr ""
+
 msgid "thankyoupopup_title"
 msgstr "Khởi Động DriverPack"
 
 msgid "thankyoupopup_cta-text"
 msgstr "để bắt đầu lựa chọn và cài đặt các trình điều khiển trên máy tính của bạn"
+
+msgid "thankyoupopup_licence-link"
+msgstr "Thỏa Thuận Cấp Phép"
 
 msgid "thankyoupopup_download-link"
 msgstr "tải về "
@@ -1092,3 +1166,18 @@ msgstr "Sự phát triển của giải pháp này được dựa trên các th�
 
 msgid "wannacryptpromopage_link-smb"
 msgstr "Làm cách nào để khởi động và vô hiệu hóa các phiên bản 1, 2, và 3 của phương thức SMB cho Windows và Máy Chủ Windows"
+
+#~ msgid "cloudpagefooter_download"
+#~ msgstr ""
+
+#~ msgid "cloudlandingpage_download"
+#~ msgstr "Tải về:"
+
+#~ msgid "cloudnewlandingpage_license"
+#~ msgstr ""
+
+#~ msgid "cloudnewlandingpage_license-link"
+#~ msgstr "Thỏa Thuận Cấp Phép"
+
+#~ msgid "landingheadernav_badrabbit"
+#~ msgstr "Bảo vệ khỏi Bad Rabbit"

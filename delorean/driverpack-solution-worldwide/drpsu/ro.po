@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-01-11 11:55+0000\n"
+"POT-Creation-Date: 2018-02-07 13:21+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Andrei Pavalachi <apavalac@student.42.fr>, 2017\n"
 "Language-Team: Romanian (https://www.transifex.com/driverpack-solution/teams/75453/ro/)\n"
@@ -50,6 +50,12 @@ msgstr "Descarcă DriverPack Online"
 
 msgid "buttonsplitdropdown_main-button"
 msgstr "Descarcă"
+
+msgid "cloudfaq_landing-title"
+msgstr "Îți răspundem la întrebări"
+
+msgid "cloudpagefooter_license-link"
+msgstr "Termeni și Condiții"
 
 msgid "breadcrumbs_main-text"
 msgstr "Pagină de start"
@@ -341,9 +347,6 @@ msgstr "DriverPack va instala drivere gratuit și va rezolva probleme legate de 
 msgid "landingheader_cta-btn"
 msgstr "Instalează toate driverele necesare "
 
-msgid "landingheadernav_badrabbit"
-msgstr "Protecție împotriva Bad Rabbit"
-
 msgid "landingheadernav_search"
 msgstr "Căutare de drivere"
 
@@ -384,7 +387,7 @@ msgid "landingproducts_item-title-online"
 msgstr "DriverPack Online"
 
 msgid "landingproducts_item-description-online"
-msgstr "Este descărcat instant, descarcă și instalează toate drivere necesare dacă ai conexiune la internet <span class='nobr'>({{SIZE}})</span>"
+msgstr ""
 
 msgid "landingproducts_item-version"
 msgstr "Versiune:"
@@ -528,7 +531,7 @@ msgid "reviewheader_cta-text"
 msgstr "Alătură-te comunității DriverPack in rețelele de socializare pentru a fii la curent cu ultimele știri și pentru a lua parte la discuții"
 
 msgid "reviewheader_cta"
-msgstr "Adăugați-vă opinia sau sugestia privind îmbunătățirea DriverPack"
+msgstr ""
 
 msgid "search_input-placeholder"
 msgstr "Caută după numele driverului, laptopului sau DeviceID"
@@ -905,6 +908,24 @@ msgstr "Driverul nu a fost instalat corect și computerul meu are acum probleme.
 msgid "adminpagefaq_stable-a"
 msgstr "Stabilitatea operațiunii software-ului DriverPack este una dintre prioritățile noastre, dar unele eșecuri minore încă persistă, deși rar. Din acest motiv creăm un punct de restaurare care vă va permite să readuceți totul la starea anterioară. Pentru a preveni o problemă similară în viitor, vă recomandăm să mergeți la Meniul DriverPack și să trimiteți raportul creat automat de software, serviciilor noastre tehnice."
 
+msgid "cloudpagefaq_remove_soft-q"
+msgstr ""
+
+msgid "cloudpagefaq_remove_soft-a"
+msgstr ""
+
+msgid "cloudpagefaq_notifications-q"
+msgstr ""
+
+msgid "cloudpagefaq_notifications-a"
+msgstr ""
+
+msgid "cloudpagefaq_usb-q"
+msgstr ""
+
+msgid "cloudpagefaq_usb-a"
+msgstr ""
+
 msgid "badrabbitpromopage_cta-text"
 msgstr "Virusul criptografic Bad Rabbit — cum să protejezi calculatorul tău?"
 
@@ -934,6 +955,51 @@ msgstr "Dezvoltarea acestei soluții s-a bazat pe următoarele materiale"
 
 msgid "badrabbitpromopage_link-smb"
 msgstr "Cum să activezi sau să dezactivezi veriunile 1,2 și 3 a protocoalelor SMB pentru Windows si Windows server"
+
+msgid "cloudlandingpage_cackle-title"
+msgstr ""
+
+msgid "cloudlandingpage_cackle-caption"
+msgstr ""
+
+msgid "cloudlandingpage_header-title"
+msgstr ""
+
+msgid "cloudlandingpage_about-what-is-title"
+msgstr ""
+
+msgid "cloudlandingpage_about-what-is-caption"
+msgstr ""
+
+msgid "cloudlandingpage_about-how-works-title"
+msgstr ""
+
+msgid "cloudlandingpage_about-how-works-caption"
+msgstr ""
+
+msgid "cloudlandingpage_features-monitoring"
+msgstr ""
+
+msgid "cloudlandingpage_features-safety"
+msgstr ""
+
+msgid "cloudlandingpage_features-cloud"
+msgstr ""
+
+msgid "cloudlandingpage_uninstall-title"
+msgstr ""
+
+msgid "cloudlandingpage_uninstall-caption"
+msgstr ""
+
+msgid "cloudlandingpage_license"
+msgstr ""
+
+msgid "cloudlandingpage_features-install"
+msgstr ""
+
+msgid "cloudlandingpage_license-link"
+msgstr "Termeni și Condiții"
 
 msgid "devicegrouppage_show-more-link"
 msgstr "Vezi mai multe"
@@ -1015,11 +1081,19 @@ msgstr "Vezi mai multe"
 msgid "thankyoupopup_download-text"
 msgstr "Descărcarea nu a început? Pentru a începe apasă aici {{LINK}}"
 
+#. i18n: EN: text for {{LINK}} is in key thankyoupopup_licence-link; RU: текст
+#. для {{LINK}} находится в ключе thankyoupopup_licence-link;
+msgid "thankyoupopup_licence-text"
+msgstr ""
+
 msgid "thankyoupopup_title"
 msgstr "Pornește DriverPack"
 
 msgid "thankyoupopup_cta-text"
 msgstr "pentru a selecta și instala driver-ele in calculatorul tău"
+
+msgid "thankyoupopup_licence-link"
+msgstr "Termeni și Condiții"
 
 msgid "thankyoupopup_download-link"
 msgstr "descarcă"
@@ -1095,3 +1169,18 @@ msgstr "Dezvoltarea acestei soluții s-a bazat pe următoarele materiale"
 
 msgid "wannacryptpromopage_link-smb"
 msgstr "Cum să activezi sau să dezactivezi veriunile 1,2 și 3 a protocoalelor SMB pentru Windows si Windows server"
+
+#~ msgid "cloudpagefooter_download"
+#~ msgstr ""
+
+#~ msgid "cloudlandingpage_download"
+#~ msgstr "Descarcă"
+
+#~ msgid "cloudnewlandingpage_license"
+#~ msgstr ""
+
+#~ msgid "cloudnewlandingpage_license-link"
+#~ msgstr "Termeni și Condiții"
+
+#~ msgid "landingheadernav_badrabbit"
+#~ msgstr "Protecție împotriva Bad Rabbit"

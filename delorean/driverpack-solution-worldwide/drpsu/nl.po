@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-01-11 11:55+0000\n"
+"POT-Creation-Date: 2018-02-07 13:21+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Richard Bussé <rbusse@live.be>, 2017\n"
 "Language-Team: Dutch (https://www.transifex.com/driverpack-solution/teams/75453/nl/)\n"
@@ -48,6 +48,12 @@ msgstr "Download DriverPack Online"
 
 msgid "buttonsplitdropdown_main-button"
 msgstr "Download"
+
+msgid "cloudfaq_landing-title"
+msgstr "Wij beantwoorden uw vragen"
+
+msgid "cloudpagefooter_license-link"
+msgstr "Licentieovereenkomst"
 
 msgid "breadcrumbs_main-text"
 msgstr "Home Pagina"
@@ -339,9 +345,6 @@ msgstr "DriverPack zal drivers gratis installeren en driverproblemen op elk appa
 msgid "landingheader_cta-btn"
 msgstr "Installeer alle benodigde stuurprogramma's"
 
-msgid "landingheadernav_badrabbit"
-msgstr "Bescherming tegen Bad Rabbit"
-
 msgid "landingheadernav_search"
 msgstr "Driver zoeker"
 
@@ -382,7 +385,7 @@ msgid "landingproducts_item-title-online"
 msgstr "DriverPack Online"
 
 msgid "landingproducts_item-description-online"
-msgstr "Het wordt direct gedownload, downloadt en installeert alle drivers als u een internetverbinding hebt <span class='nobr'>({{SIZE}})</span>"
+msgstr ""
 
 msgid "landingproducts_item-version"
 msgstr "Versie:"
@@ -526,7 +529,7 @@ msgid "reviewheader_cta-text"
 msgstr "Doe mee met de DriverPack -gemeenschap in de sociale netwerken om het nieuws over het product bij te houden en deel te nemen aan discussies"
 
 msgid "reviewheader_cta"
-msgstr "Voeg uw mening of suggestie toe voor het verbeteren van DriverPack"
+msgstr ""
 
 msgid "search_input-placeholder"
 msgstr "Zoek op naam van het stuurprogramma, de laptop of DeviceID"
@@ -903,6 +906,24 @@ msgstr "Het stuurprogramma is niet goed geïnstalleerd en mijn computer heeft nu
 msgid "adminpagefaq_stable-a"
 msgstr "De operationele stabiliteit van de DriverPack -software is een van onze voornaamste prioriteiten, maar er zijn nog steeds kleine storingen, hoewel deze zeldzaam zijn. Daarom maken we steeds een herstelpunt waarmee u altijd terug kunt keren naar de eerder geconfigureerde toestand. Om een soortgelijk probleem in de toekomst te voorkomen, raden wij u aan om naar het DriverPack -menu te gaan en het rapport te verzenden, dat automatisch door het programma wordt gemaakt, naar onze technische diensten."
 
+msgid "cloudpagefaq_remove_soft-q"
+msgstr ""
+
+msgid "cloudpagefaq_remove_soft-a"
+msgstr ""
+
+msgid "cloudpagefaq_notifications-q"
+msgstr ""
+
+msgid "cloudpagefaq_notifications-a"
+msgstr ""
+
+msgid "cloudpagefaq_usb-q"
+msgstr ""
+
+msgid "cloudpagefaq_usb-a"
+msgstr ""
+
 msgid "badrabbitpromopage_cta-text"
 msgstr "Bad Rabbit cryptographic virus — hoe bescherm je je pc?"
 
@@ -932,6 +953,51 @@ msgstr "De ontwikkeling van deze oplossing was gebaseerd op de volgende material
 
 msgid "badrabbitpromopage_link-smb"
 msgstr "Hoe versies 1, 2, en 3 van SMB-protocollen voor Windows en Windows Server inschakelen en uitschakelen?"
+
+msgid "cloudlandingpage_cackle-title"
+msgstr ""
+
+msgid "cloudlandingpage_cackle-caption"
+msgstr ""
+
+msgid "cloudlandingpage_header-title"
+msgstr ""
+
+msgid "cloudlandingpage_about-what-is-title"
+msgstr ""
+
+msgid "cloudlandingpage_about-what-is-caption"
+msgstr ""
+
+msgid "cloudlandingpage_about-how-works-title"
+msgstr ""
+
+msgid "cloudlandingpage_about-how-works-caption"
+msgstr ""
+
+msgid "cloudlandingpage_features-monitoring"
+msgstr ""
+
+msgid "cloudlandingpage_features-safety"
+msgstr ""
+
+msgid "cloudlandingpage_features-cloud"
+msgstr ""
+
+msgid "cloudlandingpage_uninstall-title"
+msgstr ""
+
+msgid "cloudlandingpage_uninstall-caption"
+msgstr ""
+
+msgid "cloudlandingpage_license"
+msgstr ""
+
+msgid "cloudlandingpage_features-install"
+msgstr ""
+
+msgid "cloudlandingpage_license-link"
+msgstr "Licentieovereenkomst"
 
 msgid "devicegrouppage_show-more-link"
 msgstr "Zie meer"
@@ -1013,11 +1079,19 @@ msgstr "Zie meer"
 msgid "thankyoupopup_download-text"
 msgstr "Download is niet gestart? Klik hier om {{LINK}}"
 
+#. i18n: EN: text for {{LINK}} is in key thankyoupopup_licence-link; RU: текст
+#. для {{LINK}} находится в ключе thankyoupopup_licence-link;
+msgid "thankyoupopup_licence-text"
+msgstr ""
+
 msgid "thankyoupopup_title"
 msgstr "Start DriverPack"
 
 msgid "thankyoupopup_cta-text"
 msgstr "om te beginnen met het selecteren en installeren van de stuurprogramma's op uw computer"
+
+msgid "thankyoupopup_licence-link"
+msgstr "Licentieovereenkomst"
 
 msgid "thankyoupopup_download-link"
 msgstr "download"
@@ -1093,3 +1167,18 @@ msgstr "De ontwikkeling van deze oplossing was gebaseerd op de volgende material
 
 msgid "wannacryptpromopage_link-smb"
 msgstr "Hoe versies 1, 2, en 3 van SMB-protocollen voor Windows en Windows Server inschakelen en uitschakelen?"
+
+#~ msgid "cloudpagefooter_download"
+#~ msgstr ""
+
+#~ msgid "cloudlandingpage_download"
+#~ msgstr "Download"
+
+#~ msgid "cloudnewlandingpage_license"
+#~ msgstr ""
+
+#~ msgid "cloudnewlandingpage_license-link"
+#~ msgstr "Licentieovereenkomst"
+
+#~ msgid "landingheadernav_badrabbit"
+#~ msgstr "Bescherming tegen Bad Rabbit"

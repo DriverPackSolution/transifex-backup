@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-01-11 11:55+0000\n"
+"POT-Creation-Date: 2018-02-07 13:21+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Burhan Keleş <klsburhan@hotmail.com>, 2017\n"
 "Language-Team: Turkish (https://www.transifex.com/driverpack-solution/teams/75453/tr/)\n"
@@ -45,6 +45,12 @@ msgstr "DriverPack Online'ı İndir"
 
 msgid "buttonsplitdropdown_main-button"
 msgstr "İndir"
+
+msgid "cloudfaq_landing-title"
+msgstr "Sorularınızı yanıtlıyoruz"
+
+msgid "cloudpagefooter_license-link"
+msgstr "Lisans Sözleşmesi"
 
 msgid "breadcrumbs_main-text"
 msgstr "Ana Sayfa"
@@ -336,9 +342,6 @@ msgstr "DriverPack sürücüleri ücretsiz yükleyecek ve herhangi bir aygıttak
 msgid "landingheader_cta-btn"
 msgstr "Tüm gerekli sürücüleri yükleyin"
 
-msgid "landingheadernav_badrabbit"
-msgstr "Bad Rabbit virüsüne karşı koruma"
-
 msgid "landingheadernav_search"
 msgstr "Sürücü Arama"
 
@@ -379,7 +382,7 @@ msgid "landingproducts_item-title-online"
 msgstr "DriverPack Online"
 
 msgid "landingproducts_item-description-online"
-msgstr "Internet bağlantınız varsa anında indirilir, tüm sürücüleri indirir ve yükler <span class='nobr'>({{SIZE}})</span>"
+msgstr "Internet bağlantınız varsa anında indirir, tüm sürücüleri indirir ve yükler <span class='nobr'>({{SIZE}})</span>"
 
 msgid "landingproducts_item-version"
 msgstr "Sürüm:"
@@ -523,7 +526,7 @@ msgid "reviewheader_cta-text"
 msgstr "Üründen haberdar olmak ve tartışmalarda yer almak için sosyal ağlardaki DriverPack topluluğuna katılın"
 
 msgid "reviewheader_cta"
-msgstr "DriverPack'in geliştirilmesine dair fikir veya önerilerinizi ekleyin"
+msgstr "DriverPack'in geliştirilmesine dair görüş veya önerilerinizi ekleyin"
 
 msgid "search_input-placeholder"
 msgstr "Sürücünün, dizüstünün adını veya DeviceID arayın"
@@ -900,6 +903,24 @@ msgstr "Sürücü düzgün bir şekilde yüklenmedi ve şu an bilgisayarımda so
 msgid "adminpagefaq_stable-a"
 msgstr "DriverPack yazılımının işleyiş istikrarı ana önceliklerimizden biridir, fakat küçük hatalar nadir de olsa hala olabilir. İşte bu yüzden herşeyi önceki yapılandırılmış duruma geri döndürmenizi sağlayacak bir geri yükleme noktası oluşturuyoruz. Gelecekte benzer sorunları önlemek için DriverPack Menüsüne gitmenizi ve yazılım tarafından otomatik olarak oluşturulan raporu teknik hizmetlerimize göndermenizi öneririz."
 
+msgid "cloudpagefaq_remove_soft-q"
+msgstr "DriverPack Cloud neden bilgisayarımın bazı yazılımlarının kaldırılmasını öneriyor?"
+
+msgid "cloudpagefaq_remove_soft-a"
+msgstr "Düşük oranı olan yazılım genellikle reklam yazılımı ve virüslerdir, işte bu yüzden DriverPack Cloud bunları kaldırmanızı önerir. Oran, kullanıcılarımızın tercihlerinin temeline göre şekillenir — daha çok oranı düşük olan bu veya şu yazılımı kaldırırlar."
+
+msgid "cloudpagefaq_notifications-q"
+msgstr "DriverPack Cloud'u yükledikten sonra, masaüstü bilgisayarımda bildirimler almaya başladım. Bunları nasıl etkisizleştirebilirim?"
+
+msgid "cloudpagefaq_notifications-a"
+msgstr "Bu bildirimler yalnızca önerilerdir. Her bildirimin sağ üst köşesindeki zil simgesine tıklayarak belirli türde aldığınız bildirimden aboneliği kaldırabilirsiniz."
+
+msgid "cloudpagefaq_usb-q"
+msgstr "Flash belleğimi usb girişe taktığımda masaüstü bilgisayarımda bazı sürücüler hakkında bir bildirim görünüyor. Bu ne içindir?"
+
+msgid "cloudpagefaq_usb-a"
+msgstr "DriverPack Cloud bağlanan yeni aygıtları ortaya çıkarır ve uygun sürücülere sahip olup olmadıklarını inceler. Eğer gerekli sürücü eksikse, anında yüklenmesini mümkün kılar — aygıtların düzgün bir sekilde çalışabilmesi için gereklidir."
+
 msgid "badrabbitpromopage_cta-text"
 msgstr "Bad Rabbit şifreleyici virüs — PC’nizi nasıl korursunuz?"
 
@@ -929,6 +950,51 @@ msgstr "Bu çözümün gelişimi aşağıdaki gereçlere bağlıdır"
 
 msgid "badrabbitpromopage_link-smb"
 msgstr "Windows ve Windows Server için SMB protokollerinin 1, 2, ve 3. sürümlerini nasıl etkinleştirir ve etkisizleştirirsiniz"
+
+msgid "cloudlandingpage_cackle-title"
+msgstr "DriverPack Cloud hakkında düşüncenizi bize bildirin"
+
+msgid "cloudlandingpage_cackle-caption"
+msgstr "DriverPack Cloud'u beğendiniz mi? Başka eklenmesini istediğiniz işlevler nelerdir? Lütfen bize söyleyin."
+
+msgid "cloudlandingpage_header-title"
+msgstr "DriverPack Cloud PC'nizin verimliliğini artıran yeni bir yazılımdır"
+
+msgid "cloudlandingpage_about-what-is-title"
+msgstr "DriverPack Cloud yazılımı nedir?"
+
+msgid "cloudlandingpage_about-what-is-caption"
+msgstr "Bu, PC'nizin donanımını yükseltme veya herhangi bir ilave harcama yapmadan bilgisayarınızın verimliliğini artırmayı amaçlayan DriverPack ekibinin yeni bir yazılım ürünüdür. CS: GO veya Dota 2 oyunlarının çalışma hızından memnun değil misiniz? DriverPack Cloud'u deneyin!"
+
+msgid "cloudlandingpage_about-how-works-title"
+msgstr "DriverPack Cloud nasıl çalışır?"
+
+msgid "cloudlandingpage_about-how-works-caption"
+msgstr "Ürünümüz PC'nizdeki sürücülerin durumunu çözümler, öyle ya da böyle bilgisayarınızın verimliliğini etkileyen her yazılımı ortaya çıkarır ve sürücüleri güncelleme ve bilgisayarınızı yavaşlatan yazılımı kaldırma üzerine önerilerde bulunur ya da tam tersi, donanımınızın çalışma hızını artırmanıza yardımcı olacak üçüncü taraf ürünleri yüklemenizi önerir. Tüm süreç sizin denetiminiz altında ilerler – izniniz olmadan DriverPack Cloud tarafından eylemler gerçekleşmez"
+
+msgid "cloudlandingpage_features-monitoring"
+msgstr "Sürücülerinizin durumunu izler, kocaman DriverPack veritabanından önemli güncellemeleri ve eksik sürücüleri indirir"
+
+msgid "cloudlandingpage_features-safety"
+msgstr "Hızlı bir şekilde olası kötü amaçlı yazılımı ortaya çıkarmayı ve kaldırmayı sağlar ve böylece antivirüs yazılımınıza yardımcı olur"
+
+msgid "cloudlandingpage_features-cloud"
+msgstr "Bilgisayarınızdaki fazladan kaynakları korumayı sağlayan Bulut hizmetinde hesaplamalar yapar"
+
+msgid "cloudlandingpage_uninstall-title"
+msgstr "DriverPack Cloud bilgisayarınızdan tamamen nasıl kaldırılır"
+
+msgid "cloudlandingpage_uninstall-caption"
+msgstr "Ürünümüzü yüklediniz ancak kullanmak istemiyor musunuz? Sadece Denetim Masası'ndaki Yazılım Bölümü'ne gidin ve Yazılımı Kaldır'a tıklayın. Aşağı açılır menüde DriverPack Cloud'u bulun ve her zamanki yöntemi takip ederek kaldırın. Hepsi bu kadar, yazılım kaldırıldı. DriverPack Cloud kaldırma işlemi sonrasında ne gizli yazılım bırakır, ne de herhangi bir reklam yazılımı saçmalığı ile PC'nizi karıştırır."
+
+msgid "cloudlandingpage_license"
+msgstr "Kuruluma başlamadan önce lütfen {{LINK}}'ni okuyun"
+
+msgid "cloudlandingpage_features-install"
+msgstr "DriverPack Cloud'u Yükle"
+
+msgid "cloudlandingpage_license-link"
+msgstr "Lisans Sözleşmesi"
 
 msgid "devicegrouppage_show-more-link"
 msgstr "Daha fazla göster"
@@ -1010,11 +1076,19 @@ msgstr "Daha fazla göster"
 msgid "thankyoupopup_download-text"
 msgstr "Yükleme başlamadı mı? {{LINK}} için buraya tıklayın"
 
+#. i18n: EN: text for {{LINK}} is in key thankyoupopup_licence-link; RU: текст
+#. для {{LINK}} находится в ключе thankyoupopup_licence-link;
+msgid "thankyoupopup_licence-text"
+msgstr "Bu yazılımı yükleyerek, {{LINK}} şartlarını kabul ediyorsunuz"
+
 msgid "thankyoupopup_title"
 msgstr "DriverPack'i Başlat"
 
 msgid "thankyoupopup_cta-text"
 msgstr "bilgisayarınızda sürücüleri seçmeye ve yüklemeye başlamak için"
+
+msgid "thankyoupopup_licence-link"
+msgstr "Lisans Sözleşmesi"
 
 msgid "thankyoupopup_download-link"
 msgstr "İndirmek"
@@ -1090,3 +1164,18 @@ msgstr "Bu çözümün gelişimi aşağıdaki gereçlere bağlıdır"
 
 msgid "wannacryptpromopage_link-smb"
 msgstr "Windows ve Windows Server için SMB protokollerinin 1, 2, ve 3. sürümlerini nasıl etkinleştirir ve etkisizleştirirsiniz"
+
+#~ msgid "cloudpagefooter_download"
+#~ msgstr "DriverPack Cloud'u İndir"
+
+#~ msgid "cloudlandingpage_download"
+#~ msgstr "İndir"
+
+#~ msgid "cloudnewlandingpage_license"
+#~ msgstr "Kuruluma başlamadan önce lütfen {{LINK}}'ni okuyun"
+
+#~ msgid "cloudnewlandingpage_license-link"
+#~ msgstr "Lisans Sözleşmesi"
+
+#~ msgid "landingheadernav_badrabbit"
+#~ msgstr "Bad Rabbit virüsüne karşı koruma"

@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-01-11 11:55+0000\n"
+"POT-Creation-Date: 2018-02-07 13:21+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>, 2017\n"
 "Language-Team: Slovak (https://www.transifex.com/driverpack-solution/teams/75453/sk/)\n"
@@ -45,6 +45,12 @@ msgstr "Stiahnuť DriverPack Online"
 
 msgid "buttonsplitdropdown_main-button"
 msgstr "Stiahnuť"
+
+msgid "cloudfaq_landing-title"
+msgstr "Odpovieme na Vaše otázky"
+
+msgid "cloudpagefooter_license-link"
+msgstr "Licenčná zmluva"
 
 msgid "breadcrumbs_main-text"
 msgstr "Domovská stránka"
@@ -336,9 +342,6 @@ msgstr "Program DriverPack nainštaluje bezplatne ovládače a vyrieši problém
 msgid "landingheader_cta-btn"
 msgstr "Inštalovať všetky požadované ovládače"
 
-msgid "landingheadernav_badrabbit"
-msgstr "Ochrana pred BadRabbit"
-
 msgid "landingheadernav_search"
 msgstr "Vyhľadávanie ovládača"
 
@@ -379,7 +382,7 @@ msgid "landingproducts_item-title-online"
 msgstr "DriverPack Online"
 
 msgid "landingproducts_item-description-online"
-msgstr "Stiahne sa okamžite, stiahne a nainštaluje všetky ovládače, ak máte pripojenie na Internet <span class='nobr'>({{SIZE}})</span>"
+msgstr ""
 
 msgid "landingproducts_item-version"
 msgstr "Verzia:"
@@ -523,7 +526,7 @@ msgid "reviewheader_cta-text"
 msgstr "Pridajte sa do komunity DriverPack na sociálnych sieťach, aby ste udržali krok s novinkami o produkte a zapojili sa do diskusií"
 
 msgid "reviewheader_cta"
-msgstr "Pridajte svoj názor alebo návrh na zlepšenie programu DriverPack"
+msgstr ""
 
 msgid "search_input-placeholder"
 msgstr "Vyhľadať podľa názvu ovládača, notebooku alebo DeviceID"
@@ -900,6 +903,24 @@ msgstr "Ovládač nebol správne nainštalovaný a počítač má teraz problém
 msgid "adminpagefaq_stable-a"
 msgstr "Prevádzková stabilita softvéru DriverPack je jednou z našich hlavných priorít, ale naďalej dochádza k menším chybám, aj keď sú zriedkavé. Z tohto dôvodu vytvoríme bod obnovenia, ktorý Vám umožní vrátiť všetko späť do stavu, ktorý bol nakonfigurovaný predtým. Ak chcete zabrániť podobnému problému v budúcnosti, odporúčame vám prejsť do DriverPack Menu a odoslať report - \"list kondície\", ktorý je automaticky vytvorený softvérom, našej službe technickej podpory."
 
+msgid "cloudpagefaq_remove_soft-q"
+msgstr ""
+
+msgid "cloudpagefaq_remove_soft-a"
+msgstr ""
+
+msgid "cloudpagefaq_notifications-q"
+msgstr ""
+
+msgid "cloudpagefaq_notifications-a"
+msgstr ""
+
+msgid "cloudpagefaq_usb-q"
+msgstr ""
+
+msgid "cloudpagefaq_usb-a"
+msgstr ""
+
 msgid "badrabbitpromopage_cta-text"
 msgstr "Kryptografický vírus Bad Rabbit — ako chrániť počítač?"
 
@@ -929,6 +950,51 @@ msgstr "Vývoj tohto riešenia bol založený na nasledujúcich materiáloch"
 
 msgid "badrabbitpromopage_link-smb"
 msgstr "Ako povoliť a zakázať verzie 1, 2 a 3 protokolov SMB pre systémy Windows a Windows Server"
+
+msgid "cloudlandingpage_cackle-title"
+msgstr ""
+
+msgid "cloudlandingpage_cackle-caption"
+msgstr ""
+
+msgid "cloudlandingpage_header-title"
+msgstr ""
+
+msgid "cloudlandingpage_about-what-is-title"
+msgstr ""
+
+msgid "cloudlandingpage_about-what-is-caption"
+msgstr ""
+
+msgid "cloudlandingpage_about-how-works-title"
+msgstr ""
+
+msgid "cloudlandingpage_about-how-works-caption"
+msgstr ""
+
+msgid "cloudlandingpage_features-monitoring"
+msgstr ""
+
+msgid "cloudlandingpage_features-safety"
+msgstr ""
+
+msgid "cloudlandingpage_features-cloud"
+msgstr ""
+
+msgid "cloudlandingpage_uninstall-title"
+msgstr ""
+
+msgid "cloudlandingpage_uninstall-caption"
+msgstr ""
+
+msgid "cloudlandingpage_license"
+msgstr ""
+
+msgid "cloudlandingpage_features-install"
+msgstr ""
+
+msgid "cloudlandingpage_license-link"
+msgstr "Licenčná zmluva"
 
 msgid "devicegrouppage_show-more-link"
 msgstr "Zobraziť viac"
@@ -1010,11 +1076,19 @@ msgstr "Zobraziť viac"
 msgid "thankyoupopup_download-text"
 msgstr "Stiahnutie nezačalo? Kliknite sem pre{{LINK}}"
 
+#. i18n: EN: text for {{LINK}} is in key thankyoupopup_licence-link; RU: текст
+#. для {{LINK}} находится в ключе thankyoupopup_licence-link;
+msgid "thankyoupopup_licence-text"
+msgstr ""
+
 msgid "thankyoupopup_title"
 msgstr "Spustiť DriverPack"
 
 msgid "thankyoupopup_cta-text"
 msgstr "pre začatie s výberom a inštaláciou ovládačov do Vášho počítača"
+
+msgid "thankyoupopup_licence-link"
+msgstr "Licenčná zmluva"
 
 msgid "thankyoupopup_download-link"
 msgstr "stiahnutie"
@@ -1090,3 +1164,18 @@ msgstr "Vývoj tohto riešenia bol založený na nasledujúcich materiáloch"
 
 msgid "wannacryptpromopage_link-smb"
 msgstr "Ako povoliť a zakázať verzie 1, 2 a 3 protokolov SMB pre systémy Windows a Windows Server"
+
+#~ msgid "cloudpagefooter_download"
+#~ msgstr ""
+
+#~ msgid "cloudlandingpage_download"
+#~ msgstr "Stiahnuť"
+
+#~ msgid "cloudnewlandingpage_license"
+#~ msgstr ""
+
+#~ msgid "cloudnewlandingpage_license-link"
+#~ msgstr "Licenčná zmluva"
+
+#~ msgid "landingheadernav_badrabbit"
+#~ msgstr "Ochrana pred BadRabbit"
