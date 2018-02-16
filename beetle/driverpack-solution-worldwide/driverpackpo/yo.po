@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-11-27 10:29+0000\n"
-"PO-Revision-Date: 2017-12-11 09:55+0000\n"
+"POT-Creation-Date: 2018-01-23 10:15+0000\n"
+"PO-Revision-Date: 2018-02-16 06:10+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Yoruba (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/yo/)\n"
 "MIME-Version: 1.0\n"
@@ -468,6 +468,23 @@ msgstr "Oluṣakoso Iṣẹ"
 
 msgid "menu_cmd"
 msgstr "Laini Ilana"
+
+#. i18n: EN: text for {{LINK}} is in key confirm_popup_eula-link; RU: текст
+#. для {{LINK}} находится в ключе confirm_popup_eula-link;
+msgid "confirm_popup_eula"
+msgstr ""
+
+msgid "confirm_popup_title"
+msgstr ""
+
+msgid "confirm_popup_eula-link"
+msgstr "Adehun Iwe-aṣẹ"
+
+msgid "confirm_popup_install_button"
+msgstr ""
+
+msgid "confirm_popup_cancel_button"
+msgstr "Kọ"
 
 msgid "diagnostics_section_title"
 msgstr "Awọn iwadi wiwa System"
@@ -934,9 +951,6 @@ msgstr "O ti fagile rẹ"
 msgid "installation_title_name"
 msgstr "Fifi sori awọn ohun kan"
 
-msgid "installation_title_button_settings"
-msgstr "Tunto"
-
 msgid "installation_item_description_restorepoint"
 msgstr "O funni ni eto eto-pada-pada si ipo ti tẹlẹ ti nkan ti ko tọ"
 
@@ -1045,15 +1059,6 @@ msgstr "Ko si ye lati wa awọn eto software naa lẹẹkọọkan ni gbogbo igb
 msgid "drivers_program_counter"
 msgstr "Atilẹyin ti a ṣe iṣeduro"
 
-msgid "protect_popup_title"
-msgstr "Eto iṣeto kọmputa rẹ"
-
-msgid "protect_popup_install_button"
-msgstr "Fi sori ẹrọ"
-
-msgid "protect_popup_cancel_button"
-msgstr "Kọ"
-
 msgid "protect_row_rating"
 msgstr "Oṣuwọn:"
 
@@ -1123,6 +1128,9 @@ msgstr "Eto fun awọn olumulo to ti ni ilọsiwaju"
 msgid "settings-header_caption"
 msgstr "DriverPack ti ṣẹda pataki fun awọn admins ṣugbọn o ṣawari ati rọrun paapa fun awọn olumulo alakobere. Nipa lilo rẹ, awọn miliọnu eto eto agbaye agbaye ko le ṣatunṣe awọn kọmputa wọn ni kiakia ṣugbọn o tun le ṣe iwakọ DriverPack gẹgẹbi awọn aini ati awọn iṣẹ wọn. Aṣayan algorithm tuntun yan awọn awakọ ti o gba laaye awọn ẹrọ rẹ ṣiṣẹ pẹlu ṣiṣe ti o pọju. Gbiyanju DriverPack — a ni idaniloju o yoo fẹran rẹ!"
 
+msgid "settings-screen_license"
+msgstr "Adehun Iwe-aṣẹ"
+
 #. i18n: EN: default value for {{MODEL}} in start_title key; RU: значение по
 #. умолчанию для {{MODEL}} в ключе start_title
 msgid "start_title_default_model"
@@ -1136,6 +1144,9 @@ msgstr "Ṣe atunto kọmputa naa laifọwọyi"
 
 msgid "start_caption"
 msgstr "DriverPack yoo ṣayẹwo eto naa, fi sori ẹrọ awọn ohun elo<br/>ti a beere ati software, ati ṣe awọn ayẹwo. <br/>Išisẹ kọmputa yẹ ki o mu."
+
+msgid "start_license"
+msgstr "Adehun Iwe-aṣẹ"
 
 msgid "start_expert_mode"
 msgstr "Ipo Amoye"
@@ -1327,3 +1338,18 @@ msgstr "Ti sopọ mọ kaadi ti o tọ, tabi awọn iṣoro diẹ pẹlu iṣel�
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Yoruba"
+
+#~ msgid "protect_popup_title"
+#~ msgstr "Your computer security configuration"
+
+#~ msgid "protect_popup_eula"
+#~ msgstr "License Agreement"
+
+#~ msgid "protect_popup_install_button"
+#~ msgstr "Install"
+
+#~ msgid "protect_popup_cancel_button"
+#~ msgstr "Refuse"
+
+#~ msgid "installation_title_button_settings"
+#~ msgstr "Configure"

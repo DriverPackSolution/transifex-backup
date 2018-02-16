@@ -8,9 +8,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-11-27 10:29+0000\n"
-"PO-Revision-Date: 2018-01-12 22:45+0000\n"
-"Last-Translator: Bakhtawar Barzan <bakhtawar.barzan95@hotmail.com>\n"
+"POT-Creation-Date: 2018-01-23 10:15+0000\n"
+"PO-Revision-Date: 2018-02-16 06:04+0000\n"
+"Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Kurdish (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/ku/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -470,6 +470,23 @@ msgstr "بەڕێوەبەری ئەرکەکان"
 
 msgid "menu_cmd"
 msgstr "هێڵی فه‌رمانكردن"
+
+#. i18n: EN: text for {{LINK}} is in key confirm_popup_eula-link; RU: текст
+#. для {{LINK}} находится в ключе confirm_popup_eula-link;
+msgid "confirm_popup_eula"
+msgstr ""
+
+msgid "confirm_popup_title"
+msgstr ""
+
+msgid "confirm_popup_eula-link"
+msgstr "مۆڵه‌تنامه‌ی ڕێككه‌وتن"
+
+msgid "confirm_popup_install_button"
+msgstr ""
+
+msgid "confirm_popup_cancel_button"
+msgstr "ڕەتکردنەوە"
 
 msgid "diagnostics_section_title"
 msgstr "دۆزینه‌وه‌ی كێشه‌ی سیسته‌م"
@@ -936,9 +953,6 @@ msgstr ""
 msgid "installation_title_name"
 msgstr "ئامرازە دابەزێندراوەکان"
 
-msgid "installation_title_button_settings"
-msgstr "ڕێكخستن"
-
 msgid "installation_item_description_restorepoint"
 msgstr ""
 
@@ -1047,15 +1061,6 @@ msgstr "لێره‌ ئیتر پێویست ناكات بگه‌ڕێیت به‌د
 msgid "drivers_program_counter"
 msgstr "نه‌رمه‌كاڵا پێشنیاركراوه‌كان"
 
-msgid "protect_popup_title"
-msgstr "رێکخستنی پارێزگاری کۆمپیوتەرەکەت"
-
-msgid "protect_popup_install_button"
-msgstr "دامەزراندن"
-
-msgid "protect_popup_cancel_button"
-msgstr "ڕەتکردنەوە"
-
 msgid "protect_row_rating"
 msgstr "رێژه‌:"
 
@@ -1125,6 +1130,9 @@ msgstr "رێكخسته‌كان بۆ به‌كارهێنه‌ره‌ پێشكه�
 msgid "settings-header_caption"
 msgstr ""
 
+msgid "settings-screen_license"
+msgstr "مۆڵه‌تنامه‌ی ڕێككه‌وتن"
+
 #. i18n: EN: default value for {{MODEL}} in start_title key; RU: значение по
 #. умолчанию для {{MODEL}} в ключе start_title
 msgid "start_title_default_model"
@@ -1138,6 +1146,9 @@ msgstr "كۆمپیوته‌ر ڕێكبخه‌ به‌ automatically"
 
 msgid "start_caption"
 msgstr ""
+
+msgid "start_license"
+msgstr "مۆڵه‌تنامه‌ی ڕێككه‌وتن"
 
 msgid "start_expert_mode"
 msgstr "حاڵه‌تی شاره‌زا"
@@ -1329,3 +1340,18 @@ msgstr ""
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "ئینگلیزی"
+
+#~ msgid "protect_popup_title"
+#~ msgstr "Your computer security configuration"
+
+#~ msgid "protect_popup_eula"
+#~ msgstr "License Agreement"
+
+#~ msgid "protect_popup_install_button"
+#~ msgstr "Install"
+
+#~ msgid "protect_popup_cancel_button"
+#~ msgstr "Refuse"
+
+#~ msgid "installation_title_button_settings"
+#~ msgstr "Configure"

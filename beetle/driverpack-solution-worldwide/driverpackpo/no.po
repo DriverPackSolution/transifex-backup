@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-11-27 10:29+0000\n"
-"PO-Revision-Date: 2017-12-17 22:19+0000\n"
+"POT-Creation-Date: 2018-01-23 10:15+0000\n"
+"PO-Revision-Date: 2018-02-16 05:20+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Norwegian (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/no/)\n"
 "MIME-Version: 1.0\n"
@@ -468,6 +468,23 @@ msgstr "Oppgavebehandler"
 
 msgid "menu_cmd"
 msgstr "Kommandolinje"
+
+#. i18n: EN: text for {{LINK}} is in key confirm_popup_eula-link; RU: текст
+#. для {{LINK}} находится в ключе confirm_popup_eula-link;
+msgid "confirm_popup_eula"
+msgstr ""
+
+msgid "confirm_popup_title"
+msgstr ""
+
+msgid "confirm_popup_eula-link"
+msgstr "Lisensavtale "
+
+msgid "confirm_popup_install_button"
+msgstr ""
+
+msgid "confirm_popup_cancel_button"
+msgstr "Avslå"
 
 msgid "diagnostics_section_title"
 msgstr "System Diagnose"
@@ -934,9 +951,6 @@ msgstr "Du har avbrutt"
 msgid "installation_title_name"
 msgstr "Installasjonselementer"
 
-msgid "installation_title_button_settings"
-msgstr "Konfigurer"
-
 msgid "installation_item_description_restorepoint"
 msgstr "Gjør det mulig å rulle tilbake til sin tidligere tilstand hvis noe går galt"
 
@@ -1045,15 +1059,6 @@ msgstr "Det er ikke nødvendig å lete etter programvare et etter et lenger. Du 
 msgid "drivers_program_counter"
 msgstr "Anbefalt programvare"
 
-msgid "protect_popup_title"
-msgstr "Din sikkerhetskonfigurasjon på denne maskinen"
-
-msgid "protect_popup_install_button"
-msgstr "Installer"
-
-msgid "protect_popup_cancel_button"
-msgstr "Avslå"
-
 msgid "protect_row_rating"
 msgstr "Rate:"
 
@@ -1123,6 +1128,9 @@ msgstr "Instillinger for avanserte brukere"
 msgid "settings-header_caption"
 msgstr "DriverPack er opprettet spesielt for administratorer, men er klart og praktisk selv for nybegynnere. Ved å bruke det, kan millioner av systemadministratorer over hele verden ikke bare konfigurere sine datamaskiner raskt, men kan også tilpasse DriverPack etter eget behov og oppgaver. Den nye utvalgsalgoritmen installerer drivere som tillater at enhetene dine opererer med maksimal effektivitet. Prøv DriverPack — vi er sikker på at du vil like det!"
 
+msgid "settings-screen_license"
+msgstr "Lisensavtale "
+
 #. i18n: EN: default value for {{MODEL}} in start_title key; RU: значение по
 #. умолчанию для {{MODEL}} в ключе start_title
 msgid "start_title_default_model"
@@ -1136,6 +1144,9 @@ msgstr "Konfigurer din datamaskin automatisk"
 
 msgid "start_caption"
 msgstr "DriverPack vil skanne systemet, installere nødvendige<br/>drivere og programvaresamt utføre diagnoser. <br/>Datamaskinens effektivitet bør da øke."
+
+msgid "start_license"
+msgstr "Lisensavtale "
 
 msgid "start_expert_mode"
 msgstr "Ekspert Mode"
@@ -1327,3 +1338,18 @@ msgstr "Lydkortet er koblet feil, eller det er noen problemer med driften"
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Norwegian"
+
+#~ msgid "protect_popup_title"
+#~ msgstr "Your computer security configuration"
+
+#~ msgid "protect_popup_eula"
+#~ msgstr "License Agreement"
+
+#~ msgid "protect_popup_install_button"
+#~ msgstr "Install"
+
+#~ msgid "protect_popup_cancel_button"
+#~ msgstr "Refuse"
+
+#~ msgid "installation_title_button_settings"
+#~ msgstr "Configure"

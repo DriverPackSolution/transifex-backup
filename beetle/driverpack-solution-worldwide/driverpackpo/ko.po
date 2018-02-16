@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-11-27 10:29+0000\n"
-"PO-Revision-Date: 2018-01-03 16:47+0000\n"
+"POT-Creation-Date: 2018-01-23 10:15+0000\n"
+"PO-Revision-Date: 2018-02-16 06:04+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Korean (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/ko/)\n"
 "MIME-Version: 1.0\n"
@@ -469,6 +469,23 @@ msgstr "작업 관리자"
 msgid "menu_cmd"
 msgstr "명령줄"
 
+#. i18n: EN: text for {{LINK}} is in key confirm_popup_eula-link; RU: текст
+#. для {{LINK}} находится в ключе confirm_popup_eula-link;
+msgid "confirm_popup_eula"
+msgstr ""
+
+msgid "confirm_popup_title"
+msgstr ""
+
+msgid "confirm_popup_eula-link"
+msgstr "라이센스 동의"
+
+msgid "confirm_popup_install_button"
+msgstr ""
+
+msgid "confirm_popup_cancel_button"
+msgstr "거부"
+
 msgid "diagnostics_section_title"
 msgstr "시스템 진단"
 
@@ -929,9 +946,6 @@ msgstr "취소하였습니다"
 msgid "installation_title_name"
 msgstr "설치 항목"
 
-msgid "installation_title_button_settings"
-msgstr "구성"
-
 msgid "installation_item_description_restorepoint"
 msgstr "오류가 발생하면 시스템을 이전 상태로 롤백 할 수 있습니다"
 
@@ -1040,15 +1054,6 @@ msgstr "더 이상 하나씩 소프트웨어 프로그램을 찾을 필요가 �
 msgid "drivers_program_counter"
 msgstr "권장 소프트웨어"
 
-msgid "protect_popup_title"
-msgstr "컴퓨터 보안 구성"
-
-msgid "protect_popup_install_button"
-msgstr "설치"
-
-msgid "protect_popup_cancel_button"
-msgstr "거부"
-
 msgid "protect_row_rating"
 msgstr "비율:"
 
@@ -1118,6 +1123,9 @@ msgstr "고급 사용자를 위한 설정"
 msgid "settings-header_caption"
 msgstr "DriverPack 은 관리자를 위해 특별히 제작되었지만 초보 사용자에게도 분명하고 편리합니다. 이 기능을 사용하면 전세계의 수백만 명의 시스템 관리자가 컴퓨터를 신속하게 구성할 수 있을 뿐만 아니라 자신의 필요와 작업에 따라 DriverPack 을 사용자 정의할 수 있습니다. 새로운 선택 알고리즘은 장치가 최대 효율로 작동할 수있게 해주는 드라이버를 설치합니다. DriverPack을 사용해보세요 — 우리는 당신이 그것을 좋아할 것이라고 확신합니다!"
 
+msgid "settings-screen_license"
+msgstr "라이센스 동의"
+
 #. i18n: EN: default value for {{MODEL}} in start_title key; RU: значение по
 #. умолчанию для {{MODEL}} в ключе start_title
 msgid "start_title_default_model"
@@ -1131,6 +1139,9 @@ msgstr "컴퓨터 자동 구성"
 
 msgid "start_caption"
 msgstr "DriverPack 은 시스템을 검사하고 필요한 드라이버와<br/>소프트웨어를 설치하며 진단을 수행합니다. <br/>컴퓨터의 효율성이 높아집니다."
+
+msgid "start_license"
+msgstr "라이센스 동의"
 
 msgid "start_expert_mode"
 msgstr "전문가 모드"
@@ -1320,3 +1331,18 @@ msgstr "사운드 카드가 잘못 연결되었거나 조작상 문제가 있습
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Korean"
+
+#~ msgid "protect_popup_title"
+#~ msgstr "Your computer security configuration"
+
+#~ msgid "protect_popup_eula"
+#~ msgstr "License Agreement"
+
+#~ msgid "protect_popup_install_button"
+#~ msgstr "Install"
+
+#~ msgid "protect_popup_cancel_button"
+#~ msgstr "Refuse"
+
+#~ msgid "installation_title_button_settings"
+#~ msgstr "Configure"

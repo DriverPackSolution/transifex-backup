@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-11-27 10:29+0000\n"
-"PO-Revision-Date: 2018-01-14 13:40+0000\n"
+"POT-Creation-Date: 2018-01-23 10:15+0000\n"
+"PO-Revision-Date: 2018-02-16 06:02+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: French (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/fr/)\n"
 "MIME-Version: 1.0\n"
@@ -470,6 +470,23 @@ msgstr "Gestionnaire de tâches"
 
 msgid "menu_cmd"
 msgstr "Ligne de commande"
+
+#. i18n: EN: text for {{LINK}} is in key confirm_popup_eula-link; RU: текст
+#. для {{LINK}} находится в ключе confirm_popup_eula-link;
+msgid "confirm_popup_eula"
+msgstr ""
+
+msgid "confirm_popup_title"
+msgstr ""
+
+msgid "confirm_popup_eula-link"
+msgstr "Contrat de licence"
+
+msgid "confirm_popup_install_button"
+msgstr ""
+
+msgid "confirm_popup_cancel_button"
+msgstr "Refuser"
 
 msgid "diagnostics_section_title"
 msgstr "Diagnostique du systeme"
@@ -936,9 +953,6 @@ msgstr "Vous l'avez annulé"
 msgid "installation_title_name"
 msgstr "Éléments d'installation"
 
-msgid "installation_title_button_settings"
-msgstr "Configurer"
-
 msgid "installation_item_description_restorepoint"
 msgstr "Il permet à un système de revenir à son état précédent si quelque chose ne va pas"
 
@@ -1047,15 +1061,6 @@ msgstr "Il n'est plus nécessaire de rechercher les logiciels un à un. Vous pou
 msgid "drivers_program_counter"
 msgstr "Logiciel recommandé"
 
-msgid "protect_popup_title"
-msgstr "Configuration de sécurité de votre ordinateur"
-
-msgid "protect_popup_install_button"
-msgstr "Installer"
-
-msgid "protect_popup_cancel_button"
-msgstr "Refuser"
-
 msgid "protect_row_rating"
 msgstr "Taux:"
 
@@ -1125,6 +1130,9 @@ msgstr "Paramètres pour les utilisateurs avancés"
 msgid "settings-header_caption"
 msgstr "DriverPack a été créé spécifiquement pour les administrateurs, mais il est clair et pratique, même pour les utilisateurs novices. En l'utilisant, des millions d'administrateurs système dans le monde entier peuvent non seulement configurer leurs ordinateurs rapidement, mais peuvent également personnaliser DriverPack en fonction de leurs propres besoins et de leurs tâches. Le nouvel algorithme de sélection installe des pilotes qui permettent à vos appareils de fonctionner avec une efficacité maximale. Essayez DriverPack — nous sommes sûrs que vous l'aimerez!"
 
+msgid "settings-screen_license"
+msgstr "Contrat de licence"
+
 #. i18n: EN: default value for {{MODEL}} in start_title key; RU: значение по
 #. умолчанию для {{MODEL}} в ключе start_title
 msgid "start_title_default_model"
@@ -1138,6 +1146,9 @@ msgstr "Configurer l'ordinateur automatiquement"
 
 msgid "start_caption"
 msgstr "DriverPack va scanner le système, installer<br/>les pilotes et logiciels requis, et effectuer des diagnostics. <br/>L'efficacité de l'ordinateur devrait augmenter."
+
+msgid "start_license"
+msgstr "Contrat de licence"
 
 msgid "start_expert_mode"
 msgstr "Mode Expert"
@@ -1329,3 +1340,18 @@ msgstr "La carte son est mal connectée, ou il y a quelques problèmes avec son 
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "French"
+
+#~ msgid "protect_popup_title"
+#~ msgstr "Your computer security configuration"
+
+#~ msgid "protect_popup_eula"
+#~ msgstr "License Agreement"
+
+#~ msgid "protect_popup_install_button"
+#~ msgstr "Install"
+
+#~ msgid "protect_popup_cancel_button"
+#~ msgstr "Refuse"
+
+#~ msgid "installation_title_button_settings"
+#~ msgstr "Configure"

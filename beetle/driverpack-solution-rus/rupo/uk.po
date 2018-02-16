@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-12-11 09:45+0000\n"
+"POT-Creation-Date: 2018-01-23 10:15+0000\n"
 "PO-Revision-Date: 2016-02-25 10:55+0000\n"
 "Last-Translator: Ihor Sovertkov <superigorpro@gmail.com>, 2017\n"
 "Language-Team: Ukrainian (https://www.transifex.com/driverpack-solution/teams/75452/uk/)\n"
@@ -474,6 +474,23 @@ msgstr "Диспетчер завдань"
 
 msgid "menu_cmd"
 msgstr "CMD"
+
+#. i18n: EN: text for {{LINK}} is in key confirm_popup_eula-link; RU: текст
+#. для {{LINK}} находится в ключе confirm_popup_eula-link;
+msgid "confirm_popup_eula"
+msgstr ""
+
+msgid "confirm_popup_title"
+msgstr ""
+
+msgid "confirm_popup_eula-link"
+msgstr ""
+
+msgid "confirm_popup_install_button"
+msgstr ""
+
+msgid "confirm_popup_cancel_button"
+msgstr ""
 
 msgid "diagnostics_section_title"
 msgstr "Діагностика системи"
@@ -1053,15 +1070,6 @@ msgstr "Більше немає необхідності шукати прогр
 msgid "drivers_program_counter"
 msgstr "Рекомендовані програми"
 
-msgid "protect_popup_title"
-msgstr "Налаштування безпеки вашого комп'ютера"
-
-msgid "protect_popup_install_button"
-msgstr "Встановити"
-
-msgid "protect_popup_cancel_button"
-msgstr "Відмовитися"
-
 msgid "protect_row_rating"
 msgstr "Рейтинг:"
 
@@ -1131,6 +1139,9 @@ msgstr "Налаштування для досвідчених користув�
 msgid "settings-header_caption"
 msgstr "DriverPack створений спеціально для професіоналів, але зрозумілий і зручний навіть початківцям. З його допомогою мільйони системних адміністраторів по всьому світу можуть не тільки швидко налаштовувати комп'ютери, але і кастомізувати роботу програми, виходячи зі своїх потреб і завдань. Новий алгоритм підбору встановлює драйвери, що забезпечують максимальну продуктивність пристроїв. Спробуйте DriverPack — ми впевнені, що вам сподобається!"
 
+msgid "settings-screen_license"
+msgstr ""
+
 #. i18n: EN: default value for {{MODEL}} in start_title key; RU: значение по
 #. умолчанию для {{MODEL}} в ключе start_title
 msgid "start_title_default_model"
@@ -1144,6 +1155,9 @@ msgstr "Налаштувати ПК автоматично"
 
 msgid "start_caption"
 msgstr "DriverPack просканує систему, встановить необхідні<br/>драйвери, софт і зробить діагностику.<br/>Продуктивність комп'ютера повинна збільшитися."
+
+msgid "start_license"
+msgstr ""
 
 msgid "start_expert_mode"
 msgstr "Режим експерта"
@@ -1337,6 +1351,18 @@ msgstr "Звукова карта неправильно підключена а
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Ukrainian"
+
+#~ msgid "protect_popup_title"
+#~ msgstr "Налаштування безпеки вашого комп'ютера"
+
+#~ msgid "protect_popup_eula"
+#~ msgstr ""
+
+#~ msgid "protect_popup_install_button"
+#~ msgstr "Встановити"
+
+#~ msgid "protect_popup_cancel_button"
+#~ msgstr "Відмовитися"
 
 #~ msgid "installation_title_button_settings"
 #~ msgstr "Налаштувати"

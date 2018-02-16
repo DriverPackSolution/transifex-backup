@@ -9,8 +9,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-11-27 10:29+0000\n"
-"PO-Revision-Date: 2017-12-17 22:21+0000\n"
+"POT-Creation-Date: 2018-01-23 10:15+0000\n"
+"PO-Revision-Date: 2018-02-16 06:01+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Dutch (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/nl/)\n"
 "MIME-Version: 1.0\n"
@@ -471,6 +471,23 @@ msgstr "Taakbeheer"
 
 msgid "menu_cmd"
 msgstr "Opdrachtregel"
+
+#. i18n: EN: text for {{LINK}} is in key confirm_popup_eula-link; RU: текст
+#. для {{LINK}} находится в ключе confirm_popup_eula-link;
+msgid "confirm_popup_eula"
+msgstr ""
+
+msgid "confirm_popup_title"
+msgstr ""
+
+msgid "confirm_popup_eula-link"
+msgstr "Licentieovereenkomst"
+
+msgid "confirm_popup_install_button"
+msgstr ""
+
+msgid "confirm_popup_cancel_button"
+msgstr "Weigeren"
 
 msgid "diagnostics_section_title"
 msgstr "Systeemdiagnostiek"
@@ -937,9 +954,6 @@ msgstr "U heeft het geannuleerd"
 msgid "installation_title_name"
 msgstr "Installatie objekten"
 
-msgid "installation_title_button_settings"
-msgstr "Configureren"
-
 msgid "installation_item_description_restorepoint"
 msgstr "Het zet een systeem terug naar de vorige staat als er iets misgaat"
 
@@ -1048,15 +1062,6 @@ msgstr "Het is niet nodig om de software een voor een op te zoeken. U kunt alles
 msgid "drivers_program_counter"
 msgstr "Aanbevolen software"
 
-msgid "protect_popup_title"
-msgstr "Uw computerbeveiligingsconfiguratie"
-
-msgid "protect_popup_install_button"
-msgstr "Installeer"
-
-msgid "protect_popup_cancel_button"
-msgstr "Weigeren"
-
 msgid "protect_row_rating"
 msgstr "Waardeer:"
 
@@ -1126,6 +1131,9 @@ msgstr "Instellingen voor de geavanceerde gebruikers"
 msgid "settings-header_caption"
 msgstr "DriverPack is speciaal gemaakt voor professionals, maar is ook helder en handig voor beginnende gebruikers. Door het te gebruiken, kunnen miljoenen systeem-beheerders wereldwijd hun computers niet alleen snel configureren, maar kunnen ze ook DriverPack aanpassen volgens hun eigen behoeften en taken. Het nieuwe selectiealgoritme installeert drivers waarmee uw apparaten met maximale efficiëntie kunnen werken. Probeer DriverPack — we zijn er zeker van dat je het leuk vindt!"
 
+msgid "settings-screen_license"
+msgstr "Licentieovereenkomst"
+
 #. i18n: EN: default value for {{MODEL}} in start_title key; RU: значение по
 #. умолчанию для {{MODEL}} в ключе start_title
 msgid "start_title_default_model"
@@ -1139,6 +1147,9 @@ msgstr "Configureer de computer automatisch"
 
 msgid "start_caption"
 msgstr "DriverPack zal het systeem scannen, het installeert de vereiste<br/>drivers & software en diagnostiek uitvoeren. <br/> De efficiëntie van de computer zou moeten toenemen."
+
+msgid "start_license"
+msgstr "Licentieovereenkomst"
 
 msgid "start_expert_mode"
 msgstr "Expert modus"
@@ -1330,3 +1341,18 @@ msgstr "De geluidskaart is verkeerd aangesloten of er zijn problemen met de werk
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Dutch"
+
+#~ msgid "protect_popup_title"
+#~ msgstr "Your computer security configuration"
+
+#~ msgid "protect_popup_eula"
+#~ msgstr "License Agreement"
+
+#~ msgid "protect_popup_install_button"
+#~ msgstr "Install"
+
+#~ msgid "protect_popup_cancel_button"
+#~ msgstr "Refuse"
+
+#~ msgid "installation_title_button_settings"
+#~ msgstr "Configure"

@@ -1,6 +1,6 @@
 # Translators:
 # Translators:
-# Alessandro João <ajkmetiuk@bol.com.br>, 2016-2017
+# Alessandro João <ajkmetiuk@bol.com.br>, 2016-2018
 # Charllys <charllys.daiany@gmail.com>, 2016
 # Fúlvio Costa <stefano47@hotmail.com>, 2017
 # ivan Montibeller <terrivelmenteivan@hotmail.com>, 2017
@@ -9,9 +9,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-11-27 10:29+0000\n"
-"PO-Revision-Date: 2017-12-14 11:34+0000\n"
-"Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
+"POT-Creation-Date: 2018-01-23 10:15+0000\n"
+"PO-Revision-Date: 2018-02-13 14:01+0000\n"
+"Last-Translator: Alessandro João <ajkmetiuk@bol.com.br>\n"
 "Language-Team: Portuguese (Brazil) (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/pt_BR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -471,6 +471,23 @@ msgstr "Gerenciador de Tarefas"
 
 msgid "menu_cmd"
 msgstr "Prompt de Comando "
+
+#. i18n: EN: text for {{LINK}} is in key confirm_popup_eula-link; RU: текст
+#. для {{LINK}} находится в ключе confirm_popup_eula-link;
+msgid "confirm_popup_eula"
+msgstr "Ao instalar este programa, você aceita as condições do {{LINK}}."
+
+msgid "confirm_popup_title"
+msgstr "Instalação de Programas"
+
+msgid "confirm_popup_eula-link"
+msgstr "Termos de Licença"
+
+msgid "confirm_popup_install_button"
+msgstr "Aceitar e instalar"
+
+msgid "confirm_popup_cancel_button"
+msgstr "Recusar"
 
 msgid "diagnostics_section_title"
 msgstr "Diagnósticos do Sistema"
@@ -937,9 +954,6 @@ msgstr "Você cancelou isso"
 msgid "installation_title_name"
 msgstr "Itens de instalação"
 
-msgid "installation_title_button_settings"
-msgstr "Configurar"
-
 msgid "installation_item_description_restorepoint"
 msgstr "Ele permite que um sistema retorne ao seu estado anterior se algo der errado"
 
@@ -1048,15 +1062,6 @@ msgstr "Não há mais necessidade de procurar seus programas um a um. Você pode
 msgid "drivers_program_counter"
 msgstr "Programas recomendados"
 
-msgid "protect_popup_title"
-msgstr "Configuração da segurança do seu computador"
-
-msgid "protect_popup_install_button"
-msgstr "Instalar"
-
-msgid "protect_popup_cancel_button"
-msgstr "Recusar"
-
 msgid "protect_row_rating"
 msgstr "Avaliar:"
 
@@ -1126,6 +1131,9 @@ msgstr "Configurações para usuários avançados"
 msgid "settings-header_caption"
 msgstr "O DriverPack foi criado especificamente para administradores, mas é fácil e conveniente mesmo para usuários novatos. Ao usá-lo, milhões de administradores de sistemas em todo o mundo não só podem configurar seus computadores rapidamente, mas também personalizar o DriverPack de acordo com suas próprias necessidades e tarefas. O novo algoritmo de seleção instala drivers que permitem que seus dispositivos funcionem com a máxima eficiência. Experimente o DriverPack — temos certeza de que você vai gostar!"
 
+msgid "settings-screen_license"
+msgstr "Termos de Licença"
+
 #. i18n: EN: default value for {{MODEL}} in start_title key; RU: значение по
 #. умолчанию для {{MODEL}} в ключе start_title
 msgid "start_title_default_model"
@@ -1139,6 +1147,9 @@ msgstr "Configure o computador automaticamente"
 
 msgid "start_caption"
 msgstr "O DriverPack irá verificar o sistema, instalar os<br/>drivers e programas necessários e realizar os diagnósticos. <br/>A eficiência do computador deve aumentar."
+
+msgid "start_license"
+msgstr "Termos de Licença"
 
 msgid "start_expert_mode"
 msgstr "Modo Avançado"
@@ -1330,3 +1341,18 @@ msgstr "A placa de som está conectada incorretamente, ou há alguns problemas c
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Portuguese (Brazil)"
+
+#~ msgid "protect_popup_title"
+#~ msgstr "Your computer security configuration"
+
+#~ msgid "protect_popup_eula"
+#~ msgstr "License Agreement"
+
+#~ msgid "protect_popup_install_button"
+#~ msgstr "Install"
+
+#~ msgid "protect_popup_cancel_button"
+#~ msgstr "Refuse"
+
+#~ msgid "installation_title_button_settings"
+#~ msgstr "Configure"

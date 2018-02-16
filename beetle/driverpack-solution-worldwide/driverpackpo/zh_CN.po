@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-11-27 10:29+0000\n"
-"PO-Revision-Date: 2017-12-17 22:22+0000\n"
+"POT-Creation-Date: 2018-01-23 10:15+0000\n"
+"PO-Revision-Date: 2018-02-16 06:01+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Chinese (China) (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/zh_CN/)\n"
 "MIME-Version: 1.0\n"
@@ -470,6 +470,23 @@ msgstr "任务管理器"
 msgid "menu_cmd"
 msgstr "命令行"
 
+#. i18n: EN: text for {{LINK}} is in key confirm_popup_eula-link; RU: текст
+#. для {{LINK}} находится в ключе confirm_popup_eula-link;
+msgid "confirm_popup_eula"
+msgstr ""
+
+msgid "confirm_popup_title"
+msgstr ""
+
+msgid "confirm_popup_eula-link"
+msgstr "许可协议"
+
+msgid "confirm_popup_install_button"
+msgstr ""
+
+msgid "confirm_popup_cancel_button"
+msgstr "垃圾"
+
 msgid "diagnostics_section_title"
 msgstr "系统诊断"
 
@@ -930,9 +947,6 @@ msgstr "你已经取消了"
 msgid "installation_title_name"
 msgstr "安装项目"
 
-msgid "installation_title_button_settings"
-msgstr "配置"
-
 msgid "installation_item_description_restorepoint"
 msgstr "如果出现问题，它可以使系统回滚到之前的状态"
 
@@ -1041,15 +1055,6 @@ msgstr "无需再次查找软件程序。您可以轻松地安装所有内容。
 msgid "drivers_program_counter"
 msgstr "推荐软件"
 
-msgid "protect_popup_title"
-msgstr "您的计算机安全配置"
-
-msgid "protect_popup_install_button"
-msgstr "安装"
-
-msgid "protect_popup_cancel_button"
-msgstr "垃圾"
-
 msgid "protect_row_rating"
 msgstr "速率:"
 
@@ -1119,6 +1124,9 @@ msgstr "高级用户设置"
 msgid "settings-header_caption"
 msgstr "DriverPack 专门为管理员创建，即使对于新手用户来说也是清晰方便的。 通过使用它，全球数以百万计的系统管理员不仅可以快速配置计算机，还可以根据自己的需求和任务自定义 DriverPack。 新的选择算法安装了允许您的设备以最高效率运行的驱动程序。 尝试 DriverPack — 我们相信你会喜欢它！"
 
+msgid "settings-screen_license"
+msgstr "许可协议"
+
 #. i18n: EN: default value for {{MODEL}} in start_title key; RU: значение по
 #. умолчанию для {{MODEL}} в ключе start_title
 msgid "start_title_default_model"
@@ -1132,6 +1140,9 @@ msgstr "自动配置计算机"
 
 msgid "start_caption"
 msgstr "DriverPack 将扫描系统，安装所需<br/>个驱动程序和软件，并执行诊断。<br/>该计算机的效率应该提高。"
+
+msgid "start_license"
+msgstr "许可协议"
 
 msgid "start_expert_mode"
 msgstr "专家模式"
@@ -1321,3 +1332,18 @@ msgstr "声卡连接不正确，否则可操作性有问题"
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Chinese (Simplified)"
+
+#~ msgid "protect_popup_title"
+#~ msgstr "Your computer security configuration"
+
+#~ msgid "protect_popup_eula"
+#~ msgstr "License Agreement"
+
+#~ msgid "protect_popup_install_button"
+#~ msgstr "Install"
+
+#~ msgid "protect_popup_cancel_button"
+#~ msgstr "Refuse"
+
+#~ msgid "installation_title_button_settings"
+#~ msgstr "Configure"

@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-11-27 10:29+0000\n"
-"PO-Revision-Date: 2018-01-05 19:01+0000\n"
+"POT-Creation-Date: 2018-01-23 10:15+0000\n"
+"PO-Revision-Date: 2018-02-16 06:02+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Estonian (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/et/)\n"
 "MIME-Version: 1.0\n"
@@ -469,6 +469,23 @@ msgstr "Protsessihaldur"
 
 msgid "menu_cmd"
 msgstr "Käsude rida"
+
+#. i18n: EN: text for {{LINK}} is in key confirm_popup_eula-link; RU: текст
+#. для {{LINK}} находится в ключе confirm_popup_eula-link;
+msgid "confirm_popup_eula"
+msgstr "Selle tarkvara paigaldamisega nõustute te {{LINK}} tingimustega."
+
+msgid "confirm_popup_title"
+msgstr "Tarkvara paigaldamine"
+
+msgid "confirm_popup_eula-link"
+msgstr "Litsents"
+
+msgid "confirm_popup_install_button"
+msgstr "Nõustu ja paigalda"
+
+msgid "confirm_popup_cancel_button"
+msgstr "Keeldu"
 
 msgid "diagnostics_section_title"
 msgstr "Süsteemi diagnostika"
@@ -935,9 +952,6 @@ msgstr "Olete loobunud sellest"
 msgid "installation_title_name"
 msgstr "Paigalduse detailid"
 
-msgid "installation_title_button_settings"
-msgstr "Seadista"
-
 msgid "installation_item_description_restorepoint"
 msgstr "See lubab süsteemil pöörata tagasi eelmisesse töökorras olekusse, kui miski peaks valesti minema"
 
@@ -1046,15 +1060,6 @@ msgstr "Unusta programmide otsimine! Nüüd saad paigaldada kõike mida vajad ü
 msgid "drivers_program_counter"
 msgstr "Soovitatud programmid"
 
-msgid "protect_popup_title"
-msgstr "Teie arvuti turvalisuse seadistamine"
-
-msgid "protect_popup_install_button"
-msgstr "Paigalda"
-
-msgid "protect_popup_cancel_button"
-msgstr "Keeldu"
-
 msgid "protect_row_rating"
 msgstr "Hinne:"
 
@@ -1124,6 +1129,9 @@ msgstr "Seaded edasijõudnud kasutajate jaoks"
 msgid "settings-header_caption"
 msgstr "DriverPack on loodud spetsiaalselt administraatoritele, kuid see on lihtne ja mugav ka uutele kasutajatele. Kasutades seda saavad miljonid süsteemiadministraatorid üle maailma mitte ainult seadistada arvuteid, vaid ka kohendada DriverPack funktsiooni vastavalt nende vajadustele ja ülesannetele. Uusim vaik algorütme paigaldab draiverid ja lubad seadmel töötada täivõimsusel. Proovi DriverPack-i  — oleme kindlad, et teile hakkab see meeldima!"
 
+msgid "settings-screen_license"
+msgstr "Litsents"
+
 #. i18n: EN: default value for {{MODEL}} in start_title key; RU: значение по
 #. умолчанию для {{MODEL}} в ключе start_title
 msgid "start_title_default_model"
@@ -1137,6 +1145,9 @@ msgstr "Seadista arvuti automaatselt"
 
 msgid "start_caption"
 msgstr "DriverPack analüüsib süsteemi, paigaldab vajalikud<br/>draiverid ja tarkvara, ning teeb diagnostikat. <br/>Arvuti tootlikus peaks tõusma."
+
+msgid "start_license"
+msgstr "Litsents"
 
 msgid "start_expert_mode"
 msgstr "Eksperdi režiim"
@@ -1328,3 +1339,18 @@ msgstr "Teie helikaart on paigaldatud valesti, või on mingi muu viga, et ta ei 
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Estonian"
+
+#~ msgid "protect_popup_title"
+#~ msgstr "Your computer security configuration"
+
+#~ msgid "protect_popup_eula"
+#~ msgstr "License Agreement"
+
+#~ msgid "protect_popup_install_button"
+#~ msgstr "Install"
+
+#~ msgid "protect_popup_cancel_button"
+#~ msgstr "Refuse"
+
+#~ msgid "installation_title_button_settings"
+#~ msgstr "Configure"

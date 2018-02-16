@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-11-27 10:29+0000\n"
-"PO-Revision-Date: 2017-12-20 21:46+0000\n"
+"POT-Creation-Date: 2018-01-23 10:15+0000\n"
+"PO-Revision-Date: 2018-02-16 06:08+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Slovenian (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/sl/)\n"
 "MIME-Version: 1.0\n"
@@ -468,6 +468,23 @@ msgstr "Upravitelj opravil"
 
 msgid "menu_cmd"
 msgstr "Ukazna vrstica"
+
+#. i18n: EN: text for {{LINK}} is in key confirm_popup_eula-link; RU: текст
+#. для {{LINK}} находится в ключе confirm_popup_eula-link;
+msgid "confirm_popup_eula"
+msgstr ""
+
+msgid "confirm_popup_title"
+msgstr ""
+
+msgid "confirm_popup_eula-link"
+msgstr "Licenčna pogodba"
+
+msgid "confirm_popup_install_button"
+msgstr ""
+
+msgid "confirm_popup_cancel_button"
+msgstr "Zavrni"
 
 msgid "diagnostics_section_title"
 msgstr "Sistemska diagnostika"
@@ -944,9 +961,6 @@ msgstr "Preklicali ste"
 msgid "installation_title_name"
 msgstr "Namestitveni elementi"
 
-msgid "installation_title_button_settings"
-msgstr "Konfiguriraj"
-
 msgid "installation_item_description_restorepoint"
 msgstr "Sistem omogoča vrnitev v prejšnje stanje, v primeru napake"
 
@@ -1055,15 +1069,6 @@ msgstr "Programskih programov ni treba več iskati enega po enega. Vse lahko eno
 msgid "drivers_program_counter"
 msgstr "Priporočena programska oprema"
 
-msgid "protect_popup_title"
-msgstr "Varnostna konfiguracija vašega računalnika"
-
-msgid "protect_popup_install_button"
-msgstr "Namesti"
-
-msgid "protect_popup_cancel_button"
-msgstr "Zavrni"
-
 msgid "protect_row_rating"
 msgstr "Oceni:"
 
@@ -1133,6 +1138,9 @@ msgstr "Nastavitve za napredne uporabnike"
 msgid "settings-header_caption"
 msgstr "DriverPack je bil ustvarjen posebej za skrbnike, vendar je jasen in uporaben tudi za neizkušene uporabnike. Z njegovo uporabo lahko milijoni sistemskih skrbnikov po vsem svetu ne samo hitro konfigurirajo svoje računalnike, ampak lahko tudi  prilagodijo program DriverPack glede na njihove potrebe in naloge. Novi izbirni algoritem namesti gonilnike, ki vašim napravam omogočajo delovanje z največjo učinkovitostjo. Preiskusite DriverPack — prepričani smo, da vam bo všeč!"
 
+msgid "settings-screen_license"
+msgstr "Licenčna pogodba"
+
 #. i18n: EN: default value for {{MODEL}} in start_title key; RU: значение по
 #. умолчанию для {{MODEL}} в ключе start_title
 msgid "start_title_default_model"
@@ -1146,6 +1154,9 @@ msgstr " Samodejna nastavitev računalnika"
 
 msgid "start_caption"
 msgstr "DriverPack bo skeniral sistem, namestil potrebne<br/>programe in programsko opremo ter opravil diagnostiko. <br/>Učinkovitost računalnika bi se morala povečati."
+
+msgid "start_license"
+msgstr "Licenčna pogodba"
 
 msgid "start_expert_mode"
 msgstr "Napredni način"
@@ -1341,3 +1352,18 @@ msgstr "Zvočna kartica ni nepravilno priključena ali pa obstajajo težave z nj
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Slovenian"
+
+#~ msgid "protect_popup_title"
+#~ msgstr "Your computer security configuration"
+
+#~ msgid "protect_popup_eula"
+#~ msgstr "License Agreement"
+
+#~ msgid "protect_popup_install_button"
+#~ msgstr "Install"
+
+#~ msgid "protect_popup_cancel_button"
+#~ msgstr "Refuse"
+
+#~ msgid "installation_title_button_settings"
+#~ msgstr "Configure"

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-12-11 09:45+0000\n"
+"POT-Creation-Date: 2018-01-23 10:15+0000\n"
 "PO-Revision-Date: 2016-02-25 10:55+0000\n"
 "Last-Translator: Shérov <azamat9006@mail.ru>, 2017\n"
 "Language-Team: Uzbek (https://www.transifex.com/driverpack-solution/teams/75452/uz/)\n"
@@ -470,6 +470,23 @@ msgstr "Topshiriqlar dispetcheri"
 
 msgid "menu_cmd"
 msgstr "Buyruqlar qatori"
+
+#. i18n: EN: text for {{LINK}} is in key confirm_popup_eula-link; RU: текст
+#. для {{LINK}} находится в ключе confirm_popup_eula-link;
+msgid "confirm_popup_eula"
+msgstr ""
+
+msgid "confirm_popup_title"
+msgstr ""
+
+msgid "confirm_popup_eula-link"
+msgstr ""
+
+msgid "confirm_popup_install_button"
+msgstr ""
+
+msgid "confirm_popup_cancel_button"
+msgstr ""
 
 msgid "diagnostics_section_title"
 msgstr "Tizimni tashxislash"
@@ -1039,15 +1056,6 @@ msgstr "Dasturlani aloxida izlashga endi hojat yo'q&nbsp;— hammasini bir klikd
 msgid "drivers_program_counter"
 msgstr "Tavsiya etilgan dasturlar"
 
-msgid "protect_popup_title"
-msgstr "Kompyuteringiz xavfsizligini sozlash"
-
-msgid "protect_popup_install_button"
-msgstr "O'rnatish"
-
-msgid "protect_popup_cancel_button"
-msgstr "Rad etish"
-
 msgid "protect_row_rating"
 msgstr "Reytingi:"
 
@@ -1117,6 +1125,9 @@ msgstr "Yaxshi tushunadigan foydalanuvchilar uchun sozlashlar"
 msgid "settings-header_caption"
 msgstr "DriverPack professionallar uchun maxsus yaratilgan, lekin boshlang'ich foydalanuvchilar uchun ham tushunarli va qulay. Uning yordamida dunyodagi milliondan ko'p tizim administratorlari o'zlariniging ehtiyoj va topshiriqlaridan kelib chiqgan holda nafaqat komyuterlani tez sozlashlari, balkim dastur bilan ishlashni kastomlashlari mumkindir . Qurilmani maksimal ishlashi ta'minlashi uchun tanlashni yangi algoritmi drayverlarni o'rnatadi. DriverPack sinab ko'ring— sizga yoqishiga biz ishonamiz!"
 
+msgid "settings-screen_license"
+msgstr ""
+
 #. i18n: EN: default value for {{MODEL}} in start_title key; RU: значение по
 #. умолчанию для {{MODEL}} в ключе start_title
 msgid "start_title_default_model"
@@ -1130,6 +1141,9 @@ msgstr "Kompyuterni avtomatik ravishda sozlash "
 
 msgid "start_caption"
 msgstr "DriverPack tizimi tekshiradi, zarur drayverlar, <br/>dasturiy ta'minotni o'rnatadi va tashxisni amalga oshiradi.<br/> Kompyuterning ishlashi ortishi kerak."
+
+msgid "start_license"
+msgstr ""
 
 msgid "start_expert_mode"
 msgstr "Ekspert rejimi"
@@ -1319,6 +1333,18 @@ msgstr "Ovoz kartasi to'g'ri ulanmagan yoki uning ishlashi bilan bog'liq muammol
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Uzbek"
+
+#~ msgid "protect_popup_title"
+#~ msgstr "Kompyuteringiz xavfsizligini sozlash"
+
+#~ msgid "protect_popup_eula"
+#~ msgstr ""
+
+#~ msgid "protect_popup_install_button"
+#~ msgstr "O'rnatish"
+
+#~ msgid "protect_popup_cancel_button"
+#~ msgstr "Rad etish"
 
 #~ msgid "installation_title_button_settings"
 #~ msgstr "Sozlash"

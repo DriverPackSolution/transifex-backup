@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-11-27 10:29+0000\n"
-"PO-Revision-Date: 2018-02-05 15:24+0000\n"
+"POT-Creation-Date: 2018-01-23 10:15+0000\n"
+"PO-Revision-Date: 2018-02-16 06:03+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Hindi (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/hi/)\n"
 "MIME-Version: 1.0\n"
@@ -468,6 +468,23 @@ msgstr "कार्य प्रबंधक"
 
 msgid "menu_cmd"
 msgstr "कमांड लाइन"
+
+#. i18n: EN: text for {{LINK}} is in key confirm_popup_eula-link; RU: текст
+#. для {{LINK}} находится в ключе confirm_popup_eula-link;
+msgid "confirm_popup_eula"
+msgstr ""
+
+msgid "confirm_popup_title"
+msgstr ""
+
+msgid "confirm_popup_eula-link"
+msgstr "लाइसेंस समझौता"
+
+msgid "confirm_popup_install_button"
+msgstr ""
+
+msgid "confirm_popup_cancel_button"
+msgstr ""
 
 msgid "diagnostics_section_title"
 msgstr "प्रणाली निदान"
@@ -934,9 +951,6 @@ msgstr "आपने इसे रद्द कर दिया है"
 msgid "installation_title_name"
 msgstr "स्थापना आइटम"
 
-msgid "installation_title_button_settings"
-msgstr "कॉन्फ़िगर"
-
 msgid "installation_item_description_restorepoint"
 msgstr "यदि कुछ गलत हो जाता है तो यह सिस्टम को अपने पिछले स्थिति में रोल-बैक सक्षम करता है"
 
@@ -1045,15 +1059,6 @@ msgstr "सॉफ़्टवेयर प्रोग्रामों को 
 msgid "drivers_program_counter"
 msgstr "अनुशंसित सॉफ़्टवेयर"
 
-msgid "protect_popup_title"
-msgstr ""
-
-msgid "protect_popup_install_button"
-msgstr "इंस्टॉल करें"
-
-msgid "protect_popup_cancel_button"
-msgstr ""
-
 msgid "protect_row_rating"
 msgstr "मूल्यांकन करें:"
 
@@ -1123,6 +1128,9 @@ msgstr "उन्नत उपयोगकर्ताओं के लिए �
 msgid "settings-header_caption"
 msgstr "DriverPack विशेष रूप से व्यवस्थापक के लिए बनाया गया है लेकिन नौसिखिए उपयोगकर्ताओं के लिए भी स्पष्ट और सुविधाजनक है। इसका उपयोग करके, दुनियाभर में लाखों सिस्टम एडमिन अपने कंप्यूटर को जल्दी से कॉन्फ़िगर ही नहीं कर सकते हैं बल्कि अपनी जरूरतों और कार्यों के अनुसार DriverPack को भी कस्टमाइज़ कर सकते हैं। नया चयन एल्गोरिदम ड्राइवरों को स्थापित करता है जो आपके डिवाइस को अधिकतम दक्षता के साथ संचालित करने की अनुमति देता है। DriverPack — आज़माएं - हमें यकीन है कि आप इसे पसंद करेंगे!"
 
+msgid "settings-screen_license"
+msgstr "लाइसेंस समझौता"
+
 #. i18n: EN: default value for {{MODEL}} in start_title key; RU: значение по
 #. умолчанию для {{MODEL}} в ключе start_title
 msgid "start_title_default_model"
@@ -1136,6 +1144,9 @@ msgstr "कंप्यूटर को स्वचालित रूप स�
 
 msgid "start_caption"
 msgstr "DriverPack सिस्टम को स्कैन करेगा, आवश्यक<br/>ड्रायवर और सॉफ़्टवेयर इंस्टॉल करेगा, और निदान करेगा। <br/>कंप्यूटर की दक्षता बढ़नी चाहिए।"
+
+msgid "start_license"
+msgstr "लाइसेंस समझौता"
 
 msgid "start_expert_mode"
 msgstr "विशेषज्ञ मोड"
@@ -1327,3 +1338,18 @@ msgstr "ध्वनि कार्ड गलत तरीके से जु�
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Hindi"
+
+#~ msgid "protect_popup_title"
+#~ msgstr "Your computer security configuration"
+
+#~ msgid "protect_popup_eula"
+#~ msgstr "License Agreement"
+
+#~ msgid "protect_popup_install_button"
+#~ msgstr "Install"
+
+#~ msgid "protect_popup_cancel_button"
+#~ msgstr "Refuse"
+
+#~ msgid "installation_title_button_settings"
+#~ msgstr "Configure"

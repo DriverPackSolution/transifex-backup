@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-11-27 10:29+0000\n"
-"PO-Revision-Date: 2017-12-04 13:44+0000\n"
+"POT-Creation-Date: 2018-01-23 10:15+0000\n"
+"PO-Revision-Date: 2018-02-16 06:00+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Chinese (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/zh/)\n"
 "MIME-Version: 1.0\n"
@@ -471,6 +471,23 @@ msgstr "工作管理員"
 msgid "menu_cmd"
 msgstr "命令列"
 
+#. i18n: EN: text for {{LINK}} is in key confirm_popup_eula-link; RU: текст
+#. для {{LINK}} находится в ключе confirm_popup_eula-link;
+msgid "confirm_popup_eula"
+msgstr ""
+
+msgid "confirm_popup_title"
+msgstr ""
+
+msgid "confirm_popup_eula-link"
+msgstr "授權合約"
+
+msgid "confirm_popup_install_button"
+msgstr ""
+
+msgid "confirm_popup_cancel_button"
+msgstr ""
+
 msgid "diagnostics_section_title"
 msgstr "系統診斷"
 
@@ -931,9 +948,6 @@ msgstr "您已取消"
 msgid "installation_title_name"
 msgstr "安裝項目"
 
-msgid "installation_title_button_settings"
-msgstr "設定"
-
 msgid "installation_item_description_restorepoint"
 msgstr "如果出現問題，它可以使系統回復到之前的狀態"
 
@@ -1042,15 +1056,6 @@ msgstr "沒有必要再一個一個尋找軟體程式。您可以輕鬆地一鍵
 msgid "drivers_program_counter"
 msgstr "建議的軟體"
 
-msgid "protect_popup_title"
-msgstr ""
-
-msgid "protect_popup_install_button"
-msgstr "安裝"
-
-msgid "protect_popup_cancel_button"
-msgstr ""
-
 msgid "protect_row_rating"
 msgstr "評比:"
 
@@ -1120,6 +1125,9 @@ msgstr "進階使用者的設定"
 msgid "settings-header_caption"
 msgstr "DriverPack 已專門為系統管理員建立，但對於新手使用者來說，也很清晰和方便。透過使用它，全世界數以百萬計的系統管理員不僅可以快速配置他們的電腦，而且還可以根據自己的需要和任務自訂 DriverPack。新的選擇演算法安裝驅動程式，使您的裝置能夠以最大的效率運行。嘗試 DriverPack - 我們相信您會喜歡它!"
 
+msgid "settings-screen_license"
+msgstr "授權合約"
+
 #. i18n: EN: default value for {{MODEL}} in start_title key; RU: значение по
 #. умолчанию для {{MODEL}} в ключе start_title
 msgid "start_title_default_model"
@@ -1133,6 +1141,9 @@ msgstr "自動配置電腦"
 
 msgid "start_caption"
 msgstr "DriverPack 將掃描系統，安裝所需的<br/>驅動程式和軟體，並執行診斷。<br/>應會提高電腦的效率。"
+
+msgid "start_license"
+msgstr "授權合約"
 
 msgid "start_expert_mode"
 msgstr "專家模式"
@@ -1322,3 +1333,18 @@ msgstr "音效卡連接不正確，或其可操作性存在一些問題"
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Chinese (Traditional)"
+
+#~ msgid "protect_popup_title"
+#~ msgstr "Your computer security configuration"
+
+#~ msgid "protect_popup_eula"
+#~ msgstr "License Agreement"
+
+#~ msgid "protect_popup_install_button"
+#~ msgstr "Install"
+
+#~ msgid "protect_popup_cancel_button"
+#~ msgstr "Refuse"
+
+#~ msgid "installation_title_button_settings"
+#~ msgstr "Configure"

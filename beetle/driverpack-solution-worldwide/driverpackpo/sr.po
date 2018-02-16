@@ -10,9 +10,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-11-27 10:29+0000\n"
-"PO-Revision-Date: 2018-02-02 21:40+0000\n"
-"Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
+"POT-Creation-Date: 2018-01-23 10:15+0000\n"
+"PO-Revision-Date: 2018-02-16 08:43+0000\n"
+"Last-Translator: nemanja sakota <nemanja.sakota@yandex.com>\n"
 "Language-Team: Serbian (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/sr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -472,6 +472,23 @@ msgstr "Upravljanje zadacima"
 
 msgid "menu_cmd"
 msgstr "Komandna linija"
+
+#. i18n: EN: text for {{LINK}} is in key confirm_popup_eula-link; RU: текст
+#. для {{LINK}} находится в ключе confirm_popup_eula-link;
+msgid "confirm_popup_eula"
+msgstr "Instaliranjem ovog softvera prihvatate {{LINK}} uslove."
+
+msgid "confirm_popup_title"
+msgstr "Instalacija softvera"
+
+msgid "confirm_popup_eula-link"
+msgstr "Ugovorna licenca"
+
+msgid "confirm_popup_install_button"
+msgstr "Prihvatite i instalirajte"
+
+msgid "confirm_popup_cancel_button"
+msgstr "Odbite"
 
 msgid "diagnostics_section_title"
 msgstr "Dijagnostika sistema"
@@ -943,9 +960,6 @@ msgstr "Ovu stavku ste otkazali"
 msgid "installation_title_name"
 msgstr "Instaliranje stavki"
 
-msgid "installation_title_button_settings"
-msgstr "Podesite"
-
 msgid "installation_item_description_restorepoint"
 msgstr "Ukoliko dođe do poteškoća u radu, omogućava povratak sistema na prethodno stanje"
 
@@ -1054,15 +1068,6 @@ msgstr "Više nema potrebe da tražite softverske programe jedan po jedan. Sada 
 msgid "drivers_program_counter"
 msgstr "Preporučeni softveri"
 
-msgid "protect_popup_title"
-msgstr "Sigurnosna podešavanja vašeg računara"
-
-msgid "protect_popup_install_button"
-msgstr "Instalirajte"
-
-msgid "protect_popup_cancel_button"
-msgstr "Odbite"
-
 msgid "protect_row_rating"
 msgstr "Ocena:"
 
@@ -1132,6 +1137,9 @@ msgstr "Podešavanja za napredne korisnike"
 msgid "settings-header_caption"
 msgstr "DriverPack je pre svega namenjen za administratore ali je jednostavan i lak za upotrebu tako da ga koriste i početnici. Koristeći ovaj softver, milioni administratora sistema širom sveta ne podešavaju samo svoj računar brzo već takođe mogu da prilagođavaju DriverPack prema svojim potrebama i zadacima. Novi algoritam odabira instalira drajvere koji omogućuju da vaši uređaji rade sa maksimalnom efikasnošću. Probajte DriverPack — sigurni smo da će vam se dopasti!"
 
+msgid "settings-screen_license"
+msgstr "Ugovorna licenca"
+
 #. i18n: EN: default value for {{MODEL}} in start_title key; RU: значение по
 #. умолчанию для {{MODEL}} в ключе start_title
 msgid "start_title_default_model"
@@ -1145,6 +1153,9 @@ msgstr "Podesite računar automatski"
 
 msgid "start_caption"
 msgstr "DriverPack će skenirati sistem, instalirati potrebne<br/>drajvere i softvere i izvršiti dijagnostiku. <br/>Efikasnost računara treba da se poveća."
+
+msgid "start_license"
+msgstr "Ugovorna licenca"
 
 msgid "start_expert_mode"
 msgstr "Ekspertski režim"
@@ -1243,7 +1254,7 @@ msgid "installation_header_promo_text_how_it_works"
 msgstr "Nakon pokretanja aplikacija na osnovu sprovedene dijagnostike određuje za koje uređaje je potrebno instaliranje novih drajvera, a za koje ažuriranje. Zahvaljujući tehnologiji mašinskog učenja, DriverPack odbira tačno one drajvere koji obezbeđuju najveću efikasnost. Da bi smo učinili našu aplikaciju sposobnom za podešavanje bilo kog računara, mi smo napravili najveću bazu drajvera na svetu koja sadrži više od milion drajvera. Pored toga, koristimo servere velike brzine i tehnologiju računarstva u oblaku što omogućava kvalitetno i brzo podešavanja računara."
 
 msgid "installation_header_promo_title_win_10"
-msgstr ""
+msgstr "Zašto je potrebno da ažurirate drajvere na Windows-u 10?"
 
 msgid "installation_header_promo_text_win_10"
 msgstr ""
@@ -1338,3 +1349,18 @@ msgstr ""
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Serbian"
+
+#~ msgid "protect_popup_title"
+#~ msgstr "Your computer security configuration"
+
+#~ msgid "protect_popup_eula"
+#~ msgstr "License Agreement"
+
+#~ msgid "protect_popup_install_button"
+#~ msgstr "Install"
+
+#~ msgid "protect_popup_cancel_button"
+#~ msgstr "Refuse"
+
+#~ msgid "installation_title_button_settings"
+#~ msgstr "Configure"
