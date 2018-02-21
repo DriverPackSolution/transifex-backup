@@ -1,7 +1,7 @@
 # Translators:
 # Translators:
 # Hrach Mkrtchyan <mhrach87@gmail.com>, 2018
-# Hrant Ohanyan <h.ohanyan@haysoft.org>, 2016-2017
+# Hrant Ohanyan <h.ohanyan@haysoft.org>, 2016-2018
 # Nadia Tegeneva <nadia@drp.su>, 2017-2018
 # Артур Кузяков <artx@drp.su>, 2016
 msgid ""
@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-01-23 10:15+0000\n"
-"PO-Revision-Date: 2018-02-13 08:10+0000\n"
+"PO-Revision-Date: 2018-02-19 12:31+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Armenian (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/hy/)\n"
 "MIME-Version: 1.0\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "installation_close_confirm"
-msgstr ""
+msgstr "Ընդհատե՞լ տեղադրումը: Դա կարող է հանգեցնել համակարգչի վթարի:"
 
 msgid "authorize_failed"
 msgstr "Մուտքի սխալ"
@@ -259,13 +259,13 @@ msgid "settings_firebug-caption"
 msgstr ""
 
 msgid "settings_cleanup-title"
-msgstr ""
+msgstr "Ջնջել ժամանակավոր ֆայլերը"
 
 msgid "settings_cleanup-caption"
 msgstr ""
 
 msgid "settings_soft-and-utilities-title"
-msgstr ""
+msgstr "Սարքավարների փաթեթների և օգտակար ծրագրերի տեղնադրում"
 
 msgid "settings_soft-and-utilities-caption"
 msgstr ""
@@ -792,22 +792,22 @@ msgid "installation_header_subtitle"
 msgstr ""
 
 msgid "installation_header_subtitle_installing-driver"
-msgstr ""
+msgstr "{{CLASS.SINGLE.FOR}} սարքավարը տեղադրվում է"
 
 msgid "installation_header_subtitle_installing-program-plural"
-msgstr ""
+msgstr "{{CATEGORY.PLURAL.FOR}}-ը տեղադրվում է"
 
 msgid "installation_header_subtitle_installing-program"
-msgstr ""
+msgstr "{{CATEGORY.SINGLE.FOR}}-ը տեղադրվում է"
 
 msgid "installation_header_subtitle_downloading"
-msgstr ""
+msgstr "Ֆայլի բեռնում"
 
 msgid "installation_header_preparing"
-msgstr ""
+msgstr "Վերականգնման կետի ստեղծում..."
 
 msgid "installation_header_title"
-msgstr ""
+msgstr "Համակարգչի կազմաձևում..."
 
 msgid "installation_header_promo_more"
 msgstr "իմանալ ավելին"
@@ -816,7 +816,7 @@ msgid "installation_header_promo_install"
 msgstr "տեղակայել"
 
 msgid "installation_header_promo_fb"
-msgstr ""
+msgstr "Համայնքը Facebook-ում"
 
 msgid "installation_item_category_restorepoint"
 msgstr "Վերականգնման կետ"
@@ -870,13 +870,13 @@ msgid "driver_class_other"
 msgstr "Այլ սարքերը"
 
 msgid "soft_category_archiver"
-msgstr ""
+msgstr "Գործողություններ արխիվների հետ"
 
 msgid "soft_category_browser"
-msgstr ""
+msgstr "Արագ և անվտանգ գործողություն համացանցում"
 
 msgid "soft_category_viewer"
-msgstr ""
+msgstr "Պատկերների և փաստաթղթերի դիտում"
 
 msgid "soft_category_messenger"
 msgstr ""
@@ -888,13 +888,13 @@ msgid "soft_category_player"
 msgstr ""
 
 msgid "soft_category_backup"
-msgstr ""
+msgstr "Պահուստավորում և տվյալների վերականգնում"
 
 msgid "soft_category_antivirus"
 msgstr "Հակավիրուսային պաշտպանություն"
 
 msgid "soft_category_system"
-msgstr ""
+msgstr "Համակարգային գործիքներ"
 
 msgid "soft_category_drivers"
 msgstr ""
@@ -903,28 +903,28 @@ msgid "installation_error_download"
 msgstr "Բեռնելու սխալ"
 
 msgid "installation_error_unzip"
-msgstr ""
+msgstr "Ապափաթեթավորելու սխալ"
 
 msgid "installation_error_install"
-msgstr ""
+msgstr "Տեղադրման սխալ"
 
 msgid "installation_error_restore_disabled"
-msgstr ""
+msgstr "Սխալ. արգելված է համակարգի կարգավորումների կողմից"
 
 msgid "installation_error_restore_not_created"
-msgstr ""
+msgstr "Ստեղծելու սխալ"
 
 msgid "installation_progress_stage_creating"
-msgstr ""
+msgstr "Ստեղծում է..."
 
 msgid "installation_progress_stage_created"
-msgstr ""
+msgstr "Ստեղծվել է"
 
 msgid "installation_progress_stage_waiting"
-msgstr ""
+msgstr "Սպասում է իր հերթին"
 
 msgid "installation_progress_stage_downloading"
-msgstr ""
+msgstr "Բեռնում..."
 
 msgid "installation_progress_downloading_speed"
 msgstr "արագություն"
@@ -933,25 +933,25 @@ msgid "installation_progress_downloading_of"
 msgstr "-ից"
 
 msgid "installation_progress_stage_downloaded"
-msgstr ""
+msgstr "Սպասում է իր հերթին՝ տեղադրելու համար"
 
 msgid "installation_progress_stage_unzipping"
-msgstr ""
+msgstr "Ապափաթեթավորում..."
 
 msgid "installation_progress_unzipping_unzipped"
 msgstr "ապափաթեթավորված է"
 
 msgid "installation_progress_stage_installing"
-msgstr ""
+msgstr "Տեղադրում է..."
 
 msgid "installation_progress_stage_done"
-msgstr ""
+msgstr "Պատրաստ է"
 
 msgid "installation_canceled"
-msgstr ""
+msgstr "Դուք չեղարկել եք այն"
 
 msgid "installation_title_name"
-msgstr ""
+msgstr "Միույթների տեղադրում"
 
 msgid "installation_item_description_restorepoint"
 msgstr ""
@@ -963,7 +963,7 @@ msgid "loading_backup_done"
 msgstr ""
 
 msgid "loading_button_finish"
-msgstr ""
+msgstr "Պատրաստ է"
 
 msgid "loading_backup_failed"
 msgstr ""
@@ -1044,7 +1044,7 @@ msgid "no-internet-screen_guide-step-2-action"
 msgstr ""
 
 msgid "no-internet-screen_guide-step-complete"
-msgstr ""
+msgstr "Պատրաստ է"
 
 msgid "no-internet-screen_guide-step-complete-action"
 msgstr ""
@@ -1074,22 +1074,22 @@ msgid "protect_row_version"
 msgstr "Տարբերակ:"
 
 msgid "protect_row_install_date"
-msgstr ""
+msgstr "Տեղադրման ամսաթիվ."
 
 msgid "protect_rating_level_large"
-msgstr ""
+msgstr "խորհուրդ ենք տալիս հեռացնել սա"
 
 msgid "protect_rating_level_middle"
-msgstr ""
+msgstr "կարող եք հեռացնել սա"
 
 msgid "protect_rating_level_small"
-msgstr ""
+msgstr "կարող եք պահել սա"
 
 msgid "protect_rating_level_large_caption"
 msgstr ""
 
 msgid "protect_uninstall_single"
-msgstr ""
+msgstr "հեռացնել"
 
 msgid "protect_clean_up_btn"
 msgstr ""
@@ -1151,7 +1151,7 @@ msgid "start_license"
 msgstr "Արտոնագրային Համաձայնագիր"
 
 msgid "start_expert_mode"
-msgstr ""
+msgstr "Մասնագիտական կերպ"
 
 msgid "start_drivers_title"
 msgid_plural "start_drivers_title_n"
