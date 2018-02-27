@@ -1,12 +1,13 @@
 # Translators:
 # Sergei <serjsafarian@gmail.com>, 2018
+# Nadia Tegeneva <nadia@drp.su>, 2018
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-02 13:13+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
-"Last-Translator: Sergei <serjsafarian@gmail.com>, 2018\n"
+"Last-Translator: Nadia Tegeneva <nadia@drp.su>, 2018\n"
 "Language-Team: Armenian (https://www.transifex.com/driverpack-solution/teams/75452/hy/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -16,89 +17,89 @@ msgstr ""
 
 #. i18n: EN: Example: VENDOR.NAME=Asus; RU: Пример: VENDOR.NAME=Asus;
 msgid "seo_vendor-footer-anchor"
-msgstr ""
+msgstr "{{VENDOR.NAME}}"
 
 msgid "seo_devicegroups-footer-anchor"
-msgstr ""
+msgstr "{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
 
 #. i18n: EN: Example: NAME=Acer E230H; RU: Пример: NAME=Acer E230H;
 msgid "seo_devicegroup-footer-anchor"
-msgstr ""
+msgstr "{{NAME}}"
 
 #. i18n: EN: Example: NAME=Asus X550EA; RU: Пример: NAME=Asus X550EA;
 msgid "seo_notebookvendor-footer-anchor"
-msgstr ""
+msgstr "{{NOTEBOOK.VENDOR.NAME}} նոութբուքներ"
 
 msgid "seo_notebook-footer-anchor"
-msgstr ""
+msgstr "{{NAME}} նոութբուքներ"
 
 msgid "seo_notebookdevices-footer-anchor"
-msgstr ""
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} {{CLASS.PLURAL.MAIN}}"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
 #. CLASS.PLURAL.FOR=мониторов|модемов;
 msgid "seo_deviceclass-footer-anchor"
-msgstr ""
+msgstr "{{CLASS.PLURAL.MAIN}}"
 
 msgid "seo_hwidos-footer-anchor"
-msgstr ""
+msgstr "Սարքավարի տարբերակ Windows {{OS.NAME}}-ի համար"
 
 msgid "seo_main-title"
-msgstr ""
+msgstr "Սարքավարների ցանկ Windows 7, 8, 10-ի և XP-ի համար | DriverPack Solution"
 
 msgid "seo_main-description"
-msgstr ""
+msgstr "DriverPack Solution-ն առաջարկում է անվճար տեղադրել Ձեր սարքի սարքավարնիերը կամ ներբեռնել սարքավարների ինքնաբար տեղադրման և թարմացման ծրագիրը"
 
 msgid "seo_main-keywords"
-msgstr ""
+msgstr "ներբեռնել սարքավարը սարքավարներ windows 7 8 10 64 ներբեռնել download  ԱՀ նոութբուք անվճար սարքավարների տեղադրիչ սարքավարների տեղադրման ծրագիր"
 
 msgid "seo_mainos-title"
-msgstr ""
+msgstr "Ներբեռնել սարքավարներ Windows {{OS.VERSION}}-ի համար | DriverPack Solution"
 
 msgid "seo_mainos-description"
-msgstr ""
+msgstr "Անվճար թարմացրեք սարքավարները Windows {{OS.VERSION}} x64 կամ x86-ի համար"
 
 msgid "seo_mainos-h1"
 msgstr "Սարքավարներ Windows{{OS.VERSION}}-ի համար"
 
 msgid "seo_mainos-keywords"
-msgstr ""
+msgstr "Windows {{OS.VERSION}} ներբեռնել 64 86 սարքավարները DriverPack Solution"
 
 msgid "seo_mainos-h3"
-msgstr ""
+msgstr "Սարքավարների ամենամեծ շտեմարանը Windows {{OS.VERSION}}-ի համար՝ մեկ անվճար հավելվածում՝ DriverPack Online-ում"
 
 msgid "seo_mainlanding-title"
-msgstr ""
+msgstr "DriverPack Solution - Windows-ի սարքավարների ինքնաբար թարմացում"
 
 msgid "seo_mainlanding-description"
-msgstr ""
+msgstr "DriverPack Solution-ն Ձեր նոութբուքի և համակարգչի սարքավարները ինքնաբար թարմացնելու անվճար ծրագիր է։ Նաև կարելի է ինքնուրույնաբար ներբեռնել Windows XP, 7, 8, 8.1, 10-ի սարքավարները մեր սարքավարների ցանկից"
 
 msgid "seo_mainlanding-keywords"
-msgstr ""
+msgstr "ներբեռնել սարքավարները ինքնատեղադրում թարմացում Windows 7, XP, 10, 8 և 8.1 սարքավարների թարմացման ծրագիր"
 
 msgid "seo_productonline_title"
-msgstr ""
+msgstr "DriverPack Online | Ներբեռնել սարքավարներն անվճար և ինքնաբար"
 
 msgid "seo_productonline_description"
-msgstr ""
+msgstr "DriverPack Online-ը համացանցի առկայության դեպքում թույլ է տալիս ներբեռնել և տեղադրել / թարմացնել բոլոր պետք եղած սարքավարները Ձեր համակարգչի կամ նոութբուքի համար"
 
 msgid "seo_productonline_h1"
 msgstr "DriverPack Online - ներբեռնվում է ակնթարթորեն, համացանցի առկայության դեպքում ներբեռնում և տեղադրում է բոլոր սարքավարները"
 
 msgid "seo_productnetwork_title"
-msgstr ""
+msgstr "DriverPack Offline Network  | Ներբեռնել ցանցային սարքավորումների սարքավարներն անցանց"
 
 msgid "seo_productnetwork_description"
-msgstr ""
+msgstr "DriverPack Offline Network - ցանցային սարքավորումների բոլոր սարքավարներն անցանց մեկ տեղում։ Ներբեռնել Windows XP, 7, 8, 8.1 կամ 10-ի համար"
 
 msgid "seo_productnetwork_h1"
 msgstr "DriverPack Offline Network - պարունակում է սարքավարներ ցանցային սարքավորումների (Lan/Wi-Fi) համար, աշխատում է առանց համացանցի"
 
 msgid "seo_productoffline_title"
-msgstr ""
+msgstr "DriverPack Offline Full | Ներբեռնել սարքավարներն անցանց"
 
 msgid "seo_productoffline_description"
-msgstr ""
+msgstr "DriverPack Offline Full-ը սարքավարների անցանց փաթեթ է համակարգի ադմինիստրատորների համար։  Ներբեռնել Windows XP, 7, 8, 8.1 կամ 10-ի համար"
 
 msgid "seo_productoffline_h1"
 msgstr "DriverPack Offline Full - պարունակում է բոլոր սարքավարները, աշխատում է առանց համացանցի, ներբեռնվում է հոսընթացի միջոցով"
@@ -106,55 +107,55 @@ msgstr "DriverPack Offline Full - պարունակում է բոլոր սարք�
 #. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
 #. CLASS.PLURAL.FOR=мониторов|модемов;
 msgid "seo_deviceclass-title"
-msgstr ""
+msgstr "Ներբեռնել {{CLASS.PLURAL.FOR}} սարքավարները | DriverPack Solution"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
 #. CLASS.PLURAL.FOR=мониторов|модемов;
 msgid "seo_deviceclass-description"
-msgstr ""
+msgstr "Տեղադրեք {{CLASS.PLURAL.FOR}} սարքավարները Windows 7, XP, 10, 8 և 8.1-ի համար կամ ներբեռնեք սարքավարների ինքնաբար տեղադրման և թարմացման ծրագիրը՝ DriverPack Solution-ը"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
 #. CLASS.PLURAL.FOR=мониторов|модемов;
 msgid "seo_deviceclass-h1"
-msgstr "Սարքավարներ <span class='bold'>{{CLASS.PLURAL.FOR}}</span>համար"
+msgstr "Սարքավարներ <span class='bold'>{{CLASS.PLURAL.FOR}}</span> համար"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
 #. CLASS.PLURAL.FOR=мониторов|модемов;
 msgid "seo_deviceclass-keywords"
-msgstr ""
+msgstr "{{CLASS.PLURAL.FOR}} սարքավարներ windows 7 64 8 10 ներբեռնել download "
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
 #. CLASS.PLURAL.FOR=мониторов|модемов;
 msgid "seo_deviceclass-footer-description"
-msgstr ""
+msgstr "Ներբեռնեք {{CLASS.PLURAL.FOR}} սարքավարները Windows-ի համար"
 
 msgid "seo_deviceclass-footer-application-category"
-msgstr ""
+msgstr "Բաժին՝ <span itemprop='applicationCategory'>սարքեր</span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=monitors|modem; RU: Пример:
 #. CLASS.PLURAL.MAIN=мониторы|модемы;
 msgid "seo_deviceclass-footer-application-subcategory"
-msgstr ""
+msgstr "Ենթաբաժին՝ <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_vendors-title"
-msgstr ""
+msgstr "Ներբեռնել սարքավարները ԱՀ-ի, նոութբուքի և նեթբուքի համար | DriverPack Solution"
 
 msgid "seo_vendors-description"
-msgstr ""
+msgstr "Անվճար տեղադրեք ԱՀ-ի, նոութբուքի կամ նեթբուքի սարքավարները կամ ներբեռնեք սարքավարների ինքնաբար տեղադրման և թարմացման ծրագիրը"
 
 msgid "seo_vendors-h1"
 msgstr "Սարքաշարի արտադրողներ"
 
 msgid "seo_vendors-keywords"
-msgstr ""
+msgstr "սարքավարներ drivers windows 7 8 10 64 ներբեռնել download"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendor-title"
-msgstr ""
+msgstr "{{VENDOR.NAME}}-ի սարքավարներ | Ներբեռնել Windows 7, XP, 10, 8 և 8.1-ի համար"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendor-description"
-msgstr ""
+msgstr "Տեղադրեք {{VENDOR.NAME}}-ի սարքավարները Windows 7, XP, 10, 8 և 8.1-ի համար կամ ներբեռնեք DriverPack Solution ծրագիրը՝ սարքավարներն ինքնաբար տեղադրելու համար"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendor-h1"
@@ -162,28 +163,28 @@ msgstr "Սարքավարներ <span class='bold'>{{VENDOR.NAME}}</span> սար�
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendor-keywords"
-msgstr ""
+msgstr "սարքավարներ windows 7 8 10 64 ներբեռնել download {{VENDOR.NAME}}"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendor-footer-description"
-msgstr ""
+msgstr "ներբեռնեք անվճար {{VENDOR.NAME}} սարքերի սարքավարները"
 
 msgid "seo_vendor-footer-application-category"
-msgstr ""
+msgstr "Բաժին՝ <span itemprop='applicationCategory'>սարքեր</span>"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendor-footer-application-subcategory"
-msgstr ""
+msgstr "Ենթաբաժին՝ <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} սարքեր</span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|monitors; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.FOR=видеокарт|мониторов; VENDOR.NAME=Acer;
 msgid "seo_devicegroups-title"
-msgstr ""
+msgstr "Սարքավարներ {{VENDOR.NAME}} {{CLASS.PLURAL.FOR}} համար | DriverPack Solution"
 
 #. i18n: EN: Example: CLASS.SINGLE.FOR=videocard|monitor; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.SINGLE.FOR=видеокарты|монитора; VENDOR.NAME=Acer;
 msgid "seo_devicegroups-description"
-msgstr ""
+msgstr "Այստեղ Դուք կարող եք ներբեռնել {{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} սարքավարները Windows 7, XP, 10, 8 և 8.1 -ի համար կամ  տեղադրել սարքավարների ինքնաբար տեղադրման ծրագիրը՝ DriverPack Solution-ը"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|monitors; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.FOR=видеокарт|мониторов; VENDOR.NAME=Acer;
@@ -193,34 +194,34 @@ msgstr "Սարքավարներ <span class='bold'>{{VENDOR.NAME}}</span> {{CLASS
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|monitors; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|мониторы; VENDOR.NAME=Acer;
 msgid "seo_devicegroups-keywords"
-msgstr ""
+msgstr "սարքավարներ windows 7 8 10 64 ներբեռնել download ԱՀ {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|monitors; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.FOR=видеокарт|мониторов; VENDOR.NAME=Acer;
 msgid "seo_devicegroups-footer-description"
-msgstr ""
+msgstr "Ներբեռնեք {{VENDOR.NAME}} {{CLASS.PLURAL.FOR}} սարքավարները"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|monitors; RU: Пример:
 #. CLASS.PLURAL.MAIN=видеокарты|мониторы;
 msgid "seo_devicegroups-footer-application-category"
-msgstr ""
+msgstr "Բաժին՝ <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|monitors; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|мониторы; VENDOR.NAME=Acer;
 msgid "seo_devicegroups-footer-application-subcategory"
-msgstr ""
+msgstr "Ենթաբաժին՝ <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 #. i18n: EN: Example: CLASS.SINGLE.FOR=videocard|monitor; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.SINGLE.FOR=видеокарты|монитора; VENDOR.NAME=Acer;
 msgid "seo_devicegroups-footer-content"
-msgstr ""
+msgstr "Ներբեռնեք {{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} սարքավարները կամ տեղադրեք սարքավարների ինքնաբար նարբեռնման և թարմացման ծրագիրը՝ DriverPack Solution-ը"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
 #. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
 #. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
 #. GROUP.NAME=GeForce 210;
 msgid "seo_devicegroup-title"
-msgstr ""
+msgstr "Սարքավարներ {{GROUP.VENDOR.NAME}} {{GROUP.NAME}}-ի համար | DriverPack Solutions"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
 #. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
@@ -404,7 +405,7 @@ msgstr ""
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 #. CLASS.PLURAL.FOR=видеокарт|звуковых карт;
 msgid "seo_notebookdevices-h1"
-msgstr "Սարքավարներ {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} նոութբուքների {{CLASS.PLURAL.FOR}}համար"
+msgstr "Սարքավարներ {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} նոութբուքների {{CLASS.PLURAL.FOR}} համար"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets;
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU: Пример:
@@ -449,7 +450,7 @@ msgid "seo_devicegroupos-description"
 msgstr ""
 
 msgid "seo_devicegroupos-h1"
-msgstr "{{GROUP.VENDOR.NAME}} {{GROUP.NAME}} -ի սարքավարները Windows {{OS}}-ի համար"
+msgstr "{{GROUP.VENDOR.NAME}} {{GROUP.NAME}}-ի սարքավարները Windows {{OS}}-ի համար"
 
 msgid "seo_devicegroupos-keywords"
 msgstr ""
@@ -473,7 +474,7 @@ msgid "seo_notebookos-description"
 msgstr ""
 
 msgid "seo_notebookos-h1"
-msgstr ""
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} նոութբուքի սարքավարները Windows {{OS}}-ի համար"
 
 msgid "seo_notebookos-keywords"
 msgstr ""
@@ -497,7 +498,7 @@ msgid "seo_deviceclassos-description"
 msgstr ""
 
 msgid "seo_deviceclassos-h1"
-msgstr ""
+msgstr "{{CLASS.PLURAL.FOR}} սարքավարները Windows {{OS}}-ի համար"
 
 msgid "seo_deviceclassos-keywords"
 msgstr ""
@@ -518,7 +519,7 @@ msgid "seo_devicegroupsos-description"
 msgstr ""
 
 msgid "seo_devicegroupsos-h1"
-msgstr ""
+msgstr "{{VENDOR.NAME}} {{CLASS.PLURAL.FOR}} սարքավարները Windows {{OS}}-ի համար"
 
 msgid "seo_devicegroupsos-keywords"
 msgstr ""
@@ -542,7 +543,7 @@ msgid "seo_notebookvendoros-description"
 msgstr ""
 
 msgid "seo_notebookvendoros-h1"
-msgstr ""
+msgstr "Սարքավարներ Windows {{OS}}-ով աշխատող {{VENDOR.NAME}} նոութբուքների համար"
 
 msgid "seo_notebookvendoros-keywords"
 msgstr ""
@@ -566,7 +567,7 @@ msgid "seo_hwidos-description"
 msgstr ""
 
 msgid "seo_hwidos-h1"
-msgstr ""
+msgstr "{{DEVICE.DEVICEID}} սարքի սարքավարը Windows {{OS}}-ի համար"
 
 msgid "seo_hwidos-keywords"
 msgstr ""
@@ -584,7 +585,7 @@ msgid "seo_notebookdevicesos-description"
 msgstr ""
 
 msgid "seo_notebookdevicesos-h1"
-msgstr ""
+msgstr "Սարքավարներ Windows {{OS}}-ով աշխատող {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} նոութբուքների {{CLASS.PLURAL.FOR}} համար"
 
 msgid "seo_notebookdevicesos-keywords"
 msgstr ""
