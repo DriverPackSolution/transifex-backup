@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-01-23 10:15+0000\n"
-"PO-Revision-Date: 2018-02-16 06:04+0000\n"
+"POT-Creation-Date: 2018-02-16 12:46+0000\n"
+"PO-Revision-Date: 2018-02-21 11:43+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Malayalam (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/ml/)\n"
 "MIME-Version: 1.0\n"
@@ -472,13 +472,30 @@ msgstr ""
 msgid "confirm_popup_eula"
 msgstr ""
 
+#. i18n: EN: text for {{LINK.EULA}} is in key confirm_popup_install_eula-link;
+#. text for {{LINK.POLICY}} is in key confirm_popup_install_policy-link; RU:
+#. текст для {{LINK.EULA}} находится в ключе confirm_popup_install_eula-link;
+#. текст для {{LINK.POLICY}} находится в ключе confirm_popup_install_policy-
+#. link;
+msgid "confirm_popup_install_eula"
+msgstr ""
+
+msgid "confirm_popup_install_eula-link"
+msgstr ""
+
+msgid "confirm_popup_install_policy-link"
+msgstr ""
+
+msgid "confirm_popup_install_button_ok"
+msgstr ""
+
+msgid "confirm_popup_install_button"
+msgstr ""
+
 msgid "confirm_popup_title"
 msgstr ""
 
 msgid "confirm_popup_eula-link"
-msgstr ""
-
-msgid "confirm_popup_install_button"
 msgstr ""
 
 msgid "confirm_popup_cancel_button"
@@ -1336,18 +1353,3 @@ msgstr ""
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Malayalam"
-
-#~ msgid "protect_popup_title"
-#~ msgstr "Your computer security configuration"
-
-#~ msgid "protect_popup_eula"
-#~ msgstr "License Agreement"
-
-#~ msgid "protect_popup_install_button"
-#~ msgstr "Install"
-
-#~ msgid "protect_popup_cancel_button"
-#~ msgstr "Refuse"
-
-#~ msgid "installation_title_button_settings"
-#~ msgstr "Configure"

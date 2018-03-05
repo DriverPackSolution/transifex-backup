@@ -1,15 +1,16 @@
 # Translators:
 # Translators:
-# Arzu Babayev <babayev.arzu@gmail.com>, 2017
+# Arzu Babayev <babayev.arzu@gmail.com>, 2017-2018
 # İsmət Sadıqov <ismet.sadiqov@gmail.com>, 2017-2018
 # Nadia Tegeneva <nadia@drp.su>, 2017
+# RasiM MahmudoV <rkmahmudov@gmail.com>, 2018
 msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-01-23 10:15+0000\n"
-"PO-Revision-Date: 2018-02-16 05:59+0000\n"
-"Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
+"POT-Creation-Date: 2018-02-16 12:46+0000\n"
+"PO-Revision-Date: 2018-03-03 08:54+0000\n"
+"Last-Translator: İsmət Sadıqov <ismet.sadiqov@gmail.com>\n"
 "Language-Team: Azerbaijani (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/az/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -473,16 +474,33 @@ msgstr "Əmr Sətiri"
 #. i18n: EN: text for {{LINK}} is in key confirm_popup_eula-link; RU: текст
 #. для {{LINK}} находится в ключе confirm_popup_eula-link;
 msgid "confirm_popup_eula"
-msgstr ""
+msgstr "Bu proqramı quraşdıraraq, siz {{LINK}} şərtləri qəbul edirsiniz."
+
+#. i18n: EN: text for {{LINK.EULA}} is in key confirm_popup_install_eula-link;
+#. text for {{LINK.POLICY}} is in key confirm_popup_install_policy-link; RU:
+#. текст для {{LINK.EULA}} находится в ключе confirm_popup_install_eula-link;
+#. текст для {{LINK.POLICY}} находится в ключе confirm_popup_install_policy-
+#. link;
+msgid "confirm_popup_install_eula"
+msgstr "Mən Operanı yükləməyə və onun {{LINK.EULA}} və {{LINK.POLICY}} hissələri ilə razıyam. Proqram istənilən vaxt proqram əlavə et/sil proqramı vasitəsilə qaldırıla bilər."
+
+msgid "confirm_popup_install_eula-link"
+msgstr "İstifadəçi Razılaşma Müqavilsi Axırı"
+
+msgid "confirm_popup_install_policy-link"
+msgstr "Məxvilik Siyasəti"
+
+msgid "confirm_popup_install_button_ok"
+msgstr "Oldu"
+
+msgid "confirm_popup_install_button"
+msgstr "Qəbul et və quraşdır"
 
 msgid "confirm_popup_title"
-msgstr ""
+msgstr "Proqram Quraşdırılma"
 
 msgid "confirm_popup_eula-link"
 msgstr "Lisenziya Müqaviləsi"
-
-msgid "confirm_popup_install_button"
-msgstr ""
 
 msgid "confirm_popup_cancel_button"
 msgstr "Rədd et"
@@ -1339,18 +1357,3 @@ msgstr "Səs kartı yanlış olaraq bağlanıb ya da işləməsi ilə bağlı pr
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Azerbaijani"
-
-#~ msgid "protect_popup_title"
-#~ msgstr "Your computer security configuration"
-
-#~ msgid "protect_popup_eula"
-#~ msgstr "License Agreement"
-
-#~ msgid "protect_popup_install_button"
-#~ msgstr "Install"
-
-#~ msgid "protect_popup_cancel_button"
-#~ msgstr "Refuse"
-
-#~ msgid "installation_title_button_settings"
-#~ msgstr "Configure"

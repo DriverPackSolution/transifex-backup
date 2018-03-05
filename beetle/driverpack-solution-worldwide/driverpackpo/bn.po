@@ -9,8 +9,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-01-23 10:15+0000\n"
-"PO-Revision-Date: 2018-02-16 06:00+0000\n"
+"POT-Creation-Date: 2018-02-16 12:46+0000\n"
+"PO-Revision-Date: 2018-02-22 09:51+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Bengali (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/bn/)\n"
 "MIME-Version: 1.0\n"
@@ -477,14 +477,31 @@ msgstr "কমান্ড লাইন"
 msgid "confirm_popup_eula"
 msgstr "সফটওয়্যারটি ইন্সটলের মাধ্যমে আপনি {{LINK}} শর্তসমূহ মেনে নিচ্ছেন।"
 
+#. i18n: EN: text for {{LINK.EULA}} is in key confirm_popup_install_eula-link;
+#. text for {{LINK.POLICY}} is in key confirm_popup_install_policy-link; RU:
+#. текст для {{LINK.EULA}} находится в ключе confirm_popup_install_eula-link;
+#. текст для {{LINK.POLICY}} находится в ключе confirm_popup_install_policy-
+#. link;
+msgid "confirm_popup_install_eula"
+msgstr "আমি Opera ইন্সটল করতে সম্মত এবং এর {{LINK.EULA}} ও {{LINK.POLICY}} সাথে একমত। সফটওয়্যারটি add/remove programs ইউটিলিটি ব্যবহার করে যেকোনো সময়ে সরানো যাবে।"
+
+msgid "confirm_popup_install_eula-link"
+msgstr "চূড়ান্ত ব্যবহারকারীর লাইসেন্স চুক্তি"
+
+msgid "confirm_popup_install_policy-link"
+msgstr "গোপনতা নীতির"
+
+msgid "confirm_popup_install_button_ok"
+msgstr "ঠিক আছে"
+
+msgid "confirm_popup_install_button"
+msgstr "মেনে নাও এবং ইন্সটল করো"
+
 msgid "confirm_popup_title"
 msgstr "সফটওয়্যার ইন্সটলেশন"
 
 msgid "confirm_popup_eula-link"
 msgstr "লাইসেন্স চুক্তির"
-
-msgid "confirm_popup_install_button"
-msgstr "মেনে নাও এবং ইন্সটল করো"
 
 msgid "confirm_popup_cancel_button"
 msgstr "প্রত্যাখ্যান"
@@ -1341,18 +1358,3 @@ msgstr "সাউন্ড কার্ডটি ভুলভাবে সংয
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Bengali"
-
-#~ msgid "protect_popup_title"
-#~ msgstr "Your computer security configuration"
-
-#~ msgid "protect_popup_eula"
-#~ msgstr "License Agreement"
-
-#~ msgid "protect_popup_install_button"
-#~ msgstr "Install"
-
-#~ msgid "protect_popup_cancel_button"
-#~ msgstr "Refuse"
-
-#~ msgid "installation_title_button_settings"
-#~ msgstr "Configure"

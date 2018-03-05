@@ -6,9 +6,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-01-23 10:15+0000\n"
-"PO-Revision-Date: 2018-02-16 06:09+0000\n"
-"Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
+"POT-Creation-Date: 2018-02-16 12:46+0000\n"
+"PO-Revision-Date: 2018-03-05 11:11+0000\n"
+"Last-Translator: Vivekanandan M <bharanicompu@gmail.com>\n"
 "Language-Team: Tamil (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/ta/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -472,16 +472,33 @@ msgstr "கட்டளை வரி"
 #. i18n: EN: text for {{LINK}} is in key confirm_popup_eula-link; RU: текст
 #. для {{LINK}} находится в ключе confirm_popup_eula-link;
 msgid "confirm_popup_eula"
-msgstr ""
+msgstr "இந்த மென்பொருளை நிறுவுவதன் மூலம், நீங்கள் {{LINK}} நிபந்தனைகளை ஏற்கிறீர்கள்."
+
+#. i18n: EN: text for {{LINK.EULA}} is in key confirm_popup_install_eula-link;
+#. text for {{LINK.POLICY}} is in key confirm_popup_install_policy-link; RU:
+#. текст для {{LINK.EULA}} находится в ключе confirm_popup_install_eula-link;
+#. текст для {{LINK.POLICY}} находится в ключе confirm_popup_install_policy-
+#. link;
+msgid "confirm_popup_install_eula"
+msgstr "ஓபராவை நிறுவுவதற்கும் அதன் ஒப்புதலுக்கும்{{LINK.EULA}}மற்றும் {{LINK.POLICY}}  நான் ஒப்புக்கொள்கிறேன். இந்த மென்பொருளை எப்போது வேண்டுமானாலும் நிரல்கள் பயன்பாடு சேர்க்க / நீக்க வழியாக சென்று நீக்கிக்கொள்ளலாம்."
+
+msgid "confirm_popup_install_eula-link"
+msgstr "இறுதி பயனர் உரிம ஒப்பந்தம்"
+
+msgid "confirm_popup_install_policy-link"
+msgstr "தனியுரிமை கொள்கை"
+
+msgid "confirm_popup_install_button_ok"
+msgstr "சரி"
+
+msgid "confirm_popup_install_button"
+msgstr "சம்மதம் மற்றும் நிறுவவும்"
 
 msgid "confirm_popup_title"
-msgstr ""
+msgstr "மென்பொருள் நிறுவல்"
 
 msgid "confirm_popup_eula-link"
 msgstr "உரிம ஒப்பந்தம்"
-
-msgid "confirm_popup_install_button"
-msgstr ""
 
 msgid "confirm_popup_cancel_button"
 msgstr "மறுக்கிறது"
@@ -1338,18 +1355,3 @@ msgstr "ஒலி அட்டை தவறாக இணைக்கப்பட
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Tamil"
-
-#~ msgid "protect_popup_title"
-#~ msgstr "Your computer security configuration"
-
-#~ msgid "protect_popup_eula"
-#~ msgstr "License Agreement"
-
-#~ msgid "protect_popup_install_button"
-#~ msgstr "Install"
-
-#~ msgid "protect_popup_cancel_button"
-#~ msgstr "Refuse"
-
-#~ msgid "installation_title_button_settings"
-#~ msgstr "Configure"

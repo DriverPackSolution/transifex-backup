@@ -1,13 +1,13 @@
 # Translators:
 # Translators:
-# Nadia Tegeneva <nadia@drp.su>, 2017
-# POOJAN JOSHI <joshipoojan.pj@gmail.com>, 2017
+# Nadia Tegeneva <nadia@drp.su>, 2017-2018
+# POOJAN JOSHI <joshipoojan.pj@gmail.com>, 2017-2018
 msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-01-23 10:15+0000\n"
-"PO-Revision-Date: 2018-02-13 08:10+0000\n"
+"POT-Creation-Date: 2018-02-16 12:46+0000\n"
+"PO-Revision-Date: 2018-02-26 07:10+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Gujarati (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/gu/)\n"
 "MIME-Version: 1.0\n"
@@ -472,19 +472,36 @@ msgstr "કમાન્ડ લાઇન"
 #. i18n: EN: text for {{LINK}} is in key confirm_popup_eula-link; RU: текст
 #. для {{LINK}} находится в ключе confirm_popup_eula-link;
 msgid "confirm_popup_eula"
-msgstr ""
+msgstr "સૉફ્ટવેર સ્થાપિત કરતી વખતે, તમે અમારી શરતો {{LINK}} સ્વીકારો છો."
+
+#. i18n: EN: text for {{LINK.EULA}} is in key confirm_popup_install_eula-link;
+#. text for {{LINK.POLICY}} is in key confirm_popup_install_policy-link; RU:
+#. текст для {{LINK.EULA}} находится в ключе confirm_popup_install_eula-link;
+#. текст для {{LINK.POLICY}} находится в ключе confirm_popup_install_policy-
+#. link;
+msgid "confirm_popup_install_eula"
+msgstr "હું ઓપેરાને ઇન્સ્ટોલ કરવા અને તેના માટે સંમતિ આપવા માટે સંમત છું {{LINK.EULA}} અને {{LINK.POLICY}} સૉફ્ટવેર કોઈપણ સમયે ઍડ / દૂર પ્રોગ્રામ્સ ઉપયોગિતા દ્વારા દૂર કરી શકાય છે."
+
+msgid "confirm_popup_install_eula-link"
+msgstr "અંત વપરાશકર્તા લાઈસન્સ કરાર"
+
+msgid "confirm_popup_install_policy-link"
+msgstr "ગોપનીયતા નીતિ"
+
+msgid "confirm_popup_install_button_ok"
+msgstr "ઠીક છે"
+
+msgid "confirm_popup_install_button"
+msgstr "સ્વીકારણાં અને સ્થાપના"
 
 msgid "confirm_popup_title"
-msgstr ""
+msgstr "સૉફ્ટવેર સ્થાપના"
 
 msgid "confirm_popup_eula-link"
 msgstr "લાયસન્સ કરાર"
 
-msgid "confirm_popup_install_button"
-msgstr ""
-
 msgid "confirm_popup_cancel_button"
-msgstr ""
+msgstr "ઇન્કાર"
 
 msgid "diagnostics_section_title"
 msgstr "સિસ્ટમ ડાયગ્નોસીસ"
@@ -655,10 +672,10 @@ msgid "final_single_program_failed_title"
 msgstr "Software પ્રોગ્રામ ઇન્સ્ટોલ થયેલ નથી"
 
 msgid "final_offline_restart"
-msgstr "નેટવર્ક કનેક્શન મળ્યું છે, કૃપયા DriverPack ને બંધ કરી ફરી એક વખત ચાલુ કરો, તેવું કરવાથી વર્તમાન સંસ્કરણ drivers' ઇન્સ્ટોલ થશે"
+msgstr "નેટવર્ક કનેક્શન મળ્યું છે, કૃપયા DriverPack ને બંધ કરી ફરી એક વખત ચાલુ કરો, તેવું કરવાથી વર્તમાન સંસ્કરણ drivers' ઇન્સ્ટોલ થશે."
 
 msgid "final_drivers_ok_programs_subtitle"
-msgstr "બધા જ જરૂરી drivers અને યુટિલિટી ઇન્સ્ટોલ કરી દેવામાં આવી છે"
+msgstr "બધા જ જરૂરી drivers અને યુટિલિટી ઇન્સ્ટોલ કરી દેવામાં આવી છે."
 
 msgid "final_drivers_ok_subtitle"
 msgstr "બધા જ અગત્યના ડ્રાઇવર ઇન્સ્ટોલ કરી દેવામાં આવ્યા છે"
@@ -669,10 +686,10 @@ msgstr[0] ""
 msgstr[1] ""
 
 msgid "final_single_driver_ok_programs_subtitle"
-msgstr "બધા જ જરૂરી drivers અને યુટિલિટી ઇન્સ્ટોલ કરી દેવામાં આવી છે"
+msgstr "બધા જ જરૂરી drivers અને યુટિલિટી ઇન્સ્ટોલ કરી દેવામાં આવી છે."
 
 msgid "final_single_driver_ok_subtitle"
-msgstr "બધા જ જરૂરી drivers ઇન્સ્ટોલ થઈ ગયા"
+msgstr "બધા જ જરૂરી drivers ઇન્સ્ટોલ થઈ ગયા."
 
 msgid "final_programs_all_finished_subtitle"
 msgid_plural "final_programs_all_finished_subtitle_n"
@@ -680,7 +697,7 @@ msgstr[0] ""
 msgstr[1] ""
 
 msgid "final_programs_some_finished_subtitle"
-msgstr ""
+msgstr "કેટલાક ઉપયોગી સોફ્ટવેરની સ્થાપનામાં નિષ્ફળતા હાથ લાગી છે."
 
 msgid "final_programs_all_failed_subtitle"
 msgstr "સૉફ્ટવેરનું સ્થાપન નિષ્ફળ રહ્યું."
@@ -781,10 +798,10 @@ msgid "games_playkey_create_account_button"
 msgstr ""
 
 msgid "header_authorize_button"
-msgstr ""
+msgstr "લૉગ-ઇન"
 
 msgid "authorize_popup_logout_button"
-msgstr ""
+msgstr "લૉગ-આઉટ"
 
 msgid "installation_header_subtitle"
 msgstr ""
@@ -943,7 +960,7 @@ msgid "installation_progress_stage_installing"
 msgstr ""
 
 msgid "installation_progress_stage_done"
-msgstr ""
+msgstr "થઈ ગયું"
 
 msgid "installation_canceled"
 msgstr ""
@@ -961,7 +978,7 @@ msgid "loading_backup_done"
 msgstr ""
 
 msgid "loading_button_finish"
-msgstr ""
+msgstr "થઈ ગયું"
 
 msgid "loading_backup_failed"
 msgstr ""
@@ -973,10 +990,10 @@ msgid "loading_preparing"
 msgstr ""
 
 msgid "loading_system_scanning"
-msgstr ""
+msgstr "અમે તમારાં કમ્પ્યુટરનું સંસ્કરણ તપાસી રહ્યા છીએ..."
 
 msgid "loading_sending_api_request"
-msgstr ""
+msgstr "અમો સર્વરમાંથી ડેટા લોડ કરી રહ્યા છીએ..."
 
 msgid "loading_checking_installed_programs"
 msgstr ""
@@ -994,91 +1011,91 @@ msgid "menu_install_programs"
 msgstr ""
 
 msgid "menu_programs"
-msgstr ""
+msgstr "સૉફ્ટવેર"
 
 msgid "menu_protect_title"
-msgstr ""
+msgstr "તમારા કમ્પ્યુટર એંટીવાઇરસ માટે આસિસ્ટન્ટ"
 
 msgid "menu_protect_clean_up"
-msgstr ""
+msgstr "રક્ષણ અને સાફસૂફ"
 
 msgid "menu_computer_diagnostics"
-msgstr ""
+msgstr "કોમ્પ્યુટર સ્ટેટના ડાયગ્નોસ્ટિક્સ"
 
 msgid "menu_diagnostics"
-msgstr ""
+msgstr "ડાયગ્નોસ્ટિક્સ"
 
 msgid "menu_cloud_games_title"
-msgstr ""
+msgstr "કોઈ પણ કમ્પ્યુટર પર ઉચ્ચ કક્ષાની રમતો માણો"
 
 msgid "menu_cloud_games"
-msgstr ""
+msgstr "રમતો"
 
 msgid "menu_cloud_games_new"
-msgstr ""
+msgstr "નવું"
 
 msgid "menu_settings"
-msgstr ""
+msgstr "સેટિંગ્સ"
 
 msgid "menu_bugreport"
-msgstr ""
+msgstr "ભૂલ વિશે અહેવાલ કરો"
 
 msgid "no-internet-screen_header-title"
-msgstr ""
+msgstr "સર્વર કનેક્શન નથી"
 
 msgid "no-internet-screen_guide-title"
-msgstr ""
+msgstr "ઇન્ટરનેટ કનેક્શન વિના બધાય ડ્રાઈવર્સ શી રીતે સ્થાપવા?"
 
 msgid "no-internet-screen_guide-step-1"
-msgstr ""
+msgstr "પગલું 1"
 
 msgid "no-internet-screen_guide-step-1-action"
-msgstr ""
+msgstr "અન્ય કમ્પ્યુટરનો ઉપયોગ કરીને <span class=\"bold\">driverpack.io/gu/foradmin</span> વેબસાઇટ પર જાઓ"
 
 msgid "no-internet-screen_guide-step-2"
-msgstr ""
+msgstr "પગલું 2"
 
 msgid "no-internet-screen_guide-step-2-action"
 msgstr ""
 
 msgid "no-internet-screen_guide-step-complete"
-msgstr ""
+msgstr "થઈ ગયું"
 
 msgid "no-internet-screen_guide-step-complete-action"
-msgstr ""
+msgstr "આ કમ્પ્યુટર પર એપ ચાલુ કરો અને એક જ ક્લીકમાં કમ્પ્યુટર સંસ્કારણિત કરેલ મેળવો"
 
 msgid "programs_header_text_title"
-msgstr ""
+msgstr "બધાય ઉપયોગી સૉફ્ટવેર એક જ જગ્યાએ"
 
 msgid "programs_btn_install_all"
-msgstr ""
+msgstr "જરૂરી સૉફ્ટવેર પ્રોગ્રામ્સ ઇન્સ્ટોલ કરો <b>({{COUNT}})</b>"
 
 msgid "programs_header_text_caption"
-msgstr ""
+msgstr "બધાં સૉફ્ટવેર પ્રોગ્રામ્સ એક પછી એક સ્થાપવા માટે જોવાની જરૂર નથી. તમે બધું જ એક ક્લીક દ્વારા સ્થાપિત કરી શકશો."
 
 msgid "drivers_program_counter"
-msgstr ""
+msgstr "ભલામણ કરેલ સૉફ્ટવેર"
 
 msgid "protect_row_rating"
-msgstr ""
+msgstr "કિંમત:"
 
 msgid "protect_row_size"
-msgstr ""
+msgstr "કદ:"
 
 msgid "protect_row_publisher"
-msgstr ""
+msgstr "પ્રકાશક:"
 
 msgid "protect_row_version"
 msgstr "સંસ્કરણ:"
 
 msgid "protect_row_install_date"
-msgstr ""
+msgstr "સ્થાપન તારીખ:"
 
 msgid "protect_rating_level_large"
-msgstr ""
+msgstr "અમે તમને ભલામણ કરીએ છીએ કે આને તમો કાઢી મૂકો"
 
 msgid "protect_rating_level_middle"
-msgstr ""
+msgstr "તમારે કદાચ આને કાઢી નાખવું જોઈએ"
 
 msgid "protect_rating_level_small"
 msgstr ""
@@ -1087,25 +1104,25 @@ msgid "protect_rating_level_large_caption"
 msgstr ""
 
 msgid "protect_uninstall_single"
-msgstr ""
+msgstr "કાઢો"
 
 msgid "protect_clean_up_btn"
-msgstr ""
+msgstr "કમ્પ્યુટરને રક્ષિત કરી ચોખ્ખું કરી નાખો"
 
 msgid "protect_remove_all_btn_uninstalling"
-msgstr ""
+msgstr "આ વિચિત્ર સૉફ્ટવેરને તગેડી મૂકવામાં આવશે: {{COUNT}}"
 
 msgid "protect_remove_all_btn_installing"
-msgstr ""
+msgstr "આ અગત્યનું સૉફ્ટવેર સ્થાપિત થઈ જશે: {{COUNT}}"
 
 msgid "protect_installed-programs_api_failed"
-msgstr ""
+msgstr "ઇન્ટરનેટ કનેક્શન નથી. સૉફ્ટવેરની યાદી આ કમ્પ્યુટર પર જોવા નેટવર્ક કનેક્શનની ઉપલબ્ધી જરૂરી છે"
 
 msgid "protect_installed-programs_no_harmful"
-msgstr ""
+msgstr "તમારા કમ્પ્યુટર પર કોઈ અનિચ્છનીય સોફ્ટવેર પ્રાપ્ય થયેલ નથી"
 
 msgid "protect_clean_up_header_title"
-msgstr ""
+msgstr "DriverPack Protect — તમારા કમ્પ્યુટરની સુરક્ષા અમે ચોખ્ખાઈ"
 
 msgid "protect_clean_up_header_caption"
 msgstr ""
@@ -1338,18 +1355,3 @@ msgstr ""
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Gujarati"
-
-#~ msgid "protect_popup_title"
-#~ msgstr "Your computer security configuration"
-
-#~ msgid "protect_popup_eula"
-#~ msgstr "License Agreement"
-
-#~ msgid "protect_popup_install_button"
-#~ msgstr "Install"
-
-#~ msgid "protect_popup_cancel_button"
-#~ msgstr "Refuse"
-
-#~ msgid "installation_title_button_settings"
-#~ msgstr "Configure"

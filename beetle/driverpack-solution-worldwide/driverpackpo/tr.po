@@ -9,8 +9,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-01-23 10:15+0000\n"
-"PO-Revision-Date: 2018-02-14 05:12+0000\n"
+"POT-Creation-Date: 2018-02-16 12:46+0000\n"
+"PO-Revision-Date: 2018-02-21 16:49+0000\n"
 "Last-Translator: BouRock\n"
 "Language-Team: Turkish (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/tr/)\n"
 "MIME-Version: 1.0\n"
@@ -477,14 +477,31 @@ msgstr "Komut Satırı"
 msgid "confirm_popup_eula"
 msgstr "Bu yazılımı yükleyerek, {{LINK}} şartlarını kabul ediyorsunuz."
 
+#. i18n: EN: text for {{LINK.EULA}} is in key confirm_popup_install_eula-link;
+#. text for {{LINK.POLICY}} is in key confirm_popup_install_policy-link; RU:
+#. текст для {{LINK.EULA}} находится в ключе confirm_popup_install_eula-link;
+#. текст для {{LINK.POLICY}} находится в ключе confirm_popup_install_policy-
+#. link;
+msgid "confirm_popup_install_eula"
+msgstr "Opera'yı yüklemeyi ve Opera'nın {{LINK.EULA}}'ne ve {{LINK.POLICY}}'ne razı olduğumu kabul ediyorum. Yazılım istediğiniz zaman program ekle veya kaldır yardımcı uygulaması aracılığıyla kaldırılabilir."
+
+msgid "confirm_popup_install_eula-link"
+msgstr "Son Kullanıcı Lisans Sözleşmesi"
+
+msgid "confirm_popup_install_policy-link"
+msgstr "Gizlilik İlkesi"
+
+msgid "confirm_popup_install_button_ok"
+msgstr "TAMAM"
+
+msgid "confirm_popup_install_button"
+msgstr "Kabul et ve yükle"
+
 msgid "confirm_popup_title"
 msgstr "Yazılım Kurulumu"
 
 msgid "confirm_popup_eula-link"
 msgstr "Lisans Sözleşmesi"
-
-msgid "confirm_popup_install_button"
-msgstr "Kabul et ve yükle"
 
 msgid "confirm_popup_cancel_button"
 msgstr "Reddet"
@@ -1341,18 +1358,3 @@ msgstr "Ses kartı yanlış olarak bağlanmış, ya da işlerliği ile ilgili ba
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Turkish"
-
-#~ msgid "protect_popup_title"
-#~ msgstr "Your computer security configuration"
-
-#~ msgid "protect_popup_eula"
-#~ msgstr "License Agreement"
-
-#~ msgid "protect_popup_install_button"
-#~ msgstr "Install"
-
-#~ msgid "protect_popup_cancel_button"
-#~ msgstr "Refuse"
-
-#~ msgid "installation_title_button_settings"
-#~ msgstr "Configure"
