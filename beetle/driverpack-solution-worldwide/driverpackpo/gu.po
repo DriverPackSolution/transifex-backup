@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-16 12:46+0000\n"
-"PO-Revision-Date: 2018-02-26 07:10+0000\n"
+"POT-Creation-Date: 2018-03-05 14:32+0000\n"
+"PO-Revision-Date: 2018-03-05 19:00+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Gujarati (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/gu/)\n"
 "MIME-Version: 1.0\n"
@@ -469,23 +469,24 @@ msgstr "ટાસ્ક મેનેજર"
 msgid "menu_cmd"
 msgstr "કમાન્ડ લાઇન"
 
-#. i18n: EN: text for {{LINK}} is in key confirm_popup_eula-link; RU: текст
-#. для {{LINK}} находится в ключе confirm_popup_eula-link;
-msgid "confirm_popup_eula"
-msgstr "સૉફ્ટવેર સ્થાપિત કરતી વખતે, તમે અમારી શરતો {{LINK}} સ્વીકારો છો."
-
-#. i18n: EN: text for {{LINK.EULA}} is in key confirm_popup_install_eula-link;
-#. text for {{LINK.POLICY}} is in key confirm_popup_install_policy-link; RU:
-#. текст для {{LINK.EULA}} находится в ключе confirm_popup_install_eula-link;
-#. текст для {{LINK.POLICY}} находится в ключе confirm_popup_install_policy-
-#. link;
+#. i18n: EN: text for {{LINK.EULA}} is in key confirm_popup_eula-link; text
+#. for {{LINK.POLICY}} is in key confirm_popup_policy-link; RU: текст для
+#. {{LINK.EULA}} находится в ключе confirm_popup_eula-link; текст для
+#. {{LINK.POLICY}} находится в ключе confirm_popup_policy-link;
 msgid "confirm_popup_install_eula"
-msgstr "હું ઓપેરાને ઇન્સ્ટોલ કરવા અને તેના માટે સંમતિ આપવા માટે સંમત છું {{LINK.EULA}} અને {{LINK.POLICY}} સૉફ્ટવેર કોઈપણ સમયે ઍડ / દૂર પ્રોગ્રામ્સ ઉપયોગિતા દ્વારા દૂર કરી શકાય છે."
+msgstr ""
 
-msgid "confirm_popup_install_eula-link"
+#. i18n: EN: text for {{LINK.EULA}} is in key confirm_popup_eula-link; text
+#. for {{LINK.POLICY}} is in key confirm_popup_policy-link; RU: текст для
+#. {{LINK.EULA}} находится в ключе confirm_popup_eula-link; текст для
+#. {{LINK.POLICY}} находится в ключе confirm_popup_policy-link;
+msgid "confirm_popup_eula"
+msgstr ""
+
+msgid "confirm_popup_eula-link"
 msgstr "અંત વપરાશકર્તા લાઈસન્સ કરાર"
 
-msgid "confirm_popup_install_policy-link"
+msgid "confirm_popup_policy-link"
 msgstr "ગોપનીયતા નીતિ"
 
 msgid "confirm_popup_install_button_ok"
@@ -496,9 +497,6 @@ msgstr "સ્વીકારણાં અને સ્થાપના"
 
 msgid "confirm_popup_title"
 msgstr "સૉફ્ટવેર સ્થાપના"
-
-msgid "confirm_popup_eula-link"
-msgstr "લાયસન્સ કરાર"
 
 msgid "confirm_popup_cancel_button"
 msgstr "ઇન્કાર"

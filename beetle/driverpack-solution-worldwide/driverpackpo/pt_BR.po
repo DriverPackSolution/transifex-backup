@@ -9,8 +9,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-16 12:46+0000\n"
-"PO-Revision-Date: 2018-02-22 01:11+0000\n"
+"POT-Creation-Date: 2018-03-05 14:32+0000\n"
+"PO-Revision-Date: 2018-03-05 23:10+0000\n"
 "Last-Translator: Alessandro João <ajkmetiuk@bol.com.br>\n"
 "Language-Team: Portuguese (Brazil) (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/pt_BR/)\n"
 "MIME-Version: 1.0\n"
@@ -472,23 +472,24 @@ msgstr "Gerenciador de Tarefas"
 msgid "menu_cmd"
 msgstr "Prompt de Comando "
 
-#. i18n: EN: text for {{LINK}} is in key confirm_popup_eula-link; RU: текст
-#. для {{LINK}} находится в ключе confirm_popup_eula-link;
-msgid "confirm_popup_eula"
-msgstr "Ao instalar este programa, você aceita as condições do {{LINK}}."
-
-#. i18n: EN: text for {{LINK.EULA}} is in key confirm_popup_install_eula-link;
-#. text for {{LINK.POLICY}} is in key confirm_popup_install_policy-link; RU:
-#. текст для {{LINK.EULA}} находится в ключе confirm_popup_install_eula-link;
-#. текст для {{LINK.POLICY}} находится в ключе confirm_popup_install_policy-
-#. link;
+#. i18n: EN: text for {{LINK.EULA}} is in key confirm_popup_eula-link; text
+#. for {{LINK.POLICY}} is in key confirm_popup_policy-link; RU: текст для
+#. {{LINK.EULA}} находится в ключе confirm_popup_eula-link; текст для
+#. {{LINK.POLICY}} находится в ключе confirm_popup_policy-link;
 msgid "confirm_popup_install_eula"
-msgstr "Eu aceito instalar o Opera e consentir no seu {{LINK.EULA}} e na {{LINK.POLICY}}. O programa pode ser removido a qualquer momento através do utilitário adicionar/remover programas."
+msgstr "Eu aceito instalar o {{PROGRAM.NAME}} e consentir no seu {{LINK.EULA}} e na {{LINK.POLICY}}. O programa pode ser removido a qualquer momento através do utilitário adicionar/remover programas."
 
-msgid "confirm_popup_install_eula-link"
+#. i18n: EN: text for {{LINK.EULA}} is in key confirm_popup_eula-link; text
+#. for {{LINK.POLICY}} is in key confirm_popup_policy-link; RU: текст для
+#. {{LINK.EULA}} находится в ключе confirm_popup_eula-link; текст для
+#. {{LINK.POLICY}} находится в ключе confirm_popup_policy-link;
+msgid "confirm_popup_eula"
+msgstr "Ao instalar este programa, você aceita o {{LINK.EULA}} e a {{LINK.POLICY}}."
+
+msgid "confirm_popup_eula-link"
 msgstr "Contrato de Licença de Usuário Final"
 
-msgid "confirm_popup_install_policy-link"
+msgid "confirm_popup_policy-link"
 msgstr "Política de Privacidade"
 
 msgid "confirm_popup_install_button_ok"
@@ -499,9 +500,6 @@ msgstr "Aceitar e instalar"
 
 msgid "confirm_popup_title"
 msgstr "Instalação de Programas"
-
-msgid "confirm_popup_eula-link"
-msgstr "Termos de Licença"
 
 msgid "confirm_popup_cancel_button"
 msgstr "Recusar"

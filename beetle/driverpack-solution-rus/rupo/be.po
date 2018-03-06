@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-16 12:46+0000\n"
+"POT-Creation-Date: 2018-03-05 14:32+0000\n"
 "PO-Revision-Date: 2016-02-25 10:55+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>, 2017\n"
 "Language-Team: Belarusian (https://www.transifex.com/driverpack-solution/teams/75452/be/)\n"
@@ -471,23 +471,24 @@ msgstr "Дыспетчар задач"
 msgid "menu_cmd"
 msgstr "Камандны радок"
 
-#. i18n: EN: text for {{LINK}} is in key confirm_popup_eula-link; RU: текст
-#. для {{LINK}} находится в ключе confirm_popup_eula-link;
-msgid "confirm_popup_eula"
-msgstr "Усталёўваючы праграму, вы прымаеце ўмовы {{LINK}}."
-
-#. i18n: EN: text for {{LINK.EULA}} is in key confirm_popup_install_eula-link;
-#. text for {{LINK.POLICY}} is in key confirm_popup_install_policy-link; RU:
-#. текст для {{LINK.EULA}} находится в ключе confirm_popup_install_eula-link;
-#. текст для {{LINK.POLICY}} находится в ключе confirm_popup_install_policy-
-#. link;
+#. i18n: EN: text for {{LINK.EULA}} is in key confirm_popup_eula-link; text
+#. for {{LINK.POLICY}} is in key confirm_popup_policy-link; RU: текст для
+#. {{LINK.EULA}} находится в ключе confirm_popup_eula-link; текст для
+#. {{LINK.POLICY}} находится в ключе confirm_popup_policy-link;
 msgid "confirm_popup_install_eula"
-msgstr "Я згаджаюся на ўсталёўку Opera і даю дазвол на іх {{LINK.EULA}} і {{LINK.POLICY}}. Гэта праграмнае забеспячэнне можа быць выдалена ў кожны момант праз функцыю ўсталёўкі/выдаленні праграм."
+msgstr "Я згаджаюся на ўсталёўку {{PROGRAM.NAME}} і даю дазвол на іх {{LINK.EULA}} і {{LINK.POLICY}}. Гэта праграмнае забеспячэнне можа быць выдалена ў кожны момант праз функцыю ўсталёўкі/выдаленні праграм."
 
-msgid "confirm_popup_install_eula-link"
+#. i18n: EN: text for {{LINK.EULA}} is in key confirm_popup_eula-link; text
+#. for {{LINK.POLICY}} is in key confirm_popup_policy-link; RU: текст для
+#. {{LINK.EULA}} находится в ключе confirm_popup_eula-link; текст для
+#. {{LINK.POLICY}} находится в ключе confirm_popup_policy-link;
+msgid "confirm_popup_eula"
+msgstr "Усталёўваючы праграму, вы прымаеце {{LINK.EULA}} и {{LINK.POLICY}}."
+
+msgid "confirm_popup_eula-link"
 msgstr "Ліцэнзійнае Пагадненне з канчатковым карыстачом"
 
-msgid "confirm_popup_install_policy-link"
+msgid "confirm_popup_policy-link"
 msgstr "Палітыку Прыватнасці"
 
 msgid "confirm_popup_install_button_ok"
@@ -498,9 +499,6 @@ msgstr "Прыняць і ўсталяваць"
 
 msgid "confirm_popup_title"
 msgstr "Усталёўка праграмы"
-
-msgid "confirm_popup_eula-link"
-msgstr "ліцэнзійнага пагаднення"
 
 msgid "confirm_popup_cancel_button"
 msgstr "Адмовіцца"

@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-16 12:46+0000\n"
-"PO-Revision-Date: 2018-02-21 11:43+0000\n"
+"POT-Creation-Date: 2018-03-05 14:32+0000\n"
+"PO-Revision-Date: 2018-03-05 19:00+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Romanian (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/ro/)\n"
 "MIME-Version: 1.0\n"
@@ -471,23 +471,24 @@ msgstr "Manager de activități"
 msgid "menu_cmd"
 msgstr "Linie de comandă"
 
-#. i18n: EN: text for {{LINK}} is in key confirm_popup_eula-link; RU: текст
-#. для {{LINK}} находится в ключе confirm_popup_eula-link;
-msgid "confirm_popup_eula"
-msgstr ""
-
-#. i18n: EN: text for {{LINK.EULA}} is in key confirm_popup_install_eula-link;
-#. text for {{LINK.POLICY}} is in key confirm_popup_install_policy-link; RU:
-#. текст для {{LINK.EULA}} находится в ключе confirm_popup_install_eula-link;
-#. текст для {{LINK.POLICY}} находится в ключе confirm_popup_install_policy-
-#. link;
+#. i18n: EN: text for {{LINK.EULA}} is in key confirm_popup_eula-link; text
+#. for {{LINK.POLICY}} is in key confirm_popup_policy-link; RU: текст для
+#. {{LINK.EULA}} находится в ключе confirm_popup_eula-link; текст для
+#. {{LINK.POLICY}} находится в ключе confirm_popup_policy-link;
 msgid "confirm_popup_install_eula"
 msgstr ""
 
-msgid "confirm_popup_install_eula-link"
+#. i18n: EN: text for {{LINK.EULA}} is in key confirm_popup_eula-link; text
+#. for {{LINK.POLICY}} is in key confirm_popup_policy-link; RU: текст для
+#. {{LINK.EULA}} находится в ключе confirm_popup_eula-link; текст для
+#. {{LINK.POLICY}} находится в ключе confirm_popup_policy-link;
+msgid "confirm_popup_eula"
 msgstr ""
 
-msgid "confirm_popup_install_policy-link"
+msgid "confirm_popup_eula-link"
+msgstr ""
+
+msgid "confirm_popup_policy-link"
 msgstr ""
 
 msgid "confirm_popup_install_button_ok"
@@ -498,9 +499,6 @@ msgstr ""
 
 msgid "confirm_popup_title"
 msgstr ""
-
-msgid "confirm_popup_eula-link"
-msgstr "Termeni și Condiții"
 
 msgid "confirm_popup_cancel_button"
 msgstr "Refuză"

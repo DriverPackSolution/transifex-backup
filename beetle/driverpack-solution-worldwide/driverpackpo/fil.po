@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-16 12:46+0000\n"
-"PO-Revision-Date: 2018-03-02 09:04+0000\n"
+"POT-Creation-Date: 2018-03-05 14:32+0000\n"
+"PO-Revision-Date: 2018-03-06 07:19+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Filipino (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/fil/)\n"
 "MIME-Version: 1.0\n"
@@ -471,23 +471,24 @@ msgstr "Gawain sa Patnugot"
 msgid "menu_cmd"
 msgstr "Command Line"
 
-#. i18n: EN: text for {{LINK}} is in key confirm_popup_eula-link; RU: текст
-#. для {{LINK}} находится в ключе confirm_popup_eula-link;
-msgid "confirm_popup_eula"
-msgstr "Sa pag-install ng software na ito, tinatanggap mo {{LINK}} ang mga kondisyon."
-
-#. i18n: EN: text for {{LINK.EULA}} is in key confirm_popup_install_eula-link;
-#. text for {{LINK.POLICY}} is in key confirm_popup_install_policy-link; RU:
-#. текст для {{LINK.EULA}} находится в ключе confirm_popup_install_eula-link;
-#. текст для {{LINK.POLICY}} находится в ключе confirm_popup_install_policy-
-#. link;
+#. i18n: EN: text for {{LINK.EULA}} is in key confirm_popup_eula-link; text
+#. for {{LINK.POLICY}} is in key confirm_popup_policy-link; RU: текст для
+#. {{LINK.EULA}} находится в ключе confirm_popup_eula-link; текст для
+#. {{LINK.POLICY}} находится в ключе confirm_popup_policy-link;
 msgid "confirm_popup_install_eula"
-msgstr "Sumasang-ayon ako na i-install ang Opera at sa pahintulot ng {{LINK.EULA}} at {{LINK.POLICY}}. Ang software ay maaaring alisin anumang oras sa pamamagitan ng add / remove programs utility."
+msgstr ""
 
-msgid "confirm_popup_install_eula-link"
+#. i18n: EN: text for {{LINK.EULA}} is in key confirm_popup_eula-link; text
+#. for {{LINK.POLICY}} is in key confirm_popup_policy-link; RU: текст для
+#. {{LINK.EULA}} находится в ключе confirm_popup_eula-link; текст для
+#. {{LINK.POLICY}} находится в ключе confirm_popup_policy-link;
+msgid "confirm_popup_eula"
+msgstr ""
+
+msgid "confirm_popup_eula-link"
 msgstr "Kasunduan sa Lisensya ng End User"
 
-msgid "confirm_popup_install_policy-link"
+msgid "confirm_popup_policy-link"
 msgstr "Patakaran sa Pagkapribado"
 
 msgid "confirm_popup_install_button_ok"
@@ -498,9 +499,6 @@ msgstr "Tanggapin at i-install"
 
 msgid "confirm_popup_title"
 msgstr "Pag-install ng Software"
-
-msgid "confirm_popup_eula-link"
-msgstr "Kasunduan sa Lisensya"
 
 msgid "confirm_popup_cancel_button"
 msgstr "Tanggihan"

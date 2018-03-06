@@ -6,9 +6,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-16 12:46+0000\n"
-"PO-Revision-Date: 2018-03-05 11:11+0000\n"
-"Last-Translator: Vivekanandan M <bharanicompu@gmail.com>\n"
+"POT-Creation-Date: 2018-03-05 14:32+0000\n"
+"PO-Revision-Date: 2018-03-05 19:00+0000\n"
+"Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Tamil (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/ta/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -469,23 +469,24 @@ msgstr "பணி மேலாளர்"
 msgid "menu_cmd"
 msgstr "கட்டளை வரி"
 
-#. i18n: EN: text for {{LINK}} is in key confirm_popup_eula-link; RU: текст
-#. для {{LINK}} находится в ключе confirm_popup_eula-link;
-msgid "confirm_popup_eula"
-msgstr "இந்த மென்பொருளை நிறுவுவதன் மூலம், நீங்கள் {{LINK}} நிபந்தனைகளை ஏற்கிறீர்கள்."
-
-#. i18n: EN: text for {{LINK.EULA}} is in key confirm_popup_install_eula-link;
-#. text for {{LINK.POLICY}} is in key confirm_popup_install_policy-link; RU:
-#. текст для {{LINK.EULA}} находится в ключе confirm_popup_install_eula-link;
-#. текст для {{LINK.POLICY}} находится в ключе confirm_popup_install_policy-
-#. link;
+#. i18n: EN: text for {{LINK.EULA}} is in key confirm_popup_eula-link; text
+#. for {{LINK.POLICY}} is in key confirm_popup_policy-link; RU: текст для
+#. {{LINK.EULA}} находится в ключе confirm_popup_eula-link; текст для
+#. {{LINK.POLICY}} находится в ключе confirm_popup_policy-link;
 msgid "confirm_popup_install_eula"
-msgstr "ஓபராவை நிறுவுவதற்கும் அதன் ஒப்புதலுக்கும்{{LINK.EULA}}மற்றும் {{LINK.POLICY}}  நான் ஒப்புக்கொள்கிறேன். இந்த மென்பொருளை எப்போது வேண்டுமானாலும் நிரல்கள் பயன்பாடு சேர்க்க / நீக்க வழியாக சென்று நீக்கிக்கொள்ளலாம்."
+msgstr ""
 
-msgid "confirm_popup_install_eula-link"
+#. i18n: EN: text for {{LINK.EULA}} is in key confirm_popup_eula-link; text
+#. for {{LINK.POLICY}} is in key confirm_popup_policy-link; RU: текст для
+#. {{LINK.EULA}} находится в ключе confirm_popup_eula-link; текст для
+#. {{LINK.POLICY}} находится в ключе confirm_popup_policy-link;
+msgid "confirm_popup_eula"
+msgstr ""
+
+msgid "confirm_popup_eula-link"
 msgstr "இறுதி பயனர் உரிம ஒப்பந்தம்"
 
-msgid "confirm_popup_install_policy-link"
+msgid "confirm_popup_policy-link"
 msgstr "தனியுரிமை கொள்கை"
 
 msgid "confirm_popup_install_button_ok"
@@ -496,9 +497,6 @@ msgstr "சம்மதம் மற்றும் நிறுவவும்"
 
 msgid "confirm_popup_title"
 msgstr "மென்பொருள் நிறுவல்"
-
-msgid "confirm_popup_eula-link"
-msgstr "உரிம ஒப்பந்தம்"
 
 msgid "confirm_popup_cancel_button"
 msgstr "மறுக்கிறது"

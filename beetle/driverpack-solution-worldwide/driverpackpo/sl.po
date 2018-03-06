@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-16 12:46+0000\n"
-"PO-Revision-Date: 2018-03-04 07:59+0000\n"
+"POT-Creation-Date: 2018-03-05 14:32+0000\n"
+"PO-Revision-Date: 2018-03-05 19:00+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Slovenian (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/sl/)\n"
 "MIME-Version: 1.0\n"
@@ -470,23 +470,24 @@ msgstr "Upravitelj opravil"
 msgid "menu_cmd"
 msgstr "Ukazna vrstica"
 
-#. i18n: EN: text for {{LINK}} is in key confirm_popup_eula-link; RU: текст
-#. для {{LINK}} находится в ключе confirm_popup_eula-link;
-msgid "confirm_popup_eula"
-msgstr "Z namestitvijo te programske opreme sprejmete {{LINK}} pogoje. "
-
-#. i18n: EN: text for {{LINK.EULA}} is in key confirm_popup_install_eula-link;
-#. text for {{LINK.POLICY}} is in key confirm_popup_install_policy-link; RU:
-#. текст для {{LINK.EULA}} находится в ключе confirm_popup_install_eula-link;
-#. текст для {{LINK.POLICY}} находится в ключе confirm_popup_install_policy-
-#. link;
+#. i18n: EN: text for {{LINK.EULA}} is in key confirm_popup_eula-link; text
+#. for {{LINK.POLICY}} is in key confirm_popup_policy-link; RU: текст для
+#. {{LINK.EULA}} находится в ключе confirm_popup_eula-link; текст для
+#. {{LINK.POLICY}} находится в ключе confirm_popup_policy-link;
 msgid "confirm_popup_install_eula"
-msgstr "Strinjam se, da namestim Opera in soglašam z njegovim{{LINK.EULA}} in {{LINK.POLICY}}. Programsko opremo lahko kadarkoli odstranite prek pripomočka za odstranitev programov."
+msgstr ""
 
-msgid "confirm_popup_install_eula-link"
+#. i18n: EN: text for {{LINK.EULA}} is in key confirm_popup_eula-link; text
+#. for {{LINK.POLICY}} is in key confirm_popup_policy-link; RU: текст для
+#. {{LINK.EULA}} находится в ключе confirm_popup_eula-link; текст для
+#. {{LINK.POLICY}} находится в ключе confirm_popup_policy-link;
+msgid "confirm_popup_eula"
+msgstr ""
+
+msgid "confirm_popup_eula-link"
 msgstr "Licenčna pogodba za končnega uporabnika"
 
-msgid "confirm_popup_install_policy-link"
+msgid "confirm_popup_policy-link"
 msgstr "Pravilnik o zasebnosti"
 
 msgid "confirm_popup_install_button_ok"
@@ -497,9 +498,6 @@ msgstr "Sprejmi in namesti"
 
 msgid "confirm_popup_title"
 msgstr "Namestitev programske opreme"
-
-msgid "confirm_popup_eula-link"
-msgstr "Licenčna pogodba"
 
 msgid "confirm_popup_cancel_button"
 msgstr "Zavrni"
