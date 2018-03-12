@@ -1,13 +1,14 @@
 # Translators:
 # Nadia Tegeneva <nadia@drp.su>, 2017
 # N'Num Yutthaphon Inchaiya <yutthaphon30667@gmail.com>, 2018
+# Supat Pookpan <supat.pookpan.84@gmail.com>, 2018
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-07 13:21+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
-"Last-Translator: N'Num Yutthaphon Inchaiya <yutthaphon30667@gmail.com>, 2018\n"
+"Last-Translator: Supat Pookpan <supat.pookpan.84@gmail.com>, 2018\n"
 "Language-Team: Thai (https://www.transifex.com/driverpack-solution/teams/75453/th/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -16,49 +17,49 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 msgid "adminlandingpage_title"
-msgstr ""
+msgstr "DriverPack สำหรับมืออาชีพ - ติดตั้งไดรเวอร์อัตโนมัติบนทุกคอมพิวเตอร์"
 
 msgid "admincackle_dialog-star"
-msgstr ""
+msgstr "กรุณาประเมินการทำงานของ DriverPack"
 
 msgid "admindriverpacks_landing-title"
-msgstr ""
+msgstr "Driverpacks (บรรจุภัณฑ์ไดรเวอร์)"
 
 msgid "admindriverpacks_landing-subtitle"
-msgstr ""
+msgstr "Driverpacks ของเราบรรจุ {{COUNT}} ไดรเวอร์ที่เลือกและทดสอบแล้ว"
 
 msgid "admindriverpacks_download"
-msgstr ""
+msgstr "ดาวน์โหลด"
 
 msgid "adminfaq_landing-title"
-msgstr ""
+msgstr "เรามีคำตอบให้คำถามของคุณ"
 
 msgid "adminfaq_landing-subtitle"
-msgstr ""
+msgstr "คำถามที่คุณถามบ่อยเกี่ยวกับ DriverPack — คำตอบที่เราตอบ"
 
 msgid "adminheader_cta-text"
-msgstr ""
+msgstr "DriverPack ถูกสร้างมาเพื่อแอดมินแต่ก็ใช้งานง่ายแม้คุณจะเป็นผู้เริ่มใช้งาน"
 
 msgid "adminheader_cta-btn"
-msgstr ""
+msgstr "ดาวน์โหลด DriverPack Online"
 
 msgid "buttonsplitdropdown_main-button"
-msgstr ""
+msgstr "ดาวน์โหลด"
 
 msgid "cloudfaq_landing-title"
-msgstr ""
+msgstr "เรามีคำตอบให้คำถามของคุณ"
 
 msgid "cloudpagefooter_license-link"
-msgstr ""
+msgstr "ข้อตกลงการอนุญาตใช้สิทธิ์"
 
 msgid "breadcrumbs_main-text"
-msgstr ""
+msgstr "หน้าหลัก"
 
 msgid "breadcrumbs_catalog-main-text"
-msgstr ""
+msgstr "ไดรเวอร์สำหรัับ {{OS.NAME}}"
 
 msgid "breadcrumbs_vendors-text"
-msgstr ""
+msgstr "ผู้ผลิต"
 
 #. i18n: EN: Example: VENDOR.NAME=Lenovo; RU: Пример: VENDOR.NAME=Lenovo;
 msgid "breadcrumbs_vendor-text"
@@ -81,11 +82,11 @@ msgid "breadcrumbs_devicegroup-text"
 msgstr "{{GROUP.VENDOR.NAME}} {{GROUP.NAME}}"
 
 msgid "breadcrumbs_notebooks-text"
-msgstr ""
+msgstr "แล็ปท็อป"
 
 #. i18n: EN: Example: VENDOR.NAME=Asus; RU: Пример: VENDOR.NAME=Asus;
 msgid "breadcrumbs_notebookvendor-text"
-msgstr ""
+msgstr "{{VENDOR.NAME}} แล็ปท็อป"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=X1 carbon;
 #. RU: Пример: NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=X1 carbon;
@@ -97,65 +98,65 @@ msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
 #. CLASS.PLURAL.MAIN=видеокарты|чипсеты, NOTEBOOK.VENDOR.NAME=Lenovo,
 #. NOTEBOOK.NAME=G580;
 msgid "breadcrumbs_notebookdevices-text"
-msgstr ""
+msgstr "{{CLASS.PLURAL.MAIN}} ของ {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} แล็ปท็อป"
 
 msgid "devicecard_download-btn"
-msgstr ""
+msgstr "ดาวน์โหลดไดรเวอร์"
 
 #. i18n: EN: Example: NAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10 x86; Text
 #. for {{DOWNLOAD}} is in key drivercard_no-results_download-link; RU: Пример:
 #. NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10 x86; Текст для
 #. {{DOWNLOAD}} находится в ключе drivercard_no-results_download-link;
 msgid "devicecard_details_no-results-text"
-msgstr ""
+msgstr "ไม่พบไดรเวอร์ของ {{NAME}} สำหรับวินโดวส์ {{OSVERSIONS}} ในแคตตาล็อก {{DOWNLOAD}} เพื่อเลือกไดรเวอร์อัตโนมัติ."
 
 msgid "devicecard_details_no-results_download-link"
-msgstr ""
+msgstr "ดาวน์โหลด DriverPack"
 
 msgid "devicecard_details-content-text"
-msgstr ""
+msgstr "กำลังโหลดข้อมูล..."
 
 msgid "devicecard_details_all-systems"
-msgstr ""
+msgstr "ระบบทั้งหมด"
 
 msgid "devicecard_details-content-label-version"
 msgstr "เวอร์ชั่น:"
 
 msgid "devicecard_details-content-label-version-recommended"
-msgstr ""
+msgstr "แนะนำ"
 
 msgid "devicecard_details-content-label-date"
-msgstr ""
+msgstr "วันที่:"
 
 msgid "devicecard_details-content-label-type"
-msgstr ""
+msgstr "ประเภทไดรเวอร์:"
 
 msgid "devicecard_details-content-label-manufacturer"
-msgstr ""
+msgstr "ผู้ผลิต:"
 
 msgid "devicecard_details-content-label-systems"
-msgstr ""
+msgstr "ระบบปฏิบัติการ:"
 
 msgid "devicecard_details-content-label-deviceid"
-msgstr ""
+msgstr "Device ID:"
 
 msgid "devicecard_details-content-label-inf"
-msgstr ""
+msgstr "ไฟล์ *.inf:"
 
 msgid "devicecard_details-content-label-section"
-msgstr ""
+msgstr "ประเภท:"
 
 msgid "devicecard_details-links-merged_label"
-msgstr ""
+msgstr "ถ้าหากไม่พบ Device ID ที่ต้องการในรายชื่อ ป้อนใส่ในช่องค้นหา"
 
 msgid "devicecard_details-links-notebook_device"
-msgstr ""
+msgstr "ดูไดรเวอร์ทั้งหมด"
 
 msgid "devicecard_details-links"
-msgstr ""
+msgstr "ดูไดรเวอร์ทั้งหมดสำหรับ"
 
 msgid "devicecardlist_no-result_download-link"
-msgstr ""
+msgstr "ดาวน์โหลด DriverPack"
 
 #. i18n: EN: Example: DEVICENAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10
 #. x86; Text for {{DOWNLOAD}} is in key devicecardlist_no-result_download-
@@ -163,7 +164,7 @@ msgstr ""
 #. x86; Текст для {{DOWNLOAD}} находится в ключе devicecardlist_no-
 #. result_download-link;
 msgid "devicecardlist_no-results-device-text"
-msgstr ""
+msgstr "ไม่พบไดรเวอร์ของ {{DEVICENAME}} สำหรับวินโดวส์ {{OSVERSIONS}} ในแคตตาล็อก {{DOWNLOAD}} เพื่อเลือกไดรเวอร์อัตโนมัติ"
 
 #. i18n: EN: Example: DEVICECLASS=chipsets|videocards; NOTEBOOK=Acer AO521;
 #. OSVERSIONS=Windows 10 x86; Text for {{DOWNLOAD}} is in key
@@ -172,386 +173,386 @@ msgstr ""
 #. OSVERSIONS=Windows 10 x86; Текст для {{DOWNLOAD}} находится в ключе
 #. devicecardlist_no-result_download-link;
 msgid "devicecardlist_no-results-notebook-text"
-msgstr ""
+msgstr "ไม่พบไดรเวอร์สำหรับ {{NOTEBOOK}} แล็ปท็อปสำหรับ Windows {{OSVERSIONS}} ในแต็ตตาล็อก {{DOWNLOAD}} เพื่อเลือกไดรเวอร์อัตโนมัติ"
 
 #. i18n: EN: Example: NOTEBOOK=Acer AO521; OSVERSIONS=Windows 10 x86; Text for
 #. {{DOWNLOAD}} is in key devicecardlist_no-result_download-link; RU: Пример:
 #. NOTEBOOK=Acer AO521; Пример: OSVERSIONS=Windows 10 x86; Текст для
 #. {{DOWNLOAD}} находится в ключе devicecardlist_no-result_download-link;
 msgid "devicecardlist_no-results-notebook-device-class-text"
-msgstr ""
+msgstr "ไม่พบไดรเวอร์สำหรับ {{DEVICECLASS}} สำหรับ {{NOTEBOOK}} แล็ปท็อป สำหรับ Windows {{OSVERSIONS}} {{DOWNLOAD}} เพื่อเลือกไดรเวอร์อัตโนมัติ"
 
 msgid "devicegrouppage_all-systems"
-msgstr ""
+msgstr "ระบบทั้งหมด"
 
 msgid "notebookpage_all-systems"
-msgstr ""
+msgstr "ระบบทั้งหมด"
 
 msgid "devicegroupfilters_filter-title"
-msgstr ""
+msgstr "ไดรเวอร์ที่ใช้ได้"
 
 msgid "deviceidfilters-filter-label-version"
-msgstr ""
+msgstr "ไดรเวอร์เวอร์ชั่น:"
 
 msgid "deviceidheader_caption-single"
-msgstr ""
+msgstr "ชื่ออุปกรณ์:"
 
 msgid "deviceidheader_caption-many"
-msgstr ""
+msgstr "อุปกรณ์นี้รู้จักในชื่อ:"
 
 msgid "devicetypelist_title_os"
-msgstr ""
+msgstr "ไดรเวอร์สำหรับอุปกรณ์บน {{OS}}"
 
 msgid "devicetypelist_title"
-msgstr ""
+msgstr "ค้นหาไดรเวอร์สำหรับอุปกรณ์"
 
 msgid "search_noresult"
-msgstr ""
+msgstr "ดาวน์โหลด DriverPack Online"
 
 #. i18n: EN: Example: NAME=Acer Aspire 4830TG; OSVERSIONS=Windows 10 x86; Text
 #. for {{DOWNLOAD}} is in key drivercard_no-results_download-link; RU: Пример:
 #. NAME=Acer Aspire 4830TG; Пример: OSVERSIONS=Windows 10 x86; Текст для
 #. {{DOWNLOAD}} находится в ключе drivercard_no-results_download-link;
 msgid "drivercard_no-results-text"
-msgstr ""
+msgstr "ไม่พบไดรเวอร์ของ {{NAME}} สำหรับวินโดวส์ {{OSVERSIONS}} ในแคตตาล็อก {{DOWNLOAD}} เพื่อเลือกไดรเวอร์อัตโนมัติ"
 
 msgid "drivercard_no-results_download-link"
-msgstr ""
+msgstr "ดาวน์โหลด DriverPack"
 
 msgid "drivercard_caption-version"
 msgstr "เวอร์ชั่น:"
 
 msgid "drivercard_caption-version-recommended"
-msgstr ""
+msgstr "แนะนำ"
 
 msgid "drivercard_caption-date"
-msgstr ""
+msgstr "วันที่:"
 
 msgid "drivercard_caption-class"
-msgstr ""
+msgstr "ประเภทอุปกรณ์:"
 
 msgid "drivercard_caption-manufacturer"
-msgstr ""
+msgstr "ผู้ผลิต:"
 
 msgid "drivercard_caption-os"
-msgstr ""
+msgstr "ระบบปฏิบัติการ:"
 
 msgid "drivercard_caption-deviceid"
-msgstr ""
+msgstr "Device ID:"
 
 msgid "drivercard_caption-inf"
-msgstr ""
+msgstr "ไฟล์ *.inf:"
 
 msgid "drivercard_caption-section"
-msgstr ""
+msgstr "ประเภท:"
 
 msgid "drivercard_caption-btn"
-msgstr ""
+msgstr "ดาวน์โหลดไดรเวอร์"
 
 msgid "deviceidpage_all-systems"
-msgstr ""
+msgstr "ระบบทั้งหมด"
 
 msgid "dropdowndriverversion_no-results"
-msgstr ""
+msgstr "ไม่พบไดรเวอร์สำหรับระบบปฏิบัติการที่เลือก"
 
 msgid "dropdownos_current"
-msgstr ""
+msgstr "ปัจจุบัน"
 
 msgid "footer_banner-title"
-msgstr ""
+msgstr "คุณเหนื่อยไหมสำหรับการมองหาไดรเวอร์สำหรับอุปกรณ์ของคุณ?"
 
 msgid "footer_banner-caption"
-msgstr ""
+msgstr "DriverPack Online <span style='color: {{COLOR}}'>จะหาและติดตั้ง</span> ไดรเวอร์ที่คุณต้องการอัตโนมัติ"
 
 msgid "footer_banner_btn"
-msgstr ""
+msgstr "ดาวน์โหลด <span class='bold'>DriverPack Online</span> ฟรี"
 
 msgid "footer_translate-feedback"
-msgstr ""
+msgstr "คุณพบคำพิมพ์ผิดหรือผิดพลาดหรือไม่<br />ไฮไลท์มันและกด {{HOTKEY}}"
 
 msgid "header_search-title"
-msgstr ""
+msgstr "<span class='bold'>ค้นหาไดรเวอร์</span> บนฐานข้อมูลที่ใหญ่ที่สุด — มากกว่าหนึ่งล้านไดรเวอร์"
 
 msgid "header_search-examples"
-msgstr ""
+msgstr "ตัวอย่าง:"
 
 msgid "header_cta-text"
-msgstr ""
+msgstr "ดาวน์โหลด DriverPack สำหรับเลือกไดรเวอร์อัตโนมัติ"
 
 msgid "header_cta-btn"
-msgstr ""
+msgstr "ติดตั้งไดรเวอร์อัตโนมัติ"
 
 msgid "header_cta-label-1"
-msgstr ""
+msgstr "มัน <span style='color: {{COLOR}}'>จะดาวน์โหลด</span> ทันที"
 
 msgid "header_cta-label-2"
-msgstr ""
+msgstr "มัน <span style='color: {{COLOR}}'>จะเลือกและติดตั้ง</span> ไดรเวอร์อัตโนมัติ"
 
 msgid "headerbutton_title"
-msgstr ""
+msgstr "ติดตั้งไดรเวอร์อัตโนมัติ"
 
 msgid "headerbutton_label"
-msgstr ""
+msgstr "DriverPack เป็นซอฟท์แวร์ฟรี ไม่มีค่าใช้จ่าย"
 
 msgid "headeros_cta-btn"
-msgstr ""
+msgstr "ติดตั้งไดรเวอร์สำหรับ <span class='HeaderOs__cta-btn-marked'>{{OS}}</span>"
 
 msgid "headeros_search-text"
-msgstr ""
+msgstr "หรือใช้ช่องค้นหาฐานข้อมูลไดรเวอร์มหึมาของเรา"
 
 msgid "landingdevicetypelist_landing-title"
-msgstr ""
+msgstr "DriverPack เหมาะสมกับทุกอุปกรณ์"
 
 msgid "landingdevicetypelist_landing-subtitle"
-msgstr ""
+msgstr "แม้กระทั่งสำหรับ USB 3.0 บน Windows 7 SP1"
 
 msgid "landingdevicetypelist_cta-btn"
-msgstr ""
+msgstr "ติดตั้งทุกไดรเวอร์ที่ต้องการ"
 
 msgid "landingdevicetypelist_versions"
-msgstr ""
+msgstr "DriverPack เวอร์ชั่นอื่น"
 
 msgid "landingfeatures_landing-title"
-msgstr ""
+msgstr "DriverPack เป็นวิธีที่สะดวกและรวดเร็วมากในการปรับแต่งคอมพิวเตอร์"
 
 msgid "landingfeatures_landing-subtitle"
-msgstr ""
+msgstr "ซอฟท์แวร์ให้ฟรี และเหมาะสมกับทั้งมืออาชีพและผู้เริ่มต้น"
 
 msgid "landingfeatures_item-title-free"
-msgstr ""
+msgstr "ฟรี"
 
 msgid "landingfeatures_item-caption-free"
-msgstr ""
+msgstr "DriverPack ให้ฟรี"
 
 msgid "landingfeatures_item-title-safe"
-msgstr ""
+msgstr "ปลอดภัย"
 
 msgid "landingfeatures_item-caption-safe"
-msgstr ""
+msgstr "DriverPack ร่วมมืออย่างเป็นทางการกับผู้ผลิตแอนตี้ไวรัสซอฟท์แวร์ และปกป้องคอมพิวเตอร์ของคุณ"
 
 msgid "landingfeatures_item-title-for-all-devices"
-msgstr ""
+msgstr "สำหรับทุกอุปกรณ์"
 
 msgid "landingfeatures_item-caption-for-all-devices"
-msgstr ""
+msgstr "DriverPack มีฐานข้อมูลไดรเวอร์ที่ใหญ่ที่สุดในโลก และสามารถใช้ปรับแต่งคอมพิวเตอร์ได้ทุกเครื่อง"
 
 msgid "landingheader_cta-text"
-msgstr ""
+msgstr "DriverPack ติดตั้งไดรเวอร์ฟรีและแก้ปัญหาไดรเวอร์บนทุกอุปกรณ์"
 
 msgid "landingheader_cta-btn"
-msgstr ""
+msgstr "ติดตั้งทุกไดรเวอร์ที่ต้องการ"
 
 msgid "landingheadernav_search"
-msgstr ""
+msgstr "ค้นหาไดรเวอร์"
 
 msgid "landingheadernav_foradmin"
-msgstr ""
+msgstr "สำหรับแอดมินระบบ"
 
 msgid "landingintroduction_author-title"
-msgstr ""
+msgstr "สวัสดี ผมชื่อ อาเธอร์ คุซยาคอฟ ผมเป็นผู้เขียนและผู้สร้าง DriverPack"
 
 msgid "landingintroduction_author-speech"
 msgstr ""
 
 msgid "landingintroduction_author-speech-marked"
-msgstr ""
+msgstr "เราใช้เวลาทั้งหมดของเราเพื่อประหยัดเวลาของคุณ"
 
 msgid "landingintroduction_video-caption"
-msgstr ""
+msgstr "และนี่คือ ดิมิทรี เมดเวเดฟ ประธานาธิบดีของสหพันธรัฐรัสเซีย พูดถึง DriverPack Solution"
 
 msgid "landingnotebookvendorslist_landing-title"
-msgstr ""
+msgstr "DriverPack เหมาะสมกับคอมพิวเตอร์ทุกเครื่อง"
 
 msgid "landingnotebookvendorslist_landing-subtitle"
-msgstr ""
+msgstr "ใช่ คอมพิวเตอร์ทุกเครื่อง - เราเช็คแล้ว!"
 
 msgid "landingnotebookvendorslist_cta-btn"
-msgstr ""
+msgstr "ติดตั้งทุกไดรเวอร์ที่ต้องการ"
 
 msgid "landingnotebookvendorslist_versions"
-msgstr ""
+msgstr "DriverPack เวอร์ชั่นอื่น"
 
 msgid "landingproducts_cta-title"
-msgstr ""
+msgstr "เลือก DriverPack ของคุณ"
 
 msgid "landingproducts_cta-description"
-msgstr ""
+msgstr "ดาวน์โหลดแพ็คที่เหมาะสำหรับคุณ"
 
 msgid "landingproducts_item-title-online"
-msgstr ""
+msgstr "DriverPack Online"
 
 msgid "landingproducts_item-description-online"
-msgstr ""
+msgstr "มันดาวน์โหลดทันที ดาวน์โหลดและติดตั้งไดรเวอร์ทั้งหมด ถ้าคุณมีการเชื่อมต่ออินเตอร์เน็ท <span class='nobr'>({{SIZE}})</span>"
 
 msgid "landingproducts_item-version"
 msgstr "เวอร์ชั่น:"
 
 msgid "landingproducts_item-button"
-msgstr ""
+msgstr "ดาวน์โหลด"
 
 msgid "landingproducts_item-title-network"
-msgstr ""
+msgstr "DriverPack Offline Network"
 
 msgid "landingproducts_item-description-network"
-msgstr ""
+msgstr "มันบรรจุไดรเวอร์สำหรับฮาร์ดแวร์เครือข่าย (แลน/ไว-ไฟ) มันทำงานโดยปราศจากการเชื่อมต่ออินเตอร์เน็ท <span class='nobr'>({{SIZE}})</span>"
 
 msgid "landingproducts_item-title-offline"
-msgstr ""
+msgstr "DriverPack Offline Full"
 
 msgid "landingproducts_item-description-offline"
-msgstr ""
+msgstr "มันบรรจุไดรเวอร์ทั้งหมด ทำงานโดยปราศจากอินเตอร์เน็ท มันสามารถดาวน์โหลดทางทอร์เรนท์-แทรคเกอร์ <span class='nobr'>({{SIZE}})</span>"
 
 msgid "landingpublications__landing-title"
-msgstr ""
+msgstr "การประกาศของสื่อมวลชนเกี่ยวกับ DriverPack"
 
 msgid "landingscreenshots_landing-title"
-msgstr ""
+msgstr "DriverPack เป็นวิธีที่สะดวกและรวดเร็วมากในการปรับแต่งคอมพิวเตอร์"
 
 msgid "landingscreenshots_landing-subtitle"
-msgstr ""
+msgstr "ซอฟท์แวร์ให้ฟรี และเหมาะสมกับทั้งมืออาชีพและผู้เริ่มต้น"
 
 msgid "landingsocial_landing-title"
-msgstr ""
+msgstr "เข้าร่วมชุมชน DriverPack"
 
 msgid "landingsocial_landing-subtitle"
-msgstr ""
+msgstr "ติดตามข่าวและเข้าร่วมสนทนา"
 
 msgid "landingtopvideocardlist_landing-title"
-msgstr ""
+msgstr "รุ่นการ์ดจอยอดนิยม"
 
 msgid "landingtopvideocardlist_landing-caption"
-msgstr ""
+msgstr "DriverPack เลือกไดรเวอร์สำหรับการ์ดจอทุกรุ่น นี่คือรุ่นยอดนิยม"
 
 msgid "landingusers_cta"
-msgstr ""
+msgstr "จำนวนผู้ใช้ DriverPack ทั่วโลกเพิ่มขึ้นทุกๆวินาที"
 
 msgid "landingusers_cta-btn"
-msgstr ""
+msgstr "ติดตั้งทุกไดรเวอร์ที่ต้องการ"
 
 msgid "landingusers_versions"
-msgstr ""
+msgstr "DriverPack เวอร์ชั่นอื่น"
 
 msgid "landingvideocardlist_landing-title"
-msgstr ""
+msgstr "ผู้ผลิตการ์ดจอยอดนิยม"
 
 msgid "landingwizard_landing-title"
-msgstr ""
+msgstr "ในปัจจุบันเป็นไปได้ที่จะปรับแต่งคอมพิวเตอร์ในหนึ่งคลิ๊ก"
 
 msgid "landingwizard_item-caption-download"
-msgstr ""
+msgstr "ดาวน์โหลดและเริ่มใช้ DriverPack Online"
 
 msgid "landingwizard_item-caption-setup"
-msgstr ""
+msgstr "ปรับแต่งคอมพิวเตอร์ของคุณเพียงหนึ่งการปฏิบัติ"
 
 msgid "landingwizard_item-caption-profit"
-msgstr ""
+msgstr "ใช่! ตอนนี้คอมพิวเตอร์ของคุณจะเป็นเหมือนเครื่องใหม่!"
 
 msgid "landingwizard_cta-btn"
-msgstr ""
+msgstr "ติดตั้งทุกไดรเวอร์ที่ต้องการ"
 
 msgid "navbar_download-link-short"
-msgstr ""
+msgstr "ดาวน์โหลด"
 
 msgid "navbar_download-link"
-msgstr ""
+msgstr "ดาวน์โหลด DriverPack Online"
 
 msgid "notfound_cta-text"
-msgstr ""
+msgstr "คุณสามารถค้นหาและติดตั้งไดรเวอร์อัตโนมัติโดยใช้ DriverPack Online ฟรี"
 
 msgid "notfound_cta-btn"
-msgstr ""
+msgstr "ดาวน์โหลด DriverPack Online"
 
 msgid "notfound_info-404"
-msgstr ""
+msgstr "{{404}} — ไม่พบหน้าเพจที่ต้องการ"
 
 msgid "notfound_info-500"
-msgstr ""
+msgstr "{{500}} — บางสิ่งผิดปกติ (เซิร์ฟเวอร์ผิดพลาด)"
 
 msgid "notebookfilters-title"
-msgstr ""
+msgstr "ไดรเวอร์ที่ใช้ได้"
 
 msgid "notebookvendorslist_other-text"
-msgstr ""
+msgstr "ผู้ผลิตอื่นๆ"
 
 msgid "notebookvendorslist_title_os"
-msgstr ""
+msgstr "ไดรเวอร์สำหรับแล็ปท็อปบน {{OS}}"
 
 msgid "notebookvendorslist_title"
-msgstr ""
+msgstr "ค้นหาไดรเวอร์สำหรับแล็ปท็อป"
 
 msgid "productlandingheader-online_cta-btn"
-msgstr ""
+msgstr "ดาวน์โหลด DriverPack Online"
 
 msgid "productlandingheader-online_caption"
-msgstr ""
+msgstr "DriverPack Online - ผลิตภัณฑ์ยอดนิยมในขนาดแค่ {{SIZE}} มันดาวน์โหลดในทันที มันเลือกไดรเวอร์สำหรับคอมพิวเตอร์หรือแล็ปท็อปของคุณ และติดตั้งหลังจากดาวน์โหลดไดรเวอร์ที่ต้องการผ่านทางอินเตอร์เน็ท มันสมบูรณ์แบบสำหรับผู้ใช้ธรรมดา มันทำงานผ่านการเชื่อมต่ออินเตอร์เน็ทเท่านั้น"
 
 msgid "productlandingheader-network_cta-btn"
-msgstr ""
+msgstr "ดาวน์โหลด DriverPack Offline Network"
 
 msgid "productlandingheader-network_caption"
 msgstr ""
 
 msgid "productlandingheader-offline_cta-btn"
-msgstr ""
+msgstr "ดาวน์โหลด DriverPack Offline Full"
 
 msgid "productlandingheader-offline_caption"
 msgstr ""
 
 msgid "promoheader_cta-text-gamers"
-msgstr ""
+msgstr "คอมพิวเตอร์ของคุณมีพลังมากกว่าที่คุณคิด อัพเดทไดรเวอร์ทั้งหมดฟรี"
 
 msgid "promoheader_cta-text-gamers-caption"
 msgstr ""
 
 msgid "promoheader_cta-text"
-msgstr ""
+msgstr "DriverPack ติดตั้งไดรเวอร์ฟรีและแก้ปัญหาไดรเวอร์บนทุกอุปกรณ์"
 
 msgid "promoheader_cta-btn"
-msgstr ""
+msgstr "ติดตั้งทุกไดรเวอร์ที่ต้องการ"
 
 msgid "promoheader_size"
-msgstr ""
+msgstr "ขนาดไฟล์: {{SIZE}} KB"
 
 msgid "promoheader_license"
-msgstr ""
+msgstr "ข้อตกลงการอนุญาตใช้สิทธิ์"
 
 msgid "promoheader_os-versions"
-msgstr ""
+msgstr "ซอฟท์แวร์เหมาะสมสำหรับ Windows 10, 8.1, 8, 7, Vista, XP"
 
 msgid "promoheader_uninstall"
-msgstr ""
+msgstr "ถอดถอน DriverPack"
 
 msgid "reviewheader_cta-text"
 msgstr ""
 
 msgid "reviewheader_cta"
-msgstr ""
+msgstr "เพิ่มรีวิวหรือข้อแนะนำเพื่อพัฒนา DriverPack"
 
 msgid "search_input-placeholder"
-msgstr ""
+msgstr "ค้นหาชื่อไดรเวอร์, แล็ปท็อป หรือ DeviceID"
 
 msgid "search_btn-text"
-msgstr ""
+msgstr "ค้นหา"
 
 msgid "searchformitem_type-section"
-msgstr ""
+msgstr "ประเภท"
 
 msgid "searchformitem_type-notebook"
-msgstr ""
+msgstr "แล็ปท็อป"
 
 msgid "searchformitem_type-device"
-msgstr ""
+msgstr "อุปกรณ์"
 
 msgid "searchformitem_type-free"
-msgstr ""
+msgstr "ฟรี"
 
 #. i18n: EN: Example: NAME=Acer; RU: Пример: NAME=Acer;
 msgid "generatesearchitemname_notebookvendor"
-msgstr ""
+msgstr "{{NAME}} แล็ปท็อป"
 
 #. i18n: EN: Example: NAME=Asus; RU: Пример: NAME=Asus;
 msgid "generatesearchitemname_vendor"
-msgstr ""
+msgstr "{{NAME}} อุปกรณ์"
 
 msgid "deviceclasses_bluetooth-single-main"
 msgstr "ไดร์เวอร์บลูธูท"
@@ -686,16 +687,16 @@ msgid "deviceclasses_sound-plural-for"
 msgstr "การ์ดเสียง"
 
 msgid "deviceclasses_tvtuner-single-main"
-msgstr ""
+msgstr "ทีวี จูนเนอร์"
 
 msgid "deviceclasses_tvtuner-single-for"
-msgstr ""
+msgstr "ทีวี จูนเนอร์"
 
 msgid "deviceclasses_tvtuner-plural-main"
-msgstr ""
+msgstr "ทีวี จูนเนอร์"
 
 msgid "deviceclasses_tvtuner-plural-for"
-msgstr ""
+msgstr "ทีวี จูนเนอร์"
 
 msgid "deviceclasses_video-single-main"
 msgstr "การ์ดจอ"
@@ -746,10 +747,10 @@ msgid "deviceclasses_other-plural-for"
 msgstr "อุปกรณ์อื่นๆ"
 
 msgid "searchheader_caption-subtitle"
-msgstr ""
+msgstr "ไดรเวอร์ที่ค้นหาจากการสอบถาม:"
 
 msgid "searchheader_caption-filter-label"
-msgstr ""
+msgstr "ไดรเวอร์จะดาวน์โหลดจากระบบปฏิบัติการที่เลือก"
 
 #. i18n: EN: Example: NOTEBOOK=Acer AO521; Text for {{DOWNLOAD}} is in key
 #. searchresult_details-content_download-link; RU: Пример: NOTEBOOK=Acer
@@ -759,22 +760,22 @@ msgid "searchresult_details-content-notebook-text"
 msgstr ""
 
 msgid "searchresult_details-content_download-link"
-msgstr ""
+msgstr "ดาวน์โหลด DriverPack"
 
 msgid "searchresult_notebook"
-msgstr ""
+msgstr "แล็ปท็อป"
 
 msgid "searchresult_download-btn"
-msgstr ""
+msgstr "ติดตั้งไดรเวอร์อัตโนมัติ"
 
 msgid "searchresult_details-content-text-placeholder"
-msgstr ""
+msgstr "กำลังโหลดข้อมูล..."
 
 msgid "searchresult_details-content-label-1"
-msgstr ""
+msgstr "ระบบปฏิบัติการ"
 
 msgid "searchresult_details-content-label-2"
-msgstr ""
+msgstr "ระบบทั้งหมด"
 
 #. i18n: EN: Example: DEVICE=NVIDIA GeForce 205; Text for {{DOWNLOAD}} is in
 #. key searchresult_details-content_download-link; RU: Пример: DEVICE=NVIDIA
@@ -786,28 +787,28 @@ msgstr ""
 #. i18n: EN: Example: CLASS.SINGLE.MAIN=monitor|chipset; COUNT=12; RU: Пример:
 #. CLASS.SINGLE.MAIN=монитор|чипсет; COUNT=12;
 msgid "searchresult_device"
-msgstr ""
+msgstr "{{CLASS.SINGLE.MAIN}} ( พบ {{COUNT}} ผลลัพธ์)"
 
 msgid "searchresult_details-content-text-many"
-msgstr ""
+msgstr "พบหลากหลายไดรเวอร์เวอร์สำหรับอุปกรณ์นี้"
 
 msgid "seofooter_os-list-title"
-msgstr ""
+msgstr "ระบบปฏิบัติการเวอร์ชั่น: <span itemprop='operatingSystem'>{{OSLIST}}</span>"
 
 msgid "seofooter_offers-title"
 msgstr ""
 
 msgid "seofooter_driver-description-title"
-msgstr ""
+msgstr "คำอธิบายไดรเวอร์"
 
 msgid "seofooter_popular-drivers-title"
-msgstr ""
+msgstr "ไดรเวอร์ยอดนิยม"
 
 msgid "sidebanner_title"
-msgstr ""
+msgstr "คุณเหนื่อยกับการหาไดรเวอร์ไหม?"
 
 msgid "sidebanner_caption"
-msgstr ""
+msgstr "DriverPack จะ <span class='SideBanner__caption-marked'>เลือกและติดตั้ง</span> ไดรเวอร์ที่ต้องการอัตโนมัติ"
 
 msgid "translationheader_cta-text"
 msgstr ""
@@ -879,7 +880,7 @@ msgid "adminpagefaq_database-a"
 msgstr ""
 
 msgid "adminpagefaq_free-q"
-msgstr ""
+msgstr "จริงหรือที่ DriverPack ฟรี ไม่มีค่าใช้จ่าย"
 
 msgid "adminpagefaq_free-a"
 msgstr ""
@@ -927,13 +928,13 @@ msgid "badrabbitpromopage_cta-subtext"
 msgstr ""
 
 msgid "badrabbitpromopage_cta-btn"
-msgstr ""
+msgstr "ปรับแต่งคอมพิวเตอร์และป้องกัน Bad Rabbit"
 
 msgid "badrabbitpromopage_caption-text"
-msgstr ""
+msgstr "ซอฟท์แวร์นี้ให้ฟรี"
 
 msgid "badrabbitpromopage_info-text-title-1"
-msgstr ""
+msgstr "อะไรคือ Bad Rabbit"
 
 msgid "badrabbitpromopage_info-text-1"
 msgstr ""
@@ -951,22 +952,22 @@ msgid "badrabbitpromopage_link-smb"
 msgstr ""
 
 msgid "cloudlandingpage_cackle-title"
-msgstr ""
+msgstr "บอกความคิดเห็นของคุณเกี่ยวกับ DriverPack Cloud กับเรา"
 
 msgid "cloudlandingpage_cackle-caption"
-msgstr ""
+msgstr "คุณชอบ DriverPack Cloud หรือไม่ มีฟังก์ชั่นอะไรที่คุณอยากเพิ่มให้มัน กรุณาบอกเรา"
 
 msgid "cloudlandingpage_header-title"
-msgstr ""
+msgstr "DriverPack Cloud คือซอฟท์แวร์ใหม่ที่จะช่วยเพิ่มประสิทธิภาพให้พีซีของคุณ"
 
 msgid "cloudlandingpage_about-what-is-title"
-msgstr ""
+msgstr "อะไรคือซอฟท์แวร์ DriverPack Cloud"
 
 msgid "cloudlandingpage_about-what-is-caption"
 msgstr ""
 
 msgid "cloudlandingpage_about-how-works-title"
-msgstr ""
+msgstr "DriverPack Cloud ทำงานอย่างไร"
 
 msgid "cloudlandingpage_about-how-works-caption"
 msgstr ""
@@ -987,110 +988,110 @@ msgid "cloudlandingpage_uninstall-caption"
 msgstr ""
 
 msgid "cloudlandingpage_license"
-msgstr ""
+msgstr "ก่อนเริ่มต้นติดตั้งกรุณาอ่าน {{LINK}}"
 
 msgid "cloudlandingpage_features-install"
-msgstr ""
+msgstr "ติดตั้ง DriverPack Cloud"
 
 msgid "cloudlandingpage_license-link"
-msgstr ""
+msgstr "ข้อตกลงการอนุญาตใช้สิทธิ์"
 
 msgid "devicegrouppage_show-more-link"
-msgstr ""
+msgstr "ดูมากกว่า"
 
 msgid "devicestypepage_subtitle"
-msgstr ""
+msgstr "ผู้ผลิต {{CLASS.SINGLE.FOR}} ทั้งหมด"
 
 msgid "devicetypevendorpage_subtitle-popular"
-msgstr ""
+msgstr "{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}} ยอดนิยม"
 
 msgid "devicetypevendorpage_subtitle-all"
-msgstr ""
+msgstr "{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}} ทั้งหมด"
 
 msgid "errorpage_title"
-msgstr ""
+msgstr "ผิดพลาด 500: เซิร์ฟเวอร์ภายในผิดพลาด"
 
 msgid "landingfooter_landing-subtitle"
-msgstr ""
+msgstr "DriverPack บรรจุไดรเวอร์สำหรับ Windows ยอดนิยมทุกเวอร์ชั่น"
 
 msgid "landing-footer_catalog-os"
-msgstr ""
+msgstr "ไดรเวอร์สำหรับ {{OS}}"
 
 msgid "landing-footer_download"
-msgstr ""
+msgstr "ดาวน์โหลด DriverPack"
 
 msgid "landing-footer_versions"
-msgstr ""
+msgstr "แอพทุกเวอร์ชั่น"
 
 msgid "landing-footer_manufacturers"
-msgstr ""
+msgstr "ผู้ผลิตฮาร์ดแวร์"
 
 msgid "landing-footer_badrabbit"
-msgstr ""
+msgstr "ป้องกัน Bad Rabbit"
 
 msgid "landing-footer_for-admin"
-msgstr ""
+msgstr "สำหรับแอดมินระบบ"
 
 msgid "landing-footer_for-translators"
-msgstr ""
+msgstr "สำหรับนักแปล"
 
 msgid "landing-footer_hwids"
-msgstr ""
+msgstr "Device ID"
 
 msgid "landing-footer_wannacry"
-msgstr ""
+msgstr "ป้องกัน WannaCry"
 
 msgid "landing-footer_license"
-msgstr ""
+msgstr "ข้อตกลงการอนุญาตใช้สิทธิ์"
 
 msgid "landing-footer_remove"
-msgstr ""
+msgstr "ถอดถอน DriverPack"
 
 msgid "notfoundpage_title"
-msgstr ""
+msgstr "ผิดพลาด 404: ไม่พบเพจ"
 
 msgid "notebookpage_show-more-link"
-msgstr ""
+msgstr "ดูมากกว่า"
 
 msgid "notebookpage_all-devices"
-msgstr ""
+msgstr "สำหรับอุปกรณ์ทั้งหมด"
 
 msgid "notebookspage_subtitle"
-msgstr ""
+msgstr "รายชื่อผู้ผลิตแล็ปท็อปและเน็ทบุ๊คทั้งหมด"
 
 msgid "notebooksvendorpage_subtitle-popular"
-msgstr ""
+msgstr "แล็ปท็อปและเน็ทบุ๊คยอดนิยมของ {{VENDOR.NAME}}"
 
 msgid "notebooksvendorpage_subtitle-all"
-msgstr ""
+msgstr " แล็ปท็อปและเน็ทบุ๊คทั้งหมดของ {{VENDOR.NAME}}"
 
 msgid "reviewpage_title"
-msgstr ""
+msgstr "แนะนำ ติชมเพื่อการพัฒนา DriverPack"
 
 msgid "searchpage_show-more-link"
-msgstr ""
+msgstr "ดูมากกว่า"
 
 #. i18n: EN: text for {{LINK}} is in key thankyoupopup_download-link; RU:
 #. текст для {{LINK}} находится в ключе thankyoupopup_download-link;
 msgid "thankyoupopup_download-text"
-msgstr ""
+msgstr "ดาวน์โหลดไม่เริ่มต้น คลิ๊กที่นี่ {{LINK}}"
 
 #. i18n: EN: text for {{LINK}} is in key thankyoupopup_licence-link; RU: текст
 #. для {{LINK}} находится в ключе thankyoupopup_licence-link;
 msgid "thankyoupopup_licence-text"
-msgstr ""
+msgstr "เพื่อติดตั้งซอฟท์แวร์นี้ คุณยอมรับ {{LINK}} เงื่อนไข"
 
 msgid "thankyoupopup_title"
-msgstr ""
+msgstr "เริ่มใช้ DriverPack"
 
 msgid "thankyoupopup_cta-text"
-msgstr ""
+msgstr "เพื่อเลือกและติดตั้งไดรเวอร์ลงบนคอมพิวเตอร์ของคุณ"
 
 msgid "thankyoupopup_licence-link"
-msgstr ""
+msgstr "ข้อตกลงการอนุญาตใช้สิทธิ์"
 
 msgid "thankyoupopup_download-link"
-msgstr ""
+msgstr "ดาวน์โหลด"
 
 msgid "translate-feedback-header_caption"
 msgstr ""
@@ -1102,7 +1103,7 @@ msgid "translate-feedback-form-popup_correct-title"
 msgstr ""
 
 msgid "translate-feedback-form-popup_submit"
-msgstr ""
+msgstr "ส่ง"
 
 msgid "translate-feedback-popup_title-error"
 msgstr ""
@@ -1111,22 +1112,22 @@ msgid "translate-feedback-popup_description-error"
 msgstr ""
 
 msgid "translate-feedback-popup_title-success"
-msgstr ""
+msgstr "ขอบคุณครับ/ค่ะ"
 
 msgid "translate-feedback-popup_description-success"
 msgstr ""
 
 msgid "translate-feedback-popup_description-join-us"
-msgstr ""
+msgstr "กรุณาช่วยพวกเราแปลเป็นภาษาท้องถิ่นของคุณ"
 
 msgid "translate-feedback-popup_description-join-link"
-msgstr ""
+msgstr "เข้าร่วมทีมแปลภาษาของเรา"
 
 msgid "translationlandingpage_title"
-msgstr ""
+msgstr "DriverPack ฉบับแปล"
 
 msgid "vendorpage_subtitle-popular"
-msgstr ""
+msgstr "อุปกรณ์ {{VENDOR.NAME}} ยอดนิยม"
 
 msgid "wannacryptpromopage_cta-text"
 msgstr ""
@@ -1135,19 +1136,19 @@ msgid "wannacryptpromopage_cta-subtext"
 msgstr ""
 
 msgid "wannacryptpromopage_cta-btn"
-msgstr ""
+msgstr "ปรับแต่งคอมพิวเตอร์และป้องกัน WannaCry"
 
 msgid "wannacryptpromopage_caption-text"
-msgstr ""
+msgstr "ซอฟท์แวร์นี้ให้ฟรี"
 
 msgid "wannacryptpromopage_info-text-title-1"
-msgstr ""
+msgstr "อะไรคือ WannaCrypt?"
 
 msgid "wannacryptpromopage_info-text-1"
 msgstr ""
 
 msgid "wannacryptpromopage_info-text-title-2"
-msgstr ""
+msgstr "ใครที่มีความเสี่ยง?"
 
 msgid "wannacryptpromopage_info-text-2"
 msgstr ""
