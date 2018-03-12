@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-03-05 14:32+0000\n"
-"PO-Revision-Date: 2018-03-06 08:47+0000\n"
+"PO-Revision-Date: 2018-03-12 09:21+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Filipino (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/fil/)\n"
 "MIME-Version: 1.0\n"
@@ -476,14 +476,14 @@ msgstr "Command Line"
 #. {{LINK.EULA}} находится в ключе confirm_popup_eula-link; текст для
 #. {{LINK.POLICY}} находится в ключе confirm_popup_policy-link;
 msgid "confirm_popup_install_eula"
-msgstr ""
+msgstr "Sumasang-ayon ako na mag-install {{PROGRAM.NAME}}, at tinatanggap ko {{LINK.EULA}} at {{LINK.POLICY}}. Ang software na ito ay maaaring alisin anumang sandali sa pamamagitan ng 'Add / Remove Software' function."
 
 #. i18n: EN: text for {{LINK.EULA}} is in key confirm_popup_eula-link; text
 #. for {{LINK.POLICY}} is in key confirm_popup_policy-link; RU: текст для
 #. {{LINK.EULA}} находится в ключе confirm_popup_eula-link; текст для
 #. {{LINK.POLICY}} находится в ключе confirm_popup_policy-link;
 msgid "confirm_popup_eula"
-msgstr ""
+msgstr "Sa pamamagitan ng pag-install ng software na ito, tinatanggap mo {{LINK.EULA}} at {{LINK.POLICY}}."
 
 msgid "confirm_popup_eula-link"
 msgstr "Kasunduan sa Lisensya ng End User"
@@ -774,58 +774,58 @@ msgid "games_top_game_play"
 msgstr "Simulan ang pag-play"
 
 msgid "games_playkey_top_title"
-msgstr ""
+msgstr "I-play <span class='games_title-marked bold'>ang mga nangungunang laro</span> sa mga setting ng pinakamataas na antas <br /> <span class='bold'>kahit na sa mahinang computer</span>"
 
 msgid "games_playkey_open_catalog_button"
-msgstr ""
+msgstr "Higit sa 150 mga laro sa PlayKey catalog"
 
 msgid "games_playkey_cloud_title"
-msgstr ""
+msgstr "Nagsisimula ang laro <span class='games_title-marked bold'>sa Cloud </span> sa gilid ng server, <br /> <span class='bold'>kaya, hindi ito gumagamit ng mga mapagkukunan ng iyong computer</span>"
 
 msgid "games_playkey_cloud_img_pc_caption"
-msgstr ""
+msgstr "Inilipat ng computer ang mga pagkilos ng gumagamit"
 
 msgid "games_playkey_cloud_img_cloud_caption"
-msgstr ""
+msgstr "Ang signal ay inililipat sa Cloud"
 
 msgid "games_playkey_cloud_img_server_caption"
-msgstr ""
+msgstr "Nagsisimula ang laro sa server"
 
 msgid "games_playkey_cloud_img_joystick_caption"
-msgstr ""
+msgstr "Nasisiyahan ka sa laro nang walang anumang mga isyu o pagkaantala"
 
 msgid "games_playkey_create_account_button"
-msgstr ""
+msgstr "Gumawa ng isang account sa PlayKey"
 
 msgid "header_authorize_button"
-msgstr ""
+msgstr "Mag-Login"
 
 msgid "authorize_popup_logout_button"
-msgstr ""
+msgstr "Mag-Log Out"
 
 msgid "installation_header_subtitle"
-msgstr ""
+msgstr "Maaaring tumagal ito ng ilang oras, ngunit&nbsp;ito ay katumbas ng halaga"
 
 msgid "installation_header_subtitle_installing-driver"
-msgstr ""
+msgstr "{{CLASS.SINGLE.FOR}} nag-i-install ang driver "
 
 msgid "installation_header_subtitle_installing-program-plural"
-msgstr ""
+msgstr "{{CATEGORY.PLURAL.FOR}} nag-iinstall "
 
 msgid "installation_header_subtitle_installing-program"
-msgstr ""
+msgstr "{{CATEGORY.SINGLE.FOR}} nag-iinstall"
 
 msgid "installation_header_subtitle_downloading"
-msgstr ""
+msgstr "Nag-loload ang file"
 
 msgid "installation_header_preparing"
-msgstr ""
+msgstr "Nililikha namin ang restore point..."
 
 msgid "installation_header_title"
-msgstr ""
+msgstr "Nino-configure namin ang iyong computer..."
 
 msgid "installation_header_promo_more"
-msgstr ""
+msgstr "matuto nang higit pa"
 
 msgid "installation_header_promo_install"
 msgstr "i-install"
@@ -840,43 +840,43 @@ msgid "driver_class_bluetooth"
 msgstr "Bluetooth device"
 
 msgid "driver_class_cardreader"
-msgstr ""
+msgstr "Card reader"
 
 msgid "driver_class_chipset"
-msgstr ""
+msgstr "Chipset"
 
 msgid "driver_class_inputdev"
-msgstr ""
+msgstr "Input device"
 
 msgid "driver_class_lan"
-msgstr ""
+msgstr "Network card"
 
 msgid "driver_class_massstorage"
-msgstr ""
+msgstr "Controller"
 
 msgid "driver_class_modem"
-msgstr ""
+msgstr "Modem"
 
 msgid "driver_class_monitor"
-msgstr ""
+msgstr "Monitor"
 
 msgid "driver_class_phone"
-msgstr ""
+msgstr "Smartphone"
 
 msgid "driver_class_printer"
-msgstr ""
+msgstr "Printer"
 
 msgid "driver_class_sound"
-msgstr ""
+msgstr "Sound card"
 
 msgid "driver_class_tvtuner"
 msgstr "TV-tuner"
 
 msgid "driver_class_video"
-msgstr ""
+msgstr "Video card"
 
 msgid "driver_class_webcamera"
-msgstr ""
+msgstr "Webcam"
 
 msgid "driver_class_wifi"
 msgstr "Wi-Fi device"
@@ -993,157 +993,157 @@ msgid "loading_system_scanning"
 msgstr "Sinusuri namin ang configuration ng computer..."
 
 msgid "loading_sending_api_request"
-msgstr ""
+msgstr "Kami ay naglo-load ng data mula sa cloud server..."
 
 msgid "loading_checking_installed_programs"
-msgstr ""
+msgstr "Sinusuri namin ang software..."
 
 msgid "loading_ordering_drivers"
-msgstr ""
+msgstr "Bumubuo kami ng order sa pag-install ng driver..."
 
 msgid "menu_install_drivers"
-msgstr ""
+msgstr "Pag-install ng driver papunta sa computer"
 
 msgid "menu_drivers"
-msgstr ""
+msgstr "Mga-Driver"
 
 msgid "menu_install_programs"
-msgstr ""
+msgstr "Ang pangunahing pag-install ng software papunta sa computer"
 
 msgid "menu_programs"
-msgstr ""
+msgstr "Software"
 
 msgid "menu_protect_title"
-msgstr ""
+msgstr "Assistant para sa iyong antivirus"
 
 msgid "menu_protect_clean_up"
-msgstr ""
+msgstr "Proteksyon at paglilinis"
 
 msgid "menu_computer_diagnostics"
-msgstr ""
+msgstr "Diagnostics ng estado ng computer"
 
 msgid "menu_diagnostics"
-msgstr ""
+msgstr "Diagnostics"
 
 msgid "menu_cloud_games_title"
-msgstr ""
+msgstr "I-laro ang mga pinaka-advanced na laro sa anumang computer"
 
 msgid "menu_cloud_games"
-msgstr ""
+msgstr "Mga-Laro"
 
 msgid "menu_cloud_games_new"
-msgstr ""
+msgstr "Bago"
 
 msgid "menu_settings"
-msgstr ""
+msgstr "Mga Setting"
 
 msgid "menu_bugreport"
-msgstr ""
+msgstr "Mag-ulat tungkol sa error"
 
 msgid "no-internet-screen_header-title"
-msgstr ""
+msgstr "Walang koneksyon sa server"
 
 msgid "no-internet-screen_guide-title"
-msgstr ""
+msgstr "Paano i-install ang lahat ng kinakailangang mga driver nang walang koneksyon sa Internet?"
 
 msgid "no-internet-screen_guide-step-1"
-msgstr ""
+msgstr "Hakbang Una 1"
 
 msgid "no-internet-screen_guide-step-1-action"
-msgstr ""
+msgstr "Pumunta sa <span class=\"bold\">driverpack.io/tl/foradmin</span> website sa pamamagitan ng paggamit ng isa pang computer"
 
 msgid "no-internet-screen_guide-step-2"
-msgstr ""
+msgstr "Hakbang Ikalawa 2"
 
 msgid "no-internet-screen_guide-step-2-action"
-msgstr ""
+msgstr "I-download ang <span class=\"bold\">DriverPack Offline Full</span> o <span class=\"bold\">DriverPack Offline Network</span> sa isang USB flash drive upang mag-install ng mga driver papunta sa iyong compluter nang walang koneksyon sa Internet <br /><br /> <span class=\"bold\">DriverPack Offline Network</span> ay may kasamang mga driver para sa network hardware (Lan / Wi-Fi), ito ay nagpapatakbo ng walang koneksyon sa Internet (500 MB) <br /><br /> <span class=\"bold\">DriverPack Offline Full</span> kasama ang lahat ng mga driver, nagpapatakbo nang walang koneksyon sa Internet"
 
 msgid "no-internet-screen_guide-step-complete"
 msgstr "Tapos"
 
 msgid "no-internet-screen_guide-step-complete-action"
-msgstr ""
+msgstr "Simulan ang app sa computer na ito at i-configure ito sa isang click"
 
 msgid "programs_header_text_title"
-msgstr ""
+msgstr "Lahat ng kapaki-pakinabang na software sa isang lugar"
 
 msgid "programs_btn_install_all"
-msgstr ""
+msgstr "I-install ang mga kinakailangang program ng software <b>({{COUNT}})</b>"
 
 msgid "programs_header_text_caption"
-msgstr ""
+msgstr "There is no need to look for the software programs one by one any longer. You can easily install everything in one click."
 
 msgid "drivers_program_counter"
-msgstr ""
+msgstr "Recommended software"
 
 msgid "protect_row_rating"
-msgstr ""
+msgstr "Laki:"
 
 msgid "protect_row_size"
-msgstr ""
+msgstr "Laki:"
 
 msgid "protect_row_publisher"
-msgstr ""
+msgstr "Publisher:"
 
 msgid "protect_row_version"
 msgstr "Bersyon:"
 
 msgid "protect_row_install_date"
-msgstr ""
+msgstr "Petsa ng Pag-install:"
 
 msgid "protect_rating_level_large"
-msgstr ""
+msgstr "inirerekomenda namin na alisin mo ito"
 
 msgid "protect_rating_level_middle"
-msgstr ""
+msgstr "maaari mong alisin ito"
 
 msgid "protect_rating_level_small"
-msgstr ""
+msgstr "maaari mong panatilihin ito"
 
 msgid "protect_rating_level_large_caption"
-msgstr ""
+msgstr "Inirerekumenda namin sa iyo na tanggalin ang software na ito dahil 70% ng lahat ng mga gumagamit ang aalisin ito."
 
 msgid "protect_uninstall_single"
-msgstr ""
+msgstr "alisin"
 
 msgid "protect_clean_up_btn"
-msgstr ""
+msgstr "Protektahan at linisin ang computer"
 
 msgid "protect_remove_all_btn_uninstalling"
-msgstr ""
+msgstr "Tatanggalin ang mga kahina-hinalang software na ito: {{COUNT}}"
 
 msgid "protect_remove_all_btn_installing"
-msgstr ""
+msgstr "I-install ang mga mahalagang software na ito: {{COUNT}}"
 
 msgid "protect_installed-programs_api_failed"
-msgstr ""
+msgstr "Walang koneksyon sa Internet. Kinakailangan ang koneksyon sa network upang tingnan ang listahan ng software sa iyong computer."
 
 msgid "protect_installed-programs_no_harmful"
-msgstr ""
+msgstr "Walang hindi kanais-nais na software ang nakita sa iyong computer"
 
 msgid "protect_clean_up_header_title"
-msgstr ""
+msgstr "DriverPack Protect — proteksyon at paglilinis ng iyong computer"
 
 msgid "protect_clean_up_header_caption"
-msgstr ""
+msgstr "Ang DriverPack Protect ay linisin ang hindi kanais-nais na software at magbigay ng proteksyon para sa iyong computer bilang isang pandagdag sa mga kakayahan ng iyong antivirus tulad ng: pag-detect, pag-alis at pag-block ng malware at mapanghimasok na advertisement"
 
 msgid "protect_installed_programs_title"
-msgstr ""
+msgstr "Mga Software Naka-Install sa computer"
 
 msgid "protect_installed_programs_switch"
-msgstr ""
+msgstr "Ipakita lamang ang kahina-hinalang software"
 
 msgid "protect_show_more"
 msgstr "Tingnan ang higit pa"
 
 msgid "protect_security_programs_title"
-msgstr ""
+msgstr "Mahalagang software para sa seguridad"
 
 msgid "settings-header_title"
-msgstr ""
+msgstr "Mga setting para sa mga advanced na user"
 
 msgid "settings-header_caption"
-msgstr ""
+msgstr "Ang DriverPack ay partikular na nilikha para sa mga admin ngunit malinaw at maginhawa kahit para sa mga gumagamit ng baguhan. Sa pamamagitan ng paggamit nito, milyon-milyong mga admins na sistema sa buong mundo ay hindi maaaring i-configure lamang ang kanilang mga computer nang mabilis ngunit maaari ring i-customize ang DriverPack ayon sa kanilang sariling mga pangangailangan at mga gawain. Ang bagong algorithm ng pagpili ay nag-i-install ng mga driver na nagpapahintulot sa iyong mga device na gumana nang may pinakamataas na kahusayan. Subukan ang DriverPack — sigurado kami na gusto mo ito!"
 
 msgid "settings-screen_license"
 msgstr "Kasunduan sa Lisensya"
@@ -1151,173 +1151,173 @@ msgstr "Kasunduan sa Lisensya"
 #. i18n: EN: default value for {{MODEL}} in start_title key; RU: значение по
 #. умолчанию для {{MODEL}} в ключе start_title
 msgid "start_title_default_model"
-msgstr ""
+msgstr "ang iyong computer"
 
 msgid "start_title"
-msgstr ""
+msgstr "Pag-configure ng mga automation {{MODEL}}"
 
 msgid "start_button_install"
-msgstr ""
+msgstr "Awtomatikong i-configure ang computer"
 
 msgid "start_caption"
-msgstr ""
+msgstr "I-scan ng DriverPack ang system, i-install ang mga kailanganin<br/>na drivers at software, at magsagawa ng mga diagnostic. <br/>Ang kahusayan ng computer ay dapat dagdagan."
 
 msgid "start_license"
 msgstr "Kasunduan sa Lisensya"
 
 msgid "start_expert_mode"
-msgstr ""
+msgstr "Expert Mode"
 
 msgid "start_drivers_title"
 msgid_plural "start_drivers_title_n"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{{COUNT}} mai-install ang mga driver"
+msgstr[1] "{{COUNT}} mai-install ang mga driver "
 
 msgid "start_drivers_popover"
-msgstr ""
+msgstr "Ang mga driver para sa iyong computer ay napili at handa na para sa pag-install. Bago ito magsimula, malilikha ang isang ibalik point."
 
 msgid "start_programs_title"
 msgid_plural "start_programs_title_n"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{{COUNT}} mai-install ang apps"
+msgstr[1] "{{COUNT}} mai-install ang apps"
 
 msgid "start_programs_popover"
-msgstr ""
+msgstr "Ang mga sumusunod na libreng programang inirerekumendang software ay napili para sa iyong computer: mga antivirus, mga archiver, mga browser, at mga toolkit ng driver — lahat ng bagay na maaaring makatulong sa komportableng operasyon."
 
 msgid "start_diagnostics_title"
-msgstr ""
+msgstr "Magagawa ang mga diagnostic"
 
 msgid "start_diagnostics_popover"
-msgstr ""
+msgstr "Sa sandaling makumpleto ang pag-install at pag-reboot ng system, magsisimula ang DriverPack ng mga diagnostic upang masuri na ang lahat ng mga aparato ay tumatakbo sa maximum na kahusayan."
 
 msgid "start_diagnostics_network"
-msgstr ""
+msgstr "Check-up ng koneksyon sa network"
 
 msgid "start_diagnostics_video"
-msgstr ""
+msgstr "Check-up ng video card"
 
 msgid "start_diagnostics_audio"
-msgstr ""
+msgstr "Check-up ng sound card"
 
 msgid "start_diagnostics_other"
-msgstr ""
+msgstr "Iba pang mga check-up ng device"
 
 msgid "delorean_use_remote_confirm"
-msgstr ""
+msgstr "Nakita ang isang aktibong koneksyon sa Internet sa iyong computer. Ang buong database ng driver ay magagamit online, at naglalaman ito ng mga pinakabagong bersyon. Gusto mo bang gamitin ang database mula sa network? (posible ang paggamit ng trapiko)"
 
 msgid "games_playkey_top_witcher_3_demo"
-msgstr ""
+msgstr "The Witcher III Wild Hunt"
 
 msgid "games_playkey_top_doom_demo"
-msgstr ""
+msgstr "Doom"
 
 msgid "games_playkey_top_sid_meiers_civilization_vi_demo"
-msgstr ""
+msgstr "Sid Meier’s Civilization VI"
 
 msgid "games_playkey_top_resident_evil_7_demo"
-msgstr ""
+msgstr "Resident Evill VII Biohazard"
 
 msgid "games_playkey_top_gta_5"
-msgstr ""
+msgstr "Grand Theft Auto V"
 
 msgid "games_playkey_top_overwatch"
-msgstr ""
+msgstr "Overwatch"
 
 msgid "installation_header_promo_title_cloud"
-msgstr ""
+msgstr "May bago: DriverPack Cloud Beta"
 
 msgid "installation_header_promo_text_cloud"
-msgstr ""
+msgstr "Hinuhulaan ng aming bagong tool ang ilang mga breakdown dahil sa teknolohiya ng pag-aaral ng machine, at nagmumungkahi ng mga solusyon para sa mga karaniwang isyu.<br>Subukan ang beta na bersyon at huwag kalimutang ibahagi ang iyong mga impression — makakatulong ito sa aming mapabuti ang DriverPack Cloud at gawin itong mas kapaki-pakinabang."
 
 msgid "installation_header_promo_title_avast"
-msgstr ""
+msgstr "Bakit mas mahusay ang Avast sa ibang mga antivirus?"
 
 msgid "installation_header_promo_text_avast"
-msgstr ""
+msgstr "Ang Avast ay isa sa mga pinaka-popular na antivirus sa mundo dahil pinoprotektahan nito ang computer ng mabuti, hindi pinabagal ang system at maaaring epektibong magpatakbo bilang karagdagang antivirus. <br /> Kahit na mas mabuti, libre ito, kaya talagang nararapat ang aming rekomendasyon."
 
 msgid "installation_header_promo_title_catalog"
-msgstr ""
+msgstr "Paano makahanap ng mga driver sa pamamagitan ng iyong sarili?"
 
 msgid "installation_header_promo_text_catalog"
-msgstr ""
+msgstr "Para sa mga mas gusto na naghahanap ng mga driver nang manu-mano, lumikha kami ng isang espesyal na search engine na nagbibigay-daan sa iyo upang makahanap ng mga driver sa pamamagitan ng pag-input ng DeviceID o pangalan. Ang database ng search engine na ito ay naglalaman ng higit sa isang milyong mga driver na ginagawa itong pinakamalaking sa mundo. Ang search engine na ito ay regular na pinalawak ng mga bagong driver na sinubukan nang manu-mano, na pinapayagan itong manatiling ganap na napapanahon."
 
 msgid "installation_header_promo_title_authorization"
-msgstr ""
+msgstr "Mag-log in upang mai-save ang mga setting"
 
 msgid "installation_header_promo_text_authorization"
-msgstr ""
+msgstr "Bilang isang naka-log-in na user hindi mo na kailangang baguhin muli ang mga setting sa bawat computer — mai-save ang mga ito sa antas ng profile at awtomatikong i-activate sa anumang iba pang device. Ang mga naka-log-in na mga gumagamit ay makakakuha rin ng access sa mga CDN server na nag-aambag sa mas mabilis na bilis ng download ng driver. Ang isa pang mahalagang bentahe ng pag-sign-in ay pag-access sa mga pinalawak na setting na nagbibigay-daan sa iyo upang i-customize ang app kahit na higit pa ayon sa iyong mga pangangailangan."
 
 msgid "installation_header_promo_title_opera"
-msgstr ""
+msgstr "Ano ang mabuti tungkol sa Opera Browser?"
 
 msgid "installation_header_promo_text_opera"
-msgstr ""
+msgstr "Ang Opera ay isang ligtas na pinapatunayan ng panahon na browser na may maraming mga makabagong teknolohiya kabilang ang isang naka-embed na VPN, AdBlock na nag-aalis ng pakialam na advertisement, at ang pagpipilian upang panoorin ang video sa isang hiwalay na window. Bukod, ang pinakabagong bersyon ng browser na ito ay nagda-download ng lahat ng mga website na 13% na mas mabilis kaysa sa mga nakaraang, na ginagawang Opera ang pinakamabilis na browser sa oras na ito."
 
 msgid "installation_header_promo_title_how_it_works"
-msgstr ""
+msgstr "Paano gumagana ang DriverPack?"
 
 msgid "installation_header_promo_text_how_it_works"
-msgstr ""
+msgstr "Ang pagpapatakbo ng app ay nagsisimula sa mga diagnostic na kung saan mismo ang software ay tumutukoy kung aling mga device ang kailangan ng mga driver na mai-install o ma-update. Dahil sa teknolohiya sa pag-aaral ng machine nito, pinipili ng DriverPack ang mga driver na maaaring magbigay ng pinakamataas na kahusayan. Upang magawa ang aming app na ma-configure ang anumang computer, natipon namin ang pinakamalaking database ng driver sa mundo na kinabibilangan ng higit sa isang milyong mga driver. Bilang karagdagan, gumagamit kami ng mga server ng mataas na bilis at teknolohiya ng Cloud, na nagbibigay-daan sa pagsasaayos ng iyong computer parehong mataas na kalidad at mabilis."
 
 msgid "installation_header_promo_title_win_10"
-msgstr ""
+msgstr "Bakit dapat mong i-update ang mga driver sa Windows 10?"
 
 msgid "installation_header_promo_text_win_10"
-msgstr ""
+msgstr "May isang kathang-isip na ang Windows 10 ay may kakayahang i-install ang lahat ng mga kinakailangang driver sa computer ng tama at sa sarili nitong. Sa kasamaang palad, hindi ito totoo — sa karamihan ng mga kaso, ang Windows 10 ay nag-i-install lamang ng mga karaniwang driver, nang hindi pinipili ang mga ito nang isa-isa para sa bawat device. Tungkol sa mga bihirang at hindi napapanahong mga drayber, kadalasan ay wala silang mga ito. Sa kabutihang palad, mayroong DriverPack na pinipili ang mga driver nang mas lubusan.<br /><br />"
 
 msgid "installation_header_promo_title_social"
 msgstr "Sumali sa komunidad ng DriverPack"
 
 msgid "installation_header_promo_text_social"
-msgstr ""
+msgstr "Sa aming mga pampublikong grupo lagi naming sinasagot ang iyong mga tanong tungkol sa software, magbahagi ng impormasyon tungkol sa aming mga pag-update at teknolohiya, at sabihin sa iyo ang tungkol sa makabuluhang balita at mga uso sa industriya ng IT."
 
 msgid "installation_header_promo_title_protect"
-msgstr ""
+msgstr "Paano nakakatulong ang DriverPack Protect sa computer?"
 
 msgid "installation_header_promo_text_protect"
-msgstr ""
+msgstr "Ito ay makakatulong na linisin ang iyong computer ng dagdag na software at mga plug-in ng ad na ang mga antivirus ay madalas na hindi maalis. Ang DriverPack Protect ay nagbibigay-daan sa iyo upang palayain ang higit na espasyo sa mga hard drive at dagdagan ang kahusayan ng iyong computer."
 
 msgid "installation_header_promo_title_restore"
-msgstr ""
+msgstr "System restore point"
 
 msgid "installation_header_promo_text_restore"
-msgstr ""
+msgstr "Ang DriverPack ay palaging lumilikha ng restore point bago ang pag-install ng driver.<br /><br /> Maaari mo itong gamitin upang i-roll pabalik ang iyong system sa kanyang nakaraang estado sa anumang oras, kung sakaling may mali."
 
 msgid "installation_header_promo_title_browsers"
-msgstr ""
+msgstr "Ang isa pang magandang browser ay hindi maaaring dagdagan"
 
 msgid "installation_header_promo_text_browsers"
-msgstr ""
+msgstr "Ayon sa data ng istatistika, higit sa 70% ang gumagamit ng hindi bababa sa dalawang mga browser kung ano ang lubos na lohikal para sa mga aktibo sa Internet. Ang bawat browser na iminumungkahi namin sa pag-install ay may sariling pakinabang: Yandex.Browser ay perpekto para sa operating sa loob ng Russian-wika Internet; pinipili ng mga tao ang Opera.Browser para sa kakayahan upang bisitahin ang anumang mga website madali at hindi nagpapakilala sa pamamagitan ng paggamit ng VPN; at ang hukbo ng mga tagasuporta ng Firefox ay hindi maaaring mahati sa lahat ng mga plug-in at extension na pinagsama-sama para sa isang mas mahusay na karanasan sa Internet. Bakit hindi lahat ng mga ito ay magagamit, at sa kamay? Hindi nila pinabagal ang computer at maaaring makatulong sa paghiwa-hiwalay ng iba't ibang bahagi ng iyong trabaho, halimbawa."
 
 msgid "installation_header_promo_title_driverpack_for_all"
-msgstr ""
+msgstr "Ang DriverPack ay angkop sa anumang computer"
 
 msgid "installation_header_promo_text_driverpack_for_all"
-msgstr ""
+msgstr "Nilikha namin ang tool na nagbibigay-daan upang gawin ang pagsasaayos ng anumang computer na awtomatikong awtomatikong. Ang DriverPack ay naglalaman ng higit sa isang milyong mga driver, na nagbibigay-daan upang i-configure ang anumang computer na may isang pindutan lamang. Bilang resulta, nakakuha ka ng mga naka-install na driver at kagamitan, maingat na piniling software (na kung saan ay ang pinagsamang bahagi ng pag-configure), pati na rin ang mga diagnostic ng iyong computer. Nangangahulugan ito na mabilis na configure ng DriverPack ang iyong buong computer sa pinakamataas na kahusayan sa isang click lamang na pindutan."
 
 msgid "softcategories_archiver-single-for"
-msgstr ""
+msgstr "file archiver"
 
 msgid "softcategories_browser-single-for"
-msgstr ""
+msgstr "browser"
 
 msgid "softcategories_viewer-single-for"
-msgstr ""
+msgstr "file view software"
 
 msgid "softcategories_messenger-single-for"
-msgstr ""
+msgstr "pagmemensahe na software"
 
 msgid "softcategories_internet-single-for"
 msgstr "software upang gumana sa internet network"
 
 msgid "softcategories_player-single-for"
-msgstr ""
+msgstr "media pang-tugtog"
 
 msgid "softcategories_backup-single-for"
-msgstr ""
+msgstr "backup na paglikha ng tool"
 
 msgid "softcategories_antivirus-single-for"
-msgstr ""
+msgstr "antivirus"
 
 msgid "softcategories_system-plural-for"
 msgstr "mga utility ng system"
