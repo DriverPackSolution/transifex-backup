@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-07 13:21+0000\n"
+"POT-Creation-Date: 2018-03-02 16:21+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>, 2017\n"
 "Language-Team: Greek (https://www.transifex.com/driverpack-solution/teams/75453/el/)\n"
@@ -67,6 +67,10 @@ msgstr "Κατασκευαστές"
 #. i18n: EN: Example: VENDOR.NAME=Lenovo; RU: Пример: VENDOR.NAME=Lenovo;
 msgid "breadcrumbs_vendor-text"
 msgstr "{{VENDOR.NAME}}"
+
+#. i18n: EN: Example: VENDOR.NAME=Lenovo; RU: Пример: VENDOR.NAME=Lenovo;
+msgid "breadcrumbs_vendorlanding-text"
+msgstr ""
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=cardreaders|monitors; RU: Пример:
 #. CLASS.PLURAL.MAIN=картридеры|мониторы;
@@ -420,6 +424,15 @@ msgstr "Συμμετέχετε στην κοινότητα DriverPack"
 msgid "landingsocial_landing-subtitle"
 msgstr "Ακολουθείστε τα νέα και λάβετε μέρος στις συζητήσεις"
 
+msgid "landingtopvendorslist_landing-title"
+msgstr ""
+
+msgid "landingtopvendorslist_landing-caption"
+msgstr ""
+
+msgid "landingtopvendorslist_drivers-for"
+msgstr ""
+
 msgid "landingtopvideocardlist_landing-title"
 msgstr "Δημοφιλή μοντέλα καρτών γραφικών"
 
@@ -529,7 +542,7 @@ msgid "reviewheader_cta-text"
 msgstr "Συμμετέχετε στην κοινότητα του DriverPack στα κοινωνικά δίκτυα για να ενημερώνεστε για νέα σχετικά με το προϊόν και λάβετε μέρος σε συζητήσεις"
 
 msgid "reviewheader_cta"
-msgstr ""
+msgstr "Προσθέστε την αναφορά σας ή την πρότασή σας για τη βελτίωση του DriverPack"
 
 msgid "search_input-placeholder"
 msgstr "Αναζήτηση για το όνομα του προγράμματος οδήγησης, φορητού υπολογιστή ή DeviceID"
@@ -840,6 +853,9 @@ msgstr "Γραμμές για μετάφραση από Ρωσικά (RU) στα
 msgid "translationtool_example-en-to-all"
 msgstr "Γραμμές για μετάφραση από Αγγλικά (ΕΝ) σε άλλες γλώσσες του κόσμου"
 
+msgid "deviceclasses_laptop-single-main"
+msgstr "φορητός υπολογιστής"
+
 msgid "language_title"
 msgstr "Greek"
 
@@ -919,7 +935,7 @@ msgid "cloudpagefaq_notifications-a"
 msgstr "Αυτές οι ειδοποιήσεις είναι απλά προτάσεις. Μπορείτε να διαγραφείτε από τη λήψη ειδοποιήσεων του συγκεκριμένου τύπου πατώντας το εικονίδιο κουδουνιού στην πάνω δεξιά γωνία κάθε ειδοποίησης."
 
 msgid "cloudpagefaq_usb-q"
-msgstr ""
+msgstr "Όταν συνδέω την κάρτα flash μου στη θύρα usb, εμφανίστηκε μια ειδοποίηση στην επιφάνεια εργασίας μου. Γιατί γίνεται αυτό;"
 
 msgid "cloudpagefaq_usb-a"
 msgstr "Το DriverPack Cloud αποκαλύπτει τη σύνδεση νέων συσκευών και εξετάζει αν έχουν κατάλληλα προγράμματα οδήγησης. Αν το απαραίτητο πρόγραμμα οδήγησης λείπει, μπορεί να το εγκαταστήσει άμεσα — είναι απαραίτητο για τη σωστή λειτουργία της συσκεύης."
@@ -1128,6 +1144,9 @@ msgstr "Γίνεται μέλος της ομάδας μεταφραστών μ�
 
 msgid "translationlandingpage_title"
 msgstr "Μετάφραση DriverPack"
+
+msgid "vendorlandingpage_device-types"
+msgstr ""
 
 msgid "vendorpage_subtitle-popular"
 msgstr "Δημοφιλείς συσκευές {{VENDOR.NAME}}"

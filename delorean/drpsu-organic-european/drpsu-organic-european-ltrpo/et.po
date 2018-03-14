@@ -178,19 +178,19 @@ msgstr "Alamkategooria: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} 
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendorlanding-title"
-msgstr ""
+msgstr "{{VENDOR.NAME}} draiverid |  Lae alla Windows 7, XP, 10, 8, ja 8.1 jaoks"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendorlanding-description"
-msgstr ""
+msgstr "Lae alla {{VENDOR.NAME}} draiverid tasuta. DriverPack Solution"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendorlanding-h1"
-msgstr ""
+msgstr "{{VENDOR.NAME}} draiverid"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendorlanding-keywords"
-msgstr ""
+msgstr "{{VENDOR.NAME}} draiverid lae alla tasuta uuenda tarkvara"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|monitors; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.FOR=видеокарт|мониторов; VENDOR.NAME=Acer;
@@ -1066,16 +1066,16 @@ msgid "seo_notebook-footer-content-asus-x550cc-sound-10-x64"
 msgstr "Siit saate te allalaadida draiverid Asus X550CC sülearvutile, Windows 10x64 jaoks tasuta. Siit saate allalaadida ka DriverPack Solution tarkvara - see kontrollib teie sülearvuti praegust draiverite seisu ja uuendab draivereid vastavalt vajadusele."
 
 msgid "seo_vendorlanding-about-acer"
-msgstr ""
+msgstr "Acer on Taiwanis loodud firma mis tegeleb arvutikomponentide ja elektroonika tootmisega. Acer on 487-ndal kohal Fortune Global-500 nimekirjas ja on selle tootmisharu üks liidreid. Alates 2007 aastast on firma olnud Venemaal sülearvutite turu liider, 31.2% turuosaga (teine koht kuulub Asusele kelle käes on 25% turust). Acer arendab ja toodab nutitelefone, kõvakettaid, kuvareid, võrgukaarte, RAM-me, sülearvuteid ja klaviatuure. Siit sektsioonist saate laadida alla kõige uuemad draiverid Aceri toodetele."
 
 msgid "seo_vendorlanding-about-lg"
-msgstr ""
+msgstr "Lõuna Korea LG ettevõtete grupp loodi 1947 aastal ja see on riigis kolmas kõige suurem segakontsern. LG peamine tegevus on suunatud kodutehnikale ja telekommunikatsiooni seadmetele. Selles sektsioonis saate laadida alla draivereid järgnevatele LG toodetele:<br/> - nutitelefonid millel on Androidi platform, Optimus seeriale <br/> - kuvarid (kaasaarvatud LG IPS) <br/> - sülearvutid <br/>"
 
 msgid "seo_vendorlanding-about-sony"
-msgstr ""
+msgstr "Sony Korporatsioon on Jaapani riikidevaheline korporatsioon, mille peakorter asub Tokyos, see loodi 7. mail 1946 aastal. Põhitegevuseks on kodutehnika ning professionaalne elektroonika, mängukonsoolid, ning teised kaasaegsed tooted. Draivereid järgnevatele, kõige populaarsematele Sony brändi toodetele leiate siit sekstsioonist: <br/> - Sony Vaio seeria sülearvutid<br/> - nutitelefonid<br/> - kuvarid<br/> - erinevad välisseadmed<br/>Kui te pole leidnud endale vajalikku draiverit, võite allalaadida ja paigaldada DriverPack Solution tarkvara - see uuendab kõik teile arvuti draiverid ise kõige uuemateks versioonideks."
 
 msgid "seo_vendorlanding-about-hp"
-msgstr ""
+msgstr "HP Inc. loodi 2015 aastal, Hewlett-Packard lagunemise tulemusena, seega on ta ametlik järeltulija. Põhilised konkurendid on tal hetkel Lenovo, Dell ja Acer. HP Inc. toodab sülearvuteid (näiteks: HP Pro, HP Elite, HP Chromebook, ja Z), tahvelarvuteid, nutitelefone, tindiprintereid, ja laserprintereid nii tavakasutajale kui suurtele firmadele (näiteks: HP LaserJet, ja HP Inkjet). Siit leiate ja saate allalaadida draivereid kõikidele HP toodetele."
 
 #~ msgid "seo_hwid-footer-application-category"
 #~ msgstr ""
@@ -1099,12 +1099,40 @@ msgstr ""
 
 #~ msgid "seo_vendorlanding-description-acer"
 #~ msgstr ""
+#~ "Acer on Taiwanis loodud firma mis tegeleb arvutikomponentide ja elektroonika"
+#~ " tootmisega. Acer on 487-ndal kohal Fortune Global-500 nimekirjas ja on "
+#~ "selle tootmisharu üks liidreid. Alates 2007 aastast on firma olnud Venemaal "
+#~ "sülearvutite turu liider, 31.2% turuosaga (teine koht kuulub Asusele kelle "
+#~ "käes on 25% turust). Acer arendab ja toodab nutitelefone, kõvakettaid, "
+#~ "kuvareid, võrgukaarte, RAM-me, sülearvuteid ja klaviatuure. Siit "
+#~ "sektsioonist saate laadida alla kõige uuemad draiverid Aceri toodetele."
 
 #~ msgid "seo_vendorlanding-description-lg"
 #~ msgstr ""
+#~ "Lõuna Korea LG ettevõtete grupp loodi 1947 aastal ja see on riigis kolmas "
+#~ "kõige suurem segakontsern. LG peamine tegevus on suunatud kodutehnikale ja "
+#~ "telekommunikatsiooni seadmetele. Selles sektsioonis saate laadida alla "
+#~ "draivereid järgnevatele LG toodetele:<br/> - nutitelefonid millel on "
+#~ "Androidi platform, Optimus seeriale <br/> - kuvarid (kaasaarvatud LG IPS) "
+#~ "<br/> - sülearvutid <br/>"
 
 #~ msgid "seo_vendorlanding-description-sony"
 #~ msgstr ""
+#~ "Sony Korporatsioon on Jaapani riikidevaheline korporatsioon, mille peakorter"
+#~ " asub Tokyos, see loodi 7. mail 1946 aastal. Põhitegevuseks on kodutehnika "
+#~ "ning professionaalne elektroonika, mängukonsoolid, ning teised kaasaegsed "
+#~ "tooted. Draivereid järgnevatele, kõige populaarsematele Sony brändi "
+#~ "toodetele leiate siit sekstsioonist: <br/> - Sony Vaio seeria "
+#~ "sülearvutid<br/> - nutitelefonid<br/> - kuvarid<br/> - erinevad "
+#~ "välisseadmed<br/>Kui te pole leidnud endale vajalikku draiverit, võite "
+#~ "allalaadida ja paigaldada DriverPack Solution tarkvara - see uuendab kõik "
+#~ "teile arvuti draiverid ise kõige uuemateks versioonideks."
 
 #~ msgid "seo_vendorlanding-description-hp"
 #~ msgstr ""
+#~ "HP Inc. loodi 2015 aastal, Hewlett-Packard lagunemise tulemusena, seega on "
+#~ "ta ametlik järeltulija. Põhilised konkurendid on tal hetkel Lenovo, Dell ja "
+#~ "Acer. HP Inc. toodab sülearvuteid (näiteks: HP Pro, HP Elite, HP Chromebook,"
+#~ " ja Z), tahvelarvuteid, nutitelefone, tindiprintereid, ja laserprintereid "
+#~ "nii tavakasutajale kui suurtele firmadele (näiteks: HP LaserJet, ja HP "
+#~ "Inkjet). Siit leiate ja saate allalaadida draivereid kõikidele HP toodetele."
