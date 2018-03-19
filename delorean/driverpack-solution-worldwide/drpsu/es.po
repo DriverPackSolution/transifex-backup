@@ -71,7 +71,7 @@ msgstr "{{VENDOR.NAME}}"
 
 #. i18n: EN: Example: VENDOR.NAME=Lenovo; RU: Пример: VENDOR.NAME=Lenovo;
 msgid "breadcrumbs_vendorlanding-text"
-msgstr ""
+msgstr "Drivers {{VENDOR.NAME}}"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=cardreaders|monitors; RU: Пример:
 #. CLASS.PLURAL.MAIN=картридеры|мониторы;
@@ -426,13 +426,13 @@ msgid "landingsocial_landing-subtitle"
 msgstr "Sigue las noticias y participa en las discusiones"
 
 msgid "landingtopvendorslist_landing-title"
-msgstr ""
+msgstr "Fabricantes populares"
 
 msgid "landingtopvendorslist_landing-caption"
-msgstr ""
+msgstr "DriverPack selecciona los drivers para  equipos informáticos de cualquier fabricante. Estas son las marcas más populares:"
 
 msgid "landingtopvendorslist_drivers-for"
-msgstr ""
+msgstr "Drivers para {{VENDOR}}"
 
 msgid "landingtopvideocardlist_landing-title"
 msgstr "Modelos de tarjetas gráficas populares"
@@ -924,22 +924,22 @@ msgid "adminpagefaq_stable-a"
 msgstr "La estabilidad del software DriverPack es una de nuestras principales prioridades, pero fallos menores siguen ocurriendo, aunque pocas veces. Esta es la razón por la que creamos un punto de restauración que permitirá devolver todo al estado previamente guardado. Para evitar un problema similar en el futuro, te recomendamos ir al menú de DriverPack y enviar el informe que el software crea automáticamente."
 
 msgid "cloudpagefaq_remove_soft-q"
-msgstr ""
+msgstr "¿Por qué DriverPack Cloud me sugiere eliminar algunos programas de mi ordenador?"
 
 msgid "cloudpagefaq_remove_soft-a"
-msgstr ""
+msgstr "Las aplicaciones que tienen puntuaciones bajas suelen incluir propaganda o virus, por ese motivo DriverPack Cloud recomienda eliminarlas. Las puntuaciones se establecen según las preferencias de nuestros usuarios — cuanto más se elimina una u otra aplicación, menor puntuación tiene."
 
 msgid "cloudpagefaq_notifications-q"
-msgstr ""
+msgstr "Después de instalar DriverPack Cloud, empecé a recibir notificaciones en mi escritorio. ¿Cómo puedo desabilitarlas?"
 
 msgid "cloudpagefaq_notifications-a"
-msgstr ""
+msgstr "Estas notificaciones son solo recomendaciones. Puedes desactivar algunos de estos tipos de notificaciones pulsando el icono de la campana en la parte superior derecha de cada notificación."
 
 msgid "cloudpagefaq_usb-q"
-msgstr ""
+msgstr "Cuando conecto mi tarjeta flash en el puerto USB, aparece una notificación en el escritorio acerca de un driver. ¿Para qué sirve?"
 
 msgid "cloudpagefaq_usb-a"
-msgstr ""
+msgstr "DriverPack Cloud observa cuando se conectan nuevos dispositivos y comprueba si tienen los drivers adecuados. Si el driver requerido no está instalado, se puede instalar inmediatamente — es necesario para el correcto funcionamiento del dispositivo."
 
 msgid "badrabbitpromopage_cta-text"
 msgstr "El virus criptográfico Bad Rabbit — ¿como proteger tu PC?"
@@ -972,40 +972,40 @@ msgid "badrabbitpromopage_link-smb"
 msgstr "Cómo habilitar y deshabilitar las versiones 1, 2 y 3 de los protocolos SMB para Windows y Windows Server"
 
 msgid "cloudlandingpage_cackle-title"
-msgstr ""
+msgstr "Danos tu opinión acerca de DriverPack Cloud"
 
 msgid "cloudlandingpage_cackle-caption"
-msgstr ""
+msgstr "¿Te gusta DriverPack Cloud? ¿Qué otras funcionalidades te gustaría que añadieramos? Cuentanos-lo."
 
 msgid "cloudlandingpage_header-title"
-msgstr ""
+msgstr "DriverPack Cloud es una nueva aplicación para mejorar la eficiencia de tu ordenador"
 
 msgid "cloudlandingpage_about-what-is-title"
-msgstr ""
+msgstr "¿Qué es la aplicación DriverPack Cloud?"
 
 msgid "cloudlandingpage_about-what-is-caption"
-msgstr ""
+msgstr "Esta es la nueva aplicación del equipo DriverPack, pensada para incrementar la eficiencia de tu ordenador sin necesidad de gastar más o actualizar los componentes de tu PC. ¿No estás satisfecho con la velocidad de respuesta de CS: GO o Dota 2 en tu ordenador? ¡Prueba DriverPack Cloud!"
 
 msgid "cloudlandingpage_about-how-works-title"
-msgstr ""
+msgstr "¿Cómo funciona DriverPack Cloud?"
 
 msgid "cloudlandingpage_about-how-works-caption"
-msgstr ""
+msgstr "Nuestro producto analiza el estado de los drivers de tu ordenador, revela cada aplicación que impacta a la eficiencia de tu ordenador de uno u otro modo y te da una recomendación para actualizar los drivers y quitar aplicaciones que pueden reducir la velocidad de tu ordenador, o por el contrario, sugerirte aplicaciones de terceros que pueden incrementar la respuesta de tu máquina. Todo el proceso está bajo tu control – no se realiza ninguna acción por parte de DriverPack Cloud si tu permiso"
 
 msgid "cloudlandingpage_features-monitoring"
-msgstr ""
+msgstr "Monitoriza el estado de los drivers, descarga actualizaciones importantes y drivers requeridos desde la enorme base de datos de DriverPack"
 
 msgid "cloudlandingpage_features-safety"
-msgstr ""
+msgstr "Permite revelar y eliminar aplicaciones no deseadas rápidamente, y así ayudar a tu antivirus"
 
 msgid "cloudlandingpage_features-cloud"
-msgstr ""
+msgstr "Realiza los cálculos en el servicio Cloud, lo que permite que no se usen tantos recursos de tu ordenador"
 
 msgid "cloudlandingpage_uninstall-title"
-msgstr ""
+msgstr "Eliminar completamente DriverPack Cloud del ordenador"
 
 msgid "cloudlandingpage_uninstall-caption"
-msgstr ""
+msgstr "¿Has instalado nuestra aplicación pero ya no quieres usarla? Simplemente ve a la sección de Programas del panel de control y haz clic en Eliminar programas. Busca DriverPack Cloud en la lista y sigue el prodedimiento habitual para eliminarla. Eso es todo, la aplicación se elimina. DriverPack Cloud no deja aplicaciones escondidas después de eliminarla ni llena tu ordenador de aplicaciones basura."
 
 msgid "cloudlandingpage_license"
 msgstr "Por favor, antes de empezar la instalación lee el {{LINK}}"
@@ -1147,7 +1147,7 @@ msgid "translationlandingpage_title"
 msgstr "Traducción de DriverPack"
 
 msgid "vendorlandingpage_device-types"
-msgstr ""
+msgstr "Tipos de dispositivos {{VENDOR}}"
 
 msgid "vendorpage_subtitle-popular"
 msgstr "Dispositivos {{VENDOR.NAME}} populares"

@@ -2,13 +2,14 @@
 # Nadia Tegeneva <nadia@drp.su>, 2017
 # Ieva Shinoda <inactive+EvaShinoda@transifex.com>, 2017
 # Jevgenij Ivanov <jevgenij.ivanov27@gmail.com>, 2017
+# Ilmaras Tarikas <ilm@inbox.lt>, 2018
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-03-02 16:21+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
-"Last-Translator: Jevgenij Ivanov <jevgenij.ivanov27@gmail.com>, 2017\n"
+"Last-Translator: Ilmaras Tarikas <ilm@inbox.lt>, 2018\n"
 "Language-Team: Lithuanian (https://www.transifex.com/driverpack-solution/teams/75453/lt/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -67,7 +68,7 @@ msgstr "{{VENDOR.NAME}}"
 
 #. i18n: EN: Example: VENDOR.NAME=Lenovo; RU: Пример: VENDOR.NAME=Lenovo;
 msgid "breadcrumbs_vendorlanding-text"
-msgstr ""
+msgstr "{{VENDOR.NAME}} gamintojo tvarkyklės"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=cardreaders|monitors; RU: Пример:
 #. CLASS.PLURAL.MAIN=картридеры|мониторы;
@@ -377,16 +378,16 @@ msgid "landingnotebookvendorslist_versions"
 msgstr "Kitos  DriverPack programos versijos"
 
 msgid "landingproducts_cta-title"
-msgstr ""
+msgstr "Pasirinkite savo DriverPack"
 
 msgid "landingproducts_cta-description"
-msgstr ""
+msgstr "Atsisiųskite jums tinkamą komplektą"
 
 msgid "landingproducts_item-title-online"
 msgstr "DriverPack Online"
 
 msgid "landingproducts_item-description-online"
-msgstr ""
+msgstr "Atsisiųntimas prasidės iš karto ir bus įdiegtos visos tvarkyklės, jei jus šiuo metu prisijungę prie interneto <span class='nobr'>({{SIZE}})</span>"
 
 msgid "landingproducts_item-version"
 msgstr "Versija:"
@@ -398,13 +399,13 @@ msgid "landingproducts_item-title-network"
 msgstr "DriverPack Offline Network"
 
 msgid "landingproducts_item-description-network"
-msgstr ""
+msgstr "Komplektas su tinklo įrenginių tvarkyklėmis (LAN/Wi-Fi), diegimas vyksta neprisijungus prie interneto <span class='nobr'>({{SIZE}})</span>"
 
 msgid "landingproducts_item-title-offline"
 msgstr "DriverPack Offline Full"
 
 msgid "landingproducts_item-description-offline"
-msgstr ""
+msgstr "Pilnas tvarkyklių komplektas, diegimas vyksta neprisijungus prie interneto, gali būti atsisiųstas per torentus <span class='nobr'>({{SIZE}})</span>"
 
 msgid "landingpublications__landing-title"
 msgstr "Žiniasklaidos leidiniai apie DriverPack "
@@ -422,19 +423,19 @@ msgid "landingsocial_landing-subtitle"
 msgstr "Sekite naujienas ir dalyvaukite diskusijose"
 
 msgid "landingtopvendorslist_landing-title"
-msgstr ""
+msgstr "Populiariausi gamintojai"
 
 msgid "landingtopvendorslist_landing-caption"
-msgstr ""
+msgstr "DriverPack parinks tvarkykles bet kurio gamintojo įrenginiui jūsų kompiuteryje. Palaikomi dauguma populiariausių prekinių ženklų:"
 
 msgid "landingtopvendorslist_drivers-for"
-msgstr ""
+msgstr "{{VENDOR}} tvarkyklės"
 
 msgid "landingtopvideocardlist_landing-title"
-msgstr ""
+msgstr "Populiarių vaizdo plokščių modeliai"
 
 msgid "landingtopvideocardlist_landing-caption"
-msgstr ""
+msgstr "DriverPack parinks tvarkykles bet kurio modelio vaizdo plokštei, štai keletas populiariausių"
 
 msgid "landingusers_cta"
 msgstr "DriverPack naudotojų skaičius visame pasaulyje didėja kiekvieną sekundę"
@@ -446,7 +447,7 @@ msgid "landingusers_versions"
 msgstr "Kitos  DriverPack programos versijos "
 
 msgid "landingvideocardlist_landing-title"
-msgstr ""
+msgstr "Populiariausi vaizdo plokščių gamintojai"
 
 msgid "landingwizard_landing-title"
 msgstr "Dabar galima sukonfigūruoti kompiuterį vienu paspaudimu"
@@ -497,19 +498,19 @@ msgid "productlandingheader-online_cta-btn"
 msgstr "Parsisiųsti DriverPack Online"
 
 msgid "productlandingheader-online_caption"
-msgstr ""
+msgstr "DriverPack Online - nedidelis, tik {{SIZE}} dydžio populiarus produktas. Akimirksniu atsisiunčia, atpažysta jūsų kompiuterio įrenginius, o po to internetu parsiunčia jiems reikiamas tvarkykles ir įdiegia jas. Jis puikiai tinka paprastam naudotojui. Veikia tik prisijungus prie interneto."
 
 msgid "productlandingheader-network_cta-btn"
-msgstr ""
+msgstr "Atsisųsti DriverPack Offline Network"
 
 msgid "productlandingheader-network_caption"
-msgstr ""
+msgstr "DriverPack Offline Network - tinklo įrenginių tvarkyklių rinkinys viename pakete ({{SIZE}}). Greitai atsisiunčia, o įsidiegia dar greičiau! Perdiegus operacinę sistemą Windows, DriverPack Offline Network sukonfigūruos kompiuterio tinklo įrenginius prisijungimui prie interneto, o tada parsisiųs tvarkykles likusiems įrenginiams!"
 
 msgid "productlandingheader-offline_cta-btn"
-msgstr ""
+msgstr "Atsisiųsti DriverPack Offline Full"
 
 msgid "productlandingheader-offline_caption"
-msgstr ""
+msgstr "DriverPack Offline Full - didžiulis {{SIZE}} dydžio paketas tvarkyklių įdiegimui neprisijungus prie interneto. Užtenka atsisiųsti DriverPack Offline Full ir naudotis milžiniška naujausių tvarkyklių biblioteka kur ir kada tik jums reikia. Puikiai tinka sistemų administratoriams."
 
 msgid "promoheader_cta-text-gamers"
 msgstr "Jūsų kompiuteris yra galingesnis nei manote:  atnaujininkite visas tvarkykles nemokamai"
@@ -539,7 +540,7 @@ msgid "reviewheader_cta-text"
 msgstr "Prisijunkite prie DriverPack bendruomenės socialiniuose tinkluose kad galėtumėte sekti naujienas apie produktą ir dalyvauti diskusijose"
 
 msgid "reviewheader_cta"
-msgstr ""
+msgstr "Pridėkite savo atsiliepimą ar pasiūlymą DriverPack pagerinimui"
 
 msgid "search_input-placeholder"
 msgstr "Ieškokite tvarkyklės, nešiojamojo kompiuterio ar  DeviceID  pavadinime"
@@ -676,16 +677,16 @@ msgid "deviceclasses_phone-plural-for"
 msgstr "išmaniesiems telefonams"
 
 msgid "deviceclasses_printer-single-main"
-msgstr ""
+msgstr "spausdintuvui"
 
 msgid "deviceclasses_printer-single-for"
-msgstr ""
+msgstr "spausdintuvui"
 
 msgid "deviceclasses_printer-plural-main"
-msgstr ""
+msgstr "spausdintuvai"
 
 msgid "deviceclasses_printer-plural-for"
-msgstr ""
+msgstr "spausdintuvams"
 
 msgid "deviceclasses_sound-single-main"
 msgstr "garso kortoms"
@@ -920,43 +921,43 @@ msgid "adminpagefaq_stable-a"
 msgstr "DriverPack programinės įrangos veikimo stabilumas yra vienas iš mūsų pagrindinių prioritetų, tačiau kai kurie neesminiai neatitikimai vis dar pasitaiko retai. Štai kodėl mes sukūrėme atkūrimo tašką, kuris leis jums grąžinti viską atgal į nenustatytą būseną. Siekiant išvengti panašios problemos ateityje, rekomenduojame eiti į DriverPack programos meniu ir siųsti technines paslaugas ataskaitą, kurią automatiškai sudaro programinė įranga."
 
 msgid "cloudpagefaq_remove_soft-q"
-msgstr ""
+msgstr "Kodėl DriverPack Cloud siūlo pašalinti kai kurią programinę įrangą iš mano kompiuterio?"
 
 msgid "cloudpagefaq_remove_soft-a"
-msgstr ""
+msgstr "Programinė įranga su žemais reitingais dažnai yra brukalai /adware/ ar virusai, dėl ko DriverPack Cloud ir rekomenduoja pašalinti ją. Reitingai yra suformuojami remiantis mūsų naudotojų pasirinkimais — kuo daugiau jie šalina vieną ar kitą programinę įrangą, tuo žemesnį reitingą ji ir turi."
 
 msgid "cloudpagefaq_notifications-q"
-msgstr ""
+msgstr "Po to kai įsidiegiau DriverPack Cloud, kompiuterio darbalaukyje pradėjau gauti įvairius pranešimus. Kaip galėčiau išjungti juos?"
 
 msgid "cloudpagefaq_notifications-a"
-msgstr ""
+msgstr "Šie pranešimai yra tik rekomendacijos. Jus galite išjungti konkretaus tipo pranešimų gavimą, spustelėję varpelio ženklelį esantį kiekvieno pranešimo viršutiniame dešiniajame kampe."
 
 msgid "cloudpagefaq_usb-q"
-msgstr ""
+msgstr "Kai prijungiau atmintuką prie kompiuterio USB lizdo, darbalaukyje gavau pranešimą apie kažkokių tvarkyklių įdiegimą. Kam ir kas tai?"
 
 msgid "cloudpagefaq_usb-a"
-msgstr ""
+msgstr "DriverPack Cloud aptinka naujai prijungtus prietaisus ir patikrina ar jie turi deramas tvarkykles. Jei truksta reikiamų tvarkyklių, jos nedelsiant įdiegiamos  — tai reikalinga tinkamam prietaiso veikimui."
 
 msgid "badrabbitpromopage_cta-text"
-msgstr ""
+msgstr "Kriptografinis virusas \"Bad Rabbit\" /Blogas Zuikis/ — kaip apsaugoti savo kompiuterį?"
 
 msgid "badrabbitpromopage_cta-subtext"
-msgstr ""
+msgstr "DriverPack gali atlikti specialius veiksmus, kad panaikintu pažeidžiamumą kompiuterio konfigūracijoje. Jus galite apsaugoti savo kompiuterį atsisiųsdami mūsų nemokamą apsaugą prieš \"Bad Rabbit\" virusą."
 
 msgid "badrabbitpromopage_cta-btn"
-msgstr ""
+msgstr "Sukonfigūruoti kompiuterį ir apsiginti nuo \"Bad Rabbit\" viruso."
 
 msgid "badrabbitpromopage_caption-text"
 msgstr "DriverPack yra platinamas nemokamai"
 
 msgid "badrabbitpromopage_info-text-title-1"
-msgstr ""
+msgstr "Kas yra \"Bad Rabbit\" /Blogas Zuikis/?"
 
 msgid "badrabbitpromopage_info-text-1"
-msgstr ""
+msgstr "\"Bad Rabbit\" - naujas kriptografinis virusas, kuris atakavo kompiuterius Rusijoje, Ukrainoje, Bulgarijoje ir Turkijoje 2017 metų vėlyvą spalį /24d./. Jo aukomis taip pat tapo \"The Interfax RIA\", \"The Fontanka RIA\", daugybė Ukrainos ministerijų bei Odesos oro uostas. Veikimo principas yra paprastas: virusas naudoja Mimikatz įrankį, kad iš kompiuterio operatyviosios atminties gautų paskyros duomenis. Be viso to virusas stengiasi surasti aktyvaus kompiuterio administratoriaus paskyros duomenis. Virusas dauginasi lokaliame tinkle per SMB ir WebDAV protokolus. Užvaldęs kompiuterį, virusas užšifruoja visus duomenis, failus kuriuos jam pavyko pasiekti, po ko pakeičia MBR /Master Boot Record/ - pagrindinį užsikrovimo įrašą. Tada \"Bad Rabbit\" perkrauna kompiuterį bei išveda pranešimą su išpirkos reikalavimu: 0,05 BTC (pagal 2017 spalio pabaigoje BTC/USD kursą tai ~300 amerikos dolerių)."
 
 msgid "badrabbitpromopage_info-text-title-2"
-msgstr ""
+msgstr "Kaip apsaugoti jūsų kompiuterį nuo \"Bad Rabbit\" kriptografinio viruso?"
 
 msgid "badrabbitpromopage_info-text-2"
 msgstr ""
@@ -968,22 +969,22 @@ msgid "badrabbitpromopage_link-smb"
 msgstr "Kaip įjungti ir išjungti SMB protokolų 1, 2 ir 3 versijas Windows ir Windows Server"
 
 msgid "cloudlandingpage_cackle-title"
-msgstr ""
+msgstr "Leiskite sužinoti jūsų nuomonę apie DriverPack Cloud"
 
 msgid "cloudlandingpage_cackle-caption"
-msgstr ""
+msgstr "Ar jums patinka DriverPack Cloud? Kokių papildomų funkcijų norėtumėte? Prašom pasidalinti su mumis."
 
 msgid "cloudlandingpage_header-title"
-msgstr ""
+msgstr "DriverPack Cloud yra nauja programinė įranga skirta pakelti jūsų kompiuterio efektyvmui"
 
 msgid "cloudlandingpage_about-what-is-title"
-msgstr ""
+msgstr "Kas yra DriverPack Cloud programinė įranga?"
 
 msgid "cloudlandingpage_about-what-is-caption"
 msgstr ""
 
 msgid "cloudlandingpage_about-how-works-title"
-msgstr ""
+msgstr "Kaip DriverPack Cloud veikia?"
 
 msgid "cloudlandingpage_about-how-works-caption"
 msgstr ""
@@ -998,16 +999,16 @@ msgid "cloudlandingpage_features-cloud"
 msgstr ""
 
 msgid "cloudlandingpage_uninstall-title"
-msgstr ""
+msgstr "Kaip pilnai pašalinti DriverPack Cloud iš jūsų kompiuterio"
 
 msgid "cloudlandingpage_uninstall-caption"
 msgstr ""
 
 msgid "cloudlandingpage_license"
-msgstr ""
+msgstr "Prieš pradėdami diegimą, prašome atidžiai perskaityti {{LINK}}"
 
 msgid "cloudlandingpage_features-install"
-msgstr ""
+msgstr "Įdiegti DriverPack Cloud"
 
 msgid "cloudlandingpage_license-link"
 msgstr "Licencijos sutartis"
@@ -1040,10 +1041,10 @@ msgid "landing-footer_versions"
 msgstr "Kitos programos versijos"
 
 msgid "landing-footer_manufacturers"
-msgstr ""
+msgstr "Įrangos gamintojai"
 
 msgid "landing-footer_badrabbit"
-msgstr ""
+msgstr "Apsauga nuo \"Bad Rabbit\""
 
 msgid "landing-footer_for-admin"
 msgstr "Sistemos Administratoriams"
@@ -1095,7 +1096,7 @@ msgstr "Siuntimas neprasidėjo? Spauskite čia {{LINK}}"
 #. i18n: EN: text for {{LINK}} is in key thankyoupopup_licence-link; RU: текст
 #. для {{LINK}} находится в ключе thankyoupopup_licence-link;
 msgid "thankyoupopup_licence-text"
-msgstr ""
+msgstr "Įsidiegdami šią programinę įrangą, jus taip sutinkate ir su {{LINK}} sąlygomis"
 
 msgid "thankyoupopup_title"
 msgstr "Paleiskite DriverPack"
@@ -1113,13 +1114,13 @@ msgid "translate-feedback-header_caption"
 msgstr "Šis puslapis neseniai buvo išverstas. Ar radote klaidą? Pažymėkite jį ir spustelėkite {{HOTKEY}}"
 
 msgid "translate-feedback-form-popup_preview-title"
-msgstr ""
+msgstr "Jus pasižymėjote sekantį teksto gabalėlį:"
 
 msgid "translate-feedback-form-popup_correct-title"
-msgstr ""
+msgstr "Prašome paaiškinti, kas konkrečiai yra negerai ir pateikite taisyklingą variantą:"
 
 msgid "translate-feedback-form-popup_submit"
-msgstr ""
+msgstr "Siųsti"
 
 msgid "translate-feedback-popup_title-error"
 msgstr "Kažkas nutiko"
@@ -1143,7 +1144,7 @@ msgid "translationlandingpage_title"
 msgstr "DriverPack vertimas"
 
 msgid "vendorlandingpage_device-types"
-msgstr ""
+msgstr "{{VENDOR}} įrenginių tipai"
 
 msgid "vendorpage_subtitle-popular"
 msgstr "Populiarus {{VENDOR.NAME}} įrenginiai"

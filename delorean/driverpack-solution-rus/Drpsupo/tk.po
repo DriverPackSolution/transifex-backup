@@ -68,7 +68,7 @@ msgstr "{{VENDOR.NAME}}"
 
 #. i18n: EN: Example: VENDOR.NAME=Lenovo; RU: Пример: VENDOR.NAME=Lenovo;
 msgid "breadcrumbs_vendorlanding-text"
-msgstr ""
+msgstr "{{VENDOR.NAME}} sürüjiler"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=cardreaders|monitors; RU: Пример:
 #. CLASS.PLURAL.MAIN=картридеры|мониторы;
@@ -423,13 +423,13 @@ msgid "landingsocial_landing-subtitle"
 msgstr "Habarlary yzarlaň we oýlanyşmalara gatnaşyň "
 
 msgid "landingtopvendorslist_landing-title"
-msgstr ""
+msgstr "Meşhur öndürijiler"
 
 msgid "landingtopvendorslist_landing-caption"
-msgstr ""
+msgstr "DriverPack islendik öndürijileriň kompýuter tehnikalary üçin sürüjileri saýlap alýar. Ine ha köp meşhur brendler: "
 
 msgid "landingtopvendorslist_drivers-for"
-msgstr ""
+msgstr "{{VENDOR}} üçin sürüjiler"
 
 msgid "landingtopvideocardlist_landing-title"
 msgstr "Wideokartalaryň meşhur modelleri"
@@ -852,7 +852,7 @@ msgid "translationtool_example-en-to-all"
 msgstr "Iňlis (EN) dilinden beýleki dünýä dillerine terjime etmek üçin setir"
 
 msgid "deviceclasses_laptop-single-main"
-msgstr ""
+msgstr "noutbuk"
 
 msgid "language_title"
 msgstr "Turkmen"
@@ -933,10 +933,10 @@ msgid "cloudpagefaq_notifications-a"
 msgstr "Duýdurmalaryň maslahat beriji häsiýeti bar. Siz belli dir duýdurmalardan aýrylyp bilersiňiz, muny etmek üçin her bir duýduryşyň sag ýokarky burçundaky jaňjagaz ikonka basyp bilersiňiz."
 
 msgid "cloudpagefaq_usb-q"
-msgstr ""
+msgstr "Men usb-girişe fleshka çatdym, şondan soň iş stolunda bir ürüji barada bildiriş ýüe çykdy. Näme üçin?"
 
 msgid "cloudpagefaq_usb-a"
-msgstr ""
+msgstr "DriverPack Cloud täze enjamlaryň baglanmagyny gözegçilik edip durýar we sürüjielriň laýyklygyny barlaýar. Eger sürüji ýok bolsa, ony derrew gurup bolýar  — bu enjamlaryň talaba laýyk işe ýarawlylygy üçin gerek."
 
 msgid "badrabbitpromopage_cta-text"
 msgstr "Şifrleýän wirus Bad Rabbit — öz PK nädip goramaly"
@@ -984,31 +984,31 @@ msgid "cloudlandingpage_about-what-is-caption"
 msgstr ""
 
 msgid "cloudlandingpage_about-how-works-title"
-msgstr ""
+msgstr "DriverPack Cloud nädip işleýär"
 
 msgid "cloudlandingpage_about-how-works-caption"
 msgstr ""
 
 msgid "cloudlandingpage_features-monitoring"
-msgstr ""
+msgstr "Sürüjileriň ýagdaýyny yzarlar, möhüm täzelemeri we kem gelýän sürüjileri DriverPack - yň ägirt bazasyndan ýüklär."
 
 msgid "cloudlandingpage_features-safety"
-msgstr ""
+msgstr "Potensial howply programmalary tiz tapmaga we aýyrmaga kömek edýär, siziň antiwirusyňyza kömek edýär"
 
 msgid "cloudlandingpage_features-cloud"
-msgstr ""
+msgstr "Hasaplamalary bulut serwislerde ýerine ýetirýär, bu bolsa siziň komýuteriňiziň resurslaryny ulanmalyga ýol berýär"
 
 msgid "cloudlandingpage_uninstall-title"
-msgstr ""
+msgstr "Siziň kompýuteriňizden DriverPack Cloud nädip doly aýyrmaly?"
 
 msgid "cloudlandingpage_uninstall-caption"
 msgstr ""
 
 msgid "cloudlandingpage_license"
-msgstr ""
+msgstr "Gurnamazdan öň {{LINK}} bilen tanyş boluň"
 
 msgid "cloudlandingpage_features-install"
-msgstr ""
+msgstr "DriverPack Cloud gurnamak"
 
 msgid "cloudlandingpage_license-link"
 msgstr "lisenzion ylalaşyk bilen"
@@ -1096,7 +1096,7 @@ msgstr "Ýükleme başlamadymy? {{LINK}} basyň"
 #. i18n: EN: text for {{LINK}} is in key thankyoupopup_licence-link; RU: текст
 #. для {{LINK}} находится в ключе thankyoupopup_licence-link;
 msgid "thankyoupopup_licence-text"
-msgstr ""
+msgstr "Programmany gurnamak bilen, siz {{LINK}} kabul edýärsiňiz"
 
 msgid "thankyoupopup_title"
 msgstr "DriverPack başladyň"
@@ -1105,7 +1105,7 @@ msgid "thankyoupopup_cta-text"
 msgstr "seçip almany başlamak we siziň kompýuteriňize sürüjileri gurmak üçin"
 
 msgid "thankyoupopup_licence-link"
-msgstr ""
+msgstr "Lisenzion ylalaşygyň"
 
 msgid "thankyoupopup_download-link"
 msgstr "ýükle"
@@ -1144,7 +1144,7 @@ msgid "translationlandingpage_title"
 msgstr "DriverPack terjimesi"
 
 msgid "vendorlandingpage_device-types"
-msgstr ""
+msgstr "{{VENDOR}} enjam görnüşleri"
 
 msgid "vendorpage_subtitle-popular"
 msgstr "{{VENDOR.NAME}}üçin meşhur abzallar"
