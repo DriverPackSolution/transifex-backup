@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-03-01 13:48+0000\n"
+"POT-Creation-Date: 2018-03-16 14:57+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>, 2017\n"
 "Language-Team: Belarusian (https://www.transifex.com/driverpack-solution/teams/75452/be/)\n"
@@ -14,6 +14,9 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: be\n"
 "Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);\n"
+
+msgid "seo_landingtopvendorslist_drivers-for"
+msgstr "Драйверы для {{VENDOR}}"
 
 #. i18n: EN: Example: VENDOR.NAME=Asus; RU: Пример: VENDOR.NAME=Asus;
 msgid "seo_vendor-footer-anchor"
@@ -76,6 +79,12 @@ msgstr "DriverPack Solution – гэта бясплатная праграма �
 
 msgid "seo_mainlanding-keywords"
 msgstr "спампаваць драйвера аўтаўсталёўка абнаўленне праграма для абнаўлення драйвераў Windows 7, XP, 10, 8 і 8.1"
+
+msgid "seo_mainlanding-topvendorslist-title"
+msgstr "Папулярныя вытворцы"
+
+msgid "seo_mainlanding-topvendorslist-caption"
+msgstr "DriverPack падбірае драйверы для кампутарнай тэхнікі любых вытворцаў. Вось найбольш папулярныя брэнды:"
 
 msgid "seo_productonline_title"
 msgstr "DriverPack Online | Спампаваць драйвера хутка і аўтаматычна"
@@ -191,6 +200,9 @@ msgstr "Драйвера {{VENDOR.NAME}}"
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendorlanding-keywords"
 msgstr "{{VENDOR.NAME}} драйвера спампаваць бясплатна"
+
+msgid "seo_vendorlandingpage_device-types-subtitle"
+msgstr "Тыпы прылад {{VENDOR.MARKED_NAME}}"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|monitors; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.FOR=видеокарт|мониторов; VENDOR.NAME=Acer;
