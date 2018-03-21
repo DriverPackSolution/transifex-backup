@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-03-05 14:32+0000\n"
-"PO-Revision-Date: 2018-03-12 09:21+0000\n"
-"Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
+"PO-Revision-Date: 2018-03-13 14:10+0000\n"
+"Last-Translator: Rhuziel Caro\n"
 "Language-Team: Filipino (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/fil/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -397,10 +397,10 @@ msgid "settings_statistics-href"
 msgstr "https://vk.com/topic-29220845_34742999"
 
 msgid "settings_machine-learning-title"
-msgstr "Paganahin ang opsyon sa pag-aaral ng machine (Machine Learning)"
+msgstr "Paganahin ang opsyon ng pag-aaral ng machine (Machine Learning)"
 
 msgid "settings_machine-learning-caption"
-msgstr "Ang natatanging artipisyal na sistema ng katalinuhan, na binuo ng aming mga inhinyero at itinayo sa sistema ng DriverPack, ay nagsisikap nang masigasig para sa kapakinabangan ng iyong system. Dahil ito ay self-learning, pinapanatili nito ang pagpapabuti ng algorithm sa pagpili ng driver pagkatapos ng bawat boot, at patuloy na i-configure ang isang computer nang mas mabilis at mas tumpak."
+msgstr "Ang natatanging artificial intelligence system, na binuo ng aming mga inhinyero sa sistema ng DriverPack, ay nagsisikap na maging mas kapakinabangan ng iyong system. Dahil ito ay self-learning, pinapanatili nito ang pagpapabuti ng algorithm sa pagpili ng driver pagkatapos ng bawat boot, at patuloy na i-configure ang isang computer nang mas mabilis at mas tumpak."
 
 msgid "settings_machine-learning-anchor"
 msgstr "Matuto nang higit pa"
@@ -409,10 +409,10 @@ msgid "settings_machine-learning-href"
 msgstr "https://vk.com/topic-29220845_34743004"
 
 msgid "settings_bsods-title"
-msgstr "Pag-aralan ang mga kaso ng pag-crash ng 'asul na screen of death' (BSoD)"
+msgstr "Pag-aralan ang mga kaso ng pag-crash o 'blue screen of death' (BSoD)"
 
 msgid "settings_bsods-caption"
-msgstr "Ang posibilidad na ang pag-crash ng 'asul na screen ng kamatayan' (BSoD) ay mangyayari ay mas mababa sa 0.3%, ngunit kung ito ang mangyayari, ang aming application ay pinag-aaralan ang mga log ng Windows at bumubuo ng isang ulat para sa sistemang analytics. Binabawasan nito ang posibilidad na ulitin ang problemang ito sa computer na ito at sa iba na may katulad na pagsasaayos."
+msgstr "Ang posibilidad ng 'blue screen of death' (BSoD) ay nangyayari ng mas mababa sa 0.3%, ngunit kung ito ang mangyayari, ang aming application ay pinag-aaralan ang mga log ng Windows at bumubuo ng isang ulat para sa analytics system. Binabawasan nito ang posibilidad na ulitin ang problemang ito sa computer na ito at sa iba na may katulad na pagsasaayos."
 
 msgid "settings_bsods-anchor"
 msgstr "Matuto nang higit pa"
@@ -454,13 +454,13 @@ msgid "menu_power_options"
 msgstr "Pagpipilian sa Power"
 
 msgid "menu_network_connections"
-msgstr "Network Konekyson"
+msgstr "Konekyson sa Network"
 
 msgid "menu_computer_management"
 msgstr "Pamamahala sa Kompyuter"
 
 msgid "menu_control_panel"
-msgstr "Kontrol Panel"
+msgstr "Control Panel"
 
 msgid "menu_disk_management"
 msgstr "Pamamahala sa Disk"
@@ -476,7 +476,7 @@ msgstr "Command Line"
 #. {{LINK.EULA}} находится в ключе confirm_popup_eula-link; текст для
 #. {{LINK.POLICY}} находится в ключе confirm_popup_policy-link;
 msgid "confirm_popup_install_eula"
-msgstr "Sumasang-ayon ako na mag-install {{PROGRAM.NAME}}, at tinatanggap ko {{LINK.EULA}} at {{LINK.POLICY}}. Ang software na ito ay maaaring alisin anumang sandali sa pamamagitan ng 'Add / Remove Software' function."
+msgstr "Sumasang-ayon ako na i-install ang  {{PROGRAM.NAME}}, at tinatanggap ko ang{{LINK.EULA}} at {{LINK.POLICY}}. Ang software na ito ay maaaring alisin anumang sandali sa pamamagitan ng 'Add / Remove Software' function."
 
 #. i18n: EN: text for {{LINK.EULA}} is in key confirm_popup_eula-link; text
 #. for {{LINK.POLICY}} is in key confirm_popup_policy-link; RU: текст для
@@ -492,7 +492,7 @@ msgid "confirm_popup_policy-link"
 msgstr "Patakaran sa Pagkapribado"
 
 msgid "confirm_popup_install_button_ok"
-msgstr "Sumangayon"
+msgstr "OK"
 
 msgid "confirm_popup_install_button"
 msgstr "Tanggapin at i-install"
@@ -629,7 +629,7 @@ msgid "drivers_screen_view_options_section"
 msgstr "Seksyon"
 
 msgid "drivers_screen_view_options_os"
-msgstr "OS Beryson"
+msgstr "Beryson ng OS"
 
 msgid "final_popover_old_driver"
 msgstr "Nakaraang driver"
@@ -777,13 +777,13 @@ msgid "games_playkey_top_title"
 msgstr "I-play <span class='games_title-marked bold'>ang mga nangungunang laro</span> sa mga setting ng pinakamataas na antas <br /> <span class='bold'>kahit na sa mahinang computer</span>"
 
 msgid "games_playkey_open_catalog_button"
-msgstr "Higit sa 150 mga laro sa PlayKey catalog"
+msgstr "Higit sa 150 mga laro ang nasa catalog ng PlayKey "
 
 msgid "games_playkey_cloud_title"
 msgstr "Nagsisimula ang laro <span class='games_title-marked bold'>sa Cloud </span> sa gilid ng server, <br /> <span class='bold'>kaya, hindi ito gumagamit ng mga mapagkukunan ng iyong computer</span>"
 
 msgid "games_playkey_cloud_img_pc_caption"
-msgstr "Inilipat ng computer ang mga pagkilos ng gumagamit"
+msgstr "Inilipat ng computer ang mga akyon sa user"
 
 msgid "games_playkey_cloud_img_cloud_caption"
 msgstr "Ang signal ay inililipat sa Cloud"
@@ -834,7 +834,7 @@ msgid "installation_header_promo_fb"
 msgstr "Komunidad sa Facebook"
 
 msgid "installation_item_category_restorepoint"
-msgstr "Ibalik ang punto"
+msgstr "Restore point"
 
 msgid "driver_class_bluetooth"
 msgstr "Bluetooth device"
@@ -894,7 +894,7 @@ msgid "soft_category_viewer"
 msgstr "Tingnan ang mga imahe at mga dokumento"
 
 msgid "soft_category_messenger"
-msgstr "Libreng tawag at pagmemensahe"
+msgstr "Libreng tawag at messaging"
 
 msgid "soft_category_internet"
 msgstr "Mga kagamitan sa Internet"
@@ -969,10 +969,10 @@ msgid "installation_title_name"
 msgstr "Mga item sa pag-install"
 
 msgid "installation_item_description_restorepoint"
-msgstr "Ito ay nagbibigay-daan sa isang sistema roll-back sa kanyang nakaraang estado kung ang isang bagay napupunta mali"
+msgstr "Ito ay nagbibigay-daan sa isang roll-back system na nagbabalik sa nakaraang estado nito kapag mayroong maling nangyari"
 
 msgid "loading_backup_drivers"
-msgstr "Nilikha ang backup ng driver"
+msgstr "Nililikha ang backup ng driver"
 
 msgid "loading_backup_done"
 msgstr "Ang backup ng driver ay matagumpay na nalikha"
@@ -1002,13 +1002,13 @@ msgid "loading_ordering_drivers"
 msgstr "Bumubuo kami ng order sa pag-install ng driver..."
 
 msgid "menu_install_drivers"
-msgstr "Pag-install ng driver papunta sa computer"
+msgstr "Pag-install ng driver sa computer"
 
 msgid "menu_drivers"
 msgstr "Mga-Driver"
 
 msgid "menu_install_programs"
-msgstr "Ang pangunahing pag-install ng software papunta sa computer"
+msgstr "Ang pangunahing pag-install ng software sa computer"
 
 msgid "menu_programs"
 msgstr "Software"
@@ -1047,13 +1047,13 @@ msgid "no-internet-screen_guide-title"
 msgstr "Paano i-install ang lahat ng kinakailangang mga driver nang walang koneksyon sa Internet?"
 
 msgid "no-internet-screen_guide-step-1"
-msgstr "Hakbang Una 1"
+msgstr "Unang Hakbang 1"
 
 msgid "no-internet-screen_guide-step-1-action"
 msgstr "Pumunta sa <span class=\"bold\">driverpack.io/tl/foradmin</span> website sa pamamagitan ng paggamit ng isa pang computer"
 
 msgid "no-internet-screen_guide-step-2"
-msgstr "Hakbang Ikalawa 2"
+msgstr "Ikalawa Hakbang 2"
 
 msgid "no-internet-screen_guide-step-2-action"
 msgstr "I-download ang <span class=\"bold\">DriverPack Offline Full</span> o <span class=\"bold\">DriverPack Offline Network</span> sa isang USB flash drive upang mag-install ng mga driver papunta sa iyong compluter nang walang koneksyon sa Internet <br /><br /> <span class=\"bold\">DriverPack Offline Network</span> ay may kasamang mga driver para sa network hardware (Lan / Wi-Fi), ito ay nagpapatakbo ng walang koneksyon sa Internet (500 MB) <br /><br /> <span class=\"bold\">DriverPack Offline Full</span> kasama ang lahat ng mga driver, nagpapatakbo nang walang koneksyon sa Internet"
@@ -1071,16 +1071,16 @@ msgid "programs_btn_install_all"
 msgstr "I-install ang mga kinakailangang program ng software <b>({{COUNT}})</b>"
 
 msgid "programs_header_text_caption"
-msgstr "There is no need to look for the software programs one by one any longer. You can easily install everything in one click."
+msgstr "Hindi na kailangang hanapin ang mga program ng software nang isa-isa. Madali mong mai-iinstall sa isang click lang."
 
 msgid "drivers_program_counter"
-msgstr "Recommended software"
+msgstr "Inirerekomendang software"
 
 msgid "protect_row_rating"
-msgstr "Laki:"
+msgstr "Rate:"
 
 msgid "protect_row_size"
-msgstr "Laki:"
+msgstr "Size:"
 
 msgid "protect_row_publisher"
 msgstr "Publisher:"
@@ -1101,7 +1101,7 @@ msgid "protect_rating_level_small"
 msgstr "maaari mong panatilihin ito"
 
 msgid "protect_rating_level_large_caption"
-msgstr "Inirerekumenda namin sa iyo na tanggalin ang software na ito dahil 70% ng lahat ng mga gumagamit ang aalisin ito."
+msgstr "Inirerekumenda namin sa iyo na tanggalin ang software na ito dahil 70% ng lahat ng mga users inaalis ito."
 
 msgid "protect_uninstall_single"
 msgstr "alisin"
@@ -1119,7 +1119,7 @@ msgid "protect_installed-programs_api_failed"
 msgstr "Walang koneksyon sa Internet. Kinakailangan ang koneksyon sa network upang tingnan ang listahan ng software sa iyong computer."
 
 msgid "protect_installed-programs_no_harmful"
-msgstr "Walang hindi kanais-nais na software ang nakita sa iyong computer"
+msgstr "Walang nakitang hindi kanais-nais na software sa iyong computer"
 
 msgid "protect_clean_up_header_title"
 msgstr "DriverPack Protect — proteksyon at paglilinis ng iyong computer"
@@ -1131,7 +1131,7 @@ msgid "protect_installed_programs_title"
 msgstr "Mga Software Naka-Install sa computer"
 
 msgid "protect_installed_programs_switch"
-msgstr "Ipakita lamang ang kahina-hinalang software"
+msgstr "Ipakita ang kahina-hinalang software"
 
 msgid "protect_show_more"
 msgstr "Tingnan ang higit pa"
@@ -1140,10 +1140,10 @@ msgid "protect_security_programs_title"
 msgstr "Mahalagang software para sa seguridad"
 
 msgid "settings-header_title"
-msgstr "Mga setting para sa mga advanced na user"
+msgstr "Mga setting para sa advanced users"
 
 msgid "settings-header_caption"
-msgstr "Ang DriverPack ay partikular na nilikha para sa mga admin ngunit malinaw at maginhawa kahit para sa mga gumagamit ng baguhan. Sa pamamagitan ng paggamit nito, milyon-milyong mga admins na sistema sa buong mundo ay hindi maaaring i-configure lamang ang kanilang mga computer nang mabilis ngunit maaari ring i-customize ang DriverPack ayon sa kanilang sariling mga pangangailangan at mga gawain. Ang bagong algorithm ng pagpili ay nag-i-install ng mga driver na nagpapahintulot sa iyong mga device na gumana nang may pinakamataas na kahusayan. Subukan ang DriverPack — sigurado kami na gusto mo ito!"
+msgstr "Ang DriverPack ay partikular na nilikha para sa mga admin ngunit malinaw na maginhawa kahit sa mga baguhan. Sa pamamagitan ng paggamit nito, milyon-milyong mga system admins sa buong mundo ay maaaring i-configure ang kanilang mga computer nang mabilis at maaari ring i-customize ang DriverPack ayon sa kanilang sariling mga pangangailangan at mga gawain. Ang bagong algorithm ng pagpili ay nag-i-install ng mga driver na nagpapahintulot sa iyong mga device na gumana nang may pinakamataas na kahusayan. Subukan ang DriverPack — sigurado kami na magugustohan mo ito!"
 
 msgid "settings-screen_license"
 msgstr "Kasunduan sa Lisensya"
@@ -1154,7 +1154,7 @@ msgid "start_title_default_model"
 msgstr "ang iyong computer"
 
 msgid "start_title"
-msgstr "Pag-configure ng mga automation {{MODEL}}"
+msgstr "Awtomatikong pag-configure ng mga {{MODEL}}"
 
 msgid "start_button_install"
 msgstr "Awtomatikong i-configure ang computer"
@@ -1174,21 +1174,21 @@ msgstr[0] "{{COUNT}} mai-install ang mga driver"
 msgstr[1] "{{COUNT}} mai-install ang mga driver "
 
 msgid "start_drivers_popover"
-msgstr "Ang mga driver para sa iyong computer ay napili at handa na para sa pag-install. Bago ito magsimula, malilikha ang isang ibalik point."
+msgstr "Ang mga driver para sa iyong computer ay napili at handa na para sa pag-install. Bago ito magsimula, ito ay malilikha ang isang restore point."
 
 msgid "start_programs_title"
 msgid_plural "start_programs_title_n"
-msgstr[0] "{{COUNT}} mai-install ang apps"
-msgstr[1] "{{COUNT}} mai-install ang apps"
+msgstr[0] "{{COUNT}} app ang mai-install"
+msgstr[1] "{{COUNT}} apps ang mai-install"
 
 msgid "start_programs_popover"
-msgstr "Ang mga sumusunod na libreng programang inirerekumendang software ay napili para sa iyong computer: mga antivirus, mga archiver, mga browser, at mga toolkit ng driver — lahat ng bagay na maaaring makatulong sa komportableng operasyon."
+msgstr "Ang mga sumusunod na libreng software na inirerekumendang ay napili para sa iyong computer: mga antivirus, mga archiver, mga browser, at mga toolkit ng driver — lahat ng bagay na maaaring makatulong."
 
 msgid "start_diagnostics_title"
 msgstr "Magagawa ang mga diagnostic"
 
 msgid "start_diagnostics_popover"
-msgstr "Sa sandaling makumpleto ang pag-install at pag-reboot ng system, magsisimula ang DriverPack ng mga diagnostic upang masuri na ang lahat ng mga aparato ay tumatakbo sa maximum na kahusayan."
+msgstr "Sa sandaling makumpleto ang pag-install at pag-reboot ng system, magsisimula ang DriverPack ng mga diagnostic upang masuri na ang lahat ng mga device ay tumatakbo samaximum efficiency nito."
 
 msgid "start_diagnostics_network"
 msgstr "Check-up ng koneksyon sa network"
@@ -1203,7 +1203,7 @@ msgid "start_diagnostics_other"
 msgstr "Iba pang mga check-up ng device"
 
 msgid "delorean_use_remote_confirm"
-msgstr "Nakita ang isang aktibong koneksyon sa Internet sa iyong computer. Ang buong database ng driver ay magagamit online, at naglalaman ito ng mga pinakabagong bersyon. Gusto mo bang gamitin ang database mula sa network? (posible ang paggamit ng trapiko)"
+msgstr "Nakita ang isang aktibong koneksyon sa Internet sa iyong computer. Ang buong database ng driver ay magagamit online, at naglalaman ito ng mga pinakabagong bersyon. Gusto mo bang gamitin ang database mula sa network? (posible ang paggamit ng network data)"
 
 msgid "games_playkey_top_witcher_3_demo"
 msgstr "The Witcher III Wild Hunt"
@@ -1233,13 +1233,13 @@ msgid "installation_header_promo_title_avast"
 msgstr "Bakit mas mahusay ang Avast sa ibang mga antivirus?"
 
 msgid "installation_header_promo_text_avast"
-msgstr "Ang Avast ay isa sa mga pinaka-popular na antivirus sa mundo dahil pinoprotektahan nito ang computer ng mabuti, hindi pinabagal ang system at maaaring epektibong magpatakbo bilang karagdagang antivirus. <br /> Kahit na mas mabuti, libre ito, kaya talagang nararapat ang aming rekomendasyon."
+msgstr "Ang Avast ay isa sa mga pinaka-popular na antivirus sa mundo dahil pinoprotektahan nito ang computer ng mabuti, hindi pinabagal ang system at maaaring epektibong magpatakbo bilang karagdagang antivirus. <br /> Sa kabila ng kahusayan nito, ito ay libre, kaya talagang nararapat ang aming rekomendasyon."
 
 msgid "installation_header_promo_title_catalog"
-msgstr "Paano makahanap ng mga driver sa pamamagitan ng iyong sarili?"
+msgstr "Paano ka makahanap ng mga driver?"
 
 msgid "installation_header_promo_text_catalog"
-msgstr "Para sa mga mas gusto na naghahanap ng mga driver nang manu-mano, lumikha kami ng isang espesyal na search engine na nagbibigay-daan sa iyo upang makahanap ng mga driver sa pamamagitan ng pag-input ng DeviceID o pangalan. Ang database ng search engine na ito ay naglalaman ng higit sa isang milyong mga driver na ginagawa itong pinakamalaking sa mundo. Ang search engine na ito ay regular na pinalawak ng mga bagong driver na sinubukan nang manu-mano, na pinapayagan itong manatiling ganap na napapanahon."
+msgstr "Para sa mga nais maghanap ng mga driver nang manu-mano, lumikha kami ng isang espesyal na search engine na nagbibigay-daan sa iyo upang makahanap ng mga driver sa pamamagitan ng pag-input ng DeviceID o pangalan. Ang database ng search engine na ito ay naglalaman ng higit sa isang milyong mga driver na pinakamalaki sa mundo. Ang search engine na ito ay regular na pinalawak ng mga bagong driver na sinubukan nang manu-mano, na pinanatili itong fully updated."
 
 msgid "installation_header_promo_title_authorization"
 msgstr "Mag-log in upang mai-save ang mga setting"
@@ -1251,13 +1251,13 @@ msgid "installation_header_promo_title_opera"
 msgstr "Ano ang mabuti tungkol sa Opera Browser?"
 
 msgid "installation_header_promo_text_opera"
-msgstr "Ang Opera ay isang ligtas na pinapatunayan ng panahon na browser na may maraming mga makabagong teknolohiya kabilang ang isang naka-embed na VPN, AdBlock na nag-aalis ng pakialam na advertisement, at ang pagpipilian upang panoorin ang video sa isang hiwalay na window. Bukod, ang pinakabagong bersyon ng browser na ito ay nagda-download ng lahat ng mga website na 13% na mas mabilis kaysa sa mga nakaraang, na ginagawang Opera ang pinakamabilis na browser sa oras na ito."
+msgstr "Ang Opera ay isang ligtas na browser na may maraming mga makabagong teknolohiya kabilang ang isang naka-embed na VPN, AdBlock na nag-aalis ng advertisement, at ang pagpipilian upang panoorin ang video sa isang hiwalay na window. Ang pinakabagong bersyon ng browser na ito ay nagda-download ng lahat ng mga website nang mas mabilis ng 13% kaysa sa mga nakaraang, na ginagawang Opera ang pinakamabilis na browser sa oras na ito."
 
 msgid "installation_header_promo_title_how_it_works"
 msgstr "Paano gumagana ang DriverPack?"
 
 msgid "installation_header_promo_text_how_it_works"
-msgstr "Ang pagpapatakbo ng app ay nagsisimula sa mga diagnostic na kung saan mismo ang software ay tumutukoy kung aling mga device ang kailangan ng mga driver na mai-install o ma-update. Dahil sa teknolohiya sa pag-aaral ng machine nito, pinipili ng DriverPack ang mga driver na maaaring magbigay ng pinakamataas na kahusayan. Upang magawa ang aming app na ma-configure ang anumang computer, natipon namin ang pinakamalaking database ng driver sa mundo na kinabibilangan ng higit sa isang milyong mga driver. Bilang karagdagan, gumagamit kami ng mga server ng mataas na bilis at teknolohiya ng Cloud, na nagbibigay-daan sa pagsasaayos ng iyong computer parehong mataas na kalidad at mabilis."
+msgstr "Ang operasyon ng app ay nagsisimula sa mga diagnostic na kung saan mismo ang software ay tumutukoy kung aling mga device ang nangangailangan ng mga driver na mai-install o ma-update. Dahil sa teknolohiyang machine learning, pinipili ng DriverPack ang mga driver na maaaring magbigay ng pinakamataas na kahusayan. Upang magawa ng aming app na ma-iconfigure ang anumang computer, tinipon namin ang pinakamalaking database ng driver sa mundo na kinabibilangan ng higit sa isang milyong mga driver. Bilang karagdagan, gumagamit kami ng mga mabibilis na server at teknolohiya ng Cloud, na nagbibigay-daan sa pagsasaayos ng iyong computer sa mataas na kalidad at mabilis."
 
 msgid "installation_header_promo_title_win_10"
 msgstr "Bakit dapat mong i-update ang mga driver sa Windows 10?"
@@ -1269,13 +1269,13 @@ msgid "installation_header_promo_title_social"
 msgstr "Sumali sa komunidad ng DriverPack"
 
 msgid "installation_header_promo_text_social"
-msgstr "Sa aming mga pampublikong grupo lagi naming sinasagot ang iyong mga tanong tungkol sa software, magbahagi ng impormasyon tungkol sa aming mga pag-update at teknolohiya, at sabihin sa iyo ang tungkol sa makabuluhang balita at mga uso sa industriya ng IT."
+msgstr "Sa aming mga pampublikong grupo sinasagot namin ang iyong mga tanong tungkol sa software, nagbahagi ng impormasyon tungkol sa aming mga pag-update at teknolohiya, at nagbibigay ng makabuluhang balita at mga uso ngayon sa industriya ng IT."
 
 msgid "installation_header_promo_title_protect"
 msgstr "Paano nakakatulong ang DriverPack Protect sa computer?"
 
 msgid "installation_header_promo_text_protect"
-msgstr "Ito ay makakatulong na linisin ang iyong computer ng dagdag na software at mga plug-in ng ad na ang mga antivirus ay madalas na hindi maalis. Ang DriverPack Protect ay nagbibigay-daan sa iyo upang palayain ang higit na espasyo sa mga hard drive at dagdagan ang kahusayan ng iyong computer."
+msgstr "Ito ay makakatulong na linisin ang iyong computer sa dagdag na software at mga plug-in ng ad na hindi karaniwang inaalis ng mga antivirus. Ang DriverPack Protect ay nagbibigay-daan sa iyo upang paluwagin ang espasyo ng mga hard drive at dagdagan ang kahusayan ng iyong computer."
 
 msgid "installation_header_promo_title_restore"
 msgstr "System restore point"
@@ -1287,13 +1287,13 @@ msgid "installation_header_promo_title_browsers"
 msgstr "Ang isa pang magandang browser ay hindi maaaring dagdagan"
 
 msgid "installation_header_promo_text_browsers"
-msgstr "Ayon sa data ng istatistika, higit sa 70% ang gumagamit ng hindi bababa sa dalawang mga browser kung ano ang lubos na lohikal para sa mga aktibo sa Internet. Ang bawat browser na iminumungkahi namin sa pag-install ay may sariling pakinabang: Yandex.Browser ay perpekto para sa operating sa loob ng Russian-wika Internet; pinipili ng mga tao ang Opera.Browser para sa kakayahan upang bisitahin ang anumang mga website madali at hindi nagpapakilala sa pamamagitan ng paggamit ng VPN; at ang hukbo ng mga tagasuporta ng Firefox ay hindi maaaring mahati sa lahat ng mga plug-in at extension na pinagsama-sama para sa isang mas mahusay na karanasan sa Internet. Bakit hindi lahat ng mga ito ay magagamit, at sa kamay? Hindi nila pinabagal ang computer at maaaring makatulong sa paghiwa-hiwalay ng iba't ibang bahagi ng iyong trabaho, halimbawa."
+msgstr "Ayon sa istatistikal na data , higit sa 70% ang gumagamit ng hindi bababa sa dalawang mga browser lalo sa mga aktibo sa Internet. Ang bawat browser na iminumungkahi namin sa pag-install ay may sariling pakinabang: Yandex.Browser ay perpekto para sa operating sa loob ng Russian-wika Internet; pinipili ng mga tao ang Opera.Browser para sa kakayahan na bisitahin ang anumang mga website gamit ang VPN; at ang hukbo ng mga tagasuporta ng Firefox ay hindi maaaring mahati sa lahat ng mga plug-in at extension na pinagsama-sama para sa isang mas mahusay na karanasan sa Internet. Bakit hindi lahat ng mga ito ay available? Hindi nila pinapabagal ang computer at maaaring makatulong sa paghiwa-hiwalay ng iba't ibang bahagi ng iyong trabaho, halimbawa."
 
 msgid "installation_header_promo_title_driverpack_for_all"
 msgstr "Ang DriverPack ay angkop sa anumang computer"
 
 msgid "installation_header_promo_text_driverpack_for_all"
-msgstr "Nilikha namin ang tool na nagbibigay-daan upang gawin ang pagsasaayos ng anumang computer na awtomatikong awtomatikong. Ang DriverPack ay naglalaman ng higit sa isang milyong mga driver, na nagbibigay-daan upang i-configure ang anumang computer na may isang pindutan lamang. Bilang resulta, nakakuha ka ng mga naka-install na driver at kagamitan, maingat na piniling software (na kung saan ay ang pinagsamang bahagi ng pag-configure), pati na rin ang mga diagnostic ng iyong computer. Nangangahulugan ito na mabilis na configure ng DriverPack ang iyong buong computer sa pinakamataas na kahusayan sa isang click lamang na pindutan."
+msgstr "Nilikha namin ang tool na nagbibigay-daan upang awtomatikong gawin ang pagsasaayos ng anumang computer. Ang DriverPack ay naglalaman ng higit sa isang milyong mga driver, na nagbibigay-daan upang i-configure ang anumang computer sa isang pindutan lamang. Bilang resulta, nakakuha ka ng mga naka-install na driver at kagamitan, maingat na piniling software (na kung saan ay ang pinagsamang bahagi ng pag-configure), pati na rin ang mga diagnostic ng iyong computer. Nangangahulugan ito na mabilis na configure ng DriverPack ang iyong buong computer sa pinakamataas na kahusayan sa isang click lamang."
 
 msgid "softcategories_archiver-single-for"
 msgstr "file archiver"
@@ -1311,10 +1311,10 @@ msgid "softcategories_internet-single-for"
 msgstr "software upang gumana sa internet network"
 
 msgid "softcategories_player-single-for"
-msgstr "media pang-tugtog"
+msgstr "media player"
 
 msgid "softcategories_backup-single-for"
-msgstr "backup na paglikha ng tool"
+msgstr "tool sa paglikha ng backup"
 
 msgid "softcategories_antivirus-single-for"
 msgstr "antivirus"
@@ -1329,25 +1329,25 @@ msgid "installation_application_restart_confirm_text_1"
 msgstr "Inirerekumenda namin na isara mo ang lahat ng iba pang aktibong software habang ang mga driver ay nag-i-install"
 
 msgid "installation_application_restart_confirm_text_2"
-msgstr "Narito ang listahan ng mga proseso na sarado para sa oras ng pag-install at pagkatapos ay awtomatikong i-restart:"
+msgstr "Narito ang listahan ng mga proseso na isasara sa oras ng pag-install at pagkatapos ay awtomatikong ire-restart:"
 
 msgid "installation_application_restart_confirm_title"
 msgstr "Mga Rekomendasyon"
 
 msgid "deviceproblems_usb_connection"
-msgstr "Imposibleng mag-install ng anumang mga driver papunta sa device na ito dahil sa mga problema sa koneksyon ng USB port. Upang malutas ang problemang ito, subukang muling ikonekta ang iyong mga aparatong USB, o palitan ang mga cable na nakakonekta sa kanila. Kung hindi ito makakatulong, maaaring may ilang mga problema sa pagpapatakbo sa mga port o ang mga device mismo."
+msgstr "Imposibleng mag-install ng anumang mga driver para sa device na ito dahil sa problema sa koneksyon ng USB port. Upang malutas ang problemang ito, subukang muling ikonekta ang iyong mga USB device, o palitan ang mga cable na nakakonekta sa kanila. Kung hindi ito makakatulong, maaaring may ilang mga problema sa pagpapatakbo sa mga port o ang mga device mismo."
 
 msgid "deviceproblems_root_legacy"
-msgstr "Ang aparatong ito ay wala sa iyong system ngunit ang mga bakas nito ay nanatili sa system pagkatapos na alisin ang software na sumusuporta sa ito. Upang malutas ang problemang ito, dapat mong tanggalin ang anumang pagbanggit tungkol sa device na ito sa labas ng registry, alinman sa mano-mano o sa pamamagitan ng paggamit ng mga partikular na utility."
+msgstr "Ang device na ito ay wala sa iyong system ngunit ang mga bakas nito ay nanatili sa system pagkatapos na alisin ang software na sumusuporta sa ito. Upang malutas ang problemang ito, dapat mong tanggalin ang anumang pagbanggit tungkol sa device na ito sa labas ng registry, mano-mano o sa pamamagitan ng paggamit ng mga partikular na utility."
 
 msgid "deviceproblems_vpn_no_need_drivers"
 msgstr "Hindi kinakailangan ang pag-install ng driver para sa virtual VPN device na ito"
 
 msgid "deviceproblems_damaged_system_driver"
-msgstr "This is a standard system driver which is damaged for some reason, or it is absent in your Windows version. One of the possible reasons might be a stripped down pirated Windows version, or loss of the file as a result of the side-effect impact of some software or viruses. In order to solve this problem, you should install a fully licensed Windows version"
+msgstr "Ito ay isang karaniwang driver ng system na nasira dahil sa ilang kadahilanan, o wala sa iyong bersyon ng Windows. Ang isa sa mga posibleng kadahilanan ay maaaring pirated na bersyon ng Windows ito, o pagkawala ng file bilang resulta ng side-effect na epekto ng ilang software o mga virus. Upang malutas ang problemang ito, dapat mong i-install ang isang ganap na lisensiyadong bersyon ng Windows"
 
 msgid "deviceproblems_usb_unknown_vendor"
-msgstr "Na-install na ang nakakonektang USB device na ito, ngunit hindi matukoy ang tagagawa nito. Upang ayusin ito, dapat kang magtalaga ng awtomatikong pag-startup para sa serbisyo ng Windows Driver Foundation. Pumunta sa tab ng Computer Management → tab ng Serbisyo → tab ng Windows Driver Foundation, at pagkatapos ay piliin ang pagpipiliang 'Uri ng Startup: Awtomatikong'"
+msgstr "Na-install na ang nakakonektang USB device na ito, ngunit hindi matukoy ang tagagawa nito. Upang ayusin ito, dapat kang magtalaga ng awtomatikong pag-startup para sa serbisyo ng Windows Driver Foundation. Pumunta sa tab ng Computer Management tab → Services tab → Windows Driver Foundation tab, and then choose the 'Startup Type: Automatic' option"
 
 msgid "deviceproblems_sound_card"
 msgstr "Ang sound card ay hindi nakakonekta, o may ilang mga problema sa operabilidad nito"
