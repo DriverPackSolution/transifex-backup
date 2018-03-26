@@ -1,6 +1,6 @@
 # Translators:
 # Translators:
-# danfong <danfong.hsieh@gmail.com>, 2017
+# danfong <danfong.hsieh@gmail.com>, 2017-2018
 # Dominic Shum, 2017
 # Nadia Tegeneva <nadia@drp.su>, 2017
 # 王晨旭 <wcxu21@126.com>, 2017
@@ -8,9 +8,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-03-05 14:32+0000\n"
-"PO-Revision-Date: 2018-03-06 08:47+0000\n"
-"Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
+"POT-Creation-Date: 2018-03-16 09:58+0000\n"
+"PO-Revision-Date: 2018-03-26 09:15+0000\n"
+"Last-Translator: danfong <danfong.hsieh@gmail.com>\n"
 "Language-Team: Chinese (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/zh/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -218,6 +218,12 @@ msgstr "其他裝置"
 
 msgid "deviceclasses_other-plural-for"
 msgstr "其他裝置"
+
+msgid "programs_eula"
+msgstr "授權合約"
+
+msgid "programs_policy"
+msgstr "隱私權原則"
 
 msgid "programs_btn_install_single"
 msgstr "安裝"
@@ -476,32 +482,32 @@ msgstr "命令列"
 #. {{LINK.EULA}} находится в ключе confirm_popup_eula-link; текст для
 #. {{LINK.POLICY}} находится в ключе confirm_popup_policy-link;
 msgid "confirm_popup_install_eula"
-msgstr ""
+msgstr "我同意安裝 {{PROGRAM.NAME}}，且我接受 {{LINK.EULA}} 和 {{LINK.POLICY}}。此軟體可以在任何時刻藉由「新增/移除軟體」功能移除。"
 
 #. i18n: EN: text for {{LINK.EULA}} is in key confirm_popup_eula-link; text
 #. for {{LINK.POLICY}} is in key confirm_popup_policy-link; RU: текст для
 #. {{LINK.EULA}} находится в ключе confirm_popup_eula-link; текст для
 #. {{LINK.POLICY}} находится в ключе confirm_popup_policy-link;
 msgid "confirm_popup_eula"
-msgstr ""
+msgstr "安裝此軟體代表您接受 {{LINK.EULA}} 和 {{LINK.POLICY}}。"
 
 msgid "confirm_popup_eula-link"
-msgstr ""
+msgstr "使用者授權合約"
 
 msgid "confirm_popup_policy-link"
-msgstr ""
+msgstr "隱私權原則"
 
 msgid "confirm_popup_install_button_ok"
-msgstr ""
+msgstr "確定"
 
 msgid "confirm_popup_install_button"
-msgstr ""
+msgstr "同意並安裝"
 
 msgid "confirm_popup_title"
-msgstr ""
+msgstr "軟體安裝"
 
 msgid "confirm_popup_cancel_button"
-msgstr ""
+msgstr "拒絕"
 
 msgid "diagnostics_section_title"
 msgstr "系統診斷"
@@ -909,6 +915,12 @@ msgstr "系統公用程式"
 msgid "soft_category_drivers"
 msgstr "驅動程式操作工具組"
 
+msgid "installation_item_eula"
+msgstr "授權合約"
+
+msgid "installation_item_policy"
+msgstr "隱私權原則"
+
 msgid "installation_error_download"
 msgstr "下載發生錯誤"
 
@@ -1012,7 +1024,7 @@ msgid "menu_protect_title"
 msgstr "防毒軟體助手"
 
 msgid "menu_protect_clean_up"
-msgstr ""
+msgstr "保護和清理"
 
 msgid "menu_computer_diagnostics"
 msgstr "電腦狀態診斷"
@@ -1045,19 +1057,19 @@ msgid "no-internet-screen_guide-step-1"
 msgstr "步驟 1"
 
 msgid "no-internet-screen_guide-step-1-action"
-msgstr ""
+msgstr "使用其他電腦前往 <span class=\"bold\">drp.su/en/foradmin</span> 網站"
 
 msgid "no-internet-screen_guide-step-2"
 msgstr "步驟 2"
 
 msgid "no-internet-screen_guide-step-2-action"
-msgstr ""
+msgstr "將 <span class=\"bold\">DriverPack Offline Full</span> 或 <span class=\"bold\">DriverPack Offline Network</span> 下載到 USB 隨身碟以便將驅動程式安裝到您的電腦上而不需網路連線 <br /><br /> <span class=\"bold\">DriverPack Offline Network</span> 包含網路硬體(Lan/Wi-Fi)驅動程式，它在沒有網路連線(500 MB)的狀態下運作<br /><br />，<span class=\"bold\">DriverPack Offline Full </span> 包含所有驅動程式，不需網路連線即可運作"
 
 msgid "no-internet-screen_guide-step-complete"
 msgstr "完成"
 
 msgid "no-internet-screen_guide-step-complete-action"
-msgstr ""
+msgstr "在這台電腦上啟動應用程式並一鍵進行配置"
 
 msgid "programs_header_text_title"
 msgstr "所有有用的軟體在一個地方"
@@ -1102,37 +1114,37 @@ msgid "protect_uninstall_single"
 msgstr "刪除"
 
 msgid "protect_clean_up_btn"
-msgstr ""
+msgstr "保護和清理電腦"
 
 msgid "protect_remove_all_btn_uninstalling"
-msgstr ""
+msgstr "這些可疑的軟體將被刪除: {{COUNT}}"
 
 msgid "protect_remove_all_btn_installing"
-msgstr ""
+msgstr "這些重要的軟體將被安裝: {{COUNT}}"
 
 msgid "protect_installed-programs_api_failed"
-msgstr ""
+msgstr "無網路連線。要查看您電腦上的軟體清單需要網路連線。"
 
 msgid "protect_installed-programs_no_harmful"
-msgstr ""
+msgstr "電腦上未偵測到不良軟體"
 
 msgid "protect_clean_up_header_title"
-msgstr ""
+msgstr "DriverPack Protect — 保護並清理您的電腦"
 
 msgid "protect_clean_up_header_caption"
-msgstr ""
+msgstr "DriverPack Protect 將清除不良軟體，並為您的電腦提供保護，以補充防毒功能，如: 偵測、刪除和封鎖惡意軟體以及侵入性廣告"
 
 msgid "protect_installed_programs_title"
-msgstr ""
+msgstr "已安裝在電腦上的軟體"
 
 msgid "protect_installed_programs_switch"
-msgstr ""
+msgstr "僅顯示可疑的軟體"
 
 msgid "protect_show_more"
 msgstr "查看更多"
 
 msgid "protect_security_programs_title"
-msgstr ""
+msgstr "重要的安全軟體"
 
 msgid "settings-header_title"
 msgstr "進階使用者的設定"
@@ -1176,6 +1188,12 @@ msgstr[0] "將安裝 {{COUNT}} 套應用程式"
 
 msgid "start_programs_popover"
 msgstr "為您的電腦選擇了以下建議的免費軟體: 防毒軟體、壓縮程式、瀏覽器和驅動程式工具組 — 一切可能有助於舒適操作的軟體。"
+
+msgid "start_programs_eula"
+msgstr "授權合約"
+
+msgid "start_programs_policy"
+msgstr "隱私權原則"
 
 msgid "start_diagnostics_title"
 msgstr "將進行診斷"
