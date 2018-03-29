@@ -26,7 +26,7 @@ msgid "admindriverpacks_landing-title"
 msgstr "Driverpacks (驱动程序包)"
 
 msgid "admindriverpacks_landing-subtitle"
-msgstr "我们的驱动程序包包含 {{COUNT}} 个驱动程序，已经手动选择和测试"
+msgstr "我们的 driverpacks 包含 {{COUNT}} 个驱动程序，已经手动选择和测试"
 
 msgid "admindriverpacks_download"
 msgstr "下载"
@@ -67,7 +67,7 @@ msgstr "{{VENDOR.NAME}}"
 
 #. i18n: EN: Example: VENDOR.NAME=Lenovo; RU: Пример: VENDOR.NAME=Lenovo;
 msgid "breadcrumbs_vendorlanding-text"
-msgstr ""
+msgstr "{{VENDOR.NAME}} 设备"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=cardreaders|monitors; RU: Пример:
 #. CLASS.PLURAL.MAIN=картридеры|мониторы;
@@ -112,7 +112,7 @@ msgstr "下载驱动程序"
 #. NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10 x86; Текст для
 #. {{DOWNLOAD}} находится в ключе drivercard_no-results_download-link;
 msgid "devicecard_details_no-results-text"
-msgstr "Windows 的 {{NAME}} 驅動程式在目錄中找不到 {{OSVERSIONS}}。{{DOWNLOAD}} 自動選擇驅動程式。"
+msgstr "Windows 的 {{NAME}} 驱动程序在目录中找不到 {{OSVERSIONS}}。{{DOWNLOAD}} 自动选择驱动程序。"
 
 msgid "devicecard_details_no-results_download-link"
 msgstr "下载 DriverPack"
@@ -350,7 +350,7 @@ msgid "landingheadernav_search"
 msgstr "驱动程序搜索"
 
 msgid "landingheadernav_foradmin"
-msgstr "用于系统管理员"
+msgstr "系统管理员"
 
 msgid "landingintroduction_author-title"
 msgstr "您好! 我的名字是 Artur Kuzyakov。我是 DriverPack 的作者和创始人"
@@ -703,7 +703,7 @@ msgid "deviceclasses_tvtuner-plural-for"
 msgstr "电视调谐器"
 
 msgid "deviceclasses_video-single-main"
-msgstr "电视调谐器"
+msgstr "显卡"
 
 msgid "deviceclasses_video-single-for"
 msgstr "显卡"
@@ -845,7 +845,7 @@ msgid "deviceclasses_laptop-single-main"
 msgstr "笔记本电脑"
 
 msgid "language_title"
-msgstr "Chinese (Simplified)"
+msgstr "English"
 
 msgid "landingPagePublications_rbk"
 msgstr "DriverPack 是由 Artur Kuzyakov 的团队全面选择和测试 Windows 驱动程序。 该应用程序分析用户的 并将 computer 其安装到所需的驱动程序上，从而可以解决两个问题：一是加快 computer 配置过程 (如果一个系统内有数十台计算机，则尤其重要);其次，为了提高其操作的能力。"
@@ -857,7 +857,7 @@ msgid "landingPagePublications_cnews"
 msgstr "自发布该软件的第一个版本以来，DriverPack Solution 在用户中非常受欢迎。该软件可以免费下载。这将 DriverPack Solution 与其竞争对手区分开来，并吸引越来越多的新用户。"
 
 msgid "landingPagePublications_xbit"
-msgstr "DriverPack Solution 是一個有趣的應用程式，其中一組選項是同一類型的其他軟體不提供的。任何用戶都能夠修復所有錯誤，並在兩次點擊中安裝系統及其所有裝置的正確操作。目前，DriverPack 資料庫中的驅動程式數已經超過了 1.1 百萬個位置，並已經過安全測試。"
+msgstr "DriverPack Solution 是一个有趣的应用程序，其中一组选项是同一类型的其他软体不提供的。任何用户都能够修复所有错误，并在两次点击中安装系统及其所有设备的正确操作。目前，DriverPack 资料库中的驱动程序数已经超过了1.1百万个位置，并已经过安全测试。"
 
 msgid "landingPagePublications_chip"
 msgstr "使用 DriverPack，找到最新版本的电脑设备驱动程序并不是一种挑战。最愉快的是使用者甚至不用自己做任何事情。该工具完全自动化，操作方便。"
@@ -872,7 +872,7 @@ msgid "landingPagePublications_computerra"
 msgstr "新版本为用户提供了更多的工具来制作自己的驱动程式选择。对于服务电脑和管理各种硬件的人来说，这是一个特别紧迫的问题。现在可以将任何替代的驱动程序整合到 DriverPack  中，而不仅仅是删除不必要的 driverpacks 而已。"
 
 msgid "landingPagePublications_vc"
-msgstr "多亏了小道消息，该产品被用户翻译成 45 种语言，没有我们团队的参与。"
+msgstr "感谢世界上所有用户及网站资源的发布者，在没有我们团队的参与情况下，该产品被用户翻译成 45 种语言。"
 
 msgid "adminpagefaq_official_vendors-q"
 msgstr "在使用 DriverPack 之前，我从官方网站下载了驱动程序，但即使是这些驱动程序也遇到了麻烦。为什么 DriverPack 的驱动程式比制造商的驱动程式更可靠呢?"
@@ -1037,10 +1037,10 @@ msgid "landing-footer_badrabbit"
 msgstr "防护 Bad Rabbit"
 
 msgid "landing-footer_for-admin"
-msgstr "对于系统管理员"
+msgstr "系统管理员"
 
 msgid "landing-footer_for-translators"
-msgstr "对于翻译人员"
+msgstr "翻译人员"
 
 msgid "landing-footer_hwids"
 msgstr "Device ID"

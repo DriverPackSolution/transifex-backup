@@ -5,13 +5,14 @@
 # Артур Кузяков <artx@drp.su>, 2017
 # jessy tardif <jessytardif_3@hotmail.com>, 2017
 # zaki dzz <zakidze@gmail.com>, 2017
+# Dibi Emmanuel <kpakpatojournal@gmail.com>, 2018
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-03-16 15:04+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
-"Last-Translator: zaki dzz <zakidze@gmail.com>, 2017\n"
+"Last-Translator: Dibi Emmanuel <kpakpatojournal@gmail.com>, 2018\n"
 "Language-Team: French (https://www.transifex.com/driverpack-solution/teams/75453/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -70,7 +71,7 @@ msgstr "{{VENDOR.NAME}}"
 
 #. i18n: EN: Example: VENDOR.NAME=Lenovo; RU: Пример: VENDOR.NAME=Lenovo;
 msgid "breadcrumbs_vendorlanding-text"
-msgstr ""
+msgstr "{{VENDOR.NAME}} pilotes"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=cardreaders|monitors; RU: Пример:
 #. CLASS.PLURAL.MAIN=картридеры|мониторы;
@@ -389,7 +390,7 @@ msgid "landingproducts_item-title-online"
 msgstr "DriverPack Online"
 
 msgid "landingproducts_item-description-online"
-msgstr ""
+msgstr "Il télécharge automatiquement et installe tous les pilotes si vous êtes connecté à Internet <span class='nobr'>({{SIZE}})</span>"
 
 msgid "landingproducts_item-version"
 msgstr "Version:"
@@ -533,7 +534,7 @@ msgid "reviewheader_cta-text"
 msgstr "Rejoignez la communauté DriverPack dans les réseaux sociaux afin d'être au courant des nouvelles à propos du produit et prendre part aux discussions"
 
 msgid "reviewheader_cta"
-msgstr ""
+msgstr "Donner un avis ou une suggestion pour améliorer DriverPack"
 
 msgid "search_input-placeholder"
 msgstr "Rechercher le nom du pilote, ordinateur portable ou DeviceID"
@@ -914,22 +915,22 @@ msgid "adminpagefaq_stable-a"
 msgstr "La stabilité de fonctionnement du logiciel DriverPack est l'une de nos principales priorités, mais des défaillances mineures surviennent encore, bien qu'elles soient rares. C'est pourquoi nous créons un point de restauration qui vous permettra de tout retourner à l'état précédemment configuré. Afin d'éviter un problème similaire dans le futur, nous vous recommandons d'aller dans le menu DriverPack et d'envoyer le rapport qui est automatiquement créé par le logiciel à nos services techniques."
 
 msgid "cloudpagefaq_remove_soft-q"
-msgstr ""
+msgstr "Pourquoi DriverPack Cloud sugère de désinstaller un logiciel de mon ordinateur?"
 
 msgid "cloudpagefaq_remove_soft-a"
 msgstr "Les programmes avec moins d'avis contiennent souvent des virus ou des logiciels publicitaires, c'est pourquoi DriverPack Cloud recommendent de les supprimer. Les avis sont basés sur des statistiques issues des préférences de nos utilisateurs — plus ils suppriment un certain logiciels ou programme plus ce programme ou logiciel reçois des avis négatils."
 
 msgid "cloudpagefaq_notifications-q"
-msgstr ""
+msgstr "Après avoir installer DriverPack Cloud, j'ai commencé à recevoir des notifications sur mon bureau. Comment puis-je les désactiver?"
 
 msgid "cloudpagefaq_notifications-a"
-msgstr ""
+msgstr "Ces notifications sont justes des recommandations. Vous pouvez desactiver chaque catégorie de notifications en cliquant sur l'icône \"horloge\" qui se trouve en haut à droite de chaque notifications."
 
 msgid "cloudpagefaq_usb-q"
-msgstr ""
+msgstr "Quand je connecte ma carte flash-card au slot usb, une notification à propos d'un pilote apparaît sur mon Bureau. A quoi sert-elle?"
 
 msgid "cloudpagefaq_usb-a"
-msgstr ""
+msgstr "DriverPack Cloud detect les nouveaux periphériques et recherche les pilotes. Si le pilote nécessaire est manquant, il est possible de l'installer immédiatement — cela est nécessaire pour un fonctionnement correct du périphérique."
 
 msgid "badrabbitpromopage_cta-text"
 msgstr "Virus cryptographique Bad Rabbit — comment protéger votre PC?"
@@ -962,46 +963,46 @@ msgid "badrabbitpromopage_link-smb"
 msgstr "Comment activer et désactiver les versions 1, 2 et 3 des protocoles SMB pour Windows et Windows Server"
 
 msgid "cloudlandingpage_cackle-title"
-msgstr ""
+msgstr "Faites nous connaître votre opinion à propos de DriverPack Cloud."
 
 msgid "cloudlandingpage_cackle-caption"
-msgstr ""
+msgstr "Aimez-vous DriverPack Cloud? Quelles autres fonctions aimeriez vous y voir? Dites-nous, s'il vous plaît."
 
 msgid "cloudlandingpage_header-title"
-msgstr ""
+msgstr "DriverPack Cloud est un nouveau logiciel qui permet d'augmenter l'éfficacité de votre ordinateur."
 
 msgid "cloudlandingpage_about-what-is-title"
-msgstr ""
+msgstr "Qu'es ce que le logiciel DriverPack Cloud?"
 
 msgid "cloudlandingpage_about-what-is-caption"
-msgstr ""
+msgstr "Ceci est un nouveau produit de l'équipe DriverPack, qui a pour but d'accroître l'efficience sans coût supplémentaires ou de mise à jour matériel. N'êtes vous pas satisfait avec la vitesse d'exécution de CS: GO ou Dota 2 sur votre ordinateur? Essayez DriverPack Cloud."
 
 msgid "cloudlandingpage_about-how-works-title"
-msgstr ""
+msgstr "Comment DriverPack Cloud fonctionne-t-il?"
 
 msgid "cloudlandingpage_about-how-works-caption"
-msgstr ""
+msgstr "Notre produit analyse  l'état des pilotes de périphérique dans votre PC, révèle tous les logiciels qui ont un impact direct sur l'éfficacité de votre ordinateur de cette manière ou d'une autre manière, et donne sa récommandation sur comment mettre à jour le pilote et désisntaller le logiciel qui ralenti votre ordinateur, ou vice versa, suggère l'installation d'autres produits qui aideront la rapidité de votre matériel. Le processus entier se passe sous votre control – aucune action de la part de DriverPack Cloud ne prend place sans votre permission."
 
 msgid "cloudlandingpage_features-monitoring"
-msgstr ""
+msgstr "Il monitore l'état de vos pilotes, télécharge d'importantes mise à jour et les pilotes manquant de l'enorme base de données de DriverPack."
 
 msgid "cloudlandingpage_features-safety"
-msgstr ""
+msgstr "Il révèle et supprime de potentiels logiciels malveillant, et ainsi, aide votre antivirus."
 
 msgid "cloudlandingpage_features-cloud"
-msgstr ""
+msgstr "Il fait des calculs dans le Cloud ce qui permet de ne pas ralentir votre ordinateur."
 
 msgid "cloudlandingpage_uninstall-title"
-msgstr ""
+msgstr "Comment désinstaller complètement DriverPack Cloud de votre ordinateur"
 
 msgid "cloudlandingpage_uninstall-caption"
-msgstr ""
+msgstr "Avez-vous installé notre produit mais ne vouliez pas l'utiliser? Allez juste à la section \"Programmes et Fonctionnalités\" du \"Panneau de Configuration\". Trouver DriverPack Cloud et cliquer sur \"Désinstaller\", suivez la procédure qui se lancera. C'est tout, le logiciel est supprimé, DriverPack Cloud ne laisse pas de logiciel caché après suppression, ni ne salit votre ordinateur avec des logiciels publicitaires inutiles."
 
 msgid "cloudlandingpage_license"
-msgstr ""
+msgstr "Avant de commencer l'installation lisez ceci {{LINK}}, s'il vous plaît "
 
 msgid "cloudlandingpage_features-install"
-msgstr ""
+msgstr "Installer DriverPack Cloud"
 
 msgid "cloudlandingpage_license-link"
 msgstr "Contrat de licence"
@@ -1089,7 +1090,7 @@ msgstr "Le téléchargement n'a pas démarré? Cliquez ici pour {{LINK}}"
 #. i18n: EN: text for {{LINK}} is in key thankyoupopup_licence-link; RU: текст
 #. для {{LINK}} находится в ключе thankyoupopup_licence-link;
 msgid "thankyoupopup_licence-text"
-msgstr ""
+msgstr "En installant ce logiciel, vous acceptez ces conditions d'utilisation {{LINK}}"
 
 msgid "thankyoupopup_title"
 msgstr "Démarrer DriverPack"
