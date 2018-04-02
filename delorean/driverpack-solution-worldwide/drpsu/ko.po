@@ -66,7 +66,7 @@ msgstr "{{VENDOR.NAME}}"
 
 #. i18n: EN: Example: VENDOR.NAME=Lenovo; RU: Пример: VENDOR.NAME=Lenovo;
 msgid "breadcrumbs_vendorlanding-text"
-msgstr ""
+msgstr "{{VENDOR.NAME}} 드라이버"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=cardreaders|monitors; RU: Пример:
 #. CLASS.PLURAL.MAIN=картридеры|мониторы;
@@ -271,7 +271,7 @@ msgid "footer_banner_btn"
 msgstr "무료 <span class='bold'>DriverPack Online</span> 다운로드"
 
 msgid "footer_translate-feedback"
-msgstr "잘못된 프린트나 실수를 발견하셨나요?<br />강조 표시하고 {{HOTKEY}} 를 누르세요"
+msgstr "오류 또는 타이핑 실수를 찾았습니까?<br />그것을 강조 표시하고 {{HOTKEY}} 를 눌러주세요"
 
 msgid "header_search-title"
 msgstr "가장 큰 데이터베이스를 통한 <span class='bold'>드라이버 검색</span> — 백만 이상의 드라이버"
@@ -385,7 +385,7 @@ msgid "landingproducts_item-title-online"
 msgstr "DriverPack Online"
 
 msgid "landingproducts_item-description-online"
-msgstr ""
+msgstr "인터넷에 연결<span class='nobr'>({{SIZE}})</span>되어 있으면 즉시 다운로드되고 모든 드라이버를 다운로드 및 설치합니다"
 
 msgid "landingproducts_item-version"
 msgstr "버전:"
@@ -529,7 +529,7 @@ msgid "reviewheader_cta-text"
 msgstr "소셜 네트워크에서 DriverPack 커뮤니티에 가입하여 제품에 대한 소식을 듣고 토론에 참여하세요"
 
 msgid "reviewheader_cta"
-msgstr ""
+msgstr "DriverPack 개선에 대한 리뷰나 제안을 추가하세요"
 
 msgid "search_input-placeholder"
 msgstr "드라이버, 노트북 또는 DeviceID 의 이름 검색"
@@ -910,22 +910,22 @@ msgid "adminpagefaq_stable-a"
 msgstr "DriverPack 소프트웨어의 작동 안정성은 우리의 주요 우선 순위 중 하나이지만, 드문 경우이지만 사소한 오류는 여전히 발생합니다. 따라서 모든 것을 이전에 구성된 상태로 되돌릴 수 있는 복원 지점을 만듭니다. 향후 유사한 문제가 발생하지 않도록 DriverPack 메뉴로 이동하여 소프트웨어에서 자동으로 작성한 보고서를 기술 서비스로 보내주세요."
 
 msgid "cloudpagefaq_remove_soft-q"
-msgstr ""
+msgstr "왜 DriverPack Cloud는 내 컴퓨터에서 일부 소프트웨어를 제거 할 것을 제안합니까?"
 
 msgid "cloudpagefaq_remove_soft-a"
-msgstr ""
+msgstr "평점이 낮은 소프트웨어는 애드웨어 또는 바이러스인 경우가 많으므로 DriverPack Cloud 는 이를 제거하는 것을 권장합니다. 평점은 사용자의 선호도를 기반으로 형성됩니다 — 소프트웨어를 제거할수록 평점이 낮아집니다."
 
 msgid "cloudpagefaq_notifications-q"
-msgstr ""
+msgstr "DriverPack Cloud를 설치 후 데스크탑으로 알림을 받기 시작했습니다. 어떻게 비활성화 할 수 있습니까?"
 
 msgid "cloudpagefaq_notifications-a"
-msgstr ""
+msgstr "이러한 알림은 권장 사항일 뿐입니다. 각 알림의 오른쪽 상단 모서리에 있는 벨 아이콘을 클릭하여 특정 유형의 알림을 수신 거부할 수 있습니다."
 
 msgid "cloudpagefaq_usb-q"
-msgstr ""
+msgstr "내 플래시 카드를 USB 슬롯에 연결하면 일부 드라이버에 대한 알림이 내 데스크톱에 나타났습니다. 그것은 무엇을 위한 것 입니까?"
 
 msgid "cloudpagefaq_usb-a"
-msgstr ""
+msgstr "DriverPack Cloud 는 새로운 장치의 연결을 확인하고 적절한 장치가 있는지 검사합니다. 필요한 드라이버가 누락된 경우 즉시 설치할 수 있습니다 — 장치의 적절한 조작성을 위해 필요합니다."
 
 msgid "badrabbitpromopage_cta-text"
 msgstr "Bad Rabbit 암호화 바이러스 — 귀하의 PC를 보호하는 방법?"
@@ -958,46 +958,46 @@ msgid "badrabbitpromopage_link-smb"
 msgstr "Windows 및 Windows Server 용 SMB 프로토콜의 버전 1, 2 및 3을 사용하거나 사용하지 않도록 설정하는 방법"
 
 msgid "cloudlandingpage_cackle-title"
-msgstr ""
+msgstr "DriverPack Cloud 에 대한 귀하의 의견을 알려주세요"
 
 msgid "cloudlandingpage_cackle-caption"
-msgstr ""
+msgstr "DriverPack Cloud가 마음에 드십니까? 어떤 기능을 추가 하시겠습니까? 저희에게 말해주세요."
 
 msgid "cloudlandingpage_header-title"
-msgstr ""
+msgstr "DriverPack Cloud 는 PC 효율성을 높이기 위한 새로운 소프트웨어 입니다"
 
 msgid "cloudlandingpage_about-what-is-title"
-msgstr ""
+msgstr "DriverPack Cloud 소프트웨어란 무엇 입니까?"
 
 msgid "cloudlandingpage_about-what-is-caption"
-msgstr ""
+msgstr "이것은 추가 비용이나 하드웨어 업그레이드 없이 컴퓨터 효율성을 높이기위한 DriverPack 팀의 새로운 소프트웨어 제품입니다. 컴퓨터에서 CS : GO 또는 Dota 2 작동 속도에 만족하지 않습니까? DriverPack Cloud를 사용해보세요!"
 
 msgid "cloudlandingpage_about-how-works-title"
-msgstr ""
+msgstr "DriverPack Cloud 는 어떻게 작동합니까?"
 
 msgid "cloudlandingpage_about-how-works-caption"
-msgstr ""
+msgstr "우리 제품은 PC에서 드라이버의 상태를 분석하고, 컴퓨터의 효율성에 영향을 주는 모든 소프트웨어를 이 방식으로 보여 주며, 드라이버를 업데이트하고 컴퓨터 속도를 저하시키는 소프트웨어를 제거하거나 그 반대의 경우 권장 사항을 제시하여 설치를 제안합니다. 하드웨어 작동 속도를 높이는 타사 제품 전체 프로세스가 사용자의 통제하에 있습니다 – 귀하의 허락없이 DriverPack Cloud 측에서 아무런 조치도 취하지 않습니다"
 
 msgid "cloudlandingpage_features-monitoring"
-msgstr ""
+msgstr "거대한 DriverPack 데이터베이스에서 드라이버의 상태를 모니터링하고 중요 업데이트 및 누락된 드라이버를 다운로드합니다"
 
 msgid "cloudlandingpage_features-safety"
-msgstr ""
+msgstr "잠재적 맬웨어를 신속하게 표시하고 제거하여 안티 바이러스에 도움이됩니다"
 
 msgid "cloudlandingpage_features-cloud"
-msgstr ""
+msgstr "클라우드 서비스에서 계산을 수행하여 컴퓨터에 추가 리소스를 절약할 수있게 합니다"
 
 msgid "cloudlandingpage_uninstall-title"
-msgstr ""
+msgstr "컴퓨터에서 DriverPack Cloud를 완전히 제거하는 방법"
 
 msgid "cloudlandingpage_uninstall-caption"
-msgstr ""
+msgstr "우리 제품을 설치 했지만 사용하지 않으려고 하십니까? 제어판의 소프트웨어 섹션으로 가서 소프트웨어 제거를 클릭하세요. 드롭 다운에서 DriverPack Cloud를 찾아 일반적인 절차에 따라 제거하세요. 그게 전부입니다, 소프트웨어는 제거됩니다. DriverPack Cloud는 제거 후 숨겨진 소프트웨어를 남기지 않으며 모든 애드웨어 쓰레기를 PC에 저장하지 않습니다."
 
 msgid "cloudlandingpage_license"
-msgstr ""
+msgstr "설치를 시작하기 전에 {{LINK}} 를 읽어 주세요"
 
 msgid "cloudlandingpage_features-install"
-msgstr ""
+msgstr "DriverPack Cloud 설치"
 
 msgid "cloudlandingpage_license-link"
 msgstr "라이센스 동의"
@@ -1085,7 +1085,7 @@ msgstr "다운로드가 시작되지 않았습니까? 여기를 클릭하세요 
 #. i18n: EN: text for {{LINK}} is in key thankyoupopup_licence-link; RU: текст
 #. для {{LINK}} находится в ключе thankyoupopup_licence-link;
 msgid "thankyoupopup_licence-text"
-msgstr ""
+msgstr "이 소프트웨어를 설치하면, 귀하는 {{LINK}} 조건을 수락하게 됩니다"
 
 msgid "thankyoupopup_title"
 msgstr "DriverPack 시작"
@@ -1100,7 +1100,7 @@ msgid "thankyoupopup_download-link"
 msgstr "다운로드"
 
 msgid "translate-feedback-header_caption"
-msgstr "이 페이지는 최근에 번역되었습니다. 잘못된 프린트를 찾았습니까? 강조 표시하고 {{HOTKEY}} 를 누르세요"
+msgstr "이 페이지는 최근에 번역되었습니다. 실수를 찾았습니까? 강조 표시하고 {{HOTKEY}} 를 눌러주세요"
 
 msgid "translate-feedback-form-popup_preview-title"
 msgstr "다음 텍스트를 강조 표시했습니다:"
