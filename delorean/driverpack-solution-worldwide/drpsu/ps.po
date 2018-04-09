@@ -67,7 +67,7 @@ msgstr "{{VENDOR.NAME}}"
 
 #. i18n: EN: Example: VENDOR.NAME=Lenovo; RU: Пример: VENDOR.NAME=Lenovo;
 msgid "breadcrumbs_vendorlanding-text"
-msgstr ""
+msgstr "{{VENDOR.NAME}}  چلونکی"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=cardreaders|monitors; RU: Пример:
 #. CLASS.PLURAL.MAIN=картридеры|мониторы;
@@ -90,7 +90,7 @@ msgstr "لپ ټاپونه"
 
 #. i18n: EN: Example: VENDOR.NAME=Asus; RU: Пример: VENDOR.NAME=Asus;
 msgid "breadcrumbs_notebookvendor-text"
-msgstr ""
+msgstr "{{VENDOR.NAME}} لپ ټاپونه"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=X1 carbon;
 #. RU: Пример: NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=X1 carbon;
@@ -102,7 +102,7 @@ msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
 #. CLASS.PLURAL.MAIN=видеокарты|чипсеты, NOTEBOOK.VENDOR.NAME=Lenovo,
 #. NOTEBOOK.NAME=G580;
 msgid "breadcrumbs_notebookdevices-text"
-msgstr ""
+msgstr "{{CLASS.PLURAL.MAIN}} د {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} لپ ټاپ "
 
 msgid "devicecard_download-btn"
 msgstr "دډرایور ډاونلوډول"
@@ -272,7 +272,7 @@ msgid "footer_banner_btn"
 msgstr "ډاونلوډ یی کړئ <span class='bold'>DriverPack Online</span> په وړیا ډول"
 
 msgid "footer_translate-feedback"
-msgstr ""
+msgstr "ایا تاسو یو غلطی یا د ټیکولو غلطی موندلی دی؟<br />لوړې کړئ او پرانیزي {{HOTKEY}}"
 
 msgid "header_search-title"
 msgstr "<span class='bold'>ډرایور وپلټئ</span>د نړۍ په غټ ترینه ډیټابیس کی — زیات تر یو میلیون ډرایورو څخه "
@@ -320,7 +320,7 @@ msgid "landingfeatures_landing-title"
 msgstr "DriverPack ترټولو زیاته مستریح او چټکه لاره ده د هر رقم کمپيوټر د سمبالولو لپاره"
 
 msgid "landingfeatures_landing-subtitle"
-msgstr ""
+msgstr "دا سافټویر وړیا لپاره چمتو شوی دی، د مسلکي او ابتدايي دواړو لپاره مناسب دی"
 
 msgid "landingfeatures_item-title-free"
 msgstr "وړیا"
@@ -356,13 +356,13 @@ msgid "landingintroduction_author-title"
 msgstr "سلام زما نوم ارتر کوزیاکو دی. زه د DriverPack لیکونکی او جوړونکی یم"
 
 msgid "landingintroduction_author-speech"
-msgstr ""
+msgstr "8 کاله دمخه په یوه لیوالتیا سره د لیوالتیا په نامه سره لیکل شوی سافټویر څخه، موږ په هغه شرکت کې بدل کړی چې د نړۍ په کچه یې له 40 میلیونو څخه زیات د خپلو کمپیوټرونو د تنظیمولو لپاره مرسته کړې ده!<br /><br />په دې وخت کې، زمونږ سافټویر ناقابل یقین حد چټک شو. نن ورځ، DriverPack په نړۍ کې د بې ساري ډرایو ترټولو لوی ډیټابیس دی، چې په ټوله نړۍ کې په خورا تیز رفتار سایټونو کې موقعیت لري. د چلوونکو نصبولو پروسه په چټکۍ سره او د غوره کیفیت سره سم، موږ د ماشین زده کړه تکنالوژي کاروو چې زموږ د الګوریتم غوره کول حتی ښه او ډیر درست. موږ په دې ډول بریالي شوي یو چې دا سافټویر سم په وړیا توګه پاتې وي، او هرڅوک کولای شي دا کار وکړي.<br /><br />زما ټیم او زه زموږ په محصول ویاړم، او موږ هیله مند یو چې ستاسو د باور وړ مرستی به د هرې کمپیوټر په جوړولو کې د لنډ وخت په چوکاټ کې جوړ شي. "
 
 msgid "landingintroduction_author-speech-marked"
 msgstr "موږ خپل ټول وخت مصرفوو ترڅو ستاسو ده وژغورو!"
 
 msgid "landingintroduction_video-caption"
-msgstr ""
+msgstr "او دلته هغه څه دي چې د روسیې د فدرالي صدراعظم ډېریتری میډویویف د DriverPack Solution په اړه فکر کوي"
 
 msgid "landingnotebookvendorslist_landing-title"
 msgstr "DriverPack دهر رقم کمپيوټر لپاره مناسب دی"
@@ -386,7 +386,7 @@ msgid "landingproducts_item-title-online"
 msgstr "DriverPack Online"
 
 msgid "landingproducts_item-description-online"
-msgstr ""
+msgstr "دا په چټکه توګه ډکوي، که تاسو د انټرنټ کنټرول لرئ نو ټول موټر چلوونکي وټاکئ او نصب کړئ <span class='nobr'>({{SIZE}})</span>"
 
 msgid "landingproducts_item-version"
 msgstr "ورژن یا ډول:"
@@ -398,37 +398,37 @@ msgid "landingproducts_item-title-network"
 msgstr "DriverPack Offline Network"
 
 msgid "landingproducts_item-description-network"
-msgstr ""
+msgstr "په شبکه کې د شبکې هارډر (LAN/Wi-Fi) لپاره چلوونکي لري، دا د انټرنیټه پرته له کومې شبکې سره کار کوي <span class='nobr'>({{SIZE}})</span>"
 
 msgid "landingproducts_item-title-offline"
 msgstr "DriverPack Offline Full"
 
 msgid "landingproducts_item-description-offline"
-msgstr ""
+msgstr "پدې کې ټول ډریوران شامل دي، پرته له دې چې د انټرنیټ سره اړیکې ونلري، دا د Torrent-tracker له لارې ډک کولی شي <span class='nobr'>({{SIZE}})</span>"
 
 msgid "landingpublications__landing-title"
-msgstr ""
+msgstr "د DriverPack په اړه د ډله ایزو رسنیو خپرونه"
 
 msgid "landingscreenshots_landing-title"
-msgstr ""
+msgstr "د کمپیوټر DriverPack د کمپیوټر کنټرول کولو لپاره ترټولو اسانه او چټکه لاره ده"
 
 msgid "landingscreenshots_landing-subtitle"
-msgstr ""
+msgstr "دا سافټویر وړیا لپاره چمتو شوی دی، د مسلکي او ابتدايي دواړو لپاره مناسب دی"
 
 msgid "landingsocial_landing-title"
 msgstr "د DriverPack له  ټولني سره یوځای سئ"
 
 msgid "landingsocial_landing-subtitle"
-msgstr ""
+msgstr "خبرونو تعقیب او په خبرو اترو کې برخه واخلئ"
 
 msgid "landingtopvideocardlist_landing-title"
 msgstr "دمشهوره ویډیو کارډ نمونې"
 
 msgid "landingtopvideocardlist_landing-caption"
-msgstr ""
+msgstr "DriverPack د هر ماډلونو د ویډیو کارتونو لپاره چلوونکي ټاکي، دلته دا ډیر مشهور دي"
 
 msgid "landingusers_cta"
-msgstr ""
+msgstr "د نړۍ په ګوټ ګوټ کې د DriverPack کاروونکو شمیر د هرې تیرې دویمې دورې سره وده کوي"
 
 msgid "landingusers_cta-btn"
 msgstr "نصب یی کړئ ټول غوښتل سوی ډرایورونه"
@@ -437,19 +437,19 @@ msgid "landingusers_versions"
 msgstr "د DriverPack نور ورژنونه یا ډولونه"
 
 msgid "landingvideocardlist_landing-title"
-msgstr ""
+msgstr "نامتو ویډیو کارت کارپوهان"
 
 msgid "landingwizard_landing-title"
-msgstr ""
+msgstr "دا اوس ممکنه ده چې یو کمپیوټر په یو کلیک کې تنظیم کړئ"
 
 msgid "landingwizard_item-caption-download"
-msgstr ""
+msgstr "کښته کړي او  پيل کړي DriverPack Online"
 
 msgid "landingwizard_item-caption-setup"
-msgstr ""
+msgstr "خپل کمپیوټر د یو ساده عمل سره تنظیم کړئ"
 
 msgid "landingwizard_item-caption-profit"
-msgstr ""
+msgstr "هو! اوس زما کمپیوټر د برنامه نوی په څیر پرمخ ځي!"
 
 msgid "landingwizard_cta-btn"
 msgstr "نصب یی کړئ ټول غوښتل سوی ډرایورونه"
@@ -461,16 +461,16 @@ msgid "navbar_download-link"
 msgstr " ډاونلوډ یا کښته کول DriverPack Online"
 
 msgid "notfound_cta-text"
-msgstr ""
+msgstr "تاسو کولی شئ د DriverPack Online کارولو په واسطه په اتوماتيک ډول موټروان پیدا او نصب کړئ"
 
 msgid "notfound_cta-btn"
 msgstr " ډاونلوډ یا کښته کول DriverPack Online"
 
 msgid "notfound_info-404"
-msgstr ""
+msgstr "{{404}} — غوښتل شوې پاڼه ونه موندل شوه"
 
 msgid "notfound_info-500"
-msgstr ""
+msgstr "{{500}} — یو څه خراب شو (د سرور تېروتنه)"
 
 msgid "notebookfilters-title"
 msgstr "موجود ډرایورونه"
@@ -479,84 +479,84 @@ msgid "notebookvendorslist_other-text"
 msgstr "نور تولیدکوونکي"
 
 msgid "notebookvendorslist_title_os"
-msgstr ""
+msgstr "د لیپ ټاپ لپاره چلوونکی پر {{OS}}"
 
 msgid "notebookvendorslist_title"
-msgstr ""
+msgstr "د لیپ ټاپ لپاره چلوونکی لټون"
 
 msgid "productlandingheader-online_cta-btn"
 msgstr " ډاونلوډ یا کښته کول DriverPack Online"
 
 msgid "productlandingheader-online_caption"
-msgstr ""
+msgstr "DriverPack Online - د ډیر خورا مشهور محصول {{SIZE}} اندازه.دا په چټکه توګه ډک شوی، دا ستاسو د کمپیوټر یا لپ ټاپ موټر چلوونکي ټاکي، او د هغې ډونلو ډه ولو وروسته د انټرنیټ له لارې ټول اړین چلوونکي نصب کوي. دا په بشپړه توګه یو عادي کاروونکی دی. دا یوازې د انټرنیټ له لاسرسۍ سره کار کوي."
 
 msgid "productlandingheader-network_cta-btn"
-msgstr ""
+msgstr "کښته کړی DriverPack Offline Network"
 
 msgid "productlandingheader-network_caption"
-msgstr ""
+msgstr "DriverPack Offline Network - په شبکه کې د شبکې هارډر لپاره چلوونکي ({{SIZE}}). دا په تیزی سره کښته شوي اورینځل کیږي تر هغه لا تیز!کله چې Windows بیا رینځل کیږي، DriverPack Offline Network د انټرنیټ سره د نښلولو لپاره د شبکه چلوونکي کنټرول کړئ، او بیا د نورو وسیلو لپاره چلوونکي کښته کړئ!"
 
 msgid "productlandingheader-offline_cta-btn"
-msgstr ""
+msgstr "کښته کړي DriverPack Offline Full"
 
 msgid "productlandingheader-offline_caption"
-msgstr ""
+msgstr "DriverPack Offline Full - یو لوی بکس {{SIZE}} د انټرنیټ لاسرسی پرته د چلولو نصبولو اندازه. بس کښته کړئ DriverPack Offline Full او هر هغه ځای چې تاسو یې خوښ غواړئ د نوي تاریخي چلوونکو لوی کتابتون وکاروئ. دا په بشپړه توګه د سیسټم اصلاح کوي."
 
 msgid "promoheader_cta-text-gamers"
-msgstr ""
+msgstr "ستاسو کمپیوټر ستاسو تر فکر خورا پیاوړی دی: تازه کول د وړیا چلوونکو "
 
 msgid "promoheader_cta-text-gamers-caption"
-msgstr ""
+msgstr "که تاسو د کمپیوټر لوبې غوره کوئ، موږ تاسو ته سپارښتنه کوو چې ستاسو کمپیوټر کې چلوونکي ډیری وخت ستاسو د هارډر ترټولو لوړ ممکنه چلوونکو ته ورسیږو. تر 37٪ ډیر نور FPS - د DriverPack سره غوره لوبې تجربه او نوي لاسته راوړنې."
 
 msgid "promoheader_cta-text"
-msgstr ""
+msgstr "DriverPack وړیا چلوونکي نصب کړي او په هر ډول وسیله د چلوونکي ستونزې حل کړي"
 
 msgid "promoheader_cta-btn"
 msgstr "نصب یی کړئ ټول غوښتل سوی ډرایورونه"
 
 msgid "promoheader_size"
-msgstr ""
+msgstr "د دوتنې اندازه: {{SIZE}} KB"
 
 msgid "promoheader_license"
 msgstr "د جواز تړون"
 
 msgid "promoheader_os-versions"
-msgstr ""
+msgstr "دا سافټویر مناسب دی لپارهد  Vista, XP 10, 8.1, 8, 7, Windows"
 
 msgid "promoheader_uninstall"
-msgstr ""
+msgstr "DriverPack لیرې کول"
 
 msgid "reviewheader_cta-text"
-msgstr ""
+msgstr "شامل شئ د DriverPack په ټولنیزو شبکو کې د ټولني د محصول په اړه د خبرونو په ساتلو او بحثونو کې برخه واخلئ"
 
 msgid "reviewheader_cta"
-msgstr ""
+msgstr "خپل ښه بیاکتنه یا وړاندیز په ښه کولو کې زیات کړئ DriverPack"
 
 msgid "search_input-placeholder"
-msgstr ""
+msgstr "د چلوونکی، لیپ ټاپ یا د نوم لټون DeviceID"
 
 msgid "search_btn-text"
-msgstr ""
+msgstr "ومومئ"
 
 msgid "searchformitem_type-section"
-msgstr ""
+msgstr "کټګورۍ"
 
 msgid "searchformitem_type-notebook"
-msgstr ""
+msgstr "لپ ټاپ"
 
 msgid "searchformitem_type-device"
-msgstr ""
+msgstr "وسیله"
 
 msgid "searchformitem_type-free"
-msgstr ""
+msgstr "وړیا"
 
 #. i18n: EN: Example: NAME=Acer; RU: Пример: NAME=Acer;
 msgid "generatesearchitemname_notebookvendor"
-msgstr ""
+msgstr "{{NAME}} لپ ټاپونه "
 
 #. i18n: EN: Example: NAME=Asus; RU: Пример: NAME=Asus;
 msgid "generatesearchitemname_vendor"
-msgstr ""
+msgstr "{{NAME}} وسایل"
 
 msgid "deviceclasses_bluetooth-single-main"
 msgstr "Bluetooth وسیله"
@@ -595,16 +595,16 @@ msgid "deviceclasses_chipset-plural-for"
 msgstr "چیپسیټس"
 
 msgid "deviceclasses_inputdev-single-main"
-msgstr ""
+msgstr "د انډول وسیله"
 
 msgid "deviceclasses_inputdev-single-for"
-msgstr ""
+msgstr "د انډول وسیله"
 
 msgid "deviceclasses_inputdev-plural-main"
-msgstr ""
+msgstr "د انډول وسیلی"
 
 msgid "deviceclasses_inputdev-plural-for"
-msgstr ""
+msgstr "د انډول وسیلی"
 
 msgid "deviceclasses_lan-single-main"
 msgstr "د شبکې کارت"
@@ -673,10 +673,10 @@ msgid "deviceclasses_printer-single-for"
 msgstr "چاپګر"
 
 msgid "deviceclasses_printer-plural-main"
-msgstr ""
+msgstr "چاپګر"
 
 msgid "deviceclasses_printer-plural-for"
-msgstr ""
+msgstr "چاپګر"
 
 msgid "deviceclasses_sound-single-main"
 msgstr "د غږ کارت"
@@ -751,32 +751,32 @@ msgid "deviceclasses_other-plural-for"
 msgstr "بله وسیلی"
 
 msgid "searchheader_caption-subtitle"
-msgstr ""
+msgstr "د چلوونکی د پوښتنو لټون:"
 
 msgid "searchheader_caption-filter-label"
-msgstr ""
+msgstr "چلوونکی د ټاکل شوي OS لپاره به کښته شي"
 
 #. i18n: EN: Example: NOTEBOOK=Acer AO521; Text for {{DOWNLOAD}} is in key
 #. searchresult_details-content_download-link; RU: Пример: NOTEBOOK=Acer
 #. AO521; Текст для {{DOWNLOAD}} находится в ключе searchresult_details-
 #. content_download-link
 msgid "searchresult_details-content-notebook-text"
-msgstr ""
+msgstr "{{DOWNLOAD}} د دې لپاره چې اړین چلوونکی چټک وپیژني او نصب کړئ، یا لاړ شئ {{NOTEBOOK}} پاڼه او په اړینه توګه د چلوونکی ټاکنه"
 
 msgid "searchresult_details-content_download-link"
 msgstr "DriverPack ډاونلوډ کړئ"
 
 msgid "searchresult_notebook"
-msgstr ""
+msgstr "لپ ټاپ"
 
 msgid "searchresult_download-btn"
-msgstr ""
+msgstr "چلوونکي په اتوماتيک ډول نصب کړئ"
 
 msgid "searchresult_details-content-text-placeholder"
 msgstr "معلومات اوس لوډ یا پورته کیږی..."
 
 msgid "searchresult_details-content-label-1"
-msgstr ""
+msgstr "OS"
 
 msgid "searchresult_details-content-label-2"
 msgstr "ټوله سیسټمونه"
@@ -786,388 +786,388 @@ msgstr "ټوله سیسټمونه"
 #. GeForce 205; Текст для {{DOWNLOAD}} находится в ключе searchresult_details-
 #. content_download-link
 msgid "searchresult_details-content-group-text"
-msgstr ""
+msgstr "{{DOWNLOAD}} د دې لپاره چې اړین چلوونکی چټک وپیژني او نصب کړئ، یا لاړ شئ {{DEVICE}} پاڼه او په اړینه توګه د چلوونکی ټاکنه"
 
 #. i18n: EN: Example: CLASS.SINGLE.MAIN=monitor|chipset; COUNT=12; RU: Пример:
 #. CLASS.SINGLE.MAIN=монитор|чипсет; COUNT=12;
 msgid "searchresult_device"
-msgstr ""
+msgstr "{{CLASS.SINGLE.MAIN}} ({{COUNT}} پایلې وموندل شوې)"
 
 msgid "searchresult_details-content-text-many"
-msgstr ""
+msgstr "د دې وسایطو لپاره ډیری بیلابیل چلوونکی موندل شوي"
 
 msgid "seofooter_os-list-title"
-msgstr ""
+msgstr "د عملیاتي سیسټم بڼه: <span itemprop='operatingSystem'>{{OSLIST}}</span>"
 
 msgid "seofooter_offers-title"
-msgstr ""
+msgstr "<span itemprop='offers' itemscope='' itemtype='http://schema.org/Offer'>شته <meta itemprop='price' content='0' />وړیا</span>"
 
 msgid "seofooter_driver-description-title"
-msgstr ""
+msgstr "د چلوونکی تفصیل"
 
 msgid "seofooter_popular-drivers-title"
-msgstr ""
+msgstr "نامتو چلوونکی "
 
 msgid "sidebanner_title"
-msgstr ""
+msgstr "ایا د چلوونکو په لټه کې یاست؟"
 
 msgid "sidebanner_caption"
-msgstr ""
+msgstr "DriverPack په اتوماتیک ډول به <span class='SideBanner__caption-marked'>وټاکئ او لګول د</span> اړین چلونکي"
 
 msgid "translationheader_cta-text"
-msgstr ""
+msgstr "موږ سره مرسته وکړه DriverPack په ټوله نړۍ کې د میلیونونو پیرود کاروونکو لپاره شتون لري — زموږ داوطلبۍ پروژه په نورو ژبو ژباړلو کې برخه واخلئ"
 
 msgid "translationheader_bubble-team"
-msgstr ""
+msgstr "ایا تاسو غواړئ چې د اتوماتیک کمپیوټر د تنظیم کولو ترټولو لوی خدمت لپاره د ژباړونکو ټیم برخه وي؟"
 
 msgid "translationheader_bubble-languages"
-msgstr ""
+msgstr "ایا تاسو انګریزي یا روسی په ښه توګه پوهیږئ، نو تاسو د دې لپاره چمتو یاست چې له یو څخه ستاسو د خپل اصلي ژبه ته ژباړئ؟"
 
 msgid "translationheader_bubble-experience"
-msgstr ""
+msgstr "ایا تاسو آنلاین ژباړونکي خدماتو په کارولو سره د سافټویر یا ویب سایټ ژباړلو کې کومه تجربه لرئ؟"
 
 msgid "translationheader_bubble-email"
-msgstr ""
+msgstr "که ستاسو ځوابونه هو د دریو پوښتنو لپاره وي، نو مهرباني وکړئ موږ ته e-mail ولېږئ {{EMAIL}} سره '{{SUBJECT}}' په موضوع لیک کې او موږ ته اجازه راکړئ چې خپل هدف لرونکي ژبه په کوم چی تاسو پوهیږي ورسره موافق یاست."
 
 msgid "translationlist_title"
-msgstr ""
+msgstr "DriverPack مستند ژباړونکي لیست"
 
 msgid "translationtool_text-transifex"
-msgstr ""
+msgstr "په DriverPack Solution موږ خپل ځایي کولو ته د Transifex.com خدمت په واسطه کار کوو:"
 
 msgid "translationtool_example-ru-to-en"
-msgstr ""
+msgstr "د روسیې (RU) څخه د انګریزي ژبې (EN) او د سي ایس ژبو (CIS) ژباړې لپاره لیکې"
 
 msgid "translationtool_example-en-to-all"
-msgstr ""
+msgstr "د انګریزي ژبې (EN) څخه د نورو نړيو ژبو ته د ژباړې لپاره لیکونه"
 
 msgid "deviceclasses_laptop-single-main"
-msgstr ""
+msgstr "لپ ټاپ"
 
 msgid "language_title"
 msgstr "Pushto"
 
 msgid "landingPagePublications_rbk"
-msgstr ""
+msgstr "DriverPack دا سافټویر دی چې د ارټور کوزایکوف ټیم لخوا د Windows لپاره چلوونکي په بشپړه توګه انتخاب او آزموینې لري. دا غوښتنلیک د کاروونکي کمپیوټر تحلیلوي او په دې کی اړین چلوونکي نصب کوي، کوم چې تاسو ته د دوه مسلو حل کولو توان درکوي: لومړی، د کمپیوټر د کنټرول بهیر تیزولو لپاره) کوم چې په ځانګړي توګه که چیری په یو سیسټم کې لسګونه کمپیوټرونه وي (؛ او دویم، د عملیاتي وړتیا ښه کولو لپاره."
 
 msgid "landingPagePublications_secretfirmy"
-msgstr ""
+msgstr "نن، DriverPack په نړۍ کې د ډیر چلوونکو تر ټولو لوی ډیټابیس لري چې د 45 ژبو ژباړل شوی او د 42 میلیون کاروونکو کمپیوټرونو پرمخ وړل کیږي."
 
 msgid "landingPagePublications_cnews"
-msgstr ""
+msgstr "له دې راهیسې د سافټویر لومړی نسخه جوړ شوه DriverPack Solution، د کاروونکو په منځ کې خورا مشهور و. دا سافټویر د وړیا کښټه لپاره چمتو دی.دا توپیر لري DriverPack Solution د خپلو سیالیو څخه او د ډیرو نوي کاروونکی جذب کول."
 
 msgid "landingPagePublications_xbit"
-msgstr ""
+msgstr "DriverPack Solution دا یو د زړه پورې غوښتنلیک دی، دا د یو لړ انتخابونو درلودونکی دی چې د ورته ډول نورو سافټویر حلونه چمتو کوي نه. هر کاروونکي کولی شي ټول غلطي سمبال کړي او د سیسټم او په ټولو دوو کلیکونو کې یې ټولې وسایط سمبال کړي. اوس مهال، د DriverPack ډاټابیس کې د چلوونکو شمېره لا دمخه له 1.1 ملیون ډیرو څخه ډیره دی، او دوی ټول د خوندیتوب لپاره ازمویل شوي."
 
 msgid "landingPagePublications_chip"
-msgstr ""
+msgstr "د DriverPack سره دا ستاسو د PC اجزاو لپاره د چلوونکو وروستي نسخو موندلو لپاره یوه ننګونه نه ده. تر ټولو غوره ښکیل اړخ دا دی چې یو کار هم د ځان له خوا هیڅ څه نه کوي. دا وسیله په بشپړه توګه خودکاره او اسانه ده"
 
 msgid "landingPagePublications_pcmag"
-msgstr ""
+msgstr "د DriverPack Protect به ستاسو د کمپیوټر د مالویر او ایڈویور پروګرامونو او پلگ ان څخه خوندي وساتي، کوم چې حتی د انټیویرس سافټویر او د مخ تړلو وسایلو ډیری وختونه ناکامه دي"
 
 msgid "landingPagePublications_habr"
-msgstr ""
+msgstr "هرکله چې تاسو د Windows بیاپټولو په وخت کې ډرایورین لټولو او نصبولو ته اړتیا لرئ، زما په نظر، د Windows کورنۍ ټول ترټولو لوی خنډونه دي. لکه څنګه چې په 2008 کې، ما پریکړه وکړه چې دا ستونزه حل کړم او خپل کمپیوټر ته یې وشه یم چې د DriverPack په نوم یادیږي. نن ورځ زما محصول په ټوله نړۍ کې د 40 میلیونو کاروونکو لخوا کارول کیږي، او زه فکر کوم چې په Windows کې چلونکي ستونزې اوس حل شوي، مګر د دریم اړخ حل سره."
 
 msgid "landingPagePublications_computerra"
-msgstr ""
+msgstr "نوې بڼه یو کاروونکي چمتو کوي چې د خپل چلوونکي ټاکلو لپاره نور وسایل ولري. دا د یوې ځانګړې سرچینې موضوع ده چې د کمپیوټر خدمتونه کوي او ډیری مختلف هارډر اداره کوي. اوس دا ممکنه ده چې د بې ځایه کولو لرې کولو په ځای د driverpacks لپاره یو بدیل DriverPack سره یوځای کړي."
 
 msgid "landingPagePublications_vc"
-msgstr ""
+msgstr "د انګورو لپاره مننه، دا محصول د کاروونکو لخوا په 45 ژبو ژباړل شوی دی پرته له دې چې زموږ ټیم ګډون وکړي"
 
 msgid "adminpagefaq_official_vendors-q"
-msgstr ""
+msgstr "د DriverPack مخکې، ما چلوونکي له رسمی سایټونو څخه کښته کړل مګر ما د هغوی سره ستونزي هم تجربې کړې. ولې چلوونکي په DriverPack کې د جوړونکو څخه د ډیرو باور وړ دي؟"
 
 msgid "adminpagefaq_official_vendors-a"
-msgstr ""
+msgstr "د دې لپاره چې زموږ د  ډیټابیس نه یواځې ترټولو ستر مګر ترټولو باثباته وي، موږ دا په دوامداره توګه د هغې په ښه کولو کې کار کوو، او موږ هغه سیسټمونه هم سمبال کوو کوم چې رسمي فابریکې ته اجازه ورکوي! موږ د ماشین زده کړې ټیکنالوژۍ کاروئ او د دې لپاره مننه کوم، زموږ د انتخاب الګوریتم په دوامداره توګه وده کوي. او دا سمه ده چې ولې د DriverPack څخه چلوونکي تر ټولو ډاډمن دي :-)"
 
 msgid "adminpagefaq_database-q"
-msgstr ""
+msgstr "د DriverPack ډیټابیس څنګه پراختیا کوي؟ ایا زه واقعا هغه چلوونکي چې زه یې په دې کې اړتیا لرم پیدا کولی شم؟"
 
 msgid "adminpagefaq_database-a"
-msgstr ""
+msgstr "تر اوسه پورې، زموږ د چلوونکی ډاټابیس په نړۍ کې ترټولو لوی دی، له همدې کبله تاسو به د دې وړتیا ولرئ چې د هرې وسیلې لپاره  چلوونکی 99٪ بریالیتوب سره ومومئ. د دې ډیټا ډیټابیس د راټولولو او ملاتړ کولو لپاره، موږ مستقیم د تجهیزاتو تولیدونکو او د چلوونکو پرمخ وړونکو سره همکاري کوو. موږ د رسمي سایټونو او همدارنګه د FTP له خصوصي خدماتو څخه چلوونکی راټول او ازموینه کوو، او موږ د کاروونکو فعال سپارښتنې هم په پام کې نیسو."
 
 msgid "adminpagefaq_free-q"
-msgstr ""
+msgstr "ایا دا سمه ده چې د DriverPack په بشپړه توګه وړیا دی؟"
 
 msgid "adminpagefaq_free-a"
-msgstr ""
+msgstr "زموږ ټول سافټویر بالکل وړیا دی! مګر که تاسو غواړئ زموږ د پروژې ملاتړ وکړئ، تاسو کولی شئ هغه ګټور سافټویر نصب کړئ چې موږ یې د خپل کار لپاره وړاندیز کوو، او خپلو ملګرو ته د DriverPack سپارښتنه کوو :-)"
 
 msgid "adminpagefaq_antivirus-q"
-msgstr ""
+msgstr "زما انټیویوائرس په DriverPack کې یو ویروس کشف کړ - دا څنګه کیدی شي؟"
 
 msgid "adminpagefaq_antivirus-a"
-msgstr ""
+msgstr "دا تر ټولو ډیر احتمال یو غلط مثبت دی، ځکه چې د DriverPack ټولو نسخو د Kaspersky Laboratory لخوا بشپړه ازموینې او اعتبار ترلاسه کوي. زموږ شرکت د Avast، او 360 Total Security لکه د انټیویویرس ډیرو سافټویر وړاندې کونکو سره همکاری کوي. د عملیاتي کارولو لپاره، یوازې د انټرویوس سپینې لیست ته DriverPack اضافه کړئ. موږ به هم ستاینه وکړو که تاسو د انټیویویرس شرکت او همداراز زموږ د ملاتړ خدمت لپاره د غلطي په توګه راپور ورکړی"
 
 msgid "adminpagefaq_expert_mode-q"
-msgstr ""
+msgstr "کوم ډول موډل د DriverPack کارولو لپاره خورا اسان دی؟"
 
 msgid "adminpagefaq_expert_mode-a"
-msgstr ""
+msgstr "په ډیفالټ کې، DriverPack په اتوماتیک ډول پیل کیږي، د پوهیدو وړ او د نوي کاروونکو لپاره هم کارول اسانه شوي. په هرصورت، د پرمختلونکو کاروونکو او سیسټمونو د اسانتیاوو لپاره، موږ د ماهر موډل جوړولو ته وده ورکړې ده چې پراخې ترتیبات او د حساس کولو اختیارونه لري. د دې موډل فعالولو لپاره، دا بس دی چې د سکرین په ښکته کې واقع ورته تڼۍ کلیک وکړئ"
 
 msgid "adminpagefaq_stable-q"
-msgstr ""
+msgstr "ډرایور په سمه توګه ندی نصب شوی او زما کمپیوټر اوس ستونزې لري. څنګه زه کولی شم وضعیت وضع کړم؟"
 
 msgid "adminpagefaq_stable-a"
-msgstr ""
+msgstr "د DriverPack سافټویر عملیات ثبات زموږ له اصلي لومړیتوبونو څخه دی خو لږ لږ ناکامۍ لاهم واقع کیږي، که څه هم کم دي. له همدې امله موږ د بیا رغونې ټکی رامینځته کوو چې تاسو به د هر ډول بیرته راستنیدونکي حالت توان درکړو. په راتلونکي کې د ورته ستونزې د مخنیوی لپاره، موږ تاسو ته سپارښتنه کوو چې د DriverPack مینو ته لاړ شئ او هغه راپور ولیکئ چې په اتوماتيک ډول د سافټویر لخوا جوړ شوی، زموږ تخنیکي خدماتو ته."
 
 msgid "cloudpagefaq_remove_soft-q"
-msgstr ""
+msgstr "ولې د DriverPack Cloud وړاندیز کوي چې ځینې سافټویر زما کمپیوټر بندوي؟"
 
 msgid "cloudpagefaq_remove_soft-a"
-msgstr ""
+msgstr "د ټيټ رتب سره سافټویر اکثر ایڈویور یا وائرسونه دي، نو ځکه چې د DriverPack Cloud وړاندیز کوي چې دوی لیرې کړي. درجه بندي زموږ د کاروونکو غوره توبونو پر بنسټ جوړ شوی — نور هغه چې دوی دا لیرې کوي یا هغه سافټویر چې د هغې درجه یې ټيټه ده."
 
 msgid "cloudpagefaq_notifications-q"
-msgstr ""
+msgstr "د DriverPack Cloud نصبولو وروسته، ما خپل کمپیوټر ته خبرتیاوې ترلاسه کړې. څنګه کولی شم دوی معلول کړم؟"
 
 msgid "cloudpagefaq_notifications-a"
-msgstr ""
+msgstr "دا اطلاعات یوازې سپارښتنې دي. تاسو کولی شئ د هرې خبرپاڼې په ښی لوړو پوړ کې د ګړونګی آئیکن کيکاږی ترڅو د ځانګړي ډول خبرتیا ترلاسه کولو څخه محروم شی"
 
 msgid "cloudpagefaq_usb-q"
-msgstr ""
+msgstr "کله چې ما د خپل سایټ سره د USB سلاټ سره وصل کړه، د ځینې چلوونکو په اړه یو خبرتیا زما په ډیسټاپ کې ښکاره شوی. دا څه لپاره ده؟"
 
 msgid "cloudpagefaq_usb-a"
-msgstr ""
+msgstr "د DriverPack Cloud د نویو وسایطو سره نښلول ښکاره کوي او معاینه کوي که دوی مناسب چلوونکی ولري. که چیرې اړین چلوونکي له لاسه ورکړي، نو سمه دا ده چې سمدستي نصب کړئ — د دې وسیله مناسب فعالیت لپاره اړین دی."
 
 msgid "badrabbitpromopage_cta-text"
-msgstr ""
+msgstr "Bad Rabbit کريپټوګرافیک وایروس — ستاسو کمپیوټر څنګه ساتل کیږي؟"
 
 msgid "badrabbitpromopage_cta-subtext"
-msgstr ""
+msgstr "DriverPack د کمپیوټر د ترتیب کولو وسیلو کې د زیان منلو وړ له منځه وړلو ځانګړي ګامونه لري. تاسو د خپل Bad Rabbit په وړاندي زموږ وړیا ساتنې د کښته کولو له لارې خپل کمپیوټر یا لیپ ټاپ خوندي کولی شئ"
 
 msgid "badrabbitpromopage_cta-btn"
-msgstr ""
+msgstr "د کمپیوټر کنټرول او د Bad Rabbit په وړاندې د هغې ساتنه"
 
 msgid "badrabbitpromopage_caption-text"
-msgstr ""
+msgstr "دا سافټویر ستاسو لپاره وړیا چمتو شوی"
 
 msgid "badrabbitpromopage_info-text-title-1"
-msgstr ""
+msgstr "څه ښی دی Bad Rabbit"
 
 msgid "badrabbitpromopage_info-text-1"
-msgstr ""
+msgstr "Bad Rabbit د کریپټو ګرافیک نوی ویروس دی چې په 2017 کال کې د اکتوبر په پای کې له روسیې، اوکراین، بلغاریا او ترکیې څخه پر کمپیوټرونو باندې برید کړی. د قربانیانو په منځ کې، Interfax RIA، Fontanka RIA، یوکراین او یو شمیر وزارتونه او هم د اوډيسا هوایي ډګر. د عملیاتو اصولو ساده دي: دا د Mikikatz استعمال کاروي تر څو خپله ډاټا د حافظې څخه د معلوماتو ډاټا ترلاسه کړئ. دا د ادارې فعال حساب ډاټا لټون کوي. بیا Bad Rabbit هڅه کوي چې د SMB او WebDAV په کارولو سره په محلي شبکه کې کارټسونو ته لاسرسی ومومي. کله چې دا ستاسو کمپیوټر ته لاسرسی پیدا کوي، ویروس ټول هغه معلومات منعکسوي چې دا یې تر رسېدو پورې اداره کوي، او له هغې وروسته د ماسټر بوټ ریکارډ بدلوي. کله چې دا پروسيجر بشپړ شي، Bad Rabbit ستاسو کمپیوټر بی ځاېه کوي او خپل پیغام یې د 0.05 بټکوز لپاره غواړي (د 2017 کال د اکټوبر په پای کې شاوخوا 300 $ )."
 
 msgid "badrabbitpromopage_info-text-title-2"
-msgstr ""
+msgstr "ستاسو کمپیوټر د Bad Rabbit کریپټوګرافیک ویروس په وړاندې څنګه ساتل کیږی؟"
 
 msgid "badrabbitpromopage_info-text-2"
-msgstr ""
+msgstr "Windowsتاسو د نوي ویروس په وړاندې د ځان ساتلو لپاره څه کولی شئ:<br/>•په \\\\C:\\\\Windows فولډر او ټیک 'یواځې لوستل یوازې' په خپل ملکیت کې د Infpub.dat دوتنې جوړول<br/>• په \"د کاري مهال ویش\" کې نوي دندې پیدا کول وګورئ<br/>• د بهر ځایونو څخه د FlashPlayer لپاره کوم تازه معلومات مه نصبوی<br/>• د Windows او ټول نصب شوي خوندي سافټویر تازه کول<br/>•ستاسو د عملیاتي سیسټم شاتړ جوړ کړئ<br/><br/>همدا رنګه، تاسو کولی شئ په دې پاڼه کې د دې کښته کولو له لارې د DriverPack Solution څخه یواځې نوې حل وکاروئ - دا به ستاسو وخت وساتي!<br/><b>زموږ سیسټم په Windows 7، 8، 8.1، 10، او XP کې کار کوي.</b>"
 
 msgid "badrabbitpromopage_links-text"
-msgstr ""
+msgstr "د دې حل پراختیا د لاندې توکو پر بنسټ وه"
 
 msgid "badrabbitpromopage_link-smb"
-msgstr ""
+msgstr "څنګه د Windows او Windows خدمت لپاره د SMB پروتوکولونو 1، 2، او 3 بڼې فعال او غیر فعال کړو"
 
 msgid "cloudlandingpage_cackle-title"
-msgstr ""
+msgstr "راځئ چې ستاسو د نظر په اړه پوه شو DriverPack Cloud"
 
 msgid "cloudlandingpage_cackle-caption"
-msgstr ""
+msgstr "ایا تاسو د DriverPack Cloud خوښوی؟ کوم نورې دندې تاسو غواړئ چې په هغې کې اضافه کړئ؟ مهرباني وکړئ موږ ته ووایاست"
 
 msgid "cloudlandingpage_header-title"
-msgstr ""
+msgstr "DriverPack Cloud د کمپیوټر موثریت زیاتولو لپاره نوی سافټویر دی"
 
 msgid "cloudlandingpage_about-what-is-title"
-msgstr ""
+msgstr "د DriverPack Cloud سافټویر څه دی؟"
 
 msgid "cloudlandingpage_about-what-is-caption"
-msgstr ""
+msgstr "دا د DriverPack ټیم څخه د نوي سافټویر محصول دی، کوم چې ستاسو د کمپیوټر موثریت زیاتولو لپاره پرته له کوم اضافي لګښتونو یا د خپل کمپیوټر د هارډر اپارتمان پرته وي. ایا تاسو له CS سره مطمئن نه یاست؟: GO یا د Dota 2 ستاسو په کمپیوټر باندې عملیاتي سرعت؟ نو د DriverPack Cloud هڅه وکړئ!"
 
 msgid "cloudlandingpage_about-how-works-title"
-msgstr ""
+msgstr "د DriverPack Cloud څنګه کار کوي؟"
 
 msgid "cloudlandingpage_about-how-works-caption"
-msgstr ""
+msgstr "زموږ محصول ستاسو د کمپیوټر په اړه د موټر چلونکي حالت تحلیلوي، هر سافټویر چې په دي لاره کې ستاسو په کمپیوټر کې موثریت اغیزمن کوي، او د سپارلو نوي کولو په اړه سپارښتنه کوي او د هغه سافټویر لرې کولو لپاره چې ستاسو کمپیوټر سست کول، یا برعکس، نصب کوي وړاندیز کوي. د دریمې ډلې محصولات چې ستاسو د هارډر عملیاتي سرعت زیاتولو کې مرسته کوي. ټوله پروسه ستاسو کنترول الندې ده – د DriverPack Cloud څخه هیڅ کوم اقدام له اجازې پرته"
 
 msgid "cloudlandingpage_features-monitoring"
-msgstr ""
+msgstr "دا د خپل چلونکي د حالت څارنه کوي، کښته کوي له غټ DriverPack ډیټابیس څخه ډیر اړين او ورک چلوونکۍ"
 
 msgid "cloudlandingpage_features-safety"
-msgstr ""
+msgstr "دا توان لري چې احتمالي مالیریا په چټکۍ سره ښکاره کړي او لرې کړي، او په دې توګه، ستاسو د انټرویوس سره مرسته کوي"
 
 msgid "cloudlandingpage_features-cloud"
-msgstr ""
+msgstr "دا د Cloud خدمت محاسبه کوي کوم چې ستاسو د کمپیوټر په اړه اضافي سرچینو د خوندي کولو توان لري"
 
 msgid "cloudlandingpage_uninstall-title"
-msgstr ""
+msgstr "د DriverPack Cloud په بشپړه توګه څنګه ستاسو له کمپیوټر لرې کولو ی شی"
 
 msgid "cloudlandingpage_uninstall-caption"
-msgstr ""
+msgstr "آیا تاسو زموږ محصول نصب کړی خو نه غواړئ چې استعمال يي کړی؟ نو په Control Panel کې د سافټویر برخې ته لاړ شی، او د ساوتري لیرې کولو په کلیک کولو کلیک وکړئ. د DriverPack Cloud په کښتنی برخه کښې ومومئ او د معمول کړنلارې څخه يي لیرې کړئ. دا ټول سافټویر لیرې شوی. د DriverPack Cloud د لرې کولو وروسته پټ سافټویر، او نه هم ستاسو په کمپیوټر  کوم د ایڈویور کڅوړه پريږدي ."
 
 msgid "cloudlandingpage_license"
-msgstr ""
+msgstr "مخکې له دې چې تاسو لګولو پیل کړئ ولولی دا {{LINK}} مهرباني وکړه "
 
 msgid "cloudlandingpage_features-install"
-msgstr ""
+msgstr "لګول DriverPack Cloud"
 
 msgid "cloudlandingpage_license-link"
 msgstr "د جواز تړون"
 
 msgid "devicegrouppage_show-more-link"
-msgstr ""
+msgstr "نور وګوره"
 
 msgid "devicestypepage_subtitle"
-msgstr ""
+msgstr "ټول {{CLASS.SINGLE.FOR}} جوړونکي "
 
 msgid "devicetypevendorpage_subtitle-popular"
-msgstr ""
+msgstr "غوره {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
 
 msgid "devicetypevendorpage_subtitle-all"
-msgstr ""
+msgstr "ټول {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
 
 msgid "errorpage_title"
-msgstr ""
+msgstr "تېروتنه 500: داخلي سرور تېروتنه"
 
 msgid "landingfooter_landing-subtitle"
-msgstr ""
+msgstr "DriverPack د ټولو مشهورو Windows نسخو لپاره چلوونکي لري"
 
 msgid "landing-footer_catalog-os"
-msgstr ""
+msgstr "چلوونکي لپاره {{OS}}"
 
 msgid "landing-footer_download"
 msgstr "DriverPack ډاونلوډ کړئ"
 
 msgid "landing-footer_versions"
-msgstr ""
+msgstr "د ټولو ايپسونو ورژنونه"
 
 msgid "landing-footer_manufacturers"
-msgstr ""
+msgstr "د هارډر جوړونکي"
 
 msgid "landing-footer_badrabbit"
-msgstr ""
+msgstr "ساتنه مخالف د Bad Rabbit"
 
 msgid "landing-footer_for-admin"
-msgstr ""
+msgstr "د سیستم لپاره قضاوت"
 
 msgid "landing-footer_for-translators"
-msgstr ""
+msgstr "د ژباړونکو لپاره"
 
 msgid "landing-footer_hwids"
-msgstr ""
+msgstr "Device ID"
 
 msgid "landing-footer_wannacry"
-msgstr ""
+msgstr "د WannaCry خلاف ساتنه"
 
 msgid "landing-footer_license"
 msgstr "د جواز تړون"
 
 msgid "landing-footer_remove"
-msgstr ""
+msgstr "DriverPack لیرې کول"
 
 msgid "notfoundpage_title"
-msgstr ""
+msgstr "404 تېروتنه: پاڼه ونه موندل شوه"
 
 msgid "notebookpage_show-more-link"
-msgstr ""
+msgstr "نور وګوره"
 
 msgid "notebookpage_all-devices"
-msgstr ""
+msgstr "د ټولو وسیلو لپاره"
 
 msgid "notebookspage_subtitle"
-msgstr ""
+msgstr "ټول لپ ټاپ او نټ بک د جوړونکو لیست"
 
 msgid "notebooksvendorpage_subtitle-popular"
-msgstr ""
+msgstr "غوره {{VENDOR.NAME}} لپ ټاپ او نټ بک"
 
 msgid "notebooksvendorpage_subtitle-all"
-msgstr ""
+msgstr "ټول {{VENDOR.NAME}} لپ ټاپ او نټ بک "
 
 msgid "reviewpage_title"
-msgstr ""
+msgstr "د DriverPack ښه والي په اړه نظرونه او وړاندیزونه"
 
 msgid "searchpage_show-more-link"
-msgstr ""
+msgstr "نور وګوره"
 
 #. i18n: EN: text for {{LINK}} is in key thankyoupopup_download-link; RU:
 #. текст для {{LINK}} находится в ключе thankyoupopup_download-link;
 msgid "thankyoupopup_download-text"
-msgstr ""
+msgstr "کښته کول نه دي پیل شوې؟ دلته کلیک وکړئ {{LINK}}"
 
 #. i18n: EN: text for {{LINK}} is in key thankyoupopup_licence-link; RU: текст
 #. для {{LINK}} находится в ключе thankyoupopup_licence-link;
 msgid "thankyoupopup_licence-text"
-msgstr ""
+msgstr "د دې سافټویر په نصبولو سره، تاسو منی {{LINK}} حالتونه "
 
 msgid "thankyoupopup_title"
-msgstr ""
+msgstr "DriverPack پیل کړی "
 
 msgid "thankyoupopup_cta-text"
-msgstr ""
+msgstr "د پیلولو لپاره غوره کول او لګول د چلوونکو پخپل کمپیوټر کښي"
 
 msgid "thankyoupopup_licence-link"
 msgstr "د جواز تړون"
 
 msgid "thankyoupopup_download-link"
-msgstr ""
+msgstr "کښته کول"
 
 msgid "translate-feedback-header_caption"
-msgstr ""
+msgstr "دا پاڼه په دې وروستیو کې ژباړال شوې ده. آیا تاسو غلطی وموند؟ په نشه یي کړئ او پرانیزي یي {{HOTKEY}}"
 
 msgid "translate-feedback-form-popup_preview-title"
-msgstr ""
+msgstr "تاسو د متن لاندنۍ ټوټه په نشه کړې ده:"
 
 msgid "translate-feedback-form-popup_correct-title"
-msgstr ""
+msgstr "مهرباني وکړئ، تشریح يي کړئ چې کوم په اصل کی غلط ده، او سم ډول چمتو کړئ:"
 
 msgid "translate-feedback-form-popup_submit"
-msgstr ""
+msgstr "استول"
 
 msgid "translate-feedback-popup_title-error"
-msgstr ""
+msgstr "کومه تیروتنه وشوه"
 
 msgid "translate-feedback-popup_description-error"
-msgstr ""
+msgstr "څرګند شوي متن په سرور کې د ستونزو له امله ندي لیږدول شوی. <br />مهرباني، وکړئ بیا هڅه وکړئ. "
 
 msgid "translate-feedback-popup_title-success"
-msgstr ""
+msgstr "مننه"
 
 msgid "translate-feedback-popup_description-success"
-msgstr ""
+msgstr "څرګند شوي متن ایڈیټر ته لیږل شوی."
 
 msgid "translate-feedback-popup_description-join-us"
-msgstr ""
+msgstr "مهرباني وکړئ زموږ سره مرسته وکړئ ترڅو ستاسو په مورنئ ژبه باندي يي وژباړؤ. "
 
 msgid "translate-feedback-popup_description-join-link"
-msgstr ""
+msgstr "زموږ د ژباړونکي ټیم سره یوځای شئ!"
 
 msgid "translationlandingpage_title"
-msgstr ""
+msgstr "DriverPack ژباړه"
 
 msgid "vendorpage_subtitle-popular"
-msgstr ""
+msgstr "غوره {{VENDOR.NAME}} وسایل"
 
 msgid "wannacryptpromopage_cta-text"
-msgstr ""
+msgstr "WannaCrypt کريپټوګرافر ويروس —د تاریخ ترټولو لوی برید په وړاندې د کمپیوټر محافظت څنګه وکو؟"
 
 msgid "wannacryptpromopage_cta-subtext"
-msgstr ""
+msgstr "DriverPack د کمپیوټر د ترتیب کولو وسیلو کې د زیانمننې د له منځه وړلو لپاره ځانګړي فعالیتونه لري. تاسو کولای شئ د WannaCry virus په وړاندې زموږ د وړیا ساتنې کښته کولو له لارې خپل کمپیوټر یا لپ ټاپ خوندي کړئ."
 
 msgid "wannacryptpromopage_cta-btn"
-msgstr ""
+msgstr "کمپیوټر کنټرول کړئ او د WannaCry په وړاندې یې خوندي کړئ"
 
 msgid "wannacryptpromopage_caption-text"
-msgstr ""
+msgstr "دا سافټویر ستاسو لپاره وړیا چمتو شوی"
 
 msgid "wannacryptpromopage_info-text-title-1"
-msgstr ""
+msgstr "WannaCrypt څه شی دي؟"
 
 msgid "wannacryptpromopage_info-text-1"
-msgstr ""
+msgstr "WannaCrypt Blackmailer ویروس (په عین وخت کې د قربانیانو لخوا د WannaCry په نوم بدل شو) د می په 12 نیټه په ټوله نړۍ کې پر کمپیوټرونو باندې برید وکړ، او په 150 هیوادونو کې د 300،000 څخه زیاتو کاروونکو انفیکشنونو باندې اخته کړل. لویدیځ اروپا، روسیه، چین ترټولو بدمرغۍ وه. په بریتانیا کې، ویروس د روغتیا ریاست شبکې معیوبي کړي او په ټول هیواد کې یې د روغتونونو عملیات  ودرول. په چین کې، برید په فابریکه کې زاړه کمپیوټرونه اغیزمن کړل چې ډیری صنایعو یې لرې کړې.<br/><br/>دا ویروس څنګه کار کوي ساده خبره ده: دا ستاسو په کمپیوټر یا لیپ ټاپ کې ننوځي، او په بشپړه توګه سره همغږي کوي ټولي اسناد، دوتنې او هغه توکي چې په کار وړل کيږي د دوی د کارولو لپاره شتون نلري. نو بیا تقریاً 300 امریکايي ډالرو — غوښتنه کوي د کود کولو لپاره په هرصورت، هیڅ تضمین شتون نلري چې تاسو به ستاسو فایلونو ته لاسرسی ومومئ. اوس مهال، د ځان له خوا د فایلونو د کود کولو کومه لار نه شته، او هغه وړانديزونه چې اوس په انټرنیټ کې وړاندې کیږي یا غلطی ورکوونکي دي، یا بل ویروس خپروي، یا 100٪ یقیني کار نه کوي."
 
 msgid "wannacryptpromopage_info-text-title-2"
-msgstr ""
+msgstr "څوک په خطرکښي دی؟"
 
 msgid "wannacryptpromopage_info-text-2"
-msgstr ""
+msgstr "هغه کمپیوټرونه چې د Windows 10 څخه مخکې د پرانیستې SMB بندرونو سره پرتله کوي په غټ خطر کې دي. په اوسني وخت کې، د Windows نيمايي کارونکي په خطر کښي دي — 18٪ کاروونکي د ناڅاپه Windows کاپي کاروي (په اتوماتيک ډول هغوى په خطر کې اچوي)، 23٪ کاروونکو د خپل Windows تازه خدمت معيوب کړ (کوم چې هغوى د مایکروسافټ څخه د \"تازه\"هوک پاڼې \"کښته کولو څخه منع کوي) او نور 6٪ د OS زوړ ډیزاین کاروي کوم چې په اسانۍ سره نور معلومات نشی ترلاسه کولاي.<br/><br/>د دې ټولو نتیجه دا ده چې د مختلفو تجارتخانو او شرکتونو شبکې چې اوس هم د آپریٹنگ سیسټمونو لکه Windows XP کاروي ترټولو لوړ خطر کښي دي. د دې شبکو په بریدونو کې، د ډاټا ضایع کیدای شي نیمګړتیاوې ولري او لګښت به يي ډیر وي، لکه څنګه چې هر \"تاوان\" باید د هر کمپیوټر لپاره جلا جلا وي."
 
 msgid "wannacryptpromopage_info-text-title-3"
-msgstr ""
+msgstr "ستاسو د سوداګرۍ ساتنه څنګه  — د DriverPack Solution څخه حل کوی"
 
 msgid "wannacryptpromopage_info-text-3"
-msgstr ""
+msgstr "د (WannaCrypt (WannaCry ویروس اصلي دلیل دا دی چې دا د MS17-010 امنیتي سیسټم SMBv1 پروتوکول کې د نازک زیان منلو څخه کار اخلی.دا په واقعیت کې WannaCry نا څرګرنده وي يي انټیویویرس ته.د DriverPack Solution څخه حل تاسو ته د دې توان ورکوي چې ستاسو د سیسټم د مهمو زیانمننو ساتنه وکړي، او د تاریخ نوي پروتوکولونه چې خطر یې وي، غیر فعال کړي، مخکي له دې چې ختم شي ستاسو د جواز تاریخ او ستاسو OS نسخه."
 
 msgid "wannacryptpromopage_links-text"
-msgstr ""
+msgstr "د دې حل پراختیا د لاندې توکو پر بنسټ وه"
 
 msgid "wannacryptpromopage_link-smb"
-msgstr ""
+msgstr "څنګه د Windows او Windows خدمت لپاره د SMB پروتوکولونو 1، 2، او 3 بڼې فعال او غیر فعال کړو"
