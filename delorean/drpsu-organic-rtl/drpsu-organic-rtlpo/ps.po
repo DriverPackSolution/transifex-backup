@@ -1,10 +1,13 @@
-# 
+# Translators:
+# Nadia Tegeneva <nadia@drp.su>, 2018
+# Hafeezullah Zubair <hafiz.zubiar1064@gmail.com>, 2018
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-03-16 14:57+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
+"Last-Translator: Hafeezullah Zubair <hafiz.zubiar1064@gmail.com>, 2018\n"
 "Language-Team: Pushto (https://www.transifex.com/driverpack-solution/teams/75453/ps/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -13,39 +16,39 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "seo_landingtopvendorslist_drivers-for"
-msgstr ""
+msgstr "چلونکي لپاره د {{VENDOR}}"
 
 #. i18n: EN: Example: VENDOR.NAME=Asus; RU: Пример: VENDOR.NAME=Asus;
 msgid "seo_vendor-footer-anchor"
-msgstr ""
+msgstr "{{VENDOR.NAME}}"
 
 msgid "seo_devicegroups-footer-anchor"
-msgstr ""
+msgstr "{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
 
 #. i18n: EN: Example: NAME=Acer E230H; RU: Пример: NAME=Acer E230H;
 msgid "seo_devicegroup-footer-anchor"
-msgstr ""
+msgstr "{{NAME}}"
 
 #. i18n: EN: Example: NAME=Asus X550EA; RU: Пример: NAME=Asus X550EA;
 msgid "seo_notebookvendor-footer-anchor"
-msgstr ""
+msgstr "{{NOTEBOOK.VENDOR.NAME}} لپ ټاپونه "
 
 msgid "seo_notebook-footer-anchor"
-msgstr ""
+msgstr "{{NAME}} لپ ټاپونه "
 
 msgid "seo_notebookdevices-footer-anchor"
-msgstr ""
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} {{CLASS.PLURAL.MAIN}}"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
 #. CLASS.PLURAL.FOR=мониторов|модемов;
 msgid "seo_deviceclass-footer-anchor"
-msgstr ""
+msgstr "{{CLASS.PLURAL.MAIN}}"
 
 msgid "seo_hwidos-footer-anchor"
-msgstr ""
+msgstr "د چلوونکو نسخه لپاره د Windows {{OS.NAME}}"
 
 msgid "seo_main-title"
-msgstr ""
+msgstr "DriverPack Solution — د اتوماتیک چلوونکو نصب نصب کول اوسمهال | وړیا یي کښته کړی"
 
 msgid "seo_main-description"
 msgstr ""
@@ -60,13 +63,13 @@ msgid "seo_mainos-description"
 msgstr ""
 
 msgid "seo_mainos-h1"
-msgstr ""
+msgstr "د Windows {{OS.VERSION}} چلوونکي"
 
 msgid "seo_mainos-keywords"
 msgstr ""
 
 msgid "seo_mainos-h3"
-msgstr ""
+msgstr "د ډیری لوی چلوونکي راټولول لپاره د Windows {{OS.VERSION}} په یوه ساده وړیا پروګرام کې "
 
 msgid "seo_mainlanding-title"
 msgstr ""
@@ -90,7 +93,7 @@ msgid "seo_productonline_description"
 msgstr ""
 
 msgid "seo_productonline_h1"
-msgstr ""
+msgstr "DriverPack Online - په سمدستي توګه کښته شوی، که چیرې تاسو د انټرنټ شبکه لرئ نو ټول چلوونکي ‌‌ډاونلو‌ډ کړئ او نصب يي کړئ"
 
 msgid "seo_productnetwork_title"
 msgstr ""
@@ -99,7 +102,7 @@ msgid "seo_productnetwork_description"
 msgstr ""
 
 msgid "seo_productnetwork_h1"
-msgstr ""
+msgstr "DriverPack Offline Network - د شبکې د هارډر لپاره چلوونکي په (Lan|Wi-Fi) شامل دی، فعاليت کوي پرته له انټرنېټ شبکي څخه"
 
 msgid "seo_productoffline_title"
 msgstr ""
@@ -108,7 +111,7 @@ msgid "seo_productoffline_description"
 msgstr ""
 
 msgid "seo_productoffline_h1"
-msgstr ""
+msgstr "DriverPack Offline Full - شاملول ټول چلوونکي، کوم چي فعالیت کوي بغیر له انټرنیټي شبکۍ"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
 #. CLASS.PLURAL.FOR=мониторов|модемов;
@@ -123,7 +126,7 @@ msgstr ""
 #. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
 #. CLASS.PLURAL.FOR=мониторов|модемов;
 msgid "seo_deviceclass-h1"
-msgstr ""
+msgstr "<span class='bold'>{{CLASS.SINGLE.FOR}}</span> چلوونکۍ"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
 #. CLASS.PLURAL.FOR=мониторов|модемов;
@@ -150,7 +153,7 @@ msgid "seo_vendors-description"
 msgstr ""
 
 msgid "seo_vendors-h1"
-msgstr ""
+msgstr "د هارډر جوړونکي"
 
 msgid "seo_vendors-keywords"
 msgstr ""
@@ -165,7 +168,7 @@ msgstr ""
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendor-h1"
-msgstr ""
+msgstr "<span class='bold'>{{VENDOR.NAME}}</span> د وسایلو چلوونکي "
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendor-keywords"
@@ -192,7 +195,7 @@ msgstr ""
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendorlanding-h1"
-msgstr ""
+msgstr "{{VENDOR.NAME}} چلوونکي "
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendorlanding-keywords"
@@ -214,7 +217,7 @@ msgstr ""
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|monitors; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.FOR=видеокарт|мониторов; VENDOR.NAME=Acer;
 msgid "seo_devicegroups-h1"
-msgstr ""
+msgstr "<span class='bold'>{{VENDOR.NAME}}</span> {{CLASS.SINGLE.FOR}} چلوونکي "
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|monitors; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|мониторы; VENDOR.NAME=Acer;
@@ -260,7 +263,7 @@ msgstr ""
 #. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
 #. GROUP.NAME=GeForce 210;
 msgid "seo_devicegroup-h1"
-msgstr ""
+msgstr "<span class='bold'>{{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.SINGLE.FOR}}</span> چلوونکي "
 
 #. i18n: EN: Example: GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU:
 #. Пример: GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210;
@@ -300,7 +303,7 @@ msgid "seo_hwids-description"
 msgstr ""
 
 msgid "seo_hwids-h1"
-msgstr ""
+msgstr "ټول چلوونکي د ټولو وسایلو"
 
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
@@ -315,7 +318,7 @@ msgstr ""
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 msgid "seo_hwid-h1"
-msgstr ""
+msgstr "<span class='bold'>{{DEVICE.DEVICEID}}</span>"
 
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
@@ -339,7 +342,7 @@ msgid "seo_notebooks-description"
 msgstr ""
 
 msgid "seo_notebooks-h1"
-msgstr ""
+msgstr "لیپ ټاپ او نیٹ بوک چلوونکي"
 
 msgid "seo_notebooks-keywords"
 msgstr ""
@@ -354,7 +357,7 @@ msgstr ""
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_notebookvendor-h1"
-msgstr ""
+msgstr "<span class='bold'>{{VENDOR.NAME}}</span> لیپ ټاپ او نیٹ بوک چلوونکي "
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_notebookvendor-keywords"
@@ -384,7 +387,7 @@ msgstr ""
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebook-h1"
-msgstr ""
+msgstr "<span class='bold'>{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}</span> لیپ ټاپ چلوونکي "
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
@@ -430,7 +433,7 @@ msgstr ""
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 #. CLASS.PLURAL.FOR=видеокарт|звуковых карт;
 msgid "seo_notebookdevices-h1"
-msgstr ""
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} لیپ ټاپ {{CLASS.SINGLE.FOR}} چلوونکي "
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets;
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU: Пример:
@@ -475,7 +478,7 @@ msgid "seo_devicegroupos-description"
 msgstr ""
 
 msgid "seo_devicegroupos-h1"
-msgstr ""
+msgstr "{{GROUP.VENDOR.NAME}} {{GROUP.NAME}} چلوونکي لپاره د Windows {{OS}}"
 
 msgid "seo_devicegroupos-keywords"
 msgstr ""
@@ -499,7 +502,7 @@ msgid "seo_notebookos-description"
 msgstr ""
 
 msgid "seo_notebookos-h1"
-msgstr ""
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} لیپ ټاپ چلوونکي لپاره د Windows {{OS}}"
 
 msgid "seo_notebookos-keywords"
 msgstr ""
@@ -523,7 +526,7 @@ msgid "seo_deviceclassos-description"
 msgstr ""
 
 msgid "seo_deviceclassos-h1"
-msgstr ""
+msgstr "{{CLASS.SINGLE.FOR}} چلوونکي لپاره د Windows {{OS}}"
 
 msgid "seo_deviceclassos-keywords"
 msgstr ""
@@ -544,7 +547,7 @@ msgid "seo_devicegroupsos-description"
 msgstr ""
 
 msgid "seo_devicegroupsos-h1"
-msgstr ""
+msgstr "{{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} چلوونکي لپاره د Windows {{OS}} "
 
 msgid "seo_devicegroupsos-keywords"
 msgstr ""
@@ -568,7 +571,7 @@ msgid "seo_notebookvendoros-description"
 msgstr ""
 
 msgid "seo_notebookvendoros-h1"
-msgstr ""
+msgstr "{{VENDOR.NAME}} لیپ ټاپ چلوونکي لپاره د Windows {{OS}}"
 
 msgid "seo_notebookvendoros-keywords"
 msgstr ""
@@ -592,7 +595,7 @@ msgid "seo_hwidos-description"
 msgstr ""
 
 msgid "seo_hwidos-h1"
-msgstr ""
+msgstr "{{DEVICE.DEVICEID}} وسيله چلوونکي لپاره د Windows {{OS}}"
 
 msgid "seo_hwidos-keywords"
 msgstr ""
@@ -610,7 +613,7 @@ msgid "seo_notebookdevicesos-description"
 msgstr ""
 
 msgid "seo_notebookdevicesos-h1"
-msgstr ""
+msgstr "چلوونکي لپاره {{CLASS.PLURAL.FOR}} لپاره {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} لیپ ټاپ ۱ Windows {{OS}}"
 
 msgid "seo_notebookdevicesos-keywords"
 msgstr ""

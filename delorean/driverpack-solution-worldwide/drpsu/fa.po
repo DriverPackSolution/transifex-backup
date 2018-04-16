@@ -16,13 +16,14 @@
 # Shervin Ahmadi <a.shervin@ymail.com>, 2017
 # Mostafa Shiravand <shiravand.999@gmail.com>, 2017
 # mohammadreza salmaninejad <salmani.m432@gmail.com>, 2017
+# sajad bahramzadeh <sajadb88@gmail.com>, 2018
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-03-16 15:04+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
-"Last-Translator: mohammadreza salmaninejad <salmani.m432@gmail.com>, 2017\n"
+"Last-Translator: sajad bahramzadeh <sajadb88@gmail.com>, 2018\n"
 "Language-Team: Persian (https://www.transifex.com/driverpack-solution/teams/75453/fa/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -81,7 +82,7 @@ msgstr "{{VENDOR.NAME}}"
 
 #. i18n: EN: Example: VENDOR.NAME=Lenovo; RU: Пример: VENDOR.NAME=Lenovo;
 msgid "breadcrumbs_vendorlanding-text"
-msgstr ""
+msgstr "برنامه های راه انداز {{VENDOR.NAME}}"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=cardreaders|monitors; RU: Пример:
 #. CLASS.PLURAL.MAIN=картридеры|мониторы;
@@ -286,7 +287,7 @@ msgid "footer_banner_btn"
 msgstr "دانلود <span class='bold'>DriverPack Online</span>به رایگان"
 
 msgid "footer_translate-feedback"
-msgstr ""
+msgstr "آیا شما یک ایراد یا اشتباه تایپی پیدا کرده اید؟<br />لطفاً آن را برجسته کرده و کلید {{HOTKEY}} را بفشارید"
 
 msgid "header_search-title"
 msgstr "<span class='bold'>جستجو درایور های مورد نیاز در بین</span> بزرگترین پایگاه—  بیشتر از یک میلیون درایور "
@@ -400,7 +401,7 @@ msgid "landingproducts_item-title-online"
 msgstr "DriverPack Online"
 
 msgid "landingproducts_item-description-online"
-msgstr ""
+msgstr "اگر شما به اینترنت متصل هستید، این مورد فورآ بارگیری شده و همه راه انداز ها را دانلود و نصب می کند <span class='nobr'>({{SIZE}})</span>"
 
 msgid "landingproducts_item-version"
 msgstr "نسخه:"
@@ -544,7 +545,7 @@ msgid "reviewheader_cta-text"
 msgstr "به شبکه های اجتماعی DriverPack ملحق شوید تا خبر ها و اطلاعات جدید و محصولات مطلع شده و بتوانید اظهار نظر کنید ."
 
 msgid "reviewheader_cta"
-msgstr ""
+msgstr "نظر یا پیشنهادتان را جهت بهبود DriverPack ارایه دهید"
 
 msgid "search_input-placeholder"
 msgstr "جستجو برای اسم درایور یا لپ تاپ و یا DeviceID"
@@ -925,22 +926,22 @@ msgid "adminpagefaq_stable-a"
 msgstr "تداوم اجرای نرم افزار DriverPack یکی از اولویت های اصلی ما است، اما نقص های جزئی هنوز هم اتفاق می افتد، که تیم ما به طور کامل از این مشکلات باخبرند، هرچند که آنها نادر هستند. به همین دلیل است که همیشه در تمامی نسخه ها ما گزینه بازگردانی نرم افزار به حالت اولیه را قرار داده ایم که شما را قادر می سازد همه چیز را به حالت قبلی تنظیمات بازگردانی کنید. به منظور جلوگیری از یک مشکل مشابه در نسخه های آینده، توصیه می کنیم که در DriverPack به منوی گزارش بروید و راهی که به طور خودکار برای ارسال پیام به تیم پشتیبانی ایجاد میشود را طی کنید و گزارش دهید."
 
 msgid "cloudpagefaq_remove_soft-q"
-msgstr ""
+msgstr "چرا DriverPack Cloud پیشنهاد می کند که برخی از نرم افزار ها را از کامپیوترم حذف کنم؟"
 
 msgid "cloudpagefaq_remove_soft-a"
-msgstr ""
+msgstr "نرم افزار با امتیاز کم اغلب ابزارهای تبلیغاتی و یا ویروس است، به همین دلیل DriverPack Cloud توصیه می کند آنها را حذف کنید. امتیازدهی بر اساس سلیقه کاربران ما شکل گرفته است — بیشتر آنها این نرم افزار یا آن که امتیازش پایین تر است را حذف می کنند."
 
 msgid "cloudpagefaq_notifications-q"
-msgstr ""
+msgstr "پس از نصب DriverPack Cloud ، من شروع به دریافت اعلان هایی در دستکتاپم کردم. چطور می توانم آنها را غیرفعال کنم؟"
 
 msgid "cloudpagefaq_notifications-a"
-msgstr ""
+msgstr "این اعلان ها صرفاً به صورت پیشنهادی هستند. شما می توانید با کلیک بر روی آیکون زنگ در بالا - راست اعلان مورد نظر از دریافت آن جلوگیری کنید."
 
 msgid "cloudpagefaq_usb-q"
-msgstr ""
+msgstr "هنگامی که فلش کارت خود را به اسلات USB وصل کردم، یک اعلان در مورد برخی از راه اندازها روی دسکتاپ من ظاهر شد. این برای چیست؟"
 
 msgid "cloudpagefaq_usb-a"
-msgstr ""
+msgstr "DriverPack Cloud اتصال دستگاه های جدید را نشان می دهد و بررسی می کند که راه انداز مناسب را داشته باشد. اگر راه اندازهای مورد نیاز از دسته رفته باشد، ممکن است فوراً آن را نصب کند — این برای کارکرد مناسب دستگاه ضروری است"
 
 msgid "badrabbitpromopage_cta-text"
 msgstr "Bad Rabbit باج افزار کد گذاری شده میباشد — چگونه از کامپیوتر شما محافظت کنیم؟"
@@ -973,46 +974,46 @@ msgid "badrabbitpromopage_link-smb"
 msgstr "چگونگی فعال و غیر‌فعال کردن نسخه‌های 1، 2، و 3 از پروتکل‌های SMB برای Windows و Windows Server"
 
 msgid "cloudlandingpage_cackle-title"
-msgstr ""
+msgstr "به ما اجازه دهید که عقیده تان را در مورد DriverPack Cloud بدانیم"
 
 msgid "cloudlandingpage_cackle-caption"
-msgstr ""
+msgstr "آیا شما DriverPack Cloud را دوست دارید؟ چه کاربری های دیگری را می خواهید به آن اضافه کنیم؟ لطفاً به ما بگویید."
 
 msgid "cloudlandingpage_header-title"
-msgstr ""
+msgstr "DriverPack Cloud نرم افزار جدیدی برای افزایش کارایی کامپیوتر شماست"
 
 msgid "cloudlandingpage_about-what-is-title"
-msgstr ""
+msgstr "نرم افزار DriverPack Cloud چیست؟"
 
 msgid "cloudlandingpage_about-what-is-caption"
-msgstr ""
+msgstr "این محصول نرم افزاری جدید از تیم DriverPack است که برای افزایش بهره وری کامپیوتر خود بدون هیچ هزینه اضافی یا ارتقاء سخت افزاری کامپیوتر شما طراحی شده است. آیا شما با سرعت CS: GO یا Dota 2 در کامپیوتر خود راضی نیستید؟ از DriverPack Cloud استفاده کنید."
 
 msgid "cloudlandingpage_about-how-works-title"
-msgstr ""
+msgstr "DriverPack Cloud چگونه کار می کند؟"
 
 msgid "cloudlandingpage_about-how-works-caption"
-msgstr ""
+msgstr "محصول ما وضعیت برنامه های راه انداز را بر روی کامپیوتر شما تجزیه و تحلیل می کند، هر نرم افزاری را که در یک یا چند کارآیی رایانه تاثیر می گذارد، نشان می دهد و توصیه هایی جهت به روز رسانی درایورها و حذف نرم افزارهایی که رایانه شما را کند می کند می دهد، و یا برعکس، نصب محصولات ثالث که به افزایش سرعت عملکرد سخت افزار شما کمک می کند را پیشنهاد می دهد. تمام فرایند تحت کنترل شما می رود – بدون اعمال هیچ فعالیتی از طرف DriverPack Cloud بدون اجازه شما"
 
 msgid "cloudlandingpage_features-monitoring"
-msgstr ""
+msgstr "این مورد وضعیت راه اندازهای شما را نظارت می کند، بروزرسانی های مهم و راه اندازهای از دست رفته را از پایگاه داده وسیع DriverPack دانلود می کند"
 
 msgid "cloudlandingpage_features-safety"
-msgstr ""
+msgstr "این امکان را جهت نمایش و حذف سریع نرم افزار های مخرب می دهد، و به همین ترتیب به آنتی ویروس کمک می کند."
 
 msgid "cloudlandingpage_features-cloud"
-msgstr ""
+msgstr "این باعث می شود محاسبات در سرویس ابری انجام شود که باعث صرفه جویی در منابع اضافی در رایانه شما می شود"
 
 msgid "cloudlandingpage_uninstall-title"
-msgstr ""
+msgstr "چگونگی حذف کامل DriverPack Cloud از کامپیوتر شما"
 
 msgid "cloudlandingpage_uninstall-caption"
-msgstr ""
+msgstr "آیا محصول ما را نصب کرده اید اما نمی خواهید از آن استفاده کنید؟ فقط به قسمت نرم افزار در کنترل پنل بروید و بر روی حذف نرم افزار کلیک کنید. DriverPack Cloud را در منوی کشویی پیدا کنید و آن را طبق روش معمول حذف کنید. این تمام کار بود، نرم افزار حذف شده است. DriverPack Cloud پس از حذف، به صورت نرم افزار مخفی نمی ماند، و کامپیوتر شما را بستر زباله های تبلیغاتی نمی کند."
 
 msgid "cloudlandingpage_license"
-msgstr ""
+msgstr "لطفاً قبل از نصب {{LINK}} را مطالعه کنید"
 
 msgid "cloudlandingpage_features-install"
-msgstr ""
+msgstr "DriverPack Cloud نصب کنبد"
 
 msgid "cloudlandingpage_license-link"
 msgstr "قوانین استفاده"
@@ -1100,7 +1101,7 @@ msgstr "هنوز دانلود آغاز نشده است ؟ اینجا کلیک ک
 #. i18n: EN: text for {{LINK}} is in key thankyoupopup_licence-link; RU: текст
 #. для {{LINK}} находится в ключе thankyoupopup_licence-link;
 msgid "thankyoupopup_licence-text"
-msgstr ""
+msgstr "با نصب این نرم افزار، شما ضوابط {{LINK}} را قبول کردیه اید"
 
 msgid "thankyoupopup_title"
 msgstr "آغاز کار با DriverPack"
@@ -1115,7 +1116,7 @@ msgid "thankyoupopup_download-link"
 msgstr "دانلود"
 
 msgid "translate-feedback-header_caption"
-msgstr ""
+msgstr "این صفحه به تازگی ترجمه شده است. آیا شما خطایی پیدا کرده اید؟ آن را برجسته کرده و کلید {{HOTKEY}} را بفشارید"
 
 msgid "translate-feedback-form-popup_preview-title"
 msgstr "شما متن مورد نظر خود را انتخاب کردید:"
