@@ -67,7 +67,7 @@ msgstr "{{VENDOR.NAME}}"
 
 #. i18n: EN: Example: VENDOR.NAME=Lenovo; RU: Пример: VENDOR.NAME=Lenovo;
 msgid "breadcrumbs_vendorlanding-text"
-msgstr ""
+msgstr "{{VENDOR.NAME}} డ్రైవర్స్"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=cardreaders|monitors; RU: Пример:
 #. CLASS.PLURAL.MAIN=картридеры|мониторы;
@@ -168,7 +168,7 @@ msgstr "డౌన్లోడ్ DriverPack "
 #. x86; Текст для {{DOWNLOAD}} находится в ключе devicecardlist_no-
 #. result_download-link;
 msgid "devicecardlist_no-results-device-text"
-msgstr ""
+msgstr "డ్రైవర్స్ కోసం {{DEVICENAME}} Windows {{OSVERSIONS}} కేటలాగ్లో కనుగొనబడలేదు. {{DOWNLOAD}} డ్రైవర్ స్వయంచాలకంగా ఎంచుకోవడానికి."
 
 #. i18n: EN: Example: DEVICECLASS=chipsets|videocards; NOTEBOOK=Acer AO521;
 #. OSVERSIONS=Windows 10 x86; Text for {{DOWNLOAD}} is in key
@@ -177,14 +177,14 @@ msgstr ""
 #. OSVERSIONS=Windows 10 x86; Текст для {{DOWNLOAD}} находится в ключе
 #. devicecardlist_no-result_download-link;
 msgid "devicecardlist_no-results-notebook-text"
-msgstr ""
+msgstr "డ్రైవర్స్ కోసం {{NOTEBOOK}} Windows కోసం ల్యాప్టాప్ {{OSVERSIONS}} కేటలాగ్లో కనుగొనబడలేదు. {{DOWNLOAD}} డ్రైవర్ స్వయంచాలకంగా ఎంచుకోవడానికి."
 
 #. i18n: EN: Example: NOTEBOOK=Acer AO521; OSVERSIONS=Windows 10 x86; Text for
 #. {{DOWNLOAD}} is in key devicecardlist_no-result_download-link; RU: Пример:
 #. NOTEBOOK=Acer AO521; Пример: OSVERSIONS=Windows 10 x86; Текст для
 #. {{DOWNLOAD}} находится в ключе devicecardlist_no-result_download-link;
 msgid "devicecardlist_no-results-notebook-device-class-text"
-msgstr ""
+msgstr "డ్రైవర్స్ కోసం {{DEVICECLASS}} కోసం {{NOTEBOOK}} Windows కోసం ల్యాప్టాప్ {{OSVERSIONS}} దొరకలేదు {{DOWNLOAD}} డ్రైవర్  స్వయంచాలకంగా ఎంచుకోవడానికి."
 
 msgid "devicegrouppage_all-systems"
 msgstr "అన్ని సిస్టములు"
@@ -199,16 +199,16 @@ msgid "deviceidfilters-filter-label-version"
 msgstr " డ్రైవర్ వెర్షన్:"
 
 msgid "deviceidheader_caption-single"
-msgstr ""
+msgstr "పరికరం పేరు:"
 
 msgid "deviceidheader_caption-many"
-msgstr ""
+msgstr "ఈ పరికరం అంటారు:"
 
 msgid "devicetypelist_title_os"
-msgstr ""
+msgstr "డ్రైవర్ పరికరాల కోసం {{OS}}"
 
 msgid "devicetypelist_title"
-msgstr ""
+msgstr "డ్రైవర్ పరికరాల కోసం శోధించండి"
 
 msgid "search_noresult"
 msgstr "డౌన్ లోడ్ DriverPack Online"
@@ -218,7 +218,7 @@ msgstr "డౌన్ లోడ్ DriverPack Online"
 #. NAME=Acer Aspire 4830TG; Пример: OSVERSIONS=Windows 10 x86; Текст для
 #. {{DOWNLOAD}} находится в ключе drivercard_no-results_download-link;
 msgid "drivercard_no-results-text"
-msgstr ""
+msgstr "డ్రైవర్స్ కోసం {{NAME}} Windows కోసం {{OSVERSIONS}} కేటలాగ్లో కనుగొనబడలేదు. {{DOWNLOAD}} డ్రైవర్  స్వయంచాలకంగా ఎంచుకోవడానికి."
 
 msgid "drivercard_no-results_download-link"
 msgstr "డౌన్లోడ్ DriverPack "
@@ -230,10 +230,10 @@ msgid "drivercard_caption-version-recommended"
 msgstr "సలహాయిచ్చు"
 
 msgid "drivercard_caption-date"
-msgstr ""
+msgstr "తేదీ:"
 
 msgid "drivercard_caption-class"
-msgstr ""
+msgstr "పరికరం రకం:"
 
 msgid "drivercard_caption-manufacturer"
 msgstr "తయారీదారు"
@@ -248,7 +248,7 @@ msgid "drivercard_caption-inf"
 msgstr "ఫైలు *.సమాచారం:"
 
 msgid "drivercard_caption-section"
-msgstr ""
+msgstr "విభాగం:"
 
 msgid "drivercard_caption-btn"
 msgstr "డౌన్లోడ్ డ్రైవర్"
@@ -257,19 +257,19 @@ msgid "deviceidpage_all-systems"
 msgstr "అన్ని సిస్టములు"
 
 msgid "dropdowndriverversion_no-results"
-msgstr ""
+msgstr "ఎంచుకున్న OS కోసం డ్రైవర్స్ కనుగొనబడలేదు"
 
 msgid "dropdownos_current"
-msgstr ""
+msgstr "ప్రస్తుత"
 
 msgid "footer_banner-title"
-msgstr ""
+msgstr "మీరు మీ పరికరాల కోసం డ్రైవర్స్ కోసం చూస్తున్నారా?"
 
 msgid "footer_banner-caption"
-msgstr ""
+msgstr "DriverPack Online <span style='color: {{COLOR}}'>కనుగొని, ఇన్స్టాల్ చేస్తుంది</span> మీరు స్వయంచాలకంగా డ్రైవర్స్ అవసరం"
 
 msgid "footer_banner_btn"
-msgstr ""
+msgstr "డౌన్లోడ్ <span class='bold'>DriverPack Online</span> ఉచితంగా"
 
 msgid "footer_translate-feedback"
 msgstr ""
@@ -278,109 +278,109 @@ msgid "header_search-title"
 msgstr ""
 
 msgid "header_search-examples"
-msgstr ""
+msgstr "ఉదాహరణకి:"
 
 msgid "header_cta-text"
-msgstr ""
+msgstr "ఆటోమేటిక్ డ్రైవర్ ఎంపిక కొరకు DriverPack ను డౌన్లోడ్ చేయుము"
 
 msgid "header_cta-btn"
-msgstr ""
+msgstr "స్వయంచాలకంగా డ్రైవర్స్ ఇన్స్టాల్ చేయండి"
 
 msgid "header_cta-label-1"
-msgstr ""
+msgstr "ఇది <span style='color: {{COLOR}}'>రెడీడౌన్లోడ్</span> తక్షణమే"
 
 msgid "header_cta-label-2"
 msgstr ""
 
 msgid "headerbutton_title"
-msgstr ""
+msgstr "స్వయంచాలకంగా డ్రైవర్స్ ఇన్స్టాల్ చేయండి"
 
 msgid "headerbutton_label"
-msgstr ""
+msgstr "DriverPack సాఫ్ట్వేర్ పూర్తిగా ఉచితం"
 
 msgid "headeros_cta-btn"
 msgstr ""
 
 msgid "headeros_search-text"
-msgstr ""
+msgstr "లేదా మా అద్భుతమైన డ్రైవర్ డేటాబేస్లో శోధనను ఉపయోగించండి"
 
 msgid "landingdevicetypelist_landing-title"
-msgstr ""
+msgstr "DriverPack ఏ పరికరం కోసం సరిపోతుంది"
 
 msgid "landingdevicetypelist_landing-subtitle"
-msgstr ""
+msgstr "Windows 7 SP1 లో USB 3.0 కు కూడా"
 
 msgid "landingdevicetypelist_cta-btn"
-msgstr ""
+msgstr "అన్ని అవసరమైన డ్రైవర్స్ ఇన్స్టాల్ చేయండి"
 
 msgid "landingdevicetypelist_versions"
-msgstr ""
+msgstr "ఇతర DriverPack సంస్కరణలు"
 
 msgid "landingfeatures_landing-title"
-msgstr ""
+msgstr "DriverPack అనేది ఒక కంప్యూటర్ ఆకృతీకరించడానికి అత్యంత అనుకూలమైన మరియు వేగవంతమైన మార్గం"
 
 msgid "landingfeatures_landing-subtitle"
-msgstr ""
+msgstr "సాఫ్ట్వేర్  ఉచితంగా అందించబడుతుంది, మరియు నిపుణులు మరియు ప్రారంభ కోసం రెండు అనుకూలంగా ఉంటుంది"
 
 msgid "landingfeatures_item-title-free"
-msgstr ""
+msgstr "ఉచిత"
 
 msgid "landingfeatures_item-caption-free"
-msgstr ""
+msgstr "DriverPack ఉచితంగా అందించబడింది"
 
 msgid "landingfeatures_item-title-safe"
-msgstr ""
+msgstr "సేఫ్"
 
 msgid "landingfeatures_item-caption-safe"
-msgstr ""
+msgstr "DriverPack అధికారికంగా యాంటీవైరస్ సాఫ్ట్వేర్ తయారీదారులతో సహకరిస్తుంది మరియు మీ కంప్యూటర్ను రక్షిస్తుంది"
 
 msgid "landingfeatures_item-title-for-all-devices"
-msgstr ""
+msgstr "అన్ని పరికరాల కోసం"
 
 msgid "landingfeatures_item-caption-for-all-devices"
-msgstr ""
+msgstr "DriverPack ప్రపంచంలోనే అతిపెద్ద డ్రైవర్ డాటాబేస్ను కలిగి ఉంది మరియు ఏ కంప్యూటర్ ను కన్ఫిగర్ చేయడానికి ఉపయోగించవచ్చు"
 
 msgid "landingheader_cta-text"
-msgstr ""
+msgstr "DriverPack డ్రైవర్స్ ఉచితంగా ఇన్స్టాల్ చేస్తుంది మరియు ఏదైనా పరికరంలో డ్రైవర్ సమస్యలను పరిష్కరించుకుంటుంది"
 
 msgid "landingheader_cta-btn"
-msgstr ""
+msgstr "అన్ని అవసరమైన డ్రైవర్స్ ఇన్స్టాల్ చేయండి"
 
 msgid "landingheadernav_search"
-msgstr ""
+msgstr "డ్రైవర్ శోధన"
 
 msgid "landingheadernav_foradmin"
-msgstr ""
+msgstr "సిస్టమ్ నిర్వాహకులకు"
 
 msgid "landingintroduction_author-title"
-msgstr ""
+msgstr "హలో! నా పేరు ఆర్టుర్ కుజుకోవ్. నేను రచయిత మరియు DriverPack స్థాపకుడుని "
 
 msgid "landingintroduction_author-speech"
-msgstr ""
+msgstr "8 సంవత్సరాల క్రితం స్వచ్ఛమైన ఉత్సాహంతో వ్రాయబడిన చిన్న చిన్న సాఫ్ట్వేర్  నుండి, మేము ప్రపంచవ్యాప్తంగా 40 మిలియన్లకు పైగా ప్రజలు తమ కంప్యూటర్లను ఆకృతీకరించేందుకు సహాయపడిన సంస్థగా రూపాంతరం చెందాము<br /><br />ఈ సమయంలో, మా సాఫ్ట్వేర్  చాలా వేగంగా మరియు తెలివిగా మారింది. నేడు, ప్రపంచవ్యాప్తంగా అల్ట్రా హై స్పీడ్ సర్వర్లపై ఉన్న ప్రపంచంలోని ఏకైక డ్రైవర్ల యొక్క అతిపెద్ద డేటాబేస్గా  DriverPack ఉంది. డ్రైవర్స్ ఇన్స్టాలేషన్ యొక్క ప్రక్రియను త్వరగా చేయడానికి మరియు సాధ్యమైనంత ఎక్కువ డ్రైవర్  నాణ్యతతో చేయటానికి, మా ఎంపిక అల్గోరిథం మరింత మెరుగ్గా మరియు మరింత ఖచ్చితమైనదిగా చేస్తుంది, ఇది యంత్ర అభ్యాస సాంకేతికతలను ఉపయోగిస్తాము. సాఫ్ట్వేర్  పూర్తిగా ఉచితంగా ఉంచే విధంగా అన్నింటినీ సాధించడానికి మేము దీనిని సాధించాము మరియు ప్రతిఒక్కరూ దీన్ని ఉపయోగించుకోవచ్చు.<br /><br />నా బృందం మరియు నేను మా ఉత్పత్తి గురించి గర్వపడుతున్నాను మరియు సాధ్యమైనంత త్వరలో ఏ కంప్యూటర్ ఆకృతీకరించటంలో మీ విశ్వసనీయ సహాయకుడు అవుతుంది అని మేము ఆశిస్తున్నాము."
 
 msgid "landingintroduction_author-speech-marked"
-msgstr ""
+msgstr "మిమల్ని కాపాడటానికి మేము మా సమయాన్ని వెచ్చిస్తాము!"
 
 msgid "landingintroduction_video-caption"
-msgstr ""
+msgstr "మరియు ఇక్కడ డిమిత్రి మెద్వెదేవ్, రష్యన్ ఫెడరేషన్ యొక్క ప్రధాన మంత్రి, DriverPack Solution గురించి ఆలోచిస్తాడు"
 
 msgid "landingnotebookvendorslist_landing-title"
-msgstr ""
+msgstr "DriverPack ఏ కంప్యూటర్ అనుకూలంగా ఉంటుంది"
 
 msgid "landingnotebookvendorslist_landing-subtitle"
-msgstr ""
+msgstr "అవును, ఏ కంప్యూటర్ కోసం అయినా - మేము తనిఖీ!"
 
 msgid "landingnotebookvendorslist_cta-btn"
-msgstr ""
+msgstr "అన్ని అవసరమైన డ్రైవర్స్ ఇన్స్టాల్ చేయండి"
 
 msgid "landingnotebookvendorslist_versions"
-msgstr ""
+msgstr "ఇతర DriverPack సంస్కరణలు"
 
 msgid "landingproducts_cta-title"
-msgstr ""
+msgstr "ఎంచుకో DriverPack"
 
 msgid "landingproducts_cta-description"
-msgstr ""
+msgstr "డౌన్లోడ్ మీకు సరిపోయే ప్యాక్"
 
 msgid "landingproducts_item-title-online"
 msgstr "DriverPack Online"
@@ -407,52 +407,52 @@ msgid "landingproducts_item-description-offline"
 msgstr ""
 
 msgid "landingpublications__landing-title"
-msgstr ""
+msgstr "మాస్ మీడియా ప్రచురణలు DriverPack"
 
 msgid "landingscreenshots_landing-title"
-msgstr ""
+msgstr "DriverPack ఆకృతీకరించుటకు అత్యంత అనుకూలమైన మరియు వేగవంతమైన మార్గంకంప్యూటర్"
 
 msgid "landingscreenshots_landing-subtitle"
-msgstr ""
+msgstr "సాఫ్ట్వేర్  ఉచితంగా అందించబడుతుంది, మరియు నిపుణులు మరియు ప్రారంభ కోసం రెండు అనుకూలంగా ఉంటుంది"
 
 msgid "landingsocial_landing-title"
 msgstr "చేరండి DriverPack సంఘం"
 
 msgid "landingsocial_landing-subtitle"
-msgstr ""
+msgstr "వార్తలు అనుసరించండి మరియు చర్చలు పాల్గొనడానికి"
 
 msgid "landingtopvideocardlist_landing-title"
-msgstr ""
+msgstr "జనాదరణ పొందిన వీడియో కార్డ్ నమూనాలు"
 
 msgid "landingtopvideocardlist_landing-caption"
-msgstr ""
+msgstr "DriverPack ఏదైనా మోడల్స్ యొక్క వీడియో కార్డుల కోసం డ్రైవర్స్ ఎన్నుకుంటుంది, ఇక్కడ అత్యంత జనాదరణ పొందినవి"
 
 msgid "landingusers_cta"
-msgstr ""
+msgstr "ప్రపంచవ్యాప్తంగా ఉన్న DriverPack వినియోగదారుల సంఖ్య ప్రతి ప్రయాణిస్తున్న సెకనుతో పెరుగుతుంది"
 
 msgid "landingusers_cta-btn"
-msgstr ""
+msgstr "అన్ని అవసరమైన డ్రైవర్స్ ఇన్స్టాల్ చేయండి"
 
 msgid "landingusers_versions"
-msgstr ""
+msgstr "ఇతర DriverPack సంస్కరణలు"
 
 msgid "landingvideocardlist_landing-title"
-msgstr ""
+msgstr "ప్రసిద్ధ వీడియో కార్డ్ తయారీదారులు"
 
 msgid "landingwizard_landing-title"
-msgstr ""
+msgstr "ఒక క్లిక్తో కంప్యూటర్ ఆకృతీకరించుటకు యిప్పుడు సాధ్యమే"
 
 msgid "landingwizard_item-caption-download"
-msgstr ""
+msgstr "డౌన్లోడ్ మరియు ప్రారంభించండి DriverPack Online"
 
 msgid "landingwizard_item-caption-setup"
-msgstr ""
+msgstr "మీ కంప్యూటర్ ఒక సాధారణ చర్యతో కాన్ఫిగర్ చేయండి"
 
 msgid "landingwizard_item-caption-profit"
-msgstr ""
+msgstr "అవును! ఇప్పుడు నా కంప్యూటర్ బ్రాండ్ కొత్తది!"
 
 msgid "landingwizard_cta-btn"
-msgstr ""
+msgstr "అన్ని అవసరమైన డ్రైవర్స్ ఇన్స్టాల్ చేయండి"
 
 msgid "navbar_download-link-short"
 msgstr "డౌన్లోడ్"
@@ -461,28 +461,28 @@ msgid "navbar_download-link"
 msgstr "డౌన్లోడ్ DriverPack Online"
 
 msgid "notfound_cta-text"
-msgstr ""
+msgstr "మీరు DriverPack Online ఆన్లైన్ ఉపయోగించి స్వయంచాలకంగా డ్రైవర్స్ కనుగొని, ఇన్స్టాల్ చేసుకోవచ్చు"
 
 msgid "notfound_cta-btn"
 msgstr "డౌన్లోడ్ DriverPack Online"
 
 msgid "notfound_info-404"
-msgstr ""
+msgstr "{{404}} — అభ్యర్థించిన పేజీ కనుగొనబడలేదు"
 
 msgid "notfound_info-500"
-msgstr ""
+msgstr "{{500}} — ఏదో తప్పు జరిగింది (సర్వర్ లోపం)"
 
 msgid "notebookfilters-title"
 msgstr "అందుబాటులో డ్రైవర్లు"
 
 msgid "notebookvendorslist_other-text"
-msgstr ""
+msgstr "ఇతర తయారీదారులు"
 
 msgid "notebookvendorslist_title_os"
-msgstr ""
+msgstr "డ్రైవర్స్ ల్యాప్టాప్ల కోసం {{OS}}"
 
 msgid "notebookvendorslist_title"
-msgstr ""
+msgstr "ల్యాప్టాప్ల కోసం డ్రైవర్ శోధన"
 
 msgid "productlandingheader-online_cta-btn"
 msgstr "డౌన్లోడ్ DriverPack Online"
@@ -491,28 +491,28 @@ msgid "productlandingheader-online_caption"
 msgstr ""
 
 msgid "productlandingheader-network_cta-btn"
-msgstr ""
+msgstr "డౌన్లోడ్ DriverPack Offline Network"
 
 msgid "productlandingheader-network_caption"
 msgstr ""
 
 msgid "productlandingheader-offline_cta-btn"
-msgstr ""
+msgstr "డౌన్లోడ్ DriverPack Offline Full"
 
 msgid "productlandingheader-offline_caption"
-msgstr ""
+msgstr "DriverPack Offline Full  పూర్తి - ఇంటర్నెట్ ప్రాప్యత లేకుండా డ్రైవర్ ఇన్స్టాలేషన్ కోసం {{SIZE}} భారీ పరిమాణం. కేవలం DriverPack Offline Full ను డౌన్లోడ్ చేసుకోండి మరియు మీకు నచ్చిన చోటికి నవీనమైన డ్రైవర్స్ యొక్క అపారమైన లైబ్రరీని ఉపయోగించండి. ఇది ఖచ్చితంగా వ్యవస్థ నిర్వాహకులకు సరిపోతుంది."
 
 msgid "promoheader_cta-text-gamers"
-msgstr ""
+msgstr "మీరు ఊహించిన దానికంటే మీ కంప్యూటర్ మరింత శక్తివంతమైనది: ఉచితంగా అన్ని డ్రైవర్స్ నవీకరించండి"
 
 msgid "promoheader_cta-text-gamers-caption"
 msgstr ""
 
 msgid "promoheader_cta-text"
-msgstr ""
+msgstr "DriverPack డ్రైవర్స్ ఉచితంగా ఇన్స్టాల్ చేస్తుంది మరియు ఏదైనా పరికరంలో డ్రైవర్ సమస్యలను పరిష్కరించుకుంటుంది"
 
 msgid "promoheader_cta-btn"
-msgstr ""
+msgstr "అన్ని అవసరమైన డ్రైవర్స్ ఇన్స్టాల్ చేయండి"
 
 msgid "promoheader_size"
 msgstr ""
@@ -524,39 +524,39 @@ msgid "promoheader_os-versions"
 msgstr ""
 
 msgid "promoheader_uninstall"
-msgstr ""
+msgstr "DriverPack తొలగింపు"
 
 msgid "reviewheader_cta-text"
-msgstr ""
+msgstr "చేరండి DriverPack ఉత్పత్తి గురించి వార్తలను ఉంచడానికి మరియు చర్చలలో పాల్గొనడానికి సామాజిక నెట్వర్క్ల్లోని సంఘం"
 
 msgid "reviewheader_cta"
-msgstr ""
+msgstr "మెరుగుపరచడానికి మీ సమీక్ష లేదా సలహాను జోడించండి DriverPack"
 
 msgid "search_input-placeholder"
-msgstr ""
+msgstr "పేరు కోసం శోధించండి డ్రైవర్, ల్యాప్టాప్ లేదా DeviceID"
 
 msgid "search_btn-text"
-msgstr ""
+msgstr "కనుగొనండి"
 
 msgid "searchformitem_type-section"
-msgstr ""
+msgstr "విభాగం"
 
 msgid "searchformitem_type-notebook"
-msgstr ""
+msgstr "ల్యాప్టాప్లు"
 
 msgid "searchformitem_type-device"
-msgstr ""
+msgstr "పరికరం"
 
 msgid "searchformitem_type-free"
-msgstr ""
+msgstr "ఉచితంగా"
 
 #. i18n: EN: Example: NAME=Acer; RU: Пример: NAME=Acer;
 msgid "generatesearchitemname_notebookvendor"
-msgstr ""
+msgstr "{{NAME}} ల్యాప్టాప్లు"
 
 #. i18n: EN: Example: NAME=Asus; RU: Пример: NAME=Asus;
 msgid "generatesearchitemname_vendor"
-msgstr ""
+msgstr "{{NAME}} పరికరాల"
 
 msgid "deviceclasses_bluetooth-single-main"
 msgstr "Bluetooth పరికరం"
@@ -751,10 +751,10 @@ msgid "deviceclasses_other-plural-for"
 msgstr "ఇతర పరికరంలు "
 
 msgid "searchheader_caption-subtitle"
-msgstr ""
+msgstr "ప్రశ్నపై డ్రైవర్ శోధన:"
 
 msgid "searchheader_caption-filter-label"
-msgstr ""
+msgstr "డ్రైవర్ ఎంచుకున్న OS కోసం డౌన్లోడ్ చేయబడుతుంది"
 
 #. i18n: EN: Example: NOTEBOOK=Acer AO521; Text for {{DOWNLOAD}} is in key
 #. searchresult_details-content_download-link; RU: Пример: NOTEBOOK=Acer
@@ -767,16 +767,16 @@ msgid "searchresult_details-content_download-link"
 msgstr "డౌన్లోడ్ DriverPack "
 
 msgid "searchresult_notebook"
-msgstr ""
+msgstr "ల్యాప్టాప్లు"
 
 msgid "searchresult_download-btn"
-msgstr ""
+msgstr "స్వయంచాలకంగా డ్రైవర్  సంస్థాపించుము"
 
 msgid "searchresult_details-content-text-placeholder"
 msgstr "డాటా లోడిగ్ జరుగుతోంది..."
 
 msgid "searchresult_details-content-label-1"
-msgstr ""
+msgstr "OS"
 
 msgid "searchresult_details-content-label-2"
 msgstr "అన్ని సిస్టములు"
@@ -794,64 +794,64 @@ msgid "searchresult_device"
 msgstr ""
 
 msgid "searchresult_details-content-text-many"
-msgstr ""
+msgstr "ఈ పరికరం కోసం పలు వేర్వేరు డ్రైవర్స్ కనుగొనబడ్డాయి"
 
 msgid "seofooter_os-list-title"
 msgstr ""
 
 msgid "seofooter_offers-title"
-msgstr ""
+msgstr "<span itemprop='offers' itemscope='' itemtype='http://schema.org/Offer'>అందుబాటులో <meta itemprop='price' content='0' />ఉచితంగా</span>"
 
 msgid "seofooter_driver-description-title"
-msgstr ""
+msgstr "డ్రైవర్ వివరణ"
 
 msgid "seofooter_popular-drivers-title"
-msgstr ""
+msgstr "ప్రముఖ డ్రైవర్స్"
 
 msgid "sidebanner_title"
-msgstr ""
+msgstr "మీరు చూసి అలసిపోతారు డ్రైవర్స్"
 
 msgid "sidebanner_caption"
-msgstr ""
+msgstr "DriverPack స్వయంచాలకంగా అవుతుంది <span class='SideBanner__caption-marked'>ఎంచుకోండి మరియు ఇన్స్టాల్</span> అవసరమైన డ్రైవర్స్"
 
 msgid "translationheader_cta-text"
-msgstr ""
+msgstr "ప్రపంచవ్యాప్తంగా లక్షలాది మంది PC వినియోగదారులకు DriverPack అందుబాటులో ఉండేలా మాకు సహాయం చేయండి — ఇతర భాషలకు అనువాదం చేయడానికి మా స్వచ్ఛంద ప్రాజెక్ట్లో పాల్గొనండి"
 
 msgid "translationheader_bubble-team"
-msgstr ""
+msgstr "ఆటోమేటిక్ కంప్యూటర్ కాన్ఫిగరేషన్ ప్రపంచంలోని అతిపెద్ద సేవలకు మీరు అనువాదకుల బృందంలో భాగంగా ఉండాలనుకుంటున్నారా?"
 
 msgid "translationheader_bubble-languages"
-msgstr ""
+msgstr "ఇంగ్లీష్ లేదా రష్యన్ భాష మీకు బాగా తెలుసా, అందువల్ల మీ స్థానిక భాషలోకి మీరు అనువదించడానికి సిద్ధంగా ఉన్నారా?"
 
 msgid "translationheader_bubble-experience"
-msgstr ""
+msgstr "ఆన్లైన్ అనువాదం సేవలను ఉపయోగించడం ద్వారా మీరు సాఫ్ట్వేర్  లేదా వెబ్ సైట్ లను అనువదించడంలో మీకు ఏమైనా అనుభవం ఉందా?"
 
 msgid "translationheader_bubble-email"
 msgstr ""
 
 msgid "translationlist_title"
-msgstr ""
+msgstr "DriverPack అధికార అనువాదకుల జాబితా"
 
 msgid "translationtool_text-transifex"
-msgstr ""
+msgstr "DriverPack Solution లో transifex.com సేవని ఉపయోగించడం ద్వారా మా స్థానికీకరణను చేస్తాము:"
 
 msgid "translationtool_example-ru-to-en"
-msgstr ""
+msgstr "రష్యన్ (RU) నుండి ఇంగ్లీష్ (EN), మరియు CIS భాషలు (సిఐఎస్)"
 
 msgid "translationtool_example-en-to-all"
-msgstr ""
+msgstr "ఇంగ్లీష్ (EN) నుండి ఇతర ప్రపంచ భాషలలో అనువాదం కోసం లైన్స్"
 
 msgid "deviceclasses_laptop-single-main"
-msgstr ""
+msgstr "ల్యాప్టాప్లు"
 
 msgid "language_title"
 msgstr "Telugu"
 
 msgid "landingPagePublications_rbk"
-msgstr ""
+msgstr "DriverPack అనేది Windows కోసం డ్రైవర్స్ కలిగి ఉన్న సాఫ్ట్వేర్ , ఇది ఆర్థర్ కుజుయకోవ్ యొక్క బృందం పూర్తిగా ఎంచుకొని పరీక్షించింది. ఈ అనువర్తనం ఒక యూజర్ యొక్క కంప్యూటర్ విశ్లేషించి, అవసరమైన డ్రైవర్స్ ఇన్ స్టాల్ చేస్తుంది, ఇది రెండు సమస్యలను పరిష్కరించడానికి మీకు వీలు కల్పిస్తుంది: ముందుగా, కంప్యూటర్ యొక్క కాన్ఫిగరేషన్ యొక్క ప్రక్రియను వేగవంతం చేయడానికి (ఒక వ్యవస్థలో డజన్ల కొద్దీ కంప్యూటర్లు ఉంటే ఇది చాలా ముఖ్యం); రెండవది, దాని కార్యాచరణ సామర్థ్యాన్ని మెరుగుపర్చడానికి."
 
 msgid "landingPagePublications_secretfirmy"
-msgstr ""
+msgstr "నేడు, DriverPack ప్రపంచంలో అతిపెద్ద డ్రైవర్ డేటాబేస్ను కలిగి ఉంది, ఇది 45 భాషలకు అనువదించబడింది మరియు 42 మిలియన్లకు పైగా వినియోగదారుల కంప్యూటర్లలో పనిచేస్తుంది."
 
 msgid "landingPagePublications_cnews"
 msgstr ""
@@ -860,10 +860,10 @@ msgid "landingPagePublications_xbit"
 msgstr ""
 
 msgid "landingPagePublications_chip"
-msgstr ""
+msgstr "DriverPack తో మీ PC భాగాలు కోసం డ్రైవర్స్ యొక్క తాజా సంస్కరణలను కనుగొనడానికి ఇది ఒక సవాలు కాదు. అత్యంత ఆహ్లాదకరమైన అంశం ఏమిటంటే ఒక యూజర్ తనకు తానుగా ఏమీ చేయవలసిన అవసరం లేదు. ఈ సాధనం పూర్తిగా ఆటోమేటెడ్ మరియు ఆపరేషన్లో అనుకూలమైనది."
 
 msgid "landingPagePublications_pcmag"
-msgstr ""
+msgstr "DriverPack Protect రక్షించండి మీ కంప్యూటర్ మాల్వేర్ మరియు యాడ్వేర్ కార్యక్రమాలు మరియు ప్లగ్-ఇన్ల నుండి రక్షించడంలో సహాయపడుతుంది, ఇది యాంటీవైరస్ సాఫ్ట్వేర్  మరియు ప్రకటన-నిరోధక సాధనాలు కూడా తరచుగా చేయడంలో విఫలమవుతాయి."
 
 msgid "landingPagePublications_habr"
 msgstr ""
@@ -872,46 +872,46 @@ msgid "landingPagePublications_computerra"
 msgstr ""
 
 msgid "landingPagePublications_vc"
-msgstr ""
+msgstr "ద్రాక్షపదానికి ధన్యవాదాలు, ఈ ఉత్పత్తి మా బృందం పాల్గొనకుండా వినియోగదారులచే 45 భాషల్లోకి అనువదించబడింది."
 
 msgid "adminpagefaq_official_vendors-q"
-msgstr ""
+msgstr "DriverPack ముందు, నేను డ్రైవర్స్ అధికారిక సైట్ల నుండి డౌన్లోడ్ చేసుకున్నాను కాని వారితోపాటు నేను కూడా డ్రైవర్స్ సమస్యలను ఎదుర్కొన్నాను. ఎందుకు DriverPack లో డ్రైవర్లు తయారీదారుల కంటే నమ్మదగినవి?"
 
 msgid "adminpagefaq_official_vendors-a"
 msgstr ""
 
 msgid "adminpagefaq_database-q"
-msgstr ""
+msgstr "DriverPack డేటాబేస్ ఎలా విస్తరించింది? నాకు అవసరమైన డ్రైవర్స్ నేను నిజంగా కనుగొనగలను?"
 
 msgid "adminpagefaq_database-a"
-msgstr ""
+msgstr "ఇప్పటి వరకు, మా డ్రైవర్  డేటాబేస్ ప్రపంచంలోనే అతిపెద్దది, అందుకే మీరు ఏ పరికరానికి డ్రైవర్  99% విజయాన్ని సాధించగలుగుతారు. అటువంటి డేటాబేస్ను సేకరించి, మద్దతు ఇవ్వడానికి, మేము పరికర తయారీదారులు మరియు డ్రైవర్  డెవలపర్లతో నేరుగా సహకరిస్తాము. మేము అధికారిక సైట్ల నుండి మరియు ప్రైవేట్ FTP సర్వర్ల నుండి డ్రైవర్స్ సేకరించి, పరీక్షిస్తాము మరియు మేము ఖాతాలోకి క్రియాశీల వినియోగదారుల సిఫార్సులను కూడా తీసుకుంటాము."
 
 msgid "adminpagefaq_free-q"
-msgstr ""
+msgstr "DriverPack ఖచ్చితంగా ఉచితంగా ఉండటం నిజమేనా?"
 
 msgid "adminpagefaq_free-a"
-msgstr ""
+msgstr "అన్ని మా సాఫ్ట్వేర్ పూర్తిగా ఉచితం! కానీ మీరు మా ప్రాజెక్ట్కు మద్దతు ఇవ్వాలనుకుంటే, మీ స్వంత ఉపయోగం కోసం మేము అందించే ఉపయోగకరమైన సాఫ్ట్వేర్ ను మీరు వ్యవస్థాపించవచ్చు మరియు మీ స్నేహితులకు DriverPack ను సిఫార్సు చేయాలి :-)"
 
 msgid "adminpagefaq_antivirus-q"
-msgstr ""
+msgstr "నా యాంటీవైరస్ DriverPack లో ఒక వైరస్ను కనుగొంది - అది ఎలా జరిగిపోతుంది?"
 
 msgid "adminpagefaq_antivirus-a"
-msgstr ""
+msgstr "అన్ని DriverPack సంస్కరణలు కాస్పెర్స్కే లాబొరేటరీ ద్వారా సంపూర్ణ పరీక్షలు మరియు అక్రిడిటేషన్లు వస్తున్నందున ఇది చాలా తప్పుగా ఉంటుంది. అవాస్ట్, మరియు 360 టోటల్ సెక్యూరిటీ వంటి పలు యాంటీవైరస్ సాఫ్ట్వేర్  ప్రొవైడర్లతో మా కంపెనీ సహకరిస్తుంది. ఆపరేటింగ్ కొనసాగించడానికి, మీ యాంటీవైరస్ వైట్ జాబితాకు DriverPack ను జోడించండి. మీరు మీ యాంటీవైరస్ కంపెనీకి అలాగే మా మద్దతు సేవకు ఒక తప్పుడు సానుకూలంగా నివేదిస్తే మేము కూడా అభినందనలు పొందుతాము."
 
 msgid "adminpagefaq_expert_mode-q"
-msgstr ""
+msgstr "DriverPack వుపయోగించే అత్యంత అనుకూలమైన రీతి ఏది?"
 
 msgid "adminpagefaq_expert_mode-a"
-msgstr ""
+msgstr "అప్రమేయంగా, DriverPack ఆటోమేటిక్ మోడ్లో మొదలవుతుంది, క్రొత్త వినియోగదారులకు కూడా ఉపయోగించుకోవటానికి అర్ధం చేసుకోవటానికి మరియు అనుకూలమైనదిగా రూపొందించబడింది. అయితే, ఆధునిక వినియోగదారుల మరియు సిస్టమ్ నిర్వాహకుల సౌలభ్యం కోసం, మేము విస్తారిత మోడ్ను అభివృద్ధి చేసాము, ఇది పొడిగించిన సెట్టింగ్లు మరియు అనుకూలీకరణ ఎంపికలను కలిగి ఉంటుంది. ఈ మోడ్ను సక్రియం చేయడానికి, స్క్రీన్ దిగువన ఉన్న సంబంధిత బటన్ను క్లిక్ చేయడానికి సరిపోతుంది."
 
 msgid "adminpagefaq_stable-q"
-msgstr ""
+msgstr "డ్రైవర్ సరిగా సంస్థాపించబడలేదు మరియు నా కంప్యూటర్ యిప్పుడు సమస్యలను కలిగి ఉంది. నేను ఈ పరిస్థితిని ఎలా పరిష్కరించగలను?"
 
 msgid "adminpagefaq_stable-a"
-msgstr ""
+msgstr "DriverPack సాఫ్ట్వేర్  యొక్క ఆపరేషన్ స్థిరత్వం మా ప్రధాన ప్రాధాన్యతలలో ఒకటి, కానీ అవి చాలా అరుదుగా ఉన్నప్పటికీ చిన్న వైఫల్యాలు ఇప్పటికీ జరుగుతాయి. అందువల్ల మేము తిరిగి పునరుద్ధరించే పాయింట్ను సృష్టించుకుంటాం, ఇది ప్రతిసారి మీరు ముందుగా కాన్ఫిగర్ చేసిన స్థితికి తిరిగి రావడానికి వీలు కల్పిస్తుంది. భవిష్యత్లో ఇదే సమస్యను నివారించడానికి, DriverPack మెనూ కు వెళ్లి సాఫ్ట్వేర్ స్వయంచాలకంగా రూపొందించిన నివేదికను మా సాంకేతిక సేవలకు పంపమని మేము మీకు సిఫార్సు చేస్తున్నాము."
 
 msgid "cloudpagefaq_remove_soft-q"
-msgstr ""
+msgstr "DriverPack Cloud నా కంప్యూటర్ నుండి కొన్ని సాఫ్ట్వేర్ తీసివేయమని ఎందుకు సూచిస్తుంది?"
 
 msgid "cloudpagefaq_remove_soft-a"
 msgstr ""
@@ -938,7 +938,7 @@ msgid "badrabbitpromopage_cta-btn"
 msgstr ""
 
 msgid "badrabbitpromopage_caption-text"
-msgstr ""
+msgstr "ఈ సాఫ్ట్వేర్ ఉచితంగా అందించబడుతుంది"
 
 msgid "badrabbitpromopage_info-text-title-1"
 msgstr ""
@@ -956,25 +956,25 @@ msgid "badrabbitpromopage_links-text"
 msgstr ""
 
 msgid "badrabbitpromopage_link-smb"
-msgstr ""
+msgstr "Windows మరియు Windows సర్వర్ కోసం SMB ప్రోటోకాల్ల్లో 1, 2 మరియు 3 సంస్కరణలను ఎనేబుల్ చేసి డిసేబుల్ చేయడం ఎలా"
 
 msgid "cloudlandingpage_cackle-title"
-msgstr ""
+msgstr "మాకు మీ అభిప్రాయం గురించి తెలపండి DriverPack Cloud"
 
 msgid "cloudlandingpage_cackle-caption"
-msgstr ""
+msgstr "మీరు DriverPack Cloud ఇష్టపడుతున్నారా? ఏ ఇతర విధులు మీరు దానిని జోడించాలనుకుంటున్నారు? దయచేసి మాకు చెప్పండి."
 
 msgid "cloudlandingpage_header-title"
-msgstr ""
+msgstr "DriverPack Cloud కొత్తది సాఫ్ట్వేర్  మీ PC సామర్థ్యాన్ని పెంచడానికి"
 
 msgid "cloudlandingpage_about-what-is-title"
-msgstr ""
+msgstr "ఏమిటి DriverPack Cloud సాఫ్ట్వేర్?"
 
 msgid "cloudlandingpage_about-what-is-caption"
 msgstr ""
 
 msgid "cloudlandingpage_about-how-works-title"
-msgstr ""
+msgstr "ఎలా చేస్తుంది DriverPack Cloud పని?"
 
 msgid "cloudlandingpage_about-how-works-caption"
 msgstr ""
@@ -1028,7 +1028,7 @@ msgid "landing-footer_download"
 msgstr "డౌన్లోడ్ DriverPack "
 
 msgid "landing-footer_versions"
-msgstr ""
+msgstr "అన్ని అనువర్తనం సంస్కరణలు"
 
 msgid "landing-footer_manufacturers"
 msgstr ""
@@ -1052,7 +1052,7 @@ msgid "landing-footer_license"
 msgstr "లైసెన్స్ ఒప్పందం"
 
 msgid "landing-footer_remove"
-msgstr ""
+msgstr "DriverPack తొలగింపు"
 
 msgid "notfoundpage_title"
 msgstr ""
@@ -1098,7 +1098,7 @@ msgid "thankyoupopup_licence-link"
 msgstr "లైసెన్స్ ఒప్పందం"
 
 msgid "thankyoupopup_download-link"
-msgstr ""
+msgstr "డౌన్లోడ్"
 
 msgid "translate-feedback-header_caption"
 msgstr ""
@@ -1110,7 +1110,7 @@ msgid "translate-feedback-form-popup_correct-title"
 msgstr ""
 
 msgid "translate-feedback-form-popup_submit"
-msgstr ""
+msgstr "పంపండి"
 
 msgid "translate-feedback-popup_title-error"
 msgstr ""
@@ -1119,37 +1119,37 @@ msgid "translate-feedback-popup_description-error"
 msgstr ""
 
 msgid "translate-feedback-popup_title-success"
-msgstr ""
+msgstr "ధన్యవాదాలు"
 
 msgid "translate-feedback-popup_description-success"
-msgstr ""
+msgstr "హైలైట్ చేసిన టెక్స్ట్ ఎడిటర్కు పంపబడింది."
 
 msgid "translate-feedback-popup_description-join-us"
-msgstr ""
+msgstr "దయచేసి మీ స్థానిక భాషను అనువదించడంలో మాకు సహాయపడండి."
 
 msgid "translate-feedback-popup_description-join-link"
-msgstr ""
+msgstr "మా అనువాదకుల బృందంలో చేరండి!"
 
 msgid "translationlandingpage_title"
-msgstr ""
+msgstr "DriverPack వేరొక భాషలో వివరించుట"
 
 msgid "vendorpage_subtitle-popular"
-msgstr ""
+msgstr "ప్రముఖ {{VENDOR.NAME}} పరికరాల"
 
 msgid "wannacryptpromopage_cta-text"
-msgstr ""
+msgstr "WannaCrypt క్రిప్టోగ్రాఫర్ వైరస్చ — రిత్రలో అతిపెద్ద దాడికి వ్యతిరేకంగా కంప్యూటర్ ఎలా కాపాడుకోవాలి?"
 
 msgid "wannacryptpromopage_cta-subtext"
-msgstr ""
+msgstr "DriverPack కంప్యూటర్ కాన్ఫిగరేషన్ టూల్స్లో ప్రమాదాలను తొలగిస్తూ నిర్దిష్ట చర్యలను కలిగి ఉంటుంది. మీరు WannaCry వైరస్ వ్యతిరేకంగా మా ఉచిత రక్షణ డౌన్లోడ్ ద్వారా మీ PC లేదా ల్యాప్టాప్ సురక్షితం చేయవచ్చు."
 
 msgid "wannacryptpromopage_cta-btn"
-msgstr ""
+msgstr "కంప్యూటర్ కన్ఫిగర్ చేసి WannaCry వ్యతిరేకంగా రక్షించండి"
 
 msgid "wannacryptpromopage_caption-text"
-msgstr ""
+msgstr "ఈ సాఫ్ట్వేర్ ఉచితంగా అందించబడుతుంది"
 
 msgid "wannacryptpromopage_info-text-title-1"
-msgstr ""
+msgstr "WannaCrypt ఏమిటి?"
 
 msgid "wannacryptpromopage_info-text-1"
 msgstr ""
@@ -1170,4 +1170,4 @@ msgid "wannacryptpromopage_links-text"
 msgstr ""
 
 msgid "wannacryptpromopage_link-smb"
-msgstr ""
+msgstr "Windows మరియు Windows సర్వర్ కోసం SMB ప్రోటోకాల్ల్లో 1, 2 మరియు 3 సంస్కరణలను ఎనేబుల్ చేసి డిసేబుల్ చేయడం ఎలా"

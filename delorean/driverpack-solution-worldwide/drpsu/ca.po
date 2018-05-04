@@ -2,13 +2,14 @@
 # jmontane, 2017
 # Josep Maria Antolin <josepma@gmail.com>, 2017
 # Nadia Tegeneva <nadia@drp.su>, 2017
+# Sokayna Ikkene <sokaina@hotmail.es>, 2018
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-03-16 15:04+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
-"Last-Translator: Nadia Tegeneva <nadia@drp.su>, 2017\n"
+"Last-Translator: Sokayna Ikkene <sokaina@hotmail.es>, 2018\n"
 "Language-Team: Catalan (https://www.transifex.com/driverpack-solution/teams/75453/ca/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -67,7 +68,7 @@ msgstr "{{VENDOR.NAME}}"
 
 #. i18n: EN: Example: VENDOR.NAME=Lenovo; RU: Пример: VENDOR.NAME=Lenovo;
 msgid "breadcrumbs_vendorlanding-text"
-msgstr ""
+msgstr "{{VENDOR.NAME}} controladors"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=cardreaders|monitors; RU: Пример:
 #. CLASS.PLURAL.MAIN=картридеры|мониторы;
@@ -272,7 +273,7 @@ msgid "footer_banner_btn"
 msgstr "Descarrega el <span class='bold'>DriverPack Online</span> gratuitament"
 
 msgid "footer_translate-feedback"
-msgstr ""
+msgstr "Heu trobat qualque error o un error de mecanografía?<br />Ressalteu-lo i premeu {{HOTKEY}} "
 
 msgid "header_search-title"
 msgstr "<span class='bold'>Cerca de controladors a</span> la base de dades mes gran — més d'un milió de controladors"
@@ -530,7 +531,7 @@ msgid "reviewheader_cta-text"
 msgstr "Uneix-te a la comunitat de DriverPack a les xarxes socials i estigues informat de les notícies sobre l'aplicació i pren part en els debats"
 
 msgid "reviewheader_cta"
-msgstr ""
+msgstr "Afegeix la seva opinió o suggeriment en la millora de DriverPack"
 
 msgid "search_input-placeholder"
 msgstr "Cerca pel nom del controlador, del portàtil o pel DeviceID"
@@ -911,22 +912,22 @@ msgid "adminpagefaq_stable-a"
 msgstr "La estabilitat de DriverPack és una de les nostres prioritats principals, però tot i això es poden donar petits problemes, tot i que no és gaire habitual. Per això generem un punt de restauració que et permet retornar-ho tot a l'estat anterior. Per tal d'evitar un problema com aquest en el futur, et recomanem anar al menú de DriverPack i enviar-nos l'informe que l'aplicació genera automàticament al nostre servei tècnic."
 
 msgid "cloudpagefaq_remove_soft-q"
-msgstr ""
+msgstr "Per què el DriverPack Cloud em suggereix l'eliminació d'alguns programaris del meu ordenador?"
 
 msgid "cloudpagefaq_remove_soft-a"
-msgstr ""
+msgstr "Els programaris amb una qualificació baixa sovint són adwares o virus, per això DriverPack Cloud recomana eliminar-los. La puntuació és formada d'accord a les preferències dels nostres usuaris — cada vegada que eliminen un programari o un altre, més baixa és la seva qualificació. "
 
 msgid "cloudpagefaq_notifications-q"
-msgstr ""
+msgstr "Després d'instal·lar el DriverPack Cloud, he començat a rebre notificacions en el meu escriptori. Com les puc inhabilitar?"
 
 msgid "cloudpagefaq_notifications-a"
-msgstr ""
+msgstr "Aquestes notificacions són només recomenacions. Vostè pot donar-se de baixa de rebre certes notificacions en pitjant la campana de l'icona que es troba al costat de la dreta superior de cada notificació. "
 
 msgid "cloudpagefaq_usb-q"
-msgstr ""
+msgstr "Quan connectava la meva targeta flash a la ranura del USB,  una notificació sobre algun controlodar ha aparegut en el meu escriptori.  Per a què serveix?"
 
 msgid "cloudpagefaq_usb-a"
-msgstr ""
+msgstr " DriverPack Cloud mostra la connexió dels nous dispositius i examina si tenen els controladors adequats. Si falta el controlador adequat, és possible d'instal·lar-lo en uns instants — és necessari per al funcionament correcte del dispositiu."
 
 msgid "badrabbitpromopage_cta-text"
 msgstr "Virus criptogràfic Bad Rabbit — com puc protegir l'ordinador?"
@@ -959,46 +960,46 @@ msgid "badrabbitpromopage_link-smb"
 msgstr "Com activar i desactivar les versions 1, 2 i 3 del protocol SMB per a Windows i Windows Server"
 
 msgid "cloudlandingpage_cackle-title"
-msgstr ""
+msgstr "Deixan's saber la seva opinió sobre el DriverPack Cloud"
 
 msgid "cloudlandingpage_cackle-caption"
-msgstr ""
+msgstr "T'agrada DriverPack Cloud? Quines altres funcions t'agradaria afegir-hi? Digues-nos-ho, si us plau."
 
 msgid "cloudlandingpage_header-title"
-msgstr ""
+msgstr "El DriverPack Cloud és un programari nou per a augmentar l'eficiència del vostre ordenador personal. "
 
 msgid "cloudlandingpage_about-what-is-title"
-msgstr ""
+msgstr "Què és el programari DriverPack Cloud? "
 
 msgid "cloudlandingpage_about-what-is-caption"
-msgstr ""
+msgstr "Aquest programari és un nou producte de l'equip DriverPack que està pensat per augmentar l'eficiència del seu ordenador sense despeses addicionals ni actualitzacions del maquinari del vostre ordenador. Vostè no està satisfet amb la velocitat operacional del  CS: GO or Dota 2? Prova el DriverPack Cloud! "
 
 msgid "cloudlandingpage_about-how-works-title"
-msgstr ""
+msgstr "Com funciona el DriverPack Cloud? "
 
 msgid "cloudlandingpage_about-how-works-caption"
-msgstr ""
+msgstr "El nostre producte analitza l'estat dels controladors del teu ordenador, revela cada programari que afecta l'eficiència del teu ordenador, i et dóna recomenacions per actualitzar els controladors o eliminar programaris que fan que l'ordenador es ralentitzi, o viceversa, suggereix l'instal·lació de productes de tercers que ajudaràn a augmentar la velocitat operacional del vostre maquinari.  Tot el procés està baix el seu control  –  cap acció de part de DriverPack Cloud sense el seu permís. "
 
 msgid "cloudlandingpage_features-monitoring"
-msgstr ""
+msgstr "Controla l'estat dels seus controladors, descarrega actualitzacions importants i  controladors que falten desde l'enorme base de dades de DriverPack"
 
 msgid "cloudlandingpage_features-safety"
-msgstr ""
+msgstr "Permet mostrar i suprimir ràpidament  potencials malwares, i per tant, ajuda el seu antivirus. "
 
 msgid "cloudlandingpage_features-cloud"
-msgstr ""
+msgstr "Realitza càlculs en el servei de Cloud lo que permet estalviar recursos addicionals a l'ordenador"
 
 msgid "cloudlandingpage_uninstall-title"
-msgstr ""
+msgstr "Com eliminar DriverPack Cloud de manera definitiva?"
 
 msgid "cloudlandingpage_uninstall-caption"
-msgstr ""
+msgstr "Heu instalat el nostre producte però no el vol utilitzar? Basta que vagis a la secció de programaris  en el panell de control, i clica sobre Suprimir Programari. Troba el DriverPack Cloud al menú desplegable i elimina-ho  seguint el procés habitual. Això és tot, el programari està eliminat. DriverPack Cloud no deixa  cap programari ocult després de suprimir-lo, ni deixa residus d'escombraries d'adware en el teu ordenador. "
 
 msgid "cloudlandingpage_license"
-msgstr ""
+msgstr "Abans de començar l'instal·lació llegeix el {{LINK}}, si us plau"
 
 msgid "cloudlandingpage_features-install"
-msgstr ""
+msgstr "Instal·la DriverPack Cloud"
 
 msgid "cloudlandingpage_license-link"
 msgstr "Acord de llicència"
@@ -1086,7 +1087,7 @@ msgstr "La descàrrega no comença? Fes clic aquí per a {{LINK}}"
 #. i18n: EN: text for {{LINK}} is in key thankyoupopup_licence-link; RU: текст
 #. для {{LINK}} находится в ключе thankyoupopup_licence-link;
 msgid "thankyoupopup_licence-text"
-msgstr ""
+msgstr "Mitjançant l'instal·lació d'aquest programari, vostè accepta les condicions {{LINK}}"
 
 msgid "thankyoupopup_title"
 msgstr "Inicia el DriverPack"
@@ -1101,7 +1102,7 @@ msgid "thankyoupopup_download-link"
 msgstr "descarregar"
 
 msgid "translate-feedback-header_caption"
-msgstr ""
+msgstr "Aquesta pàgina s'ha traduït recentment. Heu trobat qualque errada? Seleccioneu-la i premeu {{HOTKEY}}"
 
 msgid "translate-feedback-form-popup_preview-title"
 msgstr "Heu seleccionat el text següent:"

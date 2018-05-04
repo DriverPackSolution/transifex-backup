@@ -3,13 +3,14 @@
 # Mrinal Kumar Jha <shivam6sonu@gmail.com>, 2017
 # VIKAS D. SAWANT <vikas.sawant@technosavvy.co.in>, 2017
 # Vikas Kamal <vikaskamaljnu@gmail.com>, 2017
+# Devesh Agarwal, 2018
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-03-16 15:04+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
-"Last-Translator: Vikas Kamal <vikaskamaljnu@gmail.com>, 2017\n"
+"Last-Translator: Devesh Agarwal, 2018\n"
 "Language-Team: Hindi (https://www.transifex.com/driverpack-solution/teams/75453/hi/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -68,7 +69,7 @@ msgstr "{{VENDOR.NAME}}"
 
 #. i18n: EN: Example: VENDOR.NAME=Lenovo; RU: Пример: VENDOR.NAME=Lenovo;
 msgid "breadcrumbs_vendorlanding-text"
-msgstr ""
+msgstr "{{VENDOR.NAME}} ड्राइवर्स"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=cardreaders|monitors; RU: Пример:
 #. CLASS.PLURAL.MAIN=картридеры|мониторы;
@@ -273,7 +274,7 @@ msgid "footer_banner_btn"
 msgstr " <span class='bold'>DriverPack Online</span> ऑनलाइन नि: शुल्क डाउनलोड करे"
 
 msgid "footer_translate-feedback"
-msgstr ""
+msgstr "क्या आपको कोई त्रुटि या गलती मिली है?<br />इसे उजागर करें और {{HOTKEY}} दबाये|"
 
 msgid "header_search-title"
 msgstr "सबसे बड़ा डेटाबेस से <span class='bold'>ड्राइवर खोज</span> — एक लाख से अधिक ड्राइवर"
@@ -387,7 +388,7 @@ msgid "landingproducts_item-title-online"
 msgstr "DriverPack Online ऑनलाइन"
 
 msgid "landingproducts_item-description-online"
-msgstr ""
+msgstr "अगर आपके पास इन्टरनेट कनेक्शन है <span class='nobr'>({{SIZE}}) </span> तो यह तुरंत संकलित होकर सारे ड्राइवर्स संकलित और स्थापित कर देगा| "
 
 msgid "landingproducts_item-version"
 msgstr "संस्करण:"
@@ -489,19 +490,19 @@ msgid "productlandingheader-online_cta-btn"
 msgstr "DriverPack Online संकलित करे"
 
 msgid "productlandingheader-online_caption"
-msgstr ""
+msgstr "DriverPack Online - सिर्फ {{SIZE}} आकार का सबसे प्रसिद्ध उत्पाद| यह तुरंत संकलित होता है, यह आपके संगणक या लैपटॉप के लिए ड्राइवर्स चुनता है , और उसके बाद इन्टरनेट से सभी आवश्यक ड्राइवर्स संकलित कर उन्हें स्थापित करता है| यह सामान्य उपयोगकर्ता के लिए पूरी तरह से योग्य है| यह केवल इन्टरनेट सुविधा पर  करता है|"
 
 msgid "productlandingheader-network_cta-btn"
 msgstr "DriverPack Offline Network संकलित करे"
 
 msgid "productlandingheader-network_caption"
-msgstr ""
+msgstr "DriverPack Offline Network - नेटवर्क हार्डवेयर के लिए एक ही स्थान पर ड्राइवर्स ({{SIZE}})| यह तुरंत संकलित होता है और उस से भी तेजी से स्थापित| जैसे ही Windows पुनर्स्थापित होती है,  DriverPack Offline Network इन्टरनेट से  जुड़ने के लिए नेटवर्क  ड्राइवर्स को  कॉन्फ़िगर करेगा, और फिर बाकी उपकरणों के लिए ड्राइवर्स संकलित करेगा|"
 
 msgid "productlandingheader-offline_cta-btn"
 msgstr "DriverPack Offline Full संकलित करे"
 
 msgid "productlandingheader-offline_caption"
-msgstr ""
+msgstr "DriverPack Offline Full - नेटवर्क सुविधा के बिना ड्राइवर स्थापना के लिए {{SIZE}} आकार का एक वृहत पैक |  सिर्फ DriverPack Offline Full  संकलित करें और अद्यतित ड्राइवर्स के विशाल संग्रह का आप जहाँ भी चाहे उपयोग करें|  यह सिस्टम व्यवस्थापकों  लिए  पूर्ण रूप से उपयुक्त है|"
 
 msgid "promoheader_cta-text-gamers"
 msgstr "आपका कंप्यूटर आपके विचार से अधिक शक्तिशाली है: सभी ड्राइवरों को मुफ्त में अपडेट करें"
@@ -531,7 +532,7 @@ msgid "reviewheader_cta-text"
 msgstr "सोशल नेटवर्क में DriverPack समुदाय में शामिल हों ताकि उत्पाद के बारे में खबरों को जारी रख सकें और चर्चा में हिस्सा ले सकें"
 
 msgid "reviewheader_cta"
-msgstr ""
+msgstr "DriverPack को उन्नत करने के लिए अपनी समीक्षा या सुझाव जोड़े|"
 
 msgid "search_input-placeholder"
 msgstr "ड्राइवर, लैपटॉप या DeviceID के नाम की खोज करें"
@@ -912,19 +913,19 @@ msgid "adminpagefaq_stable-a"
 msgstr "DriverPack सॉफ्टवेयर की ऑपरेशन स्थिरता हमारी मुख्य प्राथमिकताओं में से एक है, लेकिन छोटी विफलता अभी भी होती है, हालांकि वे दुर्लभ हैं। यही कारण है कि हम एक पुनर्स्थापना बिंदु बनाते हैं जो आपको पहले से कॉन्फ़िगर किए गए अवस्था में सब कुछ वापस लौटा देगा। भविष्य में ऐसी ही समस्या को रोकने के लिए, हम आपको सलाह देते हैं कि आप DriverPack मेनू पर जाकर रिपोर्ट भेज दें जो सॉफ्टवेयर द्वारा स्वचालित रूप से,  हमारी तकनीकी सेवाओं के लिए बनाई गई है।"
 
 msgid "cloudpagefaq_remove_soft-q"
-msgstr ""
+msgstr " DriverPack Cloud मेरे संगणक से कुछ सॉफ़्टवेयर को हटाने का सुझाव क्यों देता है?"
 
 msgid "cloudpagefaq_remove_soft-a"
-msgstr ""
+msgstr "कम मूल्यांकन वाले सॉफ्टवेयर अक्सर एडवेयर या वायरस होते है, इसीलिए DriverPack Cloud उन्हें हटाने  की अनुशंसा करता है| मूल्यांकन हमारे उपयोगकर्ताओं की प्राथमिकताओं के आधार पर किया जाता है — जितना ज्यादा किसी भी सॉफ्टवेयर को हटाया जाता है, उसका मूल्यांकन उतना ही काम हो जाता है|"
 
 msgid "cloudpagefaq_notifications-q"
-msgstr ""
+msgstr "DriverPack Cloud को स्थापित करने के बाद मुझे, मेरे डेस्कटॉप पर अधिसूचनाएं प्राप्त होने लगी है| मैं उन्हें कैसे अक्षम करूँ?"
 
 msgid "cloudpagefaq_notifications-a"
-msgstr ""
+msgstr "ये अधिसूचनाएं सिर्फ अनुशंसाएं है| आप किसी भी प्रकार की अधिसूचना प्राप्त करने की सदस्यता उपरी दाएं कोने में घंटी आइकॉन पर क्लिक करके समाप्त कर सकते है|"
 
 msgid "cloudpagefaq_usb-q"
-msgstr ""
+msgstr "जब मैंने मेरे फ़्लैश कार्ड को यूएसबी स्लॉट में डाला, तो मेरे डेस्कटॉप पर किसी ड्राईवर के बारे में एक अधिसूचना दिखाई दी| यह किसके लिए है?"
 
 msgid "cloudpagefaq_usb-a"
 msgstr ""
@@ -960,46 +961,46 @@ msgid "badrabbitpromopage_link-smb"
 msgstr "Windows और Windows सर्वर के लिए संस्करणों  1, 2, और 3  एसएमबी प्रोटोकॉल के को सक्षम और अक्षम कैसे करें"
 
 msgid "cloudlandingpage_cackle-title"
-msgstr ""
+msgstr "DriverPack Cloud के बारे में आपके विचार हमें बताएं|"
 
 msgid "cloudlandingpage_cackle-caption"
-msgstr ""
+msgstr "क्या आपको DriverPack Cloud पसंद है? आप इसमें और कौनसे अन्य कार्य जोड़ना पसंद करेंगे? कृपया कर हमें बताएं|"
 
 msgid "cloudlandingpage_header-title"
-msgstr ""
+msgstr "DriverPack Cloud आपके संगणक की दक्षता को बढ़ाने के लिए नया सॉफ्टवेयर है|"
 
 msgid "cloudlandingpage_about-what-is-title"
-msgstr ""
+msgstr "DriverPack Cloud सॉफ्टवेयर क्या है?"
 
 msgid "cloudlandingpage_about-what-is-caption"
 msgstr ""
 
 msgid "cloudlandingpage_about-how-works-title"
-msgstr ""
+msgstr "DriverPack Cloud कैसे काम करता है?"
 
 msgid "cloudlandingpage_about-how-works-caption"
 msgstr ""
 
 msgid "cloudlandingpage_features-monitoring"
-msgstr ""
+msgstr "यह आपके ड्राइवर्स की स्थिति पर नज़र रखता है, DriverPack के विशाल डेटाबेस से महत्वपूर्ण अपडेट और अनुपस्थित ड्राइवर्स डाउनलोड करता है |"
 
 msgid "cloudlandingpage_features-safety"
-msgstr ""
+msgstr "यह संभावित मालवेयर को तेजी से प्रकट करने और हटाने में सक्षम है और इस प्रकार आपके एंटीवायरस की सहायता करता है|"
 
 msgid "cloudlandingpage_features-cloud"
-msgstr ""
+msgstr "यह  Cloud सेवा पर गणना करता है जो आपके संगणक पर अतिरिक्त संसाधनों को सहेजता है|"
 
 msgid "cloudlandingpage_uninstall-title"
-msgstr ""
+msgstr "DriverPack Cloud को पूरी तरह से संगणक से कैसे हटाये?"
 
 msgid "cloudlandingpage_uninstall-caption"
 msgstr ""
 
 msgid "cloudlandingpage_license"
-msgstr ""
+msgstr "स्थापना करने से पहले कृपया {{LINK}} पढ़े"
 
 msgid "cloudlandingpage_features-install"
-msgstr ""
+msgstr "DriverPack Cloud स्थापित करें"
 
 msgid "cloudlandingpage_license-link"
 msgstr "लाइसेंस समझौता"
@@ -1087,7 +1088,7 @@ msgstr "डाउनलोड शुरू नहीं हुआ है? {{LINK
 #. i18n: EN: text for {{LINK}} is in key thankyoupopup_licence-link; RU: текст
 #. для {{LINK}} находится в ключе thankyoupopup_licence-link;
 msgid "thankyoupopup_licence-text"
-msgstr ""
+msgstr " इस सॉफ्टवेयर को स्थापित करते हुए, आप {{LINK}} शर्तों को स्वीकार करते है|"
 
 msgid "thankyoupopup_title"
 msgstr "DriverPack प्रारंभ करें"
@@ -1102,7 +1103,7 @@ msgid "thankyoupopup_download-link"
 msgstr "संकलित करें "
 
 msgid "translate-feedback-header_caption"
-msgstr ""
+msgstr "यह पृष्ठ अभी हाल ही में अनुवादित किया गया है। क्या आपको कोई गलती मिली है? इसे उजागर करें और {{HOTKEY}} दबाये|"
 
 msgid "translate-feedback-form-popup_preview-title"
 msgstr "आपने पाठ के निम्नलिखित भाग को हाइलाइट किया है:"
