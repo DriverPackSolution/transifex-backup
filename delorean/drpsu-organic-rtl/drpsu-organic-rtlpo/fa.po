@@ -1,23 +1,21 @@
 # Translators:
 # Nadia Tegeneva <nadia@drp.su>, 2017
+# Mohammad javad Sanei <mhmsanei@gmail.com>, 2017
 # بهمن جهانتیغ <mikaeel2010g@gmail.com>, 2017
 # Pouria Javaheri <PouriaJavaheri@yahoo.com>, 2017
 # sepehr rahmani <sepehrahmani@mail.com>, 2018
-# Arman Mirzaei <arman.mirzaei@gmail.com>, 2018
 # Milad Zamany Pour <miladzp@live.com>, 2018
-# m Aghakhani <m.aghakhani@ymail.com>, 2018
 # Murtaza Mukhtar <imurtazamukhtar@gmail.com>, 2018
 # Erfan Bashiri <mr.erfan293@gmail.com>, 2018
 # ahad ns <ahad_ns@yahoo.com>, 2018
 # Bryan East <bryaneast0@gmail.com>, 2018
-# Mohammad javad Sanei <mhmsanei@gmail.com>, 2018
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-03-16 14:57+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
-"Last-Translator: Mohammad javad Sanei <mhmsanei@gmail.com>, 2018\n"
+"Last-Translator: Bryan East <bryaneast0@gmail.com>, 2018\n"
 "Language-Team: Persian (https://www.transifex.com/driverpack-solution/teams/75453/fa/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -33,7 +31,7 @@ msgid "seo_vendor-footer-anchor"
 msgstr "{{VENDOR.NAME}}"
 
 msgid "seo_devicegroups-footer-anchor"
-msgstr "{{VENDOR.NAME}}{{CLASS.PLURAL.MAIN}}"
+msgstr "{{CLASS.PLURAL.MAIN}}{{VENDOR.NAME}}"
 
 #. i18n: EN: Example: NAME=Acer E230H; RU: Пример: NAME=Acer E230H;
 msgid "seo_devicegroup-footer-anchor"
@@ -41,13 +39,13 @@ msgstr "{{NAME}}"
 
 #. i18n: EN: Example: NAME=Asus X550EA; RU: Пример: NAME=Asus X550EA;
 msgid "seo_notebookvendor-footer-anchor"
-msgstr "{{NOTEBOOK.VENDOR.NAME}} لپ تاپ ها"
+msgstr "لپتاپ های {{NOTEBOOK.VENDOR.NAME}}"
 
 msgid "seo_notebook-footer-anchor"
-msgstr "{{NAME}} لپ تاپ ها"
+msgstr "لپتاپ های {{NAME}}"
 
 msgid "seo_notebookdevices-footer-anchor"
-msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} {{CLASS.PLURAL.MAIN}}"
+msgstr "{{CLASS.PLURAL.MAIN}}{{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}}"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
 #. CLASS.PLURAL.FOR=мониторов|модемов;
@@ -55,67 +53,67 @@ msgid "seo_deviceclass-footer-anchor"
 msgstr "{{CLASS.PLURAL.MAIN}}"
 
 msgid "seo_hwidos-footer-anchor"
-msgstr "نسخه راه انداز برای Windows {{OS.NAME}}"
+msgstr "نسخه درایور برای {{OS.NAME}}Windows"
 
 msgid "seo_main-title"
-msgstr "DriverPack Solution — نصب و به روز رسانی خودکار درایورها | دانلود مجانی"
+msgstr "DriverPack Solution — نصب و به روز رسانی خودکار درایورها | به صورت رایگان دانلود کید"
 
 msgid "seo_main-description"
 msgstr "DriverPack Solution به شما پیشنهاد می کند که یا درایور ها را مجانی نصب کنید و یا نرم افزار را دانلود کنید تا درایور ها را به صورت خودکار نصب و به روز رسانی کند."
 
 msgid "seo_main-keywords"
-msgstr "دانلود درایور پک windows 7 8 10 64 رانندگا لپ تاپ به صورت رایگاننصب رانندگا نصب درایور نرم افزار"
+msgstr "دانلود درایور پک Windows 7 8 10 64 درایورهای لپتاپ برای رایگان درایور نصب کننده درایور نصب نرم افزار"
 
 msgid "seo_mainos-title"
 msgstr "دانلود درایور ها برای {{OS.VERSION}} DriverPack Solution | Windows"
 
 msgid "seo_mainos-description"
-msgstr "به روز رسانی مجانی درایور ها برای نسخه های  x86  {{OS.VERSION}} Windows و x64"
+msgstr "درایور های Windows {{OS.VERSION}} x64 and x86 به صورت رایگان به روز رسانی کنید"
 
 msgid "seo_mainos-h1"
-msgstr "Windows {{OS.VERSION}} درایور ها "
+msgstr "درایور های {{OS.VERSION}} Windows"
 
 msgid "seo_mainos-keywords"
-msgstr "{{OS.VERSION}} Windows دانلود و نصب مجانی درایور های x64 و DriverPack Solution x86 "
+msgstr "{{OS.VERSION}} Windows دانلود و نصب رایگان درایور های x64 و DriverPack Solution x86 "
 
 msgid "seo_mainos-h3"
-msgstr "بزرگترین مجموعه درایور های {{OS.VERSION}} Windows در یک برنامه ساده و مجانی"
+msgstr "بزرگترین مجموعه درایور های {{OS.VERSION}} Windows در یک برنامه ساده و رایگان"
 
 msgid "seo_mainlanding-title"
-msgstr "DriverPack Solution - برنامه به روز رسانی درایور ها | دانلود درایور Windows های 7, XP, 10, 8.1 , 8"
+msgstr "DriverPack Solution - برنامه به روز رسانی درایور ها | درایورهای Windows 7, XP, 10, 8, و 8.1 را دانلود کنید."
 
 msgid "seo_mainlanding-description"
-msgstr "DriverPack Solution – برنامه مجانی برای نصب و به روز رسانی خودکار درایور های لپ تاپ و کامپیوتر شخصی شما.همچنین فرصت دانلود درایور ها برای Windows های XP, 7, 8, 8.1, 10 از صفحات کاتالوگ ما موجود است."
+msgstr "DriverPack Solution – نرم افزار رایگان برای نصب و به روز رسانی خودکار درایور های لپ تاپ و کامپیوتر شخصی شما. همچنین فرصت دانلود درایور ها برای Windows های XP, 7, 8, 8.1, 10 از صفحات فهرست ما موجود است."
 
 msgid "seo_mainlanding-keywords"
-msgstr "دانلود درایور ها - نسخه نصب خودکار آپدیت ها مخصوص Windows 7, XP, 10, 8, 8.1"
+msgstr "دانلود درایور ها نسخه نصب خودکار آپدیت مخصوص Windows 7, XP, 10, 8, 8.1 نرم افزار"
 
 msgid "seo_mainlanding-topvendorslist-title"
-msgstr "سازنده محبوب"
+msgstr "سازنده های محبوب"
 
 msgid "seo_mainlanding-topvendorslist-caption"
-msgstr "DriverPack ، درایور های تجهیزات کامپیوتری تمامی تولید کنندگان را جمع آوری کرده است. این ها محبوب ترین برندها هستند."
+msgstr "DriverPack درایور تجهیزات کامپیوتر را از هر سازنده ای انتخاب می کند. در اینجا محبوت ترین برند ها:"
 
 msgid "seo_productonline_title"
-msgstr "DriverPack Online | سریع و خودکار درایور ها را دانلود نمایید"
+msgstr "DriverPack Online | دانلود سریع درایور ها به سرعت و خودکار"
 
 msgid "seo_productonline_description"
 msgstr "DriverPack Online به شما اجازه می دهد در صورت اتصال به اینترنت تمامی درایور های مورد نیاز کامپیوتر یا لپ تاپ را دانلود و نصب / بروز رسانی کنید."
 
 msgid "seo_productonline_h1"
-msgstr "DriverPack Online - فورا دانلود شده و در صورت اتصال به اینترنت تمامی درایور ها را دانلود و نصب می کند."
+msgstr "DriverPack Online - بلافاصله دانلود شده و در صورت اتصال به اینترنت تمامی درایور ها را دانلود و نصب می کند."
 
 msgid "seo_productnetwork_title"
-msgstr "DriverPack Offline Network | درایور ها را برای  سخت افزار شبکه آفلاین دانلود نمایید"
+msgstr "DriverPack Offline Network | درایور ها را برای سخت افزار شبکه به صورت آفلاین دانلود نمایید"
 
 msgid "seo_productnetwork_description"
-msgstr "DriverPack Offline Network - تمامی درایور ها برای سخت افزار شبکه آفلاین در یک مکان.برای  Windows های XP, 7, 8, 8.1, 10 دانلود نمایید"
+msgstr "DriverPack Offline Network - تمامی درایور ها برای سخت افزار شبکه آفلاین در یک مکان. برای  Windows های XP, 7, 8, 8.1, 10 دانلود نمایید"
 
 msgid "seo_productnetwork_h1"
-msgstr "DriverPack Offline Network - دارای درایور های مربوط به سخت افزار های شبکه میباشد (وایرلس و کارت شبکه) و بدون اتصال به اینترنت کار میکند"
+msgstr "DriverPack Offline Network - دارای درایور های مربوط به سخت افزار های شبکه می باشد (Lan/Wi-Fi) و بدون اتصال به اینترنت کار می کند"
 
 msgid "seo_productoffline_title"
-msgstr " DriverPack Offline Full | دانلود نسخه کامل آپدیت ها به صورت بدون نیاز به اینترنت"
+msgstr " DriverPack Offline Full | دانلود درایورها بدون نیاز به اینترنت"
 
 msgid "seo_productoffline_description"
 msgstr "DriverPack Offline Full - نسخه مورد استفاده سیستم ادمین ها بدون نیاز به اینترنت. برای دانلود Windows XP, 7, 8, 8.1, 10"
@@ -126,7 +124,7 @@ msgstr "DriverPack Offline Full - شامل تمامی درایورها، بدو�
 #. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
 #. CLASS.PLURAL.FOR=мониторов|модемов;
 msgid "seo_deviceclass-title"
-msgstr "دانلود {{CLASS.SINGLE.FOR}} راه اندازی ها | Windows"
+msgstr "دانلود درایورهای {{CLASS.SINGLE.FOR}} | Windows"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
 #. CLASS.PLURAL.FOR=мониторов|модемов;
@@ -136,7 +134,7 @@ msgstr "پیشنهادها  درایورهای ویندوز را به صورت {
 #. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
 #. CLASS.PLURAL.FOR=мониторов|модемов;
 msgid "seo_deviceclass-h1"
-msgstr "<span class='bold'>{{CLASS.SINGLE.FOR}}</span> درایور ها"
+msgstr "درایور های <span class='bold'>{{CLASS.SINGLE.FOR}}</span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
 #. CLASS.PLURAL.FOR=мониторов|модемов;
@@ -146,10 +144,10 @@ msgstr " {{CLASS.SINGLE.FOR}} درایورهای  نسخه 10 8 64 windows 7 د�
 #. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
 #. CLASS.PLURAL.FOR=мониторов|модемов;
 msgid "seo_deviceclass-footer-description"
-msgstr "درایورها را به صورت {{CLASS.PLURAL.FOR}} و رایگان دانلود کنید"
+msgstr "دانلود درایور های {{CLASS.PLURAL.FOR}} به صورت رایگان"
 
 msgid "seo_deviceclass-footer-application-category"
-msgstr "<span itemprop='applicationCategory'>دستگاه ها</span>: دسته بندی"
+msgstr "دسته بندی: <span itemprop='applicationCategory'>دستگاه ها</span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=monitors|modem; RU: Пример:
 #. CLASS.PLURAL.MAIN=мониторы|модемы;
@@ -157,10 +155,10 @@ msgid "seo_deviceclass-footer-application-subcategory"
 msgstr "دسته بندی ثانویه: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_vendors-title"
-msgstr "دانلود درایور ها برای رایانه شخصی،لپ تاپ، و نت بوک | Windows"
+msgstr "دانلود درایور ها رایانه شخصی، لپ تاپ، و نت بوک | Windows"
 
 msgid "seo_vendors-description"
-msgstr "درایور هارا به صورت رایگان بر روی کامپیوتر شخصی , لپ تاپ , نوت بوک خود نصب کنید یا نرم افزار را دانلود کرده تا به صورت اتوماتیک درایور ها و آپدیت ها را نصب کند "
+msgstr "درایور های کامپیوتر شخصی , لپ تاپ , نوت بوک خود را به صورت رایگان نصب کنید یا نرم افزار را برای نصب و به روز رسانی خودکار درایور ها دانلود کنید"
 
 msgid "seo_vendors-h1"
 msgstr "سازندگان سخت افزار"
@@ -170,15 +168,15 @@ msgstr "درایورها درایور ها windows 7 8 10 64 دانلود دان
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendor-title"
-msgstr "دانلود رایگان {{VENDOR.NAME}} راه انداز ها برای Windows"
+msgstr "دانلود درایور های {{VENDOR.NAME}} برای Windows به صورت رایگان"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendor-description"
-msgstr "نصب مجانی {{VENDOR.NAME}} درایور ها برای Windows 7 , XP 8 , 8.1 ,10  یا نرم افزار DriverPack Solution را دانلود کنید برای نصب خودکار درایور"
+msgstr "DriverPack Solution نصب رایگان {{VENDOR.NAME}} درایور ها برای Windows 7 , XP 8 , 8.1 ,10  یا نرم افزار DriverPack Solution را دانلود کنید برای نصب خودکار درایور"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendor-h1"
-msgstr "<span class='bold'>{{VENDOR.NAME}}</span> درایور های راه انداز دستگاه"
+msgstr "درایور دستگاه های <span class='bold'>{{VENDOR.NAME}}</span>"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendor-keywords"
@@ -186,10 +184,10 @@ msgstr "درایورها windows 7 8 10 64 دانلود دانلود {{VENDOR.NA
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendor-footer-description"
-msgstr "دانلود مجانی درایور ها برای دستگاه {{VENDOR.NAME}}"
+msgstr "دانلود رایگان درایور های {{VENDOR.NAME}} به صورت رایگان"
 
 msgid "seo_vendor-footer-application-category"
-msgstr "<span itemprop='applicationCategory'>دستگاه ها</span>: دسته بندی"
+msgstr "دسته بندی: <span itemprop='applicationCategory'>دستگاه ها</span>"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendor-footer-application-subcategory"
@@ -197,7 +195,7 @@ msgstr "دسته بندی ثانویه <span itemprop='applicationSubCategory'>�
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendorlanding-title"
-msgstr "درایورهای {{VENDOR.NAME}} | دانلود برای ایکس پی، 7، 8، 8.1 و 10 Windows"
+msgstr "درایورهای {{VENDOR.NAME}} | دانلود برای Windows 7, XP, 10, 8, و 8.1"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendorlanding-description"
@@ -217,17 +215,17 @@ msgstr "انواع دستگاه های {{VENDOR.MARKED_NAME}}"
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|monitors; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.FOR=видеокарт|мониторов; VENDOR.NAME=Acer;
 msgid "seo_devicegroups-title"
-msgstr "دانلود {{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} درایورها برای Windows به صورت رایگان"
+msgstr "دانلود درایور های {{CLASS.SINGLE.FOR}} {{VENDOR.NAME}} برای Windows به صورت رایگان"
 
 #. i18n: EN: Example: CLASS.SINGLE.FOR=videocard|monitor; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.SINGLE.FOR=видеокарты|монитора; VENDOR.NAME=Acer;
 msgid "seo_devicegroups-description"
-msgstr "در اینجا شما می توانید {{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} درایور ها را برای  Windows 7 XP 8 8.1 10 نصب کنید یا نرم افزار DriverPack Solution را برای نصب رایگان درایور ها دانلود کنید "
+msgstr "در اینجا شما می توانید درایور های {{CLASS.SINGLE.FOR}} {{VENDOR.NAME}} را برای  Windows 7 XP 8 8.1 10 نصب کنید یا نرم افزار DriverPack Solution را برای نصب رایگان درایور ها دانلود کنید "
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|monitors; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.FOR=видеокарт|мониторов; VENDOR.NAME=Acer;
 msgid "seo_devicegroups-h1"
-msgstr "<span class='bold'>{{VENDOR.NAME}}</span> {{CLASS.SINGLE.FOR}} درایور های راه انداز "
+msgstr "درایورهای {{CLASS.SINGLE.FOR}} <span class='bold'>{{VENDOR.NAME}}</span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|monitors; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|мониторы; VENDOR.NAME=Acer;
@@ -237,7 +235,7 @@ msgstr "درایور ها windows 7 8 10 64 دانلود دانلود پی سی 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|monitors; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.FOR=видеокарт|мониторов; VENDOR.NAME=Acer;
 msgid "seo_devicegroups-footer-description"
-msgstr "دانلود درایورها برای {{VENDOR.NAME}} {{CLASS.PLURAL.FOR}}"
+msgstr "دانلود درایورها برای {{CLASS.PLURAL.FOR}} {{VENDOR.NAME}} "
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|monitors; RU: Пример:
 #. CLASS.PLURAL.MAIN=видеокарты|мониторы;
@@ -252,14 +250,14 @@ msgstr "دسته بندی ثانویه: <span itemprop='applicationSubCategory'>
 #. i18n: EN: Example: CLASS.SINGLE.FOR=videocard|monitor; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.SINGLE.FOR=видеокарты|монитора; VENDOR.NAME=Acer;
 msgid "seo_devicegroups-footer-content"
-msgstr "دانلود درایورها برای {{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} یا نرم افزار  DriverPack Solution را برای دانلود خودکار درایورها و آپدیت ها نصب کنید   "
+msgstr "درایور های {{CLASS.SINGLE.FOR}} {{VENDOR.NAME}} را دانلود کنید، یا نرم افزار DriverPack Solution را برای دانلود و به روز رسانی خودکار درایور ها نصب کنید"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
 #. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
 #. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
 #. GROUP.NAME=GeForce 210;
 msgid "seo_devicegroup-title"
-msgstr "دانلود درایورهای {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.SINGLE.FOR}} برای Windows به صورت رایگان"
+msgstr "دانلود درایورهای {{CLASS.SINGLE.FOR}} {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} برای Windows به صورت رایگان"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
 #. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
@@ -273,7 +271,7 @@ msgstr "باز کنید و نصب کنید {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} 
 #. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
 #. GROUP.NAME=GeForce 210;
 msgid "seo_devicegroup-h1"
-msgstr "<span class='bold'>{{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.SINGLE.FOR}}</span> درایور های راه انداز "
+msgstr "درایور های <span class='bold'>{{CLASS.SINGLE.FOR}} {{GROUP.VENDOR.NAME}} {{GROUP.NAME}}</span>"
 
 #. i18n: EN: Example: GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU:
 #. Пример: GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210;
@@ -285,32 +283,32 @@ msgstr "درایورها windows 7 8 10 64 دانلود دانلود پی سی {
 #. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
 #. GROUP.NAME=GeForce 210;
 msgid "seo_devicegroup-footer-description"
-msgstr "دانلود درایورهای {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.PLURAL.FOR}} به صورت رایگان"
+msgstr "دانلود درایورهای {{CLASS.PLURAL.FOR}} {{GROUP.NAME}} {{GROUP.VENDOR.NAME}} به صورت رایگان"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
 #. GROUP.VENDOR.NAME=Nvidia; RU: Пример: CLASS.PLURAL.FOR=видеокарт|чипсетов;
 #. GROUP.VENDOR.NAME=Nvidia;
 msgid "seo_devicegroup-footer-application-category"
-msgstr "شاخه: <span itemprop='applicationCategory'>{{GROUP.VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
+msgstr "دسته بندی: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}} {{GROUP.VENDOR.NAME}}</span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets;
 #. GROUP.NAME=GeForce 210; RU: Пример: CLASS.PLURAL.MAIN=видеокарты|чипсеты;
 #. GROUP.NAME=GeForce 210;
 msgid "seo_devicegroup-footer-application-subcategory"
-msgstr "زیرشاخه: <span itemprop='applicationSubCategory'>{{GROUP.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
+msgstr "دسته بندی ثانویه: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}} {{GROUP.NAME}}</span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
 #. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
 #. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
 #. GROUP.NAME=GeForce 210;
 msgid "seo_devicegroup-footer-content"
-msgstr "دانلود دریاورها برای {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.SINGLE.FOR}} ، یا دانلود نرم افزار DriverPack Solution به منظور دانلود و برزوسانی خودکار درایورها"
+msgstr "درایورها را برای {{CLASS.SINGLE.FOR}} {{GROUP.NAME}} {{GROUP.VENDOR.NAME}} دانلود کنید، یا نرم افزار DriverPack Solution به منظور دانلود و بروز رسانی خودکار درایورها دانلود کنید"
 
 msgid "seo_hwids-title"
-msgstr "دانلود درایور ابزار به وسیله Device ID آن | DriverPack Solution | صفحه {{PAGE}}"
+msgstr "دانلود درایور های دستگاه ها به وسیله DriverPack Solution | Device ID | صفحه {{PAGE}}"
 
 msgid "seo_hwids-description"
-msgstr "دانلود درایور ابزار به وسیله Device ID آن"
+msgstr "دانلود درایور دستگاه به وسیله Device ID آن"
 
 msgid "seo_hwids-h1"
 msgstr "تمامی درایور ها برای دستگاه ها"
@@ -318,12 +316,12 @@ msgstr "تمامی درایور ها برای دستگاه ها"
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 msgid "seo_hwid-title"
-msgstr "{{DEVICE.DEVICEID}} دانلود درایور به رایگان"
+msgstr "دانلود درایور {{DEVICE.DEVICEID}} به صورت رایگان"
 
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 msgid "seo_hwid-description"
-msgstr "{{DEVICE.DEVICEID}} درایور ابزار برای Windows 7، XP، 10، 8 و8.1"
+msgstr "درایور دستگاه {{DEVICE.DEVICEID}} برای Windows 7, XP, 10, 8, و 8.1"
 
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
@@ -338,15 +336,15 @@ msgstr "دانلود درایورهای windows 64 بیتی نسخه 7 8 10 {{DE
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 msgid "seo_hwid-footer-description"
-msgstr "دانلود مجانی راه اندازها برای دستگاه {{DEVICE.DEVICEID}}"
+msgstr "دانلود درایور برای دستگاه {{DEVICE.DEVICEID}} به صورت رایگان"
 
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 msgid "seo_hwid-footer-content"
-msgstr "دانلود راه انداز {{DEVICE.DEVICEID}}، یا نصب نرم افزار DriverPack Solution برای دانلود خودکار راه انداز و به روز رسانی"
+msgstr "درایور {{DEVICE.DEVICEID}} را دانلود کنید، یا نرم افزار DriverPack Solution را برای دانلود و به روز رسانی خودکار درایور ها نصب کنید"
 
 msgid "seo_notebooks-title"
-msgstr "دانلود راه اندازهای سیستم عامل Windows برای همۀ مدل های لپ تاپ"
+msgstr "دانلود درایور تمامی مدل های لپتاپ برای سیستم عامل Windows"
 
 msgid "seo_notebooks-description"
 msgstr "بارگذاری و نصب راه انداز برای همۀ مدل های لپ تاپ و نت بوک برای Windows 7, XP, 10,8 و 8.1   یا دانلود نرم افزار DriverPack Solution برای دانلود خودکار به روز رسانی و نصب آن"
@@ -355,11 +353,11 @@ msgid "seo_notebooks-h1"
 msgstr "درایور های لپ تاپ و نت بوک"
 
 msgid "seo_notebooks-keywords"
-msgstr "درایور ها درایورها لب تاب نوت بوک لب تاب نوت بوک نت بوک نت بوک windows 7 8 10 64 دانلود دانلود"
+msgstr "درایور ها درایورها لپ تاب نوت بوک لپ تاب نوت بوک نت بوک نت بوک windows 7 8 10 64 دانلود دانلود"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_notebookvendor-title"
-msgstr "دانلود {{VENDOR.NAME}} درایورهای لپ تاپ برای | Windows "
+msgstr "دانلود درایور های لپتاپ {{VENDOR.NAME}} | Windows"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_notebookvendor-description"
@@ -367,7 +365,7 @@ msgstr "آماده سازی و نصب درایور های لپتاب و نوت �
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_notebookvendor-h1"
-msgstr "<span class='bold'>{{VENDOR.NAME}}</span> درایور های مربوط به لپتاب و نوت بوک"
+msgstr "درایور های لپتاپ و نوت بوک <span class='bold'>{{VENDOR.NAME}}</span>"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_notebookvendor-keywords"
@@ -375,19 +373,19 @@ msgstr "دانلود درایور های مربوط به لپتاب ، نوت ب
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_notebookvendor-footer-description"
-msgstr "دانلود درایور های {{VENDOR.NAME}} برای لپ تاپ به رایگان"
+msgstr "دانلود درایور های لپ تاپ {{VENDOR.NAME}} به صورت رایگان"
 
 msgid "seo_notebookvendor-footer-application-category"
-msgstr "دسته بندی: <span itemprop='applicationCategory'> پ تاپ</span>"
+msgstr "دسته بندی: <span itemprop='applicationCategory'> لپ تاپ ها</span>"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_notebookvendor-footer-application-subcategory"
-msgstr "دسته بندی زیر مجموعه: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} لب تاب ها</span>"
+msgstr "دسته بندی ثانویه: <span itemprop='applicationSubCategory'> لپتاپ های {{VENDOR.NAME}}</span>"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebook-title"
-msgstr "درایور های لب تاب {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} | دانلود برای Windows"
+msgstr "درایور های لپتاپ {{NOTEBOOK.NAME}}{{NOTEBOOK.VENDOR.NAME}} | دانلود برای Windows"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
@@ -397,7 +395,7 @@ msgstr "آماده سازی و نصب {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebook-h1"
-msgstr "<span class='bold'>{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}</span> درایور های لپتاب"
+msgstr "درایور های لپ تاپ <span class='bold'>{{NOTEBOOK.NAME}} {{NOTEBOOK.VENDOR.NAME}}</span>"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
@@ -407,29 +405,29 @@ msgstr "دانلود درایور های مربوط به Windows  7 یا 8 یا 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebook-footer-description"
-msgstr "دانلود رایگان درایور برای لپ تاپ {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} "
+msgstr "دانلود درایور لپ تاپ {{NOTEBOOK.NAME}}{{NOTEBOOK.VENDOR.NAME}} به صورت رایگان"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; RU: Пример:
 #. NOTEBOOK.VENDOR.NAME=Acer;
 msgid "seo_notebook-footer-application-category"
-msgstr "دسته بندی: <span itemprop='applicationCategory'>لپ تاپ  {{NOTEBOOK.VENDOR.NAME}}</span>"
+msgstr "دسته بندی: <span itemprop='applicationCategory'>لپ تاپ های {{NOTEBOOK.VENDOR.NAME}}</span>"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebook-footer-application-subcategory"
-msgstr "زیر مجموعه: <span itemprop='applicationSubCategory'>{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} لپتاب ها</span>"
+msgstr "زیر مجموعه: <span itemprop='applicationSubCategory'> لپتاپ های {{NOTEBOOK.NAME}} {{NOTEBOOK.VENDOR.NAME}}</span>"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebook-footer-content"
-msgstr "در اینجا شما میتوانید درایور های مربوط به {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} را دریافت و یا نرم افزار کامل DriverPack Solution را دانلود کرده تا بتوانید درایور ها را نصب و بروز رسانی کنید "
+msgstr "در اینجا شما می توانید درایور های مربوط به {{NOTEBOOK.NAME}}{{NOTEBOOK.VENDOR.NAME}} را دریافت و یا نرم افزار کامل DriverPack Solution را دانلود کرده تا بتوانید درایور ها را نصب و بروز رسانی کنید "
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 #. CLASS.SINGLE.FOR=videocart|soundcart; RU: Пример:
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 #. CLASS.SINGLE.FOR=видеокарты|звуковой карты;
 msgid "seo_notebookdevices-title"
-msgstr "دانلود درایور {{CLASS.SINGLE.FOR}} برای لپ تاپ {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}  | نسخه Windows"
+msgstr "درایور های {{CLASS.SINGLE.FOR}} برای لپتاپ {{NOTEBOOK.NAME}} {{NOTEBOOK.VENDOR.NAME}} | دانلود برای Windows"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 #. CLASS.SINGLE.FOR=videocart|soundcart; RU: Пример:
@@ -457,101 +455,101 @@ msgstr "درایور های مربوط به لپتاب و نوت بوک {{CLASS.
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 #. CLASS.PLURAL.FOR=видеокарт|звуковых карт;
 msgid "seo_notebookdevices-footer-description"
-msgstr "دانلود رایگان {{CLASS.PLURAL.FOR}} برای لپ تاپ  {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} لپ تاپ."
+msgstr "دانلود درایور های {{CLASS.PLURAL.FOR}} لپتاپ {{NOTEBOOK.NAME}}{{NOTEBOOK.VENDOR.NAME}} به صورت رایگان"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebookdevices-footer-application-category"
-msgstr "دسته بندی: <span itemprop='applicationCategory'>لپ تاپ {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}</span>"
+msgstr "دسته بندی: <span itemprop='applicationCategory'>لپ تاپ های {{NOTEBOOK.NAME}} {{NOTEBOOK.VENDOR.NAME}}</span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets;
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU: Пример:
 #. CLASS.PLURAL.MAIN=видеокарты|чипсеты; NOTEBOOK.VENDOR.NAME=Acer;
 #. NOTEBOOK.NAME=AO533;
 msgid "seo_notebookdevices-footer-application-subcategory"
-msgstr "زیر مجموعه: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}} برای {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}</span>"
+msgstr "زیر مجموعه: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}} برای {{NOTEBOOK.NAME}} {{NOTEBOOK.VENDOR.NAME}}</span>"
 
 #. i18n: EN: Example: CLASS.SINGLE.FOR=videocard|chipset;
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU: Пример:
 #. CLASS.SINGLE.FOR=видеокарты|чипсета; NOTEBOOK.VENDOR.NAME=Acer;
 #. NOTEBOOK.NAME=AO533;
 msgid "seo_notebookdevices-footer-content"
-msgstr "دانلود و نصب درایور ها مربوط به {{CLASS.SINGLE.FOR}} برای {{NOTEBOOK.VENDOR.NAME}}  {{NOTEBOOK.NAME}} لپتاب با Windows 7 یا 8 یا 8.1 یا 10 یا XP و یا میتوانید نرم افزار DriverPack Solution را برای نصب و بروز رسانی دانلود کنید "
+msgstr "درایور های {{CLASS.SINGLE.FOR}} لپتاپ {{NOTEBOOK.NAME}} {{NOTEBOOK.VENDOR.NAME}} را برای Windows 7, XP, 10, 8, و 8.1 دانلود کنید، یا نرم افزار DriverPack Solution را برای به روز رسانی درایور دانلود کنید"
 
 msgid "seo_search-title"
 msgstr "جستجو برای عبارت: {{QUERY}} |  DriverPack Solution "
 
 msgid "seo_devicegroupos-title"
-msgstr "دانلود کنید {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} درایور های مربوط به Windows {{OS}}"
+msgstr "درایور های {{GROUP.NAME}} {{GROUP.VENDOR.NAME}} را برای {{OS}} Windows دانلود کنید"
 
 msgid "seo_devicegroupos-description"
-msgstr "نصب درایور های {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} برای Windows {{OS}}، یا دانلود نرم افزار DriverPack Solution برای نصب یا بروز رسانی اتوماتیک"
+msgstr "درایور های {{GROUP.NAME}} {{GROUP.VENDOR.NAME}} برای Windows {{OS}} را نصب کنید، یا نرم افزار DriverPack Solution را برای نصب و به روز رسانی خودکار درایور ها دانلود کنید."
 
 msgid "seo_devicegroupos-h1"
-msgstr "{{GROUP.VENDOR.NAME}} {{GROUP.NAME}} راه انداز های مخصوص Windows {{OS}}"
+msgstr "درایور های {{GROUP.NAME}} {{GROUP.VENDOR.NAME}} برای {{OS}} Windows"
 
 msgid "seo_devicegroupos-keywords"
 msgstr "درایور های مربوط به سیستم عامل Windows {{OS}} و برای رایانه شخصی {{GROUP.NAME}} {{GROUP.VENDOR.NAME}}"
 
 msgid "seo_devicegroupos-footer-description"
-msgstr "دانلود درایور  برای {{CLASS.SINGLE.FOR}} {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} و مربوط به سیستم عامل Windows {{OS}} بصورت رایگان "
+msgstr "دانلود درایور {{CLASS.SINGLE.FOR}} {{GROUP.NAME}} {{GROUP.VENDOR.NAME}} برای {{OS}} Windows به صورت رایگان "
 
 msgid "seo_devicegroupos-footer-application-category"
-msgstr "مجموعه: <span itemprop='applicationCategory'>{{GROUP.VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
+msgstr "مجموعه: <span itemprop='applicationCategory'> {{CLASS.PLURAL.MAIN}} {{GROUP.VENDOR.NAME}} </span>"
 
 msgid "seo_devicegroupos-footer-application-subcategory"
-msgstr "زیر مجموع: <span itemprop='applicationSubCategory'>{{GROUP.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
+msgstr "زیر مجموعه: <span itemprop='applicationSubCategory'> {{CLASS.PLURAL.MAIN}} {{GROUP.NAME}}</span>"
 
 msgid "seo_devicegroupos-footer-content"
-msgstr "دانلود درایور های مربوط به {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.PLURAL.FOR}} (Windows {{OS}}) ، یا نصب DriverPack Solution برای نصب خودکار درایور ها و بروز رسانی ها "
+msgstr "درایور های {{CLASS.PLURAL.FOR}} {{GROUP.NAME}} {{GROUP.VENDOR.NAME}} برای ({{OS}} Windows) دانلود کنید، یا نرم افزار DriverPack Solution را برای دانلود و به روز رسانی خودکار درایور ها نصب کنید"
 
 msgid "seo_notebookos-title"
-msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} راه انداز های لپتاپ برای Windows {{OS}}"
+msgstr "درایور های لپتاپ {{NOTEBOOK.NAME}} {{NOTEBOOK.VENDOR.NAME}} برای {{OS}} Windows"
 
 msgid "seo_notebookos-description"
-msgstr "نصب درایور های {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} لپتاب با Windows {{OS}}، یا میتوانی نرم افزار DriverPack Solution را دانلود و برای نصب و بروز رسانی نرم افزار ها از آن استفاده کنید ."
+msgstr "درایور های لپتاپ {{NOTEBOOK.NAME}} {{NOTEBOOK.VENDOR.NAME}} را برای {{OS}} Windows نصب کنید، یا نرم افزار DriverPack Solution را برای نصب و به روز رسانی خودکار درایور ها دانلود کنید"
 
 msgid "seo_notebookos-h1"
-msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} راه انداز های لپتاپ برای Windows {{OS}}"
+msgstr "درایور های لپتاپ {{NOTEBOOK.NAME}} {{NOTEBOOK.VENDOR.NAME}} برای {{OS}} Windows"
 
 msgid "seo_notebookos-keywords"
 msgstr "درایور ها درایور ها لپتاب نوت بوک نوت بوک  Windows {{OS}} دانلود دانلود  {{NOTEBOOK.NAME}} {{NOTEBOOK.VENDOR.NAME}}"
 
 msgid "seo_notebookos-footer-description"
-msgstr "دانلود درایور های {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} با Windows {{OS}} به صورت رایگان "
+msgstr "درایور های {{NOTEBOOK.NAME}} {{NOTEBOOK.VENDOR.NAME}}  برای{{OS}} Windows را به صورت رایگان دانلود کنید"
 
 msgid "seo_notebookos-footer-application-category"
-msgstr "مجموعه: <span itemprop='applicationCategory'>{{NOTEBOOK.VENDOR.NAME}} لپتاب های</span>"
+msgstr "مجموعه: <span itemprop='applicationCategory'>لپتاپ های {{NOTEBOOK.VENDOR.NAME}}</span>"
 
 msgid "seo_notebookos-footer-application-subcategory"
-msgstr "زیر مجموعه: <span itemprop='applicationSubCategory'>{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} لپتاب های</span>"
+msgstr "زیر مجموعه: <span itemprop='applicationSubCategory'> لپتاپ های {{NOTEBOOK.NAME}} {{NOTEBOOK.VENDOR.NAME}} </span>"
 
 msgid "seo_notebookos-footer-content"
-msgstr "اینجا شما میتوانید درایور های مربوط به {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} لپتاب ({{OS}} Windows) را دریافت کنید یا نرم افزار DriverPack Solution را برای دانلود و نصب خودکار و یا بروز رسانی دانلود کنید "
+msgstr "در اینجا شما می توانید درایور های مربوط به لپتاپ {{NOTEBOOK.NAME}} {{NOTEBOOK.VENDOR.NAME}} را برای ({{OS}} Windows) دریافت کنید یا نرم افزار DriverPack Solution را برای دانلود و نصب خودکار و یا بروز رسانی درایور ها دانلود کنید "
 
 msgid "seo_deviceclassos-title"
-msgstr "دانلود {{CLASS.SINGLE.FOR}} راه انداز ها برای Windows {{OS}}"
+msgstr "دانلود درایور های {{CLASS.SINGLE.FOR}} برای {{OS}} Windows"
 
 msgid "seo_deviceclassos-description"
-msgstr "نصب درایور ها برای {{CLASS.SINGLE.FOR}} با سیستم عامل Windows {{OS}} و یا دانلود نرم افزار  DriverPack Solution برای دانلود و نصب و بروز رسانی خودکار رایانه خودتان  "
+msgstr "درایور های {{CLASS.SINGLE.FOR}} برای {{OS}} Windows را نصب کنید، یا نرم افزار DriverPack Solution را برای نصب و به روز رسانی خودکار درایور ها دانلود کنید"
 
 msgid "seo_deviceclassos-h1"
-msgstr "{{CLASS.SINGLE.FOR}} راه انداز های مخصوص Windows {{OS}}"
+msgstr "درایور های {{CLASS.SINGLE.FOR}} برای {{OS}} Windows"
 
 msgid "seo_deviceclassos-keywords"
 msgstr "دانلود درایور های مربوط به {{CLASS.SINGLE.FOR}} با Windows {{OS}} "
 
 msgid "seo_deviceclassos-footer-description"
-msgstr "دانلود رایگان درایور های {{CLASS.SINGLE.FOR}} با Windows {{OS}} به صورت رایگان "
+msgstr "درایور های {{CLASS.SINGLE.FOR}} را برای {{OS}} Windows به صورت رایگان دانلود کنید"
 
 msgid "seo_deviceclassos-footer-application-category"
-msgstr "<span itemprop='applicationCategory'>دستگاه ها</span>: دسته بندی"
+msgstr "دسته بندی: <span itemprop='applicationCategory'>دستگاه ها</span>"
 
 msgid "seo_deviceclassos-footer-application-subcategory"
 msgstr "زیر مجموعه: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_devicegroupsos-title"
-msgstr "دانلود درایور های {{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} با Windows {{OS}}"
+msgstr "دانلود درایور های {{CLASS.SINGLE.FOR}} {{VENDOR.NAME}} برای {{OS}} Windows"
 
 msgid "seo_devicegroupsos-description"
 msgstr "نصب درایور ها برای {{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} با سیستم عامل Windows {{OS}} و یا میتوانید نرم افزار  DriverPack Solution را برای دانلود ، نصب و بروز رسانی خودکار دانلود کنید ."
@@ -581,67 +579,67 @@ msgid "seo_notebookvendoros-description"
 msgstr "نصب درایور ها برای {{VENDOR.NAME}} لپتاب با سیستم عامل Windows {{OS}} ، یا میتوانید نرم افزار  DriverPack Solution را برای دریافت ، نصب و بروز رسانی خودکار درایور ها دانلود کنید ."
 
 msgid "seo_notebookvendoros-h1"
-msgstr "{{VENDOR.NAME}} راه انداز های لپتاب برای سیستم عامل Windows {{OS}}"
+msgstr "درایور های لپتاپ {{VENDOR.NAME}} برای {{OS}} Windows"
 
 msgid "seo_notebookvendoros-keywords"
 msgstr "درایور ها درایور ها لپتاب  نوت بوک نوت بوک Windows {{OS}} دانلود دانلود {{VENDOR.NAME}}"
 
 msgid "seo_notebookvendoros-footer-description"
-msgstr "دانلود درایور های لپتاب {{VENDOR.NAME}} با Windows {{OS}} به صورت رایگان"
+msgstr "دانلود درایور های لپتاپ {{VENDOR.NAME}} برای {{OS}} Windows به صورت رایگان"
 
 msgid "seo_notebookvendoros-footer-application-category"
-msgstr "مجموعه: <span itemprop='applicationCategory'>لپتاب ها</span>"
+msgstr "مجموعه: <span itemprop='applicationCategory'>لپتاپ ها</span>"
 
 msgid "seo_notebookvendoros-footer-application-subcategory"
-msgstr "زیر مجموعه: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} لپتاب ها</span>"
+msgstr "زیر مجموعه: <span itemprop='applicationSubCategory'> لپتاپ های {{VENDOR.NAME}}</span>"
 
 msgid "seo_notebookvendoros-footer-content"
-msgstr "دانلود درایور ها مورد نیاز {{VENDOR.NAME}} لپتاب با سیستم عامل Windows {{OS}} به صورت رایگان ، یا میتوانید نرم افزار  DriverPack Solution را برای دریافت ، نصب و بروز رسانی خودکار درایور ها  دانلود کنید ."
+msgstr "درایور های لپتاپ {{VENDOR.NAME}} را برای {{OS}} Windows به صورت رایگان دانلود کنید، یا نرم افزار DriverPack Solution را برای دانلود و به روز رسانی خودکار درایور ها نصب کنید"
 
 msgid "seo_hwidos-title"
-msgstr "دانلود درایور های قطعه {{DEVICE.DEVICEID}} برای Windows {{OS}}"
+msgstr "دانلود درایور {{DEVICE.DEVICEID}} برای {{OS}} Windows"
 
 msgid "seo_hwidos-description"
 msgstr "دانلود درایور های قطعه {{DEVICE.DEVICEID}} برای Windows {{OS}} به صورت رایگان "
 
 msgid "seo_hwidos-h1"
-msgstr "{{DEVICE.DEVICEID}} راه انداز های دستگاه برای سیستم عامل Windows {{OS}}"
+msgstr "درایور های دستگاه {{DEVICE.DEVICEID}} برای {{OS}} Windows"
 
 msgid "seo_hwidos-keywords"
 msgstr "دانلود درایور های رایانه {{DEVICE.DEVICEID}} با Windows {{OS}}"
 
 msgid "seo_hwidos-footer-description"
-msgstr "دانلود درایور های مربوط به {{DEVICE.DEVICEID}} برای Windows {{OS}} به صورت رایگان "
+msgstr "دانلود درایور های دستگاه {{DEVICE.DEVICEID}} برای {{OS}} Windows به صورت رایگان "
 
 msgid "seo_hwidos-footer-content"
-msgstr "نصب درایور ها مورد نیاز برای {{DEVICE.DEVICEID}} دستگاه با سیستم عامل Windows {{OS}} ، همچنین میتوانید برای دریافت ، نصب و بروز رسانی خودکار درایور ها نرم افزار DriverPack Solution را دانلود کنید "
+msgstr "درایور های دستگاه {{DEVICE.DEVICEID}} برای {{OS}} Windows را نصب کنید ، همچنین می توانید برای دریافت ، نصب و بروز رسانی خودکار درایور ها نرم افزار DriverPack Solution را دانلود کنید "
 
 msgid "seo_notebookdevicesos-title"
-msgstr "دانلود درایور ها {{CLASS.SINGLE.FOR}} برای {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} با Windows {{OS}} "
+msgstr "دانلود درایور ها {{CLASS.SINGLE.FOR}} {{NOTEBOOK.NAME}} {{NOTEBOOK.VENDOR.NAME}} برای {{OS}} Windows"
 
 msgid "seo_notebookdevicesos-description"
-msgstr "نصب درایور مورد نیاز {{CLASS.SINGLE.FOR}} مربوط به لپتاب {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} با سیستم عامل Windows {{OS}} ، یا میتوانید برای دریافت ، نصب و بروز رسانی خودکار درایور های مورد نیاز نرم افزار DriverPack Solution  را دانلود کنید "
+msgstr "درایور های {{CLASS.SINGLE.FOR}} {{NOTEBOOK.NAME}} {{NOTEBOOK.VENDOR.NAME}} را برای {{OS}} Windows نصب کنید، یا نرم افزار DriverPack Solution را برای نصب و به روز رسانی خودکار درایور ها دانلود کنید"
 
 msgid "seo_notebookdevicesos-h1"
-msgstr "راه انداز ها برای {{CLASS.PLURAL.FOR}} مخصوص {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}} لپتاب | Windows {{OS}}"
+msgstr "درایور های {{CLASS.PLURAL.FOR}} برای {{NOTEBOOK.NAME}} {{NOTEBOOK.VENDOR.NAME}} لپتاپ {{OS}} Windows"
 
 msgid "seo_notebookdevicesos-keywords"
 msgstr "درایور ها درایور ها لپتاب نوت بوک لپتاب نوت بوک نوت بوک {{CLASS.PLURAL.MAIN}} با سیستم عامل  Windows {{OS}}  دانلود دانلود  {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
 
 msgid "seo_notebookdevicesos-footer-description"
-msgstr "دانلود درایور {{CLASS.SINGLE.FOR}} برای {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} با Windows {{OS}} به صو رت رایگان "
+msgstr "دانلود درایور {{CLASS.SINGLE.FOR}} {{NOTEBOOK.NAME}} {{NOTEBOOK.VENDOR.NAME}} برای {{OS}} Windows به صورت رایگان "
 
 msgid "seo_notebookdevicesos-footer-application-category"
-msgstr "مجموعه: <span itemprop='applicationCategory'>{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} لپتاب ها</span>"
+msgstr "مجموعه: <span itemprop='applicationCategory'> لپتاپ های {{NOTEBOOK.NAME}} {{NOTEBOOK.VENDOR.NAME}}</span>"
 
 msgid "seo_notebookdevicesos-footer-application-subcategory"
-msgstr "مجموعه ها : <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}}  برای {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}</span>"
+msgstr "مجموعه ها : <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}}  برای {{NOTEBOOK.NAME}} {{NOTEBOOK.VENDOR.NAME}}</span>"
 
 msgid "seo_notebookdevicesos-footer-content"
-msgstr "دانلود درایور برای {{CLASS.SINGLE.FOR}} برای {{NOTEBOOK.NAME}} {{NOTEBOOK.VENDOR.NAME}}(Windows {{OS}})، یا دانلود نرم افزار  DriverPack Solution برای روزآوری درایور"
+msgstr "درایور های {{CLASS.SINGLE.FOR}} {{NOTEBOOK.NAME}} {{NOTEBOOK.VENDOR.NAME}}را برای ( {{OS}} Windows) دانلود کنید، یا نرم افزار  DriverPack Solution برای به روز رسانی درایور ها دانلود کنید"
 
 msgid "seo_promopage_title"
-msgstr "DriverPack – نصب رایگان راه انداز"
+msgstr "DriverPack – نصب رایگان درایور"
 
 msgid "seo_promo-description"
 msgstr "DriverPack Solution به شما پیشنهاد می کند که راه اندازهای دستگاهتان را به صورت رایگان نصب کنید یا نرم افزار را دانلود کنید تا راه اندازها و به روز رسانی ها را به صورت خودکار نصب کند."
@@ -1105,8 +1103,8 @@ msgstr "شرکت HP در سال 2015 در نتیجه شراکت Hewlett-Packard 
 
 #~ msgid "seo_hwid-footer-application-subcategory"
 #~ msgstr ""
-#~ "زیر مجموعه: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} "
-#~ "{{CLASS.PLURAL.MAIN}}</span>"
+#~ "زیر مجموعه: <span itemprop='applicationSubCategory'> {{CLASS.PLURAL.MAIN}} "
+#~ "{{VENDOR.NAME}}</span>"
 
 #~ msgid "seo_hwidos-footer-application-category"
 #~ msgstr ""
@@ -1114,5 +1112,5 @@ msgstr "شرکت HP در سال 2015 در نتیجه شراکت Hewlett-Packard 
 
 #~ msgid "seo_hwidos-footer-application-subcategory"
 #~ msgstr ""
-#~ "زیر مجموعه : <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} "
-#~ "{{CLASS.PLURAL.MAIN}}</span>"
+#~ "زیر مجموعه : <span itemprop='applicationSubCategory'> {{CLASS.PLURAL.MAIN}} "
+#~ "{{VENDOR.NAME}}</span>"

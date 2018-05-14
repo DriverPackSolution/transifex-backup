@@ -4,6 +4,7 @@
 # Amirreza Nasiri <nasiri.amirreza.96@gmail.com>, 2017
 # Артур Кузяков <artx@drp.su>, 2017
 # Nadia Tegeneva <nadia@drp.su>, 2017
+# Mohammad javad Sanei <mhmsanei@gmail.com>, 2017
 # Aria Koushabadi <koosha7676@gmail.com>, 2017
 # Pejman Djd <Pejman9977@gmail.com>, 2017
 # Masoud Nazari <masoudnazari73@gmail.com>, 2017
@@ -38,10 +39,10 @@ msgid "admincackle_dialog-star"
 msgstr "لطفا به نحوه عملکرد DriverPack رای دهید"
 
 msgid "admindriverpacks_landing-title"
-msgstr "درایورپک ها (بسته های درایورها)"
+msgstr "Driverpacks (مجموعه درایورها)"
 
 msgid "admindriverpacks_landing-subtitle"
-msgstr "درایورپک ها ی ما شامل {{COUNT}} درایور می باشد که هر کدام به صورت دستی انتخاب شده  و آزمایش شده است"
+msgstr "driverpacks ما شامل {{COUNT}} درایور می باشد که هر کدام به صورت دستی انتخاب و آزمایش شده است"
 
 msgid "admindriverpacks_download"
 msgstr "دانلود"
@@ -53,10 +54,10 @@ msgid "adminfaq_landing-subtitle"
 msgstr "شما اغلب در مورد DriverPack سوال می کنید — ما به برگزیده ترین آنها پاسخ می دهیم"
 
 msgid "adminheader_cta-text"
-msgstr "Driverpack برای حرفه ای ها طراحی شده اما استفاده از اون برای کاربرای تازه کار هم آسونه"
+msgstr "Driverpack برای حرفه ای ها طراحی شده اما استفاده از آن برای کاربران تازه وارد نیز ساده است"
 
 msgid "adminheader_cta-btn"
-msgstr "دانلود نسخه DriverPack Online  "
+msgstr "دانلود DriverPack Online  "
 
 msgid "buttonsplitdropdown_main-button"
 msgstr "دانلود"
@@ -82,7 +83,7 @@ msgstr "{{VENDOR.NAME}}"
 
 #. i18n: EN: Example: VENDOR.NAME=Lenovo; RU: Пример: VENDOR.NAME=Lenovo;
 msgid "breadcrumbs_vendorlanding-text"
-msgstr "برنامه های راه انداز {{VENDOR.NAME}}"
+msgstr "درایور های {{VENDOR.NAME}}"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=cardreaders|monitors; RU: Пример:
 #. CLASS.PLURAL.MAIN=картридеры|мониторы;
@@ -117,7 +118,7 @@ msgstr "{{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}}"
 #. CLASS.PLURAL.MAIN=видеокарты|чипсеты, NOTEBOOK.VENDOR.NAME=Lenovo,
 #. NOTEBOOK.NAME=G580;
 msgid "breadcrumbs_notebookdevices-text"
-msgstr "{{CLASS.PLURAL.MAIN}}{{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}}"
+msgstr "{{CLASS.PLURAL.MAIN}} لپتاپ {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}}"
 
 msgid "devicecard_download-btn"
 msgstr "دانلود درایور"
@@ -127,13 +128,13 @@ msgstr "دانلود درایور"
 #. NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10 x86; Текст для
 #. {{DOWNLOAD}} находится в ключе drivercard_no-results_download-link;
 msgid "devicecard_details_no-results-text"
-msgstr "درایورها برای {{NAME}} برای {{OSVERSIONS}} Windows در لیست یافت نشدند. برای انتخاب خودکار درایور {{DOWNLOAD}}."
+msgstr "درایورها {{NAME}} برای {{OSVERSIONS}} Windows در لیست یافت نشدند. برای انتخاب خودکار درایور ها{{DOWNLOAD}}."
 
 msgid "devicecard_details_no-results_download-link"
-msgstr "دانلود DriverPack"
+msgstr "DriverPack را دانلود کنید"
 
 msgid "devicecard_details-content-text"
-msgstr "داده در حال بارگذاری..."
+msgstr "درحال بارگذاری داده..."
 
 msgid "devicecard_details_all-systems"
 msgstr "همه سیستم ها"
@@ -175,7 +176,7 @@ msgid "devicecard_details-links"
 msgstr "مشاهده تمامی درایور ها برای"
 
 msgid "devicecardlist_no-result_download-link"
-msgstr "دانلود DriverPack"
+msgstr "DriverPack را دانلود کنید"
 
 #. i18n: EN: Example: DEVICENAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10
 #. x86; Text for {{DOWNLOAD}} is in key devicecardlist_no-result_download-
@@ -183,7 +184,7 @@ msgstr "دانلود DriverPack"
 #. x86; Текст для {{DOWNLOAD}} находится в ключе devicecardlist_no-
 #. result_download-link;
 msgid "devicecardlist_no-results-device-text"
-msgstr "درایور مناسبی از مجموعه برای {{DEVICENAME}} در Windows {{OSVERSIONS}}یافت نشد. {{DOWNLOAD}} را جهت دانلود اتوماتیک کلیک نمایید ."
+msgstr "درایور مناسبی برای {{DEVICENAME}} در{{OSVERSIONS}} Windows از لیست یافت نشد. جهت انتخاب خودکار درایور ها {{DOWNLOAD}}."
 
 #. i18n: EN: Example: DEVICECLASS=chipsets|videocards; NOTEBOOK=Acer AO521;
 #. OSVERSIONS=Windows 10 x86; Text for {{DOWNLOAD}} is in key
@@ -192,17 +193,17 @@ msgstr "درایور مناسبی از مجموعه برای {{DEVICENAME}} در
 #. OSVERSIONS=Windows 10 x86; Текст для {{DOWNLOAD}} находится в ключе
 #. devicecardlist_no-result_download-link;
 msgid "devicecardlist_no-results-notebook-text"
-msgstr "درایور مناسبی از مجموعه برای {{NOTEBOOK}} در Windows {{OSVERSIONS}} لپ‌تاپ یافت نشد. {{DOWNLOAD}} را جهت دانلود خودکار کلیک نمایید."
+msgstr "درایور مناسبی از مجموعه برای لپتاپ {{NOTEBOOK}} در{{OSVERSIONS}} Windows یافت نشد. جهت انتخاب خودکار درایور ها {{DOWNLOAD}}."
 
 #. i18n: EN: Example: NOTEBOOK=Acer AO521; OSVERSIONS=Windows 10 x86; Text for
 #. {{DOWNLOAD}} is in key devicecardlist_no-result_download-link; RU: Пример:
 #. NOTEBOOK=Acer AO521; Пример: OSVERSIONS=Windows 10 x86; Текст для
 #. {{DOWNLOAD}} находится в ключе devicecardlist_no-result_download-link;
 msgid "devicecardlist_no-results-notebook-device-class-text"
-msgstr "درایورها برای {{DEVICECLASS}} برای لپ تاپ {{NOTEBOOK}} برای سیستم عامل Windows {{OSVERSIONS}} پیدا نشد. برای انتخاب خودکار درایور {{DOWNLOAD}}."
+msgstr "درایورهای{{DEVICECLASS}} برای لپ تاپ {{NOTEBOOK}} برای سیستم عامل{{OSVERSIONS}} Windows پیدا نشد. برای انتخاب خودکار درایور {{DOWNLOAD}}."
 
 msgid "devicegrouppage_all-systems"
-msgstr "همه سیستم ها"
+msgstr "همه سیستم عامل ها"
 
 msgid "notebookpage_all-systems"
 msgstr "همه سیستم ها"
@@ -223,20 +224,20 @@ msgid "devicetypelist_title_os"
 msgstr "درایور جهت دستگاه هایی با سیستم عامل {{OS}}"
 
 msgid "devicetypelist_title"
-msgstr "جستجوی درایور برای دستگاه ها"
+msgstr "جستجوی درایور برای دستگاه های"
 
 msgid "search_noresult"
-msgstr "دانلود نسخه DriverPack Online"
+msgstr "دانلود DriverPack Online"
 
 #. i18n: EN: Example: NAME=Acer Aspire 4830TG; OSVERSIONS=Windows 10 x86; Text
 #. for {{DOWNLOAD}} is in key drivercard_no-results_download-link; RU: Пример:
 #. NAME=Acer Aspire 4830TG; Пример: OSVERSIONS=Windows 10 x86; Текст для
 #. {{DOWNLOAD}} находится в ключе drivercard_no-results_download-link;
 msgid "drivercard_no-results-text"
-msgstr "درایور مناسبی از مجموعه برای {{NAME}} در Windows {{OSVERSIONS}} یافت نشد. {{DOWNLOAD}} را جهت دانلود خودکار کلیک نمایید "
+msgstr "درایور مناسبی از مجموعه برای {{NAME}} در Windows {{OSVERSIONS}} یافت نشد. جهت انتخاب خودکار درایور ها {{DOWNLOAD}}."
 
 msgid "drivercard_no-results_download-link"
-msgstr "دانلود DriverPack"
+msgstr "DriverPack را دانلود کنید"
 
 msgid "drivercard_caption-version"
 msgstr "نسخه:"
@@ -281,43 +282,43 @@ msgid "footer_banner-title"
 msgstr "آیا از جستجو برای درایور مناسب دستگاهتان خسته شده اید ؟"
 
 msgid "footer_banner-caption"
-msgstr "DriverPack Online <span style='color: {{COLOR}}'> یافت و نصب خودکار </span>درایور های مورد نیاز شما "
+msgstr "DriverPack Online درایور های مورد نیاز شما را به صورت خودکار <span style='color: {{COLOR}}'> پیدا خواهد کرد و نصب می کند </span>"
 
 msgid "footer_banner_btn"
-msgstr "دانلود <span class='bold'>DriverPack Online</span>به رایگان"
+msgstr "<span class='bold'>DriverPack Online</span> را به صورت رایگان دانلود کنید"
 
 msgid "footer_translate-feedback"
 msgstr "آیا شما یک ایراد یا اشتباه تایپی پیدا کرده اید؟<br />لطفاً آن را برجسته کرده و کلید {{HOTKEY}} را بفشارید"
 
 msgid "header_search-title"
-msgstr "<span class='bold'>جستجو درایور های مورد نیاز در بین</span> بزرگترین پایگاه—  بیشتر از یک میلیون درایور "
+msgstr "<span class='bold'>جستجو درایور های مورد نیاز در بین</span> بزرگترین پایگاه داده — بیشتر از یک میلیون درایور "
 
 msgid "header_search-examples"
 msgstr "برای مثال:"
 
 msgid "header_cta-text"
-msgstr "دانلود DriverPack برای انتخاب خودکار درایور ها"
+msgstr "DriverPack را برای انتخاب خودکار درایور ها دانلود کنید"
 
 msgid "header_cta-btn"
 msgstr "درایورها را به صورت اتوماتیک نصب کن"
 
 msgid "header_cta-label-1"
-msgstr "آن<span style='color: {{COLOR}}'>دانلود خواهدشد</span>فورا"
+msgstr "بلافاصله <span style='color: {{COLOR}}'>دانلود خواهد شد</span>"
 
 msgid "header_cta-label-2"
-msgstr "آن<span style='color: {{COLOR}}'>انتخاب و نصب خواهد شد</span>درایور ها به صورت خودکار"
+msgstr "درایور ها را به صورت خودکار <span style='color: {{COLOR}}'>انتخاب و نصب</span> خواهد کرد"
 
 msgid "headerbutton_title"
 msgstr "درایورها را به صورت اتوماتیک نصب کن"
 
 msgid "headerbutton_label"
-msgstr "نرم افزار DriverPack کاملا مجانی است"
+msgstr "نرم افزار DriverPack کاملا رایگان است"
 
 msgid "headeros_cta-btn"
-msgstr "نصب درایورها برای <span class='HeaderOs__cta-btn-marked'>{{OS}}</span>"
+msgstr "درایور ها را برای <span class='HeaderOs__cta-btn-marked'>{{OS}}</span> نصب کن"
 
 msgid "headeros_search-text"
-msgstr "یا جستجو کنید در پایگاه فوق العاده درایور ما "
+msgstr "یا از جستوجو در پایگاه عظیم درایور ما استفاده کنید"
 
 msgid "landingdevicetypelist_landing-title"
 msgstr "DriverPack برای هر دستگاهی مناسب است"
@@ -332,16 +333,16 @@ msgid "landingdevicetypelist_versions"
 msgstr "نسخه های دیگر Driverpack"
 
 msgid "landingfeatures_landing-title"
-msgstr "DriverPack مناسب ترین و سریع ترین راه راه اندازی و تنظیم رایانه "
+msgstr "DriverPack مناسب ترین و سریع ترین راه برای پیکربندی و راه اندازی یک کامپیوتر است."
 
 msgid "landingfeatures_landing-subtitle"
-msgstr "نرم افزار به صورت رایگان تهیه شده و برای کاربران حرفه‌ای و مبتدی مناسب است."
+msgstr "این نرم افزار به صورت رایگان فراهم شده و برای هردو کاربران حرفه‌ای و مبتدی مناسب است."
 
 msgid "landingfeatures_item-title-free"
 msgstr "رایگان"
 
 msgid "landingfeatures_item-caption-free"
-msgstr "DriverPack رایگان ارائه شده است."
+msgstr "DriverPack به صورت رایگان ارائه شده است."
 
 msgid "landingfeatures_item-title-safe"
 msgstr "امن"
@@ -353,10 +354,10 @@ msgid "landingfeatures_item-title-for-all-devices"
 msgstr "برای هر دستگاهی"
 
 msgid "landingfeatures_item-caption-for-all-devices"
-msgstr "DriverPack بزرگترین پایگاه درایور های راه انداز در جهان است ، و میتواند برای راه اندازی تمامی رایانه ها مورد استفاده قرار بگیرد ."
+msgstr "DriverPack بزرگترین پایگاه درایور ها را در جهان دارد، و می تواند برای راه اندازی و پیکربندی تمامی رایانه ها مورد استفاده قرار بگیرد ."
 
 msgid "landingheader_cta-text"
-msgstr "DriverPack راه‌اندازها را رایگان نصب خواهد کرد و ایراد راه‌اندازهای هر دستگاهی را نیز رفع می‌‌کند."
+msgstr "DriverPack درایور ها را به صورت رایگان نصب خواهد کرد و مشکلات درایور های هر دستگاهی را نیز رفع می‌‌کند."
 
 msgid "landingheader_cta-btn"
 msgstr "همه درایورهای مورد نیاز را نصب کن"
@@ -377,13 +378,13 @@ msgid "landingintroduction_author-speech-marked"
 msgstr "ما تمامی زمان هایمان را برای کمک به شما صرف کرده ایم!"
 
 msgid "landingintroduction_video-caption"
-msgstr "و این چیزی است که Dmitry Medvedev، نخست وزیر فدراسیون روسیه، درباره DriverPack Solution فکر میکند"
+msgstr "و در اینجا آنچه که Dmitry Medvedev، نخست وزیر فدراسیون روسیه، درباره DriverPack Solution فکر میکند"
 
 msgid "landingnotebookvendorslist_landing-title"
 msgstr "DriverPack برای هر رایانه ای مناسب است"
 
 msgid "landingnotebookvendorslist_landing-subtitle"
-msgstr "بله، برای همۀ رایانه‌ها - بررسی کردیم."
+msgstr "بله، ما برای همۀ رایانه‌ها - بررسی کرده ایم!"
 
 msgid "landingnotebookvendorslist_cta-btn"
 msgstr "همه درایورهای مورد نیاز را نصب کن"
@@ -392,7 +393,7 @@ msgid "landingnotebookvendorslist_versions"
 msgstr "نسخه های دیگر Driverpack"
 
 msgid "landingproducts_cta-title"
-msgstr " انتخاب کتید DriverPack"
+msgstr "DriverPack خود را انتخاب کنید"
 
 msgid "landingproducts_cta-description"
 msgstr "پکیج مورد نظر خود را دانلود کنید"
@@ -401,7 +402,7 @@ msgid "landingproducts_item-title-online"
 msgstr "DriverPack Online"
 
 msgid "landingproducts_item-description-online"
-msgstr "اگر شما به اینترنت متصل هستید، این مورد فورآ بارگیری شده و همه راه انداز ها را دانلود و نصب می کند <span class='nobr'>({{SIZE}})</span>"
+msgstr "بلافاصله، همه درایور ها را دانلود و نصب کنید اگر شما به اینترنت متصل هستید<span class='nobr'>({{SIZE}})</span>"
 
 msgid "landingproducts_item-version"
 msgstr "نسخه:"
@@ -413,22 +414,22 @@ msgid "landingproducts_item-title-network"
 msgstr "DriverPack Offline Network"
 
 msgid "landingproducts_item-description-network"
-msgstr "درایور های سخت افزاری شبکه نیز موجود هستند (Lan/Wi-Fi) ,ان ها را بدون نیاز به اینترنت مدیریت میکند <span class='nobr'>({{SIZE}})</span>"
+msgstr "شامل درایور های سخت افزار شبکه (Lan/Wi-Fi), بدون نیاز به اینترنت عمل می کند. <span class='nobr'>({{SIZE}})</span>"
 
 msgid "landingproducts_item-title-offline"
 msgstr "DriverPack Offline Full"
 
 msgid "landingproducts_item-description-offline"
-msgstr "این پکیج شامل تمامی درایورها میباشد و شما میتونید بصورت افلاین استفاده کنید و همچنین از شبکه تورنت دانلود کنید <span class='nobr'>({{SIZE}})</span>"
+msgstr "این پکیج شامل تمامی درایورها می باشد که بصورت افلاین عمل می کند. می توانید از شبکه تورنت دانلود کنید <span class='nobr'>({{SIZE}})</span>"
 
 msgid "landingpublications__landing-title"
 msgstr "انتشارات رسانه های جمعی درباره DriverPack"
 
 msgid "landingscreenshots_landing-title"
-msgstr "DriverPack  متقاعد کننده ترین و سریع ترین راه برای راه اندازی رایانه است ."
+msgstr "DriverPack راخت ترین و سریع ترین راه برای راه اندازی و پیکربندی رایانه است"
 
 msgid "landingscreenshots_landing-subtitle"
-msgstr "نرم افزار به صورت رایگان تهیه شده و برای کاربران حرفه‌ای و مبتدی مناسب است."
+msgstr "نرم افزار به صورت رایگان تهیه شده و برای هردو کاربران حرفه‌ای و مبتدی مناسب است."
 
 msgid "landingsocial_landing-title"
 msgstr "به انجمن DriverPack بپیوندید"
@@ -440,7 +441,7 @@ msgid "landingtopvideocardlist_landing-title"
 msgstr "محبوب ترین مدل های کارت گرافیک"
 
 msgid "landingtopvideocardlist_landing-caption"
-msgstr "در DriverPack مدل درایور کارت گرافیک خود را انتخاب کنید در این لیست درایور هایی که بیشتر استفاده شده به نمایش گذاشته میشود "
+msgstr "DriverPack درایورها را برای کارت گرافیک از هر مدلی انتخاب می کند، در اینجا محبوب ترین کارت گرافیک ها را ببینید"
 
 msgid "landingusers_cta"
 msgstr "با گذشت هر ثانیه، تعداد کاربران DriverPack در سرار جهان در حال رشد است."
@@ -452,19 +453,19 @@ msgid "landingusers_versions"
 msgstr "نسخه های دیگر Driverpack"
 
 msgid "landingvideocardlist_landing-title"
-msgstr "محبوب ترین مدل های کارت گرافیک استفاده شده"
+msgstr "محبوب ترین سازندگان کارت گرافیک "
 
 msgid "landingwizard_landing-title"
-msgstr "اکنون پیکربندی یک رایانه با یک کلیک، ممکن است."
+msgstr "اکنون پیکربندی و راه اندازی یک رایانه با یک کلیک، ممکن است."
 
 msgid "landingwizard_item-caption-download"
-msgstr "بارگذاری و آغاز به کار DriverPack Online"
+msgstr "DriverPack Online را دانلود و اجرا کن"
 
 msgid "landingwizard_item-caption-setup"
-msgstr "پیکربندی رایانه شما با یک حرکت ساده"
+msgstr "با یک حرکت ساده کامپیوتر خود را پیکربندی کنید"
 
 msgid "landingwizard_item-caption-profit"
-msgstr "جان! الان رایانه‌م مثل روز اول کار میکنه"
+msgstr "هورا! الان کامپیوترم مثل روز اول کار می کنه!"
 
 msgid "landingwizard_cta-btn"
 msgstr "همه درایورهای مورد نیاز را نصب کن"
@@ -473,13 +474,13 @@ msgid "navbar_download-link-short"
 msgstr "دانلود"
 
 msgid "navbar_download-link"
-msgstr "دانلود نسخه DriverPack Online "
+msgstr "دانلود DriverPack Online "
 
 msgid "notfound_cta-text"
-msgstr "شما می‌توانید به صورت رایگان DriverPack Online را  پیدا کرده و راه‌اندازها را خودکار نصب نمایید.  "
+msgstr "شما می‌توانید با استفاده از DriverPack Online به صورت رایگان، درایور ها را به صورت خودکار پیدا و نصب کنید"
 
 msgid "notfound_cta-btn"
-msgstr "دانلود نسخه DriverPack Online "
+msgstr "دانلود DriverPack Online "
 
 msgid "notfound_info-404"
 msgstr "{{404}} — صفحه درخواست شده یافت نشد"
@@ -494,16 +495,16 @@ msgid "notebookvendorslist_other-text"
 msgstr "سایر سازندگان"
 
 msgid "notebookvendorslist_title_os"
-msgstr "راه‌اندازهای لپ تاپ های مبتنی بر {{OS}}"
+msgstr "درایورهای لپ تاپ های مبتنی بر {{OS}}"
 
 msgid "notebookvendorslist_title"
-msgstr "جستجو درایور برای لپ تاپ ها"
+msgstr "جستجو درایور برای لپ تاپ های"
 
 msgid "productlandingheader-online_cta-btn"
-msgstr "دانلود نسخه DriverPack Online "
+msgstr "دانلود DriverPack Online "
 
 msgid "productlandingheader-online_caption"
-msgstr "DriverPack Online - محبوب ترین محصول فقط {{SIZE}} دیتا میباشد . این سریع دانلود می شود، درایور ها را برای رایانه یا لپ تاپ شما انتخاب می کند و پس از آن همه ی درایورهای مورد نیاز را از طریق اینترنت دانلود کرده و آنها را نصب می کند. در این مورد کاملا به یک کاربر عادی بستگی دارد. این قسمت فقط با دسترسی به اینترنت عمل می کند."
+msgstr "DriverPack Online - محبوب ترین محصول فقط با{{SIZE}} حجم میباشد. بلافاصله دانلود می شود، درایور ها را برای رایانه یا لپ تاپ شما انتخاب می کند و پس از آن همه ی درایورهای مورد نیاز را از طریق اینترنت دانلود کرده و آنها را نصب می کند. این مورد کاملا مناسب یک کاربر عادی است. این قسمت فقط با دسترسی به اینترنت عمل می کند."
 
 msgid "productlandingheader-network_cta-btn"
 msgstr "دانلود  DriverPack Offline Network"
@@ -515,16 +516,16 @@ msgid "productlandingheader-offline_cta-btn"
 msgstr "دانلود DriverPack Offline Full"
 
 msgid "productlandingheader-offline_caption"
-msgstr "DriverPack Offline Full - یک بسته با حجم زیاد و اندازه {{SIZE}} برای نصب درایور بدون دسترسی به اینترنت .فقط دانلود DriverPack Offline Full و از این بسته درایور میتوانید هر زمانی که نیاز دارید استفاده کنید . این نوع بسته بهترین بسته پیشنهادی برای مدیران سیستم های بزرگ هست ."
+msgstr "DriverPack Offline Full - یک بسته با حجم زیاد و اندازه {{SIZE}} برای نصب درایور بدون دسترسی به اینترنت است. DriverPack Offline Full را دانلود کنید و از این بسته مجموعه درایورهای به روز شده می توانید در هر زمانی که نیاز دارید استفاده کنید. این نوع بسته بهترین بسته پیشنهادی برای مدیران سیستم ها است ."
 
 msgid "promoheader_cta-text-gamers"
-msgstr "رایانه شما قوی‌تر از تصور شماست:\nهمۀ راه‌اندازها را رایگان به روز کنید."
+msgstr "رایانه شما قوی‌تر از تصور شماست: همه درایور ها را به صورت رایگان به روز کنید."
 
 msgid "promoheader_cta-text-gamers-caption"
-msgstr "اگر شما بازی های رایانه ای را دوست دارید، ما به شما پیشنهاد میکنیم که درایور هایتان را بروز کنید که معمولا باعث میشود به بالاترین حد ممکن بهره وری از سخت افزارتان برسید. حداکثر تا 37% نرخ فریم بیشتر-بهترین تجربه از بازی و دستاورد های جدید با DriverPack."
+msgstr "اگر شما بازی های رایانه ای را دوست دارید، ما به شما پیشنهاد می کنیم که درایور هایتان را بروز کنید که اغلب باعث می شود به بالاترین حد ممکن بهره وری از سخت افزارتان برسید. حداکثر تا 37% نرخ فریم بیشتر - بهترین تجربه از بازی و دستاورد های جدید با DriverPack."
 
 msgid "promoheader_cta-text"
-msgstr "DriverPack راه‌اندازها را رایگان نصب خواهد کرد و ایراد راه‌اندازهای هر دستگاهی را نیز رفع می‌‌کند."
+msgstr "DriverPack درایور ها را به صورت رایگان نصب خواهد کرد و مشکل درایور های هر دستگاهی را رفع می‌‌کند."
 
 msgid "promoheader_cta-btn"
 msgstr "همه درایورهای مورد نیاز را نصب کن"
@@ -536,13 +537,13 @@ msgid "promoheader_license"
 msgstr "قوانین استفاده"
 
 msgid "promoheader_os-versions"
-msgstr "این نرم‌افزار مناسب Windows 10, 8.1, 8, 7, Vista, XP است"
+msgstr "این نرم‌افزار مناسب برای Windows 10, 8.1, 8, 7, Vista, XP است"
 
 msgid "promoheader_uninstall"
 msgstr "حذف DriverPack"
 
 msgid "reviewheader_cta-text"
-msgstr "به شبکه های اجتماعی DriverPack ملحق شوید تا خبر ها و اطلاعات جدید و محصولات مطلع شده و بتوانید اظهار نظر کنید ."
+msgstr "به جامعه DriverPack در شبکه های اجتماعی ملحق شوید تا از خبر ها و اطلاعات جدید و محصولات مطلع شده و بتوانید اظهار نظر کنید ."
 
 msgid "reviewheader_cta"
 msgstr "نظر یا پیشنهادتان را جهت بهبود DriverPack ارایه دهید"
@@ -551,7 +552,7 @@ msgid "search_input-placeholder"
 msgstr "جستجو برای اسم درایور یا لپ تاپ و یا DeviceID"
 
 msgid "search_btn-text"
-msgstr "پیدا کردن"
+msgstr "پیدا کن"
 
 msgid "searchformitem_type-section"
 msgstr "دسته بندی"
@@ -563,15 +564,15 @@ msgid "searchformitem_type-device"
 msgstr "دستگاه"
 
 msgid "searchformitem_type-free"
-msgstr "به رایگان"
+msgstr "رایگان"
 
 #. i18n: EN: Example: NAME=Acer; RU: Пример: NAME=Acer;
 msgid "generatesearchitemname_notebookvendor"
-msgstr "{{NAME}}لپ تاپ ها"
+msgstr "لپتاپ های {{NAME}}"
 
 #. i18n: EN: Example: NAME=Asus; RU: Пример: NAME=Asus;
 msgid "generatesearchitemname_vendor"
-msgstr "{{NAME}}دستگاه ها"
+msgstr "دستگاه های {{NAME}}"
 
 msgid "deviceclasses_bluetooth-single-main"
 msgstr "دستگاه بلوتوث"
@@ -598,13 +599,13 @@ msgid "deviceclasses_cardreader-plural-for"
 msgstr "کارت خوان ها"
 
 msgid "deviceclasses_chipset-single-main"
-msgstr "پردازنده"
+msgstr "چیپست"
 
 msgid "deviceclasses_chipset-single-for"
-msgstr "پردازنده"
+msgstr "چیپست"
 
 msgid "deviceclasses_chipset-plural-main"
-msgstr "پردازنده ها"
+msgstr "چیپست ها"
 
 msgid "deviceclasses_chipset-plural-for"
 msgstr "پردازنده ها"
@@ -706,16 +707,16 @@ msgid "deviceclasses_sound-plural-for"
 msgstr "کارت های صدا"
 
 msgid "deviceclasses_tvtuner-single-main"
-msgstr "تنظیم کننده تلویزیون"
+msgstr "تیونر تلویزیون"
 
 msgid "deviceclasses_tvtuner-single-for"
-msgstr "تنظیم کننده تلویزیون "
+msgstr "تیونر تلویزیون "
 
 msgid "deviceclasses_tvtuner-plural-main"
-msgstr "تنظیم کننده های تلویزیون"
+msgstr "تیونر های تلویزیون"
 
 msgid "deviceclasses_tvtuner-plural-for"
-msgstr "تنظیم کننده های تلویزیون"
+msgstr "تیونر های تلویزیون"
 
 msgid "deviceclasses_video-single-main"
 msgstr "کارت گرافیک"
@@ -776,16 +777,16 @@ msgstr "درایور برای سیستم عامل انتخاب شده دانلو
 #. AO521; Текст для {{DOWNLOAD}} находится в ключе searchresult_details-
 #. content_download-link
 msgid "searchresult_details-content-notebook-text"
-msgstr "{{DOWNLOAD}}به منظور شناسایی و نصب درایور های مورد نیاز به صورت خودکار، یا رفتن به {{NOTEBOOK}}این صفحه و انتخاب دستی درایورهای مورد نیاز"
+msgstr "به منظور شناسایی و نصب خودکار درایور های مورد نیاز {{DOWNLOAD}}، یا به صفحه {{NOTEBOOK}}بروید و درایورهای مورد نیاز را به صورت دستی انتخاب کنید."
 
 msgid "searchresult_details-content_download-link"
-msgstr "دانلود DriverPack"
+msgstr "DriverPack را دانلود کنید"
 
 msgid "searchresult_notebook"
 msgstr "لپ تاپ"
 
 msgid "searchresult_download-btn"
-msgstr "نصب درایور به صورت خودکار"
+msgstr "نصب خودکار درایور"
 
 msgid "searchresult_details-content-text-placeholder"
 msgstr "داده در حال بارگذاری..."
@@ -794,14 +795,14 @@ msgid "searchresult_details-content-label-1"
 msgstr "سیستم عامل"
 
 msgid "searchresult_details-content-label-2"
-msgstr "همه سیستم ها"
+msgstr "همه سیستم عامل ها"
 
 #. i18n: EN: Example: DEVICE=NVIDIA GeForce 205; Text for {{DOWNLOAD}} is in
 #. key searchresult_details-content_download-link; RU: Пример: DEVICE=NVIDIA
 #. GeForce 205; Текст для {{DOWNLOAD}} находится в ключе searchresult_details-
 #. content_download-link
 msgid "searchresult_details-content-group-text"
-msgstr "{{DOWNLOAD}}به منظور شناسایی و نصب درایور های مورد نیاز به صورت خودکار، یا رفتن به {{DEVICE}}صفحه دستگاه خود و انتخاب دستی درایور ها "
+msgstr "به منظور شناسایی و نصب درایور های مورد نیاز به صورت خودکار {{DOWNLOAD}}، یا با رفتن به صفحه {{DEVICE}} بروید و درایور را به صورت دستی انتخاب کنید"
 
 #. i18n: EN: Example: CLASS.SINGLE.MAIN=monitor|chipset; COUNT=12; RU: Пример:
 #. CLASS.SINGLE.MAIN=монитор|чипсет; COUNT=12;
@@ -809,13 +810,13 @@ msgid "searchresult_device"
 msgstr "{{CLASS.SINGLE.MAIN}} ({{COUNT}} نتایج بدست آمد)"
 
 msgid "searchresult_details-content-text-many"
-msgstr "راه‌اندازهای متفاوت زیادی برای این دستگاه یافت شد."
+msgstr "چندین درایور های متفاوت برای این دستگاه یافت شد"
 
 msgid "seofooter_os-list-title"
 msgstr "نسخه های سیستم عامل: <span itemprop='operatingSystem'>{{OSLIST}}</span>"
 
 msgid "seofooter_offers-title"
-msgstr "<span itemprop='offers' itemscope='' itemtype='http://schema.org/Offer'>رایگان <meta itemprop='price' content='0' />در دسترس</span>"
+msgstr "<span itemprop='offers' itemscope='' itemtype='http://schema.org/Offer'>به صورت رایگان <meta itemprop='price' content='0' />در دسترس است</span>"
 
 msgid "seofooter_driver-description-title"
 msgstr "توضیحات درایور"
@@ -827,7 +828,7 @@ msgid "sidebanner_title"
 msgstr "آیا از جست و جو بدنبال درایورهای مورد نظر خود خسته شده اید؟"
 
 msgid "sidebanner_caption"
-msgstr "DriverPack به صورت خودکار <span class='SideBanner__caption-marked'>انتخاب و نصب</span> راه‌اندازهای لازم"
+msgstr "DriverPack به صورت خودکار <span class='SideBanner__caption-marked'>انتخاب و نصب</span> راه‌اندازهای لازم را انجام می دهد"
 
 msgid "translationheader_cta-text"
 msgstr "به ما در آماده سازی DriverPack برای میلیون ها کاربر در سرتاسر جهان کمک کنید — در پروژه داوطلبانه ما برای ترجمه درایور پک به زبان های دیگر شرکت کنید"
@@ -836,7 +837,7 @@ msgid "translationheader_bubble-team"
 msgstr "آیا مایلید که بخشی از تیم ترجمه بزرگترین سرویس تنظیم اتوماتیک کامپیوتر باشید؟"
 
 msgid "translationheader_bubble-languages"
-msgstr "آیا شما انگلیسی یا روسی را کاملا مسلط هستید، پس آیا شما آماده این هستید که آن ها را به زبان خود ترجمه کنید؟"
+msgstr "آیا شما انگلیسی یا روسی را کاملا مسلط هستید، پس آیا شما آماده هستید که آن ها را به زبان خود ترجمه کنید؟"
 
 msgid "translationheader_bubble-experience"
 msgstr "آیا شما تجربه ای در زمینه ترجمه نرم افزار یا وب سایت توسط سرویس های مترجم آنلاین دارید؟"
@@ -848,13 +849,13 @@ msgid "translationlist_title"
 msgstr "فهرست مترجمان تایید شده DriverPack"
 
 msgid "translationtool_text-transifex"
-msgstr "در DriverPack Solution ما این نرم افزار را بومی سازی میکنیم با استفاده از سرویس  transifex.com:"
+msgstr "در DriverPack Solution ما این نرم افزار را با استفاده از سرویس transifex.com بومی سازی می کنیم:"
 
 msgid "translationtool_example-ru-to-en"
 msgstr "خطهایی برای ترجمه از زبان روسی (RU) به انگلیسی (EN) ، و کشور های مستقل همسود (CIS) "
 
 msgid "translationtool_example-en-to-all"
-msgstr "مسیر ها برای مترجمان از انگلیسی (EN) به زبان های دیگر جهان"
+msgstr "خط هایی برای مترجمان از انگلیسی (EN) به زبان های دیگر جهان"
 
 msgid "deviceclasses_laptop-single-main"
 msgstr "لپ تاپ"
@@ -863,7 +864,7 @@ msgid "language_title"
 msgstr "Persian"
 
 msgid "landingPagePublications_rbk"
-msgstr "DriverPack نرم افزاری است که شامل تمام درایورهای مورد نیاز سخت افزار ها میباشد. Windows توسط تیم آرتور کوزایاکو به طور کامل انتخاب و آزمایش شده است. این برنامه کامپیوتر کاربر را تجزیه و تحلیل می کند و بر روی آن درایور های مورد نیاز را نصب کرده که به شما امکان را می دهد که دو مسئله را حل کنید: در مرحله اول، برای سرعت بخشیدن به فرایند پیکربندی رایانه (به ویژه مهم است اگر ده ها رایانه در یک سیستم وجود داشته باشد)؛ و در مرحله دوم، به منظور بهبود توان عملیاتی آن میباشد."
+msgstr "DriverPack نرم افزاری است که شامل تمامی درایورهای مورد نیاز Windows می باشد که توسط تیم Artur Kuzyakov به طور کامل انتخاب و آزمایش شده است. این برنامه کامپیوتر کاربر را بررسی می کند و بر روی آن درایور های مورد نیاز را نصب کرده که به شما امکان را می دهد که دو مسئله را حل کنید: در مرحله اول، برای سرعت بخشیدن به فرایند پیکربندی رایانه (به ویژه مهم است اگر ده ها رایانه در یک سیستم وجود داشته باشد)؛ و در مرحله دوم، به منظور بهبود توان عملیاتی آن می باشد."
 
 msgid "landingPagePublications_secretfirmy"
 msgstr "امروزه ، DriverPack به بزرگترین مجموعه درایوری جهان تبدیل گردیده که به 45 زبان دنیا در دسترس و توسط 42 میلیون نفر استفاده می گردد. "
@@ -1013,7 +1014,7 @@ msgid "cloudlandingpage_license"
 msgstr "لطفاً قبل از نصب {{LINK}} را مطالعه کنید"
 
 msgid "cloudlandingpage_features-install"
-msgstr "DriverPack Cloud نصب کنبد"
+msgstr "نصب DriverPack Cloud"
 
 msgid "cloudlandingpage_license-link"
 msgstr "قوانین استفاده"
@@ -1031,7 +1032,7 @@ msgid "devicetypevendorpage_subtitle-all"
 msgstr "همه ی{{VENDOR.NAME}}{{CLASS.PLURAL.MAIN}}"
 
 msgid "errorpage_title"
-msgstr "اشکال شماه 500 رخ داد : اشکال در سرور های داخلی "
+msgstr "اشکال شماره 500 رخ داد : اشکال در سرور های داخلی "
 
 msgid "landingfooter_landing-subtitle"
 msgstr "DriverPack شامل درایورهایی برای تمامی نسخه‌های عمومی Windows است"
@@ -1101,7 +1102,7 @@ msgstr "هنوز دانلود آغاز نشده است ؟ اینجا کلیک ک
 #. i18n: EN: text for {{LINK}} is in key thankyoupopup_licence-link; RU: текст
 #. для {{LINK}} находится в ключе thankyoupopup_licence-link;
 msgid "thankyoupopup_licence-text"
-msgstr "با نصب این نرم افزار، شما ضوابط {{LINK}} را قبول کردیه اید"
+msgstr "با نصب این نرم افزار، شما ضوابط {{LINK}} را قبول کرده اید"
 
 msgid "thankyoupopup_title"
 msgstr "آغاز کار با DriverPack"
@@ -1149,7 +1150,7 @@ msgid "translationlandingpage_title"
 msgstr "ترجمه ی DriverPack"
 
 msgid "vendorpage_subtitle-popular"
-msgstr "دستگاه های {{VENDOR.NAME}} محبوب"
+msgstr "دستگاه های محبوب {{VENDOR.NAME}}"
 
 msgid "wannacryptpromopage_cta-text"
 msgstr "ویروس های باج گیر و بازگشا — چگونه در طول تاریخ در مقابل بزرگترین حملات این ویروس ها محافظت انجام گرفته است ؟"
@@ -1173,16 +1174,16 @@ msgid "wannacryptpromopage_info-text-title-2"
 msgstr "چه کسانی در خطر هستند؟"
 
 msgid "wannacryptpromopage_info-text-2"
-msgstr "رایانه های شخصی که سیستم عامل های قدیمی تر از ویندوز 10 با پورت های باز SMB دارند   بیشترین ریسک را متحمل هستند .در لحظه ای ، نصف کابران  سیستم های عامل ویندوز در ریسک حمله قرار میگیرند — 18 % کاربران از نسخه های غیر اصلی ویندوز استفاده میکنند ( که به طور خودکار در چاه ریسک سقوط می کنند) ، 23% کابران آپدیت ویندوز خود را از کار انداخته اند ( که امکان دانلود آخرین فیکس های لازم \"تکه های\" را از مایکرو سافت ندارند ) و 6 % دیگر از سیستم عامل های قدیمی بدون پشتیبانی استفاده می کنند که دیگر آپدیتی برایشان ارائه نمی شود. <br/><br/>و در نتیجه کمپانی ها و شرکت هایی که هنوز از سیستم عامل هایی مانند XP استفاده می کنند دارای بیشترین ریسک هستند .در هنگام حمله به چنین شبکه هایی داده هایی با ارزش از بین خواهند رفت که بدست آوردن مجدد آنها هزینه های زیادی را میطلبد و در صورتی که منظور ما نوعی \"باج\" باشد باید این هزینه را برای تک تک رایانه های خویش بپردازند ."
+msgstr "رایانه های شخصی که سیستم عامل های قدیمی تر از Windows 10 با پورت های باز SMB بیشترین ریسک را متحمل هستند .در این لحظه، نصف کابران  سیستم عامل های Windows در ریسک حمله قرار می گیرند — 18 % کاربران از نسخه های غیر اصلی Windows استفاده می کنند (که به طور خودکار آن ها را در خطر می اندازد) ، 23% کابران آپدیت ویندوز خود را از کار انداخته اند ( که امکان دانلود آخرین تعمیر های لازم \"تعمیر های ضروری\" را از مایکروسافت ندارند ) و 6 % دیگر از سیستم عامل های قدیمی بدون پشتیبانی استفاده می کنند که دیگر آپدیتی برایشان ارائه نمی شود. <br/><br/>و در نتیجه کمپانی ها و شرکت هایی که هنوز از سیستم عامل هایی مانند XP استفاده می کنند دارای بیشترین ریسک هستند .در هنگام حمله به چنین شبکه هایی داده هایی با ارزش از بین خواهند رفت که بدست آوردن مجدد آنها هزینه های زیادی را می طلبد و برای بازپس گرفتن دیتا این هزینه را برای تک تک رایانه های خویش بپردازند ."
 
 msgid "wannacryptpromopage_info-text-title-3"
-msgstr "راه حل محافظت از تجارت شما در   —DriverPack Solution"
+msgstr "چگونه از تجارت خود محافظت کنید — راه حل هایی از DriverPack Solution"
 
 msgid "wannacryptpromopage_info-text-3"
-msgstr "دلیل اصلی خطر ویروس WannaCrypt (یا WannaCry) این است که توسط ایرادات حیاتی موجود در پروتکل SMBv1 که در بولتن امنیتی MS17-010 مطرح شده خود را گسترش میدهد. این نقیصه در واقع WannaCry را در مقابل آنتی ویروس نامرئی میکند. DriverPack Solution ، شما را قادر میسازد تا آپدیتی برای محافظت از شما در برابر ایرادات بحرانی نصب شود و همچنین پروتکل های منسوخ شده را غیر فعال میکند که باعث تهدید سیستم شما، بدون در نظر گرفتن تاریخچه license و یا نسخه سیستم عامل میشودند."
+msgstr "دلیل اصلی خطر ویروس WannaCrypt (یا WannaCry) این است که توسط ایرادات حیاتی موجود در پروتکل SMBv1 که در بولتن امنیتی MS17-010 مطرح شده خود را گسترش میدهد. این نقیصه در واقع WannaCry را در مقابل آنتی ویروس نامرئی میکند. DriverPack Solution ، شما را قادر میسازد تا آپدیتی برای محافظت از شما در برابر ایرادات بحرانی نصب شود و همچنین پروتکل های منسوخ شده را غیر فعال می کند که باعث تهدید سیستم شما، بدون در نظر گرفتن تاریخچه license و یا نسخه سیستم عامل می شوند."
 
 msgid "wannacryptpromopage_links-text"
-msgstr "این رشد راه حل بر پایه این مواد بوجود آمده است ."
+msgstr "توسعه این راه حل بر پایه موارد زیر است"
 
 msgid "wannacryptpromopage_link-smb"
 msgstr "چگونگی فعال و غیر‌فعال کردن نسخه‌های 1، 2، و 3 از پروتکل‌های SMB برای Windows و Windows Server"
