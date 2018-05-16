@@ -15,8 +15,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-03-16 09:58+0000\n"
-"PO-Revision-Date: 2018-04-30 10:01+0000\n"
+"POT-Creation-Date: 2018-04-19 15:39+0000\n"
+"PO-Revision-Date: 2018-05-11 09:58+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Persian (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/fa/)\n"
 "MIME-Version: 1.0\n"
@@ -26,7 +26,7 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 msgid "installation_close_confirm"
-msgstr "آیا مطمئن هستید که میخواهید در نصب، اختلال ایجاد کنید؟ این کار ممکن است باعث خرابی رایانه تان شود."
+msgstr "آیا مطمئن هستید که می خواهید نصب را متوقف کنید؟ این کار ممکن است باعث خرابی رایانه تان شود."
 
 msgid "authorize_failed"
 msgstr "خطای ورود"
@@ -167,16 +167,16 @@ msgid "deviceclasses_sound-plural-for"
 msgstr "کارت های صدا"
 
 msgid "deviceclasses_tvtuner-single-main"
-msgstr "تنظیم کننده تلویزیون "
+msgstr "تیونر تلویزیون "
 
 msgid "deviceclasses_tvtuner-single-for"
-msgstr "تنظیم کننده تلویزیون "
+msgstr "تیونر تلویزیون "
 
 msgid "deviceclasses_tvtuner-plural-main"
 msgstr "تنظیم کننده های تلویزیون"
 
 msgid "deviceclasses_tvtuner-plural-for"
-msgstr "تنظیم کننده های تلویزیون"
+msgstr "تیونر های تلویزیون"
 
 msgid "deviceclasses_video-single-main"
 msgstr "کارت گرافیک"
@@ -595,10 +595,10 @@ msgid "drivers_screen_installed"
 msgstr "درایورهای نصب شده"
 
 msgid "drivers_screen_alternative"
-msgstr "درایورهای جایگزین"
+msgstr "سایر درایورها"
 
 msgid "drivers_screen_show"
-msgstr "نشان می دهد"
+msgstr "نمایش دادن"
 
 #. i18n: EN: text for {{LINK}} is in key zero-drivers_cta-msg-caption-link;
 #. RU: текст для {{LINK}} находится в ключе zero-drivers_cta-msg-caption-link;
@@ -654,7 +654,7 @@ msgid "date"
 msgstr "تاریخ"
 
 msgid "final_popover_new_driver"
-msgstr "بروزرسانی درایور"
+msgstr "درایور به روز شده"
 
 msgid "final_popover_new_driver_not_installed_caption"
 msgstr "یک مشکل در روند نصب پیش آمده است و درایور قبلی ذخیره شده در سیستم جایگزین شد."
@@ -693,7 +693,7 @@ msgstr "تمامی درایور های مهم نصب شدند."
 
 msgid "final_drivers_not_better_subtitle"
 msgid_plural "final_drivers_not_better_subtitle_n"
-msgstr[0] "اگرچه، {{COUNT}} درایور‌های مهم نصب نشدند. به شما توصیه میکنیم نصب را تکرار کنید یا عملکرد دستگاه خود را بررسی کنید."
+msgstr[0] "بنابراین، {{COUNT}} درایور‌ مهم نصب نشدند. به شما توصیه می کنیم نصب را تکرار کنید یا عملکرد دستگاه خود را بررسی کنید."
 
 msgid "final_single_driver_ok_programs_subtitle"
 msgstr "تمامی درایور‌ها و ابزار‌ها نصب شدند."
@@ -818,10 +818,10 @@ msgid "installation_header_subtitle_installing-driver"
 msgstr "{{CLASS.SINGLE.FOR}} درایور در حال نصب است"
 
 msgid "installation_header_subtitle_installing-program-plural"
-msgstr "{{CATEGORY.PLURAL.FOR}} در حال نصب"
+msgstr "درحال نصب {{CATEGORY.PLURAL.FOR}}"
 
 msgid "installation_header_subtitle_installing-program"
-msgstr "{{CATEGORY.SINGLE.FOR}} در حال نصب"
+msgstr "درحال نصب {{CATEGORY.SINGLE.FOR}}"
 
 msgid "installation_header_subtitle_downloading"
 msgstr "در حال بارگذاری فایل"
@@ -851,7 +851,7 @@ msgid "driver_class_cardreader"
 msgstr "کارت خوان"
 
 msgid "driver_class_chipset"
-msgstr "پردازنده"
+msgstr "چیپست"
 
 msgid "driver_class_inputdev"
 msgstr "دستگاه ورودی"
@@ -878,7 +878,7 @@ msgid "driver_class_sound"
 msgstr "کارت صدا"
 
 msgid "driver_class_tvtuner"
-msgstr "تنظیم کننده تلویزیون "
+msgstr "تیونر تلویزیون "
 
 msgid "driver_class_video"
 msgstr "کارت گرافیک"
@@ -893,7 +893,7 @@ msgid "driver_class_other"
 msgstr "سایر وسایل"
 
 msgid "soft_category_archiver"
-msgstr "عملیات ها با بایگانی"
+msgstr "کار کردن با آرشیوها"
 
 msgid "soft_category_browser"
 msgstr "عملکرد سریع و امن در اینترنت"
@@ -914,7 +914,7 @@ msgid "soft_category_backup"
 msgstr "بازگردانی اطلاعات و پشتیبان"
 
 msgid "soft_category_antivirus"
-msgstr "محافظت شده با آنتی ویروس"
+msgstr "محافظت آنتی ویروس"
 
 msgid "soft_category_system"
 msgstr "خدمات سیستم"
@@ -952,14 +952,17 @@ msgstr "ایجاد شده است"
 msgid "installation_progress_stage_waiting"
 msgstr "در صف انتظار است تا دانلود شود"
 
-msgid "installation_progress_stage_downloading"
-msgstr "بارگذاری..."
-
 msgid "installation_progress_downloading_speed"
 msgstr "سرعت"
 
 msgid "installation_progress_downloading_of"
 msgstr "از"
+
+msgid "installation_progress_downloaded"
+msgstr "دانلود شده:"
+
+msgid "installation_progress_stage_downloading"
+msgstr "بارگذاری..."
 
 msgid "installation_progress_stage_downloaded"
 msgstr "در انتظار برای اینکه نصب شود"
@@ -1335,7 +1338,7 @@ msgid "softcategories_backup-single-for"
 msgstr "ابزار ایجاد کننده پشتیبان"
 
 msgid "softcategories_antivirus-single-for"
-msgstr "ویروس کش"
+msgstr "آنتی ویروس"
 
 msgid "softcategories_system-plural-for"
 msgstr "خدمات سیستمی"
@@ -1350,7 +1353,7 @@ msgid "installation_application_restart_confirm_text_2"
 msgstr "اینجا لیستی از پروسه هایی است که در زمان نصب بسته خواهند شد و به صورت خودکار مجددا راه اندازی می شوند:"
 
 msgid "installation_application_restart_confirm_title"
-msgstr "!توصیه"
+msgstr "توصیه شده ها!"
 
 msgid "deviceproblems_usb_connection"
 msgstr "این غیر ممکن است که درایوری را در این دستگاه نصب کنید زیرا مشکلی در پورت اتصال USB وجود دارد. بدین جهت که این مشکل را حل کنید، سعی کنید دوباره دستگاه USB را متصل کنید، یا کابل های متصل را جایگزین کنید. اگر این موارد کمکی نکرد، ممکن است بعضی مشکلات در پورت ها یا دستگاه هایشان وجود داشته باشد."
