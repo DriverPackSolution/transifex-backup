@@ -16,16 +16,16 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 msgid "adminlandingpage_title"
-msgstr "プロフェッショナルのためのDriverPack。どのパソコンにも自動でドライバーのインストール"
+msgstr "プロフェッショナルのための DriverPack。どのパソコンにも自動でドライバーのインストール"
 
 msgid "admincackle_dialog-star"
-msgstr "DriverPackの機能を評価して下さい。"
+msgstr "DriverPack の機能を評価して下さい。"
 
 msgid "admindriverpacks_landing-title"
-msgstr "Driverpacks(ドライバーパッケージ)"
+msgstr "Driverpacks (ドライバーパッケージ)"
 
 msgid "admindriverpacks_landing-subtitle"
-msgstr ""
+msgstr "当社の driverpacks は手動選択し検査された {{COUNT}} ドライバーを含有"
 
 msgid "admindriverpacks_download"
 msgstr "ダウンロード"
@@ -34,13 +34,13 @@ msgid "adminfaq_landing-title"
 msgstr "私たちはあなたの質問に回答致します。"
 
 msgid "adminfaq_landing-subtitle"
-msgstr "あなたのDriverPackに関する質問— 私たちは通俗な質問に答えます"
+msgstr "あなたの DriverPack に関する質問 — 私たちは通俗な質問に答えます"
 
 msgid "adminheader_cta-text"
-msgstr "DriverPackは管理者のためですが、初心者でも簡単にご利用出来ます"
+msgstr "DriverPack は管理者のためですが、初心者でも簡単にご利用出来ます"
 
 msgid "adminheader_cta-btn"
-msgstr "オンラインでDriverPack Onlineをダウンロード"
+msgstr "オンラインで DriverPack Online をダウンロード"
 
 msgid "buttonsplitdropdown_main-button"
 msgstr "ダウンロード"
@@ -55,10 +55,10 @@ msgid "breadcrumbs_main-text"
 msgstr "ホームページ"
 
 msgid "breadcrumbs_catalog-main-text"
-msgstr ""
+msgstr " {{OS.NAME}} のドライバー"
 
 msgid "breadcrumbs_vendors-text"
-msgstr "製作者"
+msgstr "メーカー"
 
 #. i18n: EN: Example: VENDOR.NAME=Lenovo; RU: Пример: VENDOR.NAME=Lenovo;
 msgid "breadcrumbs_vendor-text"
@@ -66,7 +66,7 @@ msgstr "{{VENDOR.NAME}}"
 
 #. i18n: EN: Example: VENDOR.NAME=Lenovo; RU: Пример: VENDOR.NAME=Lenovo;
 msgid "breadcrumbs_vendorlanding-text"
-msgstr ""
+msgstr "{{VENDOR.NAME}} ドライバー"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=cardreaders|monitors; RU: Пример:
 #. CLASS.PLURAL.MAIN=картридеры|мониторы;
@@ -89,19 +89,19 @@ msgstr "ノートパソコン"
 
 #. i18n: EN: Example: VENDOR.NAME=Asus; RU: Пример: VENDOR.NAME=Asus;
 msgid "breadcrumbs_notebookvendor-text"
-msgstr ""
+msgstr "{{VENDOR.NAME}} ノートパソコン"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=X1 carbon;
 #. RU: Пример: NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=X1 carbon;
 msgid "breadcrumbs_notebook-text"
-msgstr ""
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=Videocards|Chipsets ,
 #. NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=G580; RU: Пример:
 #. CLASS.PLURAL.MAIN=видеокарты|чипсеты, NOTEBOOK.VENDOR.NAME=Lenovo,
 #. NOTEBOOK.NAME=G580;
 msgid "breadcrumbs_notebookdevices-text"
-msgstr ""
+msgstr "{{CLASS.PLURAL.MAIN}} の {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} ノートパソコン"
 
 msgid "devicecard_download-btn"
 msgstr "ドライバーをダウンロード"
@@ -111,10 +111,10 @@ msgstr "ドライバーをダウンロード"
 #. NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10 x86; Текст для
 #. {{DOWNLOAD}} находится в ключе drivercard_no-results_download-link;
 msgid "devicecard_details_no-results-text"
-msgstr ""
+msgstr "一覧の中は Windows {{OSVERSIONS}} の {{NAME}} ドライバーは見つかりません。ドライバーを自動にダンロードするには {{DOWNLOAD}} を選択してください"
 
 msgid "devicecard_details_no-results_download-link"
-msgstr "DriverPackをダウンロード"
+msgstr "DriverPack をダウンロード"
 
 msgid "devicecard_details-content-text"
 msgstr "データ読み込み中..."
@@ -144,19 +144,19 @@ msgid "devicecard_details-content-label-deviceid"
 msgstr "Device ID:"
 
 msgid "devicecard_details-content-label-inf"
-msgstr ""
+msgstr "ファイル *.inf:"
 
 msgid "devicecard_details-content-label-section"
-msgstr ""
+msgstr "カテゴリ:"
 
 msgid "devicecard_details-links-merged_label"
-msgstr ""
+msgstr "必要とされている Device ID が無い場合は検索のところに入力して下さい"
 
 msgid "devicecard_details-links-notebook_device"
-msgstr ""
+msgstr "すべてのドライバーを表示する"
 
 msgid "devicecard_details-links"
-msgstr ""
+msgstr "すべてのドライバーを表示"
 
 msgid "devicecardlist_no-result_download-link"
 msgstr "DriverPackをダウンロード"
@@ -167,7 +167,7 @@ msgstr "DriverPackをダウンロード"
 #. x86; Текст для {{DOWNLOAD}} находится в ключе devicecardlist_no-
 #. result_download-link;
 msgid "devicecardlist_no-results-device-text"
-msgstr ""
+msgstr "一覧の中は Windows {{OSVERSIONS}} の {{DEVICENAME}} ドライバーは見つかりません。ドライバーを自動にダンロードするには {{DOWNLOAD}} を選択してください"
 
 #. i18n: EN: Example: DEVICECLASS=chipsets|videocards; NOTEBOOK=Acer AO521;
 #. OSVERSIONS=Windows 10 x86; Text for {{DOWNLOAD}} is in key
@@ -176,14 +176,14 @@ msgstr ""
 #. OSVERSIONS=Windows 10 x86; Текст для {{DOWNLOAD}} находится в ключе
 #. devicecardlist_no-result_download-link;
 msgid "devicecardlist_no-results-notebook-text"
-msgstr ""
+msgstr "一覧の中は Windows {{OSVERSIONS}} の {{NOTEBOOK}} ノートパソコンのドライバーは見つかりません。ドライバーを自動にダンロードするには {{DOWNLOAD}} を選択してください"
 
 #. i18n: EN: Example: NOTEBOOK=Acer AO521; OSVERSIONS=Windows 10 x86; Text for
 #. {{DOWNLOAD}} is in key devicecardlist_no-result_download-link; RU: Пример:
 #. NOTEBOOK=Acer AO521; Пример: OSVERSIONS=Windows 10 x86; Текст для
 #. {{DOWNLOAD}} находится в ключе devicecardlist_no-result_download-link;
 msgid "devicecardlist_no-results-notebook-device-class-text"
-msgstr ""
+msgstr "一覧の中は Windows {{OSVERSIONS}} の {{NOTEBOOK}} ノートパソコンの {{DEVICECLASS}} ドライバーは見つかりません。ドライバーを自動にダンロードするには {{DOWNLOAD}} を選択してください"
 
 msgid "devicegrouppage_all-systems"
 msgstr "すべてのシステム"
@@ -204,10 +204,10 @@ msgid "deviceidheader_caption-many"
 msgstr "本デバイスは、次のようにも知られています:"
 
 msgid "devicetypelist_title_os"
-msgstr ""
+msgstr " {{OS}} 上でのドライバー"
 
 msgid "devicetypelist_title"
-msgstr ""
+msgstr "デバイスのドライバーを検索"
 
 msgid "search_noresult"
 msgstr "オンラインでDriverPackをダウンロード"
@@ -217,10 +217,10 @@ msgstr "オンラインでDriverPackをダウンロード"
 #. NAME=Acer Aspire 4830TG; Пример: OSVERSIONS=Windows 10 x86; Текст для
 #. {{DOWNLOAD}} находится в ключе drivercard_no-results_download-link;
 msgid "drivercard_no-results-text"
-msgstr ""
+msgstr "一覧の中, Windowsの {{OSVERSIONS}} の {{NAME}} ドライバーは見つかりません。ドライバーを自動にダウンロードするには {{DOWNLOAD}} を選択してください"
 
 msgid "drivercard_no-results_download-link"
-msgstr "DriverPackをダウンロード"
+msgstr "DriverPack をダウンロード"
 
 msgid "drivercard_caption-version"
 msgstr "バージョン:"
@@ -232,10 +232,10 @@ msgid "drivercard_caption-date"
 msgstr "日付:"
 
 msgid "drivercard_caption-class"
-msgstr ""
+msgstr "デバイスタイプ:"
 
 msgid "drivercard_caption-manufacturer"
-msgstr "製作者:"
+msgstr "製作社:"
 
 msgid "drivercard_caption-os"
 msgstr "オペレーティングシステム:"
@@ -244,10 +244,10 @@ msgid "drivercard_caption-deviceid"
 msgstr "Device ID:"
 
 msgid "drivercard_caption-inf"
-msgstr ""
+msgstr "ファイル *.inf:"
 
 msgid "drivercard_caption-section"
-msgstr ""
+msgstr "カテゴリ:"
 
 msgid "drivercard_caption-btn"
 msgstr "ドライバーをダウンロード"
@@ -256,136 +256,136 @@ msgid "deviceidpage_all-systems"
 msgstr "すべてのシステム"
 
 msgid "dropdowndriverversion_no-results"
-msgstr ""
+msgstr "選択したOSのドライバーは見つかりませんでした。"
 
 msgid "dropdownos_current"
-msgstr ""
+msgstr "現在"
 
 msgid "footer_banner-title"
-msgstr ""
+msgstr "デバイス用のドライバを探すのに疲れましたか？"
 
 msgid "footer_banner-caption"
-msgstr ""
+msgstr "DriverPack Online <span style='color: {{COLOR}}'>は自動的に必要なドライバーを検索し、インストール</span> します"
 
 msgid "footer_banner_btn"
-msgstr ""
+msgstr "無料で <span class='bold'>DriverPack Online</span> をダウンロード"
 
 msgid "footer_translate-feedback"
-msgstr ""
+msgstr "エラ又はtypoを見つかりましたか?<br />それをハイライトし {{HOTKEY}} を押して下さい"
 
 msgid "header_search-title"
-msgstr ""
+msgstr "<span class='bold'>ドライバー検索</span> 最大のデータベース — 100万以上のドライバ"
 
 msgid "header_search-examples"
-msgstr ""
+msgstr "例えば:"
 
 msgid "header_cta-text"
-msgstr ""
+msgstr "自動でドライバーを選択するには DriverPack をダウンロード"
 
 msgid "header_cta-btn"
-msgstr ""
+msgstr "自動でドライバーをインストール"
 
 msgid "header_cta-label-1"
-msgstr ""
+msgstr "すぐに <span style='color: {{COLOR}}'>ダウンロード</span> します"
 
 msgid "header_cta-label-2"
-msgstr ""
+msgstr "自動的に <span style='color: {{COLOR}}'>選択及びインストール</span> します"
 
 msgid "headerbutton_title"
-msgstr ""
+msgstr "自動でドライバーをインストール"
 
 msgid "headerbutton_label"
-msgstr ""
+msgstr "DriverPack ソフトウェアは絶対に無料です"
 
 msgid "headeros_cta-btn"
-msgstr ""
+msgstr " <span class='HeaderOs__cta-btn-marked'>{{OS}}</span> のためのドライバー"
 
 msgid "headeros_search-text"
-msgstr ""
+msgstr "又は、御社の絶大なドライバーデータベースから検索"
 
 msgid "landingdevicetypelist_landing-title"
-msgstr ""
+msgstr "DriverPack はどのデバイスにも対応可能"
 
 msgid "landingdevicetypelist_landing-subtitle"
-msgstr ""
+msgstr "Windows 7 SP1 の USB3.0 のために"
 
 msgid "landingdevicetypelist_cta-btn"
-msgstr ""
+msgstr "すべての必要なドライバーをインストール"
 
 msgid "landingdevicetypelist_versions"
-msgstr "その他のDriverPackバージョン"
+msgstr "その他の DriverPack バージョン"
 
 msgid "landingfeatures_landing-title"
-msgstr "DriverPackはコンピュータを構成する最も簡単で最速の方法です。"
+msgstr "DriverPack はコンピュータを構成する最も簡単で最速の方法です。"
 
 msgid "landingfeatures_landing-subtitle"
-msgstr ""
+msgstr "当ソフトウェアは無料で提供しています。初心者及び専門家どちらにもに適切です。"
 
 msgid "landingfeatures_item-title-free"
-msgstr ""
+msgstr "無料"
 
 msgid "landingfeatures_item-caption-free"
-msgstr ""
+msgstr "DriverPack は無料で提供しています"
 
 msgid "landingfeatures_item-title-safe"
-msgstr ""
+msgstr "安全"
 
 msgid "landingfeatures_item-caption-safe"
-msgstr ""
+msgstr "DriverPack は正式にウイルス対策ソフトウェアメーカーと協力し、あなたのパソコンを守ります"
 
 msgid "landingfeatures_item-title-for-all-devices"
-msgstr ""
+msgstr "すべてのデバイスのため"
 
 msgid "landingfeatures_item-caption-for-all-devices"
-msgstr ""
+msgstr "DriverPack は世界中で最も多いドライバーを持っているため、どのコンピュータも設定可能です"
 
 msgid "landingheader_cta-text"
-msgstr ""
+msgstr "DriverPack は無料でドライバーをインストールし、ダライバー問題を解決します"
 
 msgid "landingheader_cta-btn"
-msgstr ""
+msgstr "すべての必要なドライバーをインストール"
 
 msgid "landingheadernav_search"
-msgstr ""
+msgstr "ドライバーを検索"
 
 msgid "landingheadernav_foradmin"
-msgstr ""
+msgstr "システム管理者のため"
 
 msgid "landingintroduction_author-title"
-msgstr ""
+msgstr "はじめまして、私の名前はアルトゥールクジャコフです。私は DriverPack の著者と創始者です。"
 
 msgid "landingintroduction_author-speech"
-msgstr ""
+msgstr "8年前、純粋な熱意で書かれた小さなソフトウェアから、世界中の4000万人以上がコンピュータを構成するのに役に立った会社に変わりました！<br /><br />この間、当社のソフトウェアは非常に高速でスマートになっています。現在、DriverPack は、世界中の超高速サーバーに搭載された、世界でももっとも特殊なドライバーの最大のデータベースです。常に迅速かつ最高の品質でドライバのインストールプロセスを実行するために、私たちは選択アルゴリズムをさらに優れた精度及び正確にする機械学習技術を使用しています。私たちは、ソフトウェアが完全に無料でありながら誰もがそれを使用できるように、すべて達成することができました。<br /><br />私のチームと私は当製品を誇りに思っています。出来るだけ短時間でコンピュータを構成できて信頼できるアシスタントになることを願っています。"
 
 msgid "landingintroduction_author-speech-marked"
-msgstr ""
+msgstr "私たちはあなたの時間を節約のためにすべての時間を費やしています！"
 
 msgid "landingintroduction_video-caption"
-msgstr ""
+msgstr "DriverPack Solution のことをロシア連邦の首相ドミトリーメドヴェージェフからのお考えはこちらへ"
 
 msgid "landingnotebookvendorslist_landing-title"
-msgstr ""
+msgstr "DriverPack はどのコンピュータにも適切です"
 
 msgid "landingnotebookvendorslist_landing-subtitle"
-msgstr ""
+msgstr "どのコンピュータにも使用可能 - 確認しました"
 
 msgid "landingnotebookvendorslist_cta-btn"
-msgstr ""
+msgstr "すべての必要なドライバーをインストール"
 
 msgid "landingnotebookvendorslist_versions"
-msgstr "その他DriverPackのバージョン"
+msgstr "その他 DriverPack のバージョン"
 
 msgid "landingproducts_cta-title"
-msgstr ""
+msgstr "自分の DriverPack を選択"
 
 msgid "landingproducts_cta-description"
-msgstr ""
+msgstr "自分に合うパックをダウンロード"
 
 msgid "landingproducts_item-title-online"
-msgstr ""
+msgstr "DriverPack Online"
 
 msgid "landingproducts_item-description-online"
-msgstr ""
+msgstr "インターネット接続 <span class='nobr'>({{SIZE}})</span> ある場合はすぐにダウンロード"
 
 msgid "landingproducts_item-version"
 msgstr "バージョン:"
@@ -394,388 +394,388 @@ msgid "landingproducts_item-button"
 msgstr "ダウンロード"
 
 msgid "landingproducts_item-title-network"
-msgstr ""
+msgstr "DriverPack Offline Network"
 
 msgid "landingproducts_item-description-network"
-msgstr ""
+msgstr "ネットワークハードウェア(Lan/Wi-Fi)のためのドライバーを含む、インタネット <span class='nobr'>({{SIZE}})</span> に接続せずに動作する"
 
 msgid "landingproducts_item-title-offline"
-msgstr ""
+msgstr "DriverPack Offline Full"
 
 msgid "landingproducts_item-description-offline"
-msgstr ""
+msgstr "全ドライバーを含む、インタネットに接続せずに動作する。トレントトラッカー<span class='nobr'>({{SIZE}})</span>からダウンロード可能"
 
 msgid "landingpublications__landing-title"
-msgstr ""
+msgstr "DriverPack に関してのマスメディアの出版"
 
 msgid "landingscreenshots_landing-title"
-msgstr ""
+msgstr "DriverPack はコンピュータを設定するには最も簡単で迅速な方法です"
 
 msgid "landingscreenshots_landing-subtitle"
-msgstr ""
+msgstr "当ソフトウェアは無料で提供しています。初心者及び専門家どちらにもに適切です。"
 
 msgid "landingsocial_landing-title"
-msgstr ""
+msgstr "DriverPack コミュニティへ参加"
 
 msgid "landingsocial_landing-subtitle"
-msgstr ""
+msgstr "ニュースをフォローし、議論に参加する"
 
 msgid "landingtopvideocardlist_landing-title"
-msgstr ""
+msgstr "人気のビデオカードモデル"
 
 msgid "landingtopvideocardlist_landing-caption"
-msgstr ""
+msgstr "DriverPack はどのモデルのビデオカードのドライバーも選択出来る、もっとも人気のはこちらへ"
 
 msgid "landingusers_cta"
-msgstr ""
+msgstr "毎秒世界中に DriverPack のユーザーズは増えています"
 
 msgid "landingusers_cta-btn"
-msgstr ""
+msgstr "すべての必要なドライバーをインストール"
 
 msgid "landingusers_versions"
-msgstr "その他DriverPackのバージョン"
+msgstr "その他 DriverPack のバージョン"
 
 msgid "landingvideocardlist_landing-title"
-msgstr ""
+msgstr "人気のあるビデオカードメーカー"
 
 msgid "landingwizard_landing-title"
-msgstr ""
+msgstr "ワンクリックでコンピュータを設定可能となりました"
 
 msgid "landingwizard_item-caption-download"
-msgstr ""
+msgstr "DriverPack Online をダウンロードして起動"
 
 msgid "landingwizard_item-caption-setup"
-msgstr ""
+msgstr "1つの簡単なアクションでコンピュータを設定"
 
 msgid "landingwizard_item-caption-profit"
-msgstr ""
+msgstr "エイ!私のコンピュータは新品と同様の動作します"
 
 msgid "landingwizard_cta-btn"
-msgstr ""
+msgstr "すべての必要なドライバーをインストール"
 
 msgid "navbar_download-link-short"
 msgstr "ダウンロード"
 
 msgid "navbar_download-link"
-msgstr "オンラインでDriverPackをダウンロード"
+msgstr "DriverPack Online をダウンロード"
 
 msgid "notfound_cta-text"
-msgstr ""
+msgstr "DriverPack Online を利用して無料でドライバーを調べて、自動的にドライバーをインストール出来ます。"
 
 msgid "notfound_cta-btn"
-msgstr "オンラインでDriverPackをダウンロード"
+msgstr "DriverPack Online をダウンロード"
 
 msgid "notfound_info-404"
-msgstr ""
+msgstr "{{404}} — ご依頼頂いたページは見つかりませんでした"
 
 msgid "notfound_info-500"
-msgstr ""
+msgstr "{{500}} — 何かが間違っていました(サーバーエラー)"
 
 msgid "notebookfilters-title"
 msgstr "利用可能なドライバー"
 
 msgid "notebookvendorslist_other-text"
-msgstr ""
+msgstr "その他の製作社"
 
 msgid "notebookvendorslist_title_os"
-msgstr ""
+msgstr " {{OS}} のノートパソコンのドライバー"
 
 msgid "notebookvendorslist_title"
-msgstr ""
+msgstr "ノートパソコンのためのドライバー検査"
 
 msgid "productlandingheader-online_cta-btn"
-msgstr "オンラインでDriverPackをダウンロード"
+msgstr "DriverPack Online をダウンロード"
 
 msgid "productlandingheader-online_caption"
-msgstr ""
+msgstr "DriverPack Online - たった {{SIZE}} の大人気の製品。即座にダウンロードされ、コンピュータやノートパソコン用のドライバが選択し、インターネット経由で必要なドライバがすべてダウンロードしてインストールされます。普通のユーザにはぴったりです。インタネット接続ある場合のみ動作します。"
 
 msgid "productlandingheader-network_cta-btn"
-msgstr ""
+msgstr " DriverPack Offline Network をダウンロード"
 
 msgid "productlandingheader-network_caption"
-msgstr ""
+msgstr "DriverPack Offline Network - 一つの場所 ({{SIZE}}) でネットワークハードウェア用のドライバー。それは速くダウンロードされ、より速くインストールされます！ Windows が再インストールされると、 DriverPack Offline Network はネットワークドライバを設定してインターネットに接続し、残りのデバイス用のドライバをダウンロードします。"
 
 msgid "productlandingheader-offline_cta-btn"
-msgstr ""
+msgstr "DriverPack Offline Full をダウンロード"
 
 msgid "productlandingheader-offline_caption"
-msgstr ""
+msgstr "DriverPack Offline Full - インタネットアクセスなしでドライバをインストールするための {{SIZE}} サイズの 巨大なパック 。 DriverPack Offline Full をダウンロードして、好きな場所に最新のドライバをダウンロードすることができます。これはシステム管理者に完全に適合します。"
 
 msgid "promoheader_cta-text-gamers"
-msgstr ""
+msgstr "あなたのコンピュータはあなたが考えているよりも性能が高いです。無料で全部のドライバーをアップデートして下さい。"
 
 msgid "promoheader_cta-text-gamers-caption"
-msgstr ""
+msgstr "コンピュータゲームが好きな場合は、ハードウェアの可能な限り高い効率を達成するために、コンピュータのドライバをより頻繁に更新することをお勧めします。最大37％以上の FPS - 最高のゲーム体験と DriverPack の新しい成果"
 
 msgid "promoheader_cta-text"
-msgstr ""
+msgstr "DriverPack は無料でドライバーをインストールし、ダライバー問題を解決します"
 
 msgid "promoheader_cta-btn"
-msgstr ""
+msgstr "すべての必要なドライバーをインストール"
 
 msgid "promoheader_size"
-msgstr ""
+msgstr "ファイルサイズ: {{SIZE}} KB"
 
 msgid "promoheader_license"
 msgstr "ライセンス契約"
 
 msgid "promoheader_os-versions"
-msgstr ""
+msgstr "当ソフトウェアは Windows 10, 8.1, 8, 7, Vista, XP に適切"
 
 msgid "promoheader_uninstall"
-msgstr ""
+msgstr "DriverPack を削除"
 
 msgid "reviewheader_cta-text"
-msgstr ""
+msgstr "ソーシャルネットワークの DriverPack コミュニティに参加して、製品に関する最新情報を把握し、協議に参加する"
 
 msgid "reviewheader_cta"
-msgstr ""
+msgstr "DriverPack を改良するために自分のレビュー又は提案を追加して下さい"
 
 msgid "search_input-placeholder"
-msgstr ""
+msgstr "ドライバー、ノートパソコン又は DeviceID の名前を検索して下さい"
 
 msgid "search_btn-text"
-msgstr ""
+msgstr "掘り当てる"
 
 msgid "searchformitem_type-section"
-msgstr ""
+msgstr "カテゴリ"
 
 msgid "searchformitem_type-notebook"
-msgstr ""
+msgstr "ノートパソコン"
 
 msgid "searchformitem_type-device"
-msgstr ""
+msgstr "デバイス"
 
 msgid "searchformitem_type-free"
-msgstr ""
+msgstr "無料"
 
 #. i18n: EN: Example: NAME=Acer; RU: Пример: NAME=Acer;
 msgid "generatesearchitemname_notebookvendor"
-msgstr ""
+msgstr "{{NAME}} ノートパソコン"
 
 #. i18n: EN: Example: NAME=Asus; RU: Пример: NAME=Asus;
 msgid "generatesearchitemname_vendor"
-msgstr ""
+msgstr "{{NAME}} デバイス"
 
 msgid "deviceclasses_bluetooth-single-main"
-msgstr ""
+msgstr "Bluetooth デバイス"
 
 msgid "deviceclasses_bluetooth-single-for"
-msgstr ""
+msgstr "Bluetooth デバイス"
 
 msgid "deviceclasses_bluetooth-plural-main"
-msgstr ""
+msgstr "Bluetooth デバイス"
 
 msgid "deviceclasses_bluetooth-plural-for"
-msgstr ""
+msgstr "Bluetooth デバイス"
 
 msgid "deviceclasses_cardreader-single-main"
-msgstr ""
+msgstr "カード読み取り装置"
 
 msgid "deviceclasses_cardreader-single-for"
-msgstr ""
+msgstr "カード読み取り装置"
 
 msgid "deviceclasses_cardreader-plural-main"
-msgstr ""
+msgstr "カード読み取り装置"
 
 msgid "deviceclasses_cardreader-plural-for"
-msgstr ""
+msgstr "カード読み取り装置"
 
 msgid "deviceclasses_chipset-single-main"
-msgstr ""
+msgstr "チップセット"
 
 msgid "deviceclasses_chipset-single-for"
-msgstr ""
+msgstr "チップセット"
 
 msgid "deviceclasses_chipset-plural-main"
-msgstr ""
+msgstr "チップセット"
 
 msgid "deviceclasses_chipset-plural-for"
-msgstr ""
+msgstr "チップセット"
 
 msgid "deviceclasses_inputdev-single-main"
-msgstr ""
+msgstr "入力デバイス"
 
 msgid "deviceclasses_inputdev-single-for"
-msgstr ""
+msgstr "入力デバイス"
 
 msgid "deviceclasses_inputdev-plural-main"
-msgstr ""
+msgstr "入力デバイス"
 
 msgid "deviceclasses_inputdev-plural-for"
-msgstr ""
+msgstr "入力デバイス"
 
 msgid "deviceclasses_lan-single-main"
-msgstr ""
+msgstr "ネットワークカード"
 
 msgid "deviceclasses_lan-single-for"
-msgstr ""
+msgstr "ネットワークカード"
 
 msgid "deviceclasses_lan-plural-main"
-msgstr ""
+msgstr "ネットワークカード"
 
 msgid "deviceclasses_lan-plural-for"
-msgstr ""
+msgstr "ネットワークカード"
 
 msgid "deviceclasses_massstorage-single-main"
-msgstr ""
+msgstr "コントローラ"
 
 msgid "deviceclasses_massstorage-single-for"
-msgstr ""
+msgstr "コントローラ"
 
 msgid "deviceclasses_massstorage-plural-main"
-msgstr ""
+msgstr "コントローラ"
 
 msgid "deviceclasses_massstorage-plural-for"
-msgstr ""
+msgstr "コントローラ"
 
 msgid "deviceclasses_modem-single-main"
-msgstr ""
+msgstr "モデム"
 
 msgid "deviceclasses_modem-single-for"
-msgstr ""
+msgstr "モデム"
 
 msgid "deviceclasses_modem-plural-main"
-msgstr ""
+msgstr "モデム"
 
 msgid "deviceclasses_modem-plural-for"
-msgstr ""
+msgstr "モデム"
 
 msgid "deviceclasses_monitor-single-main"
-msgstr ""
+msgstr "モニター"
 
 msgid "deviceclasses_monitor-single-for"
-msgstr ""
+msgstr "モニター"
 
 msgid "deviceclasses_monitor-plural-main"
-msgstr ""
+msgstr "モニター"
 
 msgid "deviceclasses_monitor-plural-for"
-msgstr ""
+msgstr "モニター"
 
 msgid "deviceclasses_phone-single-main"
-msgstr ""
+msgstr "スマートフォン"
 
 msgid "deviceclasses_phone-single-for"
-msgstr ""
+msgstr "スマートフォン"
 
 msgid "deviceclasses_phone-plural-main"
-msgstr ""
+msgstr "スマートフォン"
 
 msgid "deviceclasses_phone-plural-for"
-msgstr ""
+msgstr "スマートフォン"
 
 msgid "deviceclasses_printer-single-main"
-msgstr ""
+msgstr "プリンタ"
 
 msgid "deviceclasses_printer-single-for"
-msgstr ""
+msgstr "プリンタ"
 
 msgid "deviceclasses_printer-plural-main"
-msgstr ""
+msgstr "プリンタ"
 
 msgid "deviceclasses_printer-plural-for"
-msgstr ""
+msgstr "プリンタ"
 
 msgid "deviceclasses_sound-single-main"
-msgstr ""
+msgstr "サウンドカード"
 
 msgid "deviceclasses_sound-single-for"
-msgstr ""
+msgstr "サウンドカード"
 
 msgid "deviceclasses_sound-plural-main"
-msgstr ""
+msgstr "サウンドカード"
 
 msgid "deviceclasses_sound-plural-for"
-msgstr ""
+msgstr "サウンドカード"
 
 msgid "deviceclasses_tvtuner-single-main"
-msgstr ""
+msgstr "テレビチューナー"
 
 msgid "deviceclasses_tvtuner-single-for"
-msgstr ""
+msgstr "テレビチューナー"
 
 msgid "deviceclasses_tvtuner-plural-main"
-msgstr ""
+msgstr "テレビチューナー"
 
 msgid "deviceclasses_tvtuner-plural-for"
-msgstr ""
+msgstr "テレビチューナー"
 
 msgid "deviceclasses_video-single-main"
-msgstr ""
+msgstr "ビデオカード"
 
 msgid "deviceclasses_video-single-for"
-msgstr ""
+msgstr "ビデオカード"
 
 msgid "deviceclasses_video-plural-main"
-msgstr ""
+msgstr "ビデオカード"
 
 msgid "deviceclasses_video-plural-for"
-msgstr ""
+msgstr "ビデオカード"
 
 msgid "deviceclasses_webcamera-single-main"
-msgstr ""
+msgstr "ウェブカメラ"
 
 msgid "deviceclasses_webcamera-single-for"
-msgstr ""
+msgstr "ウェブカメラ"
 
 msgid "deviceclasses_webcamera-plural-main"
-msgstr ""
+msgstr "ウェブカメラ"
 
 msgid "deviceclasses_webcamera-plural-for"
-msgstr ""
+msgstr "ウェブカメラ"
 
 msgid "deviceclasses_wifi-single-main"
-msgstr ""
+msgstr "Wi-Fi デバイス"
 
 msgid "deviceclasses_wifi-single-for"
-msgstr ""
+msgstr "Wi-Fi デバイス"
 
 msgid "deviceclasses_wifi-plural-main"
-msgstr ""
+msgstr "Wi-Fi デバイス"
 
 msgid "deviceclasses_wifi-plural-for"
-msgstr ""
+msgstr "Wi-Fi デバイス"
 
 msgid "deviceclasses_other-single-main"
-msgstr ""
+msgstr "その他のデバイス"
 
 msgid "deviceclasses_other-single-for"
-msgstr ""
+msgstr "その他のデバイス"
 
 msgid "deviceclasses_other-plural-main"
-msgstr ""
+msgstr "その他のデバイス"
 
 msgid "deviceclasses_other-plural-for"
-msgstr ""
+msgstr "その他のデバイス"
 
 msgid "searchheader_caption-subtitle"
-msgstr ""
+msgstr "質問してドライバーを検索:"
 
 msgid "searchheader_caption-filter-label"
-msgstr ""
+msgstr "選択したOSのドライバーをダウンロードします"
 
 #. i18n: EN: Example: NOTEBOOK=Acer AO521; Text for {{DOWNLOAD}} is in key
 #. searchresult_details-content_download-link; RU: Пример: NOTEBOOK=Acer
 #. AO521; Текст для {{DOWNLOAD}} находится в ключе searchresult_details-
 #. content_download-link
 msgid "searchresult_details-content-notebook-text"
-msgstr ""
+msgstr "{{DOWNLOAD}} すると、必要なドライバを自動的に識別してインストールします, または {{NOTEBOOK}} ページに行き 必要なドライバを手動で選択する"
 
 msgid "searchresult_details-content_download-link"
-msgstr "DriverPackをダウンロード"
+msgstr "DriverPack をダウンロード"
 
 msgid "searchresult_notebook"
-msgstr ""
+msgstr "ノートパソコン"
 
 msgid "searchresult_download-btn"
-msgstr ""
+msgstr "自動的にドライバをインストールする"
 
 msgid "searchresult_details-content-text-placeholder"
 msgstr "データ読み込み中..."
 
 msgid "searchresult_details-content-label-1"
-msgstr ""
+msgstr "オペレーティングシステム"
 
 msgid "searchresult_details-content-label-2"
 msgstr "すべてのシステム"
@@ -785,388 +785,388 @@ msgstr "すべてのシステム"
 #. GeForce 205; Текст для {{DOWNLOAD}} находится в ключе searchresult_details-
 #. content_download-link
 msgid "searchresult_details-content-group-text"
-msgstr ""
+msgstr " {{DOWNLOAD}} すると、必要なドライバを自動的に識別してインストールします, または {{DEVICE}} デバイスーページに行き 必要なドライバを手動で選択する"
 
 #. i18n: EN: Example: CLASS.SINGLE.MAIN=monitor|chipset; COUNT=12; RU: Пример:
 #. CLASS.SINGLE.MAIN=монитор|чипсет; COUNT=12;
 msgid "searchresult_device"
-msgstr ""
+msgstr "{{CLASS.SINGLE.MAIN}} ({{COUNT}} 結果が見つかりました)"
 
 msgid "searchresult_details-content-text-many"
-msgstr ""
+msgstr "このデバイスの複数の異なるドライバが見つかりました"
 
 msgid "seofooter_os-list-title"
-msgstr ""
+msgstr "オペレーティングシステムバージョン: <span itemprop='operatingSystem'>{{OSLIST}}</span>"
 
 msgid "seofooter_offers-title"
-msgstr ""
+msgstr "<span itemprop='offers' itemscope='' itemtype='http://schema.org/Offer'>無料で <meta itemprop='price' content='0' />利用可能</span>"
 
 msgid "seofooter_driver-description-title"
-msgstr ""
+msgstr "ドライバの説明"
 
 msgid "seofooter_popular-drivers-title"
-msgstr ""
+msgstr "人気なドライバ"
 
 msgid "sidebanner_title"
-msgstr ""
+msgstr "あなたはドライバーを探すのに疲れますか？"
 
 msgid "sidebanner_caption"
-msgstr ""
+msgstr "DriverPack は必要なドライバーを自動的に <span class='SideBanner__caption-marked'>選択及びインストール</span>"
 
 msgid "translationheader_cta-text"
-msgstr ""
+msgstr "世界中の何百万人ものPCユーザーに DriverPack を提供できるように協力して下さい— 他の言語に翻訳するために翻訳のボランティアプロジェクトに参加して下さい"
 
 msgid "translationheader_bubble-team"
-msgstr ""
+msgstr "自動にコンピュータを設定する世界最大サービスの翻訳者チームに参加したいですか？"
 
 msgid "translationheader_bubble-languages"
-msgstr ""
+msgstr "母国語に翻訳するため、英語やロシア語をよく知っていますか？"
 
 msgid "translationheader_bubble-experience"
-msgstr ""
+msgstr "オンライン翻訳サービスを使用してソフトウェアやウェッブサイトを翻訳した経験はありますか？"
 
 msgid "translationheader_bubble-email"
-msgstr ""
+msgstr "3つの質問の回答がYESの場合は、'{{SUBJECT}}' で {{EMAIL}} までe-mailして下さい。件名の中にあなたの目標言語を記入し送信して下さい。"
 
 msgid "translationlist_title"
-msgstr ""
+msgstr "DriverPack が認証した翻訳者のリスト"
 
 msgid "translationtool_text-transifex"
-msgstr ""
+msgstr "DriverPack Solution では、transifex.comのサービスを使用してローカリゼーションを行っています"
 
 msgid "translationtool_example-ru-to-en"
-msgstr ""
+msgstr "ロシア語 (RU) から英語 (EN) 及びCIS語 ( CIS) への翻訳ライン"
 
 msgid "translationtool_example-en-to-all"
-msgstr ""
+msgstr "英語(EN)から他の世界の言語への翻訳ライン"
 
 msgid "deviceclasses_laptop-single-main"
-msgstr ""
+msgstr "ノートパソコン"
 
 msgid "language_title"
 msgstr "Japanese"
 
 msgid "landingPagePublications_rbk"
-msgstr ""
+msgstr "DriverPack は、アルトゥールクジャコフのチームが完全に選択し、テストした Windows 用のドライバで構成されたソフトウェアです。このアプリケーションでは、ユーザーのコンピュータを分析し、必要なドライバをインストールして、次の2つの問題を解決できます。まず第一、コンピュータの構成のプロセスをスピードアップします（1つのシステムに数十台のコンピュータがある場合は特に重要です）。第二、その運用能力を向上させることである。"
 
 msgid "landingPagePublications_secretfirmy"
-msgstr ""
+msgstr "現在、DriverPack は世界で最大のドライバデータベースを有し、45言語に翻訳され、4200万人以上のユーザーのコンピュータで動作中です。"
 
 msgid "landingPagePublications_cnews"
-msgstr ""
+msgstr "最初のバージョンのソフトウェアが作成されて以来、DriverPack Solution はユーザーの間で非常に人気がありました。当ソフトウェアは無料でダウンロードできます。これにより、DriverPack Solution と競合製品が区別され、ますます多くの新規ユーザーが惹きつけられます。"
 
 msgid "landingPagePublications_xbit"
-msgstr ""
+msgstr "DriverPack Solution は興味深いアプリケーションです。同タイプの他のソフトウェアソリューションでは提供されない一連のオプションが含まれています。どのユーザーも、すべてのエラーを修正し、わずか2回のクリックでシステムとそのすべてのデバイスの適切な操作を設定できます。現時点では、DriverPack データベースのドライバ数はすでに1.1百万件を超えていますが、それらはすべて安全性についてテストされています。"
 
 msgid "landingPagePublications_chip"
-msgstr ""
+msgstr "DriverPack を使用するとPCコンポーネント用のドライバの最新バージョンを見つけることはまったく難しいことではありません。最も楽しいのは、ユーザーが自分で何もする必要がないということです。このツールは完全に自動化され、操作上便利です。"
 
 msgid "landingPagePublications_pcmag"
-msgstr ""
+msgstr "DriverPack Protect はアンチウィルスソフトウェアや広告ブロックツールでさえもしばしば失敗する、マルウェアやアドウェアプログラムやプラグインからコンピュータを保護するのに役立ちます。"
 
 msgid "landingPagePublications_habr"
-msgstr ""
+msgstr "私の意見では、Windows を再インストールするたびにドライバを探してインストールする必要性は、Windows ファミリ全体の最も重要な欠陥の1つです。この問題を解決するために2008年の頃から私は DriverPack という独自のソフトウェアを書きました。現在、私の製品は世界中の40百万人のユーザーが使用しています。 Windows のドライバの問題は、第三者の解決ではあるが、解決されていると私は考えています。"
 
 msgid "landingPagePublications_computerra"
-msgstr ""
+msgstr "新しいバージョンでは、ユーザーが自分のドライバーの選択を行うためのツールを提供しています。これは、コンピュータにサービスを提供し、さまざまなハードウェアを管理する人にとって特に重大な問題です。これで不要なドライバパックを削除するのではなく、他の driverpacks を DriverPack に統合することができます。"
 
 msgid "landingPagePublications_vc"
-msgstr ""
+msgstr "口コミのおかげで、当製品は私たちのチームの参加なしでユーザーによって 45 の言語に翻訳されました。"
 
 msgid "adminpagefaq_official_vendors-q"
-msgstr ""
+msgstr "DriverPack の前に公式サイトからドライバをダウンロードしましたが、問題が発生しました。なぜ、 DriverPack のドライバは、メーカーのものよりも信頼性が高いのですか？"
 
 msgid "adminpagefaq_official_vendors-a"
-msgstr ""
+msgstr "ドライバーデータベースを最大だけではなく安定させるために努力しており、公式メーカーが許しているバグも修正しています。我々は機械学習技術を使用しており、そのおかげで選択アルゴリズムは絶えず改善されています。その理由で DriverPack のドライバが最も信頼できるのです:-)"
 
 msgid "adminpagefaq_database-q"
-msgstr ""
+msgstr "DriverPack データベースはどうやって拡大した？本当に私か必要されているドライバーは見つかることが出来ますか？"
 
 msgid "adminpagefaq_database-a"
-msgstr ""
+msgstr "現時点で当社のドライバデータベースは世界最大のデータベースであるため、あなたはデバイスのドライバを見つけることができる確率は99％以上です。このようなデータベースの収集とサポートを継続するため、当社はデバイスメーカーとドライバ開発者と直接協力しています。オフィシャルサイトとプライベートFTPサーバーから収集したドライバをテストし、アクティブユーザーの推奨事も考慮に入れています。"
 
 msgid "adminpagefaq_free-q"
-msgstr ""
+msgstr "DriverPack は絶対に無料とは本当のことですか？"
 
 msgid "adminpagefaq_free-a"
-msgstr ""
+msgstr "当社のすべてのソフトウェアは無料です！また、私たちのプロジェクトをサポートしたい場合は、あなたが使用するために提供している有用なソフトウェアをインストールし、友人に DriverPack を推奨することができます:-)"
 
 msgid "adminpagefaq_antivirus-q"
-msgstr ""
+msgstr "私のウイルス対策ソフトが DriverPack でウイルスを発見しました-これはどうして起きたのでしょうか？"
 
 msgid "adminpagefaq_antivirus-a"
-msgstr ""
+msgstr "当社のすべての DriverPack のバージョンが Kaspersky Laboratory の徹底的な検査と認定を受けているため、誤認された可能性が最も高いです。当社は、Avast、360 Total Security などの多くのウイルス対策ソフトウェアプロバイダと協力しています。DriverPack を動作し続けるにはウイルス対策ソフトウェアのワイットリストに追加して下さい。また、この誤認をイルス対策会社やサポートサービスに誤った肯定的なものとして報告していただければ幸いです。"
 
 msgid "adminpagefaq_expert_mode-q"
-msgstr ""
+msgstr "DriverPack を使用するのに最も便利なモードはどれですか？"
 
 msgid "adminpagefaq_expert_mode-a"
-msgstr ""
+msgstr "デフォルトでは、DriverPack は自動モードで起動し、新しいユーザであっても理解しやすく便利なように設計されています。ただし、上級ユーザーやシステム管理者の便宜のため、拡張設定とカスタマイズオプションを含むエキスパートモードを開発しました。このモードを有効にするには、画面の下部にある対応するボタンをクリックするだけで十分です。"
 
 msgid "adminpagefaq_stable-q"
-msgstr ""
+msgstr "ドライバが正しくインストールされておらず、コンピュータに問題があります。この状況をどうやって修正できますか？"
 
 msgid "adminpagefaq_stable-a"
-msgstr ""
+msgstr "DriverPack ソフトウェアの動作の安定性は当社の優先事項の1つですが、軽微な障害は発生する可能性はあります。そのため、復元ポイントを作成して、すべてを元の状態に戻すことが出来ます。今後同様の問題が発生するのを防ぐため、DriverPack メニューにアクセスし、ソフトウェアによって自動的に作成されたレポートをテクニカルサービスに送信することをお勧めします。"
 
 msgid "cloudpagefaq_remove_soft-q"
-msgstr ""
+msgstr "DriverPack Cloud がコンピュータからいくつかのソフトウェアを削除することを提案するのはなぜですか？"
 
 msgid "cloudpagefaq_remove_soft-a"
-msgstr ""
+msgstr "多くの場合、評価の低いソフトウェアはアドウェアやウィルスです。そのため、DriverPack Cloud はそれらを削除することを推奨しています。ユーザーの好みに基づいて評価は行われます — ソフトウェアを削除するほど、評価が低くなります。"
 
 msgid "cloudpagefaq_notifications-q"
-msgstr ""
+msgstr "DriverPack Cloud をインストール後、デスクトップに通知を受取るようになりました。どうすれば無効にできますか？"
 
 msgid "cloudpagefaq_notifications-a"
-msgstr ""
+msgstr "これらの通知は単なる推奨事項です。各通知の右上隅にあるベルアイコンをクリックすると、特定のタイプの通知を受取ることを拒否できます。"
 
 msgid "cloudpagefaq_usb-q"
-msgstr ""
+msgstr "フラッシュカードをUSBスロットに接続すると、一部のドライバに関する通知がデスクトップに表示されました。それはなんのためですか？"
 
 msgid "cloudpagefaq_usb-a"
-msgstr ""
+msgstr "DriverPack Cloud は新しいデバイスの接続を検査し、適切なドライバがあるかどうかを調べます。必要なドライバが見つからなかった場合は、すぐにインストールすることが出来ます — デバイスの適切な操作性のために必要です。"
 
 msgid "badrabbitpromopage_cta-text"
-msgstr ""
+msgstr "Bad Rabbit 暗号ウイルス — あなたのPCを保護する方法は？"
 
 msgid "badrabbitpromopage_cta-subtext"
-msgstr ""
+msgstr "DriverPack には、コンピュータ構成ツールの脆弱性を排除するための特定のアクションが含まれています。Bad Rabbit ウイルスに対する無料の保護をダウンロードすることにより、PCまたはノートパソコンを保護することが出来ます。"
 
 msgid "badrabbitpromopage_cta-btn"
-msgstr ""
+msgstr "コンピュータを構成し、Bad Rabbit から保護する"
 
 msgid "badrabbitpromopage_caption-text"
-msgstr ""
+msgstr "当ソフトウェアは無料で提供しています"
 
 msgid "badrabbitpromopage_info-text-title-1"
-msgstr ""
+msgstr "Bad Rabbit とはなんですか？"
 
 msgid "badrabbitpromopage_info-text-1"
-msgstr ""
+msgstr "Bad Rabbit は、2017年10月後半以降ロシア、ウクライナ、ブルガリア、トルコのコンピュータを攻撃した新しい暗号ウイルスです。また、被害者の中には、Interfax RIA、The Fontanka RIA、ウクライナの多くの省庁、オデッサ空港などがあります。操作の原則は簡単です：Mimikatz ユーティリティを使用して、PCのメモリからアカウントデータを取得します。又、管理者のアクティブなアカウントデータも検索さます。その後、Bad Rabbit はSMBとWebDAVを使用しローカルネットワーク内のワークステーションにアクセスを試みます。このウイルスは、PCにアクセスするとすぐに、到達したすべてのデータを暗号化し、その後、マスターブートレコードを変更します。この手順が完了すると、Bad Rabbitはコンピュータをリセットし、0.05ビッコイン（2017年10月末に約300ドル）の要求メッセージをポップアップ表示します。"
 
 msgid "badrabbitpromopage_info-text-title-2"
-msgstr ""
+msgstr "あなたのPC Bad Rabbit 暗号ウイルスから守る方法は?"
 
 msgid "badrabbitpromopage_info-text-2"
-msgstr ""
+msgstr "あなたは新しいウィルスに対して身を守る方法は::<br/>• C:\\\\Windows\\\\ フォルダに infpub.datファイルを作成し、プロパティーに読取専用をチェックする<br/>• 「タスクスケジューラ」で新しいタスクを慎重に作成する<br/>• 外部のサイトからFlashPlayerのアップデートをインストールしないこと<br/>• Windows及びインストールされているすべての保護ソフトウェアを更新する<br/>• オペレーティングシステムのバックアップを作成する<br/><br/>又、当ページでDriverPack Solutionをダウンロードするだけで、新しい解決方法を使用することが出来ます - これであなたの時間を節約します！<br/><b>当社の解決方法は、Windows 7,8,8.1,10及びXPで動作します。</b>"
 
 msgid "badrabbitpromopage_links-text"
-msgstr ""
+msgstr "このソリューションの開発は、以下の材料に基づいていました"
 
 msgid "badrabbitpromopage_link-smb"
-msgstr ""
+msgstr "Windows  及びWindows サーバのSMBプロトコルバージョン1,2,3を有効化と無効化する方法は？"
 
 msgid "cloudlandingpage_cackle-title"
-msgstr ""
+msgstr "DriverPack Cloud についてご意見をお聞かせ下さい"
 
 msgid "cloudlandingpage_cackle-caption"
-msgstr ""
+msgstr "DriverPack Cloud は好まれましたか？他にどのような機能を追加して欲しいですか？ぜひ、教えて下さい。"
 
 msgid "cloudlandingpage_header-title"
-msgstr ""
+msgstr "DriverPack Cloudは、PCの効率を向上させる新しいソフトウェアです"
 
 msgid "cloudlandingpage_about-what-is-title"
-msgstr ""
+msgstr "DriverPack Cloudソフトウェアとは何ですか？"
 
 msgid "cloudlandingpage_about-what-is-caption"
-msgstr ""
+msgstr "DriverPack チームからの新しい製品です。これは、余分な費用やハードウェアのアップグレードなしでコンピュータの効率を向上させることを目的としています。お使いのコンピュータでCS：GOまたはDota 2の動作速度に満足していませんか？DriverPack Cloud をお試し下さい!"
 
 msgid "cloudlandingpage_about-how-works-title"
-msgstr ""
+msgstr "DriverPack Cloud はどのように機能しますか？"
 
 msgid "cloudlandingpage_about-how-works-caption"
-msgstr ""
+msgstr "当社の製品はあなたのPCのドライバーの状態を分析し、コンピュータの効率に影響しているすべてのソフトウェアを明らかにします。ドライバの更新やコンピュータの速度を遅くするソフトウェ削除の推奨を示しています。又、ハードウェアの動作速度を向上させる第三者製品のインストールを推奨します。作業全体はあなたのコントロールにあります– あなたの許可なくDriverPack Cloud 側からの行動は一切ありません"
 
 msgid "cloudlandingpage_features-monitoring"
-msgstr ""
+msgstr "ドライバの状態をモニターし、DriverPackの巨大なデータベースから大事なアップデート及び不足しているドライバーをダウンロードします"
 
 msgid "cloudlandingpage_features-safety"
-msgstr ""
+msgstr "潜在的なマルウェアを速やかに明らかにして削除することができ、ウイルス対策ソフトウェアにも役立ちます"
 
 msgid "cloudlandingpage_features-cloud"
-msgstr ""
+msgstr "Cloud サービスにて計算を行いコンピュータに余分なリソースを節約できるようにする"
 
 msgid "cloudlandingpage_uninstall-title"
-msgstr ""
+msgstr "DriverPack Cloudをコンピュータから完全に削除する方法"
 
 msgid "cloudlandingpage_uninstall-caption"
-msgstr ""
+msgstr "当社の製品をインストールさまいしたが、使用したくないですか？その場合は、コントロールパネルのソフトウェアセクションに移動し、ソフトウェアの削除をクリックするだけです。ドロップダウンにて DriverPack Cloud を見つけ、通常の手順に従って削除して下さい。これでソフトウェアを削除されます。DriverPack Cloud は、削除後に隠されたソフトウェアを残さず、アドウェアのごみをPCに落とさない。"
 
 msgid "cloudlandingpage_license"
-msgstr ""
+msgstr "インストール始める前に {{LINK}} を読んで下さい"
 
 msgid "cloudlandingpage_features-install"
-msgstr ""
+msgstr "DriverPack Cloud をインストール"
 
 msgid "cloudlandingpage_license-link"
 msgstr "ライセンス契約"
 
 msgid "devicegrouppage_show-more-link"
-msgstr ""
+msgstr "もっと見る"
 
 msgid "devicestypepage_subtitle"
-msgstr ""
+msgstr "すべての {{CLASS.SINGLE.FOR}} メーカー"
 
 msgid "devicetypevendorpage_subtitle-popular"
-msgstr ""
+msgstr "人気の {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
 
 msgid "devicetypevendorpage_subtitle-all"
-msgstr ""
+msgstr "すべての {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
 
 msgid "errorpage_title"
-msgstr ""
+msgstr "エラー 500: サーバ内部エラー"
 
 msgid "landingfooter_landing-subtitle"
-msgstr ""
+msgstr "DriverPack はすべての人気 Windows バージョンのドライバーを含まれている"
 
 msgid "landing-footer_catalog-os"
-msgstr ""
+msgstr "{{OS}} のドライバー"
 
 msgid "landing-footer_download"
-msgstr "DriverPackをダウンロード"
+msgstr "DriverPack をダウンロード"
 
 msgid "landing-footer_versions"
-msgstr ""
+msgstr "すべてのバージョン"
 
 msgid "landing-footer_manufacturers"
-msgstr ""
+msgstr "ハードウェアメーカー"
 
 msgid "landing-footer_badrabbit"
-msgstr ""
+msgstr "Bad Rabbit に対する保護"
 
 msgid "landing-footer_for-admin"
-msgstr ""
+msgstr "システム管理者のため"
 
 msgid "landing-footer_for-translators"
-msgstr ""
+msgstr "翻訳者のため"
 
 msgid "landing-footer_hwids"
-msgstr ""
+msgstr "Device ID"
 
 msgid "landing-footer_wannacry"
-msgstr ""
+msgstr "WannaCry に対する保護"
 
 msgid "landing-footer_license"
 msgstr "ライセンス契約"
 
 msgid "landing-footer_remove"
-msgstr ""
+msgstr "DriverPack を削除"
 
 msgid "notfoundpage_title"
-msgstr ""
+msgstr "エラー 404: ページが見つかりませんでした"
 
 msgid "notebookpage_show-more-link"
-msgstr ""
+msgstr "もっと見る"
 
 msgid "notebookpage_all-devices"
-msgstr ""
+msgstr "すべてのデバイスのため"
 
 msgid "notebookspage_subtitle"
-msgstr ""
+msgstr "すべてのノートパソコン及びネットブックのメーカーリスト"
 
 msgid "notebooksvendorpage_subtitle-popular"
-msgstr ""
+msgstr "人気の {{VENDOR.NAME}} ノートパソコン及びネットブック"
 
 msgid "notebooksvendorpage_subtitle-all"
-msgstr ""
+msgstr "すべての {{VENDOR.NAME}} ノートパソコンとネットブック"
 
 msgid "reviewpage_title"
-msgstr ""
+msgstr "DriverPack の改善に関するフィードバックと提案"
 
 msgid "searchpage_show-more-link"
-msgstr ""
+msgstr "もっと見る"
 
 #. i18n: EN: text for {{LINK}} is in key thankyoupopup_download-link; RU:
 #. текст для {{LINK}} находится в ключе thankyoupopup_download-link;
 msgid "thankyoupopup_download-text"
-msgstr ""
+msgstr "ダウンロード開始していません?  {{LINK}} するにはここにクリックして下さい"
 
 #. i18n: EN: text for {{LINK}} is in key thankyoupopup_licence-link; RU: текст
 #. для {{LINK}} находится в ключе thankyoupopup_licence-link;
 msgid "thankyoupopup_licence-text"
-msgstr ""
+msgstr "当ソフトウェアをインストールすることにより、{{LINK}} 条件を受入れる"
 
 msgid "thankyoupopup_title"
-msgstr ""
+msgstr "DriverPack 開始"
 
 msgid "thankyoupopup_cta-text"
-msgstr ""
+msgstr "選択し、コンピュータにドライバーをインストールするため"
 
 msgid "thankyoupopup_licence-link"
 msgstr "ライセンス契約"
 
 msgid "thankyoupopup_download-link"
-msgstr ""
+msgstr "ダウンロード"
 
 msgid "translate-feedback-header_caption"
-msgstr ""
+msgstr "当ページは最近翻訳されました。間違いを見つけましたか？それをハイライトして {{HOTKEY}}を押して下さい"
 
 msgid "translate-feedback-form-popup_preview-title"
-msgstr ""
+msgstr "次のテキストをハイライトしています："
 
 msgid "translate-feedback-form-popup_correct-title"
-msgstr ""
+msgstr "正確に何が間違っているのかを説明し、正しい変種を提供してください："
 
 msgid "translate-feedback-form-popup_submit"
-msgstr ""
+msgstr "送信"
 
 msgid "translate-feedback-popup_title-error"
-msgstr ""
+msgstr "何か問題発生しました"
 
 msgid "translate-feedback-popup_description-error"
-msgstr ""
+msgstr "ハイライトされたテキストはサーバの問題により送信されていません。<br />後でもう一度試して下さい。"
 
 msgid "translate-feedback-popup_title-success"
-msgstr ""
+msgstr "ありがとうございます"
 
 msgid "translate-feedback-popup_description-success"
-msgstr ""
+msgstr "ハイライトされたテキストがエディタに送信されました。"
 
 msgid "translate-feedback-popup_description-join-us"
-msgstr ""
+msgstr "母国語に翻訳するのにご協力下さい"
 
 msgid "translate-feedback-popup_description-join-link"
-msgstr ""
+msgstr "翻訳者チームにご参加下さい！"
 
 msgid "translationlandingpage_title"
-msgstr ""
+msgstr "DriverPack 翻訳"
 
 msgid "vendorpage_subtitle-popular"
-msgstr ""
+msgstr "人気の {{VENDOR.NAME}} デバイス"
 
 msgid "wannacryptpromopage_cta-text"
-msgstr ""
+msgstr "WannaCrypt cryptographer ウィルス — 歴史上最大の攻撃からコンピューターを守る方法は？"
 
 msgid "wannacryptpromopage_cta-subtext"
-msgstr ""
+msgstr "DriverPack には、コンピュータ構成ツールの脆弱性を排除するための特定のアクションが含まれています。WannaCry ウイルスに対する無料の保護をダウンロードすることにより、PCまたはノートパソコンを保護することが出来ます。"
 
 msgid "wannacryptpromopage_cta-btn"
-msgstr ""
+msgstr "コンピュータを構成し、WannaCry から保護する"
 
 msgid "wannacryptpromopage_caption-text"
-msgstr ""
+msgstr "当ソフトウェアは無料で提供しています"
 
 msgid "wannacryptpromopage_info-text-title-1"
-msgstr ""
+msgstr "WannaCrypt とは何ですか？"
 
 msgid "wannacryptpromopage_info-text-1"
-msgstr ""
+msgstr "5月12日に世界中のコンピュータを攻撃し、150カ国で300,000人以上のユーザーに感染させたWannaCryptの脅迫ウイルス（犠牲者によって自発的WannaCryに名前が変更された）が感染した。西ヨーロッパ、ロシア、中国はもっとも影響うけた。英国では、このウイルスは保健省のネットワークを無効にし、全国の病院の運営を中止しました。中国では、いくつかの産業を停止させた工場で古いコンピュータに影響を与えた。<br/><br/>このウイルスの仕組の主な点は簡単です。PCやノートパソコンに浸透し、見つかったすべての文書、ファイル、マテリアルを絶対に暗号化し、使用できなくします。その後、侵入者はデコードのためにかなりの金額を要求します— 約300ドル。ただし、ファイルへのアクセスを保証するものではありません。現時点、自分でファイルを解読する方法はなく、現在インターネット上で提供されている解決方法も罠、別のウイルスの感染、または100％の確実性で動作しません。"
 
 msgid "wannacryptpromopage_info-text-title-2"
-msgstr ""
+msgstr "誰が危険にさらされていますか？"
 
 msgid "wannacryptpromopage_info-text-2"
-msgstr ""
+msgstr "オープンSMBポートを備えたWindows 10より前のオペレーティングシステムを搭載したPCが最も危険にさらされています。現在、Windowsユーザーのうちの半分が危険にさらされている—免許不要のWindowsのコピーを利用している18％のユーザー(自動的に危険にさらされる)、Windowsアップデータサービスを無効にしている(マイクロソフトからの最新\"修正プログラム\"をダウンロードできない)23％のユーザーとアップデートを受け取っていない旧バージョンのOSを使用している6％のユーザ。<br/><br/>この結論から、Windows XPなどのオペレーティングシステムを使用しているさまざまな企業や企業のネットワークが最もリスクが高いということです。これらのネットワークへの攻撃では、各PCごとに別途”身代金”を支払わなければならないため、データの損失は甚だしく、コストは膨大になります。"
 
 msgid "wannacryptpromopage_info-text-title-3"
-msgstr ""
+msgstr "あなたのビジネスを守る方法 — DriverPack Solution の解決方法"
 
 msgid "wannacryptpromopage_info-text-3"
-msgstr ""
+msgstr "WannaCrypt (WannsCry) ウイルスの危険性の主な理由はMS17-010セキュリティシステムの SMBv1 プロトコルの重大な脆弱性を利用して広がること。それで WannaCry は実際にウィルス対策ソフトウェアに見えないようにします。DriverPack Solution の対策方法を使用すると、システムの重大な脆弱性を保護する更新プログラムをインストールすることができます。又、ライセンスの履歴とOSのバージョンに関係なく、脅威となっている古いプロトコルを無効にします。"
 
 msgid "wannacryptpromopage_links-text"
-msgstr ""
+msgstr "この対策方法の開発は、以下の内容に基づいていました"
 
 msgid "wannacryptpromopage_link-smb"
-msgstr ""
+msgstr "Windows 及び Windows サーバの SMB プロトコルバージョン 1,2,3 を有効化と無効化する方法"
