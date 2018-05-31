@@ -23,7 +23,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: fa\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
 msgid "installation_close_confirm"
 msgstr "آیا مطمئن هستید که می خواهید نصب را متوقف کنید؟ این کار ممکن است باعث خرابی رایانه تان شود."
@@ -665,6 +665,7 @@ msgstr "درسته! کامپیوتر شما پیکربندی شد!"
 msgid "final_drivers_not_better_title"
 msgid_plural "final_drivers_not_better_title_n"
 msgstr[0] "{{COUNT1}} درایور از {{COUNT2}} تا نصب شده است."
+msgstr[1] "{{COUNT1}} درایور از {{COUNT2}} تا نصب شده است."
 
 msgid "final_single_driver_better_installed_title"
 msgstr "درایور نصب شده است"
@@ -675,6 +676,7 @@ msgstr "درایور نصب نشده است."
 msgid "final_programs_some_finished_title"
 msgid_plural "final_programs_some_finished_title_n"
 msgstr[0] "{{COUNT1}} نرم افزار از {{COUNT2}} تا نصب شده است."
+msgstr[1] "{{COUNT1}} نرم افزار از {{COUNT2}} تا نصب شده است."
 
 msgid "final_programs_all_failed_title"
 msgstr "0 نرم افزار از {{COUNT}} تا نصب شده است."
@@ -694,6 +696,7 @@ msgstr "تمامی درایور های مهم نصب شدند."
 msgid "final_drivers_not_better_subtitle"
 msgid_plural "final_drivers_not_better_subtitle_n"
 msgstr[0] "بنابراین، {{COUNT}} درایور‌ مهم نصب نشدند. به شما توصیه می کنیم نصب را تکرار کنید یا عملکرد دستگاه خود را بررسی کنید."
+msgstr[1] "بنابراین، {{COUNT}} درایور‌ مهم نصب نشدند. به شما توصیه می کنیم نصب را تکرار کنید یا عملکرد دستگاه خود را بررسی کنید."
 
 msgid "final_single_driver_ok_programs_subtitle"
 msgstr "تمامی درایور‌ها و ابزار‌ها نصب شدند."
@@ -704,6 +707,7 @@ msgstr "تمام درایورهای مهم نصب شده اند"
 msgid "final_programs_all_finished_subtitle"
 msgid_plural "final_programs_all_finished_subtitle_n"
 msgstr[0] "{{COUNT}} برنامه های نرم افزاری نصب شدند."
+msgstr[1] "{{COUNT}} برنامه های نرم افزاری نصب شدند."
 
 msgid "final_programs_some_finished_subtitle"
 msgstr "نصب برخی از نرم افزار های کاربردی متوقف شد."
@@ -744,6 +748,7 @@ msgstr "به شما توصیه میکنیم که رایانه خود را به �
 msgid "final_aside_installed_drivers_title"
 msgid_plural "final_aside_installed_drivers_title_n"
 msgstr[0] "{{COUNT}} درایور‌ها نصب شدند"
+msgstr[1] "{{COUNT}} درایور‌ها نصب شدند"
 
 msgid "final_some_drivers_not_installed"
 msgstr "بعضی از درایور‌ها نصب نشدند"
@@ -1188,6 +1193,7 @@ msgstr "حالت پیشرفته و ماهر"
 msgid "start_drivers_title"
 msgid_plural "start_drivers_title_n"
 msgstr[0] "{{COUNT}} درایورها نصب خواهد شد"
+msgstr[1] "{{COUNT}} درایورها نصب خواهد شد"
 
 msgid "start_drivers_popover"
 msgstr "درایور های کامپیوتر شما انتخاب شده است و آماده نصب است. قبل از اجرا، یک نقطه بازگشت ساخته خواهد شد."
@@ -1195,6 +1201,7 @@ msgstr "درایور های کامپیوتر شما انتخاب شده است �
 msgid "start_programs_title"
 msgid_plural "start_programs_title_n"
 msgstr[0] "{{COUNT}} برنامه نصب خواهد شد"
+msgstr[1] "{{COUNT}} برنامه نصب خواهد شد"
 
 msgid "start_programs_popover"
 msgstr "نرم افزار های رایگان توصیه شده ذیل برای کامپیوتر شما انتخاب شده است: آنتی ویروس ها، آرشیوها، مرورگرها و جعبه درایورها — همه چیز هر آنچه که ممکن است برای عملکرد راحت موردنیاز باشد."
