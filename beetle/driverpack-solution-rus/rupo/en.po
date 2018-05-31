@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-04-19 15:39+0000\n"
+"POT-Creation-Date: 2018-05-31 11:33+0000\n"
 "PO-Revision-Date: 2016-02-25 10:55+0000\n"
 "Last-Translator: Boris Ovsepyan, 2017\n"
 "Language-Team: English (https://www.transifex.com/driverpack-solution/teams/75452/en/)\n"
@@ -439,6 +439,11 @@ msgstr "Learn more"
 msgid "settings_collect-drivers-href"
 msgstr "https://vk.com/topic-29220845_34743007"
 
+#. i18n: EN: default value for {{MODEL}} in start_title key; RU: значение по
+#. умолчанию для {{MODEL}} в ключе start_title
+msgid "start_title_default_model"
+msgstr "your computer"
+
 msgid "menu_create_recovery_point"
 msgstr "Create Restore Point"
 
@@ -477,6 +482,33 @@ msgstr "Task Manager"
 
 msgid "menu_cmd"
 msgstr "Command Line"
+
+msgid "configurator-screen_downloading"
+msgstr "Downloading: {{DOWNLOADED_SIZE}} of {{TOTAL_SIZE}}"
+
+msgid "configurator-screen_title"
+msgstr "Your DriverPack Offline build"
+
+msgid "configurator-screen_caption"
+msgstr "You can download your own DriverPack build by choosing those drivers that will be available without Internet connection."
+
+msgid "configurator-screen_btn"
+msgstr "Download DriverPack Offline – {{COUNT}}"
+
+msgid "configurator-screen_completed"
+msgstr "Download is done"
+
+msgid "configurator-screen_open-downloads"
+msgstr "Open the Download folder"
+
+msgid "configurator-screen_fail"
+msgstr "Download Error"
+
+msgid "configurator-screen_retry"
+msgstr "Take another try"
+
+msgid "configurator-screen_params"
+msgstr "Download parameters"
 
 #. i18n: EN: text for {{LINK.EULA}} is in key confirm_popup_eula-link; text
 #. for {{LINK.POLICY}} is in key confirm_popup_policy-link; RU: текст для
@@ -803,6 +835,15 @@ msgstr "You enjoy the game without any issues or delays"
 
 msgid "games_playkey_create_account_button"
 msgstr "Create an account on the PlayKey"
+
+msgid "gdpr-banner_text"
+msgstr "We collect data about your computer in accordance with the License Agreement conditions, in order to select proper drivers for your device. Please confirm your consent, and we will be able to provide proper operation of the app."
+
+msgid "gdpr-banner_decline-btn"
+msgstr "Decline"
+
+msgid "gdpr-banner_accept-btn"
+msgstr "Confirm"
 
 msgid "header_authorize_button"
 msgstr "Log-In"
@@ -1164,11 +1205,6 @@ msgstr "DriverPack has been created specifically for admins but is clear and con
 msgid "settings-screen_license"
 msgstr "License Agreement"
 
-#. i18n: EN: default value for {{MODEL}} in start_title key; RU: значение по
-#. умолчанию для {{MODEL}} в ключе start_title
-msgid "start_title_default_model"
-msgstr "your computer"
-
 msgid "start_title"
 msgstr "Automatiс configuring of {{MODEL}}"
 
@@ -1377,3 +1413,6 @@ msgstr "The sound card is connected incorrectly, or there are some problems with
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "English"
+
+#~ msgid "configurator-screen_save-to"
+#~ msgstr "Save to the following folder:"

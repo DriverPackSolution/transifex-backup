@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-04-19 15:39+0000\n"
+"POT-Creation-Date: 2018-05-31 11:33+0000\n"
 "PO-Revision-Date: 2016-02-25 10:55+0000\n"
 "Last-Translator: Ihor Sovertkov <superigorpro@gmail.com>, 2017\n"
 "Language-Team: Ukrainian (https://www.transifex.com/driverpack-solution/teams/75452/uk/)\n"
@@ -442,6 +442,11 @@ msgstr "Детальніше"
 msgid "settings_collect-drivers-href"
 msgstr "https://vk.com/topic-29220845_34743007"
 
+#. i18n: EN: default value for {{MODEL}} in start_title key; RU: значение по
+#. умолчанию для {{MODEL}} в ключе start_title
+msgid "start_title_default_model"
+msgstr "вашого комп'ютера"
+
 msgid "menu_create_recovery_point"
 msgstr "Створити мітку відновлення"
 
@@ -480,6 +485,33 @@ msgstr "Диспетчер завдань"
 
 msgid "menu_cmd"
 msgstr "CMD"
+
+msgid "configurator-screen_downloading"
+msgstr ""
+
+msgid "configurator-screen_title"
+msgstr ""
+
+msgid "configurator-screen_caption"
+msgstr ""
+
+msgid "configurator-screen_btn"
+msgstr ""
+
+msgid "configurator-screen_completed"
+msgstr ""
+
+msgid "configurator-screen_open-downloads"
+msgstr ""
+
+msgid "configurator-screen_fail"
+msgstr ""
+
+msgid "configurator-screen_retry"
+msgstr ""
+
+msgid "configurator-screen_params"
+msgstr ""
 
 #. i18n: EN: text for {{LINK.EULA}} is in key confirm_popup_eula-link; text
 #. for {{LINK.POLICY}} is in key confirm_popup_policy-link; RU: текст для
@@ -816,6 +848,15 @@ msgstr "Ви насолоджуєтеся грою без проблем і га
 
 msgid "games_playkey_create_account_button"
 msgstr "Створити рахунок у PlayKey"
+
+msgid "gdpr-banner_text"
+msgstr ""
+
+msgid "gdpr-banner_decline-btn"
+msgstr ""
+
+msgid "gdpr-banner_accept-btn"
+msgstr ""
 
 msgid "header_authorize_button"
 msgstr "Авторизація"
@@ -1177,11 +1218,6 @@ msgstr "DriverPack створений спеціально для професі
 msgid "settings-screen_license"
 msgstr ""
 
-#. i18n: EN: default value for {{MODEL}} in start_title key; RU: значение по
-#. умолчанию для {{MODEL}} в ключе start_title
-msgid "start_title_default_model"
-msgstr "вашого комп'ютера"
-
 msgid "start_title"
 msgstr "Автоматичне налаштування {{MODEL}}"
 
@@ -1394,3 +1430,6 @@ msgstr "Звукова карта неправильно підключена а
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Ukrainian"
+
+#~ msgid "configurator-screen_save-to"
+#~ msgstr ""

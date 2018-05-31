@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-04-19 15:39+0000\n"
-"PO-Revision-Date: 2018-05-13 07:36+0000\n"
+"POT-Creation-Date: 2018-05-31 11:33+0000\n"
+"PO-Revision-Date: 2018-05-31 13:20+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Telugu (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/te/)\n"
 "MIME-Version: 1.0\n"
@@ -436,6 +436,11 @@ msgstr "ఇంకా నేర్చుకో"
 msgid "settings_collect-drivers-href"
 msgstr "https://vk.com/topic-29220845_34743007"
 
+#. i18n: EN: default value for {{MODEL}} in start_title key; RU: значение по
+#. умолчанию для {{MODEL}} в ключе start_title
+msgid "start_title_default_model"
+msgstr "మీ కంప్యూటర్"
+
 msgid "menu_create_recovery_point"
 msgstr "పునరుద్ధరణ పాయింట్ సృష్టించండి"
 
@@ -474,6 +479,33 @@ msgstr "టాస్క్ మేనేజర్"
 
 msgid "menu_cmd"
 msgstr "కమాండ్ లైన్"
+
+msgid "configurator-screen_downloading"
+msgstr ""
+
+msgid "configurator-screen_title"
+msgstr ""
+
+msgid "configurator-screen_caption"
+msgstr ""
+
+msgid "configurator-screen_btn"
+msgstr ""
+
+msgid "configurator-screen_completed"
+msgstr ""
+
+msgid "configurator-screen_open-downloads"
+msgstr ""
+
+msgid "configurator-screen_fail"
+msgstr ""
+
+msgid "configurator-screen_retry"
+msgstr ""
+
+msgid "configurator-screen_params"
+msgstr ""
 
 #. i18n: EN: text for {{LINK.EULA}} is in key confirm_popup_eula-link; text
 #. for {{LINK.POLICY}} is in key confirm_popup_policy-link; RU: текст для
@@ -800,6 +832,15 @@ msgstr "ఏ సమస్యలు లేదా ఆలస్యం లేకు�
 
 msgid "games_playkey_create_account_button"
 msgstr "PlayKey లో ఒక ఖాతాను సృష్టించండి"
+
+msgid "gdpr-banner_text"
+msgstr ""
+
+msgid "gdpr-banner_decline-btn"
+msgstr ""
+
+msgid "gdpr-banner_accept-btn"
+msgstr ""
 
 msgid "header_authorize_button"
 msgstr "లాగిన్ "
@@ -1161,11 +1202,6 @@ msgstr "DriverPack నిర్వాహకులకు ప్రత్యేక
 msgid "settings-screen_license"
 msgstr "లైసెన్స్ ఒప్పందం"
 
-#. i18n: EN: default value for {{MODEL}} in start_title key; RU: значение по
-#. умолчанию для {{MODEL}} в ключе start_title
-msgid "start_title_default_model"
-msgstr "మీ కంప్యూటర్"
-
 msgid "start_title"
 msgstr "ఆటోమాటిస్ ఆకృతీకరించుట {{MODEL}}"
 
@@ -1374,3 +1410,6 @@ msgstr "ధ్వని కార్డు తప్పుగా అనుసం
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Telugu"
+
+#~ msgid "configurator-screen_save-to"
+#~ msgstr "Save to the following folder:"
