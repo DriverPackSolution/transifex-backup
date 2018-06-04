@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-03-16 15:04+0000\n"
+"POT-Creation-Date: 2018-05-25 14:38+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Burhan Keleş <klsburhan@hotmail.com>, 2017\n"
 "Language-Team: Turkish (https://www.transifex.com/driverpack-solution/teams/75453/tr/)\n"
@@ -406,6 +406,9 @@ msgstr "DriverPack Offline Full"
 msgid "landingproducts_item-description-offline"
 msgstr "Tüm sürücüleri içerir, Internet bağlantısı olmadan çalışır, Torrent aracılığıyla indirilebilir <span class='nobr'>({{SIZE}})</span>"
 
+msgid "landingpublications__source-link"
+msgstr "Daha fazla bilgi edinin"
+
 msgid "landingpublications__landing-title"
 msgstr "DriverPack hakkında kitlesel medya yayınları"
 
@@ -502,6 +505,12 @@ msgstr "DriverPack Offline Full'ü İndir"
 msgid "productlandingheader-offline_caption"
 msgstr "DriverPack Offline Full - Internet erişimi olmadan sürücü kurulumu için {{SIZE}} boyutunda büyük bir paket. Sadece DriverPack Offline Full'ü indirin ve istediğiniz yerde bu güncel sürücülerin muazzam kütüphanesini kullanın. Sistem yöneticileri için mükemmel bir çözümdür."
 
+msgid "promoheader_os-versions"
+msgstr "Yazılım, Windows 10, 8.1, 8, 7, Vista, XP için uygundur"
+
+msgid "promoheader_uninstall"
+msgstr "DriverPack kaldırma"
+
 msgid "promoheader_cta-text-gamers"
 msgstr "Bilgisayarınız düşündüğünüzden daha güçlüdür: tüm sürücüleri ücretsiz güncelleyin"
 
@@ -516,15 +525,6 @@ msgstr "Tüm gerekli sürücüleri yükleyin"
 
 msgid "promoheader_size"
 msgstr "Dosya Boyutu: {{SIZE}} KB"
-
-msgid "promoheader_license"
-msgstr "Lisans Sözleşmesi"
-
-msgid "promoheader_os-versions"
-msgstr "Yazılım, Windows 10, 8.1, 8, 7, Vista, XP için uygundur"
-
-msgid "promoheader_uninstall"
-msgstr "DriverPack kaldırma"
 
 msgid "reviewheader_cta-text"
 msgstr "Üründen haberdar olmak ve tartışmalarda yer almak için sosyal ağlardaki DriverPack topluluğuna katılın"
@@ -928,36 +928,6 @@ msgstr "Flash belleğimi usb girişe taktığımda masaüstü bilgisayarımda ba
 msgid "cloudpagefaq_usb-a"
 msgstr "DriverPack Cloud bağlanan yeni aygıtları ortaya çıkarır ve uygun sürücülere sahip olup olmadıklarını inceler. Eğer gerekli sürücü eksikse, anında yüklenmesini mümkün kılar — aygıtların düzgün bir sekilde çalışabilmesi için gereklidir."
 
-msgid "badrabbitpromopage_cta-text"
-msgstr "Bad Rabbit şifreleyici virüs — PC’nizi nasıl korursunuz?"
-
-msgid "badrabbitpromopage_cta-subtext"
-msgstr "DriverPack bilgisayar yapılandırma araçları içinde güvenlik açığını ortadan kaldırmak için belirli eylemler içerir. Bad Rabbit virüsüne karşı ücretsiz korumamızı indirerek PC veya dizüstünüzü koruyabilirsiniz."
-
-msgid "badrabbitpromopage_cta-btn"
-msgstr "Bilgisayarı yapılandırın ve Bad Rabbit virüsüne karşı koruyun"
-
-msgid "badrabbitpromopage_caption-text"
-msgstr "Bu yazılım ücretsiz verilir"
-
-msgid "badrabbitpromopage_info-text-title-1"
-msgstr "Bad Rabbit nedir?"
-
-msgid "badrabbitpromopage_info-text-1"
-msgstr "Bad Rabbit, Ekim 2017'nin sonlarından itibaren Rusya, Ukrayna, Bulgaristan ve Türkiye'deki bilgisayarlara saldıran yeni bir şifreleyici virüstür. Saldırıya uğrayan kurbanlar arasında Odessa Havaalanı'nın yanı sıra ayrıca Interfax RIA, Fontanka RIA, Ukrayna'nın birkaç bakanlığı da vardır. İşlemin prensibi basittir: PC'nizin belleğinden hesap verilerini almak için Mimikatz yardımcı uygulamasını kullanır. Aynı zamanda yöneticinin aktif hesap verilerini de arar. Bad Rabbit, SMB ve WebDAV kullanarak yerel ağdaki iş istasyonlarına erişmeye çalışır. PC'ye erişir erişmez, virüs, ulaşmak için uğraştığı tüm verileri şifreler, ve ondan sonra Master Boot Record alanını değiştirir. Bu işlem tamamlandıktan sonra, Bad Rabbit bilgisayarınızı yeniden başlatır ve 0.05 Bitcoin (Ekim 2017 sonu oranına göre yaklaşık 300 Dolar) ödeme talebi ile açılır pencere içinde bir ileti gelir."
-
-msgid "badrabbitpromopage_info-text-title-2"
-msgstr "Bad Rabbit şifreleyici virüsüne karşı PC'nizi nasıl korursunuz?"
-
-msgid "badrabbitpromopage_info-text-2"
-msgstr "Yeni virüse karşı kendinizi korumak için ne yapabilirsiniz:<br/>•  C:\\\\Windows\\\\ klasörü içinde bir infpub.dat dosyası oluşturun ve özelliklerinden 'Salt-okunur' seçeneğini işaretleyin<br/>• 'Görev Zamanlayıcı' içinde oluşturulan yeni görevleri dikkatlice izleyin<br/>• Dış sitelerden FlashPlayer için herhangi bir güncelleme yüklemeyin<br/>• Windows'u ve tüm yüklü koruma yazılımlarını güncelleyin<br/>• İşletim sisteminizin yedeklerini alın<br/><br/>Ayrıca, bu sayfadan indirerek sadece DriverPack Solution'dan gelen yeni çözümü kullanın - zamanınızı kurtaracak!<br/><b>Çözümümüz Windows 7, 8, 8.1, 10, ve XP üzerinde çalışır.</b>"
-
-msgid "badrabbitpromopage_links-text"
-msgstr "Bu çözümün gelişimi aşağıdaki gereçlere bağlıdır"
-
-msgid "badrabbitpromopage_link-smb"
-msgstr "Windows ve Windows Server için SMB protokollerinin 1, 2, ve 3. sürümlerini nasıl etkinleştirir ve etkisizleştirirsiniz"
-
 msgid "cloudlandingpage_cackle-title"
 msgstr "DriverPack Cloud hakkında düşüncenizi bize bildirin"
 
@@ -1018,41 +988,35 @@ msgstr "Tüm {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
 msgid "errorpage_title"
 msgstr "Hata 500: iç sunucu hatası"
 
+msgid "gdpr-banner_text"
+msgstr "Web sitemizi kullanmaya devam ederek Tanımlama Bilgileri dosyalarınızı toplamak için izniniz olduğunu onaylarsınız. Bu kullanıcılarımız için rahat çalışma sağlanması için yapılır. Bu bilgiler üçüncü taraflarla paylaşılmaz."
+
+msgid "gdpr-banner_cta-text"
+msgstr "Tamam"
+
 msgid "landingfooter_landing-subtitle"
 msgstr "DriverPack tüm popüler Windows sürümleri için sürücüleri içerir"
 
 msgid "landing-footer_catalog-os"
 msgstr "{{OS}} için sürücüler"
 
-msgid "landing-footer_download"
-msgstr "DriverPack'i İndir"
-
 msgid "landing-footer_versions"
 msgstr "Tüm uygulama sürümleri"
+
+msgid "landing-footer_remove"
+msgstr "DriverPack kaldırma"
 
 msgid "landing-footer_manufacturers"
 msgstr "Donanım Üreticileri"
 
-msgid "landing-footer_badrabbit"
-msgstr "Bad Rabbit virüsüne karşı koruma"
+msgid "landing-footer_hwids"
+msgstr "Device ID"
 
 msgid "landing-footer_for-admin"
 msgstr "Sistem yöneticileri için"
 
 msgid "landing-footer_for-translators"
 msgstr "Çevirmenler için"
-
-msgid "landing-footer_hwids"
-msgstr "Device ID"
-
-msgid "landing-footer_wannacry"
-msgstr "WannaCry virüsüne karşı koruma"
-
-msgid "landing-footer_license"
-msgstr "Lisans Sözleşmesi"
-
-msgid "landing-footer_remove"
-msgstr "DriverPack kaldırma"
 
 msgid "notfoundpage_title"
 msgstr "Hata 404: sayfa bulunamadı"
@@ -1135,39 +1099,3 @@ msgstr "DriverPack Çevirisi"
 
 msgid "vendorpage_subtitle-popular"
 msgstr "Popüler {{VENDOR.NAME}} aygıtları"
-
-msgid "wannacryptpromopage_cta-text"
-msgstr "WannaCrypt şifreleyici virüs — tarihteki en büyük saldırıya karşı bilgisayarı nasıl korursunuz?"
-
-msgid "wannacryptpromopage_cta-subtext"
-msgstr "DriverPack bilgisayar yapılandırma araçları içinde güvenlik açığını ortadan kaldırmak için belirli eylemler içerir. WannaCry virüsüne karşı ücretsiz korumamızı indirerek PC veya dizüstünüzü koruyabilirsiniz."
-
-msgid "wannacryptpromopage_cta-btn"
-msgstr "Bilgisayarı yapılandırın ve WannaCry virüsüne karşı koruyun"
-
-msgid "wannacryptpromopage_caption-text"
-msgstr "Bu yazılım ücretsiz verilir"
-
-msgid "wannacryptpromopage_info-text-title-1"
-msgstr "WannaCrypt nedir?"
-
-msgid "wannacryptpromopage_info-text-1"
-msgstr "WannaCrypt şantajcı virüs (kurbanlar tarafından WannaCry olarak adlandırılmakta) 12 Mayıs'ta dünya çapında bilgisayarlara saldırdı, ve 150 ülkede 300,000'den fazla kullanıcının cihazına bulaştı. Batı Avrupa, Rusya, Çin en kötü vurulan ülkeler oldu. İngiltere'de, virüs Sağlık Bakanlığı'nın ağlarını etkisiz hale getirdi ve tüm ülke çapında hastanelerin çalışmasını durdurdu. Çin'de, saldırı çok sayıda endüstrinin durmasına neden olan fabrikalardaki eski bilgisayarları etkiledi.<br/><br/>Bu virüsün nasıl çalıştığının ana noktası basit: PC'nize ya da dizüstünüze nüfus ediyor, ve bulabildiği tüm belgeleri, dosyaları ve malzemeleri kesinlikle şifreliyor ve kullanılması imkansız hale getiriyor. Ondan sonra davetsiz misafirler şifreleri çözmek için hatırı sayılır bir para talep ediyorlar — yaklaşık 300 dolar. Ancak, dosyalarınıza geri ulaşacağınızın garantisi yok. Bu süre zarfında,  kendi başınıza dosyaların şifresini çözmenizin hiçbir yolu yok, şu anda Internet'te sunulan çözümler ya oltalamadır ya da başka bir virüsü yaymanın yoludur veya sadece %100 olasılıkla çalışmaz."
-
-msgid "wannacryptpromopage_info-text-title-2"
-msgstr "Kim risk altında?"
-
-msgid "wannacryptpromopage_info-text-2"
-msgstr "SMB bağlantı noktaları açık olan Windows 10'dan daha önceki işletim sistemine sahip PC'ler en çok risk altında olanlardır. Şu anda tüm Windows kullanıcılarının yarısı risk altındadır — kullanıcıların %18'i lisansız Windows kopyası (otomatik olarak risk alanına giriyor) kullanıyor, kullanıcıların %23'ü Windows Update hizmetini devre dışı bırakmış durumda (Microsoft'tan en son \"hotfixes denen önemli düzeltmeleri\" indirmeyi önlemekte), ve diğer %6'sı artık güncellemeleri almayan eskimiş İS sürümleri kullanıyor.<br/><br/>Tüm bunlardan varılan sonuç, hala Windows XP gibi İşletim Sistemlerini kullanan çeşitli firmaların ve kuruluşların ağları yüksek risk altındadır. Bu ağlara saldırılarda, veri kaybı felç edebilir ve her PC için ayrı ayrı \"fidye\" ödenmek zorunda kalınacak olunması ile maliyeti muazzam olacaktır."
-
-msgid "wannacryptpromopage_info-text-title-3"
-msgstr "İşletmenizi nasıl korursunuz — DriverPack Solution'dan çözüm"
-
-msgid "wannacryptpromopage_info-text-3"
-msgstr "WannaCrypt (WannaCry) virüsünün tehlikeli olmasının ana sebebi MS17-010 güvenlik sisteminin SMBv1 protokolündeki önemli güvenlik açığını kullanarak yayılmasıdır. Aslında bu WannaCry virüsünü antivirüs yazılımları için görünmez yapar. DriverPack Solution'dan gelen çözüm, sisteminizin önemli güvenlik açığını koruyan bir güncellemeyi yüklemenizi sağlamak, ve lisans geçmişiniz ve İS sürümünüz ne olursa olsun, tehdit oluşturan eskimiş protokolleri etkisizleştirmek."
-
-msgid "wannacryptpromopage_links-text"
-msgstr "Bu çözümün gelişimi aşağıdaki gereçlere bağlıdır"
-
-msgid "wannacryptpromopage_link-smb"
-msgstr "Windows ve Windows Server için SMB protokollerinin 1, 2, ve 3. sürümlerini nasıl etkinleştirir ve etkisizleştirirsiniz"

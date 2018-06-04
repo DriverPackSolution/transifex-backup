@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-03-16 15:04+0000\n"
+"POT-Creation-Date: 2018-05-25 14:38+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Prabin Shakya <kkt.maxroam@gmail.com>, 2018\n"
 "Language-Team: Nepali (https://www.transifex.com/driverpack-solution/teams/75453/ne/)\n"
@@ -407,6 +407,9 @@ msgstr "DriverPack Offline Full"
 msgid "landingproducts_item-description-offline"
 msgstr ""
 
+msgid "landingpublications__source-link"
+msgstr ""
+
 msgid "landingpublications__landing-title"
 msgstr "DriverPack को बारे मा मास मीडिया प्रकाशन"
 
@@ -503,6 +506,12 @@ msgstr ""
 msgid "productlandingheader-offline_caption"
 msgstr ""
 
+msgid "promoheader_os-versions"
+msgstr "यो सफ्टवेयर Windows 10, 8.1, 8, 7, Vista, XP का लागि उपयुक्त छ"
+
+msgid "promoheader_uninstall"
+msgstr "DriverPack हटाउनुहोस्"
+
 msgid "promoheader_cta-text-gamers"
 msgstr "कम्प्युटरमा सबैका लागि निःशुल्क ड्राइभर अद्यावधिक गर्नुहोस्"
 
@@ -517,15 +526,6 @@ msgstr "सबै आवश्यक ड्राइभरहरू स्था
 
 msgid "promoheader_size"
 msgstr "फाइल आकार: {{SIZE}} KB"
-
-msgid "promoheader_license"
-msgstr "इजाजतपत्र सम्झौता"
-
-msgid "promoheader_os-versions"
-msgstr "यो सफ्टवेयर Windows 10, 8.1, 8, 7, Vista, XP का लागि उपयुक्त छ"
-
-msgid "promoheader_uninstall"
-msgstr "DriverPack हटाउनुहोस्"
 
 msgid "reviewheader_cta-text"
 msgstr "DriverPack समुदायमा सामेल नेटवर्कमा सामेल हुनुहोस् छलफलका बारेमा छलफल र छलफल"
@@ -929,36 +929,6 @@ msgstr ""
 msgid "cloudpagefaq_usb-a"
 msgstr ""
 
-msgid "badrabbitpromopage_cta-text"
-msgstr ""
-
-msgid "badrabbitpromopage_cta-subtext"
-msgstr ""
-
-msgid "badrabbitpromopage_cta-btn"
-msgstr ""
-
-msgid "badrabbitpromopage_caption-text"
-msgstr "यो सफ्टवेयर निःशुल्क प्रदान गरिएको छ"
-
-msgid "badrabbitpromopage_info-text-title-1"
-msgstr ""
-
-msgid "badrabbitpromopage_info-text-1"
-msgstr ""
-
-msgid "badrabbitpromopage_info-text-title-2"
-msgstr ""
-
-msgid "badrabbitpromopage_info-text-2"
-msgstr ""
-
-msgid "badrabbitpromopage_links-text"
-msgstr "यस समाधानको विकास निम्न सामग्रीमा आधारित थियो"
-
-msgid "badrabbitpromopage_link-smb"
-msgstr "Windows र Windows Server को लागि SMB प्रोटोकॉल को संस्करण 1, 2, र 3 को कैसे सक्षम गर्नुहोस र अक्षम करें"
-
 msgid "cloudlandingpage_cackle-title"
 msgstr ""
 
@@ -1019,41 +989,35 @@ msgstr "सबै {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
 msgid "errorpage_title"
 msgstr "त्रुटि 500: आन्तरिक सर्भर त्रुटि"
 
+msgid "gdpr-banner_text"
+msgstr ""
+
+msgid "gdpr-banner_cta-text"
+msgstr ""
+
 msgid "landingfooter_landing-subtitle"
 msgstr "DriverPack ले सबै लोकप्रिय Windows संस्करणहरूको ड्राइभरहरू समावेश गर्दछ"
 
 msgid "landing-footer_catalog-os"
 msgstr "ड्राइभरका लागि {{OS}}"
 
-msgid "landing-footer_download"
-msgstr "DriverPack डाउनलोड"
-
 msgid "landing-footer_versions"
 msgstr "सबै अनुप्रयोग संस्करणहरू"
+
+msgid "landing-footer_remove"
+msgstr "DriverPack हटाउनुहोस्"
 
 msgid "landing-footer_manufacturers"
 msgstr ""
 
-msgid "landing-footer_badrabbit"
-msgstr "विरुद्ध सुरक्षा Bad Rabbit"
+msgid "landing-footer_hwids"
+msgstr "Device ID"
 
 msgid "landing-footer_for-admin"
 msgstr "प्रणाली व्यवस्थापकहरूको लागि"
 
 msgid "landing-footer_for-translators"
 msgstr "अनुवादकहरूको लागि"
-
-msgid "landing-footer_hwids"
-msgstr "Device ID"
-
-msgid "landing-footer_wannacry"
-msgstr "विरुद्ध सुरक्षा WannaCry"
-
-msgid "landing-footer_license"
-msgstr "इजाजतपत्र सम्झौता"
-
-msgid "landing-footer_remove"
-msgstr "DriverPack हटाउनुहोस्"
 
 msgid "notfoundpage_title"
 msgstr "त्रुटि 404: पृष्ठ फेला परेन"
@@ -1136,39 +1100,3 @@ msgstr "DriverPack समाधान"
 
 msgid "vendorpage_subtitle-popular"
 msgstr "लोकप्रिय {{VENDOR.NAME}} devices"
-
-msgid "wannacryptpromopage_cta-text"
-msgstr "WannaCrypt cryptographer virus — कसरी कम्प्यूटर को रक्षा गर्ने?"
-
-msgid "wannacryptpromopage_cta-subtext"
-msgstr ""
-
-msgid "wannacryptpromopage_cta-btn"
-msgstr "कम्प्यूटर कन्फिगर गर्नुहोस् र WannaCry को विरुद्ध यसको रक्षा गर्नुहोस्"
-
-msgid "wannacryptpromopage_caption-text"
-msgstr "यो सफ्टवेयर निःशुल्क प्रदान गरिएको छ"
-
-msgid "wannacryptpromopage_info-text-title-1"
-msgstr "WannaCrypt के हो?"
-
-msgid "wannacryptpromopage_info-text-1"
-msgstr "WannaCrypt ब्ल्याममेलर भाइरस (प्रायः प्रायः नामकरणका लागि WannaCry नामकरण गरिएको) 12 महिनामा विश्वभर कम्प्यूटरमा आक्रमण गरियो र 150 देशहरूमा 300,000 भन्दा बढी प्रयोगकर्ताहरूको यन्त्रलाई संक्रमित गर्यो। पश्चिमी युरोप, रूस, चीन सबैभन्दा खराब हिट थिए। ग्रेट ब्रिटेनमा, भाइरसले स्वास्थ्य विभागको सञ्जालहरूलाई असक्षम गर्नुभयो र देशभरका अस्पतालहरूको सञ्चालन रोक्न। चीनमा, आक्रमणले पुरानो कम्प्युटरहरूलाई कारखानाहरूमा असर पारेको छ जसले धेरै उद्योगहरू रोक्न सकेन।<br/><br/>यो भाइरस कसरी कार्य गर्दछ भन्ने मुख्य बिन्दु सरल छ: यसले तपाइँको पीसी वा ल्यापटपमा प्रवेश गर्दछ, र सम्पूर्ण कागजातहरू, फाइलहरू र सामग्रीहरू फेला पार्न सक्ने सम्पूर्ण सङ्केत गर्दछ, र तिनीहरूलाई प्रयोगको लागि उपलब्ध छैन। त्यसपछि घुमाउनेहरूले लगभग  — 300 डलरको डिमको मांग गर्छन् तथापि, त्यहाँ कुनै पनि ग्यारेन्टी छैन कि तपाइँ पछाडि तपाईंका फाइलहरूमा पहुँच पाउनुहुनेछ। हाल, त्यहाँ आफैले फाइलहरू डिकिङ गर्ने कुनै उपाय छैन, र इन्टरनेटमा प्रस्तावित समाधानहरू अब हिसाब गर्दै छन्, अर्को भाइरस फैलाउने वा केवल 100% निश्चित काम गर्दैन।"
-
-msgid "wannacryptpromopage_info-text-title-2"
-msgstr "जोखिममा को हो?"
-
-msgid "wannacryptpromopage_info-text-2"
-msgstr "खुला एसएमएम पोर्टहरूमा Windows 10 भन्दा पहिला अपरेटिङ सिस्टमसँग पीसीहरू प्रायः खतरामा छन्। हाल, बै Windows प्रयोगकर्ताहरु को आधा जोखिम मा छ — 18% प्रयोगकर्ताहरु लाई अनियमित Windows प्रतियां को उपयोग गर्दछ, 23% प्रयोगकर्ताहरु लाई उनको Windows अद्यतन सेवा अक्षम छ (जो उनलाई नवीनतम र \"हटफिक्स\" डाउनलोड गर्न देखि रोकथाम गर्दछ। ; माइक्रोसफ्टबाट), र अर्को 6% बाहिरको ओएस संस्करणहरू प्रयोग गर्दैछ जुन केवल<br/><br/>सबैबाट निष्कर्षहरू यो भिन्न computer हरू र उद्यमहरू जसले अहिले पनि windows एक्सपी जस्ता अपरेटिङ सिस्टम्सहरू प्रयोग गर्दा उच्च जोखिममा छन्। यी सञ्जालहरूमा आक्रमणहरूमा, डाटा हानि सिंक गर्न सकिन्छ र लागत ठूलो हुनेछ, जस्तै कुनै पनि \"छुडौती\" प्रत्येक पीसी अलग-अलग को लागि भुक्तानी गरिनेछ"
-
-msgid "wannacryptpromopage_info-text-title-3"
-msgstr "तपाईंको व्यवसाय कसरी सुरक्षित गर्ने — DriverPack Solution बाट समाधान"
-
-msgid "wannacryptpromopage_info-text-3"
-msgstr "WannaCrypt (WannaCry) भाइरसको मुख्य कारण भनेको MS17-010 सुरक्षा प्रणालीको SMBv1 प्रोटोकॉलमा एक महत्वपूर्ण हानिकारक प्रयोग गरी स्प्रेड हो। यसले वास्तवमा WannaCry एंटीवायरसमा अदृश्य बनाउँछ। DriverPack Solution बाट समाधानले तपाइँलाई तपाइँको प्रणालीको महत्वपूर्ण हानिकारकहरूको सुरक्षा, र तपाईंको मिति लाइसेन्स इतिहास र ओएस संस्करण को बाहेक, तपाईंको प्रणालीको महत्वपूर्ण हानिकारकहरूको सुरक्षा र अद्यावधिकको प्रोटोकॉललाई असक्षम पार्न स्थापना गर्न सक्षम बनाउँछ।"
-
-msgid "wannacryptpromopage_links-text"
-msgstr "समाधानमा आधारित थियो"
-
-msgid "wannacryptpromopage_link-smb"
-msgstr "Windows र Windows Server को लागि SMB प्रोटोकॉल को संस्करण 1, 2, र 3 को कैसे सक्षम गर्नुहोस र अक्षम करें"

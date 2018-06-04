@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-03-16 15:04+0000\n"
+"POT-Creation-Date: 2018-05-25 14:38+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Patrick Wacker <crayzyone@gmail.com>, 2018\n"
 "Language-Team: German (https://www.transifex.com/driverpack-solution/teams/75453/de/)\n"
@@ -407,6 +407,9 @@ msgstr "DriverPack Offline Full"
 msgid "landingproducts_item-description-offline"
 msgstr ""
 
+msgid "landingpublications__source-link"
+msgstr ""
+
 msgid "landingpublications__landing-title"
 msgstr "Massenmedien über DriverPack"
 
@@ -503,6 +506,12 @@ msgstr ""
 msgid "productlandingheader-offline_caption"
 msgstr ""
 
+msgid "promoheader_os-versions"
+msgstr "Die Software ist geeignet für Windows 10, 8.1, 8, 7, Vista, XP"
+
+msgid "promoheader_uninstall"
+msgstr "DriverPack entfernen"
+
 msgid "promoheader_cta-text-gamers"
 msgstr "Ihr Computer ist leistungsfähiger als Sie denken: aktualisieren Sie alle Treiber kostenlos"
 
@@ -517,15 +526,6 @@ msgstr "Installiere alle benötigten Treiber"
 
 msgid "promoheader_size"
 msgstr "Dateigröße: {{SIZE}} KB"
-
-msgid "promoheader_license"
-msgstr "Lizenzvereinbarung"
-
-msgid "promoheader_os-versions"
-msgstr "Die Software ist geeignet für Windows 10, 8.1, 8, 7, Vista, XP"
-
-msgid "promoheader_uninstall"
-msgstr "DriverPack entfernen"
 
 msgid "reviewheader_cta-text"
 msgstr "Treten Sie der DriverPack Community in den sozialen Netzwerken bei, um Neuigkeiten über das Produkt zu erfahren und an Diskussionen teilzunehmen"
@@ -929,36 +929,6 @@ msgstr ""
 msgid "cloudpagefaq_usb-a"
 msgstr ""
 
-msgid "badrabbitpromopage_cta-text"
-msgstr ""
-
-msgid "badrabbitpromopage_cta-subtext"
-msgstr ""
-
-msgid "badrabbitpromopage_cta-btn"
-msgstr ""
-
-msgid "badrabbitpromopage_caption-text"
-msgstr "Diese Software wird kostenlos zur Verfügung gestellt"
-
-msgid "badrabbitpromopage_info-text-title-1"
-msgstr ""
-
-msgid "badrabbitpromopage_info-text-1"
-msgstr ""
-
-msgid "badrabbitpromopage_info-text-title-2"
-msgstr ""
-
-msgid "badrabbitpromopage_info-text-2"
-msgstr ""
-
-msgid "badrabbitpromopage_links-text"
-msgstr "Die Entwicklung dieser Lösung basiert auf folgenden Materialien"
-
-msgid "badrabbitpromopage_link-smb"
-msgstr "Wie Sie Version 1, 2, und 3 des SMB Protokolls für Windows und Windows Server aktivieren und deaktivieren können"
-
 msgid "cloudlandingpage_cackle-title"
 msgstr ""
 
@@ -1019,41 +989,35 @@ msgstr "Alle {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
 msgid "errorpage_title"
 msgstr "Fehler 500: Interner Server-Fehler"
 
+msgid "gdpr-banner_text"
+msgstr ""
+
+msgid "gdpr-banner_cta-text"
+msgstr ""
+
 msgid "landingfooter_landing-subtitle"
 msgstr "DriverPack enthält Treiber für alle populären Windows-Versionen"
 
 msgid "landing-footer_catalog-os"
 msgstr "Treiber für {{OS}}"
 
-msgid "landing-footer_download"
-msgstr "DriverPack herunterladen"
-
 msgid "landing-footer_versions"
 msgstr "Alle Programmversionen"
+
+msgid "landing-footer_remove"
+msgstr "DriverPack entfernen"
 
 msgid "landing-footer_manufacturers"
 msgstr ""
 
-msgid "landing-footer_badrabbit"
-msgstr ""
+msgid "landing-footer_hwids"
+msgstr "Device ID"
 
 msgid "landing-footer_for-admin"
 msgstr "Für Systemadministratoren"
 
 msgid "landing-footer_for-translators"
 msgstr "Für Übersetzer"
-
-msgid "landing-footer_hwids"
-msgstr "Device ID"
-
-msgid "landing-footer_wannacry"
-msgstr "Schutz gegen WannaCry"
-
-msgid "landing-footer_license"
-msgstr "Lizenzvereinbarung"
-
-msgid "landing-footer_remove"
-msgstr "DriverPack entfernen"
 
 msgid "notfoundpage_title"
 msgstr "Fehler 404: Seite nicht gefunden"
@@ -1136,39 +1100,3 @@ msgstr "DriverPack Übersetzung"
 
 msgid "vendorpage_subtitle-popular"
 msgstr "Beliebte {{VENDOR.NAME}} Geräte"
-
-msgid "wannacryptpromopage_cta-text"
-msgstr "WannaCrypt Kryptographie-Virus — Wie beschützt man den Computer vor der größten Attacke der Geschichte?"
-
-msgid "wannacryptpromopage_cta-subtext"
-msgstr ""
-
-msgid "wannacryptpromopage_cta-btn"
-msgstr "Konfiguriere den Computer und schütze ihn gegen WannaCry"
-
-msgid "wannacryptpromopage_caption-text"
-msgstr "Diese Software wird kostenlos zur Verfügung gestellt"
-
-msgid "wannacryptpromopage_info-text-title-1"
-msgstr "Was ist WannaCrypt?"
-
-msgid "wannacryptpromopage_info-text-1"
-msgstr "WannaCrypt Blackmailer-Virus (von den Opfern umbenannt in WannaCry) attackierte Computer auf der ganzen Welt am 12. Mai, und infizierte die Geräte von mehr als 300.000 Nutzern in 150 Ländern. Westeuropa, Russland und China waren am schlimmsten betroffen. In Großbritannien deaktivierte der Virus die Netzwerke der Gesundheitsabteilung und hielt den Betrieb von Krankenhäusern im ganzen Land an. In China betraf die Attacke alte Computer in Fabriken, die mehrere Industrien hielten.<br/><br/>Der zentrale Punkt, wie dieser Virus funktioniert, ist simpel: Er dringt in Ihren Computer oder Laptop ein und verschlüsselt alle Dokumente, Dateien und Materialien die er finden kann, und macht sie damit unbrauchbar. Danach verlangen die Eindringlinge eine erhebliche Menge Geld für die Entschlüsselung — etwa $300. Allerdings gibt es keine Garantie, dass Sie den Zugriff zu Ihren Dateien zurück erhalten. Gegenwärtig gibt es keine Möglichkeit, die Dateien selbst zu entschlüsseln, und die Lösungen, die gerade im Internet angeboten werden, sind entweder Phishing, verteilen einen weiteren Virus oder arbeiten einfach nicht mit 100-prozentiger Sicherheit."
-
-msgid "wannacryptpromopage_info-text-title-2"
-msgstr "Wer ist gefährdet?"
-
-msgid "wannacryptpromopage_info-text-2"
-msgstr "Die PCs mit einem Betriebssystem früher als Windows 10 und offenen SMB-Ports stellen das größte Risiko dar. Derzeit sind die Hälfte aller Windows-Nutzer gefährdet — 18% der Nutzer verwenden unlizenzierte Windows-Kopien (automatische Gefährdung), 23% der Nutzer deaktivieren Ihren Windows Update-Dienst (was den Download der neuesten \"Hotfixes\" von Microsoft verhindert), und weitere 6% benutzen veraltete Betriebssystem-Versionen, welche einfach keine Updates mehr erhalten. <br/><br/> Die Schlussfolgerung aus all dem ist, dass die Netzwerke von verschiedenen Firmen and Unternehmen, welche immer noch Betriebssysteme wie Windows XP nutzen, dem größten Risiko ausgesetzt sind. Bei Angriffen auf diese Netzwerke kann der Datenverlust lähmend und kostenintensiv sein, da das \"Lösegeld\" für jeden PC separat bezahlt werden muss."
-
-msgid "wannacryptpromopage_info-text-title-3"
-msgstr "So schützen Sie Ihr Geschäft — Lösung von DriverPack Solution"
-
-msgid "wannacryptpromopage_info-text-3"
-msgstr "Der Hauptgrund für die Virengefahr von WannaCrypt (WannaCry) besteht darin, dass er sich durch die Verwendung von kritischen Schwachstellen im SMBv1-Protokoll des MS17-010-Sicherheitssystems verbreitet. Es macht WannaCry unsichtbar für Antivirensoftware. Die Lösung von DriverPack Solution ermöglicht es Ihnen, ein Update zu installieren, welches die kritischen Sicherheitslücken behebt, und die veralteten Protokolle, welche eine Bedrohung darstellen, unabhängig von Ihrem Lizenzverlauf und Ihrer Betriebssystem-Version zu deaktivieren."
-
-msgid "wannacryptpromopage_links-text"
-msgstr "Die Entwicklung dieser Lösung basiert auf folgenden Materialien"
-
-msgid "wannacryptpromopage_link-smb"
-msgstr "Wie Sie Version 1, 2, und 3 des SMB Protokolls für Windows und Windows Server aktivieren und deaktivieren können"

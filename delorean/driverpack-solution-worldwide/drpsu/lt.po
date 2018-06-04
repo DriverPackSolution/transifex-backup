@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-03-16 15:04+0000\n"
+"POT-Creation-Date: 2018-05-25 14:38+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Jevgenij Ivanov <jevgenij.ivanov27@gmail.com>, 2017\n"
 "Language-Team: Lithuanian (https://www.transifex.com/driverpack-solution/teams/75453/lt/)\n"
@@ -407,6 +407,9 @@ msgstr "DriverPack Offline Full"
 msgid "landingproducts_item-description-offline"
 msgstr "Pilnas tvarkyklių komplektas, diegimas vyksta neprisijungus prie interneto, gali būti atsisiųstas per torentus <span class='nobr'>({{SIZE}})</span>"
 
+msgid "landingpublications__source-link"
+msgstr ""
+
 msgid "landingpublications__landing-title"
 msgstr "Žiniasklaidos leidiniai apie DriverPack "
 
@@ -503,6 +506,12 @@ msgstr "Atsisiųsti DriverPack Offline Full"
 msgid "productlandingheader-offline_caption"
 msgstr "DriverPack Offline Full - didžiulis {{SIZE}} dydžio paketas tvarkyklių įdiegimui neprisijungus prie interneto. Užtenka atsisiųsti DriverPack Offline Full ir naudotis milžiniška naujausių tvarkyklių biblioteka kur ir kada tik jums reikia. Puikiai tinka sistemų administratoriams."
 
+msgid "promoheader_os-versions"
+msgstr "Programinė įranga tinka Windows 10, 8.1, 8, 7, Vista, XP"
+
+msgid "promoheader_uninstall"
+msgstr "DriverPack pašalinimas"
+
 msgid "promoheader_cta-text-gamers"
 msgstr "Jūsų kompiuteris yra galingesnis nei manote:  atnaujininkite visas tvarkykles nemokamai"
 
@@ -517,15 +526,6 @@ msgstr "Įdiekite visas reikiamas tvarkykles"
 
 msgid "promoheader_size"
 msgstr "Failo dydis:{{SIZE}} KB"
-
-msgid "promoheader_license"
-msgstr "Licencijos sutartis"
-
-msgid "promoheader_os-versions"
-msgstr "Programinė įranga tinka Windows 10, 8.1, 8, 7, Vista, XP"
-
-msgid "promoheader_uninstall"
-msgstr "DriverPack pašalinimas"
 
 msgid "reviewheader_cta-text"
 msgstr "Prisijunkite prie DriverPack bendruomenės socialiniuose tinkluose kad galėtumėte sekti naujienas apie produktą ir dalyvauti diskusijose"
@@ -929,36 +929,6 @@ msgstr "Kai prijungiau atmintuką prie kompiuterio USB lizdo, darbalaukyje gavau
 msgid "cloudpagefaq_usb-a"
 msgstr "DriverPack Cloud aptinka naujai prijungtus prietaisus ir patikrina ar jie turi deramas tvarkykles. Jei truksta reikiamų tvarkyklių, jos nedelsiant įdiegiamos  — tai reikalinga tinkamam prietaiso veikimui."
 
-msgid "badrabbitpromopage_cta-text"
-msgstr "Kriptografinis virusas Bad Rabbit — kaip apsaugoti savo kompiuterį?"
-
-msgid "badrabbitpromopage_cta-subtext"
-msgstr "DriverPack gali atlikti specialius veiksmus, kad panaikintu pažeidžiamumą kompiuterio konfigūracijoje. Jus galite apsaugoti savo kompiuterį atsisiųsdami mūsų nemokamą apsaugą prieš Bad Rabbit virusą."
-
-msgid "badrabbitpromopage_cta-btn"
-msgstr "Sukonfigūruoti kompiuterį ir apsiginti nuo Bad Rabbit viruso."
-
-msgid "badrabbitpromopage_caption-text"
-msgstr "DriverPack yra platinamas nemokamai"
-
-msgid "badrabbitpromopage_info-text-title-1"
-msgstr "Kas yra Bad Rabbit?"
-
-msgid "badrabbitpromopage_info-text-1"
-msgstr "Bad Rabbit - naujas kriptografinis virusas, kuris atakavo kompiuterius Rusijoje, Ukrainoje, Bulgarijoje ir Turkijoje 2017 metų vėlyvą spalį /24d./. Jo aukomis taip pat tapo \"The Interfax RIA\", \"The Fontanka RIA\", daugybė Ukrainos ministerijų bei Odesos oro uostas. Veikimo principas yra paprastas: virusas naudoja Mimikatz įrankį, kad iš kompiuterio operatyviosios atminties gautų paskyros duomenis. Be viso to virusas stengiasi surasti aktyvaus kompiuterio administratoriaus paskyros duomenis. Virusas dauginasi lokaliame tinkle per SMB ir WebDAV protokolus. Užvaldęs kompiuterį, virusas užšifruoja visus duomenis, failus kuriuos jam pavyko pasiekti, po ko pakeičia MBR /Master Boot Record/ - pagrindinį užsikrovimo įrašą. Tada Bad Rabbit perkrauna kompiuterį bei išveda pranešimą su išpirkos reikalavimu: 0,05 BTC (pagal 2017 spalio pabaigoje BTC/USD kursą tai ~300 amerikos dolerių)."
-
-msgid "badrabbitpromopage_info-text-title-2"
-msgstr "Kaip apsaugoti jūsų kompiuterį nuo Bad Rabbit kriptografinio viruso?"
-
-msgid "badrabbitpromopage_info-text-2"
-msgstr "Ką galite padaryti, kad apsigintumėte nuo naujo viruso:<br/>• Aplanke C:\\\\Windows\\\\ sukurkite failą infpub.dat ir nustatykite 'Tik skaitymui' /'Read-only'/ atributą jo savybėse<br/>• Atidžiai peržiūrėkite naujai sukuriamas užduotis 'Užduočių planavimo priemonėje' /'Task Scheduler'/<br/>• Neįdiekite jokių atnaujinimų FlashPlayer grotuvui ne iš originalios svetainės /adobe.com/<br/>• Atnaujinkite operacinę sistemą Windows bei kitą įdiegtą gynybinę programinę įrangą<br/>• Periodiškai darykite jūsų operacinės sistemos atsargines kopijas /backup/<br/><br/>Taipogi, tiesiog galite pasinaudoti nauju sprendimu atsisiųntę jį iš DriverPack Solution, esančio šioje svetainėje - tai sutaupys jūsų laiką!<br/><b>Mūsų sprendimas veikia su Windows 7, 8, 8.1, 10, ir XP operacinėmis sistemomis.</b>"
-
-msgid "badrabbitpromopage_links-text"
-msgstr "Plėtra pagrįsta šiomis medžiagomis"
-
-msgid "badrabbitpromopage_link-smb"
-msgstr "Kaip įjungti ir išjungti SMB protokolų 1, 2 ir 3 versijas Windows ir Windows Server"
-
 msgid "cloudlandingpage_cackle-title"
 msgstr "Leiskite sužinoti jūsų nuomonę apie DriverPack Cloud"
 
@@ -1019,41 +989,35 @@ msgstr "Visi{{VENDOR.NAME}}{{CLASS.PLURAL.MAIN}}"
 msgid "errorpage_title"
 msgstr "Klaida 500: vidinė serverio klaida"
 
+msgid "gdpr-banner_text"
+msgstr ""
+
+msgid "gdpr-banner_cta-text"
+msgstr ""
+
 msgid "landingfooter_landing-subtitle"
 msgstr "DriverPack turi visų populiarių Windows versijų tvarkykles"
 
 msgid "landing-footer_catalog-os"
 msgstr " tvarkyklės {{OS}}"
 
-msgid "landing-footer_download"
-msgstr "Parsisiųsti DriverPack"
-
 msgid "landing-footer_versions"
 msgstr "Kitos programos versijos"
+
+msgid "landing-footer_remove"
+msgstr "DriverPack pašalinimas "
 
 msgid "landing-footer_manufacturers"
 msgstr "Įrangos gamintojai"
 
-msgid "landing-footer_badrabbit"
-msgstr "Apsauga nuo Bad Rabbit"
+msgid "landing-footer_hwids"
+msgstr "Device ID"
 
 msgid "landing-footer_for-admin"
 msgstr "Sistemos Administratoriams"
 
 msgid "landing-footer_for-translators"
 msgstr "Vertėjams"
-
-msgid "landing-footer_hwids"
-msgstr "Device ID"
-
-msgid "landing-footer_wannacry"
-msgstr "Apsauga  nuo WannaCry "
-
-msgid "landing-footer_license"
-msgstr "Licencijos sutartis"
-
-msgid "landing-footer_remove"
-msgstr "DriverPack pašalinimas "
 
 msgid "notfoundpage_title"
 msgstr "404 klaida: puslapis nerastas"
@@ -1136,39 +1100,3 @@ msgstr "DriverPack vertimas"
 
 msgid "vendorpage_subtitle-popular"
 msgstr "Populiarus {{VENDOR.NAME}} įrenginiai"
-
-msgid "wannacryptpromopage_cta-text"
-msgstr "WannaCrypt kriptografijos virusas — kaip apsaugoti kompiuterį nuo didžiausio atakos istorijoje?"
-
-msgid "wannacryptpromopage_cta-subtext"
-msgstr "DriverPack gali atlikti specialius veiksmus, kad panaikintu pažeidžiamumą kompiuterio konfigūracijoje. Jus galite apsaugoti savo kompiuterį atsisiųsdami mūsų nemokamą apsaugą prieš WannaCry virusą."
-
-msgid "wannacryptpromopage_cta-btn"
-msgstr "Nustatykite kompiuterį ir apsaugokite jį nuo WannaCry"
-
-msgid "wannacryptpromopage_caption-text"
-msgstr "DriverPack yra platinamas nemokamai"
-
-msgid "wannacryptpromopage_info-text-title-1"
-msgstr "Kas yra WannaCrypt?"
-
-msgid "wannacryptpromopage_info-text-1"
-msgstr "WannaCrypt šantažavimo virusas (kurį nukentėjusieji spontaniškai pavadino WannaCry) gegužės 12 d. Užpuolė kompiuterius visame pasaulyje ir užpuolė daugiau nei 300 000 naudotojų iš 150 šalių. Vakarų Europa, Rusija, Kinija yra labiausiai nukentėjusios šalys. Didžiojoje Britanijoje virusas išjungė Sveikatos departamento tinklus ir dėl to sustabdė ligonines visoje šalyje. Kinijoje šis išpuolis paveikė senus kompiuterius gamyklose, dėl ko buvo sustabdyta daugybė pramonės šakų.<br/><br/>. Pagrindinis šio viruso veikimo būdas yra paprastas: jis įsiskverbia į kompiuterį ar nešiojamą kompiuterį ir koduoja visiškai visus dokumentus, failus ir medžiagas Jis gali rasti, ir daro jas nepasiekiamas naudoti. Tada įsibrovėjai reikalauja daug pinigų dekoduojant — apie 300 dolerių. Tačiau nėra garantijos, kad gausite prieigą prie savo failų. Šiuo metu nėra galimybės dekoduoti failus patys, o sprendimai, kurie šiuo metu siūlomi tinkluose, yra arba žvejyba, ar kito viruso sklaidos būdas, arba jie tiesiog neveikia su 100% tikimybe."
-
-msgid "wannacryptpromopage_info-text-title-2"
-msgstr "Kas  rizikuoja?"
-
-msgid "wannacryptpromopage_info-text-2"
-msgstr "Kompiuteriai, kurių operacinė sistema yra anksčiau nei Windows 10 su atvirais SMB prievadais, yra didžiausia rizika. Šiuo metu pusė OS Windows naudotojų yra pavojuje — 18% vartotojų naudoja ne licencijuotą Windows kopiją (automatiškai patenka į rizikos zoną), 23% vartotojų išjungė savo Windows naujinimo paslaugą (tai neleidžia jiems atsisiųsti naujausių \"karštųjų pataisų\" iš Microsoft), o dar 6% naudoja neseniai atnaujintas operacinės sistemos versijas, kurios tik nebegauna atnaujinimų. <br/><br/> Iš visų pirmiau pateiktų išvadų teigiama: įvairių įmonių ir įmonių tinklai, kurių dalis vis dar naudojasi tokia OS, kaip Windows XP, yra didžiausias pavojus. Jei išpuolių įvyksta tokiuose tinkluose, duomenų praradimas gali kainuoti milžinišką pinigų sumą, ir net jei kalbėsime apie \"išpirką\" jie turės sumokėti už kiekvieną asmeninę kompiuterį atskirai."
-
-msgid "wannacryptpromopage_info-text-title-3"
-msgstr "Kaip apsaugoti savo verslą — sprendimas iš DriverPack Solution"
-
-msgid "wannacryptpromopage_info-text-3"
-msgstr "Pagrindinė WannaCrypt (WannaCry) viruso grėsmė yra ta, kad ji skleidžiama naudojant kritinę pažeidžiamumą MS17-010 saugumo sistemos SMBv1 protokoluose. Tai iš tikrųjų daro WannaCry nematomą antivirusams. DriverPack Solution sprendimas leidžia įdiegti naujinį, apsaugantį kritines jūsų sistemos pažeidžiamumą ir išjungti senus protokolus, kurie yra grėsmė, nepriklausomai nuo jūsų licencijos istorijos ir jūsų OS versijos."
-
-msgid "wannacryptpromopage_links-text"
-msgstr "Plėtra pagrįsta šiomis medžiagomis"
-
-msgid "wannacryptpromopage_link-smb"
-msgstr "Kaip įjungti ir išjungti SMB protokolų 1, 2 ir 3 versijas Windows ir Windows Server"

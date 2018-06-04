@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-03-16 15:04+0000\n"
+"POT-Creation-Date: 2018-05-25 14:38+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Mohammed Sabah <rickylincoln20@gmail.com>, 2017\n"
 "Language-Team: Kurdish (https://www.transifex.com/driverpack-solution/teams/75453/ku/)\n"
@@ -406,6 +406,9 @@ msgstr "DriverPack Offline Full"
 msgid "landingproducts_item-description-offline"
 msgstr "هەموو شۆفێرەکان دەگرێتەوە، کاردەکات بەبێ بوونی هێڵی ئنتەرنێت، دەتوانی دایبەزێنی لە رێگەی تۆرێنت-تراکەر <span class='nobr'>({{SIZE}})</span>"
 
+msgid "landingpublications__source-link"
+msgstr ""
+
 msgid "landingpublications__landing-title"
 msgstr "بڵاوكراوه‌كانی ده‌زگا ڕاگه‌یاندنه‌كان ده‌رباره‌ی DriverPack"
 
@@ -502,6 +505,12 @@ msgstr "دابەزاندنی DriverPack Offline Full"
 msgid "productlandingheader-offline_caption"
 msgstr "DriverPack Offline Full - بەستەیەکی زۆر گەورەی {{SIZE}} قەبارە بۆ دامەزراندنی شۆفێرەکان بە بێ بوونی ئنتەرنێت، تەنیا DriverPack Offline Full دابەزێنە وە نوێترین و گەورەترین کتێبخانەی شۆفێرەکان بە کاربێنە لە هەر شوێنێکی حەزت لێی بێت، بەتەواوی دەگونجێت لەگەڵ ئادمینی سیستەمەکان"
 
+msgid "promoheader_os-versions"
+msgstr "به‌رنامه‌كه‌ گونجاوه‌ بۆ Windows 10, 8.1, 8, 7, Vista, XP"
+
+msgid "promoheader_uninstall"
+msgstr "لابردنی DriverPack"
+
 msgid "promoheader_cta-text-gamers"
 msgstr "كۆمپیوته‌ره‌كه‌ت ئێستا زۆر به‌هێزتره‌ له‌وه‌ی بیری لێده‌كه‌یته‌وه‌: هه‌موو پێناسه‌كان نوێبكه‌ره‌وه‌ به‌ خۆڕایی"
 
@@ -516,15 +525,6 @@ msgstr "دابه‌زاندنی هه‌موو پێناسه‌ داواكراوه
 
 msgid "promoheader_size"
 msgstr "قه‌باره‌ی فایل: {{SIZE}} KB"
-
-msgid "promoheader_license"
-msgstr "مۆڵه‌تنامه‌ی ڕێككه‌وتن"
-
-msgid "promoheader_os-versions"
-msgstr "به‌رنامه‌كه‌ گونجاوه‌ بۆ Windows 10, 8.1, 8, 7, Vista, XP"
-
-msgid "promoheader_uninstall"
-msgstr "لابردنی DriverPack"
 
 msgid "reviewheader_cta-text"
 msgstr "وه‌ره‌ ناو گۆمه‌ڵگای DriverPack له‌ تۆڕه‌ كۆمه‌ڵایه‌تییه‌كان بۆ ئه‌وه‌ی ئاگاداری هه‌واڵه‌كان بیت ده‌رباره‌ی به‌رهه‌مه‌كه‌ وه‌ به‌شێك بگریت له‌ گفتوگۆكان"
@@ -928,36 +928,6 @@ msgstr ""
 msgid "cloudpagefaq_usb-a"
 msgstr ""
 
-msgid "badrabbitpromopage_cta-text"
-msgstr "ڤایرۆسی Bad Rabbit cryptographic — چۆن کۆمپیوتەرەکەت دەپارێزی؟"
-
-msgid "badrabbitpromopage_cta-subtext"
-msgstr "DriverPack کرداری دیاریکراوی تێدایە بۆ لابردنی لاوازیەکانی ناو ئامرازەکانی ڕێکخستنی کۆمپیوتەر.\nتۆ دەتوانیت کۆمپیوتەری کەسیەکەت یان لاپتۆپەکەت پارێزراو بکەیت بە دابەزاندنی پارێزگارییە خۆڕاییەکەی ئێمە لە بەرامبەر ڤایرۆسی کەروێشکی خراپ."
-
-msgid "badrabbitpromopage_cta-btn"
-msgstr "کۆمپیوتەرەکەت ڕێک بخە و بیپارێزە لە دژی Bad Rabbit"
-
-msgid "badrabbitpromopage_caption-text"
-msgstr "ئه‌م به‌رنامه‌یه‌ دابینكراوه‌ به‌ خۆڕایی"
-
-msgid "badrabbitpromopage_info-text-title-1"
-msgstr "Bad Rabbit چیە؟"
-
-msgid "badrabbitpromopage_info-text-1"
-msgstr "کەروێشکی خراپ ڤایرۆسێکی نوێی تەشفیرە کە هێرشی کردوەتە سەر کۆمپیوتەرەکان لە ڕوسیا، ئۆکرانیا، وە تورکیا لە مانگی 10 ی 2017 دا. هەروەها لە نێو توشبوەکان Interfax RIA یە. وە Fontanka RIA، وە ژمارەیەک لە  وەزارەتەکانی ئۆکرانیا، بە باشی وەکو فڕۆکەخانەی  Odessa. بنەمای کارەکە سادەیە:  خزمەتگوزاری Mimikatz ی بەکارهێنا بۆ گەڕاندنەوەی داتای هەژمارەکان لە میمۆری کۆمپیوتەرەکەتەوە. وە هەروەها دەگەڕا بۆ داتا چالاکەکانی ناو هەژماری ئەدمین. کەروێشکی خراپ پاشان هەوڵیدا بۆ گەیشتن بە کۆمپیوتەرە بەهێزەکان لە تۆڕە نێوخۆییەکاندا بە بەکارهێنانی SMB لەگەڵ WebDAV. ئەو کە هەر گەیشت بە کۆمپیوتەرەکەت، ڤایرۆسەکە ناوەڕۆکی هەموو داتاکان دەگۆڕێت کە دەتوانرێت دەاستی پێبگەیەنرێت، وەپاشان Master Boot Record دەگۆڕێت. کاتێک ئەم کردارە تەواو دەبێت، کەروێشکی خراپ کۆمپیوتەرەکەت هەڵدەکاتەوە و نامەیەک پیشان دەدات کە داوای 0.05 Bitcoins دەکات(دەربارەی$300 لە کۆتایی مانگی ١٠ ی 2017 دا  )."
-
-msgid "badrabbitpromopage_info-text-title-2"
-msgstr "چۆنیەتی پاراستنی کۆمپیوتەرەکەت  دژی ڤایرۆسی Bad Rabbit cryptographic?"
-
-msgid "badrabbitpromopage_info-text-2"
-msgstr "تۆ دەتوانیت چی بکەیت بۆ پاراستنی خۆت لە بەرامبەر ڤایرۆسە نوێیەکە: <br/>. دروستکردنی فایلی infpub.dat لە C:\\\\Windows\\\\ فۆڵدەرەکە وە کرتە لەسەر هەڵبژاردەی 'تەنها-خوێندنەوە' بکە لە تایبەتمەندییەکانیدا. <br/>. بە وریاییەوە سەیری دروستکردنی فرمانە نوێیەکان بکە لە 'فرمان ڕێکخەرەکەدا' <br/>هیچ نوێبوونەوەیەکی FlashPlayer  دامەمەزرێنە لە دەرەوەی ماڵپەڕەکە،<br/>.  Windows نوێبکەوە لەگەڵ هەموو نەرمەکاڵاکانی پاراستن کە دامەزرێندراون.<br/>یەدەگێک لە سیستەمی کارپێکەرەکەت هەڵبگرە.<br/><br/>هەروەها، تۆ تەنها دەتوانیت چارەسەرێکی نوێ لە DriverPack Solution بەکاربهێنیت ئەویش بە دابەزاندنی لەم پەڕەیەوە - ئەمە کاتەکەت دەپارێزێت!<br/><b>چارەسەری ئێمە کاردەکات لەسەر  Windows 7, 8, 8.1, 10, لەگەڵ XP.</b>"
-
-msgid "badrabbitpromopage_links-text"
-msgstr "په‌ره‌پێدانی ئه‌م چاره‌سه‌ریه‌ له‌سه‌ر بنه‌مای ئه‌م بابه‌تانه‌ی داهاتووه‌"
-
-msgid "badrabbitpromopage_link-smb"
-msgstr "چۆنیه‌تی خستنه‌كار و له‌كارخستنی نوسخه‌ی 1، 2 وه‌ 3 ی پرۆتۆكۆڵی SMB  بۆ Windows و Windows سێرڤه‌ر"
-
 msgid "cloudlandingpage_cackle-title"
 msgstr ""
 
@@ -1018,41 +988,35 @@ msgstr "هه‌موو {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
 msgid "errorpage_title"
 msgstr "هه‌ڵه‌ی 500: هه‌ڵه‌ی ناوخۆیی سێرڤه‌ر"
 
+msgid "gdpr-banner_text"
+msgstr ""
+
+msgid "gdpr-banner_cta-text"
+msgstr ""
+
 msgid "landingfooter_landing-subtitle"
 msgstr "DriverPack پێناسه‌كانی تێدایه‌ بۆ هه‌موو جۆره‌ باوه‌كانی نوسخه‌ی ویندۆز"
 
 msgid "landing-footer_catalog-os"
 msgstr "پێناسه‌كان بۆ {{OS}}"
 
-msgid "landing-footer_download"
-msgstr "دابه‌زاندنی DriverPack"
-
 msgid "landing-footer_versions"
 msgstr "هه‌موو نوسخه‌كانی به‌رنامه‌كه‌"
+
+msgid "landing-footer_remove"
+msgstr "لابردنی DriverPack"
 
 msgid "landing-footer_manufacturers"
 msgstr "پیشەسازی ئامێر "
 
-msgid "landing-footer_badrabbit"
-msgstr "پارێزگاری کردن لە دژی Bad Rabbit"
+msgid "landing-footer_hwids"
+msgstr "Device ID"
 
 msgid "landing-footer_for-admin"
 msgstr "بۆ به‌ڕێوه‌به‌ره‌كانی سیسته‌م"
 
 msgid "landing-footer_for-translators"
 msgstr "بۆ وه‌رگێره‌كان"
-
-msgid "landing-footer_hwids"
-msgstr "Device ID"
-
-msgid "landing-footer_wannacry"
-msgstr "پاراستن له‌ دژی WannaCry"
-
-msgid "landing-footer_license"
-msgstr "مۆڵه‌تنامه‌ی ڕێككه‌وتن"
-
-msgid "landing-footer_remove"
-msgstr "لابردنی DriverPack"
 
 msgid "notfoundpage_title"
 msgstr "هه‌ڵه‌ی 404 :  په‌ڕه‌كه‌ نه‌دۆزرایه‌وه‌"
@@ -1135,39 +1099,3 @@ msgstr "وه‌رگێڕانی DriverPack"
 
 msgid "vendorpage_subtitle-popular"
 msgstr "ئامێره‌ {{VENDOR.NAME}} به‌ناوبانگه‌كان"
-
-msgid "wannacryptpromopage_cta-text"
-msgstr "ڤایرۆسی WannaCrypt cryptographer — چۆن كۆمپیوته‌ر بپارێزین له‌ دژی گه‌وره‌ترین هێرش له‌ مێژوودا؟"
-
-msgid "wannacryptpromopage_cta-subtext"
-msgstr "DriverPack کرداری دیاریکراوی تێدایە بۆ لابردنی لاوازیەکانی ناو ئامرازەکانی ڕێکخستنی کۆمپیوتەر.تۆ دەتوانیت کۆمپیوتەری کەسیەکەت یان لاپتۆپەکەت پارێزراو بکەیت بە دابەزاندنی پارێزگارییە خۆڕاییەکەی ئێمە لە بەرامبەر ڤایرۆسی WannaCry."
-
-msgid "wannacryptpromopage_cta-btn"
-msgstr "كۆمپیوته‌ره‌كه‌ت ڕێكبخه‌ و بیپارێزه‌ له‌ به‌رامبه‌ر WannaCry"
-
-msgid "wannacryptpromopage_caption-text"
-msgstr "ئه‌م به‌رنامه‌یه‌ دابینكراوه‌ به‌ خۆڕایی"
-
-msgid "wannacryptpromopage_info-text-title-1"
-msgstr "WannaCrypt چییه‌؟"
-
-msgid "wannacryptpromopage_info-text-1"
-msgstr "ڤایرۆسی به‌ زۆر شت پێكه‌ری blackmailer  كه‌ ( له‌ خۆیه‌وه‌ ناوی گۆڕدرا بۆ WannaCry له‌ لایه‌ن به‌ركه‌وتووانه‌وه‌) هێرشی كرده‌ سه‌ر كۆمپیوته‌ره‌كان له‌هه‌موو جیهاندا له‌ 12 ی مانگی 5، وه‌ تووشی زیاتر له‌ 300،000 به‌كارهێنه‌ر بو له‌ 150 ووڵاتدا. ڕۆژئاوای ئه‌وروپا، ڕوسیا، چین كه‌ زۆر خراپ لێیدرا. له‌ به‌ریتانیای گه‌وره‌، ڤایرۆسه‌كه‌ تۆڕه‌كانی به‌شه‌ ته‌ندروستییه‌كانی نا چالاك كرد وه‌ كاری نه‌خۆشخانه‌كانی له‌ سه‌رتاسه‌ری ئه‌و ووڵاته‌دا ڕاگرت. له‌ چین، هێرشه‌كه‌ كاریگه‌ری له‌سه‌ر كۆمپیوته‌ره‌ كۆنه‌كان هه‌بوو له‌ كارگه‌كاندا و چه‌ندین پیشه‌سازی ڕاگرت. <br/><br/> خاڵی سه‌ره‌كی كه‌ چۆن ڤایرۆسه‌كه‌ كار ده‌كات ساده‌یه‌: ئه‌و بڵاوده‌بێته‌وه‌ له‌ ناو كۆمپیوته‌ر یان لاپتۆپه‌كه‌، وه‌ هه‌موو نوسراوه‌كان به‌ ته‌واوه‌تی ده‌كات به‌ كۆد واته‌ ته‌شفیری ده‌كات، فایله‌كان، وه‌ ماده‌كان كه‌ ئه‌و بتوانێت بیان دۆزێته‌وه‌، وه‌ وایان لێده‌كات كه‌ به‌رده‌ست نه‌بن بۆ به‌كارهێنان. پاشان خۆهه‌ڵقورتێنه‌ره‌كان داوای بڕێكی زۆر له‌ پاره‌ ده‌كه‌ن بۆ ئه‌وه‌ی داتاكان بگه‌ڕێننه‌وه‌ بۆ حاڵه‌تی ئاسایی خۆی — بڕی 300$. هه‌ر چۆنێك بێت، ئه‌وه‌ گه‌ره‌نتی نییه‌ كه‌ تۆ بتوانیت ده‌ستت به‌ فایله‌كاننت بگاته‌وه‌ دووباره‌. له‌ ئێستادا، هیچ ڕێگه‌یه‌ك نییه‌ بۆ گه‌ڕاندنه‌وه‌ی فایله‌كان بۆ حاڵه‌تی ئاسایی خۆی له‌ لایه‌ن خۆته‌وه‌، وه‌ ئه‌وچاره‌سه‌رییانه‌ی ئێستا له ئینته‌رنێت پێشكه‌ش كراون له‌ ئێستادا یان فێڵه‌، یاخود بڵاوكردنه‌وه‌ی ڤایرۆسی دیكه‌یه‌، یان به‌ دڵنیاییه‌وه‌ 100% كار ناكات."
-
-msgid "wannacryptpromopage_info-text-title-2"
-msgstr "كێ له‌ مه‌ترسیدایه‌ ؟"
-
-msgid "wannacryptpromopage_info-text-2"
-msgstr "كۆمپیوته‌ره‌كان له‌گه‌ڵ سیسته‌مه‌ كارپێكه‌رییه‌كانی زوو پێش Windows 10 له‌گه‌ڵ كردنه‌وه‌ی پۆرتی SMB له‌ مه‌ترسی زۆر دابوون. له‌ئێستادا، نیوه‌ له‌ هه‌موو به‌كارهێنه‌ره‌كانی Windows له‌ مه‌ترسیدان —  %18 به‌كارهێنه‌ره‌كان Windows ی بێ مۆله‌تی كۆپیكراو به‌كارده‌هێنن ( ئۆتۆماتیكی ئه‌وان ده‌خاته‌ مه‌ترسییه‌وه‌)، 23% به‌كارهێنه‌ره‌كان خزمه‌تگوزاری نوێكردنه‌وه‌ی Windows  ه‌كانیان ناچالاك كردووه‌ ( كه‌ ڕێگه‌یان لێده‌گریت له‌ دابه‌زاندنی دواترین \"چاره‌سه‌رییه‌ خێراكان\" له‌ مایكرۆسۆفته‌وه‌)، وه‌ ئه‌وه‌ی دیكه‌ %6 ی نوسخه‌كانیOS ی به‌سه‌رچوو به‌كارده‌هێنن كه‌ به‌ شێوه‌یه‌كی ساده‌ هیچ نوێكردنه‌وه‌یه‌ك وه‌رناگرن له‌وه‌ زیاتر. <br/><br/> له‌ ئه‌نجامی ئه‌مه‌ هه‌موویدا تۆڕه‌كان له‌ ده‌زگا جۆراوجۆره‌كان و كۆمپانیاكانه‌وه‌ن كه‌ هێشتا سیسته‌مه‌ كارپێكه‌رییه‌كانی وه‌ك Windows XP به‌كارده‌هێنن له‌ زۆرترین مه‌ترسیدان. له‌ هێرش كردنه‌ سه‌ر ئه‌م تۆڕانه‌دا، ونبونی داتا ده‌توانرێت سه‌قه‌ت بكرێت وه‌ تێچوونه‌كه‌شی زۆر ده‌بێت، وه‌ك هه‌ندێك \"بڕێكی زۆر پاره‌\" كه‌ ده‌بێت پاره‌ بدات بۆ هه‌ر كۆمپیوته‌رێك به‌ جیا."
-
-msgid "wannacryptpromopage_info-text-title-3"
-msgstr "چۆن كاره‌كه‌ت بپارێزیت — چاره‌سه‌ر له‌ لایه‌ن DriverPack Solution"
-
-msgid "wannacryptpromopage_info-text-3"
-msgstr "هۆكاری سه‌ره‌كی مه‌ترسی ڤایرۆسی WannaCryptیان (WannaCry)  ئه‌وه‌یه‌ بڵاوده‌بێته‌وه‌ به‌ به‌كارهێنانی خاڵه‌ گرنگه‌ لاوازه‌كان له‌ پرۆتۆكۆڵی SMBv1  ی سیستمی پارێزگاری MS17-010. ئه‌و له‌ ڕاستیدا وا له‌ WannaCry ده‌كات ده‌رنه‌كه‌وێت بۆ دژه‌ ڤایرۆسه‌كان. چاره‌سه‌ر له‌ DriverPack Solution وه‌ ڕێگه‌ به‌ تۆ ده‌دات به‌ دامه‌زراندن و نوێكردنه‌وه‌ی پاراستنی خاڵه‌ گرنگه‌ لاوازه‌كانی سیستمه‌كه‌ت، وه‌ ب نا چالاك كردنی ئه‌و پرۆتۆكۆڵانه‌ی كه‌ به‌سه‌رچوون كه‌ ئه‌وان هه‌ڕه‌شه‌ن، به‌ بێ گوێدانه‌ مێژووی ڕێگه‌پێدان و نوسخه‌ی OS ه‌كه‌ت."
-
-msgid "wannacryptpromopage_links-text"
-msgstr "په‌ره‌پێدانی ئه‌م چاره‌سه‌ریه‌ له‌سه‌ر بنه‌مای ئه‌م بابه‌تانه‌ی داهاتووه‌"
-
-msgid "wannacryptpromopage_link-smb"
-msgstr "چۆنیه‌تی خستنه‌كار و له‌كارخستنی نوسخه‌ی 1، 2 وه‌ 3 ی پرۆتۆكۆڵی SMB  بۆ Windows و Windows سێرڤه‌ر"

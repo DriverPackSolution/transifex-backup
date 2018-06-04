@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-03-16 15:04+0000\n"
+"POT-Creation-Date: 2018-05-25 14:38+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Supat Pookpan <supat.pookpan.84@gmail.com>, 2018\n"
 "Language-Team: Thai (https://www.transifex.com/driverpack-solution/teams/75453/th/)\n"
@@ -406,6 +406,9 @@ msgstr "DriverPack Offline Full"
 msgid "landingproducts_item-description-offline"
 msgstr "มันบรรจุไดรเวอร์ทั้งหมด ทำงานโดยปราศจากอินเตอร์เน็ท มันสามารถดาวน์โหลดทางทอร์เรนท์-แทรคเกอร์ <span class='nobr'>({{SIZE}})</span>"
 
+msgid "landingpublications__source-link"
+msgstr ""
+
 msgid "landingpublications__landing-title"
 msgstr "การประกาศของสื่อมวลชนเกี่ยวกับ DriverPack"
 
@@ -502,6 +505,12 @@ msgstr "ดาวน์โหลด DriverPack Offline Full"
 msgid "productlandingheader-offline_caption"
 msgstr "DriverPack Offline Full - แพคใหญ่ {{SIZE}} สำหรับติดตั้งไดรเวอร์ที่ไม่มีการเชื่อมต่ออินเตอร์เน็ท เพียงดาวน์โหลด DriverPack Offline Full และใช้คลังข้อมูลขนาดมหาศาลของไดรเวอร์อันทันสมัยได้ทุกที่ที่คุณอยากใช้ มันเหมาะสมสำหรับแอดมินระบบ"
 
+msgid "promoheader_os-versions"
+msgstr "ซอฟท์แวร์เหมาะสมสำหรับ Windows 10, 8.1, 8, 7, Vista, XP"
+
+msgid "promoheader_uninstall"
+msgstr "ถอดถอน DriverPack"
+
 msgid "promoheader_cta-text-gamers"
 msgstr "คอมพิวเตอร์ของคุณมีพลังมากกว่าที่คุณคิด อัพเดทไดรเวอร์ทั้งหมดฟรี"
 
@@ -516,15 +525,6 @@ msgstr "ติดตั้งทุกไดรเวอร์ที่ต้อ
 
 msgid "promoheader_size"
 msgstr "ขนาดไฟล์: {{SIZE}} KB"
-
-msgid "promoheader_license"
-msgstr "ข้อตกลงการอนุญาตใช้สิทธิ์"
-
-msgid "promoheader_os-versions"
-msgstr "ซอฟท์แวร์เหมาะสมสำหรับ Windows 10, 8.1, 8, 7, Vista, XP"
-
-msgid "promoheader_uninstall"
-msgstr "ถอดถอน DriverPack"
 
 msgid "reviewheader_cta-text"
 msgstr "เข้าร่วมชุมชน DriverPack ในเครือข่ายโซเชี่ยลเพื่อรับข่าวเกี่ยวกับผลิตภัณฑ์และมีส่วนร่วมในการสนทนา"
@@ -928,36 +928,6 @@ msgstr "เมื่อฉันเชื่อมต่อ flash-card กับ
 msgid "cloudpagefaq_usb-a"
 msgstr "DriverPack Cloud เผยให้เห็นการเชื่อมต่ออุปกรณ์ใหม่และวิเคราะห์ถ้ามีไดรเวอร์ที่เหมาะสม ถ้าไม่พบไดรเวอร์ที่ต้องการที่มันจะติดตั้งทันทีที่เป็นไปได้ — มันจำเป็นสำหรับการทำงานอย่างเหมาะสมของอุปกรณ์"
 
-msgid "badrabbitpromopage_cta-text"
-msgstr "Bad Rabbit ไวรัสเข้ารหัสลับ — ปกป้องพีซีของคุณได้อย่างไร"
-
-msgid "badrabbitpromopage_cta-subtext"
-msgstr "DriverPack บรรจุการปฏิบัติโดยเฉพาะสำหรับกำจัดช่องโหว่ในเครื่องมือการปรับแต่งคอมพิวเตอร์ คุณสามารถรักษาพีซีหรือแล็ปท็อปของคุณโดยดาวน์โหลดการป้องกัน Bad Rabbit ไวรัสได้ฟรี"
-
-msgid "badrabbitpromopage_cta-btn"
-msgstr "ปรับแต่งคอมพิวเตอร์และป้องกัน Bad Rabbit"
-
-msgid "badrabbitpromopage_caption-text"
-msgstr "ซอฟท์แวร์นี้ให้ฟรี"
-
-msgid "badrabbitpromopage_info-text-title-1"
-msgstr "อะไรคือ Bad Rabbit"
-
-msgid "badrabbitpromopage_info-text-1"
-msgstr "Bad Rabbit เป็นไวรัสเข้ารหัสลับตัวใหม่ที่โจมตีคอมพิวเตอร์ในรัสเซีย, ยูเครน, บัลแกเรีย, และตุรกี ตั้งแต่ปลายเดือนตุลาคม 2017 ท่ามกลางผู้ที่ตกเป็นเหยื่อคือ The Interfax RIA, The Fontanka RIA, รัฐมนตรีของยูเครนจำนวนหนึ่ง, รวมทั้งสนามบินโอเดสซ่า หลักการทำงานนั้นง่าย ๆ มันใช้ Mimikatz กู้ข้อมูลบัญชีจากความจำของพีซีของคุณ รวมทั้งค้นหาข้อมูลบัญชีที่ใช้งานอยู่ของผู้ดูแลระบบ Bad Rabbit พยายามที่จะบรรลุการเข้าถึงเวิร์ตสเตชั่นในเครือข่ายท้องถิ่นโดยใช้ SMB และ WebDAV เร็ว ๆ นี้จนเข้าถึงพีซีของคุณ ไวรัสเข้ารหัสทุกข้อมูลที่จัดการเข้าถึงได้ และหลังจากนั้นมันจะเปลี่ยน Master Boot Record เมื่อขั้นตอนนี้สมบูรณ์แบบ Bad Rabbit จะรีเซ็ทคอมพิวเตอร์ของคุณและปรากฏข้อความว่าต้องการ 0.05 บิทคอยน์ (ประมาณ $300 ราคาจากสิ้นเดือนตุลาคม 2017)"
-
-msgid "badrabbitpromopage_info-text-title-2"
-msgstr "ป้องกันพีซีของคุณ ต่อต้าน Bad Rabbit ไวรัสเข้ารหัวลับได้อย่างไร"
-
-msgid "badrabbitpromopage_info-text-2"
-msgstr "คุณจะทำอะไรได้บ้างเพื่อป้องกันต่อต้านไวรัสตัวใหม่:<br/>• สร้างไฟล์ infpub.dat ในโฟลเดอร์ C:\\\\Windows\\\\ และติ๊ก 'Read-only' ใน properties<br/>• ดูอย่างระมัดระวัง สร้างงานให่ใน 'Task Scheduler'<br/>• อย่าติดตั้งอัพเดท FlashPlayer ใด ๆ จากนอกเว็บไซต์<br/>• อัพเดท Windows และติดตั้งซอฟท์แวร์ป้องกัน<br/>• แบ็คอัพระบบปฏิบัติการของคุณ<br/><br/>เช่นเดียวกัน คุณสามารถใช้การแก้ปัญหาใหม่จาก DriverPack Solution โดยดาวน์โหลดจากเพจนี้ - มันจะประหยัดเวลาของคุณ!<br/><b>การแก้ปัญหาของเราสามารถทำงานได้บน Windows 7, 8, 8.1, 10, และ XP.</b>"
-
-msgid "badrabbitpromopage_links-text"
-msgstr "การพัฒนาการแก้ปัญหานี้อยู่บนพื้นฐานวัสดุต่อไปนี้"
-
-msgid "badrabbitpromopage_link-smb"
-msgstr "เปิดใช้งานและปิดใช้งาน SMB protocols เวอร์ชั่น 1, 2, และ 3 สำหรับ Windows และ Windows Server อย่างไร"
-
 msgid "cloudlandingpage_cackle-title"
 msgstr "บอกความคิดเห็นของคุณเกี่ยวกับ DriverPack Cloud กับเรา"
 
@@ -1018,41 +988,35 @@ msgstr "{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}} ทั้งหมด"
 msgid "errorpage_title"
 msgstr "ผิดพลาด 500: เซิร์ฟเวอร์ภายในผิดพลาด"
 
+msgid "gdpr-banner_text"
+msgstr ""
+
+msgid "gdpr-banner_cta-text"
+msgstr ""
+
 msgid "landingfooter_landing-subtitle"
 msgstr "DriverPack บรรจุไดรเวอร์สำหรับ Windows ยอดนิยมทุกเวอร์ชั่น"
 
 msgid "landing-footer_catalog-os"
 msgstr "ไดรเวอร์สำหรับ {{OS}}"
 
-msgid "landing-footer_download"
-msgstr "ดาวน์โหลด DriverPack"
-
 msgid "landing-footer_versions"
 msgstr "แอพทุกเวอร์ชั่น"
+
+msgid "landing-footer_remove"
+msgstr "ถอดถอน DriverPack"
 
 msgid "landing-footer_manufacturers"
 msgstr "ผู้ผลิตฮาร์ดแวร์"
 
-msgid "landing-footer_badrabbit"
-msgstr "ป้องกัน Bad Rabbit"
+msgid "landing-footer_hwids"
+msgstr "Device ID"
 
 msgid "landing-footer_for-admin"
 msgstr "สำหรับแอดมินระบบ"
 
 msgid "landing-footer_for-translators"
 msgstr "สำหรับนักแปล"
-
-msgid "landing-footer_hwids"
-msgstr "Device ID"
-
-msgid "landing-footer_wannacry"
-msgstr "ป้องกัน WannaCry"
-
-msgid "landing-footer_license"
-msgstr "ข้อตกลงการอนุญาตใช้สิทธิ์"
-
-msgid "landing-footer_remove"
-msgstr "ถอดถอน DriverPack"
 
 msgid "notfoundpage_title"
 msgstr "ผิดพลาด 404: ไม่พบเพจ"
@@ -1135,39 +1099,3 @@ msgstr "DriverPack ฉบับแปล"
 
 msgid "vendorpage_subtitle-popular"
 msgstr "อุปกรณ์ {{VENDOR.NAME}} ยอดนิยม"
-
-msgid "wannacryptpromopage_cta-text"
-msgstr "ไวรัสเข้ารหัสลับ WannaCrypt — ป้องกันคอมพิวเตอร์ของคุณจากการโจมตีที่ใหญ่ที่สุดในประวัติศาสตร์ได้อย่างไร"
-
-msgid "wannacryptpromopage_cta-subtext"
-msgstr "DriverPack บรรจุการปฏิบัติโดยเฉพาะสำหรับกำจัดช่องโหว่ในเครื่องมือการปรับแต่งคอมพิวเตอร์ คุณสามารถรักษาพีซีหรือแล็ปท็อปของคุณโดยดาวน์โหลดการป้องกัน WannaCry ไวรัสได้ฟรี"
-
-msgid "wannacryptpromopage_cta-btn"
-msgstr "ปรับแต่งคอมพิวเตอร์และป้องกัน WannaCry"
-
-msgid "wannacryptpromopage_caption-text"
-msgstr "ซอฟท์แวร์นี้ให้ฟรี"
-
-msgid "wannacryptpromopage_info-text-title-1"
-msgstr "อะไรคือ WannaCrypt?"
-
-msgid "wannacryptpromopage_info-text-1"
-msgstr "แบล็คเมลเลอร์ไวรัส WannaCrypt (ถูกเปลี่ยนชื่อโดยธรรมชาติโดยเหยื่อเป็น WannaCry) โจมตีคอมพิวเตอร์ทั่วโลกในวันที่ 12 พฤษภาคม และติดเชื้อในอุปกรณ์กว่า 300,000 ผู้ใช้ใน 150 ประเทศ ยุโรปตะวันตก, รัสเซีย, จีน โดนโจมตีหนักที่สุด ในบริเตนใหญ่ ไวรัสปิดการใช้งานเครือข่ายของกรมอนามัยและหยุดการทำงานของโรงพยาบาลทั่วประเทศ ในจีน การโจมตีได้รับผลในคอมพิวเตอร์เก่าในหลายๆโรงงานได้หยุดชะงักในหลายๆอุตสาหกรรม<br/><br/>ประเด็นหลักในการทำงานของไวรัสนี้ง่าย ๆ มันเจาะเข้าไปในพีซีหรือแล็ปท็อปและเข้ารหัสอย่างสมบูรณ์ทุกเอกสาร, ไฟล์, และวัสดุอื่น ๆ ที่มันหาเจอ และทำให้มันไม่สามารถใช้ได้ หลังจากนั้นผู้บุกรุกจะต้องการเงินจำนวนมากมายเพื่อถอดรหัส — ประมาณ $300 อย่างไรก็ตาม ไม่มีการรับประกันที่คุณจะเข้าถึงไฟล์ของคุณคืน ในตอนนี้ ยังไม่มีทางที่คุณจะถอดรหัสไฟล์ด้วยตัวคุณเอง และการแก้ปัญหาที่เสนอบนอินเตอร์เน็ทตอนนี้ก็ยังน่าสงสัย, แพร่กระจายไวรัสอื่น, หรือไม่น่าเชื่อมั่น 100%"
-
-msgid "wannacryptpromopage_info-text-title-2"
-msgstr "ใครที่มีความเสี่ยง?"
-
-msgid "wannacryptpromopage_info-text-2"
-msgstr "พีซีที่มีระบบปฏิบัติการก่อนหน้า Windows 10 ที่เปิดพอร์ต SMB มีความเสี่ยงสูง ในปัจจุบัน ครึ่งหนึ่งของผู้ใช้ Windows มีความเสี่ยง — ผู้ใช้ 18% ใช้ Windows ที่ไม่มีใบอนุญาต (ทำให้มีความเสี่ยงโดยอัตโนมัติ) ผู้ใช้ 23% ปิดการใช้งาน Windows อัพเดท (ที่ป้องกันพวกเขาจากการด่าวน์โหลด \"โปรแกรมแก้ไขด่วน\" ล่าสุดจาก Microsoft) และผู้ใช้ 6% ใช้ระบบปฏิบัติการล้าสมัยที่จะไม่ได้รับการอัพเดทอย่างง่ายดายอีกต่อไป <br/><br/> ข้อสรุปทั้งหมดนี้คือเครือข่ายของบริษัทและองค์กรต่าง ๆ ที่ยังใช้ระบบปฏิบัติการ เช่น Windows XP มีความเสี่ยงสูงที่สุด ในการโจมตีเครือข่ายเหล่านี้ การสูญเสียข้อมูลสามารถทำให้ทรุดโทรมและเสียค่าใช้จ่ายมหาศาล เป็นการ \"เรียกค่าไถ่\" ที่จะต้องจ่ายสำหรับพีซีแต่ละเครื่อง"
-
-msgid "wannacryptpromopage_info-text-title-3"
-msgstr "ปกป้องธุรกิจของคุณได้อย่างไร — การแก้ปัญหาจาก DriverPack Solution"
-
-msgid "wannacryptpromopage_info-text-3"
-msgstr "เหตุผลหลักของความอันตรายของไวรัส WannaCrypt (WannaCry) คือ มันแพร่กระจายโดยใช้ช่องโหว่ที่สำคัญใน SMBv1 โปรโตคอลของระบบรักษาความปลอดภัย MS17-010 มันทำให้แอนตี้ไวรัสมองไม่เห็น WannaCry อย่างแท้จริง การแก้ปัญหาจาก DriverPack Solution เปิดการใช้งานให้คุณติดตั้งอัพเดทปกป้องช่องโหว่ที่สำคัญของระบบของคุณและปิดการใช้งานโปรโตคอลที่ล้าสมัยที่จะเป็นภัย โดยไม่คำนึงถึงประวัติใบอนุญาตของคุณและระบบปฏิบัติการของคุณ"
-
-msgid "wannacryptpromopage_links-text"
-msgstr "การพัฒนาการแก้ปัญหานี้อยู่บนพื้นฐานวัสดุต่อไปนี้"
-
-msgid "wannacryptpromopage_link-smb"
-msgstr "เปิดใช้งานและปิดใช้งาน SMB protocols เวอร์ชั่น 1, 2, และ 3 สำหรับ Windows และ Windows Server อย่างไร"

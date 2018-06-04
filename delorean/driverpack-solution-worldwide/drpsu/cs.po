@@ -1,17 +1,17 @@
 # Translators:
 # Matyáš Koc <admin@sufix.cz>, 2017
-# mirrorov <stehlik.ov@gmail.com>, 2017
-# Matej Szendi, 2017
 # Артур Кузяков <artx@drp.su>, 2017
 # RNDr. Alois Tesař <atesar@gmail.com>, 2017
+# mirrorov <stehlik.ov@gmail.com>, 2017
 # Nadia Tegeneva <nadia@drp.su>, 2017
+# Matej Szendi, 2018
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-03-16 15:04+0000\n"
+"POT-Creation-Date: 2018-05-25 14:38+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
-"Last-Translator: Nadia Tegeneva <nadia@drp.su>, 2017\n"
+"Last-Translator: Matej Szendi, 2018\n"
 "Language-Team: Czech (https://www.transifex.com/driverpack-solution/teams/75453/cs/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -409,6 +409,9 @@ msgstr "DriverPack Offline Full"
 msgid "landingproducts_item-description-offline"
 msgstr ""
 
+msgid "landingpublications__source-link"
+msgstr ""
+
 msgid "landingpublications__landing-title"
 msgstr "Publikace v médiích o programu DriverPack"
 
@@ -505,6 +508,12 @@ msgstr ""
 msgid "productlandingheader-offline_caption"
 msgstr ""
 
+msgid "promoheader_os-versions"
+msgstr "Software je vhodný pro Windows 10, 8.1, 8, 7, Vista a XP"
+
+msgid "promoheader_uninstall"
+msgstr "Odstranění programu DriverPack"
+
 msgid "promoheader_cta-text-gamers"
 msgstr "Váš počítač je silnější, než si myslíte: aktualizujte všechny ovladače zdarma"
 
@@ -519,15 +528,6 @@ msgstr "Instalovat všechny požadované ovladače"
 
 msgid "promoheader_size"
 msgstr "Velikost souboru: {{SIZE}} KB"
-
-msgid "promoheader_license"
-msgstr "Licenční ujednání"
-
-msgid "promoheader_os-versions"
-msgstr "Software je vhodný pro Windows 10, 8.1, 8, 7, Vista a XP"
-
-msgid "promoheader_uninstall"
-msgstr "Odstranění programu DriverPack"
 
 msgid "reviewheader_cta-text"
 msgstr "Připojte se ke komunitě programu DriverPack na sociálních sítích, držte krok s novinkami tohoto produktu a zapojte se do diskuzí"
@@ -931,36 +931,6 @@ msgstr ""
 msgid "cloudpagefaq_usb-a"
 msgstr ""
 
-msgid "badrabbitpromopage_cta-text"
-msgstr ""
-
-msgid "badrabbitpromopage_cta-subtext"
-msgstr ""
-
-msgid "badrabbitpromopage_cta-btn"
-msgstr ""
-
-msgid "badrabbitpromopage_caption-text"
-msgstr "Tento software je poskytován zdarma"
-
-msgid "badrabbitpromopage_info-text-title-1"
-msgstr ""
-
-msgid "badrabbitpromopage_info-text-1"
-msgstr ""
-
-msgid "badrabbitpromopage_info-text-title-2"
-msgstr ""
-
-msgid "badrabbitpromopage_info-text-2"
-msgstr ""
-
-msgid "badrabbitpromopage_links-text"
-msgstr "Vývoj tohoto řešení bylo založeno na následujících materiálech"
-
-msgid "badrabbitpromopage_link-smb"
-msgstr "Jak povolit a zakázat verze 1, 2 a 3 protokolu SMB ve Windows a Windows Server"
-
 msgid "cloudlandingpage_cackle-title"
 msgstr ""
 
@@ -1021,41 +991,35 @@ msgstr "Všechny {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
 msgid "errorpage_title"
 msgstr "Chyba 500: chyba interního serveru"
 
+msgid "gdpr-banner_text"
+msgstr ""
+
+msgid "gdpr-banner_cta-text"
+msgstr ""
+
 msgid "landingfooter_landing-subtitle"
 msgstr "DriverPack obsahuje ovladače pro všechny populární verze Windows"
 
 msgid "landing-footer_catalog-os"
 msgstr "ovladače pro {{OS}}"
 
-msgid "landing-footer_download"
-msgstr "Stáhnout DriverPack"
-
 msgid "landing-footer_versions"
 msgstr "Všechny verze aplikace"
+
+msgid "landing-footer_remove"
+msgstr "Odstranění programu DriverPack"
 
 msgid "landing-footer_manufacturers"
 msgstr "Výrobci Hardwaru"
 
-msgid "landing-footer_badrabbit"
-msgstr ""
+msgid "landing-footer_hwids"
+msgstr "Device ID"
 
 msgid "landing-footer_for-admin"
 msgstr "Pro administrátory systému"
 
 msgid "landing-footer_for-translators"
 msgstr "Pro překladatele"
-
-msgid "landing-footer_hwids"
-msgstr "Device ID"
-
-msgid "landing-footer_wannacry"
-msgstr "Ochrana před WannaCry"
-
-msgid "landing-footer_license"
-msgstr "Licenční ujednání"
-
-msgid "landing-footer_remove"
-msgstr "Odstranění programu DriverPack"
 
 msgid "notfoundpage_title"
 msgstr "Chyba 404: stránka nenalezena"
@@ -1138,39 +1102,3 @@ msgstr "Překlad programu DriverPack"
 
 msgid "vendorpage_subtitle-popular"
 msgstr "Populární {{VENDOR.NAME}} zařízení"
-
-msgid "wannacryptpromopage_cta-text"
-msgstr "WannaCrypt kryptografický virus — jak chránit počítač před největším útokem v historii?"
-
-msgid "wannacryptpromopage_cta-subtext"
-msgstr ""
-
-msgid "wannacryptpromopage_cta-btn"
-msgstr "Nastavit počítač a ochránit ho před WannaCry"
-
-msgid "wannacryptpromopage_caption-text"
-msgstr "Tento software je poskytován zdarma"
-
-msgid "wannacryptpromopage_info-text-title-1"
-msgstr "Co je WannaCrypt?"
-
-msgid "wannacryptpromopage_info-text-1"
-msgstr "Vyděračský virus WannaCrypt (pojmenovaný spontánně WannaCry oběťmi) zaútočil na počítače po celém světě 12. května a infikoval zařízení více než 300 000 uživatelů ve 150 zemích. Západní Evropa, Rusko a Čína jsou nejvíce postiženými zeměmi. Ve Velké Británii virus zneškodnil sítě zdravotnického oddělení a v důsledku toho zastavil nemocnice po celé zemi. V Číně útok napadl staré počítače v továrnách, což způsobilo zastavení řady průmyslových odvětví.<br/><br/> Hlavní bod toho, jak tento virus funguje, je jednoduchý: proniká do vašeho PC nebo notebooku a šifruje naprosto všechny dokumenty, soubory a materiály, které může najít a znepřístupnit je k použití. Pak vetřelci vyžadují velké množství peněz na dekódování — asi 300 dolarů. Neexistuje však záruka, že budete mít k vašim souborům přístup. V současné době neexistuje žádný způsob, jak dešifrovat soubory sami, zatímco řešení, která jsou nyní nabízena, jsou buď phishing, nebo způsob šíření jiného viru nebo prostě nefungují se 100% pravděpodobností."
-
-msgid "wannacryptpromopage_info-text-title-2"
-msgstr "Kdo je ohrožen?"
-
-msgid "wannacryptpromopage_info-text-2"
-msgstr "Počítače provozující systém starší než Windows 10 s otevřenými SMB porty jsou nejvíce zranitelné. Právě teď, polovina uživatelů operačního systému Windows jsou zranitelní — 18% uživatelů používá nelicencované kopie Windows (automaticky spadající do rizikové kategorie), 23% uživatelů zakázalo službu Windows Update (což jim zabraňuje stahovat poslední \"hotfixy\" od Microsoftu) a dalších 6% používá zastaralou verzi operačního systému, která už nedostává další aktualizace.<br/><br/>Závěr z tohoto všeho je: sítě různých firem a společností, které stále používají operační systémy jako je Windows XP jsou nejvíce zranitelní. V případě útoku na takovéto sítě mohou ztráty dat stát enormní částky peněz, a dokonce pokud mluvíme o \"výkupné\", museli by zaplatit protažení počítač zvlášť."
-
-msgid "wannacryptpromopage_info-text-title-3"
-msgstr "Jak ochránit vaši firmu — řešení od DriverPack Solution"
-
-msgid "wannacryptpromopage_info-text-3"
-msgstr "Hlavní důvod hrozby viru WannaCrypt (WannaCry) je, že se šíří pomocí kritické zranitelnosti v protokolu SMBv1 zabezpečovacího systému MS17-010. To dělá WannaCry neviditelné pro antiviry. Řešení od DriverPack Solution povolí instalaci aktualizací chránící zranitelnosti vašeho systému a okamžitě zakáže zastaralý protokol, který je hrozbou bez ohledu na vaši historii licencí a verzi operačního systému."
-
-msgid "wannacryptpromopage_links-text"
-msgstr "Vývoj tohoto řešení bylo založeno na následujících materiálech"
-
-msgid "wannacryptpromopage_link-smb"
-msgstr "Jak povolit a zakázat verze 1, 2 a 3 protokolu SMB ve Windows a Windows Server"

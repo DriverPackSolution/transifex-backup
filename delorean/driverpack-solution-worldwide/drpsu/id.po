@@ -2,19 +2,19 @@
 # Tsalis Khoiruddin <tsaliscepu@gmail.com>, 2017
 # Andi K, 2017
 # Nadia Tegeneva <nadia@drp.su>, 2017
-# Артур Кузяков <artx@drp.su>, 2017
 # Dody Prayuto <dodzaguila@gmail.com>, 2017
 # Lazuardi Elki Erwandianto <leeglade_bluesky@yahoo.co.id>, 2017
 # Buchari Andries, 2017
 # Isa Noorendra <issaanoorendra@gmail.com>, 2017
 # Azhe-kun <azhe403@gmail.com>, 2017
 # Nuriya Amin <riyanuri90@gmail.com>, 2017
+# Артур Кузяков <artx@drp.su>, 2018
 # Agus S, 2018
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-03-16 15:04+0000\n"
+"POT-Creation-Date: 2018-05-25 14:38+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Agus S, 2018\n"
 "Language-Team: Indonesian (https://www.transifex.com/driverpack-solution/teams/75453/id/)\n"
@@ -414,6 +414,9 @@ msgstr "DriverPack Offline Full"
 msgid "landingproducts_item-description-offline"
 msgstr "Ini berisi semua driver, beroperasi  tanpa koneksi ke internet, ini dapat di unduh melalui the Torrent-tracker <span class='nobr'> ({{SIZE}}) </span>"
 
+msgid "landingpublications__source-link"
+msgstr ""
+
 msgid "landingpublications__landing-title"
 msgstr "Publikasi media massa tentang DriverPack"
 
@@ -510,6 +513,12 @@ msgstr "Unduh DriverPack Offline Full"
 msgid "productlandingheader-offline_caption"
 msgstr "DriverPack Offline Full - sebuah paket besar dari {{SIZE}} ukuran untuk pemasangan driver tanpa akses internet. Hanya mengunduh DriverPack Offline Full dan menggunakan perpustakaan driver besar dan terbaru dimanapun Anda suka. Ini cocok dengan sistem administrasi."
 
+msgid "promoheader_os-versions"
+msgstr "Software yang cocok untuk Windows 10, 8.1, 8, 7, Vista, XP"
+
+msgid "promoheader_uninstall"
+msgstr "Penghapus DriverPack "
+
 msgid "promoheader_cta-text-gamers"
 msgstr "Komputer Anda lebih kuat dari yang Anda pikirkan: perbarui semua driver secara gratis"
 
@@ -524,15 +533,6 @@ msgstr "Pasang semua driver yang dibutuhkan"
 
 msgid "promoheader_size"
 msgstr "Ukuran: file {{SIZE}} KB"
-
-msgid "promoheader_license"
-msgstr "Perjanjian Lisensi"
-
-msgid "promoheader_os-versions"
-msgstr "Software yang cocok untuk Windows 10, 8.1, 8, 7, Vista, XP"
-
-msgid "promoheader_uninstall"
-msgstr "Penghapus DriverPack "
 
 msgid "reviewheader_cta-text"
 msgstr "Bergabunglah dengan komunitas DriverPack di jejaring sosial untuk mengikuti berita tentang produk dan ikuti diskusi tentan DriverPack."
@@ -936,36 +936,6 @@ msgstr "Ketika saya menghubungkan kartu-flash saya ke slot usb, pemberitahuan te
 msgid "cloudpagefaq_usb-a"
 msgstr "DriverPack Cloud memberitahu penghubung perangkat baru dan memeriksa apakah mereka memiliki driver yang tepat. Jika driver yang diperlukan hilang, ini memungkinkan untuk memasangnya segera — ini diperlukan untuk pengoperasian yang tepat dari perangkat."
 
-msgid "badrabbitpromopage_cta-text"
-msgstr "Virus Bad Rabbit cryptographic — bagaimana melindungi komputermu?"
-
-msgid "badrabbitpromopage_cta-subtext"
-msgstr "DriverPack berisi aksi spesifik untuk mengeliminasi vulnerabilities di konfigurasi komputer. Anda dapat mengamankan komputermu atau laptop dengan mengunduh perlindungan bebas kami dari serangan virus the Bad Rabbit."
-
-msgid "badrabbitpromopage_cta-btn"
-msgstr "Konfigurasi komputer dan melindunginya dari serangan Bad Rabbit"
-
-msgid "badrabbitpromopage_caption-text"
-msgstr "Perangkat lunak ini diberikan secara bebas"
-
-msgid "badrabbitpromopage_info-text-title-1"
-msgstr "Apa itu Bad Rabbit?"
-
-msgid "badrabbitpromopage_info-text-1"
-msgstr "Bad Rabbit adalah virus cryptographic baru yang menyerang komputer di Russia, Ukraine, Bulgaria, dan Turkey sejak akhir Oktober 2017. Juga diantara korbannya adalah The Interfax RIA, The Fontanka RIA, puluhan Pelayanan dari Ukraine, juga Bandara Odessa. Prinsip operasinya sederhana: ini menggunakan perangkat Mimikatz dalam aktvitasnya untuk mengambil data dari memori komputer. Ini juga mencari data akun admin yang aktif. Bad Rabbit mencoba untuk mengambil akses komputer di jaringan lokal dengan menggunakan SMB dan WebDAV. Segera setelah mendapat akses ke komputermu, virus mengenkroipsi semua data yang dimange untuk dicapai, dan setelah itu merubah Master Boot Record. Ketika prosedur ini telah lengkap, Bad Rabbit mereset komputermu dan menampilkan pesan dengan meminta 0.05 Bitcoins (sekitar $300 seperti pada akhir Oktober 2017)."
-
-msgid "badrabbitpromopage_info-text-title-2"
-msgstr "Bagaimana melindungi komputermu dari serangan virus the Bad Rabbit cryptographic?"
-
-msgid "badrabbitpromopage_info-text-2"
-msgstr "Apa yang dapat Anda lakukan untuk melindungi dirimu dari serangan virus baru: <br/>• Buatlah sebuah file infpub.dat di C:\\\\Windows\\\\ folder dan tandai pilihan 'Read-only' di bagian properties<br/>• Perhatikan dengan hati-hati ketika membuat tugas baru di 'Task Scheduler'<br/>• Jangan memasang update apapun untuk FlashPlayer dari halaman lain <br/>• Perbaharui Windows dan semua prangkat lunak perlindungan di dalamnya <br/>• Buat cadangan untuk sistem operasimu <br/> <br/> Juga, Anda dapat mengunakan solusi baru dari DriverPack Solution dengan mengunduh langsung di halaman ini - ini akan menghemat waktumu! <br/> <b> Solusi kami bekerja di semua Windows 7, 8, 8.1, 10, dan XP. </b>"
-
-msgid "badrabbitpromopage_links-text"
-msgstr "Pengembangan dari solusi ini didasarkan pada pilihan bahan-bahan"
-
-msgid "badrabbitpromopage_link-smb"
-msgstr "bagaimana menyalakan dan mematikan versi 1, 2 dan 3 protokol SMB untuk Windows dan Windows Server"
-
 msgid "cloudlandingpage_cackle-title"
 msgstr "Beri tahu pendapat anda tentang DriverPack Cloud"
 
@@ -1026,41 +996,35 @@ msgstr "Semua {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
 msgid "errorpage_title"
 msgstr "Kesalahan 500: kesalahan dalam server"
 
+msgid "gdpr-banner_text"
+msgstr ""
+
+msgid "gdpr-banner_cta-text"
+msgstr ""
+
 msgid "landingfooter_landing-subtitle"
 msgstr "DriverPack berisi beberapa driver yang terkenal untuk semua versi Windows"
 
 msgid "landing-footer_catalog-os"
 msgstr "Driver untuk {{OS}}"
 
-msgid "landing-footer_download"
-msgstr "Unduh DriverPack"
-
 msgid "landing-footer_versions"
 msgstr "Semua versi aplikasi"
+
+msgid "landing-footer_remove"
+msgstr "menghapus DriverPack "
 
 msgid "landing-footer_manufacturers"
 msgstr "Produsen Perangkat Keras"
 
-msgid "landing-footer_badrabbit"
-msgstr "Perlindungan serangan Bad Rabbit"
+msgid "landing-footer_hwids"
+msgstr "Device ID"
 
 msgid "landing-footer_for-admin"
 msgstr "Untuk sistem administrasi"
 
 msgid "landing-footer_for-translators"
 msgstr "Untuk penerjemah"
-
-msgid "landing-footer_hwids"
-msgstr "Device ID"
-
-msgid "landing-footer_wannacry"
-msgstr "Perlindungan terhadap serangan WannaCry"
-
-msgid "landing-footer_license"
-msgstr "Perjanjian Lisensi"
-
-msgid "landing-footer_remove"
-msgstr "menghapus DriverPack "
 
 msgid "notfoundpage_title"
 msgstr "Error 404 : Halaman tidak di temukan"
@@ -1143,39 +1107,3 @@ msgstr "Terjemahan DriverPack"
 
 msgid "vendorpage_subtitle-popular"
 msgstr "Perangkat {{VENDOR.NAME}} terkenal"
-
-msgid "wannacryptpromopage_cta-text"
-msgstr "Virus WannaCrypt cryptographer — bagaimana saya melindungi dari serangan yang lebih besar dalam sejarah?"
-
-msgid "wannacryptpromopage_cta-subtext"
-msgstr "DriverPack berisi aksi spesifik untuk mengeliminasi vulnerabilities pada perangkat konfigurasi komputer. Anda dapat mengamankan komputermu atau laptop dengan mengunduh perlindungan bebas kami dari serangan virus WannaCry."
-
-msgid "wannacryptpromopage_cta-btn"
-msgstr "Mengkonfigurasi komputer dan melindungi dari serangan WannaCry"
-
-msgid "wannacryptpromopage_caption-text"
-msgstr "Perangkat lunak ini diberikan secara bebas"
-
-msgid "wannacryptpromopage_info-text-title-1"
-msgstr "Apa itu WannaCrypt?"
-
-msgid "wannacryptpromopage_info-text-1"
-msgstr "Virus WannaCrypt (spontan berganti menjadi WannaCry oleh korban)  menterang komputer di sleuruh dunia pada 12 Mei dan menginfeksi komputer lebih dari 300,000 pengguna di 150 negara. Eropa, Rusia, China merupakan yang terburuk. Di Great Britain, virus mematikan jaringan departemen kesehatan yang berpengaruh pada oeprasional rumah sakit di sleuruh kota. <br/><br/>Poin utama bagaimana virus ini bekerja sangat simple, ia memasukkan kode ke dalam semua dokumen, file, dan lainnya yang membuatnya tidak tersedia.Pembuat virus meminta sejumlah uang — sekitar 300$. Bagaiamanapun tidak ada jaminan bahwa anda dapat mengakses dokumen itu kembali. Solusi terbaik adalah berhati-hati dengan pencurian data dan datangnay virus baru atau tidak bekerja dengan 100% kepastian."
-
-msgid "wannacryptpromopage_info-text-title-2"
-msgstr "Siapa yang menanggun resiko?"
-
-msgid "wannacryptpromopage_info-text-2"
-msgstr "PC dengan sistem operasi sebelum Windows 10 dengan membuka saluran SMB kebanyakan mengandung resiko. Saat ini, setengah pengguna Windows ada beresiko — 18% pengguna adalah Windows tidak berlisensi (otomatis mereka beresiko), 23% pengguna mematikan Windows Update (yang mencegah mereka mengunduh \"pembaharuan\" terbaru dari Microsoft), dan 6% yang lain siste operasi yang kadaluarsa yang sudah tidak ada pembaharuan sama sekali. <br/><br/> Kesimpulan dari semua ini adalah jaringan dari perusahaan kecil dan besar yang masih menggunakan sistem operasi seperti Windows XP yang beresiko tinggi. Dalam serangan jaringan ini, data dilemahkan dan membuang dana yang besar, seperti beberapa \"tebusan\" akan dibayar untuk masing-masing komputer secara terpisah."
-
-msgid "wannacryptpromopage_info-text-title-3"
-msgstr "Bagaimana melindungi bisnismu — solusi dari DriverPack Solution"
-
-msgid "wannacryptpromopage_info-text-3"
-msgstr "Alasan utama dari bahaya virus WannaCrypt (WannaCry) adalah menyerang protokol SMBv1 dari sistem keamanan MS17-010. Ini membuat WannaCry tidak terlihat oleh antivirus. Solusi dari DriverPack Solution membuatmu dapat menginstall pembaharuan untuk melindungi sistemmu, dan menutup protokol keluar yang penting, tergantung dari ijin sistem. "
-
-msgid "wannacryptpromopage_links-text"
-msgstr "Pengembangan dari solusi ini didasarkan pada pilihan bahan-bahan"
-
-msgid "wannacryptpromopage_link-smb"
-msgstr "bagaimana menyalakan dan mematikan versi 1, 2 dan 3 protokol SMB untuk Windows dan Windows Server"

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-03-16 15:04+0000\n"
+"POT-Creation-Date: 2018-05-25 14:38+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Sokayna Ikkene <sokaina@hotmail.es>, 2018\n"
 "Language-Team: Catalan (https://www.transifex.com/driverpack-solution/teams/75453/ca/)\n"
@@ -407,6 +407,9 @@ msgstr "DriverPack Offline Full"
 msgid "landingproducts_item-description-offline"
 msgstr "Conté tots els controladors, es pot utilitzar sense connexió a Internet i es pot descarregar utilitzant el Torrent-tracker <span class='nobr'>({{SIZE}})</span>"
 
+msgid "landingpublications__source-link"
+msgstr ""
+
 msgid "landingpublications__landing-title"
 msgstr "Publicacions dels mitjans de comunicació sobre DriverPack"
 
@@ -503,6 +506,12 @@ msgstr "Descarrega DriverPack Offline Full"
 msgid "productlandingheader-offline_caption"
 msgstr "DriverPack Offline Full - un gran pack de {{SIZE}} per a instal·lar els controladors sense necessitat de connexió a Internet. Tas sols descarregueu DriverPack Offline Full i utilitzeu la enorme biblioteca de controladors actualitzats cada cop que calgui. Es perfecte per a administradors de sistemes."
 
+msgid "promoheader_os-versions"
+msgstr "L'aplicació funciona en Windows 10, 8.1, 8, 7, Vista, XP"
+
+msgid "promoheader_uninstall"
+msgstr "Desinstal·lació de DriverPack"
+
 msgid "promoheader_cta-text-gamers"
 msgstr "El teu ordinador és més potent del que et penses: actualitza tots els controladors gratuitament"
 
@@ -517,15 +526,6 @@ msgstr "Instal·la tots els controladors necessaris"
 
 msgid "promoheader_size"
 msgstr "Mida: {{SIZE}} KB"
-
-msgid "promoheader_license"
-msgstr "Acord de llicència"
-
-msgid "promoheader_os-versions"
-msgstr "L'aplicació funciona en Windows 10, 8.1, 8, 7, Vista, XP"
-
-msgid "promoheader_uninstall"
-msgstr "Desinstal·lació de DriverPack"
 
 msgid "reviewheader_cta-text"
 msgstr "Uneix-te a la comunitat de DriverPack a les xarxes socials i estigues informat de les notícies sobre l'aplicació i pren part en els debats"
@@ -929,36 +929,6 @@ msgstr "Quan connectava la meva targeta flash a la ranura del USB,  una notifica
 msgid "cloudpagefaq_usb-a"
 msgstr " DriverPack Cloud mostra la connexió dels nous dispositius i examina si tenen els controladors adequats. Si falta el controlador adequat, és possible d'instal·lar-lo en uns instants — és necessari per al funcionament correcte del dispositiu."
 
-msgid "badrabbitpromopage_cta-text"
-msgstr "Virus criptogràfic Bad Rabbit — com puc protegir l'ordinador?"
-
-msgid "badrabbitpromopage_cta-subtext"
-msgstr "DriverPack conté mecanismes específics per eliminar vulnerabilitats entre les utilitats de configuració de l'ordinador. Podeu protegir el vostre ordinador o portàtil descarregant la nostra protecció gratuïta contra el virus Bad Rabbit."
-
-msgid "badrabbitpromopage_cta-btn"
-msgstr "Configura l'ordinador i protegeix-lo contra el Bad Rabbit"
-
-msgid "badrabbitpromopage_caption-text"
-msgstr "Aquesta aplicació és completament gratuïta"
-
-msgid "badrabbitpromopage_info-text-title-1"
-msgstr "Que és el Bad Rabbit?"
-
-msgid "badrabbitpromopage_info-text-1"
-msgstr "El Bad Rabbit és un nou virus criptogràfic que ha atacat ordinadors a Rússia, Ucraïna, Bulgària i Turquia des de finals d'octubre de 2017. També inclou entre les seves víctimes The Interfax RIA, The Fontanka RIA, un nombre de ministres d'Ucraïna i de l'aeroport d'Odessa. El principi en que es basa és senzill: utilitza la utilitat Mimikatz per obtenir informació del compte d'usuari ubicada en la memòria de l'ordinador. També cerca la informació del compte d'administrador actiu. El Bad Rabbit aleshores intenta accedir als ordinadors de la xarxa local utilitzant SMB i WebDAV. Tan aviat com obté accés a l'odinador, el virus encripta totes les dades a les que aconsegueix accedir, i tot seguit, canvia el sector d'arranc (Master Boot Record). Un cop realitzats aquests passos, reinicia l'ordinador i mostra un missatge demanant uns 0,05 Bitcoins (que corresponen a 300 $ a data de 26 d'octubre de 2017)"
-
-msgid "badrabbitpromopage_info-text-title-2"
-msgstr "Com protegir l'ordinador contra el virus criptogràfic Bad Rabbit?"
-
-msgid "badrabbitpromopage_info-text-2"
-msgstr "El que pots fer per protegir-te contra el nou virus:<br/> • Crear un fitxer infpub.dat al directori C:\\\\Windows\\\\ i marcar que és de \"només lectura\" en les propietats<br/>• Comprovar detingudament si es creen noves tasques a \"l'Administrador de taques\" <br/>• No instal·lar actualitzacions de FlashPkayer des de llocs webs de tercers <br/>• Actualitzar Windows i totes les aplicacions de seguretat <br/>• Fer còpies de seguretat del sistema operatiu <br/><br/> També pots simplement descarregar la nova utilitat de DriverPack Solution des d'aquesta pàgina  -  t'estalviarà temps! <br/><b>La nostra utilitat funciona en Windows 7, 8, 8.1, 10 i XP.</b>"
-
-msgid "badrabbitpromopage_links-text"
-msgstr "El desenvolupament d'aquesta solució s'ha basat en les fonts següents"
-
-msgid "badrabbitpromopage_link-smb"
-msgstr "Com activar i desactivar les versions 1, 2 i 3 del protocol SMB per a Windows i Windows Server"
-
 msgid "cloudlandingpage_cackle-title"
 msgstr "Deixan's saber la seva opinió sobre el DriverPack Cloud"
 
@@ -1019,41 +989,35 @@ msgstr "Totes les {{CLASS.PLURAL.MAIN}} de {{VENDOR.NAME}}"
 msgid "errorpage_title"
 msgstr "Error 500: error del servidor"
 
+msgid "gdpr-banner_text"
+msgstr ""
+
+msgid "gdpr-banner_cta-text"
+msgstr ""
+
 msgid "landingfooter_landing-subtitle"
 msgstr "DriverPack disposa de controladors per a totes les versions populars de Windows"
 
 msgid "landing-footer_catalog-os"
 msgstr "controladors per a {{OS}}"
 
-msgid "landing-footer_download"
-msgstr "Descarrega el DriverPack"
-
 msgid "landing-footer_versions"
 msgstr "Totes les versions de l'aplicació"
+
+msgid "landing-footer_remove"
+msgstr "Desinstal·lació de DriverPack"
 
 msgid "landing-footer_manufacturers"
 msgstr "Fabricants de maquinari"
 
-msgid "landing-footer_badrabbit"
-msgstr "Protecció contra el Bad Rabbit"
+msgid "landing-footer_hwids"
+msgstr "Device ID"
 
 msgid "landing-footer_for-admin"
 msgstr "Per a administradors de sistemes"
 
 msgid "landing-footer_for-translators"
 msgstr "Per a traductors"
-
-msgid "landing-footer_hwids"
-msgstr "Device ID"
-
-msgid "landing-footer_wannacry"
-msgstr "Protecció contra el WannaCry"
-
-msgid "landing-footer_license"
-msgstr "Acord de llicència"
-
-msgid "landing-footer_remove"
-msgstr "Desinstal·lació de DriverPack"
 
 msgid "notfoundpage_title"
 msgstr "Error 404: no s'ha trobat la pàgina"
@@ -1136,39 +1100,3 @@ msgstr "Traducció de DriverPack"
 
 msgid "vendorpage_subtitle-popular"
 msgstr "Dispositius populars de {{VENDOR.NAME}}"
-
-msgid "wannacryptpromopage_cta-text"
-msgstr "Virus criptogràfic WannaCrypt — com protegir l'ordinador contra l'atac més gran de la història?"
-
-msgid "wannacryptpromopage_cta-subtext"
-msgstr "DriverPack conté mecanismes específics per eliminar vulnerabilitats entre les utilitats de configuració de l'ordinador. Podeu protegir el vostre ordinador o portàtil  descarregant la nostra protecció gratuïta contra el virus WannaCry."
-
-msgid "wannacryptpromopage_cta-btn"
-msgstr "Configura l'ordinador i protegeix-lo contra el WannaCry"
-
-msgid "wannacryptpromopage_caption-text"
-msgstr "Aquesta aplicació és completament gratuïta"
-
-msgid "wannacryptpromopage_info-text-title-1"
-msgstr "Què és WannaCrypt?"
-
-msgid "wannacryptpromopage_info-text-1"
-msgstr "El virus WannaCrypt (reanomenat espontàniament com a WannaCry per les víctimes) va atacar ordinadors de tot el món el 12 de maig de 2017 i va infectar els dispositius de més de 300.000 usuaris de 150 països. Europa occidental, Rússia i Xina van ser els que en van sortir més mal parats. A la Gran Bretanya, el virus va fer caure la xarxa del Departament de Salut el que va parar l'activitat dels hospitals de tot el país. A Xina, l'atac va afectar els ordinadors antics de les fàbriques, el que va paralitzar algunes indústries.<br/><br/>El punt clau del funcionament del virus és simple: entra a l'ordinador o portàtil i ho encripta absolutament tots els documents i fitxers que pot trobar, fet que impossibilita poder-los utilitzar. Aleshores, l'intrús demana una quantitat important de diners per desencriptar-ho — uns 300 $. Tot i això, no hi ha garantia de que es pugui accedir de nou als fitxers. Actualment, no hi ha cap manera de desencriptar-ho un mateix, i les solucions que hi ha per Internet, o bé són paranys, o distribueixen un altre virus, o simplement no funcionen amb una seguerat del 100%."
-
-msgid "wannacryptpromopage_info-text-title-2"
-msgstr "Qui està en perill?"
-
-msgid "wannacryptpromopage_info-text-2"
-msgstr "Els ordinadors que tenen sistemes operatius anteriors a Windows 10 amb ports SMB oberts són els que estan més en risc. Actualment això significa que la meitat dels usuaris de Windows estan en risc — un 18% dels usuaris utilitzen còpies pirates de Windows (el que ja de per sí els posa en risc), un 23% del usuaris desactiven el servei d'Actualitzacions de Windows (el que impedeix descarregar les últimes \"actualitzacions de seguretat\" de Microsoft), i un altre 6% utilitzen versions antigues del SO que ja no reben actualitzacions. <br/><br/>La conclusió de tot això és que si les xarxes de diferents firmes i empreses que encara utilitzen Windows XP són els que tenen més risc. En un atac a aquestes xarxes, la pèrdua de les dades pot ser molt gran i el cost de pagar seria enorme, doncs qualsevol \"infecció\" ha de ser pagada individualment per a cada ordinador."
-
-msgid "wannacryptpromopage_info-text-title-3"
-msgstr "Com protegir la teva empresa — solució de DriverPack Solution"
-
-msgid "wannacryptpromopage_info-text-3"
-msgstr "El perill principal del virus WanaCrypt (WannaCry) recau en que es copia de màquina en màquina utilitzant vulnerabilitats crítiques del protocol SMBv1 corregides en el pedaç de seguretat MS17-010. Això fa que el WannaCry sigui invisible als antivirus. La solució de DriverPack Solution permet instal·lar i actualitzar les vulnerabilitats crítiques del sistema, i desactivar els protocols obsolets que causen aquest perill, independentment de l'estat de la llicència del sistema operatiu."
-
-msgid "wannacryptpromopage_links-text"
-msgstr "El desenvolupament d'aquesta solució s'ha basat en les fonts següents"
-
-msgid "wannacryptpromopage_link-smb"
-msgstr "Com activar i desactivar les versions 1, 2 i 3 del protocol SMB per a Windows i Windows Server"

@@ -1,8 +1,6 @@
 # Translators:
 # Ali Pour Aioubi <l.ali.ice.l@gmail.com>, 2017
 # Ali Adineh <aliadineh2731@yahoo.com>, 2017
-# Amirreza Nasiri <nasiri.amirreza.96@gmail.com>, 2017
-# Артур Кузяков <artx@drp.su>, 2017
 # Nadia Tegeneva <nadia@drp.su>, 2017
 # Mohammad javad Sanei <mhmsanei@gmail.com>, 2017
 # Aria Koushabadi <koosha7676@gmail.com>, 2017
@@ -17,14 +15,16 @@
 # Shervin Ahmadi <a.shervin@ymail.com>, 2017
 # Mostafa Shiravand <shiravand.999@gmail.com>, 2017
 # mohammadreza salmaninejad <salmani.m432@gmail.com>, 2017
+# Артур Кузяков <artx@drp.su>, 2018
 # sajad bahramzadeh <sajadb88@gmail.com>, 2018
+# Mehran Abghari <mehran.ab80@gmail.com>, 2018
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-03-16 15:04+0000\n"
+"POT-Creation-Date: 2018-05-25 14:38+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
-"Last-Translator: sajad bahramzadeh <sajadb88@gmail.com>, 2018\n"
+"Last-Translator: Mehran Abghari <mehran.ab80@gmail.com>, 2018\n"
 "Language-Team: Persian (https://www.transifex.com/driverpack-solution/teams/75453/fa/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -422,6 +422,9 @@ msgstr "DriverPack Offline Full"
 msgid "landingproducts_item-description-offline"
 msgstr "این پکیج شامل تمامی درایورها می باشد که بصورت افلاین عمل می کند. می توانید از شبکه تورنت دانلود کنید <span class='nobr'>({{SIZE}})</span>"
 
+msgid "landingpublications__source-link"
+msgstr "بیشتر بخوانید"
+
 msgid "landingpublications__landing-title"
 msgstr "انتشارات رسانه های جمعی درباره DriverPack"
 
@@ -518,6 +521,12 @@ msgstr "دانلود DriverPack Offline Full"
 msgid "productlandingheader-offline_caption"
 msgstr "DriverPack Offline Full - یک بسته با حجم زیاد و اندازه {{SIZE}} برای نصب درایور بدون دسترسی به اینترنت است. DriverPack Offline Full را دانلود کنید و از این بسته مجموعه درایورهای به روز شده می توانید در هر زمانی که نیاز دارید استفاده کنید. این نوع بسته بهترین بسته پیشنهادی برای مدیران سیستم ها است ."
 
+msgid "promoheader_os-versions"
+msgstr "این نرم‌افزار مناسب برای Windows 10, 8.1, 8, 7, Vista, XP است"
+
+msgid "promoheader_uninstall"
+msgstr "حذف DriverPack"
+
 msgid "promoheader_cta-text-gamers"
 msgstr "رایانه شما قوی‌تر از تصور شماست: همه درایور ها را به صورت رایگان به روز کنید."
 
@@ -532,15 +541,6 @@ msgstr "همه درایورهای مورد نیاز را نصب کن"
 
 msgid "promoheader_size"
 msgstr "اندازه فایل:{{SIZE}}کیلوبایت"
-
-msgid "promoheader_license"
-msgstr "قوانین استفاده"
-
-msgid "promoheader_os-versions"
-msgstr "این نرم‌افزار مناسب برای Windows 10, 8.1, 8, 7, Vista, XP است"
-
-msgid "promoheader_uninstall"
-msgstr "حذف DriverPack"
 
 msgid "reviewheader_cta-text"
 msgstr "به جامعه DriverPack در شبکه های اجتماعی ملحق شوید تا از خبر ها و اطلاعات جدید و محصولات مطلع شده و بتوانید اظهار نظر کنید ."
@@ -944,36 +944,6 @@ msgstr "هنگامی که فلش کارت خود را به اسلات USB وصل
 msgid "cloudpagefaq_usb-a"
 msgstr "DriverPack Cloud اتصال دستگاه های جدید را نشان می دهد و بررسی می کند که راه انداز مناسب را داشته باشد. اگر راه اندازهای مورد نیاز از دسته رفته باشد، ممکن است فوراً آن را نصب کند — این برای کارکرد مناسب دستگاه ضروری است"
 
-msgid "badrabbitpromopage_cta-text"
-msgstr "Bad Rabbit باج افزار کد گذاری شده میباشد — چگونه از کامپیوتر شما محافظت کنیم؟"
-
-msgid "badrabbitpromopage_cta-subtext"
-msgstr "DriverPack شامل اقدامات خاص برای از بین بردن آسیب پذیری در برنامه های کامپیوتری است. شما میتونید با دانلود نرم افزار رایگانی که ما عرضه کردیم کامپیوتر و لپ تاپ خود را در برابر ویروس Bad Rabbit محافظت کنید."
-
-msgid "badrabbitpromopage_cta-btn"
-msgstr "تنظیم کامپیوتر و محافظت از آن در برابر Bad Rabbit"
-
-msgid "badrabbitpromopage_caption-text"
-msgstr "این نرم افزار کاملا رایگان طراحی شده است."
-
-msgid "badrabbitpromopage_info-text-title-1"
-msgstr "Bad Rabbit چیست؟"
-
-msgid "badrabbitpromopage_info-text-1"
-msgstr "Bad Rabbit یک ویروس رمزنگاری شده جدید است که از اواخر اکتبر 2017 به کامپیوترها در روسیه، اوکراین، بلغارستان و ترکیه حمله کرده است.تعدادی از قربانیان که شامل Interfax RIA، Fontanka RIA و تعدادی از وزارتخانه های اوکراین و همچنین فرودگاه اودسا میباشند.اصل جلوگیری ساده است: با استفاده از ابزار Mimikatz به منظور بازیابی اطلاعات حساب شما از حافظه کامپیوتر شما میباشد. همچنین برای بدست اوردن اطلاعات حساب کاربری فعال به جستجوی حساب کاربری میپردازد. Bad Rabbit سپس با استفاده از SMB و WebDAV می تواند دسترسی به ایستگاه های ورودی در شبکه های محلی را به دست آورد. به محض اینکه به کامپیوتر شما دسترسی پیدا میکند، ویروس تمام اطلاعاتی را که میتواند را رمزگذاری می کند و پس از آن پارتیشن Master Boot را تغییر می دهد. هنگامی که ویروس فعالیت خود را کامل می کند، Bad Rabbit کامپیوتر شما را مجددا در دست گرفته و راه اندازی میکند و شروع به باج گیری بیتکوین میکند که اولین بار با تقاضی 0.05 بیت کوین (حدود 300 دلار در پایان اکتبر 2017) برای رهایی از دست ویروس از شما میخواهد ."
-
-msgid "badrabbitpromopage_info-text-title-2"
-msgstr "چگونه کامپیوتر خود را در برابر باج افزار رمزنگاری شده Bad Rabbit محافظت کنید ؟"
-
-msgid "badrabbitpromopage_info-text-2"
-msgstr "چگونه میتوانیم سیستم خود را در برابر ویروس های جدید محافظت کنیم :<br/>• فایلی به نام infpub.dat در مسیر \\\\C:\\\\Windows تیک گزینه \"Read-only\" را در قسمت توضیحات و یا خصوصیات فایل بزنید<br/>• ببینید چه صورت های جدیدی ساخته شده در 'Task Scheduler' .<br/>• فلش پلیر را بجز سایت رسمی دانلود و آبدیت نکنید<br/>• Windows و تمامی نرم افزار های محافظتی را آبدیت نگه دارید<br/>• همیشه از سیستم عامل خود پشتیبانی تهیه کنید<br/><br/> همچنین، شما می توانید از راه حل جدید DriverPack Solution که از طریق دانلود آن در این صفحه استفاده کنید - با این کار در وقت خود صرفه جویی می کنید!<br/><b>این نرم افزار بر روی تمامی Windows 7, 8, 8.1, 10,  و XP پشتیبانی میشود.</b>"
-
-msgid "badrabbitpromopage_links-text"
-msgstr "این رشد راه حل بر پایه این مواد بوجود آمده است ."
-
-msgid "badrabbitpromopage_link-smb"
-msgstr "چگونگی فعال و غیر‌فعال کردن نسخه‌های 1، 2، و 3 از پروتکل‌های SMB برای Windows و Windows Server"
-
 msgid "cloudlandingpage_cackle-title"
 msgstr "به ما اجازه دهید که عقیده تان را در مورد DriverPack Cloud بدانیم"
 
@@ -1034,41 +1004,35 @@ msgstr "همه ی{{VENDOR.NAME}}{{CLASS.PLURAL.MAIN}}"
 msgid "errorpage_title"
 msgstr "اشکال شماره 500 رخ داد : اشکال در سرور های داخلی "
 
+msgid "gdpr-banner_text"
+msgstr "با ادامه استفاده از وبسایت، شما با جمع آوری فایل های کوکی رضایت دارید. این کار انجام میشود تا محیط راحت تری را برای کاربران فراهم کند. این اطلاعات با اشخاص ثالث به اشتراک گذاشته نخواهد شد."
+
+msgid "gdpr-banner_cta-text"
+msgstr "خب"
+
 msgid "landingfooter_landing-subtitle"
 msgstr "DriverPack شامل درایورهایی برای تمامی نسخه‌های عمومی Windows است"
 
 msgid "landing-footer_catalog-os"
 msgstr "درایور برای {{OS}}"
 
-msgid "landing-footer_download"
-msgstr "دانلود DriverPack"
-
 msgid "landing-footer_versions"
 msgstr "تمامی نسخه های نرم افزار"
+
+msgid "landing-footer_remove"
+msgstr "حذف DriverPack"
 
 msgid "landing-footer_manufacturers"
 msgstr "سازندگان سخت افزار"
 
-msgid "landing-footer_badrabbit"
-msgstr "حفاظت در برابر باج افزار Bad Rabbit"
+msgid "landing-footer_hwids"
+msgstr "Device ID"
 
 msgid "landing-footer_for-admin"
 msgstr "برای مدیران سیستم"
 
 msgid "landing-footer_for-translators"
 msgstr "برای مترجمان "
-
-msgid "landing-footer_hwids"
-msgstr "Device ID"
-
-msgid "landing-footer_wannacry"
-msgstr "حفاظت در برابر باج افزار WannaCry"
-
-msgid "landing-footer_license"
-msgstr "قوانین استفاده"
-
-msgid "landing-footer_remove"
-msgstr "حذف DriverPack"
 
 msgid "notfoundpage_title"
 msgstr "خطای 404 : صفحه مورد نظر پیدا نشد"
@@ -1151,39 +1115,3 @@ msgstr "ترجمه ی DriverPack"
 
 msgid "vendorpage_subtitle-popular"
 msgstr "دستگاه های محبوب {{VENDOR.NAME}}"
-
-msgid "wannacryptpromopage_cta-text"
-msgstr "ویروس های باج گیر و بازگشا — چگونه در طول تاریخ در مقابل بزرگترین حملات این ویروس ها محافظت انجام گرفته است ؟"
-
-msgid "wannacryptpromopage_cta-subtext"
-msgstr "DriverPack شامل اقدامات خاص برای از بین بردن آسیب پذیری در برنامه های کامپیوتر است. شما می توانید کامپیوتر یا لپ تاپ خود را با دانلود نرم افزار رایگان ما در برابر ویروس WannaCry محافظت کنید."
-
-msgid "wannacryptpromopage_cta-btn"
-msgstr "را اندازی و محافظت از بد افزار های WannaCry"
-
-msgid "wannacryptpromopage_caption-text"
-msgstr "این نرم افزار کاملا رایگان طراحی شده است."
-
-msgid "wannacryptpromopage_info-text-title-1"
-msgstr " WannaCrypt چیست؟"
-
-msgid "wannacryptpromopage_info-text-1"
-msgstr "ویروس تهدید کننده WannaCrypt (که توسط قربانیان WannaCry نامیده شده) در 12 مه به کامپیوتر ها در سراسر جهان حمله کرد و بیش از 300،000 کاربر را در 150 کشور آلوده کرد. غرب اروپا، روسیه، چین بدترین ضربه را تجربه کردند. در بریتانیا این ویروس شبکه های بهداشتی را غیرفعال کرده و فعالیت های بیمارستان ها را در سراسر کشور متوقف کرده است. در چین حمله ای به کامپیوترهای قدیمی در کارخانجات، متوقف شدند که همچنین صنایع مختلفی را متوقف کرد. در چین حمله به کامپیوترهای قدیمی در کارخانجات متوقف شدند که صنایع مختلفی را متوقف کرد.<br/><br/>نکته اصلی این است که چگونه این ویروس کار می کند، ساده است: ویروس به کامپیوتر یا لپ تاپ نفوذ می کند و به طور کامل تمام اسناد، فایل ها و موارد را که می تواند پیدا کند را رمزگذاری می کند و آنها را غیرقابل استفاده می کند. پس از آن باجگیران مقدار قابل توجهی پول برای رمزگشایی ویروس درخواست می کنند — حدود 300 دلار. با این وجود، هیچ تضمینی وجود ندارد که به فایلهای خود دسترسی داشته باشید. در حال حاضر هیچ راهی برای رمزگشایی فایل ها توسط خودتان وجود ندارد و راه حلهایی که در حال حاضر در اینترنت ارائه می شوند، ماهیگیری، گسترش یک ویروس به شیوه دیگر یا فقط با 100٪ قابل اطمینان نیستند."
-
-msgid "wannacryptpromopage_info-text-title-2"
-msgstr "چه کسانی در خطر هستند؟"
-
-msgid "wannacryptpromopage_info-text-2"
-msgstr "رایانه های شخصی که سیستم عامل های قدیمی تر از Windows 10 با پورت های باز SMB بیشترین ریسک را متحمل هستند .در این لحظه، نصف کابران  سیستم عامل های Windows در ریسک حمله قرار می گیرند — 18 % کاربران از نسخه های غیر اصلی Windows استفاده می کنند (که به طور خودکار آن ها را در خطر می اندازد) ، 23% کابران آپدیت ویندوز خود را از کار انداخته اند ( که امکان دانلود آخرین تعمیر های لازم \"تعمیر های ضروری\" را از مایکروسافت ندارند ) و 6 % دیگر از سیستم عامل های قدیمی بدون پشتیبانی استفاده می کنند که دیگر آپدیتی برایشان ارائه نمی شود. <br/><br/>و در نتیجه کمپانی ها و شرکت هایی که هنوز از سیستم عامل هایی مانند XP استفاده می کنند دارای بیشترین ریسک هستند .در هنگام حمله به چنین شبکه هایی داده هایی با ارزش از بین خواهند رفت که بدست آوردن مجدد آنها هزینه های زیادی را می طلبد و برای بازپس گرفتن دیتا این هزینه را برای تک تک رایانه های خویش بپردازند ."
-
-msgid "wannacryptpromopage_info-text-title-3"
-msgstr "چگونه از تجارت خود محافظت کنید — راه حل هایی از DriverPack Solution"
-
-msgid "wannacryptpromopage_info-text-3"
-msgstr "دلیل اصلی خطر ویروس WannaCrypt (یا WannaCry) این است که توسط ایرادات حیاتی موجود در پروتکل SMBv1 که در بولتن امنیتی MS17-010 مطرح شده خود را گسترش میدهد. این نقیصه در واقع WannaCry را در مقابل آنتی ویروس نامرئی میکند. DriverPack Solution ، شما را قادر میسازد تا آپدیتی برای محافظت از شما در برابر ایرادات بحرانی نصب شود و همچنین پروتکل های منسوخ شده را غیر فعال می کند که باعث تهدید سیستم شما، بدون در نظر گرفتن تاریخچه license و یا نسخه سیستم عامل می شوند."
-
-msgid "wannacryptpromopage_links-text"
-msgstr "توسعه این راه حل بر پایه موارد زیر است"
-
-msgid "wannacryptpromopage_link-smb"
-msgstr "چگونگی فعال و غیر‌فعال کردن نسخه‌های 1، 2، و 3 از پروتکل‌های SMB برای Windows و Windows Server"

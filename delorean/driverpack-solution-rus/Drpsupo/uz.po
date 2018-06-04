@@ -1,6 +1,6 @@
 # Translators:
 # Olim Abduvohidov <olim90@inbox.ru>, 2016
-# Olim Abduvohidov <olimabduvohidov@gmail.com>, 2016
+# Olim Abduvohidov <olimabduvohidov@gmail.com>, 2017
 # Nadia Tegeneva <nadia@drp.su>, 2017
 # Khurshed ISOKOV <mr.isokov@gmail.com>, 2017
 # Shérov <azamat9006@mail.ru>, 2017
@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-03-16 15:04+0000\n"
+"POT-Creation-Date: 2018-05-25 14:38+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Shérov <azamat9006@mail.ru>, 2017\n"
 "Language-Team: Uzbek (https://www.transifex.com/driverpack-solution/teams/75452/uz/)\n"
@@ -408,6 +408,9 @@ msgstr "DriverPack Offline Full"
 msgid "landingproducts_item-description-offline"
 msgstr "Hamma drayverlar yuklanadi, internetsiz ishlaydi, torrent bilan yuklab olinadi. <span class='nobr'>({{SIZE}})</span>"
 
+msgid "landingpublications__source-link"
+msgstr ""
+
 msgid "landingpublications__landing-title"
 msgstr "DriverPack haqida jurnalistlar yozadi"
 
@@ -504,6 +507,12 @@ msgstr "DriverPack Offline Full ni yuklab olish"
 msgid "productlandingheader-offline_caption"
 msgstr "DriverPack Offline Full -  {{SIZE}} hajmdagi internetga ulanmasdan drayverlarni o'rnatishning eng katta bazasi. Faqatgina DriverPack Offline Full ni to'liq yuklab oling va joriy drayverlarning katta kutubxonasidan istalgan joyda foydalaning. Tizim administratorlari uchun ideal."
 
+msgid "promoheader_os-versions"
+msgstr "Dastur Windows 10, 8.1, 8, 7, Vista, XP uchun mos keladi"
+
+msgid "promoheader_uninstall"
+msgstr "Dasturni o'chirish"
+
 msgid "promoheader_cta-text-gamers"
 msgstr "Kompyuteringiz siz o'ylagandan ko'ra kuchliroq: barcha drayverlarni bepul yangilash"
 
@@ -518,15 +527,6 @@ msgstr "Barcha kerakli drayverlarni o'rnatish"
 
 msgid "promoheader_size"
 msgstr "Fayl hajmi: {{SIZE}} KB"
-
-msgid "promoheader_license"
-msgstr "Litsenziya shartnomasi"
-
-msgid "promoheader_os-versions"
-msgstr "Dastur Windows 10, 8.1, 8, 7, Vista, XP uchun mos keladi"
-
-msgid "promoheader_uninstall"
-msgstr "Dasturni o'chirish"
 
 msgid "reviewheader_cta-text"
 msgstr "Dastur yangiliklarini o'rganish va muhokamalarda ishtirok etish uchun ijtimoiy tarmoqlardagi DriverPack jamoasiga qo'shiling"
@@ -930,36 +930,6 @@ msgstr ""
 msgid "cloudpagefaq_usb-a"
 msgstr ""
 
-msgid "badrabbitpromopage_cta-text"
-msgstr "Shifrlovchi virus Bad Rabbit — kompyuterni qanday himoya qilish kerak"
-
-msgid "badrabbitpromopage_cta-subtext"
-msgstr "DriverPack, kompyuter konfiguratsiya vositalaridagi zaifliklarni bartaraf etish uchun maxsus vositalarni o'z ichiga oladi. Kompyuteringizni va noutbukingizni Bad Rabbit virusidan himoya qilish uchun bepul himoya qilish vositasini yuklab olishingiz mumkin."
-
-msgid "badrabbitpromopage_cta-btn"
-msgstr "Kompyuterni sozlash va Bad Rabbit dan himoya qilish"
-
-msgid "badrabbitpromopage_caption-text"
-msgstr "Dastur bepul tarqatiladi"
-
-msgid "badrabbitpromopage_info-text-title-1"
-msgstr "Bad Rabbit nima o'zi?"
-
-msgid "badrabbitpromopage_info-text-1"
-msgstr "Bad Rabbit - o'tgan hafta davomida Rossiya, Ukraina, Bolgariya va Turkiyada foydalanuvchilarning kompyuterlariga hujum qilgan yangi kriptografik virus. RIA \"Interfaks\", \"Fontanka\", Ukrainaning bir qator vazirliklari, shuningdek, \"Odessa\" aeroportiga hujum qildi. Virusning printsipi sodda - sizning shaxsiy kompyuteringizdagi xotira ma'lumotlarini olish uchun Mimikatz dasturidan foydalanadi, shuningdek, faol administrator hisob varaqasini qidiradi. Bad Rabbit SMB va WebDAV yordamida mahalliy tarmoqdagi ish stantsiyalariga kirishga harakat qiladi. Kompyuterga kirgandan so'ng virus barcha ma'lumotlarga parollaydi va keyin Master Boot Recordni o'zgartiradi. Ushbu protsedurani tugatgandan so'ng, Bad Rabbit kompyuterni qayta ishga tushiradi va 0,05 Bitkoin to'lashni talab qiladigan xabarni ko'rsatadi (10.12.2017 holatiga  5 715 897 so'mni tashkil qiladi)."
-
-msgid "badrabbitpromopage_info-text-title-2"
-msgstr "Qanday qilib o'z kompyuterimni Bad Rabbit shifrlovchi virusidan himoya qilishim mumkin?"
-
-msgid "badrabbitpromopage_info-text-2"
-msgstr "Yangi virusga qarshi himoya qilish uchun nima qilish kerak:<br/>• C:\\Windows\\ papkasida infpub.dat faylini yarating va \"Faqat o'qish\" belgisini  belgilang<br/>• \"Vazifa rejalashtiruvchisi\" da yangi vazifalar yaratilishini kuzating<br/>• FlashPlayer uchun boshqa saytlardan yangilanishlarni o'rnatmang<br/>• Windows dagi barcha o'rnatilgan himoyalanish dasturlarini yangilash<br/>• Operatsion tizimning zaxira nusxalarini yaratish<br/><br/>Shuningdek, ushbu yangi DriverPack Solution ni yuklab olish yo'li bilan yangi yechimdan foydalanishingiz mumkin - bu sizning vaqtingizni tejaydi!<br/><b>Bizning yechimimiz Windows 7, 8, 8.1, 10 va XP uchun.</b>"
-
-msgid "badrabbitpromopage_links-text"
-msgstr "Izlanish quyidagi materiallarga asoslangan"
-
-msgid "badrabbitpromopage_link-smb"
-msgstr "Qanday qilib Windows va Windows Serverda  SMB 1, 2 va 3 versiyalarini o'chirish va yoqish mumkin"
-
 msgid "cloudlandingpage_cackle-title"
 msgstr ""
 
@@ -1020,41 +990,35 @@ msgstr "{{VENDOR.NAME}} ning barcha {{CLASS.PLURAL.MAIN}}"
 msgid "errorpage_title"
 msgstr "Xato 500: serverdagi ichki xatolik"
 
+msgid "gdpr-banner_text"
+msgstr ""
+
+msgid "gdpr-banner_cta-text"
+msgstr ""
+
 msgid "landingfooter_landing-subtitle"
 msgstr "DriverPack da Windows ning barcha ommabop versiyalari uchun drayverlar bor"
 
 msgid "landing-footer_catalog-os"
 msgstr "{{OS}} uchun drayverlar"
 
-msgid "landing-footer_download"
-msgstr "DriverPack’ni yuklab olish"
-
 msgid "landing-footer_versions"
 msgstr "Dasturning barcha versiyalari"
+
+msgid "landing-footer_remove"
+msgstr "Dasturni o'chirish"
 
 msgid "landing-footer_manufacturers"
 msgstr "Qurilma ishlab chiqaruvchilari"
 
-msgid "landing-footer_badrabbit"
-msgstr "Bad Rabbit dan himoya"
+msgid "landing-footer_hwids"
+msgstr "Device ID"
 
 msgid "landing-footer_for-admin"
 msgstr "Tizim administratorlari uchun"
 
 msgid "landing-footer_for-translators"
 msgstr "Tarjimonlar uchun"
-
-msgid "landing-footer_hwids"
-msgstr "Device ID"
-
-msgid "landing-footer_wannacry"
-msgstr "WannaCry dan himoya"
-
-msgid "landing-footer_license"
-msgstr "Litsenziya shartnomasi"
-
-msgid "landing-footer_remove"
-msgstr "Dasturni o'chirish"
 
 msgid "notfoundpage_title"
 msgstr "Xato 404: sahifa topilmadi"
@@ -1137,39 +1101,3 @@ msgstr "DriverPack -ni tarjima qilish"
 
 msgid "vendorpage_subtitle-popular"
 msgstr "{{VENDOR.NAME}} ning ommabop qurilmalari"
-
-msgid "wannacryptpromopage_cta-text"
-msgstr "WannaCrypt shifrlovchi virusi — tarixda eng katta virus hujumidan qanday himoyalanish mumkin?"
-
-msgid "wannacryptpromopage_cta-subtext"
-msgstr "DriverPack, kompyuter konfiguratsiya vositalaridagi zaifliklarni bartaraf etish uchun maxsus vositalarni o'z ichiga oladi. Kompyuteringizni va noutbukingizni WannaCry virusidan himoya qilish uchun bepul himoya qilish vositasini yuklab olishingiz mumkin."
-
-msgid "wannacryptpromopage_cta-btn"
-msgstr "Kompyuterni sozlash va WannaCry dan himoya qilish"
-
-msgid "wannacryptpromopage_caption-text"
-msgstr "Dastur bepul tarqatiladi"
-
-msgid "wannacryptpromopage_info-text-title-1"
-msgstr "WannaCrypt nima o'zi?"
-
-msgid "wannacryptpromopage_info-text-1"
-msgstr "WannaCrypt virusi (WannaCry, jabrlanganlar o'g'zi bilan) 12 may kuni dunyodagi kompyuterlarga hujum qilib, 150 mamlakatdan 300 000 ortiq foydalanuvchilarga hujum qildi. Eng ko'p G'arbiy Evropa, Rossiya va Xitoy hujumga uchradi. Buyuk Britaniyada virus Sog'liqni saqlash vazirligining tarmog'ini o'chirib qo'ydi, mamlakat bo'ylab shifoxonalar ishini to'xtatib qo'ydi. Xitoyda, virus hujumi bir qator fabrikalardagi eskirgan kompyuterlarga to'g'ri keldi. Buning oqibatida ishlab chiqarish vaqtincha to'xtab qoldi.<br/><br/>Virus ishlar mohiyati oddiy - u kompyuteringizga kirib, topgan barcha hujjatlar, fayllar va materiallarni shifrlaydi. Buning oqibatida fayllardan foydalanib bo'lmaydi. Virusdan qutulish uchun pul talab etiladi — qariyb 300 dollar. Shu bilan birga, to'lovdan keyin sizga fayllardan foydalanish huquqini kafolatlamaydi. Virusdan qutulishning hozirgi vaqtda mustaqil yo'li yo'q. Hozirda internetda taklif etilayotgan yechimlar esa 100% fishing yoki yana bir boshqa virusni tarqatishdir yoki shunchaki ishlamaydi."
-
-msgid "wannacryptpromopage_info-text-title-2"
-msgstr "Kimlar xavf ostida?"
-
-msgid "wannacryptpromopage_info-text-2"
-msgstr "Eng katta xavf ostida Windows 10  dan past bo'lgan SMB portlari ochiq operatsion tizim o'rnatilgan kompyuterlar kiradi. Xavf ostida hozirda kamida Windows OSning yarim foydalanuvchilari kiradi — 18% foydalanuvchilar Windows ning litsenziyalanmagan nusxalardan foydalanib (avtomatik tarzda xavf zonasiga kirishadi). Yana 23% foydalanuvchilarda Windows Update xizmati o'chirilgan bo'lib (Microsoftdan yangi \"yamoqlarni\" yuklab olmaydi) va yana 6% foydalanuvchilar eskirgan OSlardan foydalanishadi. Ularga yangilanishlar umuman chiqarilmaydi.<br/><br/>Yuqorilardan kelib chiqib, xulosa qilish mumkinki eng katta xavf Windows XP ishlatayotgan kichik kompaniyalarning lokal tarmoqlariga to'g'ri keladi. Hujum ostida qolgan bunaqa tarmoqda ma'lumotlarning yo'qotilishi juda katta xarajatlarga olib kelishi mumkin va hatto har bitta kompyuter uchun alohida \"to'lov\" qilishga to'g'ri keladi."
-
-msgid "wannacryptpromopage_info-text-title-3"
-msgstr "O'z biznesingizni qanday gimoya qilasiz — DriverPack Solution dan yechim"
-
-msgid "wannacryptpromopage_info-text-3"
-msgstr "WannaCrypt (WannaCry) — virusining xavfiligining asosiy sababi SMBv1 protokolidagi MS17-010 xavfsizlik tizimining zaifligidan foydalanib tarqatiladi. Bu holat antivirus dasturiga WannaCry ni deyarli ko'rinmas qilib qo'yadi. DriverPack Solution dagi yechim sizning operatsion tizimingizning versiyasi va litsenziyasidan qat'iy nazar muhim zaifliklarini yopish va xavf tug'diradigan eskirib qolgan protokollarni o'chirish uchun sizning OSga yangilashlarni o'rnatadi. "
-
-msgid "wannacryptpromopage_links-text"
-msgstr "Izlanish quyidagi materiallarga asoslangan"
-
-msgid "wannacryptpromopage_link-smb"
-msgstr "Qanday qilib Windows va Windows Serverda  SMB 1, 2 va 3 versiyalarini o'chirish va yoqish mumkin"

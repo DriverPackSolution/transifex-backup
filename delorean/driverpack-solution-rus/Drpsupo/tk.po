@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-03-16 15:04+0000\n"
+"POT-Creation-Date: 2018-05-25 14:38+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: TACHDURDY SOLTANOV <tacdurdy1996@gmail.com>, 2017\n"
 "Language-Team: Turkmen (https://www.transifex.com/driverpack-solution/teams/75452/tk/)\n"
@@ -407,6 +407,9 @@ msgstr "DriverPack Offline Full"
 msgid "landingproducts_item-description-offline"
 msgstr "Içinde ähli sürüjiler bar, internetsiz işleýär, torrent üsti bilen ýüklenýär <span class='nobr'>({{SIZE}})</span>"
 
+msgid "landingpublications__source-link"
+msgstr ""
+
 msgid "landingpublications__landing-title"
 msgstr "DriverPack barada žurnalistler ýazýar"
 
@@ -503,6 +506,12 @@ msgstr "DriverPack Offline Full ýükle"
 msgid "productlandingheader-offline_caption"
 msgstr "DriverPack Offline Full - göwrümi {{SIZE}} bolan ägirt uly ýygnama bolup internet aragatnaşygy bolman hem işleýär. DriverPack Offline ýükläň we ägirt uly aktual kitaphanadan islendik ýerde peýdalanyň. Sistema administratorlaryň işi üçin örän amatly."
 
+msgid "promoheader_os-versions"
+msgstr "Programma Windows 10, 8.1, 8, 7, Vista, XP üçin deň gelýär"
+
+msgid "promoheader_uninstall"
+msgstr "Programmany aýyrmak"
+
 msgid "promoheader_cta-text-gamers"
 msgstr "Siziň kmpýuteriňiz pikir edişiňizden hem güýçli: ähli sürüjileri mugt täzeleň"
 
@@ -517,15 +526,6 @@ msgstr "Gerekli ähli sürüjileri gurnamak"
 
 msgid "promoheader_size"
 msgstr "Faýlyň göwrümi: {{SIZE}} KB"
-
-msgid "promoheader_license"
-msgstr "Lisenzion ylalaşyk"
-
-msgid "promoheader_os-versions"
-msgstr "Programma Windows 10, 8.1, 8, 7, Vista, XP üçin deň gelýär"
-
-msgid "promoheader_uninstall"
-msgstr "Programmany aýyrmak"
 
 msgid "reviewheader_cta-text"
 msgstr "Sosial torlardaky DriverPack toplumyna goşulyň, önümiň täzelikleri barada öwrenmek we pikir alyş çalyşlara gatnaşmak üçin"
@@ -929,36 +929,6 @@ msgstr "Men usb-girişe fleshka çatdym, şondan soň iş stolunda bir ürüji b
 msgid "cloudpagefaq_usb-a"
 msgstr "DriverPack Cloud täze enjamlaryň baglanmagyny gözegçilik edip durýar we sürüjielriň laýyklygyny barlaýar. Eger sürüji ýok bolsa, ony derrew gurup bolýar  — bu enjamlaryň talaba laýyk işe ýarawlylygy üçin gerek."
 
-msgid "badrabbitpromopage_cta-text"
-msgstr "Şifrleýän wirus Bad Rabbit — öz PK nädip goramaly"
-
-msgid "badrabbitpromopage_cta-subtext"
-msgstr "DriverPack içinde kompýuter sazlamalaryndaky gowşaklyklary aýyrmak üçin ýörite tär saklaýar. Siz öz personal kompýuteriňizi ýa-da noutbukyňyzy Bad Rabbit wirusdan goranmak üçin mugt goranmany ýükläp bilersiňiz, ol bolsa siziň kompýuteriňizi howpdan gorar."
-
-msgid "badrabbitpromopage_cta-btn"
-msgstr "Kompýuteri gurnamak we ony Bad Rabbit - den goramak"
-
-msgid "badrabbitpromopage_caption-text"
-msgstr "Programma mugt ýaýradylýar"
-
-msgid "badrabbitpromopage_info-text-title-1"
-msgstr "Bad Rabbit näme?"
-
-msgid "badrabbitpromopage_info-text-1"
-msgstr "Bad Rabbit - täze şifrleýän wirus, soňky hepdede Rossiýa, Ukraina, Bolgariýa we Türkiýe döwletlerindäki ulanyjylaryň kompýuterlerine hüjüm etdi. РИА \"Интерфакс\", \"Фонтанка\", Ukrainanyň käbir ministrlikleri we \"Odessa\" aeroporty hüjüm astynda galanlar. Wirusyň işleýiş ýörelgesi ýönekeý - ol Mimikatz kömegi bilen siziň PK ýadyndaky hasabat maglumatlaryny çykarýar, şeýle hem aktiw administrator hasabat maglumatlaryny gözleýär. Bad Rabbit iş stansiýalarynda hem-de lokal setlerde, SMB we WebDAV üsti bilen, rugsat elde etjek bolýar.  PK-de rugsat elde edip bolandan soň, wirus ähli maglumatlary şifrleýär, elbetde ýetip bilen ahli ýerine, ondan soň bolsa Master Boot Record - y öýtgedýär. Bu işleri ýerine ýetirenden soň Bad Rabbit kompýuteriňizi täzeden başladýar we 0,05 Bitkoin tölemegiňiz üçin habar çykarýar (26.10.2017 kurs boýunça bu 1032.5 manat)"
-
-msgid "badrabbitpromopage_info-text-title-2"
-msgstr "Öz PK-ňizi sifrleýän wirus Bad Rabbit - den nädip goramaly?"
-
-msgid "badrabbitpromopage_info-text-2"
-msgstr "WindowsWirusdan goranmak üçin nämeler edip bolar:<br/>• C:\\Windows\\ bukjanyň içinde infpub.dat atly faýl döredip onuň häsiýetlerinde \"Diňe okamak üçin\" diýen ýerini belgilemeli<br/>• \"Wezipe Planlaşdyryjy\" içinde täze ýüze çykýan wezipeleri dykgat bilen yzarlamaly<br/>• Keseki saýtlardan FlashPlayer täzelemeleri ýüklemeli däl<br/>• Windows we goranmak üçin gurulan ähli programmalary täzelemeli<br/>• Operasion sistemanyň ätiýaçlyk nusgasyny döretmeli<br/><br/>Şeýle hem DriverPack Solution tarapyndan hödürlenen täze çözüwden peýdalanyp bilersiňiz, ony şu sahypadan ýükläp bilersiňiz - bu bolsa siziň wagtyňyzy tygşytlar!<br/><b>Biziň çözüwimiz Windows 7, 8, 8.1, 10 we XP - de işleýär.</b>"
-
-msgid "badrabbitpromopage_links-text"
-msgstr "Işläp düzmek indiki materiallara esas alyp amala aşyryldy"
-
-msgid "badrabbitpromopage_link-smb"
-msgstr "Windows we Windows Server -de SMB 1, 2 we 3 wersiýa protokollary nädip ýakmaly we öçürmeli?"
-
 msgid "cloudlandingpage_cackle-title"
 msgstr "DriverPack Cloud barada öz pikiriňizi aýdyň"
 
@@ -1019,41 +989,35 @@ msgstr "Ähli {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
 msgid "errorpage_title"
 msgstr "Ýalňyşlyk 500: içki serwer ýalňyşlygy"
 
+msgid "gdpr-banner_text"
+msgstr ""
+
+msgid "gdpr-banner_cta-text"
+msgstr ""
+
 msgid "landingfooter_landing-subtitle"
 msgstr "DriverPack içinde Windows -yň ähli meşhur wersiýalary üçin sürüjiler bar"
 
 msgid "landing-footer_catalog-os"
 msgstr "{{OS}} üçin sürüji"
 
-msgid "landing-footer_download"
-msgstr "DriverPack ýüklemek"
-
 msgid "landing-footer_versions"
 msgstr "Programmanyň ähli wersiýalary"
+
+msgid "landing-footer_remove"
+msgstr "Programmany aýyrmak"
 
 msgid "landing-footer_manufacturers"
 msgstr "Enjam öndürijileri"
 
-msgid "landing-footer_badrabbit"
-msgstr "Bad Rabbit - den gorag"
+msgid "landing-footer_hwids"
+msgstr "Device ID"
 
 msgid "landing-footer_for-admin"
 msgstr "Sistema administratorlary üçin"
 
 msgid "landing-footer_for-translators"
 msgstr "Terjimeçiler üçin"
-
-msgid "landing-footer_hwids"
-msgstr "Device ID"
-
-msgid "landing-footer_wannacry"
-msgstr "WannaCry - den gorag"
-
-msgid "landing-footer_license"
-msgstr "Lisenzion ylalaşyk"
-
-msgid "landing-footer_remove"
-msgstr "Programmany aýyrmak"
 
 msgid "notfoundpage_title"
 msgstr "Ýalňyşlyk 404: sahypa tapylmady"
@@ -1136,39 +1100,3 @@ msgstr "DriverPack terjimesi"
 
 msgid "vendorpage_subtitle-popular"
 msgstr "{{VENDOR.NAME}}üçin meşhur abzallar"
-
-msgid "wannacryptpromopage_cta-text"
-msgstr "Şifrleýän wirus WannaCrypt — taryhdaky iň uly masştably wirus hüjüminden nädip goranmaly?"
-
-msgid "wannacryptpromopage_cta-subtext"
-msgstr "DriverPack içinde kompýuter sazlamalaryndaky gowşaklyklary aýyrmak üçin ýörite tär saklaýar. Siz öz personal kompýuteriňizi ýa-da noutbukyňyzy  WannaCry wirusdan goranmak üçin mugt goranmany ýükläp bilersiňiz, ol bolsa siziň kompýuteriňizi howpdan gorar."
-
-msgid "wannacryptpromopage_cta-btn"
-msgstr "Kompýuteri nädip gurnamaly we ony WannaCry-den nädip goramaly"
-
-msgid "wannacryptpromopage_caption-text"
-msgstr "Programma mugt paýlanýar"
-
-msgid "wannacryptpromopage_info-text-title-1"
-msgstr "WannaCrypt näme?"
-
-msgid "wannacryptpromopage_info-text-1"
-msgstr "Zorlap alyjy WannaСrypt wirus (ejir çekenler tarapyndan WannaCry ady berilen) 12-nji maýda bütin dünýä boýunça kompýuterlere hüjüm etdi, şeýdip dünýädäki 150 döwletden  300 000 - den hem köp ulanyja bulaşdy. Iň köp Günbatar Ýewropa, Rossiýa we Kitaý ejir çekdi. Beýik Britaniýada wirus Saglyk Ministrliginiň toryny işlemez ýaly etdi, şeýdip döwlet çäginde hassahana işlerini duruzdy. Kitaýdaky hüjümde bolsa fabrikalardaky könelen kompýuterler hüjüme sezewar boldy, bu bolsa bir topar önümçiligiň durmagyna getirdi.<br/><br/>Wirusyň işleýiş esasy ýönekey — ol siziň PK ýa-da notbukyňyza girýär we tapyp bilen ähli dokument, faýl we materiallary şifrleýär, şeýdip olary ulanmak üçin elýetmez edýär. Şifrlemäni aýyrmak üçin jenaýatkärler agyr möçberde pul soraýarlar — 300 dollar töwereginde. Bulara garamazdan Siz töleg geçirenden soň faýllaryňyzyň elýeter boljagyna hiç hili kepillik ýok. Häzirki wagtda faýllaryň şifrlemelerini özbaşdak ýagdaýa aýyrmak mümkinçiligi ýok, torda teklip edilýän çözüwler bolsa 100% ähtimallyk bilen ýa phishing ýa başga wirusy ýaýratmagyň usuly ýa-da ýöne işlemeýär."
-
-msgid "wannacryptpromopage_info-text-title-2"
-msgstr "Risk zonasynda kim ýerleşýär?"
-
-msgid "wannacryptpromopage_info-text-2"
-msgstr "Has uly howpa duçar bolan personal komýuterler bolsa SMB portlary açyk bolan Windows 10 -dan öňki operasion sistemalar. Risk zonasynda azynda Windows OS ulanyjylarynyň ýarysy ýerleşýär — azyndan ulanyjylaryň 18% -i lisenzirlenen Windows ulanmaýarlar (awtomatiki ýagdaýda risk zonasyna düşýänler), 23% ulanyjylarda Windows Update hyzmaty öçürilen (bu bolsa Microsoft tarapynda goýberilern \"ýama\" ýüklemäge ýol bermeýär), ýene 6% bolsa könelişen OS ulanýarlar, olara bolsa täzelenmeler öndürilmeýar. <br/><br/>Ýokaryda aýdylanlary nazar aly iň esasy howpyň dürli firma we guramalaryň lokal torlaryň duçar bolýandygy aýtmak bolar, olardan käbirleri bolsa hali-şindi Windows XP ýaly OS ulanýarlar. Hüjüm ýagdaýynda şeýle torlarda maglumatlaryň ýitmegi gymmatbaha bolup biler we hat-da her personal kompýuter üçin aýratynlykda \"azatlyk üçin töläp\" yzyna almaly bolup biler."
-
-msgid "wannacryptpromopage_info-text-title-3"
-msgstr "Öz biznesiňi nädip goramaly  —  DriverPack Solution -dan çözüw"
-
-msgid "wannacryptpromopage_info-text-3"
-msgstr "WannaCrypt (WannaCry) wirusynyň esasy howplulygy — SMBv1 protokolynyň MS17-010 hopwsuzlyk sistemasyndaky howply gowşaklyk sebäpli ýaýramagy. Bu bolsa WannaCry wirusy antiwiruslar üçin görünmez ýaly edýär. DriverPack Solution tarapynda çözüw bolsa, lisenzion geçmişe we siziň OS wersiýaňyza garamazdan, tiz wagtda täzelenmeleri ýüklär, şeýdip siziň sistemaňyzdaky howply gowşaklyklar ýapar we könelen, howp salýan, protokollary aýyrar."
-
-msgid "wannacryptpromopage_links-text"
-msgstr "Işläp düzmek indiki materiallara esas alyp amala aşyryldy"
-
-msgid "wannacryptpromopage_link-smb"
-msgstr "Windows we Windows Server -de SMB 1, 2 we 3 wersiýa protokollary nädip ýakmaly we öçürmeli?"

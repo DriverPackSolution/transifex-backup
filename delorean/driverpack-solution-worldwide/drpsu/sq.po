@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-03-16 15:04+0000\n"
+"POT-Creation-Date: 2018-05-25 14:38+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Niti10 <adnitkamberi10@gmail.com>, 2018\n"
 "Language-Team: Albanian (https://www.transifex.com/driverpack-solution/teams/75453/sq/)\n"
@@ -408,6 +408,9 @@ msgstr "DriverPack Offline Full"
 msgid "landingproducts_item-description-offline"
 msgstr "Përmban të gjithë drajverat, funksionon pa lidhje në Internet, mund të shkarkohen nëpërmjet Torrent-tracker <span class='nobr'>({{SIZE}})</span>"
 
+msgid "landingpublications__source-link"
+msgstr ""
+
 msgid "landingpublications__landing-title"
 msgstr "Publikimet në masmedia rreth DriverPack"
 
@@ -504,6 +507,12 @@ msgstr "Shkarko DriverPack Offline Full"
 msgid "productlandingheader-offline_caption"
 msgstr "DriverPack Offline Full - është një paketë gjigande me madhësi {{SIZE}} për instalimin e drajverave pa akses në Internet. Thjesht shkarko DriverPack Offline Full dhe përdor librarinë e stërmadhe të drajverave të përditësuar kudo që dëshironi. Përshtatet në mënyrë perfekte për administratorët e sistemit."
 
+msgid "promoheader_os-versions"
+msgstr "Softueri përshtatet me Windows 10, 8.1, 8, 7, Vista, XP"
+
+msgid "promoheader_uninstall"
+msgstr "Fshirje e DriverPack"
+
 msgid "promoheader_cta-text-gamers"
 msgstr "Kompjuteri juaj është më i fuqishëm se sa ju mendoni: përditësoni të gjithë drajverat falas"
 
@@ -518,15 +527,6 @@ msgstr "instalo të gjith driverat e nevojshëm"
 
 msgid "promoheader_size"
 msgstr "Madhësia e skedarit: {{SIZE}} KB"
-
-msgid "promoheader_license"
-msgstr "Marrëveshja e Licencës"
-
-msgid "promoheader_os-versions"
-msgstr "Softueri përshtatet me Windows 10, 8.1, 8, 7, Vista, XP"
-
-msgid "promoheader_uninstall"
-msgstr "Fshirje e DriverPack"
 
 msgid "reviewheader_cta-text"
 msgstr "Bashkohu me komunitetin e DriverPack në rrjetet sociale për të qenë i përditësuar me të rejat e produktit dhe merr pjesë në diskutime"
@@ -930,36 +930,6 @@ msgstr ""
 msgid "cloudpagefaq_usb-a"
 msgstr ""
 
-msgid "badrabbitpromopage_cta-text"
-msgstr "Virusi kriptografik Bad Rabbit — si të mbrojmë kompjuterin tuaj?"
-
-msgid "badrabbitpromopage_cta-subtext"
-msgstr "DriverPack përmban veprimte të caktuara për eliminimin e dobësive në mjetet për konfigurimin e kompjuterit.Ju mund ta siguroni kompjuterin apo laptopin duke shkarkuar mbrojtjen falas nga virusi Bad Rabbit."
-
-msgid "badrabbitpromopage_cta-btn"
-msgstr "Konfiguro kompjuterin tuaj dhe mbroje atë nga virusi Bad Rabbit"
-
-msgid "badrabbitpromopage_caption-text"
-msgstr "Ky program jepet falas"
-
-msgid "badrabbitpromopage_info-text-title-1"
-msgstr "Çka është Bad Rabbit?"
-
-msgid "badrabbitpromopage_info-text-1"
-msgstr ""
-
-msgid "badrabbitpromopage_info-text-title-2"
-msgstr "Si të mbroni kompjuterin tuaj nga virusi kriptografik Bad Rabbit?"
-
-msgid "badrabbitpromopage_info-text-2"
-msgstr ""
-
-msgid "badrabbitpromopage_links-text"
-msgstr "Zhvillimi i kësaj zgjidhje është bazuar në materialet që vijojnë"
-
-msgid "badrabbitpromopage_link-smb"
-msgstr "Si të lejoni dhe anuloni versionet 1, 2, dhe 3 të protokolit SMB për Windows dhe Windows Server"
-
 msgid "cloudlandingpage_cackle-title"
 msgstr ""
 
@@ -1020,41 +990,35 @@ msgstr ""
 msgid "errorpage_title"
 msgstr "Error 500: problem i brendshëm i serverit"
 
+msgid "gdpr-banner_text"
+msgstr ""
+
+msgid "gdpr-banner_cta-text"
+msgstr ""
+
 msgid "landingfooter_landing-subtitle"
 msgstr "DriverPack përmban drajvera për të gjitha versionet e njohura të Windows"
 
 msgid "landing-footer_catalog-os"
 msgstr "drajvera për {{OS}}"
 
-msgid "landing-footer_download"
-msgstr "Shkarko DriverPack"
-
 msgid "landing-footer_versions"
 msgstr "Të gjithë versionet e programit"
+
+msgid "landing-footer_remove"
+msgstr "Fshirje e DriverPack"
 
 msgid "landing-footer_manufacturers"
 msgstr "Prodhuesit e Hardwerit"
 
-msgid "landing-footer_badrabbit"
-msgstr "Mbrojtje nga Bad Rabbit"
+msgid "landing-footer_hwids"
+msgstr "Device ID"
 
 msgid "landing-footer_for-admin"
 msgstr "Për administratorët e sistemit"
 
 msgid "landing-footer_for-translators"
 msgstr "Për përkthyes"
-
-msgid "landing-footer_hwids"
-msgstr "Device ID"
-
-msgid "landing-footer_wannacry"
-msgstr "Mbrojtje kundër WannaCry"
-
-msgid "landing-footer_license"
-msgstr "Marrëveshja e Licencës"
-
-msgid "landing-footer_remove"
-msgstr "Fshirje e DriverPack"
 
 msgid "notfoundpage_title"
 msgstr "Error 404: faqja nuk u gjend"
@@ -1137,39 +1101,3 @@ msgstr "DriverPack Përkthimi"
 
 msgid "vendorpage_subtitle-popular"
 msgstr "Pajisjet e njouhura nga {{VENDOR.NAME}}"
-
-msgid "wannacryptpromopage_cta-text"
-msgstr ""
-
-msgid "wannacryptpromopage_cta-subtext"
-msgstr ""
-
-msgid "wannacryptpromopage_cta-btn"
-msgstr "Konfiguroje kompjuterin dhe mbroje kundër WannaCry"
-
-msgid "wannacryptpromopage_caption-text"
-msgstr "Ky program jepet falas"
-
-msgid "wannacryptpromopage_info-text-title-1"
-msgstr "Çka është WannaCrypt?"
-
-msgid "wannacryptpromopage_info-text-1"
-msgstr ""
-
-msgid "wannacryptpromopage_info-text-title-2"
-msgstr ""
-
-msgid "wannacryptpromopage_info-text-2"
-msgstr ""
-
-msgid "wannacryptpromopage_info-text-title-3"
-msgstr ""
-
-msgid "wannacryptpromopage_info-text-3"
-msgstr ""
-
-msgid "wannacryptpromopage_links-text"
-msgstr "Zhvillimi i kësaj zgjidhje është bazuar në materialet që vijojnë"
-
-msgid "wannacryptpromopage_link-smb"
-msgstr "Si të lejoni dhe anuloni versionet 1, 2, dhe 3 të protokolit SMB për Windows dhe Windows Server"

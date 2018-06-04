@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-03-16 15:04+0000\n"
+"POT-Creation-Date: 2018-05-25 14:38+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Sergei <serjsafarian@gmail.com>, 2018\n"
 "Language-Team: Armenian (https://www.transifex.com/driverpack-solution/teams/75452/hy/)\n"
@@ -405,6 +405,9 @@ msgstr "DriverPack Offline Full"
 msgid "landingproducts_item-description-offline"
 msgstr "Պարունակում է բոլոր սարքավարները, աշխատում է առանց համացանցի, ներբեռնվում է հոսընթացի միջոցով <span class='nobr'>({{SIZE}})</span>"
 
+msgid "landingpublications__source-link"
+msgstr ""
+
 msgid "landingpublications__landing-title"
 msgstr "Լրագրողները DriverPack-ի մասին"
 
@@ -501,6 +504,12 @@ msgstr "Ներբեռնել DriverPack Offline Full-ը"
 msgid "productlandingheader-offline_caption"
 msgstr "DriverPack Offline Full-ը {{SIZE}} կազմող հսկա փաթեթ է՝ սարքավարներն առանց համացանցի տեղադրելու համար։ Պարզապես ներբեռնեք DriverPack Offline Full-ը և օգտվեք արդիական սարքավարների խոշորագույն գրադարանից։ Կատարելապես համապատասխանում է համակարգի ադմինիստրատորների պահանջներին։"
 
+msgid "promoheader_os-versions"
+msgstr "Ծրագիրը համատեղելի է Windows 10, 8.1, 8, 7, Vista և XP-ի հետ"
+
+msgid "promoheader_uninstall"
+msgstr "Ծրագրի հեռացում"
+
 msgid "promoheader_cta-text-gamers"
 msgstr "Ձեր համակարգիչն ավելի հզոր է, քան կարծում եք. թարմացրեք բոլոր սարքավարներն անվճար"
 
@@ -515,15 +524,6 @@ msgstr "Տեղադրել բոլոր անհրաժեշտ սարքավարները"
 
 msgid "promoheader_size"
 msgstr "Նիշքի չափը՝ {{SIZE}} Կբ"
-
-msgid "promoheader_license"
-msgstr "Լիցենզիոն համաձայնագիր"
-
-msgid "promoheader_os-versions"
-msgstr "Ծրագիրը համատեղելի է Windows 10, 8.1, 8, 7, Vista և XP-ի հետ"
-
-msgid "promoheader_uninstall"
-msgstr "Ծրագրի հեռացում"
 
 msgid "reviewheader_cta-text"
 msgstr "Միացեք DriverPack-ի համայնքին սոցցանցերում՝ արտադրանքի մասին նորություններն իմանալու և քննարկումներին մասնակցելու համար"
@@ -927,36 +927,6 @@ msgstr "Ես մտցրի ֆլեշ-քարտս usb-բնիկի մեջ, ինչից հ
 msgid "cloudpagefaq_usb-a"
 msgstr "DriverPack Cloud-ը բացահայտում է նոր սարքերի միացումը և ստուգում է սարքավարների  համապատասխանությունը։ Եթե պահանջվող սարքավարը բացակայում է, կարելի է անհապաղ տեղադրել այն — դա անհրաժեշտ է սարքի պատշաճ աշխատունակության համար։"
 
-msgid "badrabbitpromopage_cta-text"
-msgstr "Գաղտնագրող վիրուս Bad Rabbit — ինչպե՞ս պաշտպանել համակարգիչը"
-
-msgid "badrabbitpromopage_cta-subtext"
-msgstr "DriverPack-ը համակարգչի կարգավորման միջոցների մեջ պարունակում է խոցելիության վերացման համար նախատեսված հատուկ գործիքներ։ Դուք կարող եք ներբեռնել անվճար պաշտպանությունը Bad Rabbit վիրուսից Ձեր համակարգչի և նոուտբուքի համար։"
-
-msgid "badrabbitpromopage_cta-btn"
-msgstr "Կարգավորել համակարգիչը և պաշտպանել այն Bad Rabbit-ից"
-
-msgid "badrabbitpromopage_caption-text"
-msgstr "Ծրագիրն անվճար է տրամադրվում"
-
-msgid "badrabbitpromopage_info-text-title-1"
-msgstr "Ի՞նչ է Bad Rabbit-ը"
-
-msgid "badrabbitpromopage_info-text-1"
-msgstr "Bad Rabbit-ը նոր գաղտնագրող վիրուս է, որը վերջին շաբաթվա ընթացքում հարձակվել է օգտվողների համակարգիչների վրա Ռուսաստանում, Ուկրաինայում, Բուլղարիայում և Թուրքիայում։ Հարձակման են ենթարկվել ՌԻԱ «Ինտերֆաքս» և «Ֆոնտանկա» լրատվամիջոցները, Ուկրաինայի մի շարք նախարարություններ, ինչպես նաև «Օդեսա» օդանավակայանը։ Վիրուսի գործունեության սկզբունքը պարզ է. այն օգտագործում է Mimikatz օժանդակ ծրագիրը՝ Ձեր համակարգչի հիշողությունից հաշվի տվյալները հանելու համար, ինչպես նաև որոնում է ադմինիստրատորի ակտիվ հաշիվները։ Bad Rabbit-ը փորձում է մուտք գործել տեղական ցանցի աշխատակայաններ SMB-ի և WebDAV-ի միջոցով։ Համակարգչին հասանելիություն ստացած վիրուսը կոդավորվում է նրա բոլոր տվյալները, որոնց կարող է հասնել, իսկ հետո փոխում Master Boot Record-ը։ Այս ընթացակարգի ավարտից հետո Bad Rabbit-ը վերագործարկում է համակարգիչը և ցուցադրում է հաղորդագրություն, որում պահանջում է վճարել 0.05 Բիտքոին (26.10.2017 դրությամբ` մոտ 16 հազար ռուբլի)։"
-
-msgid "badrabbitpromopage_info-text-title-2"
-msgstr "Ինչպե՞ս պաշտպանել ԱՀ-ը Bad Rabbit գաղնտագրող վիրուսից"
-
-msgid "badrabbitpromopage_info-text-2"
-msgstr "Ինչ կարող եք անել նոր վիրուսից պաշտպանվելու համար.<br/>• C:\\Windows\\ պանակում ստեղծել infpub.dat նիշք և նրա հատկություններում նշել «Միայն կարդալու համար»<br/>• Ուշադրությամբ հետևել «Խնդիրների հերթագրիչում» ստեղծվող նոր առաջադրանքներին<br/>• Չտեղադրել FlashPlayer-ի թարմացումները կողմնակի կայքերից<br/>• Թարմացնել Windows-ը և բոլոր տեղադրված պաշտպանության ծրագրերը<br/>• Ստեղծել Ձեր օպերացիոն համակարգի պահուստային պատճենները<br/><br/>Նաև Դուք կարող եք պարզապես օգտվել DriverPack Solution-ի նոր լուծումից՝ ներբեռնելով այն այս էջից - դա կխնայի Ձեր ժամանակը։<br/><b>Մեր լուծումն աշխատում է Windows 7, 8, 8.1, 10 և XP-ում։</b>"
-
-msgid "badrabbitpromopage_links-text"
-msgstr "Մշակումն իրականացված է հետևյալ նյութերի հիման վրա"
-
-msgid "badrabbitpromopage_link-smb"
-msgstr "Ինչպես միացնել և անջատել 1, 2 և 3 տարբերակի SMB հաղորդակարգերը Windows-ում և Windows Server-ում"
-
 msgid "cloudlandingpage_cackle-title"
 msgstr "Գրեք Ձեր կարծիքը DriverPack Cloud-ի մասին"
 
@@ -1017,41 +987,35 @@ msgstr "Բոլոր {{VENDOR.NAME}}{{CLASS.PLURAL.MAIN}} "
 msgid "errorpage_title"
 msgstr "Սխալ 500. սպասարկիչի ներքին սխալ"
 
+msgid "gdpr-banner_text"
+msgstr ""
+
+msgid "gdpr-banner_cta-text"
+msgstr ""
+
 msgid "landingfooter_landing-subtitle"
 msgstr "DriverPack-ը պարունակում է սարքավարներ Windows-ի բոլոր հանրաճանաչ տարբերակների համար"
 
 msgid "landing-footer_catalog-os"
 msgstr "սարքավարներ {{OS}}-ի համար"
 
-msgid "landing-footer_download"
-msgstr "Ներբեռնել DriverPack-ը"
-
 msgid "landing-footer_versions"
 msgstr "Հավելվածի բոլոր տարբերակները"
+
+msgid "landing-footer_remove"
+msgstr "Ծրագրի ապատեղադրում"
 
 msgid "landing-footer_manufacturers"
 msgstr "Սարքաշարի արտադրողներ"
 
-msgid "landing-footer_badrabbit"
-msgstr "Պաշտպանություն Bad Rabbit-ից"
+msgid "landing-footer_hwids"
+msgstr "Device ID"
 
 msgid "landing-footer_for-admin"
 msgstr "Համակարգի ադմիններին"
 
 msgid "landing-footer_for-translators"
 msgstr "Թարգմանիչների համար"
-
-msgid "landing-footer_hwids"
-msgstr "Device ID"
-
-msgid "landing-footer_wannacry"
-msgstr "Պաշտպանություն WannaCry-ից"
-
-msgid "landing-footer_license"
-msgstr "Լիցենզիոն համաձայնագիր"
-
-msgid "landing-footer_remove"
-msgstr "Ծրագրի ապատեղադրում"
 
 msgid "notfoundpage_title"
 msgstr "Սխալ 404. էջը չգտվեց"
@@ -1134,39 +1098,3 @@ msgstr "DriverPack-ի թարգմանություն"
 
 msgid "vendorpage_subtitle-popular"
 msgstr "Հանրաճանաչ {{VENDOR.NAME}} սարքեր"
-
-msgid "wannacryptpromopage_cta-text"
-msgstr "Գաղտնագրող վիրուս WannaCrypt. ինչպե՞ս պաշտպանվել պատմության մեջ ամենախոշոր վիրուսային հարձակումից"
-
-msgid "wannacryptpromopage_cta-subtext"
-msgstr "DriverPack-ը համակարգչի կարգավորման միջոցների մեջ պարունակում է խոցելիության վերացման համար նախատեսված հատուկ գործիքներ։ Դուք կարող եք ներբեռնել անվճար պաշտպանությունը WannaCry վիրուսից Ձեր համակարգչի և նոութբուքի համար։"
-
-msgid "wannacryptpromopage_cta-btn"
-msgstr "Կարգավորել համակարգիչը և պաշտպանել այն WannaCry-ից"
-
-msgid "wannacryptpromopage_caption-text"
-msgstr "Ծրագիրն անվճար է տրամադրվում"
-
-msgid "wannacryptpromopage_info-text-title-1"
-msgstr "Ի՞նչ է WannaCrypt-ը"
-
-msgid "wannacryptpromopage_info-text-1"
-msgstr "WannaCrypt կոչվող կորզիչ վիրուսը (տուժացների թեթև ձեռքով անվանվել է WannaCry) մայիսի 12-ին հարձակվեց ողջ աշխարհի համակարգիչների վրա՝ խոցելով ավելի քան 300 000 օգտվողի սարքերը 150 երկրում։ Բոլորից շատ տուժեցին Արևմտյան Եվրոպան, Ռուսաստանը և Չինաստանը։ Մեծ Բրիտանիայում վիրուսը շարքից դուրս բերեց Առողջապահության Նախարարության ցանցը՝ կաթվածահարելով հիվանդանոցների աշխատանքն ամբողջ երկրում։ Չինաստանում վիրուսը հարձակվեց գործարանների հնացած համակարգիչների վրա, ինչը հանգեցրեց մի շարք արտադրաճյուղերի կանգնեցմանը։<br/><br/>Վիրուսի գործունեության էությունը պարզ է. այն ներխուժում է Ձեր ԱՀ կամ նոութբուք և գաղտնագրում է բացարձակապես բոլոր փաստաթղթերը, նիշքերը և նյութերը, որոնք կարողանում է գտնել՝ արդյունքում դրանք անմատչելի դարձնելով օգտագործման համար։ Վերծանման համար խարդախները պահանջում են մոտ 300 դոլար։  Սակայն ոչ մի երաշխիք չկա, որ փրկանքը վճարելուց հետո Ձեզ կվերադարձնեն նիշքերի հասանելիությունը։ Ինքնուրույն կերպով վերծանել նիշքերը տվյալ պահին անհնար է, իսկ որոշումները, որոնք հիմա առաջարկվում են համացանցում, 100% հավանականությամբ կամ ֆիշինգ են, կամ մեկ այլ վիրուսի տարածման եղանակ, կամ էլ պարզապես չեն աշխատում։"
-
-msgid "wannacryptpromopage_info-text-title-2"
-msgstr "Ո՞վ է գտնվում ռիսկի գոտում"
-
-msgid "wannacryptpromopage_info-text-2"
-msgstr "Առավելագույն վտանգի տակ են գտնվում Windows 10-ից ավելի հին օպերացիոն համակարգերով աշխատող ԱՀ-ները բաց SMB միացքներով։ Ներկայումս Windows ՕՀ-ի օգտվողների կեսը վտանգված է. 18%-ն օգտագործում է Windows-ի ոչ լիցենզիոն պատճենները (ինքնաբար ընկնելով ռիսկի գոտի), 23%-ն անջատել է Windows-ի Թարմացում ծառայությունը (ինչը թույլ չի տալիս ներբեռնել վերջին «կարկատանները» Microsoft-ից), իսկ 6%-ն օգտագործում է հնացած ՕՀ-երի տարբերակները, որոնց համար թարմացումներ այլևս դուրս չեն գալիս։<br/><br/>Այս ամենից կարելի եզրակացություն անել, որ ամենալուրջ վտանգը սպառնում է տարբեր ընկերությունների և ձեռնարկությունների ցանցերին, որոնցից շատերը դեռևս օգտագործում են այնպիսի օպերացիոն համակարգեր, ինչպիսին է Windows XP-ն։ Այդպիսի ցանցերի վրա հարձակումների արդյունքում տվյալների կորուստը կարող է շատ թանկ արժենալ և նույնիսկ «փրկանքը» պետք կլինի վճարել ամեն մի համակարգչի համար։"
-
-msgid "wannacryptpromopage_info-text-title-3"
-msgstr "Ինչպես պաշտպանել Ձեր գործարարությունը. լուծում DriverPack Solution-ից"
-
-msgid "wannacryptpromopage_info-text-3"
-msgstr "WannaCrypt (WannaCry) վիրուսի վտանգի հիմնական պատճառն այն է, որ նա տարածվում է MS17-010 անվտանգության համակարգի SMBv1 հաղորդակարգում գտնվող կրիտիկական խոցելիության օգնությամբ։ Դա գրեթե անտեսանելի է դարձնում WannaCry-ը հակավիրուսների համար։ DriverPack Solution-ի լուծումը հնարավորություն է տալիս անմիջապես տեղադրել կրիտիկական խոցելիությունը վերացնող թարմացումը և անջատել հնացած հաղորդակարգերը՝ անկախ Ձեր լիցենզիոն պատմությունից և ՕՀ-ի տարբերակներից։"
-
-msgid "wannacryptpromopage_links-text"
-msgstr "Մշակումն իրականացված է հետևյալ նյութերի հիման վրա"
-
-msgid "wannacryptpromopage_link-smb"
-msgstr "Ինչպես միացնել և անջատել 1, 2 և 3 տարբերակի SMB հաղորդակարգերը Windows-ում և Windows Server-ում"

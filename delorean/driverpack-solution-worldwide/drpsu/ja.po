@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-03-16 15:04+0000\n"
+"POT-Creation-Date: 2018-05-25 14:38+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Prabin Shakya <kkt.maxroam@gmail.com>, 2018\n"
 "Language-Team: Japanese (https://www.transifex.com/driverpack-solution/teams/75453/ja/)\n"
@@ -405,6 +405,9 @@ msgstr "DriverPack Offline Full"
 msgid "landingproducts_item-description-offline"
 msgstr "全ドライバーを含む、インタネットに接続せずに動作する。トレントトラッカー<span class='nobr'>({{SIZE}})</span>からダウンロード可能"
 
+msgid "landingpublications__source-link"
+msgstr "もっと読む"
+
 msgid "landingpublications__landing-title"
 msgstr "DriverPack に関してのマスメディアの出版"
 
@@ -501,6 +504,12 @@ msgstr "DriverPack Offline Full をダウンロード"
 msgid "productlandingheader-offline_caption"
 msgstr "DriverPack Offline Full - インタネットアクセスなしでドライバをインストールするための {{SIZE}} サイズの 巨大なパック 。 DriverPack Offline Full をダウンロードして、好きな場所に最新のドライバをダウンロードすることができます。これはシステム管理者に完全に適合します。"
 
+msgid "promoheader_os-versions"
+msgstr "当ソフトウェアは Windows 10, 8.1, 8, 7, Vista, XP に適切"
+
+msgid "promoheader_uninstall"
+msgstr "DriverPack を削除"
+
 msgid "promoheader_cta-text-gamers"
 msgstr "あなたのコンピュータはあなたが考えているよりも性能が高いです。無料で全部のドライバーをアップデートして下さい。"
 
@@ -515,15 +524,6 @@ msgstr "すべての必要なドライバーをインストール"
 
 msgid "promoheader_size"
 msgstr "ファイルサイズ: {{SIZE}} KB"
-
-msgid "promoheader_license"
-msgstr "ライセンス契約"
-
-msgid "promoheader_os-versions"
-msgstr "当ソフトウェアは Windows 10, 8.1, 8, 7, Vista, XP に適切"
-
-msgid "promoheader_uninstall"
-msgstr "DriverPack を削除"
 
 msgid "reviewheader_cta-text"
 msgstr "ソーシャルネットワークの DriverPack コミュニティに参加して、製品に関する最新情報を把握し、協議に参加する"
@@ -927,36 +927,6 @@ msgstr "フラッシュカードをUSBスロットに接続すると、一部の
 msgid "cloudpagefaq_usb-a"
 msgstr "DriverPack Cloud は新しいデバイスの接続を検査し、適切なドライバがあるかどうかを調べます。必要なドライバが見つからなかった場合は、すぐにインストールすることが出来ます — デバイスの適切な操作性のために必要です。"
 
-msgid "badrabbitpromopage_cta-text"
-msgstr "Bad Rabbit 暗号ウイルス — あなたのPCを保護する方法は？"
-
-msgid "badrabbitpromopage_cta-subtext"
-msgstr "DriverPack には、コンピュータ構成ツールの脆弱性を排除するための特定のアクションが含まれています。Bad Rabbit ウイルスに対する無料の保護をダウンロードすることにより、PCまたはノートパソコンを保護することが出来ます。"
-
-msgid "badrabbitpromopage_cta-btn"
-msgstr "コンピュータを構成し、Bad Rabbit から保護する"
-
-msgid "badrabbitpromopage_caption-text"
-msgstr "当ソフトウェアは無料で提供しています"
-
-msgid "badrabbitpromopage_info-text-title-1"
-msgstr "Bad Rabbit とはなんですか？"
-
-msgid "badrabbitpromopage_info-text-1"
-msgstr "Bad Rabbit は、2017年10月後半以降ロシア、ウクライナ、ブルガリア、トルコのコンピュータを攻撃した新しい暗号ウイルスです。また、被害者の中には、Interfax RIA、The Fontanka RIA、ウクライナの多くの省庁、オデッサ空港などがあります。操作の原則は簡単です：Mimikatz ユーティリティを使用して、PCのメモリからアカウントデータを取得します。又、管理者のアクティブなアカウントデータも検索さます。その後、Bad Rabbit はSMBとWebDAVを使用しローカルネットワーク内のワークステーションにアクセスを試みます。このウイルスは、PCにアクセスするとすぐに、到達したすべてのデータを暗号化し、その後、マスターブートレコードを変更します。この手順が完了すると、Bad Rabbitはコンピュータをリセットし、0.05ビッコイン（2017年10月末に約300ドル）の要求メッセージをポップアップ表示します。"
-
-msgid "badrabbitpromopage_info-text-title-2"
-msgstr "あなたのPC Bad Rabbit 暗号ウイルスから守る方法は?"
-
-msgid "badrabbitpromopage_info-text-2"
-msgstr "あなたは新しいウィルスに対して身を守る方法は::<br/>• C:\\\\Windows\\\\ フォルダに infpub.datファイルを作成し、プロパティーに読取専用をチェックする<br/>• 「タスクスケジューラ」で新しいタスクを慎重に作成する<br/>• 外部のサイトからFlashPlayerのアップデートをインストールしないこと<br/>• Windows及びインストールされているすべての保護ソフトウェアを更新する<br/>• オペレーティングシステムのバックアップを作成する<br/><br/>又、当ページでDriverPack Solutionをダウンロードするだけで、新しい解決方法を使用することが出来ます - これであなたの時間を節約します！<br/><b>当社の解決方法は、Windows 7,8,8.1,10及びXPで動作します。</b>"
-
-msgid "badrabbitpromopage_links-text"
-msgstr "このソリューションの開発は、以下の材料に基づいていました"
-
-msgid "badrabbitpromopage_link-smb"
-msgstr "Windows  及びWindows サーバのSMBプロトコルバージョン1,2,3を有効化と無効化する方法は？"
-
 msgid "cloudlandingpage_cackle-title"
 msgstr "DriverPack Cloud についてご意見をお聞かせ下さい"
 
@@ -1017,41 +987,35 @@ msgstr "すべての {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
 msgid "errorpage_title"
 msgstr "エラー 500: サーバ内部エラー"
 
+msgid "gdpr-banner_text"
+msgstr "当社のウェブサイトを引き続き使用することにより、Cookieファイルの収集に同意したことを確認します。これは、ユーザーに快適な作業を提供するために行われますが、ユーザーの情報は第三者と共有されません。"
+
+msgid "gdpr-banner_cta-text"
+msgstr "Ok"
+
 msgid "landingfooter_landing-subtitle"
 msgstr "DriverPack はすべての人気 Windows バージョンのドライバーを含まれている"
 
 msgid "landing-footer_catalog-os"
 msgstr "{{OS}} のドライバー"
 
-msgid "landing-footer_download"
-msgstr "DriverPack をダウンロード"
-
 msgid "landing-footer_versions"
 msgstr "すべてのバージョン"
+
+msgid "landing-footer_remove"
+msgstr "DriverPack を削除"
 
 msgid "landing-footer_manufacturers"
 msgstr "ハードウェアメーカー"
 
-msgid "landing-footer_badrabbit"
-msgstr "Bad Rabbit に対する保護"
+msgid "landing-footer_hwids"
+msgstr "Device ID"
 
 msgid "landing-footer_for-admin"
 msgstr "システム管理者のため"
 
 msgid "landing-footer_for-translators"
 msgstr "翻訳者のため"
-
-msgid "landing-footer_hwids"
-msgstr "Device ID"
-
-msgid "landing-footer_wannacry"
-msgstr "WannaCry に対する保護"
-
-msgid "landing-footer_license"
-msgstr "ライセンス契約"
-
-msgid "landing-footer_remove"
-msgstr "DriverPack を削除"
 
 msgid "notfoundpage_title"
 msgstr "エラー 404: ページが見つかりませんでした"
@@ -1134,39 +1098,3 @@ msgstr "DriverPack 翻訳"
 
 msgid "vendorpage_subtitle-popular"
 msgstr "人気の {{VENDOR.NAME}} デバイス"
-
-msgid "wannacryptpromopage_cta-text"
-msgstr "WannaCrypt cryptographer ウィルス — 歴史上最大の攻撃からコンピューターを守る方法は？"
-
-msgid "wannacryptpromopage_cta-subtext"
-msgstr "DriverPack には、コンピュータ構成ツールの脆弱性を排除するための特定のアクションが含まれています。WannaCry ウイルスに対する無料の保護をダウンロードすることにより、PCまたはノートパソコンを保護することが出来ます。"
-
-msgid "wannacryptpromopage_cta-btn"
-msgstr "コンピュータを構成し、WannaCry から保護する"
-
-msgid "wannacryptpromopage_caption-text"
-msgstr "当ソフトウェアは無料で提供しています"
-
-msgid "wannacryptpromopage_info-text-title-1"
-msgstr "WannaCrypt とは何ですか？"
-
-msgid "wannacryptpromopage_info-text-1"
-msgstr "5月12日に世界中のコンピュータを攻撃し、150カ国で300,000人以上のユーザーに感染させたWannaCryptの脅迫ウイルス（犠牲者によって自発的WannaCryに名前が変更された）が感染した。西ヨーロッパ、ロシア、中国はもっとも影響うけた。英国では、このウイルスは保健省のネットワークを無効にし、全国の病院の運営を中止しました。中国では、いくつかの産業を停止させた工場で古いコンピュータに影響を与えた。<br/><br/>このウイルスの仕組の主な点は簡単です。PCやノートパソコンに浸透し、見つかったすべての文書、ファイル、マテリアルを絶対に暗号化し、使用できなくします。その後、侵入者はデコードのためにかなりの金額を要求します— 約300ドル。ただし、ファイルへのアクセスを保証するものではありません。現時点、自分でファイルを解読する方法はなく、現在インターネット上で提供されている解決方法も罠、別のウイルスの感染、または100％の確実性で動作しません。"
-
-msgid "wannacryptpromopage_info-text-title-2"
-msgstr "誰が危険にさらされていますか？"
-
-msgid "wannacryptpromopage_info-text-2"
-msgstr "オープンSMBポートを備えたWindows 10より前のオペレーティングシステムを搭載したPCが最も危険にさらされています。現在、Windowsユーザーのうちの半分が危険にさらされている—免許不要のWindowsのコピーを利用している18％のユーザー(自動的に危険にさらされる)、Windowsアップデータサービスを無効にしている(マイクロソフトからの最新\"修正プログラム\"をダウンロードできない)23％のユーザーとアップデートを受け取っていない旧バージョンのOSを使用している6％のユーザ。<br/><br/>この結論から、Windows XPなどのオペレーティングシステムを使用しているさまざまな企業や企業のネットワークが最もリスクが高いということです。これらのネットワークへの攻撃では、各PCごとに別途”身代金”を支払わなければならないため、データの損失は甚だしく、コストは膨大になります。"
-
-msgid "wannacryptpromopage_info-text-title-3"
-msgstr "あなたのビジネスを守る方法 — DriverPack Solution の解決方法"
-
-msgid "wannacryptpromopage_info-text-3"
-msgstr "WannaCrypt (WannsCry) ウイルスの危険性の主な理由はMS17-010セキュリティシステムの SMBv1 プロトコルの重大な脆弱性を利用して広がること。それで WannaCry は実際にウィルス対策ソフトウェアに見えないようにします。DriverPack Solution の対策方法を使用すると、システムの重大な脆弱性を保護する更新プログラムをインストールすることができます。又、ライセンスの履歴とOSのバージョンに関係なく、脅威となっている古いプロトコルを無効にします。"
-
-msgid "wannacryptpromopage_links-text"
-msgstr "この対策方法の開発は、以下の内容に基づいていました"
-
-msgid "wannacryptpromopage_link-smb"
-msgstr "Windows 及び Windows サーバの SMB プロトコルバージョン 1,2,3 を有効化と無効化する方法"

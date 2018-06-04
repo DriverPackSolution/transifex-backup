@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-03-16 15:04+0000\n"
+"POT-Creation-Date: 2018-05-25 14:38+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Kiet Pham <phamanhkiet160404@gmail.com>, 2017\n"
 "Language-Team: Vietnamese (https://www.transifex.com/driverpack-solution/teams/75453/vi/)\n"
@@ -408,6 +408,9 @@ msgstr "DriverPack Offline Full"
 msgid "landingproducts_item-description-offline"
 msgstr "Nó chứa tất cả các trình điều khiển, hoạt động mà không có kết nối với Internet, nó có thể được tải về thông qua Torrent-tracker <span class='nobr'>({{SIZE}})</span>"
 
+msgid "landingpublications__source-link"
+msgstr ""
+
 msgid "landingpublications__landing-title"
 msgstr "Các phương tiện truyền thông đại chúng về DriverPack"
 
@@ -504,6 +507,12 @@ msgstr "Tải DriverPack Offline Full"
 msgid "productlandingheader-offline_caption"
 msgstr "DriverPack Offline Full - một gói lớn với kích thước {{SIZE}} cho quá trình cài đặt trình điều khiển mà không cần truy cập vào mạng. Chỉ cần tải về DriverPack Offline Full và sử dụng thư viện khổng lồ chứa các trình điều khiển được cập nhật mới nhất bất cứ nơi nào bạn muốn. Nó hoàn toàn phù hợp với những quản trị viên hệ thống."
 
+msgid "promoheader_os-versions"
+msgstr "Phần mềm tích hợp với Windows 10, 8.1, 8, 7, Vista, XP"
+
+msgid "promoheader_uninstall"
+msgstr "Gỡ bỏ DriverPack"
+
 msgid "promoheader_cta-text-gamers"
 msgstr "Máy tính của bạn vẫn mạnh mẽ hơn bạn tưởng: cập nhật tất cả các trình điều khiển miễn phí"
 
@@ -518,15 +527,6 @@ msgstr "Cài đặt tất cả những trình điều khiển cần thiết"
 
 msgid "promoheader_size"
 msgstr "Kích cỡ tệp: {{SIZE}} KB"
-
-msgid "promoheader_license"
-msgstr "Thỏa Thuận Cấp Phép"
-
-msgid "promoheader_os-versions"
-msgstr "Phần mềm tích hợp với Windows 10, 8.1, 8, 7, Vista, XP"
-
-msgid "promoheader_uninstall"
-msgstr "Gỡ bỏ DriverPack"
 
 msgid "reviewheader_cta-text"
 msgstr "Gia nhập cộng đồng DriverPack trên các mạng xã hội để bắt kịp với những thông tin về sản phẩm và tham gia vào những cuộc thảo luận"
@@ -930,36 +930,6 @@ msgstr ""
 msgid "cloudpagefaq_usb-a"
 msgstr ""
 
-msgid "badrabbitpromopage_cta-text"
-msgstr "Vi rút mã hóa dữ liệu Bad Rabbit — làm thế nào để bảo vệ máy tính cá nhân của bạn?"
-
-msgid "badrabbitpromopage_cta-subtext"
-msgstr "DriverPack chứa các hành động cụ thể để loại bỏ các lỗ hổng trong các công cụ cấu hình máy tính. Bạn có thể bảo vệ máy tính cá nhân hoặc máy tính xách tay của bạn bằng cách tải về sự bảo vệ miễn phí của chúng tôi chống lại vi rút Bad Rabbit."
-
-msgid "badrabbitpromopage_cta-btn"
-msgstr "Thiết đặt máy tính của bạn và bảo vệ nó khỏi Bad Rabbit"
-
-msgid "badrabbitpromopage_caption-text"
-msgstr "Phần mềm này được cung cấp miễn phí"
-
-msgid "badrabbitpromopage_info-text-title-1"
-msgstr "Bad Rabbit là gì"
-
-msgid "badrabbitpromopage_info-text-1"
-msgstr "Bad Rabbit là một virus mã hóa dữ liệu mới mà đã tấn công các máy tính ở Nga, Ukraine, Bulgaria, và Thổ Nhĩ Kỳ từ gần cuối tháng 10 năm 2017. Ngoài ra trong số các nạn nhân là Interfax RIA, Fontanka RIA, một số bộ của Ukraine, cũng như sân bay Odessa. Nguyên lý hoạt động rất đơn giản: nó sử dụng tiện ích Mimikatz để lấy dữ liệu tài khoản từ bộ nhớ máy tính của bạn. Nó cũng tìm kiếm dữ liệu tài khoản đang hoạt động của quản trị viên. Bad Rabbit sau đó cố gắng dành quyền truy cập vào các máy trạm trong mạng nội bộ bằng cách sử dụng SMB và WebDAV. Ngay sau khi nó truy cập vào máy tính của bạn, vi rút mã hóa tất cả dữ liệu mà nó đã xoay xở để tiếp cận được, và sau đó nó thay đổi Master Boot Record. Khi thủ tục này hoàn thành, Bad Rabbit sẽ reset máy tính của bạn và hiện lên thông báo của nó với một yêu cầu là 0.05 Bitcoins (khoảng $ 300 vào cuối tháng 10 năm 2017)."
-
-msgid "badrabbitpromopage_info-text-title-2"
-msgstr "Làm sao để bảo vệ máy tính cá nhân của bạn khỏi vi rút mã hóa dữ liệu Bad Rabbit?"
-
-msgid "badrabbitpromopage_info-text-2"
-msgstr "Bạn có thể làm gì để bảo vệ bản thân chống lại vi rút mới:<br/>• Tạo tệp tin infpub.dat trong thư mục C:\\\\Windows\\\\ và đánh dấu vào ô 'Read-only' trong tính chất của nó<br/>• Xem cẩn thận tạo các nhiệm vụ mới trong 'Task Scheduler'<br/>• Không cài đặt bất kỳ bản cập nhật nào cho FlashPlayer từ các website bên ngoài<br/>• Cập nhật Windows và tất cả phần mềm bảo vệ được cài đặt<br/>• Thực hiện sao lưu hệ điều hành của bạn<br/><br/>Ngoài ra, bạn có thể chỉ cần sử dụng giải pháp mới từ DriverPack Solution bằng cách tải nó xuống trên trang này - điều đó sẽ tiết kiệm thời gian của bạn!<br/><b>Giải pháp của chúng tôi hoạt động trên Windows 7, 8, 8.1, 10 và XP.</b>"
-
-msgid "badrabbitpromopage_links-text"
-msgstr "Sự phát triển của giải pháp này được dựa trên các thành phần sau"
-
-msgid "badrabbitpromopage_link-smb"
-msgstr "Làm cách nào để khởi động và vô hiệu hóa các phiên bản 1, 2, và 3 của phương thức SMB cho Windows và Máy Chủ Windows"
-
 msgid "cloudlandingpage_cackle-title"
 msgstr "Hãy cho chúng tôi biết ý kiến ​​của bạn về DriverPack Cloud"
 
@@ -1020,41 +990,35 @@ msgstr "Tất cả {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
 msgid "errorpage_title"
 msgstr "Lỗi 500: lỗi nội bộ máy chủ"
 
+msgid "gdpr-banner_text"
+msgstr ""
+
+msgid "gdpr-banner_cta-text"
+msgstr ""
+
 msgid "landingfooter_landing-subtitle"
 msgstr "DriverPack có các trình điều khiển cho tất cả các phiên bản phổ biến của Windows"
 
 msgid "landing-footer_catalog-os"
 msgstr "các trình điều khiển cho {{OS}}"
 
-msgid "landing-footer_download"
-msgstr "Tải về DriverPack"
-
 msgid "landing-footer_versions"
 msgstr "Tất cả các phiên bản của ứng dụng"
+
+msgid "landing-footer_remove"
+msgstr "Gỡ bỏ DriverPack"
 
 msgid "landing-footer_manufacturers"
 msgstr "Các nhà sản xuất phần cứng"
 
-msgid "landing-footer_badrabbit"
-msgstr "Bảo vệ khỏi Bad Rabbit"
+msgid "landing-footer_hwids"
+msgstr "Device ID"
 
 msgid "landing-footer_for-admin"
 msgstr "Dành cho quản trị viên hệ thống"
 
 msgid "landing-footer_for-translators"
 msgstr "Dành cho phiên dịch viên"
-
-msgid "landing-footer_hwids"
-msgstr "Device ID"
-
-msgid "landing-footer_wannacry"
-msgstr "Bảo vệ khỏi WannaCry"
-
-msgid "landing-footer_license"
-msgstr "Thỏa Thuận Cấp Phép"
-
-msgid "landing-footer_remove"
-msgstr "Gỡ bỏ DriverPack"
 
 msgid "notfoundpage_title"
 msgstr "Lỗi 404: trang không được tìm thấy"
@@ -1137,39 +1101,3 @@ msgstr "DriverPack Dịch"
 
 msgid "vendorpage_subtitle-popular"
 msgstr "Các thiết bị {{VENDOR.NAME}} thông dụng"
-
-msgid "wannacryptpromopage_cta-text"
-msgstr "WannaCrypt cryptographer virus — Làm thế nào để bảo vệ máy tính khỏi cuộc tấn công mạng lớn nhất lịch sử?"
-
-msgid "wannacryptpromopage_cta-subtext"
-msgstr "DriverPack chứa các hành động cụ thể để loại bỏ các lỗ hổng trong các công cụ cấu hình máy tính. Bạn có thể bảo vệ máy tính cá nhân hoặc máy tính xách tay của bạn bằng cách tải về sự bảo vệ miễn phí của chúng tôi chống lại vi rút WannaCry."
-
-msgid "wannacryptpromopage_cta-btn"
-msgstr "Thiết đặt cấu hình và bảo vệ máy tính khỏi WannaCry"
-
-msgid "wannacryptpromopage_caption-text"
-msgstr "Phần mềm này được cung cấp miễn phí"
-
-msgid "wannacryptpromopage_info-text-title-1"
-msgstr "WannaCrypt là gì?"
-
-msgid "wannacryptpromopage_info-text-1"
-msgstr "Virus tống tiền WannaCrypt (được các nạn nhân tự đổi tên thành WannaCry) đã tấn công các máy tính trên khắp thế giới vào ngày 12 tháng 5, và lây lan trên các thiết bị của hơn 300,000 người sử dụng trên 150 quốc gia. Các quốc gia Tây Châu ÂU, Nga, Trung Quốc là những nơi bị tấn công nặng nề nhất. Ở Vương quốc Anh, virus đã vô hiệu hóa hệ thống mạng của Bộ Y Tế và làm ngưng trệ hoạt động của các bệnh viên trên khắp đất nước. Ở Trung Quốc thì cuộc tấn công đã làm ảnh hưởng đến các máy tính cũ ở các nhà máy, gây ra sự ngưng trệ cho một số ngành công nghiệp.<br/><br/>Các hoạt động chính của virus rất đơn giản: Chúng thâm nhập vào máy tính cá nhân hoặc máy tính xách tay của bạn, và mã hóa hoàn toàn tất cả các tài liệu, tệp, và các tài nguyên có thể tìm thấy và vô hiệu hóa chúng. Sau đó chúng đưa ra một khoản tiền chuộc đáng kể — khoảng 300 Đô la Mỹ. Dù vậy, không gì có thể đảm bảo rằng bạn có thể truy cập vào các tệp của bạn lại. Hiện tại, chưa có cách nào mà bạn có thể tự mình giải mã các tệp của bạn, và các giải pháp đang được cung cấp trên Internet hiện nay là các trò câu kéo, lây lan một loại vi-rút khác, hoặc không hoạt động với sự chắc chắn 100%."
-
-msgid "wannacryptpromopage_info-text-title-2"
-msgstr "Ai đang gặp nguy hiểm?"
-
-msgid "wannacryptpromopage_info-text-2"
-msgstr "Những máy tính cá nhân sử dụng hệ điều hành đời cũ hơn Windows 10 với các cổng SMB mở là những máy tính gặp nguy hiểm nhất. Hiện tại, phân nửa người dùng Windows đang bị đe dọa — 18% số người dùng sử dụng các bản sao của Windows không được đăng ký (tự động đưa họ vào nguy hiểm), 23% số người dùng vô hiệu hóa dịch vụ Windows Update (làm cho họ không thể tải về \"các bản vá\" mới nhất từ Microsoft), và 6% khác đang sử dụng các phiên bản OS lỗi thời không còn được nhận cập nhật nữa. <br/><br/>Kết luận chung là mạng lưới các công ty và doanh nghiệp vẫn còn sử dụng các Hệ Điều Hành như Windows XP là đang gặp nguy hiểm nhất. Trong các cuộc tấn công trên mạng lưới này, dữ liệu mất đi có thể bị tê liệt và thiệt hại sẽ vô kể, khi mà \"tiền chuộc\" sẽ phải trả cho mỗi Máy Tính Cá Nhân một."
-
-msgid "wannacryptpromopage_info-text-title-3"
-msgstr "Làm thế nào để bảo vệ công việc kinh doanh của bạn — giải pháp đến từ DriverPack Solution"
-
-msgid "wannacryptpromopage_info-text-3"
-msgstr "Lý do chính làm cho virus WannaCrypt (WannaCry) nguy hiểm là nó lây lan bằng cách lợi dụng những lỗ hổng nghiêm trọng trong giao thức SMBv1 của hệ thống bảo vệ MS17-010. Đây chính là cách thức mà WannaCry vượt qua các trình diệt virus. Giải pháp từ DriverPack Solution cho phép bạn cài đặt một bản cập nhật mà sẽ bảo vệ các lỗ hổng nghiêm trọng trong hệ thống của bạn, và vô hiệu hóa các giao thức lỗi thời, những thứ mà là mối đe dọa, kể cả cho lịch sử giấy phép và phiên bản OS của bạn."
-
-msgid "wannacryptpromopage_links-text"
-msgstr "Sự phát triển của giải pháp này được dựa trên các thành phần sau"
-
-msgid "wannacryptpromopage_link-smb"
-msgstr "Làm cách nào để khởi động và vô hiệu hóa các phiên bản 1, 2, và 3 của phương thức SMB cho Windows và Máy Chủ Windows"

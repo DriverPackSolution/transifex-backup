@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-03-16 15:04+0000\n"
+"POT-Creation-Date: 2018-05-25 14:38+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: RasiM MahmudoV <rkmahmudov@gmail.com>, 2018\n"
 "Language-Team: Azerbaijani (https://www.transifex.com/driverpack-solution/teams/75453/az/)\n"
@@ -291,7 +291,7 @@ msgid "header_cta-label-1"
 msgstr "Dərhal <span style='color: {{COLOR}}'>endirəcək</span>"
 
 msgid "header_cta-label-2"
-msgstr "Driverləri avtomatik olaraq <span style='color: {{COLOR}}'>seçəcək və yükləyəcək</span>"
+msgstr "Driverləri avtomatik olaraq <span style='color: {{COLOR}}'>seçəcək və quraşdıracaq</span>"
 
 msgid "headerbutton_title"
 msgstr "Driverləri avtomatik olaraq quraşdır"
@@ -387,7 +387,7 @@ msgid "landingproducts_item-title-online"
 msgstr "DriverPack Online"
 
 msgid "landingproducts_item-description-online"
-msgstr "O dərhal yüklənir, əgər internet bağlantınız varsa <span class='nobr'>({{SIZE}})</span> bütün driverləri yükləyir və quraşdırır"
+msgstr "O dərhal endirilir, əgər internet bağlantınız varsa <span class='nobr'>({{SIZE}})</span> bütün driverləri endirir və quraşdırır"
 
 msgid "landingproducts_item-version"
 msgstr "Versiya:"
@@ -406,6 +406,9 @@ msgstr "DriverPack Offline Full"
 
 msgid "landingproducts_item-description-offline"
 msgstr "Bütün driverlər daxildir, İnternet bağlantısı olmadan işləyir, torrent vasitəsi ilə endirilə bilər <span class='nobr'>({{SIZE}})</span>"
+
+msgid "landingpublications__source-link"
+msgstr ""
 
 msgid "landingpublications__landing-title"
 msgstr "DriverPack üçün KİV yayınları"
@@ -503,6 +506,12 @@ msgstr "DriverPack Offline Full Endirin"
 msgid "productlandingheader-offline_caption"
 msgstr "DriverPack Offline Full - {{SIZE}} ölçüsündə internetsiz istifadə üçün nəhəng paket. Sadəcə DriverPack Offline Full paketini endirin və aktual driverlərdən ibarət nəhəng paketi istifadə edin. Sistem idarəçiləri üçün çox uyğundur. "
 
+msgid "promoheader_os-versions"
+msgstr "Proqram Windows 10, 8.1, 8, 7, Vista, XP üçün uyğundur"
+
+msgid "promoheader_uninstall"
+msgstr "DriverPack silmə"
+
 msgid "promoheader_cta-text-gamers"
 msgstr "Kompüteriniz düşündüyünüzdən daha güclüdür: bütün driverləri pulsuz yeniləyin"
 
@@ -517,15 +526,6 @@ msgstr "Bütün lazımi driverləri quraşdırın"
 
 msgid "promoheader_size"
 msgstr "Fayl Hcəmi: {{SIZE}} KB"
-
-msgid "promoheader_license"
-msgstr "Lisenziya Müqaviləsi"
-
-msgid "promoheader_os-versions"
-msgstr "Proqram Windows 10, 8.1, 8, 7, Vista, XP üçün uyğundur"
-
-msgid "promoheader_uninstall"
-msgstr "DriverPack silmə"
 
 msgid "reviewheader_cta-text"
 msgstr "Məhsuldan xəbərdar olmaq və müzakirələrə qoşulmaq üçün sosail şəbəkələrdəki DriverPack birliklərinə qatılın"
@@ -771,7 +771,7 @@ msgid "searchresult_notebook"
 msgstr "Noutbuk"
 
 msgid "searchresult_download-btn"
-msgstr "Driveri avtomatik olaraq yüklə"
+msgstr "Driveri avtomatik olaraq quraşdır"
 
 msgid "searchresult_details-content-text-placeholder"
 msgstr "Məlumatlar yüklənir..."
@@ -867,7 +867,7 @@ msgid "landingPagePublications_pcmag"
 msgstr "DriverPack Protect, antivirus proqramı və reklam bloklama alətləri uğursuz olsa belə, kompüterinizi zərərli proqramlardan və reklam proqramlarından və əlavələrindən qorumağa kömək edəcəkdir."
 
 msgid "landingPagePublications_habr"
-msgstr "Hər dəfə Windowsu yenidən yüklədikdə driverləri axtarmaq və quraşdırmaq lazımdır, məncə, bütün Windows ailəsinin əsas qüsurlarından biri budur. Ancaq, bildiyim qədəri ilə 2008-də bu problemi həll etməyə qərar verdim və DriverPack adındakı proqramımı yazdım. BU gün, məhsulum dünya miqyasında 40 milyon istifadəçi tərəfindən istifad edilir və mənə görə Windowsdakı driver promlemi, hər nəqədər 3 cü tərəf proqramsayılsa da, ümüumi mənada artıq həll edildi."
+msgstr "Hər dəfə Windowsu yenidən quraşdırdıqda driverləri axtarmaq və quraşdırmaq lazımdır, məncə, bütün Windows ailəsinin əsas qüsurlarından biri budur. Ancaq, bildiyim qədəri ilə 2008-də bu problemi həll etməyə qərar verdim və DriverPack adındakı proqramımı yazdım. BU gün, məhsulum dünya miqyasında 40 milyon istifadəçi tərəfindən istifad edilir və mənə görə Windowsdakı driver promlemi, hər nəqədər 3 cü tərəf proqramsayılsa da, ümüumi mənada artıq həll edildi."
 
 msgid "landingPagePublications_computerra"
 msgstr "Yeni versiya, istifadəçiyə öz driver seçimini etməsi üçün daha çox alətlə təmin edir. Bu xüsusiyyətlə kompüter istifadə edənlər və bir çox fərqli avadanlığı idarə edənlər üçün bezdirici bir problemdir. Sadəcə lazımsız olanları silməkdənsə hər hansı alternativ driverpackları DriverPack-ın içinə əlavə etmək artıq mümkündür."
@@ -891,7 +891,7 @@ msgid "adminpagefaq_free-q"
 msgstr "DriverPack-ın tamamilə pulsuz olduğu doğrudur?"
 
 msgid "adminpagefaq_free-a"
-msgstr "Bütün proqramlarımız tamamilə pulsuzdur! Ancaq proyektimizə dəstək olmaq istəyirsinizsə, təqdim etdiyimiz faydalı proqramı öz istifadəniz üçün yükləyə bilər və DriverPack-ı dostlarınıza tövsiyyə edə bilərsiniz :-)"
+msgstr "Bütün proqramlarımız tamamilə pulsuzdur! Ancaq proyektimizə dəstək olmaq istəyirsinizsə, təqdim etdiyimiz faydalı proqramı öz istifadəniz üçün quraşdıra bilər və DriverPack-ı dostlarınıza tövsiyyə edə bilərsiniz :-)"
 
 msgid "adminpagefaq_antivirus-q"
 msgstr "Antivirus proqramım DriverPack-da virus tapdı - bu necə ola bilər?"
@@ -906,7 +906,7 @@ msgid "adminpagefaq_expert_mode-a"
 msgstr "DriverPack, standart olaraq, yeni istifadəçilər üçün belə istifadəsi rahat və başa düşülən olması üçün dizayn edilmiş avtomatik rejimdə başlayır. Ancaq daha yüksək təcrübəli istifadəçilər və sistem idarəçilərinin rahatlığı üçün genişləndirilmiş nizamlamaları və xüsusiləşdirilə bilən seçimləri olan Ekspert Rejimini də yaratmışıq. Bu rejimi aktivləşdirmək üçün sadəcə ekranın altındakı uyğun düyməyə klikləmək kifayətdir."
 
 msgid "adminpagefaq_stable-q"
-msgstr "Driver düzgün formada yüklənmədi və hazırda kompüterimdə problemlər var. Bu vəziyyəti necə düzəldə bilərəm?"
+msgstr "Driver düzgün formada quraşdırılmadı və hazırda kompüterimdə problemlər var. Bu vəziyyəti necə düzəldə bilərəm?"
 
 msgid "adminpagefaq_stable-a"
 msgstr "DriverPack proqramının stabil işləməsi birinci dərəcəli öhdəliyimizdir, ancaq kiçik xətalar hər zaman ola bilir. Buna görə də hər şeyi əvvəlki vəziyyətə qaytara bilmənizə kömək edəcək bir Bərpa Nöqtəsi yaradırıq. Gələcəkdə oxşar problemlərin qarşısını almaq üçün DriverPack menyusuna getməyinizi və proqram tərəfindən avtomatik olaraq yaradılan hesabatı texinki xidmətlərimizə göndərməyinizi məsləhət görürük."
@@ -927,37 +927,7 @@ msgid "cloudpagefaq_usb-q"
 msgstr "Flash yaddaşı usb girişinə taxanda stolüstü kompüterimdə bəzi driverlər haqqında bildiriş görünür. Bu nə üçündür?"
 
 msgid "cloudpagefaq_usb-a"
-msgstr "DriverPack Cloud bağlanan yeni cihazları aşkar edir və uyğun driverlərin yüklənməsini yoxlayır. Əgər lazım olan driver yüklənməyibsə, dərhal yüklənməsini mümkün edir — cihazların normal işləməsi üçün tələb olunur."
-
-msgid "badrabbitpromopage_cta-text"
-msgstr "Bad Rabbit şifrələyici virus — PC-nizi necə qoruya bilərsiniz?"
-
-msgid "badrabbitpromopage_cta-subtext"
-msgstr "DriverPack-ın kompüter tənzimləmə alətləri arasında təhlükəsizlik boşluğunu aradan qaldırmaq üçün müəyyən üsulları var. PC və noutbukunuzu Bad Rabbit virusuna qarşı pulsuz müdafiəmizi endirərək qoruya bilərsiniz."
-
-msgid "badrabbitpromopage_cta-btn"
-msgstr "Kompüteri tənzimləyin və Bad Rabbit virusuna qarşı qoruyun"
-
-msgid "badrabbitpromopage_caption-text"
-msgstr "Bu proqram pulsuzdur"
-
-msgid "badrabbitpromopage_info-text-title-1"
-msgstr "Bad Rabbit nədir?"
-
-msgid "badrabbitpromopage_info-text-1"
-msgstr "Bad Rabbit, 2017-ci ilin Oktyabr ayından etibarən Rusiya, Ukrayna, Bolqarıstan və Türkiyədəki istifadəçilərin kompüterlərinə hücum edən yeni bir şifrələyici virusdur. Hücuma məruz qalan qurbanlar arasında Odessa Hava limanı ilə birgə İnterfax RİA, Fontanka RİA, Ukraynanın bir neçə nazirliyi də var. İşləmə prinsipi sadədir: PC-nizin yaddaşından hesab məlumatlarını əldə etmək üçün Mimikat yardımçı proqramından istifadə edir. Həm də idarəçinin aktiv hesab məlumatlarını axtarır. Bad Rabbit, SMB və WebDAV istifadə edərək lokal şəbəkədəki iş stansiyalarına keçid əldə etməyə çalışır. PC-ə keçid əldə edən kimi, virus, əldə edə bildiyi bütün məlumatları şifrələyir və ondan sonra Master Boot Record sahəsini dəyişdirir. Bu əməliyyat tamamlandıqdan sonra, Bad Rabbit kompüterinizi yenidən başladır və 0.05 Bitcoin (26 oktyabr 2017 kursuna görə təxminən 300 dollar) ödəmə tələb edir."
-
-msgid "badrabbitpromopage_info-text-title-2"
-msgstr "Bad Rabbit şifrələyici virusuna qarşı PC-nizi necə qoruya bilərsiniz?"
-
-msgid "badrabbitpromopage_info-text-2"
-msgstr "Yeni virusa qarşı özünüzü qorumaq üçün nə edə bilərsiniz: <br/>•  C:\\\\Windows\\\\ qovluqunda infpub.dat adlı fayl yaradın və xüsusiyyətlərini 'Sadəcə oxunan' edin <br/>• 'Tapşırıq zamanlayıcıda' yaradılmış tapşırıqlara baxın <br/>• Rəsmi olmayan saytlardan FlashPlayer üçün yeniləmə yükləməyin <br/>Windows-u və yüklkənmiş bütün qoruma proqramlarını yeniləyin<br/> • Əməliyyat sisteminizi ehtiyatlayın<br/><br/>Əlavə olaraq, bu səhifədən endirərək sadəcə DriverPack Solution-dan gələn yeni həlldən istifadə edin - vaxtınıza qənaət edin!<br/><b>Bizim həllimiz Windows 7, 8, 8.1, 10 və XP-də istifadə oluna bilər.</b>"
-
-msgid "badrabbitpromopage_links-text"
-msgstr "Bu həllin inkişafı aşağıdakı materiallara bağlıdır"
-
-msgid "badrabbitpromopage_link-smb"
-msgstr "Windows və Windows Server üçün SMB prprotokollarının 1,2 və 3 versiyaları necə aktivləşdirilir və necə q-aktivləşdirilir"
+msgstr "DriverPack Cloud bağlanan yeni cihazları aşkar edir və uyğun driverlərin quraşdırılmasını yoxlayır. Əgər lazım olan driver quraşdırılmayıbsa, dərhal quraşdırılmasını təmin edir — cihazların normal işləməsi üçün tələb olunur."
 
 msgid "cloudlandingpage_cackle-title"
 msgstr "DriverPack Cloud haqqında fikrinizi öyrənək"
@@ -978,7 +948,7 @@ msgid "cloudlandingpage_about-how-works-title"
 msgstr "DriverPack Cloud proqramı necə işləyir?"
 
 msgid "cloudlandingpage_about-how-works-caption"
-msgstr "Məhsulumuz PC-nizdəki driverlərin vəziyyətini analaz edərək bu cür və ya başqa cür kompüterinizin məhsuldarlığınıa təsir edən hər proqramı aşkar edir və driverləri yeniləmə və kompüterinizi yavaşladan proqramları silmə haqqında təkliflər verir ya da tam əksi, avadanlıqların sürətini artırmanıza köməkçi olacaq proqramları yükləməyinizi təklif edir. Bütün proses sizin nəzarətiniz altında gedir – icazəniz olmadan DriverPack Cloud hər hansı bir şey etməyəcək"
+msgstr "Məhsulumuz PC-nizdəki driverlərin vəziyyətini analaz edərək bu cür və ya başqa cür kompüterinizin məhsuldarlığınıa təsir edən hər proqramı aşkar edir və driverləri yeniləmə və kompüterinizi yavaşladan proqramları silmə haqqında təkliflər verir ya da tam əksi, avadanlıqların sürətini artırmanıza köməkçi olacaq proqramları quraşdırmağınızı təklif edir. Bütün proses sizin nəzarətiniz altında gedir – icazəniz olmadan DriverPack Cloud hər hansı bir şey etməyəcək"
 
 msgid "cloudlandingpage_features-monitoring"
 msgstr "Driverlərinizin statusunu izləyir, nəhəng DriverPack bazasından vacib yeniləmələri və əskik driverləri endirir."
@@ -993,7 +963,7 @@ msgid "cloudlandingpage_uninstall-title"
 msgstr "DriverPack Cloud-i kompüterinizdən tamamilə necə silmək olar"
 
 msgid "cloudlandingpage_uninstall-caption"
-msgstr "Məhsulumuzu yükləmisiniz, ancaq istifadə edə bilmirsiniz? Sadəcə İdarəetmə panelindəki Proqram Bölməsinə gedin və Proqramı Sil-ə klikləyin. Aşağı açılan menyuda DriverPack Cloud-u tapın və hər zamanki addımları təkrar edərək silin. Sadəcə bu qədər, proqram silindir. DriverPack Cloud silinmə əməliyyatından sonra nə  gizli proqram saxlamır nə də hər hansı bir reklam proqramı cəfəngiyyatı ilə PC-nizi qarşıdırmaz."
+msgstr "Məhsulumuzu quraşdırmısınız, ancaq istifadə edə bilmirsiniz? Sadəcə İdarəetmə panelindəki Proqram Bölməsinə gedin və Proqramı Sil-ə klikləyin. Aşağı açılan menyuda DriverPack Cloud-u tapın və hər zamanki addımları təkrar edərək silin. Sadəcə bu qədər, proqram silindir. DriverPack Cloud silinmə əməliyyatından sonra nə  gizli proqram saxlamır nə də hər hansı bir reklam proqramı cəfəngiyyatı ilə PC-nizi qarşıdırmaz."
 
 msgid "cloudlandingpage_license"
 msgstr "Quraşdırmaya başlamadan öncə {{LINK}} oxuyun"
@@ -1019,41 +989,35 @@ msgstr "Bütün {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
 msgid "errorpage_title"
 msgstr "Xəta 500: daxili server xətası"
 
+msgid "gdpr-banner_text"
+msgstr ""
+
+msgid "gdpr-banner_cta-text"
+msgstr ""
+
 msgid "landingfooter_landing-subtitle"
 msgstr "DriverPack-da bütün populyar Windows versiyaları üçün driverlər var"
 
 msgid "landing-footer_catalog-os"
 msgstr "{{OS}} üçün driverlər"
 
-msgid "landing-footer_download"
-msgstr "DriverPack-ı endir"
-
 msgid "landing-footer_versions"
 msgstr "Bütün proqram veriyaları"
+
+msgid "landing-footer_remove"
+msgstr "DriverPack silmə"
 
 msgid "landing-footer_manufacturers"
 msgstr "Avadanlıq istehsalçıları"
 
-msgid "landing-footer_badrabbit"
-msgstr "Bad Rabbit virusuna qarşı müdafiə"
+msgid "landing-footer_hwids"
+msgstr "Device ID"
 
 msgid "landing-footer_for-admin"
 msgstr "Sistem idarəçiləri üçün"
 
 msgid "landing-footer_for-translators"
 msgstr "Tərcüməçilər üçün"
-
-msgid "landing-footer_hwids"
-msgstr "Device ID"
-
-msgid "landing-footer_wannacry"
-msgstr "WannaCry virusuna qarşı müdafiə"
-
-msgid "landing-footer_license"
-msgstr "Lisenziya Müqaviləsi"
-
-msgid "landing-footer_remove"
-msgstr "DriverPack silmə"
 
 msgid "notfoundpage_title"
 msgstr "Xəta 404: səhifə tapılmadı"
@@ -1136,39 +1100,3 @@ msgstr "DriverPack Tərcüməsi"
 
 msgid "vendorpage_subtitle-popular"
 msgstr "Populyar {{VENDOR.NAME}} cihazları"
-
-msgid "wannacryptpromopage_cta-text"
-msgstr "WannaCrypt  şifrələyici virus — tarixdəki ən böyük hücuma qarşı kompüterinizi necə qoruya bilərsiniz?"
-
-msgid "wannacryptpromopage_cta-subtext"
-msgstr "DriverPack-ın kompüter tənzimləmə alətləri arasında təhlükəsizlik boşluğunun aradan qaldırmaq üçün müəyyən üulları var. PC və ya noutbukunuzu WannaCry virusuna qarşı qoruyacaq pulsuz müdafiəni endirə bilərsiniz."
-
-msgid "wannacryptpromopage_cta-btn"
-msgstr "Kompüterinizi tənzimləyin və WannaCry virusuna qarşı qoruyun"
-
-msgid "wannacryptpromopage_caption-text"
-msgstr "Bu proqram pulsuzdur"
-
-msgid "wannacryptpromopage_info-text-title-1"
-msgstr "WannaCrypt nədir?"
-
-msgid "wannacryptpromopage_info-text-1"
-msgstr "WannaCrypt şantajçı virus (qurbanlar tərəfindən WannaCry olaraq adlandırılır) 12 Mayda dünya miqyasında kompüterlərə hücum etdi və 150 ölkədə 300,000-dən çox istifadəçinin cihazını yoluxdurdu. Qərbi Avropa, Rusiya, Çin ən pis vurulan ölkələr oldu. İngiltərədə, virus Səhiyyə nazirliyinin şəbəkələrini q-aktiv etdi və bütün ölkə miqyasında xəstəxanların faəliyyətini dayandırdı. Çində, hücum çox sayda, fabirklərdəki köhnə kompüterlərə təsir edərək sənayəni iflic etdi. <br/><br/>Bu virusun necə işlədəyinin ana nöqtəsi çox sadədir: PC-nizə ya da notubukunaza daxil olur və taba bildiyi bütün sənədləri və digər şeyləri şifrələyir və istifadəsinin mümkünsüz edir. BUndan sonra dəvətsiz qonaqlar şifrələri almaq üçün ciddi məbləğdə pul tələb edirlər —  təxminən 300 dollar. Ancaq, fayllarınızı geri ala biləcəyinizin zəmanəti yoxdur. Bu müddətdə, özünüzün faylların şifrəsini açmağınız mümkün deyil, hazırda internetdə təqdim olunan üsullar ya pul tələsidir ya da başqa bir virusu yaymağın yoludur və ya alınma ehtimalı %100-dən aşağıdır."
-
-msgid "wannacryptpromopage_info-text-title-2"
-msgstr "Kim risk altındadır?"
-
-msgid "wannacryptpromopage_info-text-2"
-msgstr "SMB bağlantı nöqtələri açıq olan Windows 10-dan əvvəlki əməliyyat sistemləri ilə işləyən PC-lər ən çox risk altında olanlardır. Hazırda Windows istifadəçilərinin yarısı risk altındadır — istifadəçilərin %18-i  lisenziyasız Windows kopyası (avtomatik olaraq risk altına girir) istifadə eliyir, istifadəçilərin %23-i Windows Update xidmətini q-aktiv etmişdir (Microsoftdan ən son \"düzəltmələrin\"  endirilməsinin qarşısını alır), və digər %6-i artıq yeniləmə almayan ƏS versiyaları istifadə edir. <br/><br/>Bütün bunlardan əldə olunan nəticə, hələ də Windows XP kimi ƏS istifadə edən şirkətlər və qurumların şəbəkələri yüksək risk altındadır. BU şəbəkələrə hücumlarda, məlumat itkisi fəaliyyəti dayandıra bilər və hər PX üçün ayrı ayrı \"girov haqqı\" ödəmək məcburiyyətində qalınması ilə xərclər çox böyük ola bilər."
-
-msgid "wannacryptpromopage_info-text-title-3"
-msgstr "Biznesinizi necə qoruya bilərsiniz — DriverPack Solution-dan məsləhətlər"
-
-msgid "wannacryptpromopage_info-text-3"
-msgstr "WannaCrypt (WannaCry) virusun təhlükəli olmasının əsas səbəbi MS17-010 təhlükəsizlik sisteminin SMBv1 protokolundakı əhəmiyyətli təhlükəsizlik boşluğunu istifadə edərək yayılmasıdır. Əslində WannaCry virusunu antiviruslar üçün görünməz edir. DriverPack Solution-dən gələn məsləhət, sisteminizin əhəmiyyətli təhlükəsizlik boşluğunu qoruyan bir yeniləməni yükləməyinizi təmin etmək və lisenziya keçmişiniz və ƏS versiyanız nə olursa olsun,  təhlükə yaradan köhnə protokolları q-aktivləşdirməkdir."
-
-msgid "wannacryptpromopage_links-text"
-msgstr "Bu həllin inkişafı aşağıdakı materiallara bağlıdır"
-
-msgid "wannacryptpromopage_link-smb"
-msgstr "Windows və Windows Server üçün SMB prprotokollarının 1,2 və 3 versiyaları necə aktivləşdirilir və necə q-aktivləşdirilir"

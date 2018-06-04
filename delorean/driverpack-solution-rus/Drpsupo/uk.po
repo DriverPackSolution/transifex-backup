@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-03-16 15:04+0000\n"
+"POT-Creation-Date: 2018-05-25 14:38+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Назар Будзак <naz95naz@gmail.com>, 2017\n"
 "Language-Team: Ukrainian (https://www.transifex.com/driverpack-solution/teams/75452/uk/)\n"
@@ -409,6 +409,9 @@ msgstr "DriverPack Offline Full"
 msgid "landingproducts_item-description-offline"
 msgstr "Містить всі драйвери, працює без інтернету, завантажується через torrent <span class='nobr'>({{SIZE}})</span>"
 
+msgid "landingpublications__source-link"
+msgstr ""
+
 msgid "landingpublications__landing-title"
 msgstr "Про DriverPack пишуть журналісти"
 
@@ -505,6 +508,12 @@ msgstr "Завантажити DriverPack Offline Full"
 msgid "productlandingheader-offline_caption"
 msgstr "DriverPack Offline Full - величезна збірка на {{SIZE}} для встановлення драйверів без доступу до інтернету. Просто завантажте DriverPack Offline Full і користуйтеся величезною бібліотекою актуальних драйверів в будь-якому місці. Ідеально підходить для роботи системних адміністраторів."
 
+msgid "promoheader_os-versions"
+msgstr "Програма підходить для Windows 10, 8.1, 8, 7, Vista, XP"
+
+msgid "promoheader_uninstall"
+msgstr "Видалення програми"
+
 msgid "promoheader_cta-text-gamers"
 msgstr "Ваш комп'ютер потужніше, ніж ви думаєте: оновіть всі драйвери безкоштовно"
 
@@ -519,15 +528,6 @@ msgstr "Встановити всі необхідні драйвери"
 
 msgid "promoheader_size"
 msgstr "Розмір файла: {{SIZE}} KB"
-
-msgid "promoheader_license"
-msgstr "Ліцензійна угода"
-
-msgid "promoheader_os-versions"
-msgstr "Програма підходить для Windows 10, 8.1, 8, 7, Vista, XP"
-
-msgid "promoheader_uninstall"
-msgstr "Видалення програми"
 
 msgid "reviewheader_cta-text"
 msgstr "Приєднуйтесь до спільноти DriverPack в соцмережах, щоб дізнаватися новини про продукт і брати участь в обговореннях"
@@ -931,36 +931,6 @@ msgstr ""
 msgid "cloudpagefaq_usb-a"
 msgstr ""
 
-msgid "badrabbitpromopage_cta-text"
-msgstr "Вірус-шифрувальник Bad Rabbit — як захистити свій ПК"
-
-msgid "badrabbitpromopage_cta-subtext"
-msgstr "DriverPack містить спеціальні засоби усунення вразливості серед інструментів налаштування комп'ютера. Ви можете завантажити безкоштовний захист від вірусу Bad Rabbit для вашого ПК і ноутбука, який убезпечить ваш комп'ютер."
-
-msgid "badrabbitpromopage_cta-btn"
-msgstr "Налаштувати комп'ютер і захистити його від Bad Rabbit"
-
-msgid "badrabbitpromopage_caption-text"
-msgstr "Програма поширюється безкоштовно"
-
-msgid "badrabbitpromopage_info-text-title-1"
-msgstr "Що таке Bad Rabbit?"
-
-msgid "badrabbitpromopage_info-text-1"
-msgstr "Bad Rabbit - новий вірус-шифрувальник, який атакував за останній тиждень комп'ютери користувачів в Росії, Україні, Болгарії та Туреччини. Атакованими виявилися РІА \"Інтерфакс\", \"Фонтанка\", ряд міністерств України, а також аеропорт \"Одеса\". Принцип роботи вірусу простий - він використовує утиліту Mimikatz для вилучення облікових даних з пам'яті вашого ПК, а також шукає активні облікові записи адміністратора. Bad Rabbit намагається отримати доступ до робочих станцій у локальній мережі, використовуючи SMB і WebDAV. Отримавши доступ до ПК, вірус проводить шифрування всіх даних, до яких зможе дістатися, після чого змінює Master Boot Record. Після завершення цієї процедури Bad Rabbit перезавантажує комп'ютер і виводить повідомлення з вимогою про виплату 0,05 біткоіни (за курсом на 26.10.2017 це близько 9 тисяч гривень)."
-
-msgid "badrabbitpromopage_info-text-title-2"
-msgstr "Як захистити свій ПК від вірусу-шифрувальника Bad Rabbit?"
-
-msgid "badrabbitpromopage_info-text-2"
-msgstr "Що можна зробити, для захисту від нового вірусу:<br/>• Створити в теці C:\\Windows\\ файл infpub.dat і в його властивостях відзначити \"Тільки для читання\"<br/>• Уважно стежити за створенням нових завдань в \"Планувальнику Завдань\"<br/>• Не встановлювати оновлення для FlashPlayer з сторонніх сайтів<br/>• Оновити Windows і всі встановлені програми захисту<br/>• Зробити резервні копії операційної системи<br/><br/>Також ви можете просто скористатися новим рішенням від DriverPack Solution, завантаживши його на цій сторінці - це заощадить ваш час!<br/><b>Наше рішення працює на Windows 7, 8, 8.1, 10 та XP.</b>"
-
-msgid "badrabbitpromopage_links-text"
-msgstr "Розробка проведена на основі наступних матеріалів"
-
-msgid "badrabbitpromopage_link-smb"
-msgstr "Як увімкнути або вимкнути протоколи SMB версії 1, 2 і 3 в Windows і Windows Server"
-
 msgid "cloudlandingpage_cackle-title"
 msgstr ""
 
@@ -1021,41 +991,35 @@ msgstr "Усі {{CLASS.PLURAL.MAIN}} {{VENDOR.NAME}}"
 msgid "errorpage_title"
 msgstr "Помилка 500: внутрішня помилка сервера"
 
+msgid "gdpr-banner_text"
+msgstr ""
+
+msgid "gdpr-banner_cta-text"
+msgstr ""
+
 msgid "landingfooter_landing-subtitle"
 msgstr "DriverPack містить драйвери для всіх популярних версій Windows"
 
 msgid "landing-footer_catalog-os"
 msgstr "драйвера для {{OS}}"
 
-msgid "landing-footer_download"
-msgstr "Завантажити DriverPack"
-
 msgid "landing-footer_versions"
 msgstr "Усі версії додатка"
+
+msgid "landing-footer_remove"
+msgstr "Видалення програми"
 
 msgid "landing-footer_manufacturers"
 msgstr "Виробники обладнання"
 
-msgid "landing-footer_badrabbit"
-msgstr "Захист від Bad Rabbit"
+msgid "landing-footer_hwids"
+msgstr "Device ID"
 
 msgid "landing-footer_for-admin"
 msgstr "Для сисадмінів"
 
 msgid "landing-footer_for-translators"
 msgstr "Для перекладачів"
-
-msgid "landing-footer_hwids"
-msgstr "Device ID"
-
-msgid "landing-footer_wannacry"
-msgstr "Захист від WannaCry"
-
-msgid "landing-footer_license"
-msgstr "Ліцензійна угода"
-
-msgid "landing-footer_remove"
-msgstr "Видалення програми"
 
 msgid "notfoundpage_title"
 msgstr "Помилка 404: сторінка не знайдена"
@@ -1138,39 +1102,3 @@ msgstr "Переклад DriverPack"
 
 msgid "vendorpage_subtitle-popular"
 msgstr "Популярні пристрої {{VENDOR.NAME}}"
-
-msgid "wannacryptpromopage_cta-text"
-msgstr "Вірус-шифрувальник WannaCrypt — як захиститися від наймасштабнішої вірусної атаки в історії?"
-
-msgid "wannacryptpromopage_cta-subtext"
-msgstr "DriverPack містить спеціальні засоби усунення вразливості серед інструментів налаштування комп'ютера. Ви можете завантажити безкоштовний захист від вірусу WannaCry для вашого ПК і ноутбука, яка захистить ваш комп'ютер."
-
-msgid "wannacryptpromopage_cta-btn"
-msgstr "Налаштувати комп'ютер і захистити його від WannaCry"
-
-msgid "wannacryptpromopage_caption-text"
-msgstr "Програма поширюється безкоштовно"
-
-msgid "wannacryptpromopage_info-text-title-1"
-msgstr "Що таке WannaCrypt?"
-
-msgid "wannacryptpromopage_info-text-1"
-msgstr "Вірус-вимагач WannaCrypt (з легкої руки постраждалих названий WannaCry) 12 травня атакував комп'ютери по всьому світу, вразивши пристрої більш ніж 300 000 користувачів з 150 країн світу. Найбільш постраждали Західна Європа, Росія і Китай. У Великобританії вірус вивів з ладу мережу Міністерства охорони здоров'я, паралізувавши роботу лікарень по всій країні. У Китаї атаці піддалися застарілі комп'ютери на фабриках, що призвело до зупинки цілого ряду виробництв.<br/><br/>Суть роботи вірусу проста - він проникає на ваш ПК або ноутбук і зашифровує абсолютно всі документи, файли і матеріали, які зможе виявити, в результаті роблячи їх недоступними для використання. За розшифровку зловмисники вимагають серйозні гроші — близько 300 доларів. При цьому немає ніяких гарантій, що після сплати викупу Вам повернуть доступ до файлів. Самостійно ж розшифрувати файли на даний момент можливості немає, а рішення, зараз пропонуються в Мережі, з імовірністю 100% є або фішингом, або способом поширення якогось іншого вірусу, або просто не працюють."
-
-msgid "wannacryptpromopage_info-text-title-2"
-msgstr "Хто знаходиться в зоні ризику?"
-
-msgid "wannacryptpromopage_info-text-2"
-msgstr "Найбільшій загрозі піддаються ПК з операційною системою молодше Windows 10 з відкритими портами SMB. У зоні ризику на даний момент знаходиться, як мінімум, половина користувачів ОС WIndows - 18% користувачів використовують не ліцензійні копії Windows (автоматично потрапляючи в зону ризику), у 23% користувачів відключений сервіс Windows Update (що не дозволяє їм завантажити останні \"патчі\" від Microsoft), а ще 6% використовують застарілі версії ОС, для яких просто не виходять оновлення.<br/><br/>З вищесказаного можна зробити висновки, що найсерйозніша небезпека загрожує локальним мережам різних фірм і підприємств, деякі з яких до цих пір використовують такі ОС, як Windows XP. У разі атаки на таку мережу втрата даних може коштувати величезних грошей і навіть \"викуп\" доведеться платити за кожен ПК окремо."
-
-msgid "wannacryptpromopage_info-text-title-3"
-msgstr "Як захистити свій бізнес — рішення від DriverPack Solution"
-
-msgid "wannacryptpromopage_info-text-3"
-msgstr "Основна причина небезпеки вірусу WannaCrypt (WannaCry) — поширення за допомогою критичної уразливості в протоколі SMBv1 системи безпеки MS17-010. Це робить WannaCry практично непомітним для антивірусів. Рішення від DriverPack Solution дозволяє негайно, незалежно від ліцензійної історії і версії вашої ОС, встановити оновлення, що закриває критичні уразливості вашої системи і відключити застарілі протоколи, які становлять загрозу."
-
-msgid "wannacryptpromopage_links-text"
-msgstr "Розробка проведена на основі наступних матеріалів"
-
-msgid "wannacryptpromopage_link-smb"
-msgstr "Як увімкнути або вимкнути протоколи SMB версії 1, 2 і 3 в Windows і Windows Server"

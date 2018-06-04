@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-03-16 15:04+0000\n"
+"POT-Creation-Date: 2018-05-25 14:38+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>, 2017\n"
 "Language-Team: Portuguese (Brazil) (https://www.transifex.com/driverpack-solution/teams/75453/pt_BR/)\n"
@@ -406,6 +406,9 @@ msgstr "DriverPack Offline Full"
 msgid "landingproducts_item-description-offline"
 msgstr "Contém todos os drivers, opera sem conexão com a Internet, pode ser baixado através do Torrent-tracker <span class='nobr'>({{SIZE}})</span>"
 
+msgid "landingpublications__source-link"
+msgstr "Leia mais"
+
 msgid "landingpublications__landing-title"
 msgstr "Publicações da mídia sobre o DriverPack"
 
@@ -502,6 +505,12 @@ msgstr "Baixar o DriverPack Offline Full"
 msgid "productlandingheader-offline_caption"
 msgstr "DriverPack Offline Full - um grande pacote de {{SIZE}} de tamanho para instalação de drivers sem acesso à Internet. Basta baixar o DriverPack Offline Full e usar a enorme biblioteca de drivers atualizados onde quiser. É perfeitamente adequado aos administradores do sistema."
 
+msgid "promoheader_os-versions"
+msgstr "O programa é adequado para Windows 10, 8.1, 8, 7, Vista, XP"
+
+msgid "promoheader_uninstall"
+msgstr "Remoção do DriverPack"
+
 msgid "promoheader_cta-text-gamers"
 msgstr "Seu computador é mais poderoso do que você pensa: atualize todos os drivers gratuitamente"
 
@@ -516,15 +525,6 @@ msgstr "Instalar todos os drivers necessários"
 
 msgid "promoheader_size"
 msgstr "Tamanho do arquivo: {{SIZE}} KB"
-
-msgid "promoheader_license"
-msgstr "Termos de Licença"
-
-msgid "promoheader_os-versions"
-msgstr "O programa é adequado para Windows 10, 8.1, 8, 7, Vista, XP"
-
-msgid "promoheader_uninstall"
-msgstr "Remoção do DriverPack"
 
 msgid "reviewheader_cta-text"
 msgstr "Junte-se à comunidade DriverPack nas redes sociais para acompanhar as notícias sobre o produto e participar das discussões"
@@ -928,36 +928,6 @@ msgstr "Quando conectei meu cartão flash no slot usb, uma notificação sobre a
 msgid "cloudpagefaq_usb-a"
 msgstr "O DriverPack Cloud revela a conexão dos novos dispositivos e examina se eles possuem drivers apropriados. Se o driver necessário estiver faltando, é possível instalá-lo imediatamente — é necessário para a operacionalidade adequada do dispositivo."
 
-msgid "badrabbitpromopage_cta-text"
-msgstr "Vírus criptográfico Bad Rabbit — como proteger o seu PC?"
-
-msgid "badrabbitpromopage_cta-subtext"
-msgstr "O DriverPack contém meios específicos para eliminar vulnerabilidades entre as ferramentas de configuração do computador. Você pode proteger seu PC ou notebook baixando nossa proteção gratuita contra o vírus Bad Rabbit."
-
-msgid "badrabbitpromopage_cta-btn"
-msgstr "Configure o computador e proteja-o contra o Bad Rabbit"
-
-msgid "badrabbitpromopage_caption-text"
-msgstr "Este programa é distribuído gratuitamente"
-
-msgid "badrabbitpromopage_info-text-title-1"
-msgstr "O que é Bad Rabbit?"
-
-msgid "badrabbitpromopage_info-text-1"
-msgstr "Bad Rabbit é um novo vírus de criptografia que atacou os computadores dos usuários na Rússia, Ucrânia, Bulgária e Turquia desde o final de outubro de 2017. Entre as vítimas atacadas estão também o Interfax RIA, o Fontanka RIA, vários Ministérios da Ucrânia, bem como o Aeroporto de Odessa. O princípio da operação é simples: ele usa o utilitário Mimikatz a fim de recuperar os dados da conta da memória do seu PC. Ele também procura os dados da conta ativa do administrador. O Bad Rabbit então tenta acessar as estações de trabalho na rede local usando o SMB e WebDAV. Assim que tiver acesso ao PC, o vírus criptografa todos os dados que conseguiu alcançar, e depois disso ele muda o Master Boot Record. Quando este procedimento estiver completo, o Bad Rabbit redefinirá seu computador e exibirá sua mensagem com demanda de 0,05 Bitcoins (o que faz cerca de $300 até o final de outubro de 2017). "
-
-msgid "badrabbitpromopage_info-text-title-2"
-msgstr "Como proteger seu PC contra o vírus criptográfico Bad Rabbit?"
-
-msgid "badrabbitpromopage_info-text-2"
-msgstr "O que você pode fazer para se proteger contra o novo vírus: <br/>• Crie um arquivo infpub.dat na pasta C:\\\\Windows\\\\ e marque a opção 'Somente leitura' em suas propriedades<br/>• Observe cuidadosamente ao criar novas tarefas no 'Agendador de Tarefas'<br/>• Não instale atualizações para o FlashPlayer de sites externos<br/>• Atualize o Windows e todo programa de proteção instalado<br/>• Faça backups do seu sistema operacional<br/><br/>Além disso, você pode usar a nova solução do DriverPack Solution baixando-a nesta página - ela economizará seu tempo!<br/><b>Nossa solução funciona no Windows 7, 8, 8.1, 10 e XP.</b>"
-
-msgid "badrabbitpromopage_links-text"
-msgstr "O desenvolvimento desta solução baseou-se nos seguintes materiais"
-
-msgid "badrabbitpromopage_link-smb"
-msgstr "Como habilitar e desabilitar as versões 1, 2 e 3 dos protocolos SMB para Windows e Windows Server"
-
 msgid "cloudlandingpage_cackle-title"
 msgstr "Deixe-nos saber a sua opinião sobre o DriverPack Cloud"
 
@@ -1018,41 +988,35 @@ msgstr "Todos os {{CLASS.PLURAL.MAIN}} da {{VENDOR.NAME}} "
 msgid "errorpage_title"
 msgstr "Erro 500: erro interno do servidor"
 
+msgid "gdpr-banner_text"
+msgstr "Ao continuar usando nosso site, você confirma seu consentimento para coletar seus arquivos de cookies. Isso é feito para fornecer um trabalho confortável para nossos usuários. Esta informação não é compartilhada com terceiros."
+
+msgid "gdpr-banner_cta-text"
+msgstr "Ok"
+
 msgid "landingfooter_landing-subtitle"
 msgstr "O DriverPack contém drivers para todas as versões populares do Windows"
 
 msgid "landing-footer_catalog-os"
 msgstr "driver para o {{OS}}"
 
-msgid "landing-footer_download"
-msgstr "Baixar o DriverPack"
-
 msgid "landing-footer_versions"
 msgstr "Todas as versões do aplicativo"
+
+msgid "landing-footer_remove"
+msgstr "Remover o DriverPack"
 
 msgid "landing-footer_manufacturers"
 msgstr "Fabricantes de Hardware"
 
-msgid "landing-footer_badrabbit"
-msgstr "Proteção contra o Bad Rabbit"
+msgid "landing-footer_hwids"
+msgstr "Device ID"
 
 msgid "landing-footer_for-admin"
 msgstr "Para administradores de sistema"
 
 msgid "landing-footer_for-translators"
 msgstr "Para os tradutores"
-
-msgid "landing-footer_hwids"
-msgstr "Device ID"
-
-msgid "landing-footer_wannacry"
-msgstr "Proteção contra WannaCry"
-
-msgid "landing-footer_license"
-msgstr "Termos de Licença"
-
-msgid "landing-footer_remove"
-msgstr "Remover o DriverPack"
 
 msgid "notfoundpage_title"
 msgstr "Erro 404: página não encontrada"
@@ -1135,39 +1099,3 @@ msgstr "Tradução do DriverPack"
 
 msgid "vendorpage_subtitle-popular"
 msgstr "Dispositivos populares da {{VENDOR.NAME}}"
-
-msgid "wannacryptpromopage_cta-text"
-msgstr "Vírus criptografador WannaCrypt — como proteger o computador contra o maior ataque da história?"
-
-msgid "wannacryptpromopage_cta-subtext"
-msgstr "O DriverPack contém ações específicas para eliminar vulnerabilidades nas ferramentas de configuração do computador. Você pode proteger seu PC ou notebook baixando nossa proteção gratuita contra o vírus WannaCry."
-
-msgid "wannacryptpromopage_cta-btn"
-msgstr "Configure o computador e proteja-o contra o WannaCry"
-
-msgid "wannacryptpromopage_caption-text"
-msgstr "Este programa é distribuído gratuitamente"
-
-msgid "wannacryptpromopage_info-text-title-1"
-msgstr "O que é WannaCrypt?"
-
-msgid "wannacryptpromopage_info-text-1"
-msgstr "O vírus chantagista WannaCrypt (renomeado espontaneamente de WannaCry pelas vítimas) atacou computadores em todo o mundo no dia 12 de maio e infectou os dispositivos de mais de 300,000 mil usuários em 150 países. Europa Ocidental, Rússia e China foram os mais atingidos. Na Grã-Bretanha, o vírus desativou as redes do Departamento de Saúde e interrompeu a operação de hospitais em todo o país. Na China, o ataque afetou fábricas com computadores antigos que paralizou várias indústrias.<br/><br/> O ponto principal de como esse vírus funciona é simples: ele penetra no seu PC ou notebook e codifica absolutamente todos os documentos, arquivos e materiais que pode encontrar e torna-os indisponíveis para uso. Então, os invasores exigem uma grande quantia em dinheiro para decodificação — cerca de $300. No entanto, não há garantia de que você tenha acesso aos seus arquivos de volta. No momento, não há como descodificar os arquivos por conta própria e as soluções que estão sendo oferecidas na internet agora são ciladas, espalhando outro vírus ou simplesmente não funcionam com 100% de certeza."
-
-msgid "wannacryptpromopage_info-text-title-2"
-msgstr "Quem corre risco?"
-
-msgid "wannacryptpromopage_info-text-2"
-msgstr "Os PCs com sistema operacional anteriores ao Windows 10 com portas SMB abertas correm o maior risco. No momento, metade dos usuários do sistema operacional Windows correm riscos — 18% dos usuários usam cópias não licenciadas do Windows (automaticamente caindo na zona de risco), 23% dos usuários desativaram o serviço Windows Update (o que os impede de baixar os últimos \"correcções\" da Microsoft), e outros 6% estão usando versões desatualizadas do Sistema Operacional que simplesmente não recebem mais atualizações. <br/><br/>As conclusões de todos os itens acima é que as redes das várias empresas e empreendimentos, algumas das quais ainda utilizam o Sistema Operacional como o Windows XP, estão no maior risco. Em caso de ataque a tais redes, a perda de dados pode custar uma enorme quantia em dinheiro, como em qualquer \"resgate\", eles terão que pagar por cada PC separadamente."
-
-msgid "wannacryptpromopage_info-text-title-3"
-msgstr "Como proteger seu negócio — solução do DriverPack Solution"
-
-msgid "wannacryptpromopage_info-text-3"
-msgstr "O principal motivo do perigo do vírus WannaCrypt (WannaCry) é que ele se espalha ao usar vulnerabilidades críticas no protocolo SMBv1 do sistema de segurança MS17-010. Isso realmente torna WannaCry invisível para os antivírus. A solução do DriverPack Solution permite que você instale uma atualização que proteja as vulnerabilidades críticas do seu sistema e desative os protocolos desatualizados que são a ameaça, independentemente do histórico de sua licença e da sua versão do Sistema Operacional."
-
-msgid "wannacryptpromopage_links-text"
-msgstr "O desenvolvimento desta solução baseou-se nos seguintes materiais"
-
-msgid "wannacryptpromopage_link-smb"
-msgstr "Como habilitar e desabilitar as versões 1, 2 e 3 dos protocolos SMB para Windows e Windows Server"

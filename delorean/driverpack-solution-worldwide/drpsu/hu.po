@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-03-16 15:04+0000\n"
+"POT-Creation-Date: 2018-05-25 14:38+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>, 2017\n"
 "Language-Team: Hungarian (https://www.transifex.com/driverpack-solution/teams/75453/hu/)\n"
@@ -408,6 +408,9 @@ msgstr "DriverPack Offline Full"
 msgid "landingproducts_item-description-offline"
 msgstr "Tartalmazza az összes drivert, és internetkapcsolat nélkül is működik, és akár torrenten keresztül is letölthető <span class='nobr'>({{SIZE}})</span>"
 
+msgid "landingpublications__source-link"
+msgstr ""
+
 msgid "landingpublications__landing-title"
 msgstr "Média publikációk a DriverPack -ról"
 
@@ -504,6 +507,12 @@ msgstr "Download DriverPack Offline Full"
 msgid "productlandingheader-offline_caption"
 msgstr "DriverPack Offline Full - egy hatalmas, {{SIZE}} méretű drivercsomag, mely az internetkapcsolat nélküli telepítésekhez ajánlott. Egyszerűen töltsd le a DriverPack Offline Full verziót, és használd az óriási, legfrissebb adatbázist, amikor kedved tartja. Tökéletesen kiegészíti a rendszergazdák munkáját."
 
+msgid "promoheader_os-versions"
+msgstr "A szoftver Windows 10, 8.1, 8, 7, Vista, XP rendszereken használható"
+
+msgid "promoheader_uninstall"
+msgstr "DriverPack eltávolítás"
+
 msgid "promoheader_cta-text-gamers"
 msgstr "A számítógéped erősebb, mint hinnéd: frissítsd az összes drivert ingyen!"
 
@@ -518,15 +527,6 @@ msgstr "Összes szükséges driver telepítése"
 
 msgid "promoheader_size"
 msgstr "Fájlméret: {{SIZE}} KB"
-
-msgid "promoheader_license"
-msgstr "Általános Szerződési Feltételek -kel."
-
-msgid "promoheader_os-versions"
-msgstr "A szoftver Windows 10, 8.1, 8, 7, Vista, XP rendszereken használható"
-
-msgid "promoheader_uninstall"
-msgstr "DriverPack eltávolítás"
 
 msgid "reviewheader_cta-text"
 msgstr "Csatlakozz a DriverPack közösséghez a közösségi oldalakon, hogy ne maradj le az új hírekről, és részt vegyél a társalgásban!"
@@ -930,36 +930,6 @@ msgstr "Amikor behelyeztem a flash-kártyámat az USB foglalatba, egy értesít�
 msgid "cloudpagefaq_usb-a"
 msgstr "A DriverPack Cloud felderíti az új eszközök csatlakoztatását, és megvizsgálja őket, hogy megfelelő driverekkel rendelkeznek-e. Ha a szükséges driver hiányzik, lehetség azonnal feltelepíteni — szükséges az eszköz megfelelő működéséhez."
 
-msgid "badrabbitpromopage_cta-text"
-msgstr "Bad Rabbit kriptografikus vírus — hogyan védheti meg a számítógépét?"
-
-msgid "badrabbitpromopage_cta-subtext"
-msgstr "A DriverPack megfelelő megoldást nyújt a számítógép telepítőeszközök sérülékenységeinek megszüntetésére.  Ingyenesen letöltheti a Bad Rabbit elleni védelmet a számítógépére és a laptopjára, mely biztonságot nyújt."
-
-msgid "badrabbitpromopage_cta-btn"
-msgstr "Számítógép beállítása, és a Bad Rabbit védelem telepítése"
-
-msgid "badrabbitpromopage_caption-text"
-msgstr "Ez a szoftver ingyen kerül terjesztésre"
-
-msgid "badrabbitpromopage_info-text-title-1"
-msgstr "Mi az a Bad Rabbit?"
-
-msgid "badrabbitpromopage_info-text-1"
-msgstr "A Bad Rabbit egy új kriptografikus vírus, mely Oroszország, Ukrajna, Bulgária és Törökország felhasználóit támadta meg 2017 októbere óta. Az áldozatok között van az Interfax RIA, a Fontanka RIA, több ukrán minisztérium és az odesszai repülőtér is. A művelet egyszerűen működik: a Mimikatz alkalmazás segítségével megszerzi a fiók adatait a számítógép memóriájából. Átkutatja a rendszergazda aktív fiókját adatok után. A Bad Rabbit megpróbál hozzáférni a helyi hálózathoz csatlakozó munkaállomásokhoz is SMB-n és WebDAV-on keresztül. Amint hozzáfér egy számítógéphez, a vírus lekódolja az elért adatokat, azután pedig módosítja az MBR-t. Amikor a folyamat véget ér, a Bad Rabbit újraindítja a számítógépet, és megjeleníti az üzenetet a 0,05 Bitcoin kifizetésének követeléséről (ez 2017. október végi árfolyamon körülbelül 300 dollárt jelent)."
-
-msgid "badrabbitpromopage_info-text-title-2"
-msgstr "Hogyan védheti meg a számítógépét a Bad Rabbit kriptografikus vírustól?"
-
-msgid "badrabbitpromopage_info-text-2"
-msgstr "A következőket teheti az új vírus elleni védelemhez:<br/>• Hozzonlétre egy infpub.dat nevű fájlt a C:\\\\Windows\\\\ mappában, és jelölje be a \"Csak olvasható\" mezőt a tulajdonságaiban!<br/>• FIgyeljen a Feladatkezelőben esetlegesen megjelenő új feladatokra!<br/>• Ne telepítsen Flash Player frissítést külső oldalakról!<br/>• Frissítse gyakran a Windows-t, és az összes telepített védelmi szoftvert!<br/>• Készítsen biztonsági mentést az operációs rendszeréről!<br/><br/>Emellett használhatja a DriverPack Solution új megoldását, melyet erről az oldalról tölthet le. Sok időt spórolhat meg vele.<br/><b>Ami megoldásunk Windows 7, 8, 8.1, 10, és XP rendszereken is működik.</b>"
-
-msgid "badrabbitpromopage_links-text"
-msgstr "A fejlesztés az alábbiak segítségével készül"
-
-msgid "badrabbitpromopage_link-smb"
-msgstr "Hogyan engedélyezhető vagy tiltható le az SMB protokollok 1, 2 és 3-as verziója Windows vagy Windows szerver rendszeren?"
-
 msgid "cloudlandingpage_cackle-title"
 msgstr "Várjuk a véleményét a DriverPack Cloud-dal kapcsolatban"
 
@@ -1020,41 +990,35 @@ msgstr "Összes {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
 msgid "errorpage_title"
 msgstr "500-as hiba: belső szerverhiba"
 
+msgid "gdpr-banner_text"
+msgstr ""
+
+msgid "gdpr-banner_cta-text"
+msgstr ""
+
 msgid "landingfooter_landing-subtitle"
 msgstr "A DriverPack az összes népszerű Windows verzióhoz tartalmaz drivereket"
 
 msgid "landing-footer_catalog-os"
 msgstr "{{OS}} driverek"
 
-msgid "landing-footer_download"
-msgstr "DriverPack letöltése"
-
 msgid "landing-footer_versions"
 msgstr "Összes app változat"
+
+msgid "landing-footer_remove"
+msgstr "DriverPack eltávolítás"
 
 msgid "landing-footer_manufacturers"
 msgstr "Hardver gyártók"
 
-msgid "landing-footer_badrabbit"
-msgstr "Védelem a Bad Rabbit ellen"
+msgid "landing-footer_hwids"
+msgstr "Device ID"
 
 msgid "landing-footer_for-admin"
 msgstr "Rendszergazdáknak"
 
 msgid "landing-footer_for-translators"
 msgstr "Fordítóknak"
-
-msgid "landing-footer_hwids"
-msgstr "Device ID"
-
-msgid "landing-footer_wannacry"
-msgstr "Védelem a WannaCry ellen"
-
-msgid "landing-footer_license"
-msgstr "Általános Szerződési Feltételek -kel."
-
-msgid "landing-footer_remove"
-msgstr "DriverPack eltávolítás"
 
 msgid "notfoundpage_title"
 msgstr "404-es hiba: oldal nem található"
@@ -1137,39 +1101,3 @@ msgstr "DriverPack fordítás"
 
 msgid "vendorpage_subtitle-popular"
 msgstr "Népszerű {{VENDOR.NAME}} eszközök"
-
-msgid "wannacryptpromopage_cta-text"
-msgstr "WannaCrypt kriptografikus vírus — hogyan védd meg a számítógépet a történelem legnagyobb támadása ellen?"
-
-msgid "wannacryptpromopage_cta-subtext"
-msgstr "A DriverPack megfelelő megoldást nyújt a számítógép telepítőeszközök sérülékenységének megszüntetésére.  Ingyenesen letöltheted a WannaCry elleni védelmet a számítógépedre és a laptopodra, mely biztonságot nyújt."
-
-msgid "wannacryptpromopage_cta-btn"
-msgstr "Számítógép beállítása, és a WannaCry védelem telepítése"
-
-msgid "wannacryptpromopage_caption-text"
-msgstr "Ez a szoftver ingyen kerül terjesztésre"
-
-msgid "wannacryptpromopage_info-text-title-1"
-msgstr "Mi az a WannaCrypt?"
-
-msgid "wannacryptpromopage_info-text-1"
-msgstr "A WannaCrypt zsarolóvírus (áldozatai spontán WannaCry-nak nevezik) május 12-én az egész világon támadásba lendült, és 150 országban több mint 300000 felhasználó készülékét fertőzte meg. Nyugat-Európa, Oroszország és Kína a legfertőzöttebb országok. Nagy-Britanniában a vírus használhatatlanná tette az Egészségügyi Minisztérium hálózatát, ennek eredményeként pedig az országban számos kórház működését akadályozta. Kínában a támadás a gyárak régi számítógépeire hatott, és számos vállalat szüntette be a működését.<br/><br/>A vírus működése egyszerű: behatol a számítógépbe vagy laptopba, minden dokumentumot, fájlt és anyagot lekódol, és használhatatlanná teszi őket. Ezután a behatolók sok pénzt követelnek a kódolás feloldásáért — ez körülbelül 300 dollárt jelent. Azonban nincs arra garancia, hogy visszakapod a fájljaidat. Jelenleg manuálisan nem lehetséges kikódolni a fájlokat, míg a hálózatok rendelkezésére álló megoldások vagy átverések, vagy a vírus terjesztésének újabb módja, vagy egyszerűen nem működnek 100%-os sikerrel."
-
-msgid "wannacryptpromopage_info-text-title-2"
-msgstr "Ki van veszélyben?"
-
-msgid "wannacryptpromopage_info-text-2"
-msgstr "A Windows 10-nél korábbi operációs rendszert használó számítógépek a nyitott SMB portoknak köszönhetően a legveszélyeztetettebbek. Jelenleg a Windows rendszert használók fele veszélyben van — A felhasználók 18%-a licensz nélküli Windows példányt használ (automatikusan a kockázatos zónába kerülnek), 23%-u k letiltotta a Windows Update szolgáltatást (ez megakadályozza a legfrissebb \"javítások\" letöltését a Microsofttól), másik 6%-u pedig régi operációs rendszert használ, melyek már nem részesülnek frissítésben. <br/><br/>A fentiek a következőképpen összegezhetőek: a különböző cégek és vállalatok hálózatai, ahol még a Windows XP-hez hasonló régi operációs rendszert használnak, a legveszélyeztetettebbek. Egy támadás esetén az adatvesztés hatalmas pénzeket emészthet fel, és ha \"váltságdíjról\" is beszélünk, minden egyes számítógép esetében külön ki kell fizetni."
-
-msgid "wannacryptpromopage_info-text-title-3"
-msgstr "Hogyan védd meg a vállalatodat — A megoldás a DriverPack Solution!"
-
-msgid "wannacryptpromopage_info-text-3"
-msgstr "A WannaCrypt (WannaCry) vírus azért jelent főként veszélyt, mert az MS17-010 biztonsági rendszerben található SMBv1 protokoll kritikus sebezhetőségét támadja.  Ez a WannaCry-t valójában láthatatlanná teszi a vírusirtók számára. A DriverPack Solution megoldása engedélyezi a rendszered kritikus sebezhetőségeinek frissítését, és letiltja a lejárt protokollt, melyek közvetlen fenyegetést jelentenek, függetlenül a licensz előzménytől vagy operációs rendszer verziójától."
-
-msgid "wannacryptpromopage_links-text"
-msgstr "A fejlesztés az alábbiak segítségével készül"
-
-msgid "wannacryptpromopage_link-smb"
-msgstr "Hogyan engedélyezhető vagy tiltható le az SMB protokollok 1, 2 és 3-as verziója Windows vagy Windows szerver rendszeren?"

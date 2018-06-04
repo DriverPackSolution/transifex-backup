@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-03-16 15:04+0000\n"
+"POT-Creation-Date: 2018-05-25 14:38+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Andrei Pavalachi <apavalac@student.42.fr>, 2017\n"
 "Language-Team: Romanian (https://www.transifex.com/driverpack-solution/teams/75453/ro/)\n"
@@ -411,6 +411,9 @@ msgstr "DriverPack Offline Full"
 msgid "landingproducts_item-description-offline"
 msgstr "Conține toate driverele, funcționeză fără conexiune de internet, se poate descărca prin Torrent <span class='nobr'>({{SIZE}})</span>"
 
+msgid "landingpublications__source-link"
+msgstr ""
+
 msgid "landingpublications__landing-title"
 msgstr "Știri despre DriverPack"
 
@@ -507,6 +510,12 @@ msgstr "Descarcă DriverPack Offline Full"
 msgid "productlandingheader-offline_caption"
 msgstr "DriverPack Offline Full - un pachet imens de dimensiune {{SIZE}} pentru instalarea driverului fără acces la Internet. Doar descărcați DriverPack Offline Full și folosiți imensa bibliotecă de drivere actualizate oriunde doriți. Se potrivește perfect administratorilor de sistem."
 
+msgid "promoheader_os-versions"
+msgstr "Acest program poate fi folosit pe Windows 10, 8.1, 8, 7, Vista, XP"
+
+msgid "promoheader_uninstall"
+msgstr "Ștergere DriverPack"
+
 msgid "promoheader_cta-text-gamers"
 msgstr "Computerul tău este mai puternic decât crezi: actualizați gratuit toate driverele"
 
@@ -521,15 +530,6 @@ msgstr "Instalează toate driverele necesare"
 
 msgid "promoheader_size"
 msgstr "Dimensiune fișier: {{SIZE}} KB"
-
-msgid "promoheader_license"
-msgstr "Termeni și Condiții"
-
-msgid "promoheader_os-versions"
-msgstr "Acest program poate fi folosit pe Windows 10, 8.1, 8, 7, Vista, XP"
-
-msgid "promoheader_uninstall"
-msgstr "Ștergere DriverPack"
 
 msgid "reviewheader_cta-text"
 msgstr "Alătură-te comunității DriverPack in rețelele de socializare pentru a fii la curent cu ultimele știri și pentru a lua parte la discuții"
@@ -933,36 +933,6 @@ msgstr ""
 msgid "cloudpagefaq_usb-a"
 msgstr ""
 
-msgid "badrabbitpromopage_cta-text"
-msgstr "Virusul criptografic Bad Rabbit — cum să protejezi calculatorul tău?"
-
-msgid "badrabbitpromopage_cta-subtext"
-msgstr "DriverPack conține acțiuni specifice pentru eliminarea vulnerabilităților din instrumentele de configurare a computerului. Puteți să vă securizați PC-ul sau laptopul descărcând gratuit protecția împotriva virusului Bad Rabbit."
-
-msgid "badrabbitpromopage_cta-btn"
-msgstr "Configurează calculatorul și protejează-l împotriva Bad Rabbit"
-
-msgid "badrabbitpromopage_caption-text"
-msgstr "Acest software este oferit gratuit"
-
-msgid "badrabbitpromopage_info-text-title-1"
-msgstr "Ce este Bad Rabbit?"
-
-msgid "badrabbitpromopage_info-text-1"
-msgstr "Bad Rabbit este un nou virus criptografic care a atacat computerele din Rusia, Ucraina, Bulgaria și Turcia încă de la sfârșitul lunii octombrie 2017. De asemenea, printre victime se numără The Interfax RIA, Fontanka RIA, un număr de Ministere din Ucraina, precum și Aeroportul Odessa. Principiul de funcționare este simplu: utilizează utilitarul Mimikatz pentru a prelua datele contului din memoria PC-ului. De asemenea, caută datele administratorului activ. Bad Rabbit încearcă apoi să obțină acces la stațiile de lucru din rețeaua locală utilizând SMB și WebDAV. De îndată ce obține acces la PC-ul dvs. , virusul criptează toate datele la care a reușit să ajungă și apoi modifică Master Boot Record. Când această procedură este completă, Bad Rabbit resetează computerul și afișează mesajul cu o cerere de 0,05 Bitcoins (aproximativ 300 de dolari la sfârșitul lunii octombrie 2017)."
-
-msgid "badrabbitpromopage_info-text-title-2"
-msgstr "Cum îţi protejezi calculatorul impotriva virusului criptografic Bad Rabbit?"
-
-msgid "badrabbitpromopage_info-text-2"
-msgstr "Ce poți face pentru a te proteja împotriva noului virus:<br/>• Crează un fișier infpub.dat în folderul C:\\\\Windows\\\\ și selectează opțiunea 'Read-only' din proprietăți<br/>• Crează cu atenție noi task-uri în 'Task Scheduler'<br/>• Nu instala update-uri pentru FlashPlayer de pe alte site-uri externe<br/>• Fă update la Windows și la toate programele de protecție<br/>• Fă o copie de siguranță sistemului de operare<br/><br/>De asemenea, poți utiliza noua variantă oferită de DriverPack Solution prin descărcarea de pe pagina oficială - salvezi timp!<br/><b>Varianta noastră functionează cu Windows 7, 8, 8.1, 10, și XP. </b>"
-
-msgid "badrabbitpromopage_links-text"
-msgstr "Dezvoltarea acestei soluții s-a bazat pe următoarele materiale"
-
-msgid "badrabbitpromopage_link-smb"
-msgstr "Cum să activezi sau să dezactivezi veriunile 1,2 și 3 a protocoalelor SMB pentru Windows si Windows server"
-
 msgid "cloudlandingpage_cackle-title"
 msgstr ""
 
@@ -1023,41 +993,35 @@ msgstr "Toate {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
 msgid "errorpage_title"
 msgstr "Eroare 500: eroare internă server"
 
+msgid "gdpr-banner_text"
+msgstr ""
+
+msgid "gdpr-banner_cta-text"
+msgstr ""
+
 msgid "landingfooter_landing-subtitle"
 msgstr "DriverPack conține drivere pentru toate versiunile populare de Windows "
 
 msgid "landing-footer_catalog-os"
 msgstr "drivere pentru {{OS}}"
 
-msgid "landing-footer_download"
-msgstr "Descarcă DriverPack"
-
 msgid "landing-footer_versions"
 msgstr "Toate versiunile aplicațiilor"
+
+msgid "landing-footer_remove"
+msgstr "Ștergere DriverPack"
 
 msgid "landing-footer_manufacturers"
 msgstr "Producători de componente"
 
-msgid "landing-footer_badrabbit"
-msgstr "Protecție împotriva Bad Rabbit"
+msgid "landing-footer_hwids"
+msgstr "Device ID"
 
 msgid "landing-footer_for-admin"
 msgstr "Pentru admini"
 
 msgid "landing-footer_for-translators"
 msgstr "Pentru translatori"
-
-msgid "landing-footer_hwids"
-msgstr "Device ID"
-
-msgid "landing-footer_wannacry"
-msgstr "Oferă protecție împotriva WannaCry"
-
-msgid "landing-footer_license"
-msgstr "Termeni și Condiții"
-
-msgid "landing-footer_remove"
-msgstr "Ștergere DriverPack"
 
 msgid "notfoundpage_title"
 msgstr "Eroare 404: pagina nu a fost găsită"
@@ -1140,39 +1104,3 @@ msgstr "Traducerea DriverPack"
 
 msgid "vendorpage_subtitle-popular"
 msgstr "Dispozitive {{VENDOR.NAME}} populare"
-
-msgid "wannacryptpromopage_cta-text"
-msgstr "Virusul criptografic WannaCrypt — cum să îţi protejezi calculatorul împotriva celui mai mare atac din istorie?"
-
-msgid "wannacryptpromopage_cta-subtext"
-msgstr "DriverPack conține acțiuni specifice pentru eliminarea vulnerabilităților din instrumentele de configurare a computerului. Puteți să vă asigurați PC-ul sau laptopul prin descărcarea gratuită a protecției împotriva virusului WannaCry."
-
-msgid "wannacryptpromopage_cta-btn"
-msgstr "Configurați calculatorul și protejați-l împotriva WannaCry"
-
-msgid "wannacryptpromopage_caption-text"
-msgstr "Acest software este oferit gratuit"
-
-msgid "wannacryptpromopage_info-text-title-1"
-msgstr "Ce este WannaCrypt?"
-
-msgid "wannacryptpromopage_info-text-1"
-msgstr "WannaCrypt virusul șantajului (redenumit spontan WannaCry de către victime) a atacat computerele din întreaga lume pe 12 mai și a infectat dispozitivele a peste 300.000 de utilizatori din 150 de țări. Europa de Vest, Rusia, China au fost cele mai grav afectate. În Marea Britanie, virusul a dezactivat rețelele Departamentului de Sănătate și a oprit funcționarea spitalelor din întreaga țară. În China, atacul a afectat computerele vechi din fabrici oprind mai multe companii. <br/><br/>Modul în care funcționează acest virus este simplu: pătrunde în PC sau laptop și codifică absolut toate documentele, fișierele și materialele pe care le poate găsi și le face indisponibile pentru utilizare. Apoi, intrușii solicită o sumă substanțială de bani pentru decodare — aproximativ 300 de dolari. Cu toate acestea, nu există nicio garanție că veți primi accesul înapoi la fișierele dvs. În prezent, nu există nicio modalitate de decodare a fișierelor de unul singur, iar soluțiile care sunt oferite pe Internet chiar acum sunt fie neverosimile, răspândirea unui alt virus sau pur și simplu nu funcționează 100% sigur."
-
-msgid "wannacryptpromopage_info-text-title-2"
-msgstr "Cine este supus riscului?"
-
-msgid "wannacryptpromopage_info-text-2"
-msgstr "PC-urile cu sistem de operare mai vechi decât Windows 10 cu porturi SMB deschise sunt cele mai expuse. În prezent, jumătate dintre utilizatorii de Windows sunt expuși riscului — 18% dintre utilizatori folosesc copii Windows nelicențiate (fiind automat supusi riscului), 23% au dezactivat serviciul Windows Update (ceea ce le împiedică să descarce cele mai recente \"remedierii rapide\" de la Microsoft), iar alte 6% folosesc versiuni neactualizate ale sistemului de operare, care nu mai primesc actualizări. <br/><br/>Concluzia din toate acestea este că rețelele diferitelor firme și intreprinderi, dintre care unele utilizează în continuare sisteme de operare precum Windows XP, prezintă cel mai mare risc. În cazul atacurilor împotriva acestor rețele, pierderea datelor poate fi paralizantă, iar costul va fi enorm, deoarece orice \"răscumpărare\" va trebui plătită pentru fiecare PC separat."
-
-msgid "wannacryptpromopage_info-text-title-3"
-msgstr "Cum să îți protejezi afacerea — soluția de la DriverPack Solution"
-
-msgid "wannacryptpromopage_info-text-3"
-msgstr "Motivul principal de pericol al virusului WannaCrypt (WannaCry) este că acesta se răspândește prin folosirea unor vulnerabilități critice în protocolul SMBv1 al sistemului de securitate MS17-010. De fapt, face WannaCry invizibil pentru antivirusuri. Soluția de la DriverPack Solution vă permite să instalați o actualizare ce protejează vulnerabilitățile critice ale sistemului dvs. și dezactivează protocoalele expirate ce reprezintă o amenințare, indiferent de istoricul licențelor și versiunea dvs. de sistem de operare."
-
-msgid "wannacryptpromopage_links-text"
-msgstr "Dezvoltarea acestei soluții s-a bazat pe următoarele materiale"
-
-msgid "wannacryptpromopage_link-smb"
-msgstr "Cum să activezi sau să dezactivezi veriunile 1,2 și 3 a protocoalelor SMB pentru Windows si Windows server"

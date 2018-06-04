@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-03-16 15:04+0000\n"
+"POT-Creation-Date: 2018-05-25 14:38+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: iAye Selavan, 2018\n"
 "Language-Team: Filipino (https://www.transifex.com/driverpack-solution/teams/75453/fil/)\n"
@@ -407,6 +407,9 @@ msgstr "DriverPack Offline Full"
 msgid "landingproducts_item-description-offline"
 msgstr "Naglalaman ito ng lahat ng mga driver, napapatakbo nang walang koneksyon sa Internet, maaari itong ma-download sa pamamagitan ng Torrent-tracker <span class='nobr'>({{SIZE}})</span>"
 
+msgid "landingpublications__source-link"
+msgstr ""
+
 msgid "landingpublications__landing-title"
 msgstr "Publikasyon ng Mass media tungkol sa DriverPack"
 
@@ -503,6 +506,12 @@ msgstr "I-download ang DriverPack Offline Full"
 msgid "productlandingheader-offline_caption"
 msgstr "DriverPack Offline Full - isang malaking pack ng {{SIZE}} na mga driver. I-download lamang ang buong DriverPack Offline Full at gamitin ang napakalaking library ng mga up-to-date na driver kahit saan mo man gusto. Ito ay angkop sa mga system admin."
 
+msgid "promoheader_os-versions"
+msgstr "Ang software na ito ay angkop para sa Windows 10, 8.1, 8, 7, Vista, XP"
+
+msgid "promoheader_uninstall"
+msgstr "Pag-alis ng DriverPack"
+
 msgid "promoheader_cta-text-gamers"
 msgstr "Ang iyong computer ay mas malakas kaysa sa iniiisip mo: libreng i-update ang lahat ng mga driver"
 
@@ -517,15 +526,6 @@ msgstr "I-install ang lahat ng kinakailangang mga driver"
 
 msgid "promoheader_size"
 msgstr "Laki ng File: {{SIZE}} KB"
-
-msgid "promoheader_license"
-msgstr "Kasunduan sa Lisensya"
-
-msgid "promoheader_os-versions"
-msgstr "Ang software na ito ay angkop para sa Windows 10, 8.1, 8, 7, Vista, XP"
-
-msgid "promoheader_uninstall"
-msgstr "Pag-alis ng DriverPack"
 
 msgid "reviewheader_cta-text"
 msgstr "Sumali sa komunidad ng DriverPack sa mga social network upang makasabay sa mga balita tungkol sa produkto at makilahok sa mga talakayan"
@@ -929,36 +929,6 @@ msgstr "Kapag kinokonekta ko ang aking flash-card sa usb slot, isang notificatio
 msgid "cloudpagefaq_usb-a"
 msgstr "Ang DriverPack Cloud ay nagpapakita ng pagkonekta ng mga bagong device at sinusuri kung mayroon silang wastong mga driver. Kung nawawala ang kinakailangang driver, posible itong i-install agad — kinakailangan para sa tamang operability ng device."
 
-msgid "badrabbitpromopage_cta-text"
-msgstr "Bad Rabbit cryptographic virus — paano protektahan ang iyong PC?"
-
-msgid "badrabbitpromopage_cta-subtext"
-msgstr "Ang DriverPack ay nag-aalis ang mga kahinaan sa iyong computer. Maaari mong i-secure ang iyong PC o laptop sa pamamagitan ng pag-download ng aming libreng proteksyon laban sa Bad Rabbit virus."
-
-msgid "badrabbitpromopage_cta-btn"
-msgstr "I-configure ang computer at protektahan ito laban sa Bad Rabbit"
-
-msgid "badrabbitpromopage_caption-text"
-msgstr "Ang software na ito ay ibinibigay nang libre"
-
-msgid "badrabbitpromopage_info-text-title-1"
-msgstr "Ano ang Bad Rabbit?"
-
-msgid "badrabbitpromopage_info-text-1"
-msgstr "Ang Bad Rabbit ay isang bagong cryptographic virus na nag-atake sa mga kompyuter sa Russia, Ukraine, Bulgaria, at Turkey mula noong katapusan ng Oktubre 2017. Isa rin sa mga biktima ang Interfax RIA, ang Fontanka RIA, ilan sa Ministries ng Ukraine, pati na rin Odessa Airport. Simple lamang ang simulain ng operasyon nito: ginagamit nito ang utility Mimikatz upang makuha ang data ng account mula sa memory ng iyong PC. Hinahanap din nito ang data ng aktibong account ng admin. Pagkatapos ay sinusubukan ng Bad Rabbit na makakuha ng access sa mga workstation sa lokal na network sa pamamagitan ng paggamit ng SMB at WebDAV. Sa sandaling nakakakuha ito ng access sa iyong PC, ine-encrypt ng virus ang lahat ng data na maaaring maabot nito, at pagkatapos ay binabago nito ang Master Boot Record. Kapag kumpleto na ang pamamaraang ito, ang Bad Rabbit ay nagre-reset ng iyong computer at nagpa-pop up ng mensahe nito sa isang demand para sa 0.05 Bitcoins (mga nasa $ 300 nitong katapusan ng Oktubre 2017)."
-
-msgid "badrabbitpromopage_info-text-title-2"
-msgstr "Paano protektahan ang iyong PC laban sa Bad Rabbit cryptographic virus?"
-
-msgid "badrabbitpromopage_info-text-2"
-msgstr "Ano ang maaari mong gawin upang protektahan ang iyong sarili laban sa bagong virus:<br/>• Gumawa ng infpub.dat file sa C: \\\\ Windows \\\\ folder at lagyan ng tsek ang 'Read-only' na opsyon sa mga katangian nito<br/>• Manatiling maingat sa paglikha ng mga bagong gawain sa 'Task Scheduler'<br/>• Huwag i-install ang anumang mga update para sa FlashPlayer mula sa ibang mga site<br/>• I-update ang Windows at ang lahat ng naka-install na protektadong software<br/>• Gumawa ng mga backup ng iyong operating system<br/><br/>Gayundin, maaari mong gamitin ang bagong solusyon mula sa DriverPack Solution sa pamamagitan ng pag-download nito sa pahinang ito - ito ay i-save ang iyong oras!<br/><b>Gumagana ang aming solusyon sa Windows 7, 8, 8.1, 10, at XP.</b>"
-
-msgid "badrabbitpromopage_links-text"
-msgstr "Ang pagbuo at pag-unlad ng solusyon na ito ay batay sa mga sumusunod na materyales"
-
-msgid "badrabbitpromopage_link-smb"
-msgstr "Paano paganahin at huwag paganahin ang mga bersyon 1, 2, at 3 ng mga protocol ng SMB para sa Windows at Windows Server"
-
 msgid "cloudlandingpage_cackle-title"
 msgstr "Ipaalam sa amin ang iyong opinyon tungkol sa DriverPack Cloud"
 
@@ -1019,41 +989,35 @@ msgstr "Lahat {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
 msgid "errorpage_title"
 msgstr "Error 500: error sa panloob na server"
 
+msgid "gdpr-banner_text"
+msgstr ""
+
+msgid "gdpr-banner_cta-text"
+msgstr ""
+
 msgid "landingfooter_landing-subtitle"
 msgstr "Naglalaman ang DriverPack ng mga driver para sa lahat ng mga popular na bersyon ng Windows"
 
 msgid "landing-footer_catalog-os"
 msgstr "drivers para sa {{OS}}"
 
-msgid "landing-footer_download"
-msgstr "I-download ang DriverPack"
-
 msgid "landing-footer_versions"
 msgstr "Lahat ng mga bersyon ng app"
+
+msgid "landing-footer_remove"
+msgstr "Pag-alis ng DriverPack"
 
 msgid "landing-footer_manufacturers"
 msgstr "Mga Tagagawa ng Hardware"
 
-msgid "landing-footer_badrabbit"
-msgstr "Proteksyon laban sa Bad Rabbit"
+msgid "landing-footer_hwids"
+msgstr "Device ID"
 
 msgid "landing-footer_for-admin"
 msgstr "Para sa mga admin ng system"
 
 msgid "landing-footer_for-translators"
 msgstr "Para sa mga tagasalin"
-
-msgid "landing-footer_hwids"
-msgstr "Device ID"
-
-msgid "landing-footer_wannacry"
-msgstr "Proteksyon laban sa WannaCry"
-
-msgid "landing-footer_license"
-msgstr "Kasunduan sa Lisensya"
-
-msgid "landing-footer_remove"
-msgstr "Pag-alis ng DriverPack"
 
 msgid "notfoundpage_title"
 msgstr "Error 404: ang pahina na iyong hinahanap ay hindi natagpuan"
@@ -1136,39 +1100,3 @@ msgstr "Pagsasalin ng DriverPack"
 
 msgid "vendorpage_subtitle-popular"
 msgstr "Sikat na {{VENDOR.NAME}} na mga aparato o devices"
-
-msgid "wannacryptpromopage_cta-text"
-msgstr "WannaCrypt cryptographer virus — kung paano protektahan ang computer laban sa pinakamalaking pag-atake sa kasaysayan?"
-
-msgid "wannacryptpromopage_cta-subtext"
-msgstr "Ang DriverPack ay naglalaman ng mga actions para maalis ang mga kahinaan sa iyong computer. Maaari mong i-secure ang iyong PC o laptop sa pamamagitan ng pag-download ng aming libreng proteksyon laban sa WannaCry virus."
-
-msgid "wannacryptpromopage_cta-btn"
-msgstr "I-configure ang computer at protektahan ito laban sa WannaCry"
-
-msgid "wannacryptpromopage_caption-text"
-msgstr "Ang software na ito ay ibinibigay nang libre"
-
-msgid "wannacryptpromopage_info-text-title-1"
-msgstr "Ano ang WannaCrypt?"
-
-msgid "wannacryptpromopage_info-text-1"
-msgstr "Ang WannaCrypt blackmailer virus (spontaneously pinalitan ng pangalan WannaCry ng mga biktima) ang nag-atake ng mga computer sa buong mundo noong Mayo 12, at nahawaan ang mga device ng mahigit sa 300,000 mga gumagamit sa 150 bansa. Ang Kanlurang bahagi Europa, Russia, China ang pinakamasamang tinamaan. Sa Great Britain, pinigilan ng virus ang mga network ng Kagawaran ng Kalusugan at pinatigil ang operasyon ng mga ospital sa buong bansa. Sa Tsina, naapektuhan ng pag-atake ang mga lumang computer sa mga pabrika na huminto sa ilang mga industriya.<br/><br/>Ang pangunahing punto kung paano gumagana ang virus na ito ay simple lang: pumapasok ito sa iyong PC o laptop, at naka-encode na lahat ng mga dokumento, mga file, at mga materyales na maaari itong makita, ay ginagawang hindi magagamit o hindi na mapapakinabangan pa. Pagkatapos ay hinihiling ng mga intruder ang isang malaking halaga ng pera para sa pag-decode — mga $ 300. Gayunpaman, walang garantiya na makakakuha ka ng access sa iyong mga files sa naapektuhang aparato o device. Sa kasalukuyan, walang paraan ng pag-decode ng mga file sa pamamagitan ng iyong sarili, at ang mga solusyon na inaalok sa Internet ngayon ay ang pangingisda o mas kilala sa tawag na phishing, pagkalat ng isa pang virus, o hindi lamang gumana sa 100% na katiyakan."
-
-msgid "wannacryptpromopage_info-text-title-2"
-msgstr "Sino ang nasa panganib?"
-
-msgid "wannacryptpromopage_info-text-2"
-msgstr "Ang mga PC na may operating system na mas maaga kaysa sa Windows 10 na may bukas na SMB port ay nasa pinakamaraming panganib. Sa kasalukuyan, ang kalahati ng lahat ng mga gumagamit ng Windows ay nasa panganib —  labingwalo porsyento o 18% gumagamit ng mga hindi lisensyado na mga kopya ng Windows (awtomatikong ginagawa itong nasa panganib), dalawampu't tatlong porsyento o 23% ang mga gumagamit na pinagana ang kanilang serbisyo sa Windows Update (na pinipigilan ang mga ito sa pag-download ng pinakabagong \"hotfixes\" mula sa Microsoft), at isa pang anim na porsyento o 6% ang gumagamit ng mga bersyon sa labas ng OS na wala pang makatanggap ng mga update.<br/><br/>Ang konklusyon mula sa lahat ng ito ay ang mga network ng iba't ibang mga kumpanya at negosyo na gumagamit pa rin ng Operating Systems tulad ng Windows XP ay nasa pinakamataas na panganib. Sa mga pag-atake sa mga network na ito, ang pagkawala ng data ay maaaring makapinsala at magiging napakalaking gastos, tulad ng anumang \"ransom\" ay kailangang bayaran sa bawat PC nang bukod o hiwalay."
-
-msgid "wannacryptpromopage_info-text-title-3"
-msgstr "Paano protektahan ang iyong negosyo — solusyon mula sa DriverPack Solution"
-
-msgid "wannacryptpromopage_info-text-3"
-msgstr "Ang pangunahing dahilan ng WannaCrypt (WannaCry) virus na panganib ay ang pagkalat nito sa pamamagitan ng paggamit ng isang kritikal na kahinaan sa SMBv1 protocol ng MS17-010 system ng seguridad. Ito ay talagang gumagawa ng WannaCry na hindi nakikita sa mga antivirus. Ang solusyon mula sa DriverPack Solution ay nagbibigay-daan sa iyo upang i-install ang isang pag-update na nagpoprotekta sa mga kritikal na kahinaan ng iyong system, at upang huwag paganahin ang mga out-of-date na mga protocol na banta, anuman ang iyong kasaysayan ng lisensya at ang iyong bersyon ng OS."
-
-msgid "wannacryptpromopage_links-text"
-msgstr "Ang pagbuo at pag-unlad ng solusyon na ito ay batay sa mga sumusunod na materyales"
-
-msgid "wannacryptpromopage_link-smb"
-msgstr "Paano paganahin at huwag paganahin ang mga bersyon 1, 2, at 3 ng mga protocol ng SMB para sa Windows at Windows Server"

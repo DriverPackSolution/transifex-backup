@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-03-16 15:04+0000\n"
+"POT-Creation-Date: 2018-05-25 14:38+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Munkhlkhagva <juvel.artyom@gmail.com>, 2018\n"
 "Language-Team: Mongolian (https://www.transifex.com/driverpack-solution/teams/75453/mn/)\n"
@@ -405,6 +405,9 @@ msgstr "DriverPack Offline Full"
 msgid "landingproducts_item-description-offline"
 msgstr "Энэ нь бүх драйверуудыг агуулдгаас гадна интернет холболтгүй үед ашиглах боломжтой, Torrent-tracker ашиглан татаж болно <span class='nobr'>({{SIZE}})</span>"
 
+msgid "landingpublications__source-link"
+msgstr ""
+
 msgid "landingpublications__landing-title"
 msgstr "DriverPack-ын тухай хэвлэл мэдээллийн хэрэгслээр түгсэн ихэнх нийтлэлүүд"
 
@@ -501,6 +504,12 @@ msgstr "DriverPack Offline Full татаж авах"
 msgid "productlandingheader-offline_caption"
 msgstr ""
 
+msgid "promoheader_os-versions"
+msgstr "Софтваре нь Windows 10, 8.1, 8, 7, Vista, XP-д тохиромжтой"
+
+msgid "promoheader_uninstall"
+msgstr "DriverPack арилгалт"
+
 msgid "promoheader_cta-text-gamers"
 msgstr "Таны компьютер бодсоноос чинь илүү хүчтэй: бүх драйверуудаа үнэ төлбөргүй шинэчил"
 
@@ -515,15 +524,6 @@ msgstr "Бүх шаардлагатай драйверүүдийг суулга"
 
 msgid "promoheader_size"
 msgstr "Файлын хэмжээ: {{SIZE}} KB"
-
-msgid "promoheader_license"
-msgstr "Лицензийн Зөвшөөрөл"
-
-msgid "promoheader_os-versions"
-msgstr "Софтваре нь Windows 10, 8.1, 8, 7, Vista, XP-д тохиромжтой"
-
-msgid "promoheader_uninstall"
-msgstr "DriverPack арилгалт"
 
 msgid "reviewheader_cta-text"
 msgstr ""
@@ -927,36 +927,6 @@ msgstr ""
 msgid "cloudpagefaq_usb-a"
 msgstr ""
 
-msgid "badrabbitpromopage_cta-text"
-msgstr "Bad Rabbit крифтографик вирус — өөрийнхөө PC-г яаж хамгаалах вэ?"
-
-msgid "badrabbitpromopage_cta-subtext"
-msgstr ""
-
-msgid "badrabbitpromopage_cta-btn"
-msgstr "Компьютерийг хэлбэрчилж, Bad Rabbit-ын эсрэг хамгаалалт бий болго"
-
-msgid "badrabbitpromopage_caption-text"
-msgstr "Энэ софтваре үнэгүй байхаар зохиогдсон"
-
-msgid "badrabbitpromopage_info-text-title-1"
-msgstr "Bad Rabbit гэж юу вэ?"
-
-msgid "badrabbitpromopage_info-text-1"
-msgstr ""
-
-msgid "badrabbitpromopage_info-text-title-2"
-msgstr ""
-
-msgid "badrabbitpromopage_info-text-2"
-msgstr ""
-
-msgid "badrabbitpromopage_links-text"
-msgstr "Энэ өвөрмөц шийдлийн хөгжил нь дараах материалуудад тулгуурласан"
-
-msgid "badrabbitpromopage_link-smb"
-msgstr ""
-
 msgid "cloudlandingpage_cackle-title"
 msgstr ""
 
@@ -1017,41 +987,35 @@ msgstr "Бүгд {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
 msgid "errorpage_title"
 msgstr "Error 500: дотоод серверийн алдаа"
 
+msgid "gdpr-banner_text"
+msgstr ""
+
+msgid "gdpr-banner_cta-text"
+msgstr ""
+
 msgid "landingfooter_landing-subtitle"
 msgstr "DriverPack бүх алдартай Windows-ын загваруудад зориулсан драйверууд агуулдаг"
 
 msgid "landing-footer_catalog-os"
 msgstr "{{OS}} -т зориулсан драйвер"
 
-msgid "landing-footer_download"
-msgstr "DriverPack-г татах"
-
 msgid "landing-footer_versions"
 msgstr "Бүх аппликешний хувилбарууд"
+
+msgid "landing-footer_remove"
+msgstr "DriverPack арилгалт"
 
 msgid "landing-footer_manufacturers"
 msgstr "Hardware гар аргаар үйлдвэрлэгчид"
 
-msgid "landing-footer_badrabbit"
-msgstr " Bad Rabbit - эсрэг хамгаалалт"
+msgid "landing-footer_hwids"
+msgstr "Device ID"
 
 msgid "landing-footer_for-admin"
 msgstr "Системийн админуудад"
 
 msgid "landing-footer_for-translators"
 msgstr "Орчуулагчдад"
-
-msgid "landing-footer_hwids"
-msgstr "Device ID"
-
-msgid "landing-footer_wannacry"
-msgstr "WannaCry-ын эсрэг хамгаалалт"
-
-msgid "landing-footer_license"
-msgstr "Лицензийн Зөвшөөрөл"
-
-msgid "landing-footer_remove"
-msgstr "DriverPack арилгалт"
 
 msgid "notfoundpage_title"
 msgstr "Error 404: хуудас олдохгүй байна"
@@ -1134,39 +1098,3 @@ msgstr "DriverPack Орчуулалт"
 
 msgid "vendorpage_subtitle-popular"
 msgstr "Алдартай {{VENDOR.NAME}} төхөөрөмжүүд"
-
-msgid "wannacryptpromopage_cta-text"
-msgstr ""
-
-msgid "wannacryptpromopage_cta-subtext"
-msgstr ""
-
-msgid "wannacryptpromopage_cta-btn"
-msgstr "Компьютерийг хэлбэрчилж, WannaCry-ын эсрэг хамгаалалт бий болго"
-
-msgid "wannacryptpromopage_caption-text"
-msgstr "Энэ софтваре үнэгүй байхаар зохиогдсон"
-
-msgid "wannacryptpromopage_info-text-title-1"
-msgstr "WannaCrypt гэж юу вэ?"
-
-msgid "wannacryptpromopage_info-text-1"
-msgstr ""
-
-msgid "wannacryptpromopage_info-text-title-2"
-msgstr ""
-
-msgid "wannacryptpromopage_info-text-2"
-msgstr ""
-
-msgid "wannacryptpromopage_info-text-title-3"
-msgstr "Өөрийн бизнессээ яаж хамгаалах вэ — шийдлийг DriverPack Solution-аас"
-
-msgid "wannacryptpromopage_info-text-3"
-msgstr ""
-
-msgid "wannacryptpromopage_links-text"
-msgstr "Энэ өвөрмөц шийдлийн хөгжил нь дараах материалуудад тулгуурласан"
-
-msgid "wannacryptpromopage_link-smb"
-msgstr ""

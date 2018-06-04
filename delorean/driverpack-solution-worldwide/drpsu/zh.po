@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-03-16 15:04+0000\n"
+"POT-Creation-Date: 2018-05-25 14:38+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: danfong <danfong.hsieh@gmail.com>, 2017\n"
 "Language-Team: Chinese (https://www.transifex.com/driverpack-solution/teams/75453/zh/)\n"
@@ -405,6 +405,9 @@ msgstr "DriverPack Offline 完整版"
 msgid "landingproducts_item-description-offline"
 msgstr "它包含所有驅動程式，執行時不需連接到網際網路，它能透過 torrent <span class='nobr'>({{SIZE}})</span> 下載"
 
+msgid "landingpublications__source-link"
+msgstr ""
+
 msgid "landingpublications__landing-title"
 msgstr "關於 DriverPack 的大眾媒體出版物"
 
@@ -501,6 +504,12 @@ msgstr ""
 msgid "productlandingheader-offline_caption"
 msgstr ""
 
+msgid "promoheader_os-versions"
+msgstr "本軟體適用於 Windows 10, 8.1, 8, 7, Vista, XP"
+
+msgid "promoheader_uninstall"
+msgstr "DriverPack 移除"
+
 msgid "promoheader_cta-text-gamers"
 msgstr "您的電腦比您想像的更強大: 免費更新所有驅動程式"
 
@@ -515,15 +524,6 @@ msgstr "安裝所有所需的驅動程式"
 
 msgid "promoheader_size"
 msgstr "檔案大小: {{SIZE}} KB"
-
-msgid "promoheader_license"
-msgstr "授權合約"
-
-msgid "promoheader_os-versions"
-msgstr "本軟體適用於 Windows 10, 8.1, 8, 7, Vista, XP"
-
-msgid "promoheader_uninstall"
-msgstr "DriverPack 移除"
 
 msgid "reviewheader_cta-text"
 msgstr "在社交網絡中加入 DriverPack 社群，跟上產品的消息，並參與討論"
@@ -927,36 +927,6 @@ msgstr ""
 msgid "cloudpagefaq_usb-a"
 msgstr ""
 
-msgid "badrabbitpromopage_cta-text"
-msgstr ""
-
-msgid "badrabbitpromopage_cta-subtext"
-msgstr ""
-
-msgid "badrabbitpromopage_cta-btn"
-msgstr "設定電腦並保護它不受 Bad Rabbit 的感染"
-
-msgid "badrabbitpromopage_caption-text"
-msgstr "此軟體免費散佈"
-
-msgid "badrabbitpromopage_info-text-title-1"
-msgstr "什麼是 Bad Rabbit?"
-
-msgid "badrabbitpromopage_info-text-1"
-msgstr ""
-
-msgid "badrabbitpromopage_info-text-title-2"
-msgstr ""
-
-msgid "badrabbitpromopage_info-text-2"
-msgstr "您可以如何保護自己免受新病毒的攻擊: <br/>•在 C:\\\\Windows\\\\ 資料夾中建立一個 infpub.dat 檔案，並在其屬性中勾選「唯讀」選項<br/>•在「工作排程器」中仔細建立新工作<br/>•不要從外部網站安裝 FlashPlayer 的任何更新<br/>•更新 Windows 和所有已安裝的保護軟體<br/>•備份您的作業系統<br/><br/>此外，您可以透過在此頁面上下載 DriverPack Solution 來使用新解決方案 - 將節省您的時間!<br/><b> 我們的解決方案適用於Windows 7, 8, 8.1, 10 和 XP。</b>"
-
-msgid "badrabbitpromopage_links-text"
-msgstr "發展是以下列材質為主"
-
-msgid "badrabbitpromopage_link-smb"
-msgstr "如何啟用、停用 Windows 和 Windows Server SMB 通訊協定版本 1、2 和 3"
-
 msgid "cloudlandingpage_cackle-title"
 msgstr ""
 
@@ -1017,41 +987,35 @@ msgstr "全部 {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
 msgid "errorpage_title"
 msgstr "錯誤 500: 內部伺服器錯誤"
 
+msgid "gdpr-banner_text"
+msgstr ""
+
+msgid "gdpr-banner_cta-text"
+msgstr ""
+
 msgid "landingfooter_landing-subtitle"
 msgstr "DriverPack 包含所有受歡迎 Windows 版本的驅動程式"
 
 msgid "landing-footer_catalog-os"
 msgstr "{{OS}} 驅動程式"
 
-msgid "landing-footer_download"
-msgstr "下載 DriverPack"
-
 msgid "landing-footer_versions"
 msgstr "所有應用程式版本"
+
+msgid "landing-footer_remove"
+msgstr "DriverPack 移除"
 
 msgid "landing-footer_manufacturers"
 msgstr "硬體製造商"
 
-msgid "landing-footer_badrabbit"
-msgstr "防止 Bad Rabbit"
+msgid "landing-footer_hwids"
+msgstr "Device ID"
 
 msgid "landing-footer_for-admin"
 msgstr "對於系統管理員"
 
 msgid "landing-footer_for-translators"
 msgstr "對於譯者"
-
-msgid "landing-footer_hwids"
-msgstr "Device ID"
-
-msgid "landing-footer_wannacry"
-msgstr "防止 WannaCry"
-
-msgid "landing-footer_license"
-msgstr "授權合約"
-
-msgid "landing-footer_remove"
-msgstr "DriverPack 移除"
 
 msgid "notfoundpage_title"
 msgstr "錯誤 404: 頁面找不到"
@@ -1134,39 +1098,3 @@ msgstr "DriverPack 翻譯"
 
 msgid "vendorpage_subtitle-popular"
 msgstr "熱門的 {{VENDOR.NAME}} 裝置"
-
-msgid "wannacryptpromopage_cta-text"
-msgstr "WannaCrypt 加密勒索病毒 — 如何保護電腦免受歷史上最大的攻擊?"
-
-msgid "wannacryptpromopage_cta-subtext"
-msgstr ""
-
-msgid "wannacryptpromopage_cta-btn"
-msgstr "安裝電腦並保護它免受 WannaCry 的感染"
-
-msgid "wannacryptpromopage_caption-text"
-msgstr "此軟體免費散佈"
-
-msgid "wannacryptpromopage_info-text-title-1"
-msgstr "什麼是 WannaCrypt?"
-
-msgid "wannacryptpromopage_info-text-1"
-msgstr "在 5月12日 WannaCrypt (受害者自發命名為 WannaCry)勒索病毒攻擊了全世界的電腦，並感染了超過 150 個國家 300,000 使用者的裝置。西歐、俄羅斯、中國是受災最大的國家。在大不列顛，病毒使衛生部門的網路癱瘓，並導致全國的醫院癱瘓。在中國，這起襲擊影響了工廠的舊電腦，導致一些行業停止運轉。<br/><br/>該病毒的工作原理是簡單的, 它滲透到您的電腦或筆記型電腦，並對它可以找到所有的文件、檔案進行編碼，並使它們無法使用。然後入侵者需要大量的資金來解碼 — 大約 300 美元。但是, 無法保證您能夠取回檔案的存取權。目前, 沒有辦法自己解碼檔案的方法，而現在網路中提供的解決方案是釣魚或散播另一種病毒的方法，或者它們不能以 100％ 的概率工作。"
-
-msgid "wannacryptpromopage_info-text-title-2"
-msgstr "誰有風險?"
-
-msgid "wannacryptpromopage_info-text-2"
-msgstr "Windows 10 以前的作業系統的電腦預設開啟 SMB 連接埠的風險最大。目前，一半的 Windows 作業系統用戶面臨風險 — 18% 的用戶使用未授權的Windows 副本(自動落入風險區域)，23% 的用戶停用了 Windows Update 服務(阻止他們從 Microsoft 下載最新的\"修補程式\")，另有 6% 的用戶使用的是舊版的作業系統，它們再也沒有獲得更新。<br/><br/>以上結論是: 一些公司和企業的網路仍然使用 Windows XP 作業系統的風險最高。在這種網路遭到攻擊的情況下，資料遺失可能會花費大量的金錢，他們也必須分別為每台電腦支付一些\"贖金\"。"
-
-msgid "wannacryptpromopage_info-text-title-3"
-msgstr "如何從 DriverPack Solution 中保護您的業務 — 解決方案"
-
-msgid "wannacryptpromopage_info-text-3"
-msgstr "WannaCrypt (WannaCry) 勒索病毒危害的主要原因是透過使用 MS17-010 安全系統的 SMBv1 通訊協定中的重大漏洞傳播。這使得防毒軟體無法偵測到 WannaCry。來自 DriverPack Solution 的解決方案可以安裝更新，保護系統的重大漏洞，並立即停用即將發生威脅的過時通訊協定，無論您的授權歷程記錄和作業系統版本如何。"
-
-msgid "wannacryptpromopage_links-text"
-msgstr "發展是以下列材料為主"
-
-msgid "wannacryptpromopage_link-smb"
-msgstr "如何啟用、停用 Windows and Windows Server SMB 通訊協定版本 1、2 和 3"

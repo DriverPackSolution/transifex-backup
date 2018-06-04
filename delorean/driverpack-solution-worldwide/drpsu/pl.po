@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-03-16 15:04+0000\n"
+"POT-Creation-Date: 2018-05-25 14:38+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: BestiaPL <bestiapl@gmail.com>, 2017\n"
 "Language-Team: Polish (https://www.transifex.com/driverpack-solution/teams/75453/pl/)\n"
@@ -412,6 +412,9 @@ msgstr "DriverPack Offline Full"
 msgid "landingproducts_item-description-offline"
 msgstr "Zawiera wszystkie dostępne sterowniki, nie wymaga podłączenia do internetu. Pobieranie przez torrent, wielkość pliku <span class='nobr'>({{SIZE}})</span>"
 
+msgid "landingpublications__source-link"
+msgstr ""
+
 msgid "landingpublications__landing-title"
 msgstr "Publikacje mediów o DriverPack"
 
@@ -508,6 +511,12 @@ msgstr "Pobierz DriverPack Offline Full"
 msgid "productlandingheader-offline_caption"
 msgstr ""
 
+msgid "promoheader_os-versions"
+msgstr "Oprogramowanie to działa z Windows 10, 8.1, 8, 7, Vista, XP"
+
+msgid "promoheader_uninstall"
+msgstr "Usuwanie DriverPack"
+
 msgid "promoheader_cta-text-gamers"
 msgstr "Twój komputer jest wydajniejszy, niż sądzisz: zaktualizuj wszystkie sterowniki za darmo"
 
@@ -522,15 +531,6 @@ msgstr "Zainstaluj wszystkie wymagane sterowniki"
 
 msgid "promoheader_size"
 msgstr "Wielkość pliku: {{SIZE}}KB"
-
-msgid "promoheader_license"
-msgstr "Umowa licencyjna"
-
-msgid "promoheader_os-versions"
-msgstr "Oprogramowanie to działa z Windows 10, 8.1, 8, 7, Vista, XP"
-
-msgid "promoheader_uninstall"
-msgstr "Usuwanie DriverPack"
 
 msgid "reviewheader_cta-text"
 msgstr "Dołącz do społeczności DriverPack na różnych mediach społecznościowych, by być na bieżąco z wiadomościami o produkcie i brać udział w dyskusjach"
@@ -934,36 +934,6 @@ msgstr ""
 msgid "cloudpagefaq_usb-a"
 msgstr ""
 
-msgid "badrabbitpromopage_cta-text"
-msgstr ""
-
-msgid "badrabbitpromopage_cta-subtext"
-msgstr ""
-
-msgid "badrabbitpromopage_cta-btn"
-msgstr "Skonfiguruj i zabezpiecz komputer przed Bad Rabbit"
-
-msgid "badrabbitpromopage_caption-text"
-msgstr "Oprogramowanie oferowane jest za darmo"
-
-msgid "badrabbitpromopage_info-text-title-1"
-msgstr "Czym jest Bad Rabbit?"
-
-msgid "badrabbitpromopage_info-text-1"
-msgstr ""
-
-msgid "badrabbitpromopage_info-text-title-2"
-msgstr ""
-
-msgid "badrabbitpromopage_info-text-2"
-msgstr "Co możesz zrobić, aby uchronić się przed nowym wirusem:<br/>• Utwórz plik infpub.dat w folderze C:\\\\Windows\\\\ o zaznacz w jego właściwościach 'Tylko do odczytu'<br/>• Kontroluj pojawiające się nowe zadania w 'Harmonogramie zadań' <br/>• Nie instaluj żadnych aktualizacji FlashPlayer'a spoza oficjalnych stron<br/>• Regularnie aktualizuj Windows i wszelkie oprogramowanie chroniące komputer<br/>• Regularnie twórz kopie zapasowe systemu operacyjnego<br/><br/>Poza tym możesz po prostu użyć nowego produktu od DriverPack Solution pobierając go z jego strony - zaoszczędzisz mnóstwo czasu!<br/><b>Nasze produkt działa na Windows 7, 8, 8.1, 10, i XP.</b>"
-
-msgid "badrabbitpromopage_links-text"
-msgstr "Opracowano na podstawie poniższych materiałów źródłowych"
-
-msgid "badrabbitpromopage_link-smb"
-msgstr "Jak włączyć lub wyłączyć wersje 1,2 lub 3 protokołów SMB dla Windows lub Windows Server"
-
 msgid "cloudlandingpage_cackle-title"
 msgstr ""
 
@@ -1024,41 +994,35 @@ msgstr "Wszystkie {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
 msgid "errorpage_title"
 msgstr "Błąd 500: wewnętrzny błąd serwera"
 
+msgid "gdpr-banner_text"
+msgstr ""
+
+msgid "gdpr-banner_cta-text"
+msgstr ""
+
 msgid "landingfooter_landing-subtitle"
 msgstr "DriverPack zawiera sterowniki dla wszystkich wersji Windowsa"
 
 msgid "landing-footer_catalog-os"
 msgstr "sterowniki dla {{OS}}"
 
-msgid "landing-footer_download"
-msgstr "Pobierz DriverPack"
-
 msgid "landing-footer_versions"
 msgstr "Wszystkie wersje aplikacji"
+
+msgid "landing-footer_remove"
+msgstr "Usuwanie DriverPack"
 
 msgid "landing-footer_manufacturers"
 msgstr "Producenci sprzętu"
 
-msgid "landing-footer_badrabbit"
-msgstr "Ochrona przed Bad Rabbit"
+msgid "landing-footer_hwids"
+msgstr "Device ID"
 
 msgid "landing-footer_for-admin"
 msgstr "Dla administratorów systemów"
 
 msgid "landing-footer_for-translators"
 msgstr "Dla tłumaczy"
-
-msgid "landing-footer_hwids"
-msgstr "Device ID"
-
-msgid "landing-footer_wannacry"
-msgstr "Zabezpieczenie przed WannaCry"
-
-msgid "landing-footer_license"
-msgstr "Umowa licencyjna"
-
-msgid "landing-footer_remove"
-msgstr "Usuwanie DriverPack"
 
 msgid "notfoundpage_title"
 msgstr "Błąd 404: nie odnaleziono strony"
@@ -1141,39 +1105,3 @@ msgstr "Tłumaczenie DriverPack'a"
 
 msgid "vendorpage_subtitle-popular"
 msgstr "Popularne urządzenia {{VENDOR.NAME}}"
-
-msgid "wannacryptpromopage_cta-text"
-msgstr "Wirus szyfrujący WannaCrypt — jak ochronić swój komputer przed największym atakiem w historii?"
-
-msgid "wannacryptpromopage_cta-subtext"
-msgstr ""
-
-msgid "wannacryptpromopage_cta-btn"
-msgstr "Skonfiguruj swój komputer i zabezpiecz go przed WannaCry"
-
-msgid "wannacryptpromopage_caption-text"
-msgstr "Oprogramowanie oferowane jest za darmo"
-
-msgid "wannacryptpromopage_info-text-title-1"
-msgstr "Czym jest WannaCrypt?"
-
-msgid "wannacryptpromopage_info-text-1"
-msgstr "Wirus wymuszający okup WannaCrypt (spontanicznie nazwany WannaCry przez jego ofiary) zaatakował komputery na całym świecie 12 maja i zainfekował urządzenia ponad 300 000 użytkowników w 150 krajach. Europa  Zachodnia, Rosja, Chiny zostały poszkodowane najmocniej. W Wielkiej Brytanii wirus zablokował sieć Ministerstwa Zdrowia i wstrzymał działalność szpitali w całym kraju.  W Chinach atak zablokował stare komputery używane w przemyśle.<br/><br/>Zasada działania wirusa jest prosta: penetruje on wnętrze komputera i szyfruje wszystkie dokumenty, pliki i dane, które znajdzie i czyni je niezdatnymi do użytku. Wtedy przestępcy żądają znacznej sumy pieniędzy za odszyfrowanie — około 300 dolarów. Jednakże nie ma gwarancji, że odzyskasz dostęp do plików. Aktualnie nie ma możliwości odszyfrowania plików samodzielnie, a rozwiązania oferowane teraz w Internecie są phishingiem, rozsyłką kolejnego wirusa lub po prostu ze 100% pewnością nie działają. "
-
-msgid "wannacryptpromopage_info-text-title-2"
-msgstr "Kto jest zagrożony?"
-
-msgid "wannacryptpromopage_info-text-2"
-msgstr "Najbardziej zagrożone są komputery z systemem operacyjnym starszym niż Windows 10 z otwartymi portami usługi  SMB. Aktualnie połowa użytkowników systemu Windows jest zagrożona — 18% użytkowników używa nielicencjonowanych kopii Windows (co automatycznie czyni ich zagrożonymi), 23% zablokowało usługę Windows Update (co uniemożliwia pobranie najnowszych \"łatek\" z Microsoft'u), pozostałe 6% używa przestarzałych systemów operacyjnych, które po prostu nie otrzymują już uaktualnień.<br/><br/>Wynika z tego, że sieci wielu firm i przedsiębiorstw, które wciąż używają systemów takich jak Windows XP są najbardziej zagrożone. Ataki na te sieci mogą być paraliżujące, a ich koszty olbrzymie, gdyż \"okup\" należy zapłacić od każdego zarażonego komputera osobno."
-
-msgid "wannacryptpromopage_info-text-title-3"
-msgstr "Jak chronić swój biznes — rozwiązanie od DriverPack Solution"
-
-msgid "wannacryptpromopage_info-text-3"
-msgstr "Główną przyczyną zagrożenia wirusem WannaCrypt (WannaCry)  jest fakt, że rozprzestrzenia się on wykorzystując krytyczne podatności w protokole SMBv1 opisane w biuletynie MS17-010. To czyni WannaCry praktycznie niewidocznym dla programów antywirusowych. Rozwiązanie oferowane przez DriverPack Solution pozwala na zainstalowanie aktualizacji usuwającej krytyczne podatności Twojego systemu i wyłączającej przestarzałe protokoły, które są zagrożeniem, niezależnie od pochodzenia Twoich licencji i wersji sytemu operacyjnego."
-
-msgid "wannacryptpromopage_links-text"
-msgstr "Opracowano na podstawie poniższych materiałów źródłowych"
-
-msgid "wannacryptpromopage_link-smb"
-msgstr "Jak włączyć lub wyłączyć wersje 1,2 lub 3 protokołów SMB dla Windows lub Windows Server"

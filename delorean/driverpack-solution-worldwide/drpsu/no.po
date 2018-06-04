@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-03-16 15:04+0000\n"
+"POT-Creation-Date: 2018-05-25 14:38+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Harry Eliassen <harryemail@gmail.com>, 2017\n"
 "Language-Team: Norwegian (https://www.transifex.com/driverpack-solution/teams/75453/no/)\n"
@@ -407,6 +407,9 @@ msgstr "DriverPack Offline Full"
 msgid "landingproducts_item-description-offline"
 msgstr "Den inneholder alle drivere, opererer uten forbindelse til Internett, og kan lastes ned gjennom Torrent-tracker <span class='nobr'>({{SIZE}})</span>"
 
+msgid "landingpublications__source-link"
+msgstr ""
+
 msgid "landingpublications__landing-title"
 msgstr "Massemedia omtaler av DriverPack"
 
@@ -503,6 +506,12 @@ msgstr "Last ned DriverPack Offline Full"
 msgid "productlandingheader-offline_caption"
 msgstr "DriverPack Offline Full - En stor pakke på {{SIZE}} størrelse for driverinstallasjon uten Internett tilgang. Bare last ned DriverPack Offline Full, og bruk det enorme biblioteket med oppdaterte drivere hvor du vil. Den passer perfekt til systemadministratorer."
 
+msgid "promoheader_os-versions"
+msgstr "Softwaren passer for Windows 10, 8.1, 8. 7, Vista, XP"
+
+msgid "promoheader_uninstall"
+msgstr "DriverPack fjerning"
+
 msgid "promoheader_cta-text-gamers"
 msgstr "Datamaskinen din er kraftigere enn du tror: oppdater alle drivere gratis"
 
@@ -517,15 +526,6 @@ msgstr "Installer alle nødvendige drivere"
 
 msgid "promoheader_size"
 msgstr "Fil Størrelse: {{SIZE}} KB"
-
-msgid "promoheader_license"
-msgstr "Lisensavtale "
-
-msgid "promoheader_os-versions"
-msgstr "Softwaren passer for Windows 10, 8.1, 8. 7, Vista, XP"
-
-msgid "promoheader_uninstall"
-msgstr "DriverPack fjerning"
 
 msgid "reviewheader_cta-text"
 msgstr "Bli med i DriverPack-fellesskapet i de sosiale nettverkene for å følge med på nyheter om produktet og delta i diskusjoner"
@@ -929,36 +929,6 @@ msgstr "Når jeg koblet flash-kortet mitt til usb sporet, får jeg opp en meldin
 msgid "cloudpagefaq_usb-a"
 msgstr "DriverPack Cloud oppdager tilkobling av nye enheter og undersøker om de har riktige drivere. Hvis den nødvendige driveren mangler, er det mulig å installere den umiddelbart — det er nødvendig for riktig bruk av enheten."
 
-msgid "badrabbitpromopage_cta-text"
-msgstr "Bad Rabbit kryptografisk virus — hvordan beskytte din PC?"
-
-msgid "badrabbitpromopage_cta-subtext"
-msgstr "DriverPack inneholder spesifikke tiltak for å eliminere sårbarheter i datakonfigurasjonsverktøy. Du kan sikre din PC eller bærbar datamaskin ved å laste ned vår gratis beskyttelse mot Bad Rabbit viruset."
-
-msgid "badrabbitpromopage_cta-btn"
-msgstr "Konfigurer datamaskinen og beskytt den mot Bad Rabbit"
-
-msgid "badrabbitpromopage_caption-text"
-msgstr "Denne programvaren er gratis"
-
-msgid "badrabbitpromopage_info-text-title-1"
-msgstr "Hva er Bad Rabbit"
-
-msgid "badrabbitpromopage_info-text-1"
-msgstr "Bad Rabbit er et nytt kryptografisk virus som har angrepet datamaskiner i Russland, Ukraina, Bulgaria og Tyrkia siden slutten av oktober 2017. Blant ofrene er The Interfax RIA, The Fontanka RIA, en rekke ukrainske departementer, så vel som Odessa flyplass. Operasjonsprinsippet er enkelt: det bruker Mimikatz verktøyet for å hente kontodataene fra PC'ens minne. Den søker også etter administrasjonens aktive konto data. Bad Rabbit forsøker deretter å få tilgang til arbeidsstasjonene i det lokale nettverket ved å bruke SMB og WebDAV. Så snart det får tilgang til PC'en, krypterer viruset alle dataene som det klarte å nå, og deretter endrer det Master Boot Record. Når denne prosedyren er fullført, tilbakestiller Bad Rabbit datamaskinen din og dukker opp en meldingen med etterspørsel etter 0,05 Bitcoins (ca. $ 300 ved utgangen av oktober 2017)."
-
-msgid "badrabbitpromopage_info-text-title-2"
-msgstr "Hvordan beskytte PC'en mot krypteringsviruset ¨Bad Rabbit?"
-
-msgid "badrabbitpromopage_info-text-2"
-msgstr "Hva kan du gjøre for å beskyttel deg selv mot det nye viruset:<br/>• Lag en infpub.dat fil i C:\\\\Windows\\\\ katalogen og marker den som 'Read-only' under egenskaper<br/>• Se nøye med opprettelse av nye oppgaver i \"Oppgaveplanlegger\"<br/>• Ikke installer noen oppdateringer for FlashPlayer fra utenforstående sider<br/>• Oppdater Windows og installer beskyttelses programmer<br/>• Ta sikkerhetskopi av ditt operativ<br/><br/>Videre kan du bare bruke den nye løsningen fra DriverPack Solution ved å laste den ned fra denne siden - det vil spare deg tid!<br/><b>Vår løsning fungerer med Windows 7, 8, 8.1, 10, og XP.</b>"
-
-msgid "badrabbitpromopage_links-text"
-msgstr "Utviklingen av denne løsningen er basert på følgende materiale"
-
-msgid "badrabbitpromopage_link-smb"
-msgstr "Slik aktiverer og deaktiverer du versjonene 1, 2 og 3 av SMB-protokollene for Windows og Windows Server"
-
 msgid "cloudlandingpage_cackle-title"
 msgstr "La oss få vite din mening om DriverPack Cloud"
 
@@ -1019,41 +989,35 @@ msgstr "Alle {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
 msgid "errorpage_title"
 msgstr "Feil 500: intern server feil"
 
+msgid "gdpr-banner_text"
+msgstr ""
+
+msgid "gdpr-banner_cta-text"
+msgstr ""
+
 msgid "landingfooter_landing-subtitle"
 msgstr "DriverPack inneholder drivere for alle populære Windows versjoner"
 
 msgid "landing-footer_catalog-os"
 msgstr "drivere for {{OS}}"
 
-msgid "landing-footer_download"
-msgstr "Last ned DriverPack"
-
 msgid "landing-footer_versions"
 msgstr "Alle app versjoner"
+
+msgid "landing-footer_remove"
+msgstr "DriverPack fjerning"
 
 msgid "landing-footer_manufacturers"
 msgstr "Maskinvareprodusenter"
 
-msgid "landing-footer_badrabbit"
-msgstr "Beskyttelse mot Bad Rabbit"
+msgid "landing-footer_hwids"
+msgstr "Device ID"
 
 msgid "landing-footer_for-admin"
 msgstr "For system administratorer"
 
 msgid "landing-footer_for-translators"
 msgstr "For oversettere"
-
-msgid "landing-footer_hwids"
-msgstr "Device ID"
-
-msgid "landing-footer_wannacry"
-msgstr "Beskyttelse mot WannaCry"
-
-msgid "landing-footer_license"
-msgstr "Lisensavtale "
-
-msgid "landing-footer_remove"
-msgstr "DriverPack fjerning"
 
 msgid "notfoundpage_title"
 msgstr "Feil 404: side ikke funnet"
@@ -1136,39 +1100,3 @@ msgstr "DriverPack Oversettelse"
 
 msgid "vendorpage_subtitle-popular"
 msgstr "Populære {{VENDOR.NAME}} enheter"
-
-msgid "wannacryptpromopage_cta-text"
-msgstr "WannaCrypt kryptografi virus — hvordan beskytte datamaskinen mot det største angrepet i historien?"
-
-msgid "wannacryptpromopage_cta-subtext"
-msgstr "DriverPack inneholder spesifikke tiltak for å eliminere sårbarheter i datakonfigurasjonsverktøy. Du kan sikre din PC eller bærbare datamaskin ved å laste ned vår gratis beskyttelse mot WannaCry viruset."
-
-msgid "wannacryptpromopage_cta-btn"
-msgstr "Konfigurer datamaskinen og beskytt den mot WannaCry"
-
-msgid "wannacryptpromopage_caption-text"
-msgstr "Denne programvaren er gratis"
-
-msgid "wannacryptpromopage_info-text-title-1"
-msgstr "Hva er WannaCrypt?"
-
-msgid "wannacryptpromopage_info-text-1"
-msgstr "WannaCrypt utpressingsvirus (spontant omdøpt WannaCry av ofrene) angrep datamaskiner over hele verden 12. mai og smittet enhetene til mer enn 300.000 brukere i 150 land. Vest-Europa, Russland og Kina var verst angrepet. I Storbritannia har viruset deaktivert helsevesenets nettverk og påvirket driften av sykehus over hele landet. I Kina påvirket angrepet gamle datamaskiner på fabrikker som bremset driften i mange virksomheter <br/><br/>Virkemåten for hvordan dette viruset fungerer, er enkelt: det trenger inn i din PC eller bærbar, og koder absolutt alle dokumenter, filer og materialer som den kan finne, og gjør dem utilgjengelige for bruk. Deretter krever inntrengerne en betydelig sum penger for dekoding — ca $ 300. Det er imidlertid ingen garanti for at du får tilgangen til filene dine tilbake. For tiden er det ikke mulig å dekode filene selv, og løsningene som blir tilbudt på Internett akkurat nå, er enten falske, sprer et annet virus, eller fungerer ikke med 100% sikkerhet."
-
-msgid "wannacryptpromopage_info-text-title-2"
-msgstr "Hvem er utsatt?"
-
-msgid "wannacryptpromopage_info-text-2"
-msgstr "PC'er med operativsystem tidligere enn Windows 10 med åpne SMB-porter har størst risiko. For tiden er halvparten av alle Windows-brukere i faresonen — 18% brukerne bruker uautoriserte Windows-kopier (automatisk gjør dem i fare), 23% brukerne deaktiverte Windows Update-tjenesten (som forhindrer at de laster ned de nyeste \"hurtigreparasjonene\" fra Microsoft). og en annen 6% bruker utdaterte OS versjoner som ikke mottar oppdateringer lenger. <br/><br/>Konklusjonen fra alt dette er at nettverkene til de ulike firmaene og foretakene som fortsatt bruker operativsystemer som Windows XP, er i høyeste fare. Ved angrep på disse nettverkene kan datatapet forringe seg og kostnadene vil bli enorme, ettersom noen \"øsepenger\" må betales for hver PC separat."
-
-msgid "wannacryptpromopage_info-text-title-3"
-msgstr "Hvordan beskytte din virksomhet — løsning fra DriverPack Solution"
-
-msgid "wannacryptpromopage_info-text-3"
-msgstr "Hovedårsaken til WannaCrypt (WannaCry) virusfaren er at den sprer seg ved å bruke kritiske sårbarheter i SMBv1-protokollen i MS17-010-sikkerhetssystemet. Det gjør faktisk WannaCry usynlig for antivirus. Løsningen fra DriverPack Solution gjør det mulig å installere en oppdatering som beskytter systemets kritiske sikkerhetsproblemer og å deaktivere de utdaterte protokollene som er problematiske, uavhengig av lisenshistorikken og operativsystemet."
-
-msgid "wannacryptpromopage_links-text"
-msgstr "Utviklingen av denne løsningen er basert på følgende materiale"
-
-msgid "wannacryptpromopage_link-smb"
-msgstr "Slik aktiverer og deaktiverer du versjonene 1, 2 og 3 av SMB-protokollene for Windows og Windows Server"

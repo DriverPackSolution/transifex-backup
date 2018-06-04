@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-03-16 15:04+0000\n"
+"POT-Creation-Date: 2018-05-25 14:38+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: danfong <danfong.hsieh@gmail.com>, 2017\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/driverpack-solution/teams/75453/zh_CN/)\n"
@@ -406,6 +406,9 @@ msgstr "DriverPack Offline Full"
 msgid "landingproducts_item-description-offline"
 msgstr "它包含所有的驱动程序，没有连接到互联网，它可以通过 Torrent-tracker 下载 <span class='nobr'>({{SIZE}})</span>"
 
+msgid "landingpublications__source-link"
+msgstr "阅读更多"
+
 msgid "landingpublications__landing-title"
 msgstr "关于 DriverPack 的大众媒体出版物"
 
@@ -502,6 +505,12 @@ msgstr "下载 DriverPack Offline Full"
 msgid "productlandingheader-offline_caption"
 msgstr "DriverPack Offline Full - {{SIZE}} 大小的驱动安装程序，无需 Internet 访问。 只需下载 DriverPack Offline Full 并使用大量最新的驱动程序库，无论你喜欢什么。 它完全适合系统管理员。"
 
+msgid "promoheader_os-versions"
+msgstr "该软件适用于 Windows 10, 8.1, 8, 7, Vista, XP"
+
+msgid "promoheader_uninstall"
+msgstr "DriverPack 移除"
+
 msgid "promoheader_cta-text-gamers"
 msgstr "您的计算机比您想象的更强大：免费更新所有驱动程序"
 
@@ -516,15 +525,6 @@ msgstr "安装所有所需的驱动程序"
 
 msgid "promoheader_size"
 msgstr "文件大小: {{SIZE}} KB"
-
-msgid "promoheader_license"
-msgstr "许可协议"
-
-msgid "promoheader_os-versions"
-msgstr "该软件适用于 Windows 10, 8.1, 8, 7, Vista, XP"
-
-msgid "promoheader_uninstall"
-msgstr "DriverPack 移除"
 
 msgid "reviewheader_cta-text"
 msgstr "加入社区网络中的 DriverPack 社区，关注产品消息并参与讨论"
@@ -928,36 +928,6 @@ msgstr "当我将我的闪存卡连接到 USB 插槽时，我的桌面上出现�
 msgid "cloudpagefaq_usb-a"
 msgstr "DriverPack Cloud 提示新设备的连接并检查它们是否具有适当的 — 驱动程序。 如果所需的驱动程序丢失，可以立即安装。"
 
-msgid "badrabbitpromopage_cta-text"
-msgstr "坏兔子加密病毒 - 如何保护您的计算机?"
-
-msgid "badrabbitpromopage_cta-subtext"
-msgstr "DriverPack 包含用于消除计算机配置工具中的漏洞的特定操作。 您可以通过下载我们的免费保护来抵御坏兔病毒保护您的电脑或笔记本电脑。"
-
-msgid "badrabbitpromopage_cta-btn"
-msgstr "配置电脑，并保护它免受坏兔子破坏"
-
-msgid "badrabbitpromopage_caption-text"
-msgstr "该软件免费发布"
-
-msgid "badrabbitpromopage_info-text-title-1"
-msgstr "什么是 Bad Rabbit?"
-
-msgid "badrabbitpromopage_info-text-1"
-msgstr "“坏兔子”是一种新的密码病毒，自 2017 年 10 月下旬以来一直在袭击俄罗斯，乌克兰，保加利亚和土耳其的电脑。受害者还包括国际文传电讯社，Fontanka RIA，乌克兰的多个部门以及敖德萨机场。 操作原理很简单：它使用 Mimikatz 实用程序来从您的计算机内存中检索帐户数据。 它还搜索管理员的活动帐户数据。 坏兔子然后试图通过使用 SMB 和 WebDAV 访问本地网络中的工作站。 只要它能够访问您的计算机，病毒就会加密所有可以到达的数据，然后更改主引导记录。 当这个程序完成后，坏兔子重置您的电脑，弹出消息，需要 0.05 比特币(截至 2017 年 10 月底约 300 美元)。"
-
-msgid "badrabbitpromopage_info-text-title-2"
-msgstr "如何保护您的电脑免受坏兔密码病毒侵害?"
-
-msgid "badrabbitpromopage_info-text-2"
-msgstr "你可以做什么来保护自己免受新病毒的侵害：<br/>• .在C:\\\\Windows\\\\文件夹中创建一个 infpub.dat 文件，并在其属性中勾选“只读”选项<br/>• .仔细观察在“任务计划程序”中创建新任务<br/>• .不要从外部站点安装 FlashPlayer 的任何更新<br/>• .更新 Windows 和所有安装的保护软件<br/>• .备份您的操作系统<br/><br/>.另外，您也可以使用 DriverPack Solution 中的新解决方案，在此页面上下载它 - 这将节省您的时间<br/><b>我们的解决方案支持在 Windows 7,8,8.1,10 和 XP 上运行</b>"
-
-msgid "badrabbitpromopage_links-text"
-msgstr "该程序的开发基于以下语言"
-
-msgid "badrabbitpromopage_link-smb"
-msgstr "如何启用，停用 Windows 和 Windows Server SMB 通讯协定版本 1,2 和 3"
-
 msgid "cloudlandingpage_cackle-title"
 msgstr "让我们知道您对 DriverPack Cloud 的看法"
 
@@ -1018,41 +988,35 @@ msgstr "全部 {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
 msgid "errorpage_title"
 msgstr "错误 500：内部服务器错误"
 
+msgid "gdpr-banner_text"
+msgstr "通过继续使用我们的网站，您确认您同意收集您的 Cookie 文件。 这样做是为了给我们的用户提供舒适的工作。 这些信息不会与第三方分享。"
+
+msgid "gdpr-banner_cta-text"
+msgstr "确定"
+
 msgid "landingfooter_landing-subtitle"
 msgstr "DriverPack 包含所有受欢迎的 Windows 版本驱动程序"
 
 msgid "landing-footer_catalog-os"
 msgstr "{{OS}} 驱动程序"
 
-msgid "landing-footer_download"
-msgstr "下载 DriverPack"
-
 msgid "landing-footer_versions"
 msgstr "所有应用程序版本"
+
+msgid "landing-footer_remove"
+msgstr "DriverPack 移除"
 
 msgid "landing-footer_manufacturers"
 msgstr "硬件制造商"
 
-msgid "landing-footer_badrabbit"
-msgstr "防护 Bad Rabbit"
+msgid "landing-footer_hwids"
+msgstr "Device ID"
 
 msgid "landing-footer_for-admin"
 msgstr "系统管理员"
 
 msgid "landing-footer_for-translators"
 msgstr "翻译人员"
-
-msgid "landing-footer_hwids"
-msgstr "Device ID"
-
-msgid "landing-footer_wannacry"
-msgstr "防护 WannaCry"
-
-msgid "landing-footer_license"
-msgstr "许可协议"
-
-msgid "landing-footer_remove"
-msgstr "DriverPack 移除"
 
 msgid "notfoundpage_title"
 msgstr "错误 404: 页面找不到"
@@ -1135,39 +1099,3 @@ msgstr "DriverPack 翻译"
 
 msgid "vendorpage_subtitle-popular"
 msgstr "热门的 {{VENDOR.NAME}} 设备"
-
-msgid "wannacryptpromopage_cta-text"
-msgstr "WannaCrypt 加密勒索病毒 — 如何保护电脑免受历史上最大的攻击?"
-
-msgid "wannacryptpromopage_cta-subtext"
-msgstr "DriverPack 包含用于消除计算机配置工具中的漏洞的特定操作。 您可以通过下载我们对 WannaCry 病毒的免费保护来保护您的计算机或笔记本电脑。"
-
-msgid "wannacryptpromopage_cta-btn"
-msgstr "安装电脑并保护它免受 WannaCry 感染"
-
-msgid "wannacryptpromopage_caption-text"
-msgstr "该软件免费发布"
-
-msgid "wannacryptpromopage_info-text-title-1"
-msgstr "什么是 WannaCrypt?"
-
-msgid "wannacryptpromopage_info-text-1"
-msgstr "在 5 月 12 日 WannaCrypt (受害者自发命名为 WannaCry) 勒索病毒攻击了全世界的电脑，并感染了超过 150 个国家 300,000 使用者的设备，西欧，俄罗斯，中国是受灾最大的国家。在大不列颠，病毒使卫生部门的网络瘫痪，并导致全国的医院瘫痪。在中国，这起袭击影响了工厂的旧电脑，导致一些行业停止运转。<br/><br/>该病毒的工作原理是简单的，它渗透到你的电脑或笔记型电脑，并对它可以找到所有的文件，档案进行编码，并使用它们无法使用。然后入侵者需要大量的资金来解码 - 大约  300 美元。但是，无法保证您能够正常恢复。目前，没有办法自己解码档案的方法，而现在网络中提供的解决方案是钓鱼或散播另一种病毒的方法，或者它们不能以  100% 的概率工作。"
-
-msgid "wannacryptpromopage_info-text-title-2"
-msgstr "谁在冒险?"
-
-msgid "wannacryptpromopage_info-text-2"
-msgstr "Windows 10 以前的操作系统的电脑预设开启 SMB 连接的风险最大。目前，一半的 Windows 操作系统用户面临风险 — 18% 的用户使用未授权的 Windows副本(自动落入风险区域)，23% 的 用户停用 Windows 更新服务(阻止他们从 Microsoft 下载最新的“修补程式”)，另有 6% 的用户使用是旧版的操作系统，它们再也没有获得更新。<br/><br/>以上结论是：一些公司和企业的网络仍然使用 Windows XP 操作系统的风险最高。在这种网络遭到攻击的情况下，资料遗失可能会花费大量的金钱，他们也必须分别为每台电脑支付一些“赎金”。"
-
-msgid "wannacryptpromopage_info-text-title-3"
-msgstr "如何从 DriverPack 解决方案中保护您的业务 — DriverPack Solution"
-
-msgid "wannacryptpromopage_info-text-3"
-msgstr "WannaCrypt (WannaCry) 病毒危险的主要原因是它通过使用 MS17-010 安全系统的 SMBv1 协议中的关键漏洞来传播。 实际上 WannaCry 对于抗病毒药软件是不可见的。 来自 DriverPack Solution 的解决方案使您能够安装保护系统关键漏洞的更新，并禁用作为威胁的过时协议，它可以使用在所有操作系统版本中。"
-
-msgid "wannacryptpromopage_links-text"
-msgstr "该程序的开发基于以下语言"
-
-msgid "wannacryptpromopage_link-smb"
-msgstr "如何启用，停用 Windows 和 Windows Server SMB 通讯协定版本 1,2 和 3"

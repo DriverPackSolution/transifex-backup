@@ -1,7 +1,7 @@
 # Translators:
 # D.O, 2017
-# Артур Кузяков <artx@drp.su>, 2017
 # D O <ozzimek1@gmail.com>, 2017
+# Артур Кузяков <artx@drp.su>, 2017
 # Srbastjan Colnaric <seba1.colnaric17@gmail.com>, 2017
 # Nadia Tegeneva <nadia@drp.su>, 2017
 # ales rakovic <alesrakovic96@gmail.com>, 2017
@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-03-16 15:04+0000\n"
+"POT-Creation-Date: 2018-05-25 14:38+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Marko <kadarkoli@gmail.com>, 2018\n"
 "Language-Team: Slovenian (https://www.transifex.com/driverpack-solution/teams/75453/sl/)\n"
@@ -410,6 +410,9 @@ msgstr "DriverPack Offline Full"
 msgid "landingproducts_item-description-offline"
 msgstr "Vsebuje vse gonilnike,deluje brez internetne povezave,lahko ga naložite preko torrent povezave <span class='nobr'>( {{SIZE}} )</span>"
 
+msgid "landingpublications__source-link"
+msgstr "Preberi več"
+
 msgid "landingpublications__landing-title"
 msgstr "Množičnih medijskih objav o DriverPack"
 
@@ -506,6 +509,12 @@ msgstr "Prenesite DriverPack Offline Full"
 msgid "productlandingheader-offline_caption"
 msgstr "DriverPack Offline Full - ogromen paket velikosti {{SIZE}} za namestitev gonilnikov brez dostopa do interneta. Prenesite DriverPack Offline Full in uporabite ogromno knjižnico posodobljenih gonilnikov, kjer koli želite. Popolnoma ustreza sistemskim administratorjem."
 
+msgid "promoheader_os-versions"
+msgstr "Programska oprema je primerna za Windows 10, 8.1, 8, 7, Vista, XP"
+
+msgid "promoheader_uninstall"
+msgstr "Odstranitev programa DriverPack"
+
 msgid "promoheader_cta-text-gamers"
 msgstr "Vaš računalnik je lahko zmoglivejši, kot si predstavljate: posodobite ga brezplačno"
 
@@ -520,15 +529,6 @@ msgstr "Namesti vse potrebne gonilnike"
 
 msgid "promoheader_size"
 msgstr "Velikost datoteke: {{SIZE}} KB"
-
-msgid "promoheader_license"
-msgstr "Licenčna pogodba"
-
-msgid "promoheader_os-versions"
-msgstr "Programska oprema je primerna za Windows 10, 8.1, 8, 7, Vista, XP"
-
-msgid "promoheader_uninstall"
-msgstr "Odstranitev programa DriverPack"
 
 msgid "reviewheader_cta-text"
 msgstr "Pridružite se DriverPack skupnosti v socialnih omrežjih, tako boste obveščeni o vseh novostih v zvezi z programom, lahko pa sodelujete tudi v razpravah"
@@ -932,36 +932,6 @@ msgstr "Ko sem svojo flash kartico priključil na režo za usb, se je na mojem n
 msgid "cloudpagefaq_usb-a"
 msgstr "DriverPack Cloud razkriva povezavo novih naprav in preverja, ali imajo pravilne gonilnike. Če potreben gonilnik manjka, ga je mogoče takoj namestiti — potrebno je za pravilno delovanje naprave."
 
-msgid "badrabbitpromopage_cta-text"
-msgstr "Bad Rabbit kriptografski virus — kako zaščitim svoj PC?"
-
-msgid "badrabbitpromopage_cta-subtext"
-msgstr "DriverPack vsebuje posebne ukrepe za odpravo ranljivosti v računalniških orodjih za konfiguracijo.  Varnost vašega računalnika ali prenosnega računalnika lahko zagotovite tako, da prenesete našo brezplačno zaščito pred virusom Bad Rabbit."
-
-msgid "badrabbitpromopage_cta-btn"
-msgstr "Konfigurirajte Vaš PC tako da ostanete zaščiteni pred možnostjo okužbe z Bad Rabbit virusom"
-
-msgid "badrabbitpromopage_caption-text"
-msgstr "Program je predvideno brezplačno"
-
-msgid "badrabbitpromopage_info-text-title-1"
-msgstr "Kaj je to Bad Rabbit?"
-
-msgid "badrabbitpromopage_info-text-1"
-msgstr "Bad Rabbit je nov kriptografski virus, ki je od konca oktobra 2017 napadel računalnike v Rusiji, Ukrajini, Bolgariji in Turčiji. Med žrtvami napada so Interfax RIA, The Fontanka RIA, številna ministrstva Ukrajine in tudi Letališče Odessa. Načelo delovanja je preprosto: uporablja pripomoček Mimikatz, da pridobi podatke o računu iz pomnilnika vašega računalnika. Prav tako išče aktivne podatke skrbnika računa. Bad Rabbit  nato poskuša pridobiti dostop do delovnih postaj v lokalnem omrežju z uporabo SMB in WebDAV. Takoj ko pride do dostopa do vašega računalnika, virus šifrira vse podatke,  katere je uspel doseči, in nato spremeni Master Boot Record. Ko je ta postopek končan, Bad Rabbit ponastavi vaš računalnik in pokaže svoje sporočilo s zahtevo plačila v vrednosti 0,05 bitkoina (približno 300 dolarjev od konca oktobra 2017)."
-
-msgid "badrabbitpromopage_info-text-title-2"
-msgstr "Kako zaščitite vaš  računalnik pred kriptografskim virusom Bad Rabbit?"
-
-msgid "badrabbitpromopage_info-text-2"
-msgstr "Kaj lahko storite da zaščitite svoj PC pred napadom novih virusov:<br/>• Naredite novo mapo-infpub.dat file v direktoriju C:\\\\Windows\\\\ in jo označite kot  'Read-only' v lastnostih mape.<br/>• Bodite pozorni na ustvarjanjenovih opravil v direktoriju 'Task Scheduler'<br/>• Ne nameščajte nobenih posodobitev programa FlashPlayer iz zunanjih virov<br/>• Posodobite Windows in vso nameščeno protivirusno zaščito na vašem PC.ju<br/>• Naredite si shranjeno kopijo sistema<br/><br/>Ali pa enostavno uporabite rešitve, ki jih ponuja program DriverPack Solution, ki ga namestite iz povezave na tej strani-tako boste prihranili čas!<br/><b>Naša rešitev deluje na Windows 7, 8, 8.1, 10, in XP.</b>"
-
-msgid "badrabbitpromopage_links-text"
-msgstr "Rešitve smo pridobili z uporabo navedenih storitev"
-
-msgid "badrabbitpromopage_link-smb"
-msgstr "Kako omogočim in onemogočim verzije 1, 2 in 3 SMB protokola za Windows in Windows Server?"
-
 msgid "cloudlandingpage_cackle-title"
 msgstr "Sporočite nam vaše mnenje o DriverPack Cloud-u"
 
@@ -1022,41 +992,35 @@ msgstr "Vsi {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
 msgid "errorpage_title"
 msgstr "Napaka 500: notranja napaka strežnika"
 
+msgid "gdpr-banner_text"
+msgstr "Z nadaljnjo uporabo naše spletne strani potrjujete svoje soglasje za zbiranje vaših piškotkov (Cookie). To je storjeno tako, da bi zagotovili udobno delo za naše uporabnike. Ti podatki se ne delijo s tretjimi osebami."
+
+msgid "gdpr-banner_cta-text"
+msgstr "V redu"
+
 msgid "landingfooter_landing-subtitle"
 msgstr "DriverPack vsebuje gonilnike za vse priljubljene različice sistema Windows"
 
 msgid "landing-footer_catalog-os"
 msgstr "gonilniki za {{OS}}"
 
-msgid "landing-footer_download"
-msgstr "Prenesite DriverPack"
-
 msgid "landing-footer_versions"
 msgstr "Vse različice programa"
+
+msgid "landing-footer_remove"
+msgstr "Odstranitev programa DriverPack"
 
 msgid "landing-footer_manufacturers"
 msgstr "Proizvajalci komponent"
 
-msgid "landing-footer_badrabbit"
-msgstr "Zaščita pred virusom Bad Rabbit"
+msgid "landing-footer_hwids"
+msgstr "Device ID"
 
 msgid "landing-footer_for-admin"
 msgstr "Za skrbnike sistema"
 
 msgid "landing-footer_for-translators"
 msgstr "Za prevajalce"
-
-msgid "landing-footer_hwids"
-msgstr "Device ID"
-
-msgid "landing-footer_wannacry"
-msgstr "Zaščita pred WannaCry"
-
-msgid "landing-footer_license"
-msgstr "Licenčna pogodba"
-
-msgid "landing-footer_remove"
-msgstr "Odstranitev programa DriverPack"
 
 msgid "notfoundpage_title"
 msgstr "Napaka 404: strani ni mogoče najti"
@@ -1139,39 +1103,3 @@ msgstr "Prevodi programa DriverPack"
 
 msgid "vendorpage_subtitle-popular"
 msgstr "Priljubljeni {{VENDOR.NAME}} komponent"
-
-msgid "wannacryptpromopage_cta-text"
-msgstr "WannaCrypt cryptographer virus — kako se zasčitim pred največjim napadom v zgodovini?"
-
-msgid "wannacryptpromopage_cta-subtext"
-msgstr "DriverPack vsebuje posebne ukrepe za odpravo ranljivosti v računalniških orodjih za konfiguracijo. Varnost vašega računalnika ali prenosnega računalnika lahko zagotovite tako, da prenesete našo brezplačno zaščito pred napadom virusa WannaCry."
-
-msgid "wannacryptpromopage_cta-btn"
-msgstr "Konfigurirajte in zaščitite vaš računalnik pred napadom virusa WannaCry"
-
-msgid "wannacryptpromopage_caption-text"
-msgstr "Program je predvideno brezplačno"
-
-msgid "wannacryptpromopage_info-text-title-1"
-msgstr "Kaj je WannaCrypt?"
-
-msgid "wannacryptpromopage_info-text-1"
-msgstr "WannaCrypt izsiljevalski virus, (ki so ga žrtve napadov poimenovale WannaCry) je napadel računalnike po vsem svetu 12 maja in okužil več kot 300.000 računalnikov v 150 državah sveta. Zahodna Evropa, Rusija, Kitajska so doživele najhujši napad. V Združenem Kraljestvu je virus onesposobil mrežo ministrstva za zdravje in onemogočil izvajanje nujnih operacij v bolnišnicah po vsej državi. Na Kitajskem je napadel predvsem starejše računalnike v tovarnah, kar je ustavilo proizvodnjo.<br/><br/>Način delovanja virusa je preprost: vdre v vaš PC ali prenosnik in zakodira popolnoma vse kar najde na njem in onemogoči uporabo slednjega. Nato ustvarjalci virusa zahtevajo plačilo —300 $ za dostop do podatkov. Toda nobene garancije ni da bo dostop tudi v resnici omogočen, sami pa tudi ne morete dekodirati vaših dokumento ko so enkrat okuženi. Vse rešitve trenutno, ki jih najdete na internetu so širjenje novih virusov, poskusi pridobitve vaših podatkov ali pa ne delujejo 100%."
-
-msgid "wannacryptpromopage_info-text-title-2"
-msgstr "Kdo je v nevarnosti?"
-
-msgid "wannacryptpromopage_info-text-2"
-msgstr "Računalniki z OS pred Windows 10, ki imajo odprta SMB vrata so med najbolj ogroženimi. V tem trenutku je ogrožena vsaj polovica uporabnikov sistema Windows — 18% jih uporablja nelicenčno kopijo sistema Windows, (kar jih avtomatsko postavlja v nevarnost), 23% jih je onemogočilo Windows posodobitve (kar preprečuje namestitev nujnih \"popravkov\" sistema s strani Microsofta) in 6% jih uporablja zastarelo različico, ki ne prejema nobenih novih posodobitev. <br/><br/>Zaključek je da so omrežja in razna podjetja, ki še vedno uporabljajo zastareli OS kot je Windows XP v največji nevarnosti. V primeru napada v teh omrežjih bodo posledice neizmerljive in nastala bo ogromna finačna izguba saj bo z zahtevo za \"odkupnino\" treba plačati za vsak PC posebej."
-
-msgid "wannacryptpromopage_info-text-title-3"
-msgstr "Začsčitite svoje poslovanje — uporabite rešitve, ki vam jih ponuja DriverPack Solution"
-
-msgid "wannacryptpromopage_info-text-3"
-msgstr "Največja nevarnost napadov z virusom  WannaCrypt (WannaCry) je da se širi preko ranljivosti v SMBv1 protokolu varnostnega sistema MS17-010. Tako je virus WannaCry praktično neviden za večino antivirusnih programov. Rešitev programa DriverPack Solution vam omogoči da namestite in posodobite vse kritične ranljivosti vašega sistema in onemogočite zastarele protokole, ki so groćnja in omogočajo napad, ne glede na vašo zgodovino licenc OS in samo verzijo, ki jo uporabljate."
-
-msgid "wannacryptpromopage_links-text"
-msgstr "Rešitve smo pridobili z uporabo navedenih storitev"
-
-msgid "wannacryptpromopage_link-smb"
-msgstr "Kako omogočim in onemogočim verzije 1, 2 in 3 SMB protokola za Windows in Windows Server?"

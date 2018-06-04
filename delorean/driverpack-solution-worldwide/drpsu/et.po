@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-03-16 15:04+0000\n"
+"POT-Creation-Date: 2018-05-25 14:38+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Olavi EstFix <estfix@gmail.com>, 2017\n"
 "Language-Team: Estonian (https://www.transifex.com/driverpack-solution/teams/75453/et/)\n"
@@ -408,6 +408,9 @@ msgstr "DriverPack Offline Full"
 msgid "landingproducts_item-description-offline"
 msgstr "See sisaldab kõiki draivereid, töötab ilma internetiühenduseta, seda saab alla laadida läbi torrenti <span class='nobr'>({{SIZE}})</span>"
 
+msgid "landingpublications__source-link"
+msgstr "Loe rohkem"
+
 msgid "landingpublications__landing-title"
 msgstr "Massmeedia väljaanded DriverPacki kohta"
 
@@ -504,6 +507,12 @@ msgstr "Lae alla DriverPack Offline Full"
 msgid "productlandingheader-offline_caption"
 msgstr "DriverPack Offline Full - suur arhiiv milles suurus on {{SIZE}}, paigaldamaks draivereid ilma interneti ühenduseta. Lae alla DriverPack Offline Full ja kasuge suurt valikut uuendatud draivereid, millal iganes soovite. Sobib professionaalidele."
 
+msgid "promoheader_os-versions"
+msgstr "Tarkvara sobib Windows 10, 8.1, 8, 7, Vista ja XP-le"
+
+msgid "promoheader_uninstall"
+msgstr "DriverPack eemaldamine"
+
 msgid "promoheader_cta-text-gamers"
 msgstr "Teie arvuti on võimekam kui te oskate arvata: uuendage kõik draiverid tasuta"
 
@@ -518,15 +527,6 @@ msgstr "Paigalda kõik vajalikud draiverid"
 
 msgid "promoheader_size"
 msgstr "Faili suurus: {{SIZE}} KB"
-
-msgid "promoheader_license"
-msgstr "Litsents"
-
-msgid "promoheader_os-versions"
-msgstr "Tarkvara sobib Windows 10, 8.1, 8, 7, Vista ja XP-le"
-
-msgid "promoheader_uninstall"
-msgstr "DriverPack eemaldamine"
 
 msgid "reviewheader_cta-text"
 msgstr "Liituge DriverPack-i kommuuniga sotsiaalmeedias ja olge kursis uudiste ja aruteludega"
@@ -930,36 +930,6 @@ msgstr "Kui ma ühendan oma mälukaardi usb pesasse, tuleb mulle ekraanile teavi
 msgid "cloudpagefaq_usb-a"
 msgstr "DriverPack Cloud tuvastab uute seadmete ühendamist teie arvutiga, ning kontrollib kas neil on vajalik draiver. Kui vajalik draiver puudub, on võimalus see paigaldada koheselt — see on vajalik, et saaksite kasutada oma seadmeid korralikult."
 
-msgid "badrabbitpromopage_cta-text"
-msgstr "Bad Rabbit krüptoviirus  —  kuidas ennast kaitsta?"
-
-msgid "badrabbitpromopage_cta-subtext"
-msgstr "DriverPack sisaldab spetsiifilisi toiminguid, et kaitsta arvuti haavatavust arvuti seadistamise menüüs. Te võite kaitsta oma arvutit või sülearvutit laadides alla meie tasuta kaitset Bad Rabbiti eest."
-
-msgid "badrabbitpromopage_cta-btn"
-msgstr "Seadistage arvuti ja kaitske ennast Bad Rabbiti eest"
-
-msgid "badrabbitpromopage_caption-text"
-msgstr "Seda tarkvara pakutakse tasuta"
-
-msgid "badrabbitpromopage_info-text-title-1"
-msgstr "Mis on Bad Rabbit?"
-
-msgid "badrabbitpromopage_info-text-1"
-msgstr "Bad Rabbit on uus krüptoviirus mis on rünnanud arvuteid Venemaal, Ukrainas, Bulgaarias ja Türgis 2017 aasta Oktoobri lõpus. Põhilised kannatanud on Interfax Ria, The Frontanka Ria ja ministeeriumid Ukrainas, isegi Odessa lennujaam. Selle põhimõte on lihtne - see kasutab Mimikatz tööriista, et saada teie kasutaja andmeid arvuti mälust. See otsib ka administraatori aktiivseid andmeid. Bad Rabbit proovib siis ühendada ennast läbi tööjaamade teie lokaalsesse võrku läbi SMB ja WebDAV-i. Kui ta on saanud ligipääsu teie arvutisse, krüpteerib viirus kõik andmed milleni ta on jõudnud ja muudab käivitamise andmeid. Kui protseduur on lõppenud teeb ta teie arvutile restardi ja viskab ette akna, kus soovib saada 0.05 Bitcoini (umbes 300 dollarit) et avada teie arvuti."
-
-msgid "badrabbitpromopage_info-text-title-2"
-msgstr "Kuidas kaitsta oma arvutit Bad Rabbit krüptoviiruse ees?"
-
-msgid "badrabbitpromopage_info-text-2"
-msgstr "Mida saate teha, et kaitsta oma arvutit uute viiruste eest:<br/>• Looge infpub.dat fail C:\\\\Windows\\\\ kausta ja valige sellele 'kirjutuskaitstud' atribuutide alt<br/>• Vaadake hoolikalt kas on loodud uusi ülesandeid 'Task Scheduler' alla<br/>• Ärge paigaldage FlashPlayeri uuendusi tundmatutelt lehtedelt<br/>• Uuendage Windowsit ja kõiki kaitsvaid programme<br/>• Tehke oma arvutist tagavarakoopiaid<br/><br/>Kasutage uut DriverPack Solutionit - laadides see alla siit lehelt ja hoiate kokku ka aega!<br/><b>Meie lahendus töötab Windows 7, 8, 8.1, 10 ja ka XP-l.</b>"
-
-msgid "badrabbitpromopage_links-text"
-msgstr "Selle valiku arendamine põhineb sellel materjalil"
-
-msgid "badrabbitpromopage_link-smb"
-msgstr "Kuidas lubada ja keelata SMB protokolli 1, 2 ja 3 versioon Windowsis ja Windows Serveris"
-
 msgid "cloudlandingpage_cackle-title"
 msgstr "Teavita meid oma arvamusest DriverPack Cloud kohta"
 
@@ -1020,41 +990,35 @@ msgstr "Kõik {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
 msgid "errorpage_title"
 msgstr "Viga 500: sisemine serveri viga"
 
+msgid "gdpr-banner_text"
+msgstr "Jätkates meie kodulehe kasutamist nõustute teadmisega, et me kogume teie küpsise faile. Seda tehakse, et tagada mugavam teenus meie kasutajatele. Seda informatsiooni ei jagata kolmandate osapooltega."
+
+msgid "gdpr-banner_cta-text"
+msgstr "Ok"
+
 msgid "landingfooter_landing-subtitle"
 msgstr "DriverPack sisaldab draivereid kõikidele populaarsetele Windowsitele"
 
 msgid "landing-footer_catalog-os"
 msgstr "{{OS}} draiverid"
 
-msgid "landing-footer_download"
-msgstr "Lae alla DriverPack"
-
 msgid "landing-footer_versions"
 msgstr "Kõik versioonid"
+
+msgid "landing-footer_remove"
+msgstr "DriverPack eemaldamine"
 
 msgid "landing-footer_manufacturers"
 msgstr "Riistvara tootjad"
 
-msgid "landing-footer_badrabbit"
-msgstr "Kaitse Bad Rabbiti eest"
+msgid "landing-footer_hwids"
+msgstr "Device ID"
 
 msgid "landing-footer_for-admin"
 msgstr "Süsteemi administraatoritele"
 
 msgid "landing-footer_for-translators"
 msgstr "Informatsioon tõlkijatele"
-
-msgid "landing-footer_hwids"
-msgstr "Device ID"
-
-msgid "landing-footer_wannacry"
-msgstr "Kaitse WannaCry eest"
-
-msgid "landing-footer_license"
-msgstr "Litsents"
-
-msgid "landing-footer_remove"
-msgstr "DriverPack eemaldamine"
 
 msgid "notfoundpage_title"
 msgstr "Viga 404: lehte ei leitud"
@@ -1137,39 +1101,3 @@ msgstr "DriverPack tõlkimine"
 
 msgid "vendorpage_subtitle-popular"
 msgstr "Populaarsed {{VENDOR.NAME}} seadmed"
-
-msgid "wannacryptpromopage_cta-text"
-msgstr "WannaCrypt krüptoviirus — kuidas kaitsta oma arvutit selle eest?"
-
-msgid "wannacryptpromopage_cta-subtext"
-msgstr "DriverPack sisaldab spetsiifilisi toiminguid, et kaitsta arvuti haavatavust arvuti seadistamise menüüs. Te võite kaitsta oma arvutit või sülearvutit laadides alla meie tasuta kaitset WannaCry eest. "
-
-msgid "wannacryptpromopage_cta-btn"
-msgstr "Seadistage arvuti ja kaitske seda WannaCry eest"
-
-msgid "wannacryptpromopage_caption-text"
-msgstr "Seda tarkvara pakutakse tasuta"
-
-msgid "wannacryptpromopage_info-text-title-1"
-msgstr "Mis on WannaCrypt?"
-
-msgid "wannacryptpromopage_info-text-1"
-msgstr "WannaCrypt väljapressimis viirus (nimetatud ümber WannaCry-ks kasutajate hulgas) ründas arvuteid üle terve maailma 12-ndal mail, ning nakatas rohkem kui 300 000 arvutit 150 riigis. Lääne euroopa, Venemaa ja Hiina said kõige suurema löögi.  Inglismaal lõi viirus rivist välja haiglate süsteemi ja halvas operatsioonide tegemist. Hiinas lõi viirus rivist välja vanade arvutitega varustatud tehased.<br/><br/>Viiruse põhimõte on lihtne: see siseneb su arvutisse ja kodeerib absoluutselt kõik mis selle sisaldub, ning muudab need kasutuskõlbmatuks. Pärast seda küsitakse raha selle eest, et muuta failid jälle kasutatavaks —  kuskil 300 dollarit. Kuigi pole garantiid, et saate oma failid üldse tagasi. Praeguseks pole olemas ühtegi varianti kuidas oma failid ise lahti kodeerida, ning lahendused mida pakutakse internetis on tavaliselt vale, järgmine viirus või ei tööta lihtsalt 100%."
-
-msgid "wannacryptpromopage_info-text-title-2"
-msgstr "Kellel on risk?"
-
-msgid "wannacryptpromopage_info-text-2"
-msgstr "Kõik arvutid mille on paigaldatud uuem operatsioonisüsteem kui Windows 10, avatud SMB pordiga on suurimas riskis. Praeguseks on pooled arvuti kasutajad riskis — 18% kasutajates kasutavad litsenseerimatta Windowsit (satuvad automaatselt riski), 23% kasutajatest on väljalülitanud Windowsi uuendamise ( kust tulevad turvaparandused) ja 6% kasutajatest kasutab Operatsiooni süsteeme mida enam ei uuendata.<br/><br/>Kokkuvõtteks võrgud kes kasutavad veel näiteks Windows XP-d on kõige kõrgemas riskis. Nende võrkude ründamisel võib kadu olla kõige suurem ja iga arvuti eest küsitakse eraldi lunaraha."
-
-msgid "wannacryptpromopage_info-text-title-3"
-msgstr "Kuidas kaitsta oma äri — lahendus on DriverPack Solution-ist"
-
-msgid "wannacryptpromopage_info-text-3"
-msgstr "Põhiline WannaCrypt (WannaCry) ohtlikus seiseb sellest, et see levib läbi SMBv1 protokolli MS17-010 turva süsteemis.  See teeb ta nähtamatuks viiruseõrjetele. Lahendus on DriverPack Solution, mis laseb teil paigaldada uuendust, et kaitsta arvutit ja keelata vananenud protokollid mis on ohtlikud sõltumata teie litsensist ja Operatsiooni süsteemist."
-
-msgid "wannacryptpromopage_links-text"
-msgstr "Selle valiku arendamine põhineb sellel materjalil"
-
-msgid "wannacryptpromopage_link-smb"
-msgstr "Kuidas lubada ja keelata SMB protokolli 1, 2 ja 3 versioon Windowsis ja Windows Serveris"

@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-03-16 15:04+0000\n"
+"POT-Creation-Date: 2018-05-25 14:38+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Richard Bussé <rbusse@live.be>, 2017\n"
 "Language-Team: Dutch (https://www.transifex.com/driverpack-solution/teams/75453/nl/)\n"
@@ -409,6 +409,9 @@ msgstr "DriverPack Offline Full"
 msgid "landingproducts_item-description-offline"
 msgstr "Het bevat alle drivers, werkt zonder verbinding met internet, het kan worden gedownload via de Torrent-tracker <span class='nobr'>({{SIZE}})</span>"
 
+msgid "landingpublications__source-link"
+msgstr ""
+
 msgid "landingpublications__landing-title"
 msgstr "Media publicaties over DriverPack"
 
@@ -505,6 +508,12 @@ msgstr "Download DriverPack Offline Full"
 msgid "productlandingheader-offline_caption"
 msgstr "DriverPack Offline Full - een enorm pakket van {{SIZE}} grootte voor driver-installatie zonder internettoegang. Download gewoon DriverPack Offline Full en gebruik de enorme bibliotheek met up-to-date drivers waar en wanneer u maar wilt. Het past perfect bij systeembeheerders."
 
+msgid "promoheader_os-versions"
+msgstr "De software is geschikt voor Windows 10, 8.1, 8, 7, Vista, XP"
+
+msgid "promoheader_uninstall"
+msgstr "DriverPack verwijderen"
+
 msgid "promoheader_cta-text-gamers"
 msgstr "Uw computer is krachtiger dan u denkt: update alle drivers gratis"
 
@@ -519,15 +528,6 @@ msgstr "Installeer alle benodigde stuurprogramma's"
 
 msgid "promoheader_size"
 msgstr "Bestand grote: {{SIZE}} KB"
-
-msgid "promoheader_license"
-msgstr "Licentieovereenkomst"
-
-msgid "promoheader_os-versions"
-msgstr "De software is geschikt voor Windows 10, 8.1, 8, 7, Vista, XP"
-
-msgid "promoheader_uninstall"
-msgstr "DriverPack verwijderen"
 
 msgid "reviewheader_cta-text"
 msgstr "Doe mee met de DriverPack -gemeenschap in de sociale netwerken om het nieuws over het product bij te houden en deel te nemen aan discussies"
@@ -931,36 +931,6 @@ msgstr "Toen ik mijn flash-kaart met de usb-slot verbond, een kennisgeving over 
 msgid "cloudpagefaq_usb-a"
 msgstr "DriverPack Cloud onthult de verbinding van de nieuwe apparaten en onderzoekt of ze de juiste stuurprogramma's hebben. Als de vereiste driver ontbreekt, het is mogelijk om het onmiddellijk te installeren — het is noodzakelijk voor een goede werking van het apparaat."
 
-msgid "badrabbitpromopage_cta-text"
-msgstr "Bad Rabbit cryptographic virus — hoe bescherm je je pc?"
-
-msgid "badrabbitpromopage_cta-subtext"
-msgstr "DriverPack bevat specifieke acties voor het elimineren van kwetsbaarheden in computer-configuratie-hulpmiddelen. U kunt uw pc of laptop beveiligen door onze gratis bescherming tegen het Bad Rabbit-virus te downloaden."
-
-msgid "badrabbitpromopage_cta-btn"
-msgstr "Configureer de computer en bescherm deze tegen Bad Rabbit"
-
-msgid "badrabbitpromopage_caption-text"
-msgstr "Deze software wordt gratis aangeboden"
-
-msgid "badrabbitpromopage_info-text-title-1"
-msgstr "Wat is Bad Rabbit"
-
-msgid "badrabbitpromopage_info-text-1"
-msgstr "Bad Rabbit is een nieuw cryptografisch virus dat sinds eind oktober 2017 computers in Rusland, Oekraïne, Bulgarije en Turkije heeft aangevallen. Onder de slachtoffers zijn ook de Interfax RIA, de Fontanka RIA, een aantal ministeries van Oekraïne, evenals Odessa Airport. Het bedieningsprincipe is eenvoudig: het gebruikt het hulpprogramma Mimikatz om de accountgegevens uit het geheugen van uw pc op te halen. Het zoekt ook naar de actieve accountgegevens van de beheerder. Bad Rabbit probeert vervolgens via SMB en WebDAV toegang te krijgen tot de werkstations in het lokale netwerk. Zodra het toegang krijgt tot uw pc, het virus versleutelt alle gegevens die het heeft weten te bereiken en daarna verandert het de Master Boot Record. Wanneer deze procedure is voltooid, Bad Rabbit reset je computer en geeft zijn boodschap weer met een vraag naar 0,05 Bitcoins (ongeveer $ 300 vanaf eind oktober 2017)."
-
-msgid "badrabbitpromopage_info-text-title-2"
-msgstr "Hoe bescherm je  je pc tegen het cryptografisch virus van Bad Rabbit?"
-
-msgid "badrabbitpromopage_info-text-2"
-msgstr "Wat kan u doen om uzelf te beschermen tegen het nieuwe virus:<br/>• Maak een infpub.dat-bestand in de map C: \\\\Windows\\\\ en tik de optie 'Alleen lezen' in de eigenschappen ervan<br/>• Bekijk de nieuwe taken zorgvuldig in 'Taakplanner'<br/>• Installeer geen updates voor FlashPlayer van de outsider sites<br/>• Update Windows en alle geïnstalleerde beveiligingssoftware<br/>• Maak back-ups van uw besturingssysteem<br/><br/>Ook kunt u de nieuwe oplossing van DriverPack Solution gewoon gebruiken door deze van deze pagina te downloaden - het bespaart je tijd!<br/><b>Onze oplossing werkt op Windows 7, 8, 8.1, 10 en XP.</b>"
-
-msgid "badrabbitpromopage_links-text"
-msgstr "De ontwikkeling van deze oplossing was gebaseerd op de volgende materialen"
-
-msgid "badrabbitpromopage_link-smb"
-msgstr "Hoe versies 1, 2, en 3 van SMB-protocollen voor Windows en Windows Server inschakelen en uitschakelen?"
-
 msgid "cloudlandingpage_cackle-title"
 msgstr "Laat ons uw mening weten over DriverPack Cloud"
 
@@ -1021,41 +991,35 @@ msgstr "Alle {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
 msgid "errorpage_title"
 msgstr "Fout 500: interne serverfout"
 
+msgid "gdpr-banner_text"
+msgstr ""
+
+msgid "gdpr-banner_cta-text"
+msgstr ""
+
 msgid "landingfooter_landing-subtitle"
 msgstr "DriverPack bevat stuurprogramma's voor alle populaire Windows-versies"
 
 msgid "landing-footer_catalog-os"
 msgstr "stuurprogramma's voor {{OS}}"
 
-msgid "landing-footer_download"
-msgstr "Download DriverPack"
-
 msgid "landing-footer_versions"
 msgstr "Alle app. versies"
+
+msgid "landing-footer_remove"
+msgstr "DriverPack verwijderen"
 
 msgid "landing-footer_manufacturers"
 msgstr "Hardware fabrikanten"
 
-msgid "landing-footer_badrabbit"
-msgstr "Bescherming tegen Bad Rabbit"
+msgid "landing-footer_hwids"
+msgstr "Device ID"
 
 msgid "landing-footer_for-admin"
 msgstr "Voor systeem beheerders"
 
 msgid "landing-footer_for-translators"
 msgstr "Voor vertalers"
-
-msgid "landing-footer_hwids"
-msgstr "Device ID"
-
-msgid "landing-footer_wannacry"
-msgstr "Bescherming tegen WannaCry"
-
-msgid "landing-footer_license"
-msgstr "Licentieovereenkomst"
-
-msgid "landing-footer_remove"
-msgstr "DriverPack verwijderen"
 
 msgid "notfoundpage_title"
 msgstr "Fout 404: pagina niet gevonden"
@@ -1138,39 +1102,3 @@ msgstr "DriverPack Vertaling"
 
 msgid "vendorpage_subtitle-popular"
 msgstr "Populaire {{VENDOR.NAME}} apparaten"
-
-msgid "wannacryptpromopage_cta-text"
-msgstr "WannaCrypt-cryptograafviru — hoe bescherm je uw computer tegen de grootste aanval in de geschiedenis?"
-
-msgid "wannacryptpromopage_cta-subtext"
-msgstr "DriverPack bevat specifieke acties voor het elimineren van kwetsbaarheden in computer-configuratie-hulpmiddelen. U kunt uw pc of laptop beveiligen door onze gratis bescherming tegen het WannaCry-virus te downloaden."
-
-msgid "wannacryptpromopage_cta-btn"
-msgstr "Configureer de computer en bescherm deze tegen WannaCry"
-
-msgid "wannacryptpromopage_caption-text"
-msgstr "Deze software wordt gratis aangeboden"
-
-msgid "wannacryptpromopage_info-text-title-1"
-msgstr "Wat is WannaCrypt?"
-
-msgid "wannacryptpromopage_info-text-1"
-msgstr "WannaCrypt blackmailer-virus (spontaan omwille van WannaCry door de slachtoffers) heeft op 12 mei computers over de hele wereld aangevallen en de apparaten van meer dan 300.000 gebruikers in 150 landen geïnfecteerd. West-Europa, Rusland, China waren de ergste getroffen. In Groot-Brittannië heeft het virus de netwerken van de Health Department uitgeschakeld en de werking van ziekenhuizen over het hele land gestopt. In China heeft de aanval oude computers getroffen bij fabrieken die verschillende industrieën stopten.<br/><br/>Het hoofdpunt van het gebruik van dit virus is eenvoudig: het penetreert in uw pc of laptop en codeert absoluut alle documenten, bestanden en materialen die het kan vinden, en maakt ze niet beschikbaar voor gebruik. Dan vragen de indringers een aanzienlijk bedrag geld voor de decodering — ongeveer $300. Er is echter geen garantie dat u de toegang tot uw bestanden terug krijgt. Op dit moment kan je de bestanden niet zelf decoderen, en de oplossingen die nu op internet worden aangeboden, zijn ofwel testen, een ander virus verspreiden of gewoon niet met 100% zekerheid werken."
-
-msgid "wannacryptpromopage_info-text-title-2"
-msgstr "Wie is in gevaar?"
-
-msgid "wannacryptpromopage_info-text-2"
-msgstr "De PC's met besturingssysteem eerder dan Windows 10 met open SMB-poorten lopen het grootste risico. Op dit moment zijn de helft van alle Windows -gebruikers in gevaar — 18% gebruikers gebruiken ongeautoriseerde Windows -kopieën (waardoor ze automatisch worden bedreigd), 23% gebruikers hebben hun Windows Update-service uitgeschakeld (waardoor ze de nieuwste \"reparaties\" van Microsoft niet kunnen downloaden). en nog eens 6% gebruiken oudere OS versies die gewoon geen updates meer ontvangen. <br/><br/>De conclusie van dit alles is dat de netwerken van de verschillende firma's en bedrijven die nog steeds gebruik maken van besturingssystemen zoals Windows XP het hoogste risico lopen. Bij aanvallen op deze netwerken kan het verlies van gegevens verlamd zijn en de kosten zullen enorm zijn, omdat elk \"losgeld&\" afzonderlijk voor elke pc betaald moet worden."
-
-msgid "wannacryptpromopage_info-text-title-3"
-msgstr "Hoe beschermt u uw business — oplossing van DriverPack Solution"
-
-msgid "wannacryptpromopage_info-text-3"
-msgstr "De belangrijkste reden van het WannaCrypt (WannaCry) virus gevaar is dat het verspreidt door gebruik te maken van een kritieke beveiligingslek in het SMBv1 protocol van het beveiligingssysteem MS17-010. Het maakt WannaCry eigenlijk onzichtbaar voor antivirussen. De oplossing van DriverPack Solution stelt u in staat om een update te installeren die de kritieke beveiligingen van uw systeem beschermt en de oudere protocollen die de bedreiging zijn uitschakelen, ongeacht uw licentiegeschiedenis en uw besturingsversie."
-
-msgid "wannacryptpromopage_links-text"
-msgstr "De ontwikkeling van deze oplossing was gebaseerd op de volgende materialen"
-
-msgid "wannacryptpromopage_link-smb"
-msgstr "Hoe versies 1, 2, en 3 van SMB-protocollen voor Windows en Windows Server inschakelen en uitschakelen?"
