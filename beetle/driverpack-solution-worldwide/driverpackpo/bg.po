@@ -2,15 +2,15 @@
 # Translators:
 # Deyan Mitev, 2017-2018
 # Hristo Aleksandrov <h.aleksandrov@gmail.com>, 2018
-# Nadia Tegeneva <nadia@drp.su>, 2017
+# Nadia Tegeneva <nadia@drp.su>, 2017-2018
 # Артур Кузяков <artx@drp.su>, 2016
 msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-05-31 11:33+0000\n"
-"PO-Revision-Date: 2018-05-31 13:20+0000\n"
-"Last-Translator: Gabriel Radev <gabosss@gmail.com>\n"
+"PO-Revision-Date: 2018-06-09 05:46+0000\n"
+"Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Bulgarian (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/bg/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -376,7 +376,7 @@ msgid "settings_drivers-backup-title"
 msgstr "Направете архив на драйверите (backup)"
 
 msgid "settings_drivers-backup-caption"
-msgstr "За още по-голямо удобство за всички потребители, разработчиците на DriverPack са създали опцията за запазване на резервни копия на текущите драйвери в папката My Documents."
+msgstr "За още по-голямо удобство за всички потребители, разработчиците на DriverPack са създали опцията за запазване на резервни копия на текущите драйвери в папката \"Моите Документи\"."
 
 msgid "settings_system-check-title"
 msgstr "Включи опция за системна проверка (System Check)"
@@ -394,7 +394,7 @@ msgid "settings_statistics-title"
 msgstr "Изпратете статистика за работата на системата"
 
 msgid "settings_statistics-caption"
-msgstr "За да се подобри DriverPack при всяко зареждане, разработчиците трябва да събират и анализират (анонимни) данни, свързани с работата на системата. Тя се отнася до данни като конфигурация на компютъра, софтуер, грешки в системата и друга информация за Google Анализ."
+msgstr "За да се подобри DriverPack при всяко зареждане, разработчиците трябва да събират и анализират (анонимни) данни, свързани с работата на системата. Тя се отнася до данни като конфигурация на компютъра, софтуер, грешки в системата и друга информация за Google Analytics."
 
 msgid "settings_statistics-anchor"
 msgstr "Разберете повече"
@@ -441,7 +441,7 @@ msgstr "https://vk.com/topic-29220845_34743007"
 #. i18n: EN: default value for {{MODEL}} in start_title key; RU: значение по
 #. умолчанию для {{MODEL}} в ключе start_title
 msgid "start_title_default_model"
-msgstr ""
+msgstr "твоят компютър"
 
 msgid "menu_create_recovery_point"
 msgstr "Създай точка за възстановяване "
@@ -514,14 +514,14 @@ msgstr ""
 #. {{LINK.EULA}} находится в ключе confirm_popup_eula-link; текст для
 #. {{LINK.POLICY}} находится в ключе confirm_popup_policy-link;
 msgid "confirm_popup_install_eula"
-msgstr "Съгласен съм да инсталирам {{PROGRAM.NAME}}и приемам {{LINK.EULA}}и {{LINK.POLICY}}. Този софтуер може да бъде премахнат всеки момент чрез функцията \"Добавяне / премахване на софтуер\"."
+msgstr "Съгласен съм да инсталирам {{PROGRAM.NAME}} и приемам {{LINK.EULA}} и {{LINK.POLICY}}. Този софтуер може да бъде премахнат всеки момент чрез функцията \"Добавяне / премахване на софтуер\"."
 
 #. i18n: EN: text for {{LINK.EULA}} is in key confirm_popup_eula-link; text
 #. for {{LINK.POLICY}} is in key confirm_popup_policy-link; RU: текст для
 #. {{LINK.EULA}} находится в ключе confirm_popup_eula-link; текст для
 #. {{LINK.POLICY}} находится в ключе confirm_popup_policy-link;
 msgid "confirm_popup_eula"
-msgstr "С инсталирането на този софтуер приемате {{LINK.EULA}}и {{LINK.POLICY}}."
+msgstr "С инсталирането на този софтуер приемате {{LINK.EULA}} и {{LINK.POLICY}}."
 
 msgid "confirm_popup_eula-link"
 msgstr "Лицензионно споразумение с краен потребител"
@@ -658,7 +658,7 @@ msgid "drivers_screen_view_options_date"
 msgstr "Дата"
 
 msgid "drivers_screen_view_options_device_id"
-msgstr "ID на устройството"
+msgstr "DeviceID"
 
 msgid "drivers_screen_view_options_inf"
 msgstr "*.inf файл:"
@@ -689,8 +689,8 @@ msgstr "Супер! Вашият компютър е конфигуриран!"
 
 msgid "final_drivers_not_better_title"
 msgid_plural "final_drivers_not_better_title_n"
-msgstr[0] "{{COUNT1}}драйвера от {{COUNT2}}са инсталирани"
-msgstr[1] "{{COUNT1}}драйверa от {{COUNT2}}са инсталирани"
+msgstr[0] "{{COUNT1}} драйвера от {{COUNT2}} са инсталирани"
+msgstr[1] "{{COUNT1}} драйверa от {{COUNT2}} са инсталирани"
 
 msgid "final_single_driver_better_installed_title"
 msgstr "Драйвера беше инсталиран"
@@ -701,7 +701,7 @@ msgstr "Драйвера не беше инсталиран"
 msgid "final_programs_some_finished_title"
 msgid_plural "final_programs_some_finished_title_n"
 msgstr[0] "{{COUNT1}} програми от {{COUNT2}} бяха инсталирани"
-msgstr[1] "{{COUNT1}}програми от {{COUNT2}} бяха инсталирани"
+msgstr[1] "{{COUNT1}} програми от {{COUNT2}} са инсталирани"
 
 msgid "final_programs_all_failed_title"
 msgstr "0 програми от {{COUNT}} са инсталирани"
@@ -720,8 +720,8 @@ msgstr "Всички важни драйвери са инсталирани."
 
 msgid "final_drivers_not_better_subtitle"
 msgid_plural "final_drivers_not_better_subtitle_n"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Въпреки това {{COUNT}} не са инсталирани важни драйвери. Препоръчваме Ви да повторите инсталирането или да проверите работата на устройствата си."
+msgstr[1] "Въпреки това {{COUNT}} не са инсталирани важни драйвери. Препоръчваме Ви да повторите инсталирането или да проверите работата на устройствата си."
 
 msgid "final_single_driver_ok_programs_subtitle"
 msgstr "Всички важни драйвери и помощни програми са инсталирани."

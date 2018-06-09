@@ -7,8 +7,8 @@ msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-05-31 11:33+0000\n"
-"PO-Revision-Date: 2018-05-31 13:20+0000\n"
-"Last-Translator: pedro.navia <pedro.navia@etecsa.cu>\n"
+"PO-Revision-Date: 2018-06-04 19:44+0000\n"
+"Last-Translator: Josep Maria Antolin <josepma@gmail.com>\n"
 "Language-Team: Spanish (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -481,31 +481,31 @@ msgid "menu_cmd"
 msgstr "Línea de comandos"
 
 msgid "configurator-screen_downloading"
-msgstr ""
+msgstr "Descargando: {{DOWNLOADED_SIZE}} de {{TOTAL_SIZE}}"
 
 msgid "configurator-screen_title"
-msgstr ""
+msgstr "Tu paquete DriverPack Offline"
 
 msgid "configurator-screen_caption"
-msgstr ""
+msgstr "Puedes descargar tu propio paquete de DriverPack eligiendo los drivers que estarán disponibles sin necesidad de conectar a internet."
 
 msgid "configurator-screen_btn"
-msgstr ""
+msgstr "Descargar DriverPack Offline – {{COUNT}}"
 
 msgid "configurator-screen_completed"
-msgstr ""
+msgstr "Descarga finalizada"
 
 msgid "configurator-screen_open-downloads"
-msgstr ""
+msgstr "Abrir la carpeta de descargas"
 
 msgid "configurator-screen_fail"
 msgstr "Error de descarga"
 
 msgid "configurator-screen_retry"
-msgstr ""
+msgstr "Intentarlo de nuevo"
 
 msgid "configurator-screen_params"
-msgstr ""
+msgstr "Parámetros de descarga"
 
 #. i18n: EN: text for {{LINK.EULA}} is in key confirm_popup_eula-link; text
 #. for {{LINK.POLICY}} is in key confirm_popup_policy-link; RU: текст для
@@ -834,13 +834,13 @@ msgid "games_playkey_create_account_button"
 msgstr "Create an account on the PlayKey"
 
 msgid "gdpr-banner_text"
-msgstr ""
+msgstr "Recopilamos datos sobre tu ordenador según el Acuerdo de Licencia de usuario, con el objetivo de seleccionar los drivers adecuados para tu dispositivo. Por favor, confirma tu consentimiento para que la aplicación pueda funcionar correctamente."
 
 msgid "gdpr-banner_decline-btn"
-msgstr ""
+msgstr "Rechazar"
 
 msgid "gdpr-banner_accept-btn"
-msgstr ""
+msgstr "Confirmar"
 
 msgid "header_authorize_button"
 msgstr "Iniciar sesión"
@@ -996,7 +996,7 @@ msgid "installation_progress_downloading_of"
 msgstr "de"
 
 msgid "installation_progress_downloaded"
-msgstr ""
+msgstr "descargado:"
 
 msgid "installation_progress_stage_downloading"
 msgstr "Cargando..."
