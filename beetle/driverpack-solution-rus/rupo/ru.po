@@ -214,6 +214,21 @@ msgstr "прочие устройства"
 msgid "deviceclasses_other-plural-for"
 msgstr "прочих устройств"
 
+msgid "activate_recommendations_title_programs"
+msgstr "Рекомендации по программному обеспечению отключены"
+
+msgid "activate_recommendations_title_protect"
+msgstr "Рекомендации по программному обеспечению защиты отключены"
+
+msgid "activate_recommendations_button_programs"
+msgstr "Включить рекомендации по программному обеспечению"
+
+msgid "activate_recommendations_button_protect"
+msgstr "Включить рекомендации по программному обеспечению защиты"
+
+msgid "programs_about"
+msgstr "Подробнее"
+
 msgid "programs_eula"
 msgstr "Лицензионное соглашение"
 
@@ -535,6 +550,9 @@ msgstr "Установка программы"
 
 msgid "confirm_popup_cancel_button"
 msgstr "Отказаться"
+
+msgid "confirm_popup_cancel_all_button"
+msgstr "Отказаться от всех (3 програм.)"
 
 msgid "diagnostics_section_title"
 msgstr "Диагностика системы"
@@ -885,6 +903,9 @@ msgstr "установить"
 msgid "installation_header_promo_fb"
 msgstr "Сообщество на Facebook"
 
+msgid "installation_header_promo_license"
+msgstr "Лицензионное соглашение"
+
 msgid "installation_item_category_restorepoint"
 msgstr "Точка восстановления"
 
@@ -1134,6 +1155,9 @@ msgstr "Установить необходимые программы <b>({{COU
 msgid "programs_header_text_caption"
 msgstr "Больше нет необходимости искать программы по отдельности&nbsp;— все можно установить в один клик."
 
+msgid "drivers_program_recommend"
+msgstr "Программы, рекомендуемые DriverPack"
+
 msgid "drivers_program_counter"
 msgstr "Рекомендуемые программы"
 
@@ -1209,20 +1233,29 @@ msgstr "DriverPack создан специально для профессион
 msgid "settings-screen_license"
 msgstr "Лицензионное соглашение"
 
-msgid "start_title"
-msgstr "Автоматическая настройка {{MODEL}}"
+msgid "start_button_install_drivers"
+msgstr "Установить все драйверы"
 
 msgid "start_button_install"
 msgstr "Настроить компьютер автоматически"
 
+msgid "start_title"
+msgstr "Автоматическая настройка {{MODEL}}"
+
 msgid "start_caption"
 msgstr "DriverPack просканирует систему, установит необходимые<br/>драйверы, софт и произведёт диагностику.<br/>Производительность компьютера должна увеличиться."
+
+msgid "start_expert_mode"
+msgstr "Режим эксперта"
+
+msgid "start_expert_mode_label"
+msgstr "Расширенные настройки"
 
 msgid "start_license"
 msgstr "Лицензионное соглашение"
 
-msgid "start_expert_mode"
-msgstr "Режим эксперта"
+msgid "footer_site"
+msgstr "Удаление программы"
 
 msgid "start_drivers_title"
 msgid_plural "start_drivers_title_n"
@@ -1231,8 +1264,18 @@ msgstr[1] "Будет установлено {{COUNT}} драйвера"
 msgstr[2] "Будет установлено {{COUNT}} драйверов"
 msgstr[3] "Будет установлено {{COUNT}} драйвера"
 
+msgid "start_drivers_utils_popover"
+msgstr "Драйверы и драйверные утилиты, необходимые для корректной работы драйверов, подобраны для вашего компьютера и готовы к установке. Перед установкой будет создана контрольная точка восстановления."
+
 msgid "start_drivers_popover"
 msgstr "Драйверы для вашего компьютера подобраны и готовы к установке. Перед установкой будет создана контрольная точка восстановления."
+
+msgid "start_programs_title_driver_utils"
+msgid_plural "start_programs_title_n"
+msgstr[0] "Будет установлена {{COUNT}} драйверная утилита"
+msgstr[1] "Будет установлено {{COUNT}} драйверных утилиты"
+msgstr[2] "Будет установлено {{COUNT}} драйверных утилит"
+msgstr[3] "Будет установлено {{COUNT}} драйверных утилиты"
 
 msgid "start_programs_title"
 msgid_plural "start_programs_title_n"
