@@ -106,7 +106,7 @@ msgstr "لپ تاپ ها"
 
 #. i18n: EN: Example: VENDOR.NAME=Asus; RU: Пример: VENDOR.NAME=Asus;
 msgid "breadcrumbs_notebookvendor-text"
-msgstr "لپ تاپ های{{VENDOR.NAME}}"
+msgstr "لپ تاپ های {{VENDOR.NAME}}"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=X1 carbon;
 #. RU: Пример: NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=X1 carbon;
@@ -128,7 +128,7 @@ msgstr "دانلود درایور"
 #. NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10 x86; Текст для
 #. {{DOWNLOAD}} находится в ключе drivercard_no-results_download-link;
 msgid "devicecard_details_no-results-text"
-msgstr "درایورها {{NAME}} برای {{OSVERSIONS}} Windows در لیست یافت نشدند. برای انتخاب خودکار درایور ها{{DOWNLOAD}}."
+msgstr "درایورها {{NAME}} برای {{OSVERSIONS}} Windows در لیست یافت نشدند. برای انتخاب خودکار درایور ها {{DOWNLOAD}}."
 
 msgid "devicecard_details_no-results_download-link"
 msgstr "DriverPack را دانلود کنید"
@@ -184,7 +184,7 @@ msgstr "DriverPack را دانلود کنید"
 #. x86; Текст для {{DOWNLOAD}} находится в ключе devicecardlist_no-
 #. result_download-link;
 msgid "devicecardlist_no-results-device-text"
-msgstr "درایور مناسبی برای {{DEVICENAME}} در{{OSVERSIONS}} Windows از لیست یافت نشد. جهت انتخاب خودکار درایور ها {{DOWNLOAD}}."
+msgstr "درایور مناسبی برای {{DEVICENAME}} در {{OSVERSIONS}} Windows از لیست یافت نشد. جهت انتخاب خودکار درایور ها {{DOWNLOAD}}."
 
 #. i18n: EN: Example: DEVICECLASS=chipsets|videocards; NOTEBOOK=Acer AO521;
 #. OSVERSIONS=Windows 10 x86; Text for {{DOWNLOAD}} is in key
@@ -193,14 +193,14 @@ msgstr "درایور مناسبی برای {{DEVICENAME}} در{{OSVERSIONS}} Win
 #. OSVERSIONS=Windows 10 x86; Текст для {{DOWNLOAD}} находится в ключе
 #. devicecardlist_no-result_download-link;
 msgid "devicecardlist_no-results-notebook-text"
-msgstr "درایور مناسبی از مجموعه برای لپتاپ {{NOTEBOOK}} در{{OSVERSIONS}} Windows یافت نشد. جهت انتخاب خودکار درایور ها {{DOWNLOAD}}."
+msgstr "درایور مناسبی از مجموعه برای لپتاپ {{NOTEBOOK}} در {{OSVERSIONS}} Windows یافت نشد. جهت انتخاب خودکار درایور ها {{DOWNLOAD}}."
 
 #. i18n: EN: Example: NOTEBOOK=Acer AO521; OSVERSIONS=Windows 10 x86; Text for
 #. {{DOWNLOAD}} is in key devicecardlist_no-result_download-link; RU: Пример:
 #. NOTEBOOK=Acer AO521; Пример: OSVERSIONS=Windows 10 x86; Текст для
 #. {{DOWNLOAD}} находится в ключе devicecardlist_no-result_download-link;
 msgid "devicecardlist_no-results-notebook-device-class-text"
-msgstr "درایورهای{{DEVICECLASS}} برای لپ تاپ {{NOTEBOOK}} برای سیستم عامل{{OSVERSIONS}} Windows پیدا نشد. برای انتخاب خودکار درایور {{DOWNLOAD}}."
+msgstr "درایورهای {{DEVICECLASS}} برای لپ تاپ {{NOTEBOOK}} برای سیستم عامل {{OSVERSIONS}} Windows پیدا نشد. برای انتخاب خودکار درایور {{DOWNLOAD}}."
 
 msgid "devicegrouppage_all-systems"
 msgstr "همه سیستم عامل ها"
@@ -507,7 +507,7 @@ msgid "productlandingheader-online_cta-btn"
 msgstr "دانلود DriverPack Online "
 
 msgid "productlandingheader-online_caption"
-msgstr "DriverPack Online - محبوب ترین محصول فقط با{{SIZE}} حجم میباشد. بلافاصله دانلود می شود، درایور ها را برای رایانه یا لپ تاپ شما انتخاب می کند و پس از آن همه ی درایورهای مورد نیاز را از طریق اینترنت دانلود کرده و آنها را نصب می کند. این مورد کاملا مناسب یک کاربر عادی است. این قسمت فقط با دسترسی به اینترنت عمل می کند."
+msgstr "DriverPack Online - محبوب ترین محصول فقط با {{SIZE}} حجم میباشد. بلافاصله دانلود می شود، درایور ها را برای رایانه یا لپ تاپ شما انتخاب می کند و پس از آن همه ی درایورهای مورد نیاز را از طریق اینترنت دانلود کرده و آنها را نصب می کند. این مورد کاملا مناسب یک کاربر عادی است. این قسمت فقط با دسترسی به اینترنت عمل می کند."
 
 msgid "productlandingheader-network_cta-btn"
 msgstr "دانلود  DriverPack Offline Network"
@@ -999,7 +999,7 @@ msgid "devicetypevendorpage_subtitle-popular"
 msgstr "پرطرفدار ترین {{VENDOR.NAME}}{{CLASS.PLURAL.MAIN}}"
 
 msgid "devicetypevendorpage_subtitle-all"
-msgstr "همه ی{{VENDOR.NAME}}{{CLASS.PLURAL.MAIN}}"
+msgstr "همه ی {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
 
 msgid "errorpage_title"
 msgstr "اشکال شماره 500 رخ داد : اشکال در سرور های داخلی "
@@ -1047,7 +1047,7 @@ msgid "notebookspage_subtitle"
 msgstr "لیست کامل تولید کنندگان لپتاب و نوت بوک "
 
 msgid "notebooksvendorpage_subtitle-popular"
-msgstr "لپتاب ها و نوت بوک های پر طرفدار{{VENDOR.NAME}}"
+msgstr "لپتاب ها و نوت بوک های پر طرفدار {{VENDOR.NAME}}"
 
 msgid "notebooksvendorpage_subtitle-all"
 msgstr "تمام لپتاب و نوت بوک های {{VENDOR.NAME}}"
