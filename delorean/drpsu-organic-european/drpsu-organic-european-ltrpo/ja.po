@@ -16,51 +16,51 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 msgid "seo_landingtopvendorslist_drivers-for"
-msgstr ""
+msgstr " {{VENDOR}} のドライバ"
 
 #. i18n: EN: Example: VENDOR.NAME=Asus; RU: Пример: VENDOR.NAME=Asus;
 msgid "seo_vendor-footer-anchor"
-msgstr ""
+msgstr "{{VENDOR.NAME}}"
 
 msgid "seo_devicegroups-footer-anchor"
-msgstr ""
+msgstr "{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}} "
 
 #. i18n: EN: Example: NAME=Acer E230H; RU: Пример: NAME=Acer E230H;
 msgid "seo_devicegroup-footer-anchor"
-msgstr ""
+msgstr "{{NAME}}"
 
 #. i18n: EN: Example: NAME=Asus X550EA; RU: Пример: NAME=Asus X550EA;
 msgid "seo_notebookvendor-footer-anchor"
-msgstr ""
+msgstr "{{NOTEBOOK.VENDOR.NAME}} ノートパソコン"
 
 msgid "seo_notebook-footer-anchor"
-msgstr ""
+msgstr "{{NAME}} ノートパソコン"
 
 msgid "seo_notebookdevices-footer-anchor"
-msgstr ""
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} {{CLASS.PLURAL.MAIN}}"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
 #. CLASS.PLURAL.FOR=мониторов|модемов;
 msgid "seo_deviceclass-footer-anchor"
-msgstr ""
+msgstr "{{CLASS.PLURAL.MAIN}}"
 
 msgid "seo_hwidos-footer-anchor"
-msgstr ""
+msgstr "Windows {{OS.NAME}} 用のドライババージョン"
 
 msgid "seo_main-title"
-msgstr ""
+msgstr "DriverPack Solution — 自動でドライバをインストール及びアップデート | 無料ダウンロード"
 
 msgid "seo_main-description"
-msgstr ""
+msgstr "DriverPack Solution はあなたのデバイスに必要なドライバーを無料で提案します,自動的にドライバをインストール及びアップデートするには本ソフトウェアをダウンロードして下さい。Windows XP, 7, 8, 8.1 and 10.に利用出来ます。"
 
 msgid "seo_main-keywords"
-msgstr ""
+msgstr "無料で windows 7 8 10 64 のノートパソコンドライバーをインストールするにはドライバインストールソフトウェア driver pack をダウンロードして下さい。"
 
 msgid "seo_mainos-title"
-msgstr ""
+msgstr "Windows {{OS.VERSION}} 用のドライバーダウンロード"
 
 msgid "seo_mainos-description"
-msgstr ""
+msgstr "DriverPack Solution - 無料で Windows {{OS.VERSION}} x64 及び x86 のドライバーをアップデート"
 
 msgid "seo_mainos-h1"
 msgstr "Windows {{OS.VERSION}} 用ドライバー"
@@ -72,43 +72,43 @@ msgid "seo_mainos-h3"
 msgstr "1つの手軽な無料アプリで Windows {{OS.VERSION}} 用最大のドライバコレクション"
 
 msgid "seo_mainlanding-title"
-msgstr ""
+msgstr "DriverPack Solution | 無料ドライバアップデートソフトウェアをダウンロード"
 
 msgid "seo_mainlanding-description"
-msgstr ""
+msgstr "Windows XP, 7, 8, 8.1 及び10用のドライバーをダウンロード"
 
 msgid "seo_mainlanding-keywords"
-msgstr ""
+msgstr "Windows 7, XP, 10, 8, 及び8.1 用ドライバアップデートソフトウェア。自動でドライバをダウンロードして更新します。"
 
 msgid "seo_mainlanding-topvendorslist-title"
-msgstr ""
+msgstr "人気のメーカ"
 
 msgid "seo_mainlanding-topvendorslist-caption"
-msgstr ""
+msgstr "DriverPack はどのメーカのドライバーも選択可能。もっとも人気のブランドはこちら:"
 
 msgid "seo_productonline_title"
-msgstr ""
+msgstr "DriverPack Online | 自動で迅速にドライバーをダウンロード"
 
 msgid "seo_productonline_description"
-msgstr ""
+msgstr "DriverPack Online はインタネットにてあなたのPC又はノートパソコンに必要なすべてのドライバーをダウンロード及びインストール/アップデートすることが出来ます。"
 
 msgid "seo_productonline_h1"
 msgstr "DriverPack オンライン - 即座にダウンロードされ、インターネット接続があればすべてのドライバをダウンロードしてインストールします"
 
 msgid "seo_productnetwork_title"
-msgstr ""
+msgstr "DriverPack Offline Network | オフラインでドライバネットワーク用ドライバーをダウンロード"
 
 msgid "seo_productnetwork_description"
-msgstr ""
+msgstr "DriverPack Offline Network - すべてのネットワークハードウェア用ドライバをオフラインで一つのパッケージに.ある。Windows XP, 7, 8, 8.1, 10 用ダウンロード"
 
 msgid "seo_productnetwork_h1"
 msgstr "DriverPack オフラインネットワーク - ネットワークハードウェア用ドライバが含んでおり (Lan|Wi-Fi), インタネット接続なしで動作します"
 
 msgid "seo_productoffline_title"
-msgstr ""
+msgstr "DriverPack Offline Full | オフラインでドライバーをダウンロード"
 
 msgid "seo_productoffline_description"
-msgstr ""
+msgstr "DriverPack Offline Full - インタネット接続なしで管理者のためのドライバパック. Windows XP, 7, 8, 8.1, 10用のダウンロード"
 
 msgid "seo_productoffline_h1"
 msgstr "DriverPack Offline Full - すべてのドライバーを含んでおり, インタネット接続なしで動作します"
@@ -116,12 +116,12 @@ msgstr "DriverPack Offline Full - すべてのドライバーを含んでおり,
 #. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
 #. CLASS.PLURAL.FOR=мониторов|модемов;
 msgid "seo_deviceclass-title"
-msgstr ""
+msgstr "Windows 7, XP, 10, 8,及び8.1用 {{CLASS.SINGLE.FOR}} ドライバーをダウンロード"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
 #. CLASS.PLURAL.FOR=мониторов|модемов;
 msgid "seo_deviceclass-description"
-msgstr ""
+msgstr "{{CLASS.SINGLE.FOR}} ドライバーをダウンロード又はドライバスキャン及び更新ソフトウェア DriverPack Solution をインストール"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
 #. CLASS.PLURAL.FOR=мониторов|модемов;
@@ -131,40 +131,40 @@ msgstr "<span class='bold'>{{CLASS.SINGLE.FOR}}</span> ドライバー"
 #. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
 #. CLASS.PLURAL.FOR=мониторов|модемов;
 msgid "seo_deviceclass-keywords"
-msgstr ""
+msgstr "{{CLASS.SINGLE.FOR}} ドライバー windows 7 64 8 10 ダウンロード"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
 #. CLASS.PLURAL.FOR=мониторов|модемов;
 msgid "seo_deviceclass-footer-description"
-msgstr ""
+msgstr "無料で {{CLASS.PLURAL.FOR}} 用ドライバーをダウンロード"
 
 msgid "seo_deviceclass-footer-application-category"
-msgstr ""
+msgstr "カテゴリ: <span itemprop='applicationCategory'>デバイス</span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=monitors|modem; RU: Пример:
 #. CLASS.PLURAL.MAIN=мониторы|модемы;
 msgid "seo_deviceclass-footer-application-subcategory"
-msgstr ""
+msgstr "サブカテゴリ: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_vendors-title"
-msgstr ""
+msgstr "PC,ノートパソコン及びネットブックドライバーをダウンロード| DriverPack Solution"
 
 msgid "seo_vendors-description"
-msgstr ""
+msgstr "無料でPC,ノートパソコン及びネットブックのドライバーをダウンロード,又は自動でドライバを更新及びインストールするソフトウェアをダウンロード"
 
 msgid "seo_vendors-h1"
 msgstr "ハードウェアメーカー"
 
 msgid "seo_vendors-keywords"
-msgstr ""
+msgstr "windows 7 8 10 64ドライバーをダウンロード"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendor-title"
-msgstr ""
+msgstr "Windows 7, XP, 10, 8, 及び8.1の {{VENDOR.NAME}} ドライバーをダウンロード"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendor-description"
-msgstr ""
+msgstr " {{VENDOR.NAME}} ドライバーをダウンロード又は、ドライバスキャン及び更新ソフトウェア DriverPack Solution をインストール"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendor-h1"
@@ -172,26 +172,26 @@ msgstr "<span class='bold'>{{VENDOR.NAME}}</span> デバイスドライバー"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendor-keywords"
-msgstr ""
+msgstr "windows 7 8 10 64 {{VENDOR.NAME}} ドライバーをダウンロード"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendor-footer-description"
-msgstr ""
+msgstr "無料で {{VENDOR.NAME}} デバイスのドライバーをダウンロード"
 
 msgid "seo_vendor-footer-application-category"
-msgstr ""
+msgstr "カテゴリ: <span itemprop='applicationCategory'>デバイス</span>"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendor-footer-application-subcategory"
-msgstr ""
+msgstr "サブカテゴリ: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} デバイス</span>"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendorlanding-title"
-msgstr ""
+msgstr "{{VENDOR.NAME}} ドライバー | Windows 7, XP, 10, 8, 及び8.1用ダウンロード"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendorlanding-description"
-msgstr ""
+msgstr "無料で {{VENDOR.NAME}} ドライバーをダウンロード。 DriverPack Solution"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendorlanding-h1"
