@@ -94,12 +94,12 @@ msgstr "{{CLASS.PLURAL.MAIN}}"
 #. VENDOR.NAME=Realtek; RU: Пример: CLASS.PLURAL.MAIN=картридеры|мониторы;
 #. VENDOR.NAME=Realtek;
 msgid "breadcrumbs_devicegroups-text"
-msgstr "{{CLASS.PLURAL.MAIN}}{{VENDOR.NAME}}"
+msgstr "{{CLASS.PLURAL.MAIN}} {{VENDOR.NAME}}"
 
 #. i18n: EN: Example: GROUP.VENDOR.NAME=Nvidia, GROUP.NAME=GeForce 210; RU:
 #. Пример: GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210;
 msgid "breadcrumbs_devicegroup-text"
-msgstr "{{GROUP.VENDOR.NAME}}{{GROUP.NAME}}"
+msgstr "{{GROUP.VENDOR.NAME}} {{GROUP.NAME}}"
 
 msgid "breadcrumbs_notebooks-text"
 msgstr "لپ تاپ ها"
@@ -111,14 +111,14 @@ msgstr "لپ تاپ های {{VENDOR.NAME}}"
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=X1 carbon;
 #. RU: Пример: NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=X1 carbon;
 msgid "breadcrumbs_notebook-text"
-msgstr "{{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}}"
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=Videocards|Chipsets ,
 #. NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=G580; RU: Пример:
 #. CLASS.PLURAL.MAIN=видеокарты|чипсеты, NOTEBOOK.VENDOR.NAME=Lenovo,
 #. NOTEBOOK.NAME=G580;
 msgid "breadcrumbs_notebookdevices-text"
-msgstr "{{CLASS.PLURAL.MAIN}} لپتاپ {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}}"
+msgstr "{{CLASS.PLURAL.MAIN}} لپتاپ {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
 
 msgid "devicecard_download-btn"
 msgstr "دانلود درایور"
@@ -540,7 +540,7 @@ msgid "promoheader_cta-btn"
 msgstr "همه درایورهای مورد نیاز را نصب کن"
 
 msgid "promoheader_size"
-msgstr "اندازه فایل:{{SIZE}}کیلوبایت"
+msgstr "اندازه فایل: {{SIZE}} کیلوبایت"
 
 msgid "reviewheader_cta-text"
 msgstr "به جامعه DriverPack در شبکه های اجتماعی ملحق شوید تا از خبر ها و اطلاعات جدید و محصولات مطلع شده و بتوانید اظهار نظر کنید ."
@@ -777,7 +777,7 @@ msgstr "درایور برای سیستم عامل انتخاب شده دانلو
 #. AO521; Текст для {{DOWNLOAD}} находится в ключе searchresult_details-
 #. content_download-link
 msgid "searchresult_details-content-notebook-text"
-msgstr "به منظور شناسایی و نصب خودکار درایور های مورد نیاز {{DOWNLOAD}}، یا به صفحه {{NOTEBOOK}}بروید و درایورهای مورد نیاز را به صورت دستی انتخاب کنید."
+msgstr "به منظور شناسایی و نصب خودکار درایور های مورد نیاز {{DOWNLOAD}}، یا به صفحه {{NOTEBOOK}} بروید و درایورهای مورد نیاز را به صورت دستی انتخاب کنید."
 
 msgid "searchresult_details-content_download-link"
 msgstr "DriverPack را دانلود کنید"
@@ -996,7 +996,7 @@ msgid "devicestypepage_subtitle"
 msgstr "تمام تولید کنندگان {{CLASS.SINGLE.FOR}}"
 
 msgid "devicetypevendorpage_subtitle-popular"
-msgstr "پرطرفدار ترین {{VENDOR.NAME}}{{CLASS.PLURAL.MAIN}}"
+msgstr "پرطرفدار ترین {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
 
 msgid "devicetypevendorpage_subtitle-all"
 msgstr "همه ی {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"

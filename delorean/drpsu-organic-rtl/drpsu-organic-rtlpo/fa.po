@@ -31,7 +31,7 @@ msgid "seo_vendor-footer-anchor"
 msgstr "{{VENDOR.NAME}}"
 
 msgid "seo_devicegroups-footer-anchor"
-msgstr "{{CLASS.PLURAL.MAIN}}{{VENDOR.NAME}}"
+msgstr "{{CLASS.PLURAL.MAIN}} {{VENDOR.NAME}}"
 
 #. i18n: EN: Example: NAME=Acer E230H; RU: Пример: NAME=Acer E230H;
 msgid "seo_devicegroup-footer-anchor"
@@ -45,7 +45,7 @@ msgid "seo_notebook-footer-anchor"
 msgstr "لپتاپ های {{NAME}}"
 
 msgid "seo_notebookdevices-footer-anchor"
-msgstr "{{CLASS.PLURAL.MAIN}}{{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}}"
+msgstr "{{CLASS.PLURAL.MAIN}} {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
 #. CLASS.PLURAL.FOR=мониторов|модемов;
@@ -53,7 +53,7 @@ msgid "seo_deviceclass-footer-anchor"
 msgstr "{{CLASS.PLURAL.MAIN}}"
 
 msgid "seo_hwidos-footer-anchor"
-msgstr "نسخه درایور برای {{OS.NAME}}Windows"
+msgstr "نسخه درایور برای {{OS.NAME}} Windows"
 
 msgid "seo_main-title"
 msgstr "DriverPack Solution — نصب و به روز رسانی خودکار درایورها | به صورت رایگان دانلود کید"
@@ -385,7 +385,7 @@ msgstr "دسته بندی ثانویه: <span itemprop='applicationSubCategory'>
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebook-title"
-msgstr "درایور های لپتاپ {{NOTEBOOK.NAME}}{{NOTEBOOK.VENDOR.NAME}} | دانلود برای Windows"
+msgstr "درایور های لپتاپ {{NOTEBOOK.NAME}} {{NOTEBOOK.VENDOR.NAME}} | دانلود برای Windows"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
@@ -400,12 +400,12 @@ msgstr "درایور های لپ تاپ <span class='bold'>{{NOTEBOOK.NAME}} {{N
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebook-keywords"
-msgstr "دانلود درایور های مربوط به Windows  7 یا 8 یا 10 با معماری 64 بیت {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}}"
+msgstr "دانلود درایور های مربوط به Windows  7 یا 8 یا 10 با معماری 64 بیت {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebook-footer-description"
-msgstr "دانلود درایور لپ تاپ {{NOTEBOOK.NAME}}{{NOTEBOOK.VENDOR.NAME}} به صورت رایگان"
+msgstr "دانلود درایور لپ تاپ {{NOTEBOOK.NAME}} {{NOTEBOOK.VENDOR.NAME}} به صورت رایگان"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; RU: Пример:
 #. NOTEBOOK.VENDOR.NAME=Acer;
@@ -420,7 +420,7 @@ msgstr "زیر مجموعه: <span itemprop='applicationSubCategory'> لپتاپ
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebook-footer-content"
-msgstr "در اینجا شما می توانید درایور های مربوط به {{NOTEBOOK.NAME}}{{NOTEBOOK.VENDOR.NAME}} را دریافت و یا نرم افزار کامل DriverPack Solution را دانلود کرده تا بتوانید درایور ها را نصب و بروز رسانی کنید "
+msgstr "در اینجا شما می توانید درایور های مربوط به {{NOTEBOOK.NAME}} {{NOTEBOOK.VENDOR.NAME}} را دریافت و یا نرم افزار کامل DriverPack Solution را دانلود کرده تا بتوانید درایور ها را نصب و بروز رسانی کنید "
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 #. CLASS.SINGLE.FOR=videocart|soundcart; RU: Пример:
@@ -455,7 +455,7 @@ msgstr "درایور های مربوط به لپتاب و نوت بوک {{CLASS.
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 #. CLASS.PLURAL.FOR=видеокарт|звуковых карт;
 msgid "seo_notebookdevices-footer-description"
-msgstr "دانلود درایور های {{CLASS.PLURAL.FOR}} لپتاپ {{NOTEBOOK.NAME}}{{NOTEBOOK.VENDOR.NAME}} به صورت رایگان"
+msgstr "دانلود درایور های {{CLASS.PLURAL.FOR}} لپتاپ {{NOTEBOOK.NAME}} {{NOTEBOOK.VENDOR.NAME}}   به صورت رایگان"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
@@ -636,7 +636,7 @@ msgid "seo_notebookdevicesos-footer-application-subcategory"
 msgstr "مجموعه ها : <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}}  برای {{NOTEBOOK.NAME}} {{NOTEBOOK.VENDOR.NAME}}</span>"
 
 msgid "seo_notebookdevicesos-footer-content"
-msgstr "درایور های {{CLASS.SINGLE.FOR}} {{NOTEBOOK.NAME}} {{NOTEBOOK.VENDOR.NAME}}را برای ( {{OS}} Windows) دانلود کنید، یا نرم افزار  DriverPack Solution برای به روز رسانی درایور ها دانلود کنید"
+msgstr "درایور های {{CLASS.SINGLE.FOR}} {{NOTEBOOK.NAME}} {{NOTEBOOK.VENDOR.NAME}} را برای ({{OS}} Windows) دانلود کنید، یا نرم افزار  DriverPack Solution برای به روز رسانی درایور ها دانلود کنید"
 
 msgid "seo_promopage_title"
 msgstr "DriverPack – نصب رایگان درایور"

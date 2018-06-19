@@ -23,7 +23,7 @@ msgid "seo_vendor-footer-anchor"
 msgstr "{{VENDOR.NAME}}"
 
 msgid "seo_devicegroups-footer-anchor"
-msgstr "{{CLASS.PLURAL.MAIN}}{{VENDOR.NAME}}"
+msgstr "{{CLASS.PLURAL.MAIN}} {{VENDOR.NAME}}"
 
 #. i18n: EN: Example: NAME=Acer E230H; RU: Пример: NAME=Acer E230H;
 msgid "seo_devicegroup-footer-anchor"
@@ -37,7 +37,7 @@ msgid "seo_notebook-footer-anchor"
 msgstr "Prijenosna računala {{NAME}}"
 
 msgid "seo_notebookdevices-footer-anchor"
-msgstr "{{CLASS.PLURAL.MAIN}}{{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}}"
+msgstr "{{CLASS.PLURAL.MAIN}} {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
 #. CLASS.PLURAL.FOR=мониторов|модемов;
@@ -227,7 +227,7 @@ msgstr ""
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|monitors; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.FOR=видеокарт|мониторов; VENDOR.NAME=Acer;
 msgid "seo_devicegroups-footer-description"
-msgstr "Preuzmite upravljačke programe za {{CLASS.PLURAL.FOR}}{{VENDOR.NAME}}"
+msgstr "Preuzmite upravljačke programe za {{CLASS.PLURAL.FOR}} {{VENDOR.NAME}}"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|monitors; RU: Пример:
 #. CLASS.PLURAL.MAIN=видеокарты|мониторы;
@@ -242,7 +242,7 @@ msgstr ""
 #. i18n: EN: Example: CLASS.SINGLE.FOR=videocard|monitor; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.SINGLE.FOR=видеокарты|монитора; VENDOR.NAME=Acer;
 msgid "seo_devicegroups-footer-content"
-msgstr "Preuzmite upravljačke programe za {{CLASS.SINGLE.FOR}}{{VENDOR.NAME}} ili instalirajte program DriverPack Solution za automatsko ažuriranje i preuzimanje upravljačkih programa"
+msgstr "Preuzmite upravljačke programe za {{CLASS.SINGLE.FOR}} {{VENDOR.NAME}} ili instalirajte program DriverPack Solution za automatsko ažuriranje i preuzimanje upravljačkih programa"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
 #. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
@@ -263,7 +263,7 @@ msgstr ""
 #. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
 #. GROUP.NAME=GeForce 210;
 msgid "seo_devicegroup-h1"
-msgstr "Upravljački programi za <span class='bold'>{{CLASS.SINGLE.FOR}}{{GROUP.VENDOR.NAME}}{{GROUP.NAME}}</span>"
+msgstr "Upravljački programi za <span class='bold'>{{CLASS.SINGLE.FOR}} {{GROUP.VENDOR.NAME}} {{GROUP.NAME}}</span>"
 
 #. i18n: EN: Example: GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU:
 #. Пример: GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210;
@@ -275,13 +275,13 @@ msgstr ""
 #. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
 #. GROUP.NAME=GeForce 210;
 msgid "seo_devicegroup-footer-description"
-msgstr "Besplatno preuzimanje upravljačkih programa za {{CLASS.PLURAL.FOR}}{{GROUP.VENDOR.NAME}}{{GROUP.NAME}}"
+msgstr "Besplatno preuzimanje upravljačkih programa za {{CLASS.PLURAL.FOR}} {{GROUP.VENDOR.NAME}} {{GROUP.NAME}}"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
 #. GROUP.VENDOR.NAME=Nvidia; RU: Пример: CLASS.PLURAL.FOR=видеокарт|чипсетов;
 #. GROUP.VENDOR.NAME=Nvidia;
 msgid "seo_devicegroup-footer-application-category"
-msgstr "Kategorija: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}{{GROUP.VENDOR.NAME}}</span>"
+msgstr "Kategorija: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}} {{GROUP.VENDOR.NAME}}</span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets;
 #. GROUP.NAME=GeForce 210; RU: Пример: CLASS.PLURAL.MAIN=видеокарты|чипсеты;
@@ -294,7 +294,7 @@ msgstr ""
 #. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
 #. GROUP.NAME=GeForce 210;
 msgid "seo_devicegroup-footer-content"
-msgstr "Preuzmite upravljačke programe za {{CLASS.SINGLE.FOR}}{{GROUP.VENDOR.NAME}}{{GROUP.NAME}} ili preuzmite program DriverPack Solution za automatsko ažuriranje i instalaciju upravljačkih programa"
+msgstr "Preuzmite upravljačke programe za {{CLASS.SINGLE.FOR}} {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} ili preuzmite program DriverPack Solution za automatsko ažuriranje i instalaciju upravljačkih programa"
 
 msgid "seo_hwids-title"
 msgstr "Preuzmite upravljačke programe za uređaj koristeći DeviceID tog uređaja i DriverPack Solution | Stranica {{PAGE}}"
@@ -387,7 +387,7 @@ msgstr ""
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebook-h1"
-msgstr "Upravljački programi za prijenosno računalo <span class='bold'>{{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}}</span>"
+msgstr "Upravljački programi za prijenosno računalo <span class='bold'>{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}</span>"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
@@ -397,7 +397,7 @@ msgstr ""
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebook-footer-description"
-msgstr "Besplatno preuzmite upravljačke programe za prijenosno računalo {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}}"
+msgstr "Besplatno preuzmite upravljačke programe za prijenosno računalo {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; RU: Пример:
 #. NOTEBOOK.VENDOR.NAME=Acer;
@@ -407,12 +407,12 @@ msgstr "Kategorija: prijenosna računala <span itemprop='applicationCategory'>{{
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebook-footer-application-subcategory"
-msgstr "Potkategorija: <span itemprop='applicationSubCategory'>prijenosna računala {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}}</span>"
+msgstr "Potkategorija: <span itemprop='applicationSubCategory'>prijenosna računala {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}</span>"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebook-footer-content"
-msgstr "Ovdje možete preuzeti upravljačke programe za svoje prijenosno računalo {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}} ili preuzeti program za automatsko ažuriranje i instalaciju upravljačkih programa tvrtke DriverPack Solution"
+msgstr "Ovdje možete preuzeti upravljačke programe za svoje prijenosno računalo {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} ili preuzeti program za automatsko ažuriranje i instalaciju upravljačkih programa tvrtke DriverPack Solution"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 #. CLASS.SINGLE.FOR=videocart|soundcart; RU: Пример:
@@ -433,7 +433,7 @@ msgstr ""
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 #. CLASS.PLURAL.FOR=видеокарт|звуковых карт;
 msgid "seo_notebookdevices-h1"
-msgstr "Upravljački programi za {{CLASS.SINGLE.FOR}} za prijenosno računalo {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}}"
+msgstr "Upravljački programi za {{CLASS.SINGLE.FOR}} za prijenosno računalo {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets;
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU: Пример:
@@ -447,47 +447,47 @@ msgstr ""
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 #. CLASS.PLURAL.FOR=видеокарт|звуковых карт;
 msgid "seo_notebookdevices-footer-description"
-msgstr "Besplatno preuzmite upravljačke programe za {{CLASS.PLURAL.FOR}} za prijenosno računalo {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}}"
+msgstr "Besplatno preuzmite upravljačke programe za {{CLASS.PLURAL.FOR}} za prijenosno računalo {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebookdevices-footer-application-category"
-msgstr "Kategorija: prijenosna računala <span itemprop='applicationCategory'>{{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}}</span>"
+msgstr "Kategorija: prijenosna računala <span itemprop='applicationCategory'>{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}</span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets;
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU: Пример:
 #. CLASS.PLURAL.MAIN=видеокарты|чипсеты; NOTEBOOK.VENDOR.NAME=Acer;
 #. NOTEBOOK.NAME=AO533;
 msgid "seo_notebookdevices-footer-application-subcategory"
-msgstr "Potkategorija: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}} za {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}}</span>"
+msgstr "Potkategorija: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}} za {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}</span>"
 
 #. i18n: EN: Example: CLASS.SINGLE.FOR=videocard|chipset;
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU: Пример:
 #. CLASS.SINGLE.FOR=видеокарты|чипсета; NOTEBOOK.VENDOR.NAME=Acer;
 #. NOTEBOOK.NAME=AO533;
 msgid "seo_notebookdevices-footer-content"
-msgstr "Preuzmite upravljačke programe za {{CLASS.SINGLE.FOR}} za prijenosno računalo {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}} za Windows 7, XP, 10, 8 i 8.1 ili preuzmite program DriverPack Solution za ažuriranje upravljačkih programa"
+msgstr "Preuzmite upravljačke programe za {{CLASS.SINGLE.FOR}} za prijenosno računalo {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} za Windows 7, XP, 10, 8 i 8.1 ili preuzmite program DriverPack Solution za ažuriranje upravljačkih programa"
 
 msgid "seo_search-title"
 msgstr "Rezultati pretraživanja za izraz: {{QUERY}} | DriverPack Solution"
 
 msgid "seo_devicegroupos-title"
-msgstr "Preuzmite upravljačke programe za {{GROUP.VENDOR.NAME}}{{GROUP.NAME}} za Windows {{OS}}"
+msgstr "Preuzmite upravljačke programe za {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} za Windows {{OS}}"
 
 msgid "seo_devicegroupos-description"
-msgstr "Instalirajte upravljački program za {{GROUP.VENDOR.NAME}}{{GROUP.NAME}} za Windows {{OS}} ili preuzmite program DriverPack Solution za automatsko ažuriranje i instalaciju upravljačkih programa."
+msgstr "Instalirajte upravljački program za {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} za Windows {{OS}} ili preuzmite program DriverPack Solution za automatsko ažuriranje i instalaciju upravljačkih programa."
 
 msgid "seo_devicegroupos-h1"
 msgstr "Upravljački programi za {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} za Windows {{OS}}"
 
 msgid "seo_devicegroupos-keywords"
-msgstr "upravljački programi Windows {{OS}} preuzimanje preuzmite osobno računalo {{GROUP.NAME}} {{GROUP.VENDOR.NAME}}"
+msgstr "upravljački programi Windows {{OS}} preuzimanje preuzmite osobno računalo {{GROUP.NAME}}  {{GROUP.VENDOR.NAME}}"
 
 msgid "seo_devicegroupos-footer-description"
 msgstr "Besplatno preuzmite upravljačke programe za {{CLASS.SINGLE.FOR}} {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} za Windows {{OS}}"
 
 msgid "seo_devicegroupos-footer-application-category"
-msgstr "Kategorija: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}{{GROUP.VENDOR.NAME}}</span>"
+msgstr "Kategorija: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}} {{GROUP.VENDOR.NAME}}</span>"
 
 msgid "seo_devicegroupos-footer-application-subcategory"
 msgstr ""
@@ -496,16 +496,16 @@ msgid "seo_devicegroupos-footer-content"
 msgstr "Preuzmite upravljačke programe za {{CLASS.PLURAL.FOR}} za {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} za (Windows {{OS}}) ili instalirajte program DriverPack Solution za automatsko ažuriranje i preuzimanje upravljačkih programa"
 
 msgid "seo_notebookos-title"
-msgstr "Preuzmite upravljačke programe za prijenosno računalo {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}} za Windows {{OS}}"
+msgstr "Preuzmite upravljačke programe za prijenosno računalo {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} za Windows {{OS}}"
 
 msgid "seo_notebookos-description"
 msgstr "Instalirajte upravljačke programe za prijenosno računalo {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} za Windows {{OS}} ili preuzmite program DriverPack Solution za automatsko ažuriranje i instalaciju upravljačkih programa"
 
 msgid "seo_notebookos-h1"
-msgstr "Upravljački programi za prijenosno računalo {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}} za Windows {{OS}}"
+msgstr "Upravljački programi za prijenosno računalo {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} za Windows {{OS}}"
 
 msgid "seo_notebookos-keywords"
-msgstr "upravljački programi upravljački programi prijenosno računalo notebook računalo prijenosno računalo netbook računalo netbook računalo Windows {{OS}}  preuzmite preuzimanje {{NOTEBOOK.NAME}}{{NOTEBOOK.VENDOR.NAME}}"
+msgstr "upravljački programi upravljački programi prijenosno računalo notebook računalo prijenosno računalo netbook računalo netbook računalo Windows {{OS}} preuzmite preuzimanje {{NOTEBOOK.NAME}} {{NOTEBOOK.VENDOR.NAME}}"
 
 msgid "seo_notebookos-footer-description"
 msgstr "Besplatno preuzmite upravljačke programe za prijenosno računalo {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} za Windows {{OS}}"
@@ -514,10 +514,10 @@ msgid "seo_notebookos-footer-application-category"
 msgstr "Kategorija: prijenosna računala <span itemprop='applicationCategory'>{{NOTEBOOK.VENDOR.NAME}}</span>"
 
 msgid "seo_notebookos-footer-application-subcategory"
-msgstr "Potkategorija: <span itemprop='applicationSubCategory'>prijenosna računala {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}}</span>"
+msgstr "Potkategorija: <span itemprop='applicationSubCategory'>prijenosna računala {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}</span>"
 
 msgid "seo_notebookos-footer-content"
-msgstr "Ovdje možete preuzeti upravljačke programe za svoje prijenosno računalo {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}} (Windows {{OS}}) ili preuzeti program za automatsko ažuriranje i instalaciju upravljačkih programa tvrtke DriverPack Solution"
+msgstr "Ovdje možete preuzeti upravljačke programe za svoje prijenosno računalo {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} (Windows {{OS}}) ili preuzeti program za automatsko ažuriranje i instalaciju upravljačkih programa tvrtke DriverPack Solution"
 
 msgid "seo_deviceclassos-title"
 msgstr "Preuzmite upravljačke programe za {{CLASS.SINGLE.FOR}} za Windows {{OS}}"
@@ -541,19 +541,19 @@ msgid "seo_deviceclassos-footer-application-subcategory"
 msgstr "Potkategorija: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_devicegroupsos-title"
-msgstr "Preuzmite upravljačke programe za {{CLASS.SINGLE.FOR}}{{VENDOR.NAME}} za Windows {{OS}}"
+msgstr "Preuzmite upravljačke programe za {{CLASS.SINGLE.FOR}} {{VENDOR.NAME}} za Windows {{OS}}"
 
 msgid "seo_devicegroupsos-description"
-msgstr "Instalirajte upravljačke programe za {{CLASS.SINGLE.FOR}}{{VENDOR.NAME}} za Windows {{OS}} ili preuzmite program DriverPack Solution za automatsko ažuriranje i instalaciju upravljačkih programa"
+msgstr "Instalirajte upravljačke programe za {{CLASS.SINGLE.FOR}} {{VENDOR.NAME}} za Windows {{OS}} ili preuzmite program DriverPack Solution za automatsko ažuriranje i instalaciju upravljačkih programa"
 
 msgid "seo_devicegroupsos-h1"
-msgstr "Upravljački programi za {{CLASS.SINGLE.FOR}}{{VENDOR.NAME}} za Windows {{OS}}"
+msgstr "Upravljački programi za {{CLASS.SINGLE.FOR}} {{VENDOR.NAME}} za Windows {{OS}}"
 
 msgid "seo_devicegroupsos-keywords"
-msgstr "upravljački programi Windows {{OS}} preuzmite preuzimanje {{CLASS.PLURAL.MAIN}}{{VENDOR.NAME}}"
+msgstr "upravljački programi Windows {{OS}} preuzmite preuzimanje {{CLASS.PLURAL.MAIN}} {{VENDOR.NAME}}"
 
 msgid "seo_devicegroupsos-footer-description"
-msgstr "Preuzmite upravljačke programe za {{CLASS.SINGLE.FOR}}{{VENDOR.NAME}} za Windows {{OS}}"
+msgstr "Preuzmite upravljačke programe za {{CLASS.SINGLE.FOR}} {{VENDOR.NAME}} za Windows {{OS}}"
 
 msgid "seo_devicegroupsos-footer-application-category"
 msgstr "Kategorija: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
@@ -562,7 +562,7 @@ msgid "seo_devicegroupsos-footer-application-subcategory"
 msgstr ""
 
 msgid "seo_devicegroupsos-footer-content"
-msgstr "Besplatno preuzmite upravljačke programe za {{CLASS.PLURAL.FOR}}{{VENDOR.NAME}}(Windows {{OS}}) ili instalirajte program za preuzimanje i ažuriranje upravljačkih programa DriverPack Solution."
+msgstr "Besplatno preuzmite upravljačke programe za {{CLASS.PLURAL.FOR}} {{VENDOR.NAME}} (Windows {{OS}}) ili instalirajte program za preuzimanje i ažuriranje upravljačkih programa DriverPack Solution."
 
 msgid "seo_notebookvendoros-title"
 msgstr "Preuzmite upravljačke programe za prijenosno računalo {{VENDOR.NAME}} za Windows {{OS}}"
@@ -574,7 +574,7 @@ msgid "seo_notebookvendoros-h1"
 msgstr "Upravljački programi za prijenosno računalo {{VENDOR.NAME}} za Windows {{OS}}"
 
 msgid "seo_notebookvendoros-keywords"
-msgstr "upravljački programi upravljački programi prijenosno računalo notebook računalo prijenosno računalo netbook računalo netbook računalo Windows {{OS}}preuzmite preuzimanje {{VENDOR.NAME}}"
+msgstr "upravljački programi upravljački programi prijenosno računalo notebook računalo prijenosno računalo netbook računalo netbook računalo Windows {{OS}} preuzmite preuzimanje {{VENDOR.NAME}}"
 
 msgid "seo_notebookvendoros-footer-description"
 msgstr "Besplatno preuzimanje upravljačkih programa za prijenosna računala {{VENDOR.NAME}} za Windows {{OS}}"
@@ -607,28 +607,28 @@ msgid "seo_hwidos-footer-content"
 msgstr "Preuzmite upravljački program za uređaj {{DEVICE.DEVICEID}} za Windows {{OS}} ili instalirajte program DriverPack Solution za automatsko ažuriranje i preuzimanje upravljačkih programa"
 
 msgid "seo_notebookdevicesos-title"
-msgstr "Upravljačke programe za {{CLASS.SINGLE.FOR}} za prijenosno računalo {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}} | Preuzimanje za Windows {{OS}}"
+msgstr "Upravljačke programe za {{CLASS.SINGLE.FOR}} za prijenosno računalo {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} | Preuzimanje za Windows {{OS}}"
 
 msgid "seo_notebookdevicesos-description"
-msgstr "Instalirajte upravljačke programe za {{CLASS.SINGLE.FOR}} za prijenosno računalo {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}} za Windows {{OS}} ili preuzmite program DriverPack Solution za automatsko ažuriranje i preuzimanje softvera"
+msgstr "Instalirajte upravljačke programe za {{CLASS.SINGLE.FOR}} za prijenosno računalo {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} za Windows {{OS}} ili preuzmite program DriverPack Solution za automatsko ažuriranje i preuzimanje softvera"
 
 msgid "seo_notebookdevicesos-h1"
-msgstr "Upravljački programi za {{CLASS.PLURAL.FOR}} za prijenosno računalo {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}} | Windows {{OS}}"
+msgstr "Upravljački programi za {{CLASS.PLURAL.FOR}} za prijenosno računalo {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} | Windows {{OS}}"
 
 msgid "seo_notebookdevicesos-keywords"
 msgstr ""
 
 msgid "seo_notebookdevicesos-footer-description"
-msgstr "Besplatno preuzmite upravljačke programe za {{CLASS.SINGLE.FOR}} za prijenosno računalo {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}} za Windows {{OS}}"
+msgstr "Besplatno preuzmite upravljačke programe za {{CLASS.SINGLE.FOR}} za prijenosno računalo {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} za Windows {{OS}}"
 
 msgid "seo_notebookdevicesos-footer-application-category"
-msgstr "Kategorija: prijenosna računala <span itemprop='applicationCategory'>{{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}}</span>"
+msgstr "Kategorija: prijenosna računala <span itemprop='applicationCategory'>{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}</span>"
 
 msgid "seo_notebookdevicesos-footer-application-subcategory"
-msgstr "Potkategorija: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}} za {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}}</span>"
+msgstr "Potkategorija: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}} za {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}</span>"
 
 msgid "seo_notebookdevicesos-footer-content"
-msgstr "Preuzmite upravljačke programe za {{CLASS.SINGLE.FOR}} za prijenosno računalo {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}} (Windows {{OS}}) ili preuzmite program DriverPack Solution za ažuriranje upravljačkih programa"
+msgstr "Preuzmite upravljačke programe za {{CLASS.SINGLE.FOR}} za prijenosno računalo {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} (Windows {{OS}}) ili preuzmite program DriverPack Solution za ažuriranje upravljačkih programa"
 
 msgid "seo_promopage_title"
 msgstr ""

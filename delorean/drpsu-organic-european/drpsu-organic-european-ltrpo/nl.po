@@ -237,7 +237,7 @@ msgstr "Categorie: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</s
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|monitors; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|мониторы; VENDOR.NAME=Acer;
 msgid "seo_devicegroups-footer-application-subcategory"
-msgstr "Subcategorie: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}}{{CLASS.PLURAL.MAIN}}</span>"
+msgstr "Subcategorie: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 #. i18n: EN: Example: CLASS.SINGLE.FOR=videocard|monitor; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.SINGLE.FOR=видеокарты|монитора; VENDOR.NAME=Acer;
@@ -287,7 +287,7 @@ msgstr "Categorie: <span itemprop='applicationCategory'>{{GROUP.VENDOR.NAME}} {{
 #. GROUP.NAME=GeForce 210; RU: Пример: CLASS.PLURAL.MAIN=видеокарты|чипсеты;
 #. GROUP.NAME=GeForce 210;
 msgid "seo_devicegroup-footer-application-subcategory"
-msgstr "Subcategorie: <span itemprop='applicationSubCategory'>{{GROUP.NAME}}{{CLASS.PLURAL.MAIN}}</span>"
+msgstr "Subcategorie: <span itemprop='applicationSubCategory'>{{GROUP.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
 #. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
@@ -377,7 +377,7 @@ msgstr "Subcategorie: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} la
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebook-title"
-msgstr "{{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}} drivers | Download voor Windows 7, XP, 10, 8, en 8.1"
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} drivers | Download voor Windows 7, XP, 10, 8, en 8.1"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
@@ -426,7 +426,7 @@ msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} {{CLASS.SINGLE.FOR}} drivers 
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 #. CLASS.SINGLE.FOR=видеокарты|звуковой карты;
 msgid "seo_notebookdevices-description"
-msgstr "Download {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} {{CLASS.SINGLE.FOR}}drivers voor Windows 7, XP, 10, 8 en 8.1, of installeer de DriverPack Solution -software"
+msgstr "Download {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} {{CLASS.SINGLE.FOR}} drivers voor Windows 7, XP, 10, 8 en 8.1, of installeer de DriverPack Solution software"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 #. CLASS.PLURAL.FOR=videocarts|soundcarts; RU: Пример:
@@ -490,7 +490,7 @@ msgid "seo_devicegroupos-footer-application-category"
 msgstr "Categorie: <span itemprop='applicationCategory'>{{GROUP.VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_devicegroupos-footer-application-subcategory"
-msgstr "Subcategorie: <span itemprop='applicationSubCategory'>{{GROUP.NAME}}{{CLASS.PLURAL.MAIN}}</span>"
+msgstr "Subcategorie: <span itemprop='applicationSubCategory'>{{GROUP.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_devicegroupos-footer-content"
 msgstr "Download drivers voor {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.PLURAL.FOR}} (Windows {{OS}}) of installeer de DriverPack Solution software voor automatische driver download en update"
@@ -559,7 +559,7 @@ msgid "seo_devicegroupsos-footer-application-category"
 msgstr "Categorie: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_devicegroupsos-footer-application-subcategory"
-msgstr "Subcategorie: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}}{{CLASS.PLURAL.MAIN}}</span>"
+msgstr "Subcategorie: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_devicegroupsos-footer-content"
 msgstr "Download drivers voor {{VENDOR.NAME}} {{CLASS.PLURAL.FOR}} (Windows {{OS}}) gratis of installeer de DriverPack Solution software voor driver download en update"

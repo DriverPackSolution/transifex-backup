@@ -77,12 +77,12 @@ msgstr "{{CLASS.PLURAL.MAIN}}"
 #. VENDOR.NAME=Realtek; RU: Пример: CLASS.PLURAL.MAIN=картридеры|мониторы;
 #. VENDOR.NAME=Realtek;
 msgid "breadcrumbs_devicegroups-text"
-msgstr "{{VENDOR.NAME}}{{CLASS.PLURAL.MAIN}}"
+msgstr "{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
 
 #. i18n: EN: Example: GROUP.VENDOR.NAME=Nvidia, GROUP.NAME=GeForce 210; RU:
 #. Пример: GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210;
 msgid "breadcrumbs_devicegroup-text"
-msgstr "{{GROUP.VENDOR.NAME}}{{GROUP.NAME}}"
+msgstr "{{GROUP.VENDOR.NAME}} {{GROUP.NAME}}"
 
 msgid "breadcrumbs_notebooks-text"
 msgstr "Prijenosna računala"
@@ -94,7 +94,7 @@ msgstr "{{VENDOR.NAME}} prijenosna računala"
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=X1 carbon;
 #. RU: Пример: NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=X1 carbon;
 msgid "breadcrumbs_notebook-text"
-msgstr "{{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}}"
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=Videocards|Chipsets ,
 #. NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=G580; RU: Пример:
@@ -183,7 +183,7 @@ msgstr "Upravljački programi za prijenosno računalo {{NOTEBOOK}} za {{OSVERSIO
 #. NOTEBOOK=Acer AO521; Пример: OSVERSIONS=Windows 10 x86; Текст для
 #. {{DOWNLOAD}} находится в ключе devicecardlist_no-result_download-link;
 msgid "devicecardlist_no-results-notebook-device-class-text"
-msgstr "Upravljački programi za {{DEVICECLASS}} za prijenosno računalo {{NOTEBOOK}} nisu pronađeni u katalogu. {{OSVERSIONS}} nisu pronađene. {{DOWNLOAD}}da biste automatski odabrali upravljački program."
+msgstr "Upravljački programi za {{DEVICECLASS}} za prijenosno računalo {{NOTEBOOK}} nisu pronađeni u katalogu. {{OSVERSIONS}} nisu pronađene. {{DOWNLOAD}} da biste automatski odabrali upravljački program."
 
 msgid "devicegrouppage_all-systems"
 msgstr "Svi sustavi"
@@ -979,10 +979,10 @@ msgid "devicestypepage_subtitle"
 msgstr "Svi proizvođači {{CLASS.SINGLE.FOR}}"
 
 msgid "devicetypevendorpage_subtitle-popular"
-msgstr "Popularne {{CLASS.PLURAL.MAIN}}{{VENDOR.NAME}}"
+msgstr "Popularne {{CLASS.PLURAL.MAIN}} {{VENDOR.NAME}}"
 
 msgid "devicetypevendorpage_subtitle-all"
-msgstr "Svi {{CLASS.PLURAL.MAIN}}{{VENDOR.NAME}}"
+msgstr "Svi {{CLASS.PLURAL.MAIN}} {{VENDOR.NAME}}"
 
 msgid "errorpage_title"
 msgstr "Greška 500: Interna greška poslužitelja"

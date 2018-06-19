@@ -212,7 +212,7 @@ msgstr "{{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} driverek | Letöltés Windows 7, XP
 #. i18n: EN: Example: CLASS.SINGLE.FOR=videocard|monitor; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.SINGLE.FOR=видеокарты|монитора; VENDOR.NAME=Acer;
 msgid "seo_devicegroups-description"
-msgstr "{{VENDOR.NAME}}{{CLASS.SINGLE.FOR}} driverek letöltése, vagy telepítse a DriverPack Solution szoftvert a driverek kereséséhez és frissítéséhez"
+msgstr "{{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} driverek letöltése, vagy telepítse a DriverPack Solution szoftvert a driverek kereséséhez és frissítéséhez"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|monitors; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.FOR=видеокарт|мониторов; VENDOR.NAME=Acer;
@@ -249,7 +249,7 @@ msgstr "{{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} driverek letöltése, vagy telepít
 #. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
 #. GROUP.NAME=GeForce 210;
 msgid "seo_devicegroup-title"
-msgstr " {{GROUP.VENDOR.NAME}}{{GROUP.NAME}}{{CLASS.SINGLE.FOR}} driverek | Letöltés Windows 7, XP, 10, 8, és 8.1 rendszerekhez"
+msgstr " {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.SINGLE.FOR}} driverek | Letöltés Windows 7, XP, 10, 8, és 8.1 rendszerekhez"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
 #. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
@@ -294,7 +294,7 @@ msgstr "Alkategória: <span itemprop='applicationSubCategory'>{{GROUP.NAME}}  {{
 #. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
 #. GROUP.NAME=GeForce 210;
 msgid "seo_devicegroup-footer-content"
-msgstr "{{GROUP.VENDOR.NAME}}{{GROUP.NAME}}{{CLASS.SINGLE.FOR}} driverek letöltése, vagy telepítse a DriverPack Solution szoftvert a driverek kereséséhez és frissítéséhez"
+msgstr "{{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.SINGLE.FOR}} driverek letöltése, vagy telepítse a DriverPack Solution szoftvert a driverek kereséséhez és frissítéséhez"
 
 msgid "seo_hwids-title"
 msgstr "Eszköz driverek letöltése Device_id alapján | DriverPack Solution | {{PAGE}}. oldal"
@@ -333,7 +333,7 @@ msgstr "{{DEVICE.DEVICEID}} driverek letöltése ingyen"
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 msgid "seo_hwid-footer-content"
-msgstr "{{DEVICE.DEVICEID}}driverek letöltése vagy telepítse a DriverPack Solution szoftvert a driverkereséshez és frissítéshez"
+msgstr "{{DEVICE.DEVICEID}} driverek letöltése vagy telepítse a DriverPack Solution szoftvert a driverkereséshez és frissítéshez"
 
 msgid "seo_notebooks-title"
 msgstr "Összes laptop modell drivereinek letöltése Windows 7, XP, 10, 8, és 8.1 rendszerekhez"
@@ -377,12 +377,12 @@ msgstr "Alkategória: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} la
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebook-title"
-msgstr "{{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}} driverek | Letöltés Windows 7, XP, 10, 8, és 8.1 rendszerekhez"
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} driverek | Letöltés Windows 7, XP, 10, 8, és 8.1 rendszerekhez"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebook-description"
-msgstr "{{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}}driverek letöltése, vagy telepítse a DriverPack Solution szoftvert a driverek kereséséhez és frissítéséhez"
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} driverek letöltése, vagy telepítse a DriverPack Solution szoftvert a driverek kereséséhez és frissítéséhez"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
@@ -452,7 +452,7 @@ msgstr "{{CLASS.PLURAL.FOR}} driverek letöltése {{NOTEBOOK.VENDOR.NAME}}  {{NO
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebookdevices-footer-application-category"
-msgstr "Kategória: <span itemprop='applicationCategory'> {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptopok</span>"
+msgstr "Kategória: <span itemprop='applicationCategory'>{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptopok</span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets;
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU: Пример:
@@ -493,13 +493,13 @@ msgid "seo_devicegroupos-footer-application-subcategory"
 msgstr "Alkategória: <span itemprop='applicationSubCategory'>{{GROUP.NAME}}  {{CLASS.PLURAL.MAIN}} </span>"
 
 msgid "seo_devicegroupos-footer-content"
-msgstr "{{GROUP.VENDOR.NAME}}{{GROUP.NAME}}{{CLASS.PLURAL.FOR}} driverek letöltése (Windows {{OS}}), vagy telepítse a DriverPack Solution szoftvert a driverek kereséséhez és frissítéséhez"
+msgstr "{{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.PLURAL.FOR}} driverek letöltése (Windows {{OS}}), vagy telepítse a DriverPack Solution szoftvert a driverek kereséséhez és frissítéséhez"
 
 msgid "seo_notebookos-title"
 msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptop driverek letöltése Windows {{OS}} verzióhoz"
 
 msgid "seo_notebookos-description"
-msgstr "{{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}} laptop driverek telepítése Windows {{OS}} rendszerhez, vagy telepítse a DriverPack Solution szoftvert a driverek kereséséhez és frissítéséhez"
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptop driverek telepítése Windows {{OS}} rendszerhez, vagy telepítse a DriverPack Solution szoftvert a driverek kereséséhez és frissítéséhez"
 
 msgid "seo_notebookos-h1"
 msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptop driverek Windows {{OS}} verzióhoz"
@@ -544,13 +544,13 @@ msgid "seo_devicegroupsos-title"
 msgstr "{{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} driverek letöltése Windows {{OS}} verzióhoz"
 
 msgid "seo_devicegroupsos-description"
-msgstr "{{VENDOR.NAME}}{{CLASS.SINGLE.FOR}} driverek telepítése Windows {{OS}} rendszerre, vagy telepítse a DriverPack Solution szoftvert a driverek kereséséhez és frissítéséhez"
+msgstr "{{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} driverek telepítése Windows {{OS}} rendszerre, vagy telepítse a DriverPack Solution szoftvert a driverek kereséséhez és frissítéséhez"
 
 msgid "seo_devicegroupsos-h1"
 msgstr "{{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} drivers Windows {{OS}} verzióhoz"
 
 msgid "seo_devicegroupsos-keywords"
-msgstr "driverek Windows {{OS}} letöltés letöltés PC {{CLASS.PLURAL.MAIN}}{{VENDOR.NAME}}"
+msgstr "driverek Windows {{OS}} letöltés letöltés PC {{CLASS.PLURAL.MAIN}} {{VENDOR.NAME}}"
 
 msgid "seo_devicegroupsos-footer-description"
 msgstr "{{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} driverek letöltése Windows {{OS}} verzióhoz"
@@ -562,7 +562,7 @@ msgid "seo_devicegroupsos-footer-application-subcategory"
 msgstr "Alkategória: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}} </span>"
 
 msgid "seo_devicegroupsos-footer-content"
-msgstr "{{VENDOR.NAME}}{{CLASS.PLURAL.FOR}} driverek letöltése (Windows {{OS}}) ingyen, vagy telepítse a DriverPack Solution szoftvert a driverek kereséséhez és frissítéséhez"
+msgstr "{{VENDOR.NAME}} {{CLASS.PLURAL.FOR}} driverek letöltése (Windows {{OS}}) ingyen, vagy telepítse a DriverPack Solution szoftvert a driverek kereséséhez és frissítéséhez"
 
 msgid "seo_notebookvendoros-title"
 msgstr "{{VENDOR.NAME}} laptop driverek letöltése Windows {{OS}} verzióhoz"
@@ -604,7 +604,7 @@ msgid "seo_hwidos-footer-description"
 msgstr "{{DEVICE.DEVICEID}} eszközdriverek letöltése Windows {{OS}} verzióhoz ingyen"
 
 msgid "seo_hwidos-footer-content"
-msgstr "{{DEVICE.DEVICEID}}driverek letöltése Windows {{OS}} rendszerhez, vagy telepítse a DriverPack Solution szoftvert a driverkereséshez és frissítéshez"
+msgstr "{{DEVICE.DEVICEID}} driverek letöltése Windows {{OS}} rendszerhez, vagy telepítse a DriverPack Solution szoftvert a driverkereséshez és frissítéshez"
 
 msgid "seo_notebookdevicesos-title"
 msgstr "{{CLASS.SINGLE.FOR}} driverek {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptopokhoz | Letöltés {{OS}} rendszerhez"

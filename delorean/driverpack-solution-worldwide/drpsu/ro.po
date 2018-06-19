@@ -88,7 +88,7 @@ msgstr "{{VENDOR.NAME}}{{CLASS.PLURAL.MAIN}}"
 #. i18n: EN: Example: GROUP.VENDOR.NAME=Nvidia, GROUP.NAME=GeForce 210; RU:
 #. Пример: GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210;
 msgid "breadcrumbs_devicegroup-text"
-msgstr "{{GROUP.VENDOR.NAME}}{{GROUP.NAME}}"
+msgstr "{{GROUP.VENDOR.NAME}} {{GROUP.NAME}}"
 
 msgid "breadcrumbs_notebooks-text"
 msgstr "Laptop-uri"
@@ -100,14 +100,14 @@ msgstr "{{VENDOR.NAME}} laptop-uri"
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=X1 carbon;
 #. RU: Пример: NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=X1 carbon;
 msgid "breadcrumbs_notebook-text"
-msgstr "{{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}}"
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=Videocards|Chipsets ,
 #. NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=G580; RU: Пример:
 #. CLASS.PLURAL.MAIN=видеокарты|чипсеты, NOTEBOOK.VENDOR.NAME=Lenovo,
 #. NOTEBOOK.NAME=G580;
 msgid "breadcrumbs_notebookdevices-text"
-msgstr "{{CLASS.PLURAL.MAIN}} {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}laptop"
+msgstr "{{CLASS.PLURAL.MAIN}} {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptop"
 
 msgid "devicecard_download-btn"
 msgstr "Descarcă driver"
@@ -557,7 +557,7 @@ msgstr "gratis"
 
 #. i18n: EN: Example: NAME=Acer; RU: Пример: NAME=Acer;
 msgid "generatesearchitemname_notebookvendor"
-msgstr "{{NAME}}laptopuri"
+msgstr "{{NAME}} laptopuri"
 
 #. i18n: EN: Example: NAME=Asus; RU: Пример: NAME=Asus;
 msgid "generatesearchitemname_vendor"
@@ -791,7 +791,7 @@ msgstr "toate sistemele"
 #. GeForce 205; Текст для {{DOWNLOAD}} находится в ключе searchresult_details-
 #. content_download-link
 msgid "searchresult_details-content-group-text"
-msgstr "{{DOWNLOAD}}pentru a identifica și instala automat driverele necesare, sau mergi la {{DEVICE}} pagina cu dispozitive si selectează manual driverul necesar"
+msgstr "{{DOWNLOAD}} pentru a identifica și instala automat driverele necesare, sau mergi la {{DEVICE}}  pagina cu dispozitive si selectează manual driverul necesar"
 
 #. i18n: EN: Example: CLASS.SINGLE.MAIN=monitor|chipset; COUNT=12; RU: Пример:
 #. CLASS.SINGLE.MAIN=монитор|чипсет; COUNT=12;
