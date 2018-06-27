@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-05-31 11:33+0000\n"
-"PO-Revision-Date: 2018-06-14 21:05+0000\n"
-"Last-Translator: Hristo Aleksandrov <h.aleksandrov@gmail.com>\n"
+"PO-Revision-Date: 2018-06-19 10:57+0000\n"
+"Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Bulgarian (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/bg/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -731,8 +731,8 @@ msgstr "Всички важни драйвери са инсталирани"
 
 msgid "final_programs_all_finished_subtitle"
 msgid_plural "final_programs_all_finished_subtitle_n"
-msgstr[0] "{{COUNT}}програми са инсталирани"
-msgstr[1] "{{COUNT}}програми са инсталирани"
+msgstr[0] "{{COUNT}} програми са инсталирани"
+msgstr[1] "{{COUNT}} програми са инсталирани"
 
 msgid "final_programs_some_finished_subtitle"
 msgstr "Инсталирането на някои полезни програми е прекъснато."
@@ -772,7 +772,7 @@ msgstr "Препоръчваме Ви да рестартирате компют
 
 msgid "final_aside_installed_drivers_title"
 msgid_plural "final_aside_installed_drivers_title_n"
-msgstr[0] " {{COUNT}}драйвера са инсталирани"
+msgstr[0] " {{COUNT}} драйвера са инсталирани"
 msgstr[1] " {{COUNT}} драйвера са инсталирани"
 
 msgid "final_some_drivers_not_installed"
@@ -806,70 +806,70 @@ msgid "games_top_game_free_demo"
 msgstr "Свободна демострационна версия"
 
 msgid "games_top_game_free_paid"
-msgstr ""
+msgstr "Ще ви трябва копие от играта, закупено от {{SELLER}}"
 
 msgid "games_top_game_play"
-msgstr ""
+msgstr "Започнете да играете"
 
 msgid "games_playkey_top_title"
-msgstr ""
+msgstr "Играйте на <span class='games_title-marked bold'>най-добрите игри</span> на най-високото ниво <br /> <span class='bold'>дори и на слаб компютър</span>"
 
 msgid "games_playkey_open_catalog_button"
-msgstr ""
+msgstr "Повече от 150 игри в  PlayKey каталог"
 
 msgid "games_playkey_cloud_title"
-msgstr ""
+msgstr "Играта стартира <span class='games_title-marked bold'>от Облака</span> от страна на сървъра, <br /> <span class='bold'>така че не се използват ресурсите на компютъра ви</span>"
 
 msgid "games_playkey_cloud_img_pc_caption"
-msgstr ""
+msgstr "Компютърът прехвърля действията на потребителя"
 
 msgid "games_playkey_cloud_img_cloud_caption"
-msgstr ""
+msgstr "Сигналът се прехвърля на Облака"
 
 msgid "games_playkey_cloud_img_server_caption"
-msgstr ""
+msgstr "Играта започва от сървъра"
 
 msgid "games_playkey_cloud_img_joystick_caption"
-msgstr ""
+msgstr "Радвайте се на играта без никакви проблеми или закъснения"
 
 msgid "games_playkey_create_account_button"
-msgstr ""
+msgstr "Създайте акаунт в PlayKey"
 
 msgid "gdpr-banner_text"
-msgstr ""
+msgstr "Събираме данни за вашия компютър в съответствие с условията на лицензионното споразумение, за да изберете правилните драйвери за вашето устройство. Моля, потвърдете съгласието си и ние ще можем да осигурим правилното функциониране на приложението."
 
 msgid "gdpr-banner_decline-btn"
-msgstr ""
+msgstr "Отказвам"
 
 msgid "gdpr-banner_accept-btn"
-msgstr ""
+msgstr "Потвърждавам"
 
 msgid "header_authorize_button"
-msgstr ""
+msgstr "Влизам"
 
 msgid "authorize_popup_logout_button"
-msgstr ""
+msgstr "Излизам"
 
 msgid "installation_header_subtitle"
-msgstr ""
+msgstr "Това може да отнеме известно време, но това си заслужава"
 
 msgid "installation_header_subtitle_installing-driver"
-msgstr ""
+msgstr "{{CLASS.SINGLE.FOR}} драйвера се инсталира"
 
 msgid "installation_header_subtitle_installing-program-plural"
-msgstr ""
+msgstr "{{CATEGORY.PLURAL.FOR}} се инсталира"
 
 msgid "installation_header_subtitle_installing-program"
-msgstr ""
+msgstr "{{CATEGORY.SINGLE.FOR}} се инсталира"
 
 msgid "installation_header_subtitle_downloading"
-msgstr ""
+msgstr "Зареждане на файл"
 
 msgid "installation_header_preparing"
-msgstr ""
+msgstr "Създаваме точка за възстановяване..."
 
 msgid "installation_header_title"
-msgstr ""
+msgstr "Конфигурираме вашият компютър"
 
 msgid "installation_header_promo_more"
 msgstr "разберете повече"
@@ -878,10 +878,10 @@ msgid "installation_header_promo_install"
 msgstr "инсталирай"
 
 msgid "installation_header_promo_fb"
-msgstr ""
+msgstr "Общност във Facebook"
 
 msgid "installation_item_category_restorepoint"
-msgstr ""
+msgstr "Точка за възстановяване"
 
 msgid "driver_class_bluetooth"
 msgstr "Bluetooth устройство"
@@ -893,10 +893,10 @@ msgid "driver_class_chipset"
 msgstr "Чипсет"
 
 msgid "driver_class_inputdev"
-msgstr ""
+msgstr "Входно устройство"
 
 msgid "driver_class_lan"
-msgstr ""
+msgstr "Мрежова карта"
 
 msgid "driver_class_massstorage"
 msgstr "Контролер"
@@ -920,7 +920,7 @@ msgid "driver_class_tvtuner"
 msgstr "TV-тунер"
 
 msgid "driver_class_video"
-msgstr ""
+msgstr "Видео карта"
 
 msgid "driver_class_webcamera"
 msgstr "Уеб камера"
@@ -932,34 +932,34 @@ msgid "driver_class_other"
 msgstr "Други устройства"
 
 msgid "soft_category_archiver"
-msgstr ""
+msgstr "Операции с архиви"
 
 msgid "soft_category_browser"
-msgstr ""
+msgstr "Бърза и безопасна работа в интернет"
 
 msgid "soft_category_viewer"
-msgstr ""
+msgstr "Изглед на изображения и документи"
 
 msgid "soft_category_messenger"
-msgstr ""
+msgstr "Безплатни разговори и съобщения"
 
 msgid "soft_category_internet"
-msgstr ""
+msgstr "Интернет услуги"
 
 msgid "soft_category_player"
-msgstr ""
+msgstr "Гледане на филми и видеоклипове"
 
 msgid "soft_category_backup"
-msgstr ""
+msgstr "Архивиране и възстановяване на данни"
 
 msgid "soft_category_antivirus"
 msgstr "Антивирусна защита"
 
 msgid "soft_category_system"
-msgstr ""
+msgstr "Системни инструменти"
 
 msgid "soft_category_drivers"
-msgstr ""
+msgstr "Инструменти за работа с драйвер"
 
 msgid "installation_item_eula"
 msgstr "Лицензионни условия"
@@ -971,25 +971,25 @@ msgid "installation_error_download"
 msgstr "Грешка при сваляне"
 
 msgid "installation_error_unzip"
-msgstr ""
+msgstr "Грешка при разархивиране"
 
 msgid "installation_error_install"
-msgstr ""
+msgstr "Грешка при инсталиране"
 
 msgid "installation_error_restore_disabled"
-msgstr ""
+msgstr "Грешка: забранено от системните настройки"
 
 msgid "installation_error_restore_not_created"
-msgstr ""
+msgstr "Грешка при създаване"
 
 msgid "installation_progress_stage_creating"
-msgstr ""
+msgstr "Създаване..."
 
 msgid "installation_progress_stage_created"
-msgstr ""
+msgstr "Беше създадено"
 
 msgid "installation_progress_stage_waiting"
-msgstr ""
+msgstr "Чака се редът й да се изтегли "
 
 msgid "installation_progress_downloading_speed"
 msgstr "Бързо"
@@ -998,242 +998,242 @@ msgid "installation_progress_downloading_of"
 msgstr "на"
 
 msgid "installation_progress_downloaded"
-msgstr ""
+msgstr "Изтеглено:"
 
 msgid "installation_progress_stage_downloading"
-msgstr ""
+msgstr "Зареждане..."
 
 msgid "installation_progress_stage_downloaded"
-msgstr ""
+msgstr "Очаква реда си за инсталиране"
 
 msgid "installation_progress_stage_unzipping"
-msgstr ""
+msgstr "Разархивиране..."
 
 msgid "installation_progress_unzipping_unzipped"
 msgstr "разархивиране"
 
 msgid "installation_progress_stage_installing"
-msgstr ""
+msgstr "Инсталиране..."
 
 msgid "installation_progress_stage_done"
 msgstr "Готово"
 
 msgid "installation_canceled"
-msgstr ""
+msgstr "Прекъснахте го"
 
 msgid "installation_title_name"
-msgstr ""
+msgstr "Елементи за инсталиране"
 
 msgid "installation_item_description_restorepoint"
-msgstr ""
+msgstr "Това позволява на системата да се върне в предишното си състояние, ако нещо се обърка"
 
 msgid "loading_backup_drivers"
-msgstr ""
+msgstr "Създава се резервно копие на драйвера"
 
 msgid "loading_backup_done"
-msgstr ""
+msgstr "Резервното копие на драйвера е създадено успешно"
 
 msgid "loading_button_finish"
 msgstr "Готово"
 
 msgid "loading_backup_failed"
-msgstr ""
+msgstr "Възникна грешка в процеса на създаване на резервно копие на драйвера"
 
 msgid "about_run_error"
-msgstr ""
+msgstr "Възникна проблем при работа на DriverPack Solution <br> <br> Ако проблемът продължава, изпратете ни e-mail на support@drp.su"
 
 msgid "loading_preparing"
-msgstr ""
+msgstr "Приложението е готово да се стартира..."
 
 msgid "loading_system_scanning"
-msgstr ""
+msgstr "Проверяваме конфигурацията на компютъра..."
 
 msgid "loading_sending_api_request"
-msgstr ""
+msgstr "Зареждаме данни от облачния сървър..."
 
 msgid "loading_checking_installed_programs"
-msgstr ""
+msgstr "Ние анализираме софтуера..."
 
 msgid "loading_ordering_drivers"
-msgstr ""
+msgstr "Създаваме ред за инсталиране на драйвера ..."
 
 msgid "menu_install_drivers"
-msgstr ""
+msgstr "Инсталиране на драйвери на компютъра"
 
 msgid "menu_drivers"
 msgstr "Драйвери"
 
 msgid "menu_install_programs"
-msgstr ""
+msgstr "Основна инсталация на софтуера на компютъра"
 
 msgid "menu_programs"
 msgstr "Софтуер"
 
 msgid "menu_protect_title"
-msgstr ""
+msgstr "Асистент за вашия антивирус"
 
 msgid "menu_protect_clean_up"
-msgstr ""
+msgstr "Защита и почистване"
 
 msgid "menu_computer_diagnostics"
-msgstr ""
+msgstr "Диагностика на състоянието на компютъра"
 
 msgid "menu_diagnostics"
 msgstr "Диагностика "
 
 msgid "menu_cloud_games_title"
-msgstr ""
+msgstr "Играйте най-модерните игри на всеки компютър"
 
 msgid "menu_cloud_games"
-msgstr ""
+msgstr "Игри"
 
 msgid "menu_cloud_games_new"
-msgstr ""
+msgstr "Новини"
 
 msgid "menu_settings"
 msgstr "Настройки"
 
 msgid "menu_bugreport"
-msgstr ""
+msgstr "Докладвайте за грешка"
 
 msgid "no-internet-screen_header-title"
-msgstr ""
+msgstr "Няма връзка със сървъра"
 
 msgid "no-internet-screen_guide-title"
-msgstr ""
+msgstr "Как да инсталирате всички необходими драйвери без интернет връзка?"
 
 msgid "no-internet-screen_guide-step-1"
-msgstr ""
+msgstr "Стъпка 1"
 
 msgid "no-internet-screen_guide-step-1-action"
-msgstr ""
+msgstr "Отидете на уеб сайта <span class=\"bold\">driverpack.io/bg/foradmin</span> като използвате друг компютър"
 
 msgid "no-internet-screen_guide-step-2"
-msgstr ""
+msgstr "Стъпка 2"
 
 msgid "no-internet-screen_guide-step-2-action"
-msgstr ""
+msgstr "Изтеглете <span class=\"bold\">DriverPack Offline Full</span> или <span class=\"bold\">DriverPack Offline Network</span> на USB флаш памет, за да инсталирате драйвери на компютъра без връзка с интернет<br /><br /> <span class=\"bold\"> DriverPack Offline Network</span> включва драйвери за мрежов хардуер (Lan / Wi-Fi), работи без интернет връзка (500 MB) <br /><br /> <span class=\"bold\">DriverPack Offline Full</span>включва всички драйвери и работи без интернет връзка"
 
 msgid "no-internet-screen_guide-step-complete"
 msgstr "Готово"
 
 msgid "no-internet-screen_guide-step-complete-action"
-msgstr ""
+msgstr "Стартирайте приложението на този компютър и го конфигурирайте с едно кликване"
 
 msgid "programs_header_text_title"
-msgstr ""
+msgstr "Всичкия полезен софтуер на едно място"
 
 msgid "programs_btn_install_all"
-msgstr ""
+msgstr "Инсталирайте необходимите софтуерни програми <b>({{COUNT}})</b>"
 
 msgid "programs_header_text_caption"
-msgstr ""
+msgstr "Не е нужно вече да търсите софтуерните програми една по една. Можете лесно да инсталирате всичко с едно кликване."
 
 msgid "drivers_program_counter"
-msgstr ""
+msgstr "Препоръчителен софтуер"
 
 msgid "protect_row_rating"
-msgstr ""
+msgstr "Оценка:"
 
 msgid "protect_row_size"
-msgstr ""
+msgstr "Размер:"
 
 msgid "protect_row_publisher"
-msgstr ""
+msgstr "Издател:"
 
 msgid "protect_row_version"
 msgstr "Версия:"
 
 msgid "protect_row_install_date"
-msgstr ""
+msgstr "Дата на инсталиране:"
 
 msgid "protect_rating_level_large"
-msgstr ""
+msgstr "ние препоръчваме да премахнете това"
 
 msgid "protect_rating_level_middle"
-msgstr ""
+msgstr "може да премахнете това"
 
 msgid "protect_rating_level_small"
-msgstr ""
+msgstr "можете да запазите това"
 
 msgid "protect_rating_level_large_caption"
-msgstr ""
+msgstr "Препоръчваме ви да премахнете този софтуер, защото 70% от всички потребители го премахват."
 
 msgid "protect_uninstall_single"
-msgstr ""
+msgstr "премахване"
 
 msgid "protect_clean_up_btn"
-msgstr ""
+msgstr "Защитете и почистете компютъра"
 
 msgid "protect_remove_all_btn_uninstalling"
-msgstr ""
+msgstr "Този подозрителен софтуер ще бъде премахнат: {{COUNT}}"
 
 msgid "protect_remove_all_btn_installing"
-msgstr ""
+msgstr "Ще бъде инсталиран този важен софтуер: {{COUNT}}"
 
 msgid "protect_installed-programs_api_failed"
-msgstr ""
+msgstr "Няма интернет връзка. Необходима е мрежова връзка, за да видите списък на софтуера на вашия компютър."
 
 msgid "protect_installed-programs_no_harmful"
-msgstr ""
+msgstr "На компютъра ви не е открит нежелан софтуер"
 
 msgid "protect_clean_up_header_title"
-msgstr ""
+msgstr "DriverPack Protect — защита и почистване на вашия компютър"
 
 msgid "protect_clean_up_header_caption"
-msgstr ""
+msgstr "DriverPack Protect ще почисти от нежелан софтуер и ще осигури защита на компютъра ви като допълнение към вашите антивирусни възможности, като например: откриване, премахване и блокиране на злонамерен софтуер и натрапчиви реклами"
 
 msgid "protect_installed_programs_title"
-msgstr ""
+msgstr "Софтуер, инсталиран на компютъра"
 
 msgid "protect_installed_programs_switch"
-msgstr ""
+msgstr "Показва само подозрителния софтуер"
 
 msgid "protect_show_more"
 msgstr "Покажи още"
 
 msgid "protect_security_programs_title"
-msgstr ""
+msgstr "Важен софтуер за сигурността"
 
 msgid "settings-header_title"
-msgstr ""
+msgstr "Настройки за напреднали потребители"
 
 msgid "settings-header_caption"
-msgstr ""
+msgstr "DriverPack е създаден специално за администраторите, но е ясен и удобен дори за начинаещи потребители. Използвайки го, милиони системни администратори в световен мащаб могат не само да конфигурират компютрите бързо, но и да персонализират DriverPack според собствените си нужди и задачи. Новият алгоритъм за подбор инсталира драйвери, които позволяват на вашите устройства да работят с максимална ефективност. Опитайте DriverPack — сигурни сте, че ще ви хареса!"
 
 msgid "settings-screen_license"
 msgstr "Лицензионни условия"
 
 msgid "start_title"
-msgstr ""
+msgstr "Автоматизирано конфигуриране на {{MODEL}}"
 
 msgid "start_button_install"
-msgstr ""
+msgstr "Конфигурирайте компютъра автоматично"
 
 msgid "start_caption"
-msgstr ""
+msgstr "DriverPack ще сканира системата, ще инсталира необходимите<br/>драйвери и софтуера и ще извърши диагностика. <br/>Ефективността на компютъра трябва да се увеличи."
 
 msgid "start_license"
 msgstr "Лицензионни условия"
 
 msgid "start_expert_mode"
-msgstr ""
+msgstr "Експертен режим"
 
 msgid "start_drivers_title"
 msgid_plural "start_drivers_title_n"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{{COUNT}} драйвери ще бъдат инсталирани"
+msgstr[1] "{{COUNT}} драйвери ще бъдат инсталирани "
 
 msgid "start_drivers_popover"
-msgstr ""
+msgstr "Драйверите за вашия компютър са избрани и са готови за инсталиране. Преди да започне, ще бъде създадена точка за възстановяване."
 
 msgid "start_programs_title"
 msgid_plural "start_programs_title_n"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{{COUNT}} приложения ще бъдат инсталирани "
+msgstr[1] "{{COUNT}} приложения ще бъдат инсталирани "
 
 msgid "start_programs_popover"
-msgstr ""
+msgstr "За компютъра са избрани следните безплатни препоръчвани софтуерни програми: антивируси, архиватори, браузъри и драйвери  — всичко, което може да бъде полезно за удобна работа."
 
 msgid "start_programs_eula"
 msgstr "Лицензионни условия"
@@ -1242,172 +1242,172 @@ msgid "start_programs_policy"
 msgstr "Правила за поверителност"
 
 msgid "start_diagnostics_title"
-msgstr ""
+msgstr "Ще се извърши диагностика на"
 
 msgid "start_diagnostics_popover"
-msgstr ""
+msgstr "Веднага след като инсталацията и рестартирането на системата бъдат завършени, DriverPack ще започне диагностика, за да провери дали всички устройства работят с максимална ефективност."
 
 msgid "start_diagnostics_network"
-msgstr ""
+msgstr "Проверка на мрежовата връзка"
 
 msgid "start_diagnostics_video"
-msgstr ""
+msgstr "Проверка на видеокартата"
 
 msgid "start_diagnostics_audio"
-msgstr ""
+msgstr "Проверка на звукова карта"
 
 msgid "start_diagnostics_other"
-msgstr ""
+msgstr "Проверка на други устройства"
 
 msgid "delorean_use_remote_confirm"
-msgstr ""
+msgstr "На компютъра ви е открита активна интернет връзка. Пълната база данни на драйверите е достъпна онлайн и съдържа най-новите версии. Искате ли да използвате базата данни от мрежата? (възможно е използването на трафик)"
 
 msgid "games_playkey_top_witcher_3_demo"
-msgstr ""
+msgstr "The Witcher III Wild Hunt"
 
 msgid "games_playkey_top_doom_demo"
-msgstr ""
+msgstr "Doom"
 
 msgid "games_playkey_top_sid_meiers_civilization_vi_demo"
-msgstr ""
+msgstr "Sid Meier’s Civilization VI"
 
 msgid "games_playkey_top_resident_evil_7_demo"
-msgstr ""
+msgstr "Resident Evill VII Biohazard"
 
 msgid "games_playkey_top_gta_5"
-msgstr ""
+msgstr "Grand Theft Auto V"
 
 msgid "games_playkey_top_overwatch"
-msgstr ""
+msgstr "Overwatch"
 
 msgid "installation_header_promo_title_cloud"
-msgstr ""
+msgstr "Нещо ново: DriverPack Cloud Beta"
 
 msgid "installation_header_promo_text_cloud"
-msgstr ""
+msgstr "Новият ни инструмент прогнозира някои аварии, дължащи се на технологията на машинното обучение, и предлага решения за често срещани проблеми.<br>Проверете бета версията и не забравяйте да споделите вашите впечатления  — това ще ни помогне да подобрим DriverPack Cloud и да го направим още по-полезен."
 
 msgid "installation_header_promo_title_avast"
-msgstr ""
+msgstr "Какво прави Avast по-добър от други антивируси?"
 
 msgid "installation_header_promo_text_avast"
-msgstr ""
+msgstr "Avast е един от най-популярните антивирусни програми в света, защото предпазва компютъра добре, не забавя системата и може ефективно да работи като допълнителен антивирус. <br /> Още по-добре, това е безплатно, така че наистина заслужава нашата препоръка."
 
 msgid "installation_header_promo_title_catalog"
-msgstr ""
+msgstr "Как да намерите драйверите сами?"
 
 msgid "installation_header_promo_text_catalog"
-msgstr ""
+msgstr "За тези, които предпочитат ръчно да търсят драйвери, създадохме специална търсачка, която ви позволява да намирате драйвери, като въведете DeviceID или име. Базата данни на тази търсачка съдържа повече от един милион драйвери, което я прави най-голямата в света. Тази търсачка редовно се разширява с нови драйвери, които са тествани ръчно, което позволява да остане напълно актуализирана."
 
 msgid "installation_header_promo_title_authorization"
-msgstr ""
+msgstr "Влезте, за да запазите настройките"
 
 msgid "installation_header_promo_text_authorization"
-msgstr ""
+msgstr "Като потребител, влезли в профила си, вече няма да е необходимо да коригирате отново настройките на всеки компютър — те ще бъдат запазени на ниво профил и ще бъдат активирани автоматично и на всяко друго устройство. Потребителите, които влизат в системата, също имат достъп до сървърите на CDN, които допринасят за по-бързи скорости на изтегляне на драйвери. Друго важно предимство при влизането в профила е достъпът до разширените настройки, които ви позволяват да персонализирате приложението още повече, в зависимост от вашите нужди."
 
 msgid "installation_header_promo_title_opera"
-msgstr ""
+msgstr "Какво е хубавото на Opera Browser?"
 
 msgid "installation_header_promo_text_opera"
-msgstr ""
+msgstr "Opera е сигурен времеви браузър, който има редица иновационни технологии, включително вградена VPN, AdBlock, която елиминира натрапчивата реклама и възможност за гледане на видео в отделен прозорец. Освен това, най-новата версия на този браузър изтегля всички уебсайтове с 13% по-бързо от предишните, което прави Opera най-бързия браузър в момента."
 
 msgid "installation_header_promo_title_how_it_works"
-msgstr ""
+msgstr "Как работи DriverPack?"
 
 msgid "installation_header_promo_text_how_it_works"
-msgstr ""
+msgstr "Работата с приложението започва с диагностика, по време на която самият софтуер определя кои устройства трябва да бъдат инсталирани или актуализирани. Благодарение на технологията за машинно обучение, DriverPack избира точно тези драйвери, които могат да осигурят най-висока ефективност. За да може приложението ни да конфигурира всеки компютър, сме събрали най-голямата база данни за драйвери в света, която включва повече от един милион драйвери. В допълнение, ние използваме високоскоростни сървъри и Cloud технология, което ви позволява да конфигурирате компютъра си както с високо качество, така и бързо."
 
 msgid "installation_header_promo_title_win_10"
-msgstr ""
+msgstr "Защо трябва да актуализирате драйверите на Windows 10?"
 
 msgid "installation_header_promo_text_win_10"
-msgstr ""
+msgstr "Има мит, че Windows 10 е в състояние да инсталира всички необходими драйвери на компютъра правилно и сам. За съжаление, това не е вярно — в повечето случаи Windows 10 инсталира само стандартните драйвери, без да ги избира индивидуално за всяко устройство. Що се отнася до рядкото и остарелите драйвери, то често не ги има. За щастие има DriverPack, който избира драйверите много по-задълбочено.<br /><br />"
 
 msgid "installation_header_promo_title_social"
 msgstr "Присъединете се към общността на DriverPack"
 
 msgid "installation_header_promo_text_social"
-msgstr ""
+msgstr "В нашите обществени групи винаги отговаряме на вашите въпроси за софтуера, споделяме информация за нашите актуализации и технологии и ви разказваме за значими новини и тенденции в ИТ индустрията."
 
 msgid "installation_header_promo_title_protect"
-msgstr ""
+msgstr "Как DriverPack Protect помага на компютъра?"
 
 msgid "installation_header_promo_text_protect"
-msgstr ""
+msgstr "Тя ще ви помогне да почистите компютъра си с допълнителни софтуерни и рекламни приставки, които антивирусите често не успеят да премахнат. DriverPack Protect също ви дава възможност да освободите повече място на твърдия диск и да увеличите ефективността на компютъра си."
 
 msgid "installation_header_promo_title_restore"
-msgstr ""
+msgstr "Точка за възстановяване на системата"
 
 msgid "installation_header_promo_text_restore"
-msgstr ""
+msgstr "DriverPack винаги създава точка за възстановяване преди инсталирането на драйвера.<br /><br /> Можете да го използвате, за да върнете системата си в предишното си състояние по всяко време, в случай че нещо се обърка."
 
 msgid "installation_header_promo_title_browsers"
-msgstr ""
+msgstr "Друг добър браузър не може да бъде допълнително"
 
 msgid "installation_header_promo_text_browsers"
-msgstr ""
+msgstr "Според статистическите данни повече от 70% от хората използват поне два браузъра, което е съвсем логично за тези, които са активни в интернет. Всеки браузър, който препоръчваме да инсталирате, има свои предимства: Yandex.Browser е идеален за работа в руски език; хората избират Opera.Browser за възможността да посещават уебсайтове лесно и анонимно, като използват VPN; а армията на привържениците на Firefox не може да се раздели с всички приставки и разширения, които са събрани за по-добро интернет изживяване. Защо не разполагате с всички налични и на ръка? Те не забавят компютъра и могат да бъдат например полезни при различни компоненти на вашата работа."
 
 msgid "installation_header_promo_title_driverpack_for_all"
-msgstr ""
+msgstr "DriverPack е подходящ за всеки компютър"
 
 msgid "installation_header_promo_text_driverpack_for_all"
-msgstr ""
+msgstr "Създадохме инструмента, който дава възможност конфигурацията на всеки компютър да бъде напълно автоматична. DriverPack съдържа повече от един милион драйвери, което позволява да конфигурирате всеки компютър само с един бутон. В резултат на това получавате инсталирани драйвери и помощни програми, внимателно избран софтуер (който е интегрираната част от конфигурирането), както и диагностиката на вашия компютър. Това означава, че DriverPack бързо конфигурира целия компютър с максимална ефективност само с едно кликване върху бутон."
 
 msgid "softcategories_archiver-single-for"
-msgstr ""
+msgstr "файлов архиватор"
 
 msgid "softcategories_browser-single-for"
-msgstr ""
+msgstr "браузър"
 
 msgid "softcategories_viewer-single-for"
-msgstr ""
+msgstr "софтуер за преглед на файлове"
 
 msgid "softcategories_messenger-single-for"
-msgstr ""
+msgstr "софтуер за съобщения"
 
 msgid "softcategories_internet-single-for"
-msgstr ""
+msgstr "софтуер за работа в интернет мрежата"
 
 msgid "softcategories_player-single-for"
-msgstr ""
+msgstr "медия плеър"
 
 msgid "softcategories_backup-single-for"
-msgstr ""
+msgstr "инструмент за създаване на резервни копия"
 
 msgid "softcategories_antivirus-single-for"
-msgstr ""
+msgstr "антивирус"
 
 msgid "softcategories_system-plural-for"
-msgstr ""
+msgstr "системни инструменти"
 
 msgid "softcategories_drivers-plural-for"
-msgstr ""
+msgstr "инструменти за правилното функциониране на драйверите"
 
 msgid "installation_application_restart_confirm_text_1"
-msgstr ""
+msgstr "Препоръчваме да затворите всички останали активни програми, докато драйверите се инсталират"
 
 msgid "installation_application_restart_confirm_text_2"
-msgstr ""
+msgstr "Ето списъка с процесите, които ще бъдат затворени за времето за инсталиране и след това ще бъдат рестартирани автоматично:"
 
 msgid "installation_application_restart_confirm_title"
-msgstr ""
+msgstr "Препоръки"
 
 msgid "deviceproblems_usb_connection"
-msgstr ""
+msgstr "Невъзможно е да инсталирате драйвери на това устройство поради проблеми с USB порт. За да разрешите този проблем, опитайте да свържете отново USB устройствата си или да замените свързаните с тях кабели. Ако това не помогне, може да имате проблеми с портовете или самите устройства."
 
 msgid "deviceproblems_root_legacy"
-msgstr ""
+msgstr "Това устройство не е във вашата система, но са останали следи от него системата, след като поддържащият го софтуер е премахнат. За да разрешите този проблем, трябва да изтриете всяка информация за това устройство в регистъра, ръчно или чрез използване на конкретни помощни програми."
 
 msgid "deviceproblems_vpn_no_need_drivers"
-msgstr ""
+msgstr "Не се изисква инсталиране на драйвери за това виртуално VPN устройство"
 
 msgid "deviceproblems_damaged_system_driver"
-msgstr ""
+msgstr "Това е стандартен системен драйвер, който по някаква причина е повреден или липсва във вашата версия на Windows. Една от възможните причини  е да е бил премахнат в пиратска версия на Windows или загуба на файла в резултат на страничното въздействие на някой софтуер или вируси. За да разрешите този проблем, трябва да инсталирате напълно лицензирана версия на Windows"
 
 msgid "deviceproblems_usb_unknown_vendor"
-msgstr ""
+msgstr "Свързаното USB устройство е инсталирано, но неговият производител не може да бъде определен. За да отстраните това, трябва да зададете автоматично стартиране за услугата Windows Driver Foundation. Отворете раздела Управление на компютъра → раздел Услуги → раздел Windows Driver Foundation и след това изберете опцията \"Тип стартиране: автоматично\""
 
 msgid "deviceproblems_sound_card"
-msgstr ""
+msgstr "Звуковата карта е свързана неправилно или има някои проблеми с нейната работа"
 
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
