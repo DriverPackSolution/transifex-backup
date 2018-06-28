@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-31 11:33+0000\n"
+"POT-Creation-Date: 2018-06-22 15:56+0000\n"
 "PO-Revision-Date: 2016-02-25 10:55+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>, 2017\n"
 "Language-Team: Belarusian (https://www.transifex.com/driverpack-solution/teams/75452/be/)\n"
@@ -232,7 +232,7 @@ msgid "activate_recommendations_button_protect"
 msgstr ""
 
 msgid "programs_about"
-msgstr ""
+msgstr "Падрабязней"
 
 msgid "programs_eula"
 msgstr "Ліцэнзійнае пагадненне"
@@ -543,9 +543,6 @@ msgstr "Ліцэнзійнае Пагадненне з канчатковым к
 
 msgid "confirm_popup_policy-link"
 msgstr "Палітыку Прыватнасці"
-
-msgid "confirm_popup_install_button_ok"
-msgstr "Добра"
 
 msgid "confirm_popup_install_button"
 msgstr "Прыняць і ўсталяваць"
@@ -909,7 +906,7 @@ msgid "installation_header_promo_fb"
 msgstr "Супольнасць на Facebook"
 
 msgid "installation_header_promo_license"
-msgstr ""
+msgstr "Ліцэнзійнае пагадненне"
 
 msgid "installation_item_category_restorepoint"
 msgstr "Кропка аднаўлення"
@@ -1181,14 +1178,23 @@ msgstr "Версія:"
 msgid "protect_row_install_date"
 msgstr "Дата ўсталёўкі:"
 
+msgid "protect_rating_level_large_appesteem"
+msgstr ""
+
 msgid "protect_rating_level_large"
 msgstr "рэкамендуем выдаліць"
+
+msgid "protect_rating_level_middle_appesteem"
+msgstr "Усталявана з невядомай крыніцы"
 
 msgid "protect_rating_level_middle"
 msgstr "можна выдаліць"
 
 msgid "protect_rating_level_small"
 msgstr "можна не выдаляць"
+
+msgid "protect_rating_level_large_caption_appesteem"
+msgstr "70% нашых карыстачоў выдаляюць гэту праграму"
 
 msgid "protect_rating_level_large_caption"
 msgstr "Рэкамендуем выдаліць гэту праграму, таму што яе падаляюць больш 70% карыстачоў."
@@ -1220,6 +1226,9 @@ msgstr "DriverPack Protect ачысціць ад непажаданага ПА �
 msgid "protect_installed_programs_title"
 msgstr "Усталяваныя на кампутары праграмы"
 
+msgid "protect_installed_programs_switch_appesteem"
+msgstr ""
+
 msgid "protect_installed_programs_switch"
 msgstr "Паказваць толькі сумнеўныя"
 
@@ -1239,7 +1248,7 @@ msgid "settings-screen_license"
 msgstr "Ліцэнзійнае пагадненне"
 
 msgid "start_button_install_drivers"
-msgstr ""
+msgstr "Усталяваць усе драйверы"
 
 msgid "start_button_install"
 msgstr "Наладзіць кампутар аўтаматычна"
@@ -1254,7 +1263,7 @@ msgid "start_expert_mode"
 msgstr "Рэжым эксперта"
 
 msgid "start_expert_mode_label"
-msgstr ""
+msgstr "Пашыраныя налады"
 
 msgid "start_license"
 msgstr "Ліцэнзійнае пагадненне"
@@ -1277,10 +1286,10 @@ msgstr "Драйверы для вашага кампутара падабран
 
 msgid "start_programs_title_driver_utils"
 msgid_plural "start_programs_title_n"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgstr[0] "Будзе ўсталявана {{COUNT}} драйверная ўтыліта"
+msgstr[1] "Будзе ўсталявана {{COUNT}} драйверных утыліты"
+msgstr[2] "Будзе ўсталявана {{COUNT}} драйверных утыліт"
+msgstr[3] "Будзе ўсталявана {{COUNT}} драйверных утыліты"
 
 msgid "start_programs_title"
 msgid_plural "start_programs_title_n"
@@ -1469,3 +1478,6 @@ msgstr "Гукавая карта няправільна падлучана аб
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Belarusian"
+
+#~ msgid "confirm_popup_install_button_ok"
+#~ msgstr "Добра"

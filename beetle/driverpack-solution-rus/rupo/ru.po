@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-31 11:33+0000\n"
+"POT-Creation-Date: 2018-06-22 15:56+0000\n"
 "PO-Revision-Date: 2016-02-25 10:55+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -215,16 +215,16 @@ msgid "deviceclasses_other-plural-for"
 msgstr "прочих устройств"
 
 msgid "activate_recommendations_title_programs"
-msgstr "Рекомендации по программному обеспечению отключены"
+msgstr "Наши рекомендации по программному обеспечению отключены"
 
 msgid "activate_recommendations_title_protect"
-msgstr "Рекомендации по программному обеспечению защиты отключены"
+msgstr "Наши рекомендации по защитному программному обеспечению отключены"
 
 msgid "activate_recommendations_button_programs"
-msgstr "Включить рекомендации по программному обеспечению"
+msgstr "Включить наши рекомендации по программному обеспечению"
 
 msgid "activate_recommendations_button_protect"
-msgstr "Включить рекомендации по программному обеспечению защиты"
+msgstr "Включить наши рекомендации по защитному программному обеспечению отключены"
 
 msgid "programs_about"
 msgstr "Подробнее"
@@ -539,9 +539,6 @@ msgstr "Лицензионное Соглашение с конечным пол
 msgid "confirm_popup_policy-link"
 msgstr "Политику Конфиденциальности"
 
-msgid "confirm_popup_install_button_ok"
-msgstr "Хорошо"
-
 msgid "confirm_popup_install_button"
 msgstr "Принять и установить"
 
@@ -552,7 +549,7 @@ msgid "confirm_popup_cancel_button"
 msgstr "Отказаться"
 
 msgid "confirm_popup_cancel_all_button"
-msgstr "Отказаться от всех (3 програм.)"
+msgstr "Отказаться от всех ({{COUNT}}) программ"
 
 msgid "diagnostics_section_title"
 msgstr "Диагностика системы"
@@ -1156,7 +1153,7 @@ msgid "programs_header_text_caption"
 msgstr "Больше нет необходимости искать программы по отдельности&nbsp;— все можно установить в один клик."
 
 msgid "drivers_program_recommend"
-msgstr "Программы, рекомендуемые DriverPack"
+msgstr "Программное обеспечение, рекомендованное компанией DriverPack"
 
 msgid "drivers_program_counter"
 msgstr "Рекомендуемые программы"
@@ -1176,14 +1173,23 @@ msgstr "Версия:"
 msgid "protect_row_install_date"
 msgstr "Дата установки:"
 
+msgid "protect_rating_level_large_appesteem"
+msgstr "Установлено из неизвестного источника (70% пользователей удаляют эту программу)"
+
 msgid "protect_rating_level_large"
 msgstr "рекомендуем удалить"
+
+msgid "protect_rating_level_middle_appesteem"
+msgstr "Установлено из неизвестного источника"
 
 msgid "protect_rating_level_middle"
 msgstr "можно удалить"
 
 msgid "protect_rating_level_small"
 msgstr "можно не удалять"
+
+msgid "protect_rating_level_large_caption_appesteem"
+msgstr "70% наших пользователей удаляют эту программу"
 
 msgid "protect_rating_level_large_caption"
 msgstr "Рекомендуем удалить эту программу, потому что ее удаляют более 70% пользователей."
@@ -1214,6 +1220,9 @@ msgstr "DriverPack Protect очистит от нежелательного ПО
 
 msgid "protect_installed_programs_title"
 msgstr "Установленные на компьютере программы"
+
+msgid "protect_installed_programs_switch_appesteem"
+msgstr "Отобразить только программы с низким рейтингом"
 
 msgid "protect_installed_programs_switch"
 msgstr "Показывать только сомнительные"
@@ -1255,7 +1264,7 @@ msgid "start_license"
 msgstr "Лицензионное соглашение"
 
 msgid "footer_site"
-msgstr "Удаление программы"
+msgstr "Удаление DriverPack"
 
 msgid "start_drivers_title"
 msgid_plural "start_drivers_title_n"
@@ -1265,7 +1274,7 @@ msgstr[2] "Будет установлено {{COUNT}} драйверов"
 msgstr[3] "Будет установлено {{COUNT}} драйвера"
 
 msgid "start_drivers_utils_popover"
-msgstr "Драйверы и драйверные утилиты, необходимые для корректной работы драйверов, подобраны для вашего компьютера и готовы к установке. Перед установкой будет создана контрольная точка восстановления."
+msgstr "Драйверы и драйверные утилиты, необходимые для корректной работы ваших драйверов, подобраны и готовы к установке. Перед началом процесса установки будет создана точка восстановления."
 
 msgid "start_drivers_popover"
 msgstr "Драйверы для вашего компьютера подобраны и готовы к установке. Перед установкой будет создана контрольная точка восстановления."
@@ -1464,3 +1473,6 @@ msgstr "Звуковая карта неправильно подключена 
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Russian"
+
+#~ msgid "confirm_popup_install_button_ok"
+#~ msgstr "Хорошо"
