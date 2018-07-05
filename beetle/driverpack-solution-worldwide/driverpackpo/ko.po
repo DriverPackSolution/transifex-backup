@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-05-31 11:33+0000\n"
-"PO-Revision-Date: 2018-05-31 13:20+0000\n"
+"PO-Revision-Date: 2018-07-02 06:36+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Korean (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/ko/)\n"
 "MIME-Version: 1.0\n"
@@ -481,31 +481,31 @@ msgid "menu_cmd"
 msgstr "명령줄"
 
 msgid "configurator-screen_downloading"
-msgstr ""
+msgstr "다운로드 중: {{DOWNLOADED_SIZE}} / {{TOTAL_SIZE}}"
 
 msgid "configurator-screen_title"
-msgstr ""
+msgstr "귀하의 DriverPack Offline 빌드"
 
 msgid "configurator-screen_caption"
-msgstr ""
+msgstr "인터넷 연결없이 사용할 수 있는 드라이버를 선택하여 귀하의 자체 DriverPack 빌드를 다운로드 할 수 있습니다."
 
 msgid "configurator-screen_btn"
-msgstr ""
+msgstr "DriverPack Offline 다운로드 – {{COUNT}}"
 
 msgid "configurator-screen_completed"
-msgstr ""
+msgstr "다운로드가 완료되었습니다"
 
 msgid "configurator-screen_open-downloads"
-msgstr ""
+msgstr "다운로드 폴더 열기"
 
 msgid "configurator-screen_fail"
-msgstr ""
+msgstr "다운로드 오류"
 
 msgid "configurator-screen_retry"
-msgstr ""
+msgstr "다시 한번 시도해보세요."
 
 msgid "configurator-screen_params"
-msgstr ""
+msgstr "매개 변수 다운로드"
 
 #. i18n: EN: text for {{LINK.EULA}} is in key confirm_popup_eula-link; text
 #. for {{LINK.POLICY}} is in key confirm_popup_policy-link; RU: текст для
@@ -829,13 +829,13 @@ msgid "games_playkey_create_account_button"
 msgstr "PlayKey 에 계정 생성"
 
 msgid "gdpr-banner_text"
-msgstr ""
+msgstr "귀하의 장치에 적합한 드라이버를 선택하기 위해 우리는 사용권 계약 조건에 따라 귀하의 컴퓨터에 대한 데이터를 수집합니다. 귀하의 동의를 확인해 주시면 앱의 완전한 동작을 할 수 있게 될 것입니다."
 
 msgid "gdpr-banner_decline-btn"
-msgstr ""
+msgstr "거절"
 
 msgid "gdpr-banner_accept-btn"
-msgstr ""
+msgstr "확인"
 
 msgid "header_authorize_button"
 msgstr "로그인"
@@ -991,7 +991,7 @@ msgid "installation_progress_downloading_of"
 msgstr "/"
 
 msgid "installation_progress_downloaded"
-msgstr ""
+msgstr "다운로드 됨:"
 
 msgid "installation_progress_stage_downloading"
 msgstr "로딩 중…"
