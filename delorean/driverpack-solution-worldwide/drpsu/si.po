@@ -1,13 +1,15 @@
 # Translators:
 # Nadia Tegeneva <nadia@drp.su>, 2017
 # Pavithra Chathuranga Rathnayake (PC) <pcrajans@gmail.com>, 2017
+# Nimesh Kasun Ekanayake <nimesh.ekanayaka7@gmail.com>, 2018
+# Tharindu Udara Ranasinghe <rtharindu006@gmail.com>, 2018
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-13 15:41+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
-"Last-Translator: Pavithra Chathuranga Rathnayake (PC) <pcrajans@gmail.com>, 2017\n"
+"Last-Translator: Tharindu Udara Ranasinghe <rtharindu006@gmail.com>, 2018\n"
 "Language-Team: Sinhala (https://www.transifex.com/driverpack-solution/teams/75453/si/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -25,7 +27,7 @@ msgid "admindriverpacks_landing-title"
 msgstr "Driverpacks (මෙවලම් ධාවක පැකේජ)"
 
 msgid "admindriverpacks_landing-subtitle"
-msgstr ""
+msgstr "අපගේ driverpacks එකෙහි ඇතුලත් වනවා අතින් තෝරාගත් හා පරීක්ෂා කර ඇති ධාවක {{COUNT}} ක්."
 
 msgid "admindriverpacks_download"
 msgstr "බාගත කරන්න"
@@ -49,7 +51,7 @@ msgid "cloudfaq_landing-title"
 msgstr "අපි ඔබගේ ප්‍රශ්න වලට පිළිතුරු සපයන්නෙමු"
 
 msgid "cloudpagefooter_license-link"
-msgstr ""
+msgstr "බලපත්‍ර එකඟතාවය"
 
 msgid "breadcrumbs_main-text"
 msgstr "මුල් පිටුව"
@@ -66,7 +68,7 @@ msgstr "{{VENDOR.NAME}}"
 
 #. i18n: EN: Example: VENDOR.NAME=Lenovo; RU: Пример: VENDOR.NAME=Lenovo;
 msgid "breadcrumbs_vendorlanding-text"
-msgstr ""
+msgstr "{{VENDOR.NAME}} ධාවක "
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=cardreaders|monitors; RU: Пример:
 #. CLASS.PLURAL.MAIN=картридеры|мониторы;
@@ -150,7 +152,7 @@ msgid "devicecard_details-content-label-section"
 msgstr "වර්ගය:"
 
 msgid "devicecard_details-links-merged_label"
-msgstr ""
+msgstr "ඔබට අවශ්‍ය Device ID ලැයිස්තුවේ සොයාගත නොහැකි නම්, එය සෙවුම් රේඛාවට ඇතුළු කරන්න"
 
 msgid "devicecard_details-links-notebook_device"
 msgstr "සියලු ධාවක දක්වන්න"
@@ -167,7 +169,7 @@ msgstr "DriverPack බාගත කරගන්න"
 #. x86; Текст для {{DOWNLOAD}} находится в ключе devicecardlist_no-
 #. result_download-link;
 msgid "devicecardlist_no-results-device-text"
-msgstr ""
+msgstr "Windows {{OSVERSIONS}} සඳහා වූ {{DEVICENAME}} ධාවක නාමාවලියෙහි සොයාගත නොහැකි විය. ධාවකය ස්වයංක්‍රීයව තෝරා ගැනීම සඳහා {{DOWNLOAD}}."
 
 #. i18n: EN: Example: DEVICECLASS=chipsets|videocards; NOTEBOOK=Acer AO521;
 #. OSVERSIONS=Windows 10 x86; Text for {{DOWNLOAD}} is in key
@@ -176,14 +178,14 @@ msgstr ""
 #. OSVERSIONS=Windows 10 x86; Текст для {{DOWNLOAD}} находится в ключе
 #. devicecardlist_no-result_download-link;
 msgid "devicecardlist_no-results-notebook-text"
-msgstr ""
+msgstr "Windows {{OSVERSIONS}} සඳහා  වූ {{NOTEBOOK}} ලැප්ටොප් ධාවක නාමාවලියෙහි සොයාගත නොහැකි විය. ධාවකය ස්වයංක්‍රීයව තෝරා ගැනීම සඳහා {{DOWNLOAD}}."
 
 #. i18n: EN: Example: NOTEBOOK=Acer AO521; OSVERSIONS=Windows 10 x86; Text for
 #. {{DOWNLOAD}} is in key devicecardlist_no-result_download-link; RU: Пример:
 #. NOTEBOOK=Acer AO521; Пример: OSVERSIONS=Windows 10 x86; Текст для
 #. {{DOWNLOAD}} находится в ключе devicecardlist_no-result_download-link;
 msgid "devicecardlist_no-results-notebook-device-class-text"
-msgstr ""
+msgstr "Windows {{OSVERSIONS}} සඳහා  වූ {{NOTEBOOK}} ලැප්ටොප්  {{DEVICECLASS}} ධාවක නාමාවලියෙහි සොයාගත නොහැකි විය. ධාවකය ස්වයංක්‍රීයව තෝරා ගැනීම සඳහා {{DOWNLOAD}}."
 
 msgid "devicegrouppage_all-systems"
 msgstr "සියලු පද්ධති"
@@ -265,16 +267,16 @@ msgid "footer_banner-title"
 msgstr "ඔබගේ උපාංගය සඳහා ධාවක සොයමින් හිඳ ඔබ විඩාවට පත්වෙලාද?"
 
 msgid "footer_banner-caption"
-msgstr ""
+msgstr "DriverPack Online ඔබට අවශ්‍ය ධාවක ස්වයංක්‍රීයව <span style='color: {{COLOR}}'>සොයා ස්ථාපනය කරනු ලබයි</span>"
 
 msgid "footer_banner_btn"
 msgstr "<span class='bold'>DriverPack Online</span> නොමිලයේ බාගත කරගන්න"
 
 msgid "footer_translate-feedback"
-msgstr ""
+msgstr "ඔබ දෝෂයක් හෝ ටයිප් කිරීමේ වරදක් සොයාගෙන තිබේද?<br />එය අවධාරණය කර {{HOTKEY}} ඔබන්න "
 
 msgid "header_search-title"
-msgstr ""
+msgstr "විශාලතම දත්ත ගබඩාව මත <span class='bold'>ධාවක සවුම</span> — මිලියනයකට අධික ධාවකයන් "
 
 msgid "header_search-examples"
 msgstr "උදාහරණ ලෙස:"
@@ -289,25 +291,25 @@ msgid "header_cta-label-1"
 msgstr "එය ඉක්මනින්ම <span style='color: {{COLOR}}'>බාගත වෙනු අැත</span>"
 
 msgid "header_cta-label-2"
-msgstr ""
+msgstr "එය ස්වයංක්‍රීයව ධාවක <span style='color: {{COLOR}}'>සොයා ස්ථාපනය කරනු ඇත</span>"
 
 msgid "headerbutton_title"
 msgstr "ස්වයංක්‍රීයව ධාවක ස්ථාපනය කරන්න"
 
 msgid "headerbutton_label"
-msgstr ""
+msgstr "DriverPack මෘදුකාංගය සම්පූර්ණයෙන්ම නොමිලේ"
 
 msgid "headeros_cta-btn"
 msgstr "<span class='HeaderOs__cta-btn-marked'>{{OS}}</span> සඳහා ධාවක ස්ථාපනය කරන්න"
 
 msgid "headeros_search-text"
-msgstr ""
+msgstr "නැතහොත් අපගේ අතිරේක ධාවක ගබඩාවෙහි සෙවීම් භාවිතා කරන්න"
 
 msgid "landingdevicetypelist_landing-title"
-msgstr ""
+msgstr "DriverPack ඕනෑම උපාංගයක් සඳහා සුදුසු වේ"
 
 msgid "landingdevicetypelist_landing-subtitle"
-msgstr ""
+msgstr "Windows 7 SP1 හි USB 3.0 සඳහාද"
 
 msgid "landingdevicetypelist_cta-btn"
 msgstr "අවශ්‍යය සියලු ධාවක ස්ථාපනය කරන්න"
@@ -316,31 +318,31 @@ msgid "landingdevicetypelist_versions"
 msgstr "අනෙකුත් DriverPack සංස්කරණ"
 
 msgid "landingfeatures_landing-title"
-msgstr ""
+msgstr "පරිගණකය ක්‍රමවත්ව සැකසීම සඳහා වඩාත් පහසු සහ වේගවත්ම ක්‍රමය DriverPack වේ"
 
 msgid "landingfeatures_landing-subtitle"
-msgstr ""
+msgstr "මෙම මෘදුකාංගය නොමිලේ ලබා දෙයි, එමෙන්ම වෘත්තිකයන් සඳහා මෙන්ම එය ආරම්භකයින් සඳහා සුදුසු වේ"
 
 msgid "landingfeatures_item-title-free"
 msgstr "නොමිලයේ"
 
 msgid "landingfeatures_item-caption-free"
-msgstr ""
+msgstr "DriverPack නොමිලේ සපයනු ලැබේ"
 
 msgid "landingfeatures_item-title-safe"
 msgstr "අාරක්ෂිත බව"
 
 msgid "landingfeatures_item-caption-safe"
-msgstr ""
+msgstr "DriverPack නිල වශයෙන් ප්‍රතිවයිරස මෘදුකාංග නිෂ්පාදකයින් සමග සහයෝගී වන අතර, ඔබේ පරිගණකය ආරක්ෂා කරයි"
 
 msgid "landingfeatures_item-title-for-all-devices"
 msgstr "සියලු උපාංග සඳහා"
 
 msgid "landingfeatures_item-caption-for-all-devices"
-msgstr ""
+msgstr "ලෝකයේ ලොකුම ධාවක දත්ත සමුදාය DriverPack සතුව ඇත, ඕනෑම පරිගණකයක් ක්‍රමවත්ව සැකසීමට භාවිතා කල හැක"
 
 msgid "landingheader_cta-text"
-msgstr ""
+msgstr "DriverPack නොමිලේ ධාවක ස්ථාපනය කරනු ලබන අතර ඕනෑම උපාංගයක ධාවකයන්ගේ ගැටළු නිරාකරණය කරගත හැකිය"
 
 msgid "landingheader_cta-btn"
 msgstr "අවශ්‍යය සියලු ධාවක ස්ථාපනය කරන්න"
@@ -355,19 +357,19 @@ msgid "landingintroduction_author-title"
 msgstr "අායුබෝවන්! මගේ නම Artur Kuzyakov. DriverPackහි කතෘ සහ පුරෝගාමියා මමයි"
 
 msgid "landingintroduction_author-speech"
-msgstr ""
+msgstr "වසර 8 කට පෙර පිරිසිදු උනන්දුවකින් ලියූ කුඩා පරිගණක වැඩසටහනක් මගින්, ලොව පුරා මිලියන 40 කට වඩා වැඩි පිරිසක් ඔවුන්ගේ පරිගණක ක්‍රමවත්ව සැකසීමට දායක වී ඇති සමාගම බවට පරිවර්තනය වී ඇත!<br /><br />මේ කාලය තුළ, අපේ මෘදුකාංගය ඉතා වේගවත් හා ප්‍රබල වූවා. වර්තමානයේ, විශාලතම ධාවක ගබඩාව DriverPack වන අතර, ලොව පුරා අධි වේගවත් සේවාදායක පරිගණකයන්ගේ ස්ථාපනය කර ඇත. ධාවක ස්ථාපනය කිරීමේ ක්‍රියාවලිය සෑම විටම ඉතා ඉක්මණින් හා උසස් ප්‍රමිතියකින් යුතුව සිදු කිරීම සඳහා, අපගේ තෝරාගැනීමේ ඇල්ගොරිතම වඩාත් හොඳින් හා වඩා නිවැරදිව සිදු කරන යන්ත්‍ර තාක්ෂණයන් භාවිතා කරයි. අපි මේ සියල්ල අත්පත් කර ගෙන ඇත්තේ මෘදුකාංගය සම්පූර්ණයෙන්ම නොමිලේ ලබා ගත හැකි වන අතර සෑම කෙනෙකුම එය භාවිතා කළ හැකිවන අයුරිනි. <br /><br />මගේ කණ්ඩායම සහ මම අපේ නිෂ්පාදනය පිළිබඳව ආඩම්බර වේ, එමෙන්ම කෙටිම කාල රාමුවක් තුළ ඕනෑම පරිගණකයක් ක්‍රමවත්ව සැකසීම සඳහා ඔබගේ විශ්වසනීය උදව්කරු වනු ඇත."
 
 msgid "landingintroduction_author-speech-marked"
-msgstr ""
+msgstr "අපි ඔබගේ කාලය ඉතිරි කර ගැනීම සඳහා අපේ කාලය වැය කරන්නෙමු!"
 
 msgid "landingintroduction_video-caption"
-msgstr ""
+msgstr "මේ තිබෙන්නේ රුසියානු සමුහාණ්ඩු අග්‍රාමාත්‍ය දිමිත්‍රි මෙද්වෙදෙව් DriverPack Solution ගැන සිතනා අයුරුය."
 
 msgid "landingnotebookvendorslist_landing-title"
-msgstr ""
+msgstr "ඕනෑම පරිගණකයක් සඳහා DriverPack සුදුසු වේ"
 
 msgid "landingnotebookvendorslist_landing-subtitle"
-msgstr ""
+msgstr "ඔව්, ඕනෑම පරිගණකයකට - අපි පරික්ෂා කළා!"
 
 msgid "landingnotebookvendorslist_cta-btn"
 msgstr "අවශ්‍යය සියලු ධාවක ස්ථාපනය කරන්න"
@@ -376,16 +378,16 @@ msgid "landingnotebookvendorslist_versions"
 msgstr "අනෙකුත් DriverPack සංස්කරණ"
 
 msgid "landingproducts_cta-title"
-msgstr ""
+msgstr "ඔබගේ DriverPack එක තෝරාගන්න"
 
 msgid "landingproducts_cta-description"
-msgstr ""
+msgstr "ඔබට ගැලපෙන එකතුව බාගත කරගන්න "
 
 msgid "landingproducts_item-title-online"
 msgstr "DriverPack Online"
 
 msgid "landingproducts_item-description-online"
-msgstr ""
+msgstr "එය ෂණිකව බාගත වේ, අන්තර්ජාල පහසුකම් ඇති නම් සියලුම  යෙදුම්බා ගතවී ස්ථාපනය වේ. <span class='nobr'>({{SIZE}})</span>"
 
 msgid "landingproducts_item-version"
 msgstr "සංස්කරණ:"
@@ -394,37 +396,37 @@ msgid "landingproducts_item-button"
 msgstr "බාගත කරන්න"
 
 msgid "landingproducts_item-title-network"
-msgstr ""
+msgstr "DriverPack Offline Network"
 
 msgid "landingproducts_item-description-network"
 msgstr ""
 
 msgid "landingproducts_item-title-offline"
-msgstr ""
+msgstr "DriverPack Offline Full"
 
 msgid "landingproducts_item-description-offline"
 msgstr ""
 
 msgid "landingpublications__source-link"
-msgstr ""
+msgstr "වැඩිදුර කියවන්න"
 
 msgid "landingpublications__landing-title"
-msgstr ""
+msgstr "DriverPack පිළිබඳව ජනමාධ්‍ය ප්‍රකාශන"
 
 msgid "landingscreenshots_landing-title"
 msgstr ""
 
 msgid "landingscreenshots_landing-subtitle"
-msgstr ""
+msgstr "මෙම මෘදුකාංගය නොමිලේ ලබා දෙයි, එමෙන්ම වෘත්තිකයන් සඳහා මෙන්ම එය ආරම්භකයින් සඳහා සුදුසු වේ"
 
 msgid "landingsocial_landing-title"
-msgstr ""
+msgstr "DriverPack සමාජය සමඟ සම්බන්ධ වන්න"
 
 msgid "landingsocial_landing-subtitle"
 msgstr ""
 
 msgid "landingtopvideocardlist_landing-title"
-msgstr ""
+msgstr "ජනප්‍රිය වීඩියෝ කාඩ්පත් ආකෘති"
 
 msgid "landingtopvideocardlist_landing-caption"
 msgstr ""
@@ -445,7 +447,7 @@ msgid "landingwizard_landing-title"
 msgstr ""
 
 msgid "landingwizard_item-caption-download"
-msgstr ""
+msgstr "DriverPack Online බාගත කර ආරම්භ කරන්න"
 
 msgid "landingwizard_item-caption-setup"
 msgstr ""
@@ -460,13 +462,13 @@ msgid "navbar_download-link-short"
 msgstr "බාගත කරන්න"
 
 msgid "navbar_download-link"
-msgstr ""
+msgstr "DriverPack Online බාගත කරන්න"
 
 msgid "notfound_cta-text"
 msgstr ""
 
 msgid "notfound_cta-btn"
-msgstr ""
+msgstr "DriverPack Online බාගත කරන්න"
 
 msgid "notfound_info-404"
 msgstr ""
@@ -517,7 +519,7 @@ msgid "promoheader_cta-text-gamers-caption"
 msgstr ""
 
 msgid "promoheader_cta-text"
-msgstr ""
+msgstr "DriverPack නොමිලේ ධාවක ස්ථාපනය කරනු ලබන අතර ඕනෑම උපාංගයක ධාවකයන්ගේ ගැටළු නිරාකරණය කරගත හැකිය"
 
 msgid "promoheader_cta-btn"
 msgstr "අවශ්‍යය සියලු ධාවක ස්ථාපනය කරන්න"
@@ -970,7 +972,7 @@ msgid "cloudlandingpage_features-install"
 msgstr ""
 
 msgid "cloudlandingpage_license-link"
-msgstr ""
+msgstr "බලපත්‍ර එකඟතාවය"
 
 msgid "devicegrouppage_show-more-link"
 msgstr ""
@@ -1067,7 +1069,7 @@ msgid "thankyoupopup_cta-text"
 msgstr ""
 
 msgid "thankyoupopup_licence-link"
-msgstr ""
+msgstr "බලපත්‍ර එකඟතාවය"
 
 msgid "thankyoupopup_download-link"
 msgstr "බාගත කරන්න"

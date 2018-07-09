@@ -16,7 +16,7 @@ msgstr ""
 "Plural-Forms: nplurals=4; plural=(n == 1 && n % 1 == 0) ? 0 : (n == 2 && n % 1 == 0) ? 1: (n % 10 == 0 && n % 1 == 0 && n > 10) ? 2 : 3;\n"
 
 msgid "seo_landingtopvendorslist_drivers-for"
-msgstr ""
+msgstr "דרייברים עבור {{VENDOR}}"
 
 #. i18n: EN: Example: VENDOR.NAME=Asus; RU: Пример: VENDOR.NAME=Asus;
 msgid "seo_vendor-footer-anchor"
@@ -31,10 +31,10 @@ msgstr "{{NAME}}"
 
 #. i18n: EN: Example: NAME=Asus X550EA; RU: Пример: NAME=Asus X550EA;
 msgid "seo_notebookvendor-footer-anchor"
-msgstr ""
+msgstr "מחשבים ניידים של {{NOTEBOOK.VENDOR.NAME}}"
 
 msgid "seo_notebook-footer-anchor"
-msgstr ""
+msgstr "מחשבים ניידים מדגם {{NAME}}"
 
 msgid "seo_notebookdevices-footer-anchor"
 msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} {{CLASS.PLURAL.MAIN}}"
@@ -45,7 +45,7 @@ msgid "seo_deviceclass-footer-anchor"
 msgstr "{{CLASS.PLURAL.MAIN}}"
 
 msgid "seo_hwidos-footer-anchor"
-msgstr ""
+msgstr "דרייבר עבור Windows {{OS.NAME}}"
 
 msgid "seo_main-title"
 msgstr ""
@@ -81,7 +81,7 @@ msgid "seo_mainlanding-keywords"
 msgstr ""
 
 msgid "seo_mainlanding-topvendorslist-title"
-msgstr ""
+msgstr "יצרנים פופולריים"
 
 msgid "seo_mainlanding-topvendorslist-caption"
 msgstr ""
