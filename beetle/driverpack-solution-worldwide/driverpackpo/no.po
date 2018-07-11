@@ -6,9 +6,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-31 11:33+0000\n"
-"PO-Revision-Date: 2018-07-01 17:04+0000\n"
-"Last-Translator: Harry Eliassen <harryemail@gmail.com>\n"
+"POT-Creation-Date: 2018-07-04 13:20+0000\n"
+"PO-Revision-Date: 2018-07-09 21:21+0000\n"
+"Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Norwegian (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/no/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -216,6 +216,21 @@ msgstr "andre enheter"
 
 msgid "deviceclasses_other-plural-for"
 msgstr "andre enheter"
+
+msgid "activate_recommendations_title_programs"
+msgstr ""
+
+msgid "activate_recommendations_title_protect"
+msgstr ""
+
+msgid "activate_recommendations_button_programs"
+msgstr ""
+
+msgid "activate_recommendations_button_protect"
+msgstr ""
+
+msgid "programs_about"
+msgstr "Lær mer"
 
 msgid "programs_eula"
 msgstr "Lisensavtale "
@@ -527,9 +542,6 @@ msgstr "Sluttbruker Lisensavtale"
 msgid "confirm_popup_policy-link"
 msgstr "Personvernregler"
 
-msgid "confirm_popup_install_button_ok"
-msgstr "OK"
-
 msgid "confirm_popup_install_button"
 msgstr "Aksepter og installer"
 
@@ -538,6 +550,9 @@ msgstr "Programvare Installasjon"
 
 msgid "confirm_popup_cancel_button"
 msgstr "Avslå"
+
+msgid "confirm_popup_cancel_all_button"
+msgstr ""
 
 msgid "diagnostics_section_title"
 msgstr "System Diagnose"
@@ -869,6 +884,9 @@ msgstr "Vi oppretter gjenopprettingspunktet ..."
 msgid "installation_header_title"
 msgstr "Vi konfigurerer din datamaskin..."
 
+msgid "installation_header_promo_try"
+msgstr ""
+
 msgid "installation_header_promo_more"
 msgstr "lær mer"
 
@@ -877,6 +895,9 @@ msgstr "installer"
 
 msgid "installation_header_promo_fb"
 msgstr "Samfunnet på Facebook"
+
+msgid "installation_header_promo_license"
+msgstr "Lisensavtale "
 
 msgid "installation_item_category_restorepoint"
 msgstr "Tiløbakestillingspunkt"
@@ -1127,6 +1148,9 @@ msgstr "Installer nødvendige programmer <b>({{COUNT}})</b>"
 msgid "programs_header_text_caption"
 msgstr "Det er ikke nødvendig å lete etter programvare et etter et lenger. Du kan enkelt installere alt med ett klikk."
 
+msgid "drivers_program_recommend"
+msgstr ""
+
 msgid "drivers_program_counter"
 msgstr "Anbefalt programvare"
 
@@ -1145,14 +1169,23 @@ msgstr "Versjon:"
 msgid "protect_row_install_date"
 msgstr "Installasjonsdato:"
 
+msgid "protect_rating_level_large_appesteem"
+msgstr ""
+
 msgid "protect_rating_level_large"
 msgstr "vi anbefaler at du fjerner dette"
+
+msgid "protect_rating_level_middle_appesteem"
+msgstr ""
 
 msgid "protect_rating_level_middle"
 msgstr "du kan fjerne dette"
 
 msgid "protect_rating_level_small"
 msgstr "du kan beholde dette"
+
+msgid "protect_rating_level_large_caption_appesteem"
+msgstr ""
 
 msgid "protect_rating_level_large_caption"
 msgstr "Vi anbefaler at du fjerner denne programvaren fordi 70% av alle brukerne fjerner den."
@@ -1184,6 +1217,9 @@ msgstr "DriverPack Protect vil fjerne uønsket programvare og beskytte datamaski
 msgid "protect_installed_programs_title"
 msgstr "Programvare installert på datamaskinen"
 
+msgid "protect_installed_programs_switch_appesteem"
+msgstr ""
+
 msgid "protect_installed_programs_switch"
 msgstr "Bare vis den mistenkelige programvaren"
 
@@ -1202,28 +1238,45 @@ msgstr "DriverPack er opprettet spesielt for administratorer, men er klart og pr
 msgid "settings-screen_license"
 msgstr "Lisensavtale "
 
-msgid "start_title"
-msgstr "Automatisk konfigurering av {{MODEL}}"
+msgid "start_button_install_drivers"
+msgstr ""
 
 msgid "start_button_install"
 msgstr "Konfigurer din datamaskin automatisk"
 
+msgid "start_title"
+msgstr "Automatisk konfigurering av {{MODEL}}"
+
 msgid "start_caption"
 msgstr "DriverPack vil skanne systemet, installere nødvendige<br/>drivere og programvaresamt utføre diagnoser. <br/>Datamaskinens effektivitet bør da øke."
+
+msgid "start_expert_mode"
+msgstr "Ekspert Mode"
+
+msgid "start_expert_mode_label"
+msgstr ""
 
 msgid "start_license"
 msgstr "Lisensavtale "
 
-msgid "start_expert_mode"
-msgstr "Ekspert Mode"
+msgid "footer_site"
+msgstr "DriverPack fjerning"
 
 msgid "start_drivers_title"
 msgid_plural "start_drivers_title_n"
 msgstr[0] "{{COUNT}} driver vil bli installert"
 msgstr[1] "{{COUNT}} drivere vil bli installert"
 
+msgid "start_drivers_utils_popover"
+msgstr ""
+
 msgid "start_drivers_popover"
 msgstr "Driverne for datamaskinen din er valgt og er klare for installasjon. Før den starter, vil et gjenopprettingspunkt bli opprettet."
+
+msgid "start_programs_title_driver_utils"
+msgid_plural "start_programs_title_n"
+msgstr[0] ""
+msgstr[1] ""
 
 msgid "start_programs_title"
 msgid_plural "start_programs_title_n"
@@ -1350,6 +1403,12 @@ msgstr "DriverPack passer alle datamaskiner"
 msgid "installation_header_promo_text_driverpack_for_all"
 msgstr "Vi har laget verktøyet som gjør det mulig å konfigurere hvilken som helst datamaskin helt automatisk. DriverPack inneholder mer enn en million drivere, som gjør det mulig å konfigurere en hvilken som helst datamaskin med bare en knapp. Som et resultat får du installerte drivere og verktøy, nøye valgt programvare (som er den integrerte delen av konfigurering), samt diagnostikk av datamaskinen din. Dette betyr at DriverPack raskt konfigurerer hele datamaskinen til maksimal effektivitet med bare ett klikk."
 
+msgid "installation_header_promo_title_istart"
+msgstr ""
+
+msgid "installation_header_promo_text_istart"
+msgstr ""
+
 msgid "softcategories_archiver-single-for"
 msgstr "filarkiv"
 
@@ -1411,5 +1470,5 @@ msgstr "Lydkortet er koblet feil, eller det er noen problemer med driften"
 msgid "language_title"
 msgstr "Norwegian"
 
-#~ msgid "configurator-screen_save-to"
-#~ msgstr "Save to the following folder:"
+#~ msgid "confirm_popup_install_button_ok"
+#~ msgstr "OK"

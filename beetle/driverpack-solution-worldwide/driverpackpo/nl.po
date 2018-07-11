@@ -9,8 +9,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-31 11:33+0000\n"
-"PO-Revision-Date: 2018-06-23 11:34+0000\n"
+"POT-Creation-Date: 2018-07-04 13:20+0000\n"
+"PO-Revision-Date: 2018-07-10 07:22+0000\n"
 "Last-Translator: Henry Venema <henryvenema@hotmail.com>\n"
 "Language-Team: Dutch (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/nl/)\n"
 "MIME-Version: 1.0\n"
@@ -219,6 +219,21 @@ msgstr "andere apparaten"
 
 msgid "deviceclasses_other-plural-for"
 msgstr "andere apparaten"
+
+msgid "activate_recommendations_title_programs"
+msgstr "Onze aanbevelingen voor software zijn uitgeschakeld"
+
+msgid "activate_recommendations_title_protect"
+msgstr "Onze aanbevelingen voor beschermende software zijn uitgeschakeld"
+
+msgid "activate_recommendations_button_programs"
+msgstr "Schakel onze aanbevelingen voor software in"
+
+msgid "activate_recommendations_button_protect"
+msgstr "Schakel onze aanbevelingen voor beschermende software in"
+
+msgid "programs_about"
+msgstr "Kom meer te weten"
 
 msgid "programs_eula"
 msgstr "Licentieovereenkomst"
@@ -530,9 +545,6 @@ msgstr "Licentieovereenkomst voor eindgebruikers"
 msgid "confirm_popup_policy-link"
 msgstr "Privacybeleid"
 
-msgid "confirm_popup_install_button_ok"
-msgstr "OK"
-
 msgid "confirm_popup_install_button"
 msgstr "Accepteren en installeren"
 
@@ -541,6 +553,9 @@ msgstr "Software installatie"
 
 msgid "confirm_popup_cancel_button"
 msgstr "Weigeren"
+
+msgid "confirm_popup_cancel_all_button"
+msgstr "Weiger alle software ({{COUNT}})"
 
 msgid "diagnostics_section_title"
 msgstr "Systeemdiagnostiek"
@@ -872,6 +887,9 @@ msgstr "We creëren het herstelpunt ..."
 msgid "installation_header_title"
 msgstr "We configureren uw computer ..."
 
+msgid "installation_header_promo_try"
+msgstr "probeer het"
+
 msgid "installation_header_promo_more"
 msgstr "kom meer te weten"
 
@@ -880,6 +898,9 @@ msgstr "installeren"
 
 msgid "installation_header_promo_fb"
 msgstr "Gemeenschap op Facebook"
+
+msgid "installation_header_promo_license"
+msgstr "Licentieovereenkomst"
 
 msgid "installation_item_category_restorepoint"
 msgstr "Herstelpunt"
@@ -1130,6 +1151,9 @@ msgstr "Installeer de benodigde softwareprogramma's <b>({{COUNT}}) </b>"
 msgid "programs_header_text_caption"
 msgstr "Het is niet nodig om de software een voor een op te zoeken. U kunt alles eenvoudig met één klik installeren."
 
+msgid "drivers_program_recommend"
+msgstr "De software die wordt aanbevolen door DriverPack"
+
 msgid "drivers_program_counter"
 msgstr "Aanbevolen software"
 
@@ -1148,14 +1172,23 @@ msgstr "Versie:"
 msgid "protect_row_install_date"
 msgstr "Installatie datum:"
 
+msgid "protect_rating_level_large_appesteem"
+msgstr "Ongebruikelijke toepassing (70% van de gebruikers verwijdert het)"
+
 msgid "protect_rating_level_large"
 msgstr "we raden u aan dit te verwijderen"
+
+msgid "protect_rating_level_middle_appesteem"
+msgstr "Ongebruikelijke toepassing"
 
 msgid "protect_rating_level_middle"
 msgstr "je mag dit verwijderen"
 
 msgid "protect_rating_level_small"
 msgstr "je mag dit houden"
+
+msgid "protect_rating_level_large_caption_appesteem"
+msgstr "70% van onze gebruikers verwijderen deze applicatie"
 
 msgid "protect_rating_level_large_caption"
 msgstr "We raden u aan deze software te verwijderen omdat 70% van alle gebruikers het verwijdert."
@@ -1187,6 +1220,9 @@ msgstr "DriverPack Protect zal zich ontdoen van ongewenste software en beschermi
 msgid "protect_installed_programs_title"
 msgstr "Software geïnstalleerd op de computer"
 
+msgid "protect_installed_programs_switch_appesteem"
+msgstr "Toon alleen de ongebruikelijke toepassingen"
+
 msgid "protect_installed_programs_switch"
 msgstr "Toon alleen de verdachte software"
 
@@ -1205,28 +1241,45 @@ msgstr "DriverPack is speciaal gemaakt voor professionals, maar is ook helder en
 msgid "settings-screen_license"
 msgstr "Licentieovereenkomst"
 
-msgid "start_title"
-msgstr "Automatische configuratie van{{MODEL}}"
+msgid "start_button_install_drivers"
+msgstr "Installeer alle drivers"
 
 msgid "start_button_install"
 msgstr "Configureer de computer automatisch"
 
+msgid "start_title"
+msgstr "Automatische configuratie van{{MODEL}}"
+
 msgid "start_caption"
 msgstr "DriverPack zal het systeem scannen, het installeert de vereiste<br/>drivers & software en diagnostiek uitvoeren. <br/> De efficiëntie van de computer zou moeten toenemen."
+
+msgid "start_expert_mode"
+msgstr "Expert modus"
+
+msgid "start_expert_mode_label"
+msgstr "Geavanceerde instellingen"
 
 msgid "start_license"
 msgstr "Licentieovereenkomst"
 
-msgid "start_expert_mode"
-msgstr "Expert modus"
+msgid "footer_site"
+msgstr "DriverPack verwijderen"
 
 msgid "start_drivers_title"
 msgid_plural "start_drivers_title_n"
 msgstr[0] "{{COUNT}} driver word geïnstalleerd"
 msgstr[1] "{{COUNT}} drivers worden geïnstalleerd"
 
+msgid "start_drivers_utils_popover"
+msgstr "De drivers en driver-toolkits die nodig zijn voor de juiste werking van de computer zijn geselecteerd en kunnen worden geïnstalleerd."
+
 msgid "start_drivers_popover"
 msgstr "De drivers voor uw computer zijn geselecteerd en zijn klaar voor installatie. Voordat het wordt gestart, wordt er een herstelpunt gemaakt."
+
+msgid "start_programs_title_driver_utils"
+msgid_plural "start_programs_title_n"
+msgstr[0] "{{COUNT}} driver-toolkits worden geïnstalleerd "
+msgstr[1] "{{COUNT}} driver-toolkits worden geïnstalleerd"
 
 msgid "start_programs_title"
 msgid_plural "start_programs_title_n"
@@ -1353,6 +1406,12 @@ msgstr "DriverPack past op elke computer"
 msgid "installation_header_promo_text_driverpack_for_all"
 msgstr "We hebben de tool gemaakt waarmee u de configuratie van elke computer helemaal automatisch kunt maken. DriverPack bevat meer dan een miljoen drivers, waarmee u elke computer met slechts één knop kunt configureren. Als gevolg hiervan krijgt u geïnstalleerde drivers en hulpprogramma's, zorgvuldig geselecteerde software (die het geïntegreerde onderdeel is van configuratie), evenals de diagnose van uw computer. Dit betekent dat DriverPack snel uw volledige computer configureert tot maximale efficiëntie met slechts één klik op de knop."
 
+msgid "installation_header_promo_title_istart"
+msgstr "Houd je van nieuwe technologieën? Ondersteun een goed begin"
+
+msgid "installation_header_promo_text_istart"
+msgstr "Denkt u ook dat de zoekmachines verouderd zijn? Als dit het geval is, ondersteun dan een jong iStart-ontwikkelteam met een eigen mening over zoeken naar inhoud: een unieke zoekband, automatische verwijdering van advertenties, anonimiteit — en dit alles is nog maar het begin. Deze technologie ondergaat de fase van open alfatests, maar ze is al beschikbaar om te proberen."
+
 msgid "softcategories_archiver-single-for"
 msgstr "bestand archiveerder"
 
@@ -1414,5 +1473,5 @@ msgstr "De geluidskaart is verkeerd aangesloten of er zijn problemen met de werk
 msgid "language_title"
 msgstr "Dutch"
 
-#~ msgid "configurator-screen_save-to"
-#~ msgstr "Save to the following folder:"
+#~ msgid "confirm_popup_install_button_ok"
+#~ msgstr "OK"

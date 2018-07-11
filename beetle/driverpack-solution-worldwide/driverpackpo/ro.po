@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-31 11:33+0000\n"
-"PO-Revision-Date: 2018-06-02 08:48+0000\n"
+"POT-Creation-Date: 2018-07-04 13:20+0000\n"
+"PO-Revision-Date: 2018-07-09 21:22+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Romanian (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/ro/)\n"
 "MIME-Version: 1.0\n"
@@ -218,6 +218,21 @@ msgstr "alte dispozitive"
 
 msgid "deviceclasses_other-plural-for"
 msgstr "alte dispozitive"
+
+msgid "activate_recommendations_title_programs"
+msgstr ""
+
+msgid "activate_recommendations_title_protect"
+msgstr ""
+
+msgid "activate_recommendations_button_programs"
+msgstr ""
+
+msgid "activate_recommendations_button_protect"
+msgstr ""
+
+msgid "programs_about"
+msgstr "Află mai multe"
 
 msgid "programs_eula"
 msgstr "Termeni și Condiții"
@@ -529,9 +544,6 @@ msgstr ""
 msgid "confirm_popup_policy-link"
 msgstr ""
 
-msgid "confirm_popup_install_button_ok"
-msgstr ""
-
 msgid "confirm_popup_install_button"
 msgstr ""
 
@@ -540,6 +552,9 @@ msgstr ""
 
 msgid "confirm_popup_cancel_button"
 msgstr "Refuză"
+
+msgid "confirm_popup_cancel_all_button"
+msgstr ""
 
 msgid "diagnostics_section_title"
 msgstr "Diagnosticare Sistem"
@@ -876,6 +891,9 @@ msgstr "Creăm punctul de restaurare..."
 msgid "installation_header_title"
 msgstr "Configurăm computerul dvs. ..."
 
+msgid "installation_header_promo_try"
+msgstr ""
+
 msgid "installation_header_promo_more"
 msgstr "află mai multe"
 
@@ -884,6 +902,9 @@ msgstr "instalare"
 
 msgid "installation_header_promo_fb"
 msgstr "Comunitate pe Facebook"
+
+msgid "installation_header_promo_license"
+msgstr "Termeni și Condiții"
 
 msgid "installation_item_category_restorepoint"
 msgstr "Punct de restaurare"
@@ -1134,6 +1155,9 @@ msgstr "Instalați programele software necesare <b>({{COUNT}})</b>"
 msgid "programs_header_text_caption"
 msgstr "Nu este nevoie să căutați programele software unu câte unu. Puteți instala cu ușurință totul cu un singur click."
 
+msgid "drivers_program_recommend"
+msgstr ""
+
 msgid "drivers_program_counter"
 msgstr "Software recomandat"
 
@@ -1152,14 +1176,23 @@ msgstr "Versiune:"
 msgid "protect_row_install_date"
 msgstr "Data Instalării:"
 
+msgid "protect_rating_level_large_appesteem"
+msgstr ""
+
 msgid "protect_rating_level_large"
 msgstr "Vă recomandăm să eliminați acesta"
+
+msgid "protect_rating_level_middle_appesteem"
+msgstr ""
 
 msgid "protect_rating_level_middle"
 msgstr "Puteți elimina acesta"
 
 msgid "protect_rating_level_small"
 msgstr "Puteți păstra acesta"
+
+msgid "protect_rating_level_large_caption_appesteem"
+msgstr ""
 
 msgid "protect_rating_level_large_caption"
 msgstr "Vă recomandăm să eliminați acest software deoarece 70% din toți utilizatorii îl elimină."
@@ -1191,6 +1224,9 @@ msgstr "DriverPack Protect va curăța software-ul nedorit și va oferi protecț
 msgid "protect_installed_programs_title"
 msgstr "Software instalat pe calculator"
 
+msgid "protect_installed_programs_switch_appesteem"
+msgstr ""
+
 msgid "protect_installed_programs_switch"
 msgstr "Afișați numai software-ul suspicios"
 
@@ -1209,20 +1245,29 @@ msgstr "DriverPack a fost creat special pentru administratori, dar este clar și
 msgid "settings-screen_license"
 msgstr "Termeni și Condiții"
 
-msgid "start_title"
-msgstr "Configurarea automată a {{MODEL}}"
+msgid "start_button_install_drivers"
+msgstr ""
 
 msgid "start_button_install"
 msgstr "Configurați automat computerul"
 
+msgid "start_title"
+msgstr "Configurarea automată a {{MODEL}}"
+
 msgid "start_caption"
 msgstr "DriverPack va scana sistemul, va instala<br/>driverele și software-ul necesar, și va efectua diagnostice. <br/>Eficiența calculatorului ar trebui să crească."
+
+msgid "start_expert_mode"
+msgstr "Mod Expert"
+
+msgid "start_expert_mode_label"
+msgstr ""
 
 msgid "start_license"
 msgstr "Termeni și Condiții"
 
-msgid "start_expert_mode"
-msgstr "Mod Expert"
+msgid "footer_site"
+msgstr "Ștergere DriverPack"
 
 msgid "start_drivers_title"
 msgid_plural "start_drivers_title_n"
@@ -1230,8 +1275,17 @@ msgstr[0] "{{COUNT}} driver va fi instalat"
 msgstr[1] "{{COUNT}} drivere vor fi instalate"
 msgstr[2] "{{COUNT}} drivere vor fi instalate"
 
+msgid "start_drivers_utils_popover"
+msgstr ""
+
 msgid "start_drivers_popover"
 msgstr "Driverele pentru computerul dvs. au fost selectate și sunt pregătite pentru instalare. Înainte de a începe, se va crea un punct de restaurare."
+
+msgid "start_programs_title_driver_utils"
+msgid_plural "start_programs_title_n"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
 
 msgid "start_programs_title"
 msgid_plural "start_programs_title_n"
@@ -1359,6 +1413,12 @@ msgstr "DriverPack se va potrivi pe orice computer"
 msgid "installation_header_promo_text_driverpack_for_all"
 msgstr "Am creat instrumentul ce permite configurarea oricăror calculatoare complet automat. DriverPack conține mai mult de un milion de drivere, ceea ce permite configurarea oricărui computer cu un singur buton. În consecință, veți obține drivere și utilitare instalate, software-uri selecționate cu grijă (care este partea integrată a configurării), precum și diagnosticarea computerului dvs. Acest lucru înseamnă că DriverPack configurează rapid întregul computer la eficiență maximă printr-un singur click."
 
+msgid "installation_header_promo_title_istart"
+msgstr ""
+
+msgid "installation_header_promo_text_istart"
+msgstr ""
+
 msgid "softcategories_archiver-single-for"
 msgstr "arhivator fișiere"
 
@@ -1420,5 +1480,5 @@ msgstr "Placa de sunet este conectată incorect, sau există unele probleme lega
 msgid "language_title"
 msgstr "Romanian"
 
-#~ msgid "configurator-screen_save-to"
-#~ msgstr "Save to the following folder:"
+#~ msgid "confirm_popup_install_button_ok"
+#~ msgstr "OK"

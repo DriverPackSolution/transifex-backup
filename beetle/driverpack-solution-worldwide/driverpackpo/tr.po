@@ -9,8 +9,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-31 11:33+0000\n"
-"PO-Revision-Date: 2018-05-31 15:47+0000\n"
+"POT-Creation-Date: 2018-07-04 13:20+0000\n"
+"PO-Revision-Date: 2018-07-09 20:29+0000\n"
 "Last-Translator: BouRock\n"
 "Language-Team: Turkish (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/tr/)\n"
 "MIME-Version: 1.0\n"
@@ -219,6 +219,21 @@ msgstr "diğer aygıtlar"
 
 msgid "deviceclasses_other-plural-for"
 msgstr "diğer aygıtlar"
+
+msgid "activate_recommendations_title_programs"
+msgstr "Yazılımlara dair önerilerimiz etkisizleştirildi"
+
+msgid "activate_recommendations_title_protect"
+msgstr "Koruyucu yazılımlara dair önerilerimiz etkisizleştirildi"
+
+msgid "activate_recommendations_button_programs"
+msgstr "Yazılımlara dair önerilerimiz etkinleştirildi"
+
+msgid "activate_recommendations_button_protect"
+msgstr "Koruyucu yazılımlara dair önerilerimiz etkinleştirildi"
+
+msgid "programs_about"
+msgstr "Daha fazla bilgi edinin"
 
 msgid "programs_eula"
 msgstr "Lisans Sözleşmesi"
@@ -530,9 +545,6 @@ msgstr "Son Kullanıcı Lisans Sözleşmesi"
 msgid "confirm_popup_policy-link"
 msgstr "Gizlilik İlkesi"
 
-msgid "confirm_popup_install_button_ok"
-msgstr "TAMAM"
-
 msgid "confirm_popup_install_button"
 msgstr "Kabul et ve yükle"
 
@@ -541,6 +553,9 @@ msgstr "Yazılım Kurulumu"
 
 msgid "confirm_popup_cancel_button"
 msgstr "Reddet"
+
+msgid "confirm_popup_cancel_all_button"
+msgstr "Tüm yazılımları reddet ({{COUNT}})"
 
 msgid "diagnostics_section_title"
 msgstr "Sistem Tanılamaları"
@@ -872,6 +887,9 @@ msgstr "Geri yükleme noktası oluşturuyoruz..."
 msgid "installation_header_title"
 msgstr "Bilgisayarınızı yapılandırıyoruz..."
 
+msgid "installation_header_promo_try"
+msgstr "dene"
+
 msgid "installation_header_promo_more"
 msgstr "daha fazla bilgi edinin"
 
@@ -880,6 +898,9 @@ msgstr "yükle"
 
 msgid "installation_header_promo_fb"
 msgstr "Facebook'taki Topluluk"
+
+msgid "installation_header_promo_license"
+msgstr "Lisans Sözleşmesi"
 
 msgid "installation_item_category_restorepoint"
 msgstr "Geri yükleme noktası"
@@ -1130,6 +1151,9 @@ msgstr "Gerekli yazılımları yükle <b>({{COUNT}})</b>"
 msgid "programs_header_text_caption"
 msgstr "Bundan böyle tek tek yazılımları aramaya gerek yok. Herşeyi tek bir tıklamayla kolayca yükleyebilirsiniz."
 
+msgid "drivers_program_recommend"
+msgstr "DriverPack tarafından önerilen yazılımlar"
+
 msgid "drivers_program_counter"
 msgstr "Önerilen yazılımlar"
 
@@ -1148,14 +1172,23 @@ msgstr "Sürüm:"
 msgid "protect_row_install_date"
 msgstr "Kurulum Tarihi:"
 
+msgid "protect_rating_level_large_appesteem"
+msgstr "Alışılmadık uygulama (Kullanıcıların %70'i bunu kaldırır)"
+
 msgid "protect_rating_level_large"
 msgstr "bunu kaldırmanızı öneririz"
+
+msgid "protect_rating_level_middle_appesteem"
+msgstr "Alışılmadık uygulama"
 
 msgid "protect_rating_level_middle"
 msgstr "bunu kaldırabilirsiniz"
 
 msgid "protect_rating_level_small"
 msgstr "bunu tutabilirsiniz"
+
+msgid "protect_rating_level_large_caption_appesteem"
+msgstr "Kullanıcılarımızın %70'i bu uygulamayı kaldırır"
 
 msgid "protect_rating_level_large_caption"
 msgstr "Tüm kullanıcıların %70'i bunu kaldırdığı için bu yazılımı kaldırılmanızı öneririz."
@@ -1187,6 +1220,9 @@ msgstr "DriverPack Protect, istenmeyen yazılımları temizleyecek ve şunlar gi
 msgid "protect_installed_programs_title"
 msgstr "Bilgisayardaki yüklü yazılımlar"
 
+msgid "protect_installed_programs_switch_appesteem"
+msgstr "Sadece alışılmadık uygulamaları görüntüle"
+
 msgid "protect_installed_programs_switch"
 msgstr "Sadece şüpheli yazılımları görüntüle"
 
@@ -1205,28 +1241,45 @@ msgstr "DriverPack özellikle yöneticiler için yaratılmıştır ancak acemi k
 msgid "settings-screen_license"
 msgstr "Lisans Sözleşmesi"
 
-msgid "start_title"
-msgstr "{{MODEL}} otomatik yapılandırılıyor"
+msgid "start_button_install_drivers"
+msgstr "Tüm sürücüleri yükle"
 
 msgid "start_button_install"
 msgstr "Bilgisayarı otomatik olarak yapılandır"
 
+msgid "start_title"
+msgstr "{{MODEL}} otomatik yapılandırılıyor"
+
 msgid "start_caption"
 msgstr "DriverPack, sistemi tarayacak, gerekli sürücüleri ve<br/>yazılımı yükleyecek, ve tanılamaları yapacak. <br/>Bilgisayarın verimliliği artmalıdır."
+
+msgid "start_expert_mode"
+msgstr "Uzman Kipi"
+
+msgid "start_expert_mode_label"
+msgstr "Gelişmiş Ayarlar"
 
 msgid "start_license"
 msgstr "Lisans Sözleşmesi"
 
-msgid "start_expert_mode"
-msgstr "Uzman Kipi"
+msgid "footer_site"
+msgstr "DriverPack kaldırma"
 
 msgid "start_drivers_title"
 msgid_plural "start_drivers_title_n"
 msgstr[0] "{{COUNT}} sürücü yüklenecektir"
 msgstr[1] "{{COUNT}} sürücü yüklenecektir"
 
+msgid "start_drivers_utils_popover"
+msgstr ""
+
 msgid "start_drivers_popover"
 msgstr "Bilgisayarınız için sürücüler seçilmiştir ve kurulum için hazırdır. Kurulum başlamadan önce, bir geri yükleme noktası oluşturulacaktır."
+
+msgid "start_programs_title_driver_utils"
+msgid_plural "start_programs_title_n"
+msgstr[0] "{{COUNT}} sürücü araç takımı yüklenecektir"
+msgstr[1] "{{COUNT}} sürücü araç takımı yüklenecektir"
 
 msgid "start_programs_title"
 msgid_plural "start_programs_title_n"
@@ -1353,6 +1406,12 @@ msgstr "DriverPack herhangi bir bilgisayar için uygun olacaktır"
 msgid "installation_header_promo_text_driverpack_for_all"
 msgstr "Herhangi bir bilgisayarın yapılandırmasını tümüyle otomatik yapmayı sağlayan aracı yarattık. DriverPack, herhangi bir bilgisayarı sadece bir düğme ile yapılandırmayı sağlayan bir milyondan fazla sürücü içerir. Sonuç olarak, bilgisayarınızın tanılamalarının yanı sıra yüklenmiş sürücülere ve yardımcı uygulamalara, dikkatlice seçilmiş yazılımlara (yapılandırmanın tümleşik parçası olan) sahip olursunuz. Bu, DriverPack'in bütün bilgisayarınızı sadece bir düğmeye tıklayarak en yüksek verimlilikte hızlıca yapılandırması anlamına gelir."
 
+msgid "installation_header_promo_title_istart"
+msgstr "Yeni teknolojileri beğeniyor musunuz? İyi bir başlangıcı destekleyin"
+
+msgid "installation_header_promo_text_istart"
+msgstr ""
+
 msgid "softcategories_archiver-single-for"
 msgstr "dosya arşivleyici"
 
@@ -1414,5 +1473,5 @@ msgstr "Ses kartı yanlış olarak bağlanmış, ya da işlerliği ile ilgili ba
 msgid "language_title"
 msgstr "Turkish"
 
-#~ msgid "configurator-screen_save-to"
-#~ msgstr "Save to the following folder:"
+#~ msgid "confirm_popup_install_button_ok"
+#~ msgstr "OK"

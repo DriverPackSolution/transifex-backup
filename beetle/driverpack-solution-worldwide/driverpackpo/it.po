@@ -9,8 +9,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-31 11:33+0000\n"
-"PO-Revision-Date: 2018-06-09 20:53+0000\n"
+"POT-Creation-Date: 2018-07-04 13:20+0000\n"
+"PO-Revision-Date: 2018-07-09 21:19+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Italian (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/it/)\n"
 "MIME-Version: 1.0\n"
@@ -219,6 +219,21 @@ msgstr "altri dispositivi"
 
 msgid "deviceclasses_other-plural-for"
 msgstr "altri dispositivi"
+
+msgid "activate_recommendations_title_programs"
+msgstr ""
+
+msgid "activate_recommendations_title_protect"
+msgstr ""
+
+msgid "activate_recommendations_button_programs"
+msgstr ""
+
+msgid "activate_recommendations_button_protect"
+msgstr ""
+
+msgid "programs_about"
+msgstr "Per saperne di più"
 
 msgid "programs_eula"
 msgstr "Contratto di Licenza"
@@ -530,9 +545,6 @@ msgstr "Contratto di licenza per l'utente"
 msgid "confirm_popup_policy-link"
 msgstr "Politica sulla riservatezza"
 
-msgid "confirm_popup_install_button_ok"
-msgstr "OK"
-
 msgid "confirm_popup_install_button"
 msgstr "Accetta e installa"
 
@@ -541,6 +553,9 @@ msgstr "Installazione del programma"
 
 msgid "confirm_popup_cancel_button"
 msgstr "Rifiuta"
+
+msgid "confirm_popup_cancel_all_button"
+msgstr ""
 
 msgid "diagnostics_section_title"
 msgstr "Diagnostica di sistema"
@@ -872,6 +887,9 @@ msgstr "Stiamo creando il punto di ripristino..."
 msgid "installation_header_title"
 msgstr "Stiamo configurando il tuo computer..."
 
+msgid "installation_header_promo_try"
+msgstr ""
+
 msgid "installation_header_promo_more"
 msgstr "per saperne di più"
 
@@ -880,6 +898,9 @@ msgstr "installo"
 
 msgid "installation_header_promo_fb"
 msgstr "Community su Facebook"
+
+msgid "installation_header_promo_license"
+msgstr "Contratto di Licenza"
 
 msgid "installation_item_category_restorepoint"
 msgstr "Punto di ripristino"
@@ -1130,6 +1151,9 @@ msgstr "Installa i programmi richiesti <b>({{COUNT}})</b>"
 msgid "programs_header_text_caption"
 msgstr "Non c'è bisogno di cercare i programmi software uno a uno. Puoi installare facilmente tutto con un clic."
 
+msgid "drivers_program_recommend"
+msgstr ""
+
 msgid "drivers_program_counter"
 msgstr "Software raccomandato"
 
@@ -1148,14 +1172,23 @@ msgstr "Versione:"
 msgid "protect_row_install_date"
 msgstr "Data di installazione:"
 
+msgid "protect_rating_level_large_appesteem"
+msgstr ""
+
 msgid "protect_rating_level_large"
 msgstr "ti raccomandiamo di rimuoverlo"
+
+msgid "protect_rating_level_middle_appesteem"
+msgstr ""
 
 msgid "protect_rating_level_middle"
 msgstr "dovresti rimuoverlo"
 
 msgid "protect_rating_level_small"
 msgstr "dovresti tenerlo"
+
+msgid "protect_rating_level_large_caption_appesteem"
+msgstr ""
 
 msgid "protect_rating_level_large_caption"
 msgstr "Ti raccomandiamo di rimuovere questo programma perchè il 70% di tutti gli utenti lo disinstalla."
@@ -1187,6 +1220,9 @@ msgstr "DriverPack Protect cancellerà i programmi indesiderati e fornirà prote
 msgid "protect_installed_programs_title"
 msgstr "Programmi installati sul computer"
 
+msgid "protect_installed_programs_switch_appesteem"
+msgstr ""
+
 msgid "protect_installed_programs_switch"
 msgstr "Visualizza solo i programmi sospetti"
 
@@ -1205,28 +1241,45 @@ msgstr "DriverPack è stato creato specificatamente per gli amministratori ma è
 msgid "settings-screen_license"
 msgstr "Contratto di Licenza"
 
-msgid "start_title"
-msgstr "Configurazione automatica del {{MODEL}}"
+msgid "start_button_install_drivers"
+msgstr ""
 
 msgid "start_button_install"
 msgstr "Configurare il computer automaticamente"
 
+msgid "start_title"
+msgstr "Configurazione automatica del {{MODEL}}"
+
 msgid "start_caption"
 msgstr "DriverPack effettuerà la scansione del sistema, installerà<br/>i drivers e i programmi richiesti, ed eseguirà una diagnostica. <br/>L'efficenza del computer dovrebbe aumentare."
+
+msgid "start_expert_mode"
+msgstr "Modo Esperto"
+
+msgid "start_expert_mode_label"
+msgstr ""
 
 msgid "start_license"
 msgstr "Contratto di Licenza"
 
-msgid "start_expert_mode"
-msgstr "Modo Esperto"
+msgid "footer_site"
+msgstr "Rimozione DriverPack"
 
 msgid "start_drivers_title"
 msgid_plural "start_drivers_title_n"
 msgstr[0] "{{COUNT}} i driver saranno installati"
 msgstr[1] "{{COUNT}} i driver saranno installati"
 
+msgid "start_drivers_utils_popover"
+msgstr ""
+
 msgid "start_drivers_popover"
 msgstr "I driver per il tuo computer sono stati selezionati e sono pronti per l'installazione. Prima dell'inizio, verrà creato un punto di ripristino."
+
+msgid "start_programs_title_driver_utils"
+msgid_plural "start_programs_title_n"
+msgstr[0] ""
+msgstr[1] ""
 
 msgid "start_programs_title"
 msgid_plural "start_programs_title_n"
@@ -1353,6 +1406,12 @@ msgstr "DriverPack funzionerà su ogni computer"
 msgid "installation_header_promo_text_driverpack_for_all"
 msgstr "Abbiamo creato lo strumento che consente di rendere completamente automatica la configurazione di qualsiasi computer.  DriverPack contiene oltre un milione di driver, che consente di configurare qualsiasi computer con un solo pulsante. Di conseguenza vengono installati driver e utilità, software accuratamente selezionato (che è la parte integrata della configurazione) e diagnostica del computer. Questo significa che DriverPack configura rapidamente l'intero computer alla massima efficienza con un solo clic del mouse."
 
+msgid "installation_header_promo_title_istart"
+msgstr ""
+
+msgid "installation_header_promo_text_istart"
+msgstr ""
+
 msgid "softcategories_archiver-single-for"
 msgstr "archiviatore di file"
 
@@ -1414,5 +1473,5 @@ msgstr "La scheda audio è collegata in modo errato, o ci sono problemi con il s
 msgid "language_title"
 msgstr "Italian"
 
-#~ msgid "configurator-screen_save-to"
-#~ msgstr "Save to the following folder:"
+#~ msgid "confirm_popup_install_button_ok"
+#~ msgstr "OK"

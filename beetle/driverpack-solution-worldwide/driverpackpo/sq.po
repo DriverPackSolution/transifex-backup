@@ -10,8 +10,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-31 11:33+0000\n"
-"PO-Revision-Date: 2018-05-31 13:20+0000\n"
+"POT-Creation-Date: 2018-07-04 13:20+0000\n"
+"PO-Revision-Date: 2018-07-09 20:36+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Albanian (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/sq/)\n"
 "MIME-Version: 1.0\n"
@@ -220,6 +220,21 @@ msgstr "pajisje të tjera"
 
 msgid "deviceclasses_other-plural-for"
 msgstr "pajisje të tjera"
+
+msgid "activate_recommendations_title_programs"
+msgstr ""
+
+msgid "activate_recommendations_title_protect"
+msgstr ""
+
+msgid "activate_recommendations_button_programs"
+msgstr ""
+
+msgid "activate_recommendations_button_protect"
+msgstr ""
+
+msgid "programs_about"
+msgstr "Mëso më shumë"
 
 msgid "programs_eula"
 msgstr "Marrëveshja e Licencës"
@@ -531,9 +546,6 @@ msgstr ""
 msgid "confirm_popup_policy-link"
 msgstr ""
 
-msgid "confirm_popup_install_button_ok"
-msgstr ""
-
 msgid "confirm_popup_install_button"
 msgstr ""
 
@@ -542,6 +554,9 @@ msgstr ""
 
 msgid "confirm_popup_cancel_button"
 msgstr "Refuzo"
+
+msgid "confirm_popup_cancel_all_button"
+msgstr ""
 
 msgid "diagnostics_section_title"
 msgstr "Diagnostikimi i Sistemit"
@@ -873,6 +888,9 @@ msgstr "Po krijohet pika e rikthimit..."
 msgid "installation_header_title"
 msgstr "Po konfigurojmë kompjuterin..."
 
+msgid "installation_header_promo_try"
+msgstr ""
+
 msgid "installation_header_promo_more"
 msgstr "mëso më shumë"
 
@@ -881,6 +899,9 @@ msgstr "instalo"
 
 msgid "installation_header_promo_fb"
 msgstr "Komuniteti në Facebook"
+
+msgid "installation_header_promo_license"
+msgstr "Marrëveshja e Licencës"
 
 msgid "installation_item_category_restorepoint"
 msgstr "Pikë rikthimi"
@@ -1131,6 +1152,9 @@ msgstr "Instalo programet softuerike të kërkuara <b>({{COUNT}})</b>"
 msgid "programs_header_text_caption"
 msgstr "Nuk ka më nevojë të kërkosh për programe softuerike një nga një. Gjithçka mund ta instaloni lehtësisht me një klik."
 
+msgid "drivers_program_recommend"
+msgstr ""
+
 msgid "drivers_program_counter"
 msgstr "Softuer i rekomanduar"
 
@@ -1149,14 +1173,23 @@ msgstr "Versioni:"
 msgid "protect_row_install_date"
 msgstr "Data e instalimit:"
 
+msgid "protect_rating_level_large_appesteem"
+msgstr ""
+
 msgid "protect_rating_level_large"
 msgstr "iu rekomandojmë ta hiqni këtë"
+
+msgid "protect_rating_level_middle_appesteem"
+msgstr ""
 
 msgid "protect_rating_level_middle"
 msgstr "mund ta hiqni këtë"
 
 msgid "protect_rating_level_small"
 msgstr "mund ta mbani këtë"
+
+msgid "protect_rating_level_large_caption_appesteem"
+msgstr ""
 
 msgid "protect_rating_level_large_caption"
 msgstr "Iu rekomandojmë ta hiqni këtë softuer sepse 70% e të gjithë përdoruesve e heqin atë."
@@ -1188,6 +1221,9 @@ msgstr "DriverPack Protect do të pastrojë kompjuterin tuaj nga softuerët e pa
 msgid "protect_installed_programs_title"
 msgstr "Softuerë të instaluar në kompjuter"
 
+msgid "protect_installed_programs_switch_appesteem"
+msgstr ""
+
 msgid "protect_installed_programs_switch"
 msgstr "Shfaq vetëm softuerët e dyshimtë"
 
@@ -1206,28 +1242,45 @@ msgstr "DriverPack është krijuar në mënyrë specifike për administratër po
 msgid "settings-screen_license"
 msgstr "Marrëveshja e Licencës"
 
-msgid "start_title"
-msgstr "Konfigurim automatik i {{MODEL}}"
+msgid "start_button_install_drivers"
+msgstr ""
 
 msgid "start_button_install"
 msgstr "Konfiguro kompjuterin automatikisht"
 
+msgid "start_title"
+msgstr "Konfigurim automatik i {{MODEL}}"
+
 msgid "start_caption"
 msgstr "DriverPack do të skanojë sistemin, instalojë<br/>drajverat dhe softuerët e kërkuar dhe do të kryejë diagnostikimet. <br/>Efiçenca e kompjuterit do të rritet."
+
+msgid "start_expert_mode"
+msgstr "Gjendje Ekspert"
+
+msgid "start_expert_mode_label"
+msgstr ""
 
 msgid "start_license"
 msgstr "Marrëveshja e Licencës"
 
-msgid "start_expert_mode"
-msgstr "Gjendje Ekspert"
+msgid "footer_site"
+msgstr "Fshirje e DriverPack"
 
 msgid "start_drivers_title"
 msgid_plural "start_drivers_title_n"
 msgstr[0] "{{COUNT}} drajver do të instalohet"
 msgstr[1] "{{COUNT}} drajvera do të instalohen"
 
+msgid "start_drivers_utils_popover"
+msgstr ""
+
 msgid "start_drivers_popover"
 msgstr "Drajverat për kompjuterin tuaj janë përzgjedhur dhe janë gati për instalim. Para se të fillojë instalimi, një pikë rikthimi do të krijohet."
+
+msgid "start_programs_title_driver_utils"
+msgid_plural "start_programs_title_n"
+msgstr[0] ""
+msgstr[1] ""
 
 msgid "start_programs_title"
 msgid_plural "start_programs_title_n"
@@ -1354,6 +1407,12 @@ msgstr "DriverPack përshatet për çdo kompjuter"
 msgid "installation_header_promo_text_driverpack_for_all"
 msgstr ""
 
+msgid "installation_header_promo_title_istart"
+msgstr ""
+
+msgid "installation_header_promo_text_istart"
+msgstr ""
+
 msgid "softcategories_archiver-single-for"
 msgstr "arkivuesi i fajllave"
 
@@ -1415,5 +1474,5 @@ msgstr ""
 msgid "language_title"
 msgstr "Albanian"
 
-#~ msgid "configurator-screen_save-to"
-#~ msgstr "Save to the following folder:"
+#~ msgid "confirm_popup_install_button_ok"
+#~ msgstr "OK"

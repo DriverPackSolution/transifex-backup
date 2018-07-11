@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-31 11:33+0000\n"
-"PO-Revision-Date: 2018-05-31 13:20+0000\n"
+"POT-Creation-Date: 2018-07-04 13:20+0000\n"
+"PO-Revision-Date: 2018-07-09 21:19+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Hindi (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/hi/)\n"
 "MIME-Version: 1.0\n"
@@ -216,6 +216,21 @@ msgstr "कई अन्य उपकरण"
 
 msgid "deviceclasses_other-plural-for"
 msgstr "कई अन्य उपकरण"
+
+msgid "activate_recommendations_title_programs"
+msgstr ""
+
+msgid "activate_recommendations_title_protect"
+msgstr ""
+
+msgid "activate_recommendations_button_programs"
+msgstr ""
+
+msgid "activate_recommendations_button_protect"
+msgstr ""
+
+msgid "programs_about"
+msgstr "और अधिक जानें"
 
 msgid "programs_eula"
 msgstr "लाइसेंस समझौता"
@@ -527,9 +542,6 @@ msgstr "अंत उपयोगकर्ता लाइसेंस समझ
 msgid "confirm_popup_policy-link"
 msgstr "गोपनीयता नीति"
 
-msgid "confirm_popup_install_button_ok"
-msgstr "ठीक"
-
 msgid "confirm_popup_install_button"
 msgstr "स्वीकार करो और स्थापित करो"
 
@@ -538,6 +550,9 @@ msgstr "सॉफ्टवेयर इंस्टालेशन"
 
 msgid "confirm_popup_cancel_button"
 msgstr "इनकार"
+
+msgid "confirm_popup_cancel_all_button"
+msgstr ""
 
 msgid "diagnostics_section_title"
 msgstr "प्रणाली निदान"
@@ -869,6 +884,9 @@ msgstr "हम पुनर्स्थापना बिंदु बना �
 msgid "installation_header_title"
 msgstr "हम आपके कंप्यूटर को कॉन्फ़िगर कर रहे हैं..."
 
+msgid "installation_header_promo_try"
+msgstr ""
+
 msgid "installation_header_promo_more"
 msgstr "और अधिक जानें"
 
@@ -877,6 +895,9 @@ msgstr "इंस्टॉल करें"
 
 msgid "installation_header_promo_fb"
 msgstr "फेसबुक पर समुदाय"
+
+msgid "installation_header_promo_license"
+msgstr "लाइसेंस समझौता"
 
 msgid "installation_item_category_restorepoint"
 msgstr "पुनःस्थापना बिंदु"
@@ -1127,6 +1148,9 @@ msgstr "आवश्यक सॉफ्टवेयर प्रोग्रा�
 msgid "programs_header_text_caption"
 msgstr "सॉफ़्टवेयर प्रोग्रामों को अब किसी एक के बाद देखने की कोई जरूरत नहीं है। आप आसानी से एक क्लिक में सब कुछ स्थापित कर सकते हैं।"
 
+msgid "drivers_program_recommend"
+msgstr ""
+
 msgid "drivers_program_counter"
 msgstr "अनुशंसित सॉफ़्टवेयर"
 
@@ -1145,14 +1169,23 @@ msgstr "संस्करण:"
 msgid "protect_row_install_date"
 msgstr "स्थापना की तिथि:"
 
+msgid "protect_rating_level_large_appesteem"
+msgstr ""
+
 msgid "protect_rating_level_large"
 msgstr "हम अनुशंसा करते हैं कि आप इसे हटा दें"
+
+msgid "protect_rating_level_middle_appesteem"
+msgstr ""
 
 msgid "protect_rating_level_middle"
 msgstr "आप इसे हटा सकते हैं"
 
 msgid "protect_rating_level_small"
 msgstr "आप इसे रख सकते हैं"
+
+msgid "protect_rating_level_large_caption_appesteem"
+msgstr ""
 
 msgid "protect_rating_level_large_caption"
 msgstr "हम आपको यह सॉफ़्टवेयर हटाने की सलाह देते हैं क्योंकि सभी उपयोगकर्ताओं के 70% इसे हटाते हैं।"
@@ -1184,6 +1217,9 @@ msgstr "DriverPack Protect  से अवांछनीय सॉफ़्ट�
 msgid "protect_installed_programs_title"
 msgstr "कंप्यूटर पर स्थापित सॉफ्टवेयर"
 
+msgid "protect_installed_programs_switch_appesteem"
+msgstr ""
+
 msgid "protect_installed_programs_switch"
 msgstr "केवल संदिग्ध सॉफ़्टवेयर को प्रदर्शित करें"
 
@@ -1202,28 +1238,45 @@ msgstr "DriverPack विशेष रूप से व्यवस्थाप�
 msgid "settings-screen_license"
 msgstr "लाइसेंस समझौता"
 
-msgid "start_title"
-msgstr "{{MODEL}} के स्वचालन को कॉन्फ़िगर करें"
+msgid "start_button_install_drivers"
+msgstr ""
 
 msgid "start_button_install"
 msgstr "कंप्यूटर को स्वचालित रूप से कॉन्फ़िगर करें"
 
+msgid "start_title"
+msgstr "{{MODEL}} के स्वचालन को कॉन्फ़िगर करें"
+
 msgid "start_caption"
 msgstr "DriverPack सिस्टम को स्कैन करेगा, आवश्यक<br/>ड्रायवर और सॉफ़्टवेयर इंस्टॉल करेगा, और निदान करेगा। <br/>कंप्यूटर की दक्षता बढ़नी चाहिए।"
+
+msgid "start_expert_mode"
+msgstr "विशेषज्ञ मोड"
+
+msgid "start_expert_mode_label"
+msgstr ""
 
 msgid "start_license"
 msgstr "लाइसेंस समझौता"
 
-msgid "start_expert_mode"
-msgstr "विशेषज्ञ मोड"
+msgid "footer_site"
+msgstr "DriverPack निष्कासन"
 
 msgid "start_drivers_title"
 msgid_plural "start_drivers_title_n"
 msgstr[0] "{{COUNT}} ड्राइवर को स्थापित किया जाएगा"
 msgstr[1] "{{COUNT}} ड्राइवर्स को स्थापित किया जाएगा"
 
+msgid "start_drivers_utils_popover"
+msgstr ""
+
 msgid "start_drivers_popover"
 msgstr "आपके कंप्यूटर के ड्राइवरों को चुना गया है और स्थापना के लिए तैयार हैं। शुरू होने से पहले, एक पुनर्स्थापना बिंदु बनाया जाएगा।"
+
+msgid "start_programs_title_driver_utils"
+msgid_plural "start_programs_title_n"
+msgstr[0] ""
+msgstr[1] ""
 
 msgid "start_programs_title"
 msgid_plural "start_programs_title_n"
@@ -1350,6 +1403,12 @@ msgstr "DriverPack किसी भी कंप्यूटर के अनु
 msgid "installation_header_promo_text_driverpack_for_all"
 msgstr "हमने एक उपकरण बनाया है जो कि किसी भी कंप्यूटर के कॉन्फ़िगरेशन को पूरी तरह से स्वत: बनाता है। DriverPack में एक लाख से अधिक ड्राइवर हैं, जो किसी भी कंप्यूटर को सिर्फ एक बटन के साथ कॉन्फ़िगर करने की अनुमति देता है। इसके परिणामस्वरूप आप ड्राइवरों और उपयोगिताओं को स्थापित करते हैं, सावधानी से चयनित सॉफ़्टवेयर (जो कि कॉन्फ़िगर का एकीकृत भाग है), साथ ही साथ आपके कंप्यूटर के निदान भी। इसका मतलब यह है कि DriverPack आपके संपूर्ण कंप्यूटर को केवल एक बटन क्लिक में अधिकतम दक्षता के लिए कॉन्फ़िगर करता है।"
 
+msgid "installation_header_promo_title_istart"
+msgstr ""
+
+msgid "installation_header_promo_text_istart"
+msgstr ""
+
 msgid "softcategories_archiver-single-for"
 msgstr "फ़ाइल संग्रहकर्ता"
 
@@ -1411,5 +1470,5 @@ msgstr "ध्वनि कार्ड गलत तरीके से जु�
 msgid "language_title"
 msgstr "Hindi"
 
-#~ msgid "configurator-screen_save-to"
-#~ msgstr "Save to the following folder:"
+#~ msgid "confirm_popup_install_button_ok"
+#~ msgstr "OK"

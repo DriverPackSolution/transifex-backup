@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-31 11:33+0000\n"
-"PO-Revision-Date: 2018-06-19 10:57+0000\n"
+"POT-Creation-Date: 2018-07-04 13:20+0000\n"
+"PO-Revision-Date: 2018-07-09 20:37+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Bulgarian (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/bg/)\n"
 "MIME-Version: 1.0\n"
@@ -218,6 +218,21 @@ msgstr "други устройства"
 
 msgid "deviceclasses_other-plural-for"
 msgstr "други устройства"
+
+msgid "activate_recommendations_title_programs"
+msgstr ""
+
+msgid "activate_recommendations_title_protect"
+msgstr ""
+
+msgid "activate_recommendations_button_programs"
+msgstr ""
+
+msgid "activate_recommendations_button_protect"
+msgstr ""
+
+msgid "programs_about"
+msgstr "Разберете повече"
 
 msgid "programs_eula"
 msgstr "Лицензионни условия"
@@ -529,9 +544,6 @@ msgstr "Лицензионно споразумение с краен потре
 msgid "confirm_popup_policy-link"
 msgstr "Декларация за поверителност"
 
-msgid "confirm_popup_install_button_ok"
-msgstr "Добре"
-
 msgid "confirm_popup_install_button"
 msgstr "Приеми и инсталирай"
 
@@ -540,6 +552,9 @@ msgstr "Software Installation"
 
 msgid "confirm_popup_cancel_button"
 msgstr "Отказвам"
+
+msgid "confirm_popup_cancel_all_button"
+msgstr ""
 
 msgid "diagnostics_section_title"
 msgstr "Системна Диагностика"
@@ -871,6 +886,9 @@ msgstr "Създаваме точка за възстановяване..."
 msgid "installation_header_title"
 msgstr "Конфигурираме вашият компютър"
 
+msgid "installation_header_promo_try"
+msgstr ""
+
 msgid "installation_header_promo_more"
 msgstr "разберете повече"
 
@@ -879,6 +897,9 @@ msgstr "инсталирай"
 
 msgid "installation_header_promo_fb"
 msgstr "Общност във Facebook"
+
+msgid "installation_header_promo_license"
+msgstr "Лицензионни условия"
 
 msgid "installation_item_category_restorepoint"
 msgstr "Точка за възстановяване"
@@ -1129,6 +1150,9 @@ msgstr "Инсталирайте необходимите софтуерни п�
 msgid "programs_header_text_caption"
 msgstr "Не е нужно вече да търсите софтуерните програми една по една. Можете лесно да инсталирате всичко с едно кликване."
 
+msgid "drivers_program_recommend"
+msgstr ""
+
 msgid "drivers_program_counter"
 msgstr "Препоръчителен софтуер"
 
@@ -1147,14 +1171,23 @@ msgstr "Версия:"
 msgid "protect_row_install_date"
 msgstr "Дата на инсталиране:"
 
+msgid "protect_rating_level_large_appesteem"
+msgstr ""
+
 msgid "protect_rating_level_large"
 msgstr "ние препоръчваме да премахнете това"
+
+msgid "protect_rating_level_middle_appesteem"
+msgstr ""
 
 msgid "protect_rating_level_middle"
 msgstr "може да премахнете това"
 
 msgid "protect_rating_level_small"
 msgstr "можете да запазите това"
+
+msgid "protect_rating_level_large_caption_appesteem"
+msgstr ""
 
 msgid "protect_rating_level_large_caption"
 msgstr "Препоръчваме ви да премахнете този софтуер, защото 70% от всички потребители го премахват."
@@ -1186,6 +1219,9 @@ msgstr "DriverPack Protect ще почисти от нежелан софтуе�
 msgid "protect_installed_programs_title"
 msgstr "Софтуер, инсталиран на компютъра"
 
+msgid "protect_installed_programs_switch_appesteem"
+msgstr ""
+
 msgid "protect_installed_programs_switch"
 msgstr "Показва само подозрителния софтуер"
 
@@ -1204,28 +1240,45 @@ msgstr "DriverPack е създаден специално за админист�
 msgid "settings-screen_license"
 msgstr "Лицензионни условия"
 
-msgid "start_title"
-msgstr "Автоматизирано конфигуриране на {{MODEL}}"
+msgid "start_button_install_drivers"
+msgstr ""
 
 msgid "start_button_install"
 msgstr "Конфигурирайте компютъра автоматично"
 
+msgid "start_title"
+msgstr "Автоматизирано конфигуриране на {{MODEL}}"
+
 msgid "start_caption"
 msgstr "DriverPack ще сканира системата, ще инсталира необходимите<br/>драйвери и софтуера и ще извърши диагностика. <br/>Ефективността на компютъра трябва да се увеличи."
+
+msgid "start_expert_mode"
+msgstr "Експертен режим"
+
+msgid "start_expert_mode_label"
+msgstr ""
 
 msgid "start_license"
 msgstr "Лицензионни условия"
 
-msgid "start_expert_mode"
-msgstr "Експертен режим"
+msgid "footer_site"
+msgstr "Премахване на DriverPack"
 
 msgid "start_drivers_title"
 msgid_plural "start_drivers_title_n"
 msgstr[0] "{{COUNT}} драйвери ще бъдат инсталирани"
 msgstr[1] "{{COUNT}} драйвери ще бъдат инсталирани "
 
+msgid "start_drivers_utils_popover"
+msgstr ""
+
 msgid "start_drivers_popover"
 msgstr "Драйверите за вашия компютър са избрани и са готови за инсталиране. Преди да започне, ще бъде създадена точка за възстановяване."
+
+msgid "start_programs_title_driver_utils"
+msgid_plural "start_programs_title_n"
+msgstr[0] ""
+msgstr[1] ""
 
 msgid "start_programs_title"
 msgid_plural "start_programs_title_n"
@@ -1352,6 +1405,12 @@ msgstr "DriverPack е подходящ за всеки компютър"
 msgid "installation_header_promo_text_driverpack_for_all"
 msgstr "Създадохме инструмента, който дава възможност конфигурацията на всеки компютър да бъде напълно автоматична. DriverPack съдържа повече от един милион драйвери, което позволява да конфигурирате всеки компютър само с един бутон. В резултат на това получавате инсталирани драйвери и помощни програми, внимателно избран софтуер (който е интегрираната част от конфигурирането), както и диагностиката на вашия компютър. Това означава, че DriverPack бързо конфигурира целия компютър с максимална ефективност само с едно кликване върху бутон."
 
+msgid "installation_header_promo_title_istart"
+msgstr ""
+
+msgid "installation_header_promo_text_istart"
+msgstr ""
+
 msgid "softcategories_archiver-single-for"
 msgstr "файлов архиватор"
 
@@ -1413,5 +1472,5 @@ msgstr "Звуковата карта е свързана неправилно �
 msgid "language_title"
 msgstr "Bulgarian"
 
-#~ msgid "configurator-screen_save-to"
-#~ msgstr "Save to the following folder:"
+#~ msgid "confirm_popup_install_button_ok"
+#~ msgstr "OK"

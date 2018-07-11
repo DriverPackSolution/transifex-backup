@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-31 11:33+0000\n"
-"PO-Revision-Date: 2018-05-31 13:20+0000\n"
+"POT-Creation-Date: 2018-07-04 13:20+0000\n"
+"PO-Revision-Date: 2018-07-09 21:24+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Telugu (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/te/)\n"
 "MIME-Version: 1.0\n"
@@ -216,6 +216,21 @@ msgstr "ఇతర పరికరంలు "
 
 msgid "deviceclasses_other-plural-for"
 msgstr "ఇతర పరికరంలు "
+
+msgid "activate_recommendations_title_programs"
+msgstr ""
+
+msgid "activate_recommendations_title_protect"
+msgstr ""
+
+msgid "activate_recommendations_button_programs"
+msgstr ""
+
+msgid "activate_recommendations_button_protect"
+msgstr ""
+
+msgid "programs_about"
+msgstr "ఇంకా నేర్చుకో"
 
 msgid "programs_eula"
 msgstr "లైసెన్స్ ఒప్పందం"
@@ -527,9 +542,6 @@ msgstr "తుది వినియోగదారు లైసెన్స�
 msgid "confirm_popup_policy-link"
 msgstr "గోప్యతా విధానం"
 
-msgid "confirm_popup_install_button_ok"
-msgstr "ఓకే "
-
 msgid "confirm_popup_install_button"
 msgstr "అంగీకరించండి మరియు ఇన్స్టాల్ చేయండి"
 
@@ -538,6 +550,9 @@ msgstr "సాఫ్ట్వేర్ "
 
 msgid "confirm_popup_cancel_button"
 msgstr "తిరస్కరించు"
+
+msgid "confirm_popup_cancel_all_button"
+msgstr ""
 
 msgid "diagnostics_section_title"
 msgstr "సిస్టం  డయాగ్నస్టిక్స్"
@@ -869,6 +884,9 @@ msgstr "మేము పునరుద్ధరణ పాయింట్ సృ
 msgid "installation_header_title"
 msgstr "మేము మీ కంప్యూటర్ని ఆకృతీకరిస్తున్నాము..."
 
+msgid "installation_header_promo_try"
+msgstr ""
+
 msgid "installation_header_promo_more"
 msgstr "ఇంకా నేర్చుకో"
 
@@ -877,6 +895,9 @@ msgstr "ఇన్స్టాల్"
 
 msgid "installation_header_promo_fb"
 msgstr "కమ్యూనిటీ Facebook "
+
+msgid "installation_header_promo_license"
+msgstr "లైసెన్స్ ఒప్పందం"
 
 msgid "installation_item_category_restorepoint"
 msgstr "పునరుద్ధరణ పాయింట్ "
@@ -1127,6 +1148,9 @@ msgstr "అవసరమైన సాఫ్ట్వేర్ ప్రోగ్�
 msgid "programs_header_text_caption"
 msgstr "సాఫ్ట్వేర్ కార్యక్రమాలు ఏ ఒక్క దానిలో ఒకటిగా ఉండవలసిన అవసరం లేదు. మీరు ఒక క్లిక్తో ప్రతిదీ సులభంగా ఇన్స్టాల్ చేయవచ్చు."
 
+msgid "drivers_program_recommend"
+msgstr ""
+
 msgid "drivers_program_counter"
 msgstr "సిఫార్సు చేసిన సాఫ్ట్వేర్"
 
@@ -1145,14 +1169,23 @@ msgstr "వెర్షన్:"
 msgid "protect_row_install_date"
 msgstr "సంస్థాపన తేదీ:"
 
+msgid "protect_rating_level_large_appesteem"
+msgstr ""
+
 msgid "protect_rating_level_large"
 msgstr "మీరు దీనిని తొలగించాలని మేము సిఫార్సు చేస్తున్నాము"
+
+msgid "protect_rating_level_middle_appesteem"
+msgstr ""
 
 msgid "protect_rating_level_middle"
 msgstr "మీరు దీన్ని తీసివేయవచ్చు"
 
 msgid "protect_rating_level_small"
 msgstr "మీరు దీన్ని ఉంచుకోవచ్చు"
+
+msgid "protect_rating_level_large_caption_appesteem"
+msgstr ""
 
 msgid "protect_rating_level_large_caption"
 msgstr "ఈ సాఫ్ట్వేర్ను తీసివేయమని మేము మీకు సిఫార్సు చేస్తున్నాము ఎందుకంటే అన్ని వినియోగదారుల్లో 70% అది తీసివేయబడుతుంది."
@@ -1184,6 +1217,9 @@ msgstr "DriverPack Protect అవాంఛనీయ సాఫ్ట్వేర�
 msgid "protect_installed_programs_title"
 msgstr "కంప్యూటర్లో ఇన్స్టాల్ చేయబడిన సాఫ్ట్వేర్"
 
+msgid "protect_installed_programs_switch_appesteem"
+msgstr ""
+
 msgid "protect_installed_programs_switch"
 msgstr "అనుమానాస్పద సాఫ్ట్వేర్ను మాత్రమే ప్రదర్శించు"
 
@@ -1202,28 +1238,45 @@ msgstr "DriverPack నిర్వాహకులకు ప్రత్యేక
 msgid "settings-screen_license"
 msgstr "లైసెన్స్ ఒప్పందం"
 
-msgid "start_title"
-msgstr "ఆటోమాటిస్ ఆకృతీకరించుట {{MODEL}}"
+msgid "start_button_install_drivers"
+msgstr ""
 
 msgid "start_button_install"
 msgstr "కంప్యూటర్ను స్వయంచాలకంగా కాన్ఫిగర్ చేయండి"
 
+msgid "start_title"
+msgstr "ఆటోమాటిస్ ఆకృతీకరించుట {{MODEL}}"
+
 msgid "start_caption"
 msgstr "DriverPack వ్యవస్థ స్కాన్ చేస్తుంది, అవసరమైన ఇన్స్టాల్<br/>డ్రైవర్లు మరియు సాఫ్ట్వేర్, మరియు విశ్లేషణ నిర్వహించడానికి. <br/>కంప్యూటర్ యొక్క సామర్థ్యాన్ని పెంచాలి."
+
+msgid "start_expert_mode"
+msgstr "నిపుణుడు మోడ్"
+
+msgid "start_expert_mode_label"
+msgstr ""
 
 msgid "start_license"
 msgstr "లైసెన్స్ ఒప్పందం"
 
-msgid "start_expert_mode"
-msgstr "నిపుణుడు మోడ్"
+msgid "footer_site"
+msgstr "DriverPack తొలగింపు"
 
 msgid "start_drivers_title"
 msgid_plural "start_drivers_title_n"
 msgstr[0] "{{COUNT}} డ్రైవర్  ఇన్స్టాల్ చేయబడుతుంది"
 msgstr[1] "{{COUNT}} డ్రైవర్స్ ఇన్స్టాల్ చేయబడతాయి"
 
+msgid "start_drivers_utils_popover"
+msgstr ""
+
 msgid "start_drivers_popover"
 msgstr "మీ కంప్యూటర్ కోసం డ్రైవర్లు ఎంపిక చేయబడ్డాయి మరియు సంస్థాపన కోసం సిద్ధంగా ఉన్నాయి. ఇది మొదలవుతుంది ముందు, పునరుద్ధరణ పాయింట్ సృష్టించబడుతుంది."
+
+msgid "start_programs_title_driver_utils"
+msgid_plural "start_programs_title_n"
+msgstr[0] ""
+msgstr[1] ""
 
 msgid "start_programs_title"
 msgid_plural "start_programs_title_n"
@@ -1350,6 +1403,12 @@ msgstr "DriverPack సరిపోతుంది ఏ కంప్యూటర�
 msgid "installation_header_promo_text_driverpack_for_all"
 msgstr "ఏ కంప్యూటర్ యొక్క కాన్ఫిగరేషన్ పూర్తిగా ఆటోమాటిక్గా చేయగల సాధనాన్ని మేము సృష్టించాము. DriverPack కేవలం ఒక బటన్ తో ఏ కంప్యూటర్ ఆకృతీకరించుటకు అనుమతించే ఒక మిలియన్ డ్రైవర్లు, కలిగి ఉంది. ఫలితంగా మీరు సంస్థాపించిన డ్రైవర్లు మరియు వినియోగాలు, జాగ్రత్తగా ఎంపిక చేయబడిన సాఫ్ట్ వేర్ (ఇది కాన్ఫిగర్ యొక్క ఇంటిగ్రేటెడ్ భాగం) అలాగే మీ కంప్యూటర్ యొక్క విశ్లేషణలను పొందుతుంది. దీని అర్థంDriverPack త్వరగా మీ మొత్తం కంప్యూటర్ని కేవలం ఒక బటన్ క్లిక్లో గరిష్ట సామర్థ్యాన్ని కాన్ఫిగర్ చేస్తుంది."
 
+msgid "installation_header_promo_title_istart"
+msgstr ""
+
+msgid "installation_header_promo_text_istart"
+msgstr ""
+
 msgid "softcategories_archiver-single-for"
 msgstr "ఫైల్ అర్చివేర్"
 
@@ -1411,5 +1470,5 @@ msgstr "ధ్వని కార్డు తప్పుగా అనుసం
 msgid "language_title"
 msgstr "Telugu"
 
-#~ msgid "configurator-screen_save-to"
-#~ msgstr "Save to the following folder:"
+#~ msgid "confirm_popup_install_button_ok"
+#~ msgstr "OK"

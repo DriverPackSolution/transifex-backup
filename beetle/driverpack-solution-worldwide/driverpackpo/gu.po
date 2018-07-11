@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-31 11:33+0000\n"
-"PO-Revision-Date: 2018-05-31 13:20+0000\n"
+"POT-Creation-Date: 2018-07-04 13:20+0000\n"
+"PO-Revision-Date: 2018-07-09 21:18+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Gujarati (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/gu/)\n"
 "MIME-Version: 1.0\n"
@@ -217,6 +217,21 @@ msgstr "બીજા ઉપકરણો"
 
 msgid "deviceclasses_other-plural-for"
 msgstr "બીજા ઉપકરણો"
+
+msgid "activate_recommendations_title_programs"
+msgstr ""
+
+msgid "activate_recommendations_title_protect"
+msgstr ""
+
+msgid "activate_recommendations_button_programs"
+msgstr ""
+
+msgid "activate_recommendations_button_protect"
+msgstr ""
+
+msgid "programs_about"
+msgstr "વધુ જાણો"
 
 msgid "programs_eula"
 msgstr "લાયસન્સ કરાર"
@@ -528,9 +543,6 @@ msgstr "અંત વપરાશકર્તા લાઈસન્સ કરા
 msgid "confirm_popup_policy-link"
 msgstr "ગોપનીયતા નીતિ"
 
-msgid "confirm_popup_install_button_ok"
-msgstr "ઠીક છે"
-
 msgid "confirm_popup_install_button"
 msgstr "સ્વીકારણાં અને સ્થાપના"
 
@@ -539,6 +551,9 @@ msgstr "સૉફ્ટવેર સ્થાપના"
 
 msgid "confirm_popup_cancel_button"
 msgstr "ઇન્કાર"
+
+msgid "confirm_popup_cancel_all_button"
+msgstr ""
 
 msgid "diagnostics_section_title"
 msgstr "સિસ્ટમ ડાયગ્નોસીસ"
@@ -870,6 +885,9 @@ msgstr "અમે રીસ્ટોર પોઈન્ટ ચાલુ કર�
 msgid "installation_header_title"
 msgstr "અમે તમારા કમ્પ્યુટરને સંસ્કરણીત કરી રહ્યાં છે... "
 
+msgid "installation_header_promo_try"
+msgstr ""
+
 msgid "installation_header_promo_more"
 msgstr "વધુ જાણો"
 
@@ -878,6 +896,9 @@ msgstr "ઇન્સ્ટોલ"
 
 msgid "installation_header_promo_fb"
 msgstr "Facebook પરની ટુકડી"
+
+msgid "installation_header_promo_license"
+msgstr "લાયસન્સ કરાર"
 
 msgid "installation_item_category_restorepoint"
 msgstr "રીસ્ટોર પોઈન્ટ"
@@ -1128,6 +1149,9 @@ msgstr "જરૂરી સૉફ્ટવેર પ્રોગ્રામ્�
 msgid "programs_header_text_caption"
 msgstr "બધાં સૉફ્ટવેર પ્રોગ્રામ્સ એક પછી એક સ્થાપવા માટે જોવાની જરૂર નથી. તમે બધું જ એક ક્લીક દ્વારા સ્થાપિત કરી શકશો."
 
+msgid "drivers_program_recommend"
+msgstr ""
+
 msgid "drivers_program_counter"
 msgstr "ભલામણ કરેલ સૉફ્ટવેર"
 
@@ -1146,14 +1170,23 @@ msgstr "સંસ્કરણ:"
 msgid "protect_row_install_date"
 msgstr "સ્થાપન તારીખ:"
 
+msgid "protect_rating_level_large_appesteem"
+msgstr ""
+
 msgid "protect_rating_level_large"
 msgstr "અમે તમને ભલામણ કરીએ છીએ કે આને તમો કાઢી મૂકો"
+
+msgid "protect_rating_level_middle_appesteem"
+msgstr ""
 
 msgid "protect_rating_level_middle"
 msgstr "તમારે કદાચ આને કાઢી નાખવું જોઈએ"
 
 msgid "protect_rating_level_small"
 msgstr "તમારે આ રાખવું જોઈએ"
+
+msgid "protect_rating_level_large_caption_appesteem"
+msgstr ""
 
 msgid "protect_rating_level_large_caption"
 msgstr "અમે આને કાઢવાની સલાહ આપીયે છીએ કારણ કે 70% લોકોએ પણ કાઢી નાખ્યું."
@@ -1185,6 +1218,9 @@ msgstr "DriverPack Protect અનિચ્છનીય સોફ્ટવેર�
 msgid "protect_installed_programs_title"
 msgstr "સૉફ્ટવેરની સ્થાપના આ કમ્પ્યુટર પર થઈ ગઈ"
 
+msgid "protect_installed_programs_switch_appesteem"
+msgstr ""
+
 msgid "protect_installed_programs_switch"
 msgstr "ખાલી લોચા લાગતાં હોય તે જ સૉફ્ટવેર બતાડો"
 
@@ -1203,28 +1239,45 @@ msgstr "DriverPack એડમિન્સ માટે ખાસ બનાવવ�
 msgid "settings-screen_license"
 msgstr "લાયસન્સ કરાર"
 
-msgid "start_title"
-msgstr "આપમેળે {{MODEL}} નું સંસ્કરણ"
+msgid "start_button_install_drivers"
+msgstr ""
 
 msgid "start_button_install"
 msgstr "કમ્પ્યુટરને આપમેળે સંસ્કરણિત કરો"
 
+msgid "start_title"
+msgstr "આપમેળે {{MODEL}} નું સંસ્કરણ"
+
 msgid "start_caption"
 msgstr "DriverPack સિસ્ટમને સ્કેન કરશે, જરૂરી ડ્રાઈવર્સ<br/>સ્થાપિત કરશે, અને ડાઈગ્નોસ્ટિક્સ પણ પરફોર્મ કરશે. <br/>કમ્પ્યુટરની કાર્યક્ષમતા પણ વધવી જોઈએ."
+
+msgid "start_expert_mode"
+msgstr "એક્સપર્ટ મોડ"
+
+msgid "start_expert_mode_label"
+msgstr ""
 
 msgid "start_license"
 msgstr "લાયસન્સ કરાર"
 
-msgid "start_expert_mode"
-msgstr "એક્સપર્ટ મોડ"
+msgid "footer_site"
+msgstr "DriverPack રીમુવલ"
 
 msgid "start_drivers_title"
 msgid_plural "start_drivers_title_n"
 msgstr[0] "{{COUNT}} ડ્રાઈવર સ્થાપિત થઈ જશે"
 msgstr[1] "{{COUNT}} ડ્રાઈવર્સ સ્થાપિત થઈ જશે"
 
+msgid "start_drivers_utils_popover"
+msgstr ""
+
 msgid "start_drivers_popover"
 msgstr "તમારા કમ્પ્યુટર માટે ડ્રાઇવરો પસંદ કરવામાં આવ્યા છે અને તે ઇન્સ્ટોલેશન માટે તૈયાર છે. તે શરૂ થાય તે પહેલાં, એક પુનઃસ્થાપિત બિંદુ બનાવવામાં આવશે."
+
+msgid "start_programs_title_driver_utils"
+msgid_plural "start_programs_title_n"
+msgstr[0] ""
+msgstr[1] ""
 
 msgid "start_programs_title"
 msgid_plural "start_programs_title_n"
@@ -1351,6 +1404,12 @@ msgstr "DriverPack કોઈપણ કમ્પ્યુટરને શોભ�
 msgid "installation_header_promo_text_driverpack_for_all"
 msgstr "અમે એ સાધન બનાવ્યું છે જે કોઈપણ કમ્પ્યુટરને સંપૂર્ણપણે સ્વયંસંચાલિત કરવા માટે સક્ષમ બનાવે છે. DriverPack એક મિલિયનથી વધુ ડ્રાઇવરો છે, જે કોઈપણ કમ્પ્યુટરને ફક્ત એક બટન સાથે ગોઠવવાની મંજૂરી આપે છે. પરિણામે તમે ડ્રાઇવર્સ અને ઉપયોગિતાઓને ઇન્સ્ટોલ કરો છો, કાળજીપૂર્વક પસંદ કરેલ સૉફ્ટવેર (જે ગોઠવણીનું સંકલિત ભાગ છે) તેમજ તમારા કમ્પ્યુટરના ડાયગ્નોસ્ટિક્સ છે. આનો અર્થ એ છે કે DriverPack ઝડપથી તમારા કમ્પ્યુટરને માત્ર એક બટન ક્લિકમાં મહત્તમ કાર્યક્ષમતામાં ગોઠવે છે."
 
+msgid "installation_header_promo_title_istart"
+msgstr ""
+
+msgid "installation_header_promo_text_istart"
+msgstr ""
+
 msgid "softcategories_archiver-single-for"
 msgstr "ફાઇલ આરકાઇવર"
 
@@ -1412,5 +1471,5 @@ msgstr "અવાજ કાર્ડ બરાબર ભરાવેલ નથ�
 msgid "language_title"
 msgstr "Gujarati"
 
-#~ msgid "configurator-screen_save-to"
-#~ msgstr "Save to the following folder:"
+#~ msgid "confirm_popup_install_button_ok"
+#~ msgstr "OK"

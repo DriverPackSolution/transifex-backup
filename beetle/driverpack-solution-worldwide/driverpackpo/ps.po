@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-31 11:33+0000\n"
-"PO-Revision-Date: 2018-05-31 13:20+0000\n"
+"POT-Creation-Date: 2018-07-04 13:20+0000\n"
+"PO-Revision-Date: 2018-07-09 21:22+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Pushto (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/ps/)\n"
 "MIME-Version: 1.0\n"
@@ -216,6 +216,21 @@ msgstr "بله وسیلی"
 
 msgid "deviceclasses_other-plural-for"
 msgstr "بله وسیلی"
+
+msgid "activate_recommendations_title_programs"
+msgstr ""
+
+msgid "activate_recommendations_title_protect"
+msgstr ""
+
+msgid "activate_recommendations_button_programs"
+msgstr ""
+
+msgid "activate_recommendations_button_protect"
+msgstr ""
+
+msgid "programs_about"
+msgstr "نور زده کړئ"
 
 msgid "programs_eula"
 msgstr "د جواز تړون"
@@ -527,9 +542,6 @@ msgstr "د پای د کارن جواز تړون"
 msgid "confirm_popup_policy-link"
 msgstr "د پټتیا تګلاره"
 
-msgid "confirm_popup_install_button_ok"
-msgstr "سمه ده"
-
 msgid "confirm_popup_install_button"
 msgstr "منم او انسټال یی کړه"
 
@@ -538,6 +550,9 @@ msgstr "د سافټوئر انسټالول"
 
 msgid "confirm_popup_cancel_button"
 msgstr "انکار"
+
+msgid "confirm_popup_cancel_all_button"
+msgstr ""
 
 msgid "diagnostics_section_title"
 msgstr "د سیستم تشخیص"
@@ -869,6 +884,9 @@ msgstr "موږ د بیا رغونې ټیم جوړ کوو ..."
 msgid "installation_header_title"
 msgstr "موږ ستاسو کمپیوټر ترتیب کوو ..."
 
+msgid "installation_header_promo_try"
+msgstr ""
+
 msgid "installation_header_promo_more"
 msgstr "نور زده کړئ"
 
@@ -877,6 +895,9 @@ msgstr "لګول"
 
 msgid "installation_header_promo_fb"
 msgstr "په فېسبوک کې ټولنه"
+
+msgid "installation_header_promo_license"
+msgstr "د جواز تړون"
 
 msgid "installation_item_category_restorepoint"
 msgstr "بیا رغونه"
@@ -1127,6 +1148,9 @@ msgstr "اړین سافټویر پروګرامونه نصب کړئ <b>({{COUNT}}
 msgid "programs_header_text_caption"
 msgstr "د سافټویر پروګرامونو ته د اړتیا په نظر کې نیولو سره هیڅ یو اړتیا نشته. تاسو په اسانۍ سره په یو ټک کې هرڅه نصب کولی شئ."
 
+msgid "drivers_program_recommend"
+msgstr ""
+
 msgid "drivers_program_counter"
 msgstr "سپارښتلي سافټویر"
 
@@ -1145,14 +1169,23 @@ msgstr "ورژن یا ډول"
 msgid "protect_row_install_date"
 msgstr "د لګولو نېټه:"
 
+msgid "protect_rating_level_large_appesteem"
+msgstr ""
+
 msgid "protect_rating_level_large"
 msgstr "موږ سپارښتنه کوو چې تاسو دا لرې کړئ"
+
+msgid "protect_rating_level_middle_appesteem"
+msgstr ""
 
 msgid "protect_rating_level_middle"
 msgstr "تاسو کولی شئ دا لیرې کړئ"
 
 msgid "protect_rating_level_small"
 msgstr "تاسو کولی شئ دا وساتئ"
+
+msgid "protect_rating_level_large_caption_appesteem"
+msgstr ""
 
 msgid "protect_rating_level_large_caption"
 msgstr "موږ تاسو ته سپارښتنه کوو چې دا سافټویر لرې کړو ځکه چې د ټولو کاروونکو 70٪ یې لرې کړئ."
@@ -1184,6 +1217,9 @@ msgstr "DriverPack Protect به د ناپسندیده سافټویر پاکول 
 msgid "protect_installed_programs_title"
 msgstr "سافټویر په کمپیوټر کې نصب شوی"
 
+msgid "protect_installed_programs_switch_appesteem"
+msgstr ""
+
 msgid "protect_installed_programs_switch"
 msgstr "یوازې شکمن سافټویر ښودل"
 
@@ -1202,28 +1238,45 @@ msgstr "DriverPack په ځانګړی توګه د دښمنانو لپاره جو�
 msgid "settings-screen_license"
 msgstr "د جواز تړون"
 
-msgid "start_title"
-msgstr "اتوماتیک ترتیب کول {{MODEL}}"
+msgid "start_button_install_drivers"
+msgstr ""
 
 msgid "start_button_install"
 msgstr "کمپیوټر په اتوماتیک ډول ترتیب کړئ"
 
+msgid "start_title"
+msgstr "اتوماتیک ترتیب کول {{MODEL}}"
+
 msgid "start_caption"
 msgstr "DriverPack د سیسټم سکینټ به اړین وي<br/>چلونکي او سافټویر، او تشخیص ترسره کوي. <br/>د کمپیوټر موثریت باید زیاتوالی ومومي."
+
+msgid "start_expert_mode"
+msgstr "د ماهر ټکي"
+
+msgid "start_expert_mode_label"
+msgstr ""
 
 msgid "start_license"
 msgstr "د جواز تړون"
 
-msgid "start_expert_mode"
-msgstr "د ماهر ټکي"
+msgid "footer_site"
+msgstr "DriverPack لیرې کول"
 
 msgid "start_drivers_title"
 msgid_plural "start_drivers_title_n"
 msgstr[0] "{{COUNT}} چلونکی به نصب شي "
 msgstr[1] "{{COUNT}} چلوونکي به نصب شي"
 
+msgid "start_drivers_utils_popover"
+msgstr ""
+
 msgid "start_drivers_popover"
 msgstr "ستاسو د کمپیوټر چلوونکي ټاکل شوي او د نصب لپاره چمتو دي. مخکې له دې چې دا پیل شي، د بیا رغونې ټکی به رامینځ ته شي."
+
+msgid "start_programs_title_driver_utils"
+msgid_plural "start_programs_title_n"
+msgstr[0] ""
+msgstr[1] ""
 
 msgid "start_programs_title"
 msgid_plural "start_programs_title_n"
@@ -1350,6 +1403,12 @@ msgstr "DriverPack هر کمپیوټر به سمبال کړي"
 msgid "installation_header_promo_text_driverpack_for_all"
 msgstr "موږ داسې وسیله جوړه کړې چې د هر کمپیوټر بشپړ ډول اتوماتیک ترتیب ترتیبوي. DriverPack د یو میلیون څخه ډیر چلوونکي لري، کوم چې د یو کمپیوټر سره کوم کمپیوټر کنټرولوي. د پایلې په توګه تاسو نصب نصبونکي او وړتیاوې، په احتیاط غوره شوي سافټویر (کوم چې د تنظیم کولو یوه برخه ده)، او همداراز ستاسو د کمپیوټر تشخیصات ترلاسه کوي. دا پدې مانا ده چې DriverPack په چټکۍ سره ستاسو ټول کمپیوټر په یو د تڼۍ کلیک کولو سره د ډیرو موثریت سره سم ترتیبوي."
 
+msgid "installation_header_promo_title_istart"
+msgstr ""
+
+msgid "installation_header_promo_text_istart"
+msgstr ""
+
 msgid "softcategories_archiver-single-for"
 msgstr "دوتنه archiver"
 
@@ -1411,5 +1470,5 @@ msgstr "د غږ کارت په ناسمه توګه منحل شوی، یا د هغ
 msgid "language_title"
 msgstr "Pushto"
 
-#~ msgid "configurator-screen_save-to"
-#~ msgstr "Save to the following folder:"
+#~ msgid "confirm_popup_install_button_ok"
+#~ msgstr "OK"

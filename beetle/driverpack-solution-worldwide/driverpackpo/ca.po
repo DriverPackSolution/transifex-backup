@@ -8,9 +8,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-31 11:33+0000\n"
-"PO-Revision-Date: 2018-06-04 19:38+0000\n"
-"Last-Translator: Josep Maria Antolin <josepma@gmail.com>\n"
+"POT-Creation-Date: 2018-07-04 13:20+0000\n"
+"PO-Revision-Date: 2018-07-09 20:37+0000\n"
+"Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Catalan (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/ca/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -218,6 +218,21 @@ msgstr "altres dispositius"
 
 msgid "deviceclasses_other-plural-for"
 msgstr "altres dispositius"
+
+msgid "activate_recommendations_title_programs"
+msgstr ""
+
+msgid "activate_recommendations_title_protect"
+msgstr ""
+
+msgid "activate_recommendations_button_programs"
+msgstr ""
+
+msgid "activate_recommendations_button_protect"
+msgstr ""
+
+msgid "programs_about"
+msgstr "Més informació"
 
 msgid "programs_eula"
 msgstr "Acord de llicència"
@@ -529,9 +544,6 @@ msgstr "Llicència d'usuari"
 msgid "confirm_popup_policy-link"
 msgstr "Política de Privacitat"
 
-msgid "confirm_popup_install_button_ok"
-msgstr "D'acord"
-
 msgid "confirm_popup_install_button"
 msgstr "Accepto i instal·la"
 
@@ -540,6 +552,9 @@ msgstr "Instal·lació de l'aplicació"
 
 msgid "confirm_popup_cancel_button"
 msgstr "Rebutja"
+
+msgid "confirm_popup_cancel_all_button"
+msgstr ""
 
 msgid "diagnostics_section_title"
 msgstr "Diagnosi del sistema"
@@ -871,6 +886,9 @@ msgstr "Estem creant un punt de restauració..."
 msgid "installation_header_title"
 msgstr "Estem configurant l'ordinador..."
 
+msgid "installation_header_promo_try"
+msgstr ""
+
 msgid "installation_header_promo_more"
 msgstr "més informació"
 
@@ -879,6 +897,9 @@ msgstr "instal·la"
 
 msgid "installation_header_promo_fb"
 msgstr "Comunitat de Facebook"
+
+msgid "installation_header_promo_license"
+msgstr "Acord de llicència"
 
 msgid "installation_item_category_restorepoint"
 msgstr "Punt de restauració"
@@ -1129,6 +1150,9 @@ msgstr "Instal·la les aplicacions seleccionades <b>({{COUNT}})</b>"
 msgid "programs_header_text_caption"
 msgstr "Ja no hi ha necessitat de cercar les aplicacions una a una. Podeu instal·lar-ho tot fàcilment amb un sol clic."
 
+msgid "drivers_program_recommend"
+msgstr ""
+
 msgid "drivers_program_counter"
 msgstr "Aplicacions recomanades"
 
@@ -1147,14 +1171,23 @@ msgstr "Versió:"
 msgid "protect_row_install_date"
 msgstr "Data d'instal·lació:"
 
+msgid "protect_rating_level_large_appesteem"
+msgstr ""
+
 msgid "protect_rating_level_large"
 msgstr "recomanem que l'elimineu"
+
+msgid "protect_rating_level_middle_appesteem"
+msgstr ""
 
 msgid "protect_rating_level_middle"
 msgstr "pots voler eliminar-la"
 
 msgid "protect_rating_level_small"
 msgstr "pots voler mantenir-la"
+
+msgid "protect_rating_level_large_caption_appesteem"
+msgstr ""
 
 msgid "protect_rating_level_large_caption"
 msgstr "Recomanem que elimineu aquesta aplicació perquè el 70% dels usuaris l'eliminen."
@@ -1186,6 +1219,9 @@ msgstr "DriverPack Protect netejarà l'ordinador d'aplicacións no desitjades i 
 msgid "protect_installed_programs_title"
 msgstr "Aplicacions instal·lades a l'ordinador"
 
+msgid "protect_installed_programs_switch_appesteem"
+msgstr ""
+
 msgid "protect_installed_programs_switch"
 msgstr "Mostra només les aplicacions sospitoses"
 
@@ -1204,28 +1240,45 @@ msgstr "DriverPack ha estat creat específicament per a administradors però és
 msgid "settings-screen_license"
 msgstr "Acord de llicència"
 
-msgid "start_title"
-msgstr "Configuració automàtica del {{MODEL}}"
+msgid "start_button_install_drivers"
+msgstr ""
 
 msgid "start_button_install"
 msgstr "Configura l'ordinador automàticament"
 
+msgid "start_title"
+msgstr "Configuració automàtica del {{MODEL}}"
+
 msgid "start_caption"
 msgstr "DriverPack escanejarà el sistema, instal·larà els controladors <br/> necessaris i les aplicacions i realitzarà uns diagnosis. <br/> La eficiència de l'ordinador hauria d'incrementar."
+
+msgid "start_expert_mode"
+msgstr "Mode Expert"
+
+msgid "start_expert_mode_label"
+msgstr ""
 
 msgid "start_license"
 msgstr "Acord de llicència"
 
-msgid "start_expert_mode"
-msgstr "Mode Expert"
+msgid "footer_site"
+msgstr "Desinstal·lació de DriverPack"
 
 msgid "start_drivers_title"
 msgid_plural "start_drivers_title_n"
 msgstr[0] "S'instal·larà {{COUNT}} controlador"
 msgstr[1] "S'instal·laran {{COUNT}} controladors"
 
+msgid "start_drivers_utils_popover"
+msgstr ""
+
 msgid "start_drivers_popover"
 msgstr "Els controladors del vostre ordinador han estat seleccionats i estan a punt per ser instal·lats. Abans de començar, es crearà un punt de restauració."
+
+msgid "start_programs_title_driver_utils"
+msgid_plural "start_programs_title_n"
+msgstr[0] ""
+msgstr[1] ""
 
 msgid "start_programs_title"
 msgid_plural "start_programs_title_n"
@@ -1352,6 +1405,12 @@ msgstr "DriverPack és útil per a qualsevol ordinador"
 msgid "installation_header_promo_text_driverpack_for_all"
 msgstr "Hem creat una eina que permet la configuració de qualsevol ordinador de forma completament automàtica. DriverPack conté més d'un milió de controladors, el que permet configurar qualsevol ordinador amb un sol botó. Com a resultat obteniu la instal·lació dels controladors i utilitats, un conjunt d'aplicacions curosament seleccionades (doncs és tracta d'una part integral de configurar un ordinador) i un diagnosi de l'ordinador. Això significa que DriverPack configura ràpidament tot l'ordinador per a la màxima eficiència amb un sol clic."
 
+msgid "installation_header_promo_title_istart"
+msgstr ""
+
+msgid "installation_header_promo_text_istart"
+msgstr ""
+
 msgid "softcategories_archiver-single-for"
 msgstr "compressor de fitxers"
 
@@ -1413,5 +1472,5 @@ msgstr "La targeta de so no està ben connectada, o hi ha algun problema que fa 
 msgid "language_title"
 msgstr "Catalan"
 
-#~ msgid "configurator-screen_save-to"
-#~ msgstr "Save to the following folder:"
+#~ msgid "confirm_popup_install_button_ok"
+#~ msgstr "OK"

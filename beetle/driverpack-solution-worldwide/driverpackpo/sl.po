@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-31 11:33+0000\n"
-"PO-Revision-Date: 2018-06-03 09:36+0000\n"
+"POT-Creation-Date: 2018-07-04 13:20+0000\n"
+"PO-Revision-Date: 2018-07-09 21:23+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Slovenian (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/sl/)\n"
 "MIME-Version: 1.0\n"
@@ -217,6 +217,21 @@ msgstr "druge naprave"
 
 msgid "deviceclasses_other-plural-for"
 msgstr "druge naprave"
+
+msgid "activate_recommendations_title_programs"
+msgstr ""
+
+msgid "activate_recommendations_title_protect"
+msgstr ""
+
+msgid "activate_recommendations_button_programs"
+msgstr ""
+
+msgid "activate_recommendations_button_protect"
+msgstr ""
+
+msgid "programs_about"
+msgstr "Nauči se več"
 
 msgid "programs_eula"
 msgstr "Licenčna pogodba"
@@ -528,9 +543,6 @@ msgstr "Licenčna pogodba za končnega uporabnika"
 msgid "confirm_popup_policy-link"
 msgstr "Pravilnik o zasebnosti"
 
-msgid "confirm_popup_install_button_ok"
-msgstr "V redu"
-
 msgid "confirm_popup_install_button"
 msgstr "Sprejmi in namesti"
 
@@ -539,6 +551,9 @@ msgstr "Namestitev programske opreme"
 
 msgid "confirm_popup_cancel_button"
 msgstr "Zavrni"
+
+msgid "confirm_popup_cancel_all_button"
+msgstr ""
 
 msgid "diagnostics_section_title"
 msgstr "Sistemska diagnostika"
@@ -880,6 +895,9 @@ msgstr "Ustvarjamo obnovitveno točko..."
 msgid "installation_header_title"
 msgstr "Konfiguriramo vaš računalnik..."
 
+msgid "installation_header_promo_try"
+msgstr ""
+
 msgid "installation_header_promo_more"
 msgstr "Naučite se več"
 
@@ -888,6 +906,9 @@ msgstr "namesti"
 
 msgid "installation_header_promo_fb"
 msgstr "Facebook skupnost"
+
+msgid "installation_header_promo_license"
+msgstr "Licenčna pogodba"
 
 msgid "installation_item_category_restorepoint"
 msgstr "Obnovitvena točka"
@@ -1138,6 +1159,9 @@ msgstr "Namestite potrebno programsko opremo <b>({{COUNT}})</b>"
 msgid "programs_header_text_caption"
 msgstr "Programskih programov ni treba več iskati enega po enega. Vse lahko enostavno namestite z enim klikom."
 
+msgid "drivers_program_recommend"
+msgstr ""
+
 msgid "drivers_program_counter"
 msgstr "Priporočena programska oprema"
 
@@ -1156,14 +1180,23 @@ msgstr "Trenutna različica:"
 msgid "protect_row_install_date"
 msgstr "Datum namestitve:"
 
+msgid "protect_rating_level_large_appesteem"
+msgstr ""
+
 msgid "protect_rating_level_large"
 msgstr "priporočamo vam da odstranite "
+
+msgid "protect_rating_level_middle_appesteem"
+msgstr ""
 
 msgid "protect_rating_level_middle"
 msgstr "to lahko odstranite"
 
 msgid "protect_rating_level_small"
 msgstr "to lahko obdržite"
+
+msgid "protect_rating_level_large_caption_appesteem"
+msgstr ""
 
 msgid "protect_rating_level_large_caption"
 msgstr "Priporočamo vam, da to programsko opremo odstranite, ker jo odstrani 70% vseh uporabnikov."
@@ -1195,6 +1228,9 @@ msgstr "DriverPack Protect bo očistil neželeno programsko opremo in zagotovil 
 msgid "protect_installed_programs_title"
 msgstr "Programska oprema nameščena na računalniku"
 
+msgid "protect_installed_programs_switch_appesteem"
+msgstr ""
+
 msgid "protect_installed_programs_switch"
 msgstr "Prikaži sumljivo programsko opremo"
 
@@ -1213,20 +1249,29 @@ msgstr "DriverPack je bil ustvarjen posebej za skrbnike, vendar je jasen in upor
 msgid "settings-screen_license"
 msgstr "Licenčna pogodba"
 
-msgid "start_title"
-msgstr "Avtomatična konfiguracija za {{MODEL}}"
+msgid "start_button_install_drivers"
+msgstr ""
 
 msgid "start_button_install"
 msgstr " Samodejna nastavitev računalnika"
 
+msgid "start_title"
+msgstr "Avtomatična konfiguracija za {{MODEL}}"
+
 msgid "start_caption"
 msgstr "DriverPack bo skeniral sistem, namestil potrebne<br/>programe in programsko opremo ter opravil diagnostiko. <br/>Učinkovitost računalnika bi se morala povečati."
+
+msgid "start_expert_mode"
+msgstr "Napredni način"
+
+msgid "start_expert_mode_label"
+msgstr ""
 
 msgid "start_license"
 msgstr "Licenčna pogodba"
 
-msgid "start_expert_mode"
-msgstr "Napredni način"
+msgid "footer_site"
+msgstr "Odstranitev programa DriverPack"
 
 msgid "start_drivers_title"
 msgid_plural "start_drivers_title_n"
@@ -1235,8 +1280,18 @@ msgstr[1] "{{COUNT}} gonilniki se bodo namestili"
 msgstr[2] "{{COUNT}} gonilnikov se bo namestilo"
 msgstr[3] "{{COUNT}} gonilnikov se bo namestilo"
 
+msgid "start_drivers_utils_popover"
+msgstr ""
+
 msgid "start_drivers_popover"
 msgstr "Gonilniki za vaš računalnik so bili izbrani in so pripravljeni za namestitev. Preden se zažene namestitev, bo ustvarjena obnovitvena točka sistema."
+
+msgid "start_programs_title_driver_utils"
+msgid_plural "start_programs_title_n"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
 
 msgid "start_programs_title"
 msgid_plural "start_programs_title_n"
@@ -1365,6 +1420,12 @@ msgstr "DriverPack bo ustrezal vsakemu računalniku"
 msgid "installation_header_promo_text_driverpack_for_all"
 msgstr "Ustvarili smo orodje, ki omogoča, da poteka konfiguracija katerega koli računalnika popolnoma avtomatsko. DriverPack vsebuje več kot milijon gonilnikov, kar omogoča konfiguriranje katerega koli računalnika s samo enim gumbom. Tako dobite nameščene gonilnike in pripomočke, skrbno izbrano programsko opremo (ki je integrirani del konfiguriranja), kot tudi diagnostiko vašega računalnika. To pomeni, da DriverPack hitro konfigurira celoten računalnik do največje učinkovitosti s samo enim klikom."
 
+msgid "installation_header_promo_title_istart"
+msgstr ""
+
+msgid "installation_header_promo_text_istart"
+msgstr ""
+
 msgid "softcategories_archiver-single-for"
 msgstr "arhiviranje datotek"
 
@@ -1426,5 +1487,5 @@ msgstr "Zvočna kartica ni nepravilno priključena ali pa obstajajo težave z nj
 msgid "language_title"
 msgstr "Slovenian"
 
-#~ msgid "configurator-screen_save-to"
-#~ msgstr "Save to the following folder:"
+#~ msgid "confirm_popup_install_button_ok"
+#~ msgstr "OK"

@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-31 11:33+0000\n"
-"PO-Revision-Date: 2018-07-01 09:33+0000\n"
+"POT-Creation-Date: 2018-07-04 13:20+0000\n"
+"PO-Revision-Date: 2018-07-09 21:25+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Yoruba (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/yo/)\n"
 "MIME-Version: 1.0\n"
@@ -217,6 +217,21 @@ msgstr "awon ero mi ran"
 
 msgid "deviceclasses_other-plural-for"
 msgstr "awon ero mi ran"
+
+msgid "activate_recommendations_title_programs"
+msgstr ""
+
+msgid "activate_recommendations_title_protect"
+msgstr ""
+
+msgid "activate_recommendations_button_programs"
+msgstr ""
+
+msgid "activate_recommendations_button_protect"
+msgstr ""
+
+msgid "programs_about"
+msgstr "Kọ ẹkọ diẹ si"
 
 msgid "programs_eula"
 msgstr "Adehun Iwe-aṣẹ"
@@ -528,9 +543,6 @@ msgstr "Adehun Iwe-ašẹ Olumulo Ipari"
 msgid "confirm_popup_policy-link"
 msgstr "Ìpamọ Afihan"
 
-msgid "confirm_popup_install_button_ok"
-msgstr "O DARA"
-
 msgid "confirm_popup_install_button"
 msgstr "Gba ati fi sori ẹrọ"
 
@@ -539,6 +551,9 @@ msgstr "Fifi sori ẹrọ Software"
 
 msgid "confirm_popup_cancel_button"
 msgstr "Kọ"
+
+msgid "confirm_popup_cancel_all_button"
+msgstr ""
 
 msgid "diagnostics_section_title"
 msgstr "Awọn iwadi wiwa System"
@@ -865,6 +880,9 @@ msgstr "A n ṣelọpọ ojuami imularada..."
 msgid "installation_header_title"
 msgstr "A n ṣatunṣe kọmputa rẹ..."
 
+msgid "installation_header_promo_try"
+msgstr ""
+
 msgid "installation_header_promo_more"
 msgstr "kọ ẹkọ diẹ si"
 
@@ -873,6 +891,9 @@ msgstr "fi sori ẹrọ"
 
 msgid "installation_header_promo_fb"
 msgstr "Agbegbe lori Facebook"
+
+msgid "installation_header_promo_license"
+msgstr "Adehun Iwe-aṣẹ"
 
 msgid "installation_item_category_restorepoint"
 msgstr "Opo pada"
@@ -1123,6 +1144,9 @@ msgstr "Fi eto eto software ti a beere sii <b>({{COUNT}})</b>"
 msgid "programs_header_text_caption"
 msgstr "Ko si ye lati wa awọn eto software naa lẹẹkọọkan ni gbogbo igba. O le fi awọn ohun elo sori ẹrọ lẹẹkankan ni kọọkan kan."
 
+msgid "drivers_program_recommend"
+msgstr ""
+
 msgid "drivers_program_counter"
 msgstr "Atilẹyin ti a ṣe iṣeduro"
 
@@ -1141,14 +1165,23 @@ msgstr "Version:"
 msgid "protect_row_install_date"
 msgstr "Ọjọ Fifi sori:"
 
+msgid "protect_rating_level_large_appesteem"
+msgstr ""
+
 msgid "protect_rating_level_large"
 msgstr "a ṣe iṣeduro pe ki o yọ eyi kuro"
+
+msgid "protect_rating_level_middle_appesteem"
+msgstr ""
 
 msgid "protect_rating_level_middle"
 msgstr "o le yọ eyi kuro"
 
 msgid "protect_rating_level_small"
 msgstr "o le pa eyi"
+
+msgid "protect_rating_level_large_caption_appesteem"
+msgstr ""
 
 msgid "protect_rating_level_large_caption"
 msgstr "A ṣe iṣeduro fun ọ lati yọ software yii kuro nitori 70% ti gbogbo awọn olumulo yọọ kuro."
@@ -1180,6 +1213,9 @@ msgstr "DriverPack Protect yoo nu ti software ti ko tọ ati pese aabo fun kọm
 msgid "protect_installed_programs_title"
 msgstr "Software ti a fi sori kọmputa naa"
 
+msgid "protect_installed_programs_switch_appesteem"
+msgstr ""
+
 msgid "protect_installed_programs_switch"
 msgstr "Ṣe afihan software idaniloju nikan"
 
@@ -1198,27 +1234,43 @@ msgstr "DriverPack ti ṣẹda pataki fun awọn admins ṣugbọn o ṣawari at
 msgid "settings-screen_license"
 msgstr "Adehun Iwe-aṣẹ"
 
-msgid "start_title"
-msgstr "Atunto laifọwọyi ti Automatiс {{MODEL}}"
+msgid "start_button_install_drivers"
+msgstr ""
 
 msgid "start_button_install"
 msgstr "Ṣe atunto kọmputa naa laifọwọyi"
 
+msgid "start_title"
+msgstr "Atunto laifọwọyi ti Automatiс {{MODEL}}"
+
 msgid "start_caption"
 msgstr "DriverPack yoo ṣayẹwo eto naa, fi sori ẹrọ awọn ohun elo<br/>ti a beere ati software, ati ṣe awọn ayẹwo. <br/>Išisẹ kọmputa yẹ ki o mu."
+
+msgid "start_expert_mode"
+msgstr "Ipo Amoye"
+
+msgid "start_expert_mode_label"
+msgstr ""
 
 msgid "start_license"
 msgstr "Adehun Iwe-aṣẹ"
 
-msgid "start_expert_mode"
-msgstr "Ipo Amoye"
+msgid "footer_site"
+msgstr "iyokuro DriverPack"
 
 msgid "start_drivers_title"
 msgid_plural "start_drivers_title_n"
 msgstr[0] "{{COUNT}} awakọ yoo wa ni fi sori ẹrọ"
 
+msgid "start_drivers_utils_popover"
+msgstr ""
+
 msgid "start_drivers_popover"
 msgstr "Awọn awakọ fun kọmputa rẹ ti yan ati pe o ṣetan fun fifi sori ẹrọ. Ṣaaju ki o to bẹrẹ, aaye ti o tun pada wa yoo ṣẹda."
+
+msgid "start_programs_title_driver_utils"
+msgid_plural "start_programs_title_n"
+msgstr[0] ""
 
 msgid "start_programs_title"
 msgid_plural "start_programs_title_n"
@@ -1344,6 +1396,12 @@ msgstr "DriverPack yoo ba eyikeyi kọmputa jẹ"
 msgid "installation_header_promo_text_driverpack_for_all"
 msgstr "A ti ṣẹda ọpa ti o ṣe iranlọwọ lati ṣe iṣeto ni eyikeyi kọmputa patapata. DriverPack ni diẹ ẹ sii ju awakọ miiẹrun, eyiti ngbanilaaye lati tunto eyikeyi kọmputa pẹlu bọtini kan kan. Gẹgẹbi abajade o gba awọn awakọ ati awọn ohun elo ti a fi sori ẹrọ, ẹrọ ti a yan daradara (eyiti o jẹ apakan ti iṣeto ti tito leto), bakanna pẹlu awọn iwadii ti kọmputa rẹ. Eyi tumọ si pe DriverPack yarayara configure gbogbo kọmputa rẹ si ṣiṣe ti o pọju ni bọtini kan kan tẹ."
 
+msgid "installation_header_promo_title_istart"
+msgstr ""
+
+msgid "installation_header_promo_text_istart"
+msgstr ""
+
 msgid "softcategories_archiver-single-for"
 msgstr "oluṣakoso faili"
 
@@ -1405,5 +1463,5 @@ msgstr "Ti sopọ mọ kaadi ti o tọ, tabi awọn iṣoro diẹ pẹlu iṣel�
 msgid "language_title"
 msgstr "Yoruba"
 
-#~ msgid "configurator-screen_save-to"
-#~ msgstr "Save to the following folder:"
+#~ msgid "confirm_popup_install_button_ok"
+#~ msgstr "OK"

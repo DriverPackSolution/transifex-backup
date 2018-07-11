@@ -1,7 +1,7 @@
 # Translators:
 # Translators:
 # ahmed felix <ahmed_master23@yahoo.com>, 2016
-# ahmed said <ahmed.serag280@gmail.com>, 2018
+# ahmed serag <ahmed.serag280@gmail.com>, 2018
 # Alaa Jannoud <alaaj99@gmail.com>, 2016
 # Milad Naaman <milad0011988@gmail.com>, 2017
 # Mohammed Abdullah <eng.abdullah.2540@gmail.com>, 2017
@@ -15,9 +15,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-31 11:33+0000\n"
-"PO-Revision-Date: 2018-06-14 13:25+0000\n"
-"Last-Translator: Suhieb Haddad\n"
+"POT-Creation-Date: 2018-07-04 13:20+0000\n"
+"PO-Revision-Date: 2018-07-09 20:35+0000\n"
+"Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Arabic (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/ar/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -225,6 +225,21 @@ msgstr "أجهزة أخرى"
 
 msgid "deviceclasses_other-plural-for"
 msgstr "أجهزة أخرى"
+
+msgid "activate_recommendations_title_programs"
+msgstr ""
+
+msgid "activate_recommendations_title_protect"
+msgstr ""
+
+msgid "activate_recommendations_button_programs"
+msgstr ""
+
+msgid "activate_recommendations_button_protect"
+msgstr ""
+
+msgid "programs_about"
+msgstr "اعرف أكثر"
 
 msgid "programs_eula"
 msgstr "اتفاقية الترخيص"
@@ -536,9 +551,6 @@ msgstr "نهاية اتفاقية ترخيص المستخدم"
 msgid "confirm_popup_policy-link"
 msgstr "السياسة المتعلقة بالبيانات الخصوصية"
 
-msgid "confirm_popup_install_button_ok"
-msgstr "حسنا"
-
 msgid "confirm_popup_install_button"
 msgstr "موافقه و تثبيت"
 
@@ -547,6 +559,9 @@ msgstr "تثبيت البرنامج "
 
 msgid "confirm_popup_cancel_button"
 msgstr "رفض"
+
+msgid "confirm_popup_cancel_all_button"
+msgstr ""
 
 msgid "diagnostics_section_title"
 msgstr "تشخيص النظام"
@@ -898,6 +913,9 @@ msgstr "نحن نصنع نقطة الاستعادة..."
 msgid "installation_header_title"
 msgstr "نقوم بتكوين جهاز الكمبيوتر الخاص بك..."
 
+msgid "installation_header_promo_try"
+msgstr ""
+
 msgid "installation_header_promo_more"
 msgstr "إعرف أكثر"
 
@@ -906,6 +924,9 @@ msgstr "تثبيت"
 
 msgid "installation_header_promo_fb"
 msgstr "مجتمعنا على Facebook"
+
+msgid "installation_header_promo_license"
+msgstr "اتفاقية الترخيص"
 
 msgid "installation_item_category_restorepoint"
 msgstr "استعادة لنقطة"
@@ -1156,6 +1177,9 @@ msgstr "قم بتثبيت البرامج المطلوبة <b>({{COUNT}})</b>"
 msgid "programs_header_text_caption"
 msgstr "ليست هناك حاجة للبحث عن البرامج مرة واحدة تلو الأخرى. يمكنك بسهولة تثبيت كل شيء بنقرة واحدة."
 
+msgid "drivers_program_recommend"
+msgstr ""
+
 msgid "drivers_program_counter"
 msgstr "البرامج الموصى بها"
 
@@ -1174,14 +1198,23 @@ msgstr "الإصدار:"
 msgid "protect_row_install_date"
 msgstr "تاريخ التثبيت:"
 
+msgid "protect_rating_level_large_appesteem"
+msgstr ""
+
 msgid "protect_rating_level_large"
 msgstr "نوصي بإزالة هذا"
+
+msgid "protect_rating_level_middle_appesteem"
+msgstr ""
 
 msgid "protect_rating_level_middle"
 msgstr "يمكنك إزالة هذا"
 
 msgid "protect_rating_level_small"
 msgstr "يمكنك الاحتفاظ بهذا"
+
+msgid "protect_rating_level_large_caption_appesteem"
+msgstr ""
 
 msgid "protect_rating_level_large_caption"
 msgstr "نوصيك بإزالة هذا البرنامج لأن 70٪ من جميع المستخدمين يقومون بإزالته."
@@ -1213,6 +1246,9 @@ msgstr "يقوم برنامج DriverPack Protect بتنظيف البرامج غ�
 msgid "protect_installed_programs_title"
 msgstr "البرامج المثبتة على الكمبيوتر"
 
+msgid "protect_installed_programs_switch_appesteem"
+msgstr ""
+
 msgid "protect_installed_programs_switch"
 msgstr "عرض البرامج المشبوهة فقط"
 
@@ -1231,20 +1267,29 @@ msgstr "تم إنشاء برنامج DriverPack خصيصًا للمشرفين و
 msgid "settings-screen_license"
 msgstr "اتفاقية الترخيص"
 
-msgid "start_title"
-msgstr "تكوين تلقائي من {{MODEL}}"
+msgid "start_button_install_drivers"
+msgstr ""
 
 msgid "start_button_install"
 msgstr "تكوين الكمبيوتر تلقائيا"
 
+msgid "start_title"
+msgstr "تكوين تلقائي من {{MODEL}}"
+
 msgid "start_caption"
 msgstr "سيقوم برنامج DriverPack بمسح النظام وتثبيت البرامج المطلوبة<br/>وبرامج الكمبيوتر وإجراء التشخيصات. <br/>يجب زيادة كفاءة الكمبيوتر."
+
+msgid "start_expert_mode"
+msgstr "وضع الخبراء"
+
+msgid "start_expert_mode_label"
+msgstr ""
 
 msgid "start_license"
 msgstr "اتفاقية الترخيص"
 
-msgid "start_expert_mode"
-msgstr "وضع الخبراء"
+msgid "footer_site"
+msgstr "ازاله DriverPack"
 
 msgid "start_drivers_title"
 msgid_plural "start_drivers_title_n"
@@ -1255,8 +1300,20 @@ msgstr[3] "{{COUNT}} سيتم تثبيت برامج التشغيل"
 msgstr[4] "{{COUNT}} سيتم تثبيت برامج التشغيل"
 msgstr[5] "سيتم تثبيت {{COUNT}} من التعريفات"
 
+msgid "start_drivers_utils_popover"
+msgstr ""
+
 msgid "start_drivers_popover"
 msgstr "تم تحديد برامج التشغيل للكمبيوتر الخاص بك وهي جاهزة للتثبيت. قبل أن تبدأ ، سيتم إنشاء نقطة استعادة."
+
+msgid "start_programs_title_driver_utils"
+msgid_plural "start_programs_title_n"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
 
 msgid "start_programs_title"
 msgid_plural "start_programs_title_n"
@@ -1387,6 +1444,12 @@ msgstr "DriverPack سيتوافق مع أي جهاز كمبيوتر "
 msgid "installation_header_promo_text_driverpack_for_all"
 msgstr "لقد أنشأنا الأداة التي تمكن من جعل تكوين أي جهاز كمبيوتر تلقائي بالكامل. يحتوي DriverPack على أكثر من مليون برنامج تشغيل ، مما يسمح بتكوين أي جهاز كمبيوتر بزر واحد فقط. ونتيجة لذلك ، يتم تثبيت برامج التشغيل والأدوات المساعدة والبرامج المحددة بعناية (وهي جزء متكامل من التكوين) ، بالإضافة إلى تشخيصات جهاز الكمبيوتر الخاص بك. هذا يعني أن برنامج DriverPack يقوم بتكوين جهاز الكمبيوتر الخاص بك بسرعة لتحقيق أقصى قدر من الكفاءة بنقرة زر واحدة فقط."
 
+msgid "installation_header_promo_title_istart"
+msgstr ""
+
+msgid "installation_header_promo_text_istart"
+msgstr ""
+
 msgid "softcategories_archiver-single-for"
 msgstr "مؤرشف الملفات"
 
@@ -1448,5 +1511,5 @@ msgstr "بطاقة الصوت متصلة بشكل غير صحيح أو توجد 
 msgid "language_title"
 msgstr "الإنجليزية"
 
-#~ msgid "configurator-screen_save-to"
-#~ msgstr "Save to the following folder:"
+#~ msgid "confirm_popup_install_button_ok"
+#~ msgstr "OK"

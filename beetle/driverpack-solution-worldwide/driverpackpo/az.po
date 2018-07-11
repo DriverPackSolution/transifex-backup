@@ -8,9 +8,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-31 11:33+0000\n"
-"PO-Revision-Date: 2018-06-22 19:40+0000\n"
-"Last-Translator: İsmət Sadıqov <ismet.sadiqov@gmail.com>\n"
+"POT-Creation-Date: 2018-07-04 13:20+0000\n"
+"PO-Revision-Date: 2018-07-09 20:37+0000\n"
+"Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Azerbaijani (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/az/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -218,6 +218,21 @@ msgstr "digər cihazlar"
 
 msgid "deviceclasses_other-plural-for"
 msgstr "digər cihazlar"
+
+msgid "activate_recommendations_title_programs"
+msgstr ""
+
+msgid "activate_recommendations_title_protect"
+msgstr ""
+
+msgid "activate_recommendations_button_programs"
+msgstr ""
+
+msgid "activate_recommendations_button_protect"
+msgstr ""
+
+msgid "programs_about"
+msgstr "Təfsilatı ilə"
 
 msgid "programs_eula"
 msgstr "Lisenziya Müqaviləsi"
@@ -529,9 +544,6 @@ msgstr "İstifadəçi Razılaşma Müqavilsi Axırı"
 msgid "confirm_popup_policy-link"
 msgstr "Məxvilik Siyasəti"
 
-msgid "confirm_popup_install_button_ok"
-msgstr "Oldu"
-
 msgid "confirm_popup_install_button"
 msgstr "Qəbul et və quraşdır"
 
@@ -540,6 +552,9 @@ msgstr "Proqram Quraşdırılma"
 
 msgid "confirm_popup_cancel_button"
 msgstr "Rədd et"
+
+msgid "confirm_popup_cancel_all_button"
+msgstr ""
 
 msgid "diagnostics_section_title"
 msgstr "Sistem Analizləri"
@@ -871,6 +886,9 @@ msgstr "Bərpa nöqtəsi yaradırıq..."
 msgid "installation_header_title"
 msgstr "Kompüterinizi tənzimləyirik..."
 
+msgid "installation_header_promo_try"
+msgstr ""
+
 msgid "installation_header_promo_more"
 msgstr "təfsilatı ilə"
 
@@ -879,6 +897,9 @@ msgstr "quraşdır"
 
 msgid "installation_header_promo_fb"
 msgstr "Facebook Qrupumuz"
+
+msgid "installation_header_promo_license"
+msgstr "Lisenziya Müqaviləsi"
 
 msgid "installation_item_category_restorepoint"
 msgstr "Bərpa Nöqtəsi"
@@ -1129,6 +1150,9 @@ msgstr "Lazım olan proqramları quraşdır <b>({{COUNT}})</b>"
 msgid "programs_header_text_caption"
 msgstr "Bundan sonra bir-bir proqram axtarmağa ehtiyac yoxdur. Hər şeyi bir kliklə quraşdıra bilərsiniz."
 
+msgid "drivers_program_recommend"
+msgstr ""
+
 msgid "drivers_program_counter"
 msgstr "Tövsiyyə olunan proqramlar"
 
@@ -1147,14 +1171,23 @@ msgstr "Versiya:"
 msgid "protect_row_install_date"
 msgstr "Quraşdırılma tarixi:"
 
+msgid "protect_rating_level_large_appesteem"
+msgstr ""
+
 msgid "protect_rating_level_large"
 msgstr "bunu silməyinizi tövsiyyə edirik"
+
+msgid "protect_rating_level_middle_appesteem"
+msgstr ""
 
 msgid "protect_rating_level_middle"
 msgstr "bunu silə bilərsiniz"
 
 msgid "protect_rating_level_small"
 msgstr "bunu saxlaya bilərsiniz"
+
+msgid "protect_rating_level_large_caption_appesteem"
+msgstr ""
 
 msgid "protect_rating_level_large_caption"
 msgstr "Bütün istifadəçilərin %70-i bunu sildiyi üçün bu proqramı silməyi tövsiyyə edirik."
@@ -1186,6 +1219,9 @@ msgstr "DriverPack Protect zərərli proqramları təmizləyəcək və bunlara g
 msgid "protect_installed_programs_title"
 msgstr "Kompüterinizdəki quraşdırılmış proqramlar"
 
+msgid "protect_installed_programs_switch_appesteem"
+msgstr ""
+
 msgid "protect_installed_programs_switch"
 msgstr "Sadəcə şübhəli proqramları göstər"
 
@@ -1204,28 +1240,45 @@ msgstr "DriverPack xüusislə idarəçilər üçün yaradılmışdır ancaq təc
 msgid "settings-screen_license"
 msgstr "Lisenziya Müqaviləsi"
 
-msgid "start_title"
-msgstr "{{MODEL}} avtomatik olaraq tənzimlənir"
+msgid "start_button_install_drivers"
+msgstr ""
 
 msgid "start_button_install"
 msgstr "Kompüteri avtomatik tənzimlə"
 
+msgid "start_title"
+msgstr "{{MODEL}} avtomatik olaraq tənzimlənir"
+
 msgid "start_caption"
 msgstr "DriverPack, sistemi analiz edəcək, lazımi driverləri və <br/>proqramı quraşdıracaq və diaqnostikalar edəcək. <br/>Kompüterin məhsuldarlığı artmalıdır."
+
+msgid "start_expert_mode"
+msgstr "Ekspert Rejimi"
+
+msgid "start_expert_mode_label"
+msgstr ""
 
 msgid "start_license"
 msgstr "Lisenziya Müqaviləsi"
 
-msgid "start_expert_mode"
-msgstr "Ekspert Rejimi"
+msgid "footer_site"
+msgstr "DriverPack silmə"
 
 msgid "start_drivers_title"
 msgid_plural "start_drivers_title_n"
 msgstr[0] "{{COUNT}} driver quraşdırılacaq "
 msgstr[1] "{{COUNT}} driver quraşdırılacaq"
 
+msgid "start_drivers_utils_popover"
+msgstr ""
+
 msgid "start_drivers_popover"
 msgstr "Kompüteriniz üçün driverlər seçilmişdir və quraşdırma üçün hazırdır. Quraşdırma başlamamışdan qabaq, bir bərpa nöqtəsi yaradılacaq."
+
+msgid "start_programs_title_driver_utils"
+msgid_plural "start_programs_title_n"
+msgstr[0] ""
+msgstr[1] ""
 
 msgid "start_programs_title"
 msgid_plural "start_programs_title_n"
@@ -1352,6 +1405,12 @@ msgstr "DriverPack istənilən kompüter üçün uyğun olacaqdır"
 msgid "installation_header_promo_text_driverpack_for_all"
 msgstr "İstənilən kompüterin tənzimlənməsini tamamilə avtomatik edə bilən alət yaratdıq. DriverPack, istənilən kompüteri sadəcə bir düymə ilə tənzimləyə bilən bir milyondan çox driverin sahibidir. Nəticə etibarı ilə, kompüterinizin analizlərindən əlavə quraşdırılmış driverlərin və köməkçi proqramların, diqqətlə seçilmiş proqramların (tənzimləmənin inteqrasiya edilmiş parçası olan) sahibi olursunuz. Bu, DriverPack-ın kompüterinizin tənzimlənməsini bir kliklə tam şəkildə ən və yüksək məhsularlıqla sürətlə etməsi deməkdir. "
 
+msgid "installation_header_promo_title_istart"
+msgstr ""
+
+msgid "installation_header_promo_text_istart"
+msgstr ""
+
 msgid "softcategories_archiver-single-for"
 msgstr "fayl arxivləyici"
 
@@ -1413,5 +1472,5 @@ msgstr "Səs kartı yanlış olaraq bağlanıb ya da işləməsi ilə bağlı pr
 msgid "language_title"
 msgstr "Azerbaijani"
 
-#~ msgid "configurator-screen_save-to"
-#~ msgstr "Save to the following folder:"
+#~ msgid "confirm_popup_install_button_ok"
+#~ msgstr "OK"

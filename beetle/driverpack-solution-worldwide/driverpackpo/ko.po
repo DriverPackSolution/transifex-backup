@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-31 11:33+0000\n"
-"PO-Revision-Date: 2018-07-02 06:36+0000\n"
+"POT-Creation-Date: 2018-07-04 13:20+0000\n"
+"PO-Revision-Date: 2018-07-09 21:20+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Korean (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/ko/)\n"
 "MIME-Version: 1.0\n"
@@ -216,6 +216,21 @@ msgstr "기타 장치"
 
 msgid "deviceclasses_other-plural-for"
 msgstr "기타 장치"
+
+msgid "activate_recommendations_title_programs"
+msgstr ""
+
+msgid "activate_recommendations_title_protect"
+msgstr ""
+
+msgid "activate_recommendations_button_programs"
+msgstr ""
+
+msgid "activate_recommendations_button_protect"
+msgstr ""
+
+msgid "programs_about"
+msgstr "더 알아보기"
 
 msgid "programs_eula"
 msgstr "라이센스 동의"
@@ -527,9 +542,6 @@ msgstr "최종 사용자 라이센스 동의"
 msgid "confirm_popup_policy-link"
 msgstr "개인 정보 정책"
 
-msgid "confirm_popup_install_button_ok"
-msgstr "확인"
-
 msgid "confirm_popup_install_button"
 msgstr "수락 및 설치"
 
@@ -538,6 +550,9 @@ msgstr "소프트웨어 설치"
 
 msgid "confirm_popup_cancel_button"
 msgstr "거부"
+
+msgid "confirm_popup_cancel_all_button"
+msgstr ""
 
 msgid "diagnostics_section_title"
 msgstr "시스템 진단"
@@ -864,6 +879,9 @@ msgstr "복원 지점 생성 중…"
 msgid "installation_header_title"
 msgstr "컴퓨터를 구성 중…"
 
+msgid "installation_header_promo_try"
+msgstr ""
+
 msgid "installation_header_promo_more"
 msgstr "더 알아보기"
 
@@ -872,6 +890,9 @@ msgstr "설치"
 
 msgid "installation_header_promo_fb"
 msgstr "페이스북의 커뮤니티"
+
+msgid "installation_header_promo_license"
+msgstr "라이센스 동의"
 
 msgid "installation_item_category_restorepoint"
 msgstr "복원 지점"
@@ -1122,6 +1143,9 @@ msgstr "필요한 소프트웨어 프로그램 <b>({{COUNT}})</b> 개 설치"
 msgid "programs_header_text_caption"
 msgstr "더 이상 하나씩 소프트웨어 프로그램을 찾을 필요가 없습니다. 한번의 클릭으로 모든 것을 쉽게 설치할 수 있습니다."
 
+msgid "drivers_program_recommend"
+msgstr ""
+
 msgid "drivers_program_counter"
 msgstr "권장 소프트웨어"
 
@@ -1140,14 +1164,23 @@ msgstr "버전:"
 msgid "protect_row_install_date"
 msgstr "설치 날짜:"
 
+msgid "protect_rating_level_large_appesteem"
+msgstr ""
+
 msgid "protect_rating_level_large"
 msgstr "이 항목을 삭제할 것을 권장합니다"
+
+msgid "protect_rating_level_middle_appesteem"
+msgstr ""
 
 msgid "protect_rating_level_middle"
 msgstr "이 항목을 삭제할 수 있습니다"
 
 msgid "protect_rating_level_small"
 msgstr "이 항목을 유지할 수 있습니다"
+
+msgid "protect_rating_level_large_caption_appesteem"
+msgstr ""
 
 msgid "protect_rating_level_large_caption"
 msgstr "모든 사용자의 70 % 가 제거하기 때문에 이 소프트웨어를 제거하는 것이 좋습니다."
@@ -1179,6 +1212,9 @@ msgstr "DriverPack Protect 는 원하지 않는 소프트웨어를 제거하고 
 msgid "protect_installed_programs_title"
 msgstr "소프트웨어가 컴퓨터에 설치되었습니다"
 
+msgid "protect_installed_programs_switch_appesteem"
+msgstr ""
+
 msgid "protect_installed_programs_switch"
 msgstr "의심스러운 소프트웨어만 표시"
 
@@ -1197,27 +1233,43 @@ msgstr "DriverPack 은 관리자를 위해 특별히 제작되었지만 초보 �
 msgid "settings-screen_license"
 msgstr "라이센스 동의"
 
-msgid "start_title"
-msgstr "{{MODEL}} 의 자동 구성"
+msgid "start_button_install_drivers"
+msgstr ""
 
 msgid "start_button_install"
 msgstr "컴퓨터 자동 구성"
 
+msgid "start_title"
+msgstr "{{MODEL}} 의 자동 구성"
+
 msgid "start_caption"
 msgstr "DriverPack 은 시스템을 검사하고 필요한 드라이버와<br/>소프트웨어를 설치하며 진단을 수행합니다. <br/>컴퓨터의 효율성이 높아집니다."
+
+msgid "start_expert_mode"
+msgstr "전문가 모드"
+
+msgid "start_expert_mode_label"
+msgstr ""
 
 msgid "start_license"
 msgstr "라이센스 동의"
 
-msgid "start_expert_mode"
-msgstr "전문가 모드"
+msgid "footer_site"
+msgstr "DriverPack 제거"
 
 msgid "start_drivers_title"
 msgid_plural "start_drivers_title_n"
 msgstr[0] "{{COUNT}} 개의 드라이버가 설치됩니다"
 
+msgid "start_drivers_utils_popover"
+msgstr ""
+
 msgid "start_drivers_popover"
 msgstr "컴퓨터 용 드라이버가 선택되어 설치 준비가 되었습니다. 시작하기 전에 복원 지점이 생성됩니다."
+
+msgid "start_programs_title_driver_utils"
+msgid_plural "start_programs_title_n"
+msgstr[0] ""
 
 msgid "start_programs_title"
 msgid_plural "start_programs_title_n"
@@ -1343,6 +1395,12 @@ msgstr "DriverPack 은 모든 컴퓨터에 적합합니다"
 msgid "installation_header_promo_text_driverpack_for_all"
 msgstr "우리는 모든 컴퓨터의 구성을 전적으로 자동으로 만들 수 있는 도구를 만들었습니다. DriverPack 에는 100만 개 이상의 드라이버가 포함되어 있어 하나의 버튼으로 모든 컴퓨터를 구성할 수 있습니다. 결과적으로 설치된 드라이버와 유틸리티, 신중하게 선택한 소프트웨어 (구성의 통합 부분) 및 컴퓨터 진단을 얻게됩니다. 즉, DriverPack 은 단 한번의 버튼 클릭으로 전체 컴퓨터를 최대한의 효율성으로 신속하게 구성합니다."
 
+msgid "installation_header_promo_title_istart"
+msgstr ""
+
+msgid "installation_header_promo_text_istart"
+msgstr ""
+
 msgid "softcategories_archiver-single-for"
 msgstr "파일 압축기"
 
@@ -1404,5 +1462,5 @@ msgstr "사운드 카드가 잘못 연결되었거나 조작상 문제가 있습
 msgid "language_title"
 msgstr "Korean"
 
-#~ msgid "configurator-screen_save-to"
-#~ msgstr "Save to the following folder:"
+#~ msgid "confirm_popup_install_button_ok"
+#~ msgstr "OK"

@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-31 11:33+0000\n"
-"PO-Revision-Date: 2018-05-31 13:20+0000\n"
+"POT-Creation-Date: 2018-07-04 13:20+0000\n"
+"PO-Revision-Date: 2018-07-09 21:17+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Filipino (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/fil/)\n"
 "MIME-Version: 1.0\n"
@@ -218,6 +218,21 @@ msgstr "iba pang mga devices"
 
 msgid "deviceclasses_other-plural-for"
 msgstr "iba pang mga devices"
+
+msgid "activate_recommendations_title_programs"
+msgstr ""
+
+msgid "activate_recommendations_title_protect"
+msgstr ""
+
+msgid "activate_recommendations_button_programs"
+msgstr ""
+
+msgid "activate_recommendations_button_protect"
+msgstr ""
+
+msgid "programs_about"
+msgstr "Matuto nang higit pa"
 
 msgid "programs_eula"
 msgstr "Kasunduan sa Lisensya"
@@ -529,9 +544,6 @@ msgstr "Kasunduan sa Lisensya ng End User"
 msgid "confirm_popup_policy-link"
 msgstr "Patakaran sa Pagkapribado"
 
-msgid "confirm_popup_install_button_ok"
-msgstr "OK"
-
 msgid "confirm_popup_install_button"
 msgstr "Tanggapin at i-install"
 
@@ -540,6 +552,9 @@ msgstr "Pag-install ng Software"
 
 msgid "confirm_popup_cancel_button"
 msgstr "Tanggihan"
+
+msgid "confirm_popup_cancel_all_button"
+msgstr ""
 
 msgid "diagnostics_section_title"
 msgstr "Sistema ng Diagnostics"
@@ -871,6 +886,9 @@ msgstr "Nililikha namin ang restore point..."
 msgid "installation_header_title"
 msgstr "Nino-configure namin ang iyong computer..."
 
+msgid "installation_header_promo_try"
+msgstr ""
+
 msgid "installation_header_promo_more"
 msgstr "matuto nang higit pa"
 
@@ -879,6 +897,9 @@ msgstr "i-install"
 
 msgid "installation_header_promo_fb"
 msgstr "Komunidad sa Facebook"
+
+msgid "installation_header_promo_license"
+msgstr "Kasunduan sa Lisensya"
 
 msgid "installation_item_category_restorepoint"
 msgstr "Restore point"
@@ -1129,6 +1150,9 @@ msgstr "I-install ang mga kinakailangang program ng software <b>({{COUNT}})</b>"
 msgid "programs_header_text_caption"
 msgstr "Hindi na kailangang hanapin ang mga program ng software nang isa-isa. Madali mong mai-iinstall sa isang click lang."
 
+msgid "drivers_program_recommend"
+msgstr ""
+
 msgid "drivers_program_counter"
 msgstr "Inirerekomendang software"
 
@@ -1147,14 +1171,23 @@ msgstr "Bersyon:"
 msgid "protect_row_install_date"
 msgstr "Petsa ng Pag-install:"
 
+msgid "protect_rating_level_large_appesteem"
+msgstr ""
+
 msgid "protect_rating_level_large"
 msgstr "inirerekomenda namin na alisin mo ito"
+
+msgid "protect_rating_level_middle_appesteem"
+msgstr ""
 
 msgid "protect_rating_level_middle"
 msgstr "maaari mong alisin ito"
 
 msgid "protect_rating_level_small"
 msgstr "maaari mong panatilihin ito"
+
+msgid "protect_rating_level_large_caption_appesteem"
+msgstr ""
 
 msgid "protect_rating_level_large_caption"
 msgstr "Inirerekumenda namin sa iyo na tanggalin ang software na ito dahil 70% ng lahat ng mga users inaalis ito."
@@ -1186,6 +1219,9 @@ msgstr "Ang DriverPack Protect ay linisin ang hindi kanais-nais na software at m
 msgid "protect_installed_programs_title"
 msgstr "Mga Software Naka-Install sa computer"
 
+msgid "protect_installed_programs_switch_appesteem"
+msgstr ""
+
 msgid "protect_installed_programs_switch"
 msgstr "Ipakita ang kahina-hinalang software"
 
@@ -1204,28 +1240,45 @@ msgstr "Ang DriverPack ay partikular na nilikha para sa mga admin ngunit malinaw
 msgid "settings-screen_license"
 msgstr "Kasunduan sa Lisensya"
 
-msgid "start_title"
-msgstr "Awtomatikong pag-configure ng mga {{MODEL}}"
+msgid "start_button_install_drivers"
+msgstr ""
 
 msgid "start_button_install"
 msgstr "Awtomatikong i-configure ang computer"
 
+msgid "start_title"
+msgstr "Awtomatikong pag-configure ng mga {{MODEL}}"
+
 msgid "start_caption"
 msgstr "I-scan ng DriverPack ang system, i-install ang mga kailanganin<br/>na drivers at software, at magsagawa ng mga diagnostic. <br/>Ang kahusayan ng computer ay dapat dagdagan."
+
+msgid "start_expert_mode"
+msgstr "Expert Mode"
+
+msgid "start_expert_mode_label"
+msgstr ""
 
 msgid "start_license"
 msgstr "Kasunduan sa Lisensya"
 
-msgid "start_expert_mode"
-msgstr "Expert Mode"
+msgid "footer_site"
+msgstr "Pag-alis ng DriverPack"
 
 msgid "start_drivers_title"
 msgid_plural "start_drivers_title_n"
 msgstr[0] "{{COUNT}} mai-install ang mga driver"
 msgstr[1] "{{COUNT}} mai-install ang mga driver "
 
+msgid "start_drivers_utils_popover"
+msgstr ""
+
 msgid "start_drivers_popover"
 msgstr "Ang mga driver para sa iyong computer ay napili at handa na para sa pag-install. Bago ito magsimula, ito ay malilikha ang isang restore point."
+
+msgid "start_programs_title_driver_utils"
+msgid_plural "start_programs_title_n"
+msgstr[0] ""
+msgstr[1] ""
 
 msgid "start_programs_title"
 msgid_plural "start_programs_title_n"
@@ -1352,6 +1405,12 @@ msgstr "Ang DriverPack ay angkop sa anumang computer"
 msgid "installation_header_promo_text_driverpack_for_all"
 msgstr "Nilikha namin ang tool na nagbibigay-daan upang awtomatikong gawin ang pagsasaayos ng anumang computer. Ang DriverPack ay naglalaman ng higit sa isang milyong mga driver, na nagbibigay-daan upang i-configure ang anumang computer sa isang pindutan lamang. Bilang resulta, nakakuha ka ng mga naka-install na driver at kagamitan, maingat na piniling software (na kung saan ay ang pinagsamang bahagi ng pag-configure), pati na rin ang mga diagnostic ng iyong computer. Nangangahulugan ito na mabilis na configure ng DriverPack ang iyong buong computer sa pinakamataas na kahusayan sa isang click lamang."
 
+msgid "installation_header_promo_title_istart"
+msgstr ""
+
+msgid "installation_header_promo_text_istart"
+msgstr ""
+
 msgid "softcategories_archiver-single-for"
 msgstr "file archiver"
 
@@ -1413,5 +1472,5 @@ msgstr "Ang sound card ay hindi nakakonekta, o may ilang mga problema sa operabi
 msgid "language_title"
 msgstr "Filipino"
 
-#~ msgid "configurator-screen_save-to"
-#~ msgstr "Save to the following folder:"
+#~ msgid "confirm_popup_install_button_ok"
+#~ msgstr "OK"

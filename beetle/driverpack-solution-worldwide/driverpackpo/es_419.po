@@ -14,8 +14,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-31 11:33+0000\n"
-"PO-Revision-Date: 2018-05-31 13:20+0000\n"
+"POT-Creation-Date: 2018-07-04 13:20+0000\n"
+"PO-Revision-Date: 2018-07-09 21:23+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Spanish (Latin America) (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/es_419/)\n"
 "MIME-Version: 1.0\n"
@@ -224,6 +224,21 @@ msgstr "Otros dispositivos"
 
 msgid "deviceclasses_other-plural-for"
 msgstr "Otros dispositivos"
+
+msgid "activate_recommendations_title_programs"
+msgstr ""
+
+msgid "activate_recommendations_title_protect"
+msgstr ""
+
+msgid "activate_recommendations_button_programs"
+msgstr ""
+
+msgid "activate_recommendations_button_protect"
+msgstr ""
+
+msgid "programs_about"
+msgstr "Aprende más"
 
 msgid "programs_eula"
 msgstr "Acuerdo de licencia"
@@ -535,9 +550,6 @@ msgstr "Acuerdo de Licencia Final del Usuario"
 msgid "confirm_popup_policy-link"
 msgstr "Políticas de Privacidad"
 
-msgid "confirm_popup_install_button_ok"
-msgstr "Aceptar"
-
 msgid "confirm_popup_install_button"
 msgstr "Aceptad e instalar"
 
@@ -546,6 +558,9 @@ msgstr "Instalación de Software"
 
 msgid "confirm_popup_cancel_button"
 msgstr "Desperdicios "
+
+msgid "confirm_popup_cancel_all_button"
+msgstr ""
 
 msgid "diagnostics_section_title"
 msgstr "Monitor de rendimiento y recursos"
@@ -877,6 +892,9 @@ msgstr "Estamos creando el punto de restauración..."
 msgid "installation_header_title"
 msgstr "Estamos configurando tu computadora..."
 
+msgid "installation_header_promo_try"
+msgstr ""
+
 msgid "installation_header_promo_more"
 msgstr "aprende más"
 
@@ -885,6 +903,9 @@ msgstr "instalar"
 
 msgid "installation_header_promo_fb"
 msgstr "Comunidad en Facebook"
+
+msgid "installation_header_promo_license"
+msgstr "Acuerdo de licencia"
 
 msgid "installation_item_category_restorepoint"
 msgstr "Punto de restauración"
@@ -1135,6 +1156,9 @@ msgstr "Instale los programas de software requeridos<b>({{COUNT}})</b>"
 msgid "programs_header_text_caption"
 msgstr "No hay necesidad de buscar los programas de software uno por uno por más tiempo. Puede instalar todo fácilmente con un solo clic."
 
+msgid "drivers_program_recommend"
+msgstr ""
+
 msgid "drivers_program_counter"
 msgstr "Software recomendado"
 
@@ -1153,14 +1177,23 @@ msgstr "Versión:"
 msgid "protect_row_install_date"
 msgstr "Fecha de instalación:"
 
+msgid "protect_rating_level_large_appesteem"
+msgstr ""
+
 msgid "protect_rating_level_large"
 msgstr "te recomendamos que elimines esto"
+
+msgid "protect_rating_level_middle_appesteem"
+msgstr ""
 
 msgid "protect_rating_level_middle"
 msgstr "puedes eliminar esto"
 
 msgid "protect_rating_level_small"
 msgstr "puedes mantener esto"
+
+msgid "protect_rating_level_large_caption_appesteem"
+msgstr ""
 
 msgid "protect_rating_level_large_caption"
 msgstr "Le recomendamos que elimine este software porque el 70% de todos los usuarios lo eliminan."
@@ -1192,6 +1225,9 @@ msgstr "DriverPack Protect, limpiará el software no deseado y brindará protecc
 msgid "protect_installed_programs_title"
 msgstr "Software instalado en la computadora"
 
+msgid "protect_installed_programs_switch_appesteem"
+msgstr ""
+
 msgid "protect_installed_programs_switch"
 msgstr "Mostrar solo el software sospechoso"
 
@@ -1210,28 +1246,45 @@ msgstr "DriverPack ha sido creado específicamente para administradores, pero es
 msgid "settings-screen_license"
 msgstr "Acuerdo de licencia"
 
-msgid "start_title"
-msgstr "Configuración automática de {{MODEL}}"
+msgid "start_button_install_drivers"
+msgstr ""
 
 msgid "start_button_install"
 msgstr "Configure la computadora automáticamente"
 
+msgid "start_title"
+msgstr "Configuración automática de {{MODEL}}"
+
 msgid "start_caption"
 msgstr "DriverPack escaneará el sistema, instalará el<br/>controladores y software, y realizar diagnósticos. <br/>La eficiencia de la computadora debería aumentar."
+
+msgid "start_expert_mode"
+msgstr "Modo experto"
+
+msgid "start_expert_mode_label"
+msgstr ""
 
 msgid "start_license"
 msgstr "Acuerdo de licencia"
 
-msgid "start_expert_mode"
-msgstr "Modo experto"
+msgid "footer_site"
+msgstr "DriverPack eliminador"
 
 msgid "start_drivers_title"
 msgid_plural "start_drivers_title_n"
 msgstr[0] "{{COUNT}}controlador se instalará "
 msgstr[1] "{{COUNT}}controladores serán instalados "
 
+msgid "start_drivers_utils_popover"
+msgstr ""
+
 msgid "start_drivers_popover"
 msgstr "Los controladores para su computadora han sido seleccionados y están listos para su instalación. Antes de que comience, se creará un punto de restauración."
+
+msgid "start_programs_title_driver_utils"
+msgid_plural "start_programs_title_n"
+msgstr[0] ""
+msgstr[1] ""
 
 msgid "start_programs_title"
 msgid_plural "start_programs_title_n"
@@ -1358,6 +1411,12 @@ msgstr "DriverPack se adaptará a cualquier computadora"
 msgid "installation_header_promo_text_driverpack_for_all"
 msgstr "Hemos creado la herramienta que permite que la configuración de cualquier computadora sea completamente automática. DriverPack contiene más de un millón de controladores, lo que permite configurar cualquier computadora con solo un botón. Como resultado, obtiene controladores y utilidades instalados, software cuidadosamente seleccionado (que es la parte integrada de la configuración), así como el diagnóstico de su computadora. Esto significa que DriverPack configura rápidamente toda su computadora con la máxima eficiencia con solo un clic de botón."
 
+msgid "installation_header_promo_title_istart"
+msgstr ""
+
+msgid "installation_header_promo_text_istart"
+msgstr ""
+
 msgid "softcategories_archiver-single-for"
 msgstr "archivo archivador"
 
@@ -1419,5 +1478,5 @@ msgstr "La tarjeta de sonido está conectada incorrectamente, o hay algunos prob
 msgid "language_title"
 msgstr "Spanish (Latin America)"
 
-#~ msgid "configurator-screen_save-to"
-#~ msgstr "Save to the following folder:"
+#~ msgid "confirm_popup_install_button_ok"
+#~ msgstr "OK"

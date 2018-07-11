@@ -17,8 +17,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-31 11:33+0000\n"
-"PO-Revision-Date: 2018-07-01 12:14+0000\n"
+"POT-Creation-Date: 2018-07-04 13:20+0000\n"
+"PO-Revision-Date: 2018-07-09 21:21+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Persian (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/fa/)\n"
 "MIME-Version: 1.0\n"
@@ -227,6 +227,21 @@ msgstr "سایر دستگاه‌ها"
 
 msgid "deviceclasses_other-plural-for"
 msgstr "سایر دستگاه‌ها"
+
+msgid "activate_recommendations_title_programs"
+msgstr ""
+
+msgid "activate_recommendations_title_protect"
+msgstr ""
+
+msgid "activate_recommendations_button_programs"
+msgstr ""
+
+msgid "activate_recommendations_button_protect"
+msgstr ""
+
+msgid "programs_about"
+msgstr "بیشتر بدانید"
 
 msgid "programs_eula"
 msgstr "قوانین استفاده"
@@ -538,9 +553,6 @@ msgstr "پایان توافق نامه مجوز کاربر"
 msgid "confirm_popup_policy-link"
 msgstr "سیاست حفظ حریم خصوصی"
 
-msgid "confirm_popup_install_button_ok"
-msgstr "خوب"
-
 msgid "confirm_popup_install_button"
 msgstr "قبول و نصب"
 
@@ -549,6 +561,9 @@ msgstr "نصب برنامه"
 
 msgid "confirm_popup_cancel_button"
 msgstr "رد کردن"
+
+msgid "confirm_popup_cancel_all_button"
+msgstr ""
 
 msgid "diagnostics_section_title"
 msgstr "تشخیص سیستم"
@@ -880,6 +895,9 @@ msgstr "ما در حال ایجاد کردن نقطه بازگشت هستیم...
 msgid "installation_header_title"
 msgstr "ما در حال پیکربندی کامپیوتر شما هستیم..."
 
+msgid "installation_header_promo_try"
+msgstr ""
+
 msgid "installation_header_promo_more"
 msgstr "بیشتر بدانید"
 
@@ -888,6 +906,9 @@ msgstr "نصب"
 
 msgid "installation_header_promo_fb"
 msgstr "جامعه در Facebook"
+
+msgid "installation_header_promo_license"
+msgstr "قوانین استفاده"
 
 msgid "installation_item_category_restorepoint"
 msgstr "نقطه بازگشت"
@@ -1138,6 +1159,9 @@ msgstr "نرم افزار های مورد نیاز نصب کنید <b>({{COUNT}}
 msgid "programs_header_text_caption"
 msgstr "دیگر نیازی نیست یک به یک دنبال هر نرم افزاری بگردید. شما به آسانی می توانید همه چیز را با یک کلیک نصب کنید."
 
+msgid "drivers_program_recommend"
+msgstr ""
+
 msgid "drivers_program_counter"
 msgstr "نرم افزار های پیشنهاد شده"
 
@@ -1156,14 +1180,23 @@ msgstr "نسخه:"
 msgid "protect_row_install_date"
 msgstr "تاریخ نصب:"
 
+msgid "protect_rating_level_large_appesteem"
+msgstr ""
+
 msgid "protect_rating_level_large"
 msgstr "ما به شما پیشنهاد می کنیم که این مورد را پاک کنید"
+
+msgid "protect_rating_level_middle_appesteem"
+msgstr ""
 
 msgid "protect_rating_level_middle"
 msgstr "شما ممکن است که این مورد را پاک کنید"
 
 msgid "protect_rating_level_small"
 msgstr "شما می توانید این مورد را نگه دارید"
+
+msgid "protect_rating_level_large_caption_appesteem"
+msgstr ""
 
 msgid "protect_rating_level_large_caption"
 msgstr "ما به شما پیشنهاد می کنیم که این نرم افزار را پاک کنید، زیرا 70% از کاربران این نرم افزار را پاک کرده اند."
@@ -1195,6 +1228,9 @@ msgstr "DriverPack Protect هرگونه نرم افزار نامطلوب را ا
 msgid "protect_installed_programs_title"
 msgstr "نرم افزار نصب شده در کامپیوتر شما"
 
+msgid "protect_installed_programs_switch_appesteem"
+msgstr ""
+
 msgid "protect_installed_programs_switch"
 msgstr "فقط نرم افزار های مشکوک را نمایش بده"
 
@@ -1213,28 +1249,45 @@ msgstr "DriverPack به طور خاص برای مدیران ساخته شده ا
 msgid "settings-screen_license"
 msgstr "قوانین استفاده"
 
-msgid "start_title"
-msgstr "در حال پیکربندی خودکار {{MODEL}}"
+msgid "start_button_install_drivers"
+msgstr ""
 
 msgid "start_button_install"
 msgstr "کامپیوتر را خودکار پیکربندی کن"
 
+msgid "start_title"
+msgstr "در حال پیکربندی خودکار {{MODEL}}"
+
 msgid "start_caption"
 msgstr "DriverPack سیستم را اسکن خواهد کرد و<br/>درایور و نرم افزار مورد نیاز را نصب خواهد کرد و عیب یابی را فراهم می کند. <br/>کارایی کامپیوتر باید افزایش یابد"
+
+msgid "start_expert_mode"
+msgstr "حالت پیشرفته و ماهر"
+
+msgid "start_expert_mode_label"
+msgstr ""
 
 msgid "start_license"
 msgstr "قوانین استفاده"
 
-msgid "start_expert_mode"
-msgstr "حالت پیشرفته و ماهر"
+msgid "footer_site"
+msgstr "حذف DriverPack"
 
 msgid "start_drivers_title"
 msgid_plural "start_drivers_title_n"
 msgstr[0] "{{COUNT}} درایورها نصب خواهد شد"
 msgstr[1] "{{COUNT}} درایورها نصب خواهد شد"
 
+msgid "start_drivers_utils_popover"
+msgstr ""
+
 msgid "start_drivers_popover"
 msgstr "درایور های کامپیوتر شما انتخاب شده است و آماده نصب است. قبل از اجرا، یک نقطه بازگشت ساخته خواهد شد."
+
+msgid "start_programs_title_driver_utils"
+msgid_plural "start_programs_title_n"
+msgstr[0] ""
+msgstr[1] ""
 
 msgid "start_programs_title"
 msgid_plural "start_programs_title_n"
@@ -1361,6 +1414,12 @@ msgstr "DriverPack هر کامپیوتری را مناسب می سازد"
 msgid "installation_header_promo_text_driverpack_for_all"
 msgstr "ما ابزاری را ساخته ایم که قادر می سازد به طور کامل پیکربندی هر کامپیوتری را به صورت خودکار انجام دهد. DriverPack شامل بیشتر از یک میلیون درایور است، که اجازه می دهد فقط با یک دکمه پیکربندی هر کامپیوتری را انجام دهد. به عنوان یک نتیجه شما درایور ها و ابزارها را نصب کرده اید، و با دقت نرم افزار ها را انتخاب کرده اید ( که قسمتی از پیکربندی جامع است )، و همچنین انجام عیب یابی کامپیوترتان. این بدان معنا است که DriverPack به سرعت تمام کامپیوتر شما را با بهره وری بالا فقط با فشردن یک دکمه پیکربندی می کند."
 
+msgid "installation_header_promo_title_istart"
+msgstr ""
+
+msgid "installation_header_promo_text_istart"
+msgstr ""
+
 msgid "softcategories_archiver-single-for"
 msgstr "آرشیو کننده فایل"
 
@@ -1422,5 +1481,5 @@ msgstr "کارت صدا اشتباه متصل شده است، یا یک مشکل
 msgid "language_title"
 msgstr "Persian"
 
-#~ msgid "configurator-screen_save-to"
-#~ msgstr "Save to the following folder:"
+#~ msgid "confirm_popup_install_button_ok"
+#~ msgstr "OK"

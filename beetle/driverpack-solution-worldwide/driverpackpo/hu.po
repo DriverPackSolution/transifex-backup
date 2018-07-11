@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-31 11:33+0000\n"
-"PO-Revision-Date: 2018-06-02 08:43+0000\n"
+"POT-Creation-Date: 2018-07-04 13:20+0000\n"
+"PO-Revision-Date: 2018-07-09 21:19+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Hungarian (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/hu/)\n"
 "MIME-Version: 1.0\n"
@@ -218,6 +218,21 @@ msgstr "egyéb eszköz"
 
 msgid "deviceclasses_other-plural-for"
 msgstr "egyéb eszköz"
+
+msgid "activate_recommendations_title_programs"
+msgstr ""
+
+msgid "activate_recommendations_title_protect"
+msgstr ""
+
+msgid "activate_recommendations_button_programs"
+msgstr ""
+
+msgid "activate_recommendations_button_protect"
+msgstr ""
+
+msgid "programs_about"
+msgstr "Részletek"
 
 msgid "programs_eula"
 msgstr "Általános Szerződési Feltételek"
@@ -529,9 +544,6 @@ msgstr "Végfelhasználói licenszszerződés"
 msgid "confirm_popup_policy-link"
 msgstr "Adatvédelmi szabályzat"
 
-msgid "confirm_popup_install_button_ok"
-msgstr "Rendben"
-
 msgid "confirm_popup_install_button"
 msgstr "Elfogadás és telepítés"
 
@@ -540,6 +552,9 @@ msgstr "Szoftver telepítés"
 
 msgid "confirm_popup_cancel_button"
 msgstr "Elutasít"
+
+msgid "confirm_popup_cancel_all_button"
+msgstr ""
 
 msgid "diagnostics_section_title"
 msgstr "Rendszer diagnosztika"
@@ -871,6 +886,9 @@ msgstr "Most létrehozunk egy rendszer-visszaállító pontot..."
 msgid "installation_header_title"
 msgstr "Most konfiguráljuk a számítógépet..."
 
+msgid "installation_header_promo_try"
+msgstr ""
+
 msgid "installation_header_promo_more"
 msgstr "tudjon meg többet"
 
@@ -879,6 +897,9 @@ msgstr "telepítés"
 
 msgid "installation_header_promo_fb"
 msgstr "Facebook közösség"
+
+msgid "installation_header_promo_license"
+msgstr "Általános Szerződési Feltételek"
 
 msgid "installation_item_category_restorepoint"
 msgstr "Rendszer-visszaállítási pont"
@@ -1129,6 +1150,9 @@ msgstr "Szükséges szoftverek telepítése <b>({{COUNT}})</b>"
 msgid "programs_header_text_caption"
 msgstr "Többé nem kell egyesével kutatnia a szoftverek után. Egyetlen kattintással, könnyedén feltelepíthet mindent."
 
+msgid "drivers_program_recommend"
+msgstr ""
+
 msgid "drivers_program_counter"
 msgstr "Ajánlott szoftver"
 
@@ -1147,14 +1171,23 @@ msgstr "Verzió:"
 msgid "protect_row_install_date"
 msgstr "Telepítés dátuma:"
 
+msgid "protect_rating_level_large_appesteem"
+msgstr ""
+
 msgid "protect_rating_level_large"
 msgstr "azt tanácsoljuk, hogy távolítsa ezt el"
+
+msgid "protect_rating_level_middle_appesteem"
+msgstr ""
 
 msgid "protect_rating_level_middle"
 msgstr "ezt eltávolíthatja"
 
 msgid "protect_rating_level_small"
 msgstr "ezt megtarthatja"
+
+msgid "protect_rating_level_large_caption_appesteem"
+msgstr ""
 
 msgid "protect_rating_level_large_caption"
 msgstr "Azt tanácsoljuk, hogy távolítsa el ezt a szoftvert, mert az összes felhasználó 70% -a az eltávolítás mellett döntött."
@@ -1186,6 +1219,9 @@ msgstr "A DriverPack Protect eltakarítja a nem kívánt szoftvereket, és véde
 msgid "protect_installed_programs_title"
 msgstr "A számítógépre telepített szoftverek"
 
+msgid "protect_installed_programs_switch_appesteem"
+msgstr ""
+
 msgid "protect_installed_programs_switch"
 msgstr "Csak a gyanús szoftverek megjelenítése"
 
@@ -1204,28 +1240,45 @@ msgstr "A DriverPack-ot főként rendszergazdák részére fejlesztettük ki, de
 msgid "settings-screen_license"
 msgstr "Általános Szerződési Feltételek -kel."
 
-msgid "start_title"
-msgstr "{{MODEL}} automatikus konfigurációja"
+msgid "start_button_install_drivers"
+msgstr ""
 
 msgid "start_button_install"
 msgstr "A számítógép automatikus konfigurációja"
 
+msgid "start_title"
+msgstr "{{MODEL}} automatikus konfigurációja"
+
 msgid "start_caption"
 msgstr "A DriverPack megvizsgálja a rendszert, feltelepíti<br/>a szükséges drivereket és szoftvereket, és végrehajtja a diagnosztikát. <br/>A számítógép hatékonysága javulni fog."
+
+msgid "start_expert_mode"
+msgstr "Szakértő mód"
+
+msgid "start_expert_mode_label"
+msgstr ""
 
 msgid "start_license"
 msgstr "Általános Szerződési Feltételek -kel."
 
-msgid "start_expert_mode"
-msgstr "Szakértő mód"
+msgid "footer_site"
+msgstr "DriverPack eltávolítás"
 
 msgid "start_drivers_title"
 msgid_plural "start_drivers_title_n"
 msgstr[0] "{{COUNT}} driver kerül telepítésre"
 msgstr[1] "{{COUNT}} driver kerül telepítésre"
 
+msgid "start_drivers_utils_popover"
+msgstr ""
+
 msgid "start_drivers_popover"
 msgstr "A számítógépéhez kijelölt driverek készen állnak a telepítésre. Mielőtt elkezdődne a folyamat, egy visszaállítási pontot hozunk létre."
+
+msgid "start_programs_title_driver_utils"
+msgid_plural "start_programs_title_n"
+msgstr[0] ""
+msgstr[1] ""
 
 msgid "start_programs_title"
 msgid_plural "start_programs_title_n"
@@ -1352,6 +1405,12 @@ msgstr "A DriverPack alkalmazkodik bármely számítógéphez"
 msgid "installation_header_promo_text_driverpack_for_all"
 msgstr "Megalkottunk egy eszközt, mely lehetővé teszi bármely számítógép teljesen automatikus konfigurálását. A DriverPack egymilliónál is több drivert tartalmaz, egyetlen gombnyomással elvégezve bármely számítógép konfigurálását. Ennek eredményeképp a driverek és alkalmazások feltelepülnek,  köztük alaposan megválogatott szoftverek (fontos részét képezik a konfigurálásnak), illetve a diagnosztika is lefut. Ez azt jelenti, hogy a DriverPack egyetlen kattintással, gyorsan előkészíti a teljes gépet a maximális hatékonyság kihasználása érdekében."
 
+msgid "installation_header_promo_title_istart"
+msgstr ""
+
+msgid "installation_header_promo_text_istart"
+msgstr ""
+
 msgid "softcategories_archiver-single-for"
 msgstr "fájltömörítő"
 
@@ -1413,5 +1472,5 @@ msgstr "A hankártya nem megfelelően csatlakozott, vagy gond adódott a működ
 msgid "language_title"
 msgstr "Hungarian"
 
-#~ msgid "configurator-screen_save-to"
-#~ msgstr "Save to the following folder:"
+#~ msgid "confirm_popup_install_button_ok"
+#~ msgstr "OK"

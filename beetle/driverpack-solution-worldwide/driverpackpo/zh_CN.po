@@ -7,9 +7,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-31 11:33+0000\n"
-"PO-Revision-Date: 2018-07-02 09:44+0000\n"
-"Last-Translator: 王晨旭 <wcxu21@126.com>\n"
+"POT-Creation-Date: 2018-07-04 13:20+0000\n"
+"PO-Revision-Date: 2018-07-09 21:16+0000\n"
+"Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Chinese (China) (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -217,6 +217,21 @@ msgstr "其它设备"
 
 msgid "deviceclasses_other-plural-for"
 msgstr "其它设备"
+
+msgid "activate_recommendations_title_programs"
+msgstr ""
+
+msgid "activate_recommendations_title_protect"
+msgstr ""
+
+msgid "activate_recommendations_button_programs"
+msgstr ""
+
+msgid "activate_recommendations_button_protect"
+msgstr ""
+
+msgid "programs_about"
+msgstr "了解更多"
 
 msgid "programs_eula"
 msgstr "许可协议"
@@ -528,9 +543,6 @@ msgstr "最终用户许可协议"
 msgid "confirm_popup_policy-link"
 msgstr "隐私政策"
 
-msgid "confirm_popup_install_button_ok"
-msgstr "确定"
-
 msgid "confirm_popup_install_button"
 msgstr "接受并安装"
 
@@ -539,6 +551,9 @@ msgstr "软件安装"
 
 msgid "confirm_popup_cancel_button"
 msgstr "垃圾"
+
+msgid "confirm_popup_cancel_all_button"
+msgstr ""
 
 msgid "diagnostics_section_title"
 msgstr "系统诊断"
@@ -865,6 +880,9 @@ msgstr "我们正在创建还原点..."
 msgid "installation_header_title"
 msgstr "我们正在配置您的计算机..."
 
+msgid "installation_header_promo_try"
+msgstr ""
+
 msgid "installation_header_promo_more"
 msgstr "了解更多"
 
@@ -873,6 +891,9 @@ msgstr "安装"
 
 msgid "installation_header_promo_fb"
 msgstr "Facebook 社区"
+
+msgid "installation_header_promo_license"
+msgstr "许可协议"
 
 msgid "installation_item_category_restorepoint"
 msgstr "还原点"
@@ -1123,6 +1144,9 @@ msgstr "安装所需的软件程序 <b>({{COUNT}})</b>"
 msgid "programs_header_text_caption"
 msgstr "无需再次查找软件程序。您可以轻松地安装所有内容。"
 
+msgid "drivers_program_recommend"
+msgstr ""
+
 msgid "drivers_program_counter"
 msgstr "推荐软件"
 
@@ -1141,14 +1165,23 @@ msgstr "版本:"
 msgid "protect_row_install_date"
 msgstr "安装日期:"
 
+msgid "protect_rating_level_large_appesteem"
+msgstr ""
+
 msgid "protect_rating_level_large"
 msgstr "我们建议您将其删除"
+
+msgid "protect_rating_level_middle_appesteem"
+msgstr ""
 
 msgid "protect_rating_level_middle"
 msgstr "你可以删除这个"
 
 msgid "protect_rating_level_small"
 msgstr "你可以保留这个"
+
+msgid "protect_rating_level_large_caption_appesteem"
+msgstr ""
 
 msgid "protect_rating_level_large_caption"
 msgstr "我们建议您删除此软件，因为 70% 的用户将其删除。"
@@ -1180,6 +1213,9 @@ msgstr "DriverPack Protect 将清理不受欢迎的软件，并为您的计算�
 msgid "protect_installed_programs_title"
 msgstr "计算机上安装的软件"
 
+msgid "protect_installed_programs_switch_appesteem"
+msgstr ""
+
 msgid "protect_installed_programs_switch"
 msgstr "仅显示可疑软件"
 
@@ -1198,27 +1234,43 @@ msgstr "DriverPack 专门为管理员创建，即使对于新手用户来说也�
 msgid "settings-screen_license"
 msgstr "许可协议"
 
-msgid "start_title"
-msgstr "自动配置 {{MODEL}}"
+msgid "start_button_install_drivers"
+msgstr ""
 
 msgid "start_button_install"
 msgstr "自动配置计算机"
 
+msgid "start_title"
+msgstr "自动配置 {{MODEL}}"
+
 msgid "start_caption"
 msgstr "DriverPack 将扫描系统，安装所需<br/>个驱动程序和软件，并执行诊断。<br/>该计算机的效率应该提高。"
+
+msgid "start_expert_mode"
+msgstr "专家模式"
+
+msgid "start_expert_mode_label"
+msgstr ""
 
 msgid "start_license"
 msgstr "许可协议"
 
-msgid "start_expert_mode"
-msgstr "专家模式"
+msgid "footer_site"
+msgstr "DriverPack 移除"
 
 msgid "start_drivers_title"
 msgid_plural "start_drivers_title_n"
 msgstr[0] "{{COUNT}} 驱动程序将被安装"
 
+msgid "start_drivers_utils_popover"
+msgstr ""
+
 msgid "start_drivers_popover"
 msgstr "您的计算机的驱动程序已被选择并准备安装。在开始之前，将创建一个还原点。"
+
+msgid "start_programs_title_driver_utils"
+msgid_plural "start_programs_title_n"
+msgstr[0] ""
 
 msgid "start_programs_title"
 msgid_plural "start_programs_title_n"
@@ -1344,6 +1396,12 @@ msgstr "DriverPack 将适合任何电脑"
 msgid "installation_header_promo_text_driverpack_for_all"
 msgstr "我们创建了能够使任何计算机的配置完全自动化的工具。 DriverPack 包含超过一百万个驱动程序，它允许使用一个按钮来配置任何计算机。 因此，您可以安装驱动程序和实用程序，仔细选择的软件 (这是组的集成部分)以及计算机的诊断程序。 这意味着，DriverPack 可以快速配置整个计算机，只需一个按钮即可实现最高的效率。"
 
+msgid "installation_header_promo_title_istart"
+msgstr ""
+
+msgid "installation_header_promo_text_istart"
+msgstr ""
+
 msgid "softcategories_archiver-single-for"
 msgstr "文件存档"
 
@@ -1405,5 +1463,5 @@ msgstr "声卡连接不正确，否则可操作性有问题"
 msgid "language_title"
 msgstr "Chinese (Simplified)"
 
-#~ msgid "configurator-screen_save-to"
-#~ msgstr "Save to the following folder:"
+#~ msgid "confirm_popup_install_button_ok"
+#~ msgstr "OK"

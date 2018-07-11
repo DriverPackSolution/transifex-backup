@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-31 11:33+0000\n"
-"PO-Revision-Date: 2018-05-31 13:20+0000\n"
+"POT-Creation-Date: 2018-07-04 13:20+0000\n"
+"PO-Revision-Date: 2018-07-09 21:23+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Slovak (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/sk/)\n"
 "MIME-Version: 1.0\n"
@@ -217,6 +217,21 @@ msgstr "iné zariadenia"
 
 msgid "deviceclasses_other-plural-for"
 msgstr "iné zariadenia"
+
+msgid "activate_recommendations_title_programs"
+msgstr ""
+
+msgid "activate_recommendations_title_protect"
+msgstr ""
+
+msgid "activate_recommendations_button_programs"
+msgstr ""
+
+msgid "activate_recommendations_button_protect"
+msgstr ""
+
+msgid "programs_about"
+msgstr "Viac k nahliadnutiu"
 
 msgid "programs_eula"
 msgstr "Licenčná zmluva"
@@ -528,9 +543,6 @@ msgstr ""
 msgid "confirm_popup_policy-link"
 msgstr ""
 
-msgid "confirm_popup_install_button_ok"
-msgstr ""
-
 msgid "confirm_popup_install_button"
 msgstr ""
 
@@ -539,6 +551,9 @@ msgstr ""
 
 msgid "confirm_popup_cancel_button"
 msgstr "Odmietnuť"
+
+msgid "confirm_popup_cancel_all_button"
+msgstr ""
 
 msgid "diagnostics_section_title"
 msgstr "Diagnostika Systému"
@@ -880,6 +895,9 @@ msgstr "Vytvára sa bod obnovenia..."
 msgid "installation_header_title"
 msgstr "Konfiguruje sa počítač..."
 
+msgid "installation_header_promo_try"
+msgstr ""
+
 msgid "installation_header_promo_more"
 msgstr "viac k nahliadnutiu"
 
@@ -888,6 +906,9 @@ msgstr "inštalovať"
 
 msgid "installation_header_promo_fb"
 msgstr "Komunita na Facebooku"
+
+msgid "installation_header_promo_license"
+msgstr "Licenčná zmluva"
 
 msgid "installation_item_category_restorepoint"
 msgstr "Bod obnovenia"
@@ -1138,6 +1159,9 @@ msgstr "Inštalovať požadované softvérové ​​programy <b>({{COUNT}})</b>
 msgid "programs_header_text_caption"
 msgstr "Už nie je viac potrebné hľadať softvérové ​​programy jeden po druhom. Všetko môžete jednoducho nainštalovať jediným kliknutím."
 
+msgid "drivers_program_recommend"
+msgstr ""
+
 msgid "drivers_program_counter"
 msgstr "Odporúčaný softvér"
 
@@ -1156,14 +1180,23 @@ msgstr "Verzia:"
 msgid "protect_row_install_date"
 msgstr "Dátum inštalácie:"
 
+msgid "protect_rating_level_large_appesteem"
+msgstr ""
+
 msgid "protect_rating_level_large"
 msgstr "odporúčame vám odstránenie"
+
+msgid "protect_rating_level_middle_appesteem"
+msgstr ""
 
 msgid "protect_rating_level_middle"
 msgstr "môžete to odstrániť"
 
 msgid "protect_rating_level_small"
 msgstr "môžete si ponechať"
+
+msgid "protect_rating_level_large_caption_appesteem"
+msgstr ""
 
 msgid "protect_rating_level_large_caption"
 msgstr "Odporúčame odstrániť tento softvér, pretože 70% všetkých používateľov ho odstráni."
@@ -1195,6 +1228,9 @@ msgstr "Program DriverPack Protect vyčistí nežiadúci softvér a poskytne och
 msgid "protect_installed_programs_title"
 msgstr "Softvér nainštalovaný v počítači"
 
+msgid "protect_installed_programs_switch_appesteem"
+msgstr ""
+
 msgid "protect_installed_programs_switch"
 msgstr "Zobraziť iba podozrivý softvér"
 
@@ -1213,20 +1249,29 @@ msgstr "DriverPack bol vytvorený špeciálne pre administrátorov, ale je zrozu
 msgid "settings-screen_license"
 msgstr "Licenčná zmluva"
 
-msgid "start_title"
-msgstr "Automatická konfigurácia {{MODEL}}"
+msgid "start_button_install_drivers"
+msgstr ""
 
 msgid "start_button_install"
 msgstr "Konfigurovať počítač automaticky"
 
+msgid "start_title"
+msgstr "Automatická konfigurácia {{MODEL}}"
+
 msgid "start_caption"
 msgstr "Program DriverPack naskenuje systém, nainštaluje požadované <br/>ovládače a softvér a vykoná diagnostiku. <br/>Účinnosť počítača by sa mala zvýšiť."
+
+msgid "start_expert_mode"
+msgstr "Expertný režim"
+
+msgid "start_expert_mode_label"
+msgstr ""
 
 msgid "start_license"
 msgstr "Licenčná zmluva"
 
-msgid "start_expert_mode"
-msgstr "Expertný režim"
+msgid "footer_site"
+msgstr "Odstránenie DriverPack"
 
 msgid "start_drivers_title"
 msgid_plural "start_drivers_title_n"
@@ -1235,8 +1280,18 @@ msgstr[1] "{{COUNT}}ovládače budú nainštalované  "
 msgstr[2] "{{COUNT}} ovládačov bude nainštalovaných "
 msgstr[3] "{{COUNT}} ovládačov bude nainštalovaných "
 
+msgid "start_drivers_utils_popover"
+msgstr ""
+
 msgid "start_drivers_popover"
 msgstr "Ovládače pre váš počítač boli vybraté a sú pripravené na inštaláciu. Pred spustením inštalácie sa vytvorí bod obnovenia."
+
+msgid "start_programs_title_driver_utils"
+msgid_plural "start_programs_title_n"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
 
 msgid "start_programs_title"
 msgid_plural "start_programs_title_n"
@@ -1365,6 +1420,12 @@ msgstr "DriverPack bude vyhovovať ľubovoľnému počítaču"
 msgid "installation_header_promo_text_driverpack_for_all"
 msgstr "Vytvorili sme nástroj, ktorý umožňuje úplnú automatickú konfiguráciu ľubovoľného počítača. DriverPack obsahuje viac ako milión ovládačov, čo umožňuje konfigurovať ľubovoľný počítač iba jedným tlačidlom. Výsledkom sú nainštalované ovládače a pomôcky, starostlivo vybraný softvér (ktorý je integrovanou súčasťou konfigurácie), ako aj diagnostika počítača. To znamená, že DriverPack rýchlo nakonfiguruje celý počítač na maximálnu efektivitu jediným kliknutím na tlačidlo."
 
+msgid "installation_header_promo_title_istart"
+msgstr ""
+
+msgid "installation_header_promo_text_istart"
+msgstr ""
+
 msgid "softcategories_archiver-single-for"
 msgstr "archivátor súborov"
 
@@ -1426,5 +1487,5 @@ msgstr "Zvuková karta nie je správne pripojená, alebo sa vyskytli problémy s
 msgid "language_title"
 msgstr "Slovak"
 
-#~ msgid "configurator-screen_save-to"
-#~ msgstr "Save to the following folder:"
+#~ msgid "confirm_popup_install_button_ok"
+#~ msgstr "OK"

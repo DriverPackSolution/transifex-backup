@@ -15,8 +15,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-31 11:33+0000\n"
-"PO-Revision-Date: 2018-06-29 06:02+0000\n"
+"POT-Creation-Date: 2018-07-04 13:20+0000\n"
+"PO-Revision-Date: 2018-07-09 18:46+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Indonesian (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/id/)\n"
 "MIME-Version: 1.0\n"
@@ -225,6 +225,21 @@ msgstr "perangkat lain"
 
 msgid "deviceclasses_other-plural-for"
 msgstr "perangkat lain"
+
+msgid "activate_recommendations_title_programs"
+msgstr ""
+
+msgid "activate_recommendations_title_protect"
+msgstr ""
+
+msgid "activate_recommendations_button_programs"
+msgstr ""
+
+msgid "activate_recommendations_button_protect"
+msgstr ""
+
+msgid "programs_about"
+msgstr "Pelajari lebih lanjut"
 
 msgid "programs_eula"
 msgstr "Perjanjian Lisensi"
@@ -536,9 +551,6 @@ msgstr "Perjanjian Lisensi Pengguna Akhir"
 msgid "confirm_popup_policy-link"
 msgstr "Kebijakan Privasi"
 
-msgid "confirm_popup_install_button_ok"
-msgstr "YA"
-
 msgid "confirm_popup_install_button"
 msgstr "Terima dan pasang"
 
@@ -547,6 +559,9 @@ msgstr "Pemasangan Aplikasi"
 
 msgid "confirm_popup_cancel_button"
 msgstr "Tolak"
+
+msgid "confirm_popup_cancel_all_button"
+msgstr ""
 
 msgid "diagnostics_section_title"
 msgstr "Diagnosis Sistem"
@@ -873,6 +888,9 @@ msgstr "Kami sedang membuat titik pemulihan..."
 msgid "installation_header_title"
 msgstr "Kami mengonfigurasi komputer anda..."
 
+msgid "installation_header_promo_try"
+msgstr ""
+
 msgid "installation_header_promo_more"
 msgstr "pelajari lebih lanjut"
 
@@ -881,6 +899,9 @@ msgstr "pasang"
 
 msgid "installation_header_promo_fb"
 msgstr "Komunitas di Facebook"
+
+msgid "installation_header_promo_license"
+msgstr "Perjanjian Lisensi"
 
 msgid "installation_item_category_restorepoint"
 msgstr "Titik pemulihan"
@@ -1131,6 +1152,9 @@ msgstr "Pasang aplikasi yang diperlukan <b>({{COUNT}})</b>"
 msgid "programs_header_text_caption"
 msgstr "Tidak perlu lagi mencari aplikasi satu per satu. Anda dapat dengan mudah memasang semuanya dalam sekali klik."
 
+msgid "drivers_program_recommend"
+msgstr ""
+
 msgid "drivers_program_counter"
 msgstr "Perangkat lunak yang direkomendasikan"
 
@@ -1149,14 +1173,23 @@ msgstr "Versi:"
 msgid "protect_row_install_date"
 msgstr "Tanggal Pemasangan:"
 
+msgid "protect_rating_level_large_appesteem"
+msgstr ""
+
 msgid "protect_rating_level_large"
 msgstr "kami rekomendasikan bahwa anda menghapus ini"
+
+msgid "protect_rating_level_middle_appesteem"
+msgstr ""
 
 msgid "protect_rating_level_middle"
 msgstr "anda boleh menghapus ini"
 
 msgid "protect_rating_level_small"
 msgstr "anda boleh menyimpan ini"
+
+msgid "protect_rating_level_large_caption_appesteem"
+msgstr ""
 
 msgid "protect_rating_level_large_caption"
 msgstr "Sebaiknya hapus perangkat lunak ini karena 70% pengguna menghapusnya."
@@ -1188,6 +1221,9 @@ msgstr "DriverPack Protect akan membersihkan perangkat lunak yang tidak diingink
 msgid "protect_installed_programs_title"
 msgstr "Perangkat lunak terpasang di komputer"
 
+msgid "protect_installed_programs_switch_appesteem"
+msgstr ""
+
 msgid "protect_installed_programs_switch"
 msgstr "Tampilkan perangkat lunak yang mencurigakan saja"
 
@@ -1206,27 +1242,43 @@ msgstr "DriverPack telah dibuat khusus untuk para admin namun jelas dan nyaman b
 msgid "settings-screen_license"
 msgstr "Perjanjian Lisensi"
 
-msgid "start_title"
-msgstr "Konfigurasi otomatis dari {{MODEL}}"
+msgid "start_button_install_drivers"
+msgstr ""
 
 msgid "start_button_install"
 msgstr "Konfigurasi otomatis komputer"
 
+msgid "start_title"
+msgstr "Konfigurasi otomatis dari {{MODEL}}"
+
 msgid "start_caption"
 msgstr "DriverPack akan memindai sistem, pasang driver dan perangkat lunak<br/>yang diperlukan, dan lakukan diagnosa. <br/>Efisiensi komputer harusnya meningkat."
+
+msgid "start_expert_mode"
+msgstr "Mode ahli"
+
+msgid "start_expert_mode_label"
+msgstr ""
 
 msgid "start_license"
 msgstr "Perjanjian Lisensi"
 
-msgid "start_expert_mode"
-msgstr "Mode ahli"
+msgid "footer_site"
+msgstr "Penghapus DriverPack "
 
 msgid "start_drivers_title"
 msgid_plural "start_drivers_title_n"
 msgstr[0] "{{COUNT}} driver akan dipasang"
 
+msgid "start_drivers_utils_popover"
+msgstr ""
+
 msgid "start_drivers_popover"
 msgstr "Driver untuk komputer anda telah dipilih dan siap untuk dipasang. Sebelum dimulai, titik pemulihan akan dibuat."
+
+msgid "start_programs_title_driver_utils"
+msgid_plural "start_programs_title_n"
+msgstr[0] ""
 
 msgid "start_programs_title"
 msgid_plural "start_programs_title_n"
@@ -1352,6 +1404,12 @@ msgstr "DriverPack akan cocok dengan semua komputer"
 msgid "installation_header_promo_text_driverpack_for_all"
 msgstr "Kami telah membuat alat yang memungkinkan untuk membuat konfigurasi komputer manapun sepenuhnya otomatis. DriverPack berisi lebih dari satu juta driver, yang memungkinkan untuk mengkonfigurasi komputer hanya dengan satu tombol. Hasilnya anda mendapatkan driver dan utilitas yang terpasang, perangkat lunak yang dipilih dengan cermat (yang merupakan bagian konfigurasi terpadu), serta diagnostik komputer anda. Ini berarti bahwa DriverPack dengan cepat mengonfigurasi keseluruhan komputer anda hingga efisiensi maksimal hanya dengan satu klik tombol."
 
+msgid "installation_header_promo_title_istart"
+msgstr ""
+
+msgid "installation_header_promo_text_istart"
+msgstr ""
+
 msgid "softcategories_archiver-single-for"
 msgstr "pengarsip file"
 
@@ -1413,5 +1471,5 @@ msgstr "Kartu suara tersambung dengan tidak benar, atau ada beberapa masalah den
 msgid "language_title"
 msgstr "Indonesian"
 
-#~ msgid "configurator-screen_save-to"
-#~ msgstr "Save to the following folder:"
+#~ msgid "confirm_popup_install_button_ok"
+#~ msgstr "OK"

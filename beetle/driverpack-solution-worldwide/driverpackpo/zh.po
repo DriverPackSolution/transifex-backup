@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-31 11:33+0000\n"
-"PO-Revision-Date: 2018-06-02 08:39+0000\n"
+"POT-Creation-Date: 2018-07-04 13:20+0000\n"
+"PO-Revision-Date: 2018-07-09 20:38+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Chinese (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/zh/)\n"
 "MIME-Version: 1.0\n"
@@ -218,6 +218,21 @@ msgstr "其他裝置"
 
 msgid "deviceclasses_other-plural-for"
 msgstr "其他裝置"
+
+msgid "activate_recommendations_title_programs"
+msgstr ""
+
+msgid "activate_recommendations_title_protect"
+msgstr ""
+
+msgid "activate_recommendations_button_programs"
+msgstr ""
+
+msgid "activate_recommendations_button_protect"
+msgstr ""
+
+msgid "programs_about"
+msgstr "了解更多資訊"
 
 msgid "programs_eula"
 msgstr "授權合約"
@@ -529,9 +544,6 @@ msgstr "使用者授權合約"
 msgid "confirm_popup_policy-link"
 msgstr "隱私權原則"
 
-msgid "confirm_popup_install_button_ok"
-msgstr "確定"
-
 msgid "confirm_popup_install_button"
 msgstr "同意並安裝"
 
@@ -540,6 +552,9 @@ msgstr "軟體安裝"
 
 msgid "confirm_popup_cancel_button"
 msgstr "拒絕"
+
+msgid "confirm_popup_cancel_all_button"
+msgstr ""
 
 msgid "diagnostics_section_title"
 msgstr "系統診斷"
@@ -866,6 +881,9 @@ msgstr "正在建立還原點..."
 msgid "installation_header_title"
 msgstr "正在組態您的電腦..."
 
+msgid "installation_header_promo_try"
+msgstr ""
+
 msgid "installation_header_promo_more"
 msgstr "了解更多"
 
@@ -874,6 +892,9 @@ msgstr "安裝"
 
 msgid "installation_header_promo_fb"
 msgstr "Facebook 社群"
+
+msgid "installation_header_promo_license"
+msgstr "授權合約"
 
 msgid "installation_item_category_restorepoint"
 msgstr "還原點"
@@ -1124,6 +1145,9 @@ msgstr "安裝所需的軟體程式 <b>({{COUNT}})</b>"
 msgid "programs_header_text_caption"
 msgstr "沒有必要再一個一個尋找軟體程式。您可以輕鬆地一鍵安裝所有內容。"
 
+msgid "drivers_program_recommend"
+msgstr ""
+
 msgid "drivers_program_counter"
 msgstr "建議的軟體"
 
@@ -1142,14 +1166,23 @@ msgstr "版本:"
 msgid "protect_row_install_date"
 msgstr "安裝日期:"
 
+msgid "protect_rating_level_large_appesteem"
+msgstr ""
+
 msgid "protect_rating_level_large"
 msgstr "建議您移除此"
+
+msgid "protect_rating_level_middle_appesteem"
+msgstr ""
 
 msgid "protect_rating_level_middle"
 msgstr "您可移除此"
 
 msgid "protect_rating_level_small"
 msgstr "您可保留此"
+
+msgid "protect_rating_level_large_caption_appesteem"
+msgstr ""
 
 msgid "protect_rating_level_large_caption"
 msgstr "建議您刪除此軟體，因為 70% 的使用者將其刪除。"
@@ -1181,6 +1214,9 @@ msgstr "DriverPack Protect 將清除不良軟體，並為您的電腦提供保�
 msgid "protect_installed_programs_title"
 msgstr "已安裝在電腦上的軟體"
 
+msgid "protect_installed_programs_switch_appesteem"
+msgstr ""
+
 msgid "protect_installed_programs_switch"
 msgstr "僅顯示可疑的軟體"
 
@@ -1199,27 +1235,43 @@ msgstr "DriverPack 已專門為系統管理員建立，但對於新手使用者�
 msgid "settings-screen_license"
 msgstr "授權合約"
 
-msgid "start_title"
-msgstr "自動配置 {{MODEL}}"
+msgid "start_button_install_drivers"
+msgstr ""
 
 msgid "start_button_install"
 msgstr "自動配置電腦"
 
+msgid "start_title"
+msgstr "自動配置 {{MODEL}}"
+
 msgid "start_caption"
 msgstr "DriverPack 將掃描系統，安裝所需的<br/>驅動程式和軟體，並執行診斷。<br/>應會提高電腦的效率。"
+
+msgid "start_expert_mode"
+msgstr "專家模式"
+
+msgid "start_expert_mode_label"
+msgstr ""
 
 msgid "start_license"
 msgstr "授權合約"
 
-msgid "start_expert_mode"
-msgstr "專家模式"
+msgid "footer_site"
+msgstr "DriverPack 移除"
 
 msgid "start_drivers_title"
 msgid_plural "start_drivers_title_n"
 msgstr[0] "{{COUNT}} 個驅動程式將被安裝"
 
+msgid "start_drivers_utils_popover"
+msgstr ""
+
 msgid "start_drivers_popover"
 msgstr "已選擇您電腦的驅動程式並準備安裝。在開始之前，將建立一個還原點。"
+
+msgid "start_programs_title_driver_utils"
+msgid_plural "start_programs_title_n"
+msgstr[0] ""
 
 msgid "start_programs_title"
 msgid_plural "start_programs_title_n"
@@ -1345,6 +1397,12 @@ msgstr "DriverPack 將適合任何電腦"
 msgid "installation_header_promo_text_driverpack_for_all"
 msgstr "我們已經建立了能夠使任何電腦的配置完全自動化的工具。DriverPack 包含超過一百萬個驅動程式，允許只需一個按鈕即可配置任何電腦。因此，您可以安裝驅動程式和公用程式，仔細選擇軟體(這是組態整合部分)以及電腦的診斷程序。這意味著，DriverPack 可以快速配置整個電腦，只需一個按鈕即可實現最高的效率。"
 
+msgid "installation_header_promo_title_istart"
+msgstr ""
+
+msgid "installation_header_promo_text_istart"
+msgstr ""
+
 msgid "softcategories_archiver-single-for"
 msgstr "檔案壓縮程式"
 
@@ -1406,5 +1464,5 @@ msgstr "音效卡連接不正確，或其可操作性存在一些問題"
 msgid "language_title"
 msgstr "Chinese (Traditional)"
 
-#~ msgid "configurator-screen_save-to"
-#~ msgstr "Save to the following folder:"
+#~ msgid "confirm_popup_install_button_ok"
+#~ msgstr "OK"

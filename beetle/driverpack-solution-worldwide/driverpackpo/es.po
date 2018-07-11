@@ -6,9 +6,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-31 11:33+0000\n"
-"PO-Revision-Date: 2018-06-04 19:44+0000\n"
-"Last-Translator: Josep Maria Antolin <josepma@gmail.com>\n"
+"POT-Creation-Date: 2018-07-04 13:20+0000\n"
+"PO-Revision-Date: 2018-07-09 16:29+0000\n"
+"Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Spanish (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -216,6 +216,21 @@ msgstr "otros dispositivos"
 
 msgid "deviceclasses_other-plural-for"
 msgstr "otros dispositivos"
+
+msgid "activate_recommendations_title_programs"
+msgstr ""
+
+msgid "activate_recommendations_title_protect"
+msgstr ""
+
+msgid "activate_recommendations_button_programs"
+msgstr ""
+
+msgid "activate_recommendations_button_protect"
+msgstr ""
+
+msgid "programs_about"
+msgstr "Más información"
 
 msgid "programs_eula"
 msgstr "Acuerdo de Licencia"
@@ -527,9 +542,6 @@ msgstr "Licencia de usuario"
 msgid "confirm_popup_policy-link"
 msgstr "Política de Privacidad"
 
-msgid "confirm_popup_install_button_ok"
-msgstr "Aceptar"
-
 msgid "confirm_popup_install_button"
 msgstr "Aceptar e instalar"
 
@@ -538,6 +550,9 @@ msgstr "Instalación de la aplicación"
 
 msgid "confirm_popup_cancel_button"
 msgstr "Rechazar"
+
+msgid "confirm_popup_cancel_all_button"
+msgstr ""
 
 msgid "diagnostics_section_title"
 msgstr "Diagnóstico del sistema"
@@ -869,6 +884,9 @@ msgstr "Creando un punto de restauración..."
 msgid "installation_header_title"
 msgstr "Configurando el ordenador..."
 
+msgid "installation_header_promo_try"
+msgstr ""
+
 msgid "installation_header_promo_more"
 msgstr "Más información"
 
@@ -877,6 +895,9 @@ msgstr "Instalar"
 
 msgid "installation_header_promo_fb"
 msgstr "Comunidad de Facebook"
+
+msgid "installation_header_promo_license"
+msgstr "Acuerdo de Licencia"
 
 msgid "installation_item_category_restorepoint"
 msgstr "Punto de restauración"
@@ -1127,6 +1148,9 @@ msgstr "Instalar las aplicaciones necesarias <b>({{COUNT}})</b>"
 msgid "programs_header_text_caption"
 msgstr "Ya no hay necesidad de buscar las aplicaciones una a una. Puedes instalarlas todas fácilmente con un solo click."
 
+msgid "drivers_program_recommend"
+msgstr ""
+
 msgid "drivers_program_counter"
 msgstr "Aplicaciones recomendadas"
 
@@ -1145,14 +1169,23 @@ msgstr "Versión:"
 msgid "protect_row_install_date"
 msgstr "Fecha de instalación:"
 
+msgid "protect_rating_level_large_appesteem"
+msgstr ""
+
 msgid "protect_rating_level_large"
 msgstr "te recomendamos que lo elimines"
+
+msgid "protect_rating_level_middle_appesteem"
+msgstr ""
 
 msgid "protect_rating_level_middle"
 msgstr "podrías eliminarlo"
 
 msgid "protect_rating_level_small"
 msgstr "puedes mantenerlo"
+
+msgid "protect_rating_level_large_caption_appesteem"
+msgstr ""
 
 msgid "protect_rating_level_large_caption"
 msgstr "Te recomendamos que elimines este sofware porque un 70% de los usuarios lo eliminan."
@@ -1184,6 +1217,9 @@ msgstr "DriverPack Protect eliminará el software no deseado y protegerá tu ord
 msgid "protect_installed_programs_title"
 msgstr "Aplicaciones instaladas en este ordenador"
 
+msgid "protect_installed_programs_switch_appesteem"
+msgstr ""
+
 msgid "protect_installed_programs_switch"
 msgstr "Mostrar únicamente las aplicaciones sospechosas"
 
@@ -1202,28 +1238,45 @@ msgstr "DriverPack ha sido diseñado específicamente para administradores, pero
 msgid "settings-screen_license"
 msgstr "Acuerdo de Licencia"
 
-msgid "start_title"
-msgstr "Configurando automáticamente {{MODEL}}"
+msgid "start_button_install_drivers"
+msgstr ""
 
 msgid "start_button_install"
 msgstr "Configurar el ordenador automáticamente"
 
+msgid "start_title"
+msgstr "Configurando automáticamente {{MODEL}}"
+
 msgid "start_caption"
 msgstr "DriverPack escaneará el sistema, instalará los <br/> drivers y aplicaciones requeridas y realizará diagnósticos. <br/> La eficiencia del ordenador posiblemente aumente."
+
+msgid "start_expert_mode"
+msgstr "Modo experto"
+
+msgid "start_expert_mode_label"
+msgstr ""
 
 msgid "start_license"
 msgstr "Acuerdo de Licencia"
 
-msgid "start_expert_mode"
-msgstr "Modo experto"
+msgid "footer_site"
+msgstr "Cómo desinstalar DriverPack"
 
 msgid "start_drivers_title"
 msgid_plural "start_drivers_title_n"
 msgstr[0] "Se instalará {{COUNT}} driver"
 msgstr[1] "Se instalarán {{COUNT}}drivers"
 
+msgid "start_drivers_utils_popover"
+msgstr ""
+
 msgid "start_drivers_popover"
 msgstr "Los drivers para tu ordenador estan seleccionados y listos para su instalación. Antes de empezar, se creará un punto de restauración."
+
+msgid "start_programs_title_driver_utils"
+msgid_plural "start_programs_title_n"
+msgstr[0] ""
+msgstr[1] ""
 
 msgid "start_programs_title"
 msgid_plural "start_programs_title_n"
@@ -1350,6 +1403,12 @@ msgstr "DriverPack sirve para cualquier ordenador"
 msgid "installation_header_promo_text_driverpack_for_all"
 msgstr "Hemos creado una utilidad que te permite realizar la configuración de cualquier ordenador de forma completamente automática. DriverPack contiene más de un millón de drivers, lo que permite configurar cualquier ordenador con un solo botón. Como resultado consigues instalar drivers y utilidades, aplicaciones cuidadosamente seleccionadas (lo cual es una parte integral de configurar un ordenador), así como un diagnóstico del ordenador. Esto significa que DriverPack configura rápidamente el ordenador para su máxima eficiencia con solo pulsar un botón."
 
+msgid "installation_header_promo_title_istart"
+msgstr ""
+
+msgid "installation_header_promo_text_istart"
+msgstr ""
+
 msgid "softcategories_archiver-single-for"
 msgstr "Gestor de archivos comprimidos"
 
@@ -1411,5 +1470,5 @@ msgstr "La tarjeta de sonido no está bien conectada, o hay un problema que no p
 msgid "language_title"
 msgstr "Spanish"
 
-#~ msgid "configurator-screen_save-to"
-#~ msgstr "Save to the following folder:"
+#~ msgid "confirm_popup_install_button_ok"
+#~ msgstr "OK"

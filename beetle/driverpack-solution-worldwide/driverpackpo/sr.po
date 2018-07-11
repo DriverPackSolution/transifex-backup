@@ -10,8 +10,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-31 11:33+0000\n"
-"PO-Revision-Date: 2018-05-31 13:20+0000\n"
+"POT-Creation-Date: 2018-07-04 13:20+0000\n"
+"PO-Revision-Date: 2018-07-09 21:22+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Serbian (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/sr/)\n"
 "MIME-Version: 1.0\n"
@@ -220,6 +220,21 @@ msgstr "drugi uređaji"
 
 msgid "deviceclasses_other-plural-for"
 msgstr "drugih uređaja"
+
+msgid "activate_recommendations_title_programs"
+msgstr ""
+
+msgid "activate_recommendations_title_protect"
+msgstr ""
+
+msgid "activate_recommendations_button_programs"
+msgstr ""
+
+msgid "activate_recommendations_button_protect"
+msgstr ""
+
+msgid "programs_about"
+msgstr "Saznajte više"
 
 msgid "programs_eula"
 msgstr "Ugovorna licenca"
@@ -531,9 +546,6 @@ msgstr "Ugovor sa krajnjim korisnikom prava"
 msgid "confirm_popup_policy-link"
 msgstr "Politika privatnosti"
 
-msgid "confirm_popup_install_button_ok"
-msgstr "U redu"
-
 msgid "confirm_popup_install_button"
 msgstr "Prihvatite i instalirajte"
 
@@ -542,6 +554,9 @@ msgstr "Instalacija softvera"
 
 msgid "confirm_popup_cancel_button"
 msgstr "Odbite"
+
+msgid "confirm_popup_cancel_all_button"
+msgstr ""
 
 msgid "diagnostics_section_title"
 msgstr "Dijagnostika sistema"
@@ -878,6 +893,9 @@ msgstr "Pravimo tačku vraćanja..."
 msgid "installation_header_title"
 msgstr "Podešavamo računar..."
 
+msgid "installation_header_promo_try"
+msgstr ""
+
 msgid "installation_header_promo_more"
 msgstr "saznajte više"
 
@@ -886,6 +904,9 @@ msgstr "instalirajte"
 
 msgid "installation_header_promo_fb"
 msgstr "Grupa na Fejsbuku"
+
+msgid "installation_header_promo_license"
+msgstr "Ugovorna licenca"
 
 msgid "installation_item_category_restorepoint"
 msgstr "Tačka vraćanja"
@@ -1136,6 +1157,9 @@ msgstr "Instalirajte potrebne softverske programe <b>({{COUNT}})</b>"
 msgid "programs_header_text_caption"
 msgstr "Više nema potrebe da tražite softverske programe jedan po jedan. Sada možete sve da instalirate jednom klikom."
 
+msgid "drivers_program_recommend"
+msgstr ""
+
 msgid "drivers_program_counter"
 msgstr "Preporučeni softveri"
 
@@ -1154,14 +1178,23 @@ msgstr "Verzija:"
 msgid "protect_row_install_date"
 msgstr "Datum instaliranja:"
 
+msgid "protect_rating_level_large_appesteem"
+msgstr ""
+
 msgid "protect_rating_level_large"
 msgstr "predlažemo da izbrišete ovaj softver"
+
+msgid "protect_rating_level_middle_appesteem"
+msgstr ""
 
 msgid "protect_rating_level_middle"
 msgstr "može se obrisati"
 
 msgid "protect_rating_level_small"
 msgstr "može se zadržati"
+
+msgid "protect_rating_level_large_caption_appesteem"
+msgstr ""
 
 msgid "protect_rating_level_large_caption"
 msgstr "Predlažemo da obrišete ovaj softver jer je to uradilo 70% korisnika."
@@ -1193,6 +1226,9 @@ msgstr "DriverPack Protect će obrisati nepotrebne softvere i obezbediti zaštit
 msgid "protect_installed_programs_title"
 msgstr "Softveri instalirani na računar"
 
+msgid "protect_installed_programs_switch_appesteem"
+msgstr ""
+
 msgid "protect_installed_programs_switch"
 msgstr "Prikaži samo sumnjive softvere"
 
@@ -1211,20 +1247,29 @@ msgstr "DriverPack je pre svega namenjen za administratore ali je jednostavan i 
 msgid "settings-screen_license"
 msgstr "Ugovorna licenca"
 
-msgid "start_title"
-msgstr "Automatsko podešavanje {{MODEL}}"
+msgid "start_button_install_drivers"
+msgstr ""
 
 msgid "start_button_install"
 msgstr "Podesite računar automatski"
 
+msgid "start_title"
+msgstr "Automatsko podešavanje {{MODEL}}"
+
 msgid "start_caption"
 msgstr "DriverPack će skenirati sistem, instalirati potrebne<br/>drajvere i softvere i izvršiti dijagnostiku. <br/>Efikasnost računara treba da se poveća."
+
+msgid "start_expert_mode"
+msgstr "Ekspertski režim"
+
+msgid "start_expert_mode_label"
+msgstr ""
 
 msgid "start_license"
 msgstr "Ugovorna licenca"
 
-msgid "start_expert_mode"
-msgstr "Ekspertski režim"
+msgid "footer_site"
+msgstr "Uklanjanje DriverPack-a"
 
 msgid "start_drivers_title"
 msgid_plural "start_drivers_title_n"
@@ -1232,8 +1277,17 @@ msgstr[0] "{{COUNT}} drajver će biti instaliran"
 msgstr[1] "{{COUNT}} drajvera će biti instalirana"
 msgstr[2] "{{COUNT}} drajvera će biti instalirano"
 
+msgid "start_drivers_utils_popover"
+msgstr ""
+
 msgid "start_drivers_popover"
 msgstr "Drajveri za vaš računar su odabrani i spremni za instliranje. Pre nego što proces instaliranje počne, tačka vraćanja će biti napravljena."
+
+msgid "start_programs_title_driver_utils"
+msgid_plural "start_programs_title_n"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
 
 msgid "start_programs_title"
 msgid_plural "start_programs_title_n"
@@ -1361,6 +1415,12 @@ msgstr "DriverPack je podržan na svakom računaru"
 msgid "installation_header_promo_text_driverpack_for_all"
 msgstr "Kreirali smo altaku koja omogućava pravljenje konfiguracije bilo kog kompijutera u potpunosti automatsko. DriverPack sadrži više od milion drajvera, koji dozvoljavaju konfiguraciju bilokog kiompijutera sa samo jednim dugmetom. Kao rezultat dobijate instalirane drajvere i usluge, pažljivo odabranog softvera (koji je integrisani deo konfiguracije), kao i dijagnostiku vašeg kompijutera. To znači da DriverPack brzo konfiguriše vaš ceo kompijuter sa maksimalnom efikasnošću samo jednim klikom na dugme."
 
+msgid "installation_header_promo_title_istart"
+msgstr ""
+
+msgid "installation_header_promo_text_istart"
+msgstr ""
+
 msgid "softcategories_archiver-single-for"
 msgstr "arhiviranje fajlova"
 
@@ -1422,5 +1482,5 @@ msgstr "Zvučna kartica je nepravilno povezana, ili postoje problemi sa njenim r
 msgid "language_title"
 msgstr "Serbian"
 
-#~ msgid "configurator-screen_save-to"
-#~ msgstr "Save to the following folder:"
+#~ msgid "confirm_popup_install_button_ok"
+#~ msgstr "OK"

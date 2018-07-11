@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-31 11:33+0000\n"
-"PO-Revision-Date: 2018-06-02 08:38+0000\n"
+"POT-Creation-Date: 2018-07-04 13:20+0000\n"
+"PO-Revision-Date: 2018-07-09 21:17+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Estonian (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/et/)\n"
 "MIME-Version: 1.0\n"
@@ -217,6 +217,21 @@ msgstr "teised seadmed"
 
 msgid "deviceclasses_other-plural-for"
 msgstr "teistele seadmetele"
+
+msgid "activate_recommendations_title_programs"
+msgstr ""
+
+msgid "activate_recommendations_title_protect"
+msgstr ""
+
+msgid "activate_recommendations_button_programs"
+msgstr ""
+
+msgid "activate_recommendations_button_protect"
+msgstr ""
+
+msgid "programs_about"
+msgstr "Learn more"
 
 msgid "programs_eula"
 msgstr "Litsents"
@@ -528,9 +543,6 @@ msgstr "Lõppkasutaja Litsensileping"
 msgid "confirm_popup_policy-link"
 msgstr "Privaatsuspoliitika"
 
-msgid "confirm_popup_install_button_ok"
-msgstr "Ok"
-
 msgid "confirm_popup_install_button"
 msgstr "Nõustu ja paigalda"
 
@@ -539,6 +551,9 @@ msgstr "Tarkvara paigaldamine"
 
 msgid "confirm_popup_cancel_button"
 msgstr "Keeldu"
+
+msgid "confirm_popup_cancel_all_button"
+msgstr ""
 
 msgid "diagnostics_section_title"
 msgstr "Süsteemi diagnostika"
@@ -870,6 +885,9 @@ msgstr "Loon taastepunkti..."
 msgid "installation_header_title"
 msgstr "Seadistan teie süsteemi..."
 
+msgid "installation_header_promo_try"
+msgstr ""
+
 msgid "installation_header_promo_more"
 msgstr "Detailid"
 
@@ -878,6 +896,9 @@ msgstr "paigalda"
 
 msgid "installation_header_promo_fb"
 msgstr "Facebook kommuun"
+
+msgid "installation_header_promo_license"
+msgstr "Litsents"
 
 msgid "installation_item_category_restorepoint"
 msgstr "Taastepunkt"
@@ -1128,6 +1149,9 @@ msgstr "Paigalda vajalikud programmid <b>({{COUNT}})</b>"
 msgid "programs_header_text_caption"
 msgstr "Unusta programmide otsimine! Nüüd saad paigaldada kõike mida vajad ühe klikiga."
 
+msgid "drivers_program_recommend"
+msgstr ""
+
 msgid "drivers_program_counter"
 msgstr "Soovitatud programmid"
 
@@ -1146,14 +1170,23 @@ msgstr "Versioon:"
 msgid "protect_row_install_date"
 msgstr "Paigalduse aeg:"
 
+msgid "protect_rating_level_large_appesteem"
+msgstr ""
+
 msgid "protect_rating_level_large"
 msgstr "soovitatud eemaldamiseks"
+
+msgid "protect_rating_level_middle_appesteem"
+msgstr ""
 
 msgid "protect_rating_level_middle"
 msgstr "saab eemaldada"
 
 msgid "protect_rating_level_small"
 msgstr "saab vahele jätta"
+
+msgid "protect_rating_level_large_caption_appesteem"
+msgstr ""
 
 msgid "protect_rating_level_large_caption"
 msgstr "70% kasutajatest eemaldab selle programmi."
@@ -1185,6 +1218,9 @@ msgstr "DriverPack Protect puhastab teie arvuti mittevajalikust tarkvarast ja pa
 msgid "protect_installed_programs_title"
 msgstr "Tarkvara mis on paigaldatud arvutisse"
 
+msgid "protect_installed_programs_switch_appesteem"
+msgstr ""
+
 msgid "protect_installed_programs_switch"
 msgstr "Näita ainult kahtlaseid programme"
 
@@ -1203,28 +1239,45 @@ msgstr "DriverPack on loodud spetsiaalselt administraatoritele, kuid see on liht
 msgid "settings-screen_license"
 msgstr "Litsents"
 
-msgid "start_title"
-msgstr "{{MODEL}} automaatne seadistamine"
+msgid "start_button_install_drivers"
+msgstr ""
 
 msgid "start_button_install"
 msgstr "Seadista arvuti automaatselt"
 
+msgid "start_title"
+msgstr "{{MODEL}} automaatne seadistamine"
+
 msgid "start_caption"
 msgstr "DriverPack analüüsib süsteemi, paigaldab vajalikud<br/>draiverid ja tarkvara, ning teeb diagnostikat. <br/>Arvuti tootlikus peaks tõusma."
+
+msgid "start_expert_mode"
+msgstr "Eksperdi režiim"
+
+msgid "start_expert_mode_label"
+msgstr ""
 
 msgid "start_license"
 msgstr "Litsents"
 
-msgid "start_expert_mode"
-msgstr "Eksperdi režiim"
+msgid "footer_site"
+msgstr "DriverPack eemaldamine"
 
 msgid "start_drivers_title"
 msgid_plural "start_drivers_title_n"
 msgstr[0] "{{COUNT}} draiver paigaldatakse"
 msgstr[1] "{{COUNT}} draiverit paigaldatakse"
 
+msgid "start_drivers_utils_popover"
+msgstr ""
+
 msgid "start_drivers_popover"
 msgstr "Draiverid teie arvutile on valitud ja on valmis paigaldauseks. Enne alustamist luuakse taastekoht."
+
+msgid "start_programs_title_driver_utils"
+msgid_plural "start_programs_title_n"
+msgstr[0] ""
+msgstr[1] ""
 
 msgid "start_programs_title"
 msgid_plural "start_programs_title_n"
@@ -1351,6 +1404,12 @@ msgstr "DriverPack sobib igale arvutile"
 msgid "installation_header_promo_text_driverpack_for_all"
 msgstr "Oleme loonud tööriista mis muudab arvuti kohandamise veelgi automaatsemaks. DriverPack sisaldab rohkem kui miljon draiverit, mis lubab seadistada ükskõik mis arvuti ainult ühe nupu vajutusega. Selle tulemusena saate paigaldatud draiverid ja tööriistad, hoolikalt valitud tarkvara (mis on kohandamise osa), ning veel oma arvutile diagnostika. See tähendab, et DriverPack seadistab kiirelt terve arvuti, et selle tootlikus oleks maksimaalne vaid ühe nupuvajutusega."
 
+msgid "installation_header_promo_title_istart"
+msgstr ""
+
+msgid "installation_header_promo_text_istart"
+msgstr ""
+
 msgid "softcategories_archiver-single-for"
 msgstr "faili arhiveerija"
 
@@ -1412,5 +1471,5 @@ msgstr "Teie helikaart on paigaldatud valesti, või on mingi muu viga, et ta ei 
 msgid "language_title"
 msgstr "Estonian"
 
-#~ msgid "configurator-screen_save-to"
-#~ msgstr "Save to the following folder:"
+#~ msgid "confirm_popup_install_button_ok"
+#~ msgstr "OK"

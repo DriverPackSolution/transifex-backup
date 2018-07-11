@@ -11,8 +11,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-31 11:33+0000\n"
-"PO-Revision-Date: 2018-05-31 13:20+0000\n"
+"POT-Creation-Date: 2018-07-04 13:20+0000\n"
+"PO-Revision-Date: 2018-07-09 16:20+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: English (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/en/)\n"
 "MIME-Version: 1.0\n"
@@ -221,6 +221,21 @@ msgstr "other devices"
 
 msgid "deviceclasses_other-plural-for"
 msgstr "other devices"
+
+msgid "activate_recommendations_title_programs"
+msgstr "Our recommendations on software are disabled"
+
+msgid "activate_recommendations_title_protect"
+msgstr "Our recommendations on protective software are disabled"
+
+msgid "activate_recommendations_button_programs"
+msgstr "Enable our recommendations on software"
+
+msgid "activate_recommendations_button_protect"
+msgstr "Enable our recommendations on protective software"
+
+msgid "programs_about"
+msgstr "Learn more"
 
 msgid "programs_eula"
 msgstr "License Agreement"
@@ -532,9 +547,6 @@ msgstr "End User License Agreement"
 msgid "confirm_popup_policy-link"
 msgstr "Privacy Policy"
 
-msgid "confirm_popup_install_button_ok"
-msgstr "OK"
-
 msgid "confirm_popup_install_button"
 msgstr "Accept and install"
 
@@ -543,6 +555,9 @@ msgstr "Software Installation"
 
 msgid "confirm_popup_cancel_button"
 msgstr "Refuse"
+
+msgid "confirm_popup_cancel_all_button"
+msgstr "Refuse all software ({{COUNT}})"
 
 msgid "diagnostics_section_title"
 msgstr "System Diagnostics"
@@ -874,6 +889,9 @@ msgstr "We are creating the restore point..."
 msgid "installation_header_title"
 msgstr "We are configuring your computer…"
 
+msgid "installation_header_promo_try"
+msgstr "try it"
+
 msgid "installation_header_promo_more"
 msgstr "learn more"
 
@@ -882,6 +900,9 @@ msgstr "install"
 
 msgid "installation_header_promo_fb"
 msgstr "Community on Facebook"
+
+msgid "installation_header_promo_license"
+msgstr "License Agreement"
 
 msgid "installation_item_category_restorepoint"
 msgstr "Restore point"
@@ -1132,6 +1153,9 @@ msgstr "Install the required software programs <b>({{COUNT}})</b>"
 msgid "programs_header_text_caption"
 msgstr "There is no need to look for the software programs one by one any longer. You can easily install everything in one click."
 
+msgid "drivers_program_recommend"
+msgstr "The software recommended by DriverPack"
+
 msgid "drivers_program_counter"
 msgstr "Recommended software"
 
@@ -1150,14 +1174,23 @@ msgstr "Version:"
 msgid "protect_row_install_date"
 msgstr "Installation Date:"
 
+msgid "protect_rating_level_large_appesteem"
+msgstr "Uncommonly application (70% of users uninstall it)"
+
 msgid "protect_rating_level_large"
 msgstr "we recommend that you remove this"
+
+msgid "protect_rating_level_middle_appesteem"
+msgstr "Uncommonly application"
 
 msgid "protect_rating_level_middle"
 msgstr "you may remove this"
 
 msgid "protect_rating_level_small"
 msgstr "you may keep this"
+
+msgid "protect_rating_level_large_caption_appesteem"
+msgstr "70% of our users uninstall this application"
 
 msgid "protect_rating_level_large_caption"
 msgstr "We recommend you to remove this software because 70% of all users remove it."
@@ -1189,6 +1222,9 @@ msgstr "DriverPack Protect will clean of undesirable software and provide protec
 msgid "protect_installed_programs_title"
 msgstr "Software installed on the computer"
 
+msgid "protect_installed_programs_switch_appesteem"
+msgstr "Display the uncommonly applications only"
+
 msgid "protect_installed_programs_switch"
 msgstr "Display the suspicious software only"
 
@@ -1207,28 +1243,45 @@ msgstr "DriverPack has been created specifically for admins but is clear and con
 msgid "settings-screen_license"
 msgstr "License Agreement"
 
-msgid "start_title"
-msgstr "Automatiс configuring of {{MODEL}}"
+msgid "start_button_install_drivers"
+msgstr "Install all drivers"
 
 msgid "start_button_install"
 msgstr "Configure the computer automatically"
 
+msgid "start_title"
+msgstr "Automatiс configuring of {{MODEL}}"
+
 msgid "start_caption"
 msgstr "DriverPack will scan the system, install the required<br/>drivers and software, and perform diagnostics. <br/>The computer's efficiency should increase."
+
+msgid "start_expert_mode"
+msgstr "Expert Mode"
+
+msgid "start_expert_mode_label"
+msgstr "Advanced Settings"
 
 msgid "start_license"
 msgstr "License Agreement"
 
-msgid "start_expert_mode"
-msgstr "Expert Mode"
+msgid "footer_site"
+msgstr "DriverPack removal"
 
 msgid "start_drivers_title"
 msgid_plural "start_drivers_title_n"
 msgstr[0] "{{COUNT}} driver will be installed"
 msgstr[1] "{{COUNT}} drivers will be installed"
 
+msgid "start_drivers_utils_popover"
+msgstr "The drivers and driver toolkits required for your computer proper operation have been selected and are ready to be installed. The restore point will be created prior installation begins."
+
 msgid "start_drivers_popover"
 msgstr "The drivers for your computer have been selected and are ready for installation. Before it starts, a restore point will be created."
+
+msgid "start_programs_title_driver_utils"
+msgid_plural "start_programs_title_n"
+msgstr[0] "{{COUNT}} driver toolkit will be installed"
+msgstr[1] "{{COUNT}} driver toolkits will be installed"
 
 msgid "start_programs_title"
 msgid_plural "start_programs_title_n"
@@ -1355,6 +1408,12 @@ msgstr "DriverPack will suit any computer"
 msgid "installation_header_promo_text_driverpack_for_all"
 msgstr "We have created the tool that enables to make the configuration of any computer entirely automatic. DriverPack contains more than a million drivers, which allows to configure any computer with just one button. As a result you get installed drivers and utilities, carefully selected software (which is the integrated part of configuring), as well as the diagnostics of your computer. This means that DriverPack quickly configures your whole computer to maximum efficiency in just one button click."
 
+msgid "installation_header_promo_title_istart"
+msgstr "Do you like new technologies? Support a good startup"
+
+msgid "installation_header_promo_text_istart"
+msgstr "Do you also think that the search engines are obsolete? If so, support a young iStart developers team who have their own view of content search: a unique search band, automatic ad removal, anonymity — and all this is just the beginning. This technology is undergoing through the stage of open Alpha-testing but it is already available for trying."
+
 msgid "softcategories_archiver-single-for"
 msgstr "file archiver"
 
@@ -1416,5 +1475,5 @@ msgstr "The sound card is connected incorrectly, or there are some problems with
 msgid "language_title"
 msgstr "English"
 
-#~ msgid "configurator-screen_save-to"
-#~ msgstr "Save to the following folder:"
+#~ msgid "confirm_popup_install_button_ok"
+#~ msgstr "OK"
