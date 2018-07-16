@@ -1,0 +1,1109 @@
+# Translators:
+# Roobaa Nuuf <roobaanuuf@gmail.com>, 2018
+# Nadia Tegeneva <nadia@drp.su>, 2018
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-13 15:41+0000\n"
+"PO-Revision-Date: 2016-09-23 09:12+0000\n"
+"Last-Translator: Nadia Tegeneva <nadia@drp.su>, 2018\n"
+"Language-Team: Oromo (https://www.transifex.com/driverpack-solution/teams/75453/om/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: om\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "adminlandingpage_title"
+msgstr ""
+
+msgid "admincackle_dialog-star"
+msgstr ""
+
+msgid "admindriverpacks_landing-title"
+msgstr ""
+
+msgid "admindriverpacks_landing-subtitle"
+msgstr ""
+
+msgid "admindriverpacks_download"
+msgstr ""
+
+msgid "adminfaq_landing-title"
+msgstr ""
+
+msgid "adminfaq_landing-subtitle"
+msgstr ""
+
+msgid "adminheader_cta-text"
+msgstr ""
+
+msgid "adminheader_cta-btn"
+msgstr ""
+
+msgid "buttonsplitdropdown_main-button"
+msgstr ""
+
+msgid "cloudfaq_landing-title"
+msgstr ""
+
+msgid "cloudpagefooter_license-link"
+msgstr "Eyyemaa Walli galtee"
+
+msgid "breadcrumbs_main-text"
+msgstr ""
+
+msgid "breadcrumbs_catalog-main-text"
+msgstr ""
+
+msgid "breadcrumbs_vendors-text"
+msgstr ""
+
+#. i18n: EN: Example: VENDOR.NAME=Lenovo; RU: Пример: VENDOR.NAME=Lenovo;
+msgid "breadcrumbs_vendor-text"
+msgstr "{{VENDOR.NAME}}"
+
+#. i18n: EN: Example: VENDOR.NAME=Lenovo; RU: Пример: VENDOR.NAME=Lenovo;
+msgid "breadcrumbs_vendorlanding-text"
+msgstr ""
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=cardreaders|monitors; RU: Пример:
+#. CLASS.PLURAL.MAIN=картридеры|мониторы;
+msgid "breadcrumbs_deviceclass-text"
+msgstr "{{CLASS.PLURAL.MAIN}}"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=cardreaders|monitors,
+#. VENDOR.NAME=Realtek; RU: Пример: CLASS.PLURAL.MAIN=картридеры|мониторы;
+#. VENDOR.NAME=Realtek;
+msgid "breadcrumbs_devicegroups-text"
+msgstr "{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
+
+#. i18n: EN: Example: GROUP.VENDOR.NAME=Nvidia, GROUP.NAME=GeForce 210; RU:
+#. Пример: GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210;
+msgid "breadcrumbs_devicegroup-text"
+msgstr "{{GROUP.VENDOR.NAME}} {{GROUP.NAME}}"
+
+msgid "breadcrumbs_notebooks-text"
+msgstr ""
+
+#. i18n: EN: Example: VENDOR.NAME=Asus; RU: Пример: VENDOR.NAME=Asus;
+msgid "breadcrumbs_notebookvendor-text"
+msgstr ""
+
+#. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=X1 carbon;
+#. RU: Пример: NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=X1 carbon;
+msgid "breadcrumbs_notebook-text"
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
+
+#. i18n: EN: Example: CLASS.PLURAL.MAIN=Videocards|Chipsets ,
+#. NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=G580; RU: Пример:
+#. CLASS.PLURAL.MAIN=видеокарты|чипсеты, NOTEBOOK.VENDOR.NAME=Lenovo,
+#. NOTEBOOK.NAME=G580;
+msgid "breadcrumbs_notebookdevices-text"
+msgstr ""
+
+msgid "devicecard_download-btn"
+msgstr ""
+
+#. i18n: EN: Example: NAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10 x86; Text
+#. for {{DOWNLOAD}} is in key drivercard_no-results_download-link; RU: Пример:
+#. NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10 x86; Текст для
+#. {{DOWNLOAD}} находится в ключе drivercard_no-results_download-link;
+msgid "devicecard_details_no-results-text"
+msgstr ""
+
+msgid "devicecard_details_no-results_download-link"
+msgstr ""
+
+msgid "devicecard_details-content-text"
+msgstr ""
+
+msgid "devicecard_details_all-systems"
+msgstr ""
+
+msgid "devicecard_details-content-label-version"
+msgstr "Verzhinnii:"
+
+msgid "devicecard_details-content-label-version-recommended"
+msgstr ""
+
+msgid "devicecard_details-content-label-date"
+msgstr ""
+
+msgid "devicecard_details-content-label-type"
+msgstr ""
+
+msgid "devicecard_details-content-label-manufacturer"
+msgstr ""
+
+msgid "devicecard_details-content-label-systems"
+msgstr ""
+
+msgid "devicecard_details-content-label-deviceid"
+msgstr "Device ID:"
+
+msgid "devicecard_details-content-label-inf"
+msgstr "Fayyeelaa *.inf:"
+
+msgid "devicecard_details-content-label-section"
+msgstr ""
+
+msgid "devicecard_details-links-merged_label"
+msgstr ""
+
+msgid "devicecard_details-links-notebook_device"
+msgstr ""
+
+msgid "devicecard_details-links"
+msgstr ""
+
+msgid "devicecardlist_no-result_download-link"
+msgstr ""
+
+#. i18n: EN: Example: DEVICENAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10
+#. x86; Text for {{DOWNLOAD}} is in key devicecardlist_no-result_download-
+#. link; RU: Пример: NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10
+#. x86; Текст для {{DOWNLOAD}} находится в ключе devicecardlist_no-
+#. result_download-link;
+msgid "devicecardlist_no-results-device-text"
+msgstr ""
+
+#. i18n: EN: Example: DEVICECLASS=chipsets|videocards; NOTEBOOK=Acer AO521;
+#. OSVERSIONS=Windows 10 x86; Text for {{DOWNLOAD}} is in key
+#. devicecardlist_no-result_download-link; RU: Пример:
+#. DEVICECLASS=чипсета|видеокарты; NOTEBOOK=Acer AO521; Пример:
+#. OSVERSIONS=Windows 10 x86; Текст для {{DOWNLOAD}} находится в ключе
+#. devicecardlist_no-result_download-link;
+msgid "devicecardlist_no-results-notebook-text"
+msgstr ""
+
+#. i18n: EN: Example: NOTEBOOK=Acer AO521; OSVERSIONS=Windows 10 x86; Text for
+#. {{DOWNLOAD}} is in key devicecardlist_no-result_download-link; RU: Пример:
+#. NOTEBOOK=Acer AO521; Пример: OSVERSIONS=Windows 10 x86; Текст для
+#. {{DOWNLOAD}} находится в ключе devicecardlist_no-result_download-link;
+msgid "devicecardlist_no-results-notebook-device-class-text"
+msgstr ""
+
+msgid "devicegrouppage_all-systems"
+msgstr ""
+
+msgid "notebookpage_all-systems"
+msgstr ""
+
+msgid "devicegroupfilters_filter-title"
+msgstr ""
+
+msgid "deviceidfilters-filter-label-version"
+msgstr ""
+
+msgid "deviceidheader_caption-single"
+msgstr ""
+
+msgid "deviceidheader_caption-many"
+msgstr ""
+
+msgid "devicetypelist_title_os"
+msgstr ""
+
+msgid "devicetypelist_title"
+msgstr ""
+
+msgid "search_noresult"
+msgstr ""
+
+#. i18n: EN: Example: NAME=Acer Aspire 4830TG; OSVERSIONS=Windows 10 x86; Text
+#. for {{DOWNLOAD}} is in key drivercard_no-results_download-link; RU: Пример:
+#. NAME=Acer Aspire 4830TG; Пример: OSVERSIONS=Windows 10 x86; Текст для
+#. {{DOWNLOAD}} находится в ключе drivercard_no-results_download-link;
+msgid "drivercard_no-results-text"
+msgstr ""
+
+msgid "drivercard_no-results_download-link"
+msgstr ""
+
+msgid "drivercard_caption-version"
+msgstr "Verzhinnii:"
+
+msgid "drivercard_caption-version-recommended"
+msgstr ""
+
+msgid "drivercard_caption-date"
+msgstr ""
+
+msgid "drivercard_caption-class"
+msgstr ""
+
+msgid "drivercard_caption-manufacturer"
+msgstr ""
+
+msgid "drivercard_caption-os"
+msgstr ""
+
+msgid "drivercard_caption-deviceid"
+msgstr "Device ID:"
+
+msgid "drivercard_caption-inf"
+msgstr "Fayyeelaa *.inf:"
+
+msgid "drivercard_caption-section"
+msgstr ""
+
+msgid "drivercard_caption-btn"
+msgstr ""
+
+msgid "deviceidpage_all-systems"
+msgstr ""
+
+msgid "dropdowndriverversion_no-results"
+msgstr ""
+
+msgid "dropdownos_current"
+msgstr ""
+
+msgid "footer_banner-title"
+msgstr ""
+
+msgid "footer_banner-caption"
+msgstr ""
+
+msgid "footer_banner_btn"
+msgstr ""
+
+msgid "footer_translate-feedback"
+msgstr ""
+
+msgid "header_search-title"
+msgstr ""
+
+msgid "header_search-examples"
+msgstr ""
+
+msgid "header_cta-text"
+msgstr ""
+
+msgid "header_cta-btn"
+msgstr ""
+
+msgid "header_cta-label-1"
+msgstr ""
+
+msgid "header_cta-label-2"
+msgstr ""
+
+msgid "headerbutton_title"
+msgstr ""
+
+msgid "headerbutton_label"
+msgstr ""
+
+msgid "headeros_cta-btn"
+msgstr ""
+
+msgid "headeros_search-text"
+msgstr ""
+
+msgid "landingdevicetypelist_landing-title"
+msgstr ""
+
+msgid "landingdevicetypelist_landing-subtitle"
+msgstr ""
+
+msgid "landingdevicetypelist_cta-btn"
+msgstr ""
+
+msgid "landingdevicetypelist_versions"
+msgstr ""
+
+msgid "landingfeatures_landing-title"
+msgstr ""
+
+msgid "landingfeatures_landing-subtitle"
+msgstr ""
+
+msgid "landingfeatures_item-title-free"
+msgstr ""
+
+msgid "landingfeatures_item-caption-free"
+msgstr ""
+
+msgid "landingfeatures_item-title-safe"
+msgstr ""
+
+msgid "landingfeatures_item-caption-safe"
+msgstr ""
+
+msgid "landingfeatures_item-title-for-all-devices"
+msgstr ""
+
+msgid "landingfeatures_item-caption-for-all-devices"
+msgstr ""
+
+msgid "landingheader_cta-text"
+msgstr ""
+
+msgid "landingheader_cta-btn"
+msgstr ""
+
+msgid "landingheadernav_search"
+msgstr ""
+
+msgid "landingheadernav_foradmin"
+msgstr ""
+
+msgid "landingintroduction_author-title"
+msgstr ""
+
+msgid "landingintroduction_author-speech"
+msgstr ""
+
+msgid "landingintroduction_author-speech-marked"
+msgstr ""
+
+msgid "landingintroduction_video-caption"
+msgstr ""
+
+msgid "landingnotebookvendorslist_landing-title"
+msgstr ""
+
+msgid "landingnotebookvendorslist_landing-subtitle"
+msgstr ""
+
+msgid "landingnotebookvendorslist_cta-btn"
+msgstr ""
+
+msgid "landingnotebookvendorslist_versions"
+msgstr ""
+
+msgid "landingproducts_cta-title"
+msgstr ""
+
+msgid "landingproducts_cta-description"
+msgstr ""
+
+msgid "landingproducts_item-title-online"
+msgstr "DriverPack Online"
+
+msgid "landingproducts_item-description-online"
+msgstr ""
+
+msgid "landingproducts_item-version"
+msgstr "Verzhinnii:"
+
+msgid "landingproducts_item-button"
+msgstr ""
+
+msgid "landingproducts_item-title-network"
+msgstr "DriverPack Offline Network"
+
+msgid "landingproducts_item-description-network"
+msgstr ""
+
+msgid "landingproducts_item-title-offline"
+msgstr "DriverPack Offline Full"
+
+msgid "landingproducts_item-description-offline"
+msgstr ""
+
+msgid "landingpublications__source-link"
+msgstr ""
+
+msgid "landingpublications__landing-title"
+msgstr ""
+
+msgid "landingscreenshots_landing-title"
+msgstr ""
+
+msgid "landingscreenshots_landing-subtitle"
+msgstr ""
+
+msgid "landingsocial_landing-title"
+msgstr ""
+
+msgid "landingsocial_landing-subtitle"
+msgstr ""
+
+msgid "landingtopvideocardlist_landing-title"
+msgstr ""
+
+msgid "landingtopvideocardlist_landing-caption"
+msgstr ""
+
+msgid "landingusers_cta"
+msgstr ""
+
+msgid "landingusers_cta-btn"
+msgstr ""
+
+msgid "landingusers_versions"
+msgstr ""
+
+msgid "landingvideocardlist_landing-title"
+msgstr ""
+
+msgid "landingwizard_landing-title"
+msgstr ""
+
+msgid "landingwizard_item-caption-download"
+msgstr ""
+
+msgid "landingwizard_item-caption-setup"
+msgstr ""
+
+msgid "landingwizard_item-caption-profit"
+msgstr ""
+
+msgid "landingwizard_cta-btn"
+msgstr ""
+
+msgid "navbar_download-link-short"
+msgstr ""
+
+msgid "navbar_download-link"
+msgstr ""
+
+msgid "notfound_cta-text"
+msgstr ""
+
+msgid "notfound_cta-btn"
+msgstr ""
+
+msgid "notfound_info-404"
+msgstr ""
+
+msgid "notfound_info-500"
+msgstr ""
+
+msgid "notebookfilters-title"
+msgstr ""
+
+msgid "notebookvendorslist_other-text"
+msgstr ""
+
+msgid "notebookvendorslist_title_os"
+msgstr ""
+
+msgid "notebookvendorslist_title"
+msgstr ""
+
+msgid "productlandingheader-online_cta-btn"
+msgstr ""
+
+msgid "productlandingheader-online_caption"
+msgstr ""
+
+msgid "productlandingheader-network_cta-btn"
+msgstr ""
+
+msgid "productlandingheader-network_caption"
+msgstr ""
+
+msgid "productlandingheader-offline_cta-btn"
+msgstr ""
+
+msgid "productlandingheader-offline_caption"
+msgstr ""
+
+msgid "promoheader_os-versions"
+msgstr ""
+
+msgid "promoheader_uninstall"
+msgstr ""
+
+msgid "promoheader_cta-text-gamers"
+msgstr ""
+
+msgid "promoheader_cta-text-gamers-caption"
+msgstr ""
+
+msgid "promoheader_cta-text"
+msgstr ""
+
+msgid "promoheader_cta-btn"
+msgstr ""
+
+msgid "promoheader_size"
+msgstr ""
+
+msgid "reviewheader_cta-text"
+msgstr ""
+
+msgid "reviewheader_cta"
+msgstr ""
+
+msgid "search_input-placeholder"
+msgstr ""
+
+msgid "search_btn-text"
+msgstr ""
+
+msgid "searchformitem_type-section"
+msgstr ""
+
+msgid "searchformitem_type-notebook"
+msgstr ""
+
+msgid "searchformitem_type-device"
+msgstr ""
+
+msgid "searchformitem_type-free"
+msgstr ""
+
+#. i18n: EN: Example: NAME=Acer; RU: Пример: NAME=Acer;
+msgid "generatesearchitemname_notebookvendor"
+msgstr ""
+
+#. i18n: EN: Example: NAME=Asus; RU: Пример: NAME=Asus;
+msgid "generatesearchitemname_vendor"
+msgstr ""
+
+msgid "deviceclasses_bluetooth-single-main"
+msgstr "Meeshaa Bluetooth"
+
+msgid "deviceclasses_bluetooth-single-for"
+msgstr "Meeshaa Bluetooth"
+
+msgid "deviceclasses_bluetooth-plural-main"
+msgstr "Meeshawwaan Bluetooth"
+
+msgid "deviceclasses_bluetooth-plural-for"
+msgstr "Meeshawwaan Bluetooth"
+
+msgid "deviceclasses_cardreader-single-main"
+msgstr "Dubbistuu Kaardii"
+
+msgid "deviceclasses_cardreader-single-for"
+msgstr "Dubbistuu Kaardii"
+
+msgid "deviceclasses_cardreader-plural-main"
+msgstr "Dubbistuu Kaardiwwanni"
+
+msgid "deviceclasses_cardreader-plural-for"
+msgstr "Dubbistuu Kaardiwwanni"
+
+msgid "deviceclasses_chipset-single-main"
+msgstr "Chipsetti"
+
+msgid "deviceclasses_chipset-single-for"
+msgstr "Chipsetti"
+
+msgid "deviceclasses_chipset-plural-main"
+msgstr "Chipsettiwwaan"
+
+msgid "deviceclasses_chipset-plural-for"
+msgstr "Chipsettiwwaan"
+
+msgid "deviceclasses_inputdev-single-main"
+msgstr "Meeshaa Keessa galchittuu"
+
+msgid "deviceclasses_inputdev-single-for"
+msgstr "Meeshaa Keessa galchittuu"
+
+msgid "deviceclasses_inputdev-plural-main"
+msgstr "Meeshawwaan keessa galchittuu"
+
+msgid "deviceclasses_inputdev-plural-for"
+msgstr "Meeshawwaan keessa galchittuu"
+
+msgid "deviceclasses_lan-single-main"
+msgstr "Kaardii Networkii"
+
+msgid "deviceclasses_lan-single-for"
+msgstr "Kaardii Networkii"
+
+msgid "deviceclasses_lan-plural-main"
+msgstr "Kaardiiwwaan Networkii"
+
+msgid "deviceclasses_lan-plural-for"
+msgstr "Kaardiiwwaan Networkii"
+
+msgid "deviceclasses_massstorage-single-main"
+msgstr "To'attaa (Kan To'attuu)"
+
+msgid "deviceclasses_massstorage-single-for"
+msgstr "To'attaa (Kan To'attuu)"
+
+msgid "deviceclasses_massstorage-plural-main"
+msgstr "To'aattoottaa"
+
+msgid "deviceclasses_massstorage-plural-for"
+msgstr "To'aattoottaa"
+
+msgid "deviceclasses_modem-single-main"
+msgstr "Moodomii"
+
+msgid "deviceclasses_modem-single-for"
+msgstr "Moodomii"
+
+msgid "deviceclasses_modem-plural-main"
+msgstr "Moodemiwwaan"
+
+msgid "deviceclasses_modem-plural-for"
+msgstr "Moodemiwwaan"
+
+msgid "deviceclasses_monitor-single-main"
+msgstr "Monitarrii"
+
+msgid "deviceclasses_monitor-single-for"
+msgstr "Monitarrii"
+
+msgid "deviceclasses_monitor-plural-main"
+msgstr "Monitariwwaan"
+
+msgid "deviceclasses_monitor-plural-for"
+msgstr "Monitariwwaan"
+
+msgid "deviceclasses_phone-single-main"
+msgstr "Bilbilaa Ismartii"
+
+msgid "deviceclasses_phone-single-for"
+msgstr "Bilbilaa Ismartii"
+
+msgid "deviceclasses_phone-plural-main"
+msgstr "Bilbilaa Ismarttiwwaan"
+
+msgid "deviceclasses_phone-plural-for"
+msgstr "Bilbilaa Ismarttiwwaan"
+
+msgid "deviceclasses_printer-single-main"
+msgstr "Pirinterrii"
+
+msgid "deviceclasses_printer-single-for"
+msgstr "Pirinterrii"
+
+msgid "deviceclasses_printer-plural-main"
+msgstr "Printerriwwaan"
+
+msgid "deviceclasses_printer-plural-for"
+msgstr "Printerriwwaan"
+
+msgid "deviceclasses_sound-single-main"
+msgstr "Kaardii Sagalee"
+
+msgid "deviceclasses_sound-single-for"
+msgstr "Kaardii Sagalee"
+
+msgid "deviceclasses_sound-plural-main"
+msgstr "Kaardiiwwaan Sagalee"
+
+msgid "deviceclasses_sound-plural-for"
+msgstr "Kaardiiwwaan Sagalee"
+
+msgid "deviceclasses_tvtuner-single-main"
+msgstr "Televizhinii barbaadu"
+
+msgid "deviceclasses_tvtuner-single-for"
+msgstr "Televizhinii barbaadu"
+
+msgid "deviceclasses_tvtuner-plural-main"
+msgstr "Televizhinii barbaaduwwaan"
+
+msgid "deviceclasses_tvtuner-plural-for"
+msgstr "Televizhinii barbaaduwwaan"
+
+msgid "deviceclasses_video-single-main"
+msgstr "Kaardii Vidiyoo"
+
+msgid "deviceclasses_video-single-for"
+msgstr "Kaardii Vidiyoo"
+
+msgid "deviceclasses_video-plural-main"
+msgstr "Kaardiiwwaan Vidiyoo"
+
+msgid "deviceclasses_video-plural-for"
+msgstr "Kaardiiwwaan Vidiyoo"
+
+msgid "deviceclasses_webcamera-single-main"
+msgstr "Kamerraa webbii"
+
+msgid "deviceclasses_webcamera-single-for"
+msgstr "Kamerraa webbii"
+
+msgid "deviceclasses_webcamera-plural-main"
+msgstr "Kamerraawwaan webbii"
+
+msgid "deviceclasses_webcamera-plural-for"
+msgstr "Kamerraawwaan webbii"
+
+msgid "deviceclasses_wifi-single-main"
+msgstr "Meeshaa Wi-Fi"
+
+msgid "deviceclasses_wifi-single-for"
+msgstr "Meeshaa Wi-Fi"
+
+msgid "deviceclasses_wifi-plural-main"
+msgstr "Meeshaawwaan Wi-Fi"
+
+msgid "deviceclasses_wifi-plural-for"
+msgstr "Meeshaawwaan Wi-Fi"
+
+msgid "deviceclasses_other-single-main"
+msgstr "Meeshaa Kan biroo"
+
+msgid "deviceclasses_other-single-for"
+msgstr "Meeshaa Kan biroo"
+
+msgid "deviceclasses_other-plural-main"
+msgstr "Meeshaalee kan biroo"
+
+msgid "deviceclasses_other-plural-for"
+msgstr "Meeshaalee kan biroo"
+
+msgid "searchheader_caption-subtitle"
+msgstr ""
+
+msgid "searchheader_caption-filter-label"
+msgstr ""
+
+#. i18n: EN: Example: NOTEBOOK=Acer AO521; Text for {{DOWNLOAD}} is in key
+#. searchresult_details-content_download-link; RU: Пример: NOTEBOOK=Acer
+#. AO521; Текст для {{DOWNLOAD}} находится в ключе searchresult_details-
+#. content_download-link
+msgid "searchresult_details-content-notebook-text"
+msgstr ""
+
+msgid "searchresult_details-content_download-link"
+msgstr ""
+
+msgid "searchresult_notebook"
+msgstr ""
+
+msgid "searchresult_download-btn"
+msgstr ""
+
+msgid "searchresult_details-content-text-placeholder"
+msgstr ""
+
+msgid "searchresult_details-content-label-1"
+msgstr ""
+
+msgid "searchresult_details-content-label-2"
+msgstr ""
+
+#. i18n: EN: Example: DEVICE=NVIDIA GeForce 205; Text for {{DOWNLOAD}} is in
+#. key searchresult_details-content_download-link; RU: Пример: DEVICE=NVIDIA
+#. GeForce 205; Текст для {{DOWNLOAD}} находится в ключе searchresult_details-
+#. content_download-link
+msgid "searchresult_details-content-group-text"
+msgstr ""
+
+#. i18n: EN: Example: CLASS.SINGLE.MAIN=monitor|chipset; COUNT=12; RU: Пример:
+#. CLASS.SINGLE.MAIN=монитор|чипсет; COUNT=12;
+msgid "searchresult_device"
+msgstr ""
+
+msgid "searchresult_details-content-text-many"
+msgstr ""
+
+msgid "seofooter_os-list-title"
+msgstr ""
+
+msgid "seofooter_offers-title"
+msgstr ""
+
+msgid "seofooter_driver-description-title"
+msgstr ""
+
+msgid "seofooter_popular-drivers-title"
+msgstr ""
+
+msgid "sidebanner_title"
+msgstr ""
+
+msgid "sidebanner_caption"
+msgstr ""
+
+msgid "translationheader_cta-text"
+msgstr ""
+
+msgid "translationheader_bubble-team"
+msgstr ""
+
+msgid "translationheader_bubble-languages"
+msgstr ""
+
+msgid "translationheader_bubble-experience"
+msgstr ""
+
+msgid "translationheader_bubble-email"
+msgstr ""
+
+msgid "translationlist_title"
+msgstr ""
+
+msgid "translationtool_text-transifex"
+msgstr ""
+
+msgid "translationtool_example-ru-to-en"
+msgstr ""
+
+msgid "translationtool_example-en-to-all"
+msgstr ""
+
+msgid "deviceclasses_laptop-single-main"
+msgstr ""
+
+msgid "language_title"
+msgstr "Oromo"
+
+msgid "landingPagePublications_rbk"
+msgstr ""
+
+msgid "landingPagePublications_secretfirmy"
+msgstr ""
+
+msgid "landingPagePublications_cnews"
+msgstr ""
+
+msgid "landingPagePublications_xbit"
+msgstr ""
+
+msgid "landingPagePublications_chip"
+msgstr ""
+
+msgid "landingPagePublications_pcmag"
+msgstr ""
+
+msgid "landingPagePublications_habr"
+msgstr ""
+
+msgid "landingPagePublications_computerra"
+msgstr ""
+
+msgid "landingPagePublications_vc"
+msgstr ""
+
+msgid "adminpagefaq_official_vendors-q"
+msgstr ""
+
+msgid "adminpagefaq_official_vendors-a"
+msgstr ""
+
+msgid "adminpagefaq_database-q"
+msgstr ""
+
+msgid "adminpagefaq_database-a"
+msgstr ""
+
+msgid "adminpagefaq_free-q"
+msgstr ""
+
+msgid "adminpagefaq_free-a"
+msgstr ""
+
+msgid "adminpagefaq_antivirus-q"
+msgstr ""
+
+msgid "adminpagefaq_antivirus-a"
+msgstr ""
+
+msgid "adminpagefaq_expert_mode-q"
+msgstr ""
+
+msgid "adminpagefaq_expert_mode-a"
+msgstr ""
+
+msgid "adminpagefaq_stable-q"
+msgstr ""
+
+msgid "adminpagefaq_stable-a"
+msgstr ""
+
+msgid "cloudpagefaq_remove_soft-q"
+msgstr ""
+
+msgid "cloudpagefaq_remove_soft-a"
+msgstr ""
+
+msgid "cloudpagefaq_notifications-q"
+msgstr ""
+
+msgid "cloudpagefaq_notifications-a"
+msgstr ""
+
+msgid "cloudpagefaq_usb-q"
+msgstr ""
+
+msgid "cloudpagefaq_usb-a"
+msgstr ""
+
+msgid "cloudlandingpage_cackle-title"
+msgstr ""
+
+msgid "cloudlandingpage_cackle-caption"
+msgstr ""
+
+msgid "cloudlandingpage_header-title"
+msgstr ""
+
+msgid "cloudlandingpage_about-what-is-title"
+msgstr ""
+
+msgid "cloudlandingpage_about-what-is-caption"
+msgstr ""
+
+msgid "cloudlandingpage_about-how-works-title"
+msgstr ""
+
+msgid "cloudlandingpage_about-how-works-caption"
+msgstr ""
+
+msgid "cloudlandingpage_features-monitoring"
+msgstr ""
+
+msgid "cloudlandingpage_features-safety"
+msgstr ""
+
+msgid "cloudlandingpage_features-cloud"
+msgstr ""
+
+msgid "cloudlandingpage_uninstall-title"
+msgstr ""
+
+msgid "cloudlandingpage_uninstall-caption"
+msgstr ""
+
+msgid "cloudlandingpage_license"
+msgstr ""
+
+msgid "cloudlandingpage_features-install"
+msgstr ""
+
+msgid "cloudlandingpage_license-link"
+msgstr "Eyyemaa Walli galtee"
+
+msgid "devicegrouppage_show-more-link"
+msgstr "Baay'ee ilaali"
+
+msgid "devicestypepage_subtitle"
+msgstr ""
+
+msgid "devicetypevendorpage_subtitle-popular"
+msgstr ""
+
+msgid "devicetypevendorpage_subtitle-all"
+msgstr ""
+
+msgid "errorpage_title"
+msgstr ""
+
+msgid "gdpr-banner_text"
+msgstr ""
+
+msgid "gdpr-banner_cta-text"
+msgstr ""
+
+msgid "landingfooter_landing-subtitle"
+msgstr ""
+
+msgid "landing-footer_catalog-os"
+msgstr ""
+
+msgid "landing-footer_versions"
+msgstr ""
+
+msgid "landing-footer_remove"
+msgstr ""
+
+msgid "landing-footer_manufacturers"
+msgstr ""
+
+msgid "landing-footer_hwids"
+msgstr ""
+
+msgid "landing-footer_for-admin"
+msgstr ""
+
+msgid "landing-footer_for-translators"
+msgstr ""
+
+msgid "notfoundpage_title"
+msgstr ""
+
+msgid "notebookpage_show-more-link"
+msgstr "Baay'ee ilaali"
+
+msgid "notebookpage_all-devices"
+msgstr ""
+
+msgid "notebook-page_empty-title"
+msgstr ""
+
+msgid "notebook-page_empty-caption"
+msgstr ""
+
+msgid "notebook-page_empty-button"
+msgstr ""
+
+msgid "notebookspage_subtitle"
+msgstr ""
+
+msgid "notebooksvendorpage_subtitle-popular"
+msgstr ""
+
+msgid "notebooksvendorpage_subtitle-all"
+msgstr ""
+
+msgid "reviewpage_title"
+msgstr ""
+
+msgid "searchpage_show-more-link"
+msgstr "Baay'ee ilaali"
+
+#. i18n: EN: text for {{LINK}} is in key thankyoupopup_download-link; RU:
+#. текст для {{LINK}} находится в ключе thankyoupopup_download-link;
+msgid "thankyoupopup_download-text"
+msgstr ""
+
+#. i18n: EN: text for {{LINK}} is in key thankyoupopup_licence-link; RU: текст
+#. для {{LINK}} находится в ключе thankyoupopup_licence-link;
+msgid "thankyoupopup_licence-text"
+msgstr ""
+
+msgid "thankyoupopup_title"
+msgstr ""
+
+msgid "thankyoupopup_cta-text"
+msgstr ""
+
+msgid "thankyoupopup_licence-link"
+msgstr "Eyyemaa Walli galtee"
+
+msgid "thankyoupopup_download-link"
+msgstr ""
+
+msgid "translate-feedback-header_caption"
+msgstr ""
+
+msgid "translate-feedback-form-popup_preview-title"
+msgstr ""
+
+msgid "translate-feedback-form-popup_correct-title"
+msgstr ""
+
+msgid "translate-feedback-form-popup_submit"
+msgstr ""
+
+msgid "translate-feedback-popup_title-error"
+msgstr ""
+
+msgid "translate-feedback-popup_description-error"
+msgstr ""
+
+msgid "translate-feedback-popup_title-success"
+msgstr ""
+
+msgid "translate-feedback-popup_description-success"
+msgstr ""
+
+msgid "translate-feedback-popup_description-join-us"
+msgstr ""
+
+msgid "translate-feedback-popup_description-join-link"
+msgstr ""
+
+msgid "translationlandingpage_title"
+msgstr ""
+
+msgid "vendorpage_subtitle-popular"
+msgstr ""
