@@ -1,5 +1,6 @@
 # Translators:
 # Tsalis Khoiruddin <tsaliscepu@gmail.com>, 2017
+# Agus S, 2017
 # Andi K, 2017
 # Nadia Tegeneva <nadia@drp.su>, 2017
 # Dody Prayuto <dodzaguila@gmail.com>, 2017
@@ -9,14 +10,13 @@
 # Azhe-kun <azhe403@gmail.com>, 2017
 # Nuriya Amin <riyanuri90@gmail.com>, 2017
 # Артур Кузяков <artx@drp.su>, 2018
-# Agus S, 2018
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-13 15:41+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
-"Last-Translator: Agus S, 2018\n"
+"Last-Translator: Артур Кузяков <artx@drp.su>, 2018\n"
 "Language-Team: Indonesian (https://www.transifex.com/driverpack-solution/teams/75453/id/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -94,11 +94,11 @@ msgid "breadcrumbs_devicegroup-text"
 msgstr "{{GROUP.VENDOR.NAME}} {{GROUP.NAME}}"
 
 msgid "breadcrumbs_notebooks-text"
-msgstr "Komputer jingjing"
+msgstr "Laptop-laptop"
 
 #. i18n: EN: Example: VENDOR.NAME=Asus; RU: Пример: VENDOR.NAME=Asus;
 msgid "breadcrumbs_notebookvendor-text"
-msgstr "{{VENDOR.NAME}} komputer jingjing"
+msgstr "{{VENDOR.NAME}} laptop"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=X1 carbon;
 #. RU: Пример: NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=X1 carbon;
@@ -110,7 +110,7 @@ msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
 #. CLASS.PLURAL.MAIN=видеокарты|чипсеты, NOTEBOOK.VENDOR.NAME=Lenovo,
 #. NOTEBOOK.NAME=G580;
 msgid "breadcrumbs_notebookdevices-text"
-msgstr "{{CLASS.PLURAL.MAIN}} dari {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} komputer jingjing"
+msgstr "{{CLASS.PLURAL.MAIN}} dari {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptop"
 
 msgid "devicecard_download-btn"
 msgstr "Unduh driver"
@@ -185,14 +185,14 @@ msgstr "Driver untuk {{DEVICENAME}} untuk Windows {{OSVERSIONS}} tidak ditemukan
 #. OSVERSIONS=Windows 10 x86; Текст для {{DOWNLOAD}} находится в ключе
 #. devicecardlist_no-result_download-link;
 msgid "devicecardlist_no-results-notebook-text"
-msgstr "Driver untuk {{NOTEBOOK}} komputer jingjing di Windows {{OSVERSIONS}} tidak ditemukan di katalog. {{DOWNLOAD}} untuk memilih driver dengan otomatis."
+msgstr "Driver untuk {{NOTEBOOK}} laptop di Windows {{OSVERSIONS}} tidak ditemukan di katalog. {{DOWNLOAD}} untuk memilih driver dengan otomatis."
 
 #. i18n: EN: Example: NOTEBOOK=Acer AO521; OSVERSIONS=Windows 10 x86; Text for
 #. {{DOWNLOAD}} is in key devicecardlist_no-result_download-link; RU: Пример:
 #. NOTEBOOK=Acer AO521; Пример: OSVERSIONS=Windows 10 x86; Текст для
 #. {{DOWNLOAD}} находится в ключе devicecardlist_no-result_download-link;
 msgid "devicecardlist_no-results-notebook-device-class-text"
-msgstr "Driver untuk {{DEVICECLASS}} untuk {{NOTEBOOK}} komputer jingjing di Wndows {{OSVERSIONS}} tidak ditemukan. {{DOWNLOAD}} untuk memilih driver secara otomatis."
+msgstr "Driver untuk {{DEVICECLASS}} untuk {{NOTEBOOK}} laptop di Wndows {{OSVERSIONS}} tidak ditemukan. {{DOWNLOAD}} untuk memilih driver secara otomatis."
 
 msgid "devicegrouppage_all-systems"
 msgstr "semua sistem"
@@ -490,10 +490,10 @@ msgid "notebookvendorslist_other-text"
 msgstr "Produsen lain"
 
 msgid "notebookvendorslist_title_os"
-msgstr "Driver untuk komputer jingjing di {{OS}}"
+msgstr "Driver untuk laptop-laptop di {{OS}}"
 
 msgid "notebookvendorslist_title"
-msgstr "Cari Driver untuk komputer jingjing"
+msgstr "Pencarian driver untuk laptop-laptop"
 
 msgid "productlandingheader-online_cta-btn"
 msgstr "Unduh DriverPack Online"
@@ -541,7 +541,7 @@ msgid "reviewheader_cta"
 msgstr "Tambahkan ulasan atau saran anda untuk memperbaiki DriverPack"
 
 msgid "search_input-placeholder"
-msgstr "Cari nama dari driver, komputer jingjing atau DeviceID"
+msgstr "Pencarian nama dari driver, laptop atau DeviceID"
 
 msgid "search_btn-text"
 msgstr "Temukan"
@@ -550,7 +550,7 @@ msgid "searchformitem_type-section"
 msgstr "Kategori"
 
 msgid "searchformitem_type-notebook"
-msgstr "komputer jingjing"
+msgstr "laptop"
 
 msgid "searchformitem_type-device"
 msgstr "perangkat"
@@ -560,7 +560,7 @@ msgstr "untuk bebas"
 
 #. i18n: EN: Example: NAME=Acer; RU: Пример: NAME=Acer;
 msgid "generatesearchitemname_notebookvendor"
-msgstr "{{NAME}} komputer jingjing"
+msgstr "{{NAME}} laptop-laptop"
 
 #. i18n: EN: Example: NAME=Asus; RU: Пример: NAME=Asus;
 msgid "generatesearchitemname_vendor"
@@ -775,7 +775,7 @@ msgid "searchresult_details-content_download-link"
 msgstr "Unduh DriverPack"
 
 msgid "searchresult_notebook"
-msgstr "Komputer jingjing"
+msgstr "Laptop"
 
 msgid "searchresult_download-btn"
 msgstr "Install driver secara otomatis"
@@ -850,7 +850,7 @@ msgid "translationtool_example-en-to-all"
 msgstr "Baris untuk terjemahan dari Inggris (EN) ke dalam bahasa lain di dunia"
 
 msgid "deviceclasses_laptop-single-main"
-msgstr "komputer jingjing"
+msgstr "laptop"
 
 msgid "language_title"
 msgstr "Indonesian"
@@ -1045,13 +1045,13 @@ msgid "notebook-page_empty-button"
 msgstr "Pasang driver secara otomatis"
 
 msgid "notebookspage_subtitle"
-msgstr "Daftar semua komputer jingjing dan komputer kecil"
+msgstr "Daftar semua pabrikan Laptop dan Netbook"
 
 msgid "notebooksvendorpage_subtitle-popular"
-msgstr "Komputer jingjing dan komputer kecil {{VENDOR.NAME}} terkenal"
+msgstr "Laptop-laptop dan netbook-netbook {{VENDOR.NAME}} yang terkenal"
 
 msgid "notebooksvendorpage_subtitle-all"
-msgstr "Semua {{VENDOR.NAME}} komputer jingjing dan komputer kecil"
+msgstr "Semua {{VENDOR.NAME}} laptop-laptop dan netbook-netbook"
 
 msgid "reviewpage_title"
 msgstr "Saran dan masukan untuk meningkatkan DriverPack"
