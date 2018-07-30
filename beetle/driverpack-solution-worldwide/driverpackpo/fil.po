@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-07-04 13:20+0000\n"
-"PO-Revision-Date: 2018-07-09 21:17+0000\n"
-"Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
+"PO-Revision-Date: 2018-07-23 02:37+0000\n"
+"Last-Translator: Rhuziel Caro\n"
 "Language-Team: Filipino (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/fil/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -220,16 +220,16 @@ msgid "deviceclasses_other-plural-for"
 msgstr "iba pang mga devices"
 
 msgid "activate_recommendations_title_programs"
-msgstr ""
+msgstr "Ang aming rekomendasyon sa mga software ay hindi pinagana"
 
 msgid "activate_recommendations_title_protect"
-msgstr ""
+msgstr "Ang aming rekomendasyon sa mga protective software ay hindi pinagana"
 
 msgid "activate_recommendations_button_programs"
-msgstr ""
+msgstr "Paganahin ang aming mga rekomendasyon sa software"
 
 msgid "activate_recommendations_button_protect"
-msgstr ""
+msgstr "Paganahin ang aming mga rekomendasyon sa protective software"
 
 msgid "programs_about"
 msgstr "Matuto nang higit pa"
@@ -498,31 +498,31 @@ msgid "menu_cmd"
 msgstr "Command Line"
 
 msgid "configurator-screen_downloading"
-msgstr ""
+msgstr "Nagda-download: {{DOWNLOADED_SIZE}} ng {{TOTAL_SIZE}}"
 
 msgid "configurator-screen_title"
-msgstr ""
+msgstr "Ang iyong DriverPack Offline build"
 
 msgid "configurator-screen_caption"
-msgstr ""
+msgstr "Maaari mong i-download ang iyong sariling build ng DriverPack sa pamamagitan ng pagpili ng mga driver na magiging available nang walang koneksyon sa Internet."
 
 msgid "configurator-screen_btn"
-msgstr ""
+msgstr "I-download ang  DriverPack Offline – {{COUNT}}"
 
 msgid "configurator-screen_completed"
-msgstr ""
+msgstr "Tapos na ang pag-download"
 
 msgid "configurator-screen_open-downloads"
-msgstr ""
+msgstr "Buksan ang Download folder"
 
 msgid "configurator-screen_fail"
-msgstr ""
+msgstr "Nag error ang pag download"
 
 msgid "configurator-screen_retry"
-msgstr ""
+msgstr "Subukan muli"
 
 msgid "configurator-screen_params"
-msgstr ""
+msgstr "I-download ang mga parameter"
 
 #. i18n: EN: text for {{LINK.EULA}} is in key confirm_popup_eula-link; text
 #. for {{LINK.POLICY}} is in key confirm_popup_policy-link; RU: текст для
@@ -554,7 +554,7 @@ msgid "confirm_popup_cancel_button"
 msgstr "Tanggihan"
 
 msgid "confirm_popup_cancel_all_button"
-msgstr ""
+msgstr "Tanggihan ang lahat ng software ({{COUNT}})"
 
 msgid "diagnostics_section_title"
 msgstr "Sistema ng Diagnostics"
@@ -851,13 +851,13 @@ msgid "games_playkey_create_account_button"
 msgstr "Gumawa ng isang account sa PlayKey"
 
 msgid "gdpr-banner_text"
-msgstr ""
+msgstr "Kinokolekta namin ang data tungkol sa iyong computer alinsunod sa mga kondisyon ng Kasunduan sa Lisensya, upang pumili ng mga tamang driver para sa iyong device. Mangyaring kumpirmahin ang iyong pahintulot, upang makapagbibigay kami ng tamang operasyon sa app."
 
 msgid "gdpr-banner_decline-btn"
-msgstr ""
+msgstr "Tanggihan"
 
 msgid "gdpr-banner_accept-btn"
-msgstr ""
+msgstr "Kumpirmahin"
 
 msgid "header_authorize_button"
 msgstr "Mag-Login"
@@ -887,7 +887,7 @@ msgid "installation_header_title"
 msgstr "Nino-configure namin ang iyong computer..."
 
 msgid "installation_header_promo_try"
-msgstr ""
+msgstr "subukan mo"
 
 msgid "installation_header_promo_more"
 msgstr "matuto nang higit pa"
@@ -1019,7 +1019,7 @@ msgid "installation_progress_downloading_of"
 msgstr "ng"
 
 msgid "installation_progress_downloaded"
-msgstr ""
+msgstr "na-download:"
 
 msgid "installation_progress_stage_downloading"
 msgstr "Naglo-load ..."
@@ -1151,7 +1151,7 @@ msgid "programs_header_text_caption"
 msgstr "Hindi na kailangang hanapin ang mga program ng software nang isa-isa. Madali mong mai-iinstall sa isang click lang."
 
 msgid "drivers_program_recommend"
-msgstr ""
+msgstr "Ang software na inirerekomenda ng DriverPack"
 
 msgid "drivers_program_counter"
 msgstr "Inirerekomendang software"
@@ -1172,13 +1172,13 @@ msgid "protect_row_install_date"
 msgstr "Petsa ng Pag-install:"
 
 msgid "protect_rating_level_large_appesteem"
-msgstr ""
+msgstr "Hindi karaniwang application (70% ng mga user ina-uninstall ito)"
 
 msgid "protect_rating_level_large"
 msgstr "inirerekomenda namin na alisin mo ito"
 
 msgid "protect_rating_level_middle_appesteem"
-msgstr ""
+msgstr "Hindi karaniwang application"
 
 msgid "protect_rating_level_middle"
 msgstr "maaari mong alisin ito"
@@ -1187,7 +1187,7 @@ msgid "protect_rating_level_small"
 msgstr "maaari mong panatilihin ito"
 
 msgid "protect_rating_level_large_caption_appesteem"
-msgstr ""
+msgstr "70% ng mga users  namin ina-uninstall ang application na ito"
 
 msgid "protect_rating_level_large_caption"
 msgstr "Inirerekumenda namin sa iyo na tanggalin ang software na ito dahil 70% ng lahat ng mga users inaalis ito."
@@ -1220,7 +1220,7 @@ msgid "protect_installed_programs_title"
 msgstr "Mga Software Naka-Install sa computer"
 
 msgid "protect_installed_programs_switch_appesteem"
-msgstr ""
+msgstr "Ipakita lamang ang hindi karaniwang mga application"
 
 msgid "protect_installed_programs_switch"
 msgstr "Ipakita ang kahina-hinalang software"
@@ -1241,7 +1241,7 @@ msgid "settings-screen_license"
 msgstr "Kasunduan sa Lisensya"
 
 msgid "start_button_install_drivers"
-msgstr ""
+msgstr "I-install ang lahat ng mga driver"
 
 msgid "start_button_install"
 msgstr "Awtomatikong i-configure ang computer"
@@ -1256,7 +1256,7 @@ msgid "start_expert_mode"
 msgstr "Expert Mode"
 
 msgid "start_expert_mode_label"
-msgstr ""
+msgstr "Mga Advanced na Setting"
 
 msgid "start_license"
 msgstr "Kasunduan sa Lisensya"
@@ -1270,15 +1270,15 @@ msgstr[0] "{{COUNT}} mai-install ang mga driver"
 msgstr[1] "{{COUNT}} mai-install ang mga driver "
 
 msgid "start_drivers_utils_popover"
-msgstr ""
+msgstr "Kinakailangan ang mga driver at driver toolkit para sa wastong operasyon ng iyong computer at handa na upang mag-install. Ang restore point ay gagawin bago magsimula ang pag-install."
 
 msgid "start_drivers_popover"
 msgstr "Ang mga driver para sa iyong computer ay napili at handa na para sa pag-install. Bago ito magsimula, ito ay malilikha ang isang restore point."
 
 msgid "start_programs_title_driver_utils"
 msgid_plural "start_programs_title_n"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "mai-install ang toolkit ng {{COUNT}} driver"
+msgstr[1] "mai-install ang mga toolkit ng {{COUNT}} driver"
 
 msgid "start_programs_title"
 msgid_plural "start_programs_title_n"
@@ -1406,10 +1406,10 @@ msgid "installation_header_promo_text_driverpack_for_all"
 msgstr "Nilikha namin ang tool na nagbibigay-daan upang awtomatikong gawin ang pagsasaayos ng anumang computer. Ang DriverPack ay naglalaman ng higit sa isang milyong mga driver, na nagbibigay-daan upang i-configure ang anumang computer sa isang pindutan lamang. Bilang resulta, nakakuha ka ng mga naka-install na driver at kagamitan, maingat na piniling software (na kung saan ay ang pinagsamang bahagi ng pag-configure), pati na rin ang mga diagnostic ng iyong computer. Nangangahulugan ito na mabilis na configure ng DriverPack ang iyong buong computer sa pinakamataas na kahusayan sa isang click lamang."
 
 msgid "installation_header_promo_title_istart"
-msgstr ""
+msgstr "Gusto mo ba ng mga bagong teknolohiya? Suportahan ang isang mahusay na startup"
 
 msgid "installation_header_promo_text_istart"
-msgstr ""
+msgstr "Iniisip mo ba na ang mga search engine ay hindi na ginagamit? Kung gayon, suportahan ang isang batang koponan ng iStart developer na may sariling pagtingin sa paghahanap ng nilalaman: isang natatanging search band, awtomatikong pag-aalis ng ad, anonymity — lahat ng ito ay simula pa lamang. Ang teknolohiyang ito ay sumasailalim sa yugto ng open Alpha-testing ngunit handa na ito para subukan."
 
 msgid "softcategories_archiver-single-for"
 msgstr "file archiver"

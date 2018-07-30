@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-07-04 13:20+0000\n"
-"PO-Revision-Date: 2018-07-09 21:23+0000\n"
+"PO-Revision-Date: 2018-07-26 05:36+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Slovenian (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/sl/)\n"
 "MIME-Version: 1.0\n"
@@ -219,16 +219,16 @@ msgid "deviceclasses_other-plural-for"
 msgstr "druge naprave"
 
 msgid "activate_recommendations_title_programs"
-msgstr ""
+msgstr "Naša priporočila o programski opremi so onemogočena"
 
 msgid "activate_recommendations_title_protect"
-msgstr ""
+msgstr "Naša priporočila o zaščitni programski opremi so onemogočena"
 
 msgid "activate_recommendations_button_programs"
-msgstr ""
+msgstr "Omogočite naša priporočila o programski opremi"
 
 msgid "activate_recommendations_button_protect"
-msgstr ""
+msgstr "Omogočite naša priporočila o zaščitni programski opremi"
 
 msgid "programs_about"
 msgstr "Nauči se več"
@@ -553,7 +553,7 @@ msgid "confirm_popup_cancel_button"
 msgstr "Zavrni"
 
 msgid "confirm_popup_cancel_all_button"
-msgstr ""
+msgstr "Zavrni vso programsko opremo ({{COUNT}})"
 
 msgid "diagnostics_section_title"
 msgstr "Sistemska diagnostika"
@@ -896,7 +896,7 @@ msgid "installation_header_title"
 msgstr "Konfiguriramo vaš računalnik..."
 
 msgid "installation_header_promo_try"
-msgstr ""
+msgstr "poskusite"
 
 msgid "installation_header_promo_more"
 msgstr "Naučite se več"
@@ -1160,7 +1160,7 @@ msgid "programs_header_text_caption"
 msgstr "Programskih programov ni treba več iskati enega po enega. Vse lahko enostavno namestite z enim klikom."
 
 msgid "drivers_program_recommend"
-msgstr ""
+msgstr "Programsko opremo priporoča DriverPack"
 
 msgid "drivers_program_counter"
 msgstr "Priporočena programska oprema"
@@ -1181,13 +1181,13 @@ msgid "protect_row_install_date"
 msgstr "Datum namestitve:"
 
 msgid "protect_rating_level_large_appesteem"
-msgstr ""
+msgstr "Redka aplikacija (70% uporabnikov jih odstrani)"
 
 msgid "protect_rating_level_large"
 msgstr "priporočamo vam da odstranite "
 
 msgid "protect_rating_level_middle_appesteem"
-msgstr ""
+msgstr "Redka aplikacija"
 
 msgid "protect_rating_level_middle"
 msgstr "to lahko odstranite"
@@ -1196,7 +1196,7 @@ msgid "protect_rating_level_small"
 msgstr "to lahko obdržite"
 
 msgid "protect_rating_level_large_caption_appesteem"
-msgstr ""
+msgstr "70% naših uporabnikov odstraniti to aplikacijo"
 
 msgid "protect_rating_level_large_caption"
 msgstr "Priporočamo vam, da to programsko opremo odstranite, ker jo odstrani 70% vseh uporabnikov."
@@ -1229,7 +1229,7 @@ msgid "protect_installed_programs_title"
 msgstr "Programska oprema nameščena na računalniku"
 
 msgid "protect_installed_programs_switch_appesteem"
-msgstr ""
+msgstr "Prikaži samo redke aplikacije"
 
 msgid "protect_installed_programs_switch"
 msgstr "Prikaži sumljivo programsko opremo"
@@ -1250,7 +1250,7 @@ msgid "settings-screen_license"
 msgstr "Licenčna pogodba"
 
 msgid "start_button_install_drivers"
-msgstr ""
+msgstr "Namestite vse gonilnike"
 
 msgid "start_button_install"
 msgstr " Samodejna nastavitev računalnika"
@@ -1265,7 +1265,7 @@ msgid "start_expert_mode"
 msgstr "Napredni način"
 
 msgid "start_expert_mode_label"
-msgstr ""
+msgstr "Napredne nastavitve"
 
 msgid "start_license"
 msgstr "Licenčna pogodba"
@@ -1281,17 +1281,17 @@ msgstr[2] "{{COUNT}} gonilnikov se bo namestilo"
 msgstr[3] "{{COUNT}} gonilnikov se bo namestilo"
 
 msgid "start_drivers_utils_popover"
-msgstr ""
+msgstr "Izbrani so bili gonilniki in orodja za gonilnike, ki so potrebni za pravilno delovanje računalnika in so pripravljeni za namestitev. Točka za obnovitev bo ustvarjena pred začetkom namestitve."
 
 msgid "start_drivers_popover"
 msgstr "Gonilniki za vaš računalnik so bili izbrani in so pripravljeni za namestitev. Preden se zažene namestitev, bo ustvarjena obnovitvena točka sistema."
 
 msgid "start_programs_title_driver_utils"
 msgid_plural "start_programs_title_n"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgstr[0] "{{COUNT}} orodje za gonilnike bo nameščeno"
+msgstr[1] "{{COUNT}} orodji za gonilnike bo nameščeno"
+msgstr[2] "{{COUNT}} orodja za gonilnike bo nameščeno"
+msgstr[3] "{{COUNT}} orodij za gonilnike bo nameščeno"
 
 msgid "start_programs_title"
 msgid_plural "start_programs_title_n"
@@ -1421,10 +1421,10 @@ msgid "installation_header_promo_text_driverpack_for_all"
 msgstr "Ustvarili smo orodje, ki omogoča, da poteka konfiguracija katerega koli računalnika popolnoma avtomatsko. DriverPack vsebuje več kot milijon gonilnikov, kar omogoča konfiguriranje katerega koli računalnika s samo enim gumbom. Tako dobite nameščene gonilnike in pripomočke, skrbno izbrano programsko opremo (ki je integrirani del konfiguriranja), kot tudi diagnostiko vašega računalnika. To pomeni, da DriverPack hitro konfigurira celoten računalnik do največje učinkovitosti s samo enim klikom."
 
 msgid "installation_header_promo_title_istart"
-msgstr ""
+msgstr "Ali vam je všeč nove tehnologije? Podpirajte dober zagon"
 
 msgid "installation_header_promo_text_istart"
-msgstr ""
+msgstr "Ali menite, da so iskalniki zastareli? Če je tako, podprite mlado ekipo iStart za razvijalce, ki imajo lasten pogled na iskanje vsebine: edinstven iskalni niz, samodejno odstranjevanje oglasov, anonimnost — in vse to je šele začetek. Ta tehnologija poteka skozi fazo odprtega alfa testiranja, vendar je že na voljo za poskus."
 
 msgid "softcategories_archiver-single-for"
 msgstr "arhiviranje datotek"

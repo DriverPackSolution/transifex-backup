@@ -1,13 +1,13 @@
 # Translators:
 # Translators:
 # Harry Eliassen <harryemail@gmail.com>, 2017-2018
-# Nadia Tegeneva <nadia@drp.su>, 2017
+# Nadia Tegeneva <nadia@drp.su>, 2017-2018
 msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-07-04 13:20+0000\n"
-"PO-Revision-Date: 2018-07-09 21:21+0000\n"
+"PO-Revision-Date: 2018-07-29 03:27+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Norwegian (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/no/)\n"
 "MIME-Version: 1.0\n"
@@ -218,16 +218,16 @@ msgid "deviceclasses_other-plural-for"
 msgstr "andre enheter"
 
 msgid "activate_recommendations_title_programs"
-msgstr ""
+msgstr "Våre anbefalinger av programvare er deaktivert"
 
 msgid "activate_recommendations_title_protect"
-msgstr ""
+msgstr "Våre anbefalinger om beskyttelses programvare er deaktivert"
 
 msgid "activate_recommendations_button_programs"
-msgstr ""
+msgstr "Aktiver våre anbefalinger av programvare"
 
 msgid "activate_recommendations_button_protect"
-msgstr ""
+msgstr "Aktiver våre anbefalinger om beskyttelses programvare"
 
 msgid "programs_about"
 msgstr "Lær mer"
@@ -552,7 +552,7 @@ msgid "confirm_popup_cancel_button"
 msgstr "Avslå"
 
 msgid "confirm_popup_cancel_all_button"
-msgstr ""
+msgstr "Avvis all programvare ({{COUNT}})"
 
 msgid "diagnostics_section_title"
 msgstr "System Diagnose"
@@ -885,7 +885,7 @@ msgid "installation_header_title"
 msgstr "Vi konfigurerer din datamaskin..."
 
 msgid "installation_header_promo_try"
-msgstr ""
+msgstr "prrøv det"
 
 msgid "installation_header_promo_more"
 msgstr "lær mer"
@@ -1149,7 +1149,7 @@ msgid "programs_header_text_caption"
 msgstr "Det er ikke nødvendig å lete etter programvare et etter et lenger. Du kan enkelt installere alt med ett klikk."
 
 msgid "drivers_program_recommend"
-msgstr ""
+msgstr "Programvare anbefalt av DriverPack"
 
 msgid "drivers_program_counter"
 msgstr "Anbefalt programvare"
@@ -1170,13 +1170,13 @@ msgid "protect_row_install_date"
 msgstr "Installasjonsdato:"
 
 msgid "protect_rating_level_large_appesteem"
-msgstr ""
+msgstr "Uvanlige program (70% av brukerne avinstallerer disse)"
 
 msgid "protect_rating_level_large"
 msgstr "vi anbefaler at du fjerner dette"
 
 msgid "protect_rating_level_middle_appesteem"
-msgstr ""
+msgstr "Uvanlige applikasjoner"
 
 msgid "protect_rating_level_middle"
 msgstr "du kan fjerne dette"
@@ -1185,7 +1185,7 @@ msgid "protect_rating_level_small"
 msgstr "du kan beholde dette"
 
 msgid "protect_rating_level_large_caption_appesteem"
-msgstr ""
+msgstr "70% oav våre brukere avinstallerer denne applikasjonen"
 
 msgid "protect_rating_level_large_caption"
 msgstr "Vi anbefaler at du fjerner denne programvaren fordi 70% av alle brukerne fjerner den."
@@ -1218,7 +1218,7 @@ msgid "protect_installed_programs_title"
 msgstr "Programvare installert på datamaskinen"
 
 msgid "protect_installed_programs_switch_appesteem"
-msgstr ""
+msgstr "Vis kun uvanlige applikasjoner"
 
 msgid "protect_installed_programs_switch"
 msgstr "Bare vis den mistenkelige programvaren"
@@ -1239,7 +1239,7 @@ msgid "settings-screen_license"
 msgstr "Lisensavtale "
 
 msgid "start_button_install_drivers"
-msgstr ""
+msgstr "Install alle drivere"
 
 msgid "start_button_install"
 msgstr "Konfigurer din datamaskin automatisk"
@@ -1254,7 +1254,7 @@ msgid "start_expert_mode"
 msgstr "Ekspert Mode"
 
 msgid "start_expert_mode_label"
-msgstr ""
+msgstr "Avanserte Instillinger"
 
 msgid "start_license"
 msgstr "Lisensavtale "
@@ -1268,15 +1268,15 @@ msgstr[0] "{{COUNT}} driver vil bli installert"
 msgstr[1] "{{COUNT}} drivere vil bli installert"
 
 msgid "start_drivers_utils_popover"
-msgstr ""
+msgstr "Driverne og driverens verktøy som kreves for riktig drift av datamaskinen, er valgt og er klare til å bli installert. Gjenopprettingspunktet vil bli opprettet før installasjonsbegynnelsen starter."
 
 msgid "start_drivers_popover"
 msgstr "Driverne for datamaskinen din er valgt og er klare for installasjon. Før den starter, vil et gjenopprettingspunkt bli opprettet."
 
 msgid "start_programs_title_driver_utils"
 msgid_plural "start_programs_title_n"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{{COUNT}} driver verkstøysett vil bli installert"
+msgstr[1] "{{COUNT}} driver verktøysett vil bli installert"
 
 msgid "start_programs_title"
 msgid_plural "start_programs_title_n"
@@ -1404,10 +1404,10 @@ msgid "installation_header_promo_text_driverpack_for_all"
 msgstr "Vi har laget verktøyet som gjør det mulig å konfigurere hvilken som helst datamaskin helt automatisk. DriverPack inneholder mer enn en million drivere, som gjør det mulig å konfigurere en hvilken som helst datamaskin med bare en knapp. Som et resultat får du installerte drivere og verktøy, nøye valgt programvare (som er den integrerte delen av konfigurering), samt diagnostikk av datamaskinen din. Dette betyr at DriverPack raskt konfigurerer hele datamaskinen til maksimal effektivitet med bare ett klikk."
 
 msgid "installation_header_promo_title_istart"
-msgstr ""
+msgstr "Liker du nye teknologier? Støtt en god oppstart"
 
 msgid "installation_header_promo_text_istart"
-msgstr ""
+msgstr "Tror du også at søkemotorene er foreldet? Hvis ja, støtter et ungt iStart-utviklerteam som har sin egen visning av innholdssøk: et unikt søkebånd, automatisk annonsefjerning, anonymitet — og alt dette er bare begynnelsen. Denne teknologien gjennomgår scenen med åpen alfa-testing, men den er allerede tilgjengelig for å utprøves."
 
 msgid "softcategories_archiver-single-for"
 msgstr "filarkiv"

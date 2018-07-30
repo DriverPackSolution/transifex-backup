@@ -1,6 +1,7 @@
 # Translators:
 # Translators:
 # Flávio Pereira <homersflav@gmail.com>, 2018
+# Flávio Pereira <homersflav@gmail.com>, 2018
 # Francisco Sousa <franciscojasousa@gmail.com>, 2017
 # Jorge Carvalho <jorge.p.carvalho@gmail.com>, 2016-2017
 # José Cunha <appsejogos97@gmail.com>, 2016
@@ -11,7 +12,7 @@ msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-07-04 13:20+0000\n"
-"PO-Revision-Date: 2018-07-09 21:22+0000\n"
+"PO-Revision-Date: 2018-07-29 03:49+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Portuguese (Portugal) (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/pt_PT/)\n"
 "MIME-Version: 1.0\n"
@@ -222,16 +223,16 @@ msgid "deviceclasses_other-plural-for"
 msgstr "outros dispositivos"
 
 msgid "activate_recommendations_title_programs"
-msgstr ""
+msgstr "As nossas recomendações de programas estão desativadas"
 
 msgid "activate_recommendations_title_protect"
-msgstr ""
+msgstr "As nossas recomendações de programas protectores estão desativadas"
 
 msgid "activate_recommendations_button_programs"
-msgstr ""
+msgstr "Ative as nossas recomendações de Aplicações"
 
 msgid "activate_recommendations_button_protect"
-msgstr ""
+msgstr "Ative as nossas recomendações de aplicações protetoras"
 
 msgid "programs_about"
 msgstr "Saiba mais"
@@ -500,31 +501,31 @@ msgid "menu_cmd"
 msgstr "Linha de Comandos"
 
 msgid "configurator-screen_downloading"
-msgstr ""
+msgstr "A Transferir: {{DOWNLOADED_SIZE}} de {{TOTAL_SIZE}}"
 
 msgid "configurator-screen_title"
-msgstr ""
+msgstr "O seu Pack DriverPack Offline"
 
 msgid "configurator-screen_caption"
-msgstr ""
+msgstr "Pode transferir o seu pacote DriverPack escolhendo aqueles drivers que vão estar disponiveis sem acesso á internet."
 
 msgid "configurator-screen_btn"
-msgstr ""
+msgstr "Transferir DriverPack Offline – {{COUNT}}"
 
 msgid "configurator-screen_completed"
-msgstr ""
+msgstr "Transferência completa"
 
 msgid "configurator-screen_open-downloads"
-msgstr ""
+msgstr "Abrir a pasta de Transferências"
 
 msgid "configurator-screen_fail"
 msgstr "Erro no descarregamento"
 
 msgid "configurator-screen_retry"
-msgstr ""
+msgstr "Tente outra vez"
 
 msgid "configurator-screen_params"
-msgstr ""
+msgstr "Parametros de transferência"
 
 #. i18n: EN: text for {{LINK.EULA}} is in key confirm_popup_eula-link; text
 #. for {{LINK.POLICY}} is in key confirm_popup_policy-link; RU: текст для
@@ -556,7 +557,7 @@ msgid "confirm_popup_cancel_button"
 msgstr "Recuse"
 
 msgid "confirm_popup_cancel_all_button"
-msgstr ""
+msgstr "Ignorar todos os programas ({{COUNT}})"
 
 msgid "diagnostics_section_title"
 msgstr "Sistema de Diagnóstico"
@@ -853,13 +854,13 @@ msgid "games_playkey_create_account_button"
 msgstr "Crie uma conta na PlayKey"
 
 msgid "gdpr-banner_text"
-msgstr ""
+msgstr "Nós colecionamos dados sobre o seu computador de acordo com as condições dos Termos de Acordo. De forma a escolher os controladores adequados ao seu dispositivo. Por favor confirme o seu consentimento, e nós vamos ser capazes de oferecer a mais correta operação da nossa aplicação."
 
 msgid "gdpr-banner_decline-btn"
-msgstr ""
+msgstr "Rejeitar"
 
 msgid "gdpr-banner_accept-btn"
-msgstr ""
+msgstr "Confirmar"
 
 msgid "header_authorize_button"
 msgstr "Iniciar Sessão"
@@ -889,7 +890,7 @@ msgid "installation_header_title"
 msgstr "Estamos a configurar o seu computador..."
 
 msgid "installation_header_promo_try"
-msgstr ""
+msgstr "tente"
 
 msgid "installation_header_promo_more"
 msgstr "saiba mais"
@@ -1021,7 +1022,7 @@ msgid "installation_progress_downloading_of"
 msgstr "de"
 
 msgid "installation_progress_downloaded"
-msgstr ""
+msgstr "transferido:"
 
 msgid "installation_progress_stage_downloading"
 msgstr "A carregar..."
@@ -1153,7 +1154,7 @@ msgid "programs_header_text_caption"
 msgstr "Não é mais necessário andar à procura das aplicações uma a uma. Pode facilmente instalar tudo com um clique."
 
 msgid "drivers_program_recommend"
-msgstr ""
+msgstr "O programa recomendado por DriverPack"
 
 msgid "drivers_program_counter"
 msgstr "Programas recomendados"
@@ -1174,13 +1175,13 @@ msgid "protect_row_install_date"
 msgstr "Data de Instalação:"
 
 msgid "protect_rating_level_large_appesteem"
-msgstr ""
+msgstr "Programa pouco comum (70% de utilizadores desinstalaram-no)"
 
 msgid "protect_rating_level_large"
 msgstr "recomendamos que remova isto"
 
 msgid "protect_rating_level_middle_appesteem"
-msgstr ""
+msgstr "Programa pouco comum"
 
 msgid "protect_rating_level_middle"
 msgstr "pode remover isto"
@@ -1189,7 +1190,7 @@ msgid "protect_rating_level_small"
 msgstr "pode manter isto"
 
 msgid "protect_rating_level_large_caption_appesteem"
-msgstr ""
+msgstr "70% dos nossos utilizadores desinstalaram este programa"
 
 msgid "protect_rating_level_large_caption"
 msgstr "Recomendamos que remova este programa pois 70% dos utilizadores removem-no."
@@ -1222,7 +1223,7 @@ msgid "protect_installed_programs_title"
 msgstr "Programas instalados no seu computador"
 
 msgid "protect_installed_programs_switch_appesteem"
-msgstr ""
+msgstr "Mostrar os programas menos comuns apenas"
 
 msgid "protect_installed_programs_switch"
 msgstr "Mostre apenas os programas suspeitos"
@@ -1243,7 +1244,7 @@ msgid "settings-screen_license"
 msgstr "Acordo da Licença"
 
 msgid "start_button_install_drivers"
-msgstr ""
+msgstr "Instalar todos os controladores"
 
 msgid "start_button_install"
 msgstr "Configure o computador automaticamente"
@@ -1258,7 +1259,7 @@ msgid "start_expert_mode"
 msgstr "Modo Especialista"
 
 msgid "start_expert_mode_label"
-msgstr ""
+msgstr "Opções Avançadas"
 
 msgid "start_license"
 msgstr "Acordo da Licença"
@@ -1272,7 +1273,7 @@ msgstr[0] "{{COUNT}} controlador será instalado"
 msgstr[1] "{{COUNT}} controladores serão instalados"
 
 msgid "start_drivers_utils_popover"
-msgstr ""
+msgstr "The drivers and driver toolkits required for your computer proper operation have been selected and are ready to be installed. The restore point will be created prior installation begins. Os controladores e ferramentas de controladores necessários para o seu computador funcionar corretamente estão selecionados e estão prontos para instalar. O ponto de restauro será criado antes da instalação começar."
 
 msgid "start_drivers_popover"
 msgstr "Os controladores para o seu computador foram selecionados e estão prontos para instalação. Antes da instalação, vai ser criado um ponto de restauro."
@@ -1408,10 +1409,10 @@ msgid "installation_header_promo_text_driverpack_for_all"
 msgstr "Criamos a ferramenta que permite a configuração automática de qualquer computador. o DriverPack contém mais de um milhão de controladores, o que permite a configuração de qualquer computador com um clique. Como resultado tem os seus controladores e utilitários instalados, programas cuidadosamente selecionados (parte integrante do processo de configuração), assim como um diagnóstico do seu computador. Isto significa que o DriverPack configura rapidamente todo o seu computador para a máxima eficiência com apenas um clique."
 
 msgid "installation_header_promo_title_istart"
-msgstr ""
+msgstr "Gosta das novas tecnologias? Apoie um bom Startup"
 
 msgid "installation_header_promo_text_istart"
-msgstr ""
+msgstr "Também pensa que os motores de busca são desnecessários? Se sim apoie uma pequena equipa de desenvolvedores iStart que tem a sua própria visão de pesquisa de conteudo: uma unica marca de pesquisa, remoção de anuncios automática, anonimamente — e  isto é apenas o inicio. Esta tecnologia está a ser desenvolvida em testes Alpha  mas está já disponível para teste."
 
 msgid "softcategories_archiver-single-for"
 msgstr "gestor de ficheiros"
