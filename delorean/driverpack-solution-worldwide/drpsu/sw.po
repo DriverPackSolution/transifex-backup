@@ -5,14 +5,14 @@
 # Ir Kayembe Blaise <kablaise22@gmail.com>, 2017
 # Antony brandon <Antonyalistair@gmail.com>, 2018
 # David Mshana <david.mshana@eastc.ac.tz>, 2018
-# Seth Kyejo <sethkyejo@gmail.com>, 2018
+# ahmad nasibu <ahmadnasibu@gmail.com>, 2018
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-13 15:41+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
-"Last-Translator: Seth Kyejo <sethkyejo@gmail.com>, 2018\n"
+"Last-Translator: ahmad nasibu <ahmadnasibu@gmail.com>, 2018\n"
 "Language-Team: Swahili (https://www.transifex.com/driverpack-solution/teams/75453/sw/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -71,7 +71,7 @@ msgstr "{{VENDOR.NAME}}"
 
 #. i18n: EN: Example: VENDOR.NAME=Lenovo; RU: Пример: VENDOR.NAME=Lenovo;
 msgid "breadcrumbs_vendorlanding-text"
-msgstr ""
+msgstr "{{VENDOR.NAME}} viendeshaji"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=cardreaders|monitors; RU: Пример:
 #. CLASS.PLURAL.MAIN=картридеры|мониторы;
@@ -411,7 +411,7 @@ msgid "landingproducts_item-description-offline"
 msgstr "Ina ma drever yote, yanafanya kazi bila kuunganisha kwenye mtandao wa intaneti, inaweza kupakuliwa kupitia Torrent-tracker <span class='nobr'>({{SIZE}})</span>"
 
 msgid "landingpublications__source-link"
-msgstr ""
+msgstr "Soma zaidi"
 
 msgid "landingpublications__landing-title"
 msgstr "Machapisho ya vyombo vya habari kuhusu DriverPack"
@@ -507,7 +507,7 @@ msgid "productlandingheader-offline_cta-btn"
 msgstr "Pakua DriverPack Offline Full"
 
 msgid "productlandingheader-offline_caption"
-msgstr "Pakiti ya viendeshaji vya nje ya mtandao ni kubwa kiasi cha {{SIZE}} kwa usakinishaji au uingizaji wa viendeshaji bila mtandao. Sakinisha hivi viendeshaji na utumie kiasi kikubwa cha viendeshaji vilivyo vipya na kisasa popote na vyovyote utakavyo. Vinafaa vizuri kabisa kwa msimamizi wa mfumo."
+msgstr "DriverPack Offline Full ni pakiti kubwa ya ukubwa wa{{SIZE}}kwa usakinishaji au uingizaji wa viendeshaji bila uwepo wa Intaneti. Pakua DriverPack Offline Full na utumie kiasi kikubwa cha viendeshaji vilivyo vipya na kisasa popote upendavyo. Vinafaa vizuri kabisa kwa wasimamizi wa mifumo."
 
 msgid "promoheader_os-versions"
 msgstr "Programu hiyo inafaa kwa Windows 10, 8.1, 8, 7, Vista, XP"
@@ -924,16 +924,16 @@ msgid "cloudpagefaq_notifications-q"
 msgstr "Baada ya kusakinisha DriverPack Cloud, nilianza kupokea taarifa kwenye desktop yangu. Je nawezaje kuzizuia? "
 
 msgid "cloudpagefaq_notifications-a"
-msgstr ""
+msgstr "Hivi viarifu ni mapendekezo tu. Unaweza kujitoa kupata kiarifu cha aina fulani kwa kubofya alama ya kengele katika kona ya juu kulia ya kila kiarifu."
 
 msgid "cloudpagefaq_usb-q"
-msgstr ""
+msgstr "Nilipounganisha kadi-ya-flashi kwenye tundu ya usb, kiarifu kuhusu kiendeshi fulani kimetokea kwenye desktop yangu. Ni kwa ajili ya nini?"
 
 msgid "cloudpagefaq_usb-a"
-msgstr ""
+msgstr "DriverPack Cloud hudhihirisha uunganishwaji wa vifaa vipya na hukagua kama vina viendeshi stahiki. Kama kiendeshi hitajika kinakosekana, inawezekana kuisanikisha papo-hapo — ni muhimu kwa utendaji sahihi wa kifaa."
 
 msgid "cloudlandingpage_cackle-title"
-msgstr ""
+msgstr "Tufahamishe maoni yako kuhusu DriverPack Cloud"
 
 msgid "cloudlandingpage_cackle-caption"
 msgstr "Je unaipenda DriverPack Cloud? Ungependa shughuli gani nyingine ziongezeke? Tafadhali tuambie. "
@@ -945,28 +945,28 @@ msgid "cloudlandingpage_about-what-is-title"
 msgstr "Programu ya DriverPack Cloud ni nini?"
 
 msgid "cloudlandingpage_about-what-is-caption"
-msgstr ""
+msgstr "Hii ni mpya ya programu kutoka timu DriverPack, imebuniwa kuboresha ufanisi wa kompyuta yako bila gharama za ziada au kuboresha zana za PC yako. Hauridhishwi na kasi ya uendeshaji ya CS: GO au Dota 2 kwenye kompyuta yako? Jaribu DriverPack Cloud!"
 
 msgid "cloudlandingpage_about-how-works-title"
 msgstr "Je ni jinsi gani DriverPack Cloud inavyofanya kazi?"
 
 msgid "cloudlandingpage_about-how-works-caption"
-msgstr ""
+msgstr "Bidhaa yetu huchanganua hali ya viendeshaji kwenye PC yako, hudhihirisha kila programu inayoathiri ufanisi wa kompyuta yako katika namna moja au nyingineyo, na hutoa mapendekezo yake katika kusasisha viendeshaji na kuondoa programu inayofanya kompyuta yako nzito, au kinyume chake, hupendekeza kusanikisha bidhaa ya pembeni itakayosaidia kuongeza kasi ya utendaji wa kifaa chako. Mchakato mzima huwa chini ya usimamizi wako – hakuna vitendo kutoka upande wa DriverPack Cloud bila ya idhini yako"
 
 msgid "cloudlandingpage_features-monitoring"
-msgstr ""
+msgstr "Kinasimamia hali ya viendeshi vyako, hupakua masasisho muhimu na viendeshi vilivyokosekana kutoka kwenye ghala-data kubwa ya DriverPack"
 
 msgid "cloudlandingpage_features-safety"
-msgstr ""
+msgstr "Inawezesha to kudhihirisha na kuondoa programu-haribifu haraka, na hivyo, kuisaidia kiua-virusi chako"
 
 msgid "cloudlandingpage_features-cloud"
-msgstr ""
+msgstr "Inafanya mahesabu katika huduma ya Cloud inayokuwezesha kuokoa rasilimali ziada kwenye kompyuta yako"
 
 msgid "cloudlandingpage_uninstall-title"
 msgstr "jinsi ya kuondoa DriverPack Cloud moja kwa moja kutoka kwenye Kompyuta yako"
 
 msgid "cloudlandingpage_uninstall-caption"
-msgstr ""
+msgstr "Umesanikisha bidhaa yetu lakini hutaki kuitumia? Nenda kwenye kipengele cha Programu kwenye Paneli Ya Udhibti, na bofya kwenye Ondoa Programu. Tafuta DriverPack Cloud kwenye orodha-mdondoko na iondoe ukifuata hatua za kawaida. Ni hayo tu, programu imeondolewa. DriverPack Cloud haiachi programu zilizojificha baada ya kuondolewa, wala kuijaza PC yako na uchafu wa programu za matangazo."
 
 msgid "cloudlandingpage_license"
 msgstr "Kabla ya kuanza kusakinisha soma hii {{LINK}}, tafadhali"
@@ -993,10 +993,10 @@ msgid "errorpage_title"
 msgstr "Hitilafu 500: kosa la ndani ya seva"
 
 msgid "gdpr-banner_text"
-msgstr ""
+msgstr "Kwa kuendelea kutumia tovuti yetu unathibitisha ridhaa yako juu ya ukusanyaji wa mafaili ya Cookie. Inafanywa ili kukimu kazi murua kwa watumiaji wetu. Taarifa hii haishirikishwi na wengineo."
 
 msgid "gdpr-banner_cta-text"
-msgstr ""
+msgstr "Sawa"
 
 msgid "landingfooter_landing-subtitle"
 msgstr "DriverPack ina ma driver kwa matoleo yote maarufu ya Windows"
@@ -1032,10 +1032,10 @@ msgid "notebookpage_all-devices"
 msgstr "kwa vifaa vyote"
 
 msgid "notebook-page_empty-title"
-msgstr ""
+msgstr "Kifurushi cha viendeshaji kwa ajili ya mtindo wa kompyuta-mpakato <span class='bold'>{{NAME}}</span> bado haijaundwa"
 
 msgid "notebook-page_empty-caption"
-msgstr ""
+msgstr "Jaribu kupakua DriverPack Online. Programu hii itachagua viendeshaji ambavyo vinakaribiana na kile kompyuta-mpakato yako inachohitaji. <span class='bold'>Ni bure.</span>"
 
 msgid "notebook-page_empty-button"
 msgstr "Install driver moja kwa moja "
@@ -1078,7 +1078,7 @@ msgid "thankyoupopup_download-link"
 msgstr "pakua"
 
 msgid "translate-feedback-header_caption"
-msgstr ""
+msgstr "Ukurasa umefasiriwa hivi karibuni. Umekuta makosa? Yatilie kivuli na bofya {{HOTKEY}}"
 
 msgid "translate-feedback-form-popup_preview-title"
 msgstr "Umesisitiza kipande cha maandishi:"
