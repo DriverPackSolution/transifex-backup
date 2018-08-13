@@ -70,7 +70,7 @@ msgstr "{{VENDOR.NAME}}"
 
 #. i18n: EN: Example: VENDOR.NAME=Lenovo; RU: Пример: VENDOR.NAME=Lenovo;
 msgid "breadcrumbs_vendorlanding-text"
-msgstr ""
+msgstr "{{VENDOR.NAME}} ovladače"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=cardreaders|monitors; RU: Пример:
 #. CLASS.PLURAL.MAIN=картридеры|мониторы;
@@ -275,7 +275,7 @@ msgid "footer_banner_btn"
 msgstr "Stáhnout <span class='bold'>DriverPack Online</span> zdarma"
 
 msgid "footer_translate-feedback"
-msgstr ""
+msgstr "Našli jste chybu nebo přepis?<br />Označte ji, a stiskněte {{HOTKEY}}"
 
 msgid "header_search-title"
 msgstr "<span class='bold'>Hledání ovladačů v</span> největší databázi — více než milion ovladačů"
@@ -380,16 +380,16 @@ msgid "landingnotebookvendorslist_versions"
 msgstr "Ostatní verze programu DriverPack"
 
 msgid "landingproducts_cta-title"
-msgstr ""
+msgstr "Zvolte svůj DriverPack"
 
 msgid "landingproducts_cta-description"
-msgstr ""
+msgstr "Stáhněte balíček, který vám vyhovuje"
 
 msgid "landingproducts_item-title-online"
 msgstr "DriverPack Online"
 
 msgid "landingproducts_item-description-online"
-msgstr ""
+msgstr "Stahuje okamžitě a instaluje všechny ovladače, pokud máte internetové připojení <span class='nobr'>({{SIZE}})</span>"
 
 msgid "landingproducts_item-version"
 msgstr "Verze:"
@@ -401,16 +401,16 @@ msgid "landingproducts_item-title-network"
 msgstr "DriverPack Offline Network"
 
 msgid "landingproducts_item-description-network"
-msgstr ""
+msgstr "Obsahuje všechny ovladače pro síťový hardware (LAN/Wi-Fi), pracuje bez připojení k internetu <span class='nobr'>({{SIZE}})</span>"
 
 msgid "landingproducts_item-title-offline"
 msgstr "DriverPack Offline Full"
 
 msgid "landingproducts_item-description-offline"
-msgstr ""
+msgstr "Obsahuje všechny ovladače, pracuje bez připojení k internetu, a může být stažen přes Torrent-tracker <span class='nobr'>({{SIZE}})</span>"
 
 msgid "landingpublications__source-link"
-msgstr ""
+msgstr "Číst více"
 
 msgid "landingpublications__landing-title"
 msgstr "Publikace v médiích o programu DriverPack"
@@ -428,10 +428,10 @@ msgid "landingsocial_landing-subtitle"
 msgstr "Sledovat novinky a zapojit se do diskuzí"
 
 msgid "landingtopvideocardlist_landing-title"
-msgstr ""
+msgstr "Populární modely grafických karet"
 
 msgid "landingtopvideocardlist_landing-caption"
-msgstr ""
+msgstr "DriverPack vybere ovladače pro grafické karty jakýchkoli modelů, zde jsou nejpopulárnější"
 
 msgid "landingusers_cta"
 msgstr "Počet uživatelů programu DriverPack po světě se stále zvyšuje každou uplynulou sekundou"
@@ -443,7 +443,7 @@ msgid "landingusers_versions"
 msgstr "Ostatní verze programu DriverPack"
 
 msgid "landingvideocardlist_landing-title"
-msgstr ""
+msgstr "Populární výrobci grafických karet"
 
 msgid "landingwizard_landing-title"
 msgstr "Nyní je možné nastavit počítač jedním kliknutím"
@@ -494,19 +494,19 @@ msgid "productlandingheader-online_cta-btn"
 msgstr "Stáhnout DirverPack Online"
 
 msgid "productlandingheader-online_caption"
-msgstr ""
+msgstr "DriverPack Online - nejpopulárnější produkt o pouhé velikosti {{SIZE}}. Stahuje se okamžitě, vybere ovladače po váš počítač nebo laptop a potom je stáhne z internetu a nainstaluje je. Je dokonalý pro obyčejné uživatele. Pracuje pouze s připojením k internetu."
 
 msgid "productlandingheader-network_cta-btn"
-msgstr ""
+msgstr "Stáhnout DriverPack Offline Network"
 
 msgid "productlandingheader-network_caption"
 msgstr ""
 
 msgid "productlandingheader-offline_cta-btn"
-msgstr ""
+msgstr "Stáhnout DriverPack Offline Full"
 
 msgid "productlandingheader-offline_caption"
-msgstr ""
+msgstr "DriverPack Offline Full je obrovské sestavení o velikosti {{SIZE}} pro instalaci ovladačů bez přístupu k internetu. Pouze stáhněte DriverPack Offline Full a používejte enormní knihovnu aktuálních ovladačů kdekoli chcete. Perfektní pro správce systémů."
 
 msgid "promoheader_os-versions"
 msgstr "Software je vhodný pro Windows 10, 8.1, 8, 7, Vista a XP"
@@ -533,7 +533,7 @@ msgid "reviewheader_cta-text"
 msgstr "Připojte se ke komunitě programu DriverPack na sociálních sítích, držte krok s novinkami tohoto produktu a zapojte se do diskuzí"
 
 msgid "reviewheader_cta"
-msgstr ""
+msgstr "Přidejte svou recenzi nebo nápad na zlepšení programu DriverPack"
 
 msgid "search_input-placeholder"
 msgstr "Hledat podle názvu ovladače, laptopu nebo DeviceID"
@@ -914,64 +914,64 @@ msgid "adminpagefaq_stable-a"
 msgstr "Stabilita operací programu DriverPack jedna z našich hlavních priorit, ale některé malé chyby se stále mohou stát, i když vzácně. Proto jsme vytvořili bod obnovení, který vám umožňuje vrátit všechno zpět do nezkonfigurovaného stavu. Za účelem zabránění podobných problémů v budoucnosti doporučujeme jít do nabídky programu DriverPack a poslat našim technikům report, automaticky vytvořený programem."
 
 msgid "cloudpagefaq_remove_soft-q"
-msgstr ""
+msgstr "Proč doporučuje DriverPack Cloud odstranění některého softwaru z mého počítače?"
 
 msgid "cloudpagefaq_remove_soft-a"
-msgstr ""
+msgstr "Software s nízkým hodnocením je často adware nebo viry, proto DriverPack Cloud doporučuje jejich odstranění. Hodnocení je na základě preferencí našich uživatelů — čím více uživatelů program odstraňuje, tím nižší je jeho hodnocení."
 
 msgid "cloudpagefaq_notifications-q"
-msgstr ""
+msgstr "Po instalaci DriverPack Cloud jsem začal dostávat notifikace na moji plochu. Jak je mohu zakázat?"
 
 msgid "cloudpagefaq_notifications-a"
-msgstr ""
+msgstr "Tyto oznámení jsou jen doporučení. Můžete se odhlásit od dostávání oznámení konkrétního typu kliknutím na ikonu zvonku v horním pravém rohu každého oznámení."
 
 msgid "cloudpagefaq_usb-q"
-msgstr ""
+msgstr "Když jsem připojil svojí flash-kartu do USB slotu, na mé ploše se zobrazilo oznámení o nějakém ovladači. Na co to je?"
 
 msgid "cloudpagefaq_usb-a"
 msgstr ""
 
 msgid "cloudlandingpage_cackle-title"
-msgstr ""
+msgstr "Sdělte nám svůj názor na DriverPack Cloud"
 
 msgid "cloudlandingpage_cackle-caption"
-msgstr ""
+msgstr "Máte rádi DriverPack Cloud? Které další funkce byste chtěli do něj přidat? Sdělte nám, prosím."
 
 msgid "cloudlandingpage_header-title"
-msgstr ""
+msgstr "DriverPack Cloud je nový program pro zvýšení efektivity počítače"
 
 msgid "cloudlandingpage_about-what-is-title"
-msgstr ""
+msgstr "Co je program DriverPack Cloud?"
 
 msgid "cloudlandingpage_about-what-is-caption"
 msgstr ""
 
 msgid "cloudlandingpage_about-how-works-title"
-msgstr ""
+msgstr "Jak funguje DriverPack Cloud?"
 
 msgid "cloudlandingpage_about-how-works-caption"
 msgstr ""
 
 msgid "cloudlandingpage_features-monitoring"
-msgstr ""
+msgstr "Monitoruje stav ovladačů, stahuje důležité aktualizace a chybějící ovladače z obrovské databáze DriverPack."
 
 msgid "cloudlandingpage_features-safety"
-msgstr ""
+msgstr "Umožňuje odhalit a odstranit potenciální malware rychle a tudíž pomáhá vašemu antiviru"
 
 msgid "cloudlandingpage_features-cloud"
-msgstr ""
+msgstr "Provádí výpočty v cloudu, což umožňuje ušetřit systémové prostředky ve vašem počítači"
 
 msgid "cloudlandingpage_uninstall-title"
-msgstr ""
+msgstr "Jak zcela odstranit DriverPack Cloud z vašeho počítače"
 
 msgid "cloudlandingpage_uninstall-caption"
 msgstr ""
 
 msgid "cloudlandingpage_license"
-msgstr ""
+msgstr "Před instalací si prosím přečtěte {{LINK}}"
 
 msgid "cloudlandingpage_features-install"
-msgstr ""
+msgstr "Instalovat DriverPack Cloud"
 
 msgid "cloudlandingpage_license-link"
 msgstr "Licenční ujednání"
@@ -995,7 +995,7 @@ msgid "gdpr-banner_text"
 msgstr ""
 
 msgid "gdpr-banner_cta-text"
-msgstr ""
+msgstr "Ok"
 
 msgid "landingfooter_landing-subtitle"
 msgstr "DriverPack obsahuje ovladače pro všechny populární verze Windows"
@@ -1031,7 +1031,7 @@ msgid "notebookpage_all-devices"
 msgstr "pro všechny zařízení"
 
 msgid "notebook-page_empty-title"
-msgstr ""
+msgstr "Balíček ovladačů pro model laptopu<span class='bold'>{{NAME}}</span> nebyl dosud sestaven"
 
 msgid "notebook-page_empty-caption"
 msgstr ""
@@ -1062,7 +1062,7 @@ msgstr "Stahování nezačalo? Klikněte sem {{LINK}}"
 #. i18n: EN: text for {{LINK}} is in key thankyoupopup_licence-link; RU: текст
 #. для {{LINK}} находится в ключе thankyoupopup_licence-link;
 msgid "thankyoupopup_licence-text"
-msgstr ""
+msgstr "Instalací tohoto programu přijímáte podmínky {{LINK}}"
 
 msgid "thankyoupopup_title"
 msgstr "Spustit DriverPack"
@@ -1077,16 +1077,16 @@ msgid "thankyoupopup_download-link"
 msgstr "stáhnout"
 
 msgid "translate-feedback-header_caption"
-msgstr ""
+msgstr "Tato stránka byla nedávno přeložena. Našli jste chybu? Označte ji a stiskněte {{HOTKEY}}"
 
 msgid "translate-feedback-form-popup_preview-title"
-msgstr ""
+msgstr "Označili jste následující část textu:"
 
 msgid "translate-feedback-form-popup_correct-title"
-msgstr ""
+msgstr "Vysvětlete prosím přesně, co je špatně, a uveďte správnou variantu:"
 
 msgid "translate-feedback-form-popup_submit"
-msgstr ""
+msgstr "Odeslat"
 
 msgid "translate-feedback-popup_title-error"
 msgstr "Něco se pokazilo"
