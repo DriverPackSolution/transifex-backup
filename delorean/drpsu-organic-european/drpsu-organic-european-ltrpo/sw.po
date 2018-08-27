@@ -3,13 +3,14 @@
 # Nadia Tegeneva <nadia@drp.su>, 2017
 # Nashon Lusanda <lusandanashon@yahoo.com>, 2017
 # ahmad nasibu <ahmadnasibu@gmail.com>, 2018
+# Alphonce Munjal <alphonceotienomunjal@gmail.com>, 2018
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-04-20 12:53+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
-"Last-Translator: ahmad nasibu <ahmadnasibu@gmail.com>, 2018\n"
+"Last-Translator: Alphonce Munjal <alphonceotienomunjal@gmail.com>, 2018\n"
 "Language-Team: Swahili (https://www.transifex.com/driverpack-solution/teams/75453/sw/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,7 +19,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "seo_landingtopvendorslist_drivers-for"
-msgstr ""
+msgstr "Madriver za {{VENDOR}}"
 
 #. i18n: EN: Example: VENDOR.NAME=Asus; RU: Пример: VENDOR.NAME=Asus;
 msgid "seo_vendor-footer-anchor"
@@ -477,52 +478,52 @@ msgid "seo_devicegroupos-title"
 msgstr "Pakua viendeshaji vya {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} kwa ajili ya Windows {{OS}}"
 
 msgid "seo_devicegroupos-description"
-msgstr ""
+msgstr "Weka {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} driver za Windows {{OS}}, au pakua programu ya DriverPack Solution ya ufungaji wa moja kwa moja ya driver na usasishe."
 
 msgid "seo_devicegroupos-h1"
 msgstr "{{GROUP.VENDOR.NAME}} {{GROUP.NAME}} driver ya Windows {{OS}}"
 
 msgid "seo_devicegroupos-keywords"
-msgstr ""
+msgstr "Madriver Windows {{OS}} shusha PC {{GROUP.NAME}} {{GROUP.VENDOR.NAME}}"
 
 msgid "seo_devicegroupos-footer-description"
-msgstr ""
+msgstr "Pakua {{CLASS.SINGLE.FOR}} madriver za {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} za Windows {{OS}} kwa bure"
 
 msgid "seo_devicegroupos-footer-application-category"
 msgstr "Kundi: <span itemprop='applicationCategory'>{{GROUP.VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_devicegroupos-footer-application-subcategory"
-msgstr ""
+msgstr "Kikundi: <span itemprop='applicationSubCategory'>{{GROUP.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_devicegroupos-footer-content"
-msgstr ""
+msgstr "Pakua madriver za {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.PLURAL.FOR}} (Windows {{OS}}), au uweke programu ya DriverPack Solution ya kupakua kwa moja kwa moja driver na kusasisha"
 
 msgid "seo_notebookos-title"
 msgstr "Pakua driver za kompyuta-mpakato {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} kwa ajili ya Windows {{OS}}"
 
 msgid "seo_notebookos-description"
-msgstr ""
+msgstr "Weka {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} madriver ya tarakilishi za Windows {{OS}}, au pakua programu ya DriverPack Solution kwa uendeshaji wa madriver wa moja kwa moja na usasishe"
 
 msgid "seo_notebookos-h1"
 msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} ma rdiver ya laptop ya Windows {{OS}}"
 
 msgid "seo_notebookos-keywords"
-msgstr ""
+msgstr "madriver laptop notebook laptop netbook netbook Windows {{OS}} kushusha {{NOTEBOOK.NAME}} {{NOTEBOOK.VENDOR.NAME}}"
 
 msgid "seo_notebookos-footer-description"
 msgstr "Pakua drivers kwa ajili ya kompyuta-mpakato {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} kwa ajili ya Windows {{OS}} bure"
 
 msgid "seo_notebookos-footer-application-category"
-msgstr ""
+msgstr "Jamii: <span itemprop='applicationCategory'>{{NOTEBOOK.VENDOR.NAME}} laptops</span>"
 
 msgid "seo_notebookos-footer-application-subcategory"
-msgstr ""
+msgstr "Jamii: <span itemprop='applicationSubCategory'>{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptops</span>"
 
 msgid "seo_notebookos-footer-content"
-msgstr ""
+msgstr "Hapa unaweza kushusha madriver za {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptop (Windows {{OS}}), au kupakua programu ya ufungaji wa moja kwa moja ya dereva na sasisho kutoka kwa Suluhisho kwa DriverPack Solution"
 
 msgid "seo_deviceclassos-title"
-msgstr ""
+msgstr "Shusha {{CLASS.SINGLE.FOR}} madriver za Windows {{OS}}"
 
 msgid "seo_deviceclassos-description"
 msgstr ""
@@ -633,37 +634,37 @@ msgid "seo_notebookdevicesos-footer-content"
 msgstr ""
 
 msgid "seo_promopage_title"
-msgstr ""
+msgstr "DriverPack – sasisho bila malipo"
 
 msgid "seo_promo-description"
-msgstr ""
+msgstr "DriverPack Solution inapendekeza uweke madriver za kifaa chako bila malipo, au kupakua programu ya ufungaji wa moja kwa moja ya dereva na upasishaji"
 
 msgid "seo_promo-keywords"
-msgstr ""
+msgstr "Pakua driver pack madriver windows 7 8 10 64 laptop za bure programu ya driver wa kuweka driver wa kufunga"
 
 msgid "seo_promodevice_title"
 msgstr "Pakua driver kwa ajili ya usb, bluetooth, vichapishaji, Wi-Fi, na kadi za video bure"
 
 msgid "seo_promodevice-description"
-msgstr ""
+msgstr "DriverPack Solution itasasisha usb yako, bluetooth, printa, Wi-Fi, na madriverya kadi ya video kwenye toleo la hivi karibuni"
 
 msgid "seo_promodevice-keywords"
-msgstr ""
+msgstr "driver, bluetooth, printa, kadi ya sauti, webcam, panya, driver za video"
 
 msgid "seo_promovendors_title"
-msgstr ""
+msgstr "Pakua driver za Lenovo, Samsung, Acer, Asus, na Dell bila malipo"
 
 msgid "seo_promovendors-description"
-msgstr ""
+msgstr "DriverPack itasasisha madriver ya Lenovo, Samsung, Acer, Asus, na Dell kwenye toleo la hivi karibuni"
 
 msgid "seo_promovendors-keywords"
-msgstr ""
+msgstr "driver, dell, samsung, lenovo, asus, acer, toshiba, asus"
 
 msgid "seo_promodrivers_title"
 msgstr "Pakua na sanikisha driver kwa ajili ya Windows 7, 10, XP, 8"
 
 msgid "seo_promodrivers-description"
-msgstr ""
+msgstr "DriverPack itasasisha Windows 7, Windows 10, Windows XP, madriver za Windows 8 bila malipo"
 
 msgid "seo_promodrivers-keywords"
 msgstr ""
