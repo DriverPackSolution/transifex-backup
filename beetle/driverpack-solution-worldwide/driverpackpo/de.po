@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-07-04 13:20+0000\n"
-"PO-Revision-Date: 2018-07-09 21:18+0000\n"
+"PO-Revision-Date: 2018-08-13 03:06+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: German (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/de/)\n"
 "MIME-Version: 1.0\n"
@@ -222,16 +222,16 @@ msgid "deviceclasses_other-plural-for"
 msgstr "Andere Geräte"
 
 msgid "activate_recommendations_title_programs"
-msgstr ""
+msgstr "Unsere Empfehlungen zu Software sind deaktiviert"
 
 msgid "activate_recommendations_title_protect"
-msgstr ""
+msgstr "Unsere Empfehlungen zu Schutzsoftware sind deaktiviert"
 
 msgid "activate_recommendations_button_programs"
-msgstr ""
+msgstr "Aktivieren Sie unsere Empfehlungen zu Software"
 
 msgid "activate_recommendations_button_protect"
-msgstr ""
+msgstr "Aktivieren Sie unsere Empfehlungen zu Schutzsoftware"
 
 msgid "programs_about"
 msgstr "Mehr erfahren"
@@ -240,7 +240,7 @@ msgid "programs_eula"
 msgstr "Lizenzvereinbarung"
 
 msgid "programs_policy"
-msgstr ""
+msgstr "Datenschutzbestimmung"
 
 msgid "programs_btn_install_single"
 msgstr "Installieren"
@@ -500,63 +500,63 @@ msgid "menu_cmd"
 msgstr "Kommandozeile"
 
 msgid "configurator-screen_downloading"
-msgstr ""
+msgstr "Downloade: {{DOWNLOADED_SIZE}} von {{TOTAL_SIZE}}"
 
 msgid "configurator-screen_title"
-msgstr ""
+msgstr "Dein DriverPack Offline Build"
 
 msgid "configurator-screen_caption"
-msgstr ""
+msgstr "Sie können Ihr eigenes DriverPack-Build herunterladen, indem Sie die Treiber auswählen, die ohne Internetverbindung verfügbar sind."
 
 msgid "configurator-screen_btn"
-msgstr ""
+msgstr "Downloade DriverPack Offline – {{COUNT}}"
 
 msgid "configurator-screen_completed"
-msgstr ""
+msgstr "Der Download ist fertig"
 
 msgid "configurator-screen_open-downloads"
-msgstr ""
+msgstr "Öffne das Downloadverzeichnis"
 
 msgid "configurator-screen_fail"
 msgstr "Fehler beim Download"
 
 msgid "configurator-screen_retry"
-msgstr ""
+msgstr "Versuchen Sie es noch einmal"
 
 msgid "configurator-screen_params"
-msgstr ""
+msgstr "Download Parameter"
 
 #. i18n: EN: text for {{LINK.EULA}} is in key confirm_popup_eula-link; text
 #. for {{LINK.POLICY}} is in key confirm_popup_policy-link; RU: текст для
 #. {{LINK.EULA}} находится в ключе confirm_popup_eula-link; текст для
 #. {{LINK.POLICY}} находится в ключе confirm_popup_policy-link;
 msgid "confirm_popup_install_eula"
-msgstr ""
+msgstr "Ich stimme der Installation von {{PROGRAM.NAME}} zu,  und ich akzeptiere die {{LINK.EULA}} und die {{LINK.POLICY}}. Diese Software kann jederzeit über die Funktion 'Software hinzufügen / entfernen' entfernt werden."
 
 #. i18n: EN: text for {{LINK.EULA}} is in key confirm_popup_eula-link; text
 #. for {{LINK.POLICY}} is in key confirm_popup_policy-link; RU: текст для
 #. {{LINK.EULA}} находится в ключе confirm_popup_eula-link; текст для
 #. {{LINK.POLICY}} находится в ключе confirm_popup_policy-link;
 msgid "confirm_popup_eula"
-msgstr ""
+msgstr "Mit der Installation dieser Software akzeptieren Sie die {{LINK.EULA}} und die {{LINK.POLICY}}"
 
 msgid "confirm_popup_eula-link"
-msgstr ""
+msgstr "Endbenutzer-Lizenzvereinbarung"
 
 msgid "confirm_popup_policy-link"
-msgstr ""
+msgstr "Datenschutzbestimmung"
 
 msgid "confirm_popup_install_button"
-msgstr ""
+msgstr "Akzeptieren und installieren"
 
 msgid "confirm_popup_title"
-msgstr ""
+msgstr "Software Installation"
 
 msgid "confirm_popup_cancel_button"
 msgstr "Ablehnen"
 
 msgid "confirm_popup_cancel_all_button"
-msgstr ""
+msgstr "Alle Software ablehnen ({{COUNT}})"
 
 msgid "diagnostics_section_title"
 msgstr "Systemdiagnose"
@@ -853,13 +853,13 @@ msgid "games_playkey_create_account_button"
 msgstr "Erstellen Sie ein Konto auf PlayKey"
 
 msgid "gdpr-banner_text"
-msgstr ""
+msgstr "Wir sammeln Daten über Ihren Computer gemäß den Bedingungen des Lizenzvertrags, um die richtigen Treiber für Ihr Gerät auszuwählen. Bitte bestätigen Sie Ihre Zustimmung, und wir werden in der Lage sein, die ordnungsgemäße Funktion der App zu gewährleisten."
 
 msgid "gdpr-banner_decline-btn"
-msgstr ""
+msgstr "Ablehnen"
 
 msgid "gdpr-banner_accept-btn"
-msgstr ""
+msgstr "Bestätigen"
 
 msgid "header_authorize_button"
 msgstr "Anmelden"
@@ -889,7 +889,7 @@ msgid "installation_header_title"
 msgstr "Wir konfigurieren Ihren Computer..."
 
 msgid "installation_header_promo_try"
-msgstr ""
+msgstr "versuch es"
 
 msgid "installation_header_promo_more"
 msgstr "Mehr erfahren"
@@ -988,7 +988,7 @@ msgid "installation_item_eula"
 msgstr "Lizenzvereinbarung"
 
 msgid "installation_item_policy"
-msgstr ""
+msgstr "Datenschutzbestimmung"
 
 msgid "installation_error_download"
 msgstr "Downloadfehler"
@@ -1021,7 +1021,7 @@ msgid "installation_progress_downloading_of"
 msgstr "von"
 
 msgid "installation_progress_downloaded"
-msgstr ""
+msgstr "heruntergeladen:"
 
 msgid "installation_progress_stage_downloading"
 msgstr "Laden..."
@@ -1153,7 +1153,7 @@ msgid "programs_header_text_caption"
 msgstr "Es gibt keine Notwendigkeit mehr, eins nach dem anderen, nach den Softwareprogrammen zu suchen. Sie können ganz einfach alles mit einem Klick installieren. "
 
 msgid "drivers_program_recommend"
-msgstr ""
+msgstr "Die von DriverPack empfohlene Software"
 
 msgid "drivers_program_counter"
 msgstr "Empfohlene Software"
@@ -1174,13 +1174,13 @@ msgid "protect_row_install_date"
 msgstr "Installationsdatum:"
 
 msgid "protect_rating_level_large_appesteem"
-msgstr ""
+msgstr "Ungewöhnliche Anwendung (70% der Benutzer deinstallieren sie)"
 
 msgid "protect_rating_level_large"
 msgstr "Wir empfehlen Ihnen, dies zu entfernen"
 
 msgid "protect_rating_level_middle_appesteem"
-msgstr ""
+msgstr "Ungewöhnliche Anwendung"
 
 msgid "protect_rating_level_middle"
 msgstr "Sie können dies entfernen"
@@ -1189,7 +1189,7 @@ msgid "protect_rating_level_small"
 msgstr "Sie können dies behalten"
 
 msgid "protect_rating_level_large_caption_appesteem"
-msgstr ""
+msgstr "70% der Benutzer deinstallieren diese Anwendung"
 
 msgid "protect_rating_level_large_caption"
 msgstr "Wir empfehlen Ihnen, diese Software zu entfernen, da 70% aller Benutzer sie entfernen."
@@ -1216,13 +1216,13 @@ msgid "protect_clean_up_header_title"
 msgstr "DriverPack Protect — Sicherheit und Bereinigung ihres Computers"
 
 msgid "protect_clean_up_header_caption"
-msgstr ""
+msgstr "DriverPack Protect bietet Ihrem Computer Schutz, wo Antiviren-Programme oft fehlschlagen: Erkennung, Entfernung und Blockierung von Malware und auch unerwünschter Software mit aufdringlicher Werbung"
 
 msgid "protect_installed_programs_title"
 msgstr "Auf dem Computer installierte Software"
 
 msgid "protect_installed_programs_switch_appesteem"
-msgstr ""
+msgstr "Nur ungewöhnliche Anwendungen anzeigen"
 
 msgid "protect_installed_programs_switch"
 msgstr "Nur verdächtige Software anzeigen"
@@ -1243,7 +1243,7 @@ msgid "settings-screen_license"
 msgstr "Lizenzvereinbarung"
 
 msgid "start_button_install_drivers"
-msgstr ""
+msgstr "Installiere alle Treiber"
 
 msgid "start_button_install"
 msgstr "Computer automatisch konfigurieren"
@@ -1258,7 +1258,7 @@ msgid "start_expert_mode"
 msgstr "Expertenmodus"
 
 msgid "start_expert_mode_label"
-msgstr ""
+msgstr "Erweiterte Einstellungen"
 
 msgid "start_license"
 msgstr "Lizenzvereinbarung"
@@ -1272,15 +1272,15 @@ msgstr[0] "{{COUNT}} Treiber wird installiert"
 msgstr[1] "{{COUNT}} Treiber werden installiert"
 
 msgid "start_drivers_utils_popover"
-msgstr ""
+msgstr "Die für den ordnungsgemäßen Betrieb des Computers erforderlichen Treiber und Treiber-Toolkits wurden ausgewählt und können jetzt installiert werden. Der Wiederherstellungspunkt wird vor dem Beginn der Installation erstellt."
 
 msgid "start_drivers_popover"
 msgstr "Die Treiber für Ihren Computer wurden ausgewählt und sind für die Installation bereit. Vor dem Start der Installation wird ein Wiederherstellungspunkt erstellt."
 
 msgid "start_programs_title_driver_utils"
 msgid_plural "start_programs_title_n"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{{COUNT}} Treiber-Toolkit wird installiert"
+msgstr[1] "{{COUNT}} Treiber-Toolkits werden installiert"
 
 msgid "start_programs_title"
 msgid_plural "start_programs_title_n"
@@ -1294,7 +1294,7 @@ msgid "start_programs_eula"
 msgstr "Lizenzvereinbarung"
 
 msgid "start_programs_policy"
-msgstr ""
+msgstr "Datenschutzbestimmung"
 
 msgid "start_diagnostics_title"
 msgstr "Diagnose wird durchgeführt"
@@ -1375,43 +1375,43 @@ msgid "installation_header_promo_title_win_10"
 msgstr "Warum sollten Sie Treiber unter Windows 10 aktualisieren?"
 
 msgid "installation_header_promo_text_win_10"
-msgstr ""
+msgstr "Es ist ein Mythos, dass Windows 10 in der Lage ist, alle erforderlichen Treiber korrekt und eigenständig auf dem Computer zu installieren. Leider stimmt das nicht — in den meisten Fällen installiert Windows 10 nur die Standardtreiber, ohne sie für jedes Gerät einzeln auszuwählen. Was die seltenen und veralteten Treiber anbelangt, hat es diese oft gar nicht. Glücklicherweise gibt es DriverPack, das Treiber viel gründlicher auswählt.<br /><br />"
 
 msgid "installation_header_promo_title_social"
 msgstr "Treten Sie der DriverPack Gemeinschaft bei"
 
 msgid "installation_header_promo_text_social"
-msgstr ""
+msgstr "In unseren öffentlichen Gruppen beantworten wir immer Ihre Fragen zur Software, teilen Informationen über unsere Updates und Technologien und informieren Sie über wichtige Neuigkeiten und Trends in der IT-Branche."
 
 msgid "installation_header_promo_title_protect"
 msgstr "Wie hilft DriverPack Protect dem Computer?"
 
 msgid "installation_header_promo_text_protect"
-msgstr ""
+msgstr "Es wird dazu beitragen, Ihren Computer von zusätzlicher Software und Ad-Plug-Ins zu reinigen, die Antivirenprogramme häufig nicht entfernen. Mit DriverPack Protect können Sie außerdem mehr Speicherplatz auf Festplatten freigeben und die Effizienz Ihres Computers erhöhen."
 
 msgid "installation_header_promo_title_restore"
 msgstr "Systemwiederherstellungspunkt"
 
 msgid "installation_header_promo_text_restore"
-msgstr ""
+msgstr "DriverPack erstellt immer den Wiederherstellungspunkt vor der Treiberinstallation.<br /><br /> Sie können damit jederzeit das System in den vorherigen Zustand zurücksetzen, falls etwas schief geht."
 
 msgid "installation_header_promo_title_browsers"
 msgstr "Ein weiterer guter Browser kann nicht extra sein"
 
 msgid "installation_header_promo_text_browsers"
-msgstr ""
+msgstr "Laut Statistikdaten verwenden mehr als 70% der Benutzer mindestens zwei Browser, was für die im Internet Tätigen logisch ist. Jeder Browser, den wir installieren, hat seine eigenen Vorteile: Yandex.Browser ist perfekt für den Betrieb im russischsprachigen Internet; Leute wählen Opera.Browser für die Möglichkeit irgendwelche Webseiten einfach und anonym durch die Verwendung von VPN zu besuchen; und die Armee der Firefox-Unterstützer kann sich nicht von allen Plug-Ins und Erweiterungen trennen, die für eine bessere Internet-Erfahrung gesammelt wurden. Warum haben wir nicht alle zur Hand? Sie verlangsamen den Computer nicht und können zum Beispiel hilfreich sein, um verschiedene Komponenten Ihrer Arbeit auszubrechen."
 
 msgid "installation_header_promo_title_driverpack_for_all"
 msgstr "DriverPack passt zu jedem Computer"
 
 msgid "installation_header_promo_text_driverpack_for_all"
-msgstr ""
+msgstr "Wir haben ein Tool entwickelt, das es ermöglicht, die Konfiguration eines Computers vollautomatisch zu gestalten. DriverPack enthält mehr als eine Million Treiber, mit denen jeder Computer mit nur einer Taste konfiguriert werden kann. Als Ergebnis erhalten Sie installierte Treiber und Dienstprogramme, sorgfältig ausgewählte Software (die Bestandteil der Konfiguration ist) sowie die Diagnose Ihres Computers. Das bedeutet, dass DriverPack Ihren gesamten Computer schnell mit nur einem Tastendruck auf maximale Effizienz konfiguriert."
 
 msgid "installation_header_promo_title_istart"
-msgstr ""
+msgstr "Sie mögen neue Technologien? Unterstütze einen guten Start"
 
 msgid "installation_header_promo_text_istart"
-msgstr ""
+msgstr "Denken Sie auch, dass die Suchmaschinen veraltet sind? Wenn ja, unterstützen Sie ein junges iStart-Entwicklerteam, das eine eigene Sicht auf die Inhaltssuche hat: eine einzigartige Suchleiste, automatische Entfernung von Anzeigen, Anonymität — und all dies ist erst der Anfang. Diese Technologie durchläuft derzeit die Phase des offenen Alpha-Tests, ist aber bereits zum Testen verfügbar."
 
 msgid "softcategories_archiver-single-for"
 msgstr "Archivierer"
@@ -1426,7 +1426,7 @@ msgid "softcategories_messenger-single-for"
 msgstr "Messaging-Software"
 
 msgid "softcategories_internet-single-for"
-msgstr ""
+msgstr "Software für den Betrieb im Internet-Netzwerk"
 
 msgid "softcategories_player-single-for"
 msgstr "Media Player"
@@ -1453,7 +1453,7 @@ msgid "installation_application_restart_confirm_title"
 msgstr "Empfehlungen"
 
 msgid "deviceproblems_usb_connection"
-msgstr ""
+msgstr "Aufgrund von USB-Verbindungsproblemen können keine Treiber auf diesem Gerät installiert werden. Versuchen Sie, Ihre USB-Geräte erneut zu verbinden, oder ersetzen Sie die angeschlossenen Kabel, um dieses Problem zu beheben. Wenn dies nicht hilft, kann es einigen Problemen mit den Ports oder den Geräten selbst geben."
 
 msgid "deviceproblems_root_legacy"
 msgstr ""
@@ -1462,10 +1462,10 @@ msgid "deviceproblems_vpn_no_need_drivers"
 msgstr "Für dieses virtuelle VPN-Gerät ist keine Treiberinstallation erforderlich"
 
 msgid "deviceproblems_damaged_system_driver"
-msgstr ""
+msgstr "Dies ist ein Standardsystemtreiber, der aus irgendeinem Grund beschädigt wurde oder in Ihrer Windows-Version nicht vorhanden ist. Einer der möglichen Gründe könnte eine abgespeckte raubkopierte Windows-Version oder der Verlust der Datei als Folge der Nebenwirkung einiger Software oder Viren sein. Um dieses Problem zu lösen, sollten Sie eine vollständig lizenzierte Windows-Version installieren"
 
 msgid "deviceproblems_usb_unknown_vendor"
-msgstr ""
+msgstr "Dieses angeschlossene USB-Gerät wurde installiert, der Hersteller konnte jedoch nicht ermittelt werden. Um dies zu beheben, sollten Sie den automatischen Start für den Windows Driver Foundation-Dienst zuweisen. Wechseln Sie zur Registerkarte \"Computerverwaltung\" → Registerkarte \"Dienste\" → Registerkarte \"Windows Driver Foundation\" und wählen Sie dann die Option \"Starttyp: Automatisch\""
 
 msgid "deviceproblems_sound_card"
 msgstr "Die Soundkarte ist falsch angeschlossen, oder es gibt einige Probleme mit der Betriebsfähigkeit"

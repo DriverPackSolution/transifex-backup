@@ -1,7 +1,9 @@
 # Translators:
 # Translators:
-# Alvaro Samudio <alvarosamudio1@gmail.com>, 2017
+# Alvaro Samudio <alvarosamudio1@gmail.com>, 2017-2018
 # German Alonso Pimentel Vera <gpimentelv@gmail.com>, 2017
+# Ignacio L'Episcopo, 2018
+# Javier “Infante” Infante Chávez <javisduubis@gmail.com>, 2018
 # Joel Carreno Urrutia <joelcarrenourrutia@gmail.com>, 2017
 # Jose Maria CL <chema9703@gmail.com>, 2017
 # Kevin David Mancera Hernandez <mahezsia7@gmail.com>, 2017
@@ -15,7 +17,7 @@ msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-07-04 13:20+0000\n"
-"PO-Revision-Date: 2018-07-09 21:23+0000\n"
+"PO-Revision-Date: 2018-08-14 12:35+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Spanish (Latin America) (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/es_419/)\n"
 "MIME-Version: 1.0\n"
@@ -226,16 +228,16 @@ msgid "deviceclasses_other-plural-for"
 msgstr "Otros dispositivos"
 
 msgid "activate_recommendations_title_programs"
-msgstr ""
+msgstr "Nuestras recomendaciones de software están desactivadas"
 
 msgid "activate_recommendations_title_protect"
-msgstr ""
+msgstr "Nuestras recomendaciones de software de protección (antivirus) están desactivadas"
 
 msgid "activate_recommendations_button_programs"
-msgstr ""
+msgstr "Activar nuestras recomendaciones de software"
 
 msgid "activate_recommendations_button_protect"
-msgstr ""
+msgstr "Activar nuestras recomendaciones de software de protección (antivirus)"
 
 msgid "programs_about"
 msgstr "Aprende más"
@@ -504,31 +506,31 @@ msgid "menu_cmd"
 msgstr "Símbolo del Sistema"
 
 msgid "configurator-screen_downloading"
-msgstr ""
+msgstr "Descargando: {{DOWNLOADED_SIZE}} de {{TOTAL_SIZE}}"
 
 msgid "configurator-screen_title"
-msgstr ""
+msgstr "Tu propia instalación sin internet de DriverPack Offline"
 
 msgid "configurator-screen_caption"
-msgstr ""
+msgstr "Tú puedes descargar tu propia instalación sin internet de DriverPack Offline escojiendo los drivers que estarán disponibles sin conexión de Internet."
 
 msgid "configurator-screen_btn"
-msgstr ""
+msgstr "Descargar DriverPack Offline – {{COUNT}}"
 
 msgid "configurator-screen_completed"
-msgstr ""
+msgstr "Descarga finalizada"
 
 msgid "configurator-screen_open-downloads"
-msgstr ""
+msgstr "Abrir carpeta o fichero de descarga"
 
 msgid "configurator-screen_fail"
-msgstr ""
+msgstr "Error durante la descarga"
 
 msgid "configurator-screen_retry"
-msgstr ""
+msgstr "Reintentar"
 
 msgid "configurator-screen_params"
-msgstr ""
+msgstr "Opciones de descarga"
 
 #. i18n: EN: text for {{LINK.EULA}} is in key confirm_popup_eula-link; text
 #. for {{LINK.POLICY}} is in key confirm_popup_policy-link; RU: текст для
@@ -560,7 +562,7 @@ msgid "confirm_popup_cancel_button"
 msgstr "Desperdicios "
 
 msgid "confirm_popup_cancel_all_button"
-msgstr ""
+msgstr "Rechazar todo el software ({{COUNT}})"
 
 msgid "diagnostics_section_title"
 msgstr "Monitor de rendimiento y recursos"
@@ -857,13 +859,13 @@ msgid "games_playkey_create_account_button"
 msgstr "Crea una cuenta en la PlayKey"
 
 msgid "gdpr-banner_text"
-msgstr ""
+msgstr "Recopilamos datos sobre tu computadora (de acuerdo con las condiciones del Acuerdo de licencia) para seleccionar los controladores adecuados para tu dispositivo. Por favor, confirma tu consentimiento, ayudará a optener el mayor rendimiento de la aplicación."
 
 msgid "gdpr-banner_decline-btn"
-msgstr ""
+msgstr "Rechazar"
 
 msgid "gdpr-banner_accept-btn"
-msgstr ""
+msgstr "Confirmar"
 
 msgid "header_authorize_button"
 msgstr "Iniciar sesión"
@@ -893,7 +895,7 @@ msgid "installation_header_title"
 msgstr "Estamos configurando tu computadora..."
 
 msgid "installation_header_promo_try"
-msgstr ""
+msgstr "pruébalo"
 
 msgid "installation_header_promo_more"
 msgstr "aprende más"
@@ -1025,7 +1027,7 @@ msgid "installation_progress_downloading_of"
 msgstr "de"
 
 msgid "installation_progress_downloaded"
-msgstr ""
+msgstr "descargado:"
 
 msgid "installation_progress_stage_downloading"
 msgstr "Cargando..."
@@ -1133,7 +1135,7 @@ msgid "no-internet-screen_guide-step-1"
 msgstr "Paso 1"
 
 msgid "no-internet-screen_guide-step-1-action"
-msgstr "Vaya al sitio web <span class=\"bold\">drp.su/en/foradmin</span> usando otra computadora"
+msgstr "Vaya al sitio web <span class=\"bold\">driverpack.io/es-419/foradmin</span> usando otra computadora"
 
 msgid "no-internet-screen_guide-step-2"
 msgstr "Paso 2"
@@ -1157,7 +1159,7 @@ msgid "programs_header_text_caption"
 msgstr "No hay necesidad de buscar los programas de software uno por uno por más tiempo. Puede instalar todo fácilmente con un solo clic."
 
 msgid "drivers_program_recommend"
-msgstr ""
+msgstr "El software recomendado por DriverPack"
 
 msgid "drivers_program_counter"
 msgstr "Software recomendado"
@@ -1178,13 +1180,13 @@ msgid "protect_row_install_date"
 msgstr "Fecha de instalación:"
 
 msgid "protect_rating_level_large_appesteem"
-msgstr ""
+msgstr "Aplicación poco frecuente (70% de los usuarios lo desinstalan)"
 
 msgid "protect_rating_level_large"
 msgstr "te recomendamos que elimines esto"
 
 msgid "protect_rating_level_middle_appesteem"
-msgstr ""
+msgstr "Aplicación poco frecuente"
 
 msgid "protect_rating_level_middle"
 msgstr "puedes eliminar esto"
@@ -1193,7 +1195,7 @@ msgid "protect_rating_level_small"
 msgstr "puedes mantener esto"
 
 msgid "protect_rating_level_large_caption_appesteem"
-msgstr ""
+msgstr "70% de nuestros usuarios desinstalan esta aplicación"
 
 msgid "protect_rating_level_large_caption"
 msgstr "Le recomendamos que elimine este software porque el 70% de todos los usuarios lo eliminan."
@@ -1226,7 +1228,7 @@ msgid "protect_installed_programs_title"
 msgstr "Software instalado en la computadora"
 
 msgid "protect_installed_programs_switch_appesteem"
-msgstr ""
+msgstr "Mostrar solo las aplicaciones poco frecuentes"
 
 msgid "protect_installed_programs_switch"
 msgstr "Mostrar solo el software sospechoso"
@@ -1247,7 +1249,7 @@ msgid "settings-screen_license"
 msgstr "Acuerdo de licencia"
 
 msgid "start_button_install_drivers"
-msgstr ""
+msgstr "Instalar todos los controladores"
 
 msgid "start_button_install"
 msgstr "Configure la computadora automáticamente"
@@ -1262,7 +1264,7 @@ msgid "start_expert_mode"
 msgstr "Modo experto"
 
 msgid "start_expert_mode_label"
-msgstr ""
+msgstr "Ajustes avanzados"
 
 msgid "start_license"
 msgstr "Acuerdo de licencia"
@@ -1276,15 +1278,15 @@ msgstr[0] "{{COUNT}}controlador se instalará "
 msgstr[1] "{{COUNT}}controladores serán instalados "
 
 msgid "start_drivers_utils_popover"
-msgstr ""
+msgstr "Los controladores y los kits de herramientas del controlador necesarios para el funcionamiento correcto de tu computadora se han seleccionado y están listos para su instalación. El punto de restauración se creará antes de que comience la instalación."
 
 msgid "start_drivers_popover"
 msgstr "Los controladores para su computadora han sido seleccionados y están listos para su instalación. Antes de que comience, se creará un punto de restauración."
 
 msgid "start_programs_title_driver_utils"
 msgid_plural "start_programs_title_n"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{{COUNT}} kit de herramientas del controlador será instalado"
+msgstr[1] "{{COUNT}} kits de herramientas del controlador serán instalados"
 
 msgid "start_programs_title"
 msgid_plural "start_programs_title_n"
@@ -1412,10 +1414,10 @@ msgid "installation_header_promo_text_driverpack_for_all"
 msgstr "Hemos creado la herramienta que permite que la configuración de cualquier computadora sea completamente automática. DriverPack contiene más de un millón de controladores, lo que permite configurar cualquier computadora con solo un botón. Como resultado, obtiene controladores y utilidades instalados, software cuidadosamente seleccionado (que es la parte integrada de la configuración), así como el diagnóstico de su computadora. Esto significa que DriverPack configura rápidamente toda su computadora con la máxima eficiencia con solo un clic de botón."
 
 msgid "installation_header_promo_title_istart"
-msgstr ""
+msgstr "¿Te gustan las nuevas tecnologías? Apoya un buen emprendimiento"
 
 msgid "installation_header_promo_text_istart"
-msgstr ""
+msgstr "¿También crees que los motores de búsqueda están obsoletos? Si es así, apoya a un equipo joven de desarrolladores de iStart que tengan su propia visión de la búsqueda de contenido: una banda de búsqueda única, eliminación automática de anuncios, anonimato — y todo esto es solo el comienzo. Esta tecnología está pasando por la etapa de pruebas alfa abiertas, pero ya está disponible para probarlo."
 
 msgid "softcategories_archiver-single-for"
 msgstr "archivo archivador"

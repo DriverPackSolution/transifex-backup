@@ -7,8 +7,8 @@ msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-07-04 13:20+0000\n"
-"PO-Revision-Date: 2018-07-30 09:53+0000\n"
-"Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
+"PO-Revision-Date: 2018-08-27 06:35+0000\n"
+"Last-Translator: Roobaa Nuuf <roobaanuuf@gmail.com>\n"
 "Language-Team: Oromo (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/om/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -347,19 +347,19 @@ msgid "settings_soft-title"
 msgstr "Diriveriin atatamaan akka hin fe'amnee dhorkii"
 
 msgid "settings_soft-caption"
-msgstr ""
+msgstr "Yeroo tajajillii kun banamutti, Mosajii nutti akka feettan isiin ajaajnu akka hin fee'amnee dhorkamu. Haa ta'u iyyuu malee, kana jechuun Mosaajii tolaa ta'ee hundaa komputeraa kee irraatti hin fe'amuu. Sirrii dhumaa caara kun akka deemu ni feetta?"
 
 msgid "settings_banners-title"
 msgstr "Odeeffannoo beeksisaa dhorki"
 
 msgid "settings_banners-caption"
-msgstr ""
+msgstr "Barrun kun odeeffannoo barbaachisoo waa'ee moosajii hedduu DriverPack n qaba of keessa qaba. Akka hin mul'anee dhorkuu ni dandeessa, garuu kana jechuun kuusaallee kan biroofi waan haaraa moosajii kana ni dhabda."
 
 msgid "settings_notifier-title"
 msgstr "DriverPack Notifier"
 
 msgid "settings_notifier-caption"
-msgstr ""
+msgstr "DriverPack Notifier n yeroo maraa waa'ee rakkinaa Hardwarefi Moosajii sif ibsa. Rakkinaa sistemaafi miidhaa hin beekamne dhorkuuf fayyaada."
 
 msgid "settings_notifier-anchor"
 msgstr "Dabalata barachuuf"
@@ -371,7 +371,7 @@ msgid "settings_bug-report-title"
 msgstr "Filannoo dogogoraa banu (Error Catch)"
 
 msgid "settings_bug-report-caption"
-msgstr ""
+msgstr "Enjineerronni DriverPack Sisteemaa kana hojechuu kan isaan danda'aan Moosajin mataa isaan rakkinaa jiruu akka ibsuufi karaa furmataas ariittin akka kennuufi."
 
 msgid "settings_bug-report-anchor"
 msgstr "Dabalata barachuuf"
@@ -383,13 +383,13 @@ msgid "settings_restore-point-title"
 msgstr "Tuqa booda deebi uumi"
 
 msgid "settings_restore-point-caption"
-msgstr ""
+msgstr "DriverPack n karaa baay'ee barbaachisaafi ariifachisaa Komputeraa sirressuufi diriverrii fe'uuf gargaruudha. Yeroo balaa kam itti iyyuu, yeroo Konfigurashinniin kumputeraa hin egallin, tuqaan booda deebi ni umamaa. Innis akka ati komputerraa kee gara duuran turteetti deebistuuf si fayyadaa."
 
 msgid "settings_drivers-backup-title"
 msgstr "Booda deebi Diriverrii uummi (backup)"
 
 msgid "settings_drivers-backup-caption"
-msgstr ""
+msgstr "Fayyadamtootta hundaaf akka haali mijaattutti, Hojeettonni DriverPack haala ittin boodaf kuusa diriveerri keef Kuusa fayyilaa Kuusaa koo jedhuutti sif ka'a."
 
 msgid "settings_system-check-title"
 msgstr "Filaanno Sistemaa mirkanessuu bani (System Check)"
@@ -713,7 +713,7 @@ msgstr "Driveriin hin fe'amnee"
 
 msgid "final_programs_some_finished_title"
 msgid_plural "final_programs_some_finished_title_n"
-msgstr[0] "Sagantaa moosajii {{COUNT1}} fe'amanirruu {{COUNT2}} keessaa"
+msgstr[0] "Sagantaa moosajii {{COUNT1}} fe'amarraa {{COUNT2}} keessaa"
 msgstr[1] "Moosajjiin {{COUNT1}} hammi kun {{COUNT2}} keessa fe'amanirruu"
 
 msgid "final_programs_all_failed_title"
@@ -1197,16 +1197,16 @@ msgid "protect_clean_up_btn"
 msgstr "Komputeraa eguufi qulqulleessu"
 
 msgid "protect_remove_all_btn_uninstalling"
-msgstr "{{COUNT}} Moosajjiin hin fayyadnee kun ni badu"
+msgstr "Moosajjiin hin fayyadnee kun ni badu: {{COUNT}} "
 
 msgid "protect_remove_all_btn_installing"
-msgstr "{{COUNT}} Moosajiin barbaachisoon ni fe'amu"
+msgstr "Moosajiin barbaachisoon ni fe'amu: {{COUNT}}"
 
 msgid "protect_installed-programs_api_failed"
 msgstr "Sararii Interneti hin jiru. Toori networkii moosajii komputeraaf barbaachisan ilaaluf fayyada."
 
 msgid "protect_installed-programs_no_harmful"
-msgstr ""
+msgstr "Moosajiin barbaachisoo hin tannee komputerraa kee irraa hin jiran"
 
 msgid "protect_clean_up_header_title"
 msgstr "DriverPack Protect — Ittisaafi qulqullinnaa komputeraa kee"
@@ -1314,10 +1314,10 @@ msgid "delorean_use_remote_confirm"
 msgstr ""
 
 msgid "games_playkey_top_witcher_3_demo"
-msgstr ""
+msgstr "The Witcher III Wild Hunt"
 
 msgid "games_playkey_top_doom_demo"
-msgstr ""
+msgstr "Doom"
 
 msgid "games_playkey_top_sid_meiers_civilization_vi_demo"
 msgstr "Sid Meier’s Civilization VI"
@@ -1437,7 +1437,7 @@ msgid "softcategories_system-plural-for"
 msgstr "Barbachisoo Sistemaa"
 
 msgid "softcategories_drivers-plural-for"
-msgstr ""
+msgstr "Diriverriin akka hojeettuf tullii barbaachisaan"
 
 msgid "installation_application_restart_confirm_text_1"
 msgstr ""

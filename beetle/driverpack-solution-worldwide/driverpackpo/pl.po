@@ -4,7 +4,7 @@
 # Jakub Gałązkiewicz <jaqbherc@gmail.com>, 2016
 # Kacper <kacpermandla@gmail.com>, 2016
 # Kacper Mucha <cov.ssin@gmail.com>, 2017-2018
-# Łukasz Sumera <sumera.lukasz@gmail.com>, 2017
+# Łukasz Sumera <sumera.lukasz@gmail.com>, 2017-2018
 # Marcin Rudzki <m.k.rudzki@gmail.com>, 2016-2017
 # Nadia Tegeneva <nadia@drp.su>, 2017-2018
 # pasterzppp <pasterzppp@gmail.com>, 2016
@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-07-04 13:20+0000\n"
-"PO-Revision-Date: 2018-07-09 21:21+0000\n"
+"PO-Revision-Date: 2018-08-14 12:38+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Polish (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/pl/)\n"
 "MIME-Version: 1.0\n"
@@ -226,16 +226,16 @@ msgid "deviceclasses_other-plural-for"
 msgstr "inne urządzenia"
 
 msgid "activate_recommendations_title_programs"
-msgstr ""
+msgstr "Nasze rekomendacje programów są wyłączone"
 
 msgid "activate_recommendations_title_protect"
-msgstr ""
+msgstr "Nasze rekomendacje dla programów ochronnych są wyłączone"
 
 msgid "activate_recommendations_button_programs"
-msgstr ""
+msgstr "Włącz nasze rekomendacje programów"
 
 msgid "activate_recommendations_button_protect"
-msgstr ""
+msgstr "Włącz nasze rekomendacje dla programów ochronnych"
 
 msgid "programs_about"
 msgstr "Dowiedz się więcej"
@@ -391,19 +391,19 @@ msgid "settings_restore-point-title"
 msgstr "Tworzenie punktów przywracania"
 
 msgid "settings_restore-point-caption"
-msgstr ""
+msgstr "DriverPack jest najprostszą i najszybszą metodą, aby skonfigurować komputer i zainstalować sterownik, ale na wypadek sytuacji awaryjnej tworzony jest systemowy punkt przywracania. Pozwala on odtworzyć w dowolnym momencie Twój komputer do stanu sprzed instalacji sterowników."
 
 msgid "settings_drivers-backup-title"
 msgstr "Utwórz kopię zapasową sterowników (backup)"
 
 msgid "settings_drivers-backup-caption"
-msgstr ""
+msgstr "Dla większej wygody dla wszystkich użytkowników, autorzy DriverPack utworzyli opcję archiwizacji aktualnych sterowników do folderu Moje dokumenty."
 
 msgid "settings_system-check-title"
 msgstr "Włącz opcję sprawdzenia systemu (System Check)"
 
 msgid "settings_system-check-caption"
-msgstr ""
+msgstr "Aby upewnić się, że wszystkie urządzenia w komputerze działają poprawnie, autorzy DriverPack utworzył bardzo efektywne narzędzie sprawdzające system komputera. Jest ono aktywowane po restarcie i przeprowadza szybki test wszystkich urządzeń, aby upewnić się, że pracują one poprawnie."
 
 msgid "settings_system-check-anchor"
 msgstr "Dowiedz się więcej"
@@ -424,7 +424,7 @@ msgid "settings_statistics-href"
 msgstr "https://vk.com/topic-29220845_34742999"
 
 msgid "settings_machine-learning-title"
-msgstr ""
+msgstr "Włącz opcję uczenia maszynowego (Machine Learning)"
 
 msgid "settings_machine-learning-caption"
 msgstr ""
@@ -504,31 +504,31 @@ msgid "menu_cmd"
 msgstr "Wiersz polecenia"
 
 msgid "configurator-screen_downloading"
-msgstr ""
+msgstr "Pobieranie: {{DOWNLOADED_SIZE}} z {{TOTAL_SIZE}}"
 
 msgid "configurator-screen_title"
-msgstr ""
+msgstr "Twój DriverPack Offline wersja"
 
 msgid "configurator-screen_caption"
-msgstr ""
+msgstr "Możesz stworzyć swój własny DriverPack wybierając sterowniki, które mają być dostępne bez połączenia z internetem."
 
 msgid "configurator-screen_btn"
-msgstr ""
+msgstr "Pobierz DriverPack Offline – {{COUNT}}"
 
 msgid "configurator-screen_completed"
-msgstr ""
+msgstr "Pobieranie zakończone"
 
 msgid "configurator-screen_open-downloads"
-msgstr ""
+msgstr "Otwórz folder pobierania"
 
 msgid "configurator-screen_fail"
 msgstr "Błąd pobierania"
 
 msgid "configurator-screen_retry"
-msgstr ""
+msgstr "Spróbuj ponownie"
 
 msgid "configurator-screen_params"
-msgstr ""
+msgstr "Parametry pobierania"
 
 #. i18n: EN: text for {{LINK.EULA}} is in key confirm_popup_eula-link; text
 #. for {{LINK.POLICY}} is in key confirm_popup_policy-link; RU: текст для
@@ -560,7 +560,7 @@ msgid "confirm_popup_cancel_button"
 msgstr "Odrzyć"
 
 msgid "confirm_popup_cancel_all_button"
-msgstr ""
+msgstr "Odrzuć wszystkie programy ({{COUNT}})"
 
 msgid "diagnostics_section_title"
 msgstr "Diagnostyka systemu"
@@ -867,13 +867,13 @@ msgid "games_playkey_create_account_button"
 msgstr "Create an account on the PlayKey"
 
 msgid "gdpr-banner_text"
-msgstr ""
+msgstr "Zbieramy dane o Twoim komputerze zgodnie z Warunkami Licencji, aby poprawnie wybrać i przygotować sterowniki do urządzeń. Prosimy o zgodę, aby aplikacja mogła poprawnie pracować."
 
 msgid "gdpr-banner_decline-btn"
-msgstr ""
+msgstr "Odmawiam"
 
 msgid "gdpr-banner_accept-btn"
-msgstr ""
+msgstr "Zgadzam się"
 
 msgid "header_authorize_button"
 msgstr "Zaloguj"
@@ -903,7 +903,7 @@ msgid "installation_header_title"
 msgstr "Konfigurujemy Twój komputer..."
 
 msgid "installation_header_promo_try"
-msgstr ""
+msgstr "wypróbuj"
 
 msgid "installation_header_promo_more"
 msgstr "dowiedz się więcej"
@@ -1035,7 +1035,7 @@ msgid "installation_progress_downloading_of"
 msgstr "z"
 
 msgid "installation_progress_downloaded"
-msgstr ""
+msgstr "pobrane:"
 
 msgid "installation_progress_stage_downloading"
 msgstr "Wczytuję..."
@@ -1143,7 +1143,7 @@ msgid "no-internet-screen_guide-step-1"
 msgstr "Krok 1"
 
 msgid "no-internet-screen_guide-step-1-action"
-msgstr "Go to <span class=\"bold\">driverpack.io/it/foradmin</span> website by using another computer"
+msgstr "Go to <span class=\"bold\">driverpack.io/pl/foradmin</span> website by using another computer"
 
 msgid "no-internet-screen_guide-step-2"
 msgstr "Krok 2"
@@ -1167,7 +1167,7 @@ msgid "programs_header_text_caption"
 msgstr "Nie musisz instalować oprogramowania jedno po drugim. Możesz wszystko zainstalować jednym kliknięciem."
 
 msgid "drivers_program_recommend"
-msgstr ""
+msgstr "Oprogramowanie zalecane przez DriverPack"
 
 msgid "drivers_program_counter"
 msgstr "Polecane oprogramowanie"
@@ -1188,13 +1188,13 @@ msgid "protect_row_install_date"
 msgstr "Data instalacji:"
 
 msgid "protect_rating_level_large_appesteem"
-msgstr ""
+msgstr "Niechciane oprogramowanie (70% użytkowników usuwa ten program)"
 
 msgid "protect_rating_level_large"
 msgstr "zalecamy usunięcie tego"
 
 msgid "protect_rating_level_middle_appesteem"
-msgstr ""
+msgstr "Niechciane oprogramowanie"
 
 msgid "protect_rating_level_middle"
 msgstr "możesz to usunąć"
@@ -1203,7 +1203,7 @@ msgid "protect_rating_level_small"
 msgstr "możesz to pozostawić"
 
 msgid "protect_rating_level_large_caption_appesteem"
-msgstr ""
+msgstr "70% użytkowników usuwa ten program"
 
 msgid "protect_rating_level_large_caption"
 msgstr "Zalecamy usunięcie tego programu 70% użytkowników usunęło go."
@@ -1236,7 +1236,7 @@ msgid "protect_installed_programs_title"
 msgstr "Oprogramowanie zainstalowane na komputerze"
 
 msgid "protect_installed_programs_switch_appesteem"
-msgstr ""
+msgstr "Pokazuj tylko niechciane oprogramowanie"
 
 msgid "protect_installed_programs_switch"
 msgstr "Wyświetlaj tylko podejrzane oprogramowanie"
@@ -1257,7 +1257,7 @@ msgid "settings-screen_license"
 msgstr "Umowa licencyjna"
 
 msgid "start_button_install_drivers"
-msgstr ""
+msgstr "Zainstaluj wszystkie sterowniki"
 
 msgid "start_button_install"
 msgstr "Konfiguruje komputer automatycznie"
@@ -1272,7 +1272,7 @@ msgid "start_expert_mode"
 msgstr "Tryb eksperta"
 
 msgid "start_expert_mode_label"
-msgstr ""
+msgstr "Ustawienia zaawansowane"
 
 msgid "start_license"
 msgstr "Umowa licencyjna"
@@ -1295,10 +1295,10 @@ msgstr "Sterowniki dla twojego komputera zostały wybrane i są gotowe do instal
 
 msgid "start_programs_title_driver_utils"
 msgid_plural "start_programs_title_n"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgstr[0] "{{COUNT}} pakiet zostanie zainstalowanych"
+msgstr[1] "{{COUNT}} pakietów zostanie zainstalowanych"
+msgstr[2] "{{COUNT}} pakietów zostanie zainstalowanych"
+msgstr[3] "{{COUNT}} pakiety zostaną zainstalowane"
 
 msgid "start_programs_title"
 msgid_plural "start_programs_title_n"
@@ -1413,10 +1413,10 @@ msgid "installation_header_promo_title_restore"
 msgstr "Punkt przywracania systemu"
 
 msgid "installation_header_promo_text_restore"
-msgstr ""
+msgstr "DriverPack zawsze tworzy punkt przywracania przed instalacją sterowników.<br /><br /> Można przywrócić w dowolnym czasie stan systemu, jeżeli coś działa nieprawidłowo."
 
 msgid "installation_header_promo_title_browsers"
-msgstr ""
+msgstr "Inna dobra przeglądarka nie może być tylko dodatkiem"
 
 msgid "installation_header_promo_text_browsers"
 msgstr ""
@@ -1428,7 +1428,7 @@ msgid "installation_header_promo_text_driverpack_for_all"
 msgstr ""
 
 msgid "installation_header_promo_title_istart"
-msgstr ""
+msgstr "Lubisz nowe technologie? Wspomóż dobry startup"
 
 msgid "installation_header_promo_text_istart"
 msgstr ""
