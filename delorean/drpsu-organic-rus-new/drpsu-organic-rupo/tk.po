@@ -249,7 +249,7 @@ msgstr "{{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} sürüjileri ýükläň ýa-da Driv
 #. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
 #. GROUP.NAME=GeForce 210;
 msgid "seo_devicegroup-title"
-msgstr ""
+msgstr "{{GROUP.VENDOR.NAME}} {{GROUP.NAME}} üçin sürüjiler | DriverPack Solution"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
 #. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
@@ -318,7 +318,7 @@ msgstr "{{DEVICE.DEVICEID}} abzal üçin Windows 7, XP, 10, 8 we 8.1 sürüji"
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 msgid "seo_hwid-h1"
-msgstr ""
+msgstr "<span class='bold'>{{DEVICE.DEVICEID}}</span> enjamlary üçin sürüjiler"
 
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
@@ -377,7 +377,7 @@ msgstr "Kiçi bölüm: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} n
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebook-title"
-msgstr ""
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} üçin sürüjiler | DriverPack Solution"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
@@ -787,13 +787,13 @@ msgid "seo_notebookvendor-footer-content-lenovo"
 msgstr "Lenovo noutbuklar üçin sürüjileri siz saýtymyzyň bu bölüminde ýünkläp bileriňiz - bu ýerde şu öndürijiniň ähli meşhur we meşhur däl modelleri üçin sürüjileri hödürlenýär (Ideapad, Thinkpad we ş.m )"
 
 msgid "seo_notebookvendor-footer-content-samsung"
-msgstr ""
+msgstr "Samsung noutbuk satyn aldyňyz we onuň sürüjileri gerekmi? Bu ýerde häzirki döwürde ulanylýan Windows operasion sistemanyň ähli wersiýalary üçin aktual Samsung sürüjileri hödürlenýär. Biziň katalogda şu öndürijiniň 100-den gowrak noutbuk we netbuk modeli üçin sürüjileri bar we bu sanawnama hergün doldurulýar."
 
 msgid "seo_notebookvendor-footer-content-msi"
-msgstr ""
+msgstr "Häzriki döwürde ulanylýan islendik Windows OS wersiýasy üçin (hat-da häzirki döwürde az duş gleýän Vista üçin hem) MSI noutbukyň sizdäki modeli üçin sürüjilerini siz şu ýerde tapyp we ýükläp bilersiňiz. "
 
 msgid "seo_notebookvendor-footer-content-toshiba"
-msgstr ""
+msgstr "Bu ýerde Toshiba noutbuklary üçin häzirki döwürde ulanylýan dürli görnüşli Windows OS ähli wersiýalary üçin sürüjileri ýükläp bilersiňiz. Biziň katalogda şu öndürijiniň 300-den gowrak modeli hödürlenýär we bu sanaw her gün diňe artýar. Size gerek modeli biziň katalogda tapyp bilmediňizmi? Sürüjileri awtomatiki gözleme we gurnama programmasy bolan DriverPack Solution ýükläň - ol hemme zady awtomatiki ýagdaýda ýerine ýetirer."
 
 msgid "seo_deviceclass-footer-content-video-amd"
 msgstr ""
