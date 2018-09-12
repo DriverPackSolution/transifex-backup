@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-07-04 13:20+0000\n"
-"PO-Revision-Date: 2018-08-06 03:59+0000\n"
+"PO-Revision-Date: 2018-09-02 08:02+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Greek (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/el/)\n"
 "MIME-Version: 1.0\n"
@@ -40,16 +40,16 @@ msgid "deviceclasses_bluetooth-plural-for"
 msgstr "Συσκευές Bluetooth"
 
 msgid "deviceclasses_cardreader-single-main"
-msgstr "συσκευή ανάγνωσης καρτών"
+msgstr "συσκευή ανάγνωσης καρτών μνήμης"
 
 msgid "deviceclasses_cardreader-single-for"
-msgstr "συσκευή ανάγνωσης καρτών"
+msgstr "συσκευή ανάγνωσης καρτών μνήμης"
 
 msgid "deviceclasses_cardreader-plural-main"
-msgstr "συσκευή ανάγνωσης καρτών"
+msgstr "συσκευές ανάγνωσης καρτών μνήμης"
 
 msgid "deviceclasses_cardreader-plural-for"
-msgstr "συσκευή ανάγνωσης καρτών"
+msgstr "συσκευές ανάγνωσης καρτών μνήμης"
 
 msgid "deviceclasses_chipset-single-main"
 msgstr "chipset"
@@ -554,7 +554,7 @@ msgid "confirm_popup_cancel_button"
 msgstr "Απόρριψη"
 
 msgid "confirm_popup_cancel_all_button"
-msgstr ""
+msgstr "Απόρριψη όλων των εφαρμογών ({{COUNT}})"
 
 msgid "diagnostics_section_title"
 msgstr "Διαγνωστικά Συστήματος"
@@ -908,7 +908,7 @@ msgid "driver_class_bluetooth"
 msgstr "Συσκευή Bluetooth"
 
 msgid "driver_class_cardreader"
-msgstr "Αναγνώστης κάρτας"
+msgstr "Συσκευή ανάγνωσης καρτών μνήμης"
 
 msgid "driver_class_chipset"
 msgstr "Chipset"
@@ -1076,7 +1076,7 @@ msgid "loading_checking_installed_programs"
 msgstr "Αναλύουμε την εφαρμογή..."
 
 msgid "loading_ordering_drivers"
-msgstr ""
+msgstr "Δημιουργούμε την σειρά εγκατάστασης των προγραμμάτων οδήγησης..."
 
 msgid "menu_install_drivers"
 msgstr "Εγκατάσταση προγραμμάτων οδήγησης στον υπολογιστή"
@@ -1139,7 +1139,7 @@ msgid "no-internet-screen_guide-step-complete"
 msgstr ""
 
 msgid "no-internet-screen_guide-step-complete-action"
-msgstr ""
+msgstr "Εκκινήστε την εφαρμογή σε αυτόν τον υπολογιστή και ρυθμίστε τη με ένα κλικ"
 
 msgid "programs_header_text_title"
 msgstr "Όλες οι χρήσιμες εφαρμογές σε ένα μέρος"
@@ -1148,7 +1148,7 @@ msgid "programs_btn_install_all"
 msgstr "Εγκαταστήστε τις απαιτούμενες εφαρμογές <b>({{COUNT}})</b>"
 
 msgid "programs_header_text_caption"
-msgstr ""
+msgstr "Δεν χρειάζεται πλέον να ψάχνετε για προγράμματα ένα προς ένα. Μπορείτε εύκολα να εγκαταστήσετε τα πάντα με ένα κλικ."
 
 msgid "drivers_program_recommend"
 msgstr ""
@@ -1196,7 +1196,7 @@ msgid "protect_uninstall_single"
 msgstr "αφαίρεση"
 
 msgid "protect_clean_up_btn"
-msgstr ""
+msgstr "Προστατεύστε και καθαρίστε τον υπολογιστή"
 
 msgid "protect_remove_all_btn_uninstalling"
 msgstr ""
@@ -1247,13 +1247,13 @@ msgid "start_button_install"
 msgstr "Αυτόματη ρύθμιση του υπολογιστή"
 
 msgid "start_title"
-msgstr ""
+msgstr "Αυτόματη ρύθμιση του {{MODEL}}"
 
 msgid "start_caption"
-msgstr ""
+msgstr "Το DriverPack θα σαρώσει το σύστημα, θα εγκαταστήσει τα απαιτούμενα<br/>προγράμματα οδήγησης και εφαρμογές, και θα εκτελέσει διαγνωστικούς ελέγχους. <br/>Η απόδοση του υπολογιστή θα αυξηθεί."
 
 msgid "start_expert_mode"
-msgstr ""
+msgstr "Επιλογές για Προχωρημένους "
 
 msgid "start_expert_mode_label"
 msgstr "Προηγμένες ρυθμίσεις"
@@ -1298,7 +1298,7 @@ msgid "start_diagnostics_title"
 msgstr "Διαγνωστικοί έλεγχοι που θα γίνουν"
 
 msgid "start_diagnostics_popover"
-msgstr ""
+msgstr "Μόλις ολοκληρωθεί η εγκατάσταση και η επανεκκίνηση του συστήματος, το DriverPack θα ξεκινήσει διαγνωστικούς ελέγχους για να ελέγξει ότι όλες οι συσκευές λειτουργούν με τη μέγιστη απόδοση."
 
 msgid "start_diagnostics_network"
 msgstr "Έλεγχος σύνδεσης δικτύου"
@@ -1361,7 +1361,7 @@ msgid "installation_header_promo_title_opera"
 msgstr "Ποια είναι τα θετικά του προγράμματος περιήγησης Opera;"
 
 msgid "installation_header_promo_text_opera"
-msgstr ""
+msgstr "Το Opera είναι ένα ασφαλές πρόγραμμα περιήγησης με πολλές καινοτόμες τεχνολογίες, όπως ενσωματωμένο VPN, AdBlock που εξαλείφει τις ενοχλητικές διαφημίσεις και την επιλογή να παρακολουθήσετε βίντεο σε ξεχωριστό παράθυρο. Εκτός αυτού, η τελευταία έκδοση αυτού του προγράμματος περιήγησης φορτώνει όλες  τις ιστοσελίδες κατά 13% ταχύτερα από άλλα προγράμματα, γεγονός που καθιστά το Opera το ταχύτερο πρόγραμμα περιήγησης αυτή τη στιγμή."
 
 msgid "installation_header_promo_title_how_it_works"
 msgstr "Πώς λειτουργεί το DriverPack;"
@@ -1445,7 +1445,7 @@ msgid "installation_application_restart_confirm_text_1"
 msgstr "Σας συνιστούμε να κλείσετε όλες τις εφαρμογές κατά την διάρκεια εγκατάστασης των προγραμμάτων οδήγησης"
 
 msgid "installation_application_restart_confirm_text_2"
-msgstr ""
+msgstr "Ακολουθεί η λίστα των διεργασιών που θα κλείσουν κατά την διάρκεια της  εγκατάστασης και θα επανεκκινηθούν αυτόματα:"
 
 msgid "installation_application_restart_confirm_title"
 msgstr ""

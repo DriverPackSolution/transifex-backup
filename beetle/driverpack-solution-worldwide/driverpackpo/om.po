@@ -7,8 +7,8 @@ msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-07-04 13:20+0000\n"
-"PO-Revision-Date: 2018-08-27 06:35+0000\n"
-"Last-Translator: Roobaa Nuuf <roobaanuuf@gmail.com>\n"
+"PO-Revision-Date: 2018-09-07 21:21+0000\n"
+"Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Oromo (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/om/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -395,7 +395,7 @@ msgid "settings_system-check-title"
 msgstr "Filaanno Sistemaa mirkanessuu bani (System Check)"
 
 msgid "settings_system-check-caption"
-msgstr ""
+msgstr "Akka divayisonni komputeraa kee hundii hojeecha jiru mirkanneessuuf, gareen hojeettota DriverPack mirkaneessa Sistemaa komputerraa keessani baay'ee gaarii ta'ee hojeettaniru. Innis attattamaa hojeechuu jalqabaa akka cufamee bannameenifi arrittin akka divayisoonni hundii amma sirritti hojeecha jiran mirkanessaa."
 
 msgid "settings_system-check-anchor"
 msgstr "Dabalata barachuuf"
@@ -407,7 +407,7 @@ msgid "settings_statistics-title"
 msgstr "Odeeffannoo waa'ee sistemaa ergi"
 
 msgid "settings_statistics-caption"
-msgstr ""
+msgstr "DriverPack Boot hundaa wajjiin akka cimuuf, hojeettoni odeeffannofi data wallitti qabu (maqlessaa) ni barbaadu. Isaanis kannen akka konfigurashinni komputerraa, moosajii hojeecha jiru, dogogorraa sistemaafi odeeffannoo bira Google Analytics sif."
 
 msgid "settings_statistics-anchor"
 msgstr "Dabalata barachuuf"
@@ -419,7 +419,7 @@ msgid "settings_machine-learning-title"
 msgstr "Filannoo barumsaa mashinii banu (Machine Learning)"
 
 msgid "settings_machine-learning-caption"
-msgstr ""
+msgstr "Sistemaa qalabii addaafi ammayyaa ta'ee injineerottaa sistemaa DriverPack nin hojeettame, innis akka sistemnii kee gaariitti hojeettu fayyadaa. Sababni isaas ofii kan barattu waan ta'ee, yeroo mara gaafa banamuu algorizimii filaanno diverri ni fooyyessuufi itti fufuun komputeraa konfiger gochuuf baay'ee arifattaafi qulqulliinaa kan qabuudha."
 
 msgid "settings_machine-learning-anchor"
 msgstr "Dabalata barachuuf"
@@ -431,7 +431,7 @@ msgid "settings_bsods-title"
 msgstr "Sababottaa guracha'uu (BSoD) Iskirinii xinxallii"
 
 msgid "settings_bsods-caption"
-msgstr ""
+msgstr "Hammamtaan  Gurracha'uu du'uu iskiriinii (BSoD) umamuu isaa dhibbantaa 0.3% gadidha, garuu yoo umamee, Aplikeshinniin keenya ofi isaa Windows log ni qorattaafi gabbasaa ni dhiyeessa qorataa Sistemaaf. Kunis akka rakkini kun amma booda hin deebinnee xiqqeessuf ni gargaruufi rakkinnii waal fakkattuu akka hin umamne taasisaa."
 
 msgid "settings_bsods-anchor"
 msgstr "Dabalata barachuuf"
@@ -443,7 +443,7 @@ msgid "settings_collect-drivers-title"
 msgstr "Driverootta hafan buusi"
 
 msgid "settings_collect-drivers-caption"
-msgstr ""
+msgstr "Akka DriverPack diriveriin databazii hundaa qabattuf, funnanaan data addaa ta'ee hojeettamerrraa. Innis odeeffannoo wa'ee diriverroottaa komputeraa irratti fe'amanni ni funannaa. Yoo sistemni diriverottaa murasaa argees gara databazii keenyatti attatamaan ni galchaa. Datan kunis kanneen wal fakkaattu qofaan funanamaa."
 
 msgid "settings_collect-drivers-anchor"
 msgstr "Dabalata barachuuf"
@@ -713,8 +713,8 @@ msgstr "Driveriin hin fe'amnee"
 
 msgid "final_programs_some_finished_title"
 msgid_plural "final_programs_some_finished_title_n"
-msgstr[0] "Sagantaa moosajii {{COUNT1}} fe'amarraa {{COUNT2}} keessaa"
-msgstr[1] "Moosajjiin {{COUNT1}} hammi kun {{COUNT2}} keessa fe'amanirruu"
+msgstr[0] "Moosajii hammi {{COUNT1}} kun  fe'amarraa hamma {{COUNT2}} kana keessaa"
+msgstr[1] "Moosajjiin hammi kun {{COUNT1}} hamma {{COUNT2}} kana keessa fe'amanirruu"
 
 msgid "final_programs_all_failed_title"
 msgstr "Sagantaa moosajjii 0 fe'amanirruu hangaa {{COUNT}} keessa"
@@ -745,7 +745,7 @@ msgstr "Driveronnii barbaachisaan hundii fe'amaniruu."
 msgid "final_programs_all_finished_subtitle"
 msgid_plural "final_programs_all_finished_subtitle_n"
 msgstr[0] "Sagantaan moosajii {{COUNT}} hamma kana fe'amanirruu."
-msgstr[1] "Sagantaan Moosajjii {{COUNT}} fe'amanirruu."
+msgstr[1] "Moosajjiin {{COUNT}} fe'amanirruu."
 
 msgid "final_programs_some_finished_subtitle"
 msgstr "Moosajjiin barbaachisoon tokko tokkoo hin fe'amin hafaan."
@@ -785,8 +785,8 @@ msgstr "Akkumaa fe'uun kun xumureen atatamaan akka komputera cuftanni bantaan is
 
 msgid "final_aside_installed_drivers_title"
 msgid_plural "final_aside_installed_drivers_title_n"
-msgstr[0] "Driveroonni {{COUNT}} kun fe'amanirruu"
-msgstr[1] "Driveroonni {{COUNT}} kun fe'amanirruu"
+msgstr[0] "Driveroonni {{COUNT}} fe'amanirraa"
+msgstr[1] "Driveroonni {{COUNT}} fe'amanirruu"
 
 msgid "final_some_drivers_not_installed"
 msgstr "Driveronni tokko tokkoo hin fe'amnee"
@@ -849,7 +849,7 @@ msgid "games_playkey_create_account_button"
 msgstr "Dabtaraa banadhu on  PlayKey irratti"
 
 msgid "gdpr-banner_text"
-msgstr ""
+msgstr "Odeeffannoo waa'ee komputerraa kee akka seera waligalteetti wallitti qabneerraa, kunis diriverri barbaachisoo komputeraa keef funanuuf jecha. Maaloo mee mirkaneessaa, nuttis hojii gaarii hojeechuu ni dandeenya."
 
 msgid "gdpr-banner_decline-btn"
 msgstr "Kufisuu"
@@ -1212,7 +1212,7 @@ msgid "protect_clean_up_header_title"
 msgstr "DriverPack Protect — Ittisaafi qulqullinnaa komputeraa kee"
 
 msgid "protect_clean_up_header_caption"
-msgstr ""
+msgstr "DriverPack Protect moosajii hin barbaachise qulqulleessufi komputaraa keef egumsaa taasisu irraatti ittisaa vaayirasii kan akka: rakkinaa fiduufi beeksisaa hin barbaachisnee ittisuu, dhabamsisuufi dhorkuuf gargaraa."
 
 msgid "protect_installed_programs_title"
 msgstr "Moosajii komputerraa kana irratti fe'aman"
@@ -1233,7 +1233,7 @@ msgid "settings-header_title"
 msgstr "Hojimataa fayyadamaa ogeessaf"
 
 msgid "settings-header_caption"
-msgstr ""
+msgstr "DriverPack  kan hojeettame warraa hogannuf ture haa ta'uu iyyuu malee fayyadamaaf baay'ee ifaafi gaariidha. Itti fayyadamuun, Addunyaa guutu irraa hogantonni sistemaa miliyonnaa konfigar gochuu qofaa osoo hin tannee akka isaanniti toleettifi isaanif mijaattetti DriverPack sireeffachu ni danda'ua. Algoriziim haaraa ammaa immoo akka komputerrii kee hedduu hojeettuf gargaraa. Mee yaalimee DriverPack — akka ati jaallattu maamii hin qabnu!"
 
 msgid "settings-screen_license"
 msgstr "Eyyemaa Walli galtee"
@@ -1248,7 +1248,7 @@ msgid "start_title"
 msgstr "{{MODEL}} Atatamaan sirressuu"
 
 msgid "start_caption"
-msgstr ""
+msgstr "DriverPack sistemaa kee inni qorataa, Kan barbaachisuu ni fe'aa<br/>diriverroottafi moosajiwwaan, akkasumaas qoranoo yaalii ni gagessaa. <br/>Bu'aa qabeessummaan Komputeraas ni dabalaa."
 
 msgid "start_expert_mode"
 msgstr "Bifa ogeessaa"
@@ -1268,10 +1268,10 @@ msgstr[0] "Driverin {{COUNT}} fe'amerraa"
 msgstr[1] "Driveronni {{COUNT}} ni fe'amaniruu"
 
 msgid "start_drivers_utils_popover"
-msgstr ""
+msgstr "Diriverrifi tulkittin diveri akka komputeri kee sirritti hojeettuf filaamun fe'amuuf qoopha'a ta'eerraa. Yerummaa fe'uun egaluus tuqaan booda deebi ni umamaa."
 
 msgid "start_drivers_popover"
-msgstr ""
+msgstr "Diriverronni hundii komputeraa kee irratti fe'amuuf qoopha'oo ta'annirruu. Osoo inni hin egalliin tuqan booda deebi ni umama."
 
 msgid "start_programs_title_driver_utils"
 msgid_plural "start_programs_title_n"
@@ -1284,7 +1284,7 @@ msgstr[0] "Moosajiin {{COUNT}} fe'amerraa"
 msgstr[1] "Moosajiin {{COUNT}} fe'amanirruu"
 
 msgid "start_programs_popover"
-msgstr ""
+msgstr "Moosajjiwwan tola kana gadi hundii komputeraa kee irraatti fe'amuuf filaaman: Ittisa Vayyirasii, Archiverrii, Browzerriifi Driver toolkit — hundii haala mijeessuf ni gargaruu."
 
 msgid "start_programs_eula"
 msgstr "Eyyemaa Walli galtee"
@@ -1296,7 +1296,7 @@ msgid "start_diagnostics_title"
 msgstr "Yaalin kun rawateerraa"
 
 msgid "start_diagnostics_popover"
-msgstr ""
+msgstr "Akkuma fe'uufi Sistemiin cufee banuun, adeemsa yaali DriverPack ni egalaa kunis driveriin hundii hamma barbaachisuu hojeechu mirkaneessa."
 
 msgid "start_diagnostics_network"
 msgstr "Mirkaneessaa Toora networkii"
@@ -1311,7 +1311,7 @@ msgid "start_diagnostics_other"
 msgstr "Mirkanessaa meeshalee biroo"
 
 msgid "delorean_use_remote_confirm"
-msgstr ""
+msgstr "Intarnettin safisaa garii qabu komputeraa kee irraa argameerraa. Databeziin waa'ee diriverrii guutun Intarnettaa irra jira. akkasumaas Varzinii haaraa kan of keessa qabudha. Databezii networkii irraa fayyaadamu ni barbaada? (Hammamtaan Tirafikaas ni danda'amaa)"
 
 msgid "games_playkey_top_witcher_3_demo"
 msgstr "The Witcher III Wild Hunt"
@@ -1335,79 +1335,79 @@ msgid "installation_header_promo_title_cloud"
 msgstr "Wantaa haaraa: DriverPack Cloud Beta"
 
 msgid "installation_header_promo_text_cloud"
-msgstr ""
+msgstr "Sababa teknolojii haarawwaan barumsaa maashinnin tuqaa addaa bahinsaa tilmaamun ni danda'ama. akkasumaa furmaattas kannen umamaniif ni dhiyeessaa.<br>Verzinii Beta yaaluufi yaada keessan nuf hiruu hin dagattinna — kunis DriverPack Cloud akka fooyyesinuufi akka hedduu nu gargaruuf fayyadaa."
 
 msgid "installation_header_promo_title_avast"
 msgstr "Maaltu Avast hundaa irraa gaarii goodhe?"
 
 msgid "installation_header_promo_text_avast"
-msgstr ""
+msgstr "Avastaan ittisa vaayirasii baay'ee beekama addunyaatti sababni isaas komputerraa sirnaan egaa waan ta'eef, suttumee waan hin taasisneefi baay'ee akka ittisaa vaayirasii dabalatatti ni hojeetta. <br /> Kana caalas hedduu immoo tola waan ta'ee dhugaadhan akka itti fayyaadamtaan isiin ajaajna."
 
 msgid "installation_header_promo_title_catalog"
 msgstr "Driveroottaa akkami ofii barbaadachun danda'ama?"
 
 msgid "installation_header_promo_text_catalog"
-msgstr ""
+msgstr "Warra ofii fe'uuf diriveerri barbaadaniif, akka barbaaduf ta'uutti bakkee barbaacha qopheesinerraa kanas DeviceID yookiis maqaa isaan barbaadu ni dandeessuu. Databeziin barbaacha kunis diriveroottaa miliyoonna ta'aan of keessa waan qabuuf guddichaa addunyaa ta'ee jira. Burqaan barbaacha kunis yeroomma yerootti ni yaalama, Kunis akka yeroo hundaa haaraa ta'uuf taasisaa."
 
 msgid "installation_header_promo_title_authorization"
 msgstr "Keessa seeni hojimataa kee kufachuuf"
 
 msgid "installation_header_promo_text_authorization"
-msgstr ""
+msgstr "Akka nama qulfin seene hojimataa amma amma sirreessun hin barbaachisu. Isan sadarkaa kutaa — ofii keessatti waan kufamuf attatamaan yeroo meeshalee hundaa irraatti hojeechuu danda'aa. Gara keessatti qulfiin kan keessan hundii Sarvarii CDN diriverii buusuf hedduu ariifachisu. Fayyidaan qulfiin seenu kan bira immo hojimataa dabalataa kan banamuu taasisuun ofii akka feedhatti foyyeessuf ni barbaachisu."
 
 msgid "installation_header_promo_title_opera"
 msgstr "Wanti gaariin waa'ee Opera Browser maali?"
 
 msgid "installation_header_promo_text_opera"
-msgstr ""
+msgstr "Operaan yeroo qusataa birawuserri of keessa teknolojii haarawwaa hedduu kan qabu isaan keessa VPN, beeksisaa hin barbaachisnee balleessituufi filaanno Vidiyoo ilaaltu qofaatti kan qabuudha. Verzinni haarawwaa isa biraan buraweriin hundii dhibbentaa 13% n isaan duraa caala. Kunis Opera birawserri baay'ee saffisa qabu isa taasisaa."
 
 msgid "installation_header_promo_title_how_it_works"
 msgstr "DriverPack akkamin hojeetta?"
 
 msgid "installation_header_promo_text_how_it_works"
-msgstr ""
+msgstr "Yaalan app yeroo ka'uutti qorannoo mataa isaan moosajii meeshale kamiif diriveri kam kan jedhuufi  maaltu fe'aamefi maaltu haromaa adda basa. Sababa teknolojii barumsaa mashinnin, DriverPack diriveroota hedduu barbaachisoo ta'aan qofa filaata. Akka appin keenyas sirritti komputeraa keenya sirressuuf, databezii guddichaa addunyaa wallitti qabnerraa kunis diriverootaa miliyonnaa ol ta'anidha. Dabalatas, Sarvarri saffisaa guddaafi Teknolojii Kuusa dummessaa, Innis sirresuu Komputera keenya guddisuufi safisisuuf gargaraa."
 
 msgid "installation_header_promo_title_win_10"
 msgstr "Maalif Windows 10 irratti diriverii ol guddistaa?"
 
 msgid "installation_header_promo_text_win_10"
-msgstr ""
+msgstr "Seeneessi Windows 10 n dandeetti ofi isaan driverootta komputeraaf barbaachisuu fe'uu ni qaba jedhu. Kan nama gaddisisuu, kun dhugaa miti — yeroo baay'ee, Windows 10 n diriveroota waltawaa qofa fe'aa, osoo dhunfaa isaanif hin filliin. Driveroota xiqqeenyafi kan yeroon irraa darbee, guutumatti hin qabu. Akka caara ta'ee, DriverPack n dirivoota mi hundaa ol ni filaata.<br /><br />"
 
 msgid "installation_header_promo_title_social"
 msgstr "Hawasaa DriverPack tti dabalami"
 
 msgid "installation_header_promo_text_social"
-msgstr ""
+msgstr "Garee haawasumaa keenya keessatti yeroo mara gaafii waa'ee moosajii ka'uuf deebisna, Odeeffanoo waa'ee haarawwaafi teknolojii keenyaafi odeeffannoo wa'ee haaraafi dabalataa industirrii waa'ee IT."
 
 msgid "installation_header_promo_title_protect"
 msgstr "Akkamin DriverPack Protect komputeraa gargaraa?"
 
 msgid "installation_header_promo_text_protect"
-msgstr ""
+msgstr "Kun moosajii dabalataa komputerraa kee qulqulleessufi maxantuu yeroo tokko tokkoo ittisaan vaayirasii balleessu hin dandeenye dhabamsisaa. DriverPack Protect n bakka kuusa baay'ee akka qabanuufi taajajilaa komputeraa keenya safisisuuf gargaraa."
 
 msgid "installation_header_promo_title_restore"
 msgstr "Tuqa booda deebii sistemaa"
 
 msgid "installation_header_promo_text_restore"
-msgstr ""
+msgstr "DriverPack n yeroo hundaa tuqa booda deebi osoo diriverii fe'uu hin egallin ni ummaa.<br /><br /> Yoo sistemni kee rakkinaa goodhatte yeroo kam iyyuu gara boodatti deebisuu ni dandeessa."
 
 msgid "installation_header_promo_title_browsers"
 msgstr "Birowseriin gaariin kan bira hin ta'u"
 
 msgid "installation_header_promo_text_browsers"
-msgstr ""
+msgstr "Akka ragaa istatiksitti, namoonni dhibbaanta 70% ol ta'aan yoo xiqqatee birawuseri lama intarnet hoo hojeettuf fayyadamu. Birawuserrin nutti isinif dhiyeessine kun bu'aa mataa isaani ni qabu: Yandex. Afaan rushiyaa wajjiin hojeechuuf bu'aa guddaa qabu. Namooni Operaa ni filaattu haala salphaan websayyitti gallufi VPN fayyaadamu. akkasumaa Firefox plugin fi maxantuu dabalachuun internet gaarii akka arganuu taasisu. Maalif hundaa isaa hin qabanuufi hin fayyadamnu? Isaan komputera keenya saffisa isa hin xiqqeessan. Hojii komputeraa keenya qoqoduun saffisuuf gargaruu. Fakkeenyaf."
 
 msgid "installation_header_promo_title_driverpack_for_all"
 msgstr "DriverPack komputerraa kamiffuu ni ta'a"
 
 msgid "installation_header_promo_text_driverpack_for_all"
-msgstr ""
+msgstr "Meesha kompueraa keenya haala fennun nuuf sirreessufi attatam rawwachisuu hojenneerraa. DriverPack n diriverootta miliyoonnaa ol of keessa qaba. Innis komputeraa cuqasaa si'ummaa tokkoon sirressaa. Kanumaa irraa ka'uun, diriverroonni fe'amaanif gargarutoonni, of egannoon moosajiin filaaman (Sirreessaa kan wallitti qabataa), akkasumaas yaali qorannoo komputeraa. Kan jechuun, DriverPack n komputeraa kee guutumattifi haala gaariin cuqasaa tokkoon bu'aa qabessaa taasisaa."
 
 msgid "installation_header_promo_title_istart"
 msgstr "Teknolojii haaraa ni jaallata? Maare degarii jalqabaa gaarii"
 
 msgid "installation_header_promo_text_istart"
-msgstr ""
+msgstr "Gaafa yaadu kutaan barbaadu kan yeroon irraa darbeedha? Yoo ta'ee, garee bustottaa young iStart gargarrii isaan ilaalcha mataa isaanni kutaa barbaacha wajjiin qabu: bandi barbaada addaa, beeksisaa attatamaa baleessu, kan walliin isaa hin beekamne — fi kun hundii jalqabaa. Teknolojiin kun hundii kan hojeettama jiruudha sadarkaa Alpha-yaali banatti garuu gad lakkifamirruu yaalu ni dandessaa."
 
 msgid "softcategories_archiver-single-for"
 msgstr "Kuussa fayyiloottaa"
@@ -1440,31 +1440,31 @@ msgid "softcategories_drivers-plural-for"
 msgstr "Diriverriin akka hojeettuf tullii barbaachisaan"
 
 msgid "installation_application_restart_confirm_text_1"
-msgstr ""
+msgstr "Yeroo diriverriin fe'aan akka moosajii hundaa cuftaan isiin ajaajna"
 
 msgid "installation_application_restart_confirm_text_2"
-msgstr ""
+msgstr "Kanneen yeroo fe'umsaa cufaanifi ataatamaan ka'aan:"
 
 msgid "installation_application_restart_confirm_title"
 msgstr "Gorsaawwaan"
 
 msgid "deviceproblems_usb_connection"
-msgstr ""
+msgstr "Sababa USB portiin kee rakkinnaa qabuuf diriverrii irraatti fe'uun baay'ee kan hin danda'amneedha. Rakkinaa kana furuuf, meesha USB kee irraa deebi'uun Itti galchii yaali. yookiis Shuboo itti hidhamee jiruu bakka buusi. Yoo kun furuu diddee, Rakkinaa wayyi adeemsa porti keefi meeshale biroo wajjiin jira ta'a."
 
 msgid "deviceproblems_root_legacy"
-msgstr ""
+msgstr "Meeshaan diviyisiin kun sistemaa kee keessa hin jiru garuu ergaa moosajii gargaraan kee bade hafteen isaa ni jiraata. Rakkinaa kana furuufis, Warra registry keessa hundaa ballessuu, kunis harkaan yookiis fugugaa biroo fayyadamuun."
 
 msgid "deviceproblems_vpn_no_need_drivers"
-msgstr ""
+msgstr "Virtuall VPN kannaf diriverrii fe'uun hin barbaachisu"
 
 msgid "deviceproblems_damaged_system_driver"
-msgstr ""
+msgstr "Kun sistemaa waltawaa sababa garagaraan kan hojeechuu dhabeedha, yookiis Verzhinii Windows kee keessa haferraa. Sababni inni tokkoo Windows Verzhinii kee keessa gad hafee yookiis miidhaa moosajiin biroo yookiis vayirasiin geesisuun kan ka'uudha. Rakkinaa kana guutumatti furuuf, eyyamaa guutu kan qabuu Varzhinii Windows fe'uu qabda."
 
 msgid "deviceproblems_usb_unknown_vendor"
-msgstr ""
+msgstr "USB itti qabattee kun fe'amerraa, garuu kan hojeettee enyuu akka ta'ee hin beekamu. Kana sirreessuf, taajajilaa Windows Driver Foundation atatamaan akka ka'uu taasisuun gaariidha. Gara Computer Management tab → Services tab → Windows Driver Foundation tab, and then choose the 'Startup Type: Automatic' option"
 
 msgid "deviceproblems_sound_card"
-msgstr ""
+msgstr "Kaardiin sagalee akka malee galee jira, yookiis akka inni hin hojeenne ta'eerraa"
 
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
