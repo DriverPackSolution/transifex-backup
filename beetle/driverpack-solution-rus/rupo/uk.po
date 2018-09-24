@@ -8,13 +8,14 @@
 # Nadia Tegeneva <nadia@drp.su>, 2016
 # Володимир Решетнюк <vladimirreshetnuk@gmail.com>, 2016
 # Ihor Sovertkov <superigorpro@gmail.com>, 2017
+# Eduard Dyakunenko <edwardak00@gmail.com>, 2018
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-07-04 13:20+0000\n"
 "PO-Revision-Date: 2016-02-25 10:55+0000\n"
-"Last-Translator: Ihor Sovertkov <superigorpro@gmail.com>, 2017\n"
+"Last-Translator: Eduard Dyakunenko <edwardak00@gmail.com>, 2018\n"
 "Language-Team: Ukrainian (https://www.transifex.com/driverpack-solution/teams/75452/uk/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -224,25 +225,25 @@ msgid "deviceclasses_other-plural-for"
 msgstr "інших пристроїв"
 
 msgid "activate_recommendations_title_programs"
-msgstr ""
+msgstr "Наші рекомендації по програмному забезпеченню відключені"
 
 msgid "activate_recommendations_title_protect"
-msgstr ""
+msgstr "Наші рекомендації по захисному програмному забезпеченню відключені"
 
 msgid "activate_recommendations_button_programs"
-msgstr ""
+msgstr "Увімкнути наші рекомендації по програмному забезпеченню"
 
 msgid "activate_recommendations_button_protect"
-msgstr ""
+msgstr "Увімкнути наші рекомендації по захисному програмному забезпеченню"
 
 msgid "programs_about"
-msgstr ""
+msgstr "Детальніше"
 
 msgid "programs_eula"
-msgstr ""
+msgstr "Ліцензійна угода"
 
 msgid "programs_policy"
-msgstr ""
+msgstr "Політика конфіденційності"
 
 msgid "programs_btn_install_single"
 msgstr "встановити"
@@ -502,63 +503,63 @@ msgid "menu_cmd"
 msgstr "CMD"
 
 msgid "configurator-screen_downloading"
-msgstr ""
+msgstr "Скачування {{DOWNLOADED_SIZE}} з  {{TOTAL_SIZE}}"
 
 msgid "configurator-screen_title"
-msgstr ""
+msgstr "Ваша збірка DriverPack Offline"
 
 msgid "configurator-screen_caption"
-msgstr ""
+msgstr "Ви можете завантажити свою власну збірку DriverPack, вибравши ті драйвери, які будуть доступні без підключення до Інтернету."
 
 msgid "configurator-screen_btn"
-msgstr ""
+msgstr "Завантажити DriverPack Offline – {{COUNT}}"
 
 msgid "configurator-screen_completed"
-msgstr ""
+msgstr "Завантаження завершене"
 
 msgid "configurator-screen_open-downloads"
-msgstr ""
+msgstr "Відкрити теку завантаження"
 
 msgid "configurator-screen_fail"
-msgstr ""
+msgstr "Помилка завантаження"
 
 msgid "configurator-screen_retry"
-msgstr ""
+msgstr "Спробувати ще раз"
 
 msgid "configurator-screen_params"
-msgstr ""
+msgstr "Параметри завантаження"
 
 #. i18n: EN: text for {{LINK.EULA}} is in key confirm_popup_eula-link; text
 #. for {{LINK.POLICY}} is in key confirm_popup_policy-link; RU: текст для
 #. {{LINK.EULA}} находится в ключе confirm_popup_eula-link; текст для
 #. {{LINK.POLICY}} находится в ключе confirm_popup_policy-link;
 msgid "confirm_popup_install_eula"
-msgstr ""
+msgstr "Я погоджуюся на установку {{PROGRAM.NAME}} і приймаю {{LINK.EULA}} і {{LINK.POLICY}}. Це програмне забезпечення може бути видалене у будь-який момент через функцію установки/видалення програм."
 
 #. i18n: EN: text for {{LINK.EULA}} is in key confirm_popup_eula-link; text
 #. for {{LINK.POLICY}} is in key confirm_popup_policy-link; RU: текст для
 #. {{LINK.EULA}} находится в ключе confirm_popup_eula-link; текст для
 #. {{LINK.POLICY}} находится в ключе confirm_popup_policy-link;
 msgid "confirm_popup_eula"
-msgstr ""
+msgstr "Встановлюючи програму, ви приймаєте {{LINK.EULA}} і {{LINK.POLICY}}."
 
 msgid "confirm_popup_eula-link"
-msgstr ""
+msgstr "Ліцензійна Угода з кінцевим користувачем"
 
 msgid "confirm_popup_policy-link"
-msgstr ""
+msgstr "Політику Конфіденційності"
 
 msgid "confirm_popup_install_button"
-msgstr ""
+msgstr "Прийняти і встановити"
 
 msgid "confirm_popup_title"
-msgstr ""
+msgstr "Установка програми"
 
 msgid "confirm_popup_cancel_button"
-msgstr ""
+msgstr "Відмовитися"
 
 msgid "confirm_popup_cancel_all_button"
-msgstr ""
+msgstr "Відмовитися від усіх програм ({{COUNT}})"
 
 msgid "diagnostics_section_title"
 msgstr "Діагностика системи"
@@ -865,13 +866,13 @@ msgid "games_playkey_create_account_button"
 msgstr "Створити рахунок у PlayKey"
 
 msgid "gdpr-banner_text"
-msgstr ""
+msgstr "Для правильного підбору драйверів на ваш пристрій ми збираємо дані про комп'ютер дотримуючись умов Ліцензійної угоди. Для коректної роботи програми підтвердіть свою згоду."
 
 msgid "gdpr-banner_decline-btn"
-msgstr ""
+msgstr "Відхилити"
 
 msgid "gdpr-banner_accept-btn"
-msgstr ""
+msgstr "Підтвердити"
 
 msgid "header_authorize_button"
 msgstr "Авторизація"
@@ -901,7 +902,7 @@ msgid "installation_header_title"
 msgstr "Налаштовуємо Ваш комп'ютер..."
 
 msgid "installation_header_promo_try"
-msgstr ""
+msgstr "спробувати"
 
 msgid "installation_header_promo_more"
 msgstr "детальніше"
@@ -913,7 +914,7 @@ msgid "installation_header_promo_fb"
 msgstr "Спільнота на Facebook"
 
 msgid "installation_header_promo_license"
-msgstr ""
+msgstr "Ліцензійна угода"
 
 msgid "installation_item_category_restorepoint"
 msgstr "Точка відновлення"
@@ -997,10 +998,10 @@ msgid "soft_category_drivers"
 msgstr "Утиліти для роботи драйверів"
 
 msgid "installation_item_eula"
-msgstr ""
+msgstr "Ліцензійна угода"
 
 msgid "installation_item_policy"
-msgstr ""
+msgstr "Політика конфіденційності"
 
 msgid "installation_error_download"
 msgstr "Помилка завантаження"
@@ -1033,7 +1034,7 @@ msgid "installation_progress_downloading_of"
 msgstr "із"
 
 msgid "installation_progress_downloaded"
-msgstr ""
+msgstr "завантажено"
 
 msgid "installation_progress_stage_downloading"
 msgstr "Завантаження"
@@ -1165,7 +1166,7 @@ msgid "programs_header_text_caption"
 msgstr "Більше немає необхідності шукати програми окремо&nbsp;— все можна встановити в один клік."
 
 msgid "drivers_program_recommend"
-msgstr ""
+msgstr "Програмне забезпечення, рекомендоване компанією DriverPack"
 
 msgid "drivers_program_counter"
 msgstr "Рекомендовані програми"
@@ -1186,13 +1187,13 @@ msgid "protect_row_install_date"
 msgstr "Дата встановлення:"
 
 msgid "protect_rating_level_large_appesteem"
-msgstr ""
+msgstr "Встановлено з невідомого джерела (70% користувачів видаляють цю програму)"
 
 msgid "protect_rating_level_large"
 msgstr "рекомендуємо видалити"
 
 msgid "protect_rating_level_middle_appesteem"
-msgstr ""
+msgstr "Встановлено з невідомого джерела"
 
 msgid "protect_rating_level_middle"
 msgstr "можна видалити"
@@ -1201,7 +1202,7 @@ msgid "protect_rating_level_small"
 msgstr "можна не видаляти"
 
 msgid "protect_rating_level_large_caption_appesteem"
-msgstr ""
+msgstr "70% наших користувачів видаляють цю програму"
 
 msgid "protect_rating_level_large_caption"
 msgstr "Рекомендуємо видалити цю програму, тому що її видаляють більше 70% користувачів."
@@ -1234,7 +1235,7 @@ msgid "protect_installed_programs_title"
 msgstr "Встановлені на комп'ютері програми"
 
 msgid "protect_installed_programs_switch_appesteem"
-msgstr ""
+msgstr "Відобразити тільки програми, встановлені з невідомих джерел"
 
 msgid "protect_installed_programs_switch"
 msgstr "Показувати тільки сумнівні"
@@ -1252,10 +1253,10 @@ msgid "settings-header_caption"
 msgstr "DriverPack створений спеціально для професіоналів, але зрозумілий і зручний навіть початківцям. З його допомогою мільйони системних адміністраторів по всьому світу можуть не тільки швидко налаштовувати комп'ютери, але і кастомізувати роботу програми, виходячи зі своїх потреб і завдань. Новий алгоритм підбору встановлює драйвери, що забезпечують максимальну продуктивність пристроїв. Спробуйте DriverPack — ми впевнені, що вам сподобається!"
 
 msgid "settings-screen_license"
-msgstr ""
+msgstr "Ліцензійна угода"
 
 msgid "start_button_install_drivers"
-msgstr ""
+msgstr "Встановити усі драйвери"
 
 msgid "start_button_install"
 msgstr "Налаштувати ПК автоматично"
@@ -1270,13 +1271,13 @@ msgid "start_expert_mode"
 msgstr "Режим експерта"
 
 msgid "start_expert_mode_label"
-msgstr ""
+msgstr "Розширені налаштування"
 
 msgid "start_license"
-msgstr ""
+msgstr "Ліцензійна угода"
 
 msgid "footer_site"
-msgstr ""
+msgstr "Видалення DriverPack"
 
 msgid "start_drivers_title"
 msgid_plural "start_drivers_title_n"
@@ -1286,17 +1287,17 @@ msgstr[2] "Буде встановлено {{COUNT}} драйвера"
 msgstr[3] "Буде встановлено {{COUNT}} драйвера"
 
 msgid "start_drivers_utils_popover"
-msgstr ""
+msgstr "Драйвери і утиліти драйверів, необхідні для коректної роботи вашого комп'ютера, підібрані і готові до установки. Перед початком процесу установки буде створена точка відновлення."
 
 msgid "start_drivers_popover"
 msgstr "Драйвери для вашого комп'ютера підібрані і готові до встановлення. Перед встановленням буде створена контрольна точка відновлення."
 
 msgid "start_programs_title_driver_utils"
 msgid_plural "start_programs_title_n"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgstr[0] "Буде встановлена {{COUNT}} утиліта для драйверів"
+msgstr[1] "Буде встановлено {{COUNT}} утиліти для драйверів"
+msgstr[2] "Буде встановлено {{COUNT}} утиліт для драйверів"
+msgstr[3] "Буде встановлено {{COUNT}} утиліт для драйверів"
 
 msgid "start_programs_title"
 msgid_plural "start_programs_title_n"
@@ -1309,10 +1310,10 @@ msgid "start_programs_popover"
 msgstr "Для вашого комп'ютера підібраний список рекомендованих безкоштовних програм: антивіруси, архіватори, браузери і драйверні утиліти — все, що може стати в нагоді для комфортної роботи."
 
 msgid "start_programs_eula"
-msgstr ""
+msgstr "Ліцензійна угода"
 
 msgid "start_programs_policy"
-msgstr ""
+msgstr "Політика конфіденційності"
 
 msgid "start_diagnostics_title"
 msgstr "Буде проведена діагностика"
@@ -1426,10 +1427,10 @@ msgid "installation_header_promo_text_driverpack_for_all"
 msgstr "Ми створили інструмент, який дозволяє зробити налаштування будь-якого комп'ютера повністю автоматичним. DriverPack містить понад мільйон драйверів, що дозволяє однією кнопкою налаштовувати будь-який комп'ютер. Встановлюються драйвери і утиліти, ретельно відібраний софт (який є невід'ємною частиною налаштування), а також проводиться діагностика комп'ютера. Таким чином, DriverPack швидко налаштовує комп'ютер натисканням однієї кнопки."
 
 msgid "installation_header_promo_title_istart"
-msgstr ""
+msgstr "Любите нові технології? Підтримайте хороший стартап"
 
 msgid "installation_header_promo_text_istart"
-msgstr ""
+msgstr "Ви теж вважаєте, що пошукові системи морально застаріли? Тоді підтримаєте молоду команду розробників iStart, у яких є свій власний погляд на пошук контенту: унікальна пошукова стрічка, автоматичне видалення реклами, невідстежувана, система закладок — це тільки початок. Технологія знаходиться на стадії відкритого Альфа-тестування, але її вже можна спробувати."
 
 msgid "softcategories_archiver-single-for"
 msgstr "файлового архіватора"
