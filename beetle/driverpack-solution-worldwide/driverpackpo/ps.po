@@ -1,5 +1,6 @@
 # Translators:
 # Translators:
+# Ashiq Khan <ashiqullahmg@gmail.com>, 2018
 # Hafeezullah Zubair <hafiz.zubiar1064@gmail.com>, 2018
 # Nadia Tegeneva <nadia@drp.su>, 2018
 msgid ""
@@ -7,7 +8,7 @@ msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-07-04 13:20+0000\n"
-"PO-Revision-Date: 2018-07-09 21:22+0000\n"
+"PO-Revision-Date: 2018-09-26 09:42+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Pushto (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/ps/)\n"
 "MIME-Version: 1.0\n"
@@ -218,16 +219,16 @@ msgid "deviceclasses_other-plural-for"
 msgstr "بله وسیلی"
 
 msgid "activate_recommendations_title_programs"
-msgstr ""
+msgstr "د سافټویر په اړه زموږ سپارښتنې ناتوان شوي دي"
 
 msgid "activate_recommendations_title_protect"
-msgstr ""
+msgstr "د محافظوي سافټویر په اړه زموږ سپارښتنې ناتوان شوي دي"
 
 msgid "activate_recommendations_button_programs"
-msgstr ""
+msgstr "سافټویرپه اړه زموږ سپارښتني فعال کړئ"
 
 msgid "activate_recommendations_button_protect"
-msgstr ""
+msgstr "محافظوي سافټویرپه اړه زموږ سپارښتني فعال کړئ"
 
 msgid "programs_about"
 msgstr "نور زده کړئ"
@@ -332,7 +333,7 @@ msgid "settings_authorization-caption"
 msgstr "د لنډې او اسانه ننوتنې پروسیجر وروسته، تاسو به پراخ شوي سیسټمونو او همدارنګه یو شمیر ګټورو بڼو ته لاسرسۍ ولري، په شمول د چټک چلوونکی چې د CDN سرورونو څخه ډک کول، د پروفیسر په کچه ساتل شوي ترتیبات، او ډیری نور. موږ ډیره سپارښتنه کوو چې تاسو د دې پرمختللی بڼو څخه ګټه واخلئ او ګټه پورته کړئ."
 
 msgid "settings_news-title"
-msgstr "د خبرونو ښودل د چلوونکو په اړه"
+msgstr "چلوونکو په اړه خبرونو ښکاره کړئ"
 
 msgid "settings_news-caption"
 msgstr "پدې برخه کې د نوو چلوونکو او وړتیاو خوشې کولو په اړه ګټور خبرونه شامل دي"
@@ -472,7 +473,7 @@ msgid "menu_system_properties"
 msgstr "د سیستم ځانتياوې"
 
 msgid "menu_display_properties"
-msgstr "شاخصونه"
+msgstr "د نندارې امستنې"
 
 msgid "menu_power_options"
 msgstr "د بریښنا انتخابونه"
@@ -496,31 +497,31 @@ msgid "menu_cmd"
 msgstr "د بولۍ کرښې"
 
 msgid "configurator-screen_downloading"
-msgstr ""
+msgstr "داؤنلوديږي: {{TOTAL_SIZE}} څخه {{DOWNLOADED_SIZE}}"
 
 msgid "configurator-screen_title"
-msgstr ""
+msgstr "ستاسو DriverPack Offline تعمير"
 
 msgid "configurator-screen_caption"
-msgstr ""
+msgstr "تاسو کولی شئ چي انټرنیټ پیوستون پرته د شتون چلونکو په ټاکلو له لارې خپل DriverPack تعمير داؤنلود کړئ."
 
 msgid "configurator-screen_btn"
-msgstr ""
+msgstr "DriverPack Offline داؤنلود کړئ –  {{COUNT}}"
 
 msgid "configurator-screen_completed"
-msgstr ""
+msgstr "داؤنلود اوشول"
 
 msgid "configurator-screen_open-downloads"
-msgstr ""
+msgstr "د داؤنلود پوښۍ پرانيزئ"
 
 msgid "configurator-screen_fail"
-msgstr ""
+msgstr "داؤنلود تېروتنه"
 
 msgid "configurator-screen_retry"
-msgstr ""
+msgstr "بله هڅه واخلئ"
 
 msgid "configurator-screen_params"
-msgstr ""
+msgstr "پاراميټرز داؤنلود کړئ"
 
 #. i18n: EN: text for {{LINK.EULA}} is in key confirm_popup_eula-link; text
 #. for {{LINK.POLICY}} is in key confirm_popup_policy-link; RU: текст для
@@ -552,7 +553,7 @@ msgid "confirm_popup_cancel_button"
 msgstr "انکار"
 
 msgid "confirm_popup_cancel_all_button"
-msgstr ""
+msgstr "ټولو سافټویرونو څخه انکار ({{COUNT}})"
 
 msgid "diagnostics_section_title"
 msgstr "د سیستم تشخیص"
@@ -636,7 +637,7 @@ msgid "drivers_screen_alternative"
 msgstr "بدیل چلونکي"
 
 msgid "drivers_screen_show"
-msgstr "ښودل"
+msgstr "ښکاره کړئ"
 
 #. i18n: EN: text for {{LINK}} is in key zero-drivers_cta-msg-caption-link;
 #. RU: текст для {{LINK}} находится в ключе zero-drivers_cta-msg-caption-link;
@@ -849,13 +850,13 @@ msgid "games_playkey_create_account_button"
 msgstr "په PlayKey کې یو حساب جوړ کړئ"
 
 msgid "gdpr-banner_text"
-msgstr ""
+msgstr "ستاسو آلي لپاره مناسب چلونکي غوره کولو لپاره موږ د ستاسو کمپيوتر معلومات د جواز د موافقه لیک شرایطو سره سم راټولو۔ مهرباني وکړئ د رضايت تصدیق وکړئ، او موږ به وکولی شو چي د کاريال مناسب عملیات وړاندې کړو."
 
 msgid "gdpr-banner_decline-btn"
-msgstr ""
+msgstr "رد کړئ"
 
 msgid "gdpr-banner_accept-btn"
-msgstr ""
+msgstr "تایید کړئ"
 
 msgid "header_authorize_button"
 msgstr "د ننه کیدل"
@@ -885,7 +886,7 @@ msgid "installation_header_title"
 msgstr "موږ ستاسو کمپیوټر ترتیب کوو ..."
 
 msgid "installation_header_promo_try"
-msgstr ""
+msgstr "هڅه وکړئ"
 
 msgid "installation_header_promo_more"
 msgstr "نور زده کړئ"
@@ -1149,7 +1150,7 @@ msgid "programs_header_text_caption"
 msgstr "د سافټویر پروګرامونو ته د اړتیا په نظر کې نیولو سره هیڅ یو اړتیا نشته. تاسو په اسانۍ سره په یو ټک کې هرڅه نصب کولی شئ."
 
 msgid "drivers_program_recommend"
-msgstr ""
+msgstr "د DriverPack لخوا وړاندیز شوی سافټویر"
 
 msgid "drivers_program_counter"
 msgstr "سپارښتلي سافټویر"
@@ -1170,13 +1171,13 @@ msgid "protect_row_install_date"
 msgstr "د لګولو نېټه:"
 
 msgid "protect_rating_level_large_appesteem"
-msgstr ""
+msgstr "غیر معمولي کاريال (دا %70 کاروونکي نالګولي)"
 
 msgid "protect_rating_level_large"
 msgstr "موږ سپارښتنه کوو چې تاسو دا لرې کړئ"
 
 msgid "protect_rating_level_middle_appesteem"
-msgstr ""
+msgstr "غیر معمولي کاريال"
 
 msgid "protect_rating_level_middle"
 msgstr "تاسو کولی شئ دا لیرې کړئ"
@@ -1185,7 +1186,7 @@ msgid "protect_rating_level_small"
 msgstr "تاسو کولی شئ دا وساتئ"
 
 msgid "protect_rating_level_large_caption_appesteem"
-msgstr ""
+msgstr "٪ 70 کاروونکي دا کاريال نه لګوي"
 
 msgid "protect_rating_level_large_caption"
 msgstr "موږ تاسو ته سپارښتنه کوو چې دا سافټویر لرې کړو ځکه چې د ټولو کاروونکو 70٪ یې لرې کړئ."
@@ -1218,10 +1219,10 @@ msgid "protect_installed_programs_title"
 msgstr "سافټویر په کمپیوټر کې نصب شوی"
 
 msgid "protect_installed_programs_switch_appesteem"
-msgstr ""
+msgstr "یوازي غیر معمولي کاريال ښکاره کړئ"
 
 msgid "protect_installed_programs_switch"
-msgstr "یوازې شکمن سافټویر ښودل"
+msgstr "یوازې شکمن سافټویر ښکاره کړئ"
 
 msgid "protect_show_more"
 msgstr "نور وګوره"
@@ -1239,7 +1240,7 @@ msgid "settings-screen_license"
 msgstr "د جواز تړون"
 
 msgid "start_button_install_drivers"
-msgstr ""
+msgstr "ټول چلوونکي نصب کړئ"
 
 msgid "start_button_install"
 msgstr "کمپیوټر په اتوماتیک ډول ترتیب کړئ"
@@ -1254,7 +1255,7 @@ msgid "start_expert_mode"
 msgstr "د ماهر ټکي"
 
 msgid "start_expert_mode_label"
-msgstr ""
+msgstr "پرمختللي امستنې"
 
 msgid "start_license"
 msgstr "د جواز تړون"
@@ -1268,15 +1269,15 @@ msgstr[0] "{{COUNT}} چلونکی به نصب شي "
 msgstr[1] "{{COUNT}} چلوونکي به نصب شي"
 
 msgid "start_drivers_utils_popover"
-msgstr ""
+msgstr "هعه چلوونکي او هعه چلوونکو وسایط چې ستاسو د کمپیوټر مناسب عملیات لپاره اړتيا لري ټاکل شوي دي او نصب کولو لپاره چمتو دي۔ د بیا رغونې ټیک به د مخه د نصب تناسب پیل شي."
 
 msgid "start_drivers_popover"
 msgstr "ستاسو د کمپیوټر چلوونکي ټاکل شوي او د نصب لپاره چمتو دي. مخکې له دې چې دا پیل شي، د بیا رغونې ټکی به رامینځ ته شي."
 
 msgid "start_programs_title_driver_utils"
 msgid_plural "start_programs_title_n"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{{COUNT}} چلوونکی وسيله به نصب شي"
+msgstr[1] " {{COUNT}} چلونکي وسایطو وسيلي به نصب شي"
 
 msgid "start_programs_title"
 msgid_plural "start_programs_title_n"
@@ -1404,10 +1405,10 @@ msgid "installation_header_promo_text_driverpack_for_all"
 msgstr "موږ داسې وسیله جوړه کړې چې د هر کمپیوټر بشپړ ډول اتوماتیک ترتیب ترتیبوي. DriverPack د یو میلیون څخه ډیر چلوونکي لري، کوم چې د یو کمپیوټر سره کوم کمپیوټر کنټرولوي. د پایلې په توګه تاسو نصب نصبونکي او وړتیاوې، په احتیاط غوره شوي سافټویر (کوم چې د تنظیم کولو یوه برخه ده)، او همداراز ستاسو د کمپیوټر تشخیصات ترلاسه کوي. دا پدې مانا ده چې DriverPack په چټکۍ سره ستاسو ټول کمپیوټر په یو د تڼۍ کلیک کولو سره د ډیرو موثریت سره سم ترتیبوي."
 
 msgid "installation_header_promo_title_istart"
-msgstr ""
+msgstr "ایا تاسو نوي ټیکنالوژي خوښوي؟ د ښه پیل ملاتړ اوکړئ"
 
 msgid "installation_header_promo_text_istart"
-msgstr ""
+msgstr "آیا تاسو فکر کوئ چې د لټون انجنونه زړه دي؟ که داسې وي، د يو ځوان iStart پرمختگپالونکي د ټیم چې د هغوی د منځپانګې د لټون خپل محتویات دي ملاتړ ئي اوکړئ: یوه ځانګړې لټون ډله، د اتوماتيک اعلان لرې کول،بېنوم — او دا ټول یوازې پیل دی۔ دا ټیکنالوژي د الفا ازموینې د پړاو له لارې روانه ده مګر دا د مخکې نه د هڅې لپاره شتون لري."
 
 msgid "softcategories_archiver-single-for"
 msgstr "دوتنه archiver"
