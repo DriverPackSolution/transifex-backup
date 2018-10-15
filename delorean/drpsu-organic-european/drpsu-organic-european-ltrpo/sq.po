@@ -1,12 +1,13 @@
 # Translators:
 # Nadia Tegeneva <nadia@drp.su>, 2018
+# Bledar Horeshka <bledar.horeshka@yandex.com>, 2018
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-04-20 12:53+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
-"Last-Translator: Nadia Tegeneva <nadia@drp.su>, 2018\n"
+"Last-Translator: Bledar Horeshka <bledar.horeshka@yandex.com>, 2018\n"
 "Language-Team: Albanian (https://www.transifex.com/driverpack-solution/teams/75453/sq/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -62,7 +63,7 @@ msgid "seo_mainos-description"
 msgstr ""
 
 msgid "seo_mainos-h1"
-msgstr ""
+msgstr "Drajvera për Windows {{OS.VERSION}}"
 
 msgid "seo_mainos-keywords"
 msgstr ""
@@ -125,7 +126,7 @@ msgstr ""
 #. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
 #. CLASS.PLURAL.FOR=мониторов|модемов;
 msgid "seo_deviceclass-h1"
-msgstr ""
+msgstr "Drajvera <span class='bold'>{{CLASS.SINGLE.FOR}}</span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
 #. CLASS.PLURAL.FOR=мониторов|модемов;
@@ -152,7 +153,7 @@ msgid "seo_vendors-description"
 msgstr ""
 
 msgid "seo_vendors-h1"
-msgstr ""
+msgstr "Prodhues hardueri"
 
 msgid "seo_vendors-keywords"
 msgstr ""
@@ -167,7 +168,7 @@ msgstr ""
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendor-h1"
-msgstr ""
+msgstr "Drajvera për pajisje <span class='bold'>{{VENDOR.NAME}}</span>"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendor-keywords"
@@ -194,7 +195,7 @@ msgstr ""
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendorlanding-h1"
-msgstr ""
+msgstr "Drajvera {{VENDOR.NAME}}"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendorlanding-keywords"
@@ -216,7 +217,7 @@ msgstr ""
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|monitors; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.FOR=видеокарт|мониторов; VENDOR.NAME=Acer;
 msgid "seo_devicegroups-h1"
-msgstr ""
+msgstr "Drajvera {{CLASS.SINGLE.FOR}} <span class='bold'>{{VENDOR.NAME}}</span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|monitors; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|мониторы; VENDOR.NAME=Acer;
@@ -262,7 +263,7 @@ msgstr ""
 #. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
 #. GROUP.NAME=GeForce 210;
 msgid "seo_devicegroup-h1"
-msgstr ""
+msgstr "Drajvera <span class='bold'>{{CLASS.SINGLE.FOR}}{{GROUP.NAME}}{{GROUP.VENDOR.NAME}}</span>"
 
 #. i18n: EN: Example: GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU:
 #. Пример: GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210;
@@ -302,7 +303,7 @@ msgid "seo_hwids-description"
 msgstr ""
 
 msgid "seo_hwids-h1"
-msgstr ""
+msgstr "Të gjithë drajverat për pajisjet"
 
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
@@ -341,7 +342,7 @@ msgid "seo_notebooks-description"
 msgstr ""
 
 msgid "seo_notebooks-h1"
-msgstr ""
+msgstr "Drajvera për laptopë dhe netbukë"
 
 msgid "seo_notebooks-keywords"
 msgstr ""
@@ -356,7 +357,7 @@ msgstr ""
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_notebookvendor-h1"
-msgstr ""
+msgstr "Drajvera për laptopë dhe netbukë <span class='bold'>{{VENDOR.NAME}}</span>"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_notebookvendor-keywords"
@@ -386,7 +387,7 @@ msgstr ""
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebook-h1"
-msgstr ""
+msgstr "Drajvera për laptopë <span class='bold'>{{NOTEBOOK.NAME}}{{NOTEBOOK.VENDOR.NAME}}</span>"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
@@ -432,7 +433,7 @@ msgstr ""
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 #. CLASS.PLURAL.FOR=видеокарт|звуковых карт;
 msgid "seo_notebookdevices-h1"
-msgstr ""
+msgstr "Drajvera për laptopë {{CLASS.SINGLE.FOR}}{{NOTEBOOK.NAME}}{{NOTEBOOK.VENDOR.NAME}}"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets;
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU: Пример:
@@ -477,7 +478,7 @@ msgid "seo_devicegroupos-description"
 msgstr ""
 
 msgid "seo_devicegroupos-h1"
-msgstr ""
+msgstr "Drajvera për Windows {{OS}}{{GROUP.NAME}}{{GROUP.VENDOR.NAME}}"
 
 msgid "seo_devicegroupos-keywords"
 msgstr ""
@@ -501,7 +502,7 @@ msgid "seo_notebookos-description"
 msgstr ""
 
 msgid "seo_notebookos-h1"
-msgstr ""
+msgstr "Drajvera laptopi për Windows {{OS}} {{NOTEBOOK.NAME}} {{NOTEBOOK.VENDOR.NAME}}"
 
 msgid "seo_notebookos-keywords"
 msgstr ""
@@ -525,7 +526,7 @@ msgid "seo_deviceclassos-description"
 msgstr ""
 
 msgid "seo_deviceclassos-h1"
-msgstr ""
+msgstr "Drajvera për Windows {{OS}} {{CLASS.SINGLE.FOR}}"
 
 msgid "seo_deviceclassos-keywords"
 msgstr ""
@@ -546,7 +547,7 @@ msgid "seo_devicegroupsos-description"
 msgstr ""
 
 msgid "seo_devicegroupsos-h1"
-msgstr ""
+msgstr "Drajvera për Windows {{OS}} {{CLASS.SINGLE.FOR}} {{VENDOR.NAME}}"
 
 msgid "seo_devicegroupsos-keywords"
 msgstr ""
@@ -570,7 +571,7 @@ msgid "seo_notebookvendoros-description"
 msgstr ""
 
 msgid "seo_notebookvendoros-h1"
-msgstr ""
+msgstr "Drajvera laptopi për Windows {{OS}} {{VENDOR.NAME}}"
 
 msgid "seo_notebookvendoros-keywords"
 msgstr ""
@@ -594,7 +595,7 @@ msgid "seo_hwidos-description"
 msgstr ""
 
 msgid "seo_hwidos-h1"
-msgstr ""
+msgstr "Drajver për {{DEVICE.DEVICEID}} për Windows {{OS}}"
 
 msgid "seo_hwidos-keywords"
 msgstr ""
@@ -612,7 +613,7 @@ msgid "seo_notebookdevicesos-description"
 msgstr ""
 
 msgid "seo_notebookdevicesos-h1"
-msgstr ""
+msgstr "Drajvera për {{CLASS.PLURAL.FOR}} për laptopë {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} me Windows {{OS}}"
 
 msgid "seo_notebookdevicesos-keywords"
 msgstr ""
