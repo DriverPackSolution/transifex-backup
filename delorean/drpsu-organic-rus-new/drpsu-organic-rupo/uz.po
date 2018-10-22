@@ -1,14 +1,14 @@
 # Translators:
 # Nadia Tegeneva <nadia@drp.su>, 2017
 # Shérov <azamat9006@mail.ru>, 2017
-# Abbosjon Kudratov <abbosjon1997@gmail.com>, 2018
+# Abbosjon Kudratov (AK) <abbosjon1997@gmail.com>, 2018
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-04-20 12:53+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
-"Last-Translator: Abbosjon Kudratov <abbosjon1997@gmail.com>, 2018\n"
+"Last-Translator: Abbosjon Kudratov (AK) <abbosjon1997@gmail.com>, 2018\n"
 "Language-Team: Uzbek (https://www.transifex.com/driverpack-solution/teams/75452/uz/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -177,18 +177,18 @@ msgstr ""
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendor-footer-description"
-msgstr ""
+msgstr "{{VENDOR.NAME}} qurilmalari uchun drayverlarni bepul yuklab olish"
 
 msgid "seo_vendor-footer-application-category"
-msgstr ""
+msgstr "Bo'lim: <span itemprop='applicationCategory'>qurilmalar</span>"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendor-footer-application-subcategory"
-msgstr ""
+msgstr "Kichik bo'lim: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} qurilmalari</span>"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendorlanding-title"
-msgstr ""
+msgstr "{{VENDOR.NAME}}  |  Windows 7, XP, 10, 8, 8.1 uchun drayverlarni yuklab olish"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendorlanding-description"
@@ -298,10 +298,10 @@ msgid "seo_devicegroup-footer-content"
 msgstr ""
 
 msgid "seo_hwids-title"
-msgstr ""
+msgstr "Drayverlarni yuklab olish Device ID bo'yicha | Sahifa {{PAGE}}"
 
 msgid "seo_hwids-description"
-msgstr ""
+msgstr "Drayverlarni yuklab olish Device ID bo'yicha"
 
 msgid "seo_hwids-h1"
 msgstr "Qurilmalar uchun barcha drayverlar"
@@ -362,18 +362,18 @@ msgstr "<span class='bold'>{{VENDOR.NAME}}</span> netbuk va noutbuklari uchun dr
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_notebookvendor-keywords"
-msgstr ""
+msgstr "drayverlar drivers noutbuk notebook laptop netbook netbuk Windows 7 8 10 64 yuklab olish download {{VENDOR.NAME}}"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_notebookvendor-footer-description"
-msgstr ""
+msgstr "{{VENDOR.NAME}} noutbuklari uchun drayverlarni yuklab oling"
 
 msgid "seo_notebookvendor-footer-application-category"
-msgstr ""
+msgstr "Bo'lim: <span itemprop='applicationCategory'>noutbuklar</span>"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_notebookvendor-footer-application-subcategory"
-msgstr ""
+msgstr "Kichik bo'lim: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} noutbuklari</span>"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
@@ -398,12 +398,12 @@ msgstr ""
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebook-footer-description"
-msgstr ""
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} noutbuklari uchun drayverlarni yuklab oling"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; RU: Пример:
 #. NOTEBOOK.VENDOR.NAME=Acer;
 msgid "seo_notebook-footer-application-category"
-msgstr ""
+msgstr "Bo'lim: <span itemprop='applicationCategory'>{{NOTEBOOK.VENDOR.NAME}} noutbuklari</span>"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
@@ -470,7 +470,7 @@ msgid "seo_notebookdevices-footer-content"
 msgstr ""
 
 msgid "seo_search-title"
-msgstr ""
+msgstr "{{QUERY}} jumlasi bo'yicha qidiruv natijalari | DriverPack Solution"
 
 msgid "seo_devicegroupos-title"
 msgstr ""
@@ -521,7 +521,7 @@ msgid "seo_notebookos-footer-content"
 msgstr ""
 
 msgid "seo_deviceclassos-title"
-msgstr ""
+msgstr "{{CLASS.PLURAL.FOR}} drayverlari Windows {{OS}} uchun | DriverPack Solution"
 
 msgid "seo_deviceclassos-description"
 msgstr ""
@@ -632,7 +632,7 @@ msgid "seo_notebookdevicesos-footer-content"
 msgstr ""
 
 msgid "seo_promopage_title"
-msgstr ""
+msgstr "DriverPack – drayverlarni bepul o'rnatish"
 
 msgid "seo_promo-description"
 msgstr ""
@@ -671,7 +671,7 @@ msgid "seo_forgamers-description"
 msgstr ""
 
 msgid "seo_forgamers-keywords"
-msgstr ""
+msgstr "videokarta drayverlari windows 7 64 8 10 yuklab olish download"
 
 msgid "seo_wannacrypt_title"
 msgstr ""
@@ -686,13 +686,13 @@ msgid "seo_badrabbit-description"
 msgstr ""
 
 msgid "seo_license_title"
-msgstr ""
+msgstr "Litsenziya shartnomasi | DriverPack Solution"
 
 msgid "seo_license-description"
 msgstr ""
 
 msgid "seo_license-keywords"
-msgstr ""
+msgstr "drayverlar bepul yuklab olish windows 7 XP 8 10 DriverPack Solution"
 
 msgid "seo_cloudlanding_title"
 msgstr "DriverPack Cloud - kompyuterning ish samarasini oshirish"
@@ -713,7 +713,7 @@ msgid "seo_cloudlicense-keywords"
 msgstr ""
 
 msgid "seo_standards_title"
-msgstr ""
+msgstr "Tavsiya etilgan dasturiy ta'minotlar standarti | DriverPack Solution"
 
 msgid "seo_standards-description"
 msgstr ""
