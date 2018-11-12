@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-07-04 13:20+0000\n"
-"PO-Revision-Date: 2018-08-14 12:40+0000\n"
+"PO-Revision-Date: 2018-10-21 20:45+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Hungarian (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/hu/)\n"
 "MIME-Version: 1.0\n"
@@ -504,10 +504,10 @@ msgid "configurator-screen_title"
 msgstr "A DriverPack Offline verziója"
 
 msgid "configurator-screen_caption"
-msgstr ""
+msgstr "Letöltheted a saját DriverPack verziódat, ha kiválasztod azokat az illesztőprogramokat, amelyeket szeretnéd, ha internetkapcsolat nélkül is elérhetők lennének."
 
 msgid "configurator-screen_btn"
-msgstr ""
+msgstr "DriverPack Offline letöltése – {{COUNT}}"
 
 msgid "configurator-screen_completed"
 msgstr "A letöltés elkészült"
@@ -851,7 +851,7 @@ msgid "games_playkey_create_account_button"
 msgstr "Create an account on the PlayKey"
 
 msgid "gdpr-banner_text"
-msgstr ""
+msgstr "A licensz egyezmény feltételei alapján adatokat gyűjtünk a számítógépedről, hogy a megfelelő illesztőprogramokat biztosíthassuk a készülékedre. Kérlek erősítsd meg a hozzájárulásodat, ezáltal pedig megfelelő működést biztosíthatunk az alkalmazásnak."
 
 msgid "gdpr-banner_decline-btn"
 msgstr "Elutasítás"
@@ -1172,13 +1172,13 @@ msgid "protect_row_install_date"
 msgstr "Telepítés dátuma:"
 
 msgid "protect_rating_level_large_appesteem"
-msgstr ""
+msgstr "Nem megszokott alkalmazás (a felhasználók 70%-a eltávolítja)"
 
 msgid "protect_rating_level_large"
 msgstr "azt tanácsoljuk, hogy távolítsa ezt el"
 
 msgid "protect_rating_level_middle_appesteem"
-msgstr ""
+msgstr "Nem megszokott alkalmazás"
 
 msgid "protect_rating_level_middle"
 msgstr "ezt eltávolíthatja"
@@ -1187,7 +1187,7 @@ msgid "protect_rating_level_small"
 msgstr "ezt megtarthatja"
 
 msgid "protect_rating_level_large_caption_appesteem"
-msgstr ""
+msgstr "a felhasználóink 70%-a eltávolítja"
 
 msgid "protect_rating_level_large_caption"
 msgstr "Azt tanácsoljuk, hogy távolítsa el ezt a szoftvert, mert az összes felhasználó 70% -a az eltávolítás mellett döntött."
@@ -1220,7 +1220,7 @@ msgid "protect_installed_programs_title"
 msgstr "A számítógépre telepített szoftverek"
 
 msgid "protect_installed_programs_switch_appesteem"
-msgstr ""
+msgstr "Csak a nem megszokott alkalmazásokat jeleníti meg"
 
 msgid "protect_installed_programs_switch"
 msgstr "Csak a gyanús szoftverek megjelenítése"
@@ -1241,7 +1241,7 @@ msgid "settings-screen_license"
 msgstr "Általános Szerződési Feltételek -kel."
 
 msgid "start_button_install_drivers"
-msgstr ""
+msgstr "Összes illesztőprogram telepítése"
 
 msgid "start_button_install"
 msgstr "A számítógép automatikus konfigurációja"
@@ -1256,7 +1256,7 @@ msgid "start_expert_mode"
 msgstr "Szakértő mód"
 
 msgid "start_expert_mode_label"
-msgstr ""
+msgstr "Haladó beállítások"
 
 msgid "start_license"
 msgstr "Általános Szerződési Feltételek -kel."
@@ -1270,15 +1270,15 @@ msgstr[0] "{{COUNT}} driver kerül telepítésre"
 msgstr[1] "{{COUNT}} driver kerül telepítésre"
 
 msgid "start_drivers_utils_popover"
-msgstr ""
+msgstr "A számítógéped megfelelő működéséhez kiválasztásra kerültek a szükséges illesztőprogramok és eszköztárak, és készen állnak a telepítésre. A visszaállítási pont a telepítés előtt létrehozásra kerül."
 
 msgid "start_drivers_popover"
 msgstr "A számítógépéhez kijelölt driverek készen állnak a telepítésre. Mielőtt elkezdődne a folyamat, egy visszaállítási pontot hozunk létre."
 
 msgid "start_programs_title_driver_utils"
 msgid_plural "start_programs_title_n"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{{COUNT}} illesztőprogram eszköztár kerül telepítésre"
+msgstr[1] "{{COUNT}} illesztőprogram eszköztár kerül telepítésre"
 
 msgid "start_programs_title"
 msgid_plural "start_programs_title_n"
@@ -1406,10 +1406,10 @@ msgid "installation_header_promo_text_driverpack_for_all"
 msgstr "Megalkottunk egy eszközt, mely lehetővé teszi bármely számítógép teljesen automatikus konfigurálását. A DriverPack egymilliónál is több drivert tartalmaz, egyetlen gombnyomással elvégezve bármely számítógép konfigurálását. Ennek eredményeképp a driverek és alkalmazások feltelepülnek,  köztük alaposan megválogatott szoftverek (fontos részét képezik a konfigurálásnak), illetve a diagnosztika is lefut. Ez azt jelenti, hogy a DriverPack egyetlen kattintással, gyorsan előkészíti a teljes gépet a maximális hatékonyság kihasználása érdekében."
 
 msgid "installation_header_promo_title_istart"
-msgstr ""
+msgstr "Kedveled az új technológiákat? Támogass egy jó startupot"
 
 msgid "installation_header_promo_text_istart"
-msgstr ""
+msgstr "Úgy gondolod, hogy a keresőmotorok is elavulttá váltak? Ha igen, támogasd az iStart fiatal fejlesztőcsapatát, akik sajátos módon tekintenek a tartalomkeresésre: egy egyedi keresési mód, automatikus hirdetés eltávolítás, anonimitás — és mindez csak a kezdet. A technológia jelenleg nyílt alfatesztelés alatt áll, de már kipróbálható."
 
 msgid "softcategories_archiver-single-for"
 msgstr "fájltömörítő"
