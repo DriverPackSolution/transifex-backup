@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-13 15:41+0000\n"
+"POT-Creation-Date: 2018-11-21 09:46+0000\n"
 "PO-Revision-Date: 2016-09-23 09:12+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -1058,17 +1058,20 @@ msgstr "Не началась загрузка? Нажмите {{LINK}}"
 msgid "thankyoupopup_licence-text"
 msgstr "Устанавливая программу, вы принимаете условия {{LINK}}"
 
+msgid "thankyoupopup_antivirus-not-know"
+msgstr "Некоторые антивирусы могут ложно среагировать на файл-установщик, например эти:"
+
+msgid "thankyoupopup_antivirus-know"
+msgstr "А эти антивирусы точно знают, что DriverPack — не вирус:"
+
 msgid "thankyoupopup_title"
 msgstr "Запустите DriverPack"
 
-msgid "thankyoupopup_cta-text"
-msgstr "чтобы начать подбор и установку драйверов на ваш компьютер"
+msgid "thankyoupopup_download-link"
+msgstr "скачать"
 
 msgid "thankyoupopup_licence-link"
 msgstr "Лицензионного соглашения"
-
-msgid "thankyoupopup_download-link"
-msgstr "скачать"
 
 msgid "translate-feedback-header_caption"
 msgstr "Эта страница недавно была переведена. Нашли опечатку? Выделите её и нажмите {{HOTKEY}}"
@@ -1105,3 +1108,12 @@ msgstr "Перевод DriverPack"
 
 msgid "vendorpage_subtitle-popular"
 msgstr "Популярные устройства {{VENDOR.NAME}}"
+
+#~ msgid "thankyoupopup_cta-text"
+#~ msgstr "чтобы начать подбор и установку драйверов на ваш компьютер"
+
+#~ msgid "devicecard_download-btn-online"
+#~ msgstr "Обновить автоматически"
+
+#~ msgid "drivercard_caption-btn-online"
+#~ msgstr "Обновить автоматически"
