@@ -17,6 +17,7 @@
 # ahmed sheme <ahmedsheme1975@gmail.com>, 2018
 # Nadia Tegeneva <nadia@drp.su>, 2018
 # Suhieb Haddad, 2018
+# Mohamed Karam <krmmhmd144@yahoo.com>, 2018
 # Leonid Beschasny <lbeschastny@iknow.travel>, 2017
 # Nadia Tegeneva <nadia@drp.su>, 2018
 # 
@@ -26,7 +27,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-11-21 09:46+0000\n"
 "PO-Revision-Date: 2016-12-16 14:30+0000\n"
-"Last-Translator: Suhieb Haddad, 2018\n"
+"Last-Translator: Mohamed Karam <krmmhmd144@yahoo.com>, 2018\n"
 "Language-Team: Arabic (https://www.transifex.com/driverpack-solution/teams/75453/ar/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -41,10 +42,10 @@ msgid "admincackle_dialog-star"
 msgstr "الرجاء قيم عملية DriverPack"
 
 msgid "admindriverpacks_landing-title"
-msgstr "  Driverpacks (حزم التعاريف)"
+msgstr "  Driverpacks ( حزم التعريفات )"
 
 msgid "admindriverpacks_landing-subtitle"
-msgstr "driverpacks يحتوي على {{COUNT}} تعريف والتي تم اختيارها واختبارها"
+msgstr "يحتوي driverpacks على {{COUNT}} تعريف والتي تم اختيارها واختبارها"
 
 msgid "admindriverpacks_download"
 msgstr "تحميل"
@@ -85,7 +86,7 @@ msgstr "{{VENDOR.NAME}}"
 
 #. i18n: EN: Example: VENDOR.NAME=Lenovo; RU: Пример: VENDOR.NAME=Lenovo;
 msgid "breadcrumbs_vendorlanding-text"
-msgstr "{{VENDOR.NAME}} التعاريف"
+msgstr "تعريفات {{VENDOR.NAME}}"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=cardreaders|monitors; RU: Пример:
 #. CLASS.PLURAL.MAIN=картридеры|мониторы;
@@ -108,7 +109,7 @@ msgstr "الحواسيب المحمولة "
 
 #. i18n: EN: Example: VENDOR.NAME=Asus; RU: Пример: VENDOR.NAME=Asus;
 msgid "breadcrumbs_notebookvendor-text"
-msgstr "{{VENDOR.NAME}} الحواسيب المحموله "
+msgstr "أجهزة لابتوب {{VENDOR.NAME}}"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=X1 carbon;
 #. RU: Пример: NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=X1 carbon;
@@ -123,14 +124,14 @@ msgid "breadcrumbs_notebookdevices-text"
 msgstr "{{CLASS.PLURAL.MAIN}} من {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} الحاسب المحمول"
 
 msgid "devicecard_download-btn"
-msgstr "تحميل التعريفات "
+msgstr "تحميل التعريف"
 
 #. i18n: EN: Example: NAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10 x86; Text
 #. for {{DOWNLOAD}} is in key drivercard_no-results_download-link; RU: Пример:
 #. NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10 x86; Текст для
 #. {{DOWNLOAD}} находится в ключе drivercard_no-results_download-link;
 msgid "devicecard_details_no-results-text"
-msgstr "التعريف الخاص بـ {{NAME}} Windows {{OSVERSIONS}} لم يتم العثور عليها بالفهرس. {{DOWNLOAD}} لاختيار التعريف تلقائياً."
+msgstr "التعريفات الخاصة بـ {{NAME}} Windows {{OSVERSIONS}} لم يتم العثور عليها بالفهرس. {{DOWNLOAD}} لاختيار التعريف تلقائياً."
 
 msgid "devicecard_details_no-results_download-link"
 msgstr "تحميل DriverPack"
@@ -223,7 +224,7 @@ msgid "deviceidheader_caption-many"
 msgstr "هذا الجهاز معروف أيضا بـ :"
 
 msgid "devicetypelist_title_os"
-msgstr "تعريف الجهاز في وضع {{OS}}"
+msgstr "تعريفات للأجهزة التي تعمل بنظام تشغيل {{OS}}"
 
 msgid "devicetypelist_title"
 msgstr "البحث عن تعريفات الجهاز "
@@ -416,7 +417,7 @@ msgid "landingproducts_item-title-network"
 msgstr "DriverPack Offline Network"
 
 msgid "landingproducts_item-description-network"
-msgstr "يحتوي على تعريفات مكونات الشبك (الشبكة المحلية/واي-فاي), يعمل دون الحاجة للإتصال بشبكة الإنترنت <span class='nobr'>({{SIZE}})</span>"
+msgstr "يحتوي على تعريفات مكونات الشبكة (الشبكة المحلية/واي-فاي), يعمل دون الحاجة للإتصال بشبكة الإنترنت <span class='nobr'>({{SIZE}})</span>"
 
 msgid "landingproducts_item-title-offline"
 msgstr "DriverPack Offline Full"
@@ -470,7 +471,7 @@ msgid "landingwizard_item-caption-setup"
 msgstr "هيئ جهاز الكمبيوتر الخاص بك بسهوله"
 
 msgid "landingwizard_item-caption-profit"
-msgstr "مرحا! الآن يعمل جهاز الكمبيوتر الخاص بي مثل العلامة التجارية الجديدة!"
+msgstr "مرحا! الآن يعمل جهاز الكمبيوتر الخاص بي مثل الجديد!"
 
 msgid "landingwizard_cta-btn"
 msgstr "تثبيت جميع التعريفات المطلوبه "
@@ -515,7 +516,7 @@ msgid "productlandingheader-network_cta-btn"
 msgstr "تحميل DriverPack Offline Network"
 
 msgid "productlandingheader-network_caption"
-msgstr "DriverPack Offline Network - كافة تعريفات المكونات الصلبة للشبك على الإنترنت في مكان واحد ({{SIZE}}). يتم تحميله بسرعة, ويتم تثبيته بشكل أسرع وأسرع! ريثما تتم إعادة تثبيت نظام التشغيل Windows, يقوم DriverPack Offline Network بضبط اعدادات المكونات الصلبة للشبك على الإنترنت ومن ثم يستخدم الإتصال بالإنترنت لتحميل باقي تعريفات الجهاز كله!"
+msgstr "DriverPack Offline Network - جميع تعريفات أجهزة الشبكة في مكان واحد ({{SIZE}}). يتم تحميله بسرعة, ويتم تثبيته بشكل أسرع! ريثما تتم إعادة تثبيت نظام التشغيل Windows, يقوم DriverPack Offline Network بضبط اعدادات أجهزة الشبكة للإتصال بالإنترنت ومن ثم يستخدم الإتصال بالإنترنت لتحميل باقي تعريفات الجهاز كله!"
 
 msgid "productlandingheader-offline_cta-btn"
 msgstr "تحميل DriverPack Offline Full"
@@ -524,7 +525,7 @@ msgid "productlandingheader-offline_caption"
 msgstr "DriverPack Offline Full - حزمة ضخمة بحجم {{SIZE}} لتثبيت التعريفات دون الحاجة للإتصال بالإنترنت. فقط قم بتحميل DriverPack Offline Full واختر ما يناسبك من مكتبتنا الضخمة للتعريفات المحدثة. مناسب جدا للمستخدمين الرئيسين للأجهزة."
 
 msgid "promoheader_os-versions"
-msgstr "البرنامج هو مناسب ل Windows 10, 8.1, 8, 7, Vista, XP"
+msgstr "البرنامج مناسب ل Windows 10, 8.1, 8, 7, Vista, XP"
 
 msgid "promoheader_uninstall"
 msgstr "ازاله DriverPack"
@@ -533,10 +534,10 @@ msgid "promoheader_cta-text-gamers"
 msgstr "جهاز الكمبيوتر الخاص بك هو أكثر قوة مما تظن: تحديث كافة برامج التشغيل مجانا"
 
 msgid "promoheader_cta-text-gamers-caption"
-msgstr "إذا كنت ترغب في ألعاب الكمبيوتر، فإننا ننصح بتحديث برامج التشغيل على جهاز الكمبيوتر الخاص بك في كثير من الأحيان للوصول إلى أعلى كفاءة ممكنة من الأجهزة الخاصة بك. ما يصل إلى 37٪ أكثر فبس - أفضل تجربة لعبة والإنجازات الجديدة مع DriverPack"
+msgstr "إذا كنت ترغب في ألعاب الكمبيوتر، فإننا ننصح بتحديث برامج التشغيل على جهاز الكمبيوتر الخاص بك في كثير من الأحيان للوصول إلى أعلى كفاءة ممكنة من الأجهزة الخاصة بك. ما يصل إلى 37٪ أكثر FPS - أفضل تجربة لعبة والإنجازات الجديدة مع DriverPack"
 
 msgid "promoheader_cta-text"
-msgstr "سيقوم DriverPack بتثبيت التعريفات وحل أية مشاكل متعلقة بها على أي نوع من الأجهزة"
+msgstr "سيقوم DriverPack بتثبيت التعريفات مجاناً وحل أية مشاكل متعلقة بها على أي نوع من الأجهزة"
 
 msgid "promoheader_cta-btn"
 msgstr "تثبيت جميع التعريفات المطلوبه "
@@ -769,7 +770,7 @@ msgid "deviceclasses_other-plural-for"
 msgstr "أجهزة أخري"
 
 msgid "searchheader_caption-subtitle"
-msgstr "البحث عن برنامج التشغيل على الاستعلام:"
+msgstr "البحث عن برنامج التشغيل في الفهرس :"
 
 msgid "searchheader_caption-filter-label"
 msgstr "سيتم تحميل برنامج التشغيل لنظام التشغيل الذي تم اختياره"
@@ -804,12 +805,12 @@ msgstr "كل الأنظمه"
 #. GeForce 205; Текст для {{DOWNLOAD}} находится в ключе searchresult_details-
 #. content_download-link
 msgid "searchresult_details-content-group-text"
-msgstr "{{DOWNLOAD}} من أجل تحديد وتثبيت التعريفات المطلوبة تلقائياً، أو انتقل إلى صفحة {{NOTEBOOK}} وحدد التعريف المطلوب يدويًا"
+msgstr "{{DOWNLOAD}} من أجل تحديد وتثبيت التعريفات المطلوبة تلقائياً، أو انتقل إلى صفحة {{DEVICE}} وحدد التعريف المطلوب يدويًا"
 
 #. i18n: EN: Example: CLASS.SINGLE.MAIN=monitor|chipset; COUNT=12; RU: Пример:
 #. CLASS.SINGLE.MAIN=монитор|чипсет; COUNT=12;
 msgid "searchresult_device"
-msgstr "{{CLASS.SINGLE.MAIN}} ({{COUNT}} تم العثور على نتائج)"
+msgstr "{{CLASS.SINGLE.MAIN}} ( تم العثور على {{COUNT}}من النتائج )"
 
 msgid "searchresult_details-content-text-many"
 msgstr "تم العثور على عدة برامج تشغيل مختلفة لهذا الجهاز"
@@ -1080,13 +1081,13 @@ msgid "thankyoupopup_licence-text"
 msgstr "بتثبيتك للبرنامج فانت تقبل ب {{LINK}} الشروط"
 
 msgid "thankyoupopup_antivirus-not-know"
-msgstr ""
+msgstr "يمكن لبعض برامج الحماية أن تعطي رد فعل خاطئ لملف التثبيت، كما يلي:"
 
 msgid "thankyoupopup_antivirus-know"
-msgstr ""
+msgstr "في حين أن برامج الحماية التالية تستطيع التعرف على أن DriverPack ليس برنامجا ضاراً :"
 
 msgid "thankyoupopup_title"
-msgstr "ابدا DriverPack"
+msgstr "إبدأ DriverPack"
 
 msgid "thankyoupopup_download-link"
 msgstr "تنزيل"
@@ -1104,7 +1105,7 @@ msgid "translate-feedback-form-popup_correct-title"
 msgstr "رجاء, وضح الخطأ بالتحديد, وقم باقتراح التصحيح الملائم:"
 
 msgid "translate-feedback-form-popup_submit"
-msgstr "ابعث"
+msgstr "إرسال"
 
 msgid "translate-feedback-popup_title-error"
 msgstr "هناك خطأ ما"
