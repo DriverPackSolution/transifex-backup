@@ -3,6 +3,7 @@
 # Admirand Nikolli <admirand01@gmail.com>, 2018
 # Niti10 <adnitkamberi10@gmail.com>, 2018
 # Bledar Horeshka <bledar.horeshka@yandex.com>, 2017
+# Kastriot Sherifi <ksherifi@gmail.com>, 2018
 # Mendur Berisha <mendurberisha@hotmail.com>, 2016
 # Nadia Tegeneva <nadia@drp.su>, 2017-2018
 # Niti10 <adnitkamberi10@gmail.com>, 2018
@@ -12,7 +13,7 @@ msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-07-04 13:20+0000\n"
-"PO-Revision-Date: 2018-10-16 11:08+0000\n"
+"PO-Revision-Date: 2018-11-26 07:09+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Albanian (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/sq/)\n"
 "MIME-Version: 1.0\n"
@@ -223,16 +224,16 @@ msgid "deviceclasses_other-plural-for"
 msgstr "pajisje të tjera"
 
 msgid "activate_recommendations_title_programs"
-msgstr ""
+msgstr "Rekomandimet tona tek softuerët është janë të ndaluar"
 
 msgid "activate_recommendations_title_protect"
-msgstr ""
+msgstr "Rekomandimet tona tek softuerët mbrojtës janë të ndaluar"
 
 msgid "activate_recommendations_button_programs"
-msgstr ""
+msgstr "Lejoni rekomandimet tona tek softuerët"
 
 msgid "activate_recommendations_button_protect"
-msgstr ""
+msgstr "Lejoni rekomandimet tona tek softuerët mbrojtës"
 
 msgid "programs_about"
 msgstr "Mëso më shumë"
@@ -241,7 +242,7 @@ msgid "programs_eula"
 msgstr "Marrëveshja e Licencës"
 
 msgid "programs_policy"
-msgstr ""
+msgstr "Rregullorja e Privatësisë"
 
 msgid "programs_btn_install_single"
 msgstr "instalo"
@@ -501,63 +502,63 @@ msgid "menu_cmd"
 msgstr "Linja e Komandës"
 
 msgid "configurator-screen_downloading"
-msgstr ""
+msgstr "Duke shkarkuar: {{DOWNLOADED_SIZE}} of {{TOTAL_SIZE}}"
 
 msgid "configurator-screen_title"
-msgstr ""
+msgstr "Ndërtimi i juaj i DriverPack Offline"
 
 msgid "configurator-screen_caption"
-msgstr ""
+msgstr "Ju mundeni të shkarkoni krijimin tuaj të DriverPack duke i seleksionuar ata drejtues të cilët do të jenë në dispozicion pa linjë të internetit."
 
 msgid "configurator-screen_btn"
-msgstr ""
+msgstr "Shkarko DriverPack Offline – {{COUNT}}"
 
 msgid "configurator-screen_completed"
-msgstr ""
+msgstr "Shkarkimi është bërë"
 
 msgid "configurator-screen_open-downloads"
-msgstr ""
+msgstr "Hapeni skedarin e shkarkimit"
 
 msgid "configurator-screen_fail"
-msgstr ""
+msgstr "Gabim gjatë shkarkimit"
 
 msgid "configurator-screen_retry"
-msgstr ""
+msgstr "Provo dhe njëherë"
 
 msgid "configurator-screen_params"
-msgstr ""
+msgstr "Parametrat e shkarkimit"
 
 #. i18n: EN: text for {{LINK.EULA}} is in key confirm_popup_eula-link; text
 #. for {{LINK.POLICY}} is in key confirm_popup_policy-link; RU: текст для
 #. {{LINK.EULA}} находится в ключе confirm_popup_eula-link; текст для
 #. {{LINK.POLICY}} находится в ключе confirm_popup_policy-link;
 msgid "confirm_popup_install_eula"
-msgstr ""
+msgstr "Unë pranoj të instaloj {{PROGRAM.NAME}}, dhe pranoj {{LINK.EULA}} and {{LINK.POLICY}}. Softueri ka mundësi të fshihet cdo moment nëpërmjet funksionit 'Add/Remove Software'."
 
 #. i18n: EN: text for {{LINK.EULA}} is in key confirm_popup_eula-link; text
 #. for {{LINK.POLICY}} is in key confirm_popup_policy-link; RU: текст для
 #. {{LINK.EULA}} находится в ключе confirm_popup_eula-link; текст для
 #. {{LINK.POLICY}} находится в ключе confirm_popup_policy-link;
 msgid "confirm_popup_eula"
-msgstr ""
+msgstr "Duke instaluar këtë softuer, ju pranoni {{LINK.EULA}} dhe {{LINK.POLICY}}."
 
 msgid "confirm_popup_eula-link"
-msgstr ""
+msgstr "Marrëveshja e Licencës së Përdoruesit"
 
 msgid "confirm_popup_policy-link"
-msgstr ""
+msgstr "Rregullorja e Privatësisë"
 
 msgid "confirm_popup_install_button"
-msgstr ""
+msgstr "Prano dhe Instalo"
 
 msgid "confirm_popup_title"
-msgstr ""
+msgstr "Instalimi i Softuerit"
 
 msgid "confirm_popup_cancel_button"
 msgstr "Refuzo"
 
 msgid "confirm_popup_cancel_all_button"
-msgstr ""
+msgstr "Refuzo të gjithë softuerët ({{COUNT}})"
 
 msgid "diagnostics_section_title"
 msgstr "Diagnostikimi i Sistemit"
@@ -989,7 +990,7 @@ msgid "installation_item_eula"
 msgstr "Marrëveshja e Licencës"
 
 msgid "installation_item_policy"
-msgstr ""
+msgstr "Rregullorja e Privatësisë"
 
 msgid "installation_error_download"
 msgstr "Shkarkimi dështoi"
@@ -1295,7 +1296,7 @@ msgid "start_programs_eula"
 msgstr "Marrëveshja e Licencës"
 
 msgid "start_programs_policy"
-msgstr ""
+msgstr "Rregullorja e Privatësisë"
 
 msgid "start_diagnostics_title"
 msgstr "Diagnostikime do të bëhen"

@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-07-04 13:20+0000\n"
-"PO-Revision-Date: 2018-08-14 12:51+0000\n"
-"Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
+"PO-Revision-Date: 2018-12-12 13:09+0000\n"
+"Last-Translator: danfong <danfong.hsieh@gmail.com>\n"
 "Language-Team: Chinese (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/zh/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -220,16 +220,16 @@ msgid "deviceclasses_other-plural-for"
 msgstr "其他裝置"
 
 msgid "activate_recommendations_title_programs"
-msgstr ""
+msgstr "我們對軟體的建議被停用"
 
 msgid "activate_recommendations_title_protect"
-msgstr ""
+msgstr "我們對保護軟體的建議被停用"
 
 msgid "activate_recommendations_button_programs"
-msgstr ""
+msgstr "啟用我們對軟體的建議"
 
 msgid "activate_recommendations_button_protect"
-msgstr ""
+msgstr "啟用我們對保護軟體的建議"
 
 msgid "programs_about"
 msgstr "了解更多資訊"
@@ -498,31 +498,31 @@ msgid "menu_cmd"
 msgstr "命令列"
 
 msgid "configurator-screen_downloading"
-msgstr ""
+msgstr "下載: {{DOWNLOADED_SIZE}} / {{TOTAL_SIZE}}"
 
 msgid "configurator-screen_title"
-msgstr ""
+msgstr "您的 DriverPack Offline 組建"
 
 msgid "configurator-screen_caption"
-msgstr ""
+msgstr "您可以透過選擇那些在沒有網路連線情況下可用的驅動程式來下載您自己的DriverPack 組建。"
 
 msgid "configurator-screen_btn"
-msgstr ""
+msgstr "下載 DriverPack Offline – {{COUNT}}"
 
 msgid "configurator-screen_completed"
-msgstr ""
+msgstr "下載完成"
 
 msgid "configurator-screen_open-downloads"
-msgstr ""
+msgstr "開啟下載資料夾"
 
 msgid "configurator-screen_fail"
 msgstr "下載發生錯誤"
 
 msgid "configurator-screen_retry"
-msgstr ""
+msgstr "再試一次"
 
 msgid "configurator-screen_params"
-msgstr ""
+msgstr "下載參數"
 
 #. i18n: EN: text for {{LINK.EULA}} is in key confirm_popup_eula-link; text
 #. for {{LINK.POLICY}} is in key confirm_popup_policy-link; RU: текст для
@@ -554,7 +554,7 @@ msgid "confirm_popup_cancel_button"
 msgstr "拒絕"
 
 msgid "confirm_popup_cancel_all_button"
-msgstr ""
+msgstr "拒絕所有軟體 ({{COUNT}})"
 
 msgid "diagnostics_section_title"
 msgstr "系統診斷"
@@ -846,13 +846,13 @@ msgid "games_playkey_create_account_button"
 msgstr "在 PlayKey 上建立帳戶"
 
 msgid "gdpr-banner_text"
-msgstr ""
+msgstr "我們根據授權合約條件收集有關您的電腦資料，以便為您的裝置選擇合適的驅動程式。請確認您的同意，我們將能夠提供應用程式的正常操作。"
 
 msgid "gdpr-banner_decline-btn"
-msgstr ""
+msgstr "拒絕"
 
 msgid "gdpr-banner_accept-btn"
-msgstr ""
+msgstr "確認"
 
 msgid "header_authorize_button"
 msgstr "登入"
@@ -882,7 +882,7 @@ msgid "installation_header_title"
 msgstr "正在組態您的電腦..."
 
 msgid "installation_header_promo_try"
-msgstr ""
+msgstr "試試吧"
 
 msgid "installation_header_promo_more"
 msgstr "了解更多"
@@ -1014,7 +1014,7 @@ msgid "installation_progress_downloading_of"
 msgstr "/"
 
 msgid "installation_progress_downloaded"
-msgstr ""
+msgstr "已下載:"
 
 msgid "installation_progress_stage_downloading"
 msgstr "載入中..."
@@ -1146,7 +1146,7 @@ msgid "programs_header_text_caption"
 msgstr "沒有必要再一個一個尋找軟體程式。您可以輕鬆地一鍵安裝所有內容。"
 
 msgid "drivers_program_recommend"
-msgstr ""
+msgstr "DriverPack 所建議的軟體"
 
 msgid "drivers_program_counter"
 msgstr "建議的軟體"
@@ -1167,13 +1167,13 @@ msgid "protect_row_install_date"
 msgstr "安裝日期:"
 
 msgid "protect_rating_level_large_appesteem"
-msgstr ""
+msgstr "不常見的應用程式 (70% 的使用者卸載它)"
 
 msgid "protect_rating_level_large"
 msgstr "建議您移除此"
 
 msgid "protect_rating_level_middle_appesteem"
-msgstr ""
+msgstr "不常見的應用程式"
 
 msgid "protect_rating_level_middle"
 msgstr "您可移除此"
@@ -1182,7 +1182,7 @@ msgid "protect_rating_level_small"
 msgstr "您可保留此"
 
 msgid "protect_rating_level_large_caption_appesteem"
-msgstr ""
+msgstr "我們的 70% 使用者卸載此應用程式"
 
 msgid "protect_rating_level_large_caption"
 msgstr "建議您刪除此軟體，因為 70% 的使用者將其刪除。"
@@ -1215,7 +1215,7 @@ msgid "protect_installed_programs_title"
 msgstr "已安裝在電腦上的軟體"
 
 msgid "protect_installed_programs_switch_appesteem"
-msgstr ""
+msgstr "僅顯示不常見的應用程式"
 
 msgid "protect_installed_programs_switch"
 msgstr "僅顯示可疑的軟體"
@@ -1236,7 +1236,7 @@ msgid "settings-screen_license"
 msgstr "授權合約"
 
 msgid "start_button_install_drivers"
-msgstr ""
+msgstr "安裝所有驅動程式"
 
 msgid "start_button_install"
 msgstr "自動配置電腦"
@@ -1251,7 +1251,7 @@ msgid "start_expert_mode"
 msgstr "專家模式"
 
 msgid "start_expert_mode_label"
-msgstr ""
+msgstr "進階設定"
 
 msgid "start_license"
 msgstr "授權合約"
@@ -1264,14 +1264,14 @@ msgid_plural "start_drivers_title_n"
 msgstr[0] "{{COUNT}} 個驅動程式將被安裝"
 
 msgid "start_drivers_utils_popover"
-msgstr ""
+msgstr "已選擇電腦正常執行所需的驅動程式和驅動程式工具包，並且可以隨時安裝。將在安裝開始之前建立還原點。"
 
 msgid "start_drivers_popover"
 msgstr "已選擇您電腦的驅動程式並準備安裝。在開始之前，將建立一個還原點。"
 
 msgid "start_programs_title_driver_utils"
 msgid_plural "start_programs_title_n"
-msgstr[0] ""
+msgstr[0] "{{COUNT}} 個驅動程式工具包將被安裝"
 
 msgid "start_programs_title"
 msgid_plural "start_programs_title_n"
@@ -1398,10 +1398,10 @@ msgid "installation_header_promo_text_driverpack_for_all"
 msgstr "我們已經建立了能夠使任何電腦的配置完全自動化的工具。DriverPack 包含超過一百萬個驅動程式，允許只需一個按鈕即可配置任何電腦。因此，您可以安裝驅動程式和公用程式，仔細選擇軟體(這是組態整合部分)以及電腦的診斷程序。這意味著，DriverPack 可以快速配置整個電腦，只需一個按鈕即可實現最高的效率。"
 
 msgid "installation_header_promo_title_istart"
-msgstr ""
+msgstr "您喜歡新技術嗎?支持是一個好的開始"
 
 msgid "installation_header_promo_text_istart"
-msgstr ""
+msgstr "您是否也認為搜索引擎已過時?如果是這樣，支持一個年輕的 iStart 開發團隊，他們對內容搜尋有自己的看法: 獨特的搜索範圍、自動刪除廣告、匿名 — 這一切只是一個開始。這項技術正在開放 Alpha 測試階段，但它已經可以嘗試了。"
 
 msgid "softcategories_archiver-single-for"
 msgstr "檔案壓縮程式"
