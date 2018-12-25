@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-04 13:20+0000\n"
+"POT-Creation-Date: 2018-12-25 17:54+0000\n"
 "PO-Revision-Date: 2016-10-06 15:15+0000\n"
 "Last-Translator: Muhammadjon Davlatov <davlatovmuhammadjon@gmail.com>, 2018\n"
 "Language-Team: Tajik (https://www.transifex.com/driverpack-solution/teams/75452/tg/)\n"
@@ -19,12 +19,6 @@ msgstr ""
 
 msgid "installation_close_confirm"
 msgstr "Шумо бовари доред, ки насбкуниро қатъ менамоед? Ин метавонад ба корношоямии компютер оварда расонад."
-
-msgid "authorize_failed"
-msgstr "Хатогии бақайдгири"
-
-msgid "unauthorize_failed"
-msgstr "Хатогии баромад"
 
 msgid "deviceclasses_bluetooth-single-main"
 msgstr "Таҷҳизоти Bluetooth"
@@ -457,6 +451,30 @@ msgstr "https://vk.com/topic-29220845_34743007"
 msgid "start_title_default_model"
 msgstr "компютери шумо"
 
+msgid "start_installation_option_mouse"
+msgstr ""
+
+msgid "start_installation_option_keyboard"
+msgstr ""
+
+msgid "start_installation_option_printer"
+msgstr ""
+
+msgid "start_installation_option_video"
+msgstr ""
+
+msgid "start_installation_option_sound"
+msgstr ""
+
+msgid "start_installation_option_usb"
+msgstr ""
+
+msgid "start_installation_option_webcam"
+msgstr ""
+
+msgid "start_installation_option_games"
+msgstr ""
+
 msgid "menu_create_recovery_point"
 msgstr "Сохтани нуқтаи барқароркунӣ"
 
@@ -495,6 +513,9 @@ msgstr "Менеҷери руйдод"
 
 msgid "menu_cmd"
 msgstr "Сатри фармон"
+
+msgid "start_license"
+msgstr "Иҷозатномаи шартномавӣ"
 
 msgid "configurator-screen_downloading"
 msgstr "Боркунии {{DOWNLOADED_SIZE}} аз {{TOTAL_SIZE}}"
@@ -650,14 +671,14 @@ msgstr "Ҳамаи драйверҳои даркор алакай насб шу�
 msgid "zero-drivers_cta-msg-caption-link"
 msgstr "Барқарор ё бозгашт кунед"
 
-msgid "zero-drivers_cta-btn"
-msgstr "Ба тозакунии компютер гузаштан"
+msgid "zero-drivers_support-btn"
+msgstr ""
+
+msgid "zero-drivers_all-drivers-btn"
+msgstr ""
 
 msgid "zero-drivers_footer_device-manager"
 msgstr "Диспечери дасгоҳ"
-
-msgid "zero-drivers_footer_support"
-msgstr "Дастгирии техникӣ"
 
 msgid "zero-drivers_footer_system-restore"
 msgstr "Барқарорсозии система"
@@ -783,6 +804,9 @@ msgstr "Драйверҳои даркорро насб кардан"
 
 msgid "loading_reboot"
 msgstr "Пас аз насби драйверҳо мо тавсия медиҳем, ки компютерро аз нав ба кор дароред"
+
+msgid "zero-drivers_footer_support"
+msgstr "Дастгирии техникӣ"
 
 msgid "final_aside_installed_drivers_title"
 msgid_plural "final_aside_installed_drivers_title_n"
@@ -1000,7 +1024,7 @@ msgid "installation_error_restore_disabled"
 msgstr "Хатоги: Аз танзимоти система ман шудааст"
 
 msgid "installation_error_restore_not_created"
-msgstr "Хатоги ҳангоми сохтан"
+msgstr ""
 
 msgid "installation_progress_stage_creating"
 msgstr "Соха шуда истодааст"
@@ -1043,6 +1067,15 @@ msgstr "Шумо бекор кардаед"
 
 msgid "installation_title_name"
 msgstr "Элементҳои насбкунӣ"
+
+msgid "restart_popup_title"
+msgstr ""
+
+msgid "restart_popup_caption"
+msgstr ""
+
+msgid "restart_popup_button"
+msgstr ""
 
 msgid "installation_item_description_restorepoint"
 msgstr "Агар ягон чиз нодуруст иҷро шавад, имконияти ба ҳолати қабли барқарор намудани системаро медиҳад."
@@ -1239,26 +1272,26 @@ msgstr "DriverPack махсус барои мутахассисон таҳия �
 msgid "settings-screen_license"
 msgstr "Иҷозатномаи шартномавӣ"
 
+msgid "start_caption_select_problems"
+msgstr ""
+
+msgid "start_button_problems_selected"
+msgstr ""
+
 msgid "start_button_install_drivers"
 msgstr "Ҳамаи драйверҳоро насб кардан"
 
 msgid "start_button_install"
-msgstr "Танзимоти автоматии компютер"
+msgstr ""
 
 msgid "start_title"
 msgstr "Танзимоти автоматии {{MODEL}}"
-
-msgid "start_caption"
-msgstr "DriverPack системаро ҷустуҷӯ карда, <br/>драйверҳо ва барномаҳои даркорро насб намуда таҳлил менамояд.<br/>Зудкории компютер бояд афзояд."
 
 msgid "start_expert_mode"
 msgstr "Ҳолати коршинос"
 
 msgid "start_expert_mode_label"
 msgstr "Танзимоти бештар"
-
-msgid "start_license"
-msgstr "Иҷозатномаи шартномавӣ"
 
 msgid "footer_site"
 msgstr "Несткунии DriverPack"
@@ -1470,3 +1503,17 @@ msgstr "Корти садои нодуруст пайваст шудааст ё 
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Tajik"
+
+#~ msgid "authorize_failed"
+#~ msgstr "Хатогии бақайдгири"
+
+#~ msgid "unauthorize_failed"
+#~ msgstr "Хатогии баромад"
+
+#~ msgid "zero-drivers_cta-btn"
+#~ msgstr "Ба тозакунии компютер гузаштан"
+
+#~ msgid "start_caption"
+#~ msgstr ""
+#~ "DriverPack системаро ҷустуҷӯ карда, <br/>драйверҳо ва барномаҳои даркорро "
+#~ "насб намуда таҳлил менамояд.<br/>Зудкории компютер бояд афзояд."

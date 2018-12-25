@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-04 13:20+0000\n"
+"POT-Creation-Date: 2018-12-25 17:54+0000\n"
 "PO-Revision-Date: 2016-02-25 10:55+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -15,12 +15,6 @@ msgstr ""
 
 msgid "installation_close_confirm"
 msgstr "Вы уверены, что хотите прервать установку? Это может привести к неработоспособности компьютера."
-
-msgid "authorize_failed"
-msgstr "Ошибка авторизации"
-
-msgid "unauthorize_failed"
-msgstr "Ошибка выхода"
 
 msgid "deviceclasses_bluetooth-single-main"
 msgstr "устройство Bluetooth"
@@ -453,6 +447,30 @@ msgstr "https://vk.com/topic-29220845_34743007"
 msgid "start_title_default_model"
 msgstr "вашего компьютера"
 
+msgid "start_installation_option_mouse"
+msgstr "Не работает мышь "
+
+msgid "start_installation_option_keyboard"
+msgstr "Не работает клавиатура"
+
+msgid "start_installation_option_printer"
+msgstr "Не работает принтер"
+
+msgid "start_installation_option_video"
+msgstr "Не работает видео"
+
+msgid "start_installation_option_sound"
+msgstr "Не работает звук"
+
+msgid "start_installation_option_usb"
+msgstr "Не работают USB-порты"
+
+msgid "start_installation_option_webcam"
+msgstr "Не работает веб-камера"
+
+msgid "start_installation_option_games"
+msgstr "Тормозят игры"
+
 msgid "menu_create_recovery_point"
 msgstr "Создать точку восстановления"
 
@@ -491,6 +509,9 @@ msgstr "Диспетчер задач"
 
 msgid "menu_cmd"
 msgstr "Командная строка"
+
+msgid "start_license"
+msgstr "Лицензионное соглашение"
 
 msgid "configurator-screen_downloading"
 msgstr "Скачивание {{DOWNLOADED_SIZE}} из {{TOTAL_SIZE}}"
@@ -646,14 +667,14 @@ msgstr "Все необходимые драйверы уже установле
 msgid "zero-drivers_cta-msg-caption-link"
 msgstr "переустановить или откатить драйверы"
 
-msgid "zero-drivers_cta-btn"
-msgstr "Перейти к очистке компьютера"
+msgid "zero-drivers_support-btn"
+msgstr "Связаться с техподдержкой"
+
+msgid "zero-drivers_all-drivers-btn"
+msgstr "Показать все драйверы"
 
 msgid "zero-drivers_footer_device-manager"
 msgstr "Диспетчер устройств"
-
-msgid "zero-drivers_footer_support"
-msgstr "Техподдержка"
 
 msgid "zero-drivers_footer_system-restore"
 msgstr "Восстановление системы"
@@ -787,6 +808,9 @@ msgstr "Установить важные драйверы"
 
 msgid "loading_reboot"
 msgstr "Рекомендуем перезагрузить компьютер после завершения установки"
+
+msgid "zero-drivers_footer_support"
+msgstr "Техподдержка"
 
 msgid "final_aside_installed_drivers_title"
 msgid_plural "final_aside_installed_drivers_title_n"
@@ -1006,7 +1030,7 @@ msgid "installation_error_restore_disabled"
 msgstr "Ошибка: Запрещено настройками системы"
 
 msgid "installation_error_restore_not_created"
-msgstr "Ошибка при создании"
+msgstr "Не создана"
 
 msgid "installation_progress_stage_creating"
 msgstr "Создается"
@@ -1049,6 +1073,15 @@ msgstr "Вы отменили"
 
 msgid "installation_title_name"
 msgstr "Элементы установки"
+
+msgid "restart_popup_title"
+msgstr "Для продолжения необходима перезагрузка"
+
+msgid "restart_popup_caption"
+msgstr "Компьютер будет перезагружен через {{REMAIN.TIME}}…"
+
+msgid "restart_popup_button"
+msgstr "Перезагрузить"
 
 msgid "installation_item_description_restorepoint"
 msgstr "Позволяет сделать откат системы к предыдущему состоянию, если что-то пойдет не так"
@@ -1245,26 +1278,26 @@ msgstr "DriverPack создан специально для профессион
 msgid "settings-screen_license"
 msgstr "Лицензионное соглашение"
 
+msgid "start_caption_select_problems"
+msgstr "Или выберите, что именно у вас не работает:"
+
+msgid "start_button_problems_selected"
+msgstr "Установить ({{COUNT}})"
+
 msgid "start_button_install_drivers"
 msgstr "Установить все драйверы"
 
 msgid "start_button_install"
-msgstr "Настроить компьютер автоматически"
+msgstr "Установить все автоматически"
 
 msgid "start_title"
 msgstr "Автоматическая настройка {{MODEL}}"
-
-msgid "start_caption"
-msgstr "DriverPack просканирует систему, установит необходимые<br/>драйверы, софт и произведёт диагностику.<br/>Производительность компьютера должна увеличиться."
 
 msgid "start_expert_mode"
 msgstr "Режим эксперта"
 
 msgid "start_expert_mode_label"
 msgstr "Расширенные настройки"
-
-msgid "start_license"
-msgstr "Лицензионное соглашение"
 
 msgid "footer_site"
 msgstr "Удаление DriverPack"
@@ -1482,3 +1515,18 @@ msgstr "Звуковая карта неправильно подключена 
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Russian"
+
+#~ msgid "authorize_failed"
+#~ msgstr "Ошибка авторизации"
+
+#~ msgid "unauthorize_failed"
+#~ msgstr "Ошибка выхода"
+
+#~ msgid "zero-drivers_cta-btn"
+#~ msgstr "Перейти к очистке компьютера"
+
+#~ msgid "start_caption"
+#~ msgstr ""
+#~ "DriverPack просканирует систему, установит необходимые<br/>драйверы, софт и "
+#~ "произведёт диагностику.<br/>Производительность компьютера должна "
+#~ "увеличиться."

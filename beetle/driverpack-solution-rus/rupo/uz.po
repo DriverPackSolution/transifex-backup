@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-04 13:20+0000\n"
+"POT-Creation-Date: 2018-12-25 17:54+0000\n"
 "PO-Revision-Date: 2016-10-06 15:15+0000\n"
 "Last-Translator: Olim Abduvohidov <olimabduvohidov@gmail.com>, 2018\n"
 "Language-Team: Uzbek (https://www.transifex.com/driverpack-solution/teams/75452/uz/)\n"
@@ -21,12 +21,6 @@ msgstr ""
 
 msgid "installation_close_confirm"
 msgstr "O'rnatishni to'xtatishga ishonchingiz komilmi? Bu kompyuteringiz ishdan chiqishiga olib kelishi mumkin."
-
-msgid "authorize_failed"
-msgstr "Avtorizatsiyada xatolik"
-
-msgid "unauthorize_failed"
-msgstr "Chiqishdagi xatolik"
 
 msgid "deviceclasses_bluetooth-single-main"
 msgstr "Bluetooth qurilmasi"
@@ -459,6 +453,30 @@ msgstr "https://vk.com/topic-29220845_34743007"
 msgid "start_title_default_model"
 msgstr "sizning kompyuteringizni"
 
+msgid "start_installation_option_mouse"
+msgstr ""
+
+msgid "start_installation_option_keyboard"
+msgstr ""
+
+msgid "start_installation_option_printer"
+msgstr ""
+
+msgid "start_installation_option_video"
+msgstr ""
+
+msgid "start_installation_option_sound"
+msgstr ""
+
+msgid "start_installation_option_usb"
+msgstr ""
+
+msgid "start_installation_option_webcam"
+msgstr ""
+
+msgid "start_installation_option_games"
+msgstr ""
+
 msgid "menu_create_recovery_point"
 msgstr "Tiklash nuqtasini yaratish"
 
@@ -497,6 +515,9 @@ msgstr "Topshiriqlar dispetcheri"
 
 msgid "menu_cmd"
 msgstr "Buyruqlar qatori"
+
+msgid "start_license"
+msgstr ""
 
 msgid "configurator-screen_downloading"
 msgstr "{{TOTAL_SIZE}} dan {{DOWNLOADED_SIZE}} yuklab olinmoqda"
@@ -652,14 +673,14 @@ msgstr "Barcha kerakli drayverlar o'rnatilgan"
 msgid "zero-drivers_cta-msg-caption-link"
 msgstr "Drayverlarni qaytadan qo'yish yoki orqaga qaytarish"
 
-msgid "zero-drivers_cta-btn"
-msgstr "Kompyuterni tozalashga o'tish"
+msgid "zero-drivers_support-btn"
+msgstr ""
+
+msgid "zero-drivers_all-drivers-btn"
+msgstr ""
 
 msgid "zero-drivers_footer_device-manager"
 msgstr "Qurilmalar dispetcheri"
-
-msgid "zero-drivers_footer_support"
-msgstr "Texyordam"
 
 msgid "zero-drivers_footer_system-restore"
 msgstr "Tizimni tiklash"
@@ -785,6 +806,9 @@ msgstr "Muhim drayverlarni o'rnating"
 
 msgid "loading_reboot"
 msgstr "O'rnatish tugaganidan so'ng kompyuterni qayta yuklashni maslahat beramiz"
+
+msgid "zero-drivers_footer_support"
+msgstr "Texyordam"
 
 msgid "final_aside_installed_drivers_title"
 msgid_plural "final_aside_installed_drivers_title_n"
@@ -1002,7 +1026,7 @@ msgid "installation_error_restore_disabled"
 msgstr "Xato: Tizim sozlamalari tomonidan ruxsat berilmagan"
 
 msgid "installation_error_restore_not_created"
-msgstr "Yasalishda xatolik"
+msgstr ""
 
 msgid "installation_progress_stage_creating"
 msgstr "Yasakmoqda"
@@ -1045,6 +1069,15 @@ msgstr "Siz bekor qildingiz"
 
 msgid "installation_title_name"
 msgstr "O'rnatish elementlari"
+
+msgid "restart_popup_title"
+msgstr ""
+
+msgid "restart_popup_caption"
+msgstr ""
+
+msgid "restart_popup_button"
+msgstr ""
 
 msgid "installation_item_description_restorepoint"
 msgstr "Biror narsa noto'g'ri bo'lsa, tizimni oldingi holatga qaytarib olish imkonini beradi"
@@ -1241,26 +1274,26 @@ msgstr "DriverPack professionallar uchun maxsus yaratilgan, lekin boshlang'ich f
 msgid "settings-screen_license"
 msgstr ""
 
+msgid "start_caption_select_problems"
+msgstr ""
+
+msgid "start_button_problems_selected"
+msgstr ""
+
 msgid "start_button_install_drivers"
 msgstr "Barcha drayverlarni o‘rnatish"
 
 msgid "start_button_install"
-msgstr "Kompyuterni avtomatik ravishda sozlash "
+msgstr ""
 
 msgid "start_title"
 msgstr " {{MODEL}} ni avtomatik ravishda sozlash "
-
-msgid "start_caption"
-msgstr "DriverPack tizimi tekshiradi, zarur drayverlar,<br/>dasturiy ta'minotni o'rnatadi va tashxisni amalga oshiradi.<br/>Kompyuterning ishlashi ortishi kerak."
 
 msgid "start_expert_mode"
 msgstr "Ekspert rejimi"
 
 msgid "start_expert_mode_label"
 msgstr "Kengaytirilgan sozlamalar"
-
-msgid "start_license"
-msgstr ""
 
 msgid "footer_site"
 msgstr "DriverPack’ni o‘chirish"
@@ -1471,3 +1504,18 @@ msgstr "Ovoz kartasi to'g'ri ulanmagan yoki uning ishlashi bilan bog'liq muammol
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Uzbek"
+
+#~ msgid "authorize_failed"
+#~ msgstr "Avtorizatsiyada xatolik"
+
+#~ msgid "unauthorize_failed"
+#~ msgstr "Chiqishdagi xatolik"
+
+#~ msgid "zero-drivers_cta-btn"
+#~ msgstr "Kompyuterni tozalashga o'tish"
+
+#~ msgid "start_caption"
+#~ msgstr ""
+#~ "DriverPack tizimi tekshiradi, zarur drayverlar,<br/>dasturiy ta'minotni "
+#~ "o'rnatadi va tashxisni amalga oshiradi.<br/>Kompyuterning ishlashi ortishi "
+#~ "kerak."
