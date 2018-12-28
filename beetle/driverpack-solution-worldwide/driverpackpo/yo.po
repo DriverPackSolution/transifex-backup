@@ -1,4 +1,5 @@
 # Translators:
+# 
 # Translators:
 # Adigun Olumide <adigunsamuel84@gmail.com>, 2017
 # Nadia Tegeneva <nadia@drp.su>, 2017-2018
@@ -8,8 +9,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-04 13:20+0000\n"
-"PO-Revision-Date: 2018-09-21 07:34+0000\n"
+"POT-Creation-Date: 2018-12-25 17:54+0000\n"
+"PO-Revision-Date: 2018-12-27 09:43+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Yoruba (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/yo/)\n"
 "MIME-Version: 1.0\n"
@@ -20,12 +21,6 @@ msgstr ""
 
 msgid "installation_close_confirm"
 msgstr "Njẹ o da ọ loju pe o fẹ lati dẹkun fifi sori ẹrọ naa? O le fa ki kọmputa rẹ ṣe alaiṣẹ."
-
-msgid "authorize_failed"
-msgstr "Aṣiṣe lati wole"
-
-msgid "unauthorize_failed"
-msgstr "Aṣiṣe lati jade"
 
 msgid "deviceclasses_bluetooth-single-main"
 msgstr "ero Bluetooth"
@@ -458,6 +453,30 @@ msgstr "https://vk.com/topic-29220845_34743007"
 msgid "start_title_default_model"
 msgstr "kọmputa rẹ"
 
+msgid "start_installation_option_mouse"
+msgstr ""
+
+msgid "start_installation_option_keyboard"
+msgstr ""
+
+msgid "start_installation_option_printer"
+msgstr ""
+
+msgid "start_installation_option_video"
+msgstr ""
+
+msgid "start_installation_option_sound"
+msgstr ""
+
+msgid "start_installation_option_usb"
+msgstr ""
+
+msgid "start_installation_option_webcam"
+msgstr ""
+
+msgid "start_installation_option_games"
+msgstr ""
+
 msgid "menu_create_recovery_point"
 msgstr "Ṣẹda Pada sipo"
 
@@ -496,6 +515,9 @@ msgstr "Oluṣakoso Iṣẹ"
 
 msgid "menu_cmd"
 msgstr "Laini Ilana"
+
+msgid "start_license"
+msgstr "Adehun Iwe-aṣẹ"
 
 msgid "configurator-screen_downloading"
 msgstr "Gbigba: {{DOWNLOADED_SIZE}} ti {{TOTAL_SIZE}}"
@@ -651,14 +673,14 @@ msgstr "Gbogbo awakọ ti a beere ti wa tẹlẹ ti fi sii"
 msgid "zero-drivers_cta-msg-caption-link"
 msgstr "tun firanṣẹ tabi sẹhin awọn awakọ"
 
-msgid "zero-drivers_cta-btn"
-msgstr "Lọ si imularada kọmputa"
+msgid "zero-drivers_support-btn"
+msgstr ""
+
+msgid "zero-drivers_all-drivers-btn"
+msgstr ""
 
 msgid "zero-drivers_footer_device-manager"
 msgstr "Ero iseakoso"
-
-msgid "zero-drivers_footer_support"
-msgstr "Oluranlowo lati tun nkan se"
 
 msgid "zero-drivers_footer_system-restore"
 msgstr "Imularada Eto"
@@ -780,6 +802,9 @@ msgstr "Fi awọn awakọ pataki sii"
 
 msgid "loading_reboot"
 msgstr "A ṣe iṣeduro fun ọ lati tun kọmputa rẹ bẹrẹ ni kete ti fifi sori ẹrọ pari"
+
+msgid "zero-drivers_footer_support"
+msgstr "Oluranlowo lati tun nkan se"
 
 msgid "final_aside_installed_drivers_title"
 msgid_plural "final_aside_installed_drivers_title_n"
@@ -996,7 +1021,7 @@ msgid "installation_error_restore_disabled"
 msgstr "Aṣiṣe: ewọ nipa eto eto"
 
 msgid "installation_error_restore_not_created"
-msgstr "Aṣiṣe Eda"
+msgstr ""
 
 msgid "installation_progress_stage_creating"
 msgstr "Ṣiṣẹda..."
@@ -1039,6 +1064,15 @@ msgstr "O ti fagile rẹ"
 
 msgid "installation_title_name"
 msgstr "Fifi sori awọn ohun kan"
+
+msgid "restart_popup_title"
+msgstr ""
+
+msgid "restart_popup_caption"
+msgstr ""
+
+msgid "restart_popup_button"
+msgstr ""
 
 msgid "installation_item_description_restorepoint"
 msgstr "O funni ni eto eto-pada-pada si ipo ti tẹlẹ ti nkan ti ko tọ"
@@ -1235,26 +1269,26 @@ msgstr "DriverPack ti ṣẹda pataki fun awọn admins ṣugbọn o ṣawari at
 msgid "settings-screen_license"
 msgstr "Adehun Iwe-aṣẹ"
 
+msgid "start_caption_select_problems"
+msgstr ""
+
+msgid "start_button_problems_selected"
+msgstr ""
+
 msgid "start_button_install_drivers"
 msgstr "Fi sori ẹrọ driver"
 
 msgid "start_button_install"
-msgstr "Ṣe atunto kọmputa naa laifọwọyi"
+msgstr ""
 
 msgid "start_title"
 msgstr "Atunto laifọwọyi ti Automatiс {{MODEL}}"
-
-msgid "start_caption"
-msgstr "DriverPack yoo ṣayẹwo eto naa, fi sori ẹrọ awọn ohun elo<br/>ti a beere ati software, ati ṣe awọn ayẹwo. <br/>Išisẹ kọmputa yẹ ki o mu."
 
 msgid "start_expert_mode"
 msgstr "Ipo Amoye"
 
 msgid "start_expert_mode_label"
 msgstr "ètò ipele to ga"
-
-msgid "start_license"
-msgstr "Adehun Iwe-aṣẹ"
 
 msgid "footer_site"
 msgstr "iyokuro DriverPack"
@@ -1463,6 +1497,3 @@ msgstr "Ti sopọ mọ kaadi ti o tọ, tabi awọn iṣoro diẹ pẹlu iṣel�
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Yoruba"
-
-#~ msgid "confirm_popup_install_button_ok"
-#~ msgstr "OK"

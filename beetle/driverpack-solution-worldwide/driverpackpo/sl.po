@@ -1,4 +1,5 @@
 # Translators:
+# 
 # Translators:
 # ales rakovic <alesrakovic96@gmail.com>, 2017
 # Marko <kadarkoli@gmail.com>, 2018
@@ -7,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-04 13:20+0000\n"
-"PO-Revision-Date: 2018-07-26 05:36+0000\n"
+"POT-Creation-Date: 2018-12-25 17:54+0000\n"
+"PO-Revision-Date: 2018-12-27 09:43+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Slovenian (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/sl/)\n"
 "MIME-Version: 1.0\n"
@@ -19,12 +20,6 @@ msgstr ""
 
 msgid "installation_close_confirm"
 msgstr "Ste prepričani da želite prekiniti nameščanje programa? To lahko povzroči težave z delovanjem vašega računalnika."
-
-msgid "authorize_failed"
-msgstr "Napaka pri prijavi"
-
-msgid "unauthorize_failed"
-msgstr "Napaka pri odjavi"
 
 msgid "deviceclasses_bluetooth-single-main"
 msgstr "naprava Bluetooth"
@@ -457,6 +452,30 @@ msgstr "https://vk.com/topic-29220845_34743007"
 msgid "start_title_default_model"
 msgstr "vaš računalnik"
 
+msgid "start_installation_option_mouse"
+msgstr ""
+
+msgid "start_installation_option_keyboard"
+msgstr ""
+
+msgid "start_installation_option_printer"
+msgstr ""
+
+msgid "start_installation_option_video"
+msgstr ""
+
+msgid "start_installation_option_sound"
+msgstr ""
+
+msgid "start_installation_option_usb"
+msgstr ""
+
+msgid "start_installation_option_webcam"
+msgstr ""
+
+msgid "start_installation_option_games"
+msgstr ""
+
 msgid "menu_create_recovery_point"
 msgstr "Ustvarite obnovitveno točko"
 
@@ -495,6 +514,9 @@ msgstr "Upravitelj opravil"
 
 msgid "menu_cmd"
 msgstr "Ukazna vrstica"
+
+msgid "start_license"
+msgstr "Licenčna pogodba"
 
 msgid "configurator-screen_downloading"
 msgstr "Prenos: {{DOWNLOADED_SIZE}} od {{TOTAL_SIZE}}"
@@ -650,14 +672,14 @@ msgstr "Vsi potrebni gonilniki so že nameščeni"
 msgid "zero-drivers_cta-msg-caption-link"
 msgstr "ponovna namestitev gonilnikov"
 
-msgid "zero-drivers_cta-btn"
-msgstr "Pojdite na čiščenje računalnika"
+msgid "zero-drivers_support-btn"
+msgstr ""
+
+msgid "zero-drivers_all-drivers-btn"
+msgstr ""
 
 msgid "zero-drivers_footer_device-manager"
 msgstr "Upravitelj naprav"
-
-msgid "zero-drivers_footer_support"
-msgstr "Tehnična podpora"
 
 msgid "zero-drivers_footer_system-restore"
 msgstr "System Recovery"
@@ -791,6 +813,9 @@ msgstr "Namesti pomembne gonilnike"
 
 msgid "loading_reboot"
 msgstr "Priporočamo vam ponovni zagon računalnika, takoj po končani namestitvi"
+
+msgid "zero-drivers_footer_support"
+msgstr "Tehnična podpora"
 
 msgid "final_aside_installed_drivers_title"
 msgid_plural "final_aside_installed_drivers_title_n"
@@ -1010,7 +1035,7 @@ msgid "installation_error_restore_disabled"
 msgstr "Napaka: prepoved zaradi sistemskih nastavitev"
 
 msgid "installation_error_restore_not_created"
-msgstr "Napaka pri ustvarjanju"
+msgstr ""
 
 msgid "installation_progress_stage_creating"
 msgstr "Ustvarjanje..."
@@ -1053,6 +1078,15 @@ msgstr "Preklicali ste"
 
 msgid "installation_title_name"
 msgstr "Namestitveni elementi"
+
+msgid "restart_popup_title"
+msgstr ""
+
+msgid "restart_popup_caption"
+msgstr ""
+
+msgid "restart_popup_button"
+msgstr ""
 
 msgid "installation_item_description_restorepoint"
 msgstr "Sistem omogoča vrnitev v prejšnje stanje, v primeru napake"
@@ -1249,26 +1283,26 @@ msgstr "DriverPack je bil ustvarjen posebej za skrbnike, vendar je jasen in upor
 msgid "settings-screen_license"
 msgstr "Licenčna pogodba"
 
+msgid "start_caption_select_problems"
+msgstr ""
+
+msgid "start_button_problems_selected"
+msgstr ""
+
 msgid "start_button_install_drivers"
 msgstr "Namestite vse gonilnike"
 
 msgid "start_button_install"
-msgstr " Samodejna nastavitev računalnika"
+msgstr ""
 
 msgid "start_title"
 msgstr "Avtomatična konfiguracija za {{MODEL}}"
-
-msgid "start_caption"
-msgstr "DriverPack bo skeniral sistem, namestil potrebne<br/>programe in programsko opremo ter opravil diagnostiko. <br/>Učinkovitost računalnika bi se morala povečati."
 
 msgid "start_expert_mode"
 msgstr "Napredni način"
 
 msgid "start_expert_mode_label"
 msgstr "Napredne nastavitve"
-
-msgid "start_license"
-msgstr "Licenčna pogodba"
 
 msgid "footer_site"
 msgstr "Odstranitev programa DriverPack"
@@ -1486,6 +1520,3 @@ msgstr "Zvočna kartica ni nepravilno priključena ali pa obstajajo težave z nj
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Slovenian"
-
-#~ msgid "confirm_popup_install_button_ok"
-#~ msgstr "OK"

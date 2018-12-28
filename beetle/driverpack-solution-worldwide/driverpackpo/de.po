@@ -1,4 +1,5 @@
 # Translators:
+# 
 # Translators:
 # Andreas Jacob <janetworkx@googlemail.com>, 2017
 # Kai Borchert <kai.borchert@outlook.com>, 2016-2017
@@ -10,8 +11,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-04 13:20+0000\n"
-"PO-Revision-Date: 2018-08-13 03:06+0000\n"
+"POT-Creation-Date: 2018-12-25 17:54+0000\n"
+"PO-Revision-Date: 2018-12-27 09:43+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: German (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/de/)\n"
 "MIME-Version: 1.0\n"
@@ -22,12 +23,6 @@ msgstr ""
 
 msgid "installation_close_confirm"
 msgstr "Sind Sie sicher, dass Sie die Installation unterbrechen wollen? Dies kann zur Fehlfunktion Ihres Computers führen."
-
-msgid "authorize_failed"
-msgstr "Anmeldefehler"
-
-msgid "unauthorize_failed"
-msgstr "Abmeldefehler"
 
 msgid "deviceclasses_bluetooth-single-main"
 msgstr "Bluetooth-Gerät"
@@ -460,6 +455,30 @@ msgstr "https://vk.com/topic-29220845_34743007"
 msgid "start_title_default_model"
 msgstr "Ihrem Computer"
 
+msgid "start_installation_option_mouse"
+msgstr ""
+
+msgid "start_installation_option_keyboard"
+msgstr ""
+
+msgid "start_installation_option_printer"
+msgstr ""
+
+msgid "start_installation_option_video"
+msgstr ""
+
+msgid "start_installation_option_sound"
+msgstr ""
+
+msgid "start_installation_option_usb"
+msgstr ""
+
+msgid "start_installation_option_webcam"
+msgstr ""
+
+msgid "start_installation_option_games"
+msgstr ""
+
 msgid "menu_create_recovery_point"
 msgstr "Wiederherstellungspunkt erstellen"
 
@@ -498,6 +517,9 @@ msgstr "Task Manager"
 
 msgid "menu_cmd"
 msgstr "Kommandozeile"
+
+msgid "start_license"
+msgstr "Lizenzvereinbarung"
 
 msgid "configurator-screen_downloading"
 msgstr "Downloade: {{DOWNLOADED_SIZE}} von {{TOTAL_SIZE}}"
@@ -653,14 +675,14 @@ msgstr "Alle benötigten Treiber sind bereits installiert"
 msgid "zero-drivers_cta-msg-caption-link"
 msgstr "die Treiber neu installierten oder zurückkehren"
 
-msgid "zero-drivers_cta-btn"
-msgstr "Zur Computerreinigung gehen"
+msgid "zero-drivers_support-btn"
+msgstr ""
+
+msgid "zero-drivers_all-drivers-btn"
+msgstr ""
 
 msgid "zero-drivers_footer_device-manager"
 msgstr "Geräte-Manager"
-
-msgid "zero-drivers_footer_support"
-msgstr "Technischer Support"
 
 msgid "zero-drivers_footer_system-restore"
 msgstr "Systemwiederherstellung"
@@ -786,6 +808,9 @@ msgstr "Wichtige Treiber installieren"
 
 msgid "loading_reboot"
 msgstr "Wir empfehlen Ihnen, Ihren Computer neu zu starten, sobald die Installation abgeschlossen ist"
+
+msgid "zero-drivers_footer_support"
+msgstr "Technischer Support"
 
 msgid "final_aside_installed_drivers_title"
 msgid_plural "final_aside_installed_drivers_title_n"
@@ -1003,7 +1028,7 @@ msgid "installation_error_restore_disabled"
 msgstr "Fehler: Verboten durch Systemeinstellungen"
 
 msgid "installation_error_restore_not_created"
-msgstr "Erstellungsfehler"
+msgstr ""
 
 msgid "installation_progress_stage_creating"
 msgstr "Erstellen..."
@@ -1046,6 +1071,15 @@ msgstr "Sie haben es abgebrochen"
 
 msgid "installation_title_name"
 msgstr "Installationselemente"
+
+msgid "restart_popup_title"
+msgstr ""
+
+msgid "restart_popup_caption"
+msgstr ""
+
+msgid "restart_popup_button"
+msgstr ""
 
 msgid "installation_item_description_restorepoint"
 msgstr "Es ermöglicht das Rückkehren in den vorherigen Zustand, falls etwas schief geht"
@@ -1242,26 +1276,26 @@ msgstr "DriverPack wurde speziell für Administratoren erstellt, ist aber klar u
 msgid "settings-screen_license"
 msgstr "Lizenzvereinbarung"
 
+msgid "start_caption_select_problems"
+msgstr ""
+
+msgid "start_button_problems_selected"
+msgstr ""
+
 msgid "start_button_install_drivers"
 msgstr "Installiere alle Treiber"
 
 msgid "start_button_install"
-msgstr "Computer automatisch konfigurieren"
+msgstr ""
 
 msgid "start_title"
 msgstr "Automatische Konfiguration von {{MODEL}}"
-
-msgid "start_caption"
-msgstr "DriverPack scannt das System, installiert die erforderlichen<br/>Treiber und Programme, und führt eine Diagnose durch. <br/>Die Effizienz des Computers sollte zunehmen."
 
 msgid "start_expert_mode"
 msgstr "Expertenmodus"
 
 msgid "start_expert_mode_label"
 msgstr "Erweiterte Einstellungen"
-
-msgid "start_license"
-msgstr "Lizenzvereinbarung"
 
 msgid "footer_site"
 msgstr "DriverPack entfernen"
@@ -1473,6 +1507,3 @@ msgstr "Die Soundkarte ist falsch angeschlossen, oder es gibt einige Probleme mi
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "German"
-
-#~ msgid "confirm_popup_install_button_ok"
-#~ msgstr "OK"

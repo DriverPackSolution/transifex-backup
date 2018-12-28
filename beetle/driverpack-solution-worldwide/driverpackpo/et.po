@@ -1,4 +1,5 @@
 # Translators:
+# 
 # Translators:
 # Nadia Tegeneva <nadia@drp.su>, 2018
 # Olavi Kurg <olavi.kurg@gmail.com>, 2016-2018
@@ -7,9 +8,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-04 13:20+0000\n"
-"PO-Revision-Date: 2018-07-13 04:07+0000\n"
-"Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
+"POT-Creation-Date: 2018-12-25 17:54+0000\n"
+"PO-Revision-Date: 2018-12-27 13:30+0000\n"
+"Last-Translator: Olavi Kurg <olavi.kurg@gmail.com>\n"
 "Language-Team: Estonian (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/et/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,12 +20,6 @@ msgstr ""
 
 msgid "installation_close_confirm"
 msgstr "Kas soovite tõesti peatada paigaldust? See võib tekitada arvutile rikke."
-
-msgid "authorize_failed"
-msgstr "Sisselogimis viga"
-
-msgid "unauthorize_failed"
-msgstr "Väljalogimis viga"
 
 msgid "deviceclasses_bluetooth-single-main"
 msgstr "Bluetoothi adapter"
@@ -457,6 +452,30 @@ msgstr "https://vk.com/topic-29220845_34743007"
 msgid "start_title_default_model"
 msgstr "teie arvuti"
 
+msgid "start_installation_option_mouse"
+msgstr "Hiir ei tööta"
+
+msgid "start_installation_option_keyboard"
+msgstr "Klaviatuur ei tööta"
+
+msgid "start_installation_option_printer"
+msgstr "Printer ei tööta"
+
+msgid "start_installation_option_video"
+msgstr "Video ei esitata"
+
+msgid "start_installation_option_sound"
+msgstr "Heli pole"
+
+msgid "start_installation_option_usb"
+msgstr "USB pordid ei tööta"
+
+msgid "start_installation_option_webcam"
+msgstr "Veebikaamera ei tööta"
+
+msgid "start_installation_option_games"
+msgstr "Mängud on aeglased"
+
 msgid "menu_create_recovery_point"
 msgstr "Loo taastepunkt"
 
@@ -495,6 +514,9 @@ msgstr "Protsessihaldur"
 
 msgid "menu_cmd"
 msgstr "Käsude rida"
+
+msgid "start_license"
+msgstr "Litsents"
 
 msgid "configurator-screen_downloading"
 msgstr "Allalaadimine: {{DOWNLOADED_SIZE}} , {{TOTAL_SIZE}} -st"
@@ -650,14 +672,14 @@ msgstr "Kõik vajalikud draiverid on juba paigaldatud"
 msgid "zero-drivers_cta-msg-caption-link"
 msgstr "paigaldage uuesti või pöörake tagasi oma draiverid"
 
-msgid "zero-drivers_cta-btn"
-msgstr "Mine arvutit puhastama"
+msgid "zero-drivers_support-btn"
+msgstr "Võtke ühendust tugiteenusega"
+
+msgid "zero-drivers_all-drivers-btn"
+msgstr "Näita kõiki draivereid"
 
 msgid "zero-drivers_footer_device-manager"
 msgstr "Seadmehaldur"
-
-msgid "zero-drivers_footer_support"
-msgstr "Tehniline tugi"
 
 msgid "zero-drivers_footer_system-restore"
 msgstr "Süsteemi taaste"
@@ -783,6 +805,9 @@ msgstr "Paigalda tähtsad draiverid"
 
 msgid "loading_reboot"
 msgstr "Soovitatav on arvuti taaskäivitamine peale draiverite edukat paigaldamist"
+
+msgid "zero-drivers_footer_support"
+msgstr "Tehniline tugi"
 
 msgid "final_aside_installed_drivers_title"
 msgid_plural "final_aside_installed_drivers_title_n"
@@ -1000,7 +1025,7 @@ msgid "installation_error_restore_disabled"
 msgstr "Viga: keelatud süsteemi seadete poolt"
 
 msgid "installation_error_restore_not_created"
-msgstr "Loomise viga"
+msgstr "Pole loodud"
 
 msgid "installation_progress_stage_creating"
 msgstr "Loon..."
@@ -1043,6 +1068,15 @@ msgstr "Olete loobunud sellest"
 
 msgid "installation_title_name"
 msgstr "Paigalduse detailid"
+
+msgid "restart_popup_title"
+msgstr "Jätkamiseks on vaja taaskäivitada"
+
+msgid "restart_popup_caption"
+msgstr "Teie arvuti taaskäivitatakse {{REMAIN.TIME}}..."
+
+msgid "restart_popup_button"
+msgstr "Taaskäivita"
 
 msgid "installation_item_description_restorepoint"
 msgstr "See lubab süsteemil pöörata tagasi eelmisesse töökorras olekusse, kui miski peaks valesti minema"
@@ -1239,26 +1273,26 @@ msgstr "DriverPack on loodud spetsiaalselt administraatoritele, kuid see on liht
 msgid "settings-screen_license"
 msgstr "Litsents"
 
+msgid "start_caption_select_problems"
+msgstr "Või, kontrollige mis täpsemalt ei tööta teie arvutis"
+
+msgid "start_button_problems_selected"
+msgstr "Paigalda ({{COUNT}})"
+
 msgid "start_button_install_drivers"
 msgstr "Paigalda kõik draiverid"
 
 msgid "start_button_install"
-msgstr "Seadista arvuti automaatselt"
+msgstr "Paigalda kõik automaatselt"
 
 msgid "start_title"
 msgstr "{{MODEL}} automaatne seadistamine"
-
-msgid "start_caption"
-msgstr "DriverPack analüüsib süsteemi, paigaldab vajalikud<br/>draiverid ja tarkvara, ning teeb diagnostikat. <br/>Arvuti tootlikus peaks tõusma."
 
 msgid "start_expert_mode"
 msgstr "Eksperdi režiim"
 
 msgid "start_expert_mode_label"
 msgstr "Täpsemad seaded"
-
-msgid "start_license"
-msgstr "Litsents"
 
 msgid "footer_site"
 msgstr "DriverPack eemaldamine"
@@ -1470,6 +1504,3 @@ msgstr "Teie helikaart on paigaldatud valesti, või on mingi muu viga, et ta ei 
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Estonian"
-
-#~ msgid "confirm_popup_install_button_ok"
-#~ msgstr "OK"

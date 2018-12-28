@@ -1,4 +1,5 @@
 # Translators:
+# 
 # Translators:
 # Milan Stevanović <miki.stevanovic802@gmail.com>, 2017
 # MILICA STOJANOVIC <ssmilica987@gmail.com>, 2017-2018
@@ -10,8 +11,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-04 13:20+0000\n"
-"PO-Revision-Date: 2018-09-17 09:06+0000\n"
+"POT-Creation-Date: 2018-12-25 17:54+0000\n"
+"PO-Revision-Date: 2018-12-27 09:43+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Serbian (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/sr/)\n"
 "MIME-Version: 1.0\n"
@@ -22,12 +23,6 @@ msgstr ""
 
 msgid "installation_close_confirm"
 msgstr "Da li ste sigurni da želite da prekinete instalaciju? To može dovesti do neispravnog rada računara ."
-
-msgid "authorize_failed"
-msgstr "Greška prilikom prijave"
-
-msgid "unauthorize_failed"
-msgstr "Greška prilikom odjave"
 
 msgid "deviceclasses_bluetooth-single-main"
 msgstr "Bluetooth uređaj"
@@ -460,6 +455,30 @@ msgstr "https://vk.com/topic-29220845_34743007"
 msgid "start_title_default_model"
 msgstr "vašeg računara"
 
+msgid "start_installation_option_mouse"
+msgstr ""
+
+msgid "start_installation_option_keyboard"
+msgstr ""
+
+msgid "start_installation_option_printer"
+msgstr ""
+
+msgid "start_installation_option_video"
+msgstr ""
+
+msgid "start_installation_option_sound"
+msgstr ""
+
+msgid "start_installation_option_usb"
+msgstr ""
+
+msgid "start_installation_option_webcam"
+msgstr ""
+
+msgid "start_installation_option_games"
+msgstr ""
+
 msgid "menu_create_recovery_point"
 msgstr "Napravite tačku vraćanja"
 
@@ -498,6 +517,9 @@ msgstr "Upravljanje zadacima"
 
 msgid "menu_cmd"
 msgstr "Komandna linija"
+
+msgid "start_license"
+msgstr "Ugovorna licenca"
 
 msgid "configurator-screen_downloading"
 msgstr "Preuzeto: {{DOWNLOADED_SIZE}} od {{TOTAL_SIZE}}"
@@ -653,14 +675,14 @@ msgstr "Svi potrebni drajveri su već instalirani"
 msgid "zero-drivers_cta-msg-caption-link"
 msgstr "ponovo instalirate ili vratite predhodne verzije drajvera"
 
-msgid "zero-drivers_cta-btn"
-msgstr "Posetite odeljak za pospremanje računara"
+msgid "zero-drivers_support-btn"
+msgstr ""
+
+msgid "zero-drivers_all-drivers-btn"
+msgstr ""
 
 msgid "zero-drivers_footer_device-manager"
 msgstr "Centar za upravljane uređajima"
-
-msgid "zero-drivers_footer_support"
-msgstr "Tehnička podrška"
 
 msgid "zero-drivers_footer_system-restore"
 msgstr "Oporavak sistema"
@@ -790,6 +812,9 @@ msgstr "Instalirajte neophodne drajvere"
 
 msgid "loading_reboot"
 msgstr "Preporučujemo da nakon instaliranja što pre restartujete računar"
+
+msgid "zero-drivers_footer_support"
+msgstr "Tehnička podrška"
 
 msgid "final_aside_installed_drivers_title"
 msgid_plural "final_aside_installed_drivers_title_n"
@@ -1008,7 +1033,7 @@ msgid "installation_error_restore_disabled"
 msgstr "Greška: zabranjena sistemskim podešavanjima"
 
 msgid "installation_error_restore_not_created"
-msgstr "Greška pri pravljenju"
+msgstr ""
 
 msgid "installation_progress_stage_creating"
 msgstr "Pravljenje..."
@@ -1051,6 +1076,15 @@ msgstr "Ovu stavku ste otkazali"
 
 msgid "installation_title_name"
 msgstr "Instaliranje stavki"
+
+msgid "restart_popup_title"
+msgstr ""
+
+msgid "restart_popup_caption"
+msgstr ""
+
+msgid "restart_popup_button"
+msgstr ""
 
 msgid "installation_item_description_restorepoint"
 msgstr "Ukoliko dođe do poteškoća u radu, omogućava povratak sistema na prethodno stanje"
@@ -1247,26 +1281,26 @@ msgstr "DriverPack je pre svega namenjen za administratore ali je jednostavan i 
 msgid "settings-screen_license"
 msgstr "Ugovorna licenca"
 
+msgid "start_caption_select_problems"
+msgstr ""
+
+msgid "start_button_problems_selected"
+msgstr ""
+
 msgid "start_button_install_drivers"
 msgstr "Instaliraj sve drajvere"
 
 msgid "start_button_install"
-msgstr "Podesite računar automatski"
+msgstr ""
 
 msgid "start_title"
 msgstr "Automatsko podešavanje {{MODEL}}"
-
-msgid "start_caption"
-msgstr "DriverPack će skenirati sistem, instalirati potrebne<br/>drajvere i softvere i izvršiti dijagnostiku. <br/>Efikasnost računara treba da se poveća."
 
 msgid "start_expert_mode"
 msgstr "Ekspertski režim"
 
 msgid "start_expert_mode_label"
 msgstr "Napredna podešavanja"
-
-msgid "start_license"
-msgstr "Ugovorna licenca"
 
 msgid "footer_site"
 msgstr "Uklanjanje DriverPack-a"
@@ -1481,6 +1515,3 @@ msgstr "Zvučna kartica je nepravilno povezana, ili postoje problemi sa njenim r
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Serbian"
-
-#~ msgid "confirm_popup_install_button_ok"
-#~ msgstr "OK"

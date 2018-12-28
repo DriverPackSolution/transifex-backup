@@ -1,4 +1,5 @@
 # Translators:
+# 
 # Translators:
 # Ashiq Khan <ashiqullahmg@gmail.com>, 2018
 # Hafeezullah Zubair <hafiz.zubiar1064@gmail.com>, 2018
@@ -7,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-04 13:20+0000\n"
-"PO-Revision-Date: 2018-09-26 09:42+0000\n"
+"POT-Creation-Date: 2018-12-25 17:54+0000\n"
+"PO-Revision-Date: 2018-12-27 09:43+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Pushto (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/ps/)\n"
 "MIME-Version: 1.0\n"
@@ -19,12 +20,6 @@ msgstr ""
 
 msgid "installation_close_confirm"
 msgstr "ایا تاسو ډاډه یاست چې تاسو د نصب کولو خنډ غواړئ دا کیدی شي ستاسو کمپیوټر د زیان منلو سبب شي."
-
-msgid "authorize_failed"
-msgstr "د ننوتلو تېروتنه"
-
-msgid "unauthorize_failed"
-msgstr "د وتلو تېروتنه"
 
 msgid "deviceclasses_bluetooth-single-main"
 msgstr "Bluetooth وسیله"
@@ -457,6 +452,30 @@ msgstr "https://vk.com/topic-29220845_34743007"
 msgid "start_title_default_model"
 msgstr "ستا کمپیوټر"
 
+msgid "start_installation_option_mouse"
+msgstr ""
+
+msgid "start_installation_option_keyboard"
+msgstr ""
+
+msgid "start_installation_option_printer"
+msgstr ""
+
+msgid "start_installation_option_video"
+msgstr ""
+
+msgid "start_installation_option_sound"
+msgstr ""
+
+msgid "start_installation_option_usb"
+msgstr ""
+
+msgid "start_installation_option_webcam"
+msgstr ""
+
+msgid "start_installation_option_games"
+msgstr ""
+
 msgid "menu_create_recovery_point"
 msgstr "د بیا رغونې پوائنټ جوړول"
 
@@ -495,6 +514,9 @@ msgstr "کاري مدیر"
 
 msgid "menu_cmd"
 msgstr "د بولۍ کرښې"
+
+msgid "start_license"
+msgstr "د جواز تړون"
 
 msgid "configurator-screen_downloading"
 msgstr "داؤنلوديږي: {{TOTAL_SIZE}} څخه {{DOWNLOADED_SIZE}}"
@@ -650,14 +672,14 @@ msgstr "ټول اړین موټر چلوونکي لا دمخه لا نصب شوي
 msgid "zero-drivers_cta-msg-caption-link"
 msgstr "بیا انسټال کړی او Driver بیرته وګرځوي"
 
-msgid "zero-drivers_cta-btn"
-msgstr "کمپیوټر پاکولو ته ولاړ شی"
+msgid "zero-drivers_support-btn"
+msgstr ""
+
+msgid "zero-drivers_all-drivers-btn"
+msgstr ""
 
 msgid "zero-drivers_footer_device-manager"
 msgstr "د ډاټا مدیر"
-
-msgid "zero-drivers_footer_support"
-msgstr "تخنیکی ملاتړ"
 
 msgid "zero-drivers_footer_system-restore"
 msgstr "د سیستم بیا رغونه"
@@ -783,6 +805,9 @@ msgstr "مهم ډریوران نصب کړئ"
 
 msgid "loading_reboot"
 msgstr "موږ سپارښتنه کوو چې ژر تر ژره ستاسو کمپیوټر بیا ځای پرځای کړئ"
+
+msgid "zero-drivers_footer_support"
+msgstr "تخنیکی ملاتړ"
 
 msgid "final_aside_installed_drivers_title"
 msgid_plural "final_aside_installed_drivers_title_n"
@@ -1000,7 +1025,7 @@ msgid "installation_error_restore_disabled"
 msgstr "تېروتنه: د سیسټم ترتیباتو لخوا منع شوی"
 
 msgid "installation_error_restore_not_created"
-msgstr "د جوړېدو تېروتنه"
+msgstr ""
 
 msgid "installation_progress_stage_creating"
 msgstr "جوړول ..."
@@ -1043,6 +1068,15 @@ msgstr "تاسو رد کړی دی"
 
 msgid "installation_title_name"
 msgstr "د لګولو توکي"
+
+msgid "restart_popup_title"
+msgstr ""
+
+msgid "restart_popup_caption"
+msgstr ""
+
+msgid "restart_popup_button"
+msgstr ""
 
 msgid "installation_item_description_restorepoint"
 msgstr "که چیرې یو څه غلط وي نو دا د سیسټم رول بیرته خپل پخواني حالت ته وړتیا ورکوي"
@@ -1239,26 +1273,26 @@ msgstr "DriverPack په ځانګړی توګه د دښمنانو لپاره جو�
 msgid "settings-screen_license"
 msgstr "د جواز تړون"
 
+msgid "start_caption_select_problems"
+msgstr ""
+
+msgid "start_button_problems_selected"
+msgstr ""
+
 msgid "start_button_install_drivers"
 msgstr "ټول چلوونکي نصب کړئ"
 
 msgid "start_button_install"
-msgstr "کمپیوټر په اتوماتیک ډول ترتیب کړئ"
+msgstr ""
 
 msgid "start_title"
 msgstr "اتوماتیک ترتیب کول {{MODEL}}"
-
-msgid "start_caption"
-msgstr "DriverPack د سیسټم سکینټ به اړین وي<br/>چلونکي او سافټویر، او تشخیص ترسره کوي. <br/>د کمپیوټر موثریت باید زیاتوالی ومومي."
 
 msgid "start_expert_mode"
 msgstr "د ماهر ټکي"
 
 msgid "start_expert_mode_label"
 msgstr "پرمختللي امستنې"
-
-msgid "start_license"
-msgstr "د جواز تړون"
 
 msgid "footer_site"
 msgstr "DriverPack لیرې کول"
@@ -1470,6 +1504,3 @@ msgstr "د غږ کارت په ناسمه توګه منحل شوی، یا د هغ
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Pushto"
-
-#~ msgid "confirm_popup_install_button_ok"
-#~ msgstr "OK"

@@ -1,4 +1,5 @@
 # Translators:
+# 
 # Translators:
 # Henry Venema <henryvenema@hotmail.com>, 2017-2018
 # Nadia Tegeneva <nadia@drp.su>, 2017
@@ -9,8 +10,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-04 13:20+0000\n"
-"PO-Revision-Date: 2018-07-10 07:22+0000\n"
+"POT-Creation-Date: 2018-12-25 17:54+0000\n"
+"PO-Revision-Date: 2018-12-27 14:55+0000\n"
 "Last-Translator: Henry Venema <henryvenema@hotmail.com>\n"
 "Language-Team: Dutch (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/nl/)\n"
 "MIME-Version: 1.0\n"
@@ -21,12 +22,6 @@ msgstr ""
 
 msgid "installation_close_confirm"
 msgstr "Weet u zeker dat u de installatie wilt onderbreken? Het kan ertoe leiden dat uw computer slecht gaat functioneren."
-
-msgid "authorize_failed"
-msgstr "Login fout"
-
-msgid "unauthorize_failed"
-msgstr "Uitlog fout"
 
 msgid "deviceclasses_bluetooth-single-main"
 msgstr "Bluetooth apparaat"
@@ -459,6 +454,30 @@ msgstr "https://vk.com/topic-29220845_34743007"
 msgid "start_title_default_model"
 msgstr "uw computer"
 
+msgid "start_installation_option_mouse"
+msgstr "Muis werkt niet"
+
+msgid "start_installation_option_keyboard"
+msgstr "Toetsenbord werkt niet"
+
+msgid "start_installation_option_printer"
+msgstr "Printer werkt niet"
+
+msgid "start_installation_option_video"
+msgstr "Video kan niet afspelen"
+
+msgid "start_installation_option_sound"
+msgstr "Geen geluid"
+
+msgid "start_installation_option_usb"
+msgstr "USB-poorten werken niet"
+
+msgid "start_installation_option_webcam"
+msgstr "Webcam werkt niet"
+
+msgid "start_installation_option_games"
+msgstr "Spellen worden vertraagt"
+
 msgid "menu_create_recovery_point"
 msgstr "Maak herstelpunt"
 
@@ -497,6 +516,9 @@ msgstr "Taakbeheer"
 
 msgid "menu_cmd"
 msgstr "Opdrachtregel"
+
+msgid "start_license"
+msgstr "Licentieovereenkomst"
 
 msgid "configurator-screen_downloading"
 msgstr "Downloading: {{DOWNLOADED_SIZE}} van {{TOTAL_SIZE}}"
@@ -652,14 +674,14 @@ msgstr "Alle vereiste drivers zijn al geïnstalleerd"
 msgid "zero-drivers_cta-msg-caption-link"
 msgstr "herinstalleer of zet de drivers terug"
 
-msgid "zero-drivers_cta-btn"
-msgstr "Ga naar computer opruimen"
+msgid "zero-drivers_support-btn"
+msgstr "Ondersteunings-contact"
+
+msgid "zero-drivers_all-drivers-btn"
+msgstr "Toon alle drivers"
 
 msgid "zero-drivers_footer_device-manager"
 msgstr "Apparaat beheerder"
-
-msgid "zero-drivers_footer_support"
-msgstr "Technische hulp"
 
 msgid "zero-drivers_footer_system-restore"
 msgstr "Systeemherstel"
@@ -785,6 +807,9 @@ msgstr "Installeer belangrijke drivers"
 
 msgid "loading_reboot"
 msgstr "We raden u aan om uw computer opnieuw op te starten zodra de installatie is voltooid"
+
+msgid "zero-drivers_footer_support"
+msgstr "Technische hulp"
 
 msgid "final_aside_installed_drivers_title"
 msgid_plural "final_aside_installed_drivers_title_n"
@@ -1002,7 +1027,7 @@ msgid "installation_error_restore_disabled"
 msgstr "Fout: niet toegestaan door systeeminstellingen"
 
 msgid "installation_error_restore_not_created"
-msgstr "Aanmaak fout"
+msgstr "Niet gemaakt"
 
 msgid "installation_progress_stage_creating"
 msgstr "Aanmaken..."
@@ -1045,6 +1070,15 @@ msgstr "U heeft het geannuleerd"
 
 msgid "installation_title_name"
 msgstr "Installatie objekten"
+
+msgid "restart_popup_title"
+msgstr "Herstart is nodig om verder te gaan"
+
+msgid "restart_popup_caption"
+msgstr "Uw computer wordt herstart over {{REMAIN.TIME}}…"
+
+msgid "restart_popup_button"
+msgstr "Herstart"
 
 msgid "installation_item_description_restorepoint"
 msgstr "Het zet een systeem terug naar de vorige staat als er iets misgaat"
@@ -1241,26 +1275,26 @@ msgstr "DriverPack is speciaal gemaakt voor professionals, maar is ook helder en
 msgid "settings-screen_license"
 msgstr "Licentieovereenkomst"
 
+msgid "start_caption_select_problems"
+msgstr "Of controleer wat er precies niet werkt op uw pc"
+
+msgid "start_button_problems_selected"
+msgstr "Installeer ({{COUNT}})"
+
 msgid "start_button_install_drivers"
 msgstr "Installeer alle drivers"
 
 msgid "start_button_install"
-msgstr "Configureer de computer automatisch"
+msgstr "Installeer alles automatisch"
 
 msgid "start_title"
 msgstr "Automatische configuratie van{{MODEL}}"
-
-msgid "start_caption"
-msgstr "DriverPack zal het systeem scannen, het installeert de vereiste<br/>drivers & software en diagnostiek uitvoeren. <br/> De efficiëntie van de computer zou moeten toenemen."
 
 msgid "start_expert_mode"
 msgstr "Expert modus"
 
 msgid "start_expert_mode_label"
 msgstr "Geavanceerde instellingen"
-
-msgid "start_license"
-msgstr "Licentieovereenkomst"
 
 msgid "footer_site"
 msgstr "DriverPack verwijderen"
@@ -1472,6 +1506,3 @@ msgstr "De geluidskaart is verkeerd aangesloten of er zijn problemen met de werk
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Dutch"
-
-#~ msgid "confirm_popup_install_button_ok"
-#~ msgstr "OK"

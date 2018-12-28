@@ -1,4 +1,5 @@
 # Translators:
+# 
 # Translators:
 # Arzu Babayev <babayev.arzu@gmail.com>, 2017-2018
 # İsmət Sadıqov <ismet.sadiqov@gmail.com>, 2017-2018
@@ -8,8 +9,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-04 13:20+0000\n"
-"PO-Revision-Date: 2018-08-25 06:08+0000\n"
+"POT-Creation-Date: 2018-12-25 17:54+0000\n"
+"PO-Revision-Date: 2018-12-27 09:43+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Azerbaijani (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/az/)\n"
 "MIME-Version: 1.0\n"
@@ -20,12 +21,6 @@ msgstr ""
 
 msgid "installation_close_confirm"
 msgstr "Quraşdırmanı dayandırmaq istədiyinizə əminsiniz? Bu sizin kompüterinizə zərər yetirə bilər."
-
-msgid "authorize_failed"
-msgstr "Daxil olma xətası"
-
-msgid "unauthorize_failed"
-msgstr "Hesabdan çıxma xətası"
 
 msgid "deviceclasses_bluetooth-single-main"
 msgstr "Bluetooth cihazı"
@@ -458,6 +453,30 @@ msgstr "https://vk.com/topic-29220845_34743007"
 msgid "start_title_default_model"
 msgstr "kompüteriniz"
 
+msgid "start_installation_option_mouse"
+msgstr ""
+
+msgid "start_installation_option_keyboard"
+msgstr ""
+
+msgid "start_installation_option_printer"
+msgstr ""
+
+msgid "start_installation_option_video"
+msgstr ""
+
+msgid "start_installation_option_sound"
+msgstr ""
+
+msgid "start_installation_option_usb"
+msgstr ""
+
+msgid "start_installation_option_webcam"
+msgstr ""
+
+msgid "start_installation_option_games"
+msgstr ""
+
 msgid "menu_create_recovery_point"
 msgstr "Bərpa Nöqtədi Yarat"
 
@@ -496,6 +515,9 @@ msgstr "Tapşırıq Idarəçisi"
 
 msgid "menu_cmd"
 msgstr "Əmr Sətiri"
+
+msgid "start_license"
+msgstr "Lisenziya Müqaviləsi"
 
 msgid "configurator-screen_downloading"
 msgstr "Endirilir: {{DOWNLOADED_SIZE}} / {{TOTAL_SIZE}}"
@@ -651,14 +673,14 @@ msgstr "Bütün lazımi driverlər quraşdırılmışdır"
 msgid "zero-drivers_cta-msg-caption-link"
 msgstr "driverləri yenidən quraşdıra bilər ya da geri qaytara bilərsiniz"
 
-msgid "zero-drivers_cta-btn"
-msgstr "Kompüter tənzimlənməsini açın"
+msgid "zero-drivers_support-btn"
+msgstr ""
+
+msgid "zero-drivers_all-drivers-btn"
+msgstr ""
 
 msgid "zero-drivers_footer_device-manager"
 msgstr "Qurğu idaraedicisi"
-
-msgid "zero-drivers_footer_support"
-msgstr "Texniki Dəstək"
 
 msgid "zero-drivers_footer_system-restore"
 msgstr "Sistem Xilas etmə"
@@ -784,6 +806,9 @@ msgstr "Əhəmiyyətli driverləri quraşdır"
 
 msgid "loading_reboot"
 msgstr "Quraşdırma başa çatan kimi kompüterinizi yenidən başlatmağınızı tövsiyyə edirik"
+
+msgid "zero-drivers_footer_support"
+msgstr "Texniki Dəstək"
 
 msgid "final_aside_installed_drivers_title"
 msgid_plural "final_aside_installed_drivers_title_n"
@@ -1001,7 +1026,7 @@ msgid "installation_error_restore_disabled"
 msgstr "Xəta: sistem tərəfindən qadağan ediliib"
 
 msgid "installation_error_restore_not_created"
-msgstr "Yaratma Xətası"
+msgstr ""
 
 msgid "installation_progress_stage_creating"
 msgstr "Yaradılır..."
@@ -1044,6 +1069,15 @@ msgstr "Ləğv etdiniz"
 
 msgid "installation_title_name"
 msgstr "Quraşdırma elementləri"
+
+msgid "restart_popup_title"
+msgstr ""
+
+msgid "restart_popup_caption"
+msgstr ""
+
+msgid "restart_popup_button"
+msgstr ""
 
 msgid "installation_item_description_restorepoint"
 msgstr "XƏta yaranarsa bir sistemi əvvəlki vəziyyətə qaytarmanı aktivləşdir"
@@ -1240,26 +1274,26 @@ msgstr "DriverPack xüusislə idarəçilər üçün yaradılmışdır ancaq təc
 msgid "settings-screen_license"
 msgstr "Lisenziya Müqaviləsi"
 
+msgid "start_caption_select_problems"
+msgstr ""
+
+msgid "start_button_problems_selected"
+msgstr ""
+
 msgid "start_button_install_drivers"
 msgstr "Bütün driverləri quraşdır"
 
 msgid "start_button_install"
-msgstr "Kompüteri avtomatik tənzimlə"
+msgstr ""
 
 msgid "start_title"
 msgstr "{{MODEL}} avtomatik olaraq tənzimlənir"
-
-msgid "start_caption"
-msgstr "DriverPack, sistemi analiz edəcək, lazımi driverləri və <br/>proqramı quraşdıracaq və diaqnostikalar edəcək. <br/>Kompüterin məhsuldarlığı artmalıdır."
 
 msgid "start_expert_mode"
 msgstr "Ekspert Rejimi"
 
 msgid "start_expert_mode_label"
 msgstr "Geniş Tənzimləmələr"
-
-msgid "start_license"
-msgstr "Lisenziya Müqaviləsi"
 
 msgid "footer_site"
 msgstr "DriverPack silmə"
@@ -1471,6 +1505,3 @@ msgstr "Səs kartı yanlış olaraq bağlanıb ya da işləməsi ilə bağlı pr
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Azerbaijani"
-
-#~ msgid "confirm_popup_install_button_ok"
-#~ msgstr "OK"

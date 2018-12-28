@@ -1,4 +1,5 @@
 # Translators:
+# 
 # Translators:
 # Abdullah Faridee <ju81@ymail.com>, 2016-2018
 # Akash Sarker <akash01731@gmail.com>, 2017
@@ -9,9 +10,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-04 13:20+0000\n"
-"PO-Revision-Date: 2018-11-18 18:51+0000\n"
-"Last-Translator: Abdullah Faridee <ju81@ymail.com>\n"
+"POT-Creation-Date: 2018-12-25 17:54+0000\n"
+"PO-Revision-Date: 2018-12-27 09:43+0000\n"
+"Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Bengali (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/bn/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -21,12 +22,6 @@ msgstr ""
 
 msgid "installation_close_confirm"
 msgstr "ইন্সটলেশন বাধাগ্রস্ত করার বিষয়ে আপনি নিশ্চিত? এতে আপনার কম্পিউটার ব্যবহারের অনুপযোগী হতে পারে।"
-
-msgid "authorize_failed"
-msgstr "লগ-ইন সমস্যা"
-
-msgid "unauthorize_failed"
-msgstr "লগ-আউট সমস্যা"
 
 msgid "deviceclasses_bluetooth-single-main"
 msgstr "ব্লুটুথ ডিভাইস"
@@ -459,6 +454,30 @@ msgstr "https://vk.com/topic-29220845_34743007"
 msgid "start_title_default_model"
 msgstr "আপনার কম্পিউটার"
 
+msgid "start_installation_option_mouse"
+msgstr ""
+
+msgid "start_installation_option_keyboard"
+msgstr ""
+
+msgid "start_installation_option_printer"
+msgstr ""
+
+msgid "start_installation_option_video"
+msgstr ""
+
+msgid "start_installation_option_sound"
+msgstr ""
+
+msgid "start_installation_option_usb"
+msgstr ""
+
+msgid "start_installation_option_webcam"
+msgstr ""
+
+msgid "start_installation_option_games"
+msgstr ""
+
 msgid "menu_create_recovery_point"
 msgstr "রিস্টোর পয়েন্ট তৈরি করো"
 
@@ -497,6 +516,9 @@ msgstr "টাস্ক ম্যানেজার"
 
 msgid "menu_cmd"
 msgstr "কমান্ড লাইন"
+
+msgid "start_license"
+msgstr "লাইসেন্স চুক্তি"
 
 msgid "configurator-screen_downloading"
 msgstr "ডাউনলোড হচ্ছে: {{TOTAL_SIZE}} এর মধ্যে {{DOWNLOADED_SIZE}}"
@@ -652,14 +674,14 @@ msgstr "দরকারি সব ড্রাইভার ইতোমধ্য
 msgid "zero-drivers_cta-msg-caption-link"
 msgstr "ড্রাইভারসমূহ আবার ইন্সটল করো বা গুটিয়ে নাও"
 
-msgid "zero-drivers_cta-btn"
-msgstr "কম্পিউটার ক্লিনআপ এ যাও"
+msgid "zero-drivers_support-btn"
+msgstr ""
+
+msgid "zero-drivers_all-drivers-btn"
+msgstr ""
 
 msgid "zero-drivers_footer_device-manager"
 msgstr "ডিভাইস ম্যানেজার"
-
-msgid "zero-drivers_footer_support"
-msgstr "কারিগরি সহায়তা"
 
 msgid "zero-drivers_footer_system-restore"
 msgstr "সিস্টেম পুনরুদ্ধার"
@@ -785,6 +807,9 @@ msgstr "গুরুত্বপূর্ণ ড্রাইভারসমূ�
 
 msgid "loading_reboot"
 msgstr "ইনস্টলেশন শেষ হওয়ার সাথে সাথে কম্পিউটার রিস্টার্ট করতে সুপারিশ করছি"
+
+msgid "zero-drivers_footer_support"
+msgstr "কারিগরি সহায়তা"
 
 msgid "final_aside_installed_drivers_title"
 msgid_plural "final_aside_installed_drivers_title_n"
@@ -1002,7 +1027,7 @@ msgid "installation_error_restore_disabled"
 msgstr "ত্রুটি: সিস্টেম সেটিংস্‌ থেকে নিষিদ্ধ"
 
 msgid "installation_error_restore_not_created"
-msgstr "তৈরি করাকালীন সমস্যা"
+msgstr ""
 
 msgid "installation_progress_stage_creating"
 msgstr "তৈরি করা হচ্ছে..."
@@ -1045,6 +1070,15 @@ msgstr "আপনি এটি বাতিল করেছেন"
 
 msgid "installation_title_name"
 msgstr "যেসব আইটেম ইন্সটল হবে"
+
+msgid "restart_popup_title"
+msgstr ""
+
+msgid "restart_popup_caption"
+msgstr ""
+
+msgid "restart_popup_button"
+msgstr ""
 
 msgid "installation_item_description_restorepoint"
 msgstr "কোনো ভুল হলে এটি সিস্টেমকে আগের অবস্থায় নিয়ে যাওয়ার সুবিধা সক্রিয় করে"
@@ -1241,26 +1275,26 @@ msgstr "DriverPack বিশেষভাবে অ্যাডমিনদের
 msgid "settings-screen_license"
 msgstr "লাইসেন্স চুক্তি"
 
+msgid "start_caption_select_problems"
+msgstr ""
+
+msgid "start_button_problems_selected"
+msgstr ""
+
 msgid "start_button_install_drivers"
 msgstr "সব ড্রাইভার ইন্সটল করো"
 
 msgid "start_button_install"
-msgstr "স্বয়ংক্রিয়ভাবে কম্পিউটার কনফিগার করো"
+msgstr ""
 
 msgid "start_title"
 msgstr "{{MODEL}} এর স্বয়ংক্রিয় কনফিগারেশন "
-
-msgid "start_caption"
-msgstr "DriverPack সিস্টেমটি খুঁটিয়ে দেখবে, দরকারি ড্রাইভারসমূহ <br/>ও সফটওয়্যার ইন্সটল করবে, এবং ডায়াগনস্টিকস্‌ সম্পন্ন করবে। <br/>কম্পিউটারের কার্যকরতা বৃদ্ধি পাওয়া উচিত।"
 
 msgid "start_expert_mode"
 msgstr "অভিজ্ঞ মোড"
 
 msgid "start_expert_mode_label"
 msgstr "উচ্চতর সেটিংস্‌"
-
-msgid "start_license"
-msgstr "লাইসেন্স চুক্তি"
 
 msgid "footer_site"
 msgstr "DriverPack অপসারণ"
@@ -1472,6 +1506,3 @@ msgstr "সাউন্ড কার্ডটি ভুলভাবে সংয
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Bengali"
-
-#~ msgid "confirm_popup_install_button_ok"
-#~ msgstr "OK"

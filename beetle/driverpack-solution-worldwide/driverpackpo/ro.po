@@ -1,4 +1,5 @@
 # Translators:
+# 
 # Translators:
 # Andrei-Marian Maior <maior_andrei1998@yahoo.com>, 2017
 # Cetina Alexandru <cetina_alexandru95@yahoo.com>, 2017-2018
@@ -8,8 +9,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-04 13:20+0000\n"
-"PO-Revision-Date: 2018-08-14 12:37+0000\n"
+"POT-Creation-Date: 2018-12-25 17:54+0000\n"
+"PO-Revision-Date: 2018-12-27 09:43+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Romanian (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/ro/)\n"
 "MIME-Version: 1.0\n"
@@ -20,12 +21,6 @@ msgstr ""
 
 msgid "installation_close_confirm"
 msgstr "Sunteți sigur că doriți întreruperea instalării? Este posibilă cauzarea unor defecțiuni computerului."
-
-msgid "authorize_failed"
-msgstr "Eroare la Conectare"
-
-msgid "unauthorize_failed"
-msgstr "Eroare la Deconectare"
 
 msgid "deviceclasses_bluetooth-single-main"
 msgstr "Dispozitiv Bluetooth"
@@ -458,6 +453,30 @@ msgstr "https://vk.com/topic-29220845_34743007"
 msgid "start_title_default_model"
 msgstr "computerul dvs."
 
+msgid "start_installation_option_mouse"
+msgstr ""
+
+msgid "start_installation_option_keyboard"
+msgstr ""
+
+msgid "start_installation_option_printer"
+msgstr ""
+
+msgid "start_installation_option_video"
+msgstr ""
+
+msgid "start_installation_option_sound"
+msgstr ""
+
+msgid "start_installation_option_usb"
+msgstr ""
+
+msgid "start_installation_option_webcam"
+msgstr ""
+
+msgid "start_installation_option_games"
+msgstr ""
+
 msgid "menu_create_recovery_point"
 msgstr "Creare Punct Restaurare"
 
@@ -496,6 +515,9 @@ msgstr "Manager de activități"
 
 msgid "menu_cmd"
 msgstr "Linie de comandă"
+
+msgid "start_license"
+msgstr "Termeni și Condiții"
 
 msgid "configurator-screen_downloading"
 msgstr ""
@@ -651,14 +673,14 @@ msgstr "Toate driverele necesare sunt deja instalate"
 msgid "zero-drivers_cta-msg-caption-link"
 msgstr "reinstalați sau restabiliți driverele"
 
-msgid "zero-drivers_cta-btn"
-msgstr "Mergeți la curățarea computerului"
+msgid "zero-drivers_support-btn"
+msgstr ""
+
+msgid "zero-drivers_all-drivers-btn"
+msgstr ""
 
 msgid "zero-drivers_footer_device-manager"
 msgstr "Manager Dispozitive"
-
-msgid "zero-drivers_footer_support"
-msgstr "Suport Tehnic"
 
 msgid "zero-drivers_footer_system-restore"
 msgstr "Recuperare sistem"
@@ -788,6 +810,9 @@ msgstr "Instalați drivere importante"
 
 msgid "loading_reboot"
 msgstr "Vă recomandăm să reporniți computerul de îndată ce instalarea este finalizată"
+
+msgid "zero-drivers_footer_support"
+msgstr "Suport Tehnic"
 
 msgid "final_aside_installed_drivers_title"
 msgid_plural "final_aside_installed_drivers_title_n"
@@ -1006,7 +1031,7 @@ msgid "installation_error_restore_disabled"
 msgstr "Eroare: interzis de setările de sistem"
 
 msgid "installation_error_restore_not_created"
-msgstr "Eroare la creare"
+msgstr ""
 
 msgid "installation_progress_stage_creating"
 msgstr "Creare..."
@@ -1049,6 +1074,15 @@ msgstr "L-aţi anulat"
 
 msgid "installation_title_name"
 msgstr "Elemente de instalare"
+
+msgid "restart_popup_title"
+msgstr ""
+
+msgid "restart_popup_caption"
+msgstr ""
+
+msgid "restart_popup_button"
+msgstr ""
 
 msgid "installation_item_description_restorepoint"
 msgstr "Aceasta permite sistemului să revină la starea sa anterioară dacă ceva nu merge bine"
@@ -1245,26 +1279,26 @@ msgstr "DriverPack a fost creat special pentru administratori, dar este clar și
 msgid "settings-screen_license"
 msgstr "Termeni și Condiții"
 
+msgid "start_caption_select_problems"
+msgstr ""
+
+msgid "start_button_problems_selected"
+msgstr ""
+
 msgid "start_button_install_drivers"
 msgstr ""
 
 msgid "start_button_install"
-msgstr "Configurați automat computerul"
+msgstr ""
 
 msgid "start_title"
 msgstr "Configurarea automată a {{MODEL}}"
-
-msgid "start_caption"
-msgstr "DriverPack va scana sistemul, va instala<br/>driverele și software-ul necesar, și va efectua diagnostice. <br/>Eficiența calculatorului ar trebui să crească."
 
 msgid "start_expert_mode"
 msgstr "Mod Expert"
 
 msgid "start_expert_mode_label"
 msgstr ""
-
-msgid "start_license"
-msgstr "Termeni și Condiții"
 
 msgid "footer_site"
 msgstr "Ștergere DriverPack"
@@ -1479,6 +1513,3 @@ msgstr "Placa de sunet este conectată incorect, sau există unele probleme lega
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Romanian"
-
-#~ msgid "confirm_popup_install_button_ok"
-#~ msgstr "OK"

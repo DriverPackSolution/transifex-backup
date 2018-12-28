@@ -1,4 +1,5 @@
 # Translators:
+# 
 # Translators:
 # danfong <danfong.hsieh@gmail.com>, 2017-2018
 # Dominic Shum, 2017
@@ -8,9 +9,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-04 13:20+0000\n"
-"PO-Revision-Date: 2018-12-12 13:09+0000\n"
-"Last-Translator: danfong <danfong.hsieh@gmail.com>\n"
+"POT-Creation-Date: 2018-12-25 17:54+0000\n"
+"PO-Revision-Date: 2018-12-27 09:43+0000\n"
+"Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Chinese (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/zh/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -20,12 +21,6 @@ msgstr ""
 
 msgid "installation_close_confirm"
 msgstr "您確定要中斷安裝嗎?可能導致電腦出現故障。"
-
-msgid "authorize_failed"
-msgstr "登入錯誤"
-
-msgid "unauthorize_failed"
-msgstr "登出錯誤"
 
 msgid "deviceclasses_bluetooth-single-main"
 msgstr "藍牙裝置"
@@ -458,6 +453,30 @@ msgstr "https://vk.com/topic-29220845_34743007"
 msgid "start_title_default_model"
 msgstr "您的電腦"
 
+msgid "start_installation_option_mouse"
+msgstr ""
+
+msgid "start_installation_option_keyboard"
+msgstr ""
+
+msgid "start_installation_option_printer"
+msgstr ""
+
+msgid "start_installation_option_video"
+msgstr ""
+
+msgid "start_installation_option_sound"
+msgstr ""
+
+msgid "start_installation_option_usb"
+msgstr ""
+
+msgid "start_installation_option_webcam"
+msgstr ""
+
+msgid "start_installation_option_games"
+msgstr ""
+
 msgid "menu_create_recovery_point"
 msgstr "建立還原點"
 
@@ -496,6 +515,9 @@ msgstr "工作管理員"
 
 msgid "menu_cmd"
 msgstr "命令列"
+
+msgid "start_license"
+msgstr "授權合約"
 
 msgid "configurator-screen_downloading"
 msgstr "下載: {{DOWNLOADED_SIZE}} / {{TOTAL_SIZE}}"
@@ -651,14 +673,14 @@ msgstr "已安裝所有必需的驅動程式"
 msgid "zero-drivers_cta-msg-caption-link"
 msgstr "重新安裝或回復驅動程式"
 
-msgid "zero-drivers_cta-btn"
-msgstr "移至電腦清理"
+msgid "zero-drivers_support-btn"
+msgstr ""
+
+msgid "zero-drivers_all-drivers-btn"
+msgstr ""
 
 msgid "zero-drivers_footer_device-manager"
 msgstr "裝置管理員"
-
-msgid "zero-drivers_footer_support"
-msgstr "技術支援"
 
 msgid "zero-drivers_footer_system-restore"
 msgstr "系統復原"
@@ -780,6 +802,9 @@ msgstr "安裝重要驅動程式"
 
 msgid "loading_reboot"
 msgstr "我們建議您在安裝完成後立即將電腦重新啟動"
+
+msgid "zero-drivers_footer_support"
+msgstr "技術支援"
 
 msgid "final_aside_installed_drivers_title"
 msgid_plural "final_aside_installed_drivers_title_n"
@@ -996,7 +1021,7 @@ msgid "installation_error_restore_disabled"
 msgstr "錯誤: 被系統設定禁止"
 
 msgid "installation_error_restore_not_created"
-msgstr "建立出錯"
+msgstr ""
 
 msgid "installation_progress_stage_creating"
 msgstr "建立中..."
@@ -1039,6 +1064,15 @@ msgstr "您已取消"
 
 msgid "installation_title_name"
 msgstr "安裝項目"
+
+msgid "restart_popup_title"
+msgstr ""
+
+msgid "restart_popup_caption"
+msgstr ""
+
+msgid "restart_popup_button"
+msgstr ""
 
 msgid "installation_item_description_restorepoint"
 msgstr "如果出現問題，它可以使系統回復到之前的狀態"
@@ -1235,26 +1269,26 @@ msgstr "DriverPack 已專門為系統管理員建立，但對於新手使用者�
 msgid "settings-screen_license"
 msgstr "授權合約"
 
+msgid "start_caption_select_problems"
+msgstr ""
+
+msgid "start_button_problems_selected"
+msgstr ""
+
 msgid "start_button_install_drivers"
 msgstr "安裝所有驅動程式"
 
 msgid "start_button_install"
-msgstr "自動配置電腦"
+msgstr ""
 
 msgid "start_title"
 msgstr "自動配置 {{MODEL}}"
-
-msgid "start_caption"
-msgstr "DriverPack 將掃描系統，安裝所需的<br/>驅動程式和軟體，並執行診斷。<br/>應會提高電腦的效率。"
 
 msgid "start_expert_mode"
 msgstr "專家模式"
 
 msgid "start_expert_mode_label"
 msgstr "進階設定"
-
-msgid "start_license"
-msgstr "授權合約"
 
 msgid "footer_site"
 msgstr "DriverPack 移除"
@@ -1463,6 +1497,3 @@ msgstr "音效卡連接不正確，或其可操作性存在一些問題"
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Chinese (Traditional)"
-
-#~ msgid "confirm_popup_install_button_ok"
-#~ msgstr "OK"

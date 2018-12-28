@@ -1,4 +1,5 @@
 # Translators:
+# 
 # Translators:
 # Admirand Nikolli <admirand01@gmail.com>, 2018
 # Niti10 <adnitkamberi10@gmail.com>, 2018
@@ -12,8 +13,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-04 13:20+0000\n"
-"PO-Revision-Date: 2018-11-26 07:09+0000\n"
+"POT-Creation-Date: 2018-12-25 17:54+0000\n"
+"PO-Revision-Date: 2018-12-27 09:43+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Albanian (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/sq/)\n"
 "MIME-Version: 1.0\n"
@@ -24,12 +25,6 @@ msgstr ""
 
 msgid "installation_close_confirm"
 msgstr "Jeni i sigurt që doni të ndërpritet instalimi? Mund të bëjë që kompjuteri të mos funksionojë siç duhet."
-
-msgid "authorize_failed"
-msgstr "Gabim gjatë Hyrjes"
-
-msgid "unauthorize_failed"
-msgstr "Gabim gjatë Daljes"
 
 msgid "deviceclasses_bluetooth-single-main"
 msgstr "pajisja Bluetooth"
@@ -462,6 +457,30 @@ msgstr "https://vk.com/topic-29220845_34743007"
 msgid "start_title_default_model"
 msgstr "kompjuteri juaj"
 
+msgid "start_installation_option_mouse"
+msgstr ""
+
+msgid "start_installation_option_keyboard"
+msgstr ""
+
+msgid "start_installation_option_printer"
+msgstr ""
+
+msgid "start_installation_option_video"
+msgstr ""
+
+msgid "start_installation_option_sound"
+msgstr ""
+
+msgid "start_installation_option_usb"
+msgstr ""
+
+msgid "start_installation_option_webcam"
+msgstr ""
+
+msgid "start_installation_option_games"
+msgstr ""
+
 msgid "menu_create_recovery_point"
 msgstr "Krijo Pikë Rikthimi"
 
@@ -500,6 +519,9 @@ msgstr "Menaxheri i Proceseve"
 
 msgid "menu_cmd"
 msgstr "Linja e Komandës"
+
+msgid "start_license"
+msgstr "Marrëveshja e Licencës"
 
 msgid "configurator-screen_downloading"
 msgstr "Duke shkarkuar: {{DOWNLOADED_SIZE}} of {{TOTAL_SIZE}}"
@@ -655,14 +677,14 @@ msgstr "Të gjithë drajverat e kërkuara janë instaluar tashmë"
 msgid "zero-drivers_cta-msg-caption-link"
 msgstr "Riinstalo ose rikthe pas drajverat"
 
-msgid "zero-drivers_cta-btn"
-msgstr "Shko tek pastrimi i kompjuterit"
+msgid "zero-drivers_support-btn"
+msgstr ""
+
+msgid "zero-drivers_all-drivers-btn"
+msgstr ""
 
 msgid "zero-drivers_footer_device-manager"
 msgstr "Menaxheri i Pajisjeve"
-
-msgid "zero-drivers_footer_support"
-msgstr "Suport Teknik"
 
 msgid "zero-drivers_footer_system-restore"
 msgstr "Restaurim Sistemi"
@@ -788,6 +810,9 @@ msgstr "Instalo drajvera të rëndësishëm"
 
 msgid "loading_reboot"
 msgstr "Iu rekomandojmë të rinisni kompjuterin sapo instalimi të jetë përfunduar"
+
+msgid "zero-drivers_footer_support"
+msgstr "Suport Teknik"
 
 msgid "final_aside_installed_drivers_title"
 msgid_plural "final_aside_installed_drivers_title_n"
@@ -1005,7 +1030,7 @@ msgid "installation_error_restore_disabled"
 msgstr "Gabim: e ndaluar nga cilësimet e sistemit"
 
 msgid "installation_error_restore_not_created"
-msgstr "Gabim Krijimi"
+msgstr ""
 
 msgid "installation_progress_stage_creating"
 msgstr "Duke krijuar..."
@@ -1048,6 +1073,15 @@ msgstr "E keni anulluar"
 
 msgid "installation_title_name"
 msgstr "Artikujt e instalimit"
+
+msgid "restart_popup_title"
+msgstr ""
+
+msgid "restart_popup_caption"
+msgstr ""
+
+msgid "restart_popup_button"
+msgstr ""
 
 msgid "installation_item_description_restorepoint"
 msgstr "Mundëson një rikthim të sistemit në gjendjen e mëparshme nëse diçka shkon keq"
@@ -1244,26 +1278,26 @@ msgstr "DriverPack është krijuar në mënyrë specifike për administratër po
 msgid "settings-screen_license"
 msgstr "Marrëveshja e Licencës"
 
+msgid "start_caption_select_problems"
+msgstr ""
+
+msgid "start_button_problems_selected"
+msgstr ""
+
 msgid "start_button_install_drivers"
 msgstr ""
 
 msgid "start_button_install"
-msgstr "Konfiguro kompjuterin automatikisht"
+msgstr ""
 
 msgid "start_title"
 msgstr "Konfigurim automatik i {{MODEL}}"
-
-msgid "start_caption"
-msgstr "DriverPack do të skanojë sistemin, instalojë<br/>drajverat dhe softuerët e kërkuar dhe do të kryejë diagnostikimet. <br/>Efiçenca e kompjuterit do të rritet."
 
 msgid "start_expert_mode"
 msgstr "Gjendje Ekspert"
 
 msgid "start_expert_mode_label"
 msgstr ""
-
-msgid "start_license"
-msgstr "Marrëveshja e Licencës"
 
 msgid "footer_site"
 msgstr "Fshirje e DriverPack"
@@ -1475,6 +1509,3 @@ msgstr ""
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Albanian"
-
-#~ msgid "confirm_popup_install_button_ok"
-#~ msgstr "OK"

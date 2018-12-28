@@ -1,4 +1,5 @@
 # Translators:
+# 
 # Translators:
 # Nadia Tegeneva <nadia@drp.su>, 2017
 # Peter Rožník <729mail@gmail.com>, 2017
@@ -7,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-04 13:20+0000\n"
-"PO-Revision-Date: 2018-07-09 21:23+0000\n"
+"POT-Creation-Date: 2018-12-25 17:54+0000\n"
+"PO-Revision-Date: 2018-12-27 09:43+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Slovak (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/sk/)\n"
 "MIME-Version: 1.0\n"
@@ -19,12 +20,6 @@ msgstr ""
 
 msgid "installation_close_confirm"
 msgstr "Naozaj chcete prerušiť inštaláciu? Môže to spôsobiť poruchu počítača."
-
-msgid "authorize_failed"
-msgstr "Chyba prihlásenia"
-
-msgid "unauthorize_failed"
-msgstr "Chyba pri odhlásení"
 
 msgid "deviceclasses_bluetooth-single-main"
 msgstr "Bluetooth zariadenie"
@@ -457,6 +452,30 @@ msgstr "https://vk.com/topic-29220845_34743007"
 msgid "start_title_default_model"
 msgstr "vášho počitača"
 
+msgid "start_installation_option_mouse"
+msgstr ""
+
+msgid "start_installation_option_keyboard"
+msgstr ""
+
+msgid "start_installation_option_printer"
+msgstr ""
+
+msgid "start_installation_option_video"
+msgstr ""
+
+msgid "start_installation_option_sound"
+msgstr ""
+
+msgid "start_installation_option_usb"
+msgstr ""
+
+msgid "start_installation_option_webcam"
+msgstr ""
+
+msgid "start_installation_option_games"
+msgstr ""
+
 msgid "menu_create_recovery_point"
 msgstr "Vytvoryť bod obnovenia"
 
@@ -495,6 +514,9 @@ msgstr "Správca Úloh"
 
 msgid "menu_cmd"
 msgstr "Príkazový Riadok"
+
+msgid "start_license"
+msgstr "Licenčná zmluva"
 
 msgid "configurator-screen_downloading"
 msgstr ""
@@ -650,14 +672,14 @@ msgstr "Všetky požadované ovládače sú už nainštalované"
 msgid "zero-drivers_cta-msg-caption-link"
 msgstr "ovládače reinštalovať alebo vrátiť späť"
 
-msgid "zero-drivers_cta-btn"
-msgstr "Prejsť na čistenie počítača"
+msgid "zero-drivers_support-btn"
+msgstr ""
+
+msgid "zero-drivers_all-drivers-btn"
+msgstr ""
 
 msgid "zero-drivers_footer_device-manager"
 msgstr "Správca Zariadení"
-
-msgid "zero-drivers_footer_support"
-msgstr "Technická Podpora"
 
 msgid "zero-drivers_footer_system-restore"
 msgstr "Obnova Systému"
@@ -791,6 +813,9 @@ msgstr "Inštalovať dôležité ovládače"
 
 msgid "loading_reboot"
 msgstr "Odporúčame počítač reštartovať ihneď po dokončení inštalácie"
+
+msgid "zero-drivers_footer_support"
+msgstr "Technická Podpora"
 
 msgid "final_aside_installed_drivers_title"
 msgid_plural "final_aside_installed_drivers_title_n"
@@ -1010,7 +1035,7 @@ msgid "installation_error_restore_disabled"
 msgstr "Chyba: zakázané systémovými nastaveniami"
 
 msgid "installation_error_restore_not_created"
-msgstr "Chyba pri vytváraní"
+msgstr ""
 
 msgid "installation_progress_stage_creating"
 msgstr "Vytvára sa..."
@@ -1053,6 +1078,15 @@ msgstr "Zrušené na vašu požiadavku"
 
 msgid "installation_title_name"
 msgstr "Položky na inštaláciu"
+
+msgid "restart_popup_title"
+msgstr ""
+
+msgid "restart_popup_caption"
+msgstr ""
+
+msgid "restart_popup_button"
+msgstr ""
 
 msgid "installation_item_description_restorepoint"
 msgstr "Umožňuje vrátiť systém do predchádzajúceho stavu, ak sa niečo pokazí"
@@ -1249,26 +1283,26 @@ msgstr "DriverPack bol vytvorený špeciálne pre administrátorov, ale je zrozu
 msgid "settings-screen_license"
 msgstr "Licenčná zmluva"
 
+msgid "start_caption_select_problems"
+msgstr ""
+
+msgid "start_button_problems_selected"
+msgstr ""
+
 msgid "start_button_install_drivers"
 msgstr ""
 
 msgid "start_button_install"
-msgstr "Konfigurovať počítač automaticky"
+msgstr ""
 
 msgid "start_title"
 msgstr "Automatická konfigurácia {{MODEL}}"
-
-msgid "start_caption"
-msgstr "Program DriverPack naskenuje systém, nainštaluje požadované <br/>ovládače a softvér a vykoná diagnostiku. <br/>Účinnosť počítača by sa mala zvýšiť."
 
 msgid "start_expert_mode"
 msgstr "Expertný režim"
 
 msgid "start_expert_mode_label"
 msgstr ""
-
-msgid "start_license"
-msgstr "Licenčná zmluva"
 
 msgid "footer_site"
 msgstr "Odstránenie DriverPack"
@@ -1486,6 +1520,3 @@ msgstr "Zvuková karta nie je správne pripojená, alebo sa vyskytli problémy s
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Slovak"
-
-#~ msgid "confirm_popup_install_button_ok"
-#~ msgstr "OK"

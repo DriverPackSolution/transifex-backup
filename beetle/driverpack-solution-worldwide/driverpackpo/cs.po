@@ -1,4 +1,5 @@
 # Translators:
+# 
 # Translators:
 # Matyáš Koc <admin@sufix.cz>, 2017-2018
 # Nadia Tegeneva <nadia@drp.su>, 2017
@@ -7,9 +8,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-04 13:20+0000\n"
-"PO-Revision-Date: 2018-08-06 21:07+0000\n"
-"Last-Translator: Matyáš Koc <admin@sufix.cz>\n"
+"POT-Creation-Date: 2018-12-25 17:54+0000\n"
+"PO-Revision-Date: 2018-12-27 09:43+0000\n"
+"Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Czech (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/cs/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,12 +20,6 @@ msgstr ""
 
 msgid "installation_close_confirm"
 msgstr "Opravdu chcete přerušit instalaci? To by mohlo zanechat počítač v nefunkčním stavu."
-
-msgid "authorize_failed"
-msgstr "Chyba při přihlašování"
-
-msgid "unauthorize_failed"
-msgstr "Chyba při odhlašování"
 
 msgid "deviceclasses_bluetooth-single-main"
 msgstr "Zařízení Bluetooth"
@@ -457,6 +452,30 @@ msgstr "https://vk.com/topic-29220845_34743007"
 msgid "start_title_default_model"
 msgstr "váš počítač"
 
+msgid "start_installation_option_mouse"
+msgstr ""
+
+msgid "start_installation_option_keyboard"
+msgstr ""
+
+msgid "start_installation_option_printer"
+msgstr ""
+
+msgid "start_installation_option_video"
+msgstr ""
+
+msgid "start_installation_option_sound"
+msgstr ""
+
+msgid "start_installation_option_usb"
+msgstr ""
+
+msgid "start_installation_option_webcam"
+msgstr ""
+
+msgid "start_installation_option_games"
+msgstr ""
+
 msgid "menu_create_recovery_point"
 msgstr "Vytvořit bod obnovení"
 
@@ -495,6 +514,9 @@ msgstr "Správce úloh"
 
 msgid "menu_cmd"
 msgstr "Příkazový řádek"
+
+msgid "start_license"
+msgstr "Licenční ujednání"
 
 msgid "configurator-screen_downloading"
 msgstr ""
@@ -650,14 +672,14 @@ msgstr "Všechny požadované ovladače jsou již nainstalovány"
 msgid "zero-drivers_cta-msg-caption-link"
 msgstr "přeinstalovat nebo vrátit ovladače"
 
-msgid "zero-drivers_cta-btn"
-msgstr "Přejít na vyčištění počítače"
+msgid "zero-drivers_support-btn"
+msgstr ""
+
+msgid "zero-drivers_all-drivers-btn"
+msgstr ""
 
 msgid "zero-drivers_footer_device-manager"
 msgstr "Správce zařízení"
-
-msgid "zero-drivers_footer_support"
-msgstr "Technická podpora"
 
 msgid "zero-drivers_footer_system-restore"
 msgstr "Obnova systému"
@@ -791,6 +813,9 @@ msgstr "Instalovat důležité ovladače"
 
 msgid "loading_reboot"
 msgstr ""
+
+msgid "zero-drivers_footer_support"
+msgstr "Technická podpora"
 
 msgid "final_aside_installed_drivers_title"
 msgid_plural "final_aside_installed_drivers_title_n"
@@ -1010,7 +1035,7 @@ msgid "installation_error_restore_disabled"
 msgstr ""
 
 msgid "installation_error_restore_not_created"
-msgstr "Chyba Vytvoření"
+msgstr ""
 
 msgid "installation_progress_stage_creating"
 msgstr "Vytvářím ..."
@@ -1052,6 +1077,15 @@ msgid "installation_canceled"
 msgstr "Zrušili jste"
 
 msgid "installation_title_name"
+msgstr ""
+
+msgid "restart_popup_title"
+msgstr ""
+
+msgid "restart_popup_caption"
+msgstr ""
+
+msgid "restart_popup_button"
 msgstr ""
 
 msgid "installation_item_description_restorepoint"
@@ -1249,6 +1283,12 @@ msgstr ""
 msgid "settings-screen_license"
 msgstr "Licenční ujednání"
 
+msgid "start_caption_select_problems"
+msgstr ""
+
+msgid "start_button_problems_selected"
+msgstr ""
+
 msgid "start_button_install_drivers"
 msgstr ""
 
@@ -1258,17 +1298,11 @@ msgstr ""
 msgid "start_title"
 msgstr ""
 
-msgid "start_caption"
-msgstr ""
-
 msgid "start_expert_mode"
 msgstr ""
 
 msgid "start_expert_mode_label"
 msgstr ""
-
-msgid "start_license"
-msgstr "Licenční ujednání"
 
 msgid "footer_site"
 msgstr "Odstranění programu DriverPack"
@@ -1486,6 +1520,3 @@ msgstr ""
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Czech"
-
-#~ msgid "confirm_popup_install_button_ok"
-#~ msgstr "OK"

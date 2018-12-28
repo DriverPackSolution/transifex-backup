@@ -1,4 +1,5 @@
 # Translators:
+# 
 # Translators:
 # Abay Tadesse <dejatabay@gmail.com>, 2018
 # Dagmawi Thomas <dag.thom@hotmail.com>, 2017
@@ -7,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-04 13:20+0000\n"
-"PO-Revision-Date: 2018-08-14 12:52+0000\n"
+"POT-Creation-Date: 2018-12-25 17:54+0000\n"
+"PO-Revision-Date: 2018-12-27 09:43+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Amharic (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/am/)\n"
 "MIME-Version: 1.0\n"
@@ -19,12 +20,6 @@ msgstr ""
 
 msgid "installation_close_confirm"
 msgstr "የ መጫን ሂደቱን ለ ማቋረጥ በ እርግጠኝነት ይፈልጋሉ？፣ ኮምፒውተሮ በ ትክክል እንዳይሰራ ሊያደርገው ይችላል።"
-
-msgid "authorize_failed"
-msgstr "የ አገባብ ችግር"
-
-msgid "unauthorize_failed"
-msgstr "የ አወጣጥ ችግር"
 
 msgid "deviceclasses_bluetooth-single-main"
 msgstr "የ ብሉቱዝ መሳሪያ"
@@ -457,6 +452,30 @@ msgstr ""
 msgid "start_title_default_model"
 msgstr ""
 
+msgid "start_installation_option_mouse"
+msgstr ""
+
+msgid "start_installation_option_keyboard"
+msgstr ""
+
+msgid "start_installation_option_printer"
+msgstr ""
+
+msgid "start_installation_option_video"
+msgstr ""
+
+msgid "start_installation_option_sound"
+msgstr ""
+
+msgid "start_installation_option_usb"
+msgstr ""
+
+msgid "start_installation_option_webcam"
+msgstr ""
+
+msgid "start_installation_option_games"
+msgstr ""
+
 msgid "menu_create_recovery_point"
 msgstr ""
 
@@ -495,6 +514,9 @@ msgstr ""
 
 msgid "menu_cmd"
 msgstr ""
+
+msgid "start_license"
+msgstr "የፈቃድ ስምምነት"
 
 msgid "configurator-screen_downloading"
 msgstr ""
@@ -650,13 +672,13 @@ msgstr ""
 msgid "zero-drivers_cta-msg-caption-link"
 msgstr ""
 
-msgid "zero-drivers_cta-btn"
+msgid "zero-drivers_support-btn"
+msgstr ""
+
+msgid "zero-drivers_all-drivers-btn"
 msgstr ""
 
 msgid "zero-drivers_footer_device-manager"
-msgstr ""
-
-msgid "zero-drivers_footer_support"
 msgstr ""
 
 msgid "zero-drivers_footer_system-restore"
@@ -782,6 +804,9 @@ msgid "final_install_required_drivers_btn"
 msgstr ""
 
 msgid "loading_reboot"
+msgstr ""
+
+msgid "zero-drivers_footer_support"
 msgstr ""
 
 msgid "final_aside_installed_drivers_title"
@@ -1044,6 +1069,15 @@ msgstr ""
 msgid "installation_title_name"
 msgstr ""
 
+msgid "restart_popup_title"
+msgstr ""
+
+msgid "restart_popup_caption"
+msgstr ""
+
+msgid "restart_popup_button"
+msgstr ""
+
 msgid "installation_item_description_restorepoint"
 msgstr ""
 
@@ -1239,6 +1273,12 @@ msgstr ""
 msgid "settings-screen_license"
 msgstr "የፈቃድ ስምምነት"
 
+msgid "start_caption_select_problems"
+msgstr ""
+
+msgid "start_button_problems_selected"
+msgstr ""
+
 msgid "start_button_install_drivers"
 msgstr ""
 
@@ -1248,17 +1288,11 @@ msgstr ""
 msgid "start_title"
 msgstr ""
 
-msgid "start_caption"
-msgstr ""
-
 msgid "start_expert_mode"
 msgstr ""
 
 msgid "start_expert_mode_label"
 msgstr ""
-
-msgid "start_license"
-msgstr "የፈቃድ ስምምነት"
 
 msgid "footer_site"
 msgstr ""
@@ -1470,6 +1504,3 @@ msgstr ""
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Amharic"
-
-#~ msgid "confirm_popup_install_button_ok"
-#~ msgstr "OK"

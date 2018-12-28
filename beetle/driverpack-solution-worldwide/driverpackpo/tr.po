@@ -1,4 +1,5 @@
 # Translators:
+# 
 # Translators:
 # BouRock, 2016-2018
 # Lucius Dante <yuksekvoltaj@windowslive.com>, 2016
@@ -9,8 +10,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-04 13:20+0000\n"
-"PO-Revision-Date: 2018-07-11 18:47+0000\n"
+"POT-Creation-Date: 2018-12-25 17:54+0000\n"
+"PO-Revision-Date: 2018-12-27 12:12+0000\n"
 "Last-Translator: BouRock\n"
 "Language-Team: Turkish (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/tr/)\n"
 "MIME-Version: 1.0\n"
@@ -21,12 +22,6 @@ msgstr ""
 
 msgid "installation_close_confirm"
 msgstr "Kurulumu yarıda kesmek istediğinize emin misiniz? Bu bilgisayarınızın arızalanmasına neden olabilir."
-
-msgid "authorize_failed"
-msgstr "Oturum Açma Hatası"
-
-msgid "unauthorize_failed"
-msgstr "Oturum Kapatma Hatası"
 
 msgid "deviceclasses_bluetooth-single-main"
 msgstr "Bluetooth aygıtı"
@@ -459,6 +454,30 @@ msgstr "https://vk.com/topic-29220845_34743007"
 msgid "start_title_default_model"
 msgstr "Bilgisayarınız"
 
+msgid "start_installation_option_mouse"
+msgstr "Fare işlemiyor"
+
+msgid "start_installation_option_keyboard"
+msgstr "Klavye işlemiyor"
+
+msgid "start_installation_option_printer"
+msgstr "Yazıcı çalışmıyor"
+
+msgid "start_installation_option_video"
+msgstr "Görüntü oynamıyor"
+
+msgid "start_installation_option_sound"
+msgstr "Ses yok"
+
+msgid "start_installation_option_usb"
+msgstr "USB girişleri işlemiyor"
+
+msgid "start_installation_option_webcam"
+msgstr "Web kamerası işlemiyor"
+
+msgid "start_installation_option_games"
+msgstr "Oyunlar yavaş"
+
 msgid "menu_create_recovery_point"
 msgstr "Geri Yükleme Noktası Oluştur"
 
@@ -497,6 +516,9 @@ msgstr "Görev Yöneticisi"
 
 msgid "menu_cmd"
 msgstr "Komut Satırı"
+
+msgid "start_license"
+msgstr "Lisans Sözleşmesi"
 
 msgid "configurator-screen_downloading"
 msgstr "İndiriliyor: {{DOWNLOADED_SIZE}} / {{TOTAL_SIZE}}"
@@ -652,14 +674,14 @@ msgstr "Tüm gerekli sürücüler zaten yüklendi."
 msgid "zero-drivers_cta-msg-caption-link"
 msgstr "sürücüleri yeniden yükleyebilir ya da geri alabilirsiniz"
 
-msgid "zero-drivers_cta-btn"
-msgstr "Bilgisayarın temizlenmesi için gidin"
+msgid "zero-drivers_support-btn"
+msgstr "Desteğe Başvurun"
+
+msgid "zero-drivers_all-drivers-btn"
+msgstr "Tüm sürücüleri göster"
 
 msgid "zero-drivers_footer_device-manager"
 msgstr "Aygıt Yöneticisi"
-
-msgid "zero-drivers_footer_support"
-msgstr "Teknik Destek"
 
 msgid "zero-drivers_footer_system-restore"
 msgstr "Sistem Kurtarma"
@@ -785,6 +807,9 @@ msgstr "Önemli sürücüleri yükle"
 
 msgid "loading_reboot"
 msgstr "Kurulum tamamlanır tamamlanmaz bilgisayarınızı yeniden başlatmanızı öneririz"
+
+msgid "zero-drivers_footer_support"
+msgstr "Teknik Destek"
 
 msgid "final_aside_installed_drivers_title"
 msgid_plural "final_aside_installed_drivers_title_n"
@@ -1002,7 +1027,7 @@ msgid "installation_error_restore_disabled"
 msgstr "Hata: sistem ayarları tarafından yasaklandı"
 
 msgid "installation_error_restore_not_created"
-msgstr "Oluşturma Hatası"
+msgstr "Oluşturulmadı"
 
 msgid "installation_progress_stage_creating"
 msgstr "Oluşturuluyor..."
@@ -1045,6 +1070,15 @@ msgstr "İptal ettiniz"
 
 msgid "installation_title_name"
 msgstr "Kurulum öğeleri"
+
+msgid "restart_popup_title"
+msgstr ""
+
+msgid "restart_popup_caption"
+msgstr ""
+
+msgid "restart_popup_button"
+msgstr ""
 
 msgid "installation_item_description_restorepoint"
 msgstr "Birşey yanlış giderse bir sistemi önceki durumuna geri almayı etkinleştirir"
@@ -1241,26 +1275,26 @@ msgstr "DriverPack özellikle yöneticiler için yaratılmıştır ancak acemi k
 msgid "settings-screen_license"
 msgstr "Lisans Sözleşmesi"
 
+msgid "start_caption_select_problems"
+msgstr ""
+
+msgid "start_button_problems_selected"
+msgstr ""
+
 msgid "start_button_install_drivers"
 msgstr "Tüm sürücüleri yükle"
 
 msgid "start_button_install"
-msgstr "Bilgisayarı otomatik olarak yapılandır"
+msgstr ""
 
 msgid "start_title"
 msgstr "{{MODEL}} otomatik yapılandırılıyor"
-
-msgid "start_caption"
-msgstr "DriverPack, sistemi tarayacak, gerekli sürücüleri ve<br/>yazılımı yükleyecek, ve tanılamaları yapacak. <br/>Bilgisayarın verimliliği artmalıdır."
 
 msgid "start_expert_mode"
 msgstr "Uzman Kipi"
 
 msgid "start_expert_mode_label"
 msgstr "Gelişmiş Ayarlar"
-
-msgid "start_license"
-msgstr "Lisans Sözleşmesi"
 
 msgid "footer_site"
 msgstr "DriverPack kaldırma"
@@ -1472,6 +1506,3 @@ msgstr "Ses kartı yanlış olarak bağlanmış, ya da işlerliği ile ilgili ba
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Turkish"
-
-#~ msgid "confirm_popup_install_button_ok"
-#~ msgstr "OK"

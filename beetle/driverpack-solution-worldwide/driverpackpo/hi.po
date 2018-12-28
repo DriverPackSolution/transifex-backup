@@ -1,4 +1,5 @@
 # Translators:
+# 
 # Translators:
 # Laxmikant Mishra <chandanps18@gmail.com>, 2018
 # Mrinal Kumar Jha <shivam6sonu@gmail.com>, 2017-2018
@@ -7,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-04 13:20+0000\n"
-"PO-Revision-Date: 2018-09-10 06:08+0000\n"
+"POT-Creation-Date: 2018-12-25 17:54+0000\n"
+"PO-Revision-Date: 2018-12-27 09:43+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Hindi (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/hi/)\n"
 "MIME-Version: 1.0\n"
@@ -19,12 +20,6 @@ msgstr ""
 
 msgid "installation_close_confirm"
 msgstr "क्या आप वाकई स्थापना को बाधित करना चाहते हैं ? यह आपके कंप्यूटर के खराबी का कारण हो सकता है।"
-
-msgid "authorize_failed"
-msgstr " लॉग-इन त्रुटि"
-
-msgid "unauthorize_failed"
-msgstr " लॉग-आउट त्रुटि"
 
 msgid "deviceclasses_bluetooth-single-main"
 msgstr "Bluetooth डिवाइस"
@@ -457,6 +452,30 @@ msgstr "https://vk.com/topic-29220845_34743007"
 msgid "start_title_default_model"
 msgstr "आपका कंप्यूटर"
 
+msgid "start_installation_option_mouse"
+msgstr ""
+
+msgid "start_installation_option_keyboard"
+msgstr ""
+
+msgid "start_installation_option_printer"
+msgstr ""
+
+msgid "start_installation_option_video"
+msgstr ""
+
+msgid "start_installation_option_sound"
+msgstr ""
+
+msgid "start_installation_option_usb"
+msgstr ""
+
+msgid "start_installation_option_webcam"
+msgstr ""
+
+msgid "start_installation_option_games"
+msgstr ""
+
 msgid "menu_create_recovery_point"
 msgstr "अंक बहाल बनाएँ"
 
@@ -495,6 +514,9 @@ msgstr "कार्य प्रबंधक"
 
 msgid "menu_cmd"
 msgstr "कमांड लाइन"
+
+msgid "start_license"
+msgstr "लाइसेंस समझौता"
 
 msgid "configurator-screen_downloading"
 msgstr "डाउनलोड: {{TOTAL_SIZE}} में से {{DOWNLOADED_SIZE}}"
@@ -650,14 +672,14 @@ msgstr "सभी आवश्यक ड्राइवर पहले से �
 msgid "zero-drivers_cta-msg-caption-link"
 msgstr "ड्राइवरों को फिर से स्थापित या रोल करें"
 
-msgid "zero-drivers_cta-btn"
-msgstr "कंप्यूटर क्लीन-अप पर जाएं"
+msgid "zero-drivers_support-btn"
+msgstr ""
+
+msgid "zero-drivers_all-drivers-btn"
+msgstr ""
 
 msgid "zero-drivers_footer_device-manager"
 msgstr "डिवाइस मैनेजर"
-
-msgid "zero-drivers_footer_support"
-msgstr "तकनीकी सहायता"
 
 msgid "zero-drivers_footer_system-restore"
 msgstr "प्रणाली वसूली"
@@ -783,6 +805,9 @@ msgstr "महत्वपूर्ण ड्राइवर स्थापि�
 
 msgid "loading_reboot"
 msgstr "जैसे ही स्थापना पूरा हो जाता है, हम आपको अपने कंप्यूटर को रिबूट करने की सलाह देते हैं"
+
+msgid "zero-drivers_footer_support"
+msgstr "तकनीकी सहायता"
 
 msgid "final_aside_installed_drivers_title"
 msgid_plural "final_aside_installed_drivers_title_n"
@@ -1000,7 +1025,7 @@ msgid "installation_error_restore_disabled"
 msgstr "त्रुटि: सिस्टम सेटिंग्स द्वारा मना किया"
 
 msgid "installation_error_restore_not_created"
-msgstr "निर्माण त्रुटि"
+msgstr ""
 
 msgid "installation_progress_stage_creating"
 msgstr "बना रहा है..."
@@ -1043,6 +1068,15 @@ msgstr "आपने इसे रद्द कर दिया है"
 
 msgid "installation_title_name"
 msgstr "स्थापना आइटम"
+
+msgid "restart_popup_title"
+msgstr ""
+
+msgid "restart_popup_caption"
+msgstr ""
+
+msgid "restart_popup_button"
+msgstr ""
 
 msgid "installation_item_description_restorepoint"
 msgstr "यदि कुछ गलत हो जाता है तो यह सिस्टम को अपने पिछले स्थिति में रोल-बैक सक्षम करता है"
@@ -1239,26 +1273,26 @@ msgstr "DriverPack विशेष रूप से व्यवस्थाप�
 msgid "settings-screen_license"
 msgstr "लाइसेंस समझौता"
 
+msgid "start_caption_select_problems"
+msgstr ""
+
+msgid "start_button_problems_selected"
+msgstr ""
+
 msgid "start_button_install_drivers"
 msgstr "सभी ड्राइवर स्थापित करें"
 
 msgid "start_button_install"
-msgstr "कंप्यूटर को स्वचालित रूप से कॉन्फ़िगर करें"
+msgstr ""
 
 msgid "start_title"
 msgstr "{{MODEL}} के स्वचालन को कॉन्फ़िगर करें"
-
-msgid "start_caption"
-msgstr "DriverPack सिस्टम को स्कैन करेगा, आवश्यक<br/>ड्रायवर और सॉफ़्टवेयर इंस्टॉल करेगा, और निदान करेगा। <br/>कंप्यूटर की दक्षता बढ़नी चाहिए।"
 
 msgid "start_expert_mode"
 msgstr "विशेषज्ञ मोड"
 
 msgid "start_expert_mode_label"
 msgstr "एडवांस सेटिंग"
-
-msgid "start_license"
-msgstr "लाइसेंस समझौता"
 
 msgid "footer_site"
 msgstr "DriverPack निष्कासन"
@@ -1470,6 +1504,3 @@ msgstr "ध्वनि कार्ड गलत तरीके से जु�
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Hindi"
-
-#~ msgid "confirm_popup_install_button_ok"
-#~ msgstr "OK"

@@ -1,4 +1,5 @@
 # Translators:
+# 
 # Translators:
 # JeongMin, Lim <jm1288@naver.com>, 2017-2018
 # Nadia Tegeneva <nadia@drp.su>, 2018
@@ -6,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-04 13:20+0000\n"
-"PO-Revision-Date: 2018-11-06 09:46+0000\n"
+"POT-Creation-Date: 2018-12-25 17:54+0000\n"
+"PO-Revision-Date: 2018-12-27 09:43+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Korean (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/ko/)\n"
 "MIME-Version: 1.0\n"
@@ -18,12 +19,6 @@ msgstr ""
 
 msgid "installation_close_confirm"
 msgstr "설치를 중단 하시겠습니까? 컴퓨터가 오작동할 수 있습니다."
-
-msgid "authorize_failed"
-msgstr "로그인 오류"
-
-msgid "unauthorize_failed"
-msgstr "로그아웃 오류"
 
 msgid "deviceclasses_bluetooth-single-main"
 msgstr "블루투스 장치"
@@ -456,6 +451,30 @@ msgstr "https://vk.com/topic-29220845_34743007"
 msgid "start_title_default_model"
 msgstr "귀하의 컴퓨터"
 
+msgid "start_installation_option_mouse"
+msgstr ""
+
+msgid "start_installation_option_keyboard"
+msgstr ""
+
+msgid "start_installation_option_printer"
+msgstr ""
+
+msgid "start_installation_option_video"
+msgstr ""
+
+msgid "start_installation_option_sound"
+msgstr ""
+
+msgid "start_installation_option_usb"
+msgstr ""
+
+msgid "start_installation_option_webcam"
+msgstr ""
+
+msgid "start_installation_option_games"
+msgstr ""
+
 msgid "menu_create_recovery_point"
 msgstr "복원 지점 생성"
 
@@ -494,6 +513,9 @@ msgstr "작업 관리자"
 
 msgid "menu_cmd"
 msgstr "명령줄"
+
+msgid "start_license"
+msgstr "라이센스 동의"
 
 msgid "configurator-screen_downloading"
 msgstr "다운로드 중: {{DOWNLOADED_SIZE}} / {{TOTAL_SIZE}}"
@@ -649,14 +671,14 @@ msgstr "필요한 모든 드라이버가 이미 설치되어 있습니다"
 msgid "zero-drivers_cta-msg-caption-link"
 msgstr "드라이버를 재설치하거나 롤백하세요"
 
-msgid "zero-drivers_cta-btn"
-msgstr "컴퓨터 정리로 이동"
+msgid "zero-drivers_support-btn"
+msgstr ""
+
+msgid "zero-drivers_all-drivers-btn"
+msgstr ""
 
 msgid "zero-drivers_footer_device-manager"
 msgstr "장치 관리자"
-
-msgid "zero-drivers_footer_support"
-msgstr "기술 지원"
 
 msgid "zero-drivers_footer_system-restore"
 msgstr "시스템 복구"
@@ -778,6 +800,9 @@ msgstr "중요한 드라이버 설치"
 
 msgid "loading_reboot"
 msgstr "설치가 완료되는 즉시 컴퓨터를 재부팅하는 것이 좋습니다"
+
+msgid "zero-drivers_footer_support"
+msgstr "기술 지원"
 
 msgid "final_aside_installed_drivers_title"
 msgid_plural "final_aside_installed_drivers_title_n"
@@ -994,7 +1019,7 @@ msgid "installation_error_restore_disabled"
 msgstr "오류: 시스템 설정에 의해 금지 됨"
 
 msgid "installation_error_restore_not_created"
-msgstr "생성 오류"
+msgstr ""
 
 msgid "installation_progress_stage_creating"
 msgstr "생성 중…"
@@ -1037,6 +1062,15 @@ msgstr "취소하였습니다"
 
 msgid "installation_title_name"
 msgstr "설치 항목"
+
+msgid "restart_popup_title"
+msgstr ""
+
+msgid "restart_popup_caption"
+msgstr ""
+
+msgid "restart_popup_button"
+msgstr ""
 
 msgid "installation_item_description_restorepoint"
 msgstr "오류가 발생하면 시스템을 이전 상태로 롤백 할 수 있습니다"
@@ -1233,26 +1267,26 @@ msgstr "DriverPack 은 관리자를 위해 특별히 제작되었지만 초보 �
 msgid "settings-screen_license"
 msgstr "라이센스 동의"
 
+msgid "start_caption_select_problems"
+msgstr ""
+
+msgid "start_button_problems_selected"
+msgstr ""
+
 msgid "start_button_install_drivers"
 msgstr "모든 드라이버 설치"
 
 msgid "start_button_install"
-msgstr "컴퓨터 자동 구성"
+msgstr ""
 
 msgid "start_title"
 msgstr "{{MODEL}} 의 자동 구성"
-
-msgid "start_caption"
-msgstr "DriverPack 은 시스템을 검사하고 필요한 드라이버와<br/>소프트웨어를 설치하며 진단을 수행합니다. <br/>컴퓨터의 효율성이 높아집니다."
 
 msgid "start_expert_mode"
 msgstr "전문가 모드"
 
 msgid "start_expert_mode_label"
 msgstr "고급 설정"
-
-msgid "start_license"
-msgstr "라이센스 동의"
 
 msgid "footer_site"
 msgstr "DriverPack 제거"
@@ -1461,6 +1495,3 @@ msgstr "사운드 카드가 잘못 연결되었거나 조작상 문제가 있습
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Korean"
-
-#~ msgid "confirm_popup_install_button_ok"
-#~ msgstr "OK"

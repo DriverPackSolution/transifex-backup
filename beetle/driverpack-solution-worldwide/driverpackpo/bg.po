@@ -1,4 +1,5 @@
 # Translators:
+# 
 # Translators:
 # Deyan Mitev, 2017-2018
 # Hristo Aleksandrov <h.aleksandrov@gmail.com>, 2018
@@ -8,8 +9,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-04 13:20+0000\n"
-"PO-Revision-Date: 2018-07-30 18:51+0000\n"
+"POT-Creation-Date: 2018-12-25 17:54+0000\n"
+"PO-Revision-Date: 2018-12-27 13:39+0000\n"
 "Last-Translator: Deyan Mitev\n"
 "Language-Team: Bulgarian (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/bg/)\n"
 "MIME-Version: 1.0\n"
@@ -20,12 +21,6 @@ msgstr ""
 
 msgid "installation_close_confirm"
 msgstr "Наистина ли искате да прекъснете инсталацията? Това може да доведе до повреда на компютъра."
-
-msgid "authorize_failed"
-msgstr "Входна Грешка"
-
-msgid "unauthorize_failed"
-msgstr "Изходна Грешка"
 
 msgid "deviceclasses_bluetooth-single-main"
 msgstr "Bluetooth устройство"
@@ -458,6 +453,30 @@ msgstr "https://vk.com/topic-29220845_34743007"
 msgid "start_title_default_model"
 msgstr "твоят компютър"
 
+msgid "start_installation_option_mouse"
+msgstr "Мишката не работи"
+
+msgid "start_installation_option_keyboard"
+msgstr "Клавиатурата не работи"
+
+msgid "start_installation_option_printer"
+msgstr "Принтера не работи"
+
+msgid "start_installation_option_video"
+msgstr "Филма не тръгва"
+
+msgid "start_installation_option_sound"
+msgstr "Няма звук"
+
+msgid "start_installation_option_usb"
+msgstr "USB портовете не работят"
+
+msgid "start_installation_option_webcam"
+msgstr "Уеб камерата не работи"
+
+msgid "start_installation_option_games"
+msgstr "Игрите вървят бавно"
+
 msgid "menu_create_recovery_point"
 msgstr "Създай точка за възстановяване "
 
@@ -496,6 +515,9 @@ msgstr "Диспечер на задачите"
 
 msgid "menu_cmd"
 msgstr "Команден ред"
+
+msgid "start_license"
+msgstr "Лицензионни условия"
 
 msgid "configurator-screen_downloading"
 msgstr "Изтегля се: {{DOWNLOADED_SIZE}} от {{TOTAL_SIZE}}"
@@ -651,14 +673,14 @@ msgstr "Всички необходими драйвери вече са инс�
 msgid "zero-drivers_cta-msg-caption-link"
 msgstr "преинсталирате или върнете драйверите назад"
 
-msgid "zero-drivers_cta-btn"
-msgstr "Отидете на почистване на компютъра"
+msgid "zero-drivers_support-btn"
+msgstr "Свържете се с поддръжката"
+
+msgid "zero-drivers_all-drivers-btn"
+msgstr "Покажи всички драйвери"
 
 msgid "zero-drivers_footer_device-manager"
 msgstr "Мениджър на устройствата"
-
-msgid "zero-drivers_footer_support"
-msgstr "Техническа поддръжка"
 
 msgid "zero-drivers_footer_system-restore"
 msgstr "Възстановяване на системата"
@@ -784,6 +806,9 @@ msgstr "Инсталирай важни драйвери"
 
 msgid "loading_reboot"
 msgstr "Препоръчваме Ви да рестартирате компютъра веднага щом инсталацията приключи"
+
+msgid "zero-drivers_footer_support"
+msgstr "Техническа поддръжка"
 
 msgid "final_aside_installed_drivers_title"
 msgid_plural "final_aside_installed_drivers_title_n"
@@ -1001,7 +1026,7 @@ msgid "installation_error_restore_disabled"
 msgstr "Грешка: забранено от системните настройки"
 
 msgid "installation_error_restore_not_created"
-msgstr "Грешка при създаване"
+msgstr "Не е направено"
 
 msgid "installation_progress_stage_creating"
 msgstr "Създаване..."
@@ -1044,6 +1069,15 @@ msgstr "Прекъснахте го"
 
 msgid "installation_title_name"
 msgstr "Елементи за инсталиране"
+
+msgid "restart_popup_title"
+msgstr "Нужен е рестарт, за да продължи"
+
+msgid "restart_popup_caption"
+msgstr "Компютъра ще се рестартира след {{REMAIN.TIME}}…"
+
+msgid "restart_popup_button"
+msgstr "Рестарт"
 
 msgid "installation_item_description_restorepoint"
 msgstr "Това позволява на системата да се върне в предишното си състояние, ако нещо се обърка"
@@ -1240,26 +1274,26 @@ msgstr "DriverPack е създаден специално за админист�
 msgid "settings-screen_license"
 msgstr "Лицензионни условия"
 
+msgid "start_caption_select_problems"
+msgstr "Или отметнете, какво точно не работи във вашето PC"
+
+msgid "start_button_problems_selected"
+msgstr "Инсталира ({{COUNT}})"
+
 msgid "start_button_install_drivers"
 msgstr "Инсталирай всички драйвери"
 
 msgid "start_button_install"
-msgstr "Конфигурирайте компютъра автоматично"
+msgstr "Автоматично инсталирай всичко"
 
 msgid "start_title"
 msgstr "Автоматизирано конфигуриране на {{MODEL}}"
-
-msgid "start_caption"
-msgstr "DriverPack ще сканира системата, ще инсталира необходимите<br/>драйвери и софтуера и ще извърши диагностика. <br/>Ефективността на компютъра трябва да се увеличи."
 
 msgid "start_expert_mode"
 msgstr "Експертен режим"
 
 msgid "start_expert_mode_label"
 msgstr "Разширени настройки"
-
-msgid "start_license"
-msgstr "Лицензионни условия"
 
 msgid "footer_site"
 msgstr "Премахване на DriverPack"
@@ -1471,6 +1505,3 @@ msgstr "Звуковата карта е свързана неправилно �
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Bulgarian"
-
-#~ msgid "confirm_popup_install_button_ok"
-#~ msgstr "OK"

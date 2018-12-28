@@ -1,4 +1,5 @@
 # Translators:
+# 
 # Translators:
 # ahmed felix <ahmed_master23@yahoo.com>, 2016
 # ahmed serag <ahmed.serag280@gmail.com>, 2018
@@ -18,9 +19,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-04 13:20+0000\n"
-"PO-Revision-Date: 2018-12-21 21:14+0000\n"
-"Last-Translator: Suhieb Haddad\n"
+"POT-Creation-Date: 2018-12-25 17:54+0000\n"
+"PO-Revision-Date: 2018-12-27 09:43+0000\n"
+"Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Arabic (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/ar/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -30,12 +31,6 @@ msgstr ""
 
 msgid "installation_close_confirm"
 msgstr "هل أنت متأكد من إيقاف التثبيت؟ قد يتسبب ذلك بخلل ما على جهاز الكمبيوتر الخاص بك."
-
-msgid "authorize_failed"
-msgstr "خطأ في تسجيل الدخول"
-
-msgid "unauthorize_failed"
-msgstr "خطأ في تسجيل الخروج"
 
 msgid "deviceclasses_bluetooth-single-main"
 msgstr "جهاز Bluetooth"
@@ -468,6 +463,30 @@ msgstr "https://vk.com/topic-29220845_34743007"
 msgid "start_title_default_model"
 msgstr "جهازك"
 
+msgid "start_installation_option_mouse"
+msgstr ""
+
+msgid "start_installation_option_keyboard"
+msgstr ""
+
+msgid "start_installation_option_printer"
+msgstr ""
+
+msgid "start_installation_option_video"
+msgstr ""
+
+msgid "start_installation_option_sound"
+msgstr ""
+
+msgid "start_installation_option_usb"
+msgstr ""
+
+msgid "start_installation_option_webcam"
+msgstr ""
+
+msgid "start_installation_option_games"
+msgstr ""
+
 msgid "menu_create_recovery_point"
 msgstr "انشاء نقطة استعادة"
 
@@ -506,6 +525,9 @@ msgstr "إدارة المهام"
 
 msgid "menu_cmd"
 msgstr "سطر الأوامر"
+
+msgid "start_license"
+msgstr "اتفاقية الترخيص"
 
 msgid "configurator-screen_downloading"
 msgstr "تحميل: {{DOWNLOADED_SIZE}} من {{TOTAL_SIZE}}"
@@ -661,14 +683,14 @@ msgstr "لقد تم تثبيت جميع التعريفات المطلوبة"
 msgid "zero-drivers_cta-msg-caption-link"
 msgstr "التراجع و إعادة تثبيت التعريفات"
 
-msgid "zero-drivers_cta-btn"
-msgstr "الذهاب إلى تنظيف الحاسب"
+msgid "zero-drivers_support-btn"
+msgstr ""
+
+msgid "zero-drivers_all-drivers-btn"
+msgstr ""
 
 msgid "zero-drivers_footer_device-manager"
 msgstr "مدير الجهاز"
-
-msgid "zero-drivers_footer_support"
-msgstr "الدعم الفني"
 
 msgid "zero-drivers_footer_system-restore"
 msgstr "استعادة النظام"
@@ -810,6 +832,9 @@ msgstr "تثبيت التعريفات المهمة"
 
 msgid "loading_reboot"
 msgstr "نوصيك بإعادة تشغيل الكمبيوتر بمجرد اكتمال التثبيت"
+
+msgid "zero-drivers_footer_support"
+msgstr "الدعم الفني"
 
 msgid "final_aside_installed_drivers_title"
 msgid_plural "final_aside_installed_drivers_title_n"
@@ -1031,7 +1056,7 @@ msgid "installation_error_restore_disabled"
 msgstr "خطأ: ممنوع بواسطة إعدادات النظام"
 
 msgid "installation_error_restore_not_created"
-msgstr "خطأ في الإنشاء"
+msgstr ""
 
 msgid "installation_progress_stage_creating"
 msgstr "انشاء..."
@@ -1074,6 +1099,15 @@ msgstr "لقد ألغيت ذلك"
 
 msgid "installation_title_name"
 msgstr "عناصر التثبيت"
+
+msgid "restart_popup_title"
+msgstr ""
+
+msgid "restart_popup_caption"
+msgstr ""
+
+msgid "restart_popup_button"
+msgstr ""
 
 msgid "installation_item_description_restorepoint"
 msgstr "إنها تمكن النظام من العودة إلى حالته السابقة إذا حدث خطأ ما"
@@ -1270,26 +1304,26 @@ msgstr "تم إنشاء برنامج DriverPack خصيصًا للمشرفين و
 msgid "settings-screen_license"
 msgstr "اتفاقية الترخيص"
 
+msgid "start_caption_select_problems"
+msgstr ""
+
+msgid "start_button_problems_selected"
+msgstr ""
+
 msgid "start_button_install_drivers"
 msgstr "تثبيت كافة التعريفات"
 
 msgid "start_button_install"
-msgstr "تكوين الكمبيوتر تلقائيا"
+msgstr ""
 
 msgid "start_title"
 msgstr "تكوين تلقائي من {{MODEL}}"
-
-msgid "start_caption"
-msgstr "سيقوم برنامج DriverPack بمسح النظام وتثبيت البرامج المطلوبة<br/>وبرامج الكمبيوتر وإجراء التشخيصات. <br/>يجب زيادة كفاءة الكمبيوتر."
 
 msgid "start_expert_mode"
 msgstr "وضع الخبراء"
 
 msgid "start_expert_mode_label"
 msgstr "إعدادات متقدمة"
-
-msgid "start_license"
-msgstr "اتفاقية الترخيص"
 
 msgid "footer_site"
 msgstr "ازاله DriverPack"
@@ -1513,6 +1547,3 @@ msgstr "بطاقة الصوت متصلة بشكل غير صحيح أو توجد 
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "الإنجليزية"
-
-#~ msgid "confirm_popup_install_button_ok"
-#~ msgstr "OK"

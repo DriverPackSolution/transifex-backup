@@ -1,4 +1,5 @@
 # Translators:
+# 
 # Translators:
 # iAye Selavan, 2018
 # leyahn mallorca <leyahnmallorca110198@gmail.com>, 2017
@@ -8,9 +9,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-04 13:20+0000\n"
-"PO-Revision-Date: 2018-07-23 02:37+0000\n"
-"Last-Translator: Rhuziel Caro\n"
+"POT-Creation-Date: 2018-12-25 17:54+0000\n"
+"PO-Revision-Date: 2018-12-27 09:43+0000\n"
+"Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Filipino (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/fil/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -20,12 +21,6 @@ msgstr ""
 
 msgid "installation_close_confirm"
 msgstr "Sigurado ka bang gusto mong matigil ang pag-install? Maaari itong maging sanhi ng pagkasira ng iyong computer."
-
-msgid "authorize_failed"
-msgstr "Error sa Pag-log-In"
-
-msgid "unauthorize_failed"
-msgstr "Error sa Pag-log Out"
 
 msgid "deviceclasses_bluetooth-single-main"
 msgstr "Bluetooth device"
@@ -458,6 +453,30 @@ msgstr "https://vk.com/topic-29220845_34743007"
 msgid "start_title_default_model"
 msgstr "ang iyong computer"
 
+msgid "start_installation_option_mouse"
+msgstr ""
+
+msgid "start_installation_option_keyboard"
+msgstr ""
+
+msgid "start_installation_option_printer"
+msgstr ""
+
+msgid "start_installation_option_video"
+msgstr ""
+
+msgid "start_installation_option_sound"
+msgstr ""
+
+msgid "start_installation_option_usb"
+msgstr ""
+
+msgid "start_installation_option_webcam"
+msgstr ""
+
+msgid "start_installation_option_games"
+msgstr ""
+
 msgid "menu_create_recovery_point"
 msgstr "Lumikha ng Restore Point"
 
@@ -496,6 +515,9 @@ msgstr "Gawain sa Patnugot"
 
 msgid "menu_cmd"
 msgstr "Command Line"
+
+msgid "start_license"
+msgstr "Kasunduan sa Lisensya"
 
 msgid "configurator-screen_downloading"
 msgstr "Nagda-download: {{DOWNLOADED_SIZE}} ng {{TOTAL_SIZE}}"
@@ -651,14 +673,14 @@ msgstr "Na-install na ang lahat ng mga kinakailangang driver"
 msgid "zero-drivers_cta-msg-caption-link"
 msgstr "muling i-install o ibalik ang mga driver"
 
-msgid "zero-drivers_cta-btn"
-msgstr "Pumunta computer clean-up"
+msgid "zero-drivers_support-btn"
+msgstr ""
+
+msgid "zero-drivers_all-drivers-btn"
+msgstr ""
 
 msgid "zero-drivers_footer_device-manager"
 msgstr "Device Manager"
-
-msgid "zero-drivers_footer_support"
-msgstr "Suportang Technical"
 
 msgid "zero-drivers_footer_system-restore"
 msgstr "System Recovery"
@@ -784,6 +806,9 @@ msgstr "Mag-install ng mahahalagang driver"
 
 msgid "loading_reboot"
 msgstr "Inirerekumenda namin sa iyo na i-reboot ang iyong computer sa sandaling makumpleto ang pag-install"
+
+msgid "zero-drivers_footer_support"
+msgstr "Suportang Technical"
 
 msgid "final_aside_installed_drivers_title"
 msgid_plural "final_aside_installed_drivers_title_n"
@@ -1001,7 +1026,7 @@ msgid "installation_error_restore_disabled"
 msgstr "Error: ipinagbabawal ng mga setting ng system"
 
 msgid "installation_error_restore_not_created"
-msgstr "Error sa paglikha"
+msgstr ""
 
 msgid "installation_progress_stage_creating"
 msgstr "Gumagawa..."
@@ -1044,6 +1069,15 @@ msgstr "Kinansela mo ito"
 
 msgid "installation_title_name"
 msgstr "Mga item sa pag-install"
+
+msgid "restart_popup_title"
+msgstr ""
+
+msgid "restart_popup_caption"
+msgstr ""
+
+msgid "restart_popup_button"
+msgstr ""
 
 msgid "installation_item_description_restorepoint"
 msgstr "Ito ay nagbibigay-daan sa isang roll-back system na nagbabalik sa nakaraang estado nito kapag mayroong maling nangyari"
@@ -1240,26 +1274,26 @@ msgstr "Ang DriverPack ay partikular na nilikha para sa mga admin ngunit malinaw
 msgid "settings-screen_license"
 msgstr "Kasunduan sa Lisensya"
 
+msgid "start_caption_select_problems"
+msgstr ""
+
+msgid "start_button_problems_selected"
+msgstr ""
+
 msgid "start_button_install_drivers"
 msgstr "I-install ang lahat ng mga driver"
 
 msgid "start_button_install"
-msgstr "Awtomatikong i-configure ang computer"
+msgstr ""
 
 msgid "start_title"
 msgstr "Awtomatikong pag-configure ng mga {{MODEL}}"
-
-msgid "start_caption"
-msgstr "I-scan ng DriverPack ang system, i-install ang mga kailanganin<br/>na drivers at software, at magsagawa ng mga diagnostic. <br/>Ang kahusayan ng computer ay dapat dagdagan."
 
 msgid "start_expert_mode"
 msgstr "Expert Mode"
 
 msgid "start_expert_mode_label"
 msgstr "Mga Advanced na Setting"
-
-msgid "start_license"
-msgstr "Kasunduan sa Lisensya"
 
 msgid "footer_site"
 msgstr "Pag-alis ng DriverPack"
@@ -1471,6 +1505,3 @@ msgstr "Ang sound card ay hindi nakakonekta, o may ilang mga problema sa operabi
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Filipino"
-
-#~ msgid "confirm_popup_install_button_ok"
-#~ msgstr "OK"

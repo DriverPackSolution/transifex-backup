@@ -1,4 +1,5 @@
 # Translators:
+# 
 # Translators:
 # Alessandro João <ajkmetiuk@bol.com.br>, 2016-2018
 # Charllys <charllys.daiany@gmail.com>, 2016
@@ -10,8 +11,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-04 13:20+0000\n"
-"PO-Revision-Date: 2018-07-15 16:58+0000\n"
+"POT-Creation-Date: 2018-12-25 17:54+0000\n"
+"PO-Revision-Date: 2018-12-27 16:14+0000\n"
 "Last-Translator: Alessandro João <ajkmetiuk@bol.com.br>\n"
 "Language-Team: Portuguese (Brazil) (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/pt_BR/)\n"
 "MIME-Version: 1.0\n"
@@ -22,12 +23,6 @@ msgstr ""
 
 msgid "installation_close_confirm"
 msgstr "Tem certeza de que deseja interromper a instalação? Isso poderia causar um mau funcionamento no seu computador."
-
-msgid "authorize_failed"
-msgstr "Erro de Entrada"
-
-msgid "unauthorize_failed"
-msgstr "Erro de Saída"
 
 msgid "deviceclasses_bluetooth-single-main"
 msgstr "dispositivo Bluetooth"
@@ -460,6 +455,30 @@ msgstr "https://vk.com/topic-29220845_34743007"
 msgid "start_title_default_model"
 msgstr "seu computador"
 
+msgid "start_installation_option_mouse"
+msgstr "O mouse não funciona"
+
+msgid "start_installation_option_keyboard"
+msgstr "O teclado não funciona"
+
+msgid "start_installation_option_printer"
+msgstr "A impressora não funciona"
+
+msgid "start_installation_option_video"
+msgstr "O vídeo não está reproduzindo"
+
+msgid "start_installation_option_sound"
+msgstr "Sem som"
+
+msgid "start_installation_option_usb"
+msgstr "As portas USB não funcionam"
+
+msgid "start_installation_option_webcam"
+msgstr "A webcam não funciona"
+
+msgid "start_installation_option_games"
+msgstr "Os jogos estão lentos"
+
 msgid "menu_create_recovery_point"
 msgstr "Criar Ponto de Restauração"
 
@@ -498,6 +517,9 @@ msgstr "Gerenciador de Tarefas"
 
 msgid "menu_cmd"
 msgstr "Prompt de Comando "
+
+msgid "start_license"
+msgstr "Termos de Licença"
 
 msgid "configurator-screen_downloading"
 msgstr "Baixando: {{DOWNLOADED_SIZE}} de {{TOTAL_SIZE}}"
@@ -653,14 +675,14 @@ msgstr "Todos os drivers necessários já estão instalados"
 msgid "zero-drivers_cta-msg-caption-link"
 msgstr "reinstalar ou reverter os drivers"
 
-msgid "zero-drivers_cta-btn"
-msgstr "Vá para a limpeza do computador"
+msgid "zero-drivers_support-btn"
+msgstr "Entre em contato com o Suporte"
+
+msgid "zero-drivers_all-drivers-btn"
+msgstr "Mostrar todos os drivers"
 
 msgid "zero-drivers_footer_device-manager"
 msgstr "Gerenciador de Dispositivos"
-
-msgid "zero-drivers_footer_support"
-msgstr "Suporte Técnico"
 
 msgid "zero-drivers_footer_system-restore"
 msgstr "Recuperação do Sistema"
@@ -786,6 +808,9 @@ msgstr "Instalar drivers importantes"
 
 msgid "loading_reboot"
 msgstr "Recomendamos que você reinicie seu computador assim que a instalação estiver completa"
+
+msgid "zero-drivers_footer_support"
+msgstr "Suporte Técnico"
 
 msgid "final_aside_installed_drivers_title"
 msgid_plural "final_aside_installed_drivers_title_n"
@@ -1003,7 +1028,7 @@ msgid "installation_error_restore_disabled"
 msgstr "Erro: proibido pelas configurações do sistema."
 
 msgid "installation_error_restore_not_created"
-msgstr "Erro de Criação"
+msgstr "Não criado"
 
 msgid "installation_progress_stage_creating"
 msgstr "Criando..."
@@ -1046,6 +1071,15 @@ msgstr "Você cancelou isso"
 
 msgid "installation_title_name"
 msgstr "Itens de instalação"
+
+msgid "restart_popup_title"
+msgstr "A reinicialização é necessária para continuar"
+
+msgid "restart_popup_caption"
+msgstr "Seu computador será reinicializado em {{REMAIN.TIME}}..."
+
+msgid "restart_popup_button"
+msgstr "Reiniciar"
 
 msgid "installation_item_description_restorepoint"
 msgstr "Ele permite que um sistema retorne ao seu estado anterior se algo der errado"
@@ -1242,26 +1276,26 @@ msgstr "O DriverPack foi criado especificamente para administradores, mas é fá
 msgid "settings-screen_license"
 msgstr "Termos de Licença"
 
+msgid "start_caption_select_problems"
+msgstr "Ou, marque o que exatamente não funciona em seu PC"
+
+msgid "start_button_problems_selected"
+msgstr "Instalar ({{COUNT}})"
+
 msgid "start_button_install_drivers"
 msgstr "Instalar todos os drivers"
 
 msgid "start_button_install"
-msgstr "Configure o computador automaticamente"
+msgstr "Instalar tudo automaticamente"
 
 msgid "start_title"
 msgstr "Configurando automaticamente o {{MODEL}}"
-
-msgid "start_caption"
-msgstr "O DriverPack irá verificar o sistema, instalar os<br/>drivers e programas necessários e realizar os diagnósticos. <br/>A eficiência do computador deve aumentar."
 
 msgid "start_expert_mode"
 msgstr "Modo Avançado"
 
 msgid "start_expert_mode_label"
 msgstr "Configurações Avançadas"
-
-msgid "start_license"
-msgstr "Termos de Licença"
 
 msgid "footer_site"
 msgstr "Remoção do DriverPack"
@@ -1473,6 +1507,3 @@ msgstr "A placa de som está conectada incorretamente, ou há alguns problemas c
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Portuguese (Brazil)"
-
-#~ msgid "confirm_popup_install_button_ok"
-#~ msgstr "OK"

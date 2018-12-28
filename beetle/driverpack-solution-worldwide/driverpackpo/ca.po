@@ -1,4 +1,5 @@
 # Translators:
+# 
 # Translators:
 # Boris Ovsepyan, 2017
 # jmontane, 2016
@@ -8,8 +9,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-04 13:20+0000\n"
-"PO-Revision-Date: 2018-10-25 09:13+0000\n"
+"POT-Creation-Date: 2018-12-25 17:54+0000\n"
+"PO-Revision-Date: 2018-12-27 09:43+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Catalan (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/ca/)\n"
 "MIME-Version: 1.0\n"
@@ -20,12 +21,6 @@ msgstr ""
 
 msgid "installation_close_confirm"
 msgstr "Esteu segur de voler interrompre la instal·lació? Pot causar que l'ordinador no funcioni correctament."
-
-msgid "authorize_failed"
-msgstr "Error iniciant la sessió"
-
-msgid "unauthorize_failed"
-msgstr "Error en tancar sessió"
 
 msgid "deviceclasses_bluetooth-single-main"
 msgstr "dispositiu Bluetooth"
@@ -458,6 +453,30 @@ msgstr "https://vk.com/topic-29220845_34743007"
 msgid "start_title_default_model"
 msgstr "vostre ordinador"
 
+msgid "start_installation_option_mouse"
+msgstr ""
+
+msgid "start_installation_option_keyboard"
+msgstr ""
+
+msgid "start_installation_option_printer"
+msgstr ""
+
+msgid "start_installation_option_video"
+msgstr ""
+
+msgid "start_installation_option_sound"
+msgstr ""
+
+msgid "start_installation_option_usb"
+msgstr ""
+
+msgid "start_installation_option_webcam"
+msgstr ""
+
+msgid "start_installation_option_games"
+msgstr ""
+
 msgid "menu_create_recovery_point"
 msgstr "Crea un punt de restauració"
 
@@ -496,6 +515,9 @@ msgstr "Administrador de tasques"
 
 msgid "menu_cmd"
 msgstr "Línia de comandes"
+
+msgid "start_license"
+msgstr "Acord de llicència"
 
 msgid "configurator-screen_downloading"
 msgstr "Descarregant: {{DOWNLOADED_SIZE}} de {{TOTAL_SIZE}}"
@@ -651,14 +673,14 @@ msgstr "Tots els controladors necessaris ja estan instal·lats"
 msgid "zero-drivers_cta-msg-caption-link"
 msgstr "reinstal·lar o restaurar la versió anterior"
 
-msgid "zero-drivers_cta-btn"
-msgstr "Ves a la neteja de l'ordinador"
+msgid "zero-drivers_support-btn"
+msgstr ""
+
+msgid "zero-drivers_all-drivers-btn"
+msgstr ""
 
 msgid "zero-drivers_footer_device-manager"
 msgstr "Gestor de dispositius"
-
-msgid "zero-drivers_footer_support"
-msgstr "Suport tècnic"
 
 msgid "zero-drivers_footer_system-restore"
 msgstr "Recuperació del sistema"
@@ -784,6 +806,9 @@ msgstr "Instal·la els controladors importants"
 
 msgid "loading_reboot"
 msgstr "Recomanem que reinicieu l'ordinador tan aviat com acabi la instal·lació."
+
+msgid "zero-drivers_footer_support"
+msgstr "Suport tècnic"
 
 msgid "final_aside_installed_drivers_title"
 msgid_plural "final_aside_installed_drivers_title_n"
@@ -1001,7 +1026,7 @@ msgid "installation_error_restore_disabled"
 msgstr "Error: No permès per les opcions del sistema"
 
 msgid "installation_error_restore_not_created"
-msgstr "Error generant"
+msgstr ""
 
 msgid "installation_progress_stage_creating"
 msgstr "Generant..."
@@ -1044,6 +1069,15 @@ msgstr "Heu cancel·lat l'acció"
 
 msgid "installation_title_name"
 msgstr "Elements a instal·lar"
+
+msgid "restart_popup_title"
+msgstr ""
+
+msgid "restart_popup_caption"
+msgstr ""
+
+msgid "restart_popup_button"
+msgstr ""
 
 msgid "installation_item_description_restorepoint"
 msgstr "Permet que es pugui restaurar el sistema a un estat anterior si alguna cosa no va bé"
@@ -1240,26 +1274,26 @@ msgstr "DriverPack ha estat creat específicament per a administradors però és
 msgid "settings-screen_license"
 msgstr "Acord de llicència"
 
+msgid "start_caption_select_problems"
+msgstr ""
+
+msgid "start_button_problems_selected"
+msgstr ""
+
 msgid "start_button_install_drivers"
 msgstr "Instal·la tots els controladors"
 
 msgid "start_button_install"
-msgstr "Configura l'ordinador automàticament"
+msgstr ""
 
 msgid "start_title"
 msgstr "Configuració automàtica del {{MODEL}}"
-
-msgid "start_caption"
-msgstr "DriverPack escanejarà el sistema, instal·larà els controladors <br/> necessaris i les aplicacions i realitzarà uns diagnosis. <br/> La eficiència de l'ordinador hauria d'incrementar."
 
 msgid "start_expert_mode"
 msgstr "Mode Expert"
 
 msgid "start_expert_mode_label"
 msgstr "Opcions avançades"
-
-msgid "start_license"
-msgstr "Acord de llicència"
 
 msgid "footer_site"
 msgstr "Desinstal·lació de DriverPack"
@@ -1471,6 +1505,3 @@ msgstr "La targeta de so no està ben connectada, o hi ha algun problema que fa 
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Catalan"
-
-#~ msgid "confirm_popup_install_button_ok"
-#~ msgstr "OK"

@@ -1,4 +1,5 @@
 # Translators:
+# 
 # Translators:
 # Flávio Pereira <homersflav@gmail.com>, 2018
 # Flávio Pereira <homersflav@gmail.com>, 2018
@@ -11,8 +12,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-04 13:20+0000\n"
-"PO-Revision-Date: 2018-08-02 19:38+0000\n"
+"POT-Creation-Date: 2018-12-25 17:54+0000\n"
+"PO-Revision-Date: 2018-12-27 09:43+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Portuguese (Portugal) (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/pt_PT/)\n"
 "MIME-Version: 1.0\n"
@@ -23,12 +24,6 @@ msgstr ""
 
 msgid "installation_close_confirm"
 msgstr "Tem a certeza que pretende interromper a instalação? O seu computador poderá ficar inoperacional."
-
-msgid "authorize_failed"
-msgstr "Erro no início de Sessão"
-
-msgid "unauthorize_failed"
-msgstr "Erro no fecho de Sessão"
 
 msgid "deviceclasses_bluetooth-single-main"
 msgstr "dispositivo Bluetooth"
@@ -461,6 +456,30 @@ msgstr "https://vk.com/topic-29220845_34743007"
 msgid "start_title_default_model"
 msgstr "seu computador"
 
+msgid "start_installation_option_mouse"
+msgstr ""
+
+msgid "start_installation_option_keyboard"
+msgstr ""
+
+msgid "start_installation_option_printer"
+msgstr ""
+
+msgid "start_installation_option_video"
+msgstr ""
+
+msgid "start_installation_option_sound"
+msgstr ""
+
+msgid "start_installation_option_usb"
+msgstr ""
+
+msgid "start_installation_option_webcam"
+msgstr ""
+
+msgid "start_installation_option_games"
+msgstr ""
+
 msgid "menu_create_recovery_point"
 msgstr "Criar Ponto de Restauro"
 
@@ -499,6 +518,9 @@ msgstr "Gestor de Tarefas"
 
 msgid "menu_cmd"
 msgstr "Linha de Comandos"
+
+msgid "start_license"
+msgstr "Acordo da Licença"
 
 msgid "configurator-screen_downloading"
 msgstr "A Transferir: {{DOWNLOADED_SIZE}} de {{TOTAL_SIZE}}"
@@ -654,14 +676,14 @@ msgstr "Todos os controladores necessários já estão instalados"
 msgid "zero-drivers_cta-msg-caption-link"
 msgstr "reinstalar ou restaurar os controladores"
 
-msgid "zero-drivers_cta-btn"
-msgstr "Ir para limpeza do computador"
+msgid "zero-drivers_support-btn"
+msgstr ""
+
+msgid "zero-drivers_all-drivers-btn"
+msgstr ""
 
 msgid "zero-drivers_footer_device-manager"
 msgstr "Gestor de Dispositivos"
-
-msgid "zero-drivers_footer_support"
-msgstr "Apoio Técnico"
 
 msgid "zero-drivers_footer_system-restore"
 msgstr "Recuperação do Sistema"
@@ -787,6 +809,9 @@ msgstr "Instalar controladores importantes"
 
 msgid "loading_reboot"
 msgstr "Recomendamos que reinicie o computador tão logo possível para que a instalação finalize."
+
+msgid "zero-drivers_footer_support"
+msgstr "Apoio Técnico"
 
 msgid "final_aside_installed_drivers_title"
 msgid_plural "final_aside_installed_drivers_title_n"
@@ -1004,7 +1029,7 @@ msgid "installation_error_restore_disabled"
 msgstr "Erro: proibido pelas definições de sistema"
 
 msgid "installation_error_restore_not_created"
-msgstr "Erro na Criação"
+msgstr ""
 
 msgid "installation_progress_stage_creating"
 msgstr "A criar..."
@@ -1047,6 +1072,15 @@ msgstr "Cancelou-o"
 
 msgid "installation_title_name"
 msgstr "Itens para instalação"
+
+msgid "restart_popup_title"
+msgstr ""
+
+msgid "restart_popup_caption"
+msgstr ""
+
+msgid "restart_popup_button"
+msgstr ""
 
 msgid "installation_item_description_restorepoint"
 msgstr "Permite um restauro do sistema para um ponto anterior se algo correr mal"
@@ -1243,26 +1277,26 @@ msgstr "O DriverPack foi criado especialmente para administradores mas é simple
 msgid "settings-screen_license"
 msgstr "Acordo da Licença"
 
+msgid "start_caption_select_problems"
+msgstr ""
+
+msgid "start_button_problems_selected"
+msgstr ""
+
 msgid "start_button_install_drivers"
 msgstr "Instalar todos os controladores"
 
 msgid "start_button_install"
-msgstr "Configure o computador automaticamente"
+msgstr ""
 
 msgid "start_title"
 msgstr "Configuração automática de{{MODEL}}"
-
-msgid "start_caption"
-msgstr "O DriverPack vai analisar o sistema, instalar os necessários <br/>controladores e programas, e efetuar diagnósticos. <br/>A eficiência do seu computador deverá aumentar."
 
 msgid "start_expert_mode"
 msgstr "Modo Especialista"
 
 msgid "start_expert_mode_label"
 msgstr "Opções Avançadas"
-
-msgid "start_license"
-msgstr "Acordo da Licença"
 
 msgid "footer_site"
 msgstr "Remoção do DriverPack"
@@ -1474,6 +1508,3 @@ msgstr "A placa de som está incorretamente conetada, ou existem alguns problema
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Portuguese (Portugal)"
-
-#~ msgid "confirm_popup_install_button_ok"
-#~ msgstr "OK"

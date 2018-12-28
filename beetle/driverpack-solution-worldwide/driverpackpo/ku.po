@@ -1,4 +1,5 @@
 # Translators:
+# 
 # Translators:
 # Bakhtawar Barzan <bakhtawar.barzan95@hotmail.com>, 2017-2018
 # Haval Abdulkarim <haval.abdulkarim@gmail.com>, 2016
@@ -9,8 +10,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-04 13:20+0000\n"
-"PO-Revision-Date: 2018-11-04 09:37+0000\n"
+"POT-Creation-Date: 2018-12-25 17:54+0000\n"
+"PO-Revision-Date: 2018-12-27 09:43+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Kurdish (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/ku/)\n"
 "MIME-Version: 1.0\n"
@@ -21,12 +22,6 @@ msgstr ""
 
 msgid "installation_close_confirm"
 msgstr "ئایا تۆ دڵنیایت كه‌  ده‌ته‌وێت دامه‌زراندنه‌كه‌ بوه‌ستێنیت؟ ئه‌مه‌ له‌وانه‌یه‌ ببێته‌ هۆی ئه‌وه‌ی كه‌ كۆمپیوته‌ره‌كه‌ت به‌ ئاسایی كار نه‌كات."
-
-msgid "authorize_failed"
-msgstr "هه‌ڵه‌ له‌ داخڵبوون"
-
-msgid "unauthorize_failed"
-msgstr "هه‌ڵه‌ له‌ چوونه‌ده‌ره‌وه‌"
 
 msgid "deviceclasses_bluetooth-single-main"
 msgstr "ئامێری Bluetooth"
@@ -459,6 +454,30 @@ msgstr "https://vk.com/topic-29220845_34743007"
 msgid "start_title_default_model"
 msgstr "كۆمپیوته‌ره‌كه‌ی تۆ"
 
+msgid "start_installation_option_mouse"
+msgstr ""
+
+msgid "start_installation_option_keyboard"
+msgstr ""
+
+msgid "start_installation_option_printer"
+msgstr ""
+
+msgid "start_installation_option_video"
+msgstr ""
+
+msgid "start_installation_option_sound"
+msgstr ""
+
+msgid "start_installation_option_usb"
+msgstr ""
+
+msgid "start_installation_option_webcam"
+msgstr ""
+
+msgid "start_installation_option_games"
+msgstr ""
+
 msgid "menu_create_recovery_point"
 msgstr "دروستكردنی خاڵی گه‌ڕانه‌وه‌"
 
@@ -497,6 +516,9 @@ msgstr "بەڕێوەبەری ئەرکەکان"
 
 msgid "menu_cmd"
 msgstr "هێڵی فه‌رمانكردن"
+
+msgid "start_license"
+msgstr "مۆڵه‌تنامه‌ی ڕێككه‌وتن"
 
 msgid "configurator-screen_downloading"
 msgstr "دابەزاندنی : {{DOWNLOADED_SIZE}} لە {{TOTAL_SIZE}}"
@@ -652,14 +674,14 @@ msgstr "هه‌موو پێناسه‌ داواكراوه‌كان له‌ ئێس
 msgid "zero-drivers_cta-msg-caption-link"
 msgstr "دوباره‌ دامه‌زراندنه‌وه‌ یاخود گه‌ڕاندنه‌وه‌ی پێناسه‌كان"
 
-msgid "zero-drivers_cta-btn"
-msgstr "بڕۆ بۆ پاككردنه‌وه‌ی كۆمپیوته‌ره‌كه‌ت"
+msgid "zero-drivers_support-btn"
+msgstr ""
+
+msgid "zero-drivers_all-drivers-btn"
+msgstr ""
 
 msgid "zero-drivers_footer_device-manager"
 msgstr "بەڕێوەبەری ئامێر"
-
-msgid "zero-drivers_footer_support"
-msgstr "پشتگیری ته‌كنیكی"
 
 msgid "zero-drivers_footer_system-restore"
 msgstr "گه‌ڕاندنه‌وه‌ی سیسته‌م"
@@ -785,6 +807,9 @@ msgstr "پێناسه‌ گرنگه‌كان دابمه‌زرێنه‌"
 
 msgid "loading_reboot"
 msgstr "ئێمە پێشنیاری تۆ دەکەین بۆ ڕیستارت کردنەوەی کۆمپیوتەرەکەت بەخێرایی دوای تەواوبوونی دامەزراندنەکە"
+
+msgid "zero-drivers_footer_support"
+msgstr "پشتگیری ته‌كنیكی"
 
 msgid "final_aside_installed_drivers_title"
 msgid_plural "final_aside_installed_drivers_title_n"
@@ -1002,7 +1027,7 @@ msgid "installation_error_restore_disabled"
 msgstr "هەڵە: قەدەغەیە لەڵایەن سیستەمی رێکخستن"
 
 msgid "installation_error_restore_not_created"
-msgstr "هه‌ڵه‌ی دروستكردن"
+msgstr ""
 
 msgid "installation_progress_stage_creating"
 msgstr "دروستكردن..."
@@ -1045,6 +1070,15 @@ msgstr "تۆ هەڵوەشاند ئەوە "
 
 msgid "installation_title_name"
 msgstr "ئامرازە دابەزێندراوەکان"
+
+msgid "restart_popup_title"
+msgstr ""
+
+msgid "restart_popup_caption"
+msgstr ""
+
+msgid "restart_popup_button"
+msgstr ""
 
 msgid "installation_item_description_restorepoint"
 msgstr "ئەو یارمەتی سیستەم دەدات بۆ گەرانەوە بۆ باری پێشوو ئەگەر هەر کێشەیەک ڕووبدات"
@@ -1241,26 +1275,26 @@ msgstr "DriverPack دروستکراوە بەتایبەتی بۆ بەرێوەبە
 msgid "settings-screen_license"
 msgstr "مۆڵه‌تنامه‌ی ڕێككه‌وتن"
 
+msgid "start_caption_select_problems"
+msgstr ""
+
+msgid "start_button_problems_selected"
+msgstr ""
+
 msgid "start_button_install_drivers"
 msgstr "هەموو پێناسەکان دابمەزرێنە"
 
 msgid "start_button_install"
-msgstr "كۆمپیوته‌ر ڕێكبخه‌ به‌ automatically"
+msgstr ""
 
 msgid "start_title"
 msgstr "ڕێكخسیتنی ئۆتۆماتیكی {{MODEL}}"
-
-msgid "start_caption"
-msgstr "DriverPack سیستەمەکە دەپشکنێت، دابمەزرێنە ئەوەی پێویست لە<br/>پێناسەکان و بەرنامە، و جێبەجێکردنی دەستنیشانکردن. <br/>توانای کۆمپیوتەر دەبێت زیاد ببێت."
 
 msgid "start_expert_mode"
 msgstr "حاڵه‌تی شاره‌زا"
 
 msgid "start_expert_mode_label"
 msgstr "رێکخستنی پێشکەوتوو"
-
-msgid "start_license"
-msgstr "مۆڵه‌تنامه‌ی ڕێككه‌وتن"
 
 msgid "footer_site"
 msgstr "لابردنی DriverPack"
@@ -1472,6 +1506,3 @@ msgstr "کاردی دەنگ بەشێوەیەکی نەتەواو بەستراوە
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Kurdish"
-
-#~ msgid "confirm_popup_install_button_ok"
-#~ msgstr "OK"

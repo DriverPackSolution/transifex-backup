@@ -1,4 +1,5 @@
 # Translators:
+# 
 # Translators:
 # Agus S, 2018
 # Andi K, 2018
@@ -15,9 +16,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-04 13:20+0000\n"
-"PO-Revision-Date: 2018-07-20 06:36+0000\n"
-"Last-Translator: Andi K\n"
+"POT-Creation-Date: 2018-12-25 17:54+0000\n"
+"PO-Revision-Date: 2018-12-27 09:43+0000\n"
+"Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Indonesian (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/id/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -27,12 +28,6 @@ msgstr ""
 
 msgid "installation_close_confirm"
 msgstr "Apakah anda yakin ingin menyela pemasangan? Hal ini mungkin akan menyebabkan malfungsi terhadap komputer anda."
-
-msgid "authorize_failed"
-msgstr "Masuk gagal"
-
-msgid "unauthorize_failed"
-msgstr "Keluar gagal"
 
 msgid "deviceclasses_bluetooth-single-main"
 msgstr "perangkat Bluetooth"
@@ -465,6 +460,30 @@ msgstr "https://vk.com/topic-29220845_34743007"
 msgid "start_title_default_model"
 msgstr "komputer Anda"
 
+msgid "start_installation_option_mouse"
+msgstr ""
+
+msgid "start_installation_option_keyboard"
+msgstr ""
+
+msgid "start_installation_option_printer"
+msgstr ""
+
+msgid "start_installation_option_video"
+msgstr ""
+
+msgid "start_installation_option_sound"
+msgstr ""
+
+msgid "start_installation_option_usb"
+msgstr ""
+
+msgid "start_installation_option_webcam"
+msgstr ""
+
+msgid "start_installation_option_games"
+msgstr ""
+
 msgid "menu_create_recovery_point"
 msgstr "Buat Titik Pemulihan"
 
@@ -503,6 +522,9 @@ msgstr "Manager Tugas"
 
 msgid "menu_cmd"
 msgstr "Baris Perintah"
+
+msgid "start_license"
+msgstr "Perjanjian Lisensi"
 
 msgid "configurator-screen_downloading"
 msgstr "Mengunduh: {{DOWNLOADED_SIZE}} dari {{TOTAL_SIZE}}"
@@ -658,14 +680,14 @@ msgstr "Semua driver sudah dipasang"
 msgid "zero-drivers_cta-msg-caption-link"
 msgstr "pasang lagi atau kembalikan driver"
 
-msgid "zero-drivers_cta-btn"
-msgstr "Pergi ke pembersihan komputer"
+msgid "zero-drivers_support-btn"
+msgstr ""
+
+msgid "zero-drivers_all-drivers-btn"
+msgstr ""
 
 msgid "zero-drivers_footer_device-manager"
 msgstr "Pengelola Perangkat"
-
-msgid "zero-drivers_footer_support"
-msgstr "Dukungan Teknis"
 
 msgid "zero-drivers_footer_system-restore"
 msgstr "Pemulihan Sistem"
@@ -787,6 +809,9 @@ msgstr "Pasang driver penting"
 
 msgid "loading_reboot"
 msgstr "Sebaiknya anda menyalakan ulang komputer anda segera setelah pemasangan selesai"
+
+msgid "zero-drivers_footer_support"
+msgstr "Dukungan Teknis"
 
 msgid "final_aside_installed_drivers_title"
 msgid_plural "final_aside_installed_drivers_title_n"
@@ -1003,7 +1028,7 @@ msgid "installation_error_restore_disabled"
 msgstr "Kesalahan: tidak diperbolehkan pengaturan sistem"
 
 msgid "installation_error_restore_not_created"
-msgstr "Kesalahan pembuatan"
+msgstr ""
 
 msgid "installation_progress_stage_creating"
 msgstr "Sedang membuat..."
@@ -1046,6 +1071,15 @@ msgstr "Anda sudah membatalkannya"
 
 msgid "installation_title_name"
 msgstr "Materi pemasangan"
+
+msgid "restart_popup_title"
+msgstr ""
+
+msgid "restart_popup_caption"
+msgstr ""
+
+msgid "restart_popup_button"
+msgstr ""
 
 msgid "installation_item_description_restorepoint"
 msgstr "Ini memungkinkan sistem kembali ke keadaan sebelumnya jika terjadi kesalahan"
@@ -1242,26 +1276,26 @@ msgstr "DriverPack telah dibuat khusus untuk para admin namun jelas dan nyaman b
 msgid "settings-screen_license"
 msgstr "Perjanjian Lisensi"
 
+msgid "start_caption_select_problems"
+msgstr ""
+
+msgid "start_button_problems_selected"
+msgstr ""
+
 msgid "start_button_install_drivers"
 msgstr "Pasang semua driver"
 
 msgid "start_button_install"
-msgstr "Konfigurasi otomatis komputer"
+msgstr ""
 
 msgid "start_title"
 msgstr "Konfigurasi otomatis dari {{MODEL}}"
-
-msgid "start_caption"
-msgstr "DriverPack akan memindai sistem, pasang driver dan perangkat lunak<br/>yang diperlukan, dan lakukan diagnosa. <br/>Efisiensi komputer harusnya meningkat."
 
 msgid "start_expert_mode"
 msgstr "Mode ahli"
 
 msgid "start_expert_mode_label"
 msgstr "Pengaturan Lanjutan"
-
-msgid "start_license"
-msgstr "Perjanjian Lisensi"
 
 msgid "footer_site"
 msgstr "Penghapus DriverPack "
@@ -1470,6 +1504,3 @@ msgstr "Kartu suara tersambung dengan tidak benar, atau ada beberapa masalah den
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Indonesian"
-
-#~ msgid "confirm_popup_install_button_ok"
-#~ msgstr "OK"

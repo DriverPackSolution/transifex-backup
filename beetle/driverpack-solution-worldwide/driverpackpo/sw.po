@@ -1,4 +1,5 @@
 # Translators:
+# 
 # Translators:
 # adam masenga <adammasenga@gmail.com>, 2017-2018
 # Alphonce Munjal <alphonceotienomunjal@gmail.com>, 2018
@@ -11,8 +12,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-04 13:20+0000\n"
-"PO-Revision-Date: 2018-09-06 09:42+0000\n"
+"POT-Creation-Date: 2018-12-25 17:54+0000\n"
+"PO-Revision-Date: 2018-12-27 09:43+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Swahili (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/sw/)\n"
 "MIME-Version: 1.0\n"
@@ -23,12 +24,6 @@ msgstr ""
 
 msgid "installation_close_confirm"
 msgstr "Je! uko na uhakika unataka kukatiza ku install? Inaweza sababisha kompyuta yako kuharibika."
-
-msgid "authorize_failed"
-msgstr "Tatizo la kuingia"
-
-msgid "unauthorize_failed"
-msgstr "Tatizo la kutoka"
 
 msgid "deviceclasses_bluetooth-single-main"
 msgstr "kifaa cha Bluetooth"
@@ -461,6 +456,30 @@ msgstr "https://vk.com/topic-29220845_34743007"
 msgid "start_title_default_model"
 msgstr "kompyuta yako"
 
+msgid "start_installation_option_mouse"
+msgstr ""
+
+msgid "start_installation_option_keyboard"
+msgstr ""
+
+msgid "start_installation_option_printer"
+msgstr ""
+
+msgid "start_installation_option_video"
+msgstr ""
+
+msgid "start_installation_option_sound"
+msgstr ""
+
+msgid "start_installation_option_usb"
+msgstr ""
+
+msgid "start_installation_option_webcam"
+msgstr ""
+
+msgid "start_installation_option_games"
+msgstr ""
+
 msgid "menu_create_recovery_point"
 msgstr "Unda Hatua ya Kurejesha"
 
@@ -499,6 +518,9 @@ msgstr "Task Meneja"
 
 msgid "menu_cmd"
 msgstr "Mstari wa amri"
+
+msgid "start_license"
+msgstr "Mkataba wa leseni"
 
 msgid "configurator-screen_downloading"
 msgstr "Upakuaji: {{DOWNLOADED_SIZE}} ya {{TOTAL_SIZE}}"
@@ -654,14 +676,14 @@ msgstr "Madriver yote yanayohitajika tayari yamewekwa"
 msgid "zero-drivers_cta-msg-caption-link"
 msgstr "weka tena au rudisha madriver za apo awalali"
 
-msgid "zero-drivers_cta-btn"
-msgstr "Nenda ku kusafisha kompyuta"
+msgid "zero-drivers_support-btn"
+msgstr ""
+
+msgid "zero-drivers_all-drivers-btn"
+msgstr ""
 
 msgid "zero-drivers_footer_device-manager"
 msgstr "Mwongoza kifaa"
-
-msgid "zero-drivers_footer_support"
-msgstr "Msaada wa kiufundi"
 
 msgid "zero-drivers_footer_system-restore"
 msgstr "Upyaji wa Mfumo"
@@ -787,6 +809,9 @@ msgstr "Weka madriver muhumu"
 
 msgid "loading_reboot"
 msgstr "Tunakupendekeza kuanzisha kompyuta yako mara tu kuwekwa umekamilishwa"
+
+msgid "zero-drivers_footer_support"
+msgstr "Msaada wa kiufundi"
 
 msgid "final_aside_installed_drivers_title"
 msgid_plural "final_aside_installed_drivers_title_n"
@@ -1004,7 +1029,7 @@ msgid "installation_error_restore_disabled"
 msgstr "Hitilafu: umekataliwa na mipangilio ya mfumo"
 
 msgid "installation_error_restore_not_created"
-msgstr "Makosa ya uumbaji"
+msgstr ""
 
 msgid "installation_progress_stage_creating"
 msgstr "Kujenga..."
@@ -1047,6 +1072,15 @@ msgstr "Umeifuta"
 
 msgid "installation_title_name"
 msgstr "Vifaa vya kuwekwa"
+
+msgid "restart_popup_title"
+msgstr ""
+
+msgid "restart_popup_caption"
+msgstr ""
+
+msgid "restart_popup_button"
+msgstr ""
 
 msgid "installation_item_description_restorepoint"
 msgstr "Inaruhusu mfumo wa kurudi nyuma kwenye hali yake ya awali ikiwa kitu kinakwenda vibaya"
@@ -1243,26 +1277,26 @@ msgstr "DriverPack imeundwa mahsusi kwa admins lakini ni wazi na rahisi hata kwa
 msgid "settings-screen_license"
 msgstr "Mkataba wa leseni"
 
+msgid "start_caption_select_problems"
+msgstr ""
+
+msgid "start_button_problems_selected"
+msgstr ""
+
 msgid "start_button_install_drivers"
 msgstr "Weka madriver yote"
 
 msgid "start_button_install"
-msgstr "Sanidi kompyuta moja kwa moja"
+msgstr ""
 
 msgid "start_title"
 msgstr "kusanidi ya moja kwa moja ya {{MODEL}}"
-
-msgid "start_caption"
-msgstr "DriverPack itasoma mfumo, weka<br/>madriver na programu zinazotakikana na ufanyie uchunguzi. <br/>Ufanisi wa kompyuta unapaswa kuongezeka."
 
 msgid "start_expert_mode"
 msgstr "Mode ya mtaalam"
 
 msgid "start_expert_mode_label"
 msgstr "Mipangilio ya juu"
-
-msgid "start_license"
-msgstr "Mkataba wa leseni"
 
 msgid "footer_site"
 msgstr "DriverPack kuondolewa"
@@ -1474,6 +1508,3 @@ msgstr "Kadi ya sauti imeshikamana kwa usahihi, au kuna matatizo mengine na uend
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Swahili"
-
-#~ msgid "confirm_popup_install_button_ok"
-#~ msgstr "OK"

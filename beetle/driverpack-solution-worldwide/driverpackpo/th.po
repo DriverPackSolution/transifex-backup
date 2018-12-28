@@ -1,4 +1,5 @@
 # Translators:
+# 
 # Translators:
 # Amonrat Lek <Amonrat_l@softsquaregroup.com>, 2018
 # Nadia Tegeneva <nadia@drp.su>, 2017-2018
@@ -9,8 +10,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-04 13:20+0000\n"
-"PO-Revision-Date: 2018-07-13 17:29+0000\n"
+"POT-Creation-Date: 2018-12-25 17:54+0000\n"
+"PO-Revision-Date: 2018-12-27 09:43+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Thai (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/th/)\n"
 "MIME-Version: 1.0\n"
@@ -21,12 +22,6 @@ msgstr ""
 
 msgid "installation_close_confirm"
 msgstr "คุณต้องการหยุดการติดตั้งนี้จริงหรือไม่? มันอาจส่งผลให้คอมพิวเตอร์ของคุณทำงานผิดปกติได้"
-
-msgid "authorize_failed"
-msgstr "เข้าสู่ระบบล้มเหลว"
-
-msgid "unauthorize_failed"
-msgstr "ออกจากระบบล้มเหลว"
 
 msgid "deviceclasses_bluetooth-single-main"
 msgstr "อุปกรณ์ Bluetooth"
@@ -459,6 +454,30 @@ msgstr "https://vk.com/topic-29220845_34743007"
 msgid "start_title_default_model"
 msgstr "คอมพิวเตอร์ของคุณ"
 
+msgid "start_installation_option_mouse"
+msgstr ""
+
+msgid "start_installation_option_keyboard"
+msgstr ""
+
+msgid "start_installation_option_printer"
+msgstr ""
+
+msgid "start_installation_option_video"
+msgstr ""
+
+msgid "start_installation_option_sound"
+msgstr ""
+
+msgid "start_installation_option_usb"
+msgstr ""
+
+msgid "start_installation_option_webcam"
+msgstr ""
+
+msgid "start_installation_option_games"
+msgstr ""
+
 msgid "menu_create_recovery_point"
 msgstr "สร้างจุดคืนค่า"
 
@@ -497,6 +516,9 @@ msgstr "ตัวจัดการงาน"
 
 msgid "menu_cmd"
 msgstr "แถวคำสั่ง"
+
+msgid "start_license"
+msgstr "ข้อตกลงการอนุญาตใช้สิทธิ์"
 
 msgid "configurator-screen_downloading"
 msgstr "กำลังดาวน์โหลด {{DOWNLOADED_SIZE}} จาก {{TOTAL_SIZE}}"
@@ -652,14 +674,14 @@ msgstr "ไดรเวอร์ที่ต้องการทั้งหม
 msgid "zero-drivers_cta-msg-caption-link"
 msgstr "ติดตั้งซ้ำหรือย้อนกลับไดรเวอร์"
 
-msgid "zero-drivers_cta-btn"
-msgstr "ไปที่ทำความสะอาดคอมพิวเตอร์"
+msgid "zero-drivers_support-btn"
+msgstr ""
+
+msgid "zero-drivers_all-drivers-btn"
+msgstr ""
 
 msgid "zero-drivers_footer_device-manager"
 msgstr "ตัวจัดการอุปกรณ์"
-
-msgid "zero-drivers_footer_support"
-msgstr "สนับสนุนทางเทคนิค"
 
 msgid "zero-drivers_footer_system-restore"
 msgstr "กู้ระบบ"
@@ -781,6 +803,9 @@ msgstr "ติดตั้งไดร์เวอร์ที่สำคัญ
 
 msgid "loading_reboot"
 msgstr "เราแนะนำให้คุณรีบู๊ทคอมพิวเตอร์ของคุณหลังจากการติดตั้งเสร็จสมบูรณ์"
+
+msgid "zero-drivers_footer_support"
+msgstr "สนับสนุนทางเทคนิค"
 
 msgid "final_aside_installed_drivers_title"
 msgid_plural "final_aside_installed_drivers_title_n"
@@ -997,7 +1022,7 @@ msgid "installation_error_restore_disabled"
 msgstr "ข้อผิดพลาด: ถูกปิดกั้นโดยการตั้งค่าระบบ"
 
 msgid "installation_error_restore_not_created"
-msgstr "การสร้างเกิดปัญหา"
+msgstr ""
 
 msgid "installation_progress_stage_creating"
 msgstr "กำลังสร้าง..."
@@ -1040,6 +1065,15 @@ msgstr "คุณได้ยกเลิกแล้ว"
 
 msgid "installation_title_name"
 msgstr "รายการที่ติดตั้ง"
+
+msgid "restart_popup_title"
+msgstr ""
+
+msgid "restart_popup_caption"
+msgstr ""
+
+msgid "restart_popup_button"
+msgstr ""
 
 msgid "installation_item_description_restorepoint"
 msgstr "มันเปิดการใช้งานการย้อนกลับระบบไปสู่สถาพก่อนหน้าถ้าบางอย่างผิดพลาด"
@@ -1236,26 +1270,26 @@ msgstr "DriverPack ได้ถูกสร้างขึ้นมาโดย�
 msgid "settings-screen_license"
 msgstr "ข้อตกลงการอนุญาตใช้สิทธิ์"
 
+msgid "start_caption_select_problems"
+msgstr ""
+
+msgid "start_button_problems_selected"
+msgstr ""
+
 msgid "start_button_install_drivers"
 msgstr "ติดตั้งไดรเวอร์ทั้งหมด"
 
 msgid "start_button_install"
-msgstr "ปรับแต่งคอมพิวเตอร์อัตโนมัติ"
+msgstr ""
 
 msgid "start_title"
 msgstr "ปรับแต่ง {{MODEL}} อัตโนมัติ"
-
-msgid "start_caption"
-msgstr "DriverPack จะสแกนระบบ ติดตั้ง<br/>ไดรเวอร์และซอฟท์แวร์ที่ต้องการ และวินิจฉัย <br/>ประสิทธิภาพของคอมพิวเตอร์จะเพิ่มขึ้น"
 
 msgid "start_expert_mode"
 msgstr "โหมดผู้เชี่ยวชาญ"
 
 msgid "start_expert_mode_label"
 msgstr "การตั้งค่าชั้นสูง"
-
-msgid "start_license"
-msgstr "ข้อตกลงการอนุญาตใช้สิทธิ์"
 
 msgid "footer_site"
 msgstr "ถอดถอน DriverPack"
@@ -1464,6 +1498,3 @@ msgstr "การ์ดเสียงนี้เชื่อมต่อไม
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Thai"
-
-#~ msgid "confirm_popup_install_button_ok"
-#~ msgstr "OK"

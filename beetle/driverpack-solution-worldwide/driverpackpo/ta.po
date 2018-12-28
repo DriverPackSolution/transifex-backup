@@ -1,4 +1,5 @@
 # Translators:
+# 
 # Translators:
 # Nadia Tegeneva <nadia@drp.su>, 2018
 # Nannan Annadurai <nanna7077@gmail.com>, 2018
@@ -7,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-04 13:20+0000\n"
-"PO-Revision-Date: 2018-08-08 19:31+0000\n"
+"POT-Creation-Date: 2018-12-25 17:54+0000\n"
+"PO-Revision-Date: 2018-12-27 09:43+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Tamil (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/ta/)\n"
 "MIME-Version: 1.0\n"
@@ -19,12 +20,6 @@ msgstr ""
 
 msgid "installation_close_confirm"
 msgstr "நிறுவல் குறுக்கிட வேண்டுமா? இது உங்கள் கணினியை செயலிழக்கச் செய்யும்."
-
-msgid "authorize_failed"
-msgstr "நுழைவு பிழை"
-
-msgid "unauthorize_failed"
-msgstr "வெளியேறுவதில் பிழை"
 
 msgid "deviceclasses_bluetooth-single-main"
 msgstr "Bluetooth ப்ளூடூத் சாதனம்"
@@ -457,6 +452,30 @@ msgstr "https://vk.com/topic-29220845_34743007"
 msgid "start_title_default_model"
 msgstr "உங்கள் கணினி"
 
+msgid "start_installation_option_mouse"
+msgstr ""
+
+msgid "start_installation_option_keyboard"
+msgstr ""
+
+msgid "start_installation_option_printer"
+msgstr ""
+
+msgid "start_installation_option_video"
+msgstr ""
+
+msgid "start_installation_option_sound"
+msgstr ""
+
+msgid "start_installation_option_usb"
+msgstr ""
+
+msgid "start_installation_option_webcam"
+msgstr ""
+
+msgid "start_installation_option_games"
+msgstr ""
+
 msgid "menu_create_recovery_point"
 msgstr "மீட்டமைக்கும் புள்ளியை உருவாக்கு"
 
@@ -495,6 +514,9 @@ msgstr "பணி மேலாளர்"
 
 msgid "menu_cmd"
 msgstr "கட்டளை வரி"
+
+msgid "start_license"
+msgstr "உரிம ஒப்பந்தம்"
 
 msgid "configurator-screen_downloading"
 msgstr "பதிவிறக்கமாகிறது: {{DOWNLOADED_SIZE}} க்கு {{TOTAL_SIZE}}"
@@ -650,14 +672,14 @@ msgstr "தேவையான எல்லா இயக்கிகளும் 
 msgid "zero-drivers_cta-msg-caption-link"
 msgstr "மீண்டும் நிறுவவும் அல்லது பழைய வன்பொருள்களை மீண்டும் நிறுவவும்"
 
-msgid "zero-drivers_cta-btn"
-msgstr "கணினியை சுத்தம் செய்யுங்கள்"
+msgid "zero-drivers_support-btn"
+msgstr ""
+
+msgid "zero-drivers_all-drivers-btn"
+msgstr ""
 
 msgid "zero-drivers_footer_device-manager"
 msgstr "சாதன மேலாளர்"
-
-msgid "zero-drivers_footer_support"
-msgstr "தொழில்நுட்ப உதவி"
 
 msgid "zero-drivers_footer_system-restore"
 msgstr "கணினி மீட்பு"
@@ -783,6 +805,9 @@ msgstr "அனைத்து முக்கிய வன்பொருள்�
 
 msgid "loading_reboot"
 msgstr "நிறுவல் முடிந்ததும் உங்கள் கணினியை மீண்டும் துவக்க பரிந்துரைக்கிறோம்"
+
+msgid "zero-drivers_footer_support"
+msgstr "தொழில்நுட்ப உதவி"
 
 msgid "final_aside_installed_drivers_title"
 msgid_plural "final_aside_installed_drivers_title_n"
@@ -1000,7 +1025,7 @@ msgid "installation_error_restore_disabled"
 msgstr "பிழை: கணினி அமைப்புகளால் தடைசெய்யப்பட்டது"
 
 msgid "installation_error_restore_not_created"
-msgstr "உருவாக்கம் பிழை"
+msgstr ""
 
 msgid "installation_progress_stage_creating"
 msgstr "உருவாக்கம் நடைபெறுகிறது..."
@@ -1043,6 +1068,15 @@ msgstr "நீங்கள் அதை ரத்து செய்துள்
 
 msgid "installation_title_name"
 msgstr "நிறுவல் உருப்படிகள்"
+
+msgid "restart_popup_title"
+msgstr ""
+
+msgid "restart_popup_caption"
+msgstr ""
+
+msgid "restart_popup_button"
+msgstr ""
 
 msgid "installation_item_description_restorepoint"
 msgstr "ஏதோ தவறு நடந்தால், அதன் முந்தைய நிலைக்கு ஒரு கணினி ரோல்-முனையை இயக்குகிறது"
@@ -1239,26 +1273,26 @@ msgstr "DriverPack வன்பொருள்தொகுப்பு ஆனத
 msgid "settings-screen_license"
 msgstr "உரிம ஒப்பந்தம்"
 
+msgid "start_caption_select_problems"
+msgstr ""
+
+msgid "start_button_problems_selected"
+msgstr ""
+
 msgid "start_button_install_drivers"
 msgstr "அனைத்து வன்பொருள்களையும் நிறுவுக"
 
 msgid "start_button_install"
-msgstr "கணினி தானாக கட்டமைக்க"
+msgstr ""
 
 msgid "start_title"
 msgstr "தானியங்கி கட்டமைத்தல் {{MODEL}}"
-
-msgid "start_caption"
-msgstr "DriverPack வன்பொருள் தொகுப்பு கணினியை பரிசோதனை செய்து, தேவையான<br/>வன்பொருள்களையும், மென்பொருள்களையும் நிறுவும், மற்றும் குறைகளை கண்டறிந்து சரி செய்யும். <br/>கணினியின் திறனை அதிகரிக்க இது துணை புரியும்."
 
 msgid "start_expert_mode"
 msgstr "நிபுணத்துவ நிலை"
 
 msgid "start_expert_mode_label"
 msgstr "மேம்பட்ட அமைப்புகள்"
-
-msgid "start_license"
-msgstr "உரிம ஒப்பந்தம்"
 
 msgid "footer_site"
 msgstr "DriverPack வன்பொருள்தொகுப்பு அகற்ற"
@@ -1470,6 +1504,3 @@ msgstr "ஒலி அட்டை தவறாக இணைக்கப்பட
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Tamil"
-
-#~ msgid "confirm_popup_install_button_ok"
-#~ msgstr "OK"
