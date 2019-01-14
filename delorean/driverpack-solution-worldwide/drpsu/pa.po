@@ -1,5 +1,5 @@
 # Translators:
-# Nadia Tegeneva <nadia@drp.su>, 2018
+# Nadia Tegeneva <nadia@drp.su>, 2019
 # Leonid Beschasny <lbeschastny@iknow.travel>, 2017
 # Nadia Tegeneva <nadia@drp.su>, 2018
 # 
@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-11-21 09:46+0000\n"
 "PO-Revision-Date: 2016-12-16 14:30+0000\n"
-"Last-Translator: Nadia Tegeneva <nadia@drp.su>, 2018\n"
+"Last-Translator: Nadia Tegeneva <nadia@drp.su>, 2019\n"
 "Language-Team: Panjabi (Punjabi) (https://www.transifex.com/driverpack-solution/teams/75453/pa/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -64,7 +64,7 @@ msgstr ""
 
 #. i18n: EN: Example: VENDOR.NAME=Lenovo; RU: Пример: VENDOR.NAME=Lenovo;
 msgid "breadcrumbs_vendor-text"
-msgstr ""
+msgstr "{{VENDOR.NAME}}"
 
 #. i18n: EN: Example: VENDOR.NAME=Lenovo; RU: Пример: VENDOR.NAME=Lenovo;
 msgid "breadcrumbs_vendorlanding-text"
@@ -73,18 +73,18 @@ msgstr ""
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=cardreaders|monitors; RU: Пример:
 #. CLASS.PLURAL.MAIN=картридеры|мониторы;
 msgid "breadcrumbs_deviceclass-text"
-msgstr ""
+msgstr "{{CLASS.PLURAL.MAIN}}"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=cardreaders|monitors,
 #. VENDOR.NAME=Realtek; RU: Пример: CLASS.PLURAL.MAIN=картридеры|мониторы;
 #. VENDOR.NAME=Realtek;
 msgid "breadcrumbs_devicegroups-text"
-msgstr ""
+msgstr "{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
 
 #. i18n: EN: Example: GROUP.VENDOR.NAME=Nvidia, GROUP.NAME=GeForce 210; RU:
 #. Пример: GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210;
 msgid "breadcrumbs_devicegroup-text"
-msgstr ""
+msgstr "{{GROUP.VENDOR.NAME}} {{GROUP.NAME}}"
 
 msgid "breadcrumbs_notebooks-text"
 msgstr ""
@@ -96,7 +96,7 @@ msgstr ""
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=X1 carbon;
 #. RU: Пример: NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=X1 carbon;
 msgid "breadcrumbs_notebook-text"
-msgstr ""
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=Videocards|Chipsets ,
 #. NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=G580; RU: Пример:
@@ -143,7 +143,7 @@ msgid "devicecard_details-content-label-systems"
 msgstr ""
 
 msgid "devicecard_details-content-label-deviceid"
-msgstr ""
+msgstr "Device ID:"
 
 msgid "devicecard_details-content-label-inf"
 msgstr ""
@@ -243,7 +243,7 @@ msgid "drivercard_caption-os"
 msgstr ""
 
 msgid "drivercard_caption-deviceid"
-msgstr ""
+msgstr "Device ID:"
 
 msgid "drivercard_caption-inf"
 msgstr ""
@@ -384,7 +384,7 @@ msgid "landingproducts_cta-description"
 msgstr ""
 
 msgid "landingproducts_item-title-online"
-msgstr ""
+msgstr "DriverPack Online"
 
 msgid "landingproducts_item-description-online"
 msgstr ""
@@ -396,13 +396,13 @@ msgid "landingproducts_item-button"
 msgstr ""
 
 msgid "landingproducts_item-title-network"
-msgstr ""
+msgstr "DriverPack Offline Network"
 
 msgid "landingproducts_item-description-network"
 msgstr ""
 
 msgid "landingproducts_item-title-offline"
-msgstr ""
+msgstr "DriverPack Offline Full"
 
 msgid "landingproducts_item-description-offline"
 msgstr ""
