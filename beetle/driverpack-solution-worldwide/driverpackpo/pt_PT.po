@@ -3,7 +3,7 @@
 # Translators:
 # Flávio Pereira <homersflav@gmail.com>, 2018
 # Flávio Pereira <homersflav@gmail.com>, 2018
-# Francisco Sousa <franciscojasousa@gmail.com>, 2017
+# Francisco Sousa <franciscojasousa@gmail.com>, 2017-2018
 # Jorge Carvalho <jorge.p.carvalho@gmail.com>, 2016-2017
 # José Cunha <appsejogos97@gmail.com>, 2016
 # José Cunha <appsejogos97@gmail.com>, 2016
@@ -13,8 +13,8 @@ msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-25 17:54+0000\n"
-"PO-Revision-Date: 2018-12-27 09:43+0000\n"
-"Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
+"PO-Revision-Date: 2018-12-28 13:38+0000\n"
+"Last-Translator: Francisco Sousa <franciscojasousa@gmail.com>\n"
 "Language-Team: Portuguese (Portugal) (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/pt_PT/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -457,28 +457,28 @@ msgid "start_title_default_model"
 msgstr "seu computador"
 
 msgid "start_installation_option_mouse"
-msgstr ""
+msgstr "O rato não funciona"
 
 msgid "start_installation_option_keyboard"
-msgstr ""
+msgstr "O teclado não funciona"
 
 msgid "start_installation_option_printer"
-msgstr ""
+msgstr "A impressora não funciona"
 
 msgid "start_installation_option_video"
-msgstr ""
+msgstr "O vídeo não arranca"
 
 msgid "start_installation_option_sound"
-msgstr ""
+msgstr "Sem som"
 
 msgid "start_installation_option_usb"
-msgstr ""
+msgstr "As portas USB não funcionam"
 
 msgid "start_installation_option_webcam"
-msgstr ""
+msgstr "A câmara não funciona"
 
 msgid "start_installation_option_games"
-msgstr ""
+msgstr "Os jogos estão lentos"
 
 msgid "menu_create_recovery_point"
 msgstr "Criar Ponto de Restauro"
@@ -677,10 +677,10 @@ msgid "zero-drivers_cta-msg-caption-link"
 msgstr "reinstalar ou restaurar os controladores"
 
 msgid "zero-drivers_support-btn"
-msgstr ""
+msgstr "Contate o suporte"
 
 msgid "zero-drivers_all-drivers-btn"
-msgstr ""
+msgstr "Mostrar todos os controladores"
 
 msgid "zero-drivers_footer_device-manager"
 msgstr "Gestor de Dispositivos"
@@ -1029,7 +1029,7 @@ msgid "installation_error_restore_disabled"
 msgstr "Erro: proibido pelas definições de sistema"
 
 msgid "installation_error_restore_not_created"
-msgstr ""
+msgstr "Não foi criado"
 
 msgid "installation_progress_stage_creating"
 msgstr "A criar..."
@@ -1074,13 +1074,13 @@ msgid "installation_title_name"
 msgstr "Itens para instalação"
 
 msgid "restart_popup_title"
-msgstr ""
+msgstr "É preciso reiniciar o computador para continuar"
 
 msgid "restart_popup_caption"
-msgstr ""
+msgstr "O computador vai reiniciar em {{REMAIN.TIME}}…"
 
 msgid "restart_popup_button"
-msgstr ""
+msgstr "Reiniciar"
 
 msgid "installation_item_description_restorepoint"
 msgstr "Permite um restauro do sistema para um ponto anterior se algo correr mal"
@@ -1278,16 +1278,16 @@ msgid "settings-screen_license"
 msgstr "Acordo da Licença"
 
 msgid "start_caption_select_problems"
-msgstr ""
+msgstr "Ou, verifique exatamente o que não funciona no seu computador"
 
 msgid "start_button_problems_selected"
-msgstr ""
+msgstr "Instalações ({{COUNT}})"
 
 msgid "start_button_install_drivers"
 msgstr "Instalar todos os controladores"
 
 msgid "start_button_install"
-msgstr ""
+msgstr "Instalar tudo automaticamente"
 
 msgid "start_title"
 msgstr "Configuração automática de{{MODEL}}"
