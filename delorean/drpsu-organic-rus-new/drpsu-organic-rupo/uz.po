@@ -1,8 +1,8 @@
 # Translators:
 # Shérov <azamat9006@mail.ru>, 2017
-# Abbosjon Kudratov (AK) <abbosjon1997@gmail.com>, 2018
-# Nadia Tegeneva <nadia@drp.su>, 2019
 # Abdulkuddus Soliev <soliev1208@gmail.com>, 2019
+# Nadia Tegeneva <nadia@drp.su>, 2019
+# Abbosjon Kudratov (AK) <abbosjon1997@gmail.com>, 2019
 # 
 msgid ""
 msgstr ""
@@ -10,7 +10,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-11-26 10:25+0000\n"
 "PO-Revision-Date: 2017-08-24 09:04+0000\n"
-"Last-Translator: Abdulkuddus Soliev <soliev1208@gmail.com>, 2019\n"
+"Last-Translator: Abbosjon Kudratov (AK) <abbosjon1997@gmail.com>, 2019\n"
 "Language-Team: Uzbek (https://www.transifex.com/driverpack-solution/teams/75452/uz/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -26,7 +26,7 @@ msgid "seo_vendor-footer-anchor"
 msgstr "{{VENDOR.NAME}}"
 
 msgid "seo_devicegroups-footer-anchor"
-msgstr "{{CLASS.PLURAL.MAIN}} {{VENDOR.NAME}}"
+msgstr "{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
 
 #. i18n: EN: Example: NAME=Acer E230H; RU: Пример: NAME=Acer E230H;
 msgid "seo_devicegroup-footer-anchor"
@@ -348,15 +348,15 @@ msgid "seo_notebooks-h1"
 msgstr "Noutbuklar va netbuklar uchun drayverlar"
 
 msgid "seo_notebooks-keywords"
-msgstr ""
+msgstr "drayverlar drivers noutbuk notebook laptop netbook netbuk Windows 7 8 10 64 yuklab olish download"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_notebookvendor-title"
-msgstr ""
+msgstr "{{VENDOR.NAME}} noutbuklari uchun drayverlarni yuklab olish | DriverPack Solution"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_notebookvendor-description"
-msgstr ""
+msgstr "Windows 7, XP, 10, 8 va 8.1 uchun {{VENDOR.NAME}} noutbuk va netbuklarining drayverlarini yuklab oling va o'rnating yoki drayverlarni avtomatik o'rnatish va yangilash uchun DriverPack Solution dasturini o'rnating"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_notebookvendor-h1"
@@ -380,12 +380,12 @@ msgstr "Kichik bo'lim: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} n
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebook-title"
-msgstr ""
+msgstr "{{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}} uchun drayverlar | DriverPack Solution"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebook-description"
-msgstr ""
+msgstr "{{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}} noutbuklari drayverlarini yuklab olish Windows 7, XP, 10, 8 va 8.1 uchun yoki drayverlarni avtomatik o'rnatish va yangilash uchun DriverPack Solution dasturini o'rnatish"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
@@ -395,7 +395,7 @@ msgstr "<span class='bold'>{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}</span> nou
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebook-keywords"
-msgstr ""
+msgstr "drayverlar drivers noutbuk notebook laptop netbook netbuk Windows 7 8 10 64 yuklab olish download {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}}"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
@@ -410,26 +410,26 @@ msgstr "Bo'lim: <span itemprop='applicationCategory'>{{NOTEBOOK.VENDOR.NAME}} no
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebook-footer-application-subcategory"
-msgstr ""
+msgstr "Kichik bo'lim: <span itemprop='applicationSubCategory'>{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} noutbuklari</span>"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebook-footer-content"
-msgstr ""
+msgstr "Bu yerda {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} noutbuki uchun drayverlarni yuklab olish yoki DriverPack Solution dan drayverlarni avtomatik o'rnatish va yangilash uchun dasturini yuklab olish mumkin."
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 #. CLASS.SINGLE.FOR=videocart|soundcart; RU: Пример:
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 #. CLASS.SINGLE.FOR=видеокарты|звуковой карты;
 msgid "seo_notebookdevices-title"
-msgstr ""
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} noutbukining {{CLASS.SINGLE.FOR}} drayverlari | DriverPack Solution"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 #. CLASS.SINGLE.FOR=videocart|soundcart; RU: Пример:
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 #. CLASS.SINGLE.FOR=видеокарты|звуковой карты;
 msgid "seo_notebookdevices-description"
-msgstr ""
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} Windows 7, XP, 10, 8 va 8.1 noutbuki uchun {{CLASS.SINGLE.FOR}} drayverlarini yuklab olish yoki drayverlarni avtomatik o'rnatish va yangilash DriverPack Solution dasturini yuklab olish "
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 #. CLASS.PLURAL.FOR=videocarts|soundcarts; RU: Пример:
@@ -443,63 +443,63 @@ msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} uchun {{CLASS.PLURAL.FOR}} dr
 #. CLASS.PLURAL.MAIN=видеокарты|чипсеты; NOTEBOOK.VENDOR.NAME=Acer;
 #. NOTEBOOK.NAME=AO533;
 msgid "seo_notebookdevices-keywords"
-msgstr ""
+msgstr "{{CLASS.PLURAL.MAIN}} drayverlari drivers noutbuk notebook laptop netbook netbuk windows 7 8 10 64 yuklab olish download {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 #. CLASS.PLURAL.FOR=videocarts|soundcarts; RU: Пример:
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 #. CLASS.PLURAL.FOR=видеокарт|звуковых карт;
 msgid "seo_notebookdevices-footer-description"
-msgstr ""
+msgstr "{{CLASS.PLURAL.FOR}} uchun drayverlarni yuklab olish {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} noutbuklari uchun"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebookdevices-footer-application-category"
-msgstr ""
+msgstr "Bo'lim: <span itemprop='applicationCategory'>{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} noutbuklari</span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets;
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU: Пример:
 #. CLASS.PLURAL.MAIN=видеокарты|чипсеты; NOTEBOOK.VENDOR.NAME=Acer;
 #. NOTEBOOK.NAME=AO533;
 msgid "seo_notebookdevices-footer-application-subcategory"
-msgstr ""
+msgstr "Kichik bo'lim: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}} {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} uchun</span>"
 
 #. i18n: EN: Example: CLASS.SINGLE.FOR=videocard|chipset;
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU: Пример:
 #. CLASS.SINGLE.FOR=видеокарты|чипсета; NOTEBOOK.VENDOR.NAME=Acer;
 #. NOTEBOOK.NAME=AO533;
 msgid "seo_notebookdevices-footer-content"
-msgstr ""
+msgstr "{{CLASS.SINGLE.FOR}} uchun drayverlarni yuklab oling {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} Windows 7, XP, 10, 8 va 8.1 uchun yoki DriverPack Solution drayverlarni avtomatik o'rnatish va yangilash dasturini yuklab oling"
 
 msgid "seo_search-title"
 msgstr "{{QUERY}} jumlasi bo'yicha qidiruv natijalari | DriverPack Solution"
 
 msgid "seo_devicegroupos-title"
-msgstr ""
+msgstr "{{GROUP.VENDOR.NAME}} {{GROUP.NAME}} drayverlari | Yuklab olish Windows {{OS}} uchun"
 
 msgid "seo_devicegroupos-description"
-msgstr ""
+msgstr "{{GROUP.VENDOR.NAME}} {{GROUP.NAME}} uchun drayverini o'rnating Windows {{OS}} uchun yoki DriverPack Solution drayverlarni avtomatik o'rnatish va yangilash dasturini yuklab oling"
 
 msgid "seo_devicegroupos-h1"
 msgstr "Windows {{OS}} uchun {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} drayverlar"
 
 msgid "seo_devicegroupos-keywords"
-msgstr ""
+msgstr "Windows {{OS}} drayverlari yulab olish download PC {{GROUP.NAME}} {{GROUP.VENDOR.NAME}}"
 
 msgid "seo_devicegroupos-footer-description"
-msgstr ""
+msgstr "{{GROUP.VENDOR.NAME}} {{GROUP.NAME}} Windows {{OS}} uchun {{CLASS.PLURAL.FOR}} drayverlarini bepul yuklab oling"
 
 msgid "seo_devicegroupos-footer-application-category"
-msgstr ""
+msgstr "Bo'lim: <span itemprop='applicationCategory'>{{GROUP.VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_devicegroupos-footer-application-subcategory"
-msgstr ""
+msgstr "Kichik bo'lim: <span itemprop='applicationSubCategory'>{{GROUP.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_devicegroupos-footer-content"
 msgstr ""
 
 msgid "seo_notebookos-title"
-msgstr ""
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} noutbuk drayverlari Windows {{OS}} uchun"
 
 msgid "seo_notebookos-description"
 msgstr ""
@@ -514,103 +514,103 @@ msgid "seo_notebookos-footer-description"
 msgstr ""
 
 msgid "seo_notebookos-footer-application-category"
-msgstr ""
+msgstr "Bo'lim: <span itemprop='applicationCategory'>{{NOTEBOOK.VENDOR.NAME}} noutbuklari</span>"
 
 msgid "seo_notebookos-footer-application-subcategory"
-msgstr ""
+msgstr "Kichik bo'lim: <span itemprop='applicationSubCategory'>{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} noutbuklari</span>"
 
 msgid "seo_notebookos-footer-content"
-msgstr ""
+msgstr "Bu yerda {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} noutbuki uchun (Windows {{OS}}) drayverlarni yuklab olish yoki DriverPack Solution dan drayverlarni avtomatik o'rnatish va yangilash dasturini yuklab olish mumkin "
 
 msgid "seo_deviceclassos-title"
 msgstr "{{CLASS.PLURAL.FOR}} drayverlari Windows {{OS}} uchun | DriverPack Solution"
 
 msgid "seo_deviceclassos-description"
-msgstr ""
+msgstr "{{CLASS.PLURAL.FOR}} drayverlarini yuklab olish Windows {{OS}} uchun yoki DriverPack Solution drayverlarni avtomatik o'rnatish va yangilash dasturini yuklab olish"
 
 msgid "seo_deviceclassos-h1"
 msgstr "{{CLASS.PLURAL.FOR}} drayveri Windows {{OS}} uchun"
 
 msgid "seo_deviceclassos-keywords"
-msgstr ""
+msgstr "{{CLASS.PLURAL.FOR}} drayverlari Windows {{OS}} yuklab olish download"
 
 msgid "seo_deviceclassos-footer-description"
 msgstr "Windows {{OS}} uchun {{CLASS.PLURAL.FOR}} drayverlarini bepul yuklab oling"
 
 msgid "seo_deviceclassos-footer-application-category"
-msgstr ""
+msgstr "Bo'lim: <span itemprop='applicationCategory'>qurilmalar</span>"
 
 msgid "seo_deviceclassos-footer-application-subcategory"
-msgstr ""
+msgstr "Kichik bo'lim: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_devicegroupsos-title"
-msgstr ""
+msgstr "{{VENDOR.NAME}} {{CLASS.PLURAL.FOR}} drayverlari Windows {{OS}} uchun | DriverPack Solution"
 
 msgid "seo_devicegroupsos-description"
-msgstr ""
+msgstr "{{VENDOR.NAME}} {{CLASS.PLURAL.FOR}} drayverlarini yuklab olish Windows {{OS}} uchun yoki DriverPack Solution drayverlarni avtomatik o'rnatish va yangilash dasturini o'rnatish"
 
 msgid "seo_devicegroupsos-h1"
 msgstr "Windows {{OS}} uchun {{VENDOR.NAME}} {{CLASS.PLURAL.FOR}} drayveri"
 
 msgid "seo_devicegroupsos-keywords"
-msgstr ""
+msgstr "Windows {{OS}} drayverlari yuklab olish download PC {{CLASS.PLURAL.MAIN}} {{VENDOR.NAME}}"
 
 msgid "seo_devicegroupsos-footer-description"
-msgstr ""
+msgstr "{{VENDOR.NAME}} {{CLASS.PLURAL.FOR}} drayverlarini o'rnating Windows {{OS}} uchun"
 
 msgid "seo_devicegroupsos-footer-application-category"
-msgstr ""
+msgstr "Bo'lim: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_devicegroupsos-footer-application-subcategory"
-msgstr ""
+msgstr "Kichik bo'lim: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_devicegroupsos-footer-content"
 msgstr ""
 
 msgid "seo_notebookvendoros-title"
-msgstr ""
+msgstr "{{VENDOR.NAME}} noutbuklarining drayverlari Windows {{OS}} uchun | DriverPack Solution"
 
 msgid "seo_notebookvendoros-description"
-msgstr ""
+msgstr "{{VENDOR.NAME}} noutbuklari drayverlarini yuklab olish Windows {{OS}} uchun yoki DriverPack Solution drayverlarni avtomatik o'rnatish va yangilash dasturini o'rnatish"
 
 msgid "seo_notebookvendoros-h1"
 msgstr "{{VENDOR.NAME}} noutbuki uchun drayver Windows {{OS}}"
 
 msgid "seo_notebookvendoros-keywords"
-msgstr ""
+msgstr "drayverlar drivers noutbuk notebook laptop netbook netbuk Windows {{OS}} yuklab olish download {{VENDOR.NAME}}"
 
 msgid "seo_notebookvendoros-footer-description"
-msgstr ""
+msgstr "Windows {{OS}} {{VENDOR.NAME}} noutbuklari uchun drayverlarni bepul yuklab olish"
 
 msgid "seo_notebookvendoros-footer-application-category"
-msgstr ""
+msgstr "Bo'lim: <span itemprop='applicationCategory'>noutbuklar</span>"
 
 msgid "seo_notebookvendoros-footer-application-subcategory"
-msgstr ""
+msgstr "Kichik bo'lim: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} noutbuklari</span>"
 
 msgid "seo_notebookvendoros-footer-content"
 msgstr ""
 
 msgid "seo_hwidos-title"
-msgstr ""
+msgstr "{{DEVICE.DEVICEID}} drayverini yuklab olish Windows {{OS}} uchun | DriverPack Solution"
 
 msgid "seo_hwidos-description"
-msgstr ""
+msgstr "Windows {{OS}} versiyasidagi {{DEVICE.DEVICEID}} uchun drayver yuklab olish"
 
 msgid "seo_hwidos-h1"
 msgstr "{{DEVICE.DEVICEID}} qurilma uchun drayver Windows {{OS}} uchun"
 
 msgid "seo_hwidos-keywords"
-msgstr ""
+msgstr "Windows {{OS}} drayverlari yuklab olish download PC {{DEVICE.DEVICEID}}"
 
 msgid "seo_hwidos-footer-description"
-msgstr ""
+msgstr "{{DEVICE.DEVICEID}} qurilmasi drayverlarini bepul yuklab olish Windows {{OS}} uchun"
 
 msgid "seo_hwidos-footer-content"
 msgstr ""
 
 msgid "seo_notebookdevicesos-title"
-msgstr ""
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} noutbuklarining {{CLASS.SINGLE.FOR}} drayverlari Windows {{OS}} uchun"
 
 msgid "seo_notebookdevicesos-description"
 msgstr ""
@@ -637,37 +637,37 @@ msgid "seo_promopage_title"
 msgstr "DriverPack – drayverlarni bepul o'rnatish"
 
 msgid "seo_promo-description"
-msgstr ""
+msgstr "DriverPack Solution Sizga o'z qurilmangiz uchun drayverlarni bepul o'rnatishni yoki drayverlarni avtomatik o'rnatish va yangilash dasturini yuklab olishni taklif qiladi"
 
 msgid "seo_promo-keywords"
 msgstr ""
 
 msgid "seo_promodevice_title"
-msgstr ""
+msgstr "usb, bluetooth, printer, Wi-Fi va videokarta uchun drayverlarini bepul yuklab olish"
 
 msgid "seo_promodevice-description"
-msgstr ""
+msgstr "DriverPack  usb, bluetooth, printer, Wi-Fi va videokarta drayverlarini eng yangi versiyagacha yangilaydi"
 
 msgid "seo_promodevice-keywords"
-msgstr ""
+msgstr "drayver, bluetooth, printer, ovoz kartasi, vebkamera, siqchoncha, video drayver"
 
 msgid "seo_promovendors_title"
-msgstr ""
+msgstr "Lenovo, Samsung, Acer, Asus va Dell uchun drayverlarni bepul yuklab olish"
 
 msgid "seo_promovendors-description"
-msgstr ""
+msgstr "DriverPack  Lenovo, Samsung, Acer, Asus va Dell drayverlarini eng yangi versiyagacha yangilaydi"
 
 msgid "seo_promovendors-keywords"
-msgstr ""
+msgstr "drayver, dell, samsung, lenovo, asus, acer, toshiba, asus"
 
 msgid "seo_promodrivers_title"
-msgstr ""
+msgstr "Windows 7, 10, XP, 8 uchun drayverlarni yuklab olish va o'rnatish"
 
 msgid "seo_promodrivers-description"
-msgstr ""
+msgstr "DriverPack Windows 7, Windows 10, Windows XP, Windows 8 drayverlarini bepul yangilaydi"
 
 msgid "seo_promodrivers-keywords"
-msgstr ""
+msgstr "drayver windows 7, drayver yuklab olish, drayver windows 10, drayverlarni yangilash, drayver windows, bepul drayverlar"
 
 msgid "seo_forgamers-description"
 msgstr ""
@@ -676,22 +676,22 @@ msgid "seo_forgamers-keywords"
 msgstr "videokarta drayverlari windows 7 64 8 10 yuklab olish download"
 
 msgid "seo_wannacrypt_title"
-msgstr ""
+msgstr "WannaCry virusi - qanday o'z noutbuk yoki kompyuteringizni himoyalash?"
 
 msgid "seo_wannacrypt-description"
-msgstr ""
+msgstr "Noutbuk yoki kompyuteringiz uchun WannaCry virusidan qarshi bepul himoyani yuklab olish"
 
 msgid "seo_badrabbit_title"
-msgstr ""
+msgstr "Bad Rabbit shifrlovchi-virusi - qanday o'z kompyuteringizni himoyalash?"
 
 msgid "seo_badrabbit-description"
-msgstr ""
+msgstr "Kompyuteringiz uchun Bad Rabbit virusidan qarshi bepul himoyani yuklab olish"
 
 msgid "seo_license_title"
 msgstr "Litsenziya shartnomasi | DriverPack Solution"
 
 msgid "seo_license-description"
-msgstr ""
+msgstr "DriverPack Solution tomonidan tarqatilayotgan dasturiy ta'minotdan foydalanish shartlari va litsenziya shartnomasi"
 
 msgid "seo_license-keywords"
 msgstr "drayverlar bepul yuklab olish windows 7 XP 8 10 DriverPack Solution"
@@ -703,7 +703,7 @@ msgid "seo_cloudlanding-description"
 msgstr "DriverPack Cloud - kompyuterning ish samarasini oshirish uchun yangi dastur. Bu qanday dastur va keraklimi o'zi? "
 
 msgid "seo_cloudlanding-keywords"
-msgstr ""
+msgstr "driverpack cloud kompyuter ishlashini tezlatish bu nima o'zi qanday ishlaydi qanday o'chirish"
 
 msgid "seo_cloudlicense_title"
 msgstr "Litsenziya shartnomasi | DriverPack Cloud"
@@ -712,16 +712,16 @@ msgid "seo_cloudlicense-description"
 msgstr "DriverPack Cloud litsenziya shartnomasi va dasturiy ta'minotidan foydalanish shartlari"
 
 msgid "seo_cloudlicense-keywords"
-msgstr ""
+msgstr "drayverlar bepul yuklab olish windows 7 XP 8 10 DriverPack Cloud"
 
 msgid "seo_standards_title"
 msgstr "Tavsiya etilgan dasturiy ta'minotlar standarti | DriverPack Solution"
 
 msgid "seo_standards-description"
-msgstr ""
+msgstr "DriverPack mahsulotlarida tavsiya etilgan dasturiy ta'minot uchun standartlar va talablar"
 
 msgid "seo_standards-keywords"
-msgstr ""
+msgstr "dasturiy ta'minot standartlari DT DriverPack"
 
 msgid "seo_mainos-content-xp"
 msgstr ""
