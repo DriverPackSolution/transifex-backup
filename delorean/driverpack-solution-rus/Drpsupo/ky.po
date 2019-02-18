@@ -1,6 +1,7 @@
 # Translators:
-# Nadia Tegeneva <nadia@drp.su>, 2018
 # Арсен Арсеньев <l1mark@yandex.ru>, 2018
+# Nadia Tegeneva <nadia@drp.su>, 2019
+# Даниэл Арапов <danielarapov@gmail.com>, 2019
 # 
 msgid ""
 msgstr ""
@@ -8,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-11-21 09:46+0000\n"
 "PO-Revision-Date: 2016-12-16 14:20+0000\n"
-"Last-Translator: Арсен Арсеньев <l1mark@yandex.ru>, 2018\n"
+"Last-Translator: Даниэл Арапов <danielarapov@gmail.com>, 2019\n"
 "Language-Team: Kyrgyz (https://www.transifex.com/driverpack-solution/teams/75452/ky/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -26,7 +27,7 @@ msgid "admindriverpacks_landing-title"
 msgstr "Драйверпактар (драйверлердин топтому)"
 
 msgid "admindriverpacks_landing-subtitle"
-msgstr ""
+msgstr "Биздин базабызда {{COUNT}} драйвер, жана алардын ар бири  тандалып, текшерилип берилет."
 
 msgid "admindriverpacks_download"
 msgstr "Жүктөө"
@@ -35,7 +36,7 @@ msgid "adminfaq_landing-title"
 msgstr "Суроолоруңуздарга жооп беребиз"
 
 msgid "adminfaq_landing-subtitle"
-msgstr ""
+msgstr "Сиз DriverPack жөнүндө суроо бериңиз — биз аларга жооп беребиз"
 
 msgid "adminheader_cta-text"
 msgstr "DriverPack – админдер үчүн, бирок жаңы баштоочуларга дагы түшүнүктүү"
@@ -72,18 +73,18 @@ msgstr "{{VENDOR.NAME}} драйверлери"
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=cardreaders|monitors; RU: Пример:
 #. CLASS.PLURAL.MAIN=картридеры|мониторы;
 msgid "breadcrumbs_deviceclass-text"
-msgstr ""
+msgstr "{{CLASS.PLURAL.MAIN}}"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=cardreaders|monitors,
 #. VENDOR.NAME=Realtek; RU: Пример: CLASS.PLURAL.MAIN=картридеры|мониторы;
 #. VENDOR.NAME=Realtek;
 msgid "breadcrumbs_devicegroups-text"
-msgstr ""
+msgstr "{{CLASS.PLURAL.MAIN}} {{VENDOR.NAME}}"
 
 #. i18n: EN: Example: GROUP.VENDOR.NAME=Nvidia, GROUP.NAME=GeForce 210; RU:
 #. Пример: GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210;
 msgid "breadcrumbs_devicegroup-text"
-msgstr ""
+msgstr "{{GROUP.VENDOR.NAME}} {{GROUP.NAME}}"
 
 msgid "breadcrumbs_notebooks-text"
 msgstr "ноутбуктар"
@@ -102,7 +103,7 @@ msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
 #. CLASS.PLURAL.MAIN=видеокарты|чипсеты, NOTEBOOK.VENDOR.NAME=Lenovo,
 #. NOTEBOOK.NAME=G580;
 msgid "breadcrumbs_notebookdevices-text"
-msgstr ""
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} ноутбуктун {{CLASS.PLURAL.MAIN}}"
 
 msgid "devicecard_download-btn"
 msgstr "Драйверди жүктөө"
@@ -112,55 +113,55 @@ msgstr "Драйверди жүктөө"
 #. NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10 x86; Текст для
 #. {{DOWNLOAD}} находится в ключе drivercard_no-results_download-link;
 msgid "devicecard_details_no-results-text"
-msgstr ""
+msgstr "{{OSVERSIONS}} үчүн базада {{NAME}} драйверлери жок. Драйверлерди автоматтык түрдө орнотуу үчүн {{DOWNLOAD}} жүктөңүз."
 
 msgid "devicecard_details_no-results_download-link"
 msgstr "DriverPack'ты жүктөңүз"
 
 msgid "devicecard_details-content-text"
-msgstr ""
+msgstr "Маалыматты жүктөөдө..."
 
 msgid "devicecard_details_all-systems"
-msgstr ""
+msgstr "бардык системалар үчүн"
 
 msgid "devicecard_details-content-label-version"
-msgstr ""
+msgstr "Версия:"
 
 msgid "devicecard_details-content-label-version-recommended"
-msgstr ""
+msgstr "сунуштайбыз"
 
 msgid "devicecard_details-content-label-date"
-msgstr ""
+msgstr "Дата:"
 
 msgid "devicecard_details-content-label-type"
-msgstr ""
+msgstr "Драйвердин тиби:"
 
 msgid "devicecard_details-content-label-manufacturer"
-msgstr ""
+msgstr "Өндүрүүчү:"
 
 msgid "devicecard_details-content-label-systems"
-msgstr ""
+msgstr "Операциондук системалар:"
 
 msgid "devicecard_details-content-label-deviceid"
-msgstr ""
+msgstr "DeviceID:"
 
 msgid "devicecard_details-content-label-inf"
-msgstr ""
+msgstr "*.inf файлы:"
 
 msgid "devicecard_details-content-label-section"
-msgstr ""
+msgstr "Бөлүм:"
 
 msgid "devicecard_details-links-merged_label"
-msgstr ""
+msgstr "Сиз издеген DeviceID списокто жок болсо, анда аны издөө сабына салыңыз "
 
 msgid "devicecard_details-links-notebook_device"
-msgstr ""
+msgstr "Бардык драйверлерди көрүү"
 
 msgid "devicecard_details-links"
-msgstr ""
+msgstr "Үчүн бардык драйверлерди көрүү"
 
 msgid "devicecardlist_no-result_download-link"
-msgstr ""
+msgstr "DriverPack-ты жүктөп алыңыз"
 
 #. i18n: EN: Example: DEVICENAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10
 #. x86; Text for {{DOWNLOAD}} is in key devicecardlist_no-result_download-

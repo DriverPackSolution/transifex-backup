@@ -3,7 +3,8 @@
 # Abay Tadesse <dejatabay@gmail.com>, 2018
 # Dagmawi Thomas <dag.thom@hotmail.com>, 2018
 # Amanuel Tadiwos <amanueltadiwos306@gmail.com>, 2018
-# Nadia Tegeneva <nadia@drp.su>, 2018
+# Nadia Tegeneva <nadia@drp.su>, 2019
+# Kirubel Adamu <kirubeladamu@gmail.com>, 2019
 # Leonid Beschasny <lbeschastny@iknow.travel>, 2017
 # Nadia Tegeneva <nadia@drp.su>, 2018
 # 
@@ -13,7 +14,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-11-21 09:46+0000\n"
 "PO-Revision-Date: 2016-12-16 14:30+0000\n"
-"Last-Translator: Nadia Tegeneva <nadia@drp.su>, 2018\n"
+"Last-Translator: Kirubel Adamu <kirubeladamu@gmail.com>, 2019\n"
 "Language-Team: Amharic (https://www.transifex.com/driverpack-solution/teams/75453/am/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -31,7 +32,7 @@ msgid "admindriverpacks_landing-title"
 msgstr "Driverpacks (የማስተዋወቂያ ሶፍትዌሮች ስብስብ)"
 
 msgid "admindriverpacks_landing-subtitle"
-msgstr ""
+msgstr "የኛ ድራይቨር ፓክ {{COUNT}} የተመረጡና ተሞክረው የተረጋገጡ ድራይቨሮችን ይዟል። "
 
 msgid "admindriverpacks_download"
 msgstr "አውርድ"
@@ -43,7 +44,7 @@ msgid "adminfaq_landing-subtitle"
 msgstr "እርስዎ ስለ DriverPack ይጠይቃሉ — እኛ የተለመዱትን ጥያቈዎች እንመልሳለን"
 
 msgid "adminheader_cta-text"
-msgstr ""
+msgstr "ድራይቨርፓክ የተሰራው ለባለሙያዎች ቢሆንም ለጀማሪዎችም ቀላል ነው። "
 
 msgid "adminheader_cta-btn"
 msgstr "አውርድ DriverPack Online"
@@ -61,69 +62,69 @@ msgid "breadcrumbs_main-text"
 msgstr "መነሻ ገጽ"
 
 msgid "breadcrumbs_catalog-main-text"
-msgstr ""
+msgstr "የ {{OS.NAME}} ድራይቨሮች"
 
 msgid "breadcrumbs_vendors-text"
 msgstr "አምራቾች"
 
 #. i18n: EN: Example: VENDOR.NAME=Lenovo; RU: Пример: VENDOR.NAME=Lenovo;
 msgid "breadcrumbs_vendor-text"
-msgstr ""
+msgstr "{{VENDOR.NAME}}"
 
 #. i18n: EN: Example: VENDOR.NAME=Lenovo; RU: Пример: VENDOR.NAME=Lenovo;
 msgid "breadcrumbs_vendorlanding-text"
-msgstr ""
+msgstr "የ {{VENDOR.NAME}} ድራይቨሮች "
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=cardreaders|monitors; RU: Пример:
 #. CLASS.PLURAL.MAIN=картридеры|мониторы;
 msgid "breadcrumbs_deviceclass-text"
-msgstr ""
+msgstr "{{CLASS.PLURAL.MAIN}}"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=cardreaders|monitors,
 #. VENDOR.NAME=Realtek; RU: Пример: CLASS.PLURAL.MAIN=картридеры|мониторы;
 #. VENDOR.NAME=Realtek;
 msgid "breadcrumbs_devicegroups-text"
-msgstr ""
+msgstr "{{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
 
 #. i18n: EN: Example: GROUP.VENDOR.NAME=Nvidia, GROUP.NAME=GeForce 210; RU:
 #. Пример: GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210;
 msgid "breadcrumbs_devicegroup-text"
-msgstr ""
+msgstr "{{GROUP.VENDOR.NAME}} {{GROUP.NAME}}"
 
 msgid "breadcrumbs_notebooks-text"
 msgstr "ላፕቶፖች"
 
 #. i18n: EN: Example: VENDOR.NAME=Asus; RU: Пример: VENDOR.NAME=Asus;
 msgid "breadcrumbs_notebookvendor-text"
-msgstr ""
+msgstr "{{VENDOR.NAME}} ላፕቶፕ ኮምፒውተሮች"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=X1 carbon;
 #. RU: Пример: NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=X1 carbon;
 msgid "breadcrumbs_notebook-text"
-msgstr ""
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=Videocards|Chipsets ,
 #. NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=G580; RU: Пример:
 #. CLASS.PLURAL.MAIN=видеокарты|чипсеты, NOTEBOOK.VENDOR.NAME=Lenovo,
 #. NOTEBOOK.NAME=G580;
 msgid "breadcrumbs_notebookdevices-text"
-msgstr ""
+msgstr "የ {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} ላፕቶፕ {{CLASS.PLURAL.MAIN}}"
 
 msgid "devicecard_download-btn"
-msgstr ""
+msgstr "ድራይቨሩን ያውርዱ"
 
 #. i18n: EN: Example: NAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10 x86; Text
 #. for {{DOWNLOAD}} is in key drivercard_no-results_download-link; RU: Пример:
 #. NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10 x86; Текст для
 #. {{DOWNLOAD}} находится в ключе drivercard_no-results_download-link;
 msgid "devicecard_details_no-results-text"
-msgstr ""
+msgstr "የ windows {{OSVERSIONS}} {{NAME}} ድራይቨሮች መዝገቡ ዉስጥ አልተገኙም። ድራይቨሩን ራሱ እንዲመርጥ ለማድረግ {{DOWNLOAD}} ያውርዱ።"
 
 msgid "devicecard_details_no-results_download-link"
-msgstr ""
+msgstr "DriverPack ያውርዱ።"
 
 msgid "devicecard_details-content-text"
-msgstr ""
+msgstr "ዳታ በመጫን ላይ..."
 
 msgid "devicecard_details_all-systems"
 msgstr "ሙሉ ሲስተሞች"
@@ -156,16 +157,16 @@ msgid "devicecard_details-content-label-section"
 msgstr "ምድብ:"
 
 msgid "devicecard_details-links-merged_label"
-msgstr ""
+msgstr "የፈለጉት የመገልገያ መታወቂያ ቁጥር ዝርዝሩ ውስጥ ክሌለ መፈለጊያ መስመሩ ላይ ጽፈው ያስገቡት።"
 
 msgid "devicecard_details-links-notebook_device"
-msgstr ""
+msgstr "ሁሉንም ድራይቨሮች ይመልከቱ። "
 
 msgid "devicecard_details-links"
-msgstr ""
+msgstr "ለዚህ ሁሉንም ድራይቨሮች ይመልከቱ፦ "
 
 msgid "devicecardlist_no-result_download-link"
-msgstr ""
+msgstr "DriverPack ያውርዱ።"
 
 #. i18n: EN: Example: DEVICENAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10
 #. x86; Text for {{DOWNLOAD}} is in key devicecardlist_no-result_download-
@@ -223,10 +224,10 @@ msgstr "አውርድ DriverPack Online"
 #. NAME=Acer Aspire 4830TG; Пример: OSVERSIONS=Windows 10 x86; Текст для
 #. {{DOWNLOAD}} находится в ключе drivercard_no-results_download-link;
 msgid "drivercard_no-results-text"
-msgstr ""
+msgstr "የ windows {{OSVERSIONS}} {{NAME}} ድራይቨሮች መዝገቡ ዉስጥ አልተገኙም። ድራይቨሩን ራሱ እንዲመርጥ ለማድረግ {{DOWNLOAD}} ያውርዱ።"
 
 msgid "drivercard_no-results_download-link"
-msgstr ""
+msgstr "DriverPack ያውርዱ።"
 
 msgid "drivercard_caption-version"
 msgstr "እትም"
@@ -256,7 +257,7 @@ msgid "drivercard_caption-section"
 msgstr "ምድብ:"
 
 msgid "drivercard_caption-btn"
-msgstr ""
+msgstr "ድራይቨሩን ያውርዱ"
 
 msgid "deviceidpage_all-systems"
 msgstr "ሙሉ ሲስተሞች"
@@ -769,7 +770,7 @@ msgid "searchresult_details-content-notebook-text"
 msgstr ""
 
 msgid "searchresult_details-content_download-link"
-msgstr ""
+msgstr "DriverPack ያውርዱ።"
 
 msgid "searchresult_notebook"
 msgstr "ላፕቶፕ"
@@ -778,7 +779,7 @@ msgid "searchresult_download-btn"
 msgstr ""
 
 msgid "searchresult_details-content-text-placeholder"
-msgstr ""
+msgstr "ዳታ በመጫን ላይ..."
 
 msgid "searchresult_details-content-label-1"
 msgstr ""
