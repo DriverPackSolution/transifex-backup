@@ -1,8 +1,9 @@
 # Translators:
 # Moses Matewe, 2017
 # TATENDA Y GATSI <gatsitatenda@gmail.com>, 2018
-# Nadia Tegeneva <nadia@drp.su>, 2019
 # Kundai Ndoro <ndorokundai1@gmail.com>, 2019
+# Nadia Tegeneva <nadia@drp.su>, 2019
+# Tanaka Kadzunge <tkadzzz@gmail.com>, 2019
 # Leonid Beschasny <lbeschastny@iknow.travel>, 2017
 # Nadia Tegeneva <nadia@drp.su>, 2018
 # 
@@ -12,7 +13,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-11-21 09:46+0000\n"
 "PO-Revision-Date: 2016-12-16 14:30+0000\n"
-"Last-Translator: Kundai Ndoro <ndorokundai1@gmail.com>, 2019\n"
+"Last-Translator: Tanaka Kadzunge <tkadzzz@gmail.com>, 2019\n"
 "Language-Team: Shona (https://www.transifex.com/driverpack-solution/teams/75453/sn/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -172,7 +173,7 @@ msgstr "Donhedza DriverPack"
 #. x86; Текст для {{DOWNLOAD}} находится в ключе devicecardlist_no-
 #. result_download-link;
 msgid "devicecardlist_no-results-device-text"
-msgstr "Vatyairi ve {{DEVICENAME}} uchishandisa hurongwa {{OSVERSIONS}} zvisina kuwanikwa mune zvakarongwa. {{DOWNLOAD}} uchisarudza vatyairi"
+msgstr "Ma drivers e{{DEVICENAME}} ari evashandisi ve Windows{{OSVERSIONS}} anowanikwa mupackage. {{DOWNLOAD}} kuti ainstaller nyore uyezve oga"
 
 #. i18n: EN: Example: DEVICECLASS=chipsets|videocards; NOTEBOOK=Acer AO521;
 #. OSVERSIONS=Windows 10 x86; Text for {{DOWNLOAD}} is in key
@@ -270,16 +271,16 @@ msgid "footer_banner-title"
 msgstr "Waneta nekutsvaga vatyairi vechinhu chako?"
 
 msgid "footer_banner-caption"
-msgstr ""
+msgstr "DriverPack Online <span style='color: {{COLOR}}'>rinotsvaga nekuisa</span>madrivers aunoda oga pachezvawo"
 
 msgid "footer_banner_btn"
-msgstr ""
+msgstr "Douniloda <span class='bold'>DriverPack Online</span> mahara"
 
 msgid "footer_translate-feedback"
-msgstr ""
+msgstr "Wambosangana nedambudziko here kana kuti chiperengo chakakanganisika<br />Maka  pane dambudziko racho wobaya {{HOTKEY}}"
 
 msgid "header_search-title"
-msgstr ""
+msgstr "<span class='bold'>Driver Rinotsvaga kupfuura</span> maDatabase akakura — Kupfuura zvuru zvema drivers"
 
 msgid "header_search-examples"
 msgstr "Semuenzaniso:"
@@ -291,106 +292,106 @@ msgid "header_cta-btn"
 msgstr "Isa vatyairi zviri nyore"
 
 msgid "header_cta-label-1"
-msgstr ""
+msgstr "Rino <span style='color: {{COLOR}}'>Douniloder</span> pakarepo"
 
 msgid "header_cta-label-2"
-msgstr ""
+msgstr "Ano <span style='color: {{COLOR}}'>sarudza nekuinisitola</span> ma drivers pachezvawo"
 
 msgid "headerbutton_title"
 msgstr "Isa vatyairi zviri nyore"
 
 msgid "headerbutton_label"
-msgstr ""
+msgstr "DriverPack Software nderemahara"
 
 msgid "headeros_cta-btn"
-msgstr ""
+msgstr "Isa ma drivers e <span class='HeaderOs__cta-btn-marked'>{{OS}}</span>"
 
 msgid "headeros_search-text"
-msgstr ""
+msgstr "kana kushandisa pekutsvaga uchishandisa database redu guru remadrivers "
 
 msgid "landingdevicetypelist_landing-title"
-msgstr ""
+msgstr "DriverPack rinoita panemudziyo"
 
 msgid "landingdevicetypelist_landing-subtitle"
-msgstr ""
+msgstr "Chero pa USB 3.0 pa Windows 7 SP1"
 
 msgid "landingdevicetypelist_cta-btn"
-msgstr ""
+msgstr "Isa ma drivers arikudiwa"
 
 msgid "landingdevicetypelist_versions"
-msgstr ""
+msgstr "Dzimwe mhando dze DriverPack"
 
 msgid "landingfeatures_landing-title"
-msgstr ""
+msgstr "Driverpack hainetse uyezve inokurumidza kugadzirisa computer yako"
 
 msgid "landingfeatures_landing-subtitle"
-msgstr ""
+msgstr "Software rino rinouya mahara uyezve rinogona kushandiswa nenyanzvi kana nevasina ruzivo rwakawanda"
 
 msgid "landingfeatures_item-title-free"
-msgstr ""
+msgstr "Mahara"
 
 msgid "landingfeatures_item-caption-free"
-msgstr ""
+msgstr "DriverPack rinouya mahara"
 
 msgid "landingfeatures_item-title-safe"
-msgstr ""
+msgstr "Chengetedzeka"
 
 msgid "landingfeatures_item-caption-safe"
-msgstr ""
+msgstr "DriverPack rakaitwa kuti rishandisike nema antivirus kuti unge wakachengetedzeka  "
 
 msgid "landingfeatures_item-title-for-all-devices"
-msgstr ""
+msgstr "kumudziyo yose"
 
 msgid "landingfeatures_item-caption-for-all-devices"
-msgstr ""
+msgstr "DriverPack rine madatabase mahombe munyika dzose uyezve rinoshandiswa kugadzirisa computer yako"
 
 msgid "landingheader_cta-text"
-msgstr ""
+msgstr "DriverPack rinoisa ma drivers mahara pamwechete nekugadzirisa dambudziko ringavapo nemudziyo wako"
 
 msgid "landingheader_cta-btn"
-msgstr ""
+msgstr "Isa ma drivers arikudiwa"
 
 msgid "landingheadernav_search"
-msgstr ""
+msgstr "Tsvaga Madriver"
 
 msgid "landingheadernav_foradmin"
-msgstr ""
+msgstr "Vanemvumo yemudziyo chete"
 
 msgid "landingintroduction_author-title"
-msgstr ""
+msgstr "Makadini! Zita rangu ndinonzi Artur Kuzyakov. Ndini muumbi uyezve ndakatanga ne kambani ye DriverPack"
 
 msgid "landingintroduction_author-speech"
 msgstr ""
 
 msgid "landingintroduction_author-speech-marked"
-msgstr ""
+msgstr "Tinoshandisa nguva yedu zvinji kuti tichengetedze yako!"
 
 msgid "landingintroduction_video-caption"
-msgstr ""
+msgstr "Izvi  ndizvo zvinofungwa na Medvedev, Prime Minister we Russian Federatioon pamusoro pe DriverPack Solution"
 
 msgid "landingnotebookvendorslist_landing-title"
-msgstr ""
+msgstr "DriverPack rinoita kune Computer ipi zvayo"
 
 msgid "landingnotebookvendorslist_landing-subtitle"
-msgstr ""
+msgstr "Ehe , kunechero Computer - takatarisa!"
 
 msgid "landingnotebookvendorslist_cta-btn"
-msgstr ""
+msgstr "Isa ma drivers arikudiwa"
 
 msgid "landingnotebookvendorslist_versions"
-msgstr ""
+msgstr "Dzimwe mhando dze DriverPack"
 
 msgid "landingproducts_cta-title"
-msgstr ""
+msgstr "Tsvaga DriverPack raunoda"
 
 msgid "landingproducts_cta-description"
-msgstr ""
+msgstr "Chitora driver rinopindirana nezvaurikuda"
 
 msgid "landingproducts_item-title-online"
-msgstr ""
+msgstr "DriverPack Online"
 
 msgid "landingproducts_item-description-online"
-msgstr ""
+msgstr "Rino downloader pakarepo, ma drivers ose anobva aiswa mumudziyo wako kana uri pama saisai e internet<span class='nobr'>{{SIZE}}</span>"
 
 msgid "landingproducts_item-version"
 msgstr "Mhando:"
@@ -399,19 +400,19 @@ msgid "landingproducts_item-button"
 msgstr "Donhedza"
 
 msgid "landingproducts_item-title-network"
-msgstr ""
+msgstr "DriverPack Offline Network"
 
 msgid "landingproducts_item-description-network"
-msgstr ""
+msgstr "Unowana madrivers e network hardware(Laan/Wi-Fi), rinoshanda chero usina internet <span class='nobr'>{{SIZE}}</span>"
 
 msgid "landingproducts_item-title-offline"
-msgstr ""
+msgstr "Madriver pasina Internet"
 
 msgid "landingproducts_item-description-offline"
-msgstr ""
+msgstr "rinosanganisira ma drivers ose, rinoshanda psina masaisai, rino downloaderzve ne Torrent-tracker<span class='nobr'>{{SIZE}}</span>"
 
 msgid "landingpublications__source-link"
-msgstr ""
+msgstr "verenga zvizere"
 
 msgid "landingpublications__landing-title"
 msgstr ""
@@ -420,46 +421,46 @@ msgid "landingscreenshots_landing-title"
 msgstr ""
 
 msgid "landingscreenshots_landing-subtitle"
-msgstr ""
+msgstr "Software rino rinouya mahara uyezve rinogona kushandiswa nenyanzvi kana nevasina ruzivo rwakawanda"
 
 msgid "landingsocial_landing-title"
-msgstr ""
+msgstr "batana neve DriverPack community"
 
 msgid "landingsocial_landing-subtitle"
-msgstr ""
+msgstr "tevedzana nenhau ubatane nevanoita sadzudzo"
 
 msgid "landingtopvideocardlist_landing-title"
-msgstr ""
+msgstr "ma video card anembiri"
 
 msgid "landingtopvideocardlist_landing-caption"
-msgstr ""
+msgstr "DriverPack rinosarudza ma drivers emipikicha pacheroipi rudzi yecomputer, ayo ndiwo mamwe anozivikanwa nevazhinji"
 
 msgid "landingusers_cta"
-msgstr ""
+msgstr "Vanhu vanoshandisa DriverPack vanoramba vachikura nechinguva chidiki"
 
 msgid "landingusers_cta-btn"
-msgstr ""
+msgstr "Isa ma drivers arikudiwa"
 
 msgid "landingusers_versions"
-msgstr ""
+msgstr "Dzimwe mhando dze DriverPack"
 
 msgid "landingvideocardlist_landing-title"
-msgstr ""
+msgstr "vagadziri vemishini yema video yemacomputer"
 
 msgid "landingwizard_landing-title"
-msgstr ""
+msgstr "zvavakukwanisika kugadzira computer nekudzvanya kamwe"
 
 msgid "landingwizard_item-caption-download"
-msgstr ""
+msgstr "Downloader nekutanga DriverPack Online"
 
 msgid "landingwizard_item-caption-setup"
-msgstr ""
+msgstr "gadzirisa computer yako ne chidimbu chimwe"
 
 msgid "landingwizard_item-caption-profit"
-msgstr ""
+msgstr "Yae! compter yako yavekushanda seinyowani!"
 
 msgid "landingwizard_cta-btn"
-msgstr ""
+msgstr "Isa ma drivers arikudiwa"
 
 msgid "navbar_download-link-short"
 msgstr "Donhedza"
@@ -468,28 +469,28 @@ msgid "navbar_download-link"
 msgstr "Donhedza DriverPack Online"
 
 msgid "notfound_cta-text"
-msgstr ""
+msgstr "unokwanisa kuwana nekuisa ma drivers nyore uchishandisa DriverPack Online yamahara"
 
 msgid "notfound_cta-btn"
 msgstr "Donhedza DriverPack Online"
 
 msgid "notfound_info-404"
-msgstr ""
+msgstr "{{404}}— Page ramurikuda harria kuonekwa "
 
 msgid "notfound_info-500"
-msgstr ""
+msgstr "{{500}}— pane zvisina kufamba zvakanaka (server error)  "
 
 msgid "notebookfilters-title"
 msgstr "Vatyairi varipo"
 
 msgid "notebookvendorslist_other-text"
-msgstr ""
+msgstr "vamwe vagadziri"
 
 msgid "notebookvendorslist_title_os"
-msgstr ""
+msgstr "ma Drivers ema laptop pa {{OS}}"
 
 msgid "notebookvendorslist_title"
-msgstr ""
+msgstr "tsvaga a drivers e laptop"
 
 msgid "productlandingheader-online_cta-btn"
 msgstr "Donhedza DriverPack Online"
@@ -498,13 +499,13 @@ msgid "productlandingheader-online_caption"
 msgstr ""
 
 msgid "productlandingheader-network_cta-btn"
-msgstr ""
+msgstr "donhedza DriverPack Offline Network"
 
 msgid "productlandingheader-network_caption"
 msgstr ""
 
 msgid "productlandingheader-offline_cta-btn"
-msgstr ""
+msgstr "Donhedza DriverPack Offline Full"
 
 msgid "productlandingheader-offline_caption"
 msgstr ""
@@ -522,51 +523,51 @@ msgid "promoheader_cta-text-gamers-caption"
 msgstr ""
 
 msgid "promoheader_cta-text"
-msgstr ""
+msgstr "DriverPack rinoisa ma drivers mahara pamwechete nekugadzirisa dambudziko ringavapo nemudziyo wako"
 
 msgid "promoheader_cta-btn"
-msgstr ""
+msgstr "Isa ma drivers arikudiwa"
 
 msgid "promoheader_size"
-msgstr ""
+msgstr "Huremu ve faira i {{SIZE}} KB"
 
 msgid "reviewheader_cta-text"
 msgstr ""
 
 msgid "reviewheader_cta"
-msgstr ""
+msgstr "isawo maonero ako kana mafungiro pakugadzirisa DriverPack"
 
 msgid "search_input-placeholder"
-msgstr ""
+msgstr "tsvaga nezita re driver, laptop, kana ne DeviceID"
 
 msgid "search_btn-text"
-msgstr ""
+msgstr "Tsvaga"
 
 msgid "searchformitem_type-section"
-msgstr ""
+msgstr "Bato"
 
 msgid "searchformitem_type-notebook"
-msgstr ""
+msgstr "muchina"
 
 msgid "searchformitem_type-device"
-msgstr ""
+msgstr "muchina"
 
 msgid "searchformitem_type-free"
 msgstr "zvisina mubhadharo"
 
 #. i18n: EN: Example: NAME=Acer; RU: Пример: NAME=Acer;
 msgid "generatesearchitemname_notebookvendor"
-msgstr ""
+msgstr "{{NAME}}laptop"
 
 #. i18n: EN: Example: NAME=Asus; RU: Пример: NAME=Asus;
 msgid "generatesearchitemname_vendor"
-msgstr ""
+msgstr "{{NAME}}devices"
 
 msgid "deviceclasses_bluetooth-single-main"
-msgstr ""
+msgstr "bluetooth device"
 
 msgid "deviceclasses_bluetooth-single-for"
-msgstr ""
+msgstr "bluetooth device"
 
 msgid "deviceclasses_bluetooth-plural-main"
 msgstr ""
@@ -846,7 +847,7 @@ msgid "translationtool_example-en-to-all"
 msgstr ""
 
 msgid "deviceclasses_laptop-single-main"
-msgstr ""
+msgstr "muchina"
 
 msgid "language_title"
 msgstr "Shona"
