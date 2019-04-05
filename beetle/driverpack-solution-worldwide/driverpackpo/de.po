@@ -3,8 +3,8 @@
 # Translators:
 # Andreas Jacob <janetworkx@googlemail.com>, 2017
 # Kai Borchert <kai.borchert@outlook.com>, 2016-2017
-# Nadia Tegeneva <nadia@drp.su>, 2017-2018
-# Patrick Wacker <crayzyone@gmail.com>, 2018
+# Nadia Tegeneva <nadia@drp.su>, 2017-2019
+# Patrick Wacker <crayzyone@gmail.com>, 2018-2019
 # thor macha <machalowskithorsten@googlemail.com>, 2017
 # Артур Кузяков <artx@drp.su>, 2016
 msgid ""
@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-25 17:54+0000\n"
-"PO-Revision-Date: 2018-12-27 09:43+0000\n"
+"PO-Revision-Date: 2019-04-05 11:08+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: German (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/de/)\n"
 "MIME-Version: 1.0\n"
@@ -456,28 +456,28 @@ msgid "start_title_default_model"
 msgstr "Ihrem Computer"
 
 msgid "start_installation_option_mouse"
-msgstr ""
+msgstr "Maus funktioniert nicht"
 
 msgid "start_installation_option_keyboard"
-msgstr ""
+msgstr "Tastatur funktioniert nicht"
 
 msgid "start_installation_option_printer"
-msgstr ""
+msgstr "Drucker funktioniert nicht"
 
 msgid "start_installation_option_video"
-msgstr ""
+msgstr "Video wird nicht abgespielt"
 
 msgid "start_installation_option_sound"
-msgstr ""
+msgstr "Kein Ton"
 
 msgid "start_installation_option_usb"
-msgstr ""
+msgstr "USB Ports funktioniert nicht "
 
 msgid "start_installation_option_webcam"
-msgstr ""
+msgstr "Webcam funktioniert nicht"
 
 msgid "start_installation_option_games"
-msgstr ""
+msgstr "Spiele verlangsamen sich"
 
 msgid "menu_create_recovery_point"
 msgstr "Wiederherstellungspunkt erstellen"
@@ -676,10 +676,10 @@ msgid "zero-drivers_cta-msg-caption-link"
 msgstr "die Treiber neu installierten oder zurückkehren"
 
 msgid "zero-drivers_support-btn"
-msgstr ""
+msgstr "Support kontaktieren"
 
 msgid "zero-drivers_all-drivers-btn"
-msgstr ""
+msgstr "Zeige alle Treiber"
 
 msgid "zero-drivers_footer_device-manager"
 msgstr "Geräte-Manager"
@@ -1028,7 +1028,7 @@ msgid "installation_error_restore_disabled"
 msgstr "Fehler: Verboten durch Systemeinstellungen"
 
 msgid "installation_error_restore_not_created"
-msgstr ""
+msgstr "Nicht erstellt"
 
 msgid "installation_progress_stage_creating"
 msgstr "Erstellen..."
@@ -1073,13 +1073,13 @@ msgid "installation_title_name"
 msgstr "Installationselemente"
 
 msgid "restart_popup_title"
-msgstr ""
+msgstr "Neustart ist erforderlich, um fortzufahren"
 
 msgid "restart_popup_caption"
-msgstr ""
+msgstr "Ihr Computer wird neugestartet in {{REMAIN.TIME}}..."
 
 msgid "restart_popup_button"
-msgstr ""
+msgstr "Neustart"
 
 msgid "installation_item_description_restorepoint"
 msgstr "Es ermöglicht das Rückkehren in den vorherigen Zustand, falls etwas schief geht"
@@ -1277,16 +1277,16 @@ msgid "settings-screen_license"
 msgstr "Lizenzvereinbarung"
 
 msgid "start_caption_select_problems"
-msgstr ""
+msgstr "Oder prüfen Sie, was auf Ihrem PC nicht genau funktioniert"
 
 msgid "start_button_problems_selected"
-msgstr ""
+msgstr "Installiere ({{COUNT}})"
 
 msgid "start_button_install_drivers"
 msgstr "Installiere alle Treiber"
 
 msgid "start_button_install"
-msgstr ""
+msgstr "Automatisch installieren"
 
 msgid "start_title"
 msgstr "Automatische Konfiguration von {{MODEL}}"
@@ -1490,7 +1490,7 @@ msgid "deviceproblems_usb_connection"
 msgstr "Aufgrund von USB-Verbindungsproblemen können keine Treiber auf diesem Gerät installiert werden. Versuchen Sie, Ihre USB-Geräte erneut zu verbinden, oder ersetzen Sie die angeschlossenen Kabel, um dieses Problem zu beheben. Wenn dies nicht hilft, kann es einigen Problemen mit den Ports oder den Geräten selbst geben."
 
 msgid "deviceproblems_root_legacy"
-msgstr ""
+msgstr "Dieses Gerät befindet sich nicht in Ihrem System, aber seine Spuren blieben im System, nachdem die Software, die es unterstützt, entfernt wurde. Um dieses Problem zu beheben, sollten Sie alle Erwähnungen zu diesem Gerät entweder manuell oder mithilfe bestimmter Dienstprogramme aus der Registrierung löschen."
 
 msgid "deviceproblems_vpn_no_need_drivers"
 msgstr "Für dieses virtuelle VPN-Gerät ist keine Treiberinstallation erforderlich"

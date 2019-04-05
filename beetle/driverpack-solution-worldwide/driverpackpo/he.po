@@ -1,7 +1,7 @@
 # Translators:
 # 
 # Translators:
-# Itamar Shoham, 2017-2018
+# Itamar Shoham, 2017-2019
 # Itamar Shoham, 2018
 # Nadia Tegeneva <nadia@drp.su>, 2017
 msgid ""
@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-25 17:54+0000\n"
-"PO-Revision-Date: 2018-12-27 09:43+0000\n"
+"PO-Revision-Date: 2019-04-05 10:47+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Hebrew (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/he/)\n"
 "MIME-Version: 1.0\n"
@@ -450,31 +450,31 @@ msgstr "https://vk.com/topic-29220845_34743007"
 #. i18n: EN: default value for {{MODEL}} in start_title key; RU: значение по
 #. умолчанию для {{MODEL}} в ключе start_title
 msgid "start_title_default_model"
-msgstr ""
+msgstr "המחשב שלך"
 
 msgid "start_installation_option_mouse"
-msgstr ""
+msgstr "העכבר לא עובד"
 
 msgid "start_installation_option_keyboard"
-msgstr ""
+msgstr "המקלדת לא עובדת"
 
 msgid "start_installation_option_printer"
-msgstr ""
+msgstr "המדפסת לא עובדת"
 
 msgid "start_installation_option_video"
-msgstr ""
+msgstr "לא ניתן להפעיל סרטים"
 
 msgid "start_installation_option_sound"
-msgstr ""
+msgstr "אין קול"
 
 msgid "start_installation_option_usb"
-msgstr ""
+msgstr "חיבורי USB לא עובדים"
 
 msgid "start_installation_option_webcam"
-msgstr ""
+msgstr "מצלמת האינטרנט לא עובדת"
 
 msgid "start_installation_option_games"
-msgstr ""
+msgstr "משחקים עובדים בצורה איטית"
 
 msgid "menu_create_recovery_point"
 msgstr "צור נקודת שחזור"
@@ -519,63 +519,63 @@ msgid "start_license"
 msgstr "הסכם רישיון"
 
 msgid "configurator-screen_downloading"
-msgstr ""
+msgstr "מוריד: {{DOWNLOADED_SIZE}} מתוך {{TOTAL_SIZE}}"
 
 msgid "configurator-screen_title"
-msgstr ""
+msgstr "חבילת DriverPack Offline אישית"
 
 msgid "configurator-screen_caption"
-msgstr ""
+msgstr "באפשרותך ליצור חבילת DriverPack משלך על ידי בחירת הדרייברים שאתה צריך שיהיו זמינים ללא חיבור לאינטרנט."
 
 msgid "configurator-screen_btn"
-msgstr ""
+msgstr "מוריד DriverPack Offline – {{COUNT}}"
 
 msgid "configurator-screen_completed"
-msgstr ""
+msgstr "ההורדה הסתיימה"
 
 msgid "configurator-screen_open-downloads"
-msgstr ""
+msgstr "פתח את תיקיית ההורדה"
 
 msgid "configurator-screen_fail"
-msgstr ""
+msgstr "שגיאה בהורדה"
 
 msgid "configurator-screen_retry"
-msgstr ""
+msgstr "נסה שוב"
 
 msgid "configurator-screen_params"
-msgstr ""
+msgstr "אפשרויות הורדה"
 
 #. i18n: EN: text for {{LINK.EULA}} is in key confirm_popup_eula-link; text
 #. for {{LINK.POLICY}} is in key confirm_popup_policy-link; RU: текст для
 #. {{LINK.EULA}} находится в ключе confirm_popup_eula-link; текст для
 #. {{LINK.POLICY}} находится в ключе confirm_popup_policy-link;
 msgid "confirm_popup_install_eula"
-msgstr ""
+msgstr "אני מסכים להתקין את {{PROGRAM.NAME}}, ואני מקבל את ההסכם {{LINK.EULA}} ואת {{LINK.POLICY}}. ניתן להסיר תוכנה זו תוכנה זו בכל עת דרך חלון 'הוספה\\הסרה של תוכניות' של וינדוס."
 
 #. i18n: EN: text for {{LINK.EULA}} is in key confirm_popup_eula-link; text
 #. for {{LINK.POLICY}} is in key confirm_popup_policy-link; RU: текст для
 #. {{LINK.EULA}} находится в ключе confirm_popup_eula-link; текст для
 #. {{LINK.POLICY}} находится в ключе confirm_popup_policy-link;
 msgid "confirm_popup_eula"
-msgstr ""
+msgstr "בהתקנת התוכנה, אתה מאשר את {{LINK.EULA}} ואת {{LINK.POLICY}}."
 
 msgid "confirm_popup_eula-link"
-msgstr ""
+msgstr "הסכם רשיון משתמש קצה"
 
 msgid "confirm_popup_policy-link"
 msgstr "מדיניות פרטיות"
 
 msgid "confirm_popup_install_button"
-msgstr ""
+msgstr "אשר והתקן"
 
 msgid "confirm_popup_title"
-msgstr ""
+msgstr "התקנת תוכנה"
 
 msgid "confirm_popup_cancel_button"
-msgstr ""
+msgstr "אל תתקין"
 
 msgid "confirm_popup_cancel_all_button"
-msgstr ""
+msgstr "אל תתקין את כל התוכנות ({{COUNT}})"
 
 msgid "diagnostics_section_title"
 msgstr "אבחון מערכת"
@@ -673,10 +673,10 @@ msgid "zero-drivers_cta-msg-caption-link"
 msgstr "להתקין מחדש או להסיר את התקנת הדרייברים"
 
 msgid "zero-drivers_support-btn"
-msgstr ""
+msgstr "צור קשר עם התמיכה"
 
 msgid "zero-drivers_all-drivers-btn"
-msgstr ""
+msgstr "הצג את כל הדרייברים"
 
 msgid "zero-drivers_footer_device-manager"
 msgstr "מנהל התקנים"
@@ -782,16 +782,16 @@ msgid "final_programs_some_finished_subtitle"
 msgstr "התקנת חלק מהתוכנות השימושיות נכשלה."
 
 msgid "final_programs_all_failed_subtitle"
-msgstr ""
+msgstr "התקנת התוכנה נכשלה."
 
 msgid "final_single_program_finished_subtitle"
-msgstr ""
+msgstr "תוכנה 1 הותקנה בהצלחה."
 
 msgid "final_single_program_failed_subtitle"
-msgstr ""
+msgstr "משהו השתבש, ותוכנה זו לא הותקנה. נסה להפעיל את ההתקנה שוב."
 
 msgid "final_main_remove_harmful_advice"
-msgstr ""
+msgstr "רוגלה זוהתה במחשב שלך. אנו ממליצים שתנקוט צעדים כדי להסיר אותה."
 
 msgid "final_main_remove_harmful_caption"
 msgstr ""
@@ -1461,52 +1461,52 @@ msgid "installation_header_promo_text_istart"
 msgstr ""
 
 msgid "softcategories_archiver-single-for"
-msgstr ""
+msgstr "דחיסה ופריסת קבצים"
 
 msgid "softcategories_browser-single-for"
-msgstr ""
+msgstr "דפדפן"
 
 msgid "softcategories_viewer-single-for"
 msgstr ""
 
 msgid "softcategories_messenger-single-for"
-msgstr ""
+msgstr "תוכנת מסרים"
 
 msgid "softcategories_internet-single-for"
-msgstr ""
+msgstr "תוכנות לניווט ברשת האינטרנט"
 
 msgid "softcategories_player-single-for"
-msgstr ""
+msgstr "מדיה פלייר"
 
 msgid "softcategories_backup-single-for"
-msgstr ""
+msgstr "כלי גיבוי מערכת"
 
 msgid "softcategories_antivirus-single-for"
-msgstr ""
+msgstr "אנטי וירוס"
 
 msgid "softcategories_system-plural-for"
-msgstr ""
+msgstr "כלי מערכת"
 
 msgid "softcategories_drivers-plural-for"
-msgstr ""
+msgstr "כלים לפעולה תקינה של דרייברים"
 
 msgid "installation_application_restart_confirm_text_1"
-msgstr ""
+msgstr "אנו ממליצים שתסגור את כל התוכנות הפתוחות במהלך התקנת הדרייברים"
 
 msgid "installation_application_restart_confirm_text_2"
-msgstr ""
+msgstr "להלן רשימת התהליכים שיסגרו בזמן ההתקנה ולאחר מכן יופעלו מחדש:"
 
 msgid "installation_application_restart_confirm_title"
 msgstr "המלצות"
 
 msgid "deviceproblems_usb_connection"
-msgstr ""
+msgstr "לא ניתן להתקין דרייברים על מכשיר זה בגלל בעיות בחיבור הUSB. בכדי לפתור את הבעיה, נסה לחבר מחדש את התקני הUSB, או להחליף את הכבלים המחוברים אליהם. אם זה לא עוזר, יתכן שיש בעיה בשקע הUSB עצמו או אפילו בהתקני הUSB עצמם."
 
 msgid "deviceproblems_root_legacy"
-msgstr ""
+msgstr "התקן זה לא מחובר אך מספר \"שאריות\" שלו נמצאות במערכת גם לאחר שהתוכנה הוסרה. בכדי לפתור את הבעיה, עליך למחוק כל אזכור של ההתקן מהרג'יסטרי, בצורה ידנית או על ידי כלים יעודיים."
 
 msgid "deviceproblems_vpn_no_need_drivers"
-msgstr ""
+msgstr "אין צורך בהתקנת דרייבר עבור התקן VPN וירטואלי זה"
 
 msgid "deviceproblems_damaged_system_driver"
 msgstr ""

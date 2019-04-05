@@ -1,7 +1,7 @@
 # Translators:
 # 
 # Translators:
-# Matyáš Koc <admin@sufix.cz>, 2017-2018
+# Matyáš Koc <admin@sufix.cz>, 2017-2019
 # Nadia Tegeneva <nadia@drp.su>, 2017
 # Артур Кузяков <artx@drp.su>, 2016
 msgid ""
@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-25 17:54+0000\n"
-"PO-Revision-Date: 2018-12-27 09:43+0000\n"
+"PO-Revision-Date: 2019-04-04 08:50+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Czech (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/cs/)\n"
 "MIME-Version: 1.0\n"
@@ -364,7 +364,7 @@ msgid "settings_notifier-href"
 msgstr "https://vk.com/topic-29220845_34742952"
 
 msgid "settings_bug-report-title"
-msgstr ""
+msgstr "Povolit možnost odchytu chyb (Error Catch)"
 
 msgid "settings_bug-report-caption"
 msgstr "Vývojáři programu DriverPack vyvinuli tento systém, aby program mohl informovat uživatele o novým problémech a také jejich řešení jak je rychle opravit."
@@ -388,7 +388,7 @@ msgid "settings_drivers-backup-caption"
 msgstr "Pro ještě více pohodlí a spolehlivosti, vývojáři programu DriverPack umožnili uživatelům uložit všechny jejich ovladače do samorozbalovacího zálohového souboru ve složce Dokumenty."
 
 msgid "settings_system-check-title"
-msgstr ""
+msgstr "Povolit možnost kontroly systému (System Check)"
 
 msgid "settings_system-check-caption"
 msgstr "Aby bylo zajištěno, že všechny zařízení fungují správně, vývojáři programu DriverPack vytvořili efektivní systém pro kontrolu operačních parametrů PC. Systém je aktivní po restartu počítač a umožňuje rychle zkontrolovat funkčnost všech zařízení."
@@ -412,7 +412,7 @@ msgid "settings_statistics-href"
 msgstr "https://vk.com/topic-29220845_34742999"
 
 msgid "settings_machine-learning-title"
-msgstr ""
+msgstr "Povolit možnost strojového učení (Machine Learning)"
 
 msgid "settings_machine-learning-caption"
 msgstr "Pod pokličkou programu DriverPack je těžce pracující systém umělé inteligence, která byla vyvinuta našimi vývojáři. Díky tomuto designu a systému automatického učení se zdokonaluje algoritmus výběru ovladačů při každém startu a tudíž se nastavují počítače rychleji a přesněji."
@@ -453,28 +453,28 @@ msgid "start_title_default_model"
 msgstr "váš počítač"
 
 msgid "start_installation_option_mouse"
-msgstr ""
+msgstr "Myš nefunguje"
 
 msgid "start_installation_option_keyboard"
-msgstr ""
+msgstr "Klávesnice nefunguje"
 
 msgid "start_installation_option_printer"
-msgstr ""
+msgstr "Tiskárna nefunguje"
 
 msgid "start_installation_option_video"
-msgstr ""
+msgstr "Nelze přehrát video"
 
 msgid "start_installation_option_sound"
-msgstr ""
+msgstr "Žádný zvuk"
 
 msgid "start_installation_option_usb"
-msgstr ""
+msgstr "USB porty nefungují"
 
 msgid "start_installation_option_webcam"
-msgstr ""
+msgstr "Webkamera nefunguje"
 
 msgid "start_installation_option_games"
-msgstr ""
+msgstr "Hry jsou pomalé"
 
 msgid "menu_create_recovery_point"
 msgstr "Vytvořit bod obnovení"
@@ -519,13 +519,13 @@ msgid "start_license"
 msgstr "Licenční ujednání"
 
 msgid "configurator-screen_downloading"
-msgstr ""
+msgstr "Stahuji: {{DOWNLOADED_SIZE}} z {{TOTAL_SIZE}}"
 
 msgid "configurator-screen_title"
 msgstr "Vaše sestavení DriverPack Offline"
 
 msgid "configurator-screen_caption"
-msgstr ""
+msgstr "Můžete stáhnout vlastní sestavení programu DriverPack vybráním ovladačů, které budou dostupné i bez připojení k internetu."
 
 msgid "configurator-screen_btn"
 msgstr "Stáhnout DriverPack Offline – {{COUNT}}"
@@ -557,7 +557,7 @@ msgstr ""
 #. {{LINK.EULA}} находится в ключе confirm_popup_eula-link; текст для
 #. {{LINK.POLICY}} находится в ключе confirm_popup_policy-link;
 msgid "confirm_popup_eula"
-msgstr ""
+msgstr "Instalaci tohoto softwaru souhlasíte s {{LINK.EULA}} a {{LINK.POLICY}}."
 
 msgid "confirm_popup_eula-link"
 msgstr "Smlouva s koncovým uživatelem (EULA)"
@@ -638,7 +638,7 @@ msgid "drivers_btn_install_all_caption"
 msgstr "Instalace doporučeného softwaru může být zakázána v nastavení"
 
 msgid "drivers_header_show_already_installed"
-msgstr ""
+msgstr "Zobrazit instalované alternativní ovladače"
 
 msgid "drivers_header_show_additional_info"
 msgstr "Zobrazit dodatečné informace"
@@ -664,7 +664,7 @@ msgstr "Displej"
 #. i18n: EN: text for {{LINK}} is in key zero-drivers_cta-msg-caption-link;
 #. RU: текст для {{LINK}} находится в ключе zero-drivers_cta-msg-caption-link;
 msgid "zero-drivers_cta-msg-caption"
-msgstr ""
+msgstr "Pokud máte stále nevyřešené potíže se zařízeními, můžete {{LINK}}"
 
 msgid "zero-drivers_cta-msg"
 msgstr "Všechny požadované ovladače jsou již nainstalovány"
@@ -673,10 +673,10 @@ msgid "zero-drivers_cta-msg-caption-link"
 msgstr "přeinstalovat nebo vrátit ovladače"
 
 msgid "zero-drivers_support-btn"
-msgstr ""
+msgstr "Kontaktovat podporu"
 
 msgid "zero-drivers_all-drivers-btn"
-msgstr ""
+msgstr "Zobrazit všechny ovladače"
 
 msgid "zero-drivers_footer_device-manager"
 msgstr "Správce zařízení"
@@ -721,14 +721,14 @@ msgid "final_popover_new_driver_not_installed_caption"
 msgstr ""
 
 msgid "final_computer_setup_ok_title"
-msgstr ""
+msgstr "Hurá! Váš počítač byl nastaven!"
 
 msgid "final_drivers_not_better_title"
 msgid_plural "final_drivers_not_better_title_n"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgstr[0] "{{COUNT1}} ovladač z {{COUNT2}} byl nainstalován"
+msgstr[1] "{{COUNT1}} ovladače z {{COUNT2}} byl nainstalovány"
+msgstr[2] "{{COUNT1}} ovladačů z {{COUNT2}} bylo nainstalováno"
+msgstr[3] "{{COUNT1}} ovladačů z {{COUNT2}} bylo nainstalováno"
 
 msgid "final_single_driver_better_installed_title"
 msgstr "Ovladač byl nainstalován"
@@ -744,7 +744,7 @@ msgstr[2] ""
 msgstr[3] ""
 
 msgid "final_programs_all_failed_title"
-msgstr ""
+msgstr "0 programů z {{COUNT}} je nainstalováno"
 
 msgid "final_single_program_failed_title"
 msgstr "Program nemohl být nainstalován"
@@ -779,7 +779,7 @@ msgstr[2] "{{COUNT}}programů bylo nainstalováno. "
 msgstr[3] "{{COUNT}} programů bylo nainstalováno."
 
 msgid "final_programs_some_finished_subtitle"
-msgstr ""
+msgstr "Instalace nějakého užitečného softwaru selhala."
 
 msgid "final_programs_all_failed_subtitle"
 msgstr "Instalace softwaru se nezdařila."
@@ -828,10 +828,10 @@ msgid "final_some_drivers_not_installed"
 msgstr "Některé ovladače nebyly nainstalovány"
 
 msgid "final_rollback_drivers"
-msgstr ""
+msgstr "Vrátit zpět problémové ovladače"
 
 msgid "final_required_drivers_not_installed"
-msgstr ""
+msgstr "Důležité ovladače nebyly nainstalovány"
 
 msgid "final_aside_installed_drivers_caption"
 msgstr ""
@@ -843,10 +843,10 @@ msgid "final_aside_install_additional_programs"
 msgstr "Instalovat dodatečný software"
 
 msgid "final_aside_some_programs_not_installed"
-msgstr ""
+msgstr "Nějaký software nebyl nainstalován"
 
 msgid "final_aside_broken_devices_title"
-msgstr ""
+msgstr "Byla nalezena problematická zařízení"
 
 msgid "final_aside_broken_devices_caption"
 msgstr ""
@@ -903,22 +903,22 @@ msgid "installation_header_subtitle"
 msgstr ""
 
 msgid "installation_header_subtitle_installing-driver"
-msgstr ""
+msgstr "{{CLASS.SINGLE.FOR}} ovladač se instaluje"
 
 msgid "installation_header_subtitle_installing-program-plural"
-msgstr ""
+msgstr "instalují se {{CATEGORY.PLURAL.FOR}}"
 
 msgid "installation_header_subtitle_installing-program"
-msgstr ""
+msgstr "instaluje se {{CATEGORY.SINGLE.FOR}}"
 
 msgid "installation_header_subtitle_downloading"
 msgstr "Načítání souboru"
 
 msgid "installation_header_preparing"
-msgstr ""
+msgstr "Vytváření bodu obnovení ..."
 
 msgid "installation_header_title"
-msgstr ""
+msgstr "Nastavujeme vás počítač ..."
 
 msgid "installation_header_promo_try"
 msgstr "zkusit"
@@ -993,19 +993,19 @@ msgid "soft_category_browser"
 msgstr ""
 
 msgid "soft_category_viewer"
-msgstr ""
+msgstr "Zobrazování obrázků a dokumentů"
 
 msgid "soft_category_messenger"
-msgstr ""
+msgstr "Hovory a zprávy zdarma"
 
 msgid "soft_category_internet"
-msgstr ""
+msgstr "Internetové utility"
 
 msgid "soft_category_player"
-msgstr ""
+msgstr "Přehrávání filmů a videí"
 
 msgid "soft_category_backup"
-msgstr ""
+msgstr "Záloha a obnovení dat"
 
 msgid "soft_category_antivirus"
 msgstr "Ochrana antivirem"
@@ -1032,10 +1032,10 @@ msgid "installation_error_install"
 msgstr "Chyba instalace"
 
 msgid "installation_error_restore_disabled"
-msgstr ""
+msgstr "Chyba: zakázáno systémovým nastavením"
 
 msgid "installation_error_restore_not_created"
-msgstr ""
+msgstr "Nevytvořeno"
 
 msgid "installation_progress_stage_creating"
 msgstr "Vytvářím ..."
@@ -1044,7 +1044,7 @@ msgid "installation_progress_stage_created"
 msgstr "Vytvořeno"
 
 msgid "installation_progress_stage_waiting"
-msgstr ""
+msgstr "Čeká na stažení"
 
 msgid "installation_progress_downloading_speed"
 msgstr "rychlost"
@@ -1077,52 +1077,52 @@ msgid "installation_canceled"
 msgstr "Zrušili jste"
 
 msgid "installation_title_name"
-msgstr ""
+msgstr "Položky k instalaci"
 
 msgid "restart_popup_title"
-msgstr ""
+msgstr "Pro pokračování je potřeba restart"
 
 msgid "restart_popup_caption"
-msgstr ""
+msgstr "Váš počítač se restartuje za {{REMAIN.TIME}} ..."
 
 msgid "restart_popup_button"
-msgstr ""
+msgstr "Restart"
 
 msgid "installation_item_description_restorepoint"
 msgstr ""
 
 msgid "loading_backup_drivers"
-msgstr ""
+msgstr "Vytváří se záloha ovladačů"
 
 msgid "loading_backup_done"
-msgstr ""
+msgstr "Záloha ovladačů se úspěšně vytvořila"
 
 msgid "loading_button_finish"
 msgstr "Hotovo"
 
 msgid "loading_backup_failed"
-msgstr ""
+msgstr "Nastala chyba při zálohování ovladačů"
 
 msgid "about_run_error"
 msgstr ""
 
 msgid "loading_preparing"
-msgstr ""
+msgstr "Aplikace je připravena ke spuštění ..."
 
 msgid "loading_system_scanning"
-msgstr ""
+msgstr "Kontrolujeme nastavení počítače ..."
 
 msgid "loading_sending_api_request"
-msgstr ""
+msgstr "Nahráváme data z cloudu ..."
 
 msgid "loading_checking_installed_programs"
-msgstr ""
+msgstr "Analyzujeme software ..."
 
 msgid "loading_ordering_drivers"
-msgstr ""
+msgstr "Generujeme pořadí instalace ovladačů ..."
 
 msgid "menu_install_drivers"
-msgstr ""
+msgstr "Instalace ovladačů na počítač"
 
 msgid "menu_drivers"
 msgstr "Ovladače"
@@ -1134,13 +1134,13 @@ msgid "menu_programs"
 msgstr "Software"
 
 msgid "menu_protect_title"
-msgstr ""
+msgstr "Asistent pro váš antivirus"
 
 msgid "menu_protect_clean_up"
-msgstr ""
+msgstr "Ochrana a vyčištění"
 
 msgid "menu_computer_diagnostics"
-msgstr ""
+msgstr "Diagnostika stavu počítače"
 
 msgid "menu_diagnostics"
 msgstr "Diagnostika"
@@ -1161,7 +1161,7 @@ msgid "menu_bugreport"
 msgstr ""
 
 msgid "no-internet-screen_header-title"
-msgstr ""
+msgstr "Bez připojení k serveru"
 
 msgid "no-internet-screen_guide-title"
 msgstr ""
@@ -1185,7 +1185,7 @@ msgid "no-internet-screen_guide-step-complete-action"
 msgstr ""
 
 msgid "programs_header_text_title"
-msgstr ""
+msgstr "Všechen užitečný software na jednom místě"
 
 msgid "programs_btn_install_all"
 msgstr ""
@@ -1194,13 +1194,13 @@ msgid "programs_header_text_caption"
 msgstr ""
 
 msgid "drivers_program_recommend"
-msgstr ""
+msgstr "Tento software je doporučen autory programu DriverPack"
 
 msgid "drivers_program_counter"
-msgstr ""
+msgstr "Doporučený software"
 
 msgid "protect_row_rating"
-msgstr ""
+msgstr "Hodnocení:"
 
 msgid "protect_row_size"
 msgstr "Velikost: "
@@ -1212,22 +1212,22 @@ msgid "protect_row_version"
 msgstr "Verze:"
 
 msgid "protect_row_install_date"
-msgstr ""
+msgstr "Datum instalace:"
 
 msgid "protect_rating_level_large_appesteem"
-msgstr ""
+msgstr "Neobvyklá aplikace (70% uživatelů ji maže)"
 
 msgid "protect_rating_level_large"
-msgstr ""
+msgstr "doporučujeme tohle smazat"
 
 msgid "protect_rating_level_middle_appesteem"
-msgstr ""
+msgstr "Neobvyklá aplikace"
 
 msgid "protect_rating_level_middle"
-msgstr ""
+msgstr "tohle můžete odstranit"
 
 msgid "protect_rating_level_small"
-msgstr ""
+msgstr "tohle můžete nechat"
 
 msgid "protect_rating_level_large_caption_appesteem"
 msgstr ""
