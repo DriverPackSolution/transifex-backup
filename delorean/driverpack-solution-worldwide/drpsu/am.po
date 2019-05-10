@@ -3,6 +3,7 @@
 # Abay Tadesse <dejatabay@gmail.com>, 2018
 # Dagmawi Thomas <dag.thom@hotmail.com>, 2018
 # Amanuel Tadiwos <amanueltadiwos306@gmail.com>, 2018
+# menelik michael <menelikmichael@gmail.com>, 2019
 # Kirubel Adamu <kirubeladamu@gmail.com>, 2019
 # Nadia Tegeneva <nadia@drp.su>, 2019
 # Leonid Beschasny <lbeschastny@iknow.travel>, 2017
@@ -44,7 +45,7 @@ msgid "adminfaq_landing-subtitle"
 msgstr "እርስዎ ስለ DriverPack ይጠይቃሉ — እኛ የተለመዱትን ጥያቈዎች እንመልሳለን"
 
 msgid "adminheader_cta-text"
-msgstr "ድራይቨርፓክ የተሰራው ለባለሙያዎች ቢሆንም ለጀማሪዎችም ቀላል ነው። "
+msgstr "DriverPack የተሰራው ለባለሙያዎች ቢሆንም ለጀማሪዎችም ቀላል ነው። "
 
 msgid "adminheader_cta-btn"
 msgstr "አውርድ DriverPack Online"
@@ -130,7 +131,7 @@ msgid "devicecard_details_all-systems"
 msgstr "ሙሉ ሲስተሞች"
 
 msgid "devicecard_details-content-label-version"
-msgstr "እትም"
+msgstr "እትም:"
 
 msgid "devicecard_details-content-label-version-recommended"
 msgstr "የተመከረ"
@@ -157,7 +158,7 @@ msgid "devicecard_details-content-label-section"
 msgstr "ምድብ:"
 
 msgid "devicecard_details-links-merged_label"
-msgstr "የፈለጉት የመገልገያ መታወቂያ ቁጥር ዝርዝሩ ውስጥ ክሌለ መፈለጊያ መስመሩ ላይ ጽፈው ያስገቡት።"
+msgstr "የፈለጉት Device ID ዝርዝሩ ውስጥ ከሌለ መፈለጊያ መስመሩ ላይ ጽፈው ያስገቡት።"
 
 msgid "devicecard_details-links-notebook_device"
 msgstr "ሁሉንም ድራይቨሮች ይመልከቱ። "
@@ -174,7 +175,7 @@ msgstr "DriverPack ያውርዱ።"
 #. x86; Текст для {{DOWNLOAD}} находится в ключе devicecardlist_no-
 #. result_download-link;
 msgid "devicecardlist_no-results-device-text"
-msgstr ""
+msgstr "የ Windows {{OSVERSIONS}} የ {{DEVICENAME}} ድራይቨሮች ዝርዝሩ ውስጥ አልተገኙም።ራስዎ መምረጥ ከፈለጉ ይህን ይጫኑ {{DOWNLOAD}}። "
 
 #. i18n: EN: Example: DEVICECLASS=chipsets|videocards; NOTEBOOK=Acer AO521;
 #. OSVERSIONS=Windows 10 x86; Text for {{DOWNLOAD}} is in key
@@ -183,14 +184,14 @@ msgstr ""
 #. OSVERSIONS=Windows 10 x86; Текст для {{DOWNLOAD}} находится в ключе
 #. devicecardlist_no-result_download-link;
 msgid "devicecardlist_no-results-notebook-text"
-msgstr ""
+msgstr "የ {{NOTEBOOK}} ላፕቶፕ የ Windows {{OSVERSIONS}} ድራይቨሮች ዝርዝሩ ውስጥ አልተገኙም።ራስዎ መምረጥ ከፈለጉ ይህን ይጫኑ {{DOWNLOAD}}።"
 
 #. i18n: EN: Example: NOTEBOOK=Acer AO521; OSVERSIONS=Windows 10 x86; Text for
 #. {{DOWNLOAD}} is in key devicecardlist_no-result_download-link; RU: Пример:
 #. NOTEBOOK=Acer AO521; Пример: OSVERSIONS=Windows 10 x86; Текст для
 #. {{DOWNLOAD}} находится в ключе devicecardlist_no-result_download-link;
 msgid "devicecardlist_no-results-notebook-device-class-text"
-msgstr ""
+msgstr "የ {{NOTEBOOK}} ላፕቶፕ የ Windows {{OSVERSIONS}} የ {{DEVICECLASS}} ድራይቨሮች ዝርዝሩ ውስጥ አልተገኙም።ራስዎ መምረጥ ከፈለጉ ይህን {{DOWNLOAD}} ይጫኑ ።"
 
 msgid "devicegrouppage_all-systems"
 msgstr "ሙሉ ሲስተሞች"
@@ -199,22 +200,22 @@ msgid "notebookpage_all-systems"
 msgstr "ሙሉ ሲስተሞች"
 
 msgid "devicegroupfilters_filter-title"
-msgstr ""
+msgstr "አሁን ያሉ ድራይቨሮች"
 
 msgid "deviceidfilters-filter-label-version"
-msgstr ""
+msgstr "የድራይቨር ስሪት:"
 
 msgid "deviceidheader_caption-single"
-msgstr ""
+msgstr "የዲቫይስ ስም፡"
 
 msgid "deviceidheader_caption-many"
-msgstr ""
+msgstr "ይህ መሳሪያ ይህን በመባልም ይታወቃል፡"
 
 msgid "devicetypelist_title_os"
-msgstr ""
+msgstr "ለ {{OS}} መሳሪያዎች የተሰራ ድራይቨር"
 
 msgid "devicetypelist_title"
-msgstr ""
+msgstr "የመሳሪያዎች ድራይቨር መፈለጊያ"
 
 msgid "search_noresult"
 msgstr "አውርድ DriverPack Online"
@@ -230,7 +231,7 @@ msgid "drivercard_no-results_download-link"
 msgstr "DriverPack ያውርዱ።"
 
 msgid "drivercard_caption-version"
-msgstr "እትም"
+msgstr "እትም:"
 
 msgid "drivercard_caption-version-recommended"
 msgstr "የተመከረ"
@@ -263,175 +264,175 @@ msgid "deviceidpage_all-systems"
 msgstr "ሙሉ ሲስተሞች"
 
 msgid "dropdowndriverversion_no-results"
-msgstr ""
+msgstr "ለመረጡት ኦፐሬቲንግ ሲስተም የሚሆኑት ድራይቨሮች አልተገኙም። "
 
 msgid "dropdownos_current"
-msgstr ""
+msgstr "ያሁን"
 
 msgid "footer_banner-title"
-msgstr ""
+msgstr "ለ መሳሪያዎ የሚሆኑ ድራይቨሮችን መፈለግ ሰልችቶዎታል?"
 
 msgid "footer_banner-caption"
-msgstr ""
+msgstr "DriverPack Online የሚፈልጓቸውን ድራይቨሮች ራሱ <span style='color: {{COLOR}}'>ፈልጎ ይጭንልዎታል።</span>"
 
 msgid "footer_banner_btn"
-msgstr ""
+msgstr "<span class='bold'>DriverPack Online</span> ን በነጻ ያውርዱ"
 
 msgid "footer_translate-feedback"
-msgstr ""
+msgstr "ትክክል ያልሆነ ነገር ወይንም የፊደል ችግር አግኝተዋል?<br />ያጥቁሩትና {{HOTKEY}} ይጫኑ።"
 
 msgid "header_search-title"
-msgstr ""
+msgstr "ከትልቁ መዝገብ <span class='bold'>ይፈልጉ። </span> — ከ አንድ ሚሊዮን በላይ ድራይቨሮች አሉት።"
 
 msgid "header_search-examples"
-msgstr ""
+msgstr "ለምሳሌ፡"
 
 msgid "header_cta-text"
-msgstr ""
+msgstr "በራሱ ምርጫ ድራይቨሮችን እንዲጭንልዎ DriverPack ን ያውርዱ"
 
 msgid "header_cta-btn"
-msgstr ""
+msgstr "ድራይቨሮችን በራስህ ጊዜ ጫን"
 
 msgid "header_cta-label-1"
-msgstr ""
+msgstr "ወዲያውኑ <span style='color: {{COLOR}}'>ይጫናል</span>"
 
 msgid "header_cta-label-2"
-msgstr ""
+msgstr "ድራይቨሮችን በራሱ ጊዜ <span style='color: {{COLOR}}'>መርጦ ይጭናል</span>"
 
 msgid "headerbutton_title"
-msgstr ""
+msgstr "ድራይቨሮችን በራስህ ጊዜ ጫን"
 
 msgid "headerbutton_label"
-msgstr ""
+msgstr "DriverPack ሶፍትዌር ሙሉበሙሉ ነጻ ነው።"
 
 msgid "headeros_cta-btn"
-msgstr ""
+msgstr "ለ <span class='HeaderOs__cta-btn-marked'>{{OS}}</span> ድራይቨሮችን ጫን"
 
 msgid "headeros_search-text"
-msgstr ""
+msgstr "ወይንም ከግዙፉ የድራይቨር መዝገባችን ያለውን መፈለጊያ ይጠቀሙ"
 
 msgid "landingdevicetypelist_landing-title"
-msgstr ""
+msgstr "DriverPack ለማንኛውም መሳሪያ የተመቸ ነው"
 
 msgid "landingdevicetypelist_landing-subtitle"
-msgstr ""
+msgstr "ለ Windows 7 SP1 USB 3.0 ጭምር"
 
 msgid "landingdevicetypelist_cta-btn"
-msgstr ""
+msgstr "ሁሉንም አስፈላጊ ድራይቨሮች ጫን።"
 
 msgid "landingdevicetypelist_versions"
-msgstr ""
+msgstr "ሌሎች የ DriverPack ስሪቶች"
 
 msgid "landingfeatures_landing-title"
-msgstr ""
+msgstr "DriverPack እጅግ አመቺውና ፈጣኑ የኮምፒውተር ማስተካከያ መንገድ ነው"
 
 msgid "landingfeatures_landing-subtitle"
-msgstr ""
+msgstr "ሶፍትዌሩ ነጻ ሲሆን ለ ባለሙያዎችም ሆነ ለ ጀማሪዎች የሚመች ነው"
 
 msgid "landingfeatures_item-title-free"
-msgstr ""
+msgstr "ነጻ"
 
 msgid "landingfeatures_item-caption-free"
-msgstr ""
+msgstr "DriverPack የተሰጠው በነጻ ነው"
 
 msgid "landingfeatures_item-title-safe"
-msgstr ""
+msgstr "ምቹ"
 
 msgid "landingfeatures_item-caption-safe"
-msgstr ""
+msgstr "DriverPack ከ አንቲ ቫይረስ አምራች ድርጅቶች ጋር ህጋዊ በሆነ መልኩ የሚሰራ ሲሆን ኮምፒውተርዎን ከጉዳት ይከላከላል"
 
 msgid "landingfeatures_item-title-for-all-devices"
-msgstr ""
+msgstr "ለሁሉም መሳሪያዎች"
 
 msgid "landingfeatures_item-caption-for-all-devices"
-msgstr ""
+msgstr "DriverPack በአለም ትልቁ የድራይቨር መዝገብ ያለው ሲሆን ማንኛውንም ኮምፒውተር ለማስተካከል ያስችላል"
 
 msgid "landingheader_cta-text"
-msgstr ""
+msgstr "DriverPack ድራይቨሮችን በነጻ ይጭናል እናም የሚፈጠሩ የድራይቨር ችግሮችን ይፈታል"
 
 msgid "landingheader_cta-btn"
-msgstr ""
+msgstr "ሁሉንም አስፈላጊ ድራይቨሮች ጫን።"
 
 msgid "landingheadernav_search"
-msgstr ""
+msgstr "ድራይቨር መፈለጊያ"
 
 msgid "landingheadernav_foradmin"
-msgstr ""
+msgstr "ለሲስተም ተቆጣጣሪዎች"
 
 msgid "landingintroduction_author-title"
-msgstr ""
+msgstr "ሰላም! Artur Kuzyakov እባላለሁ። የ DriverPack ደራሲ እና መስራች ነኝ። "
 
 msgid "landingintroduction_author-speech"
-msgstr ""
+msgstr "በራስ ተነሳሽነት ብቻ ከዛሬ 8 አመት በፊት ከተሰራ ትንሽ ሶፍትዌር ተነስተን አሁን ከ 40 ሚሊዮን ሰዎች በላይ ኮምፒውተሮቻቸውን ለማስተካከል መርዳት የቻለ ካምፓኒ ባለቤት ሆነናል። <br /><br />በዚህ ጊዜ ሶፍትዌራችን በጣም ፈጣንና የተሻለ ግንዛቤ ያለው ሁኗል። ዛሬ በአለም ዙሪያ ባሉ በጣም ፈጣን በሆኑ ሰርቨሮች የሚገኘው  DriverPack በአለም ትልቁ የድራይቨር መዝገብ ቤት ሁኗል። የድራይቨር መጫን ስራውን በጣም ፈጣንና ከፍተኛ ጥራት ያለው ለማድረግ የመረጣ ስርአቱን የበለጠ ፈጣንና ትክክለኛ የሚያደርጉ የ Machine Learning ቴክኖሎጂዎችን እንጠቀማለን። ይህንን ሁሉ ስራ ሶፍትዌሩ ከክፍያ ነጻ መሆኑ እንደተጠበቀ መስራት ችለናል፤ እናም ሁሉም ሰው መጠቀም ይችላል። <br /><br />እኔና ቡድኖቼ በዚህ ስራችን እንኮራለን፤ እናም ይህ ስራችን ማንኛውንም ኮምፒውተር በሚቻለው ፈጣን ጊዜ ለማስተካከል የእርስዎ ታማኝ አገልጋይ እንዲሆን እንመኛለን። "
 
 msgid "landingintroduction_author-speech-marked"
-msgstr ""
+msgstr "የእርስዎን ሰአት ለመቆጠብ የእኛን መስዋእት እናደርጋለን!"
 
 msgid "landingintroduction_video-caption"
-msgstr ""
+msgstr "እናም የ ራሺያ ፌዴሬሽን ጠቅላይ ሚኒስትር Dmitry Medvedev ስለ DriverPack Solution ያላቸው አስተያየት እነሆ"
 
 msgid "landingnotebookvendorslist_landing-title"
-msgstr ""
+msgstr "DriverPack ለማንኛውም ኮምፒውተር የተመቸ ነው።"
 
 msgid "landingnotebookvendorslist_landing-subtitle"
-msgstr ""
+msgstr "አዎ፣ ለሁሉም ኮምፒውተር  - አረጋግጠናል!"
 
 msgid "landingnotebookvendorslist_cta-btn"
-msgstr ""
+msgstr "ሁሉንም አስፈላጊ ድራይቨሮች ጫን።"
 
 msgid "landingnotebookvendorslist_versions"
-msgstr ""
+msgstr "ሌሎች የ DriverPack ስሪቶች"
 
 msgid "landingproducts_cta-title"
-msgstr ""
+msgstr "የእርስዎን DriverPack ይምረጡ"
 
 msgid "landingproducts_cta-description"
-msgstr ""
+msgstr "የሚመቾትን ጥቅል ያውርዱ"
 
 msgid "landingproducts_item-title-online"
-msgstr ""
+msgstr "DriverPack Online"
 
 msgid "landingproducts_item-description-online"
 msgstr ""
 
 msgid "landingproducts_item-version"
-msgstr "እትም"
+msgstr "እትም:"
 
 msgid "landingproducts_item-button"
 msgstr "አውርድ"
 
 msgid "landingproducts_item-title-network"
-msgstr ""
+msgstr "DriverPack Offline Network"
 
 msgid "landingproducts_item-description-network"
 msgstr ""
 
 msgid "landingproducts_item-title-offline"
-msgstr ""
+msgstr "DriverPack Offline Full"
 
 msgid "landingproducts_item-description-offline"
 msgstr ""
 
 msgid "landingpublications__source-link"
-msgstr ""
+msgstr "ተጨማሪ ያንብቡ"
 
 msgid "landingpublications__landing-title"
-msgstr ""
+msgstr "ስለ DriverPack የታተሙ የሚዲያ እትሞች"
 
 msgid "landingscreenshots_landing-title"
-msgstr ""
+msgstr "DriverPack በጣም ምቹውና በጣም ፈጣኑ የኮምፒውተር ማስተካከያ መንገድ ነው"
 
 msgid "landingscreenshots_landing-subtitle"
-msgstr ""
+msgstr "ሶፍትዌሩ ነጻ ሲሆን ለ ባለሙያዎችም ሆነ ለ ጀማሪዎች የሚመች ነው"
 
 msgid "landingsocial_landing-title"
-msgstr ""
+msgstr "የ DriverPack ቡድንን ይቀላቀሉ"
 
 msgid "landingsocial_landing-subtitle"
-msgstr ""
+msgstr "ዜናዎቹን ይከታተሉ እናም የውይይቱ ተሳታፊ ይሁኑ"
 
 msgid "landingtopvideocardlist_landing-title"
-msgstr ""
+msgstr "ታዋቂ የቪዲዮ ካርድ ሞዴሎች"
 
 msgid "landingtopvideocardlist_landing-caption"
 msgstr ""
@@ -440,28 +441,28 @@ msgid "landingusers_cta"
 msgstr ""
 
 msgid "landingusers_cta-btn"
-msgstr ""
+msgstr "ሁሉንም አስፈላጊ ድራይቨሮች ጫን።"
 
 msgid "landingusers_versions"
-msgstr ""
+msgstr "ሌሎች የ DriverPack ስሪቶች"
 
 msgid "landingvideocardlist_landing-title"
-msgstr ""
+msgstr "ታዋቂ የቪዲዮ ካርድ አምራቾች"
 
 msgid "landingwizard_landing-title"
 msgstr ""
 
 msgid "landingwizard_item-caption-download"
-msgstr ""
+msgstr "DriverPack Online ን ያውርዱና ያስጀምሩ"
 
 msgid "landingwizard_item-caption-setup"
-msgstr ""
+msgstr "ኮምፒውተርዎን በአንድ እርምጃ ብቻ ያስተካክሉ"
 
 msgid "landingwizard_item-caption-profit"
-msgstr ""
+msgstr "ብራቮ! አሁን ኮምፒውተሬ እንደአዲስ ትሰራለች"
 
 msgid "landingwizard_cta-btn"
-msgstr ""
+msgstr "ሁሉንም አስፈላጊ ድራይቨሮች ጫን።"
 
 msgid "navbar_download-link-short"
 msgstr "አውርድ"
@@ -470,28 +471,28 @@ msgid "navbar_download-link"
 msgstr "አውርድ DriverPack Online"
 
 msgid "notfound_cta-text"
-msgstr ""
+msgstr "DriverPack Online ን በነጻ በመጠቀም ድራይቨሮችን መፈለግ እና መጫን ይችላሉ"
 
 msgid "notfound_cta-btn"
 msgstr "አውርድ DriverPack Online"
 
 msgid "notfound_info-404"
-msgstr ""
+msgstr "{{404}} — የተፈለገው ገጽ አልተገኘም"
 
 msgid "notfound_info-500"
-msgstr ""
+msgstr "{{500}} — የሆነ ነገር ተሳስቷል (የሰርቨር ችግር)"
 
 msgid "notebookfilters-title"
-msgstr ""
+msgstr "አሁን ያሉ ድራይቨሮች"
 
 msgid "notebookvendorslist_other-text"
-msgstr ""
+msgstr "ሌሎች አምራቾች"
 
 msgid "notebookvendorslist_title_os"
-msgstr ""
+msgstr "የ {{OS}} ላፕቶፖች ድራይቨሮች"
 
 msgid "notebookvendorslist_title"
-msgstr ""
+msgstr "ለላፕቶፖች ድራይቨር መፈለጊያ"
 
 msgid "productlandingheader-online_cta-btn"
 msgstr "አውርድ DriverPack Online"
@@ -506,31 +507,31 @@ msgid "productlandingheader-network_caption"
 msgstr ""
 
 msgid "productlandingheader-offline_cta-btn"
-msgstr ""
+msgstr "ኢንተርኔት የማያስፈልገውን DriverPack Offline Full ያውርዱ"
 
 msgid "productlandingheader-offline_caption"
 msgstr ""
 
 msgid "promoheader_os-versions"
-msgstr ""
+msgstr "ሶፍትዌሩ ለ Windows 10, 8.1, 8, 7, Vista, XP ተስማሚ ነው"
 
 msgid "promoheader_uninstall"
-msgstr ""
+msgstr "DriverPack ማስወገጃ"
 
 msgid "promoheader_cta-text-gamers"
-msgstr ""
+msgstr "ኮምፒውተርዎ ከሚያስቡት በላይ አቅም አለው። ሁሉንም ድራይቨሮች ያድሱ"
 
 msgid "promoheader_cta-text-gamers-caption"
 msgstr ""
 
 msgid "promoheader_cta-text"
-msgstr ""
+msgstr "DriverPack ድራይቨሮችን በነጻ ይጭናል እናም የሚፈጠሩ የድራይቨር ችግሮችን ይፈታል"
 
 msgid "promoheader_cta-btn"
-msgstr ""
+msgstr "ሁሉንም አስፈላጊ ድራይቨሮች ጫን።"
 
 msgid "promoheader_size"
-msgstr ""
+msgstr "የፋይል መጠን፡ {{SIZE}} KB"
 
 msgid "reviewheader_cta-text"
 msgstr ""
@@ -539,30 +540,30 @@ msgid "reviewheader_cta"
 msgstr ""
 
 msgid "search_input-placeholder"
-msgstr ""
+msgstr "በ ድራይቨር ስም፣ በላፕቶፕ ወይንም በ DeviceID ይፈልጉ"
 
 msgid "search_btn-text"
-msgstr ""
+msgstr "ፈልግ"
 
 msgid "searchformitem_type-section"
-msgstr ""
+msgstr "ምድብ"
 
 msgid "searchformitem_type-notebook"
-msgstr ""
+msgstr "ላፕቶፕ"
 
 msgid "searchformitem_type-device"
-msgstr ""
+msgstr "መሳሪያ"
 
 msgid "searchformitem_type-free"
-msgstr ""
+msgstr "በነጻ"
 
 #. i18n: EN: Example: NAME=Acer; RU: Пример: NAME=Acer;
 msgid "generatesearchitemname_notebookvendor"
-msgstr ""
+msgstr "{{NAME}} ላፕቶፖች"
 
 #. i18n: EN: Example: NAME=Asus; RU: Пример: NAME=Asus;
 msgid "generatesearchitemname_vendor"
-msgstr ""
+msgstr "{{NAME}} መሳሪያዎች"
 
 msgid "deviceclasses_bluetooth-single-main"
 msgstr "የ ብሉቱዝ መሳሪያ"
@@ -601,16 +602,16 @@ msgid "deviceclasses_chipset-plural-for"
 msgstr "ቺፕሴቶች"
 
 msgid "deviceclasses_inputdev-single-main"
-msgstr ""
+msgstr "የ ግባት መሳሪያ"
 
 msgid "deviceclasses_inputdev-single-for"
-msgstr ""
+msgstr "የ ግባት መሳሪያ"
 
 msgid "deviceclasses_inputdev-plural-main"
-msgstr ""
+msgstr "የ ግባት መሳሪያዎች"
 
 msgid "deviceclasses_inputdev-plural-for"
-msgstr ""
+msgstr "የ ግባት መሳሪያዎች"
 
 msgid "deviceclasses_lan-single-main"
 msgstr "የ ኔትወርክ ካርድ"
@@ -649,16 +650,16 @@ msgid "deviceclasses_modem-plural-for"
 msgstr "ሞደሞች"
 
 msgid "deviceclasses_monitor-single-main"
-msgstr ""
+msgstr "ምስል ማሳያ"
 
 msgid "deviceclasses_monitor-single-for"
-msgstr ""
+msgstr "ምስል ማሳያ"
 
 msgid "deviceclasses_monitor-plural-main"
-msgstr ""
+msgstr "ምስል ማሳያዎች"
 
 msgid "deviceclasses_monitor-plural-for"
-msgstr ""
+msgstr "ምስል ማሳያዎች"
 
 msgid "deviceclasses_phone-single-main"
 msgstr "ተንቀሳቃሽ ስልክ"
@@ -697,16 +698,16 @@ msgid "deviceclasses_sound-plural-for"
 msgstr "የድምጽ ካርዶች"
 
 msgid "deviceclasses_tvtuner-single-main"
-msgstr ""
+msgstr "የቲቪ ማስተካከያ"
 
 msgid "deviceclasses_tvtuner-single-for"
-msgstr ""
+msgstr "የቲቪ ማስተካከያ"
 
 msgid "deviceclasses_tvtuner-plural-main"
-msgstr ""
+msgstr "የቲቪ ማስተካከያዎች"
 
 msgid "deviceclasses_tvtuner-plural-for"
-msgstr ""
+msgstr "የቲቪ ማስተካከያዎች"
 
 msgid "deviceclasses_video-single-main"
 msgstr "የምስል ካርድ"
@@ -733,16 +734,16 @@ msgid "deviceclasses_webcamera-plural-for"
 msgstr "ዌብካሞች"
 
 msgid "deviceclasses_wifi-single-main"
-msgstr ""
+msgstr "የ ዋይፋይ መሳሪያ"
 
 msgid "deviceclasses_wifi-single-for"
-msgstr ""
+msgstr "የ ዋይፋይ መሳሪያ"
 
 msgid "deviceclasses_wifi-plural-main"
-msgstr ""
+msgstr "የ ዋይፋይ መሳሪያዎች"
 
 msgid "deviceclasses_wifi-plural-for"
-msgstr ""
+msgstr "የ ዋይፋይ መሳሪያዎች"
 
 msgid "deviceclasses_other-single-main"
 msgstr "ሌሎች ቁሶች"
@@ -760,7 +761,7 @@ msgid "searchheader_caption-subtitle"
 msgstr ""
 
 msgid "searchheader_caption-filter-label"
-msgstr ""
+msgstr "ድራይቨሩ ለተመረጠው ኦፐሬቲንግ ሲስተም ይጫናል።"
 
 #. i18n: EN: Example: NOTEBOOK=Acer AO521; Text for {{DOWNLOAD}} is in key
 #. searchresult_details-content_download-link; RU: Пример: NOTEBOOK=Acer
@@ -776,13 +777,13 @@ msgid "searchresult_notebook"
 msgstr "ላፕቶፕ"
 
 msgid "searchresult_download-btn"
-msgstr ""
+msgstr "ድራይቨሩን በራሱ ጊዜ ያውርድ"
 
 msgid "searchresult_details-content-text-placeholder"
 msgstr "ዳታ በመጫን ላይ..."
 
 msgid "searchresult_details-content-label-1"
-msgstr ""
+msgstr "ኦፐሬቲንግ ሲስተም"
 
 msgid "searchresult_details-content-label-2"
 msgstr "ሙሉ ሲስተሞች"
@@ -797,58 +798,58 @@ msgstr ""
 #. i18n: EN: Example: CLASS.SINGLE.MAIN=monitor|chipset; COUNT=12; RU: Пример:
 #. CLASS.SINGLE.MAIN=монитор|чипсет; COUNT=12;
 msgid "searchresult_device"
-msgstr ""
+msgstr "{{CLASS.SINGLE.MAIN}} ({{COUNT}} ውጤቶች ተገኝተዋል)"
 
 msgid "searchresult_details-content-text-many"
-msgstr ""
+msgstr "ለዚህ መሳሪያ የተለያዩ ብዙ ድራይቨሮች ተገኝተዋል"
 
 msgid "seofooter_os-list-title"
-msgstr ""
+msgstr "የ ኦፐሬቲንግ ሲስተም ስሪት: <span itemprop='operatingSystem'>{{OSLIST}}</span>"
 
 msgid "seofooter_offers-title"
 msgstr ""
 
 msgid "seofooter_driver-description-title"
-msgstr ""
+msgstr "የድራይቨር መግለጫ"
 
 msgid "seofooter_popular-drivers-title"
-msgstr ""
+msgstr "ታዋቂ ድራይቨሮች"
 
 msgid "sidebanner_title"
-msgstr ""
+msgstr "ድራይቨሮችን መፈለግ ሰልችቶዎታል?"
 
 msgid "sidebanner_caption"
-msgstr ""
+msgstr "DriverPack አስፈላጊ ድራይቨሮችን <span class='SideBanner__caption-marked'>ራሱ መርጦ</span> ይጭናል። "
 
 msgid "translationheader_cta-text"
-msgstr ""
+msgstr "DriverPack ለሚሊዮን ኮምፒውተሮች ክፍት እንዲሆን  — በበጎ ፈቃደኝነት ላይ በተመሰረተው ሶፍትዌሩን ወደ ሌላ ቋንቋ የመተርጎም ፕሮጀክታችን ላይ በመሳተፍ ይርዱን "
 
 msgid "translationheader_bubble-team"
-msgstr ""
+msgstr "በአለም ትልቁ ለሆነው የኮምፒውተር ማስተካከያ አገልግሎት የተርጓሚዎች ቡድን ተሳታፊ መሆን ይፈልጋሉ?"
 
 msgid "translationheader_bubble-languages"
-msgstr ""
+msgstr "ወደ እርስዎ ቋንቋ ለመተርጎም ዝግጁ እንዲሆኑ፣ እንግሊዝኛ ወይንም ራሺያኛ በደንብ ያውቃሉ?"
 
 msgid "translationheader_bubble-experience"
-msgstr ""
+msgstr "ዌብሳይቶችን ወይንም ሶፍትዊሮችን በኦንላይን የትርጉም መገልገያዎች የመተርጎም ልምድ አለዎት?"
 
 msgid "translationheader_bubble-email"
-msgstr ""
+msgstr "ለሶስቱም ጥያቄዎች መልስዎ 'አዎ' ከሆነ እባክዎን በ {{EMAIL}} አድራሻ ጉዳዩን {{SUBJECT}} ብለው ጽፈው e-mail በመላክ የተዘጋጁበትን ቋንቋ ያሳውቁን። "
 
 msgid "translationlist_title"
-msgstr ""
+msgstr "የ DriverPack ህጋዊ ተርጓሚዎች ዝርዝር"
 
 msgid "translationtool_text-transifex"
-msgstr ""
+msgstr "DriverPack Solution ለ ቋንቋ ትርጓሜ transifex.com ን እንጠቀማለን፡"
 
 msgid "translationtool_example-ru-to-en"
-msgstr ""
+msgstr "ከራሺያኛ (RU) ወደ እንግሊዝኛ (EN) እና ወደ CIS ቋንቋዎች (CIS) የሚተረጎሙ ሃረጋት"
 
 msgid "translationtool_example-en-to-all"
-msgstr ""
+msgstr "ከእንግሊዝኛ (EN) ወደ ሌሎች የአለም ቋንቋዎች የሚተረጎሙ ሃረጋት"
 
 msgid "deviceclasses_laptop-single-main"
-msgstr ""
+msgstr "ላፕቶፕ"
 
 msgid "language_title"
 msgstr "Amharic"
@@ -887,43 +888,43 @@ msgid "adminpagefaq_official_vendors-a"
 msgstr ""
 
 msgid "adminpagefaq_database-q"
-msgstr ""
+msgstr "የ DriverPack መዝገብ እንዴት ነው  የሚስፋፋው? እውነት የፈለኳቸውን ድራይቨሮች ፈልጌ ማግኘት እችላለሁ?"
 
 msgid "adminpagefaq_database-a"
 msgstr ""
 
 msgid "adminpagefaq_free-q"
-msgstr ""
+msgstr "DriverPack ሙሉበሙሉ ነጻ ነው የሚባለው እውነት ነው?"
 
 msgid "adminpagefaq_free-a"
 msgstr ""
 
 msgid "adminpagefaq_antivirus-q"
-msgstr ""
+msgstr "አንቲ ቫይረሴ DriverPack ውስጥ ቫይረስ አግኘ - እንዴት ሊሆን ይችላል?"
 
 msgid "adminpagefaq_antivirus-a"
 msgstr ""
 
 msgid "adminpagefaq_expert_mode-q"
-msgstr ""
+msgstr "የትኛው ሁኔታ ነው DriverPack ን ለመጠቀም አመቺ የሆነው?"
 
 msgid "adminpagefaq_expert_mode-a"
 msgstr ""
 
 msgid "adminpagefaq_stable-q"
-msgstr ""
+msgstr "ድራይቨሩ በትክክል አልተጫነም እናም ኮምፒውተሬ አሁን ችግር አለበት። እንዴት ነው ማስተካከል የምችለው?"
 
 msgid "adminpagefaq_stable-a"
 msgstr ""
 
 msgid "cloudpagefaq_remove_soft-q"
-msgstr ""
+msgstr "ለምን ነው DriverPack Cloud አንዳንድ ሶፍትዌሮችን ከኮምፒውተሬ እንዳስወግድ የሚገፋፋኝ?"
 
 msgid "cloudpagefaq_remove_soft-a"
 msgstr ""
 
 msgid "cloudpagefaq_notifications-q"
-msgstr ""
+msgstr "DriverPack Cloud ን ከጫንኩ በኋላ ዴስክቶፕ ላይ ማስታወቂያዎች ይደርሱኛል። እንዴት ነው ማጥፋት የምችለው?"
 
 msgid "cloudpagefaq_notifications-a"
 msgstr ""
@@ -935,22 +936,22 @@ msgid "cloudpagefaq_usb-a"
 msgstr ""
 
 msgid "cloudlandingpage_cackle-title"
-msgstr ""
+msgstr "ስለ DriverPack Cloud ያለዎትን አስተያየት ያሳውቁን?"
 
 msgid "cloudlandingpage_cackle-caption"
-msgstr ""
+msgstr "DriverPack Cloud ን ወደውታል? ምን ተጨማሪ ነገሮች ቢጨመሩ ይላሉ? እባክዎን ይንገሩን። "
 
 msgid "cloudlandingpage_header-title"
-msgstr ""
+msgstr "DriverPack Cloud የኮምፒውተርዎን አስተማማኝነት ለመጨመር የተሰራ አዲስ ሶፍትዌር ነው"
 
 msgid "cloudlandingpage_about-what-is-title"
-msgstr ""
+msgstr "DriverPack Cloud ሶፍትዌር ምንድን ነው?"
 
 msgid "cloudlandingpage_about-what-is-caption"
 msgstr ""
 
 msgid "cloudlandingpage_about-how-works-title"
-msgstr ""
+msgstr "DriverPack Cloud እንዴት ነው የሚሰራው?"
 
 msgid "cloudlandingpage_about-how-works-caption"
 msgstr ""
@@ -965,16 +966,16 @@ msgid "cloudlandingpage_features-cloud"
 msgstr ""
 
 msgid "cloudlandingpage_uninstall-title"
-msgstr ""
+msgstr "DriverPack Cloud ን ከኮምፒውተርዎ እንዴት ሙሉበሙሉ ያስወግዳሉ?"
 
 msgid "cloudlandingpage_uninstall-caption"
 msgstr ""
 
 msgid "cloudlandingpage_license"
-msgstr ""
+msgstr "መጫኑን ከማስጀመርዎ በፊት እባክዎ ይህንን ያንብቡ {{LINK}}"
 
 msgid "cloudlandingpage_features-install"
-msgstr ""
+msgstr "DriverPack Cloud ን ይጫኑ"
 
 msgid "cloudlandingpage_license-link"
 msgstr "የፈቃድ ስምምነት"
@@ -983,49 +984,49 @@ msgid "devicegrouppage_show-more-link"
 msgstr "ተጨማሪ አሳይ"
 
 msgid "devicestypepage_subtitle"
-msgstr ""
+msgstr " ሁሉም የ {{CLASS.SINGLE.FOR}} አምራቾች"
 
 msgid "devicetypevendorpage_subtitle-popular"
-msgstr ""
+msgstr "ታዋቂ {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
 
 msgid "devicetypevendorpage_subtitle-all"
-msgstr ""
+msgstr "ሁሉም {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
 
 msgid "errorpage_title"
-msgstr ""
+msgstr "ስህተት 500፡ የውስጥ ሰርቨር ስህተት"
 
 msgid "gdpr-banner_text"
 msgstr ""
 
 msgid "gdpr-banner_cta-text"
-msgstr ""
+msgstr "እሺ"
 
 msgid "landingfooter_landing-subtitle"
-msgstr ""
+msgstr "DriverPack ለሁሉም ታዋቂ የ Windows ስሪቶች ድራይቨሮችን ይዟል"
 
 msgid "landing-footer_catalog-os"
-msgstr ""
+msgstr "ለ {{OS}} ድራይቨሮች"
 
 msgid "landing-footer_versions"
-msgstr ""
+msgstr "ሁሉም የአፕሊኬሽኑ ስሪቶች"
 
 msgid "landing-footer_remove"
-msgstr ""
+msgstr "DriverPack ማስወገጃ"
 
 msgid "landing-footer_manufacturers"
-msgstr ""
+msgstr "የ ሃርድዌር አምራቾች"
 
 msgid "landing-footer_hwids"
-msgstr ""
+msgstr "Device ID"
 
 msgid "landing-footer_for-admin"
-msgstr ""
+msgstr "ለሲስተም ተቆጣጣሪዎች"
 
 msgid "landing-footer_for-translators"
-msgstr ""
+msgstr "ለ ተርጓሚዎች"
 
 msgid "notfoundpage_title"
-msgstr ""
+msgstr "ስህተት 404፡ ገጹ አልተገኘም"
 
 msgid "notebookpage_show-more-link"
 msgstr "ተጨማሪ አሳይ"
@@ -1040,19 +1041,19 @@ msgid "notebook-page_empty-caption"
 msgstr ""
 
 msgid "notebook-page_empty-button"
-msgstr ""
+msgstr "ድራይቨሮችን በራስህ ጊዜ ጫን"
 
 msgid "notebookspage_subtitle"
-msgstr ""
+msgstr "ሁሉም የላፕቶፕና የኖትቡክ አምራቾች ዝርዝር"
 
 msgid "notebooksvendorpage_subtitle-popular"
-msgstr ""
+msgstr "ታዋቂ {{VENDOR.NAME}} ላፕቶፖችና ኖትቡኮች"
 
 msgid "notebooksvendorpage_subtitle-all"
-msgstr ""
+msgstr "ሁሉም {{VENDOR.NAME}} ላፕቶፖችና ኖትቡኮች"
 
 msgid "reviewpage_title"
-msgstr ""
+msgstr "DriverPack ን ለማሻሻል አስተያተትና ምክሮች"
 
 msgid "searchpage_show-more-link"
 msgstr "ተጨማሪ አሳይ"
@@ -1060,60 +1061,60 @@ msgstr "ተጨማሪ አሳይ"
 #. i18n: EN: text for {{LINK}} is in key thankyoupopup_download-link; RU:
 #. текст для {{LINK}} находится в ключе thankyoupopup_download-link;
 msgid "thankyoupopup_download-text"
-msgstr ""
+msgstr "ማውረዱ አልጀመረም? ለማስጀመር ይህን ይጫኑ {{LINK}}"
 
 #. i18n: EN: text for {{LINK}} is in key thankyoupopup_licence-link; RU: текст
 #. для {{LINK}} находится в ключе thankyoupopup_licence-link;
 msgid "thankyoupopup_licence-text"
-msgstr ""
+msgstr "ሶፍትዌሩን በመጫን በ {{LINK}} ሁነቶች ተስማምተዋል"
 
 msgid "thankyoupopup_antivirus-not-know"
-msgstr ""
+msgstr "አንዳንድ አንቲ ቫይረሶች ለጫኝ ፋይሉ የተሳሳተ መልስ ይሰጣሉ።ለምሳሌ ለሚከተሉት፡ "
 
 msgid "thankyoupopup_antivirus-know"
-msgstr ""
+msgstr "የሚከተሉት አንቲ ቫይረሶች DriverPack ቫይረስ እንዳልሆነ በርግጠኝነት ያውቃሉ፡"
 
 msgid "thankyoupopup_title"
-msgstr ""
+msgstr "DriverPack ን አስጀምር"
 
 msgid "thankyoupopup_download-link"
-msgstr ""
+msgstr "አውርድ"
 
 msgid "thankyoupopup_licence-link"
 msgstr "የፈቃድ ስምምነት"
 
 msgid "translate-feedback-header_caption"
-msgstr ""
+msgstr "ይህ ገጽ በቅርቡ የተተረጎመ ነው። ስህተት አግኝተው ከሆነ ያጥቁሩትና {{HOTKEY}} ይጫኑ"
 
 msgid "translate-feedback-form-popup_preview-title"
-msgstr ""
+msgstr "የሚከተለውን የጽሁፍ ክፍል አጥቁረዋል:"
 
 msgid "translate-feedback-form-popup_correct-title"
 msgstr ""
 
 msgid "translate-feedback-form-popup_submit"
-msgstr ""
+msgstr "ላክ"
 
 msgid "translate-feedback-popup_title-error"
-msgstr ""
+msgstr "የሆነ ነገር ተሳስቷል"
 
 msgid "translate-feedback-popup_description-error"
 msgstr ""
 
 msgid "translate-feedback-popup_title-success"
-msgstr ""
+msgstr "እናመሰግናለን"
 
 msgid "translate-feedback-popup_description-success"
-msgstr ""
+msgstr "የተጠቆረው ጽሁፍ ለማስተካከያው ተልኳል"
 
 msgid "translate-feedback-popup_description-join-us"
-msgstr ""
+msgstr "እባክዎን ወደ አፍ መፍቻ ቋንቋዎ በመተርጎም ይርዱን"
 
 msgid "translate-feedback-popup_description-join-link"
-msgstr ""
+msgstr "የተርጓሚዎች ቡድናችንን ይቀላቀሉ"
 
 msgid "translationlandingpage_title"
-msgstr ""
+msgstr "DriverPack ትርጓሜ"
 
 msgid "vendorpage_subtitle-popular"
-msgstr ""
+msgstr "ታዋቂ የ {{VENDOR.NAME}} መሳሪያዎች"
