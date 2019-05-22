@@ -2,7 +2,7 @@
 # 
 # Translators:
 # Andreas Jacob <janetworkx@googlemail.com>, 2017
-# Kai Borchert <kai.borchert@outlook.com>, 2016-2017
+# Kai Borchert <kai.borchert@outlook.com>, 2016-2017,2019
 # Nadia Tegeneva <nadia@drp.su>, 2017-2019
 # Patrick Wacker <crayzyone@gmail.com>, 2018-2019
 # thor macha <machalowskithorsten@googlemail.com>, 2017
@@ -12,8 +12,8 @@ msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-25 17:54+0000\n"
-"PO-Revision-Date: 2019-04-05 11:08+0000\n"
-"Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
+"PO-Revision-Date: 2019-05-13 13:58+0000\n"
+"Last-Translator: Kai Borchert <kai.borchert@outlook.com>\n"
 "Language-Team: German (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/de/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -1154,7 +1154,7 @@ msgid "menu_bugreport"
 msgstr "Fehler melden"
 
 msgid "no-internet-screen_header-title"
-msgstr "Keine Serververbindung"
+msgstr "Keine Verbindung zum Server"
 
 msgid "no-internet-screen_guide-title"
 msgstr "Wie installiere ich alle benötigten Treiber ohne Internetverbindung?"
@@ -1340,13 +1340,13 @@ msgid "start_diagnostics_network"
 msgstr "Netzwerkverbindungs-Check"
 
 msgid "start_diagnostics_video"
-msgstr "Grafikkarten-Check"
+msgstr "Überprüfung der Grafikkarte"
 
 msgid "start_diagnostics_audio"
-msgstr "Soundkarten-Check"
+msgstr "Überprüfung der Soundkarte"
 
 msgid "start_diagnostics_other"
-msgstr "Check anderer Geräte"
+msgstr "Überprüfung anderer Geräte"
 
 msgid "delorean_use_remote_confirm"
 msgstr "Eine aktive Internetverbindung wurde auf Ihrem Computer erkannt. Die vollständige Treiberdatenbank ist online verfügbar und enthält die neuesten Versionen. Möchten Sie die Datenbank aus dem Netzwerk nutzen? (Traffic-Nutzung ist möglich)"
@@ -1442,7 +1442,7 @@ msgid "installation_header_promo_text_driverpack_for_all"
 msgstr "Wir haben ein Tool entwickelt, das es ermöglicht, die Konfiguration eines Computers vollautomatisch zu gestalten. DriverPack enthält mehr als eine Million Treiber, mit denen jeder Computer mit nur einer Taste konfiguriert werden kann. Als Ergebnis erhalten Sie installierte Treiber und Dienstprogramme, sorgfältig ausgewählte Software (die Bestandteil der Konfiguration ist) sowie die Diagnose Ihres Computers. Das bedeutet, dass DriverPack Ihren gesamten Computer schnell mit nur einem Tastendruck auf maximale Effizienz konfiguriert."
 
 msgid "installation_header_promo_title_istart"
-msgstr "Sie mögen neue Technologien? Unterstütze einen guten Start"
+msgstr "Mögen Sie neue Technologien? Dann unterstützen Sie ein gutes Start-up"
 
 msgid "installation_header_promo_text_istart"
 msgstr "Denken Sie auch, dass die Suchmaschinen veraltet sind? Wenn ja, unterstützen Sie ein junges iStart-Entwicklerteam, das eine eigene Sicht auf die Inhaltssuche hat: eine einzigartige Suchleiste, automatische Entfernung von Anzeigen, Anonymität — und all dies ist erst der Anfang. Diese Technologie durchläuft derzeit die Phase des offenen Alpha-Tests, ist aber bereits zum Testen verfügbar."
@@ -1502,7 +1502,7 @@ msgid "deviceproblems_usb_unknown_vendor"
 msgstr "Dieses angeschlossene USB-Gerät wurde installiert, der Hersteller konnte jedoch nicht ermittelt werden. Um dies zu beheben, sollten Sie den automatischen Start für den Windows Driver Foundation-Dienst zuweisen. Wechseln Sie zur Registerkarte \"Computerverwaltung\" → Registerkarte \"Dienste\" → Registerkarte \"Windows Driver Foundation\" und wählen Sie dann die Option \"Starttyp: Automatisch\""
 
 msgid "deviceproblems_sound_card"
-msgstr "Die Soundkarte ist falsch angeschlossen, oder es gibt einige Probleme mit der Betriebsfähigkeit"
+msgstr "Die Soundkarte ist entweder falsch angeschlossen, oder es bestehen Probleme mit ihrer Funktionsfähigkeit."
 
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
