@@ -19,7 +19,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
 msgid "seo_landingtopvendorslist_drivers-for"
-msgstr ""
+msgstr "Drajveri za {{VENDOR}}"
 
 #. i18n: EN: Example: VENDOR.NAME=Asus; RU: Пример: VENDOR.NAME=Asus;
 msgid "seo_vendor-footer-anchor"
@@ -34,10 +34,10 @@ msgstr "{{NAME}}"
 
 #. i18n: EN: Example: NAME=Asus X550EA; RU: Пример: NAME=Asus X550EA;
 msgid "seo_notebookvendor-footer-anchor"
-msgstr ""
+msgstr "{{NOTEBOOK.VENDOR.NAME}} laptopi"
 
 msgid "seo_notebook-footer-anchor"
-msgstr ""
+msgstr "{{NAME}} laptopi"
 
 msgid "seo_notebookdevices-footer-anchor"
 msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} {{CLASS.PLURAL.MAIN}}"
@@ -48,70 +48,70 @@ msgid "seo_deviceclass-footer-anchor"
 msgstr "{{CLASS.PLURAL.MAIN}}"
 
 msgid "seo_hwidos-footer-anchor"
-msgstr ""
+msgstr "Verzija drajvera za Windows {{OS.NAME}}"
 
 msgid "seo_main-title"
-msgstr ""
+msgstr "DriverPack Solution — automatsko instaliranje i ažuriranje drajvera | Preuzmi besplatno"
 
 msgid "seo_main-description"
-msgstr ""
+msgstr "DriverPack Solution Vam preporučuje instaliranje drajvera za Vaš uređaj besplatno, ili preuzimanje software-a za automatsku instalaciju i nadogradu. Dostupno za Windows XP, 7, 8M 8.1 i 10."
 
 msgid "seo_main-keywords"
-msgstr ""
+msgstr "preuzmi driver pack windows 7 8 10 64 drajveri za laptop besplatno drajver instaler software za instalaciju drajvera"
 
 msgid "seo_mainos-title"
-msgstr ""
+msgstr "Preuzmi drajvere za Windows {{OS.VERSION}}"
 
 msgid "seo_mainos-description"
-msgstr ""
+msgstr "DriverPack Solution - nadogradi drajvere za Windows {{OS.VERSION}}  x64 i x86 besplatno"
 
 msgid "seo_mainos-h1"
 msgstr "Windows {{OS.VERSION}} drajveri"
 
 msgid "seo_mainos-keywords"
-msgstr ""
+msgstr "Windows {{OS.VERSION}} preuzmi instaliraj 64 86 drajvere DriverPack Solution besplatno"
 
 msgid "seo_mainos-h3"
 msgstr "Najveća kolekcija drajvera za Windows {{OS.VERSION}} u jednostavnoj besplatnoj aplikaciji"
 
 msgid "seo_mainlanding-title"
-msgstr ""
+msgstr "DriverPack Solution | Preuzmi besplatni software za nadogradu drajvera"
 
 msgid "seo_mainlanding-description"
-msgstr ""
+msgstr "Preuzmi drajvere za Windows XP, 7, 8, 8.1 i 10."
 
 msgid "seo_mainlanding-keywords"
-msgstr ""
+msgstr "preuzmi drajvere auto-instalacija nadogradi Windows 7, XP, 10, 8, i 8.1 drajver software za nadogradu "
 
 msgid "seo_mainlanding-topvendorslist-title"
-msgstr ""
+msgstr "Popularni proizvođači"
 
 msgid "seo_mainlanding-topvendorslist-caption"
-msgstr ""
+msgstr "DriverPack odabira drajvere za računarske opreme od svih proizvođača. Evo nekih najpopularnijih brendova:"
 
 msgid "seo_productonline_title"
-msgstr ""
+msgstr "DriverPack Online | Preuzmi drajvere brzo i automatski"
 
 msgid "seo_productonline_description"
-msgstr ""
+msgstr "DriverPack Online dopušta preuzimanje i instalaciju / nadogradu svih potrebnih drajvera za tvoj PC ili laptop ako si spojen na internet"
 
 msgid "seo_productonline_h1"
 msgstr "DriverPack Online - preuzima se odmah, preuzima i instalira drajvere ako ste spojeni na internet"
 
 msgid "seo_productnetwork_title"
-msgstr ""
+msgstr "DriverPack Offline Network | Preuzmi drajvere za network hardware offline"
 
 msgid "seo_productnetwork_description"
-msgstr ""
+msgstr "DriverPack Offline Network - svi drajveri za network hardware offline na jednom mjestu. Preuzmi za Windows XP, 7, 8, 8.1, 10"
 
 msgid "seo_productnetwork_h1"
 msgstr "DriverPack Offline Network - posjeduje drajvere za network hardware (Lan|Wi-Fi), radi bez interneta"
 
 msgid "seo_productoffline_title"
-msgstr ""
+msgstr "DriverPack Offline Full | Preuzmi drajvere bez interneta"
 
 msgid "seo_productoffline_description"
-msgstr ""
+msgstr "DriverPack Offline Full - paket drajvera namijenjen korištenju adminima sistema bez pristupa internetu. Preuzmi za Windows XP, 7, 8, 8.1, 10"
 
 msgid "seo_productoffline_h1"
 msgstr "DriverPack Offline Full - posjeduje sve drajvere, radi bez interneta"
@@ -119,12 +119,12 @@ msgstr "DriverPack Offline Full - posjeduje sve drajvere, radi bez interneta"
 #. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
 #. CLASS.PLURAL.FOR=мониторов|модемов;
 msgid "seo_deviceclass-title"
-msgstr ""
+msgstr "Preuzmi {{CLASS.SINGLE.FOR}} drajvere za Windows 7, XP, 10, 8, i 8.1"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
 #. CLASS.PLURAL.FOR=мониторов|модемов;
 msgid "seo_deviceclass-description"
-msgstr ""
+msgstr "Preuzmi {{CLASS.SINGLE.FOR}} drajvere ili instaliraj DriverPack Solution software za skeniranje i nadogradnju drajvera"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
 #. CLASS.PLURAL.FOR=мониторов|модемов;
@@ -134,40 +134,40 @@ msgstr "<span class='bold'>{{CLASS.SINGLE.FOR}}</span> drajveri"
 #. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
 #. CLASS.PLURAL.FOR=мониторов|модемов;
 msgid "seo_deviceclass-keywords"
-msgstr ""
+msgstr "{{CLASS.SINGLE.FOR}} drajveri windows 7 64 8 10 preuzmi"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=monitors|modem; RU: Пример:
 #. CLASS.PLURAL.FOR=мониторов|модемов;
 msgid "seo_deviceclass-footer-description"
-msgstr ""
+msgstr "Preuzmi drajvere za {{CLASS.PLURAL.FOR}} besplatno"
 
 msgid "seo_deviceclass-footer-application-category"
-msgstr ""
+msgstr "Kategorija: <span itemprop='applicationCategory'>Uređaji</span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=monitors|modem; RU: Пример:
 #. CLASS.PLURAL.MAIN=мониторы|модемы;
 msgid "seo_deviceclass-footer-application-subcategory"
-msgstr ""
+msgstr "Podkategorija: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_vendors-title"
-msgstr ""
+msgstr "Preuzmi PC, laptop, i netbook drajvere | DriverPack Solution"
 
 msgid "seo_vendors-description"
-msgstr ""
+msgstr "Instaliraj PC, laptop, i netbook drajvere besplatno, ili preuzmi software za automatsku nadogradu i instalaciju drajvera"
 
 msgid "seo_vendors-h1"
 msgstr "Hardware proizvođači"
 
 msgid "seo_vendors-keywords"
-msgstr ""
+msgstr "drajveri drajveri windows 7 8 10 64 preuzmi preuzmi"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendor-title"
-msgstr ""
+msgstr "Preuzmi {{VENDOR.NAME}} drajvere za Windows 7, XP, 10, 8, i 8.1"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendor-description"
-msgstr ""
+msgstr "Preuzmi {{VENDOR.NAME}} drajvere ili instaliraj DriverPack Solution software za skeniranje i nadogradu drajvera"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendor-h1"
@@ -175,26 +175,26 @@ msgstr "<span class='bold'>{{VENDOR.NAME}}</span> drajveri uređaja"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendor-keywords"
-msgstr ""
+msgstr "{{VENDOR.NAME}} drajveri windows 7 8 10 64 preuzmi"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendor-footer-description"
-msgstr ""
+msgstr "Preuzmi drajvere za {{VENDOR.NAME}} uređaje besplatno"
 
 msgid "seo_vendor-footer-application-category"
-msgstr ""
+msgstr "Kategorija: <span itemprop='applicationCategory'>Uređaji</span>"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendor-footer-application-subcategory"
-msgstr ""
+msgstr "Podkategorija: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} uređaji</span>"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendorlanding-title"
-msgstr ""
+msgstr "{{VENDOR.NAME}} drajveri | Preuzmi za Windows 7, XP, 10, 8, i 8.1"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendorlanding-description"
-msgstr ""
+msgstr "Preuzmi {{VENDOR.NAME}} drajvere besplatno. DriverPack Solution"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendorlanding-h1"
