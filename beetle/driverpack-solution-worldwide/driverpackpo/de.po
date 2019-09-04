@@ -11,9 +11,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-12-25 17:54+0000\n"
-"PO-Revision-Date: 2019-05-13 13:58+0000\n"
-"Last-Translator: Kai Borchert <kai.borchert@outlook.com>\n"
+"POT-Creation-Date: 2019-04-23 15:12+0000\n"
+"PO-Revision-Date: 2019-07-16 13:51+0000\n"
+"Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: German (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/de/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -227,6 +227,129 @@ msgstr "Aktivieren Sie unsere Empfehlungen zu Software"
 
 msgid "activate_recommendations_button_protect"
 msgstr "Aktivieren Sie unsere Empfehlungen zu Schutzsoftware"
+
+msgid "onboarding_screen_social_caption_text"
+msgstr ""
+
+msgid "onboarding_screen_antivirus_title"
+msgstr ""
+
+msgid "onboarding_screen_antivirus_caption"
+msgstr ""
+
+msgid "onboarding_screen_antivirus_mark"
+msgstr "Treiber-Installation"
+
+msgid "onboarding_screen_settings_title"
+msgstr ""
+
+msgid "onboarding_screen_settings_caption"
+msgstr ""
+
+msgid "onboarding_screen_settings_mark"
+msgstr ""
+
+msgid "onboarding_screen_settings_button_text"
+msgstr ""
+
+msgid "onboarding_screen_soft_title"
+msgstr ""
+
+msgid "onboarding_screen_soft_caption"
+msgstr ""
+
+msgid "onboarding_screen_soft_mark"
+msgstr ""
+
+msgid "onboarding_screen_soft_button_text"
+msgstr ""
+
+msgid "onboarding_screen_social_title"
+msgstr ""
+
+msgid "onboarding_screen_social_mark"
+msgstr ""
+
+msgid "onboarding_screen_service_mode_title"
+msgstr ""
+
+msgid "onboarding_screen_service_mode_mark"
+msgstr ""
+
+msgid "onboarding_screen_soft_caption_text_1"
+msgstr ""
+
+msgid "onboarding_screen_soft_caption_text_2"
+msgstr ""
+
+msgid "onboarding_screen_soft_caption_text_3"
+msgstr ""
+
+msgid "onboarding_screen_autostart_title"
+msgstr ""
+
+msgid "onboarding_screen_autostart_caption"
+msgstr ""
+
+msgid "onboarding_screen_autostart_mark"
+msgstr ""
+
+msgid "onboarding_screen_cleaning_title"
+msgstr ""
+
+msgid "onboarding_screen_cleaning_caption"
+msgstr ""
+
+msgid "onboarding_screen_cleaning_mark"
+msgstr ""
+
+msgid "onboarding_screen_blocked_title"
+msgstr ""
+
+msgid "onboarding_screen_blocked_caption"
+msgstr ""
+
+msgid "onboarding_screen_blocked_mark"
+msgstr ""
+
+msgid "onboarding_screen_checking_title"
+msgstr ""
+
+msgid "onboarding_screen_checking_caption"
+msgstr ""
+
+msgid "onboarding_screen_checking_mark"
+msgstr ""
+
+msgid "onboarding_screen_settings_name"
+msgstr ""
+
+msgid "onboarding_screen_soft_name"
+msgstr ""
+
+msgid "onboarding_screen_social_name"
+msgstr ""
+
+msgid "onboarding_screen_antivirus_name"
+msgstr ""
+
+msgid "onboarding_screen_service_name"
+msgstr ""
+
+msgid "onboarding_screen_autostart_name"
+msgstr ""
+
+msgid "onboarding_screen_cleaning_name"
+msgstr ""
+
+msgid "onboarding_screen_blocked_name"
+msgstr ""
+
+msgid "onboarding_screen_checking_name"
+msgstr ""
+
+msgid "onboarding_screen_do_not_show_popups"
+msgstr ""
 
 msgid "programs_about"
 msgstr "Mehr erfahren"
@@ -454,30 +577,6 @@ msgstr "https://vk.com/topic-29220845_34743007"
 #. умолчанию для {{MODEL}} в ключе start_title
 msgid "start_title_default_model"
 msgstr "Ihrem Computer"
-
-msgid "start_installation_option_mouse"
-msgstr "Maus funktioniert nicht"
-
-msgid "start_installation_option_keyboard"
-msgstr "Tastatur funktioniert nicht"
-
-msgid "start_installation_option_printer"
-msgstr "Drucker funktioniert nicht"
-
-msgid "start_installation_option_video"
-msgstr "Video wird nicht abgespielt"
-
-msgid "start_installation_option_sound"
-msgstr "Kein Ton"
-
-msgid "start_installation_option_usb"
-msgstr "USB Ports funktioniert nicht "
-
-msgid "start_installation_option_webcam"
-msgstr "Webcam funktioniert nicht"
-
-msgid "start_installation_option_games"
-msgstr "Spiele verlangsamen sich"
 
 msgid "menu_create_recovery_point"
 msgstr "Wiederherstellungspunkt erstellen"
@@ -844,6 +943,30 @@ msgstr "Problematische Geräte wurden entdeckt"
 msgid "final_aside_broken_devices_caption"
 msgstr "Einige Geräte auf diesem Computer funktionieren nicht ordnungsgemäß, und es ist unmöglich, Treiber für diese zu installieren. Wir empfehlen Ihnen, ihre Gebrauchstauglichkeit zu überprüfen."
 
+msgid "final-fake_title"
+msgstr ""
+
+msgid "start-fake-popup_subtitle"
+msgstr ""
+
+msgid "start-fake-popup_connect"
+msgstr ""
+
+msgid "start-fake-popup_firewall"
+msgstr ""
+
+msgid "start-fake-popup_torrent"
+msgstr ""
+
+msgid "start-fake-popup_browser"
+msgstr ""
+
+msgid "start-fake-popup_vpn"
+msgstr ""
+
+msgid "final-fake_button"
+msgstr "Installation erneut starten"
+
 msgid "games_top_game_free_demo"
 msgstr "Kostenlose Demo-Version"
 
@@ -887,7 +1010,7 @@ msgid "gdpr-banner_accept-btn"
 msgstr "Bestätigen"
 
 msgid "header_authorize_button"
-msgstr "Anmelden"
+msgstr ""
 
 msgid "authorize_popup_logout_button"
 msgstr "Abmelden"
@@ -912,21 +1035,6 @@ msgstr "Wir erstellen den Wiederherstellungspunkt..."
 
 msgid "installation_header_title"
 msgstr "Wir konfigurieren Ihren Computer..."
-
-msgid "installation_header_promo_try"
-msgstr "versuch es"
-
-msgid "installation_header_promo_more"
-msgstr "Mehr erfahren"
-
-msgid "installation_header_promo_install"
-msgstr "Installieren"
-
-msgid "installation_header_promo_fb"
-msgstr "Gemeinschaft auf Facebook"
-
-msgid "installation_header_promo_license"
-msgstr "Lizenzvereinbarung"
 
 msgid "installation_item_category_restorepoint"
 msgstr "Wiederherstellungspunkt"
@@ -1075,9 +1183,6 @@ msgstr "Installationselemente"
 msgid "restart_popup_title"
 msgstr "Neustart ist erforderlich, um fortzufahren"
 
-msgid "restart_popup_caption"
-msgstr "Ihr Computer wird neugestartet in {{REMAIN.TIME}}..."
-
 msgid "restart_popup_button"
 msgstr "Neustart"
 
@@ -1088,7 +1193,7 @@ msgid "loading_backup_drivers"
 msgstr "Treibersicherung wird erstellt"
 
 msgid "loading_backup_done"
-msgstr "Die Treibersicherung wurde erfolgreich erstellt"
+msgstr ""
 
 msgid "loading_button_finish"
 msgstr "Fertig"
@@ -1153,35 +1258,35 @@ msgstr "Einstellungen"
 msgid "menu_bugreport"
 msgstr "Fehler melden"
 
-msgid "no-internet-screen_header-title"
-msgstr "Keine Verbindung zum Server"
+msgid "no-internet_title"
+msgstr ""
 
-msgid "no-internet-screen_guide-title"
-msgstr "Wie installiere ich alle benötigten Treiber ohne Internetverbindung?"
+msgid "no-internet_subtitle"
+msgstr ""
 
-msgid "no-internet-screen_guide-step-1"
-msgstr "Schritt 1"
+msgid "no-internet_connect"
+msgstr ""
 
-msgid "no-internet-screen_guide-step-1-action"
-msgstr "Gehe zu <span class=\"bold\">driverpack.io/de/foradmin</span> über einen anderen Computer"
+msgid "no-internet_firewall"
+msgstr ""
 
-msgid "no-internet-screen_guide-step-2"
-msgstr "Schritt 2"
+msgid "no-internet_torrent"
+msgstr ""
 
-msgid "no-internet-screen_guide-step-2-action"
-msgstr "Downloade <span class=\"bold\">DriverPack Offline Full</span> oder <span class=\"bold\">DriverPack Offline Network</span> auf einen USB-Stick um die Treiber auf deinem Computer ohne Internetverbindung zu installieren <br /><br /> <span class=\"bold\">DriverPack Offline Network</span> Beinhaltet Treiber für Netzwerkhardware (Lan/Wi-Fi), funktioniert ohne eine Internetverbindung (500MB) <br /><br /> <span class=\"bold\">DriverPack Offline Full</span> Beinhaltet alle Treiber, funktioniert ohne eine Internetverbindung"
+msgid "no-internet_browser"
+msgstr ""
 
-msgid "no-internet-screen_guide-step-complete"
-msgstr "Fertig"
+msgid "no-internet_vpn"
+msgstr ""
 
-msgid "no-internet-screen_guide-step-complete-action"
-msgstr "Starte die App auf diesem Computer und konfiguriere sie mit einem Klick"
+msgid "no-internet_flash"
+msgstr ""
 
 msgid "programs_header_text_title"
 msgstr "Alle nützlichen Programme an einem Ort"
 
 msgid "programs_btn_install_all"
-msgstr "Installiere die erforderlichen Softwareprogramme <b>({{COUNT}})</b>"
+msgstr ""
 
 msgid "programs_header_text_caption"
 msgstr "Es gibt keine Notwendigkeit mehr, eins nach dem anderen, nach den Softwareprogrammen zu suchen. Sie können ganz einfach alles mit einem Klick installieren. "
@@ -1267,6 +1372,45 @@ msgstr "Mehr anzeigen"
 msgid "protect_security_programs_title"
 msgstr "Wichtige Software für die Sicherheit"
 
+msgid "scan-screen_start-title"
+msgstr ""
+
+msgid "scan-screen_start_subtitle"
+msgstr ""
+
+msgid "scan-screen_start_btn"
+msgstr ""
+
+msgid "server-err-screen_title"
+msgstr ""
+
+msgid "server-err-screen_title-err"
+msgstr ""
+
+msgid "server-err-screen_status"
+msgstr ""
+
+msgid "server-err-screen_btn"
+msgstr ""
+
+msgid "service-mode_status-initial"
+msgstr ""
+
+msgid "service-mode_status-terminating"
+msgstr ""
+
+msgid "service-mode_status-finished"
+msgstr ""
+
+msgid "service-mode_finish-title-process"
+msgstr ""
+
+msgid "service-mode_title-process"
+msgstr ""
+
+msgid "service-mode_current-process"
+msgstr ""
+
 msgid "settings-header_title"
 msgstr "Einstellungen für die fortgeschrittenen Benutzer"
 
@@ -1276,11 +1420,11 @@ msgstr "DriverPack wurde speziell für Administratoren erstellt, ist aber klar u
 msgid "settings-screen_license"
 msgstr "Lizenzvereinbarung"
 
-msgid "start_caption_select_problems"
-msgstr "Oder prüfen Sie, was auf Ihrem PC nicht genau funktioniert"
+msgid "start_button_install_none"
+msgstr ""
 
-msgid "start_button_problems_selected"
-msgstr "Installiere ({{COUNT}})"
+msgid "start_button_install_chosen"
+msgstr ""
 
 msgid "start_button_install_drivers"
 msgstr "Installiere alle Treiber"
@@ -1347,6 +1491,51 @@ msgstr "Überprüfung der Soundkarte"
 
 msgid "start_diagnostics_other"
 msgstr "Überprüfung anderer Geräte"
+
+msgid "start_settings_title"
+msgstr ""
+
+msgid "start_settings_hard-drive-clean"
+msgstr ""
+
+msgid "start_settings_selection-utilities"
+msgstr ""
+
+msgid "start_settings_off-updates"
+msgstr ""
+
+msgid "start-fake-popup_title"
+msgstr ""
+
+msgid "start-fake-popup_button"
+msgstr ""
+
+msgid "start_slider_recommended-top"
+msgstr ""
+
+msgid "start_slider_none"
+msgstr ""
+
+msgid "start_slider_chosen"
+msgstr ""
+
+msgid "start_slider_chosen-critical"
+msgstr ""
+
+msgid "start_slider_critical"
+msgstr ""
+
+msgid "start_slider_recommended-first-letter"
+msgstr ""
+
+msgid "start_slider_recommended"
+msgstr ""
+
+msgid "start_slider_all"
+msgstr ""
+
+msgid "start_slider_all-top"
+msgstr ""
 
 msgid "delorean_use_remote_confirm"
 msgstr "Eine aktive Internetverbindung wurde auf Ihrem Computer erkannt. Die vollständige Treiberdatenbank ist online verfügbar und enthält die neuesten Versionen. Möchten Sie die Datenbank aus dem Netzwerk nutzen? (Traffic-Nutzung ist möglich)"
@@ -1507,3 +1696,63 @@ msgstr "Die Soundkarte ist entweder falsch angeschlossen, oder es bestehen Probl
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "German"
+
+#~ msgid "no-internet-screen_header-title"
+#~ msgstr "No server connection"
+
+#~ msgid "no-internet-screen_guide-title"
+#~ msgstr "How to install all required drivers without Internet connection?"
+
+#~ msgid "no-internet-screen_guide-step-1"
+#~ msgstr "Step 1"
+
+#~ msgid "no-internet-screen_guide-step-1-action"
+#~ msgstr ""
+#~ "Go to <span class=\"bold\">drp.su/en/foradmin</span> website by using "
+#~ "another computer"
+
+#~ msgid "no-internet-screen_guide-step-2"
+#~ msgstr "Step 2"
+
+#~ msgid "no-internet-screen_guide-step-2-action"
+#~ msgstr ""
+#~ "Download <span class=\"bold\">DriverPack Offline Full</span> or <span "
+#~ "class=\"bold\">DriverPack Offline Network</span> to a USB flash drive to "
+#~ "install drivers onto your compluter without Internet connection <br /><br />"
+#~ " <span class=\"bold\">DriverPack Offline Network</span> includes drivers for"
+#~ " network hardware (Lan/Wi-Fi), it operates without Internet connection (500 "
+#~ "MB) <br /><br /> <span class=\"bold\">DriverPack Offline Full</span> "
+#~ "includes all drivers, operates without Internet connection"
+
+#~ msgid "no-internet-screen_guide-step-complete"
+#~ msgstr "Done"
+
+#~ msgid "no-internet-screen_guide-step-complete-action"
+#~ msgstr "Start the app on this computer and configure it with one click"
+
+#~ msgid "start_installation_option_mouse"
+#~ msgstr "Mouse doesn't function"
+
+#~ msgid "start_installation_option_keyboard"
+#~ msgstr "Keyboard doesn't function"
+
+#~ msgid "start_installation_option_printer"
+#~ msgstr "Printer doesn't work"
+
+#~ msgid "start_installation_option_video"
+#~ msgstr "Video doesn't play"
+
+#~ msgid "start_installation_option_sound"
+#~ msgstr "No sound"
+
+#~ msgid "start_installation_option_usb"
+#~ msgstr "USB ports don't function"
+
+#~ msgid "start_installation_option_webcam"
+#~ msgstr "Webcam doesn't function"
+
+#~ msgid "start_installation_option_games"
+#~ msgstr "Games slow down"
+
+#~ msgid "start_caption_select_problems"
+#~ msgstr "Or, check what exactly doesn't function on your PC:"

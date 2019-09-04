@@ -2,14 +2,16 @@
 # 
 # Translators:
 # Alvaro Samudio <alvarosamudio1@gmail.com>, 2017-2019
+# Esteban Urrutia <esteban96100@gmail.com>, 2019
+# Esteban Urrutia <esteban96100@gmail.com>, 2019
 # German Alonso Pimentel Vera <gpimentelv@gmail.com>, 2017
 # Ignacio L'Episcopo, 2018
 # Javier “Infante” Infante Chávez <javisduubis@gmail.com>, 2018
-# Joel Carreno Urrutia <joelcarrenourrutia@gmail.com>, 2017
+# Joel Carreno Urrutia <joelcarrenourrutia@gmail.com>, 2017,2019
 # Jose Maria CL <chema9703@gmail.com>, 2017
 # Kevin David Mancera Hernandez <mahezsia7@gmail.com>, 2017
 # Mario Antonio Baldi <proteus8ar@gmail.com>, 2017
-# Nadia Tegeneva <nadia@drp.su>, 2017-2018
+# Nadia Tegeneva <nadia@drp.su>, 2017-2019
 # Paulo Abraham <cnnick.ex@gmail.com>, 2017
 # Paulo Abraham <cnnick.ex@gmail.com>, 2017-2018
 # Ricardo Gonzalez <ragdlr.20@gmail.com>, 2017
@@ -17,8 +19,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-12-25 17:54+0000\n"
-"PO-Revision-Date: 2019-02-11 07:56+0000\n"
+"POT-Creation-Date: 2019-04-23 15:12+0000\n"
+"PO-Revision-Date: 2019-08-21 08:54+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Spanish (Latin America) (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/es_419/)\n"
 "MIME-Version: 1.0\n"
@@ -233,6 +235,129 @@ msgstr "Activar nuestras recomendaciones de software"
 
 msgid "activate_recommendations_button_protect"
 msgstr "Activar nuestras recomendaciones de software de protección (antivirus)"
+
+msgid "onboarding_screen_social_caption_text"
+msgstr "En nuestra comunidad en {{SOCIAL.LINK}}, puedes obtener rápidamente respuestas a tus dudas respecto a la instalación de controladores y configuración de hardware de los expertos más experimentados en este tipo de problemas. Únete a nosotros ahora!"
+
+msgid "onboarding_screen_antivirus_title"
+msgstr "Deshabilita tu antivirus por un momento en el área de notificaciones, para que pueda realizarse la instalación sin errores"
+
+msgid "onboarding_screen_antivirus_caption"
+msgstr "Desde que los antivirus a menudo bloquean la interferencia entre los procesos de bajo nivel que son requeridos para la instalación de controladores, nosotros usualmente pedimos deshabilitarlos por un momento. Importante! Recuerda volver a habilitar tu antivirus de nuevo después de reiniciar tu ordenador. "
+
+msgid "onboarding_screen_antivirus_mark"
+msgstr "Instalación de controladores"
+
+msgid "onboarding_screen_settings_title"
+msgstr "Las configuraciones permiten deshabilitar la instalación de software, crear un punto de restauración y también cambiar la interfaz de DriverPack"
+
+msgid "onboarding_screen_settings_caption"
+msgstr "La configuración da más control a los Administradores de Sistemas y usuarios avanzados. Ve a la pestaña de configuración y aprende qué puedes controlar en DriverPack"
+
+msgid "onboarding_screen_settings_mark"
+msgstr "Consejos de DriverPack"
+
+msgid "onboarding_screen_settings_button_text"
+msgstr "Ir a la configuración"
+
+msgid "onboarding_screen_soft_title"
+msgstr "¿Estás cansado de desmarcar el software que no necesitas? Inicia sesión, y como un usuario autorizado guarda las configuraciones que has elegido"
+
+msgid "onboarding_screen_soft_caption"
+msgstr "Un estado de usuario autorizado te permite aplicar configuraciones personalizadas en DriverPack en un ordenador nuevo. Por ejemplo, si alguna vez has desmarcado algún software, ya no lo tendrás que desmarcar más."
+
+msgid "onboarding_screen_soft_mark"
+msgstr "Consejos de DriverPack"
+
+msgid "onboarding_screen_soft_button_text"
+msgstr "Registrarse / Iniciar sesión"
+
+msgid "onboarding_screen_social_title"
+msgstr "Añade DriverPack a tu lista de amigos en las redes sociales, y te ayudaremos cuando lo necesites"
+
+msgid "onboarding_screen_social_mark"
+msgstr "Comunidad de Expertos"
+
+msgid "onboarding_screen_service_mode_title"
+msgstr "El modo de servicio incrementa las posibilidades en un 15% más de éxito en la instalación de los controladores"
+
+msgid "onboarding_screen_service_mode_mark"
+msgstr "Nuevo modo de instalación"
+
+msgid "onboarding_screen_soft_caption_text_1"
+msgstr "Todo el software actualmente activo – por ejemplo, Microsoft Word, Google Chrome, Steam, etc. – será cerrado para evitar algún conflicto mientras se realiza el proceso de instalación"
+
+msgid "onboarding_screen_soft_caption_text_2"
+msgstr "DriverPack instala controladores más rápido de lo habitual"
+
+msgid "onboarding_screen_soft_caption_text_3"
+msgstr "Tan pronto como la instalación esté completada, tu ordenador se reiniciará y regresará a su modo regular"
+
+msgid "onboarding_screen_autostart_title"
+msgstr "Para prevenir que tu computadora se ralentice, es suficiente quitar el software innecesario de tu lista de inicio automático"
+
+msgid "onboarding_screen_autostart_caption"
+msgstr "DriverPack le ayudará mostrándole el software innecesario en su lista de inicio automático y lo deshabilitará"
+
+msgid "onboarding_screen_autostart_mark"
+msgstr "Velocidad del ordenador"
+
+msgid "onboarding_screen_cleaning_title"
+msgstr "Remover los archivos temporales es como la limpieza del hogar. Házlo regularmente."
+
+msgid "onboarding_screen_cleaning_caption"
+msgstr "Los archivos temporales, que se acumulan en el sistema debido al funcionamiento defectuoso de algunos instaladores o después de la instalación de cierto software, ralentizarán el sistema con el tiempo. Limpie su sistema al menos cada tres semanas."
+
+msgid "onboarding_screen_cleaning_mark"
+msgstr "Orden en progreso"
+
+msgid "onboarding_screen_blocked_title"
+msgstr "¿Cómo visitar un sitio web si está bloqueado en Rusia o en otro país?"
+
+msgid "onboarding_screen_blocked_caption"
+msgstr "Use los servicios VPN. No pierda su tiempo buscando una solución, use una VPN presionando un solo botón en Opera Browser. Ahí puede incluso elegir una región tal como Asia, América o Europa que quiera usar como su región principal para visitar esos sitios web."
+
+msgid "onboarding_screen_blocked_mark"
+msgstr "Lifehacks"
+
+msgid "onboarding_screen_checking_title"
+msgstr "Después de reiniciar, se comprobarán los dispositivos. Si algo sale mal, te ayudaremos a resolver tu problema manualmente"
+
+msgid "onboarding_screen_checking_caption"
+msgstr "Los expertos más experimentados del mundo en problemas de instalación de controladores y hardware de ordenador harán todo lo posible para resolver su problema si DriverPack falla al hacerlo automáticamente. ¡No te saltes el paso del comprobación!"
+
+msgid "onboarding_screen_checking_mark"
+msgstr "Comprobación de dispositivos"
+
+msgid "onboarding_screen_settings_name"
+msgstr "Configuración experta"
+
+msgid "onboarding_screen_soft_name"
+msgstr "Guardado de configuraciones"
+
+msgid "onboarding_screen_social_name"
+msgstr "DriverPack en las redes sociales"
+
+msgid "onboarding_screen_antivirus_name"
+msgstr "Desactivación del antivirus"
+
+msgid "onboarding_screen_service_name"
+msgstr "Modo de mantenimiento"
+
+msgid "onboarding_screen_autostart_name"
+msgstr "Autoinicio de software"
+
+msgid "onboarding_screen_cleaning_name"
+msgstr "Limpieza del disco duro"
+
+msgid "onboarding_screen_blocked_name"
+msgstr "Evasión de bloqueo"
+
+msgid "onboarding_screen_checking_name"
+msgstr "Comprobación post-instalación"
+
+msgid "onboarding_screen_do_not_show_popups"
+msgstr "Ocultar los consejos"
 
 msgid "programs_about"
 msgstr "Aprende más"
@@ -460,30 +585,6 @@ msgstr "https://vk.com/topic-29220845_34743007"
 #. умолчанию для {{MODEL}} в ключе start_title
 msgid "start_title_default_model"
 msgstr "tu computadora"
-
-msgid "start_installation_option_mouse"
-msgstr "El ratón no funciona"
-
-msgid "start_installation_option_keyboard"
-msgstr "El teclado no funciona"
-
-msgid "start_installation_option_printer"
-msgstr "La impresora no funciona"
-
-msgid "start_installation_option_video"
-msgstr "El video no se reproduce"
-
-msgid "start_installation_option_sound"
-msgstr "Sin sonido"
-
-msgid "start_installation_option_usb"
-msgstr "Los puertos USB no funcionan"
-
-msgid "start_installation_option_webcam"
-msgstr "La webcam no funciona"
-
-msgid "start_installation_option_games"
-msgstr "Juegos ralentizados"
 
 msgid "menu_create_recovery_point"
 msgstr "Crear Punto de Restauracón"
@@ -850,6 +951,30 @@ msgstr "Los dispositivos problemáticos han sido detectados"
 msgid "final_aside_broken_devices_caption"
 msgstr "Algunos dispositivos en esta computadora no funcionan correctamente, y es imposible instalarlos para ellos. Le recomendamos que compruebe su capacidad de servicio."
 
+msgid "final-fake_title"
+msgstr "Algunos problemas han ocurrido durante la operación de la aplicación"
+
+msgid "start-fake-popup_subtitle"
+msgstr "No hemos podido recopilar datos confiables en su sistema y ofrecerle la instalación de controladores en el Modo experto, pero esto es lo que se puede hacer para solucionar esto:"
+
+msgid "start-fake-popup_connect"
+msgstr "Comprueba tu conexión a Internet"
+
+msgid "start-fake-popup_firewall"
+msgstr "Desactiva tu antivirus y Firewall"
+
+msgid "start-fake-popup_torrent"
+msgstr "Cierre su cliente Torrent"
+
+msgid "start-fake-popup_browser"
+msgstr "Cierra tu navegador"
+
+msgid "start-fake-popup_vpn"
+msgstr "Intente usar una VPN - probablemente hay algunos problemas intentando conectarnos a nuestros servidores en su región"
+
+msgid "final-fake_button"
+msgstr "Comience a instalar una vez más"
+
 msgid "games_top_game_free_demo"
 msgstr "Versión demo gratuita"
 
@@ -893,7 +1018,7 @@ msgid "gdpr-banner_accept-btn"
 msgstr "Confirmar"
 
 msgid "header_authorize_button"
-msgstr "Iniciar sesión"
+msgstr "Iniciar sesión y registrarse"
 
 msgid "authorize_popup_logout_button"
 msgstr "Cerrar sesión"
@@ -918,21 +1043,6 @@ msgstr "Estamos creando el punto de restauración..."
 
 msgid "installation_header_title"
 msgstr "Estamos configurando tu computadora..."
-
-msgid "installation_header_promo_try"
-msgstr "pruébalo"
-
-msgid "installation_header_promo_more"
-msgstr "aprende más"
-
-msgid "installation_header_promo_install"
-msgstr "instalar"
-
-msgid "installation_header_promo_fb"
-msgstr "Comunidad en Facebook"
-
-msgid "installation_header_promo_license"
-msgstr "Acuerdo de licencia"
 
 msgid "installation_item_category_restorepoint"
 msgstr "Punto de restauración"
@@ -1081,9 +1191,6 @@ msgstr "Elementos de instalación"
 msgid "restart_popup_title"
 msgstr "Se necesita reiniciar para continuar"
 
-msgid "restart_popup_caption"
-msgstr "Su computadora será reiniciada en {{REMAIN.TIME}}…"
-
 msgid "restart_popup_button"
 msgstr "Reiniciar"
 
@@ -1094,7 +1201,7 @@ msgid "loading_backup_drivers"
 msgstr "Se está creando una copia de seguridad del controlador"
 
 msgid "loading_backup_done"
-msgstr "Se está creando una copia de seguridad del controlador"
+msgstr "El respaldo de controladores se ha creado correctamente"
 
 msgid "loading_button_finish"
 msgstr "Hecho"
@@ -1159,35 +1266,35 @@ msgstr "Configuraciones"
 msgid "menu_bugreport"
 msgstr "Informe sobre error"
 
-msgid "no-internet-screen_header-title"
-msgstr "Sin conexión al servidor"
+msgid "no-internet_title"
+msgstr "Parece que no hay conexión a Internet"
 
-msgid "no-internet-screen_guide-title"
-msgstr "¿Cómo instalar todos los controladores necesarios sin conexión a Internet?"
+msgid "no-internet_subtitle"
+msgstr "Ocurrió un error al intentar conectar a nuestros servidores. De todas maneras, esto es lo que puedes hacer:"
 
-msgid "no-internet-screen_guide-step-1"
-msgstr "Paso 1"
+msgid "no-internet_connect"
+msgstr "Comprueba tu conexión a Internet"
 
-msgid "no-internet-screen_guide-step-1-action"
-msgstr "Vaya al sitio web <span class=\"bold\">driverpack.io/es-419/foradmin</span> usando otra computadora"
+msgid "no-internet_firewall"
+msgstr "Desactiva el antivirus o Firewall"
 
-msgid "no-internet-screen_guide-step-2"
-msgstr "Paso 2"
+msgid "no-internet_torrent"
+msgstr "Cierra tu cliente Torrent"
 
-msgid "no-internet-screen_guide-step-2-action"
-msgstr "Descargue <span class=\"bold\">DriverPack completamente sin conexión </span> o <span class=\"bold\">DriverPack red desconectada</span> a una unidad flash USB para instalar los controladores en su compluter sin conexión a Internet <br /><br /><span class=\"bold\">DriverPack red desconectad</span> incluye controladores para hardware de red (Lan / Wi-Fi), funciona sin Internet conexión (500 MB)<br /><br /><span class=\"bold\">DriverPack completamente fuera de linea</span> incluye todos los controladores, funciona sin conexión a Internet"
+msgid "no-internet_browser"
+msgstr "Cierra tu navegador"
 
-msgid "no-internet-screen_guide-step-complete"
-msgstr "Hecho"
+msgid "no-internet_vpn"
+msgstr "Intenta y usa un servicio de VPN (probablemente no hay acceso a nuestros servidores en tu región)"
 
-msgid "no-internet-screen_guide-step-complete-action"
-msgstr "Inicie la aplicación en esta computadora y configúrela con un clic"
+msgid "no-internet_flash"
+msgstr "Descarga DriverPack Offline o DriverPack Network a una unidad USB en otro ordenador y inícialo en el tuyo"
 
 msgid "programs_header_text_title"
 msgstr "Todo el software útil en un solo lugar"
 
 msgid "programs_btn_install_all"
-msgstr "Instale los programas de software requeridos<b>({{COUNT}})</b>"
+msgstr "Instalar los programas de software <b>({{COUNT}})</b>"
 
 msgid "programs_header_text_caption"
 msgstr "No hay necesidad de buscar los programas de software uno por uno por más tiempo. Puede instalar todo fácilmente con un solo clic."
@@ -1273,6 +1380,45 @@ msgstr "Ver más"
 msgid "protect_security_programs_title"
 msgstr "Software importante para la seguridad"
 
+msgid "scan-screen_start-title"
+msgstr ""
+
+msgid "scan-screen_start_subtitle"
+msgstr ""
+
+msgid "scan-screen_start_btn"
+msgstr ""
+
+msgid "server-err-screen_title"
+msgstr "Los servidores tienen una alta carga, así que DriverPack demorará un poco más en cargar..."
+
+msgid "server-err-screen_title-err"
+msgstr "Un error ocurrió — intenta reinciar DriverPack en los próximos minutos"
+
+msgid "server-err-screen_status"
+msgstr "DriverPack está descargando..."
+
+msgid "server-err-screen_btn"
+msgstr "Reiniciar DriverPack"
+
+msgid "service-mode_status-initial"
+msgstr "Creando un punto de restauración..."
+
+msgid "service-mode_status-terminating"
+msgstr "Su RAM está siendo limpiada..."
+
+msgid "service-mode_status-finished"
+msgstr "No apague el ordenador durante el proceso de instalación!"
+
+msgid "service-mode_finish-title-process"
+msgstr "Windows está cambiando al modo de mantenimiento..."
+
+msgid "service-mode_title-process"
+msgstr "Windows se está preparando para instalar los controladores"
+
+msgid "service-mode_current-process"
+msgstr "{{PROCESS}} está siendo cerrado..."
+
 msgid "settings-header_title"
 msgstr "Configuración para los usuarios avanzados"
 
@@ -1282,11 +1428,11 @@ msgstr "DriverPack ha sido creado específicamente para administradores, pero es
 msgid "settings-screen_license"
 msgstr "Acuerdo de licencia"
 
-msgid "start_caption_select_problems"
-msgstr "O, compruebe qué no funciona exactamente en su PC"
+msgid "start_button_install_none"
+msgstr "Configuración y diagnósticos del PC"
 
-msgid "start_button_problems_selected"
-msgstr "Instalar ({{COUNT}})"
+msgid "start_button_install_chosen"
+msgstr "Instalar el controlador"
 
 msgid "start_button_install_drivers"
 msgstr "Instalar todos los controladores"
@@ -1353,6 +1499,51 @@ msgstr "Chequeo de tarjeta de sonido"
 
 msgid "start_diagnostics_other"
 msgstr "Chequeo de otros dispositivos"
+
+msgid "start_settings_title"
+msgstr "Se realizará la siguiente configuración de su ordenador"
+
+msgid "start_settings_hard-drive-clean"
+msgstr "Limpieza del disco duro"
+
+msgid "start_settings_selection-utilities"
+msgstr "Selección de utilidades de controladores"
+
+msgid "start_settings_off-updates"
+msgstr "Desactivación de actualizaciones automáticas de Windows"
+
+msgid "start-fake-popup_title"
+msgstr "Oops.... algo salió mal"
+
+msgid "start-fake-popup_button"
+msgstr "Continuar normalmente"
+
+msgid "start_slider_recommended-top"
+msgstr "¿Todavía tienes problemas con tu ordenador? Intenta otro modo de instalación:"
+
+msgid "start_slider_none"
+msgstr "El ordenador será diagnosticado y configurado seguramente sin instalar ningún controlador"
+
+msgid "start_slider_chosen"
+msgstr "El ordenador será configurado, y un controlador ({{CLASS.SINGLE.MAIN}}) será instalado"
+
+msgid "start_slider_chosen-critical"
+msgstr "El ordenador será configurado, y un controlador ({{CLASS.SINGLE.MAIN}}) será instalado, y también los controladores para los dispositivos que no funcionan."
+
+msgid "start_slider_critical"
+msgstr "El ordenador será configurado, y los controladores para los dispositivos que no funcionan serán instalados."
+
+msgid "start_slider_recommended-first-letter"
+msgstr "Modo recomendado."
+
+msgid "start_slider_recommended"
+msgstr "Todos los controladores requeridos están instalados."
+
+msgid "start_slider_all"
+msgstr "Todos los controladores disponibles serán completamente instalados y actualizados."
+
+msgid "start_slider_all-top"
+msgstr "Los controladores que no garantizan una operación estable de algunos dispositivos serán instalados bajo este modo."
 
 msgid "delorean_use_remote_confirm"
 msgstr "Se ha detectado una conexión a Internet activa en su computadora. La base de datos completa del controlador está disponible en línea y contiene las últimas versiones. ¿Desea usar la base de datos de la red? (el uso del tráfico es posible)"
@@ -1513,3 +1704,63 @@ msgstr "La tarjeta de sonido está conectada incorrectamente, o hay algunos prob
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Spanish (Latin America)"
+
+#~ msgid "no-internet-screen_header-title"
+#~ msgstr "No server connection"
+
+#~ msgid "no-internet-screen_guide-title"
+#~ msgstr "How to install all required drivers without Internet connection?"
+
+#~ msgid "no-internet-screen_guide-step-1"
+#~ msgstr "Step 1"
+
+#~ msgid "no-internet-screen_guide-step-1-action"
+#~ msgstr ""
+#~ "Go to <span class=\"bold\">drp.su/en/foradmin</span> website by using "
+#~ "another computer"
+
+#~ msgid "no-internet-screen_guide-step-2"
+#~ msgstr "Step 2"
+
+#~ msgid "no-internet-screen_guide-step-2-action"
+#~ msgstr ""
+#~ "Download <span class=\"bold\">DriverPack Offline Full</span> or <span "
+#~ "class=\"bold\">DriverPack Offline Network</span> to a USB flash drive to "
+#~ "install drivers onto your compluter without Internet connection <br /><br />"
+#~ " <span class=\"bold\">DriverPack Offline Network</span> includes drivers for"
+#~ " network hardware (Lan/Wi-Fi), it operates without Internet connection (500 "
+#~ "MB) <br /><br /> <span class=\"bold\">DriverPack Offline Full</span> "
+#~ "includes all drivers, operates without Internet connection"
+
+#~ msgid "no-internet-screen_guide-step-complete"
+#~ msgstr "Done"
+
+#~ msgid "no-internet-screen_guide-step-complete-action"
+#~ msgstr "Start the app on this computer and configure it with one click"
+
+#~ msgid "start_installation_option_mouse"
+#~ msgstr "Mouse doesn't function"
+
+#~ msgid "start_installation_option_keyboard"
+#~ msgstr "Keyboard doesn't function"
+
+#~ msgid "start_installation_option_printer"
+#~ msgstr "Printer doesn't work"
+
+#~ msgid "start_installation_option_video"
+#~ msgstr "Video doesn't play"
+
+#~ msgid "start_installation_option_sound"
+#~ msgstr "No sound"
+
+#~ msgid "start_installation_option_usb"
+#~ msgstr "USB ports don't function"
+
+#~ msgid "start_installation_option_webcam"
+#~ msgstr "Webcam doesn't function"
+
+#~ msgid "start_installation_option_games"
+#~ msgstr "Games slow down"
+
+#~ msgid "start_caption_select_problems"
+#~ msgstr "Or, check what exactly doesn't function on your PC:"

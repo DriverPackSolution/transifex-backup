@@ -9,8 +9,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-12-25 17:54+0000\n"
-"PO-Revision-Date: 2019-05-10 09:23+0000\n"
+"POT-Creation-Date: 2019-04-23 15:12+0000\n"
+"PO-Revision-Date: 2019-07-16 13:51+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Chinese (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/zh/)\n"
 "MIME-Version: 1.0\n"
@@ -225,6 +225,129 @@ msgstr "啟用我們對軟體的建議"
 
 msgid "activate_recommendations_button_protect"
 msgstr "啟用我們對保護軟體的建議"
+
+msgid "onboarding_screen_social_caption_text"
+msgstr ""
+
+msgid "onboarding_screen_antivirus_title"
+msgstr ""
+
+msgid "onboarding_screen_antivirus_caption"
+msgstr ""
+
+msgid "onboarding_screen_antivirus_mark"
+msgstr "驅動程式安裝"
+
+msgid "onboarding_screen_settings_title"
+msgstr ""
+
+msgid "onboarding_screen_settings_caption"
+msgstr ""
+
+msgid "onboarding_screen_settings_mark"
+msgstr ""
+
+msgid "onboarding_screen_settings_button_text"
+msgstr ""
+
+msgid "onboarding_screen_soft_title"
+msgstr ""
+
+msgid "onboarding_screen_soft_caption"
+msgstr ""
+
+msgid "onboarding_screen_soft_mark"
+msgstr ""
+
+msgid "onboarding_screen_soft_button_text"
+msgstr ""
+
+msgid "onboarding_screen_social_title"
+msgstr ""
+
+msgid "onboarding_screen_social_mark"
+msgstr ""
+
+msgid "onboarding_screen_service_mode_title"
+msgstr ""
+
+msgid "onboarding_screen_service_mode_mark"
+msgstr ""
+
+msgid "onboarding_screen_soft_caption_text_1"
+msgstr ""
+
+msgid "onboarding_screen_soft_caption_text_2"
+msgstr ""
+
+msgid "onboarding_screen_soft_caption_text_3"
+msgstr ""
+
+msgid "onboarding_screen_autostart_title"
+msgstr ""
+
+msgid "onboarding_screen_autostart_caption"
+msgstr ""
+
+msgid "onboarding_screen_autostart_mark"
+msgstr ""
+
+msgid "onboarding_screen_cleaning_title"
+msgstr ""
+
+msgid "onboarding_screen_cleaning_caption"
+msgstr ""
+
+msgid "onboarding_screen_cleaning_mark"
+msgstr ""
+
+msgid "onboarding_screen_blocked_title"
+msgstr ""
+
+msgid "onboarding_screen_blocked_caption"
+msgstr ""
+
+msgid "onboarding_screen_blocked_mark"
+msgstr ""
+
+msgid "onboarding_screen_checking_title"
+msgstr ""
+
+msgid "onboarding_screen_checking_caption"
+msgstr ""
+
+msgid "onboarding_screen_checking_mark"
+msgstr ""
+
+msgid "onboarding_screen_settings_name"
+msgstr ""
+
+msgid "onboarding_screen_soft_name"
+msgstr ""
+
+msgid "onboarding_screen_social_name"
+msgstr ""
+
+msgid "onboarding_screen_antivirus_name"
+msgstr ""
+
+msgid "onboarding_screen_service_name"
+msgstr ""
+
+msgid "onboarding_screen_autostart_name"
+msgstr ""
+
+msgid "onboarding_screen_cleaning_name"
+msgstr ""
+
+msgid "onboarding_screen_blocked_name"
+msgstr ""
+
+msgid "onboarding_screen_checking_name"
+msgstr ""
+
+msgid "onboarding_screen_do_not_show_popups"
+msgstr ""
 
 msgid "programs_about"
 msgstr "了解更多資訊"
@@ -452,30 +575,6 @@ msgstr "https://vk.com/topic-29220845_34743007"
 #. умолчанию для {{MODEL}} в ключе start_title
 msgid "start_title_default_model"
 msgstr "您的電腦"
-
-msgid "start_installation_option_mouse"
-msgstr "滑鼠無法正常運作"
-
-msgid "start_installation_option_keyboard"
-msgstr "鍵盤無法正常運作"
-
-msgid "start_installation_option_printer"
-msgstr "印表機無法正常工作"
-
-msgid "start_installation_option_video"
-msgstr "視訊無法播放"
-
-msgid "start_installation_option_sound"
-msgstr "無音效"
-
-msgid "start_installation_option_usb"
-msgstr "USB 連接埠不起作用"
-
-msgid "start_installation_option_webcam"
-msgstr "網路攝影機不起作用"
-
-msgid "start_installation_option_games"
-msgstr "遊戲速度變慢"
 
 msgid "menu_create_recovery_point"
 msgstr "建立還原點"
@@ -837,6 +936,30 @@ msgstr "偵測到有問題的裝置"
 msgid "final_aside_broken_devices_caption"
 msgstr "此電腦上的某些裝置無法正常運行，無法為其安裝驅動程式。我們建議您檢查其適用性。"
 
+msgid "final-fake_title"
+msgstr ""
+
+msgid "start-fake-popup_subtitle"
+msgstr ""
+
+msgid "start-fake-popup_connect"
+msgstr ""
+
+msgid "start-fake-popup_firewall"
+msgstr ""
+
+msgid "start-fake-popup_torrent"
+msgstr ""
+
+msgid "start-fake-popup_browser"
+msgstr ""
+
+msgid "start-fake-popup_vpn"
+msgstr ""
+
+msgid "final-fake_button"
+msgstr "再次開始安裝"
+
 msgid "games_top_game_free_demo"
 msgstr "免費示範版本"
 
@@ -880,7 +1003,7 @@ msgid "gdpr-banner_accept-btn"
 msgstr "確認"
 
 msgid "header_authorize_button"
-msgstr "登入"
+msgstr ""
 
 msgid "authorize_popup_logout_button"
 msgstr "登出"
@@ -905,21 +1028,6 @@ msgstr "正在建立還原點..."
 
 msgid "installation_header_title"
 msgstr "正在組態您的電腦..."
-
-msgid "installation_header_promo_try"
-msgstr "試試吧"
-
-msgid "installation_header_promo_more"
-msgstr "了解更多"
-
-msgid "installation_header_promo_install"
-msgstr "安裝"
-
-msgid "installation_header_promo_fb"
-msgstr "Facebook 社群"
-
-msgid "installation_header_promo_license"
-msgstr "授權合約"
 
 msgid "installation_item_category_restorepoint"
 msgstr "還原點"
@@ -1068,9 +1176,6 @@ msgstr "安裝項目"
 msgid "restart_popup_title"
 msgstr "需要重新開機才能繼續"
 
-msgid "restart_popup_caption"
-msgstr "您的電腦將重新開機於 {{REMAIN.TIME}}..."
-
 msgid "restart_popup_button"
 msgstr "重新開機"
 
@@ -1081,7 +1186,7 @@ msgid "loading_backup_drivers"
 msgstr "正在建立驅動程式備份"
 
 msgid "loading_backup_done"
-msgstr "驅動程式備份已成功建立"
+msgstr ""
 
 msgid "loading_button_finish"
 msgstr "完成"
@@ -1146,35 +1251,35 @@ msgstr "設定"
 msgid "menu_bugreport"
 msgstr "關於錯誤的報告"
 
-msgid "no-internet-screen_header-title"
-msgstr "無伺服器連線"
+msgid "no-internet_title"
+msgstr ""
 
-msgid "no-internet-screen_guide-title"
-msgstr "如何安裝所有需要的驅動程式而不使用網路連線?"
+msgid "no-internet_subtitle"
+msgstr ""
 
-msgid "no-internet-screen_guide-step-1"
-msgstr "步驟 1"
+msgid "no-internet_connect"
+msgstr ""
 
-msgid "no-internet-screen_guide-step-1-action"
-msgstr "使用其他電腦前往 <span class=\"bold\">driverpack.io/zh-cn/foradmin</span> 網站"
+msgid "no-internet_firewall"
+msgstr ""
 
-msgid "no-internet-screen_guide-step-2"
-msgstr "步驟 2"
+msgid "no-internet_torrent"
+msgstr ""
 
-msgid "no-internet-screen_guide-step-2-action"
-msgstr "將 <span class=\"bold\">DriverPack Offline Full</span> 或 <span class=\"bold\">DriverPack Offline Network</span> 下載到 USB 隨身碟以便將驅動程式安裝到您的電腦上而不需網路連線 <br /><br /> <span class=\"bold\">DriverPack Offline Network</span> 包含網路硬體(Lan/Wi-Fi)驅動程式，它在沒有網路連線(500 MB)的狀態下運作<br /><br />，<span class=\"bold\">DriverPack Offline Full </span> 包含所有驅動程式，不需網路連線即可運作"
+msgid "no-internet_browser"
+msgstr ""
 
-msgid "no-internet-screen_guide-step-complete"
-msgstr "完成"
+msgid "no-internet_vpn"
+msgstr ""
 
-msgid "no-internet-screen_guide-step-complete-action"
-msgstr "在這台電腦上啟動應用程式並一鍵進行配置"
+msgid "no-internet_flash"
+msgstr ""
 
 msgid "programs_header_text_title"
 msgstr "所有有用的軟體在一個地方"
 
 msgid "programs_btn_install_all"
-msgstr "安裝所需的軟體程式 <b>({{COUNT}})</b>"
+msgstr ""
 
 msgid "programs_header_text_caption"
 msgstr "沒有必要再一個一個尋找軟體程式。您可以輕鬆地一鍵安裝所有內容。"
@@ -1260,6 +1365,45 @@ msgstr "查看更多"
 msgid "protect_security_programs_title"
 msgstr "重要的安全軟體"
 
+msgid "scan-screen_start-title"
+msgstr ""
+
+msgid "scan-screen_start_subtitle"
+msgstr ""
+
+msgid "scan-screen_start_btn"
+msgstr ""
+
+msgid "server-err-screen_title"
+msgstr ""
+
+msgid "server-err-screen_title-err"
+msgstr ""
+
+msgid "server-err-screen_status"
+msgstr ""
+
+msgid "server-err-screen_btn"
+msgstr ""
+
+msgid "service-mode_status-initial"
+msgstr ""
+
+msgid "service-mode_status-terminating"
+msgstr ""
+
+msgid "service-mode_status-finished"
+msgstr ""
+
+msgid "service-mode_finish-title-process"
+msgstr ""
+
+msgid "service-mode_title-process"
+msgstr ""
+
+msgid "service-mode_current-process"
+msgstr ""
+
 msgid "settings-header_title"
 msgstr "進階使用者的設定"
 
@@ -1269,11 +1413,11 @@ msgstr "DriverPack 已專門為系統管理員建立，但對於新手使用者�
 msgid "settings-screen_license"
 msgstr "授權合約"
 
-msgid "start_caption_select_problems"
-msgstr "或者，檢查電腦到底哪些不起作用"
+msgid "start_button_install_none"
+msgstr ""
 
-msgid "start_button_problems_selected"
-msgstr "安裝 ({{COUNT}})"
+msgid "start_button_install_chosen"
+msgstr ""
 
 msgid "start_button_install_drivers"
 msgstr "安裝所有驅動程式"
@@ -1337,6 +1481,51 @@ msgstr "音效卡檢查"
 
 msgid "start_diagnostics_other"
 msgstr "其他裝置檢查"
+
+msgid "start_settings_title"
+msgstr ""
+
+msgid "start_settings_hard-drive-clean"
+msgstr ""
+
+msgid "start_settings_selection-utilities"
+msgstr ""
+
+msgid "start_settings_off-updates"
+msgstr ""
+
+msgid "start-fake-popup_title"
+msgstr ""
+
+msgid "start-fake-popup_button"
+msgstr ""
+
+msgid "start_slider_recommended-top"
+msgstr ""
+
+msgid "start_slider_none"
+msgstr ""
+
+msgid "start_slider_chosen"
+msgstr ""
+
+msgid "start_slider_chosen-critical"
+msgstr ""
+
+msgid "start_slider_critical"
+msgstr ""
+
+msgid "start_slider_recommended-first-letter"
+msgstr ""
+
+msgid "start_slider_recommended"
+msgstr ""
+
+msgid "start_slider_all"
+msgstr ""
+
+msgid "start_slider_all-top"
+msgstr ""
 
 msgid "delorean_use_remote_confirm"
 msgstr "在您的電腦上偵測到使用中的網際網路連線。完整的驅動程式資料庫可線上使用，其包含最新版本。要使用網路中的資料庫嗎?(可能使用流量)"
@@ -1497,3 +1686,63 @@ msgstr "音效卡連接不正確，或其可操作性存在一些問題"
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Chinese (Traditional)"
+
+#~ msgid "no-internet-screen_header-title"
+#~ msgstr "No server connection"
+
+#~ msgid "no-internet-screen_guide-title"
+#~ msgstr "How to install all required drivers without Internet connection?"
+
+#~ msgid "no-internet-screen_guide-step-1"
+#~ msgstr "Step 1"
+
+#~ msgid "no-internet-screen_guide-step-1-action"
+#~ msgstr ""
+#~ "Go to <span class=\"bold\">drp.su/en/foradmin</span> website by using "
+#~ "another computer"
+
+#~ msgid "no-internet-screen_guide-step-2"
+#~ msgstr "Step 2"
+
+#~ msgid "no-internet-screen_guide-step-2-action"
+#~ msgstr ""
+#~ "Download <span class=\"bold\">DriverPack Offline Full</span> or <span "
+#~ "class=\"bold\">DriverPack Offline Network</span> to a USB flash drive to "
+#~ "install drivers onto your compluter without Internet connection <br /><br />"
+#~ " <span class=\"bold\">DriverPack Offline Network</span> includes drivers for"
+#~ " network hardware (Lan/Wi-Fi), it operates without Internet connection (500 "
+#~ "MB) <br /><br /> <span class=\"bold\">DriverPack Offline Full</span> "
+#~ "includes all drivers, operates without Internet connection"
+
+#~ msgid "no-internet-screen_guide-step-complete"
+#~ msgstr "Done"
+
+#~ msgid "no-internet-screen_guide-step-complete-action"
+#~ msgstr "Start the app on this computer and configure it with one click"
+
+#~ msgid "start_installation_option_mouse"
+#~ msgstr "Mouse doesn't function"
+
+#~ msgid "start_installation_option_keyboard"
+#~ msgstr "Keyboard doesn't function"
+
+#~ msgid "start_installation_option_printer"
+#~ msgstr "Printer doesn't work"
+
+#~ msgid "start_installation_option_video"
+#~ msgstr "Video doesn't play"
+
+#~ msgid "start_installation_option_sound"
+#~ msgstr "No sound"
+
+#~ msgid "start_installation_option_usb"
+#~ msgstr "USB ports don't function"
+
+#~ msgid "start_installation_option_webcam"
+#~ msgstr "Webcam doesn't function"
+
+#~ msgid "start_installation_option_games"
+#~ msgstr "Games slow down"
+
+#~ msgid "start_caption_select_problems"
+#~ msgstr "Or, check what exactly doesn't function on your PC:"

@@ -1,13 +1,14 @@
 # Translators:
 # Nadia Tegeneva <nadia@drp.su>, 2019
+# Sergei <serjsafarian@gmail.com>, 2019
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-12-25 17:54+0000\n"
+"POT-Creation-Date: 2019-04-23 15:12+0000\n"
 "PO-Revision-Date: 2016-10-06 15:15+0000\n"
-"Last-Translator: Nadia Tegeneva <nadia@drp.su>, 2019\n"
+"Last-Translator: Sergei <serjsafarian@gmail.com>, 2019\n"
 "Language-Team: Armenian (https://www.transifex.com/driverpack-solution/teams/75452/hy/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -16,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "installation_close_confirm"
-msgstr ""
+msgstr "Դուք իրո՞ք ուզում եք ընդհատել տեղադրումը։ Դա կարող է հանգեցնել համակարգչի անաշխատունակության։"
 
 msgid "deviceclasses_bluetooth-single-main"
 msgstr "Bluetooth սարք"
@@ -211,43 +212,166 @@ msgid "deviceclasses_other-plural-for"
 msgstr "այլ սարքերի"
 
 msgid "activate_recommendations_title_programs"
-msgstr ""
+msgstr "Ծրագրաշարի վերաբերյալ մեր խորհուրդներն անջատված են"
 
 msgid "activate_recommendations_title_protect"
-msgstr ""
+msgstr "Պաշտպանական ծրագրաշարի վերաբերյալ մեր խորհուրդներն անջատված են"
 
 msgid "activate_recommendations_button_programs"
-msgstr ""
+msgstr "Միացնել մեր խորհուրդները ծրագրաշարի վերաբերյալ"
 
 msgid "activate_recommendations_button_protect"
+msgstr "Միացնել մեր խորհուրդները պաշտպանական ծրագրաշարի վերաբերյալ"
+
+msgid "onboarding_screen_social_caption_text"
+msgstr "Մեր {{SOCIAL.LINK}} համայնքում Դուք կարող եք ստանալ սարքավարների տեղադրման և ծրագրաշարի կարգավորման մասին պատասխանները ամենափորձառու մասնագետներից։ Միացե՛ք։"
+
+msgid "onboarding_screen_antivirus_title"
+msgstr "Որպեսզի տեղադրումն իրականացվի առանց սխալների, առժամապես անջատեք հակավիրուսը"
+
+msgid "onboarding_screen_antivirus_caption"
+msgstr "Հակավիրուսները շատ հաճախ խոչընդոտում են միջամտությունը ցածր մակարդակի գործընթացներին, որոնք անհրաժեշտ են սարքավարների տեղադրման համար։ Այդ պատճառով մենք խնդրում ենք առժամապես անջատել այն։ Կարևոր է. համակարգիչը վերագործարկելուց հետո չմոռանաք միացնել հակավիրուսը։"
+
+msgid "onboarding_screen_antivirus_mark"
+msgstr "Սարքավարներիի տեղադրում"
+
+msgid "onboarding_screen_settings_title"
+msgstr "Կարգավորումները թույլ են տալիս անջատել ծրագրերի տեղադրումը, վերականգնման կետի ստեղծումը և նույնիսկ փոխել DriverPack-ի տեսքը"
+
+msgid "onboarding_screen_settings_caption"
+msgstr "Համակարգի ադմինիստրատորների և առաջադեմ օգտվողների համար կարգավորումներն ավելի մեծ վերահսկողություն են տալիս։ Անցեք «Կարգավորումներ» բաժնին և պարզեք, թե ինչը կարող եք կառավարել DriverPack-ում"
+
+msgid "onboarding_screen_settings_mark"
+msgstr "DriverPack-ի առանձնահատկությունները"
+
+msgid "onboarding_screen_settings_button_text"
+msgstr "Անցնել կարգավորումներին"
+
+msgid "onboarding_screen_soft_title"
+msgstr "Հոգնե՞լ եք ոչ պետքաքան ծրագրերից ծիտիկները հանելուց։ Գրանցվեք, Ձեր կարգավորումները պահպանելու համար"
+
+msgid "onboarding_screen_soft_caption"
+msgstr "Լիազորումը թույլ է տալիս կիրառել նոր համակարգչում DriverPack-ում արված Ձեր անձնական կարգավորումները։ Օրինակ, եթե անջատել եք ծրագրերի տեղադրումը, ապա լիազորվելուց հետո Դուք ծիտիկները նորից հանելու կարիք չեք ունենա։"
+
+msgid "onboarding_screen_soft_mark"
+msgstr "DriverPack-ի առանձնահատկությունները"
+
+msgid "onboarding_screen_soft_button_text"
+msgstr "Գրանցում / Մուտք"
+
+msgid "onboarding_screen_social_title"
+msgstr "Ավելացրեք DriverPack-ին որպես ընկեր սոցցանցերում, և մենք օգնության կհասնենք, երբ պետք լինի։"
+
+msgid "onboarding_screen_social_mark"
+msgstr "Փորձագետների համայնք"
+
+msgid "onboarding_screen_service_mode_title"
+msgstr "Ծառայական ռեժիմը 15%-ով մեծացնում է սարքավարի  հաջող տեղադրվելու հավանականությունը"
+
+msgid "onboarding_screen_service_mode_mark"
+msgstr "Տեղադրման նոր ձև"
+
+msgid "onboarding_screen_soft_caption_text_1"
+msgstr "Ներկայիս բոլոր բաց ծրագրերը, օրինակ՝ Microsoft Word-ը, Google Chrome-ը, Steam-ը և այլ, կփակվեն՝ տեղադրման գործընթացում ցանկացած կոնֆլիկտից խուսափելու համար"
+
+msgid "onboarding_screen_soft_caption_text_2"
+msgstr "DriverPack-ը սովորականից ավելի արագ է տեղադրում սարքավարները"
+
+msgid "onboarding_screen_soft_caption_text_3"
+msgstr "Տեղադրման ավարտից հետո համակարգիչը կվերագործարկվի և կվերադառնա իր սովորական ռեժիմին"
+
+msgid "onboarding_screen_autostart_title"
+msgstr "Որպեսզի համակարգիչը դադարի արգելակել, բավական է ինքնամեկնարկից հանել անհարկի ծրագրերը"
+
+msgid "onboarding_screen_autostart_caption"
+msgstr "DriverPack-ը կօգնի գտնել ոչ պետքաքան ինքնամեկնարկվող ծրագրերը և անջատել դրանք"
+
+msgid "onboarding_screen_autostart_mark"
+msgstr "Համակարգչի արագությունը"
+
+msgid "onboarding_screen_cleaning_title"
+msgstr "Ժամանակավոր նիշքերի մաքրումը նման է տունը հավաքելուն։ Անցկացրեք այն պարբերաբար։"
+
+msgid "onboarding_screen_cleaning_caption"
+msgstr "Ժամանակավոր նիշքերը կուտակվում են համակարգում տեղադրիչների և որոշ ծրագրերի անփույթ աշխատանքից հետո, և ժամանակի ընթացքում աղբոտում են այն։ Մաքրեք համակարգն առնվազն երեք շաբաթը մեկ անգամ։"
+
+msgid "onboarding_screen_cleaning_mark"
 msgstr ""
+
+msgid "onboarding_screen_blocked_title"
+msgstr "Ինչպե՞ս մտնել կայք, որն արգելափակված է Ռուսաստանում կամ մի ուրիշ երկրում"
+
+msgid "onboarding_screen_blocked_caption"
+msgstr "Օգտագործեք VPN-ծառայություններ։ Լուծման որոնման վրա ժամանակ չվատնելու համար փորձեք միացնել VPN-ը մեկ հպումով Opera դիտարկիչում։ Այնտեղ կարելի է ընտրել տարածաշրջանը, որից ուզում եք մտնել. Ասիա, Ամերիկա կամ Եվրոպա։"
+
+msgid "onboarding_screen_blocked_mark"
+msgstr "Հնարքներ"
+
+msgid "onboarding_screen_checking_title"
+msgstr "Վերագործարկելուց հետո տեղի կունենա սարքի ստուգում։ Եվ եթե ինչ-որ բան այն չէ — կօգնենք լուծել խնդիրը"
+
+msgid "onboarding_screen_checking_caption"
+msgstr "Սարքավարների և համակարգչային ծրագրաշարի կարգավորման հարցում աշխարհի ամենափորձառու մասնագետները կփորձեն լուծել Ձեր խնդիրը, եթե DriverPack-ը չկարողանա դա անել ինքնաբար։ Բաց մի՛ թողեք ստուգումը։"
+
+msgid "onboarding_screen_checking_mark"
+msgstr "Աշխատունակության ստուգում"
+
+msgid "onboarding_screen_settings_name"
+msgstr "Փորձագիտական կարգավորումներ"
+
+msgid "onboarding_screen_soft_name"
+msgstr "Կարգավորումների պահպանում"
+
+msgid "onboarding_screen_social_name"
+msgstr "DriverPack-ը սոցցանցերում"
+
+msgid "onboarding_screen_antivirus_name"
+msgstr "Հակավիրուսի անջատում"
+
+msgid "onboarding_screen_service_name"
+msgstr "Ծառայական ռեժիմ"
+
+msgid "onboarding_screen_autostart_name"
+msgstr "Ինքնամեկնարի ծրագրեր"
+
+msgid "onboarding_screen_cleaning_name"
+msgstr "Կոշտ սկավառակի մաքրում"
+
+msgid "onboarding_screen_blocked_name"
+msgstr "Արգելափակումների շրջանցում"
+
+msgid "onboarding_screen_checking_name"
+msgstr "Ստուգում՝ տեղադրումից հետո"
+
+msgid "onboarding_screen_do_not_show_popups"
+msgstr "Ցույց չտալ խորհուրդները"
 
 msgid "programs_about"
-msgstr ""
+msgstr "Մանրամասն"
 
 msgid "programs_eula"
-msgstr ""
+msgstr "Լիցենզիոն համաձայնագիր"
 
 msgid "programs_policy"
-msgstr ""
+msgstr "Գաղտնիության քաղաքականություն"
 
 msgid "programs_btn_install_single"
-msgstr ""
+msgstr "տեղադրել"
 
 msgid "programs_btn_installed_single"
-msgstr ""
+msgstr "տեղադրված է"
 
 msgid "settings_common-settings"
-msgstr ""
+msgstr "Ընդհանուր կարգավորումներ"
 
 msgid "settings_error"
-msgstr ""
+msgstr "Սխալների կանխարգելում"
 
 msgid "settings_algorithm"
-msgstr ""
+msgstr "Սարքավարների ընտրության ալգորիթմը"
 
 msgid "settings_language-title"
-msgstr ""
+msgstr "Հավելվածի լեզուները"
 
 msgid "settings_language-caption"
 msgstr ""
@@ -447,30 +571,6 @@ msgstr ""
 #. i18n: EN: default value for {{MODEL}} in start_title key; RU: значение по
 #. умолчанию для {{MODEL}} в ключе start_title
 msgid "start_title_default_model"
-msgstr ""
-
-msgid "start_installation_option_mouse"
-msgstr ""
-
-msgid "start_installation_option_keyboard"
-msgstr ""
-
-msgid "start_installation_option_printer"
-msgstr ""
-
-msgid "start_installation_option_video"
-msgstr ""
-
-msgid "start_installation_option_sound"
-msgstr ""
-
-msgid "start_installation_option_usb"
-msgstr ""
-
-msgid "start_installation_option_webcam"
-msgstr ""
-
-msgid "start_installation_option_games"
 msgstr ""
 
 msgid "menu_create_recovery_point"
@@ -838,6 +938,30 @@ msgstr ""
 msgid "final_aside_broken_devices_caption"
 msgstr ""
 
+msgid "final-fake_title"
+msgstr ""
+
+msgid "start-fake-popup_subtitle"
+msgstr ""
+
+msgid "start-fake-popup_connect"
+msgstr ""
+
+msgid "start-fake-popup_firewall"
+msgstr ""
+
+msgid "start-fake-popup_torrent"
+msgstr ""
+
+msgid "start-fake-popup_browser"
+msgstr ""
+
+msgid "start-fake-popup_vpn"
+msgstr ""
+
+msgid "final-fake_button"
+msgstr ""
+
 msgid "games_top_game_free_demo"
 msgstr ""
 
@@ -905,21 +1029,6 @@ msgid "installation_header_preparing"
 msgstr ""
 
 msgid "installation_header_title"
-msgstr ""
-
-msgid "installation_header_promo_try"
-msgstr ""
-
-msgid "installation_header_promo_more"
-msgstr ""
-
-msgid "installation_header_promo_install"
-msgstr ""
-
-msgid "installation_header_promo_fb"
-msgstr ""
-
-msgid "installation_header_promo_license"
 msgstr ""
 
 msgid "installation_item_category_restorepoint"
@@ -1069,9 +1178,6 @@ msgstr ""
 msgid "restart_popup_title"
 msgstr ""
 
-msgid "restart_popup_caption"
-msgstr ""
-
 msgid "restart_popup_button"
 msgstr ""
 
@@ -1147,28 +1253,28 @@ msgstr ""
 msgid "menu_bugreport"
 msgstr ""
 
-msgid "no-internet-screen_header-title"
+msgid "no-internet_title"
 msgstr ""
 
-msgid "no-internet-screen_guide-title"
+msgid "no-internet_subtitle"
 msgstr ""
 
-msgid "no-internet-screen_guide-step-1"
+msgid "no-internet_connect"
 msgstr ""
 
-msgid "no-internet-screen_guide-step-1-action"
+msgid "no-internet_firewall"
 msgstr ""
 
-msgid "no-internet-screen_guide-step-2"
+msgid "no-internet_torrent"
 msgstr ""
 
-msgid "no-internet-screen_guide-step-2-action"
+msgid "no-internet_browser"
 msgstr ""
 
-msgid "no-internet-screen_guide-step-complete"
+msgid "no-internet_vpn"
 msgstr ""
 
-msgid "no-internet-screen_guide-step-complete-action"
+msgid "no-internet_flash"
 msgstr ""
 
 msgid "programs_header_text_title"
@@ -1261,6 +1367,45 @@ msgstr ""
 msgid "protect_security_programs_title"
 msgstr ""
 
+msgid "scan-screen_start-title"
+msgstr ""
+
+msgid "scan-screen_start_subtitle"
+msgstr ""
+
+msgid "scan-screen_start_btn"
+msgstr ""
+
+msgid "server-err-screen_title"
+msgstr ""
+
+msgid "server-err-screen_title-err"
+msgstr ""
+
+msgid "server-err-screen_status"
+msgstr ""
+
+msgid "server-err-screen_btn"
+msgstr ""
+
+msgid "service-mode_status-initial"
+msgstr ""
+
+msgid "service-mode_status-terminating"
+msgstr ""
+
+msgid "service-mode_status-finished"
+msgstr ""
+
+msgid "service-mode_finish-title-process"
+msgstr ""
+
+msgid "service-mode_title-process"
+msgstr ""
+
+msgid "service-mode_current-process"
+msgstr ""
+
 msgid "settings-header_title"
 msgstr ""
 
@@ -1270,10 +1415,10 @@ msgstr ""
 msgid "settings-screen_license"
 msgstr ""
 
-msgid "start_caption_select_problems"
+msgid "start_button_install_none"
 msgstr ""
 
-msgid "start_button_problems_selected"
+msgid "start_button_install_chosen"
 msgstr ""
 
 msgid "start_button_install_drivers"
@@ -1340,6 +1485,51 @@ msgid "start_diagnostics_audio"
 msgstr ""
 
 msgid "start_diagnostics_other"
+msgstr ""
+
+msgid "start_settings_title"
+msgstr ""
+
+msgid "start_settings_hard-drive-clean"
+msgstr ""
+
+msgid "start_settings_selection-utilities"
+msgstr ""
+
+msgid "start_settings_off-updates"
+msgstr ""
+
+msgid "start-fake-popup_title"
+msgstr ""
+
+msgid "start-fake-popup_button"
+msgstr ""
+
+msgid "start_slider_recommended-top"
+msgstr ""
+
+msgid "start_slider_none"
+msgstr ""
+
+msgid "start_slider_chosen"
+msgstr ""
+
+msgid "start_slider_chosen-critical"
+msgstr ""
+
+msgid "start_slider_critical"
+msgstr ""
+
+msgid "start_slider_recommended-first-letter"
+msgstr ""
+
+msgid "start_slider_recommended"
+msgstr ""
+
+msgid "start_slider_all"
+msgstr ""
+
+msgid "start_slider_all-top"
 msgstr ""
 
 msgid "delorean_use_remote_confirm"
@@ -1501,3 +1691,54 @@ msgstr ""
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Armenian"
+
+#~ msgid "no-internet-screen_header-title"
+#~ msgstr ""
+
+#~ msgid "no-internet-screen_guide-title"
+#~ msgstr ""
+
+#~ msgid "no-internet-screen_guide-step-1"
+#~ msgstr ""
+
+#~ msgid "no-internet-screen_guide-step-1-action"
+#~ msgstr ""
+
+#~ msgid "no-internet-screen_guide-step-2"
+#~ msgstr ""
+
+#~ msgid "no-internet-screen_guide-step-2-action"
+#~ msgstr ""
+
+#~ msgid "no-internet-screen_guide-step-complete"
+#~ msgstr ""
+
+#~ msgid "no-internet-screen_guide-step-complete-action"
+#~ msgstr ""
+
+#~ msgid "start_installation_option_mouse"
+#~ msgstr ""
+
+#~ msgid "start_installation_option_keyboard"
+#~ msgstr ""
+
+#~ msgid "start_installation_option_printer"
+#~ msgstr ""
+
+#~ msgid "start_installation_option_video"
+#~ msgstr ""
+
+#~ msgid "start_installation_option_sound"
+#~ msgstr ""
+
+#~ msgid "start_installation_option_usb"
+#~ msgstr ""
+
+#~ msgid "start_installation_option_webcam"
+#~ msgstr ""
+
+#~ msgid "start_installation_option_games"
+#~ msgstr ""
+
+#~ msgid "start_caption_select_problems"
+#~ msgstr ""

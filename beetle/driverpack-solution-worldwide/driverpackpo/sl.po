@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-12-25 17:54+0000\n"
-"PO-Revision-Date: 2019-01-09 08:18+0000\n"
+"POT-Creation-Date: 2019-04-23 15:12+0000\n"
+"PO-Revision-Date: 2019-07-16 13:51+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Slovenian (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/sl/)\n"
 "MIME-Version: 1.0\n"
@@ -224,6 +224,129 @@ msgstr "Omogočite naša priporočila o programski opremi"
 
 msgid "activate_recommendations_button_protect"
 msgstr "Omogočite naša priporočila o zaščitni programski opremi"
+
+msgid "onboarding_screen_social_caption_text"
+msgstr ""
+
+msgid "onboarding_screen_antivirus_title"
+msgstr ""
+
+msgid "onboarding_screen_antivirus_caption"
+msgstr ""
+
+msgid "onboarding_screen_antivirus_mark"
+msgstr "Nameščanje gonilnikov"
+
+msgid "onboarding_screen_settings_title"
+msgstr ""
+
+msgid "onboarding_screen_settings_caption"
+msgstr ""
+
+msgid "onboarding_screen_settings_mark"
+msgstr ""
+
+msgid "onboarding_screen_settings_button_text"
+msgstr ""
+
+msgid "onboarding_screen_soft_title"
+msgstr ""
+
+msgid "onboarding_screen_soft_caption"
+msgstr ""
+
+msgid "onboarding_screen_soft_mark"
+msgstr ""
+
+msgid "onboarding_screen_soft_button_text"
+msgstr ""
+
+msgid "onboarding_screen_social_title"
+msgstr ""
+
+msgid "onboarding_screen_social_mark"
+msgstr ""
+
+msgid "onboarding_screen_service_mode_title"
+msgstr ""
+
+msgid "onboarding_screen_service_mode_mark"
+msgstr ""
+
+msgid "onboarding_screen_soft_caption_text_1"
+msgstr ""
+
+msgid "onboarding_screen_soft_caption_text_2"
+msgstr ""
+
+msgid "onboarding_screen_soft_caption_text_3"
+msgstr ""
+
+msgid "onboarding_screen_autostart_title"
+msgstr ""
+
+msgid "onboarding_screen_autostart_caption"
+msgstr ""
+
+msgid "onboarding_screen_autostart_mark"
+msgstr ""
+
+msgid "onboarding_screen_cleaning_title"
+msgstr ""
+
+msgid "onboarding_screen_cleaning_caption"
+msgstr ""
+
+msgid "onboarding_screen_cleaning_mark"
+msgstr ""
+
+msgid "onboarding_screen_blocked_title"
+msgstr ""
+
+msgid "onboarding_screen_blocked_caption"
+msgstr ""
+
+msgid "onboarding_screen_blocked_mark"
+msgstr ""
+
+msgid "onboarding_screen_checking_title"
+msgstr ""
+
+msgid "onboarding_screen_checking_caption"
+msgstr ""
+
+msgid "onboarding_screen_checking_mark"
+msgstr ""
+
+msgid "onboarding_screen_settings_name"
+msgstr ""
+
+msgid "onboarding_screen_soft_name"
+msgstr ""
+
+msgid "onboarding_screen_social_name"
+msgstr ""
+
+msgid "onboarding_screen_antivirus_name"
+msgstr ""
+
+msgid "onboarding_screen_service_name"
+msgstr ""
+
+msgid "onboarding_screen_autostart_name"
+msgstr ""
+
+msgid "onboarding_screen_cleaning_name"
+msgstr ""
+
+msgid "onboarding_screen_blocked_name"
+msgstr ""
+
+msgid "onboarding_screen_checking_name"
+msgstr ""
+
+msgid "onboarding_screen_do_not_show_popups"
+msgstr ""
 
 msgid "programs_about"
 msgstr "Nauči se več"
@@ -451,30 +574,6 @@ msgstr "https://vk.com/topic-29220845_34743007"
 #. умолчанию для {{MODEL}} в ключе start_title
 msgid "start_title_default_model"
 msgstr "vaš računalnik"
-
-msgid "start_installation_option_mouse"
-msgstr "Miška ne deluje"
-
-msgid "start_installation_option_keyboard"
-msgstr "Tipkovnica ne deluje"
-
-msgid "start_installation_option_printer"
-msgstr "Printer ne deluje"
-
-msgid "start_installation_option_video"
-msgstr "Video predvajalnik/video  ne deluje"
-
-msgid "start_installation_option_sound"
-msgstr "Zvok  ne deluje"
-
-msgid "start_installation_option_usb"
-msgstr "USB vhodi  ne delujejo"
-
-msgid "start_installation_option_webcam"
-msgstr "Spletna kamera  ne deluje"
-
-msgid "start_installation_option_games"
-msgstr "Igre delujejo zelo počasi"
 
 msgid "menu_create_recovery_point"
 msgstr "Ustvarite obnovitveno točko"
@@ -851,6 +950,30 @@ msgstr "Ugotovljene so bile težave z napravo"
 msgid "final_aside_broken_devices_caption"
 msgstr "Nekatere naprave v tem računalniku ne delujejo pravilno in za njih ni mogoče namestiti gonilnikov. Priporočamo, da preverite možnost popravila ali zamenjave."
 
+msgid "final-fake_title"
+msgstr ""
+
+msgid "start-fake-popup_subtitle"
+msgstr ""
+
+msgid "start-fake-popup_connect"
+msgstr ""
+
+msgid "start-fake-popup_firewall"
+msgstr ""
+
+msgid "start-fake-popup_torrent"
+msgstr ""
+
+msgid "start-fake-popup_browser"
+msgstr ""
+
+msgid "start-fake-popup_vpn"
+msgstr ""
+
+msgid "final-fake_button"
+msgstr "Ponovno namestite"
+
 msgid "games_top_game_free_demo"
 msgstr "Brezplačna demo različica"
 
@@ -894,7 +1017,7 @@ msgid "gdpr-banner_accept-btn"
 msgstr "Potrdi"
 
 msgid "header_authorize_button"
-msgstr "Vpiši se"
+msgstr ""
 
 msgid "authorize_popup_logout_button"
 msgstr "Izpišite se"
@@ -919,21 +1042,6 @@ msgstr "Ustvarjamo obnovitveno točko..."
 
 msgid "installation_header_title"
 msgstr "Konfiguriramo vaš računalnik..."
-
-msgid "installation_header_promo_try"
-msgstr "poskusite"
-
-msgid "installation_header_promo_more"
-msgstr "Naučite se več"
-
-msgid "installation_header_promo_install"
-msgstr "namesti"
-
-msgid "installation_header_promo_fb"
-msgstr "Facebook skupnost"
-
-msgid "installation_header_promo_license"
-msgstr "Licenčna pogodba"
 
 msgid "installation_item_category_restorepoint"
 msgstr "Obnovitvena točka"
@@ -1082,9 +1190,6 @@ msgstr "Namestitveni elementi"
 msgid "restart_popup_title"
 msgstr "Za uspešno namestitev je potreben ponovni zagon"
 
-msgid "restart_popup_caption"
-msgstr "Računalnik se bo ponovno zagnal v {{REMAIN.TIME}}…"
-
 msgid "restart_popup_button"
 msgstr "Ponovni zagon"
 
@@ -1095,7 +1200,7 @@ msgid "loading_backup_drivers"
 msgstr "Vzpostavljeno je varnostno kopiranje gonilnika"
 
 msgid "loading_backup_done"
-msgstr "Varnostno kopiranje  gonilnika je bilo uspešno ustvarjeno"
+msgstr ""
 
 msgid "loading_button_finish"
 msgstr "Končano"
@@ -1160,35 +1265,35 @@ msgstr "Nastavitve"
 msgid "menu_bugreport"
 msgstr "Poročajte o napaki"
 
-msgid "no-internet-screen_header-title"
-msgstr "Brez povezave z strežnikom"
+msgid "no-internet_title"
+msgstr ""
 
-msgid "no-internet-screen_guide-title"
-msgstr "Kako namestiim vse zahtevane gonilnike brez internetne povezave?"
+msgid "no-internet_subtitle"
+msgstr ""
 
-msgid "no-internet-screen_guide-step-1"
-msgstr "Korak 1"
+msgid "no-internet_connect"
+msgstr ""
 
-msgid "no-internet-screen_guide-step-1-action"
-msgstr "Obiščite spletno stran <span class=\"bold\">drp.su/sl/foradmin</span> z uporabo drugega računalnika"
+msgid "no-internet_firewall"
+msgstr ""
 
-msgid "no-internet-screen_guide-step-2"
-msgstr "Korak 2"
+msgid "no-internet_torrent"
+msgstr ""
 
-msgid "no-internet-screen_guide-step-2-action"
-msgstr "Prenesite <span class=\"bold\">DriverPack Offline Full</span> ali <span class=\"bold\">DriverPack Offline Network</span> na USB-pogon za namestitev gonilnikov na vaš računalnik brez Internetne povezave <br /><br /> <span class=\"bold\">DriverPack Offline Network</span> vključuje gonilnike za omrežno strojno opremo (Lan/Wi-Fi), deluje brez Internetne povezave (500 MB) <br /><br /> <span class=\"bold\">DriverPack Offline Full</span> vključuje vsi gonilniki, deluje brez Internetne povezave"
+msgid "no-internet_browser"
+msgstr ""
 
-msgid "no-internet-screen_guide-step-complete"
-msgstr "Končano"
+msgid "no-internet_vpn"
+msgstr ""
 
-msgid "no-internet-screen_guide-step-complete-action"
-msgstr "Zaženite aplikacijo v tem računalniku in konfigurirajte računalnik z enim gumbom"
+msgid "no-internet_flash"
+msgstr ""
 
 msgid "programs_header_text_title"
 msgstr "Vsa koristna programska oprema na enem mestu"
 
 msgid "programs_btn_install_all"
-msgstr "Namestite potrebno programsko opremo <b>({{COUNT}})</b>"
+msgstr ""
 
 msgid "programs_header_text_caption"
 msgstr "Programskih programov ni treba več iskati enega po enega. Vse lahko enostavno namestite z enim klikom."
@@ -1274,6 +1379,45 @@ msgstr "Poglej več"
 msgid "protect_security_programs_title"
 msgstr "Pomembna programska oprema za varnost"
 
+msgid "scan-screen_start-title"
+msgstr ""
+
+msgid "scan-screen_start_subtitle"
+msgstr ""
+
+msgid "scan-screen_start_btn"
+msgstr ""
+
+msgid "server-err-screen_title"
+msgstr ""
+
+msgid "server-err-screen_title-err"
+msgstr ""
+
+msgid "server-err-screen_status"
+msgstr ""
+
+msgid "server-err-screen_btn"
+msgstr ""
+
+msgid "service-mode_status-initial"
+msgstr ""
+
+msgid "service-mode_status-terminating"
+msgstr ""
+
+msgid "service-mode_status-finished"
+msgstr ""
+
+msgid "service-mode_finish-title-process"
+msgstr ""
+
+msgid "service-mode_title-process"
+msgstr ""
+
+msgid "service-mode_current-process"
+msgstr ""
+
 msgid "settings-header_title"
 msgstr "Nastavitve za napredne uporabnike"
 
@@ -1283,11 +1427,11 @@ msgstr "DriverPack je bil ustvarjen posebej za skrbnike, vendar je jasen in upor
 msgid "settings-screen_license"
 msgstr "Licenčna pogodba"
 
-msgid "start_caption_select_problems"
-msgstr "V redu, pa poglejmo kaj natančno ne deluje v vašem računalniku"
+msgid "start_button_install_none"
+msgstr ""
 
-msgid "start_button_problems_selected"
-msgstr "Namesti  ({{COUNT}})"
+msgid "start_button_install_chosen"
+msgstr ""
 
 msgid "start_button_install_drivers"
 msgstr "Namestite vse gonilnike"
@@ -1360,6 +1504,51 @@ msgstr "Preverjanje zvočne kartice"
 
 msgid "start_diagnostics_other"
 msgstr "Preverjanje drugih naprav"
+
+msgid "start_settings_title"
+msgstr ""
+
+msgid "start_settings_hard-drive-clean"
+msgstr ""
+
+msgid "start_settings_selection-utilities"
+msgstr ""
+
+msgid "start_settings_off-updates"
+msgstr ""
+
+msgid "start-fake-popup_title"
+msgstr ""
+
+msgid "start-fake-popup_button"
+msgstr ""
+
+msgid "start_slider_recommended-top"
+msgstr ""
+
+msgid "start_slider_none"
+msgstr ""
+
+msgid "start_slider_chosen"
+msgstr ""
+
+msgid "start_slider_chosen-critical"
+msgstr ""
+
+msgid "start_slider_critical"
+msgstr ""
+
+msgid "start_slider_recommended-first-letter"
+msgstr ""
+
+msgid "start_slider_recommended"
+msgstr ""
+
+msgid "start_slider_all"
+msgstr ""
+
+msgid "start_slider_all-top"
+msgstr ""
 
 msgid "delorean_use_remote_confirm"
 msgstr "Na vašem računalniku je bila zaznana aktivna internetna povezava. Celotna podatkovna baza gonilnikov je na voljo na spletu in vsebuje najnovejše različice. Želite uporabiti bazo podatkov iz omrežja? (uporaba prometa je možna)"
@@ -1520,3 +1709,63 @@ msgstr "Zvočna kartica ni nepravilno priključena ali pa obstajajo težave z nj
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Slovenian"
+
+#~ msgid "no-internet-screen_header-title"
+#~ msgstr "No server connection"
+
+#~ msgid "no-internet-screen_guide-title"
+#~ msgstr "How to install all required drivers without Internet connection?"
+
+#~ msgid "no-internet-screen_guide-step-1"
+#~ msgstr "Step 1"
+
+#~ msgid "no-internet-screen_guide-step-1-action"
+#~ msgstr ""
+#~ "Go to <span class=\"bold\">drp.su/en/foradmin</span> website by using "
+#~ "another computer"
+
+#~ msgid "no-internet-screen_guide-step-2"
+#~ msgstr "Step 2"
+
+#~ msgid "no-internet-screen_guide-step-2-action"
+#~ msgstr ""
+#~ "Download <span class=\"bold\">DriverPack Offline Full</span> or <span "
+#~ "class=\"bold\">DriverPack Offline Network</span> to a USB flash drive to "
+#~ "install drivers onto your compluter without Internet connection <br /><br />"
+#~ " <span class=\"bold\">DriverPack Offline Network</span> includes drivers for"
+#~ " network hardware (Lan/Wi-Fi), it operates without Internet connection (500 "
+#~ "MB) <br /><br /> <span class=\"bold\">DriverPack Offline Full</span> "
+#~ "includes all drivers, operates without Internet connection"
+
+#~ msgid "no-internet-screen_guide-step-complete"
+#~ msgstr "Done"
+
+#~ msgid "no-internet-screen_guide-step-complete-action"
+#~ msgstr "Start the app on this computer and configure it with one click"
+
+#~ msgid "start_installation_option_mouse"
+#~ msgstr "Mouse doesn't function"
+
+#~ msgid "start_installation_option_keyboard"
+#~ msgstr "Keyboard doesn't function"
+
+#~ msgid "start_installation_option_printer"
+#~ msgstr "Printer doesn't work"
+
+#~ msgid "start_installation_option_video"
+#~ msgstr "Video doesn't play"
+
+#~ msgid "start_installation_option_sound"
+#~ msgstr "No sound"
+
+#~ msgid "start_installation_option_usb"
+#~ msgstr "USB ports don't function"
+
+#~ msgid "start_installation_option_webcam"
+#~ msgstr "Webcam doesn't function"
+
+#~ msgid "start_installation_option_games"
+#~ msgstr "Games slow down"
+
+#~ msgid "start_caption_select_problems"
+#~ msgstr "Or, check what exactly doesn't function on your PC:"

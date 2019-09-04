@@ -2,16 +2,16 @@
 # 
 # Translators:
 # Arzu Babayev <babayev.arzu@gmail.com>, 2017-2018
-# İsmət Sadıqov <ismet.sadiqov@gmail.com>, 2017-2018
+# İsmət Sadıqov <ismet.sadiqov@gmail.com>, 2017-2019
 # Nadia Tegeneva <nadia@drp.su>, 2017-2018
 # RasiM MahmudoV <rkmahmudov@gmail.com>, 2018
 msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-12-25 17:54+0000\n"
-"PO-Revision-Date: 2018-12-28 12:59+0000\n"
-"Last-Translator: İsmət Sadıqov <ismet.sadiqov@gmail.com>\n"
+"POT-Creation-Date: 2019-04-23 15:12+0000\n"
+"PO-Revision-Date: 2019-08-21 08:26+0000\n"
+"Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Azerbaijani (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/az/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -20,7 +20,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "installation_close_confirm"
-msgstr "Quraşdırmanı dayandırmaq istədiyinizə əminsiniz? Bu sizin kompüterinizə zərər yetirə bilər."
+msgstr "Quraşdırmanı yarıda saxlamaq istədiyinizə əminsiniz? Bu kompüterinizə zərər yetirə bilər."
 
 msgid "deviceclasses_bluetooth-single-main"
 msgstr "Bluetooth cihazı"
@@ -225,6 +225,129 @@ msgstr "Proqramlarla bağlı tövsiyyələrimiz aktivləşdirildi"
 
 msgid "activate_recommendations_button_protect"
 msgstr "Qoruyucu proqramlarla bağlı tövsiyyələrimiz aktivləşdirildi"
+
+msgid "onboarding_screen_social_caption_text"
+msgstr "{{SOCIAL.LINK}} saytındakı birliyimzdə, bu problemlərlə bağlı ən təcrübəli mütəxəssislərdən driver quraşdırma və avadanlıq nizamlamaları haqqında suallarınıza tez bir şəkildə cavab ala bilərsiniz. Bizə qoşulun!"
+
+msgid "onboarding_screen_antivirus_title"
+msgstr "Bildiriş sahəsindən antivurs proqramınızı bir müddətlik söndürün, beləliklə quraşdırılma hər hansı bir xəta olmadan davam davam edər"
+
+msgid "onboarding_screen_antivirus_caption"
+msgstr "Antiviruslar sıx-sıx, driver quraşdırılması üçün lazım olan aşağı səvoyyəli proseslərə müdaxiləni blok elədiklərinə görə, adətən onları bir müddətlik qeyri aktiv etməyinizi istəyirik. Vacib! Kompüteriniz yenidən başladıqdan sonra təkrar antivirusunuzu aktivləşdirməyi unutmayın."
+
+msgid "onboarding_screen_antivirus_mark"
+msgstr "Driver Quraşdırılması"
+
+msgid "onboarding_screen_settings_title"
+msgstr ""
+
+msgid "onboarding_screen_settings_caption"
+msgstr ""
+
+msgid "onboarding_screen_settings_mark"
+msgstr ""
+
+msgid "onboarding_screen_settings_button_text"
+msgstr ""
+
+msgid "onboarding_screen_soft_title"
+msgstr ""
+
+msgid "onboarding_screen_soft_caption"
+msgstr ""
+
+msgid "onboarding_screen_soft_mark"
+msgstr ""
+
+msgid "onboarding_screen_soft_button_text"
+msgstr ""
+
+msgid "onboarding_screen_social_title"
+msgstr ""
+
+msgid "onboarding_screen_social_mark"
+msgstr ""
+
+msgid "onboarding_screen_service_mode_title"
+msgstr ""
+
+msgid "onboarding_screen_service_mode_mark"
+msgstr ""
+
+msgid "onboarding_screen_soft_caption_text_1"
+msgstr ""
+
+msgid "onboarding_screen_soft_caption_text_2"
+msgstr ""
+
+msgid "onboarding_screen_soft_caption_text_3"
+msgstr ""
+
+msgid "onboarding_screen_autostart_title"
+msgstr ""
+
+msgid "onboarding_screen_autostart_caption"
+msgstr ""
+
+msgid "onboarding_screen_autostart_mark"
+msgstr ""
+
+msgid "onboarding_screen_cleaning_title"
+msgstr ""
+
+msgid "onboarding_screen_cleaning_caption"
+msgstr ""
+
+msgid "onboarding_screen_cleaning_mark"
+msgstr ""
+
+msgid "onboarding_screen_blocked_title"
+msgstr ""
+
+msgid "onboarding_screen_blocked_caption"
+msgstr ""
+
+msgid "onboarding_screen_blocked_mark"
+msgstr ""
+
+msgid "onboarding_screen_checking_title"
+msgstr ""
+
+msgid "onboarding_screen_checking_caption"
+msgstr ""
+
+msgid "onboarding_screen_checking_mark"
+msgstr ""
+
+msgid "onboarding_screen_settings_name"
+msgstr ""
+
+msgid "onboarding_screen_soft_name"
+msgstr ""
+
+msgid "onboarding_screen_social_name"
+msgstr ""
+
+msgid "onboarding_screen_antivirus_name"
+msgstr ""
+
+msgid "onboarding_screen_service_name"
+msgstr ""
+
+msgid "onboarding_screen_autostart_name"
+msgstr ""
+
+msgid "onboarding_screen_cleaning_name"
+msgstr ""
+
+msgid "onboarding_screen_blocked_name"
+msgstr ""
+
+msgid "onboarding_screen_checking_name"
+msgstr ""
+
+msgid "onboarding_screen_do_not_show_popups"
+msgstr ""
 
 msgid "programs_about"
 msgstr "Təfsilatı ilə"
@@ -452,30 +575,6 @@ msgstr "https://vk.com/topic-29220845_34743007"
 #. умолчанию для {{MODEL}} в ключе start_title
 msgid "start_title_default_model"
 msgstr "kompüteriniz"
-
-msgid "start_installation_option_mouse"
-msgstr "Siçan işləmir"
-
-msgid "start_installation_option_keyboard"
-msgstr "Klaviatura işləmir"
-
-msgid "start_installation_option_printer"
-msgstr "Printer işləmir"
-
-msgid "start_installation_option_video"
-msgstr "Video açılmır"
-
-msgid "start_installation_option_sound"
-msgstr "Səs yoxdur"
-
-msgid "start_installation_option_usb"
-msgstr "USB girişləri işləmir"
-
-msgid "start_installation_option_webcam"
-msgstr "Web kamera işləmir"
-
-msgid "start_installation_option_games"
-msgstr "Oyunlar yavaşdır"
 
 msgid "menu_create_recovery_point"
 msgstr "Bərpa Nöqtədi Yarat"
@@ -842,6 +941,30 @@ msgstr "Problemli cihazlar aşkar edildi"
 msgid "final_aside_broken_devices_caption"
 msgstr "Bu kompüterdəki bəzi cihazlar düzgün şəkildə işləmir və bunlar üçün driver quraşdırmaq mümkün deyil. Xidmət verə bilən olmalarını yoxlamanızı tövsiyyə edirik"
 
+msgid "final-fake_title"
+msgstr ""
+
+msgid "start-fake-popup_subtitle"
+msgstr ""
+
+msgid "start-fake-popup_connect"
+msgstr ""
+
+msgid "start-fake-popup_firewall"
+msgstr ""
+
+msgid "start-fake-popup_torrent"
+msgstr ""
+
+msgid "start-fake-popup_browser"
+msgstr ""
+
+msgid "start-fake-popup_vpn"
+msgstr ""
+
+msgid "final-fake_button"
+msgstr "Quraşdırmanı bir dəfə də başlat"
+
 msgid "games_top_game_free_demo"
 msgstr "Pulsuz nümunə versiyası"
 
@@ -885,7 +1008,7 @@ msgid "gdpr-banner_accept-btn"
 msgstr "Təsdiqlə"
 
 msgid "header_authorize_button"
-msgstr "Hesaba daxil olun"
+msgstr ""
 
 msgid "authorize_popup_logout_button"
 msgstr "Hesabdan çıxın"
@@ -910,21 +1033,6 @@ msgstr "Bərpa nöqtəsi yaradırıq..."
 
 msgid "installation_header_title"
 msgstr "Kompüterinizi tənzimləyirik..."
-
-msgid "installation_header_promo_try"
-msgstr "sına"
-
-msgid "installation_header_promo_more"
-msgstr "təfsilatı ilə"
-
-msgid "installation_header_promo_install"
-msgstr "quraşdır"
-
-msgid "installation_header_promo_fb"
-msgstr "Facebook Qrupumuz"
-
-msgid "installation_header_promo_license"
-msgstr "Lisenziya Müqaviləsi"
 
 msgid "installation_item_category_restorepoint"
 msgstr "Bərpa Nöqtəsi"
@@ -1073,9 +1181,6 @@ msgstr "Quraşdırma elementləri"
 msgid "restart_popup_title"
 msgstr "Davam etmək üçün yenidən başladılmalıdır"
 
-msgid "restart_popup_caption"
-msgstr "Kompüterinizin yenidən başladılmasına qalan vaxt: {{REMAIN.TIME}} "
-
 msgid "restart_popup_button"
 msgstr "Yenidən başlat"
 
@@ -1086,7 +1191,7 @@ msgid "loading_backup_drivers"
 msgstr "Driver ehtiyatı yaradılır"
 
 msgid "loading_backup_done"
-msgstr "Driver ehtiyatı uğurla yaradıldı"
+msgstr ""
 
 msgid "loading_button_finish"
 msgstr "Hazırdır"
@@ -1151,35 +1256,35 @@ msgstr "Tənzimləmələr"
 msgid "menu_bugreport"
 msgstr "Xəta barədə məlumat ver"
 
-msgid "no-internet-screen_header-title"
-msgstr "Server bağıantısı yoxdur"
+msgid "no-internet_title"
+msgstr ""
 
-msgid "no-internet-screen_guide-title"
-msgstr "İnternet bağlantısından istifadə etmədən lazımi  driverləri necə quraşdırmaq olar?"
+msgid "no-internet_subtitle"
+msgstr ""
 
-msgid "no-internet-screen_guide-step-1"
-msgstr "Addım 1"
+msgid "no-internet_connect"
+msgstr ""
 
-msgid "no-internet-screen_guide-step-1-action"
-msgstr "Başqa bir kompüter istifadə edərək <span class=\"bold\">driverpack.io/az/foradmin</span> veb saytını açın"
+msgid "no-internet_firewall"
+msgstr ""
 
-msgid "no-internet-screen_guide-step-2"
-msgstr "Addım 2"
+msgid "no-internet_torrent"
+msgstr ""
 
-msgid "no-internet-screen_guide-step-2-action"
-msgstr "İnternet bağlantısı olmadan driverləri kompüterinizə quraşdırmaq üçün <span class=\"bold\">DriverPack Offline Full</span> və ya <span class=\"bold\">DriverPack Offline Network</span> proqramını bir USB flash-ə endirin <br /><br /><span class=\"bold\">DriverPack Offline Network-ə</span>, şəbəkə avadanlığı (Lan/Wi-Fi) üçün driverlər daxildir, İnternet bağlantısı olmadan işləyir (500 MB)<br /><br /><span class=\"bold\">DriverPack Offline Full-a </span>bütün driverlər daxildir, İnternet bağlantısı olmadan işləyir."
+msgid "no-internet_browser"
+msgstr ""
 
-msgid "no-internet-screen_guide-step-complete"
-msgstr "Hazırdır"
+msgid "no-internet_vpn"
+msgstr ""
 
-msgid "no-internet-screen_guide-step-complete-action"
-msgstr "Bu kompüterdə proqramı açın və  kompüteri bir düyməyə klikləyərək tənzimləyin"
+msgid "no-internet_flash"
+msgstr ""
 
 msgid "programs_header_text_title"
 msgstr "Bütün faydalı proqramlar bir yerdə"
 
 msgid "programs_btn_install_all"
-msgstr "Lazım olan proqramları quraşdır <b>({{COUNT}})</b>"
+msgstr ""
 
 msgid "programs_header_text_caption"
 msgstr "Bundan sonra bir-bir proqram axtarmağa ehtiyac yoxdur. Hər şeyi bir kliklə quraşdıra bilərsiniz."
@@ -1265,6 +1370,45 @@ msgstr "Daha çox göstər"
 msgid "protect_security_programs_title"
 msgstr "Təhlükəsizlik üçün vacib proqramlar"
 
+msgid "scan-screen_start-title"
+msgstr ""
+
+msgid "scan-screen_start_subtitle"
+msgstr ""
+
+msgid "scan-screen_start_btn"
+msgstr ""
+
+msgid "server-err-screen_title"
+msgstr ""
+
+msgid "server-err-screen_title-err"
+msgstr ""
+
+msgid "server-err-screen_status"
+msgstr ""
+
+msgid "server-err-screen_btn"
+msgstr ""
+
+msgid "service-mode_status-initial"
+msgstr ""
+
+msgid "service-mode_status-terminating"
+msgstr ""
+
+msgid "service-mode_status-finished"
+msgstr ""
+
+msgid "service-mode_finish-title-process"
+msgstr ""
+
+msgid "service-mode_title-process"
+msgstr ""
+
+msgid "service-mode_current-process"
+msgstr ""
+
 msgid "settings-header_title"
 msgstr "Təcrübəli istifadəçilər üçün"
 
@@ -1274,11 +1418,11 @@ msgstr "DriverPack xüusislə idarəçilər üçün yaradılmışdır ancaq təc
 msgid "settings-screen_license"
 msgstr "Lisenziya Müqaviləsi"
 
-msgid "start_caption_select_problems"
-msgstr "Və ya kompüterinizdə hansı funksiya işləmirsə onu işarələyin"
+msgid "start_button_install_none"
+msgstr ""
 
-msgid "start_button_problems_selected"
-msgstr "Quraşdır ({{COUNT}})"
+msgid "start_button_install_chosen"
+msgstr ""
 
 msgid "start_button_install_drivers"
 msgstr "Bütün driverləri quraşdır"
@@ -1345,6 +1489,51 @@ msgstr "Səs kartı yoxlaması"
 
 msgid "start_diagnostics_other"
 msgstr "Digər cihazların yoxlaması"
+
+msgid "start_settings_title"
+msgstr ""
+
+msgid "start_settings_hard-drive-clean"
+msgstr ""
+
+msgid "start_settings_selection-utilities"
+msgstr ""
+
+msgid "start_settings_off-updates"
+msgstr ""
+
+msgid "start-fake-popup_title"
+msgstr ""
+
+msgid "start-fake-popup_button"
+msgstr ""
+
+msgid "start_slider_recommended-top"
+msgstr ""
+
+msgid "start_slider_none"
+msgstr ""
+
+msgid "start_slider_chosen"
+msgstr ""
+
+msgid "start_slider_chosen-critical"
+msgstr ""
+
+msgid "start_slider_critical"
+msgstr ""
+
+msgid "start_slider_recommended-first-letter"
+msgstr ""
+
+msgid "start_slider_recommended"
+msgstr ""
+
+msgid "start_slider_all"
+msgstr ""
+
+msgid "start_slider_all-top"
+msgstr ""
 
 msgid "delorean_use_remote_confirm"
 msgstr "Kompüterinizdə aktiv internet bağlantısı aşkar edildi. Bütün driver bazası onlin mövcuddur. İnternetdəki məlumat bazasını istifadə etmək istəyirsiniz? (traffik istifadəsi mümkündür)"
@@ -1505,3 +1694,63 @@ msgstr "Səs kartı yanlış olaraq bağlanıb ya da işləməsi ilə bağlı pr
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Azerbaijani"
+
+#~ msgid "no-internet-screen_header-title"
+#~ msgstr "No server connection"
+
+#~ msgid "no-internet-screen_guide-title"
+#~ msgstr "How to install all required drivers without Internet connection?"
+
+#~ msgid "no-internet-screen_guide-step-1"
+#~ msgstr "Step 1"
+
+#~ msgid "no-internet-screen_guide-step-1-action"
+#~ msgstr ""
+#~ "Go to <span class=\"bold\">drp.su/en/foradmin</span> website by using "
+#~ "another computer"
+
+#~ msgid "no-internet-screen_guide-step-2"
+#~ msgstr "Step 2"
+
+#~ msgid "no-internet-screen_guide-step-2-action"
+#~ msgstr ""
+#~ "Download <span class=\"bold\">DriverPack Offline Full</span> or <span "
+#~ "class=\"bold\">DriverPack Offline Network</span> to a USB flash drive to "
+#~ "install drivers onto your compluter without Internet connection <br /><br />"
+#~ " <span class=\"bold\">DriverPack Offline Network</span> includes drivers for"
+#~ " network hardware (Lan/Wi-Fi), it operates without Internet connection (500 "
+#~ "MB) <br /><br /> <span class=\"bold\">DriverPack Offline Full</span> "
+#~ "includes all drivers, operates without Internet connection"
+
+#~ msgid "no-internet-screen_guide-step-complete"
+#~ msgstr "Done"
+
+#~ msgid "no-internet-screen_guide-step-complete-action"
+#~ msgstr "Start the app on this computer and configure it with one click"
+
+#~ msgid "start_installation_option_mouse"
+#~ msgstr "Mouse doesn't function"
+
+#~ msgid "start_installation_option_keyboard"
+#~ msgstr "Keyboard doesn't function"
+
+#~ msgid "start_installation_option_printer"
+#~ msgstr "Printer doesn't work"
+
+#~ msgid "start_installation_option_video"
+#~ msgstr "Video doesn't play"
+
+#~ msgid "start_installation_option_sound"
+#~ msgstr "No sound"
+
+#~ msgid "start_installation_option_usb"
+#~ msgstr "USB ports don't function"
+
+#~ msgid "start_installation_option_webcam"
+#~ msgstr "Webcam doesn't function"
+
+#~ msgid "start_installation_option_games"
+#~ msgstr "Games slow down"
+
+#~ msgid "start_caption_select_problems"
+#~ msgstr "Or, check what exactly doesn't function on your PC:"
