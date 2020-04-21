@@ -38,7 +38,7 @@ msgid "adminfaq_landing-subtitle"
 msgstr "Դուք հաճախ եք հարցնում DriverPack-ի մասին — պատասխանում ենք ամենատարածված հարցերին"
 
 msgid "adminheader_cta-text"
-msgstr "DriverPack-ը ստեղծվել է ադմինիստրատորների համար, բայց հասկանալի է անգամ սկսնակներին"
+msgstr "DriverPack-ը ստեղծված է ադմինների համար, բայց հասկանալի է նաև սկսնակներին"
 
 msgid "adminheader_cta-btn"
 msgstr "Ներբեռնել DriverPack Online-ը"
@@ -50,22 +50,22 @@ msgid "cloudfaq_landing-title"
 msgstr "Պատասխանում ենք Ձեր հարցերին"
 
 msgid "cloudpagefooter_license-link"
-msgstr "Լիցենզիոն համաձայնագիր"
+msgstr "Թույլատրագրման պայմանագիր"
 
 msgid "breadcrumbs_main-text"
-msgstr ""
+msgstr "Գլխավոր"
 
 msgid "breadcrumbs_catalog-main-text"
 msgstr "սարքավարներ {{OS.NAME}}-ի համար"
 
 msgid "breadcrumbs_softcategory-text"
-msgstr ""
+msgstr "{{CATEGORY.PLURAL.MAIN}}"
 
 msgid "breadcrumbs_soft-text"
-msgstr ""
+msgstr "{{SOFT.NAME}} {{SOFT.VERSION}}"
 
 msgid "breadcrumbs_uninstall-text"
-msgstr ""
+msgstr "ապատեղադրում"
 
 msgid "breadcrumbs_vendors-text"
 msgstr "արտադրողներ"
@@ -117,7 +117,7 @@ msgid "devicecard_download-btn"
 msgstr "Ներբեռնել սարքավարը"
 
 msgid "devicecard_download-repack-btn"
-msgstr ""
+msgstr "Ներբեռնել .zip"
 
 #. i18n: EN: Example: NAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10 x86; Text
 #. for {{DOWNLOAD}} is in key drivercard_no-results_download-link; RU: Пример:
@@ -163,7 +163,7 @@ msgid "devicecard_details-content-label-section"
 msgstr "Բաժին՝"
 
 msgid "devicecard_details-download-links-repack"
-msgstr ""
+msgstr "Սարքավար պարունակող zip-պահոցի ուղիղ ներբեռնում"
 
 msgid "devicecard_details-links-merged_label"
 msgstr "Եթե Ձեզ անհրաժեշտ DeviceID-ն չկա ցուցակում, մուտքագրեք այն որոնման տողում"
@@ -269,7 +269,7 @@ msgid "drivercard_caption-btn"
 msgstr "Ներբեռնել սարքավարը"
 
 msgid "drivercard_caption-repack-btn"
-msgstr ""
+msgstr "Ներբեռնել .zip"
 
 msgid "deviceidpage_all-systems"
 msgstr "բոլոր համակարգերը"
@@ -302,7 +302,7 @@ msgid "header_cta-text"
 msgstr "Ներբեռնեք DriverPack-ը՝ սարքավարներն ինքնաբար գտնելու համար"
 
 msgid "header_cta-btn"
-msgstr "Ինքնաբար տեղադրել սարքավարները"
+msgstr "Ինքնաշխատորեն տեղադրել սարքավարները"
 
 msgid "header_cta-label-1"
 msgstr "<span style='color: {{COLOR}}'>Կներբեռնվի</span> մի ակնթարթում"
@@ -311,7 +311,7 @@ msgid "header_cta-label-2"
 msgstr "<span style='color: {{COLOR}}'>Կընտրի և կտեղադրի</span> սարքավարներն ինքնաբար"
 
 msgid "headerbutton_title"
-msgstr "Ինքնաբար տեղադրել սարքավարները"
+msgstr "Ինքնաշխատորեն տեղադրել սարքավարները"
 
 msgid "headerbutton_label"
 msgstr "DriverPack ծրագիրը լիովին անվճար է"
@@ -365,7 +365,7 @@ msgid "landingheader_cta-btn"
 msgstr "Տեղադրել բոլոր անհրաժեշտ սարքավարները"
 
 msgid "landingheadernav_search-soft"
-msgstr ""
+msgstr "Ծրագրաշարի որոնում"
 
 msgid "landingheadernav_search"
 msgstr "Սարքավարի որոնում"
@@ -398,10 +398,10 @@ msgid "landingnotebookvendorslist_versions"
 msgstr "Հավելվածի այլ տարբերակներ"
 
 msgid "partners-link-text-opera"
-msgstr ""
+msgstr "Ինչո՞ւ է Opera-ն DriverPack-ի գործընկերը"
 
 msgid "partners_landing-title"
-msgstr ""
+msgstr "Մեր գործընկերները"
 
 msgid "landingproducts_cta-title"
 msgstr "Ընտրեք Ձեր DriverPack-ը"
@@ -413,7 +413,7 @@ msgid "landingproducts_item-title-online"
 msgstr "DriverPack Online"
 
 msgid "landingproducts_item-description-online"
-msgstr "Ներբեռնվում է մի ակնթարթում, համացանցի առկայության դեպքում ներբեռնում և տեղադրում է բոլոր սարքավարները <span class='nobr'>({{SIZE}})</span>"
+msgstr "Ներբեռնվում է մի ակնթարթում, եթե կա համացանց, ներբեռնում և տեղադրում է բոլոր սարքավարները <span class='nobr'>({{SIZE}})</span>"
 
 msgid "landingproducts_item-version"
 msgstr "Տարբերակ՝"
@@ -797,7 +797,7 @@ msgid "searchresult_notebook"
 msgstr "Նոութբուք"
 
 msgid "searchresult_download-btn"
-msgstr "Ինքնաբար տեղադրել սարքավարը"
+msgstr "Ինքնաշխատորեն տեղադրել սարքավարը"
 
 msgid "searchresult_details-content-text-placeholder"
 msgstr "Տվյալների բեռնում…"
@@ -842,67 +842,67 @@ msgid "sidebanner_caption"
 msgstr "DriverPack-ն ինքնաբար <span class='SideBanner__caption-marked'>կգտնի և կտեղադրի</span> անհրաժեշտ սարքավարները"
 
 msgid "softdetails-rating"
-msgstr ""
+msgstr "Վարկանիշ՝"
 
 msgid "recommend-opera"
-msgstr ""
+msgstr "DriverPack-ը խորհուրդ է տալիս"
 
 msgid "softdetails_download-count"
-msgstr ""
+msgstr "Ներբեռնումների թիվը՝"
 
 msgid "softdetails_package-size"
-msgstr ""
+msgstr "Չափը՝"
 
 msgid "softdetails_added"
-msgstr ""
+msgstr "Ավելացման ամսաթիվը՝"
 
 msgid "softdetails_license"
-msgstr ""
+msgstr "Տարածման սխեման՝"
 
 msgid "softdetails_license-free"
-msgstr ""
+msgstr "անվճար ծրագրաշար"
 
 msgid "softdetails_os"
-msgstr ""
+msgstr "Օպերացիոն համակարգեր՝"
 
 msgid "softdetails_uninstall-link"
-msgstr ""
+msgstr "Հեռացնել"
 
 msgid "softdetails_download-link"
-msgstr ""
+msgstr "Ներբեռնել"
 
 msgid "soft-details_opera-descr"
-msgstr ""
+msgstr "Արագ և անվտանգ Opera դիտարկիչը ունի գովազդի ներկառուցված արգելափակիչ, անվճար VPN, ներկառուցված հաղորդակներ և այլ։ <br /> <br /> Windows-ով, Mac-ով և Linux-ով աշխատող համակարգիչների համար Opera դիտարկիչը թույլ կտա օգտվել համացանցի բոլոր հնարավորություններից առավելագույնս անվտանգ, հարմար և արդյունավետ։"
 
 msgid "softdetails_uninstall-page-link"
-msgstr ""
+msgstr "Ինչպես հեռացնել {{SOFT.TITLE}}"
 
 msgid "program-month-text"
-msgstr ""
+msgstr "Ամսվա ծրագիրը՝"
 
 msgid "softlandingheader_search-title"
-msgstr ""
+msgstr "Անվճար ծրագրերի <span class='bold'>թարմ տարբերակների որոնում</span> հսկայական շտեմարանում"
 
 msgid "softsearch_input-placeholder"
-msgstr ""
+msgstr "Ծրագրի կամ կատեգորիայի անվանումը"
 
 msgid "softsearchformitem_type-category"
-msgstr ""
+msgstr "կատեգորիա"
 
 msgid "softsearchheader_title"
-msgstr ""
+msgstr "Որոնման արդյունքները"
 
 msgid "softsearchheader_subtitle"
-msgstr ""
+msgstr "Ըստ հայտի գտնվել են ծրագրերը"
 
 msgid "softsearchresult_download-link"
-msgstr ""
+msgstr "Ներբեռնել"
 
 msgid "topsoft_item-download-count"
-msgstr ""
+msgstr "Ներբեռնումների թիվը՝"
 
 msgid "topsoft_item-download-link"
-msgstr ""
+msgstr "Ներբեռնել"
 
 msgid "translationheader_cta-text"
 msgstr "Օգնեք մեզ հասանելի դարձնել DriverPack-ն միլիոնավոր օգտվողների համար ամբողջ աշխարհում — մասնակցեք մեր կամավորական նախագծին՝ այն այլ լեզուներով թարգմանելու համար"
@@ -938,244 +938,244 @@ msgid "language_title"
 msgstr "Armenian"
 
 msgid "softcategories_antivirus-single-main"
-msgstr ""
+msgstr "հակավիրուս"
 
 msgid "softcategories_antivirus-single-for"
-msgstr ""
+msgstr "հակավիրուսի"
 
 msgid "softcategories_antivirus-plural-main"
-msgstr ""
+msgstr "հակավիրուսներ"
 
 msgid "softcategories_antivirus-plural-for"
-msgstr ""
+msgstr "հակավիրուսների"
 
 msgid "softcategories_audio-video-converter-single-main"
-msgstr ""
+msgstr "ձայնա/տեսա փոխարկիչ"
 
 msgid "softcategories_audio-video-converter-single-for"
-msgstr ""
+msgstr "ձայնա/տեսա փոխարկիչի"
 
 msgid "softcategories_audio-video-converter-plural-main"
-msgstr ""
+msgstr "ձայնա/տեսա փոխարկիչներ"
 
 msgid "softcategories_audio-video-converter-plural-for"
-msgstr ""
+msgstr "ձայնա/տեսա փոխարկիչների"
 
 msgid "softcategories_audio-video-editor-single-main"
-msgstr ""
+msgstr "ձայնա/տեսա խմբագրիչ"
 
 msgid "softcategories_audio-video-editor-single-for"
-msgstr ""
+msgstr "ձայնա/տեսա խմբագրիչի"
 
 msgid "softcategories_audio-video-editor-plural-main"
-msgstr ""
+msgstr "ձայնա/տեսա խմբագրիչների"
 
 msgid "softcategories_audio-video-editor-plural-for"
-msgstr ""
+msgstr "ձայնա/տեսա խմբագրիչների"
 
 msgid "softcategories_book-reader-single-main"
-msgstr ""
+msgstr "ընթերցիչ"
 
 msgid "softcategories_book-reader-single-for"
-msgstr ""
+msgstr "ընթերցիչի"
 
 msgid "softcategories_book-reader-plural-main"
-msgstr ""
+msgstr "ընթերցիչի"
 
 msgid "softcategories_book-reader-plural-for"
-msgstr ""
+msgstr "ընթերցիչների"
 
 msgid "softcategories_browser-single-main"
-msgstr ""
+msgstr "դիտարկիչ"
 
 msgid "softcategories_browser-single-for"
-msgstr ""
+msgstr "դիտարկիչի"
 
 msgid "softcategories_browser-plural-main"
-msgstr ""
+msgstr "դիտարկիչներ"
 
 msgid "softcategories_browser-plural-for"
-msgstr ""
+msgstr "դիտարկիչների"
 
 msgid "softcategories_cd-dvd-single-main"
-msgstr ""
+msgstr "CD/DVD"
 
 msgid "softcategories_cd-dvd-single-for"
-msgstr ""
+msgstr "CD/DVD-ի"
 
 msgid "softcategories_cd-dvd-plural-main"
-msgstr ""
+msgstr "CD/DVD"
 
 msgid "softcategories_cd-dvd-plural-for"
-msgstr ""
+msgstr "CD/DVD"
 
 msgid "softcategories_data-recovery-single-main"
-msgstr ""
+msgstr "տվյալների վերականգնում"
 
 msgid "softcategories_data-recovery-single-for"
-msgstr ""
+msgstr "տվյալների վերականգնման"
 
 msgid "softcategories_data-recovery-plural-main"
-msgstr ""
+msgstr "տվյալների վերականգնում"
 
 msgid "softcategories_data-recovery-plural-for"
-msgstr ""
+msgstr "տվյալների վերականգնման"
 
 msgid "softcategories_data-storage-single-main"
-msgstr ""
+msgstr "տվյալների պահպանում"
 
 msgid "softcategories_data-storage-single-for"
-msgstr ""
+msgstr "տվյալների պահպանման"
 
 msgid "softcategories_data-storage-plural-main"
-msgstr ""
+msgstr "տվյալների պահպանում"
 
 msgid "softcategories_data-storage-plural-for"
-msgstr ""
+msgstr "տվյալների պահպանման"
 
 msgid "softcategories_developer-tools-single-main"
-msgstr ""
+msgstr "գործիքներ մշակողների համար"
 
 msgid "softcategories_developer-tools-single-for"
-msgstr ""
+msgstr "գործիքներ մշակողների համար"
 
 msgid "softcategories_developer-tools-plural-main"
-msgstr ""
+msgstr "գործիքներ մշակողների համար"
 
 msgid "softcategories_developer-tools-plural-for"
-msgstr ""
+msgstr "մշակողների համար գործիքների"
 
 msgid "softcategories_file-manager-single-main"
-msgstr ""
+msgstr "նիշքերի կառավարիչ"
 
 msgid "softcategories_file-manager-single-for"
-msgstr ""
+msgstr "նիշքերի կառավարիչի"
 
 msgid "softcategories_file-manager-plural-main"
-msgstr ""
+msgstr "նիշքերի կառավարիչներ"
 
 msgid "softcategories_file-manager-plural-for"
-msgstr ""
+msgstr "նիշքերի կառավարիչների"
 
 msgid "softcategories_image-editor-single-main"
-msgstr ""
+msgstr "գրաֆիկական խմբագրիչ"
 
 msgid "softcategories_image-editor-single-for"
-msgstr ""
+msgstr "գրաֆիկական խմբագրիչի"
 
 msgid "softcategories_image-editor-plural-main"
-msgstr ""
+msgstr "գրաֆիկական խմբագրիչներ"
 
 msgid "softcategories_image-editor-plural-for"
-msgstr ""
+msgstr "գրաֆիկական խմբագրիչների"
 
 msgid "softcategories_image-viewer-single-main"
-msgstr ""
+msgstr "պատկերների դիտում"
 
 msgid "softcategories_image-viewer-single-for"
-msgstr ""
+msgstr "պատկերների դիտման"
 
 msgid "softcategories_image-viewer-plural-main"
-msgstr ""
+msgstr "պատկերների դիտում"
 
 msgid "softcategories_image-viewer-plural-for"
-msgstr ""
+msgstr "պատկերների դիտման"
 
 msgid "softcategories_mail-client-single-main"
-msgstr ""
+msgstr "փոստի սպասառու"
 
 msgid "softcategories_mail-client-single-for"
-msgstr ""
+msgstr "փոստի սպասառուի"
 
 msgid "softcategories_mail-client-plural-main"
-msgstr ""
+msgstr "փոստի սպասառուներ"
 
 msgid "softcategories_mail-client-plural-for"
-msgstr ""
+msgstr "փոստի սպասառուների"
 
 msgid "softcategories_messenger-single-main"
-msgstr ""
+msgstr "հաղորդակ"
 
 msgid "softcategories_messenger-single-for"
-msgstr ""
+msgstr "հաղորդակի"
 
 msgid "softcategories_messenger-plural-main"
-msgstr ""
+msgstr "հաղորդակներ"
 
 msgid "softcategories_messenger-plural-for"
-msgstr ""
+msgstr "հաղորդակների"
 
 msgid "softcategories_mp3-audio-player-single-main"
-msgstr ""
+msgstr "MP3 և ձայնանվագարկիչ"
 
 msgid "softcategories_mp3-audio-player-single-for"
-msgstr ""
+msgstr "MP3 և ձայնանվագարկիչի"
 
 msgid "softcategories_mp3-audio-player-plural-main"
-msgstr ""
+msgstr "MP3 և ձայնանվագարկիչներ"
 
 msgid "softcategories_mp3-audio-player-plural-for"
-msgstr ""
+msgstr "MP3 և ձայնանվագարկիչների"
 
 msgid "softcategories_other-single-main"
-msgstr ""
+msgstr "այլ ծրագրաշար"
 
 msgid "softcategories_other-single-for"
-msgstr ""
+msgstr "այլ ծրագրաշարի"
 
 msgid "softcategories_other-plural-main"
-msgstr ""
+msgstr "այլ ծրագրաշար"
 
 msgid "softcategories_other-plural-for"
-msgstr ""
+msgstr "այլ ծրագրաշարի"
 
 msgid "softcategories_pdf-reader-single-main"
-msgstr ""
+msgstr "PDF-ընթերցիչ"
 
 msgid "softcategories_pdf-reader-single-for"
-msgstr ""
+msgstr "PDF-ընթերցիչի"
 
 msgid "softcategories_pdf-reader-plural-main"
-msgstr ""
+msgstr "PDF-ընթերցիչներ"
 
 msgid "softcategories_pdf-reader-plural-for"
-msgstr ""
+msgstr "PDF-ընթերցիչների"
 
 msgid "softcategories_text-editor-single-main"
-msgstr ""
+msgstr "տեքստի խմբագրիչ"
 
 msgid "softcategories_text-editor-single-for"
-msgstr ""
+msgstr "տեքստի խմբագրիչի"
 
 msgid "softcategories_text-editor-plural-main"
-msgstr ""
+msgstr "տեքստի խմբագրիչներ"
 
 msgid "softcategories_text-editor-plural-for"
-msgstr ""
+msgstr "տեքստի խմբագրիչների"
 
 msgid "softcategories_torrent-client-single-main"
-msgstr ""
+msgstr "տորենտ-սպասառու"
 
 msgid "softcategories_torrent-client-single-for"
-msgstr ""
+msgstr "տորենտ-սպասառուի"
 
 msgid "softcategories_torrent-client-plural-main"
-msgstr ""
+msgstr "տորենտ-սպասառուներ"
 
 msgid "softcategories_torrent-client-plural-for"
-msgstr ""
+msgstr "տորենտ-սպասառուների"
 
 msgid "softcategories_video-player-single-main"
-msgstr ""
+msgstr "տեսանվագարկիչ"
 
 msgid "softcategories_video-player-single-for"
-msgstr ""
+msgstr "տեսանվագարկչի"
 
 msgid "softcategories_video-player-plural-main"
-msgstr ""
+msgstr "տեսանվագարկիչներ"
 
 msgid "softcategories_video-player-plural-for"
-msgstr ""
+msgstr "տեսանվագարկիչների"
 
 msgid "landingPagePublications_rbk"
 msgstr "DriverPack-ը ծրագրաշար է, որը կազմված է Արթուր Կուզյակովի թիմի կողմից մանրազնին կերպով ընտրված և փորձարկված սարքավարներից Windows-ի համար։ Տվյալ հավելվածը վերլուծում է օգտվողի համակարգիչը և տեղադրում է դրա վրա հարկավոր սարքավարները, ինչը լուծում է երկու խնդիր. նախ արագացնում է համակարգչի կարգավորումը (ինչը հատկապես կարևոր է, երբ համակարգում կա մի քանի տասնյակ համակարգիչներ), այնուհետև՝ բարելավում է դրա գործառնական կարողությունները։"
@@ -1241,13 +1241,13 @@ msgid "adminpagefaq_stable-a"
 msgstr "DriverPack-ի աշխատանքի կայունությունը մեր հիմնական գերակայություններից մեկն է, սակայն չնչին խափանումները, թեև հազվադեպ, բայց տեղի են ունենում։ Հենց դրա համար մենք վերականգնման կետ ենք ստեղծում, որը թույլ կտա վերականգնել ամեն ինչի սկզբնական վիճակը։ Ապագայում նման խնդիրներից խուսափելու համար խորհուրդ ենք տալիս բացել DriverPack հավելվածի ընտրացանկը և ուղարկել մեր տեխնիկական ծառայությանը զեկույցը, որն ինքնաբար ստեղծվում է ծրագրի կողմից։"
 
 msgid "partners_landing-text-opera"
-msgstr ""
+msgstr "Opera Software-ը համացանցում աշխատանքի համար դիտարկիչներ և ծրագրաշար մշակող համաշխարային ընկերություն է։<br /><br />Ունի ավելի քան 20 տարվա պատմություն.  Opera Software-ը մասնակցում է վեբ-ստանդարտների զարգացմանը W3C նախագծի շրջանակներում։ Opera-ի արտադրանքներից օգտվում է ավելի քան 350 մլն մարդ ամբողջ աշխարհում։<br /><br />Գլխավոր գրասենյակ գտնվում է Նորվեգիայի մայրաքաղաք Օսլոյում։"
 
 msgid "partners_landing-text-yandex"
-msgstr ""
+msgstr "Յանդեքսը համանուն որոնիչի և հանրաճանաչ համացանցային ծառայությունների համաշխարային մշակող-ընկերություն է:<br /><br />Ռուսաստանում, որտեղ որ ծնվել է Յանդեքսը, դրա որոնողական մասնաբաժինը կազմում է 56,4% (Yandex.Ռադար, 2018 թ.-ի մարտ)։ Ընկերությունը այն քչերից է, որը հաջողությամբ մրցակցում է որոնողական հսկայի՝ Google-ի հետ։<br /><br />Գլխավոր գրասենյակը գտնվում է Ռուսաստանի մայրաքաղաք Մոսկվայում։"
 
 msgid "partners_landing-text-avast"
-msgstr ""
+msgstr "Avast Software-ը տեղեկատվական անվտանգության ոլորտում ծրագրաշար մշակող համաշխարհային ընկերություն է։<br /><br />Թողարկում է աշխարհի ամենատարածված անվճար հակավիրուսը։ Ամեն ամիս Avast-ի ծրագրերը կանխում են 1.5 մլրդ հարձակում համակարգիչների և ցանցերի վրա։<br /><br />Գլխավոր գրասենյակը գտնվում է Չեխիայի մայրաքաղաք Պրահայում։"
 
 msgid "cloudpagefaq_remove_soft-q"
 msgstr "Ինչո՞ւ է DriverPack Cloud-ն առաջարկում հեռացնել որոշ ծրագեր իմ համակարգչից։"
@@ -1310,10 +1310,10 @@ msgid "cloudlandingpage_features-install"
 msgstr "Տեղադրել DriverPack Cloud-ը"
 
 msgid "cloudlandingpage_license-link"
-msgstr "լիցենզիոն համաձայնագիրը"
+msgstr "թույլատրագրման պայմանագիրը"
 
 msgid "devicegrouppage_show-more-link"
-msgstr "Ցույց տալ ավելին"
+msgstr "Ցուցադրել ավելին"
 
 msgid "devicestypepage_subtitle"
 msgstr "{{CLASS.PLURAL.FOR}} բոլոր արտադրողները"
@@ -1361,7 +1361,7 @@ msgid "notfoundpage_title"
 msgstr "Սխալ 404. էջը չգտվեց"
 
 msgid "notebookpage_show-more-link"
-msgstr "Ցույց տալ ավելին"
+msgstr "Ցուցադրել ավելին"
 
 msgid "notebookpage_all-devices"
 msgstr "բոլոր սարքերի համար"
@@ -1373,7 +1373,7 @@ msgid "notebook-page_empty-caption"
 msgstr "Փորձեք ներբեռնել DriverPack Online-ը — հավելվածը կընտրի Ձեր նոութբուքին համապատասխանող ամենամոտիկ սարքավարները։ <span class='bold'>Դա անվճար է։</span>"
 
 msgid "notebook-page_empty-button"
-msgstr "Տեղադրել սարքավարներն ինքնաբար"
+msgstr "Տեղադրել սարքավարներն ինքնաշխատորեն"
 
 msgid "notebookspage_subtitle"
 msgstr "Նոութբուքների և նեթբուքների բոլոր արտադրողները"
@@ -1385,75 +1385,75 @@ msgid "notebooksvendorpage_subtitle-all"
 msgstr "Բոլոր {{VENDOR.NAME}} նոութբուքները և նեթբուքները"
 
 msgid "patners-page-opera-title"
-msgstr ""
+msgstr "Ինչո՞ւ է Opera-ն DriverPack-ի գործընկերը"
 
 msgid "patners-page-opera-subtitle"
-msgstr ""
+msgstr "DriverPack-ը պաշտոնապես համագործակցում է նորվեգական ընկերության հետ՝ օգնելով աշխարհի տարբեր երկրներից օգտվողներին ավելի լավ ծանոթանալ լավագույն դիտարկիչներից մեկին"
 
 msgid "patners-page-opera-text"
-msgstr ""
+msgstr "Opera-ն մշտապես զարգացող տեխնոլոգիաներով լավագույն դիտարկիչներից մեկն է։ Գովազդի ներկառուցված արգելափակիչը, հաղորդակները և տուրբո-ռեժիմը ընդլայնում են դիտարկիչի հնարավորությունները՝ չծանրաբեռնելով համակարգչի ռեսուրսները։"
 
 msgid "patners-page-opera-pluses-title-support"
-msgstr ""
+msgstr "DriverPack-ն արդեն 10 տարի տարածվում է անվճար և աջակցվում է գործընկերների շնորհիվ"
 
 msgid "patners-page-opera-pluses-subtitle-support"
-msgstr ""
+msgstr "DriverPack-ն ընտրում և տեղադրում է սարքավարներ աշխարհի ցանկացած համակարգիչների համար արդեն գրեթե 10 տարի։ Միևնույն ժամանակ այն անվճար է մնում։"
 
 msgid "patners-page-opera-pluses-title-opera-best"
-msgstr ""
+msgstr "Opera-ն մշտապես զարգացող տեխնոլոգիաներով լավագույն դիտարկիչներից մեկն է"
 
 msgid "patners-page-opera-pluses-subtitle-opera-best"
-msgstr ""
+msgstr "Տեղադրելով Opera-ն համակարգիչը կարգավորելու ժամանակ, Դուք ոչ միայն ստանում եք արագ և ֆունկցիոնալ դիտարկիչ, այլև աջակցում եք DriverPack ընկերությանը։"
 
 msgid "patners-page-opera-pluses-title-ecosystem"
-msgstr ""
+msgstr "Ոչ միայն սեղանադիր դիտարկիչ, այլև կյանքն ավելի հարմարավետ դարձնող մի ամբողջ էկոհամակարգ"
 
 msgid "patners-page-opera-pluses-subtitle-ecosystem"
-msgstr ""
+msgstr "Շարժական սարքերում Opera-ն ունի լիարժեք համաժամացում համակարգչային տարբերակի հետ, ներկառուցված VPN և մեկ ձեռքով հարմարավետ կառավարում։ Համառորեն խուրհուրդ ենք տալիս փորձել։"
 
 msgid "patners-page-opera-btn"
-msgstr ""
+msgstr "Տեղադրել Opera դիտարկիչը"
 
 msgid "reviewpage_title"
 msgstr "Արձագանքներ և առաջարկներ DriverPack-ի բարելավման վերաբերյալ"
 
 msgid "searchpage_show-more-link"
-msgstr "Ցույց տալ ավելին"
+msgstr "Ցուցադրել ավելին"
 
 msgid "softcategorypage_categories-title"
-msgstr ""
+msgstr "Բոլոր կատեգորիաները"
 
 msgid "softlandingpage_topsoft-title"
-msgstr ""
+msgstr "Հանրաճանաչ հավելվածներ"
 
 msgid "softlandingpage_categories-title"
-msgstr ""
+msgstr "Ծրագրեր ըստ կատեգորիաների"
 
 msgid "softsearchpage_show-more-link"
-msgstr ""
+msgstr "ցուցադրել ավելին"
 
 msgid "softsearchpage_no-results"
-msgstr ""
+msgstr "Ցավոք, ըստ Ձեր հայտի ոչինչ չգտնվեց"
 
 #. i18n: EN: text for {{LINK}} is in key softthankyoupopup_download-link; RU:
 #. текст для {{LINK}} находится в ключе softthankyoupopup_download-link;
 msgid "softthankyoupopup_download-text"
-msgstr ""
+msgstr "Ներբեռնումը չսկսվե՞ց։ Սեղմեք {{LINK}}"
 
 msgid "softthankyoupopup_licence-text"
-msgstr ""
+msgstr "Տեղադրելուց առաջ կարդացեք {{LINK}}"
 
 msgid "softthankyoupopup_title"
-msgstr ""
+msgstr "Գործարկեք տեղադրման նիշքը"
 
 msgid "softthankyoupopup_subtitle"
-msgstr ""
+msgstr "Ծրագրի տեղադրումը սկսելու համար մնում է գործարկել ներբեռնված նիշքը"
 
 msgid "softthankyoupopup_licence-link"
-msgstr ""
+msgstr "թույլատրագրման պայմանագիրը"
 
 msgid "softthankyoupopup_download-link"
-msgstr ""
+msgstr "ներբեռնել"
 
 #. i18n: EN: text for {{LINK}} is in key thankyoupopup_download-link; RU:
 #. текст для {{LINK}} находится в ключе thankyoupopup_download-link;
@@ -1478,7 +1478,7 @@ msgid "thankyoupopup_download-link"
 msgstr "ներբեռնել"
 
 msgid "thankyoupopup_licence-link"
-msgstr "լիցենզիոն համաձայնագրի"
+msgstr "թույլատրագրման պայմանագրի"
 
 msgid "translate-feedback-header_caption"
 msgstr "Այս էջը վերջերս է թարգմանվել։ Վրիպա՞կ գտաք։ Նշեք այն և սեղմեք {{HOTKEY}}"

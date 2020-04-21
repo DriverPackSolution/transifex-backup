@@ -3,9 +3,9 @@
 # Vasyl Belynets <belinets@gmail.com>, 2017
 # Назар Будзак <naz95naz@gmail.com>, 2017
 # Артур Кузяков <artx@drp.su>, 2017
-# Володимир Решетнюк <vladimirreshetnuk@gmail.com>, 2017
 # Nadia Tegeneva <nadia@drp.su>, 2018
 # Eduard Dyakunenko <edwardak00@gmail.com>, 2018
+# Володимир Решетнюк <vladimirreshetnuk@gmail.com>, 2019
 # 
 msgid ""
 msgstr ""
@@ -13,7 +13,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-08-23 16:29+0000\n"
 "PO-Revision-Date: 2016-12-16 14:20+0000\n"
-"Last-Translator: Eduard Dyakunenko <edwardak00@gmail.com>, 2018\n"
+"Last-Translator: Володимир Решетнюк <vladimirreshetnuk@gmail.com>, 2019\n"
 "Language-Team: Ukrainian (https://www.transifex.com/driverpack-solution/teams/75452/uk/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -58,19 +58,19 @@ msgid "cloudpagefooter_license-link"
 msgstr "Ліцензійна угода"
 
 msgid "breadcrumbs_main-text"
-msgstr ""
+msgstr "Головна"
 
 msgid "breadcrumbs_catalog-main-text"
 msgstr "драйвера для {{OS.NAME}}"
 
 msgid "breadcrumbs_softcategory-text"
-msgstr ""
+msgstr "{{CATEGORY.PLURAL.MAIN}}"
 
 msgid "breadcrumbs_soft-text"
-msgstr ""
+msgstr "{{SOFT.NAME}} {{SOFT.VERSION}}"
 
 msgid "breadcrumbs_uninstall-text"
-msgstr ""
+msgstr "видалення"
 
 msgid "breadcrumbs_vendors-text"
 msgstr "виробники"
@@ -122,7 +122,7 @@ msgid "devicecard_download-btn"
 msgstr "Завантажити драйвер"
 
 msgid "devicecard_download-repack-btn"
-msgstr ""
+msgstr "Завантажити .zip"
 
 #. i18n: EN: Example: NAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10 x86; Text
 #. for {{DOWNLOAD}} is in key drivercard_no-results_download-link; RU: Пример:
@@ -168,7 +168,7 @@ msgid "devicecard_details-content-label-section"
 msgstr "Розділ:"
 
 msgid "devicecard_details-download-links-repack"
-msgstr ""
+msgstr "Пряме завантаження zip-архіву з драйвером"
 
 msgid "devicecard_details-links-merged_label"
 msgstr "Якщо потрібного вам DeviceID немає в списку, введіть його в рядок пошуку"
@@ -274,7 +274,7 @@ msgid "drivercard_caption-btn"
 msgstr "Завантажити драйвер"
 
 msgid "drivercard_caption-repack-btn"
-msgstr ""
+msgstr "Завантажити .zip"
 
 msgid "deviceidpage_all-systems"
 msgstr "всі системи"
@@ -370,7 +370,7 @@ msgid "landingheader_cta-btn"
 msgstr "Встановити всі необхідні драйвери"
 
 msgid "landingheadernav_search-soft"
-msgstr ""
+msgstr "Пошук софту"
 
 msgid "landingheadernav_search"
 msgstr "Пошук драйверів"
@@ -403,10 +403,10 @@ msgid "landingnotebookvendorslist_versions"
 msgstr "Інші версії додатка"
 
 msgid "partners-link-text-opera"
-msgstr ""
+msgstr "Чому Opera партнер DriverPack?"
 
 msgid "partners_landing-title"
-msgstr ""
+msgstr "Наші партнери"
 
 msgid "landingproducts_cta-title"
 msgstr "Виберіть свій DriverPack"
@@ -847,67 +847,67 @@ msgid "sidebanner_caption"
 msgstr "DriverPack автоматично <span class='SideBanner__caption-marked'>підбере і встановить</span> потрібні драйвери"
 
 msgid "softdetails-rating"
-msgstr ""
+msgstr "Рейтинг:"
 
 msgid "recommend-opera"
-msgstr ""
+msgstr "DriverPack рекомендує!"
 
 msgid "softdetails_download-count"
-msgstr ""
+msgstr "Кількість завантажень:"
 
 msgid "softdetails_package-size"
-msgstr ""
+msgstr "Розмір:"
 
 msgid "softdetails_added"
-msgstr ""
+msgstr "Дата додавання:"
 
 msgid "softdetails_license"
-msgstr ""
+msgstr "Схема поширення:"
 
 msgid "softdetails_license-free"
-msgstr ""
+msgstr "безкоштовне ПЗ"
 
 msgid "softdetails_os"
-msgstr ""
+msgstr "Операційні системи:"
 
 msgid "softdetails_uninstall-link"
-msgstr ""
+msgstr "Видалити"
 
 msgid "softdetails_download-link"
-msgstr ""
+msgstr "Завантажити"
 
 msgid "soft-details_opera-descr"
-msgstr ""
+msgstr "Швидкий і безпечний браузер Opera поставляється з вбудованим блокувальником реклами, безкоштовним VPN, вбудованими мессенджерами і багато чим іншим. <br /> <br /> Браузер Opera для комп'ютерів з Windows, Mac і Linux дозволить вам користуватися всіма можливостями інтернету максимально безпечно, зручно і продуктивно."
 
 msgid "softdetails_uninstall-page-link"
-msgstr ""
+msgstr "Як видалити {{SOFT.TITLE}}"
 
 msgid "program-month-text"
-msgstr ""
+msgstr "Програма місяця:"
 
 msgid "softlandingheader_search-title"
-msgstr ""
+msgstr "<span class='bold'>Пошук останніх версій</span> безкоштовних програм по величезній базі"
 
 msgid "softsearch_input-placeholder"
-msgstr ""
+msgstr "Назва програми або категорії"
 
 msgid "softsearchformitem_type-category"
-msgstr ""
+msgstr "категорія"
 
 msgid "softsearchheader_title"
-msgstr ""
+msgstr "Результати пошуку"
 
 msgid "softsearchheader_subtitle"
-msgstr ""
+msgstr "Знайдено програми за запитом"
 
 msgid "softsearchresult_download-link"
-msgstr ""
+msgstr "Завантажити"
 
 msgid "topsoft_item-download-count"
-msgstr ""
+msgstr "Кіл-ть завантажень:"
 
 msgid "topsoft_item-download-link"
-msgstr ""
+msgstr "Завантажити"
 
 msgid "translationheader_cta-text"
 msgstr "Допоможіть нам зробити DriverPack доступним для мільйонів користувачів по всьому світі — прийміть участь в нашому волонтерському проекті по перекладу його на інші мови"
@@ -943,40 +943,40 @@ msgid "language_title"
 msgstr "Ukrainian"
 
 msgid "softcategories_antivirus-single-main"
-msgstr ""
+msgstr "антивірус"
 
 msgid "softcategories_antivirus-single-for"
-msgstr ""
+msgstr "антивіруса"
 
 msgid "softcategories_antivirus-plural-main"
-msgstr ""
+msgstr "антивіруси"
 
 msgid "softcategories_antivirus-plural-for"
-msgstr ""
+msgstr "антивірусів"
 
 msgid "softcategories_audio-video-converter-single-main"
-msgstr ""
+msgstr "аудіо/відео конвертер"
 
 msgid "softcategories_audio-video-converter-single-for"
-msgstr ""
+msgstr "аудіо/відео конвертера"
 
 msgid "softcategories_audio-video-converter-plural-main"
-msgstr ""
+msgstr "аудіо/відео конвертери"
 
 msgid "softcategories_audio-video-converter-plural-for"
-msgstr ""
+msgstr "аудіо/відео конвертерів"
 
 msgid "softcategories_audio-video-editor-single-main"
-msgstr ""
+msgstr "аудіо/відео редактор"
 
 msgid "softcategories_audio-video-editor-single-for"
-msgstr ""
+msgstr "аудіо/відео редактора"
 
 msgid "softcategories_audio-video-editor-plural-main"
-msgstr ""
+msgstr "аудіо/відео редактори"
 
 msgid "softcategories_audio-video-editor-plural-for"
-msgstr ""
+msgstr "аудіо/відео редакторів"
 
 msgid "softcategories_book-reader-single-main"
 msgstr ""
@@ -1003,136 +1003,136 @@ msgid "softcategories_browser-plural-for"
 msgstr ""
 
 msgid "softcategories_cd-dvd-single-main"
-msgstr ""
+msgstr "CD/DVD"
 
 msgid "softcategories_cd-dvd-single-for"
-msgstr ""
+msgstr "CD/DVD"
 
 msgid "softcategories_cd-dvd-plural-main"
-msgstr ""
+msgstr "CD/DVD"
 
 msgid "softcategories_cd-dvd-plural-for"
-msgstr ""
+msgstr "CD/DVD"
 
 msgid "softcategories_data-recovery-single-main"
-msgstr ""
+msgstr "відновлення даних"
 
 msgid "softcategories_data-recovery-single-for"
-msgstr ""
+msgstr "відновлення даних"
 
 msgid "softcategories_data-recovery-plural-main"
-msgstr ""
+msgstr "відновлення даних"
 
 msgid "softcategories_data-recovery-plural-for"
-msgstr ""
+msgstr "відновлення даних"
 
 msgid "softcategories_data-storage-single-main"
-msgstr ""
+msgstr "збереження даних"
 
 msgid "softcategories_data-storage-single-for"
-msgstr ""
+msgstr "збереження даних"
 
 msgid "softcategories_data-storage-plural-main"
-msgstr ""
+msgstr "збереження даних"
 
 msgid "softcategories_data-storage-plural-for"
-msgstr ""
+msgstr "збереження даних"
 
 msgid "softcategories_developer-tools-single-main"
-msgstr ""
+msgstr "інструменти для розробників"
 
 msgid "softcategories_developer-tools-single-for"
-msgstr ""
+msgstr "інструментів для розробників"
 
 msgid "softcategories_developer-tools-plural-main"
-msgstr ""
+msgstr "інструменти для розробників"
 
 msgid "softcategories_developer-tools-plural-for"
-msgstr ""
+msgstr "інструментів для розробників"
 
 msgid "softcategories_file-manager-single-main"
-msgstr ""
+msgstr "файловий менеджер"
 
 msgid "softcategories_file-manager-single-for"
-msgstr ""
+msgstr "файлового менеджера"
 
 msgid "softcategories_file-manager-plural-main"
-msgstr ""
+msgstr "файлові менеджери"
 
 msgid "softcategories_file-manager-plural-for"
-msgstr ""
+msgstr "файлових менеджерів"
 
 msgid "softcategories_image-editor-single-main"
-msgstr ""
+msgstr "графічний редактор"
 
 msgid "softcategories_image-editor-single-for"
-msgstr ""
+msgstr "графічного редактора"
 
 msgid "softcategories_image-editor-plural-main"
-msgstr ""
+msgstr "графічні редактори"
 
 msgid "softcategories_image-editor-plural-for"
-msgstr ""
+msgstr "графічних редакторів"
 
 msgid "softcategories_image-viewer-single-main"
-msgstr ""
+msgstr "перегляд зображень"
 
 msgid "softcategories_image-viewer-single-for"
-msgstr ""
+msgstr "перегляда зображень"
 
 msgid "softcategories_image-viewer-plural-main"
-msgstr ""
+msgstr "перегляд зображень"
 
 msgid "softcategories_image-viewer-plural-for"
-msgstr ""
+msgstr "перегляда зображень"
 
 msgid "softcategories_mail-client-single-main"
-msgstr ""
+msgstr "поштовий клієнт"
 
 msgid "softcategories_mail-client-single-for"
-msgstr ""
+msgstr "поштового клієнта"
 
 msgid "softcategories_mail-client-plural-main"
-msgstr ""
+msgstr "поштові клієнти"
 
 msgid "softcategories_mail-client-plural-for"
-msgstr ""
+msgstr "поштових клієнтів"
 
 msgid "softcategories_messenger-single-main"
-msgstr ""
+msgstr "месенджер"
 
 msgid "softcategories_messenger-single-for"
-msgstr ""
+msgstr "месенджера"
 
 msgid "softcategories_messenger-plural-main"
-msgstr ""
+msgstr "месенджери"
 
 msgid "softcategories_messenger-plural-for"
-msgstr ""
+msgstr "месенджерів"
 
 msgid "softcategories_mp3-audio-player-single-main"
-msgstr ""
+msgstr "MP3 та аудіо плеєр"
 
 msgid "softcategories_mp3-audio-player-single-for"
-msgstr ""
+msgstr "MP3 та аудіо плеєра"
 
 msgid "softcategories_mp3-audio-player-plural-main"
-msgstr ""
+msgstr "MP3 та аудіо плеєри"
 
 msgid "softcategories_mp3-audio-player-plural-for"
-msgstr ""
+msgstr "MP3 та аудіо плеєрів"
 
 msgid "softcategories_other-single-main"
-msgstr ""
+msgstr "інший софт"
 
 msgid "softcategories_other-single-for"
-msgstr ""
+msgstr "іншого софта"
 
 msgid "softcategories_other-plural-main"
-msgstr ""
+msgstr "інший софт"
 
 msgid "softcategories_other-plural-for"
-msgstr ""
+msgstr "іншого софта"
 
 msgid "softcategories_pdf-reader-single-main"
 msgstr ""
@@ -1390,7 +1390,7 @@ msgid "notebooksvendorpage_subtitle-all"
 msgstr "Усі ноутбуки та нетбуки {{VENDOR.NAME}}"
 
 msgid "patners-page-opera-title"
-msgstr ""
+msgstr "Чому Opera — партнер DriverPack?"
 
 msgid "patners-page-opera-subtitle"
 msgstr ""
@@ -1399,7 +1399,7 @@ msgid "patners-page-opera-text"
 msgstr ""
 
 msgid "patners-page-opera-pluses-title-support"
-msgstr ""
+msgstr "DriverPack вже 10 років поширюється безкоштовно і підтримується завдяки партнерам"
 
 msgid "patners-page-opera-pluses-subtitle-support"
 msgstr ""
@@ -1417,7 +1417,7 @@ msgid "patners-page-opera-pluses-subtitle-ecosystem"
 msgstr ""
 
 msgid "patners-page-opera-btn"
-msgstr ""
+msgstr "Встановити браузер Opera"
 
 msgid "reviewpage_title"
 msgstr "Відгуки і пропозиції щодо поліпшення DriverPack"
@@ -1426,39 +1426,39 @@ msgid "searchpage_show-more-link"
 msgstr "показати ще"
 
 msgid "softcategorypage_categories-title"
-msgstr ""
+msgstr "Усі категорії"
 
 msgid "softlandingpage_topsoft-title"
-msgstr ""
+msgstr "Популярні програми"
 
 msgid "softlandingpage_categories-title"
-msgstr ""
+msgstr "Програми за категоріями"
 
 msgid "softsearchpage_show-more-link"
-msgstr ""
+msgstr "показати ще"
 
 msgid "softsearchpage_no-results"
-msgstr ""
+msgstr "На жаль, за вашим запитом нічого не знайдено"
 
 #. i18n: EN: text for {{LINK}} is in key softthankyoupopup_download-link; RU:
 #. текст для {{LINK}} находится в ключе softthankyoupopup_download-link;
 msgid "softthankyoupopup_download-text"
-msgstr ""
+msgstr "Не почалося завантаження? Натисніть {{LINK}}"
 
 msgid "softthankyoupopup_licence-text"
-msgstr ""
+msgstr "Перед встановленням ознайомтеся з {{LINK}}"
 
 msgid "softthankyoupopup_title"
-msgstr ""
+msgstr "Запустіть інсталяційний файл"
 
 msgid "softthankyoupopup_subtitle"
-msgstr ""
+msgstr "Щоб почати встановлення програми залишилося запустити інсталяційний файл"
 
 msgid "softthankyoupopup_licence-link"
-msgstr ""
+msgstr "ліцензійною угодою"
 
 msgid "softthankyoupopup_download-link"
-msgstr ""
+msgstr "завантажити"
 
 #. i18n: EN: text for {{LINK}} is in key thankyoupopup_download-link; RU:
 #. текст для {{LINK}} находится в ключе thankyoupopup_download-link;
@@ -1486,7 +1486,7 @@ msgid "thankyoupopup_licence-link"
 msgstr "Ліцензійної згоди"
 
 msgid "translate-feedback-header_caption"
-msgstr "Ця сторінка недавно була перекладена. Знайшли друкарську або граматичну помилку? Виділіть його та натисніть {{HOTKEY}}"
+msgstr "Ця сторінка нещодавно була перекладена. Знайшли друкарську або граматичну помилку? Виділіть її та натисніть {{HOTKEY}}"
 
 msgid "translate-feedback-form-popup_preview-title"
 msgstr "Ви виділили фрагмент:"

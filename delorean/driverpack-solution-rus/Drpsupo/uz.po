@@ -2,10 +2,10 @@
 # Olimjon Abduvokhidov <olimabduvohidov@gmail.com>, 2017
 # Olim Abduvohidov <olim90@inbox.ru>, 2017
 # Khurshed ISOKOV <mr.isokov@gmail.com>, 2017
-# Shérov <azamat9006@mail.ru>, 2017
 # Abbosjon Kudratov <abbosjon1997@gmail.com>, 2018
 # Abdulkuddus Soliev <soliev1208@gmail.com>, 2019
-# Nadia Tegeneva <nadia@drp.su>, 2019
+# Shérov <azamat9006@mail.ru>, 2019
+# Nadia Tegeneva <nadia@drp.su>, 2020
 # 
 msgid ""
 msgstr ""
@@ -13,7 +13,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-08-23 16:29+0000\n"
 "PO-Revision-Date: 2016-12-16 14:20+0000\n"
-"Last-Translator: Nadia Tegeneva <nadia@drp.su>, 2019\n"
+"Last-Translator: Nadia Tegeneva <nadia@drp.su>, 2020\n"
 "Language-Team: Uzbek (https://www.transifex.com/driverpack-solution/teams/75452/uz/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -64,10 +64,10 @@ msgid "breadcrumbs_catalog-main-text"
 msgstr "{{OS.NAME}} uchun drayver"
 
 msgid "breadcrumbs_softcategory-text"
-msgstr ""
+msgstr "{{CATEGORY.PLURAL.MAIN}}"
 
 msgid "breadcrumbs_soft-text"
-msgstr ""
+msgstr "{{SOFT.NAME}} {{SOFT.VERSION}}"
 
 msgid "breadcrumbs_uninstall-text"
 msgstr ""
@@ -370,7 +370,7 @@ msgid "landingheader_cta-btn"
 msgstr "Barcha kerakli drayverlarni o'rnatish"
 
 msgid "landingheadernav_search-soft"
-msgstr ""
+msgstr "Softni izlash"
 
 msgid "landingheadernav_search"
 msgstr "Drayverlarni qidirish"
@@ -403,10 +403,10 @@ msgid "landingnotebookvendorslist_versions"
 msgstr "Dasturning boshqa versiyalari"
 
 msgid "partners-link-text-opera"
-msgstr ""
+msgstr "Nimaga Opera DriverPack-ni hamkori?"
 
 msgid "partners_landing-title"
-msgstr ""
+msgstr "Bizning hamkorlar"
 
 msgid "landingproducts_cta-title"
 msgstr "O'zingizga  DriverPack tanlang"
@@ -847,10 +847,10 @@ msgid "sidebanner_caption"
 msgstr "DriverPack kerakli drayverlarni avtomatik tarzda <span class='SideBanner__caption-marked'>tanlaydi va o'rnatadi</span>"
 
 msgid "softdetails-rating"
-msgstr ""
+msgstr "Reyting:"
 
 msgid "recommend-opera"
-msgstr ""
+msgstr "DriverPack tavsiya etadi!"
 
 msgid "softdetails_download-count"
 msgstr ""
@@ -871,10 +871,10 @@ msgid "softdetails_os"
 msgstr ""
 
 msgid "softdetails_uninstall-link"
-msgstr ""
+msgstr "O'chirish "
 
 msgid "softdetails_download-link"
-msgstr ""
+msgstr "Yuklash"
 
 msgid "soft-details_opera-descr"
 msgstr ""
@@ -892,10 +892,10 @@ msgid "softsearch_input-placeholder"
 msgstr ""
 
 msgid "softsearchformitem_type-category"
-msgstr ""
+msgstr "kategoriya"
 
 msgid "softsearchheader_title"
-msgstr ""
+msgstr "Qidiruv natijalari"
 
 msgid "softsearchheader_subtitle"
 msgstr ""
@@ -904,10 +904,10 @@ msgid "softsearchresult_download-link"
 msgstr ""
 
 msgid "topsoft_item-download-count"
-msgstr ""
+msgstr "Yuklab olishlar soni:"
 
 msgid "topsoft_item-download-link"
-msgstr ""
+msgstr "Yuklash"
 
 msgid "translationheader_cta-text"
 msgstr "Dunyoning millionlab foydalanuvchilari uchun DriverPack dan foydalanishga yordam bering —ixtiyoriy loyihamizda dasturni boshqa tillarga tarjima qilishda ishtirok eting"
@@ -1003,13 +1003,13 @@ msgid "softcategories_browser-plural-for"
 msgstr ""
 
 msgid "softcategories_cd-dvd-single-main"
-msgstr ""
+msgstr "CD/DVD"
 
 msgid "softcategories_cd-dvd-single-for"
-msgstr ""
+msgstr "CD/DVD"
 
 msgid "softcategories_cd-dvd-plural-main"
-msgstr ""
+msgstr "CD/DVD"
 
 msgid "softcategories_cd-dvd-plural-for"
 msgstr ""
