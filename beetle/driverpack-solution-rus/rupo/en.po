@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-04-23 15:12+0000\n"
+"POT-Creation-Date: 2019-07-12 15:45+0000\n"
 "PO-Revision-Date: 2016-10-06 15:15+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>, 2019\n"
 "Language-Team: English (https://www.transifex.com/driverpack-solution/teams/75452/en/)\n"
@@ -20,9 +20,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: en\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-
-msgid "installation_close_confirm"
-msgstr "Are you sure you want to interrupt the installation? It may cause your computer to malfunction."
 
 msgid "deviceclasses_bluetooth-single-main"
 msgstr "Bluetooth device"
@@ -1018,6 +1015,9 @@ msgstr "Log Out"
 msgid "installation_header_subtitle"
 msgstr "This can take some time, but&nbsp;it's worth it"
 
+msgid "installation_header_subtitle-end"
+msgstr "Preparation for reboot"
+
 msgid "installation_header_subtitle_installing-driver"
 msgstr "{{CLASS.SINGLE.FOR}} driver is installing"
 
@@ -1177,14 +1177,14 @@ msgstr "Done"
 msgid "installation_canceled"
 msgstr "You have cancelled it"
 
-msgid "installation_title_name"
-msgstr "Installation items"
-
 msgid "restart_popup_title"
 msgstr "Reboot is needed to go on"
 
 msgid "restart_popup_button"
 msgstr "Reboot"
+
+msgid "installation_title_name"
+msgstr "Installation items"
 
 msgid "installation_item_description_restorepoint"
 msgstr "It enables a system roll-back to its previous state if something goes wrong"
@@ -1696,6 +1696,11 @@ msgstr "The sound card is connected incorrectly, or there are some problems with
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "English"
+
+#~ msgid "installation_close_confirm"
+#~ msgstr ""
+#~ "Are you sure you want to interrupt the installation? It may cause your "
+#~ "computer to malfunction."
 
 #~ msgid "no-internet-screen_header-title"
 #~ msgstr "No server connection"

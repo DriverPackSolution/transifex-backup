@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-04-23 15:12+0000\n"
+"POT-Creation-Date: 2019-07-12 15:45+0000\n"
 "PO-Revision-Date: 2016-10-06 15:15+0000\n"
 "Last-Translator: Дмитрий Долгерт <dolgert@gmail.com>, 2019\n"
 "Language-Team: Belarusian (https://www.transifex.com/driverpack-solution/teams/75452/be/)\n"
@@ -18,9 +18,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: be\n"
 "Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);\n"
-
-msgid "installation_close_confirm"
-msgstr "Вы ўпэўнены, што жадаеце перапыніць усталёўку? Гэта можа прывесці да непрацаздольнасці кампутара."
 
 msgid "deviceclasses_bluetooth-single-main"
 msgstr "прылада Bluetooth"
@@ -1026,6 +1023,9 @@ msgstr "Выйсці з сістэмы"
 msgid "installation_header_subtitle"
 msgstr "Гэта можа заняць некаторы час, але&nbsp;яно таго каштуе"
 
+msgid "installation_header_subtitle-end"
+msgstr "Падрыхтоўка да перазагрузкі"
+
 msgid "installation_header_subtitle_installing-driver"
 msgstr "Усталёўка драйвера {{CLASS.SINGLE.FOR}}"
 
@@ -1185,14 +1185,14 @@ msgstr "Гатова"
 msgid "installation_canceled"
 msgstr "Вы адмянілі"
 
-msgid "installation_title_name"
-msgstr "Элементы ўсталёўкі"
-
 msgid "restart_popup_title"
 msgstr "Для працягу патрэбна перазагрузка"
 
 msgid "restart_popup_button"
 msgstr "Перазагрузіць"
+
+msgid "installation_title_name"
+msgstr "Элементы ўсталёўкі"
 
 msgid "installation_item_description_restorepoint"
 msgstr "Дазваляе зрабіць адкат сістэмы да папярэдняга стану, калі нешта пойдзе не так"
@@ -1710,6 +1710,11 @@ msgstr "Гукавая карта няправільна падлучана аб
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Belarusian"
+
+#~ msgid "installation_close_confirm"
+#~ msgstr ""
+#~ "Вы ўпэўнены, што жадаеце перапыніць усталёўку? Гэта можа прывесці да "
+#~ "непрацаздольнасці кампутара."
 
 #~ msgid "no-internet-screen_header-title"
 #~ msgstr "Няма злучэння з серверам"

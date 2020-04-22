@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-04-23 15:12+0000\n"
+"POT-Creation-Date: 2019-07-12 15:45+0000\n"
 "PO-Revision-Date: 2016-10-06 15:15+0000\n"
 "Last-Translator: Muhammadjon Davlatov <davlatovmuhammadjon@gmail.com>, 2019\n"
 "Language-Team: Tajik (https://www.transifex.com/driverpack-solution/teams/75452/tg/)\n"
@@ -16,9 +16,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: tg\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-
-msgid "installation_close_confirm"
-msgstr "Шумо бовари доред, ки насбкуниро қатъ менамоед? Ин метавонад ба корношоямии компютер оварда расонад."
 
 msgid "deviceclasses_bluetooth-single-main"
 msgstr "Таҷҳизоти Bluetooth"
@@ -1014,6 +1011,9 @@ msgstr "Баромадан аз система"
 msgid "installation_header_subtitle"
 msgstr "Ин метавонад каме вақтро гирад, вале арзишашро дорад"
 
+msgid "installation_header_subtitle-end"
+msgstr ""
+
 msgid "installation_header_subtitle_installing-driver"
 msgstr "Насби драйвери {{CLASS.SINGLE.FOR}}"
 
@@ -1173,14 +1173,14 @@ msgstr "Тайёр"
 msgid "installation_canceled"
 msgstr "Шумо бекор кардаед"
 
-msgid "installation_title_name"
-msgstr "Элементҳои насбкунӣ"
-
 msgid "restart_popup_title"
 msgstr "Барои давом додан компютерро барқарорсозӣ кардан лозим"
 
 msgid "restart_popup_button"
 msgstr "Барқарорсозӣ"
+
+msgid "installation_title_name"
+msgstr "Элементҳои насбкунӣ"
 
 msgid "installation_item_description_restorepoint"
 msgstr "Агар ягон чиз нодуруст иҷро шавад, имконияти ба ҳолати қабли барқарор намудани системаро медиҳад."
@@ -1692,6 +1692,11 @@ msgstr "Корти садои нодуруст пайваст шудааст ё 
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Tajik"
+
+#~ msgid "installation_close_confirm"
+#~ msgstr ""
+#~ "Шумо бовари доред, ки насбкуниро қатъ менамоед? Ин метавонад ба корношоямии "
+#~ "компютер оварда расонад."
 
 #~ msgid "no-internet-screen_header-title"
 #~ msgstr "Пайвастшавӣ ба сервер вуҷуд надорад"
