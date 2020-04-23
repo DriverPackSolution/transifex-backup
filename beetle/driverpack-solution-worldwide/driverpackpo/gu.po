@@ -9,8 +9,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-04-23 15:12+0000\n"
-"PO-Revision-Date: 2019-07-16 13:51+0000\n"
+"POT-Creation-Date: 2020-04-22 13:03+0000\n"
+"PO-Revision-Date: 2020-04-23 11:51+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Gujarati (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/gu/)\n"
 "MIME-Version: 1.0\n"
@@ -18,9 +18,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: gu\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-
-msgid "installation_close_confirm"
-msgstr "શું તમે ખરેખર ઇન્સ્ટોલેશનને વિક્ષેપિત કરવા માંગો છો? તે તમારા કમ્પ્યુટરની ખામી માટેનું કારણ બની શકે છે"
 
 msgid "deviceclasses_bluetooth-single-main"
 msgstr "Bluetooth ઉપકરણ"
@@ -1016,6 +1013,9 @@ msgstr "લૉગ-આઉટ"
 msgid "installation_header_subtitle"
 msgstr "આ થોડો સમય લઈ શકે છે, પણ&nbsp;તેની કિંમત છે"
 
+msgid "installation_header_subtitle-end"
+msgstr ""
+
 msgid "installation_header_subtitle_installing-driver"
 msgstr "{{CLASS.SINGLE.FOR}} ડ્રાઈવર સ્થાપિત થઈ રહ્યા છે"
 
@@ -1175,14 +1175,14 @@ msgstr "થઈ ગયું"
 msgid "installation_canceled"
 msgstr "તમે તેને રદ કર્યું"
 
-msgid "installation_title_name"
-msgstr "સ્થાપનાની વસ્તુઓ"
-
 msgid "restart_popup_title"
 msgstr "ચાલું રાખવા ફરીથી ચાલું કરવું પડશે"
 
 msgid "restart_popup_button"
 msgstr "ફરીથી ચાલું કરો"
+
+msgid "installation_title_name"
+msgstr "સ્થાપનાની વસ્તુઓ"
 
 msgid "installation_item_description_restorepoint"
 msgstr "તે સિસ્ટમને ભૂતકાળની સ્થિતિમાં લઈ જવાની ક્ષમતાને સક્રિય કરે છે જો કશુંક ખોટું થઈ જાય"
@@ -1694,6 +1694,72 @@ msgstr "અવાજ કાર્ડ બરાબર ભરાવેલ નથ�
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Gujarati"
+
+#~ msgid "assistant-chat_off-caption"
+#~ msgstr "Voice Assistant <br /> is disabled"
+
+#~ msgid "installation_close_confirm"
+#~ msgstr ""
+#~ "Are you sure you want to interrupt the installation? It may cause your "
+#~ "computer to malfunction."
+
+#~ msgid "loading-screen_status-diagnostics-regular-mode"
+#~ msgstr "Diagnostics is going on in a regular mode"
+
+#~ msgid "loading-screen_status-diagnostics-duration"
+#~ msgstr "Diagnostics takes 1 to 5 minutes"
+
+#~ msgid "loading-screen_status-driverpack-do-not-interrupt"
+#~ msgstr "Don't interrupt DriverPack operation, please"
+
+#~ msgid "loading-screen_status-pc-issues"
+#~ msgstr "We are analyzing your PC's issues"
+
+#~ msgid "loading-screen_status-diagnostics-do-not-interrupt"
+#~ msgstr "Don't interrupt diagnostics, please"
+
+#~ msgid "loading-screen_status-analyzing-on-server"
+#~ msgstr "We are transmitting the data to the server to analyze"
+
+#~ msgid "loading-screen_status-almost-done"
+#~ msgstr "We have almost completed..."
+
+#~ msgid "loading-screen_status-please-wait"
+#~ msgstr "Wait, please"
+
+#~ msgid "loading-screen_status-diagnostics-in-process"
+#~ msgstr "Diagnostics is in process now"
+
+#~ msgid "loading-screen_status-diagnostics-going-on"
+#~ msgstr "Diagnostics is going on"
+
+#~ msgid "loading-screen_status-device-scanning"
+#~ msgstr "Device scanning is in process now"
+
+#~ msgid "loading-screen_option-voice-assistant"
+#~ msgstr "Voice Assistant"
+
+#~ msgid "loading-screen_option-sound"
+#~ msgstr "Sound in the app"
+
+#~ msgid "loading-screen_option-expert-mode"
+#~ msgstr "Start-up in the Expert Mode"
+
+#~ msgid "loading-screen_message-diagnostics"
+#~ msgstr ""
+#~ "Loading and diagnostics usually take 1 to 5 minutes. Please, wait till they "
+#~ "are completed"
+
+#~ msgid "loading-screen_message-antivirus"
+#~ msgstr ""
+#~ "Remember to disable your antivirus — we have been registering a lot of false"
+#~ " alerts recently"
+
+#~ msgid "start_auto_istallation_title"
+#~ msgstr "Automatic configuring of your computer is going to start now ..."
+
+#~ msgid "start_auto_istallation_button_cancel"
+#~ msgstr "Cancel"
 
 #~ msgid "no-internet-screen_header-title"
 #~ msgstr "No server connection"

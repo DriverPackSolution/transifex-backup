@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-04-23 15:12+0000\n"
-"PO-Revision-Date: 2019-07-16 13:51+0000\n"
+"POT-Creation-Date: 2020-04-22 13:03+0000\n"
+"PO-Revision-Date: 2020-04-23 11:51+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Afrikaans (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/af/)\n"
 "MIME-Version: 1.0\n"
@@ -15,9 +15,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: af\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-
-msgid "installation_close_confirm"
-msgstr ""
 
 msgid "deviceclasses_bluetooth-single-main"
 msgstr ""
@@ -1013,6 +1010,9 @@ msgstr ""
 msgid "installation_header_subtitle"
 msgstr ""
 
+msgid "installation_header_subtitle-end"
+msgstr ""
+
 msgid "installation_header_subtitle_installing-driver"
 msgstr ""
 
@@ -1172,13 +1172,13 @@ msgstr ""
 msgid "installation_canceled"
 msgstr ""
 
-msgid "installation_title_name"
-msgstr ""
-
 msgid "restart_popup_title"
 msgstr ""
 
 msgid "restart_popup_button"
+msgstr ""
+
+msgid "installation_title_name"
 msgstr ""
 
 msgid "installation_item_description_restorepoint"
@@ -1691,6 +1691,72 @@ msgstr ""
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Afrikaans"
+
+#~ msgid "assistant-chat_off-caption"
+#~ msgstr "Voice Assistant <br /> is disabled"
+
+#~ msgid "installation_close_confirm"
+#~ msgstr ""
+#~ "Are you sure you want to interrupt the installation? It may cause your "
+#~ "computer to malfunction."
+
+#~ msgid "loading-screen_status-diagnostics-regular-mode"
+#~ msgstr "Diagnostics is going on in a regular mode"
+
+#~ msgid "loading-screen_status-diagnostics-duration"
+#~ msgstr "Diagnostics takes 1 to 5 minutes"
+
+#~ msgid "loading-screen_status-driverpack-do-not-interrupt"
+#~ msgstr "Don't interrupt DriverPack operation, please"
+
+#~ msgid "loading-screen_status-pc-issues"
+#~ msgstr "We are analyzing your PC's issues"
+
+#~ msgid "loading-screen_status-diagnostics-do-not-interrupt"
+#~ msgstr "Don't interrupt diagnostics, please"
+
+#~ msgid "loading-screen_status-analyzing-on-server"
+#~ msgstr "We are transmitting the data to the server to analyze"
+
+#~ msgid "loading-screen_status-almost-done"
+#~ msgstr "We have almost completed..."
+
+#~ msgid "loading-screen_status-please-wait"
+#~ msgstr "Wait, please"
+
+#~ msgid "loading-screen_status-diagnostics-in-process"
+#~ msgstr "Diagnostics is in process now"
+
+#~ msgid "loading-screen_status-diagnostics-going-on"
+#~ msgstr "Diagnostics is going on"
+
+#~ msgid "loading-screen_status-device-scanning"
+#~ msgstr "Device scanning is in process now"
+
+#~ msgid "loading-screen_option-voice-assistant"
+#~ msgstr "Voice Assistant"
+
+#~ msgid "loading-screen_option-sound"
+#~ msgstr "Sound in the app"
+
+#~ msgid "loading-screen_option-expert-mode"
+#~ msgstr "Start-up in the Expert Mode"
+
+#~ msgid "loading-screen_message-diagnostics"
+#~ msgstr ""
+#~ "Loading and diagnostics usually take 1 to 5 minutes. Please, wait till they "
+#~ "are completed"
+
+#~ msgid "loading-screen_message-antivirus"
+#~ msgstr ""
+#~ "Remember to disable your antivirus — we have been registering a lot of false"
+#~ " alerts recently"
+
+#~ msgid "start_auto_istallation_title"
+#~ msgstr "Automatic configuring of your computer is going to start now ..."
+
+#~ msgid "start_auto_istallation_button_cancel"
+#~ msgstr "Cancel"
 
 #~ msgid "no-internet-screen_header-title"
 #~ msgstr "No server connection"

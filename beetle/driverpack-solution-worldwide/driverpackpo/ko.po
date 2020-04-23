@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-04-23 15:12+0000\n"
-"PO-Revision-Date: 2019-07-16 13:51+0000\n"
+"POT-Creation-Date: 2020-04-22 13:03+0000\n"
+"PO-Revision-Date: 2020-04-23 11:51+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Korean (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/ko/)\n"
 "MIME-Version: 1.0\n"
@@ -16,9 +16,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: ko\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-
-msgid "installation_close_confirm"
-msgstr "설치를 중단 하시겠습니까? 컴퓨터가 오작동할 수 있습니다."
 
 msgid "deviceclasses_bluetooth-single-main"
 msgstr "블루투스 장치"
@@ -1009,6 +1006,9 @@ msgstr "로그아웃"
 msgid "installation_header_subtitle"
 msgstr "이 작업에는 다소 시간이 걸릴 수 있지만&nbsp;그만한 가치가 있습니다"
 
+msgid "installation_header_subtitle-end"
+msgstr ""
+
 msgid "installation_header_subtitle_installing-driver"
 msgstr "{{CLASS.SINGLE.FOR}} 드라이버 설치 중…"
 
@@ -1168,14 +1168,14 @@ msgstr "완료"
 msgid "installation_canceled"
 msgstr "취소하였습니다"
 
-msgid "installation_title_name"
-msgstr "설치 항목"
-
 msgid "restart_popup_title"
 msgstr ""
 
 msgid "restart_popup_button"
 msgstr ""
+
+msgid "installation_title_name"
+msgstr "설치 항목"
 
 msgid "installation_item_description_restorepoint"
 msgstr "오류가 발생하면 시스템을 이전 상태로 롤백 할 수 있습니다"
@@ -1684,6 +1684,72 @@ msgstr "사운드 카드가 잘못 연결되었거나 조작상 문제가 있습
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Korean"
+
+#~ msgid "assistant-chat_off-caption"
+#~ msgstr "Voice Assistant <br /> is disabled"
+
+#~ msgid "installation_close_confirm"
+#~ msgstr ""
+#~ "Are you sure you want to interrupt the installation? It may cause your "
+#~ "computer to malfunction."
+
+#~ msgid "loading-screen_status-diagnostics-regular-mode"
+#~ msgstr "Diagnostics is going on in a regular mode"
+
+#~ msgid "loading-screen_status-diagnostics-duration"
+#~ msgstr "Diagnostics takes 1 to 5 minutes"
+
+#~ msgid "loading-screen_status-driverpack-do-not-interrupt"
+#~ msgstr "Don't interrupt DriverPack operation, please"
+
+#~ msgid "loading-screen_status-pc-issues"
+#~ msgstr "We are analyzing your PC's issues"
+
+#~ msgid "loading-screen_status-diagnostics-do-not-interrupt"
+#~ msgstr "Don't interrupt diagnostics, please"
+
+#~ msgid "loading-screen_status-analyzing-on-server"
+#~ msgstr "We are transmitting the data to the server to analyze"
+
+#~ msgid "loading-screen_status-almost-done"
+#~ msgstr "We have almost completed..."
+
+#~ msgid "loading-screen_status-please-wait"
+#~ msgstr "Wait, please"
+
+#~ msgid "loading-screen_status-diagnostics-in-process"
+#~ msgstr "Diagnostics is in process now"
+
+#~ msgid "loading-screen_status-diagnostics-going-on"
+#~ msgstr "Diagnostics is going on"
+
+#~ msgid "loading-screen_status-device-scanning"
+#~ msgstr "Device scanning is in process now"
+
+#~ msgid "loading-screen_option-voice-assistant"
+#~ msgstr "Voice Assistant"
+
+#~ msgid "loading-screen_option-sound"
+#~ msgstr "Sound in the app"
+
+#~ msgid "loading-screen_option-expert-mode"
+#~ msgstr "Start-up in the Expert Mode"
+
+#~ msgid "loading-screen_message-diagnostics"
+#~ msgstr ""
+#~ "Loading and diagnostics usually take 1 to 5 minutes. Please, wait till they "
+#~ "are completed"
+
+#~ msgid "loading-screen_message-antivirus"
+#~ msgstr ""
+#~ "Remember to disable your antivirus — we have been registering a lot of false"
+#~ " alerts recently"
+
+#~ msgid "start_auto_istallation_title"
+#~ msgstr "Automatic configuring of your computer is going to start now ..."
+
+#~ msgid "start_auto_istallation_button_cancel"
+#~ msgstr "Cancel"
 
 #~ msgid "no-internet-screen_header-title"
 #~ msgstr "No server connection"
