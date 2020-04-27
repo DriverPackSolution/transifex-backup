@@ -1,7 +1,8 @@
+# 
 # Translators:
 # Володимир Панзига <volodymyr5457@gmail.com>, 2016
-# Vasyl Belynets <belinets@gmail.com>, 2017
 # Хмель Тарас <nj@inet.ua>, 2017
+# Vasyl Belynets <belinets@gmail.com>, 2017
 # zubr139, 2017
 # Артур Кузяков <artx@drp.su>, 2017
 # Дем'ян Шевченко <demyan2013@gmail.com>, 2017
@@ -14,7 +15,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-04-22 13:03+0000\n"
+"POT-Creation-Date: 2020-04-22 12:58+0000\n"
 "PO-Revision-Date: 2016-10-06 15:15+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>, 2019\n"
 "Language-Team: Ukrainian (https://www.transifex.com/driverpack-solution/teams/75452/uk/)\n"
@@ -578,6 +579,9 @@ msgstr "https://vk.com/topic-29220845_34743007"
 msgid "start_title_default_model"
 msgstr "вашого комп'ютера"
 
+msgid "assistant-chat_off-caption"
+msgstr ""
+
 msgid "menu_create_recovery_point"
 msgstr "Створити мітку відновлення"
 
@@ -1022,6 +1026,9 @@ msgstr "Підтвердити"
 msgid "header_authorize_button"
 msgstr "Вхід і Реєстрація"
 
+msgid "installation_close_confirm"
+msgstr "Ви впевнені, що хочете перервати Встановлення? Це може привести до нестабільності ПК."
+
 msgid "authorize_popup_logout_button"
 msgstr "Вийти з системи"
 
@@ -1217,20 +1224,53 @@ msgstr "У процесі створення резервної копії др�
 msgid "about_run_error"
 msgstr "При роботі DriverPack Solution виникла проблема <br> <br> Якщо проблема повторюється, напишіть нам на support@drp.su"
 
-msgid "loading_preparing"
-msgstr "Підготовка до запуску додатка…"
+msgid "loading-screen_status-diagnostics-regular-mode"
+msgstr ""
 
-msgid "loading_system_scanning"
-msgstr "Перевіряємо конфігурацію комп'ютера…"
+msgid "loading-screen_status-diagnostics-duration"
+msgstr ""
 
-msgid "loading_sending_api_request"
-msgstr "Завантажуємо дані з хмарного сервера…"
+msgid "loading-screen_status-driverpack-do-not-interrupt"
+msgstr ""
 
-msgid "loading_checking_installed_programs"
-msgstr "Аналізуємо програмне забезпечення…"
+msgid "loading-screen_status-pc-issues"
+msgstr ""
 
-msgid "loading_ordering_drivers"
-msgstr "Формуємо порядок встановлення драйверів…"
+msgid "loading-screen_status-diagnostics-do-not-interrupt"
+msgstr ""
+
+msgid "loading-screen_status-analyzing-on-server"
+msgstr ""
+
+msgid "loading-screen_status-almost-done"
+msgstr ""
+
+msgid "loading-screen_status-please-wait"
+msgstr ""
+
+msgid "loading-screen_status-diagnostics-in-process"
+msgstr ""
+
+msgid "loading-screen_status-diagnostics-going-on"
+msgstr ""
+
+msgid "loading-screen_status-device-scanning"
+msgstr ""
+
+msgid "loading-screen_option-voice-assistant"
+msgstr ""
+
+msgid "loading-screen_option-sound"
+msgstr ""
+
+msgid "loading-screen_option-expert-mode"
+msgstr ""
+
+msgid "loading-screen_message-diagnostics"
+msgstr ""
+
+msgid "loading-screen_message-antivirus"
+msgstr ""
 
 msgid "menu_install_drivers"
 msgstr "Встановлення драйверів на комп’ютер"
@@ -1444,6 +1484,12 @@ msgstr "Встановити усі драйвери"
 
 msgid "start_button_install"
 msgstr "Встановити все автоматично"
+
+msgid "start_auto_istallation_title"
+msgstr ""
+
+msgid "start_auto_istallation_button_cancel"
+msgstr ""
 
 msgid "start_title"
 msgstr "Автоматичне налаштування {{MODEL}}"
@@ -1715,127 +1761,3 @@ msgstr "Звукова карта неправильно підключена а
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Ukrainian"
-
-#~ msgid "assistant-chat_off-caption"
-#~ msgstr ""
-
-#~ msgid "installation_close_confirm"
-#~ msgstr ""
-#~ "Ви впевнені, що хочете перервати Встановлення? Це може привести до "
-#~ "нестабільності ПК."
-
-#~ msgid "loading-screen_status-diagnostics-regular-mode"
-#~ msgstr ""
-
-#~ msgid "loading-screen_status-diagnostics-duration"
-#~ msgstr ""
-
-#~ msgid "loading-screen_status-driverpack-do-not-interrupt"
-#~ msgstr ""
-
-#~ msgid "loading-screen_status-pc-issues"
-#~ msgstr ""
-
-#~ msgid "loading-screen_status-diagnostics-do-not-interrupt"
-#~ msgstr ""
-
-#~ msgid "loading-screen_status-analyzing-on-server"
-#~ msgstr ""
-
-#~ msgid "loading-screen_status-almost-done"
-#~ msgstr ""
-
-#~ msgid "loading-screen_status-please-wait"
-#~ msgstr ""
-
-#~ msgid "loading-screen_status-diagnostics-in-process"
-#~ msgstr ""
-
-#~ msgid "loading-screen_status-diagnostics-going-on"
-#~ msgstr ""
-
-#~ msgid "loading-screen_status-device-scanning"
-#~ msgstr ""
-
-#~ msgid "loading-screen_option-voice-assistant"
-#~ msgstr ""
-
-#~ msgid "loading-screen_option-sound"
-#~ msgstr ""
-
-#~ msgid "loading-screen_option-expert-mode"
-#~ msgstr ""
-
-#~ msgid "loading-screen_message-diagnostics"
-#~ msgstr ""
-
-#~ msgid "loading-screen_message-antivirus"
-#~ msgstr ""
-
-#~ msgid "start_auto_istallation_title"
-#~ msgstr ""
-
-#~ msgid "start_auto_istallation_button_cancel"
-#~ msgstr ""
-
-#~ msgid "no-internet-screen_header-title"
-#~ msgstr "Немає з'єднання з сервером"
-
-#~ msgid "no-internet-screen_guide-title"
-#~ msgstr "Як встановити всі необхідні драйвери без інтернету?"
-
-#~ msgid "no-internet-screen_guide-step-1"
-#~ msgstr "Крок 1"
-
-#~ msgid "no-internet-screen_guide-step-1-action"
-#~ msgstr ""
-#~ "Зайдіть на сайт <span class=\"bold\">driverpack.io/uk/foradmin</span>, "
-#~ "використовуючи інший комп'ютер"
-
-#~ msgid "no-internet-screen_guide-step-2"
-#~ msgstr "Крок 2"
-
-#~ msgid "no-internet-screen_guide-step-2-action"
-#~ msgstr ""
-#~ "Завантажте на USB-флешку <span class=\"bold\">DriverPack Offline Full</span>"
-#~ " або <span class=\"bold\">DriverPack Offline Network</span> для встановлення"
-#~ " драйверів на комп'ютер без підключення до мережі <br /><br /> <span "
-#~ "class=\"bold\">DriverPack Offline Network</span> містить драйвери для "
-#~ "мережевого обладнання (Lan/Wi-Fi), працює без інтернету (500 Мб) <br /><br "
-#~ "/> <span class=\"bold\">DriverPack Offline Full</span> містить всі драйвери,"
-#~ " працює без інтернету"
-
-#~ msgid "no-internet-screen_guide-step-complete"
-#~ msgstr "Готово"
-
-#~ msgid "no-internet-screen_guide-step-complete-action"
-#~ msgstr ""
-#~ "Відкрийте програму на цьому комп'ютері і налаштуйте комп'ютер натисканням "
-#~ "однієї кнопки"
-
-#~ msgid "start_installation_option_mouse"
-#~ msgstr "Не працює миша"
-
-#~ msgid "start_installation_option_keyboard"
-#~ msgstr "Не працює клавіатура"
-
-#~ msgid "start_installation_option_printer"
-#~ msgstr "Не працює принтер"
-
-#~ msgid "start_installation_option_video"
-#~ msgstr "Не працює відео"
-
-#~ msgid "start_installation_option_sound"
-#~ msgstr "Не працює звук"
-
-#~ msgid "start_installation_option_usb"
-#~ msgstr "Не працюють USB-порти"
-
-#~ msgid "start_installation_option_webcam"
-#~ msgstr "Не працює веб-камера"
-
-#~ msgid "start_installation_option_games"
-#~ msgstr "Гальмують ігри"
-
-#~ msgid "start_caption_select_problems"
-#~ msgstr "Або виберіть, що саме у вас не працює:"

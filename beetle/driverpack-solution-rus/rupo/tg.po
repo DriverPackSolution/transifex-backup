@@ -1,3 +1,4 @@
+# 
 # Translators:
 # Muhammadsharif Gafurov <ttajhacker@gmail.com>, 2017
 # Nadia Tegeneva <nadia@drp.su>, 2018
@@ -7,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-04-22 13:03+0000\n"
+"POT-Creation-Date: 2020-04-22 12:58+0000\n"
 "PO-Revision-Date: 2016-10-06 15:15+0000\n"
 "Last-Translator: Muhammadjon Davlatov <davlatovmuhammadjon@gmail.com>, 2019\n"
 "Language-Team: Tajik (https://www.transifex.com/driverpack-solution/teams/75452/tg/)\n"
@@ -571,6 +572,9 @@ msgstr "https://vk.com/topic-29220845_34743007"
 msgid "start_title_default_model"
 msgstr "компютери шумо"
 
+msgid "assistant-chat_off-caption"
+msgstr ""
+
 msgid "menu_create_recovery_point"
 msgstr "Сохтани нуқтаи барқароркунӣ"
 
@@ -1005,6 +1009,9 @@ msgstr "Тасдиқ кардан"
 msgid "header_authorize_button"
 msgstr ""
 
+msgid "installation_close_confirm"
+msgstr "Шумо бовари доред, ки насбкуниро қатъ менамоед? Ин метавонад ба корношоямии компютер оварда расонад."
+
 msgid "authorize_popup_logout_button"
 msgstr "Баромадан аз система"
 
@@ -1200,20 +1207,53 @@ msgstr "Дар раванди сохтани нусхаи захиравии д�
 msgid "about_run_error"
 msgstr "Дар кори DriverPack Solution мушкили ба вуқуъ омад <br> <br> Агар мушкили боз такрор шавад ба мо муроҷиат намоед support@drp.su"
 
-msgid "loading_preparing"
-msgstr "Омодагӣ барои кушодани брнома..."
+msgid "loading-screen_status-diagnostics-regular-mode"
+msgstr ""
 
-msgid "loading_system_scanning"
-msgstr "Санҷиши танзимоти компютер..."
+msgid "loading-screen_status-diagnostics-duration"
+msgstr ""
 
-msgid "loading_sending_api_request"
-msgstr "Маҳлумотҳоро аз сервери абрӣ бор мекунем..."
+msgid "loading-screen_status-driverpack-do-not-interrupt"
+msgstr ""
 
-msgid "loading_checking_installed_programs"
-msgstr "Таъминоти барномавиро таҳлил мекунем..."
+msgid "loading-screen_status-pc-issues"
+msgstr ""
 
-msgid "loading_ordering_drivers"
-msgstr "Тартиби насби драйверҳоро тартиб медиҳем..."
+msgid "loading-screen_status-diagnostics-do-not-interrupt"
+msgstr ""
+
+msgid "loading-screen_status-analyzing-on-server"
+msgstr ""
+
+msgid "loading-screen_status-almost-done"
+msgstr ""
+
+msgid "loading-screen_status-please-wait"
+msgstr ""
+
+msgid "loading-screen_status-diagnostics-in-process"
+msgstr ""
+
+msgid "loading-screen_status-diagnostics-going-on"
+msgstr ""
+
+msgid "loading-screen_status-device-scanning"
+msgstr ""
+
+msgid "loading-screen_option-voice-assistant"
+msgstr ""
+
+msgid "loading-screen_option-sound"
+msgstr ""
+
+msgid "loading-screen_option-expert-mode"
+msgstr ""
+
+msgid "loading-screen_message-diagnostics"
+msgstr ""
+
+msgid "loading-screen_message-antivirus"
+msgstr ""
 
 msgid "menu_install_drivers"
 msgstr "Насби драйверҳо дар компютер"
@@ -1427,6 +1467,12 @@ msgstr "Ҳамаи драйверҳоро насб кардан"
 
 msgid "start_button_install"
 msgstr "Ҳама чизро ба таври автомати насб кардан"
+
+msgid "start_auto_istallation_title"
+msgstr ""
+
+msgid "start_auto_istallation_button_cancel"
+msgstr ""
 
 msgid "start_title"
 msgstr "Танзимоти автоматии {{MODEL}}"
@@ -1692,127 +1738,3 @@ msgstr "Корти садои нодуруст пайваст шудааст ё 
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Tajik"
-
-#~ msgid "assistant-chat_off-caption"
-#~ msgstr ""
-
-#~ msgid "installation_close_confirm"
-#~ msgstr ""
-#~ "Шумо бовари доред, ки насбкуниро қатъ менамоед? Ин метавонад ба корношоямии "
-#~ "компютер оварда расонад."
-
-#~ msgid "loading-screen_status-diagnostics-regular-mode"
-#~ msgstr ""
-
-#~ msgid "loading-screen_status-diagnostics-duration"
-#~ msgstr ""
-
-#~ msgid "loading-screen_status-driverpack-do-not-interrupt"
-#~ msgstr ""
-
-#~ msgid "loading-screen_status-pc-issues"
-#~ msgstr ""
-
-#~ msgid "loading-screen_status-diagnostics-do-not-interrupt"
-#~ msgstr ""
-
-#~ msgid "loading-screen_status-analyzing-on-server"
-#~ msgstr ""
-
-#~ msgid "loading-screen_status-almost-done"
-#~ msgstr ""
-
-#~ msgid "loading-screen_status-please-wait"
-#~ msgstr ""
-
-#~ msgid "loading-screen_status-diagnostics-in-process"
-#~ msgstr ""
-
-#~ msgid "loading-screen_status-diagnostics-going-on"
-#~ msgstr ""
-
-#~ msgid "loading-screen_status-device-scanning"
-#~ msgstr ""
-
-#~ msgid "loading-screen_option-voice-assistant"
-#~ msgstr ""
-
-#~ msgid "loading-screen_option-sound"
-#~ msgstr ""
-
-#~ msgid "loading-screen_option-expert-mode"
-#~ msgstr ""
-
-#~ msgid "loading-screen_message-diagnostics"
-#~ msgstr ""
-
-#~ msgid "loading-screen_message-antivirus"
-#~ msgstr ""
-
-#~ msgid "start_auto_istallation_title"
-#~ msgstr ""
-
-#~ msgid "start_auto_istallation_button_cancel"
-#~ msgstr ""
-
-#~ msgid "no-internet-screen_header-title"
-#~ msgstr "Пайвастшавӣ ба сервер вуҷуд надорад"
-
-#~ msgid "no-internet-screen_guide-title"
-#~ msgstr "Чӣ гуна ҳамаи драйверҳои даркориро бе интернет насб кард?"
-
-#~ msgid "no-internet-screen_guide-step-1"
-#~ msgstr "Қадами 1"
-
-#~ msgid "no-internet-screen_guide-step-1-action"
-#~ msgstr ""
-#~ "Истифода аз дигар компютер ба сомонаи <span "
-#~ "class=\"bold\">driverpack.io/tg/foradmin</span> дароед"
-
-#~ msgid "no-internet-screen_guide-step-2"
-#~ msgstr "Қадами 2"
-
-#~ msgid "no-internet-screen_guide-step-2-action"
-#~ msgstr ""
-#~ "Барои насби драйверҳо бе пайвастшавӣ ба интернет <span "
-#~ "class=\"bold\">DriverPack Offline Full</span> ё ин ки <span "
-#~ "class=\"bold\">DriverPack Offline Network</span>-ро дар USB-флеш боркунед "
-#~ "<br /><br /> <span class=\"bold\">DriverPack Offline Network</span> дар худ "
-#~ "драйверҳои таҷҳизотҳои шабакавиро дорад (Lan/Wi-Fi) ва бе интернет кор "
-#~ "мекунад (500 Мб) <br /><br /> <span class=\"bold\">DriverPack Offline "
-#~ "Full</span> ҳамаи драйверҳоро дорост ва бе интернет кор мекунад"
-
-#~ msgid "no-internet-screen_guide-step-complete"
-#~ msgstr "Омода"
-
-#~ msgid "no-internet-screen_guide-step-complete-action"
-#~ msgstr ""
-#~ "Барномаро дар ин компютер сар диҳед ва бо пахши як тугма компютерро танзим "
-#~ "намоед"
-
-#~ msgid "start_installation_option_mouse"
-#~ msgstr "Муш кор намекунад"
-
-#~ msgid "start_installation_option_keyboard"
-#~ msgstr "Клавиатура кор намекунад"
-
-#~ msgid "start_installation_option_printer"
-#~ msgstr "Принтер кор намекунад"
-
-#~ msgid "start_installation_option_video"
-#~ msgstr "Видео кор намекунад"
-
-#~ msgid "start_installation_option_sound"
-#~ msgstr "Садо кор намекунад"
-
-#~ msgid "start_installation_option_usb"
-#~ msgstr "USB-портҳо кор намекунанд"
-
-#~ msgid "start_installation_option_webcam"
-#~ msgstr "Веб-камера кор намекунад"
-
-#~ msgid "start_installation_option_games"
-#~ msgstr "Бозиҳо суст кор мекунанд"
-
-#~ msgid "start_caption_select_problems"
-#~ msgstr "Ё интихоб кунед, ки дар шумо чи кор намекунад:"

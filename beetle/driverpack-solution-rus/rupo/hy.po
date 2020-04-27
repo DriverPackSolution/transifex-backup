@@ -1,14 +1,15 @@
+# 
 # Translators:
 # Nadia Tegeneva <nadia@drp.su>, 2019
-# Sergei <serjsafarian@gmail.com>, 2019
+# Sergei <serjsafarian@gmail.com>, 2020
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-04-22 13:03+0000\n"
+"POT-Creation-Date: 2020-04-22 12:58+0000\n"
 "PO-Revision-Date: 2016-10-06 15:15+0000\n"
-"Last-Translator: Sergei <serjsafarian@gmail.com>, 2019\n"
+"Last-Translator: Sergei <serjsafarian@gmail.com>, 2020\n"
 "Language-Team: Armenian (https://www.transifex.com/driverpack-solution/teams/75452/hy/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -570,6 +571,9 @@ msgstr "https://vk.com/topic-29220845_34743007"
 msgid "start_title_default_model"
 msgstr "Ձեր համակարգչի"
 
+msgid "assistant-chat_off-caption"
+msgstr "Ձայնային օգնականը <br />անջատված է"
+
 msgid "menu_create_recovery_point"
 msgstr "Ստեղծել վերականգման կետ"
 
@@ -1004,6 +1008,9 @@ msgstr "Հաստատել"
 msgid "header_authorize_button"
 msgstr "Մուտք և գրանցում"
 
+msgid "installation_close_confirm"
+msgstr "Դուք իրո՞ք ուզում եք ընդհատել տեղադրումը։ Դա կարող է հանգեցնել համակարգչի անաշխատունակության։"
+
 msgid "authorize_popup_logout_button"
 msgstr "Ելնել համակարգից"
 
@@ -1199,20 +1206,53 @@ msgstr "Սարքավարի պահուսավորման ժամանակ տեղի ո
 msgid "about_run_error"
 msgstr "DriverPack Solution-ի աշխատանքի ժամանակ խնդիր է առաջացել <br> <br> Եթե այն շարունակվի՝ գրեք մեզ՝ support@drp.su"
 
-msgid "loading_preparing"
-msgstr "Պատրաստվում է հավելվածի մեկնարկոմը…"
+msgid "loading-screen_status-diagnostics-regular-mode"
+msgstr "Ախտորոշումն ընթանում է նորմալ ռեժիմում"
 
-msgid "loading_system_scanning"
-msgstr "Ստուգում ենք համակարգչի կազմաձևը…"
+msgid "loading-screen_status-diagnostics-duration"
+msgstr "Ախտորոշումը տևում է 1-ից մինչև 5 րոպե"
 
-msgid "loading_sending_api_request"
-msgstr "Ներբեռնում ենք տվյալներն ամպային սպասարկիչից…"
+msgid "loading-screen_status-driverpack-do-not-interrupt"
+msgstr "Մի՛ ընդհատեք DriverPack-ի աշխատանքը"
 
-msgid "loading_checking_installed_programs"
-msgstr "Վերլուծում ենք ծրագրաշարը…"
+msgid "loading-screen_status-pc-issues"
+msgstr "Մենք վերլուծում ենք Ձեր համակարգչի խնդիրները"
 
-msgid "loading_ordering_drivers"
-msgstr "Ձևավորում ենք սարքավարների տեղադրման կարգը…"
+msgid "loading-screen_status-diagnostics-do-not-interrupt"
+msgstr "Մի՛ ընդհատեք ախտորոշումը"
+
+msgid "loading-screen_status-analyzing-on-server"
+msgstr "Ուղարկում ենք տվյալները սպասարկիչին՝ վերլուծման համար"
+
+msgid "loading-screen_status-almost-done"
+msgstr "Մենք գրեթե ավարտեցինք …"
+
+msgid "loading-screen_status-please-wait"
+msgstr "Խնդրում ենք սպասել"
+
+msgid "loading-screen_status-diagnostics-in-process"
+msgstr "Ընթանում է ախտորոշում"
+
+msgid "loading-screen_status-diagnostics-going-on"
+msgstr "Ախտորոշումը շարունակվում է"
+
+msgid "loading-screen_status-device-scanning"
+msgstr "Ընթանում է սարքերի ստուգում"
+
+msgid "loading-screen_option-voice-assistant"
+msgstr "Ձայնային օգնական"
+
+msgid "loading-screen_option-sound"
+msgstr "Ձայնը հավելվածում"
+
+msgid "loading-screen_option-expert-mode"
+msgstr "Գործարկել Փորձագետի ռեժիմում"
+
+msgid "loading-screen_message-diagnostics"
+msgstr "Սովորաբար բեռնումը և ախտորոշումը տևում են 1-ից մինչև 5 րոպե։ Խնդրում ենք սպասել դրանց ավարտին"
+
+msgid "loading-screen_message-antivirus"
+msgstr "Չմոռանա՛ք անջատել հակավիրուսը. վերջերս մենք չափից շատ կեղծ ահազանգեր ենք գրանցում"
 
 msgid "menu_install_drivers"
 msgstr "Սարքավարների տեղադրում համակարգչում"
@@ -1426,6 +1466,12 @@ msgstr "Տեղադրել բոլոր սարքավարները"
 
 msgid "start_button_install"
 msgstr "Տեղադրել բոլորն ինքնաշխատ կերպով"
+
+msgid "start_auto_istallation_title"
+msgstr "Հիմա կսկսվի համակարգչի ինքնաշխատ կարգավորումը …"
+
+msgid "start_auto_istallation_button_cancel"
+msgstr "Չեղարկել"
 
 msgid "start_title"
 msgstr "{{MODEL}} ինքնաշախտ կարգավորում"
@@ -1691,126 +1737,3 @@ msgstr "Ձայնաքարտը ճիշտ չէ միացված կամ նրա աշխա
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Armenian"
-
-#~ msgid "assistant-chat_off-caption"
-#~ msgstr ""
-
-#~ msgid "installation_close_confirm"
-#~ msgstr ""
-#~ "Դուք իրո՞ք ուզում եք ընդհատել տեղադրումը։ Դա կարող է հանգեցնել համակարգչի "
-#~ "անաշխատունակության։"
-
-#~ msgid "loading-screen_status-diagnostics-regular-mode"
-#~ msgstr ""
-
-#~ msgid "loading-screen_status-diagnostics-duration"
-#~ msgstr ""
-
-#~ msgid "loading-screen_status-driverpack-do-not-interrupt"
-#~ msgstr ""
-
-#~ msgid "loading-screen_status-pc-issues"
-#~ msgstr ""
-
-#~ msgid "loading-screen_status-diagnostics-do-not-interrupt"
-#~ msgstr ""
-
-#~ msgid "loading-screen_status-analyzing-on-server"
-#~ msgstr ""
-
-#~ msgid "loading-screen_status-almost-done"
-#~ msgstr ""
-
-#~ msgid "loading-screen_status-please-wait"
-#~ msgstr ""
-
-#~ msgid "loading-screen_status-diagnostics-in-process"
-#~ msgstr ""
-
-#~ msgid "loading-screen_status-diagnostics-going-on"
-#~ msgstr ""
-
-#~ msgid "loading-screen_status-device-scanning"
-#~ msgstr ""
-
-#~ msgid "loading-screen_option-voice-assistant"
-#~ msgstr ""
-
-#~ msgid "loading-screen_option-sound"
-#~ msgstr ""
-
-#~ msgid "loading-screen_option-expert-mode"
-#~ msgstr ""
-
-#~ msgid "loading-screen_message-diagnostics"
-#~ msgstr ""
-
-#~ msgid "loading-screen_message-antivirus"
-#~ msgstr ""
-
-#~ msgid "start_auto_istallation_title"
-#~ msgstr ""
-
-#~ msgid "start_auto_istallation_button_cancel"
-#~ msgstr ""
-
-#~ msgid "no-internet-screen_header-title"
-#~ msgstr "Չկա կապակցում սպասարկիչին"
-
-#~ msgid "no-internet-screen_guide-title"
-#~ msgstr "Ինչպե՞ս տեղադրել հարկավոր սարքավարներն առանց համացանցի"
-
-#~ msgid "no-internet-screen_guide-step-1"
-#~ msgstr "Քայլ 1"
-
-#~ msgid "no-internet-screen_guide-step-1-action"
-#~ msgstr ""
-#~ "Մտեք <span class=\"bold\">drp.su/ru/foradmin</span> կայք՝ օգտագործելով մեկ "
-#~ "այլ համակարգիչ"
-
-#~ msgid "no-internet-screen_guide-step-2"
-#~ msgstr "Քայլ 2"
-
-#~ msgid "no-internet-screen_guide-step-2-action"
-#~ msgstr ""
-#~ "Ներբեռնեք USB-կրիչի վրա <span class=\"bold\">DriverPack Offline "
-#~ "Full-ը</span> կամ <span class=\"bold\">DriverPack Offline Network-ը՝</span>"
-#~ "  սարքավարները համակարգչում անցանց տեղադրելու համար <br /><br /> <span "
-#~ "class=\"bold\">DriverPack Offline Network-ը</span> պարունակում է սարքավարներ"
-#~ " ցանցային սարքաշարի (Lan/Wi-Fi) համար, աշխատում է առանց համացանցի (500 Մբ) "
-#~ "<br /><br /> <span class=\"bold\">DriverPack Offline Full-ը</span> "
-#~ "պարունակում է բոլոր սարքավարները, աշխատում է անցանց"
-
-#~ msgid "no-internet-screen_guide-step-complete"
-#~ msgstr "Պատրաստ է"
-
-#~ msgid "no-internet-screen_guide-step-complete-action"
-#~ msgstr ""
-#~ "Գործարկեք հավելվածն այս համակարգչում և կարգավորեք համակարգիչը մեկ կտտոցով"
-
-#~ msgid "start_installation_option_mouse"
-#~ msgstr "Չի աշխատում մկնիկը"
-
-#~ msgid "start_installation_option_keyboard"
-#~ msgstr "Չի աշխատում ստեղնաշարը"
-
-#~ msgid "start_installation_option_printer"
-#~ msgstr "Չի աշխատում տպիչը"
-
-#~ msgid "start_installation_option_video"
-#~ msgstr "Չի աշխատում տեսանյութերի նվագարկումը"
-
-#~ msgid "start_installation_option_sound"
-#~ msgstr "Չի աշխատում ձայնը"
-
-#~ msgid "start_installation_option_usb"
-#~ msgstr "Չեն աշխատում USB-միացքները"
-
-#~ msgid "start_installation_option_webcam"
-#~ msgstr "Չի աշխատում վեբ-խցիկը"
-
-#~ msgid "start_installation_option_games"
-#~ msgstr "Խաղերն արգելակում են"
-
-#~ msgid "start_caption_select_problems"
-#~ msgstr "Կամ ընտրեք՝ ինչը չի աշխատում Ձեզ մոտ՝"

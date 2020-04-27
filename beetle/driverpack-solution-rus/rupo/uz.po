@@ -1,3 +1,4 @@
+# 
 # Translators:
 # Olim Abduvohidov <olim90@inbox.ru>, 2016
 # Khurshed ISOKOV <mr.isokov@gmail.com>, 2018
@@ -11,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-04-22 13:03+0000\n"
+"POT-Creation-Date: 2020-04-22 12:58+0000\n"
 "PO-Revision-Date: 2016-10-06 15:15+0000\n"
 "Last-Translator: Shérov <azamat9006@mail.ru>, 2019\n"
 "Language-Team: Uzbek (https://www.transifex.com/driverpack-solution/teams/75452/uz/)\n"
@@ -575,6 +576,9 @@ msgstr "https://vk.com/topic-29220845_34743007"
 msgid "start_title_default_model"
 msgstr "sizning kompyuteringizni"
 
+msgid "assistant-chat_off-caption"
+msgstr ""
+
 msgid "menu_create_recovery_point"
 msgstr "Tiklash nuqtasini yaratish"
 
@@ -1009,6 +1013,9 @@ msgstr "Tasdiqlash"
 msgid "header_authorize_button"
 msgstr "Kirish va Ro'yxatdan O'tish"
 
+msgid "installation_close_confirm"
+msgstr "O'rnatishni to'xtatishga ishonchingiz komilmi? Bu kompyuteringiz ishdan chiqishiga olib kelishi mumkin."
+
 msgid "authorize_popup_logout_button"
 msgstr "Tizimdan chiqish"
 
@@ -1204,20 +1211,53 @@ msgstr "Drayverlarni rezerv nusxalash paytida xatolik ro'y berdi"
 msgid "about_run_error"
 msgstr "DriverPack Solution bilan ishlashda xatolik yuz berdi <br> <br> Agarda ushbu muammo yanada qayta takrorlansa, bizga support@drp.su yozib yuboring"
 
-msgid "loading_preparing"
-msgstr "Dasturni ishga tushirishga tayyorlanmoqda..."
+msgid "loading-screen_status-diagnostics-regular-mode"
+msgstr ""
 
-msgid "loading_system_scanning"
-msgstr "Kompyuteringizni konfiguratsiyasini tekshirmoqdamiz..."
+msgid "loading-screen_status-diagnostics-duration"
+msgstr ""
 
-msgid "loading_sending_api_request"
-msgstr "Ma'lumotlarni bulutli serverlardan yuklayapmiz..."
+msgid "loading-screen_status-driverpack-do-not-interrupt"
+msgstr ""
 
-msgid "loading_checking_installed_programs"
-msgstr "Dasturiy ta'minotni tahlillashtiriyapmiz..."
+msgid "loading-screen_status-pc-issues"
+msgstr ""
 
-msgid "loading_ordering_drivers"
-msgstr "Drayverlarni o'rnatish ketma-ketligini tuziyapmiz..."
+msgid "loading-screen_status-diagnostics-do-not-interrupt"
+msgstr ""
+
+msgid "loading-screen_status-analyzing-on-server"
+msgstr ""
+
+msgid "loading-screen_status-almost-done"
+msgstr ""
+
+msgid "loading-screen_status-please-wait"
+msgstr ""
+
+msgid "loading-screen_status-diagnostics-in-process"
+msgstr ""
+
+msgid "loading-screen_status-diagnostics-going-on"
+msgstr ""
+
+msgid "loading-screen_status-device-scanning"
+msgstr ""
+
+msgid "loading-screen_option-voice-assistant"
+msgstr ""
+
+msgid "loading-screen_option-sound"
+msgstr ""
+
+msgid "loading-screen_option-expert-mode"
+msgstr ""
+
+msgid "loading-screen_message-diagnostics"
+msgstr ""
+
+msgid "loading-screen_message-antivirus"
+msgstr ""
 
 msgid "menu_install_drivers"
 msgstr "Kompyuterga dratverlarni o'rnatish"
@@ -1431,6 +1471,12 @@ msgstr "Barcha drayverlarni o‘rnatish"
 
 msgid "start_button_install"
 msgstr "Hammasini avtomatik o`rnatish"
+
+msgid "start_auto_istallation_title"
+msgstr ""
+
+msgid "start_auto_istallation_button_cancel"
+msgstr ""
 
 msgid "start_title"
 msgstr " {{MODEL}} ni avtomatik ravishda sozlash "
@@ -1695,127 +1741,3 @@ msgstr "Ovoz kartasi to'g'ri ulanmagan yoki uning ishlashi bilan bog'liq muammol
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Uzbek"
-
-#~ msgid "assistant-chat_off-caption"
-#~ msgstr ""
-
-#~ msgid "installation_close_confirm"
-#~ msgstr ""
-#~ "O'rnatishni to'xtatishga ishonchingiz komilmi? Bu kompyuteringiz ishdan "
-#~ "chiqishiga olib kelishi mumkin."
-
-#~ msgid "loading-screen_status-diagnostics-regular-mode"
-#~ msgstr ""
-
-#~ msgid "loading-screen_status-diagnostics-duration"
-#~ msgstr ""
-
-#~ msgid "loading-screen_status-driverpack-do-not-interrupt"
-#~ msgstr ""
-
-#~ msgid "loading-screen_status-pc-issues"
-#~ msgstr ""
-
-#~ msgid "loading-screen_status-diagnostics-do-not-interrupt"
-#~ msgstr ""
-
-#~ msgid "loading-screen_status-analyzing-on-server"
-#~ msgstr ""
-
-#~ msgid "loading-screen_status-almost-done"
-#~ msgstr ""
-
-#~ msgid "loading-screen_status-please-wait"
-#~ msgstr ""
-
-#~ msgid "loading-screen_status-diagnostics-in-process"
-#~ msgstr ""
-
-#~ msgid "loading-screen_status-diagnostics-going-on"
-#~ msgstr ""
-
-#~ msgid "loading-screen_status-device-scanning"
-#~ msgstr ""
-
-#~ msgid "loading-screen_option-voice-assistant"
-#~ msgstr ""
-
-#~ msgid "loading-screen_option-sound"
-#~ msgstr ""
-
-#~ msgid "loading-screen_option-expert-mode"
-#~ msgstr ""
-
-#~ msgid "loading-screen_message-diagnostics"
-#~ msgstr ""
-
-#~ msgid "loading-screen_message-antivirus"
-#~ msgstr ""
-
-#~ msgid "start_auto_istallation_title"
-#~ msgstr ""
-
-#~ msgid "start_auto_istallation_button_cancel"
-#~ msgstr ""
-
-#~ msgid "no-internet-screen_header-title"
-#~ msgstr "Server bilan aloqa yo'q"
-
-#~ msgid "no-internet-screen_guide-title"
-#~ msgstr "Internetsiz kerakli drayverlar qanday o'rnatiladi?"
-
-#~ msgid "no-internet-screen_guide-step-1"
-#~ msgstr "1 qadam"
-
-#~ msgid "no-internet-screen_guide-step-1-action"
-#~ msgstr ""
-#~ "Boshqa kompyuterda foydalanib <span "
-#~ "class=\"bold\">driverpack.io/uz/foradmin</span> saytiga kiring"
-
-#~ msgid "no-internet-screen_guide-step-2"
-#~ msgstr "2 qadam"
-
-#~ msgid "no-internet-screen_guide-step-2-action"
-#~ msgstr ""
-#~ "Internetga ulanmagan holda kompyuterga drayverlarni o'rnatish uchun USB-"
-#~ "Fleshkaga<span class=\"bold\">DriverPack Offline Full</span> ni yoki <span "
-#~ "class=\"bold\">DriverPack Offline Network </span> ni yuklab oling.<br /><br "
-#~ "/><span class=\"bold\">DriverPack Offline Network</span> o'z ichiga tarmoq "
-#~ "qurilmalari uchun (Lan/Wi-Fi) drayverlarni oladi. Internetsiz ishladi (500 "
-#~ "Mb) <br /><br /> <span class=\"bold\">DriverPack Offline Full</span> barcha "
-#~ "drayverlani o'z ichiga oladi. Internetsiz ishlaydi"
-
-#~ msgid "no-internet-screen_guide-step-complete"
-#~ msgstr "Tayyor"
-
-#~ msgid "no-internet-screen_guide-step-complete-action"
-#~ msgstr ""
-#~ "Ushbu kompyuterda dasturni ishga tushiring va kompyuterni bir marta bosish "
-#~ "bilan sozlang"
-
-#~ msgid "start_installation_option_mouse"
-#~ msgstr "Sichqoncha ishlamayabdi "
-
-#~ msgid "start_installation_option_keyboard"
-#~ msgstr "Klaviatura ishlamayabdi"
-
-#~ msgid "start_installation_option_printer"
-#~ msgstr "Printer ishlamayabdi"
-
-#~ msgid "start_installation_option_video"
-#~ msgstr "Video ishlamayabdi"
-
-#~ msgid "start_installation_option_sound"
-#~ msgstr "Ovozi ishlamayabdi"
-
-#~ msgid "start_installation_option_usb"
-#~ msgstr "USB-kiruvchi teshiklar ishlamayabdi"
-
-#~ msgid "start_installation_option_webcam"
-#~ msgstr "Old-kamera ishlamayabdi"
-
-#~ msgid "start_installation_option_games"
-#~ msgstr "O`yinlar qatiyabdi"
-
-#~ msgid "start_caption_select_problems"
-#~ msgstr "yoki sizda aynan qaysi ishlamayotganini belgilang:"

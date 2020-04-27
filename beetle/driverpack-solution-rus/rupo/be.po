@@ -1,17 +1,18 @@
+# 
 # Translators:
 # Dondysh Dzmitry <tihiydon@tut.by>, 2016
 # Dmitry Dolgert <ttmozyr@tut.by>, 2017
 # Артур Кузяков <artx@drp.su>, 2017
 # Nadia Tegeneva <nadia@drp.su>, 2019
-# Дмитрий Долгерт <dolgert@gmail.com>, 2019
+# Дмитрий Долгерт <dolgert@gmail.com>, 2020
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-04-22 13:03+0000\n"
+"POT-Creation-Date: 2020-04-22 12:58+0000\n"
 "PO-Revision-Date: 2016-10-06 15:15+0000\n"
-"Last-Translator: Дмитрий Долгерт <dolgert@gmail.com>, 2019\n"
+"Last-Translator: Дмитрий Долгерт <dolgert@gmail.com>, 2020\n"
 "Language-Team: Belarusian (https://www.transifex.com/driverpack-solution/teams/75452/be/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -573,6 +574,9 @@ msgstr "https://vk.com/topic-29220845_34743007"
 msgid "start_title_default_model"
 msgstr "вашага кампутара"
 
+msgid "assistant-chat_off-caption"
+msgstr "Галасавы памагаты <br />адключаны"
+
 msgid "menu_create_recovery_point"
 msgstr "Стварыць кропку аднаўлення"
 
@@ -1017,6 +1021,9 @@ msgstr "Пацвердзіць"
 msgid "header_authorize_button"
 msgstr "Уваход і Рэгістрацыя"
 
+msgid "installation_close_confirm"
+msgstr "Вы ўпэўнены, што жадаеце перапыніць усталёўку? Гэта можа прывесці да непрацаздольнасці кампутара."
+
 msgid "authorize_popup_logout_button"
 msgstr "Выйсці з сістэмы"
 
@@ -1212,20 +1219,53 @@ msgstr "Падчас стварэння рэзервовай копіі драй
 msgid "about_run_error"
 msgstr "Пры працы DriverPack Solution паўстала праблема <br> <br> Калі праблема паўтараецца, напішыце нам на support@drp.su"
 
-msgid "loading_preparing"
-msgstr "Падрыхтоўка да запуску праграмы…"
+msgid "loading-screen_status-diagnostics-regular-mode"
+msgstr "Дыягностыка ідзе ў нармальным рэжыме"
 
-msgid "loading_system_scanning"
-msgstr "Правяраем канфігурацыю кампутара…"
+msgid "loading-screen_status-diagnostics-duration"
+msgstr "Дыягностыка займае ад 1 да 5 хвілін"
 
-msgid "loading_sending_api_request"
-msgstr "Загружаем дадзеныя з воблачнага сервера…"
+msgid "loading-screen_status-driverpack-do-not-interrupt"
+msgstr "Не перапыняйце працу DriverPack"
 
-msgid "loading_checking_installed_programs"
-msgstr "Аналізуем праграмнае забеспячэнне…"
+msgid "loading-screen_status-pc-issues"
+msgstr "Мы аналізуем праблемы вашага ПК"
 
-msgid "loading_ordering_drivers"
-msgstr "Фарміруем парадак усталёўкі драйвераў…"
+msgid "loading-screen_status-diagnostics-do-not-interrupt"
+msgstr "Не перапыняйце дыягностыку"
+
+msgid "loading-screen_status-analyzing-on-server"
+msgstr "Перадаём дадзеныя на сервер для аналізу"
+
+msgid "loading-screen_status-almost-done"
+msgstr "Мы амаль завяршылі …"
+
+msgid "loading-screen_status-please-wait"
+msgstr "Калі ласка, пачакайце"
+
+msgid "loading-screen_status-diagnostics-in-process"
+msgstr "Ідзе дыягностыка"
+
+msgid "loading-screen_status-diagnostics-going-on"
+msgstr "Дыягностыка працягваецца"
+
+msgid "loading-screen_status-device-scanning"
+msgstr "Ідзе сканаванне прылад"
+
+msgid "loading-screen_option-voice-assistant"
+msgstr "Галасавы памагаты"
+
+msgid "loading-screen_option-sound"
+msgstr "Гук у праграме"
+
+msgid "loading-screen_option-expert-mode"
+msgstr "Запуск у Рэжыме эксперта"
+
+msgid "loading-screen_message-diagnostics"
+msgstr "Звычайна загрузка і дыягностыка займаюць ад 1 да 5 хвілін. Калі ласка, дачакайцеся іх завяршэння"
+
+msgid "loading-screen_message-antivirus"
+msgstr "Не забудзьцеся адключыць антывірус — мы фіксуем шмат ілжывых спрацоўванняў апошнім часам"
 
 msgid "menu_install_drivers"
 msgstr "Усталёўка драйвераў на кампутар"
@@ -1439,6 +1479,12 @@ msgstr "Усталяваць усе драйверы"
 
 msgid "start_button_install"
 msgstr "Усталяваць усё аўтаматычна"
+
+msgid "start_auto_istallation_title"
+msgstr "Зараз пачнецца аўтаматычная налада вашага кампутара …"
+
+msgid "start_auto_istallation_button_cancel"
+msgstr "Скасаваць"
 
 msgid "start_title"
 msgstr "Аўтаматычная налада {{MODEL}}"
@@ -1710,127 +1756,3 @@ msgstr "Гукавая карта няправільна падлучана аб
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Belarusian"
-
-#~ msgid "assistant-chat_off-caption"
-#~ msgstr ""
-
-#~ msgid "installation_close_confirm"
-#~ msgstr ""
-#~ "Вы ўпэўнены, што жадаеце перапыніць усталёўку? Гэта можа прывесці да "
-#~ "непрацаздольнасці кампутара."
-
-#~ msgid "loading-screen_status-diagnostics-regular-mode"
-#~ msgstr ""
-
-#~ msgid "loading-screen_status-diagnostics-duration"
-#~ msgstr ""
-
-#~ msgid "loading-screen_status-driverpack-do-not-interrupt"
-#~ msgstr ""
-
-#~ msgid "loading-screen_status-pc-issues"
-#~ msgstr ""
-
-#~ msgid "loading-screen_status-diagnostics-do-not-interrupt"
-#~ msgstr ""
-
-#~ msgid "loading-screen_status-analyzing-on-server"
-#~ msgstr ""
-
-#~ msgid "loading-screen_status-almost-done"
-#~ msgstr ""
-
-#~ msgid "loading-screen_status-please-wait"
-#~ msgstr ""
-
-#~ msgid "loading-screen_status-diagnostics-in-process"
-#~ msgstr ""
-
-#~ msgid "loading-screen_status-diagnostics-going-on"
-#~ msgstr ""
-
-#~ msgid "loading-screen_status-device-scanning"
-#~ msgstr ""
-
-#~ msgid "loading-screen_option-voice-assistant"
-#~ msgstr ""
-
-#~ msgid "loading-screen_option-sound"
-#~ msgstr ""
-
-#~ msgid "loading-screen_option-expert-mode"
-#~ msgstr ""
-
-#~ msgid "loading-screen_message-diagnostics"
-#~ msgstr ""
-
-#~ msgid "loading-screen_message-antivirus"
-#~ msgstr ""
-
-#~ msgid "start_auto_istallation_title"
-#~ msgstr ""
-
-#~ msgid "start_auto_istallation_button_cancel"
-#~ msgstr ""
-
-#~ msgid "no-internet-screen_header-title"
-#~ msgstr "Няма злучэння з серверам"
-
-#~ msgid "no-internet-screen_guide-title"
-#~ msgstr "Як усталяваць усе патрэбныя драйверы без інтэрнэту?"
-
-#~ msgid "no-internet-screen_guide-step-1"
-#~ msgstr "Крок 1"
-
-#~ msgid "no-internet-screen_guide-step-1-action"
-#~ msgstr ""
-#~ "Зайдзіце на сайт <span class=\"bold\">driverpack.io/be/foradmin</span>, "
-#~ "скарыстаючы іншы кампутар"
-
-#~ msgid "no-internet-screen_guide-step-2"
-#~ msgstr "Крок 2"
-
-#~ msgid "no-internet-screen_guide-step-2-action"
-#~ msgstr ""
-#~ "Спампуйце на USB-флэшку <span class=\"bold\">DriverPack Offline Full</span> "
-#~ "або <span class=\"bold\">DriverPack Offline Network</span>  для ўсталёўкі "
-#~ "драйвераў на кампутар без падключэння да сеткі <br /><br /> <span "
-#~ "class=\"bold\">DriverPack Offline Network</span> утрымлівае драйверы для "
-#~ "сеткавага абсталявання (Lan/Wi-Fi), працуе без інтэрнэту (500 Мб) <br /><br "
-#~ "/> <span class=\"bold\">DriverPack Offline Full</span> утрымлівае ўсе "
-#~ "драйверы, працуе без інтэрнэту"
-
-#~ msgid "no-internet-screen_guide-step-complete"
-#~ msgstr "Гатова"
-
-#~ msgid "no-internet-screen_guide-step-complete-action"
-#~ msgstr ""
-#~ "Запусціце праграму на гэтым кампутары і наладзьце кампутар націскам адной "
-#~ "кнопкі"
-
-#~ msgid "start_installation_option_mouse"
-#~ msgstr "Не працуе мыш"
-
-#~ msgid "start_installation_option_keyboard"
-#~ msgstr "Не працуе клавіятура"
-
-#~ msgid "start_installation_option_printer"
-#~ msgstr "Не працуе прынтар"
-
-#~ msgid "start_installation_option_video"
-#~ msgstr "Не працуе відэа"
-
-#~ msgid "start_installation_option_sound"
-#~ msgstr "Не працуе гук"
-
-#~ msgid "start_installation_option_usb"
-#~ msgstr "Не працуюць USB-парты"
-
-#~ msgid "start_installation_option_webcam"
-#~ msgstr "Не працуе вэб-камера"
-
-#~ msgid "start_installation_option_games"
-#~ msgstr "Тармозяць гульні"
-
-#~ msgid "start_caption_select_problems"
-#~ msgstr "Або выберыце, што менавіта ў вас не працуе:"

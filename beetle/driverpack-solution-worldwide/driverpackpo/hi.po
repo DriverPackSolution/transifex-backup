@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DriverPack Solution Worldwide\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-04-22 13:03+0000\n"
-"PO-Revision-Date: 2020-04-23 11:51+0000\n"
+"POT-Creation-Date: 2020-04-22 12:58+0000\n"
+"PO-Revision-Date: 2020-04-24 15:10+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>\n"
 "Language-Team: Hindi (http://www.transifex.com/driverpack-solution/driverpack-solution-worldwide/language/hi/)\n"
 "MIME-Version: 1.0\n"
@@ -572,6 +572,9 @@ msgstr "https://vk.com/topic-29220845_34743007"
 msgid "start_title_default_model"
 msgstr "आपका कंप्यूटर"
 
+msgid "assistant-chat_off-caption"
+msgstr ""
+
 msgid "menu_create_recovery_point"
 msgstr "अंक बहाल बनाएँ"
 
@@ -1006,6 +1009,9 @@ msgstr " पुष्टि करें"
 msgid "header_authorize_button"
 msgstr "लॉग-इन और साइन-इन"
 
+msgid "installation_close_confirm"
+msgstr "क्या आप वाकई स्थापना को बाधित करना चाहते हैं ? यह आपके कंप्यूटर के खराबी का कारण हो सकता है।"
+
 msgid "authorize_popup_logout_button"
 msgstr "लॉग आउट"
 
@@ -1201,20 +1207,53 @@ msgstr "ड्राइवर बैकअप निर्माण की प�
 msgid "about_run_error"
 msgstr "DriverPack Solution ऑपरेशन के दौरान एक समस्या हुई <br> <br>  यदि समस्या बनी रहती है, तो हमें support@drp.su पर e-mail करें"
 
-msgid "loading_preparing"
-msgstr "ऐप लॉन्च होने के लिए तैयार हो रही है..."
+msgid "loading-screen_status-diagnostics-regular-mode"
+msgstr ""
 
-msgid "loading_system_scanning"
-msgstr "हम कंप्यूटर कॉन्फ़िगरेशन की जांच कर रहे हैं..."
+msgid "loading-screen_status-diagnostics-duration"
+msgstr ""
 
-msgid "loading_sending_api_request"
-msgstr "हम क्लाउड सर्वर से डेटा लोड कर रहे हैं..."
+msgid "loading-screen_status-driverpack-do-not-interrupt"
+msgstr ""
 
-msgid "loading_checking_installed_programs"
-msgstr "हम सॉफ्टवेयर का विश्लेषण कर रहे हैं..."
+msgid "loading-screen_status-pc-issues"
+msgstr ""
 
-msgid "loading_ordering_drivers"
-msgstr "हम ड्राइवर स्थापना आदेश उत्पन्न कर रहे हैं..."
+msgid "loading-screen_status-diagnostics-do-not-interrupt"
+msgstr ""
+
+msgid "loading-screen_status-analyzing-on-server"
+msgstr ""
+
+msgid "loading-screen_status-almost-done"
+msgstr ""
+
+msgid "loading-screen_status-please-wait"
+msgstr ""
+
+msgid "loading-screen_status-diagnostics-in-process"
+msgstr ""
+
+msgid "loading-screen_status-diagnostics-going-on"
+msgstr ""
+
+msgid "loading-screen_status-device-scanning"
+msgstr ""
+
+msgid "loading-screen_option-voice-assistant"
+msgstr ""
+
+msgid "loading-screen_option-sound"
+msgstr ""
+
+msgid "loading-screen_option-expert-mode"
+msgstr ""
+
+msgid "loading-screen_message-diagnostics"
+msgstr ""
+
+msgid "loading-screen_message-antivirus"
+msgstr ""
 
 msgid "menu_install_drivers"
 msgstr "कंप्यूटर पर ड्राइवर की स्थापना"
@@ -1428,6 +1467,12 @@ msgstr "सभी ड्राइवर स्थापित करें"
 
 msgid "start_button_install"
 msgstr "सभी स्वचालित रूप से स्थापित करें"
+
+msgid "start_auto_istallation_title"
+msgstr ""
+
+msgid "start_auto_istallation_button_cancel"
+msgstr ""
 
 msgid "start_title"
 msgstr "{{MODEL}} के स्वचालन को कॉन्फ़िगर करें"
@@ -1693,129 +1738,3 @@ msgstr "ध्वनि कार्ड गलत तरीके से जु�
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Hindi"
-
-#~ msgid "assistant-chat_off-caption"
-#~ msgstr "Voice Assistant <br /> is disabled"
-
-#~ msgid "installation_close_confirm"
-#~ msgstr ""
-#~ "Are you sure you want to interrupt the installation? It may cause your "
-#~ "computer to malfunction."
-
-#~ msgid "loading-screen_status-diagnostics-regular-mode"
-#~ msgstr "Diagnostics is going on in a regular mode"
-
-#~ msgid "loading-screen_status-diagnostics-duration"
-#~ msgstr "Diagnostics takes 1 to 5 minutes"
-
-#~ msgid "loading-screen_status-driverpack-do-not-interrupt"
-#~ msgstr "Don't interrupt DriverPack operation, please"
-
-#~ msgid "loading-screen_status-pc-issues"
-#~ msgstr "We are analyzing your PC's issues"
-
-#~ msgid "loading-screen_status-diagnostics-do-not-interrupt"
-#~ msgstr "Don't interrupt diagnostics, please"
-
-#~ msgid "loading-screen_status-analyzing-on-server"
-#~ msgstr "We are transmitting the data to the server to analyze"
-
-#~ msgid "loading-screen_status-almost-done"
-#~ msgstr "We have almost completed..."
-
-#~ msgid "loading-screen_status-please-wait"
-#~ msgstr "Wait, please"
-
-#~ msgid "loading-screen_status-diagnostics-in-process"
-#~ msgstr "Diagnostics is in process now"
-
-#~ msgid "loading-screen_status-diagnostics-going-on"
-#~ msgstr "Diagnostics is going on"
-
-#~ msgid "loading-screen_status-device-scanning"
-#~ msgstr "Device scanning is in process now"
-
-#~ msgid "loading-screen_option-voice-assistant"
-#~ msgstr "Voice Assistant"
-
-#~ msgid "loading-screen_option-sound"
-#~ msgstr "Sound in the app"
-
-#~ msgid "loading-screen_option-expert-mode"
-#~ msgstr "Start-up in the Expert Mode"
-
-#~ msgid "loading-screen_message-diagnostics"
-#~ msgstr ""
-#~ "Loading and diagnostics usually take 1 to 5 minutes. Please, wait till they "
-#~ "are completed"
-
-#~ msgid "loading-screen_message-antivirus"
-#~ msgstr ""
-#~ "Remember to disable your antivirus — we have been registering a lot of false"
-#~ " alerts recently"
-
-#~ msgid "start_auto_istallation_title"
-#~ msgstr "Automatic configuring of your computer is going to start now ..."
-
-#~ msgid "start_auto_istallation_button_cancel"
-#~ msgstr "Cancel"
-
-#~ msgid "no-internet-screen_header-title"
-#~ msgstr "No server connection"
-
-#~ msgid "no-internet-screen_guide-title"
-#~ msgstr "How to install all required drivers without Internet connection?"
-
-#~ msgid "no-internet-screen_guide-step-1"
-#~ msgstr "Step 1"
-
-#~ msgid "no-internet-screen_guide-step-1-action"
-#~ msgstr ""
-#~ "Go to <span class=\"bold\">drp.su/en/foradmin</span> website by using "
-#~ "another computer"
-
-#~ msgid "no-internet-screen_guide-step-2"
-#~ msgstr "Step 2"
-
-#~ msgid "no-internet-screen_guide-step-2-action"
-#~ msgstr ""
-#~ "Download <span class=\"bold\">DriverPack Offline Full</span> or <span "
-#~ "class=\"bold\">DriverPack Offline Network</span> to a USB flash drive to "
-#~ "install drivers onto your compluter without Internet connection <br /><br />"
-#~ " <span class=\"bold\">DriverPack Offline Network</span> includes drivers for"
-#~ " network hardware (Lan/Wi-Fi), it operates without Internet connection (500 "
-#~ "MB) <br /><br /> <span class=\"bold\">DriverPack Offline Full</span> "
-#~ "includes all drivers, operates without Internet connection"
-
-#~ msgid "no-internet-screen_guide-step-complete"
-#~ msgstr "Done"
-
-#~ msgid "no-internet-screen_guide-step-complete-action"
-#~ msgstr "Start the app on this computer and configure it with one click"
-
-#~ msgid "start_installation_option_mouse"
-#~ msgstr "Mouse doesn't function"
-
-#~ msgid "start_installation_option_keyboard"
-#~ msgstr "Keyboard doesn't function"
-
-#~ msgid "start_installation_option_printer"
-#~ msgstr "Printer doesn't work"
-
-#~ msgid "start_installation_option_video"
-#~ msgstr "Video doesn't play"
-
-#~ msgid "start_installation_option_sound"
-#~ msgstr "No sound"
-
-#~ msgid "start_installation_option_usb"
-#~ msgstr "USB ports don't function"
-
-#~ msgid "start_installation_option_webcam"
-#~ msgstr "Webcam doesn't function"
-
-#~ msgid "start_installation_option_games"
-#~ msgstr "Games slow down"
-
-#~ msgid "start_caption_select_problems"
-#~ msgstr "Or, check what exactly doesn't function on your PC:"
