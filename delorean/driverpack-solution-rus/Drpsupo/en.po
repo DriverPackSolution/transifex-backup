@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-23 16:29+0000\n"
+"POT-Creation-Date: 2020-04-27 12:44+0000\n"
 "PO-Revision-Date: 2016-12-16 14:20+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>, 2020\n"
 "Language-Team: English (https://www.transifex.com/driverpack-solution/teams/75452/en/)\n"
@@ -118,7 +118,7 @@ msgid "devicecard_download-btn"
 msgstr "Download driver"
 
 msgid "devicecard_download-repack-btn"
-msgstr "Download. *.zip archive"
+msgstr "Download ZIP"
 
 #. i18n: EN: Example: NAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10 x86; Text
 #. for {{DOWNLOAD}} is in key drivercard_no-results_download-link; RU: Пример:
@@ -164,7 +164,7 @@ msgid "devicecard_details-content-label-section"
 msgstr "Category:"
 
 msgid "devicecard_details-download-links-repack"
-msgstr "Direct download of the archive with the driver in .zip format"
+msgstr "Direct download of the ZIP with the driver"
 
 msgid "devicecard_details-links-merged_label"
 msgstr "If the Device ID you need is not found in the list, input it into the search line"
@@ -270,7 +270,7 @@ msgid "drivercard_caption-btn"
 msgstr "Download driver"
 
 msgid "drivercard_caption-repack-btn"
-msgstr "Download. *.zip archive"
+msgstr "Download ZIP"
 
 msgid "deviceidpage_all-systems"
 msgstr "all systems"
@@ -873,7 +873,7 @@ msgid "softdetails_download-link"
 msgstr "Download"
 
 msgid "soft-details_opera-descr"
-msgstr "Fast and safe Opera Browser is supplied with inbuilt ad-blocker, free VPN, inbuilt messengers, and many other items. <br /> <br />Opera Browser for computers with Windows, Mac and Linux OS will enable you to use all Internet abilities as safe, handy, and efficient way as possible."
+msgstr "Fast and safe Opera Browser is supplied with inbuilt ad-blocker, free VPN, inbuilt messengers, and many other items. <br /> <br /> Opera Browser for computers with Windows, Mac, and Linux OS will enable you to use all Internet abilities in as safe, handy, and efficient way as possible."
 
 msgid "softdetails_uninstall-page-link"
 msgstr "How to remove {{SOFT.TITLE}}"
@@ -894,7 +894,7 @@ msgid "softsearchheader_title"
 msgstr "Search results"
 
 msgid "softsearchheader_subtitle"
-msgstr "The software found that meets your query"
+msgstr "The software that meets your query is found"
 
 msgid "softsearchresult_download-link"
 msgstr "Download"
@@ -941,241 +941,121 @@ msgstr "English"
 msgid "softcategories_antivirus-single-main"
 msgstr "antivirus"
 
-msgid "softcategories_antivirus-single-for"
-msgstr "antivirus"
-
 msgid "softcategories_antivirus-plural-main"
-msgstr "antiviruses"
-
-msgid "softcategories_antivirus-plural-for"
 msgstr "antiviruses"
 
 msgid "softcategories_audio-video-converter-single-main"
 msgstr "audio/video converter"
 
-msgid "softcategories_audio-video-converter-single-for"
-msgstr "audio/video converter"
-
 msgid "softcategories_audio-video-converter-plural-main"
-msgstr "audio/video converters"
-
-msgid "softcategories_audio-video-converter-plural-for"
 msgstr "audio/video converters"
 
 msgid "softcategories_audio-video-editor-single-main"
 msgstr "audio/video editor"
 
-msgid "softcategories_audio-video-editor-single-for"
-msgstr "audio/video editor"
-
 msgid "softcategories_audio-video-editor-plural-main"
 msgstr "audio/video editors"
 
-msgid "softcategories_audio-video-editor-plural-for"
-msgstr "audio/video editor"
-
 msgid "softcategories_book-reader-single-main"
-msgstr "e-Reader"
-
-msgid "softcategories_book-reader-single-for"
-msgstr "e-Reader"
+msgstr "e-book reader"
 
 msgid "softcategories_book-reader-plural-main"
-msgstr "e-Readers"
-
-msgid "softcategories_book-reader-plural-for"
-msgstr "e-Readers"
+msgstr "e-book readers"
 
 msgid "softcategories_browser-single-main"
-msgstr "browser"
-
-msgid "softcategories_browser-single-for"
 msgstr "browser"
 
 msgid "softcategories_browser-plural-main"
 msgstr "browsers"
 
-msgid "softcategories_browser-plural-for"
-msgstr "browsers"
-
 msgid "softcategories_cd-dvd-single-main"
-msgstr "CD/DVD"
-
-msgid "softcategories_cd-dvd-single-for"
 msgstr "CD/DVD"
 
 msgid "softcategories_cd-dvd-plural-main"
 msgstr "CDs/DVDs"
 
-msgid "softcategories_cd-dvd-plural-for"
-msgstr "CDs/DVDs"
-
 msgid "softcategories_data-recovery-single-main"
-msgstr "data recovery"
-
-msgid "softcategories_data-recovery-single-for"
-msgstr "data recovery"
+msgstr "Data recovery software"
 
 msgid "softcategories_data-recovery-plural-main"
-msgstr ""
-
-msgid "softcategories_data-recovery-plural-for"
-msgstr ""
+msgstr "Data recovery software"
 
 msgid "softcategories_data-storage-single-main"
-msgstr "data storage"
-
-msgid "softcategories_data-storage-single-for"
-msgstr "data storage"
+msgstr "Data storage software"
 
 msgid "softcategories_data-storage-plural-main"
-msgstr ""
-
-msgid "softcategories_data-storage-plural-for"
-msgstr ""
+msgstr "Data storage software"
 
 msgid "softcategories_developer-tools-single-main"
-msgstr "developer tools"
-
-msgid "softcategories_developer-tools-single-for"
-msgstr "developer tools"
+msgstr "developer tool"
 
 msgid "softcategories_developer-tools-plural-main"
-msgstr ""
-
-msgid "softcategories_developer-tools-plural-for"
-msgstr ""
+msgstr "developer tools"
 
 msgid "softcategories_file-manager-single-main"
-msgstr "file manager"
-
-msgid "softcategories_file-manager-single-for"
 msgstr "file manager"
 
 msgid "softcategories_file-manager-plural-main"
 msgstr "file managers"
 
-msgid "softcategories_file-manager-plural-for"
-msgstr "file managers"
-
 msgid "softcategories_image-editor-single-main"
-msgstr "graphic editor"
-
-msgid "softcategories_image-editor-single-for"
 msgstr "graphic editor"
 
 msgid "softcategories_image-editor-plural-main"
 msgstr "graphic editors"
 
-msgid "softcategories_image-editor-plural-for"
-msgstr "graphic editors"
-
 msgid "softcategories_image-viewer-single-main"
 msgstr "image viewer"
 
-msgid "softcategories_image-viewer-single-for"
-msgstr ""
-
 msgid "softcategories_image-viewer-plural-main"
-msgstr ""
-
-msgid "softcategories_image-viewer-plural-for"
-msgstr ""
+msgstr "image viewers"
 
 msgid "softcategories_mail-client-single-main"
-msgstr "e-mail client"
-
-msgid "softcategories_mail-client-single-for"
 msgstr "e-mail client"
 
 msgid "softcategories_mail-client-plural-main"
 msgstr "e-mail clients"
 
-msgid "softcategories_mail-client-plural-for"
-msgstr "e-mail clients"
-
 msgid "softcategories_messenger-single-main"
-msgstr "messenger service"
-
-msgid "softcategories_messenger-single-for"
-msgstr "messenger service"
+msgstr "messenger"
 
 msgid "softcategories_messenger-plural-main"
-msgstr "messenger services"
-
-msgid "softcategories_messenger-plural-for"
-msgstr "messenger services"
+msgstr "messengers"
 
 msgid "softcategories_mp3-audio-player-single-main"
-msgstr "MP3 and audio player"
-
-msgid "softcategories_mp3-audio-player-single-for"
 msgstr "MP3 and audio player"
 
 msgid "softcategories_mp3-audio-player-plural-main"
 msgstr "MP3 and audio players"
 
-msgid "softcategories_mp3-audio-player-plural-for"
-msgstr "MP3 and audio players"
-
 msgid "softcategories_other-single-main"
 msgstr "other software"
 
-msgid "softcategories_other-single-for"
+msgid "softcategories_other-plural-main"
 msgstr "other software"
 
-msgid "softcategories_other-plural-main"
-msgstr ""
-
-msgid "softcategories_other-plural-for"
-msgstr ""
-
 msgid "softcategories_pdf-reader-single-main"
-msgstr "*.pdf reader"
-
-msgid "softcategories_pdf-reader-single-for"
-msgstr "*.pdf reader"
+msgstr "PDF-reader"
 
 msgid "softcategories_pdf-reader-plural-main"
-msgstr "*.pdf readers"
-
-msgid "softcategories_pdf-reader-plural-for"
-msgstr "*.pdf readers"
+msgstr "PDF-readers"
 
 msgid "softcategories_text-editor-single-main"
-msgstr "text editor"
-
-msgid "softcategories_text-editor-single-for"
 msgstr "text editor"
 
 msgid "softcategories_text-editor-plural-main"
 msgstr "text editors"
 
-msgid "softcategories_text-editor-plural-for"
-msgstr "text editors"
-
 msgid "softcategories_torrent-client-single-main"
-msgstr "Torrent Client"
-
-msgid "softcategories_torrent-client-single-for"
 msgstr "Torrent client"
 
 msgid "softcategories_torrent-client-plural-main"
 msgstr "Torrent clients"
 
-msgid "softcategories_torrent-client-plural-for"
-msgstr "Torrent clients"
-
 msgid "softcategories_video-player-single-main"
 msgstr "video player"
 
-msgid "softcategories_video-player-single-for"
-msgstr "video player"
-
 msgid "softcategories_video-player-plural-main"
-msgstr "video players"
-
-msgid "softcategories_video-player-plural-for"
 msgstr "video players"
 
 msgid "landingPagePublications_rbk"
@@ -1245,7 +1125,7 @@ msgid "partners_landing-text-opera"
 msgstr "Opera Software is a global developer of browsers and software to operate in the Internet.<br /><br />Its history has lasted for more than 20 years. Opera Software participates in developing web standards within W3C project. More that 350 million people worldwide use Opera products.<br /><br />Its headquarters is located in Oslo, the capital of Norway. "
 
 msgid "partners_landing-text-yandex"
-msgstr "Yandex is a global developer of the search engine and popular Internet services of the same name.<br /><br />In Russia, where Yandex comes from, its share among the search engines makes 56.4% (acc.to Yandex.Radar, March, 2018). This company is one of the few who successfully withstand competition with Google, the search giant.<br /><br />Its headquarters is located in Moscow, the capital of Russia."
+msgstr "Yandex is a global developer of the search engine and popular Internet services of the same name.<br /><br />In Russia, where Yandex comes from, its share among the search engines makes 56.4% (according to Yandex.Radar, for March, 2018). This company is one of the few who successfully withstands competition with Google, the search giant.<br /><br />Its headquarters is located in Moscow, the capital of Russia."
 
 msgid "partners_landing-text-avast"
 msgstr "Avast Software is a global developer of software in the field of information security.<br /><br />It releases the world most popular free antivirus. The software from Avast prevents 1.5 billion attacks against computers and the web every month.<br /><br />Its hearquarters is located in Prague, the capical of Czech Republic. "
@@ -1392,7 +1272,7 @@ msgid "patners-page-opera-subtitle"
 msgstr "DriverPack officially cooperates with the Norwegian company helping the users over the world get to know one of the best browsers better"
 
 msgid "patners-page-opera-text"
-msgstr "Opera is one of the best browsers with constantly developing technologies. Inbuilt ad blocker, messenger, and Turbo Mode extend this browser functionality without overloading computer's resources."
+msgstr "Opera is one of the best browsers with constantly developing technologies. Inbuilt ad blocker, messengers, and Turbo Mode extend this browser functionality without overloading computer's resources."
 
 msgid "patners-page-opera-pluses-title-support"
 msgstr "DriverPack has been distributed free of charge and is supported due to the partners for 10 years by now"
@@ -1401,16 +1281,16 @@ msgid "patners-page-opera-pluses-subtitle-support"
 msgstr "DriverPack has been selecting and installing drivers for any computers all over the world for almost 10 years by now. And it still remains free of charge"
 
 msgid "patners-page-opera-pluses-title-opera-best"
-msgstr "Opera is one of the best browsers with constantly developing technologies."
+msgstr "Opera is one of the best browsers with constantly developing technologies"
 
 msgid "patners-page-opera-pluses-subtitle-opera-best"
-msgstr "By installing Opera while configuring your computer, you not just get a fast and functional browser, you also support DriverPack."
+msgstr "By installing Opera while configuring your computer you not just get a fast and functional browser but you also support DriverPack."
 
 msgid "patners-page-opera-pluses-title-ecosystem"
 msgstr "It's not just a desktop browser but it's a whole ecosystem that makes your life more handy"
 
 msgid "patners-page-opera-pluses-subtitle-ecosystem"
-msgstr "Opera on mobile devices is totally synchronized with the desktop version, it has inbuilt VPN, and handy one hand managering. We highly recommend you to try it."
+msgstr "Opera on mobile devices is totally synchronized with the desktop version, it has inbuilt VPN, and handy one hand management. We highly recommend you to try it."
 
 msgid "patners-page-opera-btn"
 msgstr "Install Opera Browser"
@@ -1516,3 +1396,123 @@ msgstr "DriverPack Translation"
 
 msgid "vendorpage_subtitle-popular"
 msgstr "Popular {{VENDOR.NAME}} devices"
+
+#~ msgid "softcategories_antivirus-single-for"
+#~ msgstr "antivirus"
+
+#~ msgid "softcategories_antivirus-plural-for"
+#~ msgstr "antiviruses"
+
+#~ msgid "softcategories_audio-video-converter-single-for"
+#~ msgstr "audio/video converter"
+
+#~ msgid "softcategories_audio-video-converter-plural-for"
+#~ msgstr "audio/video converters"
+
+#~ msgid "softcategories_audio-video-editor-single-for"
+#~ msgstr "audio/video editor"
+
+#~ msgid "softcategories_audio-video-editor-plural-for"
+#~ msgstr "audio/video editor"
+
+#~ msgid "softcategories_mail-client-single-for"
+#~ msgstr "e-mail client"
+
+#~ msgid "softcategories_mail-client-plural-for"
+#~ msgstr "e-mail clients"
+
+#~ msgid "softcategories_messenger-single-for"
+#~ msgstr "messenger"
+
+#~ msgid "softcategories_messenger-plural-for"
+#~ msgstr "messengers"
+
+#~ msgid "softcategories_mp3-audio-player-single-for"
+#~ msgstr "MP3 and audio player"
+
+#~ msgid "softcategories_mp3-audio-player-plural-for"
+#~ msgstr "MP3 and audio players"
+
+#~ msgid "softcategories_other-plural-for"
+#~ msgstr ""
+
+#~ msgid "softcategories_text-editor-single-for"
+#~ msgstr "text editor"
+
+#~ msgid "softcategories_text-editor-plural-for"
+#~ msgstr "text editors"
+
+#~ msgid "softcategories_torrent-client-single-for"
+#~ msgstr "Torrent client"
+
+#~ msgid "softcategories_torrent-client-plural-for"
+#~ msgstr "Torrent clients"
+
+#~ msgid "softcategories_video-player-single-for"
+#~ msgstr "video player"
+
+#~ msgid "softcategories_video-player-plural-for"
+#~ msgstr "video players"
+
+#~ msgid "softcategories_browser-single-for"
+#~ msgstr "browser"
+
+#~ msgid "softcategories_developer-tools-single-for"
+#~ msgstr ""
+
+#~ msgid "softcategories_file-manager-single-for"
+#~ msgstr "file manager"
+
+#~ msgid "softcategories_file-manager-plural-for"
+#~ msgstr "file managers"
+
+#~ msgid "softcategories_image-editor-single-for"
+#~ msgstr "graphic editor"
+
+#~ msgid "softcategories_image-editor-plural-for"
+#~ msgstr "graphic editors"
+
+#~ msgid "softcategories_browser-plural-for"
+#~ msgstr "browsers"
+
+#~ msgid "softcategories_image-viewer-single-for"
+#~ msgstr ""
+
+#~ msgid "softcategories_data-storage-single-for"
+#~ msgstr ""
+
+#~ msgid "softcategories_data-recovery-single-for"
+#~ msgstr ""
+
+#~ msgid "softcategories_book-reader-single-for"
+#~ msgstr ""
+
+#~ msgid "softcategories_book-reader-plural-for"
+#~ msgstr ""
+
+#~ msgid "softcategories_pdf-reader-single-for"
+#~ msgstr ""
+
+#~ msgid "softcategories_pdf-reader-plural-for"
+#~ msgstr ""
+
+#~ msgid "softcategories_cd-dvd-plural-for"
+#~ msgstr ""
+
+#~ msgid "softcategories_cd-dvd-single-for"
+#~ msgstr ""
+
+#~ msgid "softcategories_other-single-for"
+#~ msgstr ""
+
+#~ msgid "softcategories_image-viewer-plural-for"
+#~ msgstr ""
+
+#~ msgid "softcategories_developer-tools-plural-for"
+#~ msgstr ""
+
+#~ msgid "softcategories_data-storage-plural-for"
+#~ msgstr ""
+
+#~ msgid "softcategories_data-recovery-plural-for"
+#~ msgstr ""
