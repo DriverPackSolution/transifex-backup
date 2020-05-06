@@ -1,19 +1,19 @@
 # Translators:
 # Артур Кузяков <artx@drp.su>, 2017
 # Norayr Manukyan <norayrmanukyan2020@gmail.com>, 2018
-# Hrant Ohanyan <h.ohanyan@haysoft.org>, 2018
-# Nadia Tegeneva <nadia@drp.su>, 2018
+# Hrant Ohanyan <h.ohanyan@haysoft.org>, 2020
 # Hrach Mkrtchyan <mhrach87@gmail.com>, 2020
+# Nadia Tegeneva <nadia@drp.su>, 2020
 # Leonid Beschasny <lbeschastny@iknow.travel>, 2017
-# Nadia Tegeneva <nadia@drp.su>, 2018
+# Nadia Tegeneva <nadia@drp.su>, 2020
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-11-21 09:46+0000\n"
+"POT-Creation-Date: 2020-04-27 12:44+0000\n"
 "PO-Revision-Date: 2016-12-16 14:30+0000\n"
-"Last-Translator: Hrach Mkrtchyan <mhrach87@gmail.com>, 2020\n"
+"Last-Translator: Nadia Tegeneva <nadia@drp.su>, 2020\n"
 "Language-Team: Armenian (https://www.transifex.com/driverpack-solution/teams/75453/hy/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -58,10 +58,19 @@ msgid "cloudpagefooter_license-link"
 msgstr "Արտոնագրային Համաձայնագիր"
 
 msgid "breadcrumbs_main-text"
-msgstr "Տնային էջ"
+msgstr ""
 
 msgid "breadcrumbs_catalog-main-text"
 msgstr "դրայվերները {{OS.NAME}}-ի համար"
+
+msgid "breadcrumbs_softcategory-text"
+msgstr ""
+
+msgid "breadcrumbs_soft-text"
+msgstr ""
+
+msgid "breadcrumbs_uninstall-text"
+msgstr "հեռացնել"
 
 msgid "breadcrumbs_vendors-text"
 msgstr "Արտադրողներ"
@@ -112,6 +121,9 @@ msgstr "{{NOTEBOOK.VENDOR.NAME}}-ի {{CLASS.PLURAL.MAIN}} {{NOTEBOOK.NAME}} նո
 msgid "devicecard_download-btn"
 msgstr "Ներբեռնել սարքավարը"
 
+msgid "devicecard_download-repack-btn"
+msgstr ""
+
 #. i18n: EN: Example: NAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10 x86; Text
 #. for {{DOWNLOAD}} is in key drivercard_no-results_download-link; RU: Пример:
 #. NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10 x86; Текст для
@@ -154,6 +166,9 @@ msgstr "Ֆայլ *.inf."
 
 msgid "devicecard_details-content-label-section"
 msgstr "Անվանակարգ:"
+
+msgid "devicecard_details-download-links-repack"
+msgstr ""
 
 msgid "devicecard_details-links-merged_label"
 msgstr "Եթե Ձեզ անհրաժեշտ Device ID-ն չի գտնվել, խնդրում ենք որոնել"
@@ -258,6 +273,9 @@ msgstr "Անվանակարգ:"
 msgid "drivercard_caption-btn"
 msgstr "Ներբեռնել սարքավարը"
 
+msgid "drivercard_caption-repack-btn"
+msgstr ""
+
 msgid "deviceidpage_all-systems"
 msgstr "բոլոր համակարգերը"
 
@@ -351,6 +369,9 @@ msgstr "DriverPack-ը անվճար կտեղադրի և կլուծի դրայվե
 msgid "landingheader_cta-btn"
 msgstr "Տեղադրել պահանջվող բոլոր սարքավարները"
 
+msgid "landingheadernav_search-soft"
+msgstr ""
+
 msgid "landingheadernav_search"
 msgstr "Սարքավարի որոնում"
 
@@ -381,6 +402,12 @@ msgstr "Տեղադրել պահանջվող բոլոր սարքավարները"
 msgid "landingnotebookvendorslist_versions"
 msgstr "DriverPack-ի այլ տարբերակներ"
 
+msgid "partners-link-text-opera"
+msgstr ""
+
+msgid "partners_landing-title"
+msgstr ""
+
 msgid "landingproducts_cta-title"
 msgstr "Ընտրի՛ր քո DriverPack-ը"
 
@@ -403,7 +430,7 @@ msgid "landingproducts_item-title-network"
 msgstr "DriverPack Offline Network"
 
 msgid "landingproducts_item-description-network"
-msgstr "Պարունակում է սարքավարներ ցանցային սարքավորումների (Lan/Wi-Fi) համար, աշխատում է առանց համացանցի <span class='nobr'>({{SIZE}})</span>"
+msgstr ""
 
 msgid "landingproducts_item-title-offline"
 msgstr "DriverPack Offline Full"
@@ -457,7 +484,7 @@ msgid "landingwizard_item-caption-setup"
 msgstr "Կարգավորեք Ձեր համակարգիչը մեկ հասարակ գործողությամբ"
 
 msgid "landingwizard_item-caption-profit"
-msgstr "Ուռա՜։ Այժմ համակարգիչը աշխատում է նորի պես!"
+msgstr ""
 
 msgid "landingwizard_cta-btn"
 msgstr "Տեղադրել պահանջվող բոլոր սարքավարները"
@@ -819,6 +846,69 @@ msgstr "Հոգնե՞լ եք սարքավարներ որոնելուց?"
 msgid "sidebanner_caption"
 msgstr "DriverPack-ն ինքնաբար <span class='SideBanner__caption-marked'>կգտնի և կտեղադրի</span> անհրաժեշտ սարքավարները"
 
+msgid "softdetails-rating"
+msgstr ""
+
+msgid "recommend-opera"
+msgstr ""
+
+msgid "softdetails_download-count"
+msgstr ""
+
+msgid "softdetails_package-size"
+msgstr "Չափ՝"
+
+msgid "softdetails_added"
+msgstr ""
+
+msgid "softdetails_license"
+msgstr ""
+
+msgid "softdetails_license-free"
+msgstr ""
+
+msgid "softdetails_os"
+msgstr ""
+
+msgid "softdetails_uninstall-link"
+msgstr ""
+
+msgid "softdetails_download-link"
+msgstr "Ներբեռնել"
+
+msgid "soft-details_opera-descr"
+msgstr ""
+
+msgid "softdetails_uninstall-page-link"
+msgstr ""
+
+msgid "program-month-text"
+msgstr ""
+
+msgid "softlandingheader_search-title"
+msgstr ""
+
+msgid "softsearch_input-placeholder"
+msgstr ""
+
+msgid "softsearchformitem_type-category"
+msgstr ""
+
+msgid "softsearchheader_title"
+msgstr ""
+
+msgid "softsearchheader_subtitle"
+msgstr ""
+
+msgid "softsearchresult_download-link"
+msgstr "Ներբեռնել"
+
+msgid "topsoft_item-download-count"
+msgstr ""
+
+msgid "topsoft_item-download-link"
+msgstr "Ներբեռնել"
+
 msgid "translationheader_cta-text"
 msgstr "Օգնեք մեզ հասանելի դարձնել DriverPack-ն միլիոնավոր օգտվողների համար ամբողջ աշխարհում — մասնակցեք մեր կամավորական նախագծում՝ այն այլ լեզուներով թարգմանելու համար"
 
@@ -851,6 +941,126 @@ msgstr "նոութբուք"
 
 msgid "language_title"
 msgstr "Armenian"
+
+msgid "softcategories_antivirus-single-main"
+msgstr "հակավիրուս"
+
+msgid "softcategories_antivirus-plural-main"
+msgstr ""
+
+msgid "softcategories_audio-video-converter-single-main"
+msgstr ""
+
+msgid "softcategories_audio-video-converter-plural-main"
+msgstr ""
+
+msgid "softcategories_audio-video-editor-single-main"
+msgstr ""
+
+msgid "softcategories_audio-video-editor-plural-main"
+msgstr ""
+
+msgid "softcategories_book-reader-single-main"
+msgstr ""
+
+msgid "softcategories_book-reader-plural-main"
+msgstr ""
+
+msgid "softcategories_browser-single-main"
+msgstr "դիտարկիչ"
+
+msgid "softcategories_browser-plural-main"
+msgstr ""
+
+msgid "softcategories_cd-dvd-single-main"
+msgstr ""
+
+msgid "softcategories_cd-dvd-plural-main"
+msgstr ""
+
+msgid "softcategories_data-recovery-single-main"
+msgstr ""
+
+msgid "softcategories_data-recovery-plural-main"
+msgstr ""
+
+msgid "softcategories_data-storage-single-main"
+msgstr ""
+
+msgid "softcategories_data-storage-plural-main"
+msgstr ""
+
+msgid "softcategories_developer-tools-single-main"
+msgstr ""
+
+msgid "softcategories_developer-tools-plural-main"
+msgstr ""
+
+msgid "softcategories_file-manager-single-main"
+msgstr ""
+
+msgid "softcategories_file-manager-plural-main"
+msgstr ""
+
+msgid "softcategories_image-editor-single-main"
+msgstr ""
+
+msgid "softcategories_image-editor-plural-main"
+msgstr ""
+
+msgid "softcategories_image-viewer-single-main"
+msgstr ""
+
+msgid "softcategories_image-viewer-plural-main"
+msgstr ""
+
+msgid "softcategories_mail-client-single-main"
+msgstr ""
+
+msgid "softcategories_mail-client-plural-main"
+msgstr ""
+
+msgid "softcategories_messenger-single-main"
+msgstr ""
+
+msgid "softcategories_messenger-plural-main"
+msgstr ""
+
+msgid "softcategories_mp3-audio-player-single-main"
+msgstr ""
+
+msgid "softcategories_mp3-audio-player-plural-main"
+msgstr ""
+
+msgid "softcategories_other-single-main"
+msgstr ""
+
+msgid "softcategories_other-plural-main"
+msgstr ""
+
+msgid "softcategories_pdf-reader-single-main"
+msgstr ""
+
+msgid "softcategories_pdf-reader-plural-main"
+msgstr ""
+
+msgid "softcategories_text-editor-single-main"
+msgstr ""
+
+msgid "softcategories_text-editor-plural-main"
+msgstr ""
+
+msgid "softcategories_torrent-client-single-main"
+msgstr ""
+
+msgid "softcategories_torrent-client-plural-main"
+msgstr ""
+
+msgid "softcategories_video-player-single-main"
+msgstr ""
+
+msgid "softcategories_video-player-plural-main"
+msgstr ""
 
 msgid "landingPagePublications_rbk"
 msgstr "DriverPack-ը — ծրագրաշար է, որը կազմված է Արթուր Կուզյակովի թիմի կողմից մանրազնին կերպով ընտրված և փորձարկված սարքավարներից Windows-ի համար։ Տվյալ հավելվածը վերլուծում է օգտվողի համակարգիչը և տեղադրում է դրա վրա հարկավոր սարքավարները, ինչը լուծում է երկու խնդիր. նախ արագացնում է համակարգչի կարգավորումը (ինչը հատկապես կարևոր է, երբ համակարգում կա մի քանի տասնյակ համակարգիչներ), այնուհետև՝ բարելավում է դրա գործառնական կարողությունները."
@@ -913,6 +1123,15 @@ msgid "adminpagefaq_stable-q"
 msgstr ""
 
 msgid "adminpagefaq_stable-a"
+msgstr ""
+
+msgid "partners_landing-text-opera"
+msgstr ""
+
+msgid "partners_landing-text-yandex"
+msgstr ""
+
+msgid "partners_landing-text-avast"
 msgstr ""
 
 msgid "cloudpagefaq_remove_soft-q"
@@ -1050,11 +1269,76 @@ msgstr ""
 msgid "notebooksvendorpage_subtitle-all"
 msgstr ""
 
+msgid "patners-page-opera-title"
+msgstr ""
+
+msgid "patners-page-opera-subtitle"
+msgstr ""
+
+msgid "patners-page-opera-text"
+msgstr ""
+
+msgid "patners-page-opera-pluses-title-support"
+msgstr ""
+
+msgid "patners-page-opera-pluses-subtitle-support"
+msgstr ""
+
+msgid "patners-page-opera-pluses-title-opera-best"
+msgstr ""
+
+msgid "patners-page-opera-pluses-subtitle-opera-best"
+msgstr ""
+
+msgid "patners-page-opera-pluses-title-ecosystem"
+msgstr ""
+
+msgid "patners-page-opera-pluses-subtitle-ecosystem"
+msgstr ""
+
+msgid "patners-page-opera-btn"
+msgstr ""
+
 msgid "reviewpage_title"
 msgstr ""
 
 msgid "searchpage_show-more-link"
 msgstr "Ցուցադրել ավելին"
+
+msgid "softcategorypage_categories-title"
+msgstr ""
+
+msgid "softlandingpage_topsoft-title"
+msgstr ""
+
+msgid "softlandingpage_categories-title"
+msgstr ""
+
+msgid "softsearchpage_show-more-link"
+msgstr ""
+
+msgid "softsearchpage_no-results"
+msgstr ""
+
+#. i18n: EN: text for {{LINK}} is in key softthankyoupopup_download-link; RU:
+#. текст для {{LINK}} находится в ключе softthankyoupopup_download-link;
+msgid "softthankyoupopup_download-text"
+msgstr ""
+
+msgid "softthankyoupopup_licence-text"
+msgstr ""
+
+msgid "softthankyoupopup_title"
+msgstr ""
+
+msgid "softthankyoupopup_subtitle"
+msgstr ""
+
+msgid "softthankyoupopup_licence-link"
+msgstr "Արտոնագրային Համաձայնագիր"
+
+msgid "softthankyoupopup_download-link"
+msgstr "ներբեռնել"
 
 #. i18n: EN: text for {{LINK}} is in key thankyoupopup_download-link; RU:
 #. текст для {{LINK}} находится в ключе thankyoupopup_download-link;

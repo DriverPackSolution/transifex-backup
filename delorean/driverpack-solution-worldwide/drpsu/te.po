@@ -1,17 +1,17 @@
 # Translators:
 # BHALLAMUDI SRINIVASA RAO <bhallamudi_s@rediffmail.com>, 2018
-# Nadia Tegeneva <nadia@drp.su>, 2018
-# ashoka chakrans <ashokachakrans@gmail.com>, 2018
+# Nadia Tegeneva <nadia@drp.su>, 2020
+# ashoka chakrans <ashokachakrans@gmail.com>, 2020
 # Leonid Beschasny <lbeschastny@iknow.travel>, 2017
-# Nadia Tegeneva <nadia@drp.su>, 2018
+# Nadia Tegeneva <nadia@drp.su>, 2020
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-11-21 09:46+0000\n"
+"POT-Creation-Date: 2020-04-27 12:44+0000\n"
 "PO-Revision-Date: 2016-12-16 14:30+0000\n"
-"Last-Translator: ashoka chakrans <ashokachakrans@gmail.com>, 2018\n"
+"Last-Translator: ashoka chakrans <ashokachakrans@gmail.com>, 2020\n"
 "Language-Team: Telugu (https://www.transifex.com/driverpack-solution/teams/75453/te/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -56,10 +56,19 @@ msgid "cloudpagefooter_license-link"
 msgstr "అధికారపూరిత అనుమతి"
 
 msgid "breadcrumbs_main-text"
-msgstr "హోమ్ పేజీ లేదా ప్రముఖ స్థలము"
+msgstr ""
 
 msgid "breadcrumbs_catalog-main-text"
 msgstr "డ్రైవర్స్ కోసం {{OS.NAME}}"
+
+msgid "breadcrumbs_softcategory-text"
+msgstr ""
+
+msgid "breadcrumbs_soft-text"
+msgstr ""
+
+msgid "breadcrumbs_uninstall-text"
+msgstr "తొలగించడానికి"
 
 msgid "breadcrumbs_vendors-text"
 msgstr "తయారీదారులు"
@@ -110,6 +119,9 @@ msgstr "{{CLASS.PLURAL.MAIN}} ఆఫ్ {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME
 msgid "devicecard_download-btn"
 msgstr "డౌన్లోడ్ డ్రైవర్"
 
+msgid "devicecard_download-repack-btn"
+msgstr ""
+
 #. i18n: EN: Example: NAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10 x86; Text
 #. for {{DOWNLOAD}} is in key drivercard_no-results_download-link; RU: Пример:
 #. NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10 x86; Текст для
@@ -152,6 +164,9 @@ msgstr "ఫైలు *.సమాచారం:"
 
 msgid "devicecard_details-content-label-section"
 msgstr "విభాగం"
+
+msgid "devicecard_details-download-links-repack"
+msgstr ""
 
 msgid "devicecard_details-links-merged_label"
 msgstr " మీకు అవసరమైన Device ID జాబితాలో కనుగొనబడకపోతే, శోధన లైన్లో దాన్ని సెర్చ్ చేయండి"
@@ -256,6 +271,9 @@ msgstr "విభాగం:"
 msgid "drivercard_caption-btn"
 msgstr "డౌన్లోడ్ డ్రైవర్"
 
+msgid "drivercard_caption-repack-btn"
+msgstr ""
+
 msgid "deviceidpage_all-systems"
 msgstr "అన్ని సిస్టములు"
 
@@ -349,6 +367,9 @@ msgstr "DriverPack డ్రైవర్స్ ఉచితంగా ఇన్�
 msgid "landingheader_cta-btn"
 msgstr "అన్ని అవసరమైన డ్రైవర్స్ ఇన్స్టాల్ చేయండి"
 
+msgid "landingheadernav_search-soft"
+msgstr ""
+
 msgid "landingheadernav_search"
 msgstr "డ్రైవర్ శోధన"
 
@@ -379,6 +400,12 @@ msgstr "అన్ని అవసరమైన డ్రైవర్స్ ఇన
 msgid "landingnotebookvendorslist_versions"
 msgstr "ఇతర DriverPack సంస్కరణలు"
 
+msgid "partners-link-text-opera"
+msgstr ""
+
+msgid "partners_landing-title"
+msgstr ""
+
 msgid "landingproducts_cta-title"
 msgstr "ఎంచుకో DriverPack"
 
@@ -401,7 +428,7 @@ msgid "landingproducts_item-title-network"
 msgstr "DriverPack Offline Network"
 
 msgid "landingproducts_item-description-network"
-msgstr "ఇది నెట్వర్క్ హార్డ్వేర్ (లాన్/Wi-Fi) కోసం డ్రైవర్లను కలిగి ఉంది, ఇది ఇంటర్నెట్కు సంబంధం లేకుండా పనిచేస్తుంది <span class='nobr'>({{SIZE}})</span>"
+msgstr ""
 
 msgid "landingproducts_item-title-offline"
 msgstr "DriverPack Offline Full"
@@ -455,7 +482,7 @@ msgid "landingwizard_item-caption-setup"
 msgstr "మీ కంప్యూటర్ ఒక సాధారణ చర్యతో కాన్ఫిగర్ చేయండి"
 
 msgid "landingwizard_item-caption-profit"
-msgstr "అవును! ఇప్పుడు నా కంప్యూటర్ బ్రాండ్ కొత్తది!"
+msgstr ""
 
 msgid "landingwizard_cta-btn"
 msgstr "అన్ని అవసరమైన డ్రైవర్స్ ఇన్స్టాల్ చేయండి"
@@ -817,6 +844,69 @@ msgstr "మీరు చూసి అలసిపోతారు డ్రైవ
 msgid "sidebanner_caption"
 msgstr "DriverPack స్వయంచాలకంగా అవుతుంది <span class='SideBanner__caption-marked'>ఎంచుకోండి మరియు ఇన్స్టాల్</span> అవసరమైన డ్రైవర్స్"
 
+msgid "softdetails-rating"
+msgstr ""
+
+msgid "recommend-opera"
+msgstr ""
+
+msgid "softdetails_download-count"
+msgstr ""
+
+msgid "softdetails_package-size"
+msgstr "పరిమాణం:"
+
+msgid "softdetails_added"
+msgstr ""
+
+msgid "softdetails_license"
+msgstr ""
+
+msgid "softdetails_license-free"
+msgstr ""
+
+msgid "softdetails_os"
+msgstr ""
+
+msgid "softdetails_uninstall-link"
+msgstr ""
+
+msgid "softdetails_download-link"
+msgstr "డౌన్లోడ్"
+
+msgid "soft-details_opera-descr"
+msgstr ""
+
+msgid "softdetails_uninstall-page-link"
+msgstr ""
+
+msgid "program-month-text"
+msgstr ""
+
+msgid "softlandingheader_search-title"
+msgstr ""
+
+msgid "softsearch_input-placeholder"
+msgstr ""
+
+msgid "softsearchformitem_type-category"
+msgstr ""
+
+msgid "softsearchheader_title"
+msgstr ""
+
+msgid "softsearchheader_subtitle"
+msgstr ""
+
+msgid "softsearchresult_download-link"
+msgstr "డౌన్లోడ్"
+
+msgid "topsoft_item-download-count"
+msgstr ""
+
+msgid "topsoft_item-download-link"
+msgstr "డౌన్లోడ్"
+
 msgid "translationheader_cta-text"
 msgstr "ప్రపంచవ్యాప్తంగా లక్షలాది మంది PC వినియోగదారులకు DriverPack అందుబాటులో ఉండేలా మాకు సహాయం చేయండి — ఇతర భాషలకు అనువాదం చేయడానికి మా స్వచ్ఛంద ప్రాజెక్ట్లో పాల్గొనండి"
 
@@ -849,6 +939,126 @@ msgstr "ల్యాప్టాప్లు"
 
 msgid "language_title"
 msgstr "Telugu"
+
+msgid "softcategories_antivirus-single-main"
+msgstr "అంటి వైరస్ "
+
+msgid "softcategories_antivirus-plural-main"
+msgstr ""
+
+msgid "softcategories_audio-video-converter-single-main"
+msgstr ""
+
+msgid "softcategories_audio-video-converter-plural-main"
+msgstr ""
+
+msgid "softcategories_audio-video-editor-single-main"
+msgstr ""
+
+msgid "softcategories_audio-video-editor-plural-main"
+msgstr ""
+
+msgid "softcategories_book-reader-single-main"
+msgstr ""
+
+msgid "softcategories_book-reader-plural-main"
+msgstr ""
+
+msgid "softcategories_browser-single-main"
+msgstr "బ్రౌజరు "
+
+msgid "softcategories_browser-plural-main"
+msgstr ""
+
+msgid "softcategories_cd-dvd-single-main"
+msgstr ""
+
+msgid "softcategories_cd-dvd-plural-main"
+msgstr ""
+
+msgid "softcategories_data-recovery-single-main"
+msgstr ""
+
+msgid "softcategories_data-recovery-plural-main"
+msgstr ""
+
+msgid "softcategories_data-storage-single-main"
+msgstr ""
+
+msgid "softcategories_data-storage-plural-main"
+msgstr ""
+
+msgid "softcategories_developer-tools-single-main"
+msgstr ""
+
+msgid "softcategories_developer-tools-plural-main"
+msgstr ""
+
+msgid "softcategories_file-manager-single-main"
+msgstr ""
+
+msgid "softcategories_file-manager-plural-main"
+msgstr ""
+
+msgid "softcategories_image-editor-single-main"
+msgstr ""
+
+msgid "softcategories_image-editor-plural-main"
+msgstr ""
+
+msgid "softcategories_image-viewer-single-main"
+msgstr ""
+
+msgid "softcategories_image-viewer-plural-main"
+msgstr ""
+
+msgid "softcategories_mail-client-single-main"
+msgstr ""
+
+msgid "softcategories_mail-client-plural-main"
+msgstr ""
+
+msgid "softcategories_messenger-single-main"
+msgstr ""
+
+msgid "softcategories_messenger-plural-main"
+msgstr ""
+
+msgid "softcategories_mp3-audio-player-single-main"
+msgstr ""
+
+msgid "softcategories_mp3-audio-player-plural-main"
+msgstr ""
+
+msgid "softcategories_other-single-main"
+msgstr ""
+
+msgid "softcategories_other-plural-main"
+msgstr ""
+
+msgid "softcategories_pdf-reader-single-main"
+msgstr ""
+
+msgid "softcategories_pdf-reader-plural-main"
+msgstr ""
+
+msgid "softcategories_text-editor-single-main"
+msgstr ""
+
+msgid "softcategories_text-editor-plural-main"
+msgstr ""
+
+msgid "softcategories_torrent-client-single-main"
+msgstr ""
+
+msgid "softcategories_torrent-client-plural-main"
+msgstr ""
+
+msgid "softcategories_video-player-single-main"
+msgstr ""
+
+msgid "softcategories_video-player-plural-main"
+msgstr ""
 
 msgid "landingPagePublications_rbk"
 msgstr "DriverPack అనేది Windows కోసం డ్రైవర్స్ కలిగి ఉన్న సాఫ్ట్వేర్ , ఇది ఆర్థర్ కుజుయకోవ్ యొక్క బృందం పూర్తిగా ఎంచుకొని పరీక్షించింది. ఈ అనువర్తనం ఒక యూజర్ యొక్క కంప్యూటర్ విశ్లేషించి, అవసరమైన డ్రైవర్స్ ఇన్ స్టాల్ చేస్తుంది, ఇది రెండు సమస్యలను పరిష్కరించడానికి మీకు వీలు కల్పిస్తుంది: ముందుగా, కంప్యూటర్ యొక్క కాన్ఫిగరేషన్ యొక్క ప్రక్రియను వేగవంతం చేయడానికి (ఒక వ్యవస్థలో డజన్ల కొద్దీ కంప్యూటర్లు ఉంటే ఇది చాలా ముఖ్యం); రెండవది, దాని కార్యాచరణ సామర్థ్యాన్ని మెరుగుపర్చడానికి."
@@ -912,6 +1122,15 @@ msgstr "డ్రైవర్ సరిగా సంస్థాపించబ�
 
 msgid "adminpagefaq_stable-a"
 msgstr "DriverPack సాఫ్ట్వేర్  యొక్క ఆపరేషన్ స్థిరత్వం మా ప్రధాన ప్రాధాన్యతలలో ఒకటి, కానీ అవి చాలా అరుదుగా ఉన్నప్పటికీ చిన్న వైఫల్యాలు ఇప్పటికీ జరుగుతాయి. అందువల్ల మేము తిరిగి పునరుద్ధరించే పాయింట్ను సృష్టించుకుంటాం, ఇది ప్రతిసారి మీరు ముందుగా కాన్ఫిగర్ చేసిన స్థితికి తిరిగి రావడానికి వీలు కల్పిస్తుంది. భవిష్యత్లో ఇదే సమస్యను నివారించడానికి, DriverPack మెనూ కు వెళ్లి సాఫ్ట్వేర్ స్వయంచాలకంగా రూపొందించిన నివేదికను మా సాంకేతిక సేవలకు పంపమని మేము మీకు సిఫార్సు చేస్తున్నాము."
+
+msgid "partners_landing-text-opera"
+msgstr ""
+
+msgid "partners_landing-text-yandex"
+msgstr ""
+
+msgid "partners_landing-text-avast"
+msgstr ""
 
 msgid "cloudpagefaq_remove_soft-q"
 msgstr "DriverPack Cloud నా కంప్యూటర్ నుండి కొన్ని సాఫ్ట్వేర్ తీసివేయమని ఎందుకు సూచిస్తుంది?"
@@ -1048,11 +1267,76 @@ msgstr ""
 msgid "notebooksvendorpage_subtitle-all"
 msgstr ""
 
+msgid "patners-page-opera-title"
+msgstr ""
+
+msgid "patners-page-opera-subtitle"
+msgstr ""
+
+msgid "patners-page-opera-text"
+msgstr ""
+
+msgid "patners-page-opera-pluses-title-support"
+msgstr ""
+
+msgid "patners-page-opera-pluses-subtitle-support"
+msgstr ""
+
+msgid "patners-page-opera-pluses-title-opera-best"
+msgstr ""
+
+msgid "patners-page-opera-pluses-subtitle-opera-best"
+msgstr ""
+
+msgid "patners-page-opera-pluses-title-ecosystem"
+msgstr ""
+
+msgid "patners-page-opera-pluses-subtitle-ecosystem"
+msgstr ""
+
+msgid "patners-page-opera-btn"
+msgstr ""
+
 msgid "reviewpage_title"
 msgstr "మెరుగుదలలు మరియు సలహాలను DriverPack"
 
 msgid "searchpage_show-more-link"
 msgstr "మరిన్ని చూడండి"
+
+msgid "softcategorypage_categories-title"
+msgstr ""
+
+msgid "softlandingpage_topsoft-title"
+msgstr ""
+
+msgid "softlandingpage_categories-title"
+msgstr ""
+
+msgid "softsearchpage_show-more-link"
+msgstr ""
+
+msgid "softsearchpage_no-results"
+msgstr ""
+
+#. i18n: EN: text for {{LINK}} is in key softthankyoupopup_download-link; RU:
+#. текст для {{LINK}} находится в ключе softthankyoupopup_download-link;
+msgid "softthankyoupopup_download-text"
+msgstr ""
+
+msgid "softthankyoupopup_licence-text"
+msgstr ""
+
+msgid "softthankyoupopup_title"
+msgstr ""
+
+msgid "softthankyoupopup_subtitle"
+msgstr ""
+
+msgid "softthankyoupopup_licence-link"
+msgstr "లైసెన్స్ ఒప్పందం"
+
+msgid "softthankyoupopup_download-link"
+msgstr "డౌన్లోడ్"
 
 #. i18n: EN: text for {{LINK}} is in key thankyoupopup_download-link; RU:
 #. текст для {{LINK}} находится в ключе thankyoupopup_download-link;

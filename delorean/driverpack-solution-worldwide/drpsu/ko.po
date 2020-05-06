@@ -1,16 +1,16 @@
 # Translators:
 # Nadia Tegeneva <nadia@drp.su>, 2018
-# JeongMin, Lim <jm1288@naver.com>, 2019
+# JeongMin, Lim <jm1288@naver.com>, 2020
 # Leonid Beschasny <lbeschastny@iknow.travel>, 2017
-# Nadia Tegeneva <nadia@drp.su>, 2018
+# Nadia Tegeneva <nadia@drp.su>, 2020
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-11-21 09:46+0000\n"
+"POT-Creation-Date: 2020-04-27 12:44+0000\n"
 "PO-Revision-Date: 2016-12-16 14:30+0000\n"
-"Last-Translator: JeongMin, Lim <jm1288@naver.com>, 2019\n"
+"Last-Translator: JeongMin, Lim <jm1288@naver.com>, 2020\n"
 "Language-Team: Korean (https://www.transifex.com/driverpack-solution/teams/75453/ko/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -55,10 +55,19 @@ msgid "cloudpagefooter_license-link"
 msgstr "라이센스 동의"
 
 msgid "breadcrumbs_main-text"
-msgstr "홈페이지"
+msgstr ""
 
 msgid "breadcrumbs_catalog-main-text"
 msgstr "{{OS.NAME}} 용 드라이버"
+
+msgid "breadcrumbs_softcategory-text"
+msgstr ""
+
+msgid "breadcrumbs_soft-text"
+msgstr ""
+
+msgid "breadcrumbs_uninstall-text"
+msgstr "제거"
 
 msgid "breadcrumbs_vendors-text"
 msgstr "제조사"
@@ -109,6 +118,9 @@ msgstr "{{NOTEBOOK.VENDOR.NAME}} 의 {{CLASS.PLURAL.MAIN}} {{NOTEBOOK.NAME}} 노
 msgid "devicecard_download-btn"
 msgstr "드라이버 다운로드"
 
+msgid "devicecard_download-repack-btn"
+msgstr ""
+
 #. i18n: EN: Example: NAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10 x86; Text
 #. for {{DOWNLOAD}} is in key drivercard_no-results_download-link; RU: Пример:
 #. NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10 x86; Текст для
@@ -151,6 +163,9 @@ msgstr "*.inf 파일:"
 
 msgid "devicecard_details-content-label-section"
 msgstr "범주:"
+
+msgid "devicecard_details-download-links-repack"
+msgstr ""
 
 msgid "devicecard_details-links-merged_label"
 msgstr "필요한 Device ID 가 목록에 없으면 검색 라인에 입력하세요"
@@ -255,6 +270,9 @@ msgstr "범주:"
 msgid "drivercard_caption-btn"
 msgstr "드라이버 다운로드"
 
+msgid "drivercard_caption-repack-btn"
+msgstr ""
+
 msgid "deviceidpage_all-systems"
 msgstr "모든 시스템"
 
@@ -348,6 +366,9 @@ msgstr "DriverPack 은 무료로 드라이버를 설치하고 모든 장치에�
 msgid "landingheader_cta-btn"
 msgstr "필요한 모든 드라이버 설치"
 
+msgid "landingheadernav_search-soft"
+msgstr ""
+
 msgid "landingheadernav_search"
 msgstr "드라이버 검색"
 
@@ -378,6 +399,12 @@ msgstr "필요한 모든 드라이버 설치"
 msgid "landingnotebookvendorslist_versions"
 msgstr "기타 DriverPack 버전"
 
+msgid "partners-link-text-opera"
+msgstr ""
+
+msgid "partners_landing-title"
+msgstr ""
+
 msgid "landingproducts_cta-title"
 msgstr "DriverPack 을 선택하세요"
 
@@ -400,7 +427,7 @@ msgid "landingproducts_item-title-network"
 msgstr "DriverPack Offline Network"
 
 msgid "landingproducts_item-description-network"
-msgstr "네트워크 하드웨어 (Lan / Wi-Fi) 용 드라이버가 포함되어 있으며 인터넷 <span class='nobr'>({{SIZE}})</span>에 연결하지 않고 작동합니다"
+msgstr ""
 
 msgid "landingproducts_item-title-offline"
 msgstr "DriverPack Offline Full"
@@ -454,7 +481,7 @@ msgid "landingwizard_item-caption-setup"
 msgstr "하나의 간단한 작업으로 컴퓨터를 구성하세요"
 
 msgid "landingwizard_item-caption-profit"
-msgstr "예! 이제 내 컴퓨터는 아주 새로운 것처럼 작동합니다!"
+msgstr ""
 
 msgid "landingwizard_cta-btn"
 msgstr "필요한 모든 드라이버 설치"
@@ -816,6 +843,69 @@ msgstr "당신은 드라이버를 찾는 것에 지쳤습니까?"
 msgid "sidebanner_caption"
 msgstr "DriverPack 은 필요한 드라이버를 자동으로 <span class='SideBanner__caption-marked'>선택하여 설치합니다</span>"
 
+msgid "softdetails-rating"
+msgstr ""
+
+msgid "recommend-opera"
+msgstr ""
+
+msgid "softdetails_download-count"
+msgstr ""
+
+msgid "softdetails_package-size"
+msgstr "크기:"
+
+msgid "softdetails_added"
+msgstr ""
+
+msgid "softdetails_license"
+msgstr ""
+
+msgid "softdetails_license-free"
+msgstr ""
+
+msgid "softdetails_os"
+msgstr ""
+
+msgid "softdetails_uninstall-link"
+msgstr ""
+
+msgid "softdetails_download-link"
+msgstr "다운로드"
+
+msgid "soft-details_opera-descr"
+msgstr ""
+
+msgid "softdetails_uninstall-page-link"
+msgstr ""
+
+msgid "program-month-text"
+msgstr ""
+
+msgid "softlandingheader_search-title"
+msgstr ""
+
+msgid "softsearch_input-placeholder"
+msgstr ""
+
+msgid "softsearchformitem_type-category"
+msgstr ""
+
+msgid "softsearchheader_title"
+msgstr ""
+
+msgid "softsearchheader_subtitle"
+msgstr ""
+
+msgid "softsearchresult_download-link"
+msgstr "다운로드"
+
+msgid "topsoft_item-download-count"
+msgstr ""
+
+msgid "topsoft_item-download-link"
+msgstr "다운로드"
+
 msgid "translationheader_cta-text"
 msgstr "전세계 수백만 PC 사용자가 사용할 수있는 DriverPack 을 만들 수 있도록 도와주세요 — 자원 봉사 프로젝트에 참여하여 다른 언어로 번역하세요"
 
@@ -848,6 +938,126 @@ msgstr "노트북"
 
 msgid "language_title"
 msgstr "Korean"
+
+msgid "softcategories_antivirus-single-main"
+msgstr "바이러스 백신"
+
+msgid "softcategories_antivirus-plural-main"
+msgstr ""
+
+msgid "softcategories_audio-video-converter-single-main"
+msgstr ""
+
+msgid "softcategories_audio-video-converter-plural-main"
+msgstr ""
+
+msgid "softcategories_audio-video-editor-single-main"
+msgstr ""
+
+msgid "softcategories_audio-video-editor-plural-main"
+msgstr ""
+
+msgid "softcategories_book-reader-single-main"
+msgstr ""
+
+msgid "softcategories_book-reader-plural-main"
+msgstr ""
+
+msgid "softcategories_browser-single-main"
+msgstr "브라우저"
+
+msgid "softcategories_browser-plural-main"
+msgstr ""
+
+msgid "softcategories_cd-dvd-single-main"
+msgstr ""
+
+msgid "softcategories_cd-dvd-plural-main"
+msgstr ""
+
+msgid "softcategories_data-recovery-single-main"
+msgstr ""
+
+msgid "softcategories_data-recovery-plural-main"
+msgstr ""
+
+msgid "softcategories_data-storage-single-main"
+msgstr ""
+
+msgid "softcategories_data-storage-plural-main"
+msgstr ""
+
+msgid "softcategories_developer-tools-single-main"
+msgstr ""
+
+msgid "softcategories_developer-tools-plural-main"
+msgstr ""
+
+msgid "softcategories_file-manager-single-main"
+msgstr ""
+
+msgid "softcategories_file-manager-plural-main"
+msgstr ""
+
+msgid "softcategories_image-editor-single-main"
+msgstr ""
+
+msgid "softcategories_image-editor-plural-main"
+msgstr ""
+
+msgid "softcategories_image-viewer-single-main"
+msgstr ""
+
+msgid "softcategories_image-viewer-plural-main"
+msgstr ""
+
+msgid "softcategories_mail-client-single-main"
+msgstr ""
+
+msgid "softcategories_mail-client-plural-main"
+msgstr ""
+
+msgid "softcategories_messenger-single-main"
+msgstr ""
+
+msgid "softcategories_messenger-plural-main"
+msgstr ""
+
+msgid "softcategories_mp3-audio-player-single-main"
+msgstr ""
+
+msgid "softcategories_mp3-audio-player-plural-main"
+msgstr ""
+
+msgid "softcategories_other-single-main"
+msgstr ""
+
+msgid "softcategories_other-plural-main"
+msgstr ""
+
+msgid "softcategories_pdf-reader-single-main"
+msgstr ""
+
+msgid "softcategories_pdf-reader-plural-main"
+msgstr ""
+
+msgid "softcategories_text-editor-single-main"
+msgstr ""
+
+msgid "softcategories_text-editor-plural-main"
+msgstr ""
+
+msgid "softcategories_torrent-client-single-main"
+msgstr ""
+
+msgid "softcategories_torrent-client-plural-main"
+msgstr ""
+
+msgid "softcategories_video-player-single-main"
+msgstr ""
+
+msgid "softcategories_video-player-plural-main"
+msgstr ""
 
 msgid "landingPagePublications_rbk"
 msgstr "DriverPack 은 Artur Kuzyakov 팀이 철저히 선정하고 테스트한 Windows 용 드라이버로 구성된 소프트웨어입니다. 이 응용 프로그램은 사용자의 컴퓨터를 분석하고 필요한 드라이버를 설치하여 두 가지 문제를 해결할 수 있습니다. 첫째, 컴퓨터 구성 과정 속도 향상 (한 시스템 내에 수십 대의 컴퓨터가 있는 경우 특히 중요합니다). 둘째, 운영 능력을 향상시키는 것 입니다."
@@ -911,6 +1121,15 @@ msgstr "드라이버가 제대로 설치되지 않아 컴퓨터에 문제가 있
 
 msgid "adminpagefaq_stable-a"
 msgstr "DriverPack 소프트웨어의 작동 안정성은 우리의 주요 우선 순위 중 하나이지만, 드문 경우이지만 사소한 오류는 여전히 발생합니다. 따라서 모든 것을 이전에 구성된 상태로 되돌릴 수 있는 복원 지점을 만듭니다. 향후 유사한 문제가 발생하지 않도록 DriverPack 메뉴로 이동하여 소프트웨어에서 자동으로 작성한 보고서를 기술 서비스로 보내주세요."
+
+msgid "partners_landing-text-opera"
+msgstr ""
+
+msgid "partners_landing-text-yandex"
+msgstr ""
+
+msgid "partners_landing-text-avast"
+msgstr ""
 
 msgid "cloudpagefaq_remove_soft-q"
 msgstr "왜 DriverPack Cloud는 내 컴퓨터에서 일부 소프트웨어를 제거 할 것을 제안합니까?"
@@ -1047,11 +1266,76 @@ msgstr "인기 {{VENDOR.NAME}} 노트북 및 넷북"
 msgid "notebooksvendorpage_subtitle-all"
 msgstr "모든 {{VENDOR.NAME}} 노트북 및 넷북"
 
+msgid "patners-page-opera-title"
+msgstr ""
+
+msgid "patners-page-opera-subtitle"
+msgstr ""
+
+msgid "patners-page-opera-text"
+msgstr ""
+
+msgid "patners-page-opera-pluses-title-support"
+msgstr ""
+
+msgid "patners-page-opera-pluses-subtitle-support"
+msgstr ""
+
+msgid "patners-page-opera-pluses-title-opera-best"
+msgstr ""
+
+msgid "patners-page-opera-pluses-subtitle-opera-best"
+msgstr ""
+
+msgid "patners-page-opera-pluses-title-ecosystem"
+msgstr ""
+
+msgid "patners-page-opera-pluses-subtitle-ecosystem"
+msgstr ""
+
+msgid "patners-page-opera-btn"
+msgstr ""
+
 msgid "reviewpage_title"
 msgstr "DriverPack 개선에 대한 피드백 및 제안"
 
 msgid "searchpage_show-more-link"
 msgstr "더 보기"
+
+msgid "softcategorypage_categories-title"
+msgstr ""
+
+msgid "softlandingpage_topsoft-title"
+msgstr ""
+
+msgid "softlandingpage_categories-title"
+msgstr ""
+
+msgid "softsearchpage_show-more-link"
+msgstr ""
+
+msgid "softsearchpage_no-results"
+msgstr ""
+
+#. i18n: EN: text for {{LINK}} is in key softthankyoupopup_download-link; RU:
+#. текст для {{LINK}} находится в ключе softthankyoupopup_download-link;
+msgid "softthankyoupopup_download-text"
+msgstr ""
+
+msgid "softthankyoupopup_licence-text"
+msgstr ""
+
+msgid "softthankyoupopup_title"
+msgstr ""
+
+msgid "softthankyoupopup_subtitle"
+msgstr ""
+
+msgid "softthankyoupopup_licence-link"
+msgstr "라이센스 동의"
+
+msgid "softthankyoupopup_download-link"
+msgstr "다운로드"
 
 #. i18n: EN: text for {{LINK}} is in key thankyoupopup_download-link; RU:
 #. текст для {{LINK}} находится в ключе thankyoupopup_download-link;

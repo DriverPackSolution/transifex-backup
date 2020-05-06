@@ -1,20 +1,20 @@
 # Translators:
 # Vikas Kamal <vikaskamaljnu@gmail.com>, 2017
 # Devesh Agarwal, 2018
-# VIKAS D. SAWANT <vikas.sawant@technosavvy.co.in>, 2018
 # Laxmikant Mishra <chandanps18@gmail.com>, 2018
 # Nadia Tegeneva <nadia@drp.su>, 2018
-# Mrinal Kumar Jha <shivam6sonu@gmail.com>, 2018
+# VIKAS D. SAWANT <vikas.sawant@technosavvy.co.in>, 2020
+# Mrinal Kumar Jha <shivam6sonu@gmail.com>, 2020
 # Leonid Beschasny <lbeschastny@iknow.travel>, 2017
-# Nadia Tegeneva <nadia@drp.su>, 2018
+# Nadia Tegeneva <nadia@drp.su>, 2020
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-11-21 09:46+0000\n"
+"POT-Creation-Date: 2020-04-27 12:44+0000\n"
 "PO-Revision-Date: 2016-12-16 14:30+0000\n"
-"Last-Translator: Mrinal Kumar Jha <shivam6sonu@gmail.com>, 2018\n"
+"Last-Translator: Mrinal Kumar Jha <shivam6sonu@gmail.com>, 2020\n"
 "Language-Team: Hindi (https://www.transifex.com/driverpack-solution/teams/75453/hi/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -59,10 +59,19 @@ msgid "cloudpagefooter_license-link"
 msgstr "लाइसेंस समझौता"
 
 msgid "breadcrumbs_main-text"
-msgstr "होम पेज"
+msgstr ""
 
 msgid "breadcrumbs_catalog-main-text"
 msgstr "{{OS.NAME}} के लिए ड्राइवर"
+
+msgid "breadcrumbs_softcategory-text"
+msgstr ""
+
+msgid "breadcrumbs_soft-text"
+msgstr ""
+
+msgid "breadcrumbs_uninstall-text"
+msgstr "हटायें"
 
 msgid "breadcrumbs_vendors-text"
 msgstr "कई निर्माता"
@@ -113,6 +122,9 @@ msgstr "{{NOTEBOOK.VENDOR.NAME}} का {{CLASS.PLURAL.MAIN}} {{NOTEBOOK.NAME}} 
 msgid "devicecard_download-btn"
 msgstr "ड्राइवर संकलित करे"
 
+msgid "devicecard_download-repack-btn"
+msgstr ""
+
 #. i18n: EN: Example: NAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10 x86; Text
 #. for {{DOWNLOAD}} is in key drivercard_no-results_download-link; RU: Пример:
 #. NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10 x86; Текст для
@@ -155,6 +167,9 @@ msgstr "फ़ाइल * .inf:"
 
 msgid "devicecard_details-content-label-section"
 msgstr "वर्ग:"
+
+msgid "devicecard_details-download-links-repack"
+msgstr ""
 
 msgid "devicecard_details-links-merged_label"
 msgstr "अगर आपकी डिवाइस Device ID आपको सूची में नहीं मिली है, तो उसे खोज लाइन में लिखो"
@@ -259,6 +274,9 @@ msgstr "वर्ग:"
 msgid "drivercard_caption-btn"
 msgstr "ड्राइवर संकलित करे"
 
+msgid "drivercard_caption-repack-btn"
+msgstr ""
+
 msgid "deviceidpage_all-systems"
 msgstr "सभी प्रणालियों"
 
@@ -352,6 +370,9 @@ msgstr "DriverPack ड्राइवरों को मुफ्त में 
 msgid "landingheader_cta-btn"
 msgstr "सभी आवश्यक ड्राइवरों को स्थापित करें"
 
+msgid "landingheadernav_search-soft"
+msgstr ""
+
 msgid "landingheadernav_search"
 msgstr "ड्राइवर्स खोज"
 
@@ -382,6 +403,12 @@ msgstr "सभी आवश्यक ड्राइवरों को स्�
 msgid "landingnotebookvendorslist_versions"
 msgstr "अन्य DriverPack संस्करण"
 
+msgid "partners-link-text-opera"
+msgstr ""
+
+msgid "partners_landing-title"
+msgstr ""
+
 msgid "landingproducts_cta-title"
 msgstr "अपने DriverPack चुनें"
 
@@ -404,7 +431,7 @@ msgid "landingproducts_item-title-network"
 msgstr "DriverPack Offline Network"
 
 msgid "landingproducts_item-description-network"
-msgstr "इसमें नेटवर्क हार्डवेयर (Lan/Wi-Fi) के ड्राइवर्स होते हैं, ये बिना इन्टरनेट कनेक्शन के काम करता है <span class='nobr'>({{SIZE}})</span>"
+msgstr ""
 
 msgid "landingproducts_item-title-offline"
 msgstr "DriverPack Offline Full"
@@ -458,7 +485,7 @@ msgid "landingwizard_item-caption-setup"
 msgstr "अपने कंप्यूटर को एक सरल कार्य के साथ कॉन्फ़िगर करें"
 
 msgid "landingwizard_item-caption-profit"
-msgstr "वाह! अब मेरा कंप्यूटर नया ब्रांड जैसा चलता है!"
+msgstr ""
 
 msgid "landingwizard_cta-btn"
 msgstr "सभी आवश्यक ड्राइवरों को स्थापित करें"
@@ -820,6 +847,69 @@ msgstr "क्या आप ड्राइवरों की तलाश क�
 msgid "sidebanner_caption"
 msgstr "DriverPack स्वचालित रूप से <span class='SideBanner__caption-marked'>आवश्यक ड्राइवरों का चयन और स्थापित</span> करेगा"
 
+msgid "softdetails-rating"
+msgstr ""
+
+msgid "recommend-opera"
+msgstr ""
+
+msgid "softdetails_download-count"
+msgstr ""
+
+msgid "softdetails_package-size"
+msgstr "आकार:"
+
+msgid "softdetails_added"
+msgstr ""
+
+msgid "softdetails_license"
+msgstr ""
+
+msgid "softdetails_license-free"
+msgstr ""
+
+msgid "softdetails_os"
+msgstr ""
+
+msgid "softdetails_uninstall-link"
+msgstr ""
+
+msgid "softdetails_download-link"
+msgstr "संकलित करे"
+
+msgid "soft-details_opera-descr"
+msgstr ""
+
+msgid "softdetails_uninstall-page-link"
+msgstr ""
+
+msgid "program-month-text"
+msgstr ""
+
+msgid "softlandingheader_search-title"
+msgstr ""
+
+msgid "softsearch_input-placeholder"
+msgstr ""
+
+msgid "softsearchformitem_type-category"
+msgstr ""
+
+msgid "softsearchheader_title"
+msgstr ""
+
+msgid "softsearchheader_subtitle"
+msgstr ""
+
+msgid "softsearchresult_download-link"
+msgstr "संकलित करे"
+
+msgid "topsoft_item-download-count"
+msgstr ""
+
+msgid "topsoft_item-download-link"
+msgstr "संकलित करे"
+
 msgid "translationheader_cta-text"
 msgstr "दुनिया भर में लाखों PC उपयोगकर्ताओं के लिए DriverPack उपलब्ध कराने में हमारी मदद करें — अन्य भाषाओं में अनुवाद करने पर हमारे स्वयंसेवक परियोजना में हिस्सा लें"
 
@@ -852,6 +942,126 @@ msgstr "लैपटॉप"
 
 msgid "language_title"
 msgstr "Hindi"
+
+msgid "softcategories_antivirus-single-main"
+msgstr "एंटीवायरस"
+
+msgid "softcategories_antivirus-plural-main"
+msgstr ""
+
+msgid "softcategories_audio-video-converter-single-main"
+msgstr ""
+
+msgid "softcategories_audio-video-converter-plural-main"
+msgstr ""
+
+msgid "softcategories_audio-video-editor-single-main"
+msgstr ""
+
+msgid "softcategories_audio-video-editor-plural-main"
+msgstr ""
+
+msgid "softcategories_book-reader-single-main"
+msgstr ""
+
+msgid "softcategories_book-reader-plural-main"
+msgstr ""
+
+msgid "softcategories_browser-single-main"
+msgstr "ब्राउज़र"
+
+msgid "softcategories_browser-plural-main"
+msgstr ""
+
+msgid "softcategories_cd-dvd-single-main"
+msgstr ""
+
+msgid "softcategories_cd-dvd-plural-main"
+msgstr ""
+
+msgid "softcategories_data-recovery-single-main"
+msgstr ""
+
+msgid "softcategories_data-recovery-plural-main"
+msgstr ""
+
+msgid "softcategories_data-storage-single-main"
+msgstr ""
+
+msgid "softcategories_data-storage-plural-main"
+msgstr ""
+
+msgid "softcategories_developer-tools-single-main"
+msgstr ""
+
+msgid "softcategories_developer-tools-plural-main"
+msgstr ""
+
+msgid "softcategories_file-manager-single-main"
+msgstr ""
+
+msgid "softcategories_file-manager-plural-main"
+msgstr ""
+
+msgid "softcategories_image-editor-single-main"
+msgstr ""
+
+msgid "softcategories_image-editor-plural-main"
+msgstr ""
+
+msgid "softcategories_image-viewer-single-main"
+msgstr ""
+
+msgid "softcategories_image-viewer-plural-main"
+msgstr ""
+
+msgid "softcategories_mail-client-single-main"
+msgstr ""
+
+msgid "softcategories_mail-client-plural-main"
+msgstr ""
+
+msgid "softcategories_messenger-single-main"
+msgstr ""
+
+msgid "softcategories_messenger-plural-main"
+msgstr ""
+
+msgid "softcategories_mp3-audio-player-single-main"
+msgstr ""
+
+msgid "softcategories_mp3-audio-player-plural-main"
+msgstr ""
+
+msgid "softcategories_other-single-main"
+msgstr ""
+
+msgid "softcategories_other-plural-main"
+msgstr ""
+
+msgid "softcategories_pdf-reader-single-main"
+msgstr ""
+
+msgid "softcategories_pdf-reader-plural-main"
+msgstr ""
+
+msgid "softcategories_text-editor-single-main"
+msgstr ""
+
+msgid "softcategories_text-editor-plural-main"
+msgstr ""
+
+msgid "softcategories_torrent-client-single-main"
+msgstr ""
+
+msgid "softcategories_torrent-client-plural-main"
+msgstr ""
+
+msgid "softcategories_video-player-single-main"
+msgstr ""
+
+msgid "softcategories_video-player-plural-main"
+msgstr ""
 
 msgid "landingPagePublications_rbk"
 msgstr "DriverPack ऐसा सॉफ्टवेयर है जिसमें Windows के ड्राइवरों को अच्छी तरह से चुना गया और Artur Kuzyakov's की टीम द्वारा परीक्षण किया गया। यह अनुप्रयोग उपयोगकर्ता के कंप्यूटर का विश्लेषण करता है और उस पर आवश्यक ड्राइवरों को स्थापित करता है, जो आपको दो मुद्दों को हल करने में सक्षम बनाता है: सबसे पहले, कंप्यूटर के विन्यास की प्रक्रिया में तेजी लाने के लिए (जो विशेष रूप से महत्वपूर्ण है अगर एक सिस्टम में दर्जनों कंप्यूटर हैं); और दूसरी, अपनी परिचालन क्षमता को सुधारने के लिए।"
@@ -915,6 +1125,15 @@ msgstr "ड्राइवर ठीक से स्थापित नही�
 
 msgid "adminpagefaq_stable-a"
 msgstr "DriverPack सॉफ्टवेयर की ऑपरेशन स्थिरता हमारी मुख्य प्राथमिकताओं में से एक है, लेकिन छोटी विफलता अभी भी होती है, हालांकि वे दुर्लभ हैं। यही कारण है कि हम एक पुनर्स्थापना बिंदु बनाते हैं जो आपको पहले से कॉन्फ़िगर किए गए अवस्था में सब कुछ वापस लौटा देगा। भविष्य में ऐसी ही समस्या को रोकने के लिए, हम आपको सलाह देते हैं कि आप DriverPack मेनू पर जाकर रिपोर्ट भेज दें जो सॉफ्टवेयर द्वारा स्वचालित रूप से,  हमारी तकनीकी सेवाओं के लिए बनाई गई है।"
+
+msgid "partners_landing-text-opera"
+msgstr ""
+
+msgid "partners_landing-text-yandex"
+msgstr ""
+
+msgid "partners_landing-text-avast"
+msgstr ""
 
 msgid "cloudpagefaq_remove_soft-q"
 msgstr " DriverPack Cloud मेरे संगणक से कुछ सॉफ़्टवेयर को हटाने का सुझाव क्यों देता है?"
@@ -1051,11 +1270,76 @@ msgstr "लोकप्रिय {{VENDOR.NAME}} लैपटॉप और न�
 msgid "notebooksvendorpage_subtitle-all"
 msgstr "सभी {{VENDOR.NAME}} लैपटॉप और नोटबुक"
 
+msgid "patners-page-opera-title"
+msgstr ""
+
+msgid "patners-page-opera-subtitle"
+msgstr ""
+
+msgid "patners-page-opera-text"
+msgstr ""
+
+msgid "patners-page-opera-pluses-title-support"
+msgstr ""
+
+msgid "patners-page-opera-pluses-subtitle-support"
+msgstr ""
+
+msgid "patners-page-opera-pluses-title-opera-best"
+msgstr ""
+
+msgid "patners-page-opera-pluses-subtitle-opera-best"
+msgstr ""
+
+msgid "patners-page-opera-pluses-title-ecosystem"
+msgstr ""
+
+msgid "patners-page-opera-pluses-subtitle-ecosystem"
+msgstr ""
+
+msgid "patners-page-opera-btn"
+msgstr ""
+
 msgid "reviewpage_title"
 msgstr "DriverPack में सुधार के बारे में प्रतिक्रियाएं और सुझाव दें"
 
 msgid "searchpage_show-more-link"
 msgstr "और देखो"
+
+msgid "softcategorypage_categories-title"
+msgstr ""
+
+msgid "softlandingpage_topsoft-title"
+msgstr ""
+
+msgid "softlandingpage_categories-title"
+msgstr ""
+
+msgid "softsearchpage_show-more-link"
+msgstr ""
+
+msgid "softsearchpage_no-results"
+msgstr ""
+
+#. i18n: EN: text for {{LINK}} is in key softthankyoupopup_download-link; RU:
+#. текст для {{LINK}} находится в ключе softthankyoupopup_download-link;
+msgid "softthankyoupopup_download-text"
+msgstr ""
+
+msgid "softthankyoupopup_licence-text"
+msgstr ""
+
+msgid "softthankyoupopup_title"
+msgstr ""
+
+msgid "softthankyoupopup_subtitle"
+msgstr ""
+
+msgid "softthankyoupopup_licence-link"
+msgstr "लाइसेंस समझौता"
+
+msgid "softthankyoupopup_download-link"
+msgstr "संकलित करें "
 
 #. i18n: EN: text for {{LINK}} is in key thankyoupopup_download-link; RU:
 #. текст для {{LINK}} находится в ключе thankyoupopup_download-link;

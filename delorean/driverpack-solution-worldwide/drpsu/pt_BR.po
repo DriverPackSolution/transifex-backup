@@ -1,18 +1,19 @@
 # Translators:
 # Tanios Hamzo <tanios@hamzo.com.br>, 2017
 # Nadia Tegeneva <nadia@drp.su>, 2018
-# Alessandro João <ajkmetiuk@bol.com.br>, 2018
 # Alessandro João <ajkmetiuk@hotmail.com>, 2019
+# Alessandro João <ajkmetiuk@bol.com.br>, 2020
+# ivan Montibeller <terrivelmenteivan@hotmail.com>, 2020
 # Leonid Beschasny <lbeschastny@iknow.travel>, 2017
-# Nadia Tegeneva <nadia@drp.su>, 2018
+# Nadia Tegeneva <nadia@drp.su>, 2020
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-11-21 09:46+0000\n"
+"POT-Creation-Date: 2020-04-27 12:44+0000\n"
 "PO-Revision-Date: 2016-12-16 14:30+0000\n"
-"Last-Translator: Alessandro João <ajkmetiuk@hotmail.com>, 2019\n"
+"Last-Translator: ivan Montibeller <terrivelmenteivan@hotmail.com>, 2020\n"
 "Language-Team: Portuguese (Brazil) (https://www.transifex.com/driverpack-solution/teams/75453/pt_BR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -57,10 +58,19 @@ msgid "cloudpagefooter_license-link"
 msgstr "Termos de Licença"
 
 msgid "breadcrumbs_main-text"
-msgstr "Página inicial"
+msgstr ""
 
 msgid "breadcrumbs_catalog-main-text"
 msgstr "drivers para o {{OS.NAME}}"
+
+msgid "breadcrumbs_softcategory-text"
+msgstr ""
+
+msgid "breadcrumbs_soft-text"
+msgstr ""
+
+msgid "breadcrumbs_uninstall-text"
+msgstr "remover"
 
 msgid "breadcrumbs_vendors-text"
 msgstr "Fabricantes"
@@ -111,6 +121,9 @@ msgstr "{{CLASS.PLURAL.MAIN}} do notebook {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.N
 msgid "devicecard_download-btn"
 msgstr "Baixar o driver"
 
+msgid "devicecard_download-repack-btn"
+msgstr ""
+
 #. i18n: EN: Example: NAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10 x86; Text
 #. for {{DOWNLOAD}} is in key drivercard_no-results_download-link; RU: Пример:
 #. NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10 x86; Текст для
@@ -153,6 +166,9 @@ msgstr "Arquivo *.inf:"
 
 msgid "devicecard_details-content-label-section"
 msgstr "Categoria:"
+
+msgid "devicecard_details-download-links-repack"
+msgstr ""
 
 msgid "devicecard_details-links-merged_label"
 msgstr "Se o Device ID que você precisa não foi encontrado na lista, insira-o na linha de pesquisa"
@@ -257,6 +273,9 @@ msgstr "Categoria:"
 msgid "drivercard_caption-btn"
 msgstr "Baixar o driver"
 
+msgid "drivercard_caption-repack-btn"
+msgstr ""
+
 msgid "deviceidpage_all-systems"
 msgstr "todos os sistemas"
 
@@ -350,6 +369,9 @@ msgstr "O DriverPack irá instalar os drivers gratuitamente e resolver problemas
 msgid "landingheader_cta-btn"
 msgstr "Instalar todos os drivers necessários"
 
+msgid "landingheadernav_search-soft"
+msgstr ""
+
 msgid "landingheadernav_search"
 msgstr "Busca por Drivers"
 
@@ -380,6 +402,12 @@ msgstr "Instalar todos os drivers necessários"
 msgid "landingnotebookvendorslist_versions"
 msgstr "Outras versões do DriverPack"
 
+msgid "partners-link-text-opera"
+msgstr ""
+
+msgid "partners_landing-title"
+msgstr ""
+
 msgid "landingproducts_cta-title"
 msgstr "Escolha o seu DriverPack"
 
@@ -402,7 +430,7 @@ msgid "landingproducts_item-title-network"
 msgstr "DriverPack Offline Network"
 
 msgid "landingproducts_item-description-network"
-msgstr "Contém drivers para hardware de rede (Lan/Wi-Fi), ele opera sem conexão com a Internet <span class='nobr'>({{SIZE}})</span>"
+msgstr ""
 
 msgid "landingproducts_item-title-offline"
 msgstr "DriverPack Offline Full"
@@ -456,7 +484,7 @@ msgid "landingwizard_item-caption-setup"
 msgstr "Configure seu computador com uma simples ação"
 
 msgid "landingwizard_item-caption-profit"
-msgstr "Uau! Agora meu computador está funcionando como novo!"
+msgstr ""
 
 msgid "landingwizard_cta-btn"
 msgstr "Instalar todos os drivers necessários"
@@ -818,6 +846,69 @@ msgstr "Você está cansado de procurar drivers?"
 msgid "sidebanner_caption"
 msgstr "O DriverPack irá automaticamente <span class='SideBanner__caption-marked'>selecionar e instalar</span> os drivers necessários"
 
+msgid "softdetails-rating"
+msgstr ""
+
+msgid "recommend-opera"
+msgstr ""
+
+msgid "softdetails_download-count"
+msgstr ""
+
+msgid "softdetails_package-size"
+msgstr "Tamanho:"
+
+msgid "softdetails_added"
+msgstr ""
+
+msgid "softdetails_license"
+msgstr ""
+
+msgid "softdetails_license-free"
+msgstr ""
+
+msgid "softdetails_os"
+msgstr ""
+
+msgid "softdetails_uninstall-link"
+msgstr ""
+
+msgid "softdetails_download-link"
+msgstr "Baixar"
+
+msgid "soft-details_opera-descr"
+msgstr ""
+
+msgid "softdetails_uninstall-page-link"
+msgstr ""
+
+msgid "program-month-text"
+msgstr ""
+
+msgid "softlandingheader_search-title"
+msgstr ""
+
+msgid "softsearch_input-placeholder"
+msgstr ""
+
+msgid "softsearchformitem_type-category"
+msgstr ""
+
+msgid "softsearchheader_title"
+msgstr ""
+
+msgid "softsearchheader_subtitle"
+msgstr ""
+
+msgid "softsearchresult_download-link"
+msgstr "Baixar"
+
+msgid "topsoft_item-download-count"
+msgstr ""
+
+msgid "topsoft_item-download-link"
+msgstr "Baixar"
+
 msgid "translationheader_cta-text"
 msgstr "Ajude-nos a disponibilizar o DriverPack para milhões de usuários de PC em todo o mundo — participe do nosso projeto voluntário para traduzi-lo em outros idiomas"
 
@@ -850,6 +941,126 @@ msgstr "notebook"
 
 msgid "language_title"
 msgstr "Portuguese (Brazil)"
+
+msgid "softcategories_antivirus-single-main"
+msgstr "antivírus"
+
+msgid "softcategories_antivirus-plural-main"
+msgstr ""
+
+msgid "softcategories_audio-video-converter-single-main"
+msgstr ""
+
+msgid "softcategories_audio-video-converter-plural-main"
+msgstr ""
+
+msgid "softcategories_audio-video-editor-single-main"
+msgstr ""
+
+msgid "softcategories_audio-video-editor-plural-main"
+msgstr ""
+
+msgid "softcategories_book-reader-single-main"
+msgstr ""
+
+msgid "softcategories_book-reader-plural-main"
+msgstr ""
+
+msgid "softcategories_browser-single-main"
+msgstr "navegador"
+
+msgid "softcategories_browser-plural-main"
+msgstr ""
+
+msgid "softcategories_cd-dvd-single-main"
+msgstr ""
+
+msgid "softcategories_cd-dvd-plural-main"
+msgstr ""
+
+msgid "softcategories_data-recovery-single-main"
+msgstr ""
+
+msgid "softcategories_data-recovery-plural-main"
+msgstr ""
+
+msgid "softcategories_data-storage-single-main"
+msgstr ""
+
+msgid "softcategories_data-storage-plural-main"
+msgstr ""
+
+msgid "softcategories_developer-tools-single-main"
+msgstr ""
+
+msgid "softcategories_developer-tools-plural-main"
+msgstr ""
+
+msgid "softcategories_file-manager-single-main"
+msgstr ""
+
+msgid "softcategories_file-manager-plural-main"
+msgstr ""
+
+msgid "softcategories_image-editor-single-main"
+msgstr ""
+
+msgid "softcategories_image-editor-plural-main"
+msgstr ""
+
+msgid "softcategories_image-viewer-single-main"
+msgstr ""
+
+msgid "softcategories_image-viewer-plural-main"
+msgstr ""
+
+msgid "softcategories_mail-client-single-main"
+msgstr ""
+
+msgid "softcategories_mail-client-plural-main"
+msgstr ""
+
+msgid "softcategories_messenger-single-main"
+msgstr ""
+
+msgid "softcategories_messenger-plural-main"
+msgstr ""
+
+msgid "softcategories_mp3-audio-player-single-main"
+msgstr ""
+
+msgid "softcategories_mp3-audio-player-plural-main"
+msgstr ""
+
+msgid "softcategories_other-single-main"
+msgstr ""
+
+msgid "softcategories_other-plural-main"
+msgstr ""
+
+msgid "softcategories_pdf-reader-single-main"
+msgstr ""
+
+msgid "softcategories_pdf-reader-plural-main"
+msgstr ""
+
+msgid "softcategories_text-editor-single-main"
+msgstr ""
+
+msgid "softcategories_text-editor-plural-main"
+msgstr ""
+
+msgid "softcategories_torrent-client-single-main"
+msgstr ""
+
+msgid "softcategories_torrent-client-plural-main"
+msgstr ""
+
+msgid "softcategories_video-player-single-main"
+msgstr ""
+
+msgid "softcategories_video-player-plural-main"
+msgstr ""
 
 msgid "landingPagePublications_rbk"
 msgstr "O DriverPack é um programa que consiste em drivers para Windows cuidadosamente selecionados e testados pela equipe de Artur Kuzyakov. Este aplicativo analisa o computador de um usuário e instala os drivers necessários, o que lhe permite resolver dois problemas: primeiro, acelerar o processo de configuração do computador (o que é especialmente importante se existem dezenas de computadores dentro de um sistema); e, em segundo lugar, melhorar sua capacidade operativa."
@@ -913,6 +1124,15 @@ msgstr "O driver não foi instalado corretamente e meu computador agora está c
 
 msgid "adminpagefaq_stable-a"
 msgstr "A estabilidade de operação do programa DriverPack é uma das nossas principais prioridades, mas pequenas falhas ainda acontecem, embora sejam raras. É por isso que criamos um ponto de restauração que lhe permitirá retornar tudo de volta ao estado previamente configurado. Para evitar um problema semelhante no futuro, recomendamos que você vá ao Menu DriverPack e envie o relatório que é criado automaticamente pelo programa, para nossos serviços técnicos."
+
+msgid "partners_landing-text-opera"
+msgstr ""
+
+msgid "partners_landing-text-yandex"
+msgstr ""
+
+msgid "partners_landing-text-avast"
+msgstr ""
 
 msgid "cloudpagefaq_remove_soft-q"
 msgstr "Por que o DriverPack Cloud me sugere remover algum programa do meu computador?"
@@ -1049,11 +1269,76 @@ msgstr "Notebooks e netbooks populares da {{VENDOR.NAME}}"
 msgid "notebooksvendorpage_subtitle-all"
 msgstr "Todos os notebooks e netbooks da {{VENDOR.NAME}}"
 
+msgid "patners-page-opera-title"
+msgstr ""
+
+msgid "patners-page-opera-subtitle"
+msgstr ""
+
+msgid "patners-page-opera-text"
+msgstr ""
+
+msgid "patners-page-opera-pluses-title-support"
+msgstr ""
+
+msgid "patners-page-opera-pluses-subtitle-support"
+msgstr ""
+
+msgid "patners-page-opera-pluses-title-opera-best"
+msgstr ""
+
+msgid "patners-page-opera-pluses-subtitle-opera-best"
+msgstr ""
+
+msgid "patners-page-opera-pluses-title-ecosystem"
+msgstr ""
+
+msgid "patners-page-opera-pluses-subtitle-ecosystem"
+msgstr ""
+
+msgid "patners-page-opera-btn"
+msgstr ""
+
 msgid "reviewpage_title"
 msgstr "Opiniões e sugestões para melhorar o DriverPack"
 
 msgid "searchpage_show-more-link"
 msgstr "Ver mais"
+
+msgid "softcategorypage_categories-title"
+msgstr ""
+
+msgid "softlandingpage_topsoft-title"
+msgstr ""
+
+msgid "softlandingpage_categories-title"
+msgstr ""
+
+msgid "softsearchpage_show-more-link"
+msgstr ""
+
+msgid "softsearchpage_no-results"
+msgstr ""
+
+#. i18n: EN: text for {{LINK}} is in key softthankyoupopup_download-link; RU:
+#. текст для {{LINK}} находится в ключе softthankyoupopup_download-link;
+msgid "softthankyoupopup_download-text"
+msgstr ""
+
+msgid "softthankyoupopup_licence-text"
+msgstr ""
+
+msgid "softthankyoupopup_title"
+msgstr ""
+
+msgid "softthankyoupopup_subtitle"
+msgstr ""
+
+msgid "softthankyoupopup_licence-link"
+msgstr "Termos de Licença"
+
+msgid "softthankyoupopup_download-link"
+msgstr "baixar"
 
 #. i18n: EN: text for {{LINK}} is in key thankyoupopup_download-link; RU:
 #. текст для {{LINK}} находится в ключе thankyoupopup_download-link;

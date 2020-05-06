@@ -1,16 +1,16 @@
 # Translators:
 # Nadia Tegeneva <nadia@drp.su>, 2018
-# Vivekanandan M <bharanicompu@gmail.com>, 2018
+# Vivekanandan M <bharanicompu@gmail.com>, 2020
 # Leonid Beschasny <lbeschastny@iknow.travel>, 2017
-# Nadia Tegeneva <nadia@drp.su>, 2018
+# Nadia Tegeneva <nadia@drp.su>, 2020
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-11-21 09:46+0000\n"
+"POT-Creation-Date: 2020-04-27 12:44+0000\n"
 "PO-Revision-Date: 2016-12-16 14:30+0000\n"
-"Last-Translator: Vivekanandan M <bharanicompu@gmail.com>, 2018\n"
+"Last-Translator: Vivekanandan M <bharanicompu@gmail.com>, 2020\n"
 "Language-Team: Tamil (https://www.transifex.com/driverpack-solution/teams/75453/ta/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -55,10 +55,19 @@ msgid "cloudpagefooter_license-link"
 msgstr "உரிம ஒப்பந்தம்"
 
 msgid "breadcrumbs_main-text"
-msgstr "முகப்பு"
+msgstr ""
 
 msgid "breadcrumbs_catalog-main-text"
 msgstr "வன்பொருள் ஒன்று {{OS.NAME}}"
+
+msgid "breadcrumbs_softcategory-text"
+msgstr ""
+
+msgid "breadcrumbs_soft-text"
+msgstr ""
+
+msgid "breadcrumbs_uninstall-text"
+msgstr "அகற்றுதல்"
 
 msgid "breadcrumbs_vendors-text"
 msgstr "உற்பத்தியாளர்கள்"
@@ -109,6 +118,9 @@ msgstr "{{CLASS.PLURAL.MAIN}} உடைய {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.N
 msgid "devicecard_download-btn"
 msgstr "வன்பொருள் பதிவிறக்கம்"
 
+msgid "devicecard_download-repack-btn"
+msgstr ""
+
 #. i18n: EN: Example: NAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10 x86; Text
 #. for {{DOWNLOAD}} is in key drivercard_no-results_download-link; RU: Пример:
 #. NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10 x86; Текст для
@@ -151,6 +163,9 @@ msgstr "கோப்பு *.inf :"
 
 msgid "devicecard_details-content-label-section"
 msgstr "வகை:"
+
+msgid "devicecard_details-download-links-repack"
+msgstr ""
 
 msgid "devicecard_details-links-merged_label"
 msgstr "ஒருவேளை நீங்கள் தேடும் சாதனத்தின் ஐடி Device ID வன்பொருள் பட்டியலில் காணாவிட்டால் நீங்கள் தேடல் வரியில் பதிவிட்டு தேடவும் "
@@ -255,6 +270,9 @@ msgstr "வகை:"
 msgid "drivercard_caption-btn"
 msgstr "வன்பொருள் பதிவிறக்கம்"
 
+msgid "drivercard_caption-repack-btn"
+msgstr ""
+
 msgid "deviceidpage_all-systems"
 msgstr "அனைத்து அமைப்புகள்"
 
@@ -348,6 +366,9 @@ msgstr "DriverPack வன்பொருள்தொகுப்பு எந்
 msgid "landingheader_cta-btn"
 msgstr "அனைத்து தேவையான வன்பொருள்களையும் நிறுவு "
 
+msgid "landingheadernav_search-soft"
+msgstr ""
+
 msgid "landingheadernav_search"
 msgstr "வன்பொருள் தேடு"
 
@@ -378,6 +399,12 @@ msgstr "அனைத்து தேவையான வன்பொருள்�
 msgid "landingnotebookvendorslist_versions"
 msgstr "மற்ற வன்பொருள்தொகுப்பு DriverPack பதிப்புகள்"
 
+msgid "partners-link-text-opera"
+msgstr ""
+
+msgid "partners_landing-title"
+msgstr ""
+
 msgid "landingproducts_cta-title"
 msgstr "உங்களுக்கான வன்பொருள்தொகுப்பை DriverPack தேர்ந்தெடுங்கள் "
 
@@ -400,7 +427,7 @@ msgid "landingproducts_item-title-network"
 msgstr "DriverPack Offline Network"
 
 msgid "landingproducts_item-description-network"
-msgstr "நெட்ஒர்க்கிற்கு தேவையான வன்பொருளை உள்ளடக்கியது (லேன்,வைபை), இணைய உதவியின்றி பயன்படுத்த <span class='nobr'>({{SIZE}})</span>"
+msgstr ""
 
 msgid "landingproducts_item-title-offline"
 msgstr "DriverPack Offline Full"
@@ -454,7 +481,7 @@ msgid "landingwizard_item-caption-setup"
 msgstr "ஒரு எளிய செயல் மூலம் உங்கள் கணினியை கட்டமைக்கவும்"
 
 msgid "landingwizard_item-caption-profit"
-msgstr "அருமை! இப்போது எனது கணினி புத்தம்புதியது போல் செயல்படுகிறது!"
+msgstr ""
 
 msgid "landingwizard_cta-btn"
 msgstr "அனைத்து தேவையான வன்பொருள்களையும் நிறுவு "
@@ -816,6 +843,69 @@ msgstr "நீங்கள் வன்பொருள் தேடுவதி�
 msgid "sidebanner_caption"
 msgstr "DriverPack வன்பொருள்  தானாகவே <span class='SideBanner__caption-marked'>தேர்ந்தெடுத்து நிறுவு</span>தேவைப்படும் வன்பொருள்"
 
+msgid "softdetails-rating"
+msgstr ""
+
+msgid "recommend-opera"
+msgstr ""
+
+msgid "softdetails_download-count"
+msgstr ""
+
+msgid "softdetails_package-size"
+msgstr "அளவு:"
+
+msgid "softdetails_added"
+msgstr ""
+
+msgid "softdetails_license"
+msgstr ""
+
+msgid "softdetails_license-free"
+msgstr ""
+
+msgid "softdetails_os"
+msgstr ""
+
+msgid "softdetails_uninstall-link"
+msgstr ""
+
+msgid "softdetails_download-link"
+msgstr "பதிவிறக்கம்"
+
+msgid "soft-details_opera-descr"
+msgstr ""
+
+msgid "softdetails_uninstall-page-link"
+msgstr ""
+
+msgid "program-month-text"
+msgstr ""
+
+msgid "softlandingheader_search-title"
+msgstr ""
+
+msgid "softsearch_input-placeholder"
+msgstr ""
+
+msgid "softsearchformitem_type-category"
+msgstr ""
+
+msgid "softsearchheader_title"
+msgstr ""
+
+msgid "softsearchheader_subtitle"
+msgstr ""
+
+msgid "softsearchresult_download-link"
+msgstr "பதிவிறக்கம்"
+
+msgid "topsoft_item-download-count"
+msgstr ""
+
+msgid "topsoft_item-download-link"
+msgstr "பதிவிறக்கம்"
+
 msgid "translationheader_cta-text"
 msgstr "DriverPack வன்பொருள்தொகுப்பு உலகெங்கிலும் லட்சக்கணக்கான பயனர்கள் பயன்பட தன்னார்வு திட்டத்தில் — ஒரு பகுதியாக இணைந்து மற்ற மொழிகளில் மொழிமாற்றம் செய்து உதவுங்கள்"
 
@@ -848,6 +938,126 @@ msgstr "மடிக்கணினி"
 
 msgid "language_title"
 msgstr "Tamil"
+
+msgid "softcategories_antivirus-single-main"
+msgstr "வைரஸ் தடுப்பு"
+
+msgid "softcategories_antivirus-plural-main"
+msgstr ""
+
+msgid "softcategories_audio-video-converter-single-main"
+msgstr ""
+
+msgid "softcategories_audio-video-converter-plural-main"
+msgstr ""
+
+msgid "softcategories_audio-video-editor-single-main"
+msgstr ""
+
+msgid "softcategories_audio-video-editor-plural-main"
+msgstr ""
+
+msgid "softcategories_book-reader-single-main"
+msgstr ""
+
+msgid "softcategories_book-reader-plural-main"
+msgstr ""
+
+msgid "softcategories_browser-single-main"
+msgstr "உலாவி"
+
+msgid "softcategories_browser-plural-main"
+msgstr ""
+
+msgid "softcategories_cd-dvd-single-main"
+msgstr ""
+
+msgid "softcategories_cd-dvd-plural-main"
+msgstr ""
+
+msgid "softcategories_data-recovery-single-main"
+msgstr ""
+
+msgid "softcategories_data-recovery-plural-main"
+msgstr ""
+
+msgid "softcategories_data-storage-single-main"
+msgstr ""
+
+msgid "softcategories_data-storage-plural-main"
+msgstr ""
+
+msgid "softcategories_developer-tools-single-main"
+msgstr ""
+
+msgid "softcategories_developer-tools-plural-main"
+msgstr ""
+
+msgid "softcategories_file-manager-single-main"
+msgstr ""
+
+msgid "softcategories_file-manager-plural-main"
+msgstr ""
+
+msgid "softcategories_image-editor-single-main"
+msgstr ""
+
+msgid "softcategories_image-editor-plural-main"
+msgstr ""
+
+msgid "softcategories_image-viewer-single-main"
+msgstr ""
+
+msgid "softcategories_image-viewer-plural-main"
+msgstr ""
+
+msgid "softcategories_mail-client-single-main"
+msgstr ""
+
+msgid "softcategories_mail-client-plural-main"
+msgstr ""
+
+msgid "softcategories_messenger-single-main"
+msgstr ""
+
+msgid "softcategories_messenger-plural-main"
+msgstr ""
+
+msgid "softcategories_mp3-audio-player-single-main"
+msgstr ""
+
+msgid "softcategories_mp3-audio-player-plural-main"
+msgstr ""
+
+msgid "softcategories_other-single-main"
+msgstr ""
+
+msgid "softcategories_other-plural-main"
+msgstr ""
+
+msgid "softcategories_pdf-reader-single-main"
+msgstr ""
+
+msgid "softcategories_pdf-reader-plural-main"
+msgstr ""
+
+msgid "softcategories_text-editor-single-main"
+msgstr ""
+
+msgid "softcategories_text-editor-plural-main"
+msgstr ""
+
+msgid "softcategories_torrent-client-single-main"
+msgstr ""
+
+msgid "softcategories_torrent-client-plural-main"
+msgstr ""
+
+msgid "softcategories_video-player-single-main"
+msgstr ""
+
+msgid "softcategories_video-player-plural-main"
+msgstr ""
 
 msgid "landingPagePublications_rbk"
 msgstr "DriverPack ஆனது Windows க்கான வன்பொருள்கள்  கொண்ட மென்பொருளாகும், அது ஆரூர் குசியாகோவின் குழுவினரால் தேர்வு செய்யப்பட்டு சோதிக்கப்பட்டது. இந்த பயன்பாடு ஒரு பயனரின் கணினியை பகுப்பாய்வு செய்து, அவசியமான வன்பொருள்களை  நிறுவுகிறது, இது இரண்டு சிக்கல்களை தீர்க்க உங்களுக்கு உதவுகிறது: முதலாவதாக, கணினியின் உள்ளமைவின் செயல்முறையை வேகப்படுத்துதல் (இது ஒரு கணினியில், டஜன் கணக்கான கணினிகள் இருந்தால் முக்கியமானது);  இரண்டாவதாக, அதன் செயல்பாட்டு திறனை மேம்படுத்துவதற்காக."
@@ -911,6 +1121,15 @@ msgstr "எனது கணினியில் வன்பொருள்க�
 
 msgid "adminpagefaq_stable-a"
 msgstr "DriverPack வன்பொருள்தொகுப்பு மென்பொருளின் செயல்பாட்டு நிலைத்தன்மை எங்களின் பிரதான முன்னுரிமைகளில் ஒன்றாகும், ஆனால் அவை சிறியதாகவே இருந்தாலும் அவை தோல்வியுற்றுள்ளன.இதனால்தான் நாம் ஒரு மீட்டெடுக்க புள்ளியை உருவாக்கிக் கொள்கிறோம், இது எல்லாவற்றையும் முன்பே கட்டமைக்கப்பட்ட நிலைக்குத் திருப்ப உதவும்.எதிர்காலத்தில் இதே போன்ற சிக்கலைத் தடுக்க, DriverPack வன்பொருள்தொகுப்பு மெனுவிற்கு சென்று, தானாகவே மென்பொருளால் உருவாக்கப்படும் அறிக்கையை எங்கள் தொழில்நுட்ப சேவைகளுக்கு அனுப்புமாறு பரிந்துரைக்கிறோம்."
+
+msgid "partners_landing-text-opera"
+msgstr ""
+
+msgid "partners_landing-text-yandex"
+msgstr ""
+
+msgid "partners_landing-text-avast"
+msgstr ""
 
 msgid "cloudpagefaq_remove_soft-q"
 msgstr "DriverPack Cloud வன்பொருள்தொகுப்பு கிளவுட் என் கணினியில் நிறுவியுள்ள சில மென்பொருள்களை நீக்குமாறு ஏன் பரிந்துரை செய்கிறது?"
@@ -1047,11 +1266,76 @@ msgstr "பிரபலமான {{VENDOR.NAME}} மடிக்கணினி 
 msgid "notebooksvendorpage_subtitle-all"
 msgstr "அனைத்து {{VENDOR.NAME}} மடிக்கணினி மற்றும் நோட்புக் கணினி"
 
+msgid "patners-page-opera-title"
+msgstr ""
+
+msgid "patners-page-opera-subtitle"
+msgstr ""
+
+msgid "patners-page-opera-text"
+msgstr ""
+
+msgid "patners-page-opera-pluses-title-support"
+msgstr ""
+
+msgid "patners-page-opera-pluses-subtitle-support"
+msgstr ""
+
+msgid "patners-page-opera-pluses-title-opera-best"
+msgstr ""
+
+msgid "patners-page-opera-pluses-subtitle-opera-best"
+msgstr ""
+
+msgid "patners-page-opera-pluses-title-ecosystem"
+msgstr ""
+
+msgid "patners-page-opera-pluses-subtitle-ecosystem"
+msgstr ""
+
+msgid "patners-page-opera-btn"
+msgstr ""
+
 msgid "reviewpage_title"
 msgstr "DriverPack வன்பொருள்தொகுப்பை முன்னேற மேம்படுத்தல்கள் மற்றும் ஆலோசனைகள்"
 
 msgid "searchpage_show-more-link"
 msgstr "மேலும் காண"
+
+msgid "softcategorypage_categories-title"
+msgstr ""
+
+msgid "softlandingpage_topsoft-title"
+msgstr ""
+
+msgid "softlandingpage_categories-title"
+msgstr ""
+
+msgid "softsearchpage_show-more-link"
+msgstr ""
+
+msgid "softsearchpage_no-results"
+msgstr ""
+
+#. i18n: EN: text for {{LINK}} is in key softthankyoupopup_download-link; RU:
+#. текст для {{LINK}} находится в ключе softthankyoupopup_download-link;
+msgid "softthankyoupopup_download-text"
+msgstr ""
+
+msgid "softthankyoupopup_licence-text"
+msgstr ""
+
+msgid "softthankyoupopup_title"
+msgstr ""
+
+msgid "softthankyoupopup_subtitle"
+msgstr ""
+
+msgid "softthankyoupopup_licence-link"
+msgstr "உரிம ஒப்பந்தம்"
+
+msgid "softthankyoupopup_download-link"
+msgstr "பதிவிறக்கம்"
 
 #. i18n: EN: text for {{LINK}} is in key thankyoupopup_download-link; RU:
 #. текст для {{LINK}} находится в ключе thankyoupopup_download-link;

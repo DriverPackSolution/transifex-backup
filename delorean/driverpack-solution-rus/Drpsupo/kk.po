@@ -1,6 +1,6 @@
 # 
 # Translators:
-# Nadia Tegeneva <nadia@drp.su>, 2018
+# Nadia Tegeneva <nadia@drp.su>, 2020
 # 
 msgid ""
 msgstr ""
@@ -8,7 +8,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-04-27 12:44+0000\n"
 "PO-Revision-Date: 2016-12-16 14:20+0000\n"
-"Last-Translator: Nadia Tegeneva <nadia@drp.su>, 2018\n"
+"Last-Translator: Nadia Tegeneva <nadia@drp.su>, 2020\n"
 "Language-Team: Kazakh (https://www.transifex.com/driverpack-solution/teams/75452/kk/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -59,10 +59,10 @@ msgid "breadcrumbs_catalog-main-text"
 msgstr ""
 
 msgid "breadcrumbs_softcategory-text"
-msgstr ""
+msgstr "{{CATEGORY.PLURAL.MAIN}}"
 
 msgid "breadcrumbs_soft-text"
-msgstr ""
+msgstr "{{SOFT.NAME}} {{SOFT.VERSION}}"
 
 msgid "breadcrumbs_uninstall-text"
 msgstr ""
@@ -72,7 +72,7 @@ msgstr ""
 
 #. i18n: EN: Example: VENDOR.NAME=Lenovo; RU: Пример: VENDOR.NAME=Lenovo;
 msgid "breadcrumbs_vendor-text"
-msgstr ""
+msgstr "{{VENDOR.NAME}}"
 
 #. i18n: EN: Example: VENDOR.NAME=Lenovo; RU: Пример: VENDOR.NAME=Lenovo;
 msgid "breadcrumbs_vendorlanding-text"
@@ -81,18 +81,18 @@ msgstr ""
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=cardreaders|monitors; RU: Пример:
 #. CLASS.PLURAL.MAIN=картридеры|мониторы;
 msgid "breadcrumbs_deviceclass-text"
-msgstr ""
+msgstr "{{CLASS.PLURAL.MAIN}}"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=cardreaders|monitors,
 #. VENDOR.NAME=Realtek; RU: Пример: CLASS.PLURAL.MAIN=картридеры|мониторы;
 #. VENDOR.NAME=Realtek;
 msgid "breadcrumbs_devicegroups-text"
-msgstr ""
+msgstr "{{CLASS.PLURAL.MAIN}} {{VENDOR.NAME}}"
 
 #. i18n: EN: Example: GROUP.VENDOR.NAME=Nvidia, GROUP.NAME=GeForce 210; RU:
 #. Пример: GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210;
 msgid "breadcrumbs_devicegroup-text"
-msgstr ""
+msgstr "{{GROUP.VENDOR.NAME}} {{GROUP.NAME}}"
 
 msgid "breadcrumbs_notebooks-text"
 msgstr ""
@@ -104,7 +104,7 @@ msgstr ""
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=X1 carbon;
 #. RU: Пример: NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=X1 carbon;
 msgid "breadcrumbs_notebook-text"
-msgstr ""
+msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=Videocards|Chipsets ,
 #. NOTEBOOK.VENDOR.NAME=Lenovo, NOTEBOOK.NAME=G580; RU: Пример:
@@ -1395,123 +1395,3 @@ msgstr ""
 
 msgid "vendorpage_subtitle-popular"
 msgstr ""
-
-#~ msgid "softcategories_antivirus-single-for"
-#~ msgstr ""
-
-#~ msgid "softcategories_antivirus-plural-for"
-#~ msgstr ""
-
-#~ msgid "softcategories_audio-video-converter-single-for"
-#~ msgstr ""
-
-#~ msgid "softcategories_audio-video-converter-plural-for"
-#~ msgstr ""
-
-#~ msgid "softcategories_audio-video-editor-single-for"
-#~ msgstr ""
-
-#~ msgid "softcategories_audio-video-editor-plural-for"
-#~ msgstr ""
-
-#~ msgid "softcategories_mail-client-single-for"
-#~ msgstr ""
-
-#~ msgid "softcategories_mail-client-plural-for"
-#~ msgstr ""
-
-#~ msgid "softcategories_messenger-single-for"
-#~ msgstr ""
-
-#~ msgid "softcategories_messenger-plural-for"
-#~ msgstr ""
-
-#~ msgid "softcategories_mp3-audio-player-single-for"
-#~ msgstr ""
-
-#~ msgid "softcategories_mp3-audio-player-plural-for"
-#~ msgstr ""
-
-#~ msgid "softcategories_other-plural-for"
-#~ msgstr ""
-
-#~ msgid "softcategories_text-editor-single-for"
-#~ msgstr ""
-
-#~ msgid "softcategories_text-editor-plural-for"
-#~ msgstr ""
-
-#~ msgid "softcategories_torrent-client-single-for"
-#~ msgstr ""
-
-#~ msgid "softcategories_torrent-client-plural-for"
-#~ msgstr ""
-
-#~ msgid "softcategories_video-player-single-for"
-#~ msgstr ""
-
-#~ msgid "softcategories_video-player-plural-for"
-#~ msgstr ""
-
-#~ msgid "softcategories_browser-single-for"
-#~ msgstr ""
-
-#~ msgid "softcategories_developer-tools-single-for"
-#~ msgstr ""
-
-#~ msgid "softcategories_file-manager-single-for"
-#~ msgstr ""
-
-#~ msgid "softcategories_file-manager-plural-for"
-#~ msgstr ""
-
-#~ msgid "softcategories_image-editor-single-for"
-#~ msgstr ""
-
-#~ msgid "softcategories_image-editor-plural-for"
-#~ msgstr ""
-
-#~ msgid "softcategories_browser-plural-for"
-#~ msgstr ""
-
-#~ msgid "softcategories_image-viewer-single-for"
-#~ msgstr ""
-
-#~ msgid "softcategories_data-storage-single-for"
-#~ msgstr ""
-
-#~ msgid "softcategories_data-recovery-single-for"
-#~ msgstr ""
-
-#~ msgid "softcategories_book-reader-single-for"
-#~ msgstr ""
-
-#~ msgid "softcategories_book-reader-plural-for"
-#~ msgstr ""
-
-#~ msgid "softcategories_pdf-reader-single-for"
-#~ msgstr ""
-
-#~ msgid "softcategories_pdf-reader-plural-for"
-#~ msgstr ""
-
-#~ msgid "softcategories_cd-dvd-plural-for"
-#~ msgstr ""
-
-#~ msgid "softcategories_cd-dvd-single-for"
-#~ msgstr ""
-
-#~ msgid "softcategories_other-single-for"
-#~ msgstr ""
-
-#~ msgid "softcategories_image-viewer-plural-for"
-#~ msgstr ""
-
-#~ msgid "softcategories_developer-tools-plural-for"
-#~ msgstr ""
-
-#~ msgid "softcategories_data-storage-plural-for"
-#~ msgstr ""
-
-#~ msgid "softcategories_data-recovery-plural-for"
-#~ msgstr ""

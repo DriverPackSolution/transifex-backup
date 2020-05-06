@@ -1,19 +1,19 @@
 # Translators:
 # Артур Кузяков <artx@drp.su>, 2017
 # Olavi EstFix <estfix@gmail.com>, 2017
-# Olavi <inactive+Estfix@transifex.com>, 2018
-# Nadia Tegeneva <nadia@drp.su>, 2018
-# Olavi Kurg <olavi.kurg@gmail.com>, 2018
+# Olavi <inactive+Estfix@transifex.com>, 2020
+# Nadia Tegeneva <nadia@drp.su>, 2020
+# Olavi Kurg <olavi.kurg@gmail.com>, 2020
 # Leonid Beschasny <lbeschastny@iknow.travel>, 2017
-# Nadia Tegeneva <nadia@drp.su>, 2018
+# Nadia Tegeneva <nadia@drp.su>, 2020
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-11-21 09:46+0000\n"
+"POT-Creation-Date: 2020-04-27 12:44+0000\n"
 "PO-Revision-Date: 2016-12-16 14:30+0000\n"
-"Last-Translator: Olavi Kurg <olavi.kurg@gmail.com>, 2018\n"
+"Last-Translator: Olavi Kurg <olavi.kurg@gmail.com>, 2020\n"
 "Language-Team: Estonian (https://www.transifex.com/driverpack-solution/teams/75453/et/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -58,10 +58,19 @@ msgid "cloudpagefooter_license-link"
 msgstr "Litsents"
 
 msgid "breadcrumbs_main-text"
-msgstr "Koduleht"
+msgstr "Kodu"
 
 msgid "breadcrumbs_catalog-main-text"
 msgstr "driverid {{OS.NAME}}"
+
+msgid "breadcrumbs_softcategory-text"
+msgstr "{{CATEGORY.PLURAL.MAIN}}"
+
+msgid "breadcrumbs_soft-text"
+msgstr "{{SOFT.NAME}}{{SOFT.VERSION}}"
+
+msgid "breadcrumbs_uninstall-text"
+msgstr "eemalda"
 
 msgid "breadcrumbs_vendors-text"
 msgstr "Tootjad"
@@ -112,6 +121,9 @@ msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} sülearvuti {{CLASS.PLURAL.MA
 msgid "devicecard_download-btn"
 msgstr "Lae alla draiver"
 
+msgid "devicecard_download-repack-btn"
+msgstr "Lae alla ZIP"
+
 #. i18n: EN: Example: NAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10 x86; Text
 #. for {{DOWNLOAD}} is in key drivercard_no-results_download-link; RU: Пример:
 #. NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10 x86; Текст для
@@ -154,6 +166,9 @@ msgstr "Fail *.inf:"
 
 msgid "devicecard_details-content-label-section"
 msgstr "Kategooria:"
+
+msgid "devicecard_details-download-links-repack"
+msgstr " \nZIP-faili otse allalaadimine koos draiveriga"
 
 msgid "devicecard_details-links-merged_label"
 msgstr "Kui teie otsitud Device ID ei ole nimekirjas, sisestage see otsingukasti"
@@ -258,6 +273,9 @@ msgstr "Kategooria:"
 msgid "drivercard_caption-btn"
 msgstr "Lae alla draiver"
 
+msgid "drivercard_caption-repack-btn"
+msgstr "Lae alla ZIP"
+
 msgid "deviceidpage_all-systems"
 msgstr "kõik süsteemid"
 
@@ -351,6 +369,9 @@ msgstr "DriverPack paigaldab draiverid tasuta ja lahendab draiveriprobleemid iga
 msgid "landingheader_cta-btn"
 msgstr "Paigalda kõik vajalikud draiverid"
 
+msgid "landingheadernav_search-soft"
+msgstr "Tarkvara otsing"
+
 msgid "landingheadernav_search"
 msgstr "Draiverite otsing"
 
@@ -381,6 +402,12 @@ msgstr "Paigalda kõik vajalikud draiverid"
 msgid "landingnotebookvendorslist_versions"
 msgstr "Teised DriverPacki versioonid"
 
+msgid "partners-link-text-opera"
+msgstr "Miks on Opera DriverPack partner?"
+
+msgid "partners_landing-title"
+msgstr "Meie partnerid"
+
 msgid "landingproducts_cta-title"
 msgstr "Vali enda DriverPack"
 
@@ -403,7 +430,7 @@ msgid "landingproducts_item-title-network"
 msgstr "DriverPack Offline Network"
 
 msgid "landingproducts_item-description-network"
-msgstr "See sisaldab võrgukaartide tarkvara (Lan/Wi-Fi), töötab ilma internetiühenduseta<span class='nobr'>({{SIZE}})</span>"
+msgstr "See sisaldab võrgukaartide tarkvara (Lan/Wi-Fi), ning ei vaja töötamiseks internetiühendust <span class='nobr'>({{SIZE}})</span>"
 
 msgid "landingproducts_item-title-offline"
 msgstr "DriverPack Offline Full"
@@ -457,7 +484,7 @@ msgid "landingwizard_item-caption-setup"
 msgstr "Seadista oma arvuti ühe lihtsa liigutusega"
 
 msgid "landingwizard_item-caption-profit"
-msgstr "Jah! Nüüd on mu arvuti nagu uus!"
+msgstr "Jah! Nüüd on arvuti nagu uus!"
 
 msgid "landingwizard_cta-btn"
 msgstr "Paigalda kõik vajalikud draiverid"
@@ -819,6 +846,69 @@ msgstr "Kas olete tüdinenud draiverite otsimisest?"
 msgid "sidebanner_caption"
 msgstr "DriverPack automaatselt <span class='SideBanner__caption-marked'>valib ja paigaldab</span> vajalikud draiverid"
 
+msgid "softdetails-rating"
+msgstr "Hinne:"
+
+msgid "recommend-opera"
+msgstr "DriverPack soovitab!"
+
+msgid "softdetails_download-count"
+msgstr "Allalaadimisi:"
+
+msgid "softdetails_package-size"
+msgstr "Suurus:"
+
+msgid "softdetails_added"
+msgstr "Uuenduse aeg:"
+
+msgid "softdetails_license"
+msgstr "Levitamisskeem:"
+
+msgid "softdetails_license-free"
+msgstr "tasuta tarkvara"
+
+msgid "softdetails_os"
+msgstr "Operatsioonisüsteemid:"
+
+msgid "softdetails_uninstall-link"
+msgstr "Eemalda"
+
+msgid "softdetails_download-link"
+msgstr "Lae alla"
+
+msgid "soft-details_opera-descr"
+msgstr " \nKiire ja ohutu Opera brauser on varustatud sisseehitatud reklaamiblokeerija, tasuta VPN-i, sisseehitatud messengeri ja paljude muude üksustega. <br /><br /> Opera brauser Windows, Mac ja Linux OS-iga arvutitele võimaldab teil kasutada kõiki Interneti-võimeid võimalikult ohutult, käepäraselt ja tõhusalt."
+
+msgid "softdetails_uninstall-page-link"
+msgstr "Kuidas eemaldada {{SOFT.TITLE}}"
+
+msgid "program-month-text"
+msgstr "Kuu tarkvara:"
+
+msgid "softlandingheader_search-title"
+msgstr "<span class='bold'>Otsige uusimaid versioone</span> tasuta tarkvarast tohutust andmebaasist"
+
+msgid "softsearch_input-placeholder"
+msgstr "Tarkvara või kategooria nimi"
+
+msgid "softsearchformitem_type-category"
+msgstr "kategooria"
+
+msgid "softsearchheader_title"
+msgstr "Otsingu tulemused"
+
+msgid "softsearchheader_subtitle"
+msgstr "Teie päringule vastav tarkvara on leitud"
+
+msgid "softsearchresult_download-link"
+msgstr "Lae alla"
+
+msgid "topsoft_item-download-count"
+msgstr "Allalaadimisi:"
+
+msgid "topsoft_item-download-link"
+msgstr "Lae alla"
+
 msgid "translationheader_cta-text"
 msgstr "Aidake meil jagada DriverPacki - miljonite arvutikasutajatega üle maailma — võtke osa vabatahtlikust projektist ja aidake tõlkida tarkvara teistesse keeltesse"
 
@@ -851,6 +941,126 @@ msgstr "sülearvuti"
 
 msgid "language_title"
 msgstr "Estonian"
+
+msgid "softcategories_antivirus-single-main"
+msgstr "antiviirus"
+
+msgid "softcategories_antivirus-plural-main"
+msgstr "antiviirused"
+
+msgid "softcategories_audio-video-converter-single-main"
+msgstr "audio/video konverter"
+
+msgid "softcategories_audio-video-converter-plural-main"
+msgstr "audio/video konverterid"
+
+msgid "softcategories_audio-video-editor-single-main"
+msgstr "audio/video redigeerija"
+
+msgid "softcategories_audio-video-editor-plural-main"
+msgstr "audio/video redigeerijad"
+
+msgid "softcategories_book-reader-single-main"
+msgstr "e-raamatu lugeja"
+
+msgid "softcategories_book-reader-plural-main"
+msgstr "e-raamatu lugejad"
+
+msgid "softcategories_browser-single-main"
+msgstr "lehitseja"
+
+msgid "softcategories_browser-plural-main"
+msgstr "lehitsejad"
+
+msgid "softcategories_cd-dvd-single-main"
+msgstr "CD/DVD"
+
+msgid "softcategories_cd-dvd-plural-main"
+msgstr "CDd/DVDd"
+
+msgid "softcategories_data-recovery-single-main"
+msgstr "Andmete taastamise tarkvara"
+
+msgid "softcategories_data-recovery-plural-main"
+msgstr "Andmete taastamise tarkvara"
+
+msgid "softcategories_data-storage-single-main"
+msgstr "Andmete talletamise tarkvara"
+
+msgid "softcategories_data-storage-plural-main"
+msgstr "Andmete talletamise tarkvara"
+
+msgid "softcategories_developer-tools-single-main"
+msgstr "arendaja tööriist"
+
+msgid "softcategories_developer-tools-plural-main"
+msgstr "arendaja tööriistad"
+
+msgid "softcategories_file-manager-single-main"
+msgstr "failihaldur"
+
+msgid "softcategories_file-manager-plural-main"
+msgstr "failihaldurid"
+
+msgid "softcategories_image-editor-single-main"
+msgstr "graafiline toimetaja"
+
+msgid "softcategories_image-editor-plural-main"
+msgstr "graafilised toimetajad"
+
+msgid "softcategories_image-viewer-single-main"
+msgstr "pildivaatur"
+
+msgid "softcategories_image-viewer-plural-main"
+msgstr "pildivaaturid"
+
+msgid "softcategories_mail-client-single-main"
+msgstr "e-posti klient"
+
+msgid "softcategories_mail-client-plural-main"
+msgstr "e-posti kliendid"
+
+msgid "softcategories_messenger-single-main"
+msgstr "messenger"
+
+msgid "softcategories_messenger-plural-main"
+msgstr "messengerid"
+
+msgid "softcategories_mp3-audio-player-single-main"
+msgstr "MP3 ja audio mängija"
+
+msgid "softcategories_mp3-audio-player-plural-main"
+msgstr "MP3 ja audio mängijad"
+
+msgid "softcategories_other-single-main"
+msgstr "muu tarkvara"
+
+msgid "softcategories_other-plural-main"
+msgstr "muu tarkvara"
+
+msgid "softcategories_pdf-reader-single-main"
+msgstr "PDF-vaatur"
+
+msgid "softcategories_pdf-reader-plural-main"
+msgstr "PDF-vaaturid"
+
+msgid "softcategories_text-editor-single-main"
+msgstr "teksti redigeerija"
+
+msgid "softcategories_text-editor-plural-main"
+msgstr "teksti redigeerijad"
+
+msgid "softcategories_torrent-client-single-main"
+msgstr "Torrent klient"
+
+msgid "softcategories_torrent-client-plural-main"
+msgstr "Torrent kliendid"
+
+msgid "softcategories_video-player-single-main"
+msgstr "video mängija"
+
+msgid "softcategories_video-player-plural-main"
+msgstr "video mängijad"
 
 msgid "landingPagePublications_rbk"
 msgstr "DriverPack on tarkvara, mis sisaldab draivereid Windowsile ja on hoolikalt valitud Artur Kuzyakovi tiimi poolt. See programm analüüsib kasutajate arvuteid ja paigaldab nendesse vajalikud draiverid, mis lubavad lahendada 2 probleemi: esiteks, et kiirenda arvuti seadistamise protsessi (mis on tähtis kui arvuteid on palju): teiseks et paranda tegevusvõimet."
@@ -914,6 +1124,15 @@ msgstr "Draiverit ei paigaldatud õigesti ja nüüd on mul probleeme. Kuidas sed
 
 msgid "adminpagefaq_stable-a"
 msgstr "DraiverPacki stabiilsus on meie prioriteet, kuid väiksed vead ikka tekivad, kuigi harva. Seepärast oleme loonud taastepunkti, mis lubab teil tagasi keerata kõik muudatused. Et vältida tulevikus sama probleemi, soovitame minna DriverPack menüüse ja saata raport, mis genereeritakse automaatselt meie tarkvara poolt ja saadetakse tehnikutele."
+
+msgid "partners_landing-text-opera"
+msgstr " \nOpera Software on ülemaailmne Internetis töötava brauserite ja tarkvara arendaja.<br /><br /> Selle ajalugu on kestnud enam kui 20 aastat. Opera Software osaleb W3C projekti veebistandardite väljatöötamisel. Opera tooteid kasutab üle maailma enam kui 350 miljonit inimest.<br /><br /> Selle peakontor asub Norra pealinnas Oslos."
+
+msgid "partners_landing-text-yandex"
+msgstr "Yandex on samanimelise otsingumootori ja populaarsete Interneti-teenuste ülemaailmne arendaja.<br /><br /> Venemaal, kust Yandex pärineb, on tema osa otsingumootorites 56,4% (Yandex.Radari andmetel 2018. aasta märtsi kohta). See ettevõte on üks väheseid, kes talub edukalt konkurentsi otsinguhiiglase Google'iga. <br /><br />Tema peakontor asub Venemaa pealinnas Moskvas."
+
+msgid "partners_landing-text-avast"
+msgstr "Tarkvara Avast on ülemaailmne tarkvara arendaja infoturbe valdkonnas.<br /><br /> See arendab maailma populaarseimat tasuta viirusetõrjet. Avast'i tarkvara takistab iga kuu 1,5 miljardit rünnakut arvutite ja veebi vastu.<br /><br /> Peakontor asub Prahas, Tšehhi Vabariigi pealinnas."
 
 msgid "cloudpagefaq_remove_soft-q"
 msgstr "Miks soovitab DriverPack Cloud eemaldada mul mõnda programmi arvutist?"
@@ -1050,11 +1269,76 @@ msgstr "Populaarsed {{VENDOR.NAME}} sülearvutit ja märkmikarvutid"
 msgid "notebooksvendorpage_subtitle-all"
 msgstr "Kõik {{VENDOR.NAME}} sülearvutit ja märkmikarvutid"
 
+msgid "patners-page-opera-title"
+msgstr "Miks on Opera DriverPack partner?"
+
+msgid "patners-page-opera-subtitle"
+msgstr "DriverPack teeb ametlikku koostööd Norra ettevõttega, aidates kasutajatel üle kogu maailma üht parimat brauserit paremini tundma õppida"
+
+msgid "patners-page-opera-text"
+msgstr " \nOpera on üks parimatest pidevalt arenevate tehnoloogiatega brauseritest. Sisseehitatud reklaamiblokeerija, messenger ja turborežiim laiendavad selle brauseri funktsioone ilma arvuti ressursse üle koormata."
+
+msgid "patners-page-opera-pluses-title-support"
+msgstr "DriverPack on levitatud tasuta ja seda toetatakse tänu partneritele juba 10 aastat"
+
+msgid "patners-page-opera-pluses-subtitle-support"
+msgstr "DriverPack on praeguseks juba peaaegu 10 aastat valinud ja installinud draivereid kõikidele arvutitele kogu maailmas. Ja see on endiselt tasuta"
+
+msgid "patners-page-opera-pluses-title-opera-best"
+msgstr "Opera on üks parimatest pidevalt arenevate tehnoloogiatega brauseritest"
+
+msgid "patners-page-opera-pluses-subtitle-opera-best"
+msgstr "Opera installimisel arvuti konfigureerimise ajal ei saa te lihtsalt kiiret ja funktsionaalset brauserit, vaid toetate ka DriverPack."
+
+msgid "patners-page-opera-pluses-title-ecosystem"
+msgstr "See pole ainult lauaarvuti brauser, vaid see on ka terve ökosüsteem, mis muudab teie elu käepärasemaks"
+
+msgid "patners-page-opera-pluses-subtitle-ecosystem"
+msgstr "Opera mobiilne versioon on täielikult sünkroonitud arvuti versiooniga, sinna on sisseehitatud VPN, ning mugav ühekäeline kasutusvõimalus. Soovitame soojalt seda proovida."
+
+msgid "patners-page-opera-btn"
+msgstr "Paigalda Opera brauser"
+
 msgid "reviewpage_title"
 msgstr "Tagasiside ja soovitused DriverPacki täiendamiseks"
 
 msgid "searchpage_show-more-link"
 msgstr "Kuva rohkem"
+
+msgid "softcategorypage_categories-title"
+msgstr "Kõik kategooriad"
+
+msgid "softlandingpage_topsoft-title"
+msgstr "Populaarsed äpid"
+
+msgid "softlandingpage_categories-title"
+msgstr "Tarkvara kategooria järgi"
+
+msgid "softsearchpage_show-more-link"
+msgstr "kuva rohkem"
+
+msgid "softsearchpage_no-results"
+msgstr "Vabandust, teie päringule ei leitud vastet"
+
+#. i18n: EN: text for {{LINK}} is in key softthankyoupopup_download-link; RU:
+#. текст для {{LINK}} находится в ключе softthankyoupopup_download-link;
+msgid "softthankyoupopup_download-text"
+msgstr "Paigaldus pole veel alanud? Vajutage palun siia {{LINK}} ."
+
+msgid "softthankyoupopup_licence-text"
+msgstr "Palun lugege {{LINK}} enne paigaldamist"
+
+msgid "softthankyoupopup_title"
+msgstr "Käivita paigaldamise fail"
+
+msgid "softthankyoupopup_subtitle"
+msgstr "Alles jääb vaid tarkvara paigaldamise alustamiseks allalaaditud faili käivitamine"
+
+msgid "softthankyoupopup_licence-link"
+msgstr "Litsents"
+
+msgid "softthankyoupopup_download-link"
+msgstr "lae alla"
 
 #. i18n: EN: text for {{LINK}} is in key thankyoupopup_download-link; RU:
 #. текст для {{LINK}} находится в ключе thankyoupopup_download-link;

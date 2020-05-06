@@ -1,20 +1,20 @@
 # Translators:
 # Артур Кузяков <artx@drp.su>, 2017
-# Robin <vandeneynde.robin@gmail.com>, 2017
 # Patrick Hendrickx <patrick.hendrickx@gmail.com>, 2018
-# Richard Bussé <rbusse@live.be>, 2018
-# Nadia Tegeneva <nadia@drp.su>, 2018
-# Henry Venema <henryvenema@hotmail.com>, 2018
+# Robin <vandeneynde.robin@gmail.com>, 2020
+# Nadia Tegeneva <nadia@drp.su>, 2020
+# Richard Bussé <rbusse@live.be>, 2020
+# Henry Venema <henryvenema@hotmail.com>, 2020
 # Leonid Beschasny <lbeschastny@iknow.travel>, 2017
-# Nadia Tegeneva <nadia@drp.su>, 2018
+# Nadia Tegeneva <nadia@drp.su>, 2020
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-11-21 09:46+0000\n"
+"POT-Creation-Date: 2020-04-27 12:44+0000\n"
 "PO-Revision-Date: 2016-12-16 14:30+0000\n"
-"Last-Translator: Henry Venema <henryvenema@hotmail.com>, 2018\n"
+"Last-Translator: Henry Venema <henryvenema@hotmail.com>, 2020\n"
 "Language-Team: Dutch (https://www.transifex.com/driverpack-solution/teams/75453/nl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -59,10 +59,19 @@ msgid "cloudpagefooter_license-link"
 msgstr "Licentieovereenkomst"
 
 msgid "breadcrumbs_main-text"
-msgstr "Home Pagina"
+msgstr "Home"
 
 msgid "breadcrumbs_catalog-main-text"
 msgstr "drivers voor {{OS.NAME}}"
+
+msgid "breadcrumbs_softcategory-text"
+msgstr "{{CATEGORY.PLURAL.MAIN}}"
+
+msgid "breadcrumbs_soft-text"
+msgstr "{{SOFT.NAME}}{{SOFT.VERSION}}"
+
+msgid "breadcrumbs_uninstall-text"
+msgstr "verwijderen"
 
 msgid "breadcrumbs_vendors-text"
 msgstr "Fabrikanten"
@@ -113,6 +122,9 @@ msgstr "{{CLASS.PLURAL.MAIN}} van  {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} la
 msgid "devicecard_download-btn"
 msgstr "Download stuurprogramma"
 
+msgid "devicecard_download-repack-btn"
+msgstr "Download ZIP"
+
 #. i18n: EN: Example: NAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10 x86; Text
 #. for {{DOWNLOAD}} is in key drivercard_no-results_download-link; RU: Пример:
 #. NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10 x86; Текст для
@@ -155,6 +167,9 @@ msgstr "Bestand *.inf:"
 
 msgid "devicecard_details-content-label-section"
 msgstr "Categorie:"
+
+msgid "devicecard_details-download-links-repack"
+msgstr "Direct download van de ZIP met de driver"
 
 msgid "devicecard_details-links-merged_label"
 msgstr "Als de Device ID die je nodig hebt niet gevonden is in de lijst, voer het dan in de zoekregel in"
@@ -259,6 +274,9 @@ msgstr "Categorie:"
 msgid "drivercard_caption-btn"
 msgstr "Download stuurprogramma"
 
+msgid "drivercard_caption-repack-btn"
+msgstr "Download ZIP"
+
 msgid "deviceidpage_all-systems"
 msgstr "alle systemen"
 
@@ -352,6 +370,9 @@ msgstr "DriverPack zal drivers gratis installeren en driverproblemen op elk appa
 msgid "landingheader_cta-btn"
 msgstr "Installeer alle benodigde stuurprogramma's"
 
+msgid "landingheadernav_search-soft"
+msgstr "Software zoeken"
+
 msgid "landingheadernav_search"
 msgstr "Driver zoeker"
 
@@ -382,6 +403,12 @@ msgstr "Installeer alle benodigde stuurprogramma's"
 msgid "landingnotebookvendorslist_versions"
 msgstr "Andere DriverPack versies"
 
+msgid "partners-link-text-opera"
+msgstr "Waarom is Opera een partner van DriverPack?"
+
+msgid "partners_landing-title"
+msgstr "Onze partners"
+
 msgid "landingproducts_cta-title"
 msgstr "Kies je DriverPack"
 
@@ -404,7 +431,7 @@ msgid "landingproducts_item-title-network"
 msgstr "DriverPack Offline Network"
 
 msgid "landingproducts_item-description-network"
-msgstr "Het bevat drivers voor netwerkhardware (Lan / Wi-Fi), het werkt zonder verbinding met het Internet  <span class='nobr'>({{SIZE}})</span>"
+msgstr "Het bevat drivers voor netwerkhardware (Lan / Wi-Fi) en vereist geen internetverbinding om te werken <span class='nobr'>({{SIZE}})</span>"
 
 msgid "landingproducts_item-title-offline"
 msgstr "DriverPack Offline Full"
@@ -458,7 +485,7 @@ msgid "landingwizard_item-caption-setup"
 msgstr "Configureer uw computer met één eenvoudige actie"
 
 msgid "landingwizard_item-caption-profit"
-msgstr "Hoera! Nu loopt mijn computer als nieuw!"
+msgstr "Ja! Nu draait de computer als nieuw!"
 
 msgid "landingwizard_cta-btn"
 msgstr "Installeer alle benodigde stuurprogramma's"
@@ -820,6 +847,69 @@ msgstr "Ben je het moe om steeds naar stuurprogramma' te zoeken?"
 msgid "sidebanner_caption"
 msgstr "DriverPack zal automatisch de gewenste stuurprogramma's <span class='SideBanner__caption-marked'>selecteren en installeren</span>"
 
+msgid "softdetails-rating"
+msgstr "Beoordeling:"
+
+msgid "recommend-opera"
+msgstr "DriverPack raadt aan!"
+
+msgid "softdetails_download-count"
+msgstr "Aantal downloads:"
+
+msgid "softdetails_package-size"
+msgstr "Grootte:"
+
+msgid "softdetails_added"
+msgstr "Datum bijwerken:"
+
+msgid "softdetails_license"
+msgstr "Distributieschema:"
+
+msgid "softdetails_license-free"
+msgstr "gratis software"
+
+msgid "softdetails_os"
+msgstr "Besturingssystemen:"
+
+msgid "softdetails_uninstall-link"
+msgstr "Verwijderen"
+
+msgid "softdetails_download-link"
+msgstr "Download"
+
+msgid "soft-details_opera-descr"
+msgstr "De snelle en veilige Opera Browser wordt geleverd met ingebouwde adblocker, gratis VPN, ingebouwde messengers en vele andere items. <br /> <br /> Met Opera Browser voor computers met Windows, Mac en Linux OS kunt u alle internetcapaciteiten zo veilig, handig en efficiënt mogelijk gebruiken."
+
+msgid "softdetails_uninstall-page-link"
+msgstr "Hoe te verwijderen {{SOFT.TITLE}}"
+
+msgid "program-month-text"
+msgstr "De software van de maand:"
+
+msgid "softlandingheader_search-title"
+msgstr "<span class='bold'>Zoek naar de nieuwste versies </span> van de gratis software via de enorme database"
+
+msgid "softsearch_input-placeholder"
+msgstr "Software- of categorie-naam"
+
+msgid "softsearchformitem_type-category"
+msgstr "categorie"
+
+msgid "softsearchheader_title"
+msgstr "Zoekresultaten"
+
+msgid "softsearchheader_subtitle"
+msgstr "De software die aan uw vraag voldoet, is gevonden"
+
+msgid "softsearchresult_download-link"
+msgstr "Download"
+
+msgid "topsoft_item-download-count"
+msgstr "Aantal downloads:"
+
+msgid "topsoft_item-download-link"
+msgstr "Download"
+
 msgid "translationheader_cta-text"
 msgstr "Help ons DriverPack beschikbaar te maken voor miljoenen PC gebruikers wereldwijd — neem deel in ons vrijwilligers project om het te vertalen in andere talen "
 
@@ -852,6 +942,126 @@ msgstr "laptop"
 
 msgid "language_title"
 msgstr "Dutch"
+
+msgid "softcategories_antivirus-single-main"
+msgstr "antivirus"
+
+msgid "softcategories_antivirus-plural-main"
+msgstr "antivirus-software"
+
+msgid "softcategories_audio-video-converter-single-main"
+msgstr "audio / video-omzetter"
+
+msgid "softcategories_audio-video-converter-plural-main"
+msgstr "audio / video-omzetters"
+
+msgid "softcategories_audio-video-editor-single-main"
+msgstr "audio / video-bewerker"
+
+msgid "softcategories_audio-video-editor-plural-main"
+msgstr "audio / video-bewerkers"
+
+msgid "softcategories_book-reader-single-main"
+msgstr "e-book lezer"
+
+msgid "softcategories_book-reader-plural-main"
+msgstr "e-book lezers"
+
+msgid "softcategories_browser-single-main"
+msgstr "browser"
+
+msgid "softcategories_browser-plural-main"
+msgstr "browsers"
+
+msgid "softcategories_cd-dvd-single-main"
+msgstr "Cd / Dvd"
+
+msgid "softcategories_cd-dvd-plural-main"
+msgstr "Cd's / Dvd's"
+
+msgid "softcategories_data-recovery-single-main"
+msgstr "Software voor gegevensherstel"
+
+msgid "softcategories_data-recovery-plural-main"
+msgstr "Software voor gegevensherstel"
+
+msgid "softcategories_data-storage-single-main"
+msgstr "Software voor gegevensopslag"
+
+msgid "softcategories_data-storage-plural-main"
+msgstr "Software voor gegevensopslag"
+
+msgid "softcategories_developer-tools-single-main"
+msgstr "ontwikkelaarshulpmiddel"
+
+msgid "softcategories_developer-tools-plural-main"
+msgstr "ontwikkelaarshulpmiddellen"
+
+msgid "softcategories_file-manager-single-main"
+msgstr "bestandsbeheer"
+
+msgid "softcategories_file-manager-plural-main"
+msgstr "bestandsbeheerders"
+
+msgid "softcategories_image-editor-single-main"
+msgstr "grafische bewerker"
+
+msgid "softcategories_image-editor-plural-main"
+msgstr "grafische bewerkers"
+
+msgid "softcategories_image-viewer-single-main"
+msgstr "afbeelding viewer"
+
+msgid "softcategories_image-viewer-plural-main"
+msgstr "afbeelding viewers"
+
+msgid "softcategories_mail-client-single-main"
+msgstr "e-mail-software"
+
+msgid "softcategories_mail-client-plural-main"
+msgstr "e-mail-softwares"
+
+msgid "softcategories_messenger-single-main"
+msgstr "messenger"
+
+msgid "softcategories_messenger-plural-main"
+msgstr "messengers"
+
+msgid "softcategories_mp3-audio-player-single-main"
+msgstr "MP3- en audio-speler"
+
+msgid "softcategories_mp3-audio-player-plural-main"
+msgstr "MP3- en audio-spelers"
+
+msgid "softcategories_other-single-main"
+msgstr "andere software"
+
+msgid "softcategories_other-plural-main"
+msgstr "andere software"
+
+msgid "softcategories_pdf-reader-single-main"
+msgstr "PDF lezer"
+
+msgid "softcategories_pdf-reader-plural-main"
+msgstr "PDF lezers"
+
+msgid "softcategories_text-editor-single-main"
+msgstr "tekstbewerker"
+
+msgid "softcategories_text-editor-plural-main"
+msgstr "tekstbewerkers"
+
+msgid "softcategories_torrent-client-single-main"
+msgstr "Torrent-software"
+
+msgid "softcategories_torrent-client-plural-main"
+msgstr "Torrent-softwares"
+
+msgid "softcategories_video-player-single-main"
+msgstr "video speler"
+
+msgid "softcategories_video-player-plural-main"
+msgstr "video spelers"
 
 msgid "landingPagePublications_rbk"
 msgstr "DriverPack is een software die bestaat uit stuurprogramma's voor Windows die grondig geselecteerd en getest worden door het team van Artur Kuzyakov. Deze applicatie analyseert de computer van de gebruiker en installeert de benodigde stuurprogramma's, waarmee u twee problemen kunt oplossen: ten eerste, het proces van de configuratie van de computer versnellen (dat is vooral belangrijk als er tientallen computers binnen een systeem zijn); en ten tweede, om zijn operationele vermogen te verbeteren."
@@ -915,6 +1125,15 @@ msgstr "Het stuurprogramma is niet goed geïnstalleerd en mijn computer heeft nu
 
 msgid "adminpagefaq_stable-a"
 msgstr "De operationele stabiliteit van de DriverPack -software is een van onze voornaamste prioriteiten, maar er zijn nog steeds kleine storingen, hoewel deze zeldzaam zijn. Daarom maken we steeds een herstelpunt waarmee u altijd terug kunt keren naar de eerder geconfigureerde toestand. Om een soortgelijk probleem in de toekomst te voorkomen, raden wij u aan om naar het DriverPack -menu te gaan en het rapport te verzenden, dat automatisch door het programma wordt gemaakt, naar onze technische diensten."
+
+msgid "partners_landing-text-opera"
+msgstr "Opera Software is een wereldwijde ontwikkelaar van browsers en software om op internet te werken. <br /><br /> De geschiedenis heeft meer dan 20 jaar geduurd. Opera Software werkt mee aan het ontwikkelen van webstandaarden binnen het W3C-project. Meer dan 350 miljoen mensen wereldwijd gebruiken Opera-producten. <br /><br /> Het hoofdkantoor is gevestigd in Oslo, de hoofdstad van Noorwegen."
+
+msgid "partners_landing-text-yandex"
+msgstr "Yandex is een wereldwijde ontwikkelaar van de zoekmachine en populaire internetservices met dezelfde naam. <br /><br /> In Rusland, waar Yandex vandaan komt, is het aandeel in de zoekmachines 56,4% (volgens Yandex.Radar, voor maart 2018). Dit bedrijf is een van de weinige die de concurrentie met Google, de zoekgigant, met succes doorstaat. <br /><br /> Het hoofdkantoor is gevestigd in Moskou, de hoofdstad van Rusland."
+
+msgid "partners_landing-text-avast"
+msgstr "Avast Software is een wereldwijde ontwikkelaar van software op het gebied van informatiebeveiliging. <br /><br /> Het brengt 's werelds populairste gratis antivirus uit. De software van Avast voorkomt elke maand 1,5 miljard aanvallen op computers en het web. <br /><br /> Het hoofdkantoor is gevestigd in Praag, de hoofdstad van Tsjechië."
 
 msgid "cloudpagefaq_remove_soft-q"
 msgstr "Waarom stelt DriverPack Cloud voor om software van mijn computer te verwijderen?"
@@ -1051,11 +1270,76 @@ msgstr "Populaire {{VENDOR.NAME}} laptops en netbooks"
 msgid "notebooksvendorpage_subtitle-all"
 msgstr "Alle {{VENDOR.NAME}} laptops en netbooks"
 
+msgid "patners-page-opera-title"
+msgstr "Waarom is Opera een partner van DriverPack?"
+
+msgid "patners-page-opera-subtitle"
+msgstr "DriverPack werkt officieel samen met het Noorse bedrijf en helpt gebruikers over de hele wereld om een van de beste browsers beter te leren kennen"
+
+msgid "patners-page-opera-text"
+msgstr "Opera is een van de beste browsers met constant ontwikkelende technologieën. Ingebouwde advertentieblokkering, boodschappers en Turbomodus breiden deze browserfunctionaliteit uit zonder de bronnen van de computer te overbelasten."
+
+msgid "patners-page-opera-pluses-title-support"
+msgstr "DriverPack is gratis verspreid en wordt dankzij de partners nu al 10 jaar ondersteund"
+
+msgid "patners-page-opera-pluses-subtitle-support"
+msgstr "DriverPack selecteert en installeert nu al bijna 10 jaar stuurprogramma's voor alle computers over de hele wereld. En het blijft nog steeds gratis"
+
+msgid "patners-page-opera-pluses-title-opera-best"
+msgstr "Opera is een van de beste browsers met constant ontwikkelende technologieën"
+
+msgid "patners-page-opera-pluses-subtitle-opera-best"
+msgstr "Door Opera te installeren tijdens het configureren van uw computer krijgt u niet alleen een snelle en functionele browser, maar ondersteunt u ook DriverPack."
+
+msgid "patners-page-opera-pluses-title-ecosystem"
+msgstr "Het is niet alleen een desktopbrowser, maar het is een heel ecosysteem dat je leven handiger maakt"
+
+msgid "patners-page-opera-pluses-subtitle-ecosystem"
+msgstr "Opera op mobiele apparaten is volledig gesynchroniseerd met de desktopversie, het heeft een ingebouwde VPN en handig beheer met één hand. We raden je ten zeerste aan om het te proberen."
+
+msgid "patners-page-opera-btn"
+msgstr "Installeer Opera Browser"
+
 msgid "reviewpage_title"
 msgstr "Feedback en suggesties om DriverPack te verbeteren"
 
 msgid "searchpage_show-more-link"
 msgstr "Zie meer"
+
+msgid "softcategorypage_categories-title"
+msgstr "Alle categorieën"
+
+msgid "softlandingpage_topsoft-title"
+msgstr "Populaire apps"
+
+msgid "softlandingpage_categories-title"
+msgstr "Software per categorie"
+
+msgid "softsearchpage_show-more-link"
+msgstr "Bekijk meer"
+
+msgid "softsearchpage_no-results"
+msgstr "Sorry, er is niets gevonden dat aan uw vraag voldoet"
+
+#. i18n: EN: text for {{LINK}} is in key softthankyoupopup_download-link; RU:
+#. текст для {{LINK}} находится в ключе softthankyoupopup_download-link;
+msgid "softthankyoupopup_download-text"
+msgstr "Is de installatie nog niet begonnen? Klik op {{LINK}}, alstublieft."
+
+msgid "softthankyoupopup_licence-text"
+msgstr "Lees eerst {{LINK}} alvorens te installeren"
+
+msgid "softthankyoupopup_title"
+msgstr "Voer het installatiebestand uit"
+
+msgid "softthankyoupopup_subtitle"
+msgstr "Het enige wat u nog hoeft te doen, is het gedownloade bestand uitvoeren om de software-installatie te starten"
+
+msgid "softthankyoupopup_licence-link"
+msgstr "Licentieovereenkomst"
+
+msgid "softthankyoupopup_download-link"
+msgstr "download"
 
 #. i18n: EN: text for {{LINK}} is in key thankyoupopup_download-link; RU:
 #. текст для {{LINK}} находится в ключе thankyoupopup_download-link;

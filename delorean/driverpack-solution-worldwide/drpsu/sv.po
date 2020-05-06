@@ -1,16 +1,16 @@
 # Translators:
 # Nadia Tegeneva <nadia@drp.su>, 2018
-# Tobias Lindén <tobiasglinden@gmail.com>, 2018
+# Tobias Lindén <tobiasglinden@gmail.com>, 2020
 # Leonid Beschasny <lbeschastny@iknow.travel>, 2017
-# Nadia Tegeneva <nadia@drp.su>, 2018
+# Nadia Tegeneva <nadia@drp.su>, 2020
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-11-21 09:46+0000\n"
+"POT-Creation-Date: 2020-04-27 12:44+0000\n"
 "PO-Revision-Date: 2016-12-16 14:30+0000\n"
-"Last-Translator: Tobias Lindén <tobiasglinden@gmail.com>, 2018\n"
+"Last-Translator: Tobias Lindén <tobiasglinden@gmail.com>, 2020\n"
 "Language-Team: Swedish (https://www.transifex.com/driverpack-solution/teams/75453/sv/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -55,10 +55,19 @@ msgid "cloudpagefooter_license-link"
 msgstr "Licensavtal"
 
 msgid "breadcrumbs_main-text"
-msgstr "Hem"
+msgstr ""
 
 msgid "breadcrumbs_catalog-main-text"
 msgstr "drivrutiner för {{OS.NAME}}"
+
+msgid "breadcrumbs_softcategory-text"
+msgstr ""
+
+msgid "breadcrumbs_soft-text"
+msgstr ""
+
+msgid "breadcrumbs_uninstall-text"
+msgstr ""
 
 msgid "breadcrumbs_vendors-text"
 msgstr "Tillverkare"
@@ -109,6 +118,9 @@ msgstr "{{CLASS.PLURAL.MAIN}} för {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} b�
 msgid "devicecard_download-btn"
 msgstr "Ladda ned drivrutin"
 
+msgid "devicecard_download-repack-btn"
+msgstr ""
+
 #. i18n: EN: Example: NAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10 x86; Text
 #. for {{DOWNLOAD}} is in key drivercard_no-results_download-link; RU: Пример:
 #. NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10 x86; Текст для
@@ -151,6 +163,9 @@ msgstr "Fil *.inf:"
 
 msgid "devicecard_details-content-label-section"
 msgstr "Kategori:"
+
+msgid "devicecard_details-download-links-repack"
+msgstr ""
 
 msgid "devicecard_details-links-merged_label"
 msgstr "Om det Device ID du behöver inte finns med i listan, skriv in det i sökrutan"
@@ -255,6 +270,9 @@ msgstr "Kategori:"
 msgid "drivercard_caption-btn"
 msgstr "Ladda ned drivrutin"
 
+msgid "drivercard_caption-repack-btn"
+msgstr ""
+
 msgid "deviceidpage_all-systems"
 msgstr "alla operativsystem"
 
@@ -348,6 +366,9 @@ msgstr "DriverPack installerar drivrutiner gratis och löser problem med drivrut
 msgid "landingheader_cta-btn"
 msgstr "Installera alla nödvändiga drivrutiner"
 
+msgid "landingheadernav_search-soft"
+msgstr ""
+
 msgid "landingheadernav_search"
 msgstr "Sök efter drivrutiner"
 
@@ -378,6 +399,12 @@ msgstr "Installera alla nödvändiga drivrutiner"
 msgid "landingnotebookvendorslist_versions"
 msgstr "Andra versioner av DriverPack"
 
+msgid "partners-link-text-opera"
+msgstr ""
+
+msgid "partners_landing-title"
+msgstr ""
+
 msgid "landingproducts_cta-title"
 msgstr "Välj ditt DriverPack"
 
@@ -400,7 +427,7 @@ msgid "landingproducts_item-title-network"
 msgstr "DriverPack Offline Network"
 
 msgid "landingproducts_item-description-network"
-msgstr "Det innehåller drivrutiner för nätverksenheter (Lan/Wi-Fi), och fungerar utan internetuppkoppling <span class='nobr'>({{SIZE}})</span>"
+msgstr ""
 
 msgid "landingproducts_item-title-offline"
 msgstr "DriverPack Offline Full"
@@ -454,7 +481,7 @@ msgid "landingwizard_item-caption-setup"
 msgstr "Konfigurera din dator med en enkel handling"
 
 msgid "landingwizard_item-caption-profit"
-msgstr "Yay! Min dator fungerar nu som helt ny!"
+msgstr ""
 
 msgid "landingwizard_cta-btn"
 msgstr "Installera alla nödvändiga drivrutiner"
@@ -816,6 +843,69 @@ msgstr "Är du trött på att leta efter drivrutiner?"
 msgid "sidebanner_caption"
 msgstr "DriverPack <span class='SideBanner__caption-marked'>installerar och väljer</span> automatiskt de nödvändiga drivrutinerna"
 
+msgid "softdetails-rating"
+msgstr ""
+
+msgid "recommend-opera"
+msgstr ""
+
+msgid "softdetails_download-count"
+msgstr ""
+
+msgid "softdetails_package-size"
+msgstr ""
+
+msgid "softdetails_added"
+msgstr ""
+
+msgid "softdetails_license"
+msgstr ""
+
+msgid "softdetails_license-free"
+msgstr ""
+
+msgid "softdetails_os"
+msgstr ""
+
+msgid "softdetails_uninstall-link"
+msgstr ""
+
+msgid "softdetails_download-link"
+msgstr "Ladda ned"
+
+msgid "soft-details_opera-descr"
+msgstr ""
+
+msgid "softdetails_uninstall-page-link"
+msgstr ""
+
+msgid "program-month-text"
+msgstr ""
+
+msgid "softlandingheader_search-title"
+msgstr ""
+
+msgid "softsearch_input-placeholder"
+msgstr ""
+
+msgid "softsearchformitem_type-category"
+msgstr ""
+
+msgid "softsearchheader_title"
+msgstr ""
+
+msgid "softsearchheader_subtitle"
+msgstr ""
+
+msgid "softsearchresult_download-link"
+msgstr "Ladda ned"
+
+msgid "topsoft_item-download-count"
+msgstr ""
+
+msgid "topsoft_item-download-link"
+msgstr "Ladda ned"
+
 msgid "translationheader_cta-text"
 msgstr "Hjälp oss göra DriverPack tillgängligt för miljoner PC-användare världen över — gå med i vårt volontärprojekt för att översätta det till andra språk"
 
@@ -848,6 +938,126 @@ msgstr "bärbar dator"
 
 msgid "language_title"
 msgstr "Swedish"
+
+msgid "softcategories_antivirus-single-main"
+msgstr ""
+
+msgid "softcategories_antivirus-plural-main"
+msgstr ""
+
+msgid "softcategories_audio-video-converter-single-main"
+msgstr ""
+
+msgid "softcategories_audio-video-converter-plural-main"
+msgstr ""
+
+msgid "softcategories_audio-video-editor-single-main"
+msgstr ""
+
+msgid "softcategories_audio-video-editor-plural-main"
+msgstr ""
+
+msgid "softcategories_book-reader-single-main"
+msgstr ""
+
+msgid "softcategories_book-reader-plural-main"
+msgstr ""
+
+msgid "softcategories_browser-single-main"
+msgstr ""
+
+msgid "softcategories_browser-plural-main"
+msgstr ""
+
+msgid "softcategories_cd-dvd-single-main"
+msgstr ""
+
+msgid "softcategories_cd-dvd-plural-main"
+msgstr ""
+
+msgid "softcategories_data-recovery-single-main"
+msgstr ""
+
+msgid "softcategories_data-recovery-plural-main"
+msgstr ""
+
+msgid "softcategories_data-storage-single-main"
+msgstr ""
+
+msgid "softcategories_data-storage-plural-main"
+msgstr ""
+
+msgid "softcategories_developer-tools-single-main"
+msgstr ""
+
+msgid "softcategories_developer-tools-plural-main"
+msgstr ""
+
+msgid "softcategories_file-manager-single-main"
+msgstr ""
+
+msgid "softcategories_file-manager-plural-main"
+msgstr ""
+
+msgid "softcategories_image-editor-single-main"
+msgstr ""
+
+msgid "softcategories_image-editor-plural-main"
+msgstr ""
+
+msgid "softcategories_image-viewer-single-main"
+msgstr ""
+
+msgid "softcategories_image-viewer-plural-main"
+msgstr ""
+
+msgid "softcategories_mail-client-single-main"
+msgstr ""
+
+msgid "softcategories_mail-client-plural-main"
+msgstr ""
+
+msgid "softcategories_messenger-single-main"
+msgstr ""
+
+msgid "softcategories_messenger-plural-main"
+msgstr ""
+
+msgid "softcategories_mp3-audio-player-single-main"
+msgstr ""
+
+msgid "softcategories_mp3-audio-player-plural-main"
+msgstr ""
+
+msgid "softcategories_other-single-main"
+msgstr ""
+
+msgid "softcategories_other-plural-main"
+msgstr ""
+
+msgid "softcategories_pdf-reader-single-main"
+msgstr ""
+
+msgid "softcategories_pdf-reader-plural-main"
+msgstr ""
+
+msgid "softcategories_text-editor-single-main"
+msgstr ""
+
+msgid "softcategories_text-editor-plural-main"
+msgstr ""
+
+msgid "softcategories_torrent-client-single-main"
+msgstr ""
+
+msgid "softcategories_torrent-client-plural-main"
+msgstr ""
+
+msgid "softcategories_video-player-single-main"
+msgstr ""
+
+msgid "softcategories_video-player-plural-main"
+msgstr ""
 
 msgid "landingPagePublications_rbk"
 msgstr "DriverPack är en programvara som består av drivrutiner för Windows som noggrant testats och valts av Artur Kuzyakovs team. Programmet analyserar användarens dator och installerar nödvändiga drivrutiner, vilket löser två problem: för det första, att påskynda processen med datorns konfiguration (vilket är extra viktigt om det är ett stort antal datorer inom ett och samma system); och för det andra, förbättra datorns operativa förmåga."
@@ -911,6 +1121,15 @@ msgstr "Drivrutinen installerades inte korrekt och nu har jag problem med min da
 
 msgid "adminpagefaq_stable-a"
 msgstr "En av våra största prioriteringar är stabiliteten på DriverPack men mindre fel kan tyvärr ändå hända, även om de är sällsynta. Med anledning av detta skapar vi alltid en återställningspunkt med din tidigare konfiguration som du kan återgå till. För att förebygga liknande problem i framtiden rekommenderar vi dig att gå till DriverPack menyn och skicka den autogenererade rapporten till vår tekniska service."
+
+msgid "partners_landing-text-opera"
+msgstr ""
+
+msgid "partners_landing-text-yandex"
+msgstr ""
+
+msgid "partners_landing-text-avast"
+msgstr ""
 
 msgid "cloudpagefaq_remove_soft-q"
 msgstr ""
@@ -1047,11 +1266,76 @@ msgstr "Populära bärbara datorer från {{VENDOR.NAME}}"
 msgid "notebooksvendorpage_subtitle-all"
 msgstr "Alla bärbara datorer från {{VENDOR.NAME}}"
 
+msgid "patners-page-opera-title"
+msgstr ""
+
+msgid "patners-page-opera-subtitle"
+msgstr ""
+
+msgid "patners-page-opera-text"
+msgstr ""
+
+msgid "patners-page-opera-pluses-title-support"
+msgstr ""
+
+msgid "patners-page-opera-pluses-subtitle-support"
+msgstr ""
+
+msgid "patners-page-opera-pluses-title-opera-best"
+msgstr ""
+
+msgid "patners-page-opera-pluses-subtitle-opera-best"
+msgstr ""
+
+msgid "patners-page-opera-pluses-title-ecosystem"
+msgstr ""
+
+msgid "patners-page-opera-pluses-subtitle-ecosystem"
+msgstr ""
+
+msgid "patners-page-opera-btn"
+msgstr ""
+
 msgid "reviewpage_title"
 msgstr "Feedback och förslag för att förbättra DriverPack"
 
 msgid "searchpage_show-more-link"
 msgstr "Visa fler"
+
+msgid "softcategorypage_categories-title"
+msgstr ""
+
+msgid "softlandingpage_topsoft-title"
+msgstr ""
+
+msgid "softlandingpage_categories-title"
+msgstr ""
+
+msgid "softsearchpage_show-more-link"
+msgstr ""
+
+msgid "softsearchpage_no-results"
+msgstr ""
+
+#. i18n: EN: text for {{LINK}} is in key softthankyoupopup_download-link; RU:
+#. текст для {{LINK}} находится в ключе softthankyoupopup_download-link;
+msgid "softthankyoupopup_download-text"
+msgstr ""
+
+msgid "softthankyoupopup_licence-text"
+msgstr ""
+
+msgid "softthankyoupopup_title"
+msgstr ""
+
+msgid "softthankyoupopup_subtitle"
+msgstr ""
+
+msgid "softthankyoupopup_licence-link"
+msgstr "Licensavtal"
+
+msgid "softthankyoupopup_download-link"
+msgstr "ladda ned"
 
 #. i18n: EN: text for {{LINK}} is in key thankyoupopup_download-link; RU:
 #. текст для {{LINK}} находится в ключе thankyoupopup_download-link;

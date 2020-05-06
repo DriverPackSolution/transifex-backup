@@ -1,21 +1,21 @@
 # Translators:
 # Yoseph Melka <yosmelka@gmail.com>, 2017
 # Abay Tadesse <dejatabay@gmail.com>, 2018
-# Dagmawi Thomas <dag.thom@hotmail.com>, 2018
-# Amanuel Tadiwos <amanueltadiwos306@gmail.com>, 2018
 # menelik michael <menelikmichael@gmail.com>, 2019
-# Nadia Tegeneva <nadia@drp.su>, 2019
-# Kirubel Adamu <kirubeladamu@gmail.com>, 2019
+# Nadia Tegeneva <nadia@drp.su>, 2020
+# Dagmawi Thomas <dag.thom@hotmail.com>, 2020
+# Amanuel Tadiwos <amanueltadiwos306@gmail.com>, 2020
+# Kirubel Adamu <kirubeladamu@gmail.com>, 2020
 # Leonid Beschasny <lbeschastny@iknow.travel>, 2017
-# Nadia Tegeneva <nadia@drp.su>, 2018
+# Nadia Tegeneva <nadia@drp.su>, 2020
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-11-21 09:46+0000\n"
+"POT-Creation-Date: 2020-04-27 12:44+0000\n"
 "PO-Revision-Date: 2016-12-16 14:30+0000\n"
-"Last-Translator: Kirubel Adamu <kirubeladamu@gmail.com>, 2019\n"
+"Last-Translator: Kirubel Adamu <kirubeladamu@gmail.com>, 2020\n"
 "Language-Team: Amharic (https://www.transifex.com/driverpack-solution/teams/75453/am/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -60,10 +60,19 @@ msgid "cloudpagefooter_license-link"
 msgstr "የፈቃድ ስምምነት"
 
 msgid "breadcrumbs_main-text"
-msgstr "መነሻ ገጽ"
+msgstr ""
 
 msgid "breadcrumbs_catalog-main-text"
 msgstr "የ {{OS.NAME}} ድራይቨሮች"
+
+msgid "breadcrumbs_softcategory-text"
+msgstr ""
+
+msgid "breadcrumbs_soft-text"
+msgstr ""
+
+msgid "breadcrumbs_uninstall-text"
+msgstr "መንቀል"
 
 msgid "breadcrumbs_vendors-text"
 msgstr "አምራቾች"
@@ -114,6 +123,9 @@ msgstr "የ {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} ላፕቶፕ {{CLASS.PLUR
 msgid "devicecard_download-btn"
 msgstr "ድራይቨሩን ያውርዱ"
 
+msgid "devicecard_download-repack-btn"
+msgstr ""
+
 #. i18n: EN: Example: NAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10 x86; Text
 #. for {{DOWNLOAD}} is in key drivercard_no-results_download-link; RU: Пример:
 #. NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10 x86; Текст для
@@ -156,6 +168,9 @@ msgstr "ሰነድ *.inf:"
 
 msgid "devicecard_details-content-label-section"
 msgstr "ምድብ:"
+
+msgid "devicecard_details-download-links-repack"
+msgstr ""
 
 msgid "devicecard_details-links-merged_label"
 msgstr "የፈለጉት Device ID ዝርዝሩ ውስጥ ከሌለ መፈለጊያ መስመሩ ላይ ጽፈው ያስገቡት።"
@@ -260,6 +275,9 @@ msgstr "ምድብ:"
 msgid "drivercard_caption-btn"
 msgstr "ድራይቨሩን ያውርዱ"
 
+msgid "drivercard_caption-repack-btn"
+msgstr ""
+
 msgid "deviceidpage_all-systems"
 msgstr "ሙሉ ሲስተሞች"
 
@@ -353,6 +371,9 @@ msgstr "DriverPack ድራይቨሮችን በነጻ ይጭናል እናም የሚ
 msgid "landingheader_cta-btn"
 msgstr "ሁሉንም አስፈላጊ ድራይቨሮች ጫን።"
 
+msgid "landingheadernav_search-soft"
+msgstr ""
+
 msgid "landingheadernav_search"
 msgstr "ድራይቨር መፈለጊያ"
 
@@ -383,6 +404,12 @@ msgstr "ሁሉንም አስፈላጊ ድራይቨሮች ጫን።"
 msgid "landingnotebookvendorslist_versions"
 msgstr "ሌሎች የ DriverPack ስሪቶች"
 
+msgid "partners-link-text-opera"
+msgstr ""
+
+msgid "partners_landing-title"
+msgstr ""
+
 msgid "landingproducts_cta-title"
 msgstr "የእርስዎን DriverPack ይምረጡ"
 
@@ -405,7 +432,7 @@ msgid "landingproducts_item-title-network"
 msgstr "DriverPack Offline Network"
 
 msgid "landingproducts_item-description-network"
-msgstr "ለኔትዎርክ ሃርድዌሮች (Lan/Wi-Fi) ድራይቨሮችን ይዟል፣ ያለኢንተርኔት ይሰራል <span class='nobr'>({{SIZE}})</span>"
+msgstr ""
 
 msgid "landingproducts_item-title-offline"
 msgstr "DriverPack Offline Full"
@@ -459,7 +486,7 @@ msgid "landingwizard_item-caption-setup"
 msgstr "ኮምፒውተርዎን በአንድ እርምጃ ብቻ ያስተካክሉ"
 
 msgid "landingwizard_item-caption-profit"
-msgstr "ብራቮ! አሁን ኮምፒውተሬ እንደአዲስ ትሰራለች"
+msgstr ""
 
 msgid "landingwizard_cta-btn"
 msgstr "ሁሉንም አስፈላጊ ድራይቨሮች ጫን።"
@@ -821,6 +848,69 @@ msgstr "ድራይቨሮችን መፈለግ ሰልችቶዎታል?"
 msgid "sidebanner_caption"
 msgstr "DriverPack አስፈላጊ ድራይቨሮችን <span class='SideBanner__caption-marked'>ራሱ መርጦ</span> ይጭናል። "
 
+msgid "softdetails-rating"
+msgstr ""
+
+msgid "recommend-opera"
+msgstr ""
+
+msgid "softdetails_download-count"
+msgstr ""
+
+msgid "softdetails_package-size"
+msgstr "መጠን:"
+
+msgid "softdetails_added"
+msgstr ""
+
+msgid "softdetails_license"
+msgstr ""
+
+msgid "softdetails_license-free"
+msgstr ""
+
+msgid "softdetails_os"
+msgstr ""
+
+msgid "softdetails_uninstall-link"
+msgstr ""
+
+msgid "softdetails_download-link"
+msgstr "አውርድ"
+
+msgid "soft-details_opera-descr"
+msgstr ""
+
+msgid "softdetails_uninstall-page-link"
+msgstr ""
+
+msgid "program-month-text"
+msgstr ""
+
+msgid "softlandingheader_search-title"
+msgstr ""
+
+msgid "softsearch_input-placeholder"
+msgstr ""
+
+msgid "softsearchformitem_type-category"
+msgstr ""
+
+msgid "softsearchheader_title"
+msgstr ""
+
+msgid "softsearchheader_subtitle"
+msgstr ""
+
+msgid "softsearchresult_download-link"
+msgstr "አውርድ"
+
+msgid "topsoft_item-download-count"
+msgstr ""
+
+msgid "topsoft_item-download-link"
+msgstr "አውርድ"
+
 msgid "translationheader_cta-text"
 msgstr "DriverPack ለሚሊዮን ኮምፒውተሮች ክፍት እንዲሆን  — በበጎ ፈቃደኝነት ላይ በተመሰረተው ሶፍትዌሩን ወደ ሌላ ቋንቋ የመተርጎም ፕሮጀክታችን ላይ በመሳተፍ ይርዱን "
 
@@ -853,6 +943,126 @@ msgstr "ላፕቶፕ"
 
 msgid "language_title"
 msgstr "Amharic"
+
+msgid "softcategories_antivirus-single-main"
+msgstr ""
+
+msgid "softcategories_antivirus-plural-main"
+msgstr ""
+
+msgid "softcategories_audio-video-converter-single-main"
+msgstr ""
+
+msgid "softcategories_audio-video-converter-plural-main"
+msgstr ""
+
+msgid "softcategories_audio-video-editor-single-main"
+msgstr ""
+
+msgid "softcategories_audio-video-editor-plural-main"
+msgstr ""
+
+msgid "softcategories_book-reader-single-main"
+msgstr ""
+
+msgid "softcategories_book-reader-plural-main"
+msgstr ""
+
+msgid "softcategories_browser-single-main"
+msgstr ""
+
+msgid "softcategories_browser-plural-main"
+msgstr ""
+
+msgid "softcategories_cd-dvd-single-main"
+msgstr ""
+
+msgid "softcategories_cd-dvd-plural-main"
+msgstr ""
+
+msgid "softcategories_data-recovery-single-main"
+msgstr ""
+
+msgid "softcategories_data-recovery-plural-main"
+msgstr ""
+
+msgid "softcategories_data-storage-single-main"
+msgstr ""
+
+msgid "softcategories_data-storage-plural-main"
+msgstr ""
+
+msgid "softcategories_developer-tools-single-main"
+msgstr ""
+
+msgid "softcategories_developer-tools-plural-main"
+msgstr ""
+
+msgid "softcategories_file-manager-single-main"
+msgstr ""
+
+msgid "softcategories_file-manager-plural-main"
+msgstr ""
+
+msgid "softcategories_image-editor-single-main"
+msgstr ""
+
+msgid "softcategories_image-editor-plural-main"
+msgstr ""
+
+msgid "softcategories_image-viewer-single-main"
+msgstr ""
+
+msgid "softcategories_image-viewer-plural-main"
+msgstr ""
+
+msgid "softcategories_mail-client-single-main"
+msgstr ""
+
+msgid "softcategories_mail-client-plural-main"
+msgstr ""
+
+msgid "softcategories_messenger-single-main"
+msgstr ""
+
+msgid "softcategories_messenger-plural-main"
+msgstr ""
+
+msgid "softcategories_mp3-audio-player-single-main"
+msgstr ""
+
+msgid "softcategories_mp3-audio-player-plural-main"
+msgstr ""
+
+msgid "softcategories_other-single-main"
+msgstr ""
+
+msgid "softcategories_other-plural-main"
+msgstr ""
+
+msgid "softcategories_pdf-reader-single-main"
+msgstr ""
+
+msgid "softcategories_pdf-reader-plural-main"
+msgstr ""
+
+msgid "softcategories_text-editor-single-main"
+msgstr ""
+
+msgid "softcategories_text-editor-plural-main"
+msgstr ""
+
+msgid "softcategories_torrent-client-single-main"
+msgstr ""
+
+msgid "softcategories_torrent-client-plural-main"
+msgstr ""
+
+msgid "softcategories_video-player-single-main"
+msgstr ""
+
+msgid "softcategories_video-player-plural-main"
+msgstr ""
 
 msgid "landingPagePublications_rbk"
 msgstr "DriverPack በ Artur Kuzyakov ቡድን የተመረጡና የተሞከሩ የ Windows ድራይቨሮች የያዘ ሶፍትዌር ነው። ይህ ሶፍትዌች የተጠቃሚውን ኮምፒውተር በማጥናት አስፈላጊ ድራይቨሮችን ይጭናል። ይህ ሁለት ችግሮችን ለመፍታት ይረዳዎታል። አንደኛ የኮምፒውተሩን የማስተካከል ስራ ለማፋጠን (በተለይ በአንድ ሲስተም ብዙ ኮምፒውተሮች የሚገኙ ከሆነ)፣ ሁለተኛ የኮምፒውተሩን የስራ አቅም ለማሻሻል ይረዳል። "
@@ -916,6 +1126,15 @@ msgstr "ድራይቨሩ በትክክል አልተጫነም እናም ኮምፒ�
 
 msgid "adminpagefaq_stable-a"
 msgstr "የ DriverPack ን አሰራር መቆጣጠር ዋናው ስራችን ቢሆንም አልፎ አልፎ አነስተኛ ስህተቶች ይፈጠራሉ። ለዚህም ነው ኮምፒውተርዎን ቀድሞ ወደነበረበት አቋም ለመመለስ የሚሆን ወደኋላ መመለሻ ነጥብ ያዘጋጀነው። ተመሳሳይ ችግር ወደፊት እንዳይፈጠርም ከ DriverPack ሜኑ ገብተው ራሱ ያዘጋጀውን ሪፖርት ለ ቴክኒካል አገልግሎት ቡድናችን እንዲልኩ እንመክርዎታለን። "
+
+msgid "partners_landing-text-opera"
+msgstr ""
+
+msgid "partners_landing-text-yandex"
+msgstr ""
+
+msgid "partners_landing-text-avast"
+msgstr ""
 
 msgid "cloudpagefaq_remove_soft-q"
 msgstr "ለምን ነው DriverPack Cloud አንዳንድ ሶፍትዌሮችን ከኮምፒውተሬ እንዳስወግድ የሚገፋፋኝ?"
@@ -1052,11 +1271,76 @@ msgstr "ታዋቂ {{VENDOR.NAME}} ላፕቶፖችና ኖትቡኮች"
 msgid "notebooksvendorpage_subtitle-all"
 msgstr "ሁሉም {{VENDOR.NAME}} ላፕቶፖችና ኖትቡኮች"
 
+msgid "patners-page-opera-title"
+msgstr ""
+
+msgid "patners-page-opera-subtitle"
+msgstr ""
+
+msgid "patners-page-opera-text"
+msgstr ""
+
+msgid "patners-page-opera-pluses-title-support"
+msgstr ""
+
+msgid "patners-page-opera-pluses-subtitle-support"
+msgstr ""
+
+msgid "patners-page-opera-pluses-title-opera-best"
+msgstr ""
+
+msgid "patners-page-opera-pluses-subtitle-opera-best"
+msgstr ""
+
+msgid "patners-page-opera-pluses-title-ecosystem"
+msgstr ""
+
+msgid "patners-page-opera-pluses-subtitle-ecosystem"
+msgstr ""
+
+msgid "patners-page-opera-btn"
+msgstr ""
+
 msgid "reviewpage_title"
 msgstr "DriverPack ን ለማሻሻል አስተያተትና ምክሮች"
 
 msgid "searchpage_show-more-link"
 msgstr "ተጨማሪ አሳይ"
+
+msgid "softcategorypage_categories-title"
+msgstr ""
+
+msgid "softlandingpage_topsoft-title"
+msgstr ""
+
+msgid "softlandingpage_categories-title"
+msgstr ""
+
+msgid "softsearchpage_show-more-link"
+msgstr ""
+
+msgid "softsearchpage_no-results"
+msgstr ""
+
+#. i18n: EN: text for {{LINK}} is in key softthankyoupopup_download-link; RU:
+#. текст для {{LINK}} находится в ключе softthankyoupopup_download-link;
+msgid "softthankyoupopup_download-text"
+msgstr ""
+
+msgid "softthankyoupopup_licence-text"
+msgstr ""
+
+msgid "softthankyoupopup_title"
+msgstr ""
+
+msgid "softthankyoupopup_subtitle"
+msgstr ""
+
+msgid "softthankyoupopup_licence-link"
+msgstr "የፈቃድ ስምምነት"
+
+msgid "softthankyoupopup_download-link"
+msgstr "አውርድ"
 
 #. i18n: EN: text for {{LINK}} is in key thankyoupopup_download-link; RU:
 #. текст для {{LINK}} находится в ключе thankyoupopup_download-link;

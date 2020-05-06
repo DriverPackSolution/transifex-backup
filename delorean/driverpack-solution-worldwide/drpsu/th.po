@@ -1,18 +1,18 @@
 # Translators:
-# N'Num Yutthaphon Inchaiya <yutthaphon30667@gmail.com>, 2018
-# Nadia Tegeneva <nadia@drp.su>, 2018
-# Supat Pookpan <supat.pookpan.84@gmail.com>, 2018
 # Amonrat Lek <Amonrat_l@softsquaregroup.com>, 2018
+# N'Num Yutthaphon Inchaiya <yutthaphon30667@gmail.com>, 2020
+# Nadia Tegeneva <nadia@drp.su>, 2020
+# Supat Pookpan <supat.pookpan.84@gmail.com>, 2020
 # Leonid Beschasny <lbeschastny@iknow.travel>, 2017
-# Nadia Tegeneva <nadia@drp.su>, 2018
+# Nadia Tegeneva <nadia@drp.su>, 2020
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-11-21 09:46+0000\n"
+"POT-Creation-Date: 2020-04-27 12:44+0000\n"
 "PO-Revision-Date: 2016-12-16 14:30+0000\n"
-"Last-Translator: Amonrat Lek <Amonrat_l@softsquaregroup.com>, 2018\n"
+"Last-Translator: Supat Pookpan <supat.pookpan.84@gmail.com>, 2020\n"
 "Language-Team: Thai (https://www.transifex.com/driverpack-solution/teams/75453/th/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -57,10 +57,19 @@ msgid "cloudpagefooter_license-link"
 msgstr "ข้อตกลงการอนุญาตใช้สิทธิ์"
 
 msgid "breadcrumbs_main-text"
-msgstr "หน้าหลัก"
+msgstr ""
 
 msgid "breadcrumbs_catalog-main-text"
 msgstr "ไดรเวอร์สำหรัับ {{OS.NAME}}"
+
+msgid "breadcrumbs_softcategory-text"
+msgstr ""
+
+msgid "breadcrumbs_soft-text"
+msgstr ""
+
+msgid "breadcrumbs_uninstall-text"
+msgstr "นำออก"
 
 msgid "breadcrumbs_vendors-text"
 msgstr "ผู้ผลิต"
@@ -111,6 +120,9 @@ msgstr "{{CLASS.PLURAL.MAIN}} ของ {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME
 msgid "devicecard_download-btn"
 msgstr "ดาวน์โหลดไดรเวอร์"
 
+msgid "devicecard_download-repack-btn"
+msgstr ""
+
 #. i18n: EN: Example: NAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10 x86; Text
 #. for {{DOWNLOAD}} is in key drivercard_no-results_download-link; RU: Пример:
 #. NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10 x86; Текст для
@@ -153,6 +165,9 @@ msgstr "ไฟล์ *.inf:"
 
 msgid "devicecard_details-content-label-section"
 msgstr "ประเภท:"
+
+msgid "devicecard_details-download-links-repack"
+msgstr ""
 
 msgid "devicecard_details-links-merged_label"
 msgstr "ถ้าหากไม่พบ Device ID ที่ต้องการในรายชื่อ ป้อนใส่ในช่องค้นหา"
@@ -257,6 +272,9 @@ msgstr "ประเภท:"
 msgid "drivercard_caption-btn"
 msgstr "ดาวน์โหลดไดรเวอร์"
 
+msgid "drivercard_caption-repack-btn"
+msgstr ""
+
 msgid "deviceidpage_all-systems"
 msgstr "ระบบทั้งหมด"
 
@@ -350,6 +368,9 @@ msgstr "DriverPack ติดตั้งไดรเวอร์ฟรีแล�
 msgid "landingheader_cta-btn"
 msgstr "ติดตั้งทุกไดรเวอร์ที่ต้องการ"
 
+msgid "landingheadernav_search-soft"
+msgstr ""
+
 msgid "landingheadernav_search"
 msgstr "ค้นหาไดรเวอร์"
 
@@ -380,6 +401,12 @@ msgstr "ติดตั้งทุกไดรเวอร์ที่ต้อ
 msgid "landingnotebookvendorslist_versions"
 msgstr "DriverPack เวอร์ชั่นอื่น"
 
+msgid "partners-link-text-opera"
+msgstr ""
+
+msgid "partners_landing-title"
+msgstr ""
+
 msgid "landingproducts_cta-title"
 msgstr "เลือก DriverPack ของคุณ"
 
@@ -402,7 +429,7 @@ msgid "landingproducts_item-title-network"
 msgstr "DriverPack Offline Network"
 
 msgid "landingproducts_item-description-network"
-msgstr "มันบรรจุไดรเวอร์สำหรับฮาร์ดแวร์เครือข่าย (แลน/ไว-ไฟ) มันทำงานโดยปราศจากการเชื่อมต่ออินเตอร์เน็ท <span class='nobr'>({{SIZE}})</span>"
+msgstr ""
 
 msgid "landingproducts_item-title-offline"
 msgstr "DriverPack Offline Full"
@@ -456,7 +483,7 @@ msgid "landingwizard_item-caption-setup"
 msgstr "ปรับแต่งคอมพิวเตอร์ของคุณเพียงหนึ่งการปฏิบัติ"
 
 msgid "landingwizard_item-caption-profit"
-msgstr "ใช่! ตอนนี้คอมพิวเตอร์ของคุณจะเป็นเหมือนเครื่องใหม่!"
+msgstr ""
 
 msgid "landingwizard_cta-btn"
 msgstr "ติดตั้งทุกไดรเวอร์ที่ต้องการ"
@@ -818,6 +845,69 @@ msgstr "คุณเหนื่อยกับการหาไดรเวอ
 msgid "sidebanner_caption"
 msgstr "DriverPack จะ <span class='SideBanner__caption-marked'>เลือกและติดตั้ง</span> ไดรเวอร์ที่ต้องการอัตโนมัติ"
 
+msgid "softdetails-rating"
+msgstr ""
+
+msgid "recommend-opera"
+msgstr ""
+
+msgid "softdetails_download-count"
+msgstr ""
+
+msgid "softdetails_package-size"
+msgstr "ขนาด:"
+
+msgid "softdetails_added"
+msgstr ""
+
+msgid "softdetails_license"
+msgstr ""
+
+msgid "softdetails_license-free"
+msgstr ""
+
+msgid "softdetails_os"
+msgstr ""
+
+msgid "softdetails_uninstall-link"
+msgstr ""
+
+msgid "softdetails_download-link"
+msgstr "ดาวน์โหลด"
+
+msgid "soft-details_opera-descr"
+msgstr ""
+
+msgid "softdetails_uninstall-page-link"
+msgstr ""
+
+msgid "program-month-text"
+msgstr ""
+
+msgid "softlandingheader_search-title"
+msgstr ""
+
+msgid "softsearch_input-placeholder"
+msgstr ""
+
+msgid "softsearchformitem_type-category"
+msgstr ""
+
+msgid "softsearchheader_title"
+msgstr ""
+
+msgid "softsearchheader_subtitle"
+msgstr ""
+
+msgid "softsearchresult_download-link"
+msgstr "ดาวน์โหลด"
+
+msgid "topsoft_item-download-count"
+msgstr ""
+
+msgid "topsoft_item-download-link"
+msgstr "ดาวน์โหลด"
+
 msgid "translationheader_cta-text"
 msgstr "ช่วยพวกเราทำให้ DriverPack สามารถใช้ได้กับหลายล้านพีซี ยูสเซอร์ทั่วโลก — ร่วมเป็นส่วนหนึ่งในโครงการอาสาของพวกเราเพื่อแปลภาษาเป็นภาษาอื่น"
 
@@ -850,6 +940,126 @@ msgstr "แล็ปท็อป"
 
 msgid "language_title"
 msgstr "Thai"
+
+msgid "softcategories_antivirus-single-main"
+msgstr "แอนตี้ไวรัส"
+
+msgid "softcategories_antivirus-plural-main"
+msgstr ""
+
+msgid "softcategories_audio-video-converter-single-main"
+msgstr ""
+
+msgid "softcategories_audio-video-converter-plural-main"
+msgstr ""
+
+msgid "softcategories_audio-video-editor-single-main"
+msgstr ""
+
+msgid "softcategories_audio-video-editor-plural-main"
+msgstr ""
+
+msgid "softcategories_book-reader-single-main"
+msgstr ""
+
+msgid "softcategories_book-reader-plural-main"
+msgstr ""
+
+msgid "softcategories_browser-single-main"
+msgstr "เบราว์เซอร์"
+
+msgid "softcategories_browser-plural-main"
+msgstr ""
+
+msgid "softcategories_cd-dvd-single-main"
+msgstr ""
+
+msgid "softcategories_cd-dvd-plural-main"
+msgstr ""
+
+msgid "softcategories_data-recovery-single-main"
+msgstr ""
+
+msgid "softcategories_data-recovery-plural-main"
+msgstr ""
+
+msgid "softcategories_data-storage-single-main"
+msgstr ""
+
+msgid "softcategories_data-storage-plural-main"
+msgstr ""
+
+msgid "softcategories_developer-tools-single-main"
+msgstr ""
+
+msgid "softcategories_developer-tools-plural-main"
+msgstr ""
+
+msgid "softcategories_file-manager-single-main"
+msgstr ""
+
+msgid "softcategories_file-manager-plural-main"
+msgstr ""
+
+msgid "softcategories_image-editor-single-main"
+msgstr ""
+
+msgid "softcategories_image-editor-plural-main"
+msgstr ""
+
+msgid "softcategories_image-viewer-single-main"
+msgstr ""
+
+msgid "softcategories_image-viewer-plural-main"
+msgstr ""
+
+msgid "softcategories_mail-client-single-main"
+msgstr ""
+
+msgid "softcategories_mail-client-plural-main"
+msgstr ""
+
+msgid "softcategories_messenger-single-main"
+msgstr ""
+
+msgid "softcategories_messenger-plural-main"
+msgstr ""
+
+msgid "softcategories_mp3-audio-player-single-main"
+msgstr ""
+
+msgid "softcategories_mp3-audio-player-plural-main"
+msgstr ""
+
+msgid "softcategories_other-single-main"
+msgstr ""
+
+msgid "softcategories_other-plural-main"
+msgstr ""
+
+msgid "softcategories_pdf-reader-single-main"
+msgstr ""
+
+msgid "softcategories_pdf-reader-plural-main"
+msgstr ""
+
+msgid "softcategories_text-editor-single-main"
+msgstr ""
+
+msgid "softcategories_text-editor-plural-main"
+msgstr ""
+
+msgid "softcategories_torrent-client-single-main"
+msgstr ""
+
+msgid "softcategories_torrent-client-plural-main"
+msgstr ""
+
+msgid "softcategories_video-player-single-main"
+msgstr ""
+
+msgid "softcategories_video-player-plural-main"
+msgstr ""
 
 msgid "landingPagePublications_rbk"
 msgstr "DriverPack เป็นซอฟท์แวร์ที่ประกอบด้วยไดรเวอร์สำหรับ Windows ที่ถูกเลือกอย่างถี่ถ้วนและทดสอบโดยทีมของ Artur Kuzyakov แอพพลิเคชั่นนี้วิเคราะห์คอมพิวเตอร์ของผู้ใช้และติดตั้งไดรเวอร์ที่ต้องการลงไป ที่ช่วยแก้สองปัญหา หนึ่ง เพิ่มความเร็วในการประมวลการปรับแต่งคอมพิวเตอร์ (ที่สำคัญโดยเฉพาะอย่างยิ่งหากมีคอมพิวเตอร์หลายเครื่องในหนึ่งระบบ) สอง พัฒนาความสามารถในการทำงาน"
@@ -913,6 +1123,15 @@ msgstr "ไดรเวอร์ติดตั้งไม่ถูกต้อ
 
 msgid "adminpagefaq_stable-a"
 msgstr "ความเสถียรในการทำงานของซอฟท์แวร์ DriverPack คือหนึ่งในความสำคัญหลักของเราแต่ความผิดพลาดเล็กๆน้อยๆยังคงเกิดขึ้นแม้จะหายาก นี่คือเหตุผลว่าทำไมเราถึงสร้างจุดคืนค่าที่ทำใหุ้ณสามารถย้อนกลับทุกอย่างไปที่การตั้งค่าก่อนหน้า เพื่อที่จะป้องกันปัญหาที่คล้ายกันนี้ในอนาคต เราแนะนำให้คุณไปที่ DriverPack เมนูและส่งรายงานที่สร้างอัตโนมัติโดยโปรแกรมมาที่ทีมบริการทางเทคนิคของเรา"
+
+msgid "partners_landing-text-opera"
+msgstr ""
+
+msgid "partners_landing-text-yandex"
+msgstr ""
+
+msgid "partners_landing-text-avast"
+msgstr ""
 
 msgid "cloudpagefaq_remove_soft-q"
 msgstr "ทำไม DriverPack Cloud แนะนำให้ถอนบางซอฟท์แวร์ออกจากคอมพิวเตอร์"
@@ -1049,11 +1268,76 @@ msgstr "แล็ปท็อปและเน็ทบุ๊คยอดนิ
 msgid "notebooksvendorpage_subtitle-all"
 msgstr " แล็ปท็อปและเน็ทบุ๊คทั้งหมดของ {{VENDOR.NAME}}"
 
+msgid "patners-page-opera-title"
+msgstr ""
+
+msgid "patners-page-opera-subtitle"
+msgstr ""
+
+msgid "patners-page-opera-text"
+msgstr ""
+
+msgid "patners-page-opera-pluses-title-support"
+msgstr ""
+
+msgid "patners-page-opera-pluses-subtitle-support"
+msgstr ""
+
+msgid "patners-page-opera-pluses-title-opera-best"
+msgstr ""
+
+msgid "patners-page-opera-pluses-subtitle-opera-best"
+msgstr ""
+
+msgid "patners-page-opera-pluses-title-ecosystem"
+msgstr ""
+
+msgid "patners-page-opera-pluses-subtitle-ecosystem"
+msgstr ""
+
+msgid "patners-page-opera-btn"
+msgstr ""
+
 msgid "reviewpage_title"
 msgstr "แนะนำ ติชมเพื่อการพัฒนา DriverPack"
 
 msgid "searchpage_show-more-link"
 msgstr "ดูมากกว่า"
+
+msgid "softcategorypage_categories-title"
+msgstr ""
+
+msgid "softlandingpage_topsoft-title"
+msgstr ""
+
+msgid "softlandingpage_categories-title"
+msgstr ""
+
+msgid "softsearchpage_show-more-link"
+msgstr ""
+
+msgid "softsearchpage_no-results"
+msgstr ""
+
+#. i18n: EN: text for {{LINK}} is in key softthankyoupopup_download-link; RU:
+#. текст для {{LINK}} находится в ключе softthankyoupopup_download-link;
+msgid "softthankyoupopup_download-text"
+msgstr ""
+
+msgid "softthankyoupopup_licence-text"
+msgstr ""
+
+msgid "softthankyoupopup_title"
+msgstr ""
+
+msgid "softthankyoupopup_subtitle"
+msgstr ""
+
+msgid "softthankyoupopup_licence-link"
+msgstr "ข้อตกลงการอนุญาตใช้สิทธิ์"
+
+msgid "softthankyoupopup_download-link"
+msgstr "ดาวน์โหลด"
 
 #. i18n: EN: text for {{LINK}} is in key thankyoupopup_download-link; RU:
 #. текст для {{LINK}} находится в ключе thankyoupopup_download-link;

@@ -1,17 +1,17 @@
 # Translators:
 # 1a43e385bcd9f474961722a1917b2153, 2017
 # Nadia Tegeneva <nadia@drp.su>, 2017
-# BouRock, 2018
+# BouRock, 2020
 # Leonid Beschasny <lbeschastny@iknow.travel>, 2017
-# Nadia Tegeneva <nadia@drp.su>, 2018
+# Nadia Tegeneva <nadia@drp.su>, 2020
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-11-21 09:46+0000\n"
+"POT-Creation-Date: 2020-04-27 12:44+0000\n"
 "PO-Revision-Date: 2016-12-16 14:30+0000\n"
-"Last-Translator: BouRock, 2018\n"
+"Last-Translator: BouRock, 2020\n"
 "Language-Team: Turkish (https://www.transifex.com/driverpack-solution/teams/75453/tr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -56,10 +56,19 @@ msgid "cloudpagefooter_license-link"
 msgstr "Lisans Sözleşmesi"
 
 msgid "breadcrumbs_main-text"
-msgstr "Ana Sayfa"
+msgstr "Giriş"
 
 msgid "breadcrumbs_catalog-main-text"
 msgstr "{{OS.NAME}} için sürücüler"
+
+msgid "breadcrumbs_softcategory-text"
+msgstr "{{CATEGORY.PLURAL.MAIN}}"
+
+msgid "breadcrumbs_soft-text"
+msgstr "{{SOFT.NAME}} {{SOFT.VERSION}}"
+
+msgid "breadcrumbs_uninstall-text"
+msgstr "kaldır"
 
 msgid "breadcrumbs_vendors-text"
 msgstr "Üreticiler"
@@ -110,6 +119,9 @@ msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} dizüstü için {{CLASS.PLURA
 msgid "devicecard_download-btn"
 msgstr "Sürücüyü indir"
 
+msgid "devicecard_download-repack-btn"
+msgstr "Sıkıştırılmış İndir"
+
 #. i18n: EN: Example: NAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10 x86; Text
 #. for {{DOWNLOAD}} is in key drivercard_no-results_download-link; RU: Пример:
 #. NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10 x86; Текст для
@@ -152,6 +164,9 @@ msgstr "Dosya *.inf:"
 
 msgid "devicecard_details-content-label-section"
 msgstr "Kategori:"
+
+msgid "devicecard_details-download-links-repack"
+msgstr "Sürücü içeren ZIP dosyasını doğrudan indirme"
 
 msgid "devicecard_details-links-merged_label"
 msgstr "Eğer ihtiyacınız olan Device ID listede bulunamadıysa, arama satırına yazın"
@@ -256,6 +271,9 @@ msgstr "Kategori:"
 msgid "drivercard_caption-btn"
 msgstr "Sürücüyü indir"
 
+msgid "drivercard_caption-repack-btn"
+msgstr "Sıkıştırılmış İndir"
+
 msgid "deviceidpage_all-systems"
 msgstr "tüm sistemler"
 
@@ -349,6 +367,9 @@ msgstr "DriverPack sürücüleri ücretsiz yükleyecek ve herhangi bir aygıttak
 msgid "landingheader_cta-btn"
 msgstr "Tüm gerekli sürücüleri yükleyin"
 
+msgid "landingheadernav_search-soft"
+msgstr "Yazılım arama"
+
 msgid "landingheadernav_search"
 msgstr "Sürücü Arama"
 
@@ -379,6 +400,12 @@ msgstr "Tüm gerekli sürücüleri yükleyin"
 msgid "landingnotebookvendorslist_versions"
 msgstr "Diğer DriverPack sürümleri"
 
+msgid "partners-link-text-opera"
+msgstr "Opera neden DriverPack'in ortağıdır?"
+
+msgid "partners_landing-title"
+msgstr "Ortaklarımız"
+
 msgid "landingproducts_cta-title"
 msgstr "DriverPack'inizi seçin"
 
@@ -401,7 +428,7 @@ msgid "landingproducts_item-title-network"
 msgstr "DriverPack Offline Network"
 
 msgid "landingproducts_item-description-network"
-msgstr "Ağ donanımı için sürücüleri içerir (Lan/Wi-Fi), Internet bağlantısı olmadan çalışır <span class='nobr'>({{SIZE}})</span>"
+msgstr "Ağ donanımı için sürücüleri içerir (Lan/Wi-Fi), çalışması için Internet bağlantısı gerektirmez <span class='nobr'>({{SIZE}})</span>"
 
 msgid "landingproducts_item-title-offline"
 msgstr "DriverPack Offline Full"
@@ -455,7 +482,7 @@ msgid "landingwizard_item-caption-setup"
 msgstr "Bilgisayarınızı tek bir basit eylem ile yapılandırın"
 
 msgid "landingwizard_item-caption-profit"
-msgstr "Yaşasın! Bilgisayarım artık yeni gibi çalışıyor!"
+msgstr "Yaşasın! Bilgisayar artık yeni gibi çalışıyor!"
 
 msgid "landingwizard_cta-btn"
 msgstr "Tüm gerekli sürücüleri yükleyin"
@@ -817,6 +844,69 @@ msgstr "Sürücüleri aramaktan yoruldunuz mu?"
 msgid "sidebanner_caption"
 msgstr "DriverPack, gerekli sürücüleri otomatik olarak <span class='SideBanner__caption-marked'>seçip yükleyecektir</span>"
 
+msgid "softdetails-rating"
+msgstr "Değerlendirme:"
+
+msgid "recommend-opera"
+msgstr "DriverPack öneriyor!"
+
+msgid "softdetails_download-count"
+msgstr "İndirme sayısı:"
+
+msgid "softdetails_package-size"
+msgstr "Boyut:"
+
+msgid "softdetails_added"
+msgstr "Güncelleme Tarihi:"
+
+msgid "softdetails_license"
+msgstr "Dağıtım Şeması:"
+
+msgid "softdetails_license-free"
+msgstr "ücretsiz yazılım"
+
+msgid "softdetails_os"
+msgstr "İşlem Sistemleri:"
+
+msgid "softdetails_uninstall-link"
+msgstr "Kaldır"
+
+msgid "softdetails_download-link"
+msgstr "İndir"
+
+msgid "soft-details_opera-descr"
+msgstr "Hızlı ve güvenli Opera Tarayıcı yerleşik reklam engelleyici, ücretsiz VPN, yerleşik mesajlaşma araçları ve diğer birçok öğe ile birlikte verilir. <br /> <br /> Windows, Mac ve Linux İS olan bilgisayarlar için Opera Tarayıcı, tüm Internet yeteneklerini mümkün olduğunca güvenli, kullanışlı ve verimli bir şekilde kullanmanıza olanak tanıyacak."
+
+msgid "softdetails_uninstall-page-link"
+msgstr "{{SOFT.TITLE}} nasıl kaldırılır"
+
+msgid "program-month-text"
+msgstr "Ayın yazılımı:"
+
+msgid "softlandingheader_search-title"
+msgstr "Muazzam veritabanı üzerinden ücretsiz yazılımın <span class='bold'>en son sürümlerini arayın</span>"
+
+msgid "softsearch_input-placeholder"
+msgstr "Yazılım veya kategori adı"
+
+msgid "softsearchformitem_type-category"
+msgstr "kategori"
+
+msgid "softsearchheader_title"
+msgstr "Arama sonuçları"
+
+msgid "softsearchheader_subtitle"
+msgstr "Sorgunuza karşılık gelen yazılım bulundu"
+
+msgid "softsearchresult_download-link"
+msgstr "İndir"
+
+msgid "topsoft_item-download-count"
+msgstr "İndirme sayısı:"
+
+msgid "topsoft_item-download-link"
+msgstr "İndir"
+
 msgid "translationheader_cta-text"
 msgstr "Dünya çapındaki milyonlarca PC kullanıcısı için DriverPack'i kullanılabilir yapmamıza yardım edin — uygulamayı diğer dillere çevirmede gönüllü projemizin parçası olun"
 
@@ -849,6 +939,126 @@ msgstr "dizüstü"
 
 msgid "language_title"
 msgstr "Turkish"
+
+msgid "softcategories_antivirus-single-main"
+msgstr "antivirüs"
+
+msgid "softcategories_antivirus-plural-main"
+msgstr "antivirüs"
+
+msgid "softcategories_audio-video-converter-single-main"
+msgstr "ses/görüntü dönüştürücü"
+
+msgid "softcategories_audio-video-converter-plural-main"
+msgstr "ses/görüntü dönüştürücü"
+
+msgid "softcategories_audio-video-editor-single-main"
+msgstr "ses/görüntü düzenleyici"
+
+msgid "softcategories_audio-video-editor-plural-main"
+msgstr "ses/görüntü düzenleyici"
+
+msgid "softcategories_book-reader-single-main"
+msgstr "e-kitap okuyucu"
+
+msgid "softcategories_book-reader-plural-main"
+msgstr "e-kitap okuyucu"
+
+msgid "softcategories_browser-single-main"
+msgstr "tarayıcı"
+
+msgid "softcategories_browser-plural-main"
+msgstr "tarayıcı"
+
+msgid "softcategories_cd-dvd-single-main"
+msgstr "CD/DVD"
+
+msgid "softcategories_cd-dvd-plural-main"
+msgstr "CD/DVD"
+
+msgid "softcategories_data-recovery-single-main"
+msgstr "Veri kurtarma yazılımı"
+
+msgid "softcategories_data-recovery-plural-main"
+msgstr "Veri kurtarma yazılımı"
+
+msgid "softcategories_data-storage-single-main"
+msgstr "Veri depolama yazılımı"
+
+msgid "softcategories_data-storage-plural-main"
+msgstr "Veri depolama yazılımı"
+
+msgid "softcategories_developer-tools-single-main"
+msgstr "geliştirici aracı"
+
+msgid "softcategories_developer-tools-plural-main"
+msgstr "geliştirici aracı"
+
+msgid "softcategories_file-manager-single-main"
+msgstr "dosya yöneticisi"
+
+msgid "softcategories_file-manager-plural-main"
+msgstr "dosya yöneticisi"
+
+msgid "softcategories_image-editor-single-main"
+msgstr "grafik düzenleyici"
+
+msgid "softcategories_image-editor-plural-main"
+msgstr "grafik düzenleyici"
+
+msgid "softcategories_image-viewer-single-main"
+msgstr "resim görüntüleyici"
+
+msgid "softcategories_image-viewer-plural-main"
+msgstr "resim görüntüleyici"
+
+msgid "softcategories_mail-client-single-main"
+msgstr "e-posta istemcisi"
+
+msgid "softcategories_mail-client-plural-main"
+msgstr "e-posta istemcisi"
+
+msgid "softcategories_messenger-single-main"
+msgstr "mesajlaşma aracı"
+
+msgid "softcategories_messenger-plural-main"
+msgstr "mesajlaşma aracı"
+
+msgid "softcategories_mp3-audio-player-single-main"
+msgstr "MP3 ve ses çalar"
+
+msgid "softcategories_mp3-audio-player-plural-main"
+msgstr "MP3 ve ses çalar"
+
+msgid "softcategories_other-single-main"
+msgstr "diğer yazılım"
+
+msgid "softcategories_other-plural-main"
+msgstr "diğer yazılım"
+
+msgid "softcategories_pdf-reader-single-main"
+msgstr "PDF okuyucu"
+
+msgid "softcategories_pdf-reader-plural-main"
+msgstr "PDF okuyucu"
+
+msgid "softcategories_text-editor-single-main"
+msgstr "metin düzenleyici"
+
+msgid "softcategories_text-editor-plural-main"
+msgstr "metin düzenleyici"
+
+msgid "softcategories_torrent-client-single-main"
+msgstr "Torrent istemcisi"
+
+msgid "softcategories_torrent-client-plural-main"
+msgstr "Torrent istemcisi"
+
+msgid "softcategories_video-player-single-main"
+msgstr "görüntü oynatıcı"
+
+msgid "softcategories_video-player-plural-main"
+msgstr "görüntü oynatıcı"
 
 msgid "landingPagePublications_rbk"
 msgstr "DriverPack, Artur Kuzyakov'un ekibi tarafından hakkıyla seçilen ve denenen Windows için sürücülerden meydana gelen bir yazılımdır. Bu uygulama kullanıcının bilgisayarını inceler ve şu iki sorunu çözmeyi sağlayan gerekli sürücüleri yükler: öncelikle, (bir sistem içinde düzinelerce bilgisayar varsa özellikle önemli olan) bilgisayarın yapılandırma işlemini hızlandırmak; ve ikinci olarak, bilgisayarların işleyiş kabiliyetini iyileştirmek."
@@ -912,6 +1122,15 @@ msgstr "Sürücü düzgün bir şekilde yüklenmedi ve şu an bilgisayarımda so
 
 msgid "adminpagefaq_stable-a"
 msgstr "DriverPack yazılımının işleyiş istikrarı ana önceliklerimizden biridir, fakat küçük hatalar nadir de olsa hala olabilir. İşte bu yüzden herşeyi önceki yapılandırılmış duruma geri döndürmenizi sağlayacak bir geri yükleme noktası oluşturuyoruz. Gelecekte benzer sorunları önlemek için DriverPack Menüsüne gitmenizi ve yazılım tarafından otomatik olarak oluşturulan raporu teknik hizmetlerimize göndermenizi öneririz."
+
+msgid "partners_landing-text-opera"
+msgstr "Opera Yazılım, Internet'te çalışan tarayıcıların ve yazılımların küresel bir geliştiricisidir.<br /><br />Tarihi 20 yıldan fazla sürmüştür. Opera Yazılım, W3C projesi kapsamında web standartlarının geliştirilmesine katılır. Dünya çapında 350 milyondan fazla insan Opera ürünlerini kullanıyor.<br /><br />Merkezi Norveç'in başkenti Oslo'da bulunmaktadır."
+
+msgid "partners_landing-text-yandex"
+msgstr "Yandex arama motoru ve aynı adı taşıyan popüler Internet hizmetlerinin küresel bir geliştiricisidir.<br /><br />Yandex'in geldiği Rusya'da, arama motorları arasındaki payı %56,4'tür (Yandex.Radar'a göre, Mart 2018 için). Bu şirket, arama devi Google ile rekabete başarılı olarak dayanan birkaç şirketten biridir.<br /><br />Merkezi Rusya'nın başkenti Moskova'da bulunmaktadır."
+
+msgid "partners_landing-text-avast"
+msgstr "Avast Yazılım, bilgi güvenliği alanında küresel bir yazılım geliştiricisidir.<br /><br />Dünyanın en popüler ücretsiz antivirüsünü yayımlar. Avast'ın yazılımı her ay bilgisayarlara ve web'e karşı 1,5 milyar saldırıyı önler.<br /><br />Merkezi Çekya'nın başkenti Prag'da bulunmaktadır."
 
 msgid "cloudpagefaq_remove_soft-q"
 msgstr "DriverPack Cloud neden bilgisayarımın bazı yazılımlarının kaldırılmasını öneriyor?"
@@ -1048,11 +1267,76 @@ msgstr "Popüler {{VENDOR.NAME}} dizüstüleri ve elüstüleri"
 msgid "notebooksvendorpage_subtitle-all"
 msgstr "Tüm {{VENDOR.NAME}} dizüstüleri ve elüstüleri"
 
+msgid "patners-page-opera-title"
+msgstr "Opera neden DriverPack'in ortağıdır?"
+
+msgid "patners-page-opera-subtitle"
+msgstr "DriverPack, dünyanın her yerindeki kullanıcıların en iyi tarayıcılardan birini daha iyi tanımasına yardımcı olan Norveçli şirket ile resmi olarak işbirliği yapıyor"
+
+msgid "patners-page-opera-text"
+msgstr "Opera sürekli gelişen teknolojileri ile en iyi tarayıcılardan biridir. Yerleşik reklam engelleyici, mesajlaşma araçları ve Turbo Kipi, bilgisayarın kaynaklarını aşırı yüklemeden bu tarayıcı işlevini genişletir."
+
+msgid "patners-page-opera-pluses-title-support"
+msgstr "DriverPack ücretsiz olarak dağıtılmaktadır ve şimdiye kadar 10 yıldır ortaklar sayesinde desteklenir"
+
+msgid "patners-page-opera-pluses-subtitle-support"
+msgstr "DriverPack, neredeyse 10 yıldır dünyanın her yerindeki tüm bilgisayarlar için sürücüleri seçiyor ve yüklüyor. Ve hala ücretsiz kalıyor"
+
+msgid "patners-page-opera-pluses-title-opera-best"
+msgstr "Opera, sürekli gelişen teknolojileri ile en iyi tarayıcılardan biridir"
+
+msgid "patners-page-opera-pluses-subtitle-opera-best"
+msgstr "Bilgisayarınızı yapılandırırken Opera'yı yükleyerek sadece hızlı ve işlevsel bir tarayıcı elde etmekle kalmaz, aynı zamanda DriverPack'i de desteklersiniz."
+
+msgid "patners-page-opera-pluses-title-ecosystem"
+msgstr "Bu sadece bir masaüstü tarayıcısı değil, hayatınızı daha kullanışlı hale getiren bütün bir ekosistemdir"
+
+msgid "patners-page-opera-pluses-subtitle-ecosystem"
+msgstr "Mobil cihazlardaki Opera, tamamen masaüstü sürümü ile eşzamanlıdır, yerleşik VPN ve kullanışlı tek elle yönetime sahiptir. Denemenizi kesinlikle öneriyoruz."
+
+msgid "patners-page-opera-btn"
+msgstr "Opera Tarayıcıyı Yükle"
+
 msgid "reviewpage_title"
 msgstr "DriverPack'i geliştirmek için geri bildirimler ve öneriler"
 
 msgid "searchpage_show-more-link"
 msgstr "Daha fazla göster"
+
+msgid "softcategorypage_categories-title"
+msgstr "Tüm kategoriler"
+
+msgid "softlandingpage_topsoft-title"
+msgstr "Popüler uygulamalar"
+
+msgid "softlandingpage_categories-title"
+msgstr "Kendi kategorisine göre yazılım"
+
+msgid "softsearchpage_show-more-link"
+msgstr "daha fazla görüntüle"
+
+msgid "softsearchpage_no-results"
+msgstr "Üzgünüz, sorgunuzu karşılık gelen hiçbir şey bulunamadı"
+
+#. i18n: EN: text for {{LINK}} is in key softthankyoupopup_download-link; RU:
+#. текст для {{LINK}} находится в ключе softthankyoupopup_download-link;
+msgid "softthankyoupopup_download-text"
+msgstr "Yükleme henüz başlamadı mı? {{LINK}} üzerine tıklayın, lütfen."
+
+msgid "softthankyoupopup_licence-text"
+msgstr "Yüklemeden önce lütfen {{LINK}} okuyun"
+
+msgid "softthankyoupopup_title"
+msgstr "Kurulum dosyasını çalıştırın"
+
+msgid "softthankyoupopup_subtitle"
+msgstr "Geriye kalan tek şey, yazılım kurulumunu başlatmak için indirilen dosyayı çalıştırmaktır."
+
+msgid "softthankyoupopup_licence-link"
+msgstr "Lisans Sözleşmesi"
+
+msgid "softthankyoupopup_download-link"
+msgstr "İndirmek"
 
 #. i18n: EN: text for {{LINK}} is in key thankyoupopup_download-link; RU:
 #. текст для {{LINK}} находится в ключе thankyoupopup_download-link;

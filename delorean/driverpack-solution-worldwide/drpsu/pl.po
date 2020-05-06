@@ -2,22 +2,23 @@
 # pasterzppp <pasterzppp@gmail.com>, 2017
 # kfw8 (knuxfanwin8) <knuxfanwin8@gmail.com>, 2017
 # Peter Patalong <piotrpatalong@gmail.com>, 2017
-# Łukasz Sumera <sumera.lukasz@gmail.com>, 2017
 # Marcin <marcinnieweglowski@gmail.com>, 2017
 # Marcin Rudzki <m.k.rudzki@gmail.com>, 2017
 # Nadia Tegeneva <nadia@drp.su>, 2018
-# BestiaPL <bestiapl@gmail.com>, 2018
-# Kacper Mucha <cov.ssin@gmail.com>, 2018
+# BestiaPL <bestiapl@gmail.com>, 2020
+# Łukasz Sumera <sumera.lukasz@gmail.com>, 2020
+# Kacper <kacpermandla@gmail.com>, 2020
+# Kacper Mucha <cov.ssin@gmail.com>, 2020
 # Leonid Beschasny <lbeschastny@iknow.travel>, 2017
-# Nadia Tegeneva <nadia@drp.su>, 2018
+# Nadia Tegeneva <nadia@drp.su>, 2020
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-11-21 09:46+0000\n"
+"POT-Creation-Date: 2020-04-27 12:44+0000\n"
 "PO-Revision-Date: 2016-12-16 14:30+0000\n"
-"Last-Translator: Kacper Mucha <cov.ssin@gmail.com>, 2018\n"
+"Last-Translator: Kacper Mucha <cov.ssin@gmail.com>, 2020\n"
 "Language-Team: Polish (https://www.transifex.com/driverpack-solution/teams/75453/pl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -62,10 +63,19 @@ msgid "cloudpagefooter_license-link"
 msgstr "Umowa licencyjna"
 
 msgid "breadcrumbs_main-text"
-msgstr "Strona główna"
+msgstr ""
 
 msgid "breadcrumbs_catalog-main-text"
 msgstr "sterowniki dla {{OS.NAME}}"
+
+msgid "breadcrumbs_softcategory-text"
+msgstr ""
+
+msgid "breadcrumbs_soft-text"
+msgstr ""
+
+msgid "breadcrumbs_uninstall-text"
+msgstr "usuń"
 
 msgid "breadcrumbs_vendors-text"
 msgstr "Producenci"
@@ -116,6 +126,9 @@ msgstr "Laptop {{CLASS.PLURAL.MAIN}} - {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}
 msgid "devicecard_download-btn"
 msgstr "Pobierz sterownik"
 
+msgid "devicecard_download-repack-btn"
+msgstr ""
+
 #. i18n: EN: Example: NAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10 x86; Text
 #. for {{DOWNLOAD}} is in key drivercard_no-results_download-link; RU: Пример:
 #. NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10 x86; Текст для
@@ -158,6 +171,9 @@ msgstr "Plik *.inf:"
 
 msgid "devicecard_details-content-label-section"
 msgstr "Kategoria:"
+
+msgid "devicecard_details-download-links-repack"
+msgstr ""
 
 msgid "devicecard_details-links-merged_label"
 msgstr "Jeśli Device ID, którego szukasz nie ma na liście, spróbuj wpisać je do wyszukiwarki."
@@ -262,6 +278,9 @@ msgstr "Kategoria:"
 msgid "drivercard_caption-btn"
 msgstr "Pobierz sterownik"
 
+msgid "drivercard_caption-repack-btn"
+msgstr ""
+
 msgid "deviceidpage_all-systems"
 msgstr "wszystkie systemy"
 
@@ -355,6 +374,9 @@ msgstr "DriverPack zainstaluje wszystkie potrzebne sterowniki za darmo i rozwią
 msgid "landingheader_cta-btn"
 msgstr "Zainstaluj wszystkie wymagane sterowniki"
 
+msgid "landingheadernav_search-soft"
+msgstr ""
+
 msgid "landingheadernav_search"
 msgstr "Wyszukiwanie sterowników"
 
@@ -385,6 +407,12 @@ msgstr "Zainstaluj wszystkie wymagane sterowniki"
 msgid "landingnotebookvendorslist_versions"
 msgstr "Inne wersje DriverPack'a"
 
+msgid "partners-link-text-opera"
+msgstr ""
+
+msgid "partners_landing-title"
+msgstr ""
+
 msgid "landingproducts_cta-title"
 msgstr "Wybierz swój DriverPack"
 
@@ -407,7 +435,7 @@ msgid "landingproducts_item-title-network"
 msgstr "DriverPack Offline Network"
 
 msgid "landingproducts_item-description-network"
-msgstr "Zawiera sterowniki do kart sieciowych (Lan/Wi-Fi), nie wymaga podłączenia do internetu. Wielkość pliku <span class='nobr'>({{SIZE}})</span>"
+msgstr ""
 
 msgid "landingproducts_item-title-offline"
 msgstr "DriverPack Offline Full"
@@ -461,7 +489,7 @@ msgid "landingwizard_item-caption-setup"
 msgstr "Skonfiguruj swój komputer jednym prostym ruchem"
 
 msgid "landingwizard_item-caption-profit"
-msgstr "Łał! Mój komputer działa jak nowy!"
+msgstr ""
 
 msgid "landingwizard_cta-btn"
 msgstr "Zainstaluj wszystkie wymagane sterowniki"
@@ -823,6 +851,69 @@ msgstr "Jesteś zmęczony poszukiwaniem sterowników?"
 msgid "sidebanner_caption"
 msgstr "DriverPack automatycznie <span class='SideBanner__caption-marked'>wybierze i zainstaluje</span> potrzebne sterowniki"
 
+msgid "softdetails-rating"
+msgstr ""
+
+msgid "recommend-opera"
+msgstr ""
+
+msgid "softdetails_download-count"
+msgstr ""
+
+msgid "softdetails_package-size"
+msgstr "Rozmiar:"
+
+msgid "softdetails_added"
+msgstr ""
+
+msgid "softdetails_license"
+msgstr ""
+
+msgid "softdetails_license-free"
+msgstr ""
+
+msgid "softdetails_os"
+msgstr ""
+
+msgid "softdetails_uninstall-link"
+msgstr ""
+
+msgid "softdetails_download-link"
+msgstr "Pobierz"
+
+msgid "soft-details_opera-descr"
+msgstr ""
+
+msgid "softdetails_uninstall-page-link"
+msgstr ""
+
+msgid "program-month-text"
+msgstr ""
+
+msgid "softlandingheader_search-title"
+msgstr ""
+
+msgid "softsearch_input-placeholder"
+msgstr ""
+
+msgid "softsearchformitem_type-category"
+msgstr ""
+
+msgid "softsearchheader_title"
+msgstr ""
+
+msgid "softsearchheader_subtitle"
+msgstr ""
+
+msgid "softsearchresult_download-link"
+msgstr "Pobierz"
+
+msgid "topsoft_item-download-count"
+msgstr ""
+
+msgid "topsoft_item-download-link"
+msgstr "Pobierz"
+
 msgid "translationheader_cta-text"
 msgstr "Pomóż nam uczynić DriverPack dostępnym dla milionów użytkowników na całym świecie — weź udział w naszym wolontariackim projekcie tłumaczenia go na inne języki"
 
@@ -855,6 +946,126 @@ msgstr "komputer przenośny"
 
 msgid "language_title"
 msgstr "Polish"
+
+msgid "softcategories_antivirus-single-main"
+msgstr "antywirus"
+
+msgid "softcategories_antivirus-plural-main"
+msgstr ""
+
+msgid "softcategories_audio-video-converter-single-main"
+msgstr ""
+
+msgid "softcategories_audio-video-converter-plural-main"
+msgstr ""
+
+msgid "softcategories_audio-video-editor-single-main"
+msgstr ""
+
+msgid "softcategories_audio-video-editor-plural-main"
+msgstr ""
+
+msgid "softcategories_book-reader-single-main"
+msgstr ""
+
+msgid "softcategories_book-reader-plural-main"
+msgstr ""
+
+msgid "softcategories_browser-single-main"
+msgstr "przeglądarka"
+
+msgid "softcategories_browser-plural-main"
+msgstr ""
+
+msgid "softcategories_cd-dvd-single-main"
+msgstr ""
+
+msgid "softcategories_cd-dvd-plural-main"
+msgstr ""
+
+msgid "softcategories_data-recovery-single-main"
+msgstr ""
+
+msgid "softcategories_data-recovery-plural-main"
+msgstr ""
+
+msgid "softcategories_data-storage-single-main"
+msgstr ""
+
+msgid "softcategories_data-storage-plural-main"
+msgstr ""
+
+msgid "softcategories_developer-tools-single-main"
+msgstr ""
+
+msgid "softcategories_developer-tools-plural-main"
+msgstr ""
+
+msgid "softcategories_file-manager-single-main"
+msgstr ""
+
+msgid "softcategories_file-manager-plural-main"
+msgstr ""
+
+msgid "softcategories_image-editor-single-main"
+msgstr ""
+
+msgid "softcategories_image-editor-plural-main"
+msgstr ""
+
+msgid "softcategories_image-viewer-single-main"
+msgstr ""
+
+msgid "softcategories_image-viewer-plural-main"
+msgstr ""
+
+msgid "softcategories_mail-client-single-main"
+msgstr ""
+
+msgid "softcategories_mail-client-plural-main"
+msgstr ""
+
+msgid "softcategories_messenger-single-main"
+msgstr ""
+
+msgid "softcategories_messenger-plural-main"
+msgstr ""
+
+msgid "softcategories_mp3-audio-player-single-main"
+msgstr ""
+
+msgid "softcategories_mp3-audio-player-plural-main"
+msgstr ""
+
+msgid "softcategories_other-single-main"
+msgstr ""
+
+msgid "softcategories_other-plural-main"
+msgstr ""
+
+msgid "softcategories_pdf-reader-single-main"
+msgstr ""
+
+msgid "softcategories_pdf-reader-plural-main"
+msgstr ""
+
+msgid "softcategories_text-editor-single-main"
+msgstr ""
+
+msgid "softcategories_text-editor-plural-main"
+msgstr ""
+
+msgid "softcategories_torrent-client-single-main"
+msgstr ""
+
+msgid "softcategories_torrent-client-plural-main"
+msgstr ""
+
+msgid "softcategories_video-player-single-main"
+msgstr ""
+
+msgid "softcategories_video-player-plural-main"
+msgstr ""
 
 msgid "landingPagePublications_rbk"
 msgstr "DriverPack jest oprogramowaniem zawierającym sterowniki pod Windows starannie wybrane i przetestowane przez zespół Artura Kuzyakova. Aplikacja analizuje komputer użytkownika i instaluje na nim wymagane sterowniki, co pozwala rozwiązać dwa zagadnienia: po pierwsze przyspieszyć proces konfiguracji komputera (co jest szczególnie ważne, gdy mamy dziesiątki komputerów); po drugie, poprawić jego wydajność."
@@ -918,6 +1129,15 @@ msgstr "Sterownik nie został poprawnie zainstalowany i na moim komputerze wyst�
 
 msgid "adminpagefaq_stable-a"
 msgstr "Stabilność działania DriverPack'a jest jednym z naszych priorytetów, jednak drobne błędy ciągle się zdarzają, na szczęście rzadko. Dlatego tworzymy punkt przywracania, który pozwoli przywrócić wszystko do poprzedniego stanu. Aby zapobiec podobnym problemom w przyszłości sugerujemy przejście do menu DriverPack'a i wysłanie raportu, który jest automatycznie tworzony przez oprogramowanie, do naszego wsparcia technicznego."
+
+msgid "partners_landing-text-opera"
+msgstr ""
+
+msgid "partners_landing-text-yandex"
+msgstr ""
+
+msgid "partners_landing-text-avast"
+msgstr ""
 
 msgid "cloudpagefaq_remove_soft-q"
 msgstr "Dlaczego DriverPack Cloud sugeruje usunięcie niektórych programów z komputera?"
@@ -1054,11 +1274,76 @@ msgstr "Popularne notebooki i laptopy {{VENDOR.NAME}}"
 msgid "notebooksvendorpage_subtitle-all"
 msgstr "Wszystkie notebooki i laptopy {{VENDOR.NAME}}"
 
+msgid "patners-page-opera-title"
+msgstr ""
+
+msgid "patners-page-opera-subtitle"
+msgstr ""
+
+msgid "patners-page-opera-text"
+msgstr ""
+
+msgid "patners-page-opera-pluses-title-support"
+msgstr ""
+
+msgid "patners-page-opera-pluses-subtitle-support"
+msgstr ""
+
+msgid "patners-page-opera-pluses-title-opera-best"
+msgstr ""
+
+msgid "patners-page-opera-pluses-subtitle-opera-best"
+msgstr ""
+
+msgid "patners-page-opera-pluses-title-ecosystem"
+msgstr ""
+
+msgid "patners-page-opera-pluses-subtitle-ecosystem"
+msgstr ""
+
+msgid "patners-page-opera-btn"
+msgstr ""
+
 msgid "reviewpage_title"
 msgstr "Wsparcie i sugestie dotyczące działania DriverPack'a"
 
 msgid "searchpage_show-more-link"
 msgstr "Zobacz więcej"
+
+msgid "softcategorypage_categories-title"
+msgstr ""
+
+msgid "softlandingpage_topsoft-title"
+msgstr ""
+
+msgid "softlandingpage_categories-title"
+msgstr ""
+
+msgid "softsearchpage_show-more-link"
+msgstr ""
+
+msgid "softsearchpage_no-results"
+msgstr ""
+
+#. i18n: EN: text for {{LINK}} is in key softthankyoupopup_download-link; RU:
+#. текст для {{LINK}} находится в ключе softthankyoupopup_download-link;
+msgid "softthankyoupopup_download-text"
+msgstr ""
+
+msgid "softthankyoupopup_licence-text"
+msgstr ""
+
+msgid "softthankyoupopup_title"
+msgstr ""
+
+msgid "softthankyoupopup_subtitle"
+msgstr ""
+
+msgid "softthankyoupopup_licence-link"
+msgstr "Umowa licencyjna"
+
+msgid "softthankyoupopup_download-link"
+msgstr "pobierz"
 
 #. i18n: EN: text for {{LINK}} is in key thankyoupopup_download-link; RU:
 #. текст для {{LINK}} находится в ключе thankyoupopup_download-link;

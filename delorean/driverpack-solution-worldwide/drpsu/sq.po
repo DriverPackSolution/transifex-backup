@@ -1,19 +1,19 @@
 # Translators:
-# dalvi elezi <dalvisecond@gmail.com>, 2017
-# Niti10 <adnitkamberi10@gmail.com>, 2018
-# ilir sejdiu <ilirsejdiu74@gmail.com>, 2018
-# Bledar Horeshka <bledar.horeshka@yandex.com>, 2018
 # Nadia Tegeneva <nadia@drp.su>, 2018
+# dalvi elezi <dalvisecond@gmail.com>, 2020
+# ilir sejdiu <ilirsejdiu74@gmail.com>, 2020
+# Bledar Horeshka <bledar.horeshka@yandex.com>, 2020
+# Niti10 <adnitkamberi10@gmail.com>, 2020
 # Leonid Beschasny <lbeschastny@iknow.travel>, 2017
-# Nadia Tegeneva <nadia@drp.su>, 2018
+# Nadia Tegeneva <nadia@drp.su>, 2020
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-11-21 09:46+0000\n"
+"POT-Creation-Date: 2020-04-27 12:44+0000\n"
 "PO-Revision-Date: 2016-12-16 14:30+0000\n"
-"Last-Translator: Nadia Tegeneva <nadia@drp.su>, 2018\n"
+"Last-Translator: Niti10 <adnitkamberi10@gmail.com>, 2020\n"
 "Language-Team: Albanian (https://www.transifex.com/driverpack-solution/teams/75453/sq/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -58,10 +58,19 @@ msgid "cloudpagefooter_license-link"
 msgstr "Marrëveshja e Licencës"
 
 msgid "breadcrumbs_main-text"
-msgstr "Faqja Hyrëse"
+msgstr ""
 
 msgid "breadcrumbs_catalog-main-text"
 msgstr "driverat për {{OS.NAME}}"
+
+msgid "breadcrumbs_softcategory-text"
+msgstr ""
+
+msgid "breadcrumbs_soft-text"
+msgstr ""
+
+msgid "breadcrumbs_uninstall-text"
+msgstr "hiq"
 
 msgid "breadcrumbs_vendors-text"
 msgstr "Prodhuesit"
@@ -112,6 +121,9 @@ msgstr "{{CLASS.PLURAL.MAIN}} për laptopin {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.
 msgid "devicecard_download-btn"
 msgstr "Shkarko Driver"
 
+msgid "devicecard_download-repack-btn"
+msgstr ""
+
 #. i18n: EN: Example: NAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10 x86; Text
 #. for {{DOWNLOAD}} is in key drivercard_no-results_download-link; RU: Пример:
 #. NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10 x86; Текст для
@@ -154,6 +166,9 @@ msgstr "Dosja *.inf:"
 
 msgid "devicecard_details-content-label-section"
 msgstr "Kategoria:"
+
+msgid "devicecard_details-download-links-repack"
+msgstr ""
 
 msgid "devicecard_details-links-merged_label"
 msgstr "Nëse Device ID që ju kërkoni nuk gjendet në listë, atëhere shkruajeni të atë tek fusha e kërkimit"
@@ -258,6 +273,9 @@ msgstr "Kategoria:"
 msgid "drivercard_caption-btn"
 msgstr "Shkarko Driver"
 
+msgid "drivercard_caption-repack-btn"
+msgstr ""
+
 msgid "deviceidpage_all-systems"
 msgstr "gjitha sistemet"
 
@@ -351,6 +369,9 @@ msgstr "DriverPack instalon drajverat falas dhe zgjidh problemet me drajverat n�
 msgid "landingheader_cta-btn"
 msgstr "instalo të gjith driverat e nevojshëm"
 
+msgid "landingheadernav_search-soft"
+msgstr ""
+
 msgid "landingheadernav_search"
 msgstr "Kërkim Drajveri"
 
@@ -381,6 +402,12 @@ msgstr "instalo të gjith driverat e nevojshëm"
 msgid "landingnotebookvendorslist_versions"
 msgstr "Versionet e tjera të DriverPack"
 
+msgid "partners-link-text-opera"
+msgstr ""
+
+msgid "partners_landing-title"
+msgstr ""
+
 msgid "landingproducts_cta-title"
 msgstr "Zgjidh DriverPack tënd"
 
@@ -403,7 +430,7 @@ msgid "landingproducts_item-title-network"
 msgstr "DriverPack Offline Network"
 
 msgid "landingproducts_item-description-network"
-msgstr "Përmban drajvera për karta rrjeti (Lan/Wi-Fi), funksionon pa lidhje në Internet <span class='nobr'>({{SIZE}})</span>"
+msgstr ""
 
 msgid "landingproducts_item-title-offline"
 msgstr "DriverPack Offline Full"
@@ -457,7 +484,7 @@ msgid "landingwizard_item-caption-setup"
 msgstr "Konfiguro kompjuterin me një veprim të thjeshtë"
 
 msgid "landingwizard_item-caption-profit"
-msgstr "Urraaa! Tani kompjuteri im funksionon si një i ri fare!"
+msgstr ""
 
 msgid "landingwizard_cta-btn"
 msgstr "instalo të gjith driverat e nevojshëm"
@@ -819,6 +846,69 @@ msgstr "Jeni lodhur duke kërkuar për drajvera?"
 msgid "sidebanner_caption"
 msgstr "DriverPack do përzgjedhë dhe <span class='SideBanner__caption-marked'>instalojë automatikisht</span> drajverat e kërkuar"
 
+msgid "softdetails-rating"
+msgstr ""
+
+msgid "recommend-opera"
+msgstr ""
+
+msgid "softdetails_download-count"
+msgstr ""
+
+msgid "softdetails_package-size"
+msgstr "Madhësia:"
+
+msgid "softdetails_added"
+msgstr ""
+
+msgid "softdetails_license"
+msgstr ""
+
+msgid "softdetails_license-free"
+msgstr ""
+
+msgid "softdetails_os"
+msgstr ""
+
+msgid "softdetails_uninstall-link"
+msgstr ""
+
+msgid "softdetails_download-link"
+msgstr "Shkarko"
+
+msgid "soft-details_opera-descr"
+msgstr ""
+
+msgid "softdetails_uninstall-page-link"
+msgstr ""
+
+msgid "program-month-text"
+msgstr ""
+
+msgid "softlandingheader_search-title"
+msgstr ""
+
+msgid "softsearch_input-placeholder"
+msgstr ""
+
+msgid "softsearchformitem_type-category"
+msgstr ""
+
+msgid "softsearchheader_title"
+msgstr ""
+
+msgid "softsearchheader_subtitle"
+msgstr ""
+
+msgid "softsearchresult_download-link"
+msgstr "Shkarko"
+
+msgid "topsoft_item-download-count"
+msgstr ""
+
+msgid "topsoft_item-download-link"
+msgstr "Shkarko"
+
 msgid "translationheader_cta-text"
 msgstr "Na ndihmoni ta bëjmë DriverPack të disponueshëm për miliona përdorues kompjuteri në të gjithë botën — tmerrni pjesë në projektin tonë vullnetar për përkthimin e tij në gjuhë të tjera"
 
@@ -851,6 +941,126 @@ msgstr "laptop"
 
 msgid "language_title"
 msgstr "Albanian"
+
+msgid "softcategories_antivirus-single-main"
+msgstr ""
+
+msgid "softcategories_antivirus-plural-main"
+msgstr ""
+
+msgid "softcategories_audio-video-converter-single-main"
+msgstr ""
+
+msgid "softcategories_audio-video-converter-plural-main"
+msgstr ""
+
+msgid "softcategories_audio-video-editor-single-main"
+msgstr ""
+
+msgid "softcategories_audio-video-editor-plural-main"
+msgstr ""
+
+msgid "softcategories_book-reader-single-main"
+msgstr ""
+
+msgid "softcategories_book-reader-plural-main"
+msgstr ""
+
+msgid "softcategories_browser-single-main"
+msgstr "shfletuesi"
+
+msgid "softcategories_browser-plural-main"
+msgstr ""
+
+msgid "softcategories_cd-dvd-single-main"
+msgstr ""
+
+msgid "softcategories_cd-dvd-plural-main"
+msgstr ""
+
+msgid "softcategories_data-recovery-single-main"
+msgstr ""
+
+msgid "softcategories_data-recovery-plural-main"
+msgstr ""
+
+msgid "softcategories_data-storage-single-main"
+msgstr ""
+
+msgid "softcategories_data-storage-plural-main"
+msgstr ""
+
+msgid "softcategories_developer-tools-single-main"
+msgstr ""
+
+msgid "softcategories_developer-tools-plural-main"
+msgstr ""
+
+msgid "softcategories_file-manager-single-main"
+msgstr ""
+
+msgid "softcategories_file-manager-plural-main"
+msgstr ""
+
+msgid "softcategories_image-editor-single-main"
+msgstr ""
+
+msgid "softcategories_image-editor-plural-main"
+msgstr ""
+
+msgid "softcategories_image-viewer-single-main"
+msgstr ""
+
+msgid "softcategories_image-viewer-plural-main"
+msgstr ""
+
+msgid "softcategories_mail-client-single-main"
+msgstr ""
+
+msgid "softcategories_mail-client-plural-main"
+msgstr ""
+
+msgid "softcategories_messenger-single-main"
+msgstr ""
+
+msgid "softcategories_messenger-plural-main"
+msgstr ""
+
+msgid "softcategories_mp3-audio-player-single-main"
+msgstr ""
+
+msgid "softcategories_mp3-audio-player-plural-main"
+msgstr ""
+
+msgid "softcategories_other-single-main"
+msgstr ""
+
+msgid "softcategories_other-plural-main"
+msgstr ""
+
+msgid "softcategories_pdf-reader-single-main"
+msgstr ""
+
+msgid "softcategories_pdf-reader-plural-main"
+msgstr ""
+
+msgid "softcategories_text-editor-single-main"
+msgstr ""
+
+msgid "softcategories_text-editor-plural-main"
+msgstr ""
+
+msgid "softcategories_torrent-client-single-main"
+msgstr ""
+
+msgid "softcategories_torrent-client-plural-main"
+msgstr ""
+
+msgid "softcategories_video-player-single-main"
+msgstr ""
+
+msgid "softcategories_video-player-plural-main"
+msgstr ""
 
 msgid "landingPagePublications_rbk"
 msgstr "DriverPack është softueri që përmban drajvera për Windows të përzgjedhur dhe testuar tërësisht nga ekipi i Artur Kuzyakov. Ky aplikacion analizon kompjuterin e përdoruesit dhe instalon në të drajverat e duhur, gjë që iu ndihmon të zgjidhni dy probleme: së pari, të përshpejtoni procesin e konfigurimit të kompjuterit (që është veçanerisht e rëndësishme nëse keni shumë kompjutera brenda një sistemi); dhe së dyti, për të përmirësuar aftësitë operacionale."
@@ -914,6 +1124,15 @@ msgstr "Drajveri nuk është instaluar siç duhet dhe kompjuteri tani ka problem
 
 msgid "adminpagefaq_stable-a"
 msgstr "Stabiliteti i funksionimit të softuerit të DriverPack është një nga prioritetet tona kryesore por gabime të vogla gjithsesi ndodhin, megjithëse janë të rralla. Prandaj ne krijojmë një pikë kthimi e cila iu mundëson juve të riktheni gjithçka në gjendjen e mëparshme të konfigurimit. Në mënyrë që të parandaloni një problem të ngjashëm në të ardhmen, ne iu rekomandojmë të shkoni në menunë DriverPack dhe të dërgoni raportin që krijohet automatikisht nga softueri, tek shërbimi ynë teknik."
+
+msgid "partners_landing-text-opera"
+msgstr ""
+
+msgid "partners_landing-text-yandex"
+msgstr ""
+
+msgid "partners_landing-text-avast"
+msgstr ""
 
 msgid "cloudpagefaq_remove_soft-q"
 msgstr "Përse DriverPack Cloud sugjeron që të fshij disa softuerë nga kompjuteri im?"
@@ -1050,11 +1269,76 @@ msgstr "Laptopët dhe mini-laptopët e njohur nga {{VENDOR.NAME}}"
 msgid "notebooksvendorpage_subtitle-all"
 msgstr "Të gjithë laptopët dhe mini-laptopët nga {{VENDOR.NAME}}"
 
+msgid "patners-page-opera-title"
+msgstr ""
+
+msgid "patners-page-opera-subtitle"
+msgstr ""
+
+msgid "patners-page-opera-text"
+msgstr ""
+
+msgid "patners-page-opera-pluses-title-support"
+msgstr ""
+
+msgid "patners-page-opera-pluses-subtitle-support"
+msgstr ""
+
+msgid "patners-page-opera-pluses-title-opera-best"
+msgstr ""
+
+msgid "patners-page-opera-pluses-subtitle-opera-best"
+msgstr ""
+
+msgid "patners-page-opera-pluses-title-ecosystem"
+msgstr ""
+
+msgid "patners-page-opera-pluses-subtitle-ecosystem"
+msgstr ""
+
+msgid "patners-page-opera-btn"
+msgstr ""
+
 msgid "reviewpage_title"
 msgstr "Reagimet dhe sugjerimet që të përmirsojm DriverPack"
 
 msgid "searchpage_show-more-link"
 msgstr "Shiko më shum"
+
+msgid "softcategorypage_categories-title"
+msgstr ""
+
+msgid "softlandingpage_topsoft-title"
+msgstr ""
+
+msgid "softlandingpage_categories-title"
+msgstr ""
+
+msgid "softsearchpage_show-more-link"
+msgstr ""
+
+msgid "softsearchpage_no-results"
+msgstr ""
+
+#. i18n: EN: text for {{LINK}} is in key softthankyoupopup_download-link; RU:
+#. текст для {{LINK}} находится в ключе softthankyoupopup_download-link;
+msgid "softthankyoupopup_download-text"
+msgstr ""
+
+msgid "softthankyoupopup_licence-text"
+msgstr ""
+
+msgid "softthankyoupopup_title"
+msgstr ""
+
+msgid "softthankyoupopup_subtitle"
+msgstr ""
+
+msgid "softthankyoupopup_licence-link"
+msgstr "Marrëveshja e Licencës"
+
+msgid "softthankyoupopup_download-link"
+msgstr "shkarko"
 
 #. i18n: EN: text for {{LINK}} is in key thankyoupopup_download-link; RU:
 #. текст для {{LINK}} находится в ключе thankyoupopup_download-link;
