@@ -1,10 +1,5 @@
 # Translators:
-# Артур Кузяков <artx@drp.su>, 2017
-# Patrick Hendrickx <patrick.hendrickx@gmail.com>, 2018
-# Robin <vandeneynde.robin@gmail.com>, 2020
-# Richard Bussé <rbusse@live.be>, 2020
-# Nadia Tegeneva <nadia@drp.su>, 2020
-# Henry Venema <henryvenema@hotmail.com>, 2020
+# HenryV1959 <henryvenema@hotmail.com>, 2020
 # Leonid Beschasny <lbeschastny@iknow.travel>, 2017
 # Nadia Tegeneva <nadia@drp.su>, 2020
 # 
@@ -14,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-04-27 12:44+0000\n"
 "PO-Revision-Date: 2016-12-16 14:30+0000\n"
-"Last-Translator: Henry Venema <henryvenema@hotmail.com>, 2020\n"
+"Last-Translator: HenryV1959 <henryvenema@hotmail.com>, 2020\n"
 "Language-Team: Dutch (https://www.transifex.com/driverpack-solution/teams/75453/nl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -26,25 +21,25 @@ msgid "adminlandingpage_title"
 msgstr "DriverPack voor professionals - automatische driver installatie op elke computer"
 
 msgid "admincackle_dialog-star"
-msgstr "Waardeer DriverPack's werk "
+msgstr "Beoordeel de werking van DriverPack"
 
 msgid "admindriverpacks_landing-title"
 msgstr "Driverpacks (pakketten met drivers)"
 
 msgid "admindriverpacks_landing-subtitle"
-msgstr "Onze driverpacks bevatten {{COUNT}} drivers welke met de hand zijn geselecteerd en getest"
+msgstr "Onze driverpacks bevatten {{COUNT}} drivers die handmatig zijn geselecteerd en getest"
 
 msgid "admindriverpacks_download"
 msgstr "Download"
 
 msgid "adminfaq_landing-title"
-msgstr "Wij beantwoorden uw vragen"
+msgstr "We beantwoorden uw vragen"
 
 msgid "adminfaq_landing-subtitle"
-msgstr "U stelt vaak vragen over DriverPack — Wij beantwoorden de meest populaire van ze"
+msgstr "Je stelt vaak vragen over DriverPack — We beantwoorden de meest populaire"
 
 msgid "adminheader_cta-text"
-msgstr "DriverPack is gemaakt voor beheerders maar is ook gemakkelijk in gebruik voor beginners"
+msgstr "DriverPack is gemaakt voor beheerders, maar is zelfs voor beginners gemakkelijk te gebruiken"
 
 msgid "adminheader_cta-btn"
 msgstr "Download DriverPack Online"
@@ -53,7 +48,7 @@ msgid "buttonsplitdropdown_main-button"
 msgstr "Download"
 
 msgid "cloudfaq_landing-title"
-msgstr "Wij beantwoorden uw vragen"
+msgstr "We beantwoorden uw vragen"
 
 msgid "cloudpagefooter_license-link"
 msgstr "Licentieovereenkomst"
@@ -117,10 +112,10 @@ msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
 #. CLASS.PLURAL.MAIN=видеокарты|чипсеты, NOTEBOOK.VENDOR.NAME=Lenovo,
 #. NOTEBOOK.NAME=G580;
 msgid "breadcrumbs_notebookdevices-text"
-msgstr "{{CLASS.PLURAL.MAIN}} van  {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptop"
+msgstr "{{CLASS.PLURAL.MAIN}} van {{NOTEBOOK.NAME}}{{NOTEBOOK.VENDOR.NAME}} laptop"
 
 msgid "devicecard_download-btn"
-msgstr "Download stuurprogramma"
+msgstr "Download driver"
 
 msgid "devicecard_download-repack-btn"
 msgstr "Download ZIP"
@@ -130,13 +125,13 @@ msgstr "Download ZIP"
 #. NAME=NVIDIA GeForce 210; Пример: OSVERSIONS=Windows 10 x86; Текст для
 #. {{DOWNLOAD}} находится в ключе drivercard_no-results_download-link;
 msgid "devicecard_details_no-results-text"
-msgstr "De drivers voor {{NAME}} voor Windows {{OSVERSIONS}} zijn niet in de catalogus gevonden. {{DOWNLOAD}} om de driver automatisch te selecteren."
+msgstr "The drivers voor {{NAME}} voor Windows {{OSVERSIONS}} zijn niet in de catalogus gevonden {{DOWNLOAD}} om de driver automatisch te selecteren."
 
 msgid "devicecard_details_no-results_download-link"
 msgstr "Download DriverPack"
 
 msgid "devicecard_details-content-text"
-msgstr "Data aan het laden..."
+msgstr "Gegevens laden ..."
 
 msgid "devicecard_details_all-systems"
 msgstr "alle systemen"
@@ -148,10 +143,10 @@ msgid "devicecard_details-content-label-version-recommended"
 msgstr "aanbevolen"
 
 msgid "devicecard_details-content-label-date"
-msgstr "Datum:"
+msgstr "Date:"
 
 msgid "devicecard_details-content-label-type"
-msgstr "Type stuurprogramma"
+msgstr "Driver Type:"
 
 msgid "devicecard_details-content-label-manufacturer"
 msgstr "Fabrikant:"
@@ -160,10 +155,10 @@ msgid "devicecard_details-content-label-systems"
 msgstr "Besturingssystemen:"
 
 msgid "devicecard_details-content-label-deviceid"
-msgstr "Device ID:"
+msgstr "Apparaat ID:"
 
 msgid "devicecard_details-content-label-inf"
-msgstr "Bestand *.inf:"
+msgstr "Bestand * .inf:"
 
 msgid "devicecard_details-content-label-section"
 msgstr "Categorie:"
@@ -172,7 +167,7 @@ msgid "devicecard_details-download-links-repack"
 msgstr "Direct download van de ZIP met de driver"
 
 msgid "devicecard_details-links-merged_label"
-msgstr "Als de Device ID die je nodig hebt niet gevonden is in de lijst, voer het dan in de zoekregel in"
+msgstr "Als de Apparaat ID die u nodig heeft niet in de lijst voorkomt, voert u deze in de zoekregel in"
 
 msgid "devicecard_details-links-notebook_device"
 msgstr "Bekijk alle drivers"
@@ -189,7 +184,7 @@ msgstr "Download DriverPack"
 #. x86; Текст для {{DOWNLOAD}} находится в ключе devicecardlist_no-
 #. result_download-link;
 msgid "devicecardlist_no-results-device-text"
-msgstr "De drivers voor {{DEVICENAME}} voor Windows {{OSVERSIONS}} zijn niet in de catalogus gevonden. {{DOWNLOAD}} om de driver automatisch te selecteren."
+msgstr "De drivers voor {{DEVICENAME}} voor Windows {{OSVERSIONS}} zijn niet gevonden in de catalogus. {{DOWNLOAD}} om de driver automatisch te selecteren."
 
 #. i18n: EN: Example: DEVICECLASS=chipsets|videocards; NOTEBOOK=Acer AO521;
 #. OSVERSIONS=Windows 10 x86; Text for {{DOWNLOAD}} is in key
@@ -198,14 +193,14 @@ msgstr "De drivers voor {{DEVICENAME}} voor Windows {{OSVERSIONS}} zijn niet in 
 #. OSVERSIONS=Windows 10 x86; Текст для {{DOWNLOAD}} находится в ключе
 #. devicecardlist_no-result_download-link;
 msgid "devicecardlist_no-results-notebook-text"
-msgstr "De drivers voor {{NOTEBOOK}} laptop voor Windows {{OSVERSIONS}} zijn niet in de catalogus gevonden. {{DOWNLOAD}} om de driver automatisch te selecteren."
+msgstr "De drivers voor {{NOTEBOOK}} laptop voor Windows {{OSVERSIONS}} zijn niet gevonden in de catalogus. {{DOWNLOAD}} om de driver automatisch te selecteren."
 
 #. i18n: EN: Example: NOTEBOOK=Acer AO521; OSVERSIONS=Windows 10 x86; Text for
 #. {{DOWNLOAD}} is in key devicecardlist_no-result_download-link; RU: Пример:
 #. NOTEBOOK=Acer AO521; Пример: OSVERSIONS=Windows 10 x86; Текст для
 #. {{DOWNLOAD}} находится в ключе devicecardlist_no-result_download-link;
 msgid "devicecardlist_no-results-notebook-device-class-text"
-msgstr "De drivers voor {{DEVICECLASS}} voor {{NOTEBOOK}} laptop voor Windows {{OSVERSIONS}} zijn niet gevonden. {{DOWNLOAD}} om de driver automatisch te selecteren."
+msgstr "The drivers voor {{DEVICECLASS}} voor {{NOTEBOOK}} laptop voor Windows {{OSVERSIONS}} zijn niet gevonden. {{DOWNLOAD}} om de driver automatisch te selecteren."
 
 msgid "devicegrouppage_all-systems"
 msgstr "alle systemen"
@@ -220,10 +215,10 @@ msgid "deviceidfilters-filter-label-version"
 msgstr "Driver Versie:"
 
 msgid "deviceidheader_caption-single"
-msgstr "Apparaat naam:"
+msgstr "Apparaatnaam:"
 
 msgid "deviceidheader_caption-many"
-msgstr "Het apparaat is ook bekend als:"
+msgstr "Dit apparaat staat ook bekend als:"
 
 msgid "devicetypelist_title_os"
 msgstr "Driver voor apparaten op {{OS}}"
@@ -239,7 +234,7 @@ msgstr "Download DriverPack Online"
 #. NAME=Acer Aspire 4830TG; Пример: OSVERSIONS=Windows 10 x86; Текст для
 #. {{DOWNLOAD}} находится в ключе drivercard_no-results_download-link;
 msgid "drivercard_no-results-text"
-msgstr "De drivers voor {{NAME}} voor Windows {{OSVERSIONS}} zijn niet in de catalogus gevonden. {{DOWNLOAD}} om de driver automatisch te selecteren."
+msgstr "De drivers voor {{NAME}} voor Windows {{OSVERSIONS}} zijn niet gevonden in de catalogus. {{DOWNLOAD}} om de driver automatisch te selecteren."
 
 msgid "drivercard_no-results_download-link"
 msgstr "Download DriverPack"
@@ -254,7 +249,7 @@ msgid "drivercard_caption-date"
 msgstr "Datum:"
 
 msgid "drivercard_caption-class"
-msgstr "Apparaat Type:"
+msgstr "Soort apparaat:"
 
 msgid "drivercard_caption-manufacturer"
 msgstr "Fabrikant:"
@@ -263,16 +258,16 @@ msgid "drivercard_caption-os"
 msgstr "Besturingssystemen:"
 
 msgid "drivercard_caption-deviceid"
-msgstr "Device ID:"
+msgstr "Apparaat ID:"
 
 msgid "drivercard_caption-inf"
-msgstr "Bestand *.inf:"
+msgstr "Bestand * .inf:"
 
 msgid "drivercard_caption-section"
 msgstr "Categorie:"
 
 msgid "drivercard_caption-btn"
-msgstr "Download stuurprogramma"
+msgstr "Download driver"
 
 msgid "drivercard_caption-repack-btn"
 msgstr "Download ZIP"
@@ -281,52 +276,52 @@ msgid "deviceidpage_all-systems"
 msgstr "alle systemen"
 
 msgid "dropdowndriverversion_no-results"
-msgstr "De drivers voor het gekozen Besturingssysteem zijn niet gevonden"
+msgstr "De drivers voor het gekozen besturingssysteem zijn niet gevonden"
 
 msgid "dropdownos_current"
-msgstr "actueel"
+msgstr "deze"
 
 msgid "footer_banner-title"
-msgstr "Ben je moe om te zoeken naar de drivers voor je apparaten?"
+msgstr "Ben je het zoeken naar de drivers voor je apparaten beu?"
 
 msgid "footer_banner-caption"
-msgstr "DriverPack Online <span style='color: {{COLOR}}'>zal vinden en installeren</span> automatisch de drivers die je nodig hebt"
+msgstr "DriverPack Online <span style='color: {{COLOR}}'>zal automatisch de drivers vinden en installeren</span> die u nodig heeft"
 
 msgid "footer_banner_btn"
 msgstr "Download <span class='bold'>DriverPack Online</span> gratis"
 
 msgid "footer_translate-feedback"
-msgstr "Heb je een typefout of een fout gevonden?<br />Markeer het en druk op {{HOTKEY}}"
+msgstr "Heeft u een fout of een typefout gevonden? <br /> Markeer deze en druk op {{HOTKEY}}"
 
 msgid "header_search-title"
-msgstr "<span class='bold'>Doorzoek</span> de grootste driver database — meer dan 1 miljoen drivers"
+msgstr "<span class = 'bold'> Drivers zoeken in </span> de grootste database — meer dan een miljoen drivers"
 
 msgid "header_search-examples"
 msgstr "Bijvoorbeeld:"
 
 msgid "header_cta-text"
-msgstr "Download DriverPack voor automatische driver selectie"
+msgstr "Download DriverPack voor automatische selectie van drivers"
 
 msgid "header_cta-btn"
 msgstr "Installeer drivers automatisch"
 
 msgid "header_cta-label-1"
-msgstr "Het <span style='color: {{COLOR}}'>download</span> direkt"
+msgstr "Het <span style = 'color: {{COLOR}}'>download </span> onmiddellijk"
 
 msgid "header_cta-label-2"
-msgstr "Het <span style='color: {{COLOR}}'>selecteerd en installeerd</span> drivers automatisch"
+msgstr "Het <span style='color: {{COLOR}}'>selecteert en installeert</span> de drivers automatisch"
 
 msgid "headerbutton_title"
 msgstr "Installeer drivers automatisch"
 
 msgid "headerbutton_label"
-msgstr "DriverPack software is absoluut gratis"
+msgstr "DriverPack-software is helemaal gratis"
 
 msgid "headeros_cta-btn"
 msgstr "Installeer drivers voor <span class='HeaderOs__cta-btn-marked'>{{OS}}</span>"
 
 msgid "headeros_search-text"
-msgstr "Of gebruik de zoekopdracht voor onze enorme driver database"
+msgstr "Of gebruik de zoekfunctie in onze enorme database met drivers"
 
 msgid "landingdevicetypelist_landing-title"
 msgstr "DriverPack is geschikt voor elk apparaat"
@@ -335,73 +330,73 @@ msgid "landingdevicetypelist_landing-subtitle"
 msgstr "Zelfs voor USB 3.0 op Windows 7 SP1"
 
 msgid "landingdevicetypelist_cta-btn"
-msgstr "Installeer alle benodigde stuurprogramma's"
+msgstr "Installeer alle vereiste drivers"
 
 msgid "landingdevicetypelist_versions"
-msgstr "Andere DriverPack versies"
+msgstr "Andere DriverPack-versies"
 
 msgid "landingfeatures_landing-title"
-msgstr "DriverPack is de meest handige en snelste manier om een computer te configureren"
+msgstr "DriverPack is de handigste en snelste manier om een computer te configureren"
 
 msgid "landingfeatures_landing-subtitle"
-msgstr "De software is gratis en is zowel geschikt voor professionals als voor beginners"
+msgstr "De software wordt gratis geleverd en is geschikt voor zowel professionals als beginners"
 
 msgid "landingfeatures_item-title-free"
 msgstr "Gratis"
 
 msgid "landingfeatures_item-caption-free"
-msgstr "DriverPack is gratis"
+msgstr "DriverPack wordt gratis aangeboden"
 
 msgid "landingfeatures_item-title-safe"
 msgstr "Veilig"
 
 msgid "landingfeatures_item-caption-safe"
-msgstr "DriverPack werkt officieel samen met fabrikanten van antivirus software en beschermt uw computer"
+msgstr "DriverPack werkt officieel samen met fabrikanten van antivirussoftware en beschermt uw computer"
 
 msgid "landingfeatures_item-title-for-all-devices"
 msgstr "Voor alle apparaten"
 
 msgid "landingfeatures_item-caption-for-all-devices"
-msgstr "DriverPack heeft de grootste driver database in de wereld, en kan gebruikt worden om elke computer te configureren"
+msgstr "DriverPack heeft de grootste driver-database ter wereld en kan worden gebruikt om elke computer te configureren"
 
 msgid "landingheader_cta-text"
-msgstr "DriverPack zal drivers gratis installeren en driverproblemen op elk apparaat oplossen"
+msgstr "DriverPack installeert gratis drivers en lost driverproblemen op elk apparaat op"
 
 msgid "landingheader_cta-btn"
-msgstr "Installeer alle benodigde stuurprogramma's"
+msgstr "Installeer alle vereiste drivers"
 
 msgid "landingheadernav_search-soft"
 msgstr "Software zoeken"
 
 msgid "landingheadernav_search"
-msgstr "Driver zoeker"
+msgstr "Driver zoeken"
 
 msgid "landingheadernav_foradmin"
-msgstr "Voor Systeembeheerders"
+msgstr "Voor systeembeheerders"
 
 msgid "landingintroduction_author-title"
 msgstr "Hallo! Mijn naam is Artur Kuzyakov. Ik ben de auteur en oprichter van DriverPack"
 
 msgid "landingintroduction_author-speech"
-msgstr "Van een klein stukje software 8 jaar geleden op pure enthousiasme geschreven, zijn we gegroeid naar het bedrijf dat wereldwijd meer dan 40 miljoen mensen heeft geholpen om hun computers te configureren!<br /><br />Tijdens deze tijd is onze software ongelooflijk sneller en slimmer geworden. Tegenwoordig is DriverPack de grootste database van unieke drivers in de wereld, gevestigd op ultra high speed servers over de hele wereld. Om het proces van de driverinstallatie altijd snel en met de hoogst mogelijke kwaliteit uit te voeren, gebruiken we machine-learning technologieën die ons selectie algoritme nog beter en nauwkeuriger maken. We zijn erin geslaagd dit alles zo te bereiken dat de software absoluut gratis blijft en iedereen kan het gebruiken.<br /><br />Mijn team en ik zijn trots op ons product en we hopen dat het uw betrouwbare assistent zal worden bij het configureren van elke computer in de kortste mogelijke tijd."
+msgstr "Van een klein stukje software dat 8 jaar geleden met puur enthousiasme werd geschreven, zijn we uitgegroeid tot een bedrijf dat wereldwijd meer dan 40 miljoen mensen heeft geholpen hun computers te configureren!<br /><br />Gedurende deze tijd is onze software ongelooflijk sneller en slimmer geworden. Tegenwoordig is DriverPack de grootste database met unieke drivers ter wereld, die zich op supersnelle servers over de hele wereld bevindt. Om het installatieproces van de driver altijd snel en met de hoogst mogelijke kwaliteit uit te voeren, gebruiken we machine learning-technologieën die ons selectiealgoritme nog beter en nauwkeuriger maken. Dit alles is ons gelukt om de software absoluut gratis te houden en iedereen kan er gebruik van maken.<br /><br />Mijn team en ik zijn trots op ons product en we hopen dat het uw betrouwbare assistent wordt bij het configureren van elke computer binnen de kortst mogelijke tijd."
 
 msgid "landingintroduction_author-speech-marked"
-msgstr "Wij spenderen al onze tijd om de uwe te in tekorten!"
+msgstr "We besteden al onze tijd om de jouwe te beperken!"
 
 msgid "landingintroduction_video-caption"
-msgstr "En hier is wat Dmitrij Medwedef, de minister-president van de Russische Federatie, denkt aan DriverPack Solution"
+msgstr "DriverPack SolutionEn dit is wat Dmitry Medvedev, de premier van de Russische Federatie, denkt over de DriverPack DriverPack Solution"
 
 msgid "landingnotebookvendorslist_landing-title"
 msgstr "DriverPack is geschikt voor elke computer"
 
 msgid "landingnotebookvendorslist_landing-subtitle"
-msgstr "Ja, voor elke computer - die we checkten!"
+msgstr "Ja, voor ELKE computer - we hebben het gecontroleerd!"
 
 msgid "landingnotebookvendorslist_cta-btn"
-msgstr "Installeer alle benodigde stuurprogramma's"
+msgstr "Installeer alle vereiste drivers"
 
 msgid "landingnotebookvendorslist_versions"
-msgstr "Andere DriverPack versies"
+msgstr "Andere DriverPack-versies"
 
 msgid "partners-link-text-opera"
 msgstr "Waarom is Opera een partner van DriverPack?"
@@ -410,7 +405,7 @@ msgid "partners_landing-title"
 msgstr "Onze partners"
 
 msgid "landingproducts_cta-title"
-msgstr "Kies je DriverPack"
+msgstr "Kies uw DriverPack"
 
 msgid "landingproducts_cta-description"
 msgstr "Download het pakket dat bij je past"
@@ -419,7 +414,7 @@ msgid "landingproducts_item-title-online"
 msgstr "DriverPack Online"
 
 msgid "landingproducts_item-description-online"
-msgstr "Het download direct, downloadt en installeert alle stuurprogramma's als u een internetverbinding hebt <span class='nobr'>({{SIZE}}</span>"
+msgstr "Het downloadt onmiddellijk, downloadt en installeert alle drivers als je een internetverbinding hebt <span class='nobr'>({{SIZE}})</span>"
 
 msgid "landingproducts_item-version"
 msgstr "Versie:"
@@ -428,31 +423,31 @@ msgid "landingproducts_item-button"
 msgstr "Download"
 
 msgid "landingproducts_item-title-network"
-msgstr "DriverPack Offline Network"
+msgstr "DriverPack Offline Netwerk"
 
 msgid "landingproducts_item-description-network"
-msgstr "Het bevat drivers voor netwerkhardware (Lan/Wi-Fi) en vereist geen internetverbinding om te werken <span class='nobr'>({{SIZE}})</span>"
+msgstr "Het bevat drivers voor netwerkhardware (Lan / Wi-Fi) en vereist geen internetverbinding om te werken <span class='nobr'>({{SIZE}})</span>"
 
 msgid "landingproducts_item-title-offline"
-msgstr "DriverPack Offline Full"
+msgstr "DriverPack Offline Volledig"
 
 msgid "landingproducts_item-description-offline"
-msgstr "Het bevat alle drivers, werkt zonder verbinding met internet, het kan worden gedownload via de Torrent-tracker <span class='nobr'>({{SIZE}})</span>"
+msgstr "Het bevat alle drivers, werkt zonder verbinding met internet en kan worden gedownload via de Torrent-tracker <span class='nobr'>({{SIZE}})</span>"
 
 msgid "landingpublications__source-link"
 msgstr "Lees meer"
 
 msgid "landingpublications__landing-title"
-msgstr "Media publicaties over DriverPack"
+msgstr "Massamedia-publicaties over DriverPack"
 
 msgid "landingscreenshots_landing-title"
-msgstr "DriverPack is de meest handige en snelste manier om een computer te configureren"
+msgstr "DriverPack is de handigste en snelste manier om een computer te configureren"
 
 msgid "landingscreenshots_landing-subtitle"
-msgstr "De software is gratis en is zowel geschikt voor professionals als voor beginners"
+msgstr "De software wordt gratis geleverd en is geschikt voor zowel professionals als beginners"
 
 msgid "landingsocial_landing-title"
-msgstr "Word lid van de DriverPack gemeenschap"
+msgstr "Word lid van de DriverPack-community"
 
 msgid "landingsocial_landing-subtitle"
 msgstr "Volg het nieuws en neem deel aan discussies"
@@ -461,16 +456,16 @@ msgid "landingtopvideocardlist_landing-title"
 msgstr "Populaire videokaartmodellen"
 
 msgid "landingtopvideocardlist_landing-caption"
-msgstr "DriverPack selecteert drivers voor videokaarten van alle modellen, hier zijn de meest populaire "
+msgstr "DriverPack selecteert drivers voor videokaarten van alle modellen, dit zijn de meest populaire"
 
 msgid "landingusers_cta"
-msgstr "Het aantal gebruikers van DriverPack over de hele wereld groeit steeds met elke seconde"
+msgstr "Het aantal DriverPack-gebruikers over de hele wereld blijft met elke seconde toenemen"
 
 msgid "landingusers_cta-btn"
-msgstr "Installeer alle benodigde stuurprogramma's"
+msgstr "Installeer alle vereiste drivers"
 
 msgid "landingusers_versions"
-msgstr "Andere DriverPack versies"
+msgstr "Andere DriverPack-versies"
 
 msgid "landingvideocardlist_landing-title"
 msgstr "Populaire videokaartfabrikanten"
@@ -482,13 +477,13 @@ msgid "landingwizard_item-caption-download"
 msgstr "Download en start DriverPack Online"
 
 msgid "landingwizard_item-caption-setup"
-msgstr "Configureer uw computer met één eenvoudige actie"
+msgstr "Configureer uw computer met één simpele handeling"
 
 msgid "landingwizard_item-caption-profit"
 msgstr "Ja! Nu draait de computer als nieuw!"
 
 msgid "landingwizard_cta-btn"
-msgstr "Installeer alle benodigde stuurprogramma's"
+msgstr "Installeer alle vereiste drivers"
 
 msgid "navbar_download-link-short"
 msgstr "Download"
@@ -497,16 +492,16 @@ msgid "navbar_download-link"
 msgstr "Download DriverPack Online"
 
 msgid "notfound_cta-text"
-msgstr "U kunt gratis drivers automatisch vinden en installeren met behulp van DriverPack Online"
+msgstr "U kunt drivers automatisch vinden en installeren door DriverPack Online gratis te gebruiken"
 
 msgid "notfound_cta-btn"
 msgstr "Download DriverPack Online"
 
 msgid "notfound_info-404"
-msgstr "{{404}} — de gevraagde pagina is niet gevonden"
+msgstr "{{404}} — de gevraagde pagina is niet gevonden"
 
 msgid "notfound_info-500"
-msgstr "{{500}}— er is iets fout gegaan (server fout)"
+msgstr "{{500}} — er is iets misgegaan (serverfout)"
 
 msgid "notebookfilters-title"
 msgstr "Beschikbare drivers"
@@ -518,25 +513,25 @@ msgid "notebookvendorslist_title_os"
 msgstr "Drivers voor laptops op {{OS}}"
 
 msgid "notebookvendorslist_title"
-msgstr "Driver zoeker voor laptops"
+msgstr "Zoeken naar drivers voor laptops"
 
 msgid "productlandingheader-online_cta-btn"
 msgstr "Download DriverPack Online"
 
 msgid "productlandingheader-online_caption"
-msgstr "DriverPack Online - het meest populaire product van maar {{SIZE}} grootte. Het wordt direct gedownload, het selecteert drivers voor uw computer of laptop en download daarna alle vereiste drivers via internet en installeert ze. Het past perfect bij een gewone gebruiker. Het werkt alleen met internettoegang."
+msgstr "DriverPack Online - het populairste product van maar {{SIZE}} grootte. Het download direct, het selecteert drivers voor uw computer of laptop en downloadt vervolgens alle vereiste drivers via internet en installeert ze. Het past perfect bij een gewone gebruiker. Het werkt alleen met internettoegang."
 
 msgid "productlandingheader-network_cta-btn"
-msgstr "Download DriverPack Offline Network"
+msgstr "Download DriverPack Offline Netwerk"
 
 msgid "productlandingheader-network_caption"
-msgstr "DriverPack Offline Network - drivers voor netwerkhardware op één plaats ({{SIZE}}). Het wordt snel gedownload en nog sneller geïnstalleerd! Zodra Windows opnieuw is geïnstalleerd, configureert DriverPack Offline Network netwerkstuurprogramma's om verbinding met internet te maken en downloadt dan drivers voor de overige apparaten!"
+msgstr "DriverPack Offline Netwerk - drivers voor netwerkhardware op één plek ({{SIZE}}). Het wordt snel gedownload en nog sneller geïnstalleerd! Zodra Windows opnieuw is geïnstalleerd, zal DriverPack Offline Netwerk netwerkdrivers configureren om verbinding te maken met internet en vervolgens drivers downloaden voor de overige apparaten!"
 
 msgid "productlandingheader-offline_cta-btn"
-msgstr "Download DriverPack Offline Full"
+msgstr "Download DriverPack Offline Volledig"
 
 msgid "productlandingheader-offline_caption"
-msgstr "DriverPack Offline Full is een enorme versie van {{SIZE}} grootte voor driver-installatie zonder internettoegang. Download gewoon DriverPack Offline Full en gebruik de enorme bibliotheek met up-to-date drivers waar en wanneer u maar wilt. Het is perfect voor systeembeheerders."
+msgstr "DriverPack Offline Volledig is een enorm pakket van {{SIZE}} grootte voor installatie van drivers zonder internettoegang. Download DriverPack Offline Volledig en gebruik de enorme bibliotheek met up-to-date drivers waar u maar wilt. Het is perfect voor systeembeheerders."
 
 msgid "promoheader_os-versions"
 msgstr "De software is geschikt voor Windows 10, 8.1, 8, 7, Vista, XP"
@@ -545,28 +540,28 @@ msgid "promoheader_uninstall"
 msgstr "DriverPack verwijderen"
 
 msgid "promoheader_cta-text-gamers"
-msgstr "Uw computer is krachtiger dan u denkt: update alle drivers gratis"
+msgstr "Uw computer is krachtiger dan u denkt: werk alle drivers gratis bij"
 
 msgid "promoheader_cta-text-gamers-caption"
-msgstr "Als u van computerspelletjes houdt, raden we u aan om de stuurprogramma's op uw computer vaker bij te werken om de hoogst mogelijke efficiëntie van uw hardware te bereiken. Tot 37% meer FPS - de beste spelervaring en nieuwe prestaties met DriverPack."
+msgstr "Als je van computerspellen houdt, raden we je aan om de drivers op je computer vaker bij te werken om de hoogst mogelijke efficiëntie van je hardware te bereiken. Tot 37% meer FPS - de beste game-ervaring en nieuwe prestaties met DriverPack."
 
 msgid "promoheader_cta-text"
-msgstr "DriverPack zal drivers gratis installeren en driverproblemen op elk apparaat oplossen"
+msgstr "DriverPack installeert gratis drivers en lost driverproblemen op elk apparaat op"
 
 msgid "promoheader_cta-btn"
-msgstr "Installeer alle benodigde stuurprogramma's"
+msgstr "Installeer alle vereiste drivers"
 
 msgid "promoheader_size"
-msgstr "Bestand grote: {{SIZE}} KB"
+msgstr "Bestandsgrootte: {{SIZE}} KB"
 
 msgid "reviewheader_cta-text"
-msgstr "Doe mee met de DriverPack -gemeenschap in de sociale netwerken om het nieuws over het product bij te houden en deel te nemen aan discussies"
+msgstr "Word lid van de DriverPack-community op de sociale netwerken om op de hoogte te blijven van het nieuws over het product en deel te nemen aan discussies"
 
 msgid "reviewheader_cta"
-msgstr "Voeg uw beoordeling of suggestie toe over verbeteren van DriverPack"
+msgstr "Voeg uw beoordeling of suggestie toe om DriverPack te verbeteren"
 
 msgid "search_input-placeholder"
-msgstr "Zoek op naam van het stuurprogramma, de laptop of DeviceID"
+msgstr "Zoek naar de naam van de driver, laptop of Apparaat-ID"
 
 msgid "search_btn-text"
 msgstr "Vind"
@@ -598,22 +593,22 @@ msgid "deviceclasses_bluetooth-single-for"
 msgstr "Bluetooth apparaat"
 
 msgid "deviceclasses_bluetooth-plural-main"
-msgstr "Bluetooth apparaten"
+msgstr "Bluetooth apparaat"
 
 msgid "deviceclasses_bluetooth-plural-for"
-msgstr "Bluetooth aparaten"
+msgstr "Bluetooth apparaat"
 
 msgid "deviceclasses_cardreader-single-main"
-msgstr "Kaart lezer"
+msgstr "kaart lezer"
 
 msgid "deviceclasses_cardreader-single-for"
-msgstr "Kaart lezer"
+msgstr "kaart lezer"
 
 msgid "deviceclasses_cardreader-plural-main"
-msgstr "Kaart lezers"
+msgstr "kaart lezers"
 
 msgid "deviceclasses_cardreader-plural-for"
-msgstr "Kaart lezers"
+msgstr "kaart lezers"
 
 msgid "deviceclasses_chipset-single-main"
 msgstr "chipset"
@@ -628,40 +623,40 @@ msgid "deviceclasses_chipset-plural-for"
 msgstr "chipsets"
 
 msgid "deviceclasses_inputdev-single-main"
-msgstr "Invoerapparaat"
+msgstr "invoer apparaat"
 
 msgid "deviceclasses_inputdev-single-for"
-msgstr "Invoerapparaat"
+msgstr "invoer apparaat"
 
 msgid "deviceclasses_inputdev-plural-main"
-msgstr "Invoerapparaten"
+msgstr "invoer apparaten"
 
 msgid "deviceclasses_inputdev-plural-for"
-msgstr "Invoerapparaten"
+msgstr "invoer apparaten"
 
 msgid "deviceclasses_lan-single-main"
-msgstr "Netwerk kaart"
+msgstr "netwerk kaart"
 
 msgid "deviceclasses_lan-single-for"
-msgstr "Netwerk kaart"
+msgstr "netwerk kaart"
 
 msgid "deviceclasses_lan-plural-main"
-msgstr "Netwerk kaarten"
+msgstr "netwerk kaarten"
 
 msgid "deviceclasses_lan-plural-for"
-msgstr "Netwerk kaarten"
+msgstr "netwerk kaart"
 
 msgid "deviceclasses_massstorage-single-main"
-msgstr "controle"
+msgstr "controller"
 
 msgid "deviceclasses_massstorage-single-for"
-msgstr "controle"
+msgstr "controller"
 
 msgid "deviceclasses_massstorage-plural-main"
-msgstr "controlle"
+msgstr "controllers"
 
 msgid "deviceclasses_massstorage-plural-for"
-msgstr "controlle"
+msgstr "controllers"
 
 msgid "deviceclasses_modem-single-main"
 msgstr "modem"
@@ -682,10 +677,10 @@ msgid "deviceclasses_monitor-single-for"
 msgstr "monitor"
 
 msgid "deviceclasses_monitor-plural-main"
-msgstr "monitors"
+msgstr "monitoren"
 
 msgid "deviceclasses_monitor-plural-for"
-msgstr "monitors"
+msgstr "monitoren"
 
 msgid "deviceclasses_phone-single-main"
 msgstr "smartphone"
@@ -724,28 +719,28 @@ msgid "deviceclasses_sound-plural-for"
 msgstr "geluidskaarten"
 
 msgid "deviceclasses_tvtuner-single-main"
-msgstr "Afstandsbediening"
+msgstr "TV-kaart"
 
 msgid "deviceclasses_tvtuner-single-for"
-msgstr "Afstandsbediening"
+msgstr "TV-kaart"
 
 msgid "deviceclasses_tvtuner-plural-main"
-msgstr "Afstandbediening"
+msgstr "TV-kaarten"
 
 msgid "deviceclasses_tvtuner-plural-for"
-msgstr "Afstandbediening"
+msgstr "TV-kaarten"
 
 msgid "deviceclasses_video-single-main"
-msgstr "videokaart"
+msgstr "video kaart"
 
 msgid "deviceclasses_video-single-for"
-msgstr "videokaart"
+msgstr "video kaart"
 
 msgid "deviceclasses_video-plural-main"
-msgstr "videokaarten"
+msgstr "video kaarten"
 
 msgid "deviceclasses_video-plural-for"
-msgstr "videokaarten"
+msgstr "video kaarten"
 
 msgid "deviceclasses_webcamera-single-main"
 msgstr "webcam"
@@ -766,35 +761,35 @@ msgid "deviceclasses_wifi-single-for"
 msgstr "Wi-Fi apparaat"
 
 msgid "deviceclasses_wifi-plural-main"
-msgstr "Wi-Fi- apparaten"
+msgstr "Wi-Fi apparaten"
 
 msgid "deviceclasses_wifi-plural-for"
-msgstr "Wi-Fi- apparaten"
+msgstr "Wi-Fi apparaten"
 
 msgid "deviceclasses_other-single-main"
-msgstr "Ander apparaat"
+msgstr "ander apparaat"
 
 msgid "deviceclasses_other-single-for"
-msgstr "Ander apparaat"
+msgstr "ander apparaat"
 
 msgid "deviceclasses_other-plural-main"
-msgstr "Andere apparaten"
+msgstr "andere apparaten"
 
 msgid "deviceclasses_other-plural-for"
-msgstr "Andere apparaten"
+msgstr "andere apparaten"
 
 msgid "searchheader_caption-subtitle"
-msgstr "Stuurprogramma zoeken in de zoekopdracht:"
+msgstr "Zoeken naar de driver in de zoekopdracht:"
 
 msgid "searchheader_caption-filter-label"
-msgstr "Stuurprogramma wordt gedownload voor het gekozen besturingssysteem"
+msgstr "De driver wordt gedownload voor het gekozen besturingssysteem"
 
 #. i18n: EN: Example: NOTEBOOK=Acer AO521; Text for {{DOWNLOAD}} is in key
 #. searchresult_details-content_download-link; RU: Пример: NOTEBOOK=Acer
 #. AO521; Текст для {{DOWNLOAD}} находится в ключе searchresult_details-
 #. content_download-link
 msgid "searchresult_details-content-notebook-text"
-msgstr "{{DOWNLOAD}} om de vereiste stuurprogramma's automatisch te identificeren en te installeren, of ga naar de {{NOTEBOOK}} pagina en selecteer het benodigde stuurprogramma handmatig"
+msgstr "{{DOWNLOAD}} om de vereiste drivers automatisch te identificeren en te installeren, of ga naar {{NOTEBOOK}} pagina en selecteer handmatig de vereiste driver"
 
 msgid "searchresult_details-content_download-link"
 msgstr "Download DriverPack"
@@ -803,10 +798,10 @@ msgid "searchresult_notebook"
 msgstr "Laptop"
 
 msgid "searchresult_download-btn"
-msgstr "Installeer het stuurprogramma automatisch"
+msgstr "Installeer de driver automatisch"
 
 msgid "searchresult_details-content-text-placeholder"
-msgstr "Data aan het laden..."
+msgstr "Gegevens laden ..."
 
 msgid "searchresult_details-content-label-1"
 msgstr "OS"
@@ -819,7 +814,7 @@ msgstr "alle systemen"
 #. GeForce 205; Текст для {{DOWNLOAD}} находится в ключе searchresult_details-
 #. content_download-link
 msgid "searchresult_details-content-group-text"
-msgstr "{{DOWNLOAD}} om de vereiste stuurprogramma's automatisch te identificeren en te installeren, of ga naar de {{DEVICE}} apparaatpagina en selecteer het benodigde stuurprogramma handmatig"
+msgstr "{{DOWNLOAD}} om de vereiste drivers automatisch te identificeren en te installeren, of ga naar de {{DEVICE}} apparaatpagina en selecteer handmatig de vereiste driver"
 
 #. i18n: EN: Example: CLASS.SINGLE.MAIN=monitor|chipset; COUNT=12; RU: Пример:
 #. CLASS.SINGLE.MAIN=монитор|чипсет; COUNT=12;
@@ -827,25 +822,25 @@ msgid "searchresult_device"
 msgstr "{{CLASS.SINGLE.MAIN}} ({{COUNT}} resultaten werden gevonden)"
 
 msgid "searchresult_details-content-text-many"
-msgstr "Er zijn verschillende stuurprogramma's voor dit apparaat gevonden"
+msgstr "Er zijn verschillende drivers voor dit apparaat gevonden"
 
 msgid "seofooter_os-list-title"
-msgstr "Besturingssysteem Versies: <span itemprop='operatingSystem'>{{OSLIST}}</span>"
+msgstr "Besturingssysteemversies: <span itemprop='operatingSystem'>{{OSLIST}}</span>"
 
 msgid "seofooter_offers-title"
-msgstr "<span itemprop='offers' itemscope='' itemtype='http://schema.org/Offer'>Beschikbaar <meta itemprop='price' content='0' />Gratis</span>"
+msgstr "<span itemprop='offers' itemscope='' itemtype='http://schema.org/Offer'>Beschikbaar <meta itemprop='price' content='0' />gratis</span>"
 
 msgid "seofooter_driver-description-title"
-msgstr "Beschrijving van het stuurprogramma"
+msgstr "Driver Omschrijving"
 
 msgid "seofooter_popular-drivers-title"
-msgstr "Populaire stuurprogramma's"
+msgstr "Populaire Drivers"
 
 msgid "sidebanner_title"
-msgstr "Ben je het moe om steeds naar stuurprogramma' te zoeken?"
+msgstr "Ben je het zoeken naar drivers beu?"
 
 msgid "sidebanner_caption"
-msgstr "DriverPack zal automatisch de gewenste stuurprogramma's <span class='SideBanner__caption-marked'>selecteren en installeren</span>"
+msgstr "DriverPack wordt automatisch <span class='SideBanner__caption-marked'>selecteer en installeer</span> de vereiste drivers"
 
 msgid "softdetails-rating"
 msgstr "Beoordeling:"
@@ -860,10 +855,10 @@ msgid "softdetails_package-size"
 msgstr "Grootte:"
 
 msgid "softdetails_added"
-msgstr "Datum bijwerken:"
+msgstr "Update Datum:"
 
 msgid "softdetails_license"
-msgstr "Distributieschema:"
+msgstr "Distributieregeling:"
 
 msgid "softdetails_license-free"
 msgstr "gratis software"
@@ -881,7 +876,7 @@ msgid "soft-details_opera-descr"
 msgstr "De snelle en veilige Opera Browser wordt geleverd met ingebouwde adblocker, gratis VPN, ingebouwde messengers en vele andere items. <br /> <br /> Met Opera Browser voor computers met Windows, Mac en Linux OS kunt u alle internetcapaciteiten zo veilig, handig en efficiënt mogelijk gebruiken."
 
 msgid "softdetails_uninstall-page-link"
-msgstr "Hoe te verwijderen {{SOFT.TITLE}}"
+msgstr "Hoe verwijderen je {{SOFT.TITLE}}"
 
 msgid "program-month-text"
 msgstr "De software van de maand:"
@@ -890,7 +885,7 @@ msgid "softlandingheader_search-title"
 msgstr "<span class='bold'>Zoek naar de nieuwste versies</span> van de gratis software via de enorme database"
 
 msgid "softsearch_input-placeholder"
-msgstr "Software- of categorie-naam"
+msgstr "Software- of categorienaam"
 
 msgid "softsearchformitem_type-category"
 msgstr "categorie"
@@ -899,7 +894,7 @@ msgid "softsearchheader_title"
 msgstr "Zoekresultaten"
 
 msgid "softsearchheader_subtitle"
-msgstr "Hier is alle software gevonden, op basis van uw vraag:"
+msgstr "Hier is alle gevonden software op basis van uw vraag:"
 
 msgid "softsearchresult_download-link"
 msgstr "Download"
@@ -911,28 +906,28 @@ msgid "topsoft_item-download-link"
 msgstr "Download"
 
 msgid "translationheader_cta-text"
-msgstr "Help ons DriverPack beschikbaar te maken voor miljoenen PC gebruikers wereldwijd — neem deel in ons vrijwilligers project om het te vertalen in andere talen "
+msgstr "Help ons DriverPack beschikbaar te maken voor miljoenen pc-gebruikers over de hele wereld — neem deel aan ons vrijwilligersproject om het naar de andere talen te vertalen"
 
 msgid "translationheader_bubble-team"
-msgstr "Wilt u deel uit maken van het vertalers team voor de grootste service ter wereld van automatische computer configuratie?"
+msgstr "Wilt u deel uitmaken van het vertaalteam voor 's werelds grootste service voor automatische computerconfiguratie?"
 
 msgid "translationheader_bubble-languages"
-msgstr "Ken je goed Engels of Russisch, zodat je kunt vertalen van een van hen naar je moedertaal?"
+msgstr "Kent u Engels of Russisch redelijk goed, zodat u klaar bent om van één ervan naar uw moedertaal te vertalen?"
 
 msgid "translationheader_bubble-experience"
-msgstr "Heeft u ervaring met het vertalen van software of websites via online vertaaldiensten?"
+msgstr "Heeft u ervaring met het vertalen van software of websites door gebruik te maken van online vertaaldiensten?"
 
 msgid "translationheader_bubble-email"
-msgstr "Zijn uw antwoorden op alle drie vragen JA, stuur dan snel een e-mail naar {{EMAIL}} met '{{SUBJECT}}' in de onderwerpregel en vermeld van welke taal je wilt vertalen in uw moedertaal."
+msgstr "Als uw antwoorden JA zijn op alle drie de vragen, stuur ons dan een e-mail naar {{EMAIL}} met '{{SUBJECT}}' in de onderwerpregel en laat ons uw doeltaal weten waar u klaar voor bent."
 
 msgid "translationlist_title"
-msgstr "DriverPack Authorized Vertalers Lijst"
+msgstr "DriverPack Lijst met geautoriseerde vertalers"
 
 msgid "translationtool_text-transifex"
-msgstr "In DriverPack Solution doen we onze lokalisatie via de transifex.com service:"
+msgstr "In DriverPack Solution doen we onze lokalisatie door de transifex.com-service te gebruiken:"
 
 msgid "translationtool_example-ru-to-en"
-msgstr "Regels voor vertaling van Russisch (RU) naar Engels (EN), en CIS talen (CIS)"
+msgstr "Lijnen voor vertaling van Russisch (RU) naar Engels (EN) en CIS-talen (CIS)"
 
 msgid "translationtool_example-en-to-all"
 msgstr "Regels voor vertaling van Engels (EN) naar andere wereldtalen"
@@ -941,25 +936,25 @@ msgid "deviceclasses_laptop-single-main"
 msgstr "laptop"
 
 msgid "language_title"
-msgstr "Dutch"
+msgstr "Engels"
 
 msgid "softcategories_antivirus-single-main"
 msgstr "antivirus"
 
 msgid "softcategories_antivirus-plural-main"
-msgstr "antivirus-software"
+msgstr "antiviruses"
 
 msgid "softcategories_audio-video-converter-single-main"
-msgstr "audio / video-omzetter"
+msgstr "audio/video omzetter"
 
 msgid "softcategories_audio-video-converter-plural-main"
-msgstr "audio / video-omzetters"
+msgstr "audio/video omzetters"
 
 msgid "softcategories_audio-video-editor-single-main"
-msgstr "audio / video-bewerker"
+msgstr "audio/video bewerker"
 
 msgid "softcategories_audio-video-editor-plural-main"
-msgstr "audio / video-bewerkers"
+msgstr "audio/video bewerkers"
 
 msgid "softcategories_book-reader-single-main"
 msgstr "e-book lezer"
@@ -977,7 +972,7 @@ msgid "softcategories_cd-dvd-single-main"
 msgstr "CD/DVD"
 
 msgid "softcategories_cd-dvd-plural-main"
-msgstr "CD's / DVD's"
+msgstr "CDs/DVDs"
 
 msgid "softcategories_data-recovery-single-main"
 msgstr "software voor gegevensherstel"
@@ -986,16 +981,16 @@ msgid "softcategories_data-recovery-plural-main"
 msgstr "software voor gegevensherstel"
 
 msgid "softcategories_data-storage-single-main"
-msgstr "software voor gegevensherstel"
+msgstr "software voor gegevensopslag"
 
 msgid "softcategories_data-storage-plural-main"
-msgstr "software voor gegevensherstel"
+msgstr "software voor gegevensopslag"
 
 msgid "softcategories_developer-tools-single-main"
-msgstr "ontwikkelaarshulpmiddel"
+msgstr "ontwikkelaarstool"
 
 msgid "softcategories_developer-tools-plural-main"
-msgstr "ontwikkelaarshulpmiddellen"
+msgstr "ontwikkelaarstools"
 
 msgid "softcategories_file-manager-single-main"
 msgstr "bestandsbeheer"
@@ -1010,16 +1005,16 @@ msgid "softcategories_image-editor-plural-main"
 msgstr "grafische bewerkers"
 
 msgid "softcategories_image-viewer-single-main"
-msgstr "afbeelding viewer"
+msgstr "afbeelding bekijker"
 
 msgid "softcategories_image-viewer-plural-main"
-msgstr "afbeelding viewers"
+msgstr "afbeelding bekijkers"
 
 msgid "softcategories_mail-client-single-main"
-msgstr "e-mail-software"
+msgstr "e-mail programma"
 
 msgid "softcategories_mail-client-plural-main"
-msgstr "e-mail-softwares"
+msgstr "e-mail programma's"
 
 msgid "softcategories_messenger-single-main"
 msgstr "messenger"
@@ -1028,10 +1023,10 @@ msgid "softcategories_messenger-plural-main"
 msgstr "messengers"
 
 msgid "softcategories_mp3-audio-player-single-main"
-msgstr "MP3- en audio-speler"
+msgstr "MP3 en audio-speler"
 
 msgid "softcategories_mp3-audio-player-plural-main"
-msgstr "MP3- en audio-spelers"
+msgstr "MP3 en audio-spelers"
 
 msgid "softcategories_other-single-main"
 msgstr "andere software"
@@ -1040,22 +1035,22 @@ msgid "softcategories_other-plural-main"
 msgstr "andere software"
 
 msgid "softcategories_pdf-reader-single-main"
-msgstr "PDF lezer"
+msgstr "PDF-lezer"
 
 msgid "softcategories_pdf-reader-plural-main"
-msgstr "PDF lezers"
+msgstr "PDF-lezers"
 
 msgid "softcategories_text-editor-single-main"
-msgstr "tekstbewerker"
+msgstr "tekst-bewerker"
 
 msgid "softcategories_text-editor-plural-main"
-msgstr "tekstbewerkers"
+msgstr "tekst-bewerkers"
 
 msgid "softcategories_torrent-client-single-main"
-msgstr "Torrent-software"
+msgstr "Torrent-programma"
 
 msgid "softcategories_torrent-client-plural-main"
-msgstr "Torrent-softwares"
+msgstr "Torrent-programma's"
 
 msgid "softcategories_video-player-single-main"
 msgstr "video speler"
@@ -1064,133 +1059,133 @@ msgid "softcategories_video-player-plural-main"
 msgstr "video spelers"
 
 msgid "landingPagePublications_rbk"
-msgstr "DriverPack is een software die bestaat uit stuurprogramma's voor Windows die grondig geselecteerd en getest worden door het team van Artur Kuzyakov. Deze applicatie analyseert de computer van de gebruiker en installeert de benodigde stuurprogramma's, waarmee u twee problemen kunt oplossen: ten eerste, het proces van de configuratie van de computer versnellen (dat is vooral belangrijk als er tientallen computers binnen een systeem zijn); en ten tweede, om zijn operationele vermogen te verbeteren."
+msgstr "DriverPack is de software die bestaat uit drivers voor Windows die grondig zijn geselecteerd en getest door het team van Artur Kuzyakov. Deze applicatie analyseert de computer van een gebruiker en installeert daarop de vereiste drivers, waarmee u twee problemen kunt oplossen: ten eerste om het configuratieproces van de computer te versnellen (wat vooral belangrijk is als er tientallen computers binnen één systeem zijn); en ten tweede om het operationele vermogen ervan te verbeteren."
 
 msgid "landingPagePublications_secretfirmy"
-msgstr "Vandaag heeft DriverPack de grootste stuurprogramma database in de wereld die is vertaald naar 45 talen en werkt op de computers van meer dan 42 miljoen gebruikers."
+msgstr "Tegenwoordig heeft DriverPack de grootste database met drivers ter wereld, die is vertaald in 45 talen en werkt op de computers van meer dan 42 miljoen gebruikers."
 
 msgid "landingPagePublications_cnews"
-msgstr "Sinds het moment dat de eerste versie van de software is gemaakt, is DriverPack Solution erg populair bij de gebruikers. De software is volledig gratis te downloaden. Dit onderscheidt DriverPack Solution van haar concurrenten en trekt het steeds meer nieuwe gebruikers aan."
+msgstr "Vanaf het moment dat de allereerste versie van de software werd gemaakt, is DriverPack Solution erg populair bij gebruikers. De software is absoluut gratis te downloaden. Dit onderscheidt DriverPack Solution van zijn concurrenten en trekt steeds meer nieuwe gebruikers aan."
 
 msgid "landingPagePublications_xbit"
-msgstr "DriverPack Solution is een interessante applicatie, het bevat een reeks opties die andere softwareoplossingen van hetzelfde type niet bieden. Elke gebruiker kan alle fouten oplossen en de correcte werking van het systeem en alle apparaten in slechts twee klikken instellen. Op dit moment is het aantal stuurprogramma's in de DriverPack -database al meer dan 1,1 miljoen inzendingen overschreden, en ze zijn allemaal getest op veiligheid."
+msgstr "DriverPack Solution is een interessante applicatie, het bevat een reeks opties die andere softwareoplossingen van hetzelfde type niet bieden. Elke gebruiker kan alle fouten oplossen en de juiste werking van het systeem en alle apparaten instellen in slechts twee klikken. Op dit moment is het aantal drivers in de DriverPack-database al meer dan 1,1 miljoen vermeldingen en ze zijn allemaal getest op veiligheid."
 
 msgid "landingPagePublications_chip"
-msgstr "Met DriverPack is het helemaal geen uitdaging om de nieuwste versies van de drivers voor uw pc-componenten te vinden. Het meest aangename aspect is dat een gebruiker zelf niet alles moet doen. Dit programma is volledig geautomatiseerd en handig in gebruik."
+msgstr "Met DriverPack is het helemaal geen uitdaging om de nieuwste versies van de drivers voor uw pc-componenten te vinden. Het prettigste is dat een gebruiker niet eens zelf iets hoeft te doen. Deze tool is volledig geautomatiseerd en handig in gebruik."
 
 msgid "landingPagePublications_pcmag"
-msgstr "DriverPack Protect helpt uw computer te beschermen tegen malware- en adware-programma's en invoegtoepassingen, die zelfs door antivirussoftware en ad-blocking-tools vaak niet worden gedaan."
+msgstr "DriverPack Protect helpt uw computer te beschermen tegen malware en adware-programma's en plug-ins, die zelfs antivirussoftware en tools voor het blokkeren van advertenties vaak niet doen."
 
 msgid "landingPagePublications_habr"
-msgstr "De noodzaak om telkens weer stuurprogramma's te installeren wanneer u Windows opnieuw installeert, is naar mijn mening een van de meest significante gebreken van de hele Windows-familie. Om een oplossing te bieden heb ik in 2008 besloten dit probleem voor altijd op te lossen en schreef ik mijn eigen software die DriverPack heette. Vandaag wordt mijn product door 40 miljoen gebruikers over de hele wereld gebruikt en behoren de stuurprogramma problemen in Windows tot het verleden, zij het met hulp van een oplossing van derden."
+msgstr "De noodzaak om elke keer dat u Windows opnieuw installeert drivers te zoeken en te installeren, is naar mijn mening een van de belangrijkste gebreken van de hele Windows-familie. Al in 2008 besloot ik dit probleem op te lossen en schreef ik mijn eigen software die DriverPack heette. Tegenwoordig wordt mijn product gebruikt door 40 miljoen gebruikers over de hele wereld en ik ben van mening dat het probleem met de drivers in Windows nu is opgelost, zij het door middel van een oplossing van derden."
 
 msgid "landingPagePublications_computerra"
-msgstr "De nieuwe versie biedt de gebruiker meer tools om zijn eigen stuurprogramma's op te maken. Het is een bijzonder vervelend probleem voor degenen die computers bedienen en veel verschillende hardware beheren. Nu is het mogelijk om eventuele alternatieve stuurpakketten in DriverPack te integreren in plaats van alleen het onnodige te verwijderen."
+msgstr "De nieuwe versie biedt een gebruiker meer tools om zijn eigen driver te kiezen. Het is een bijzonder urgent probleem voor degenen die computers onderhouden en veel verschillende hardware beheren. Het is nu mogelijk om alternatieve driverpacks in DriverPack te integreren in plaats van alleen het overbodige te verwijderen."
 
 msgid "landingPagePublications_vc"
-msgstr "Dankzij de hulp van onze vertalers is van dit product in 45 talen vertaald voor onze gebruikers en dit zonder deelname van ons team."
+msgstr "Dankzij Transifex is dit product door gebruikers in 45 talen vertaald zonder de deelname van ons team."
 
 msgid "adminpagefaq_official_vendors-q"
-msgstr "Voor het gebruik van DriverPack downloade ik de stuurprogramma's van de officiële sites en heb ik ook, zelfs bij hen, steeds veel problemen mee ondervonden. Waarom zijn de stuurprogramma's in DriverPack betrouwbaarder dan die van de fabrikanten?"
+msgstr "Vóór DriverPack downloadde ik de drivers van de officiële sites, maar ik ondervond zelfs problemen met hen. Waarom zijn de drivers in DriverPack betrouwbaarder dan die van de fabrikanten?"
 
 msgid "adminpagefaq_official_vendors-a"
-msgstr "Om onze stuurprogramma database niet alleen de grootste maar ook de meest stabiele te maken, blijven we hard werken om deze permanent te verbeteren en repareren we zelfs de bugs die de officiële fabrikanten toestaan! We maken gebruik van machine learning technologie en dankzij het is ons selectie algoritme constant verbeterd. En dat is precies waarom de drivers van DriverPack de meest betrouwbare zijn :-)"
+msgstr "IOm onze driver-database niet alleen de grootste maar ook de meest stabiele te maken, blijven we hard werken om deze permanent te verbeteren, en we repareren zelfs de bugs die de officiële fabrikanten toestaan! We gebruiken machine learning-technologie en dankzij ons verbetert ons selectiealgoritme voortdurend. En dat is precies waarom de drivers van DriverPack het meest betrouwbaar zijn :-)"
 
 msgid "adminpagefaq_database-q"
-msgstr "Hoe wordt de DriverPack -database uitgebreid? Kan ik echt de stuurprogramma's vinden die ik nodig heb?"
+msgstr "Hoe breidt de DriverPack-database uit? Kan ik echt de drivers vinden die ik nodig heb?"
 
 msgid "adminpagefaq_database-a"
-msgstr "Tot op heden is onze stuurprogramma database de grootste in de wereld, daarom kan u het stuurprogramma vinden voor elk apparaat met meer dan 99% succes. Om zo een database te verzamelen en te ondersteunen, werken wij samen met de fabrikanten van apparaten en stuurprogramma's. We verzamelen en testen de stuurprogramma's van de officiële sites en van privé-FTP-servers, en we houden ook rekening met de aanbevelingen van de actieve gebruikers."
+msgstr "Tot op heden is onze driver-database de grootste ter wereld, daarom kunt u de driver vinden voor elk apparaat met meer dan 99% succes. Om een dergelijke database te blijven verzamelen en ondersteunen, werken we rechtstreeks samen met de apparaatfabrikanten en driveontwikkelaars. We verzamelen en testen de drivers van de officiële sites en van privé FTP-servers, en we houden ook rekening met de aanbevelingen van actieve gebruikers."
 
 msgid "adminpagefaq_free-q"
-msgstr "Is het waar dat DriverPack absoluut gratis is?"
+msgstr "Klopt het dat DriverPack helemaal gratis is?"
 
 msgid "adminpagefaq_free-a"
-msgstr "Al onze software is volledig gratis! Maar als u ons project wilt ondersteunen, installeer je deze handige software die aanbieden voor eigen gebruik en informeert U ook uw vrienden over DriverPack :-)"
+msgstr "Al onze software is helemaal gratis! Maar als u ons project wilt steunen, kunt u de nuttige software die we aanbieden voor uw eigen gebruik installeren en DriverPack aanbevelen aan uw vrienden :-)"
 
 msgid "adminpagefaq_antivirus-q"
-msgstr "Mijn antivirus heeft een virus in DriverPack ontdekt - hoe is dat kunnen gebeuren?"
+msgstr "Mijn antivirusprogramma heeft een virus ontdekt in DriverPack - hoe kan dat gebeuren?"
 
 msgid "adminpagefaq_antivirus-a"
-msgstr "Dit is waarschijnlijk een vals positief signaal, alle DriverPack-versies moeten steeds eerst grondig onderzoek en accreditatie door het Kaspersky Laboratory ondergaan. Ons bedrijf werkt samen met veel antivirus software aanbieders zoals Avast en 360 Total Security. Om DriverPack zonder foutmeldingen  te gebruiken, voeg je DriverPack toe aan uw antivirus-witte lijst zodat dit kleine euvel opgelost is. We zullen het ook op prijs stellen als u dit rapporteert als een vals positief signaal aan uw antivirusbedrijf en ook aan onze ondersteuningsdienst."
+msgstr "Dit is hoogstwaarschijnlijk vals positief, aangezien alle DriverPack-versies grondig worden onderzocht en geaccrediteerd door het Kaspersky Laboratory. Ons bedrijf werkt samen met veel leveranciers van antivirussoftware zoals Avast en 360 Total Security. Om te blijven werken, voegt u DriverPack toe aan uw witte lijst met antivirusprogramma's. We zullen het ook op prijs stellen als u dit als vals positief rapporteert aan uw antivirusbedrijf en aan onze ondersteuningsdienst."
 
 msgid "adminpagefaq_expert_mode-q"
-msgstr "Welke modus is het meest geschikt voor het gebruik van DriverPack?"
+msgstr "Welke modus is het handigst om DriverPack te gebruiken?"
 
 msgid "adminpagefaq_expert_mode-a"
-msgstr "Standaard wordt DriverPack opgestart in de automatische modus, ontworpen om begrijpelijk en handig te zijn, zelfs voor nieuwe gebruikers. Echter, voor het gemak van de geavanceerde gebruikers en systeembeheerders, hebben we Expert-modus ontwikkeld die uitgebreide instellingen en aanpassingsopties bevat. Om deze modus te activeren, is het voldoende om alleen op de bijbehorende knop te klikken, die zich onderaan het scherm bevindt."
+msgstr "DriverPack start standaard in automatische modus, ontworpen om begrijpelijk en gemakkelijk te gebruiken te zijn, zelfs voor nieuwe gebruikers. Voor het gemak van de gevorderde gebruikers en systeembeheerders hebben we de Expert-modus ontwikkeld die uitgebreide instellingen en aanpassingsopties bevat. Om deze modus te activeren, volstaat het om op de corresponderende knop onderaan het scherm te klikken."
 
 msgid "adminpagefaq_stable-q"
-msgstr "Het stuurprogramma is niet goed geïnstalleerd en mijn computer heeft nu problemen. Hoe kan ik deze situatie oplossen?"
+msgstr "De driver is niet correct geïnstalleerd en mijn computer heeft nu problemen. Hoe kan ik deze situatie oplossen?"
 
 msgid "adminpagefaq_stable-a"
-msgstr "De operationele stabiliteit van de DriverPack -software is een van onze voornaamste prioriteiten, maar er zijn nog steeds kleine storingen, hoewel deze zeldzaam zijn. Daarom maken we steeds een herstelpunt waarmee u altijd terug kunt keren naar de eerder geconfigureerde toestand. Om een soortgelijk probleem in de toekomst te voorkomen, raden wij u aan om naar het DriverPack -menu te gaan en het rapport te verzenden, dat automatisch door het programma wordt gemaakt, naar onze technische diensten."
+msgstr "De stabiliteit van de werking van de DriverPack-software is een van onze belangrijkste prioriteiten, maar kleine fouten treden nog steeds op, hoewel ze zeldzaam zijn. Dit is de reden waarom we een herstelpunt maken waarmee u alles terug kunt brengen naar de eerder geconfigureerde staat. Om een soortgelijk probleem in de toekomst te voorkomen, raden we u aan om naar het DriverPack-menu te gaan en het rapport dat automatisch door de software wordt gemaakt naar onze technische diensten te sturen."
 
 msgid "partners_landing-text-opera"
-msgstr "Opera Software is een wereldwijde ontwikkelaar van browsers en software om op internet te werken. <br /><br />De geschiedenis heeft meer dan 20 jaar geduurd. Opera Software werkt mee aan het ontwikkelen van webstandaarden binnen het W3C-project. Meer dan 350 miljoen mensen wereldwijd gebruiken Opera-producten. <br /><br />Het hoofdkantoor is gevestigd in Oslo, de hoofdstad van Noorwegen."
+msgstr "Opera Software is een wereldwijde ontwikkelaar van browsers en software om op het internet te werken. <br /> <br /> De geschiedenis heeft meer dan 20 jaar geduurd. Opera Software werkt mee aan het ontwikkelen van webstandaarden binnen het W3C-project. Wereldwijd gebruiken meer dan 350 miljoen mensen Opera-producten. <br /> <br /> Het hoofdkantoor is gevestigd in Oslo, de hoofdstad van Noorwegen."
 
 msgid "partners_landing-text-yandex"
-msgstr "Yandex is een wereldwijde ontwikkelaar van de zoekmachine en populaire internetservices met dezelfde naam.<br /><br />In Rusland, waar Yandex vandaan komt, is het aandeel in de zoekmachines 56,4% (volgens Yandex.Radar, voor maart 2018). Dit bedrijf is een van de weinige die de concurrentie met Google, de zoekgigant, met succes doorstaat.<br /><br />Het hoofdkantoor is gevestigd in Moskou, de hoofdstad van Rusland."
+msgstr "Yandex is een wereldwijde ontwikkelaar van de zoekmachine en populaire internetservices met dezelfde naam. <br /> <br /> In Rusland, waar Yandex vandaan komt, is het aandeel in de zoekmachines 56,4% (volgens Yandex.Radar, voor maart 2018). Dit bedrijf is een van de weinige die de concurrentie met Google, de zoekgigant, met succes doorstaat. <br /> <br /> Het hoofdkantoor is gevestigd in Moskou, de hoofdstad van Rusland."
 
 msgid "partners_landing-text-avast"
-msgstr "Avast Software is een wereldwijde ontwikkelaar van software op het gebied van informatiebeveiliging.<br /><br />Het brengt 's werelds populairste gratis antivirus uit. De software van Avast voorkomt elke maand 1,5 miljard aanvallen op computers en het web.<br /><br />Het hoofdkantoor is gevestigd in Praag, de hoofdstad van Tsjechië."
+msgstr "Avast Software is een wereldwijde ontwikkelaar van software op het gebied van informatiebeveiliging. <br /> <br /> Het brengt 's werelds populairste gratis antivirus uit. De software van Avast voorkomt elke maand 1,5 miljard aanvallen op computers en het web. <br /> <br /> Het hoofdkantoor bevindt zich in Praag, de hoofdstad van Tsjechië."
 
 msgid "cloudpagefaq_remove_soft-q"
-msgstr "Waarom stelt DriverPack Cloud voor om software van mijn computer te verwijderen?"
+msgstr "Waarom stelt DriverPack Cloud voor om bepaalde software van mijn computer te verwijderen?"
 
 msgid "cloudpagefaq_remove_soft-a"
-msgstr "De software met een lage rating is vaak adware of virussen, dat is de reden waarom DriverPack Cloud aanbeveelt om ze te verwijderen. Beoordeling wordt gevormd op basis van de voorkeuren van onze gebruikers — hoe meer ze deze of gene software verwijderen, hoe lager de beoordeling."
+msgstr "De software met een lage rating zijn vaak adware of virussen, daarom raadt DriverPack Cloud aan om ze te verwijderen. Beoordeling wordt gebaseerd op de voorkeuren van onze gebruikers — hoe meer ze dit of die software verwijderen, hoe lager de beoordeling."
 
 msgid "cloudpagefaq_notifications-q"
-msgstr "Na het installeren van DriverPack Cloud, begon ik meldingen te ontvangen op mijn bureaublad. Hoe kan ik ze uitschakelen?"
+msgstr "Na het installeren van DriverPack Cloud begon ik meldingen op mijn desktop te ontvangen. Hoe kan ik ze uitschakelen?"
 
 msgid "cloudpagefaq_notifications-a"
-msgstr "Deze meldingen zijn slechts aanbevelingen. Je kunt je afmelden voor het ontvangen van een melding van het betreffende type door op het belpictogram in de rechterbovenhoek van elke melding te klikken."
+msgstr "Deze meldingen zijn slechts aanbevelingen. U kunt zich afmelden voor het ontvangen van meldingen van een bepaald type door op het belpictogram in de rechterbovenhoek van elke melding te klikken."
 
 msgid "cloudpagefaq_usb-q"
-msgstr "Toen ik mijn flash-kaart met de usb-slot verbond, een kennisgeving over een driver is op mijn bureaublad verschenen. Waar is het voor?"
+msgstr "Toen ik mijn flash-kaart op de USB-sleuf verbond, verscheen er een melding over een driver op mijn bureaublad. Waar is het voor?"
 
 msgid "cloudpagefaq_usb-a"
-msgstr "DriverPack Cloud onthult de verbinding van de nieuwe apparaten en onderzoekt of ze de juiste stuurprogramma's hebben. Als de vereiste driver ontbreekt, het is mogelijk om het onmiddellijk te installeren — het is noodzakelijk voor een goede werking van het apparaat."
+msgstr "DriverPack Cloud onthult het aansluiten van de nieuwe apparaten en onderzoekt of ze de juiste drivers hebben. Als de vereiste driver ontbreekt, is het mogelijk om deze onmiddellijk te installeren — dit is nodig voor een goede werking van het apparaat."
 
 msgid "cloudlandingpage_cackle-title"
 msgstr "Laat ons uw mening weten over DriverPack Cloud"
 
 msgid "cloudlandingpage_cackle-caption"
-msgstr "Vind je DriverPack Cloud leuk? Welke andere functies zou u eraan willen toevoegen? Vertel het ons alsjeblieft."
+msgstr "Vind je DriverPack Cloud leuk? Welke andere functies zou je eraan willen toevoegen? Vertel het ons alsjeblieft."
 
 msgid "cloudlandingpage_header-title"
-msgstr "DriverPack Cloud is nieuwe software voor het verbeteren van uw pc-efficiëntie"
+msgstr "DriverPack Cloud is nieuwe software om de efficiëntie van uw pc te verhogen"
 
 msgid "cloudlandingpage_about-what-is-title"
 msgstr "Wat is de DriverPack Cloud-software?"
 
 msgid "cloudlandingpage_about-what-is-caption"
-msgstr "Dit is een nieuw softwareproduct van het DriverPack-team, ontworpen om de efficiëntie van uw computer te verbeteren zonder extra uitgaven of hardware-upgrades van uw pc. Ben je niet tevreden met CS: GO of Dota 2-werksnelheid op uw computer? Probeer de DriverPack Cloud!"
+msgstr "Dit is een nieuw softwareproduct van het DriverPack-team, ontworpen om de efficiëntie van uw computer te verbeteren zonder extra kosten of hardware-upgrades van uw pc. Bent u niet tevreden over de snelheid van CS: GO of Dota 2 op uw computer? Probeer de DriverPack Cloud!"
 
 msgid "cloudlandingpage_about-how-works-title"
 msgstr "Hoe werkt DriverPack Cloud?"
 
 msgid "cloudlandingpage_about-how-works-caption"
-msgstr "Ons product analyseert de status van de drivers op uw pc, onthult elke software die van invloed is op de efficiëntie van uw computer op deze of gene manier en geeft zijn aanbeveling over het updaten van de drivers en het verwijderen van de software die uw computer langzamer maken of vice versa, stelt voor om producten van derden te installeren die uw hardwaresnelheid helpen verhogen. Het hele proces staat onder uw controle – geen acties van de DriverPack Cloud-kant zonder uw toestemming"
+msgstr "Ons product analyseert de status van de drivers op uw pc, onthult alle software die op deze of andere manier de efficiëntie van uw computer beïnvloedt, en geeft aanbevelingen voor het bijwerken van de drivers en het verwijderen van de software die uw computer langzamer maken, of vice versa, stelt voor om te installeren producten van derden die de hardwarebedrijfssnelheid van uw hardware verhogen. Het hele proces staat onder uw controle – geen acties van de DriverPack Cloud-kant zonder uw toestemming"
 
 msgid "cloudlandingpage_features-monitoring"
 msgstr "Het controleert de status van uw drivers, downloadt belangrijke updates en ontbrekende drivers uit de enorme DriverPack-database"
 
 msgid "cloudlandingpage_features-safety"
-msgstr "Het maakt het mogelijk om potentiële malware snel te onthullen en te verwijderen en dus helpt het je antivirus"
+msgstr "Het maakt het mogelijk om potentiële malware snel te onthullen en te verwijderen, en helpt dus uw antivirusprogramma"
 
 msgid "cloudlandingpage_features-cloud"
 msgstr "Het maakt berekeningen bij de Cloud-service waarmee u extra bronnen op uw computer kunt besparen"
 
 msgid "cloudlandingpage_uninstall-title"
-msgstr "Hoe DriverPack Cloud volledig van uw computer te verwijderen"
+msgstr "Hoe DriverPack Cloud volledig van uw computer verwijderen"
 
 msgid "cloudlandingpage_uninstall-caption"
-msgstr "Heb je je product geïnstalleerd maar wil je het niet gebruiken? Ga gewoon naar de sectie Software op het bedieningspaneel en klik op Software verwijderen. Zoek de DriverPack Cloud in de vervolgkeuzelijst en verwijder deze volgens de gebruikelijke procedure. Dat is alles, de software is verwijderd. DriverPack Cloud laat geen verborgen software achter na verwijdering en strooit niet met adware-onzin."
+msgstr "Heeft u ons product geïnstalleerd maar wilt u het niet gebruiken? Ga gewoon naar het gedeelte Software op het Configuratiescherm en klik op Software verwijderen. Zoek de DriverPack Cloud in de vervolgkeuzelijst en verwijder deze volgens de gebruikelijke procedure. Dat is alles, de software wordt verwijderd. DriverPack Cloud laat na het verwijderen geen verborgen software achter en vervuilt uw pc niet met adware-rommel."
 
 msgid "cloudlandingpage_license"
-msgstr "Lees voordat u met de installatie begint alsjeblieft de {{LINK}}"
+msgstr "Lees voordat u met de installatie begint de {{LINK}}, alstublieft"
 
 msgid "cloudlandingpage_features-install"
 msgstr "Installeer DriverPack Cloud"
@@ -1199,7 +1194,7 @@ msgid "cloudlandingpage_license-link"
 msgstr "Licentieovereenkomst"
 
 msgid "devicegrouppage_show-more-link"
-msgstr "Zie meer"
+msgstr "Lees meer"
 
 msgid "devicestypepage_subtitle"
 msgstr "Alle {{CLASS.SINGLE.FOR}} fabrikanten"
@@ -1211,64 +1206,64 @@ msgid "devicetypevendorpage_subtitle-all"
 msgstr "Alle {{VENDOR.NAME}} {{CLASS.PLURAL.MAIN}}"
 
 msgid "errorpage_title"
-msgstr "Fout 500: interne serverfout"
+msgstr "Fout 500 - Interne Server Fout"
 
 msgid "gdpr-banner_text"
-msgstr "Door onze website te blijven gebruiken, bevestigt u uw toestemming om uw Cookie-bestanden te verzamelen. Dit is gedaan om onze gebruikers comfortabel werk te bieden. Deze informatie wordt niet gedeeld met derden."
+msgstr "Door onze website te blijven gebruiken, bevestigt u uw toestemming voor het verzamelen van uw Cookie-bestanden. Het wordt gedaan om onze gebruikers comfortabel werk te bieden. Deze informatie wordt niet gedeeld met derden."
 
 msgid "gdpr-banner_cta-text"
 msgstr "Ok"
 
 msgid "landingfooter_landing-subtitle"
-msgstr "DriverPack bevat stuurprogramma's voor alle populaire Windows-versies"
+msgstr "DriverPack bevat drivers voor alle populaire Windows-versies"
 
 msgid "landing-footer_catalog-os"
-msgstr "stuurprogramma's voor {{OS}}"
+msgstr "drivers voor {{OS}}"
 
 msgid "landing-footer_versions"
-msgstr "Alle app. versies"
+msgstr "Alle app versies"
 
 msgid "landing-footer_remove"
 msgstr "DriverPack verwijderen"
 
 msgid "landing-footer_manufacturers"
-msgstr "Hardware fabrikanten"
+msgstr "Hardwarefabrikanten"
 
 msgid "landing-footer_hwids"
-msgstr "Device ID"
+msgstr "Apparaat ID"
 
 msgid "landing-footer_for-admin"
-msgstr "Voor systeem beheerders"
+msgstr "Voor systeembeheerders"
 
 msgid "landing-footer_for-translators"
 msgstr "Voor vertalers"
 
 msgid "notfoundpage_title"
-msgstr "Fout 404: pagina niet gevonden"
+msgstr "Fout 404: pagina is niet gevonden"
 
 msgid "notebookpage_show-more-link"
-msgstr "Zie meer"
+msgstr "Lees meer"
 
 msgid "notebookpage_all-devices"
 msgstr "voor alle apparaten"
 
 msgid "notebook-page_empty-title"
-msgstr "Het driverpakket voor de <span class='bold'>{{NAME}}</span>laptopmodel is nog niet samengesteld "
+msgstr "Het driverpakket voor de <span class='bold'>{{NAME}}</span> laptopmodel is nog niet gemonteerd"
 
 msgid "notebook-page_empty-caption"
-msgstr "Probeer DriverPack Online te downloaden. Deze software selecteert de stuurprogramma's die het dichtst in de buurt komen van wat uw laptop vereist. <span class='bold'>Het is gratis. </span> "
+msgstr "Probeer DriverPack Online te downloaden. Deze applicatie selecteert de drivers die het dichtst in de buurt komen van wat uw laptop nodig heeft. <span class='bold'>Het is gratis.</span>"
 
 msgid "notebook-page_empty-button"
 msgstr "Installeer drivers automatisch"
 
 msgid "notebookspage_subtitle"
-msgstr "Alle Laptop en Netbook fabrikanten Lijst"
+msgstr "Alle fabrikanten van laptops en netbooks"
 
 msgid "notebooksvendorpage_subtitle-popular"
-msgstr "Populaire {{VENDOR.NAME}} laptops en netbooks"
+msgstr "Populaire {{VENDOR.NAME}} laptops and netbooks"
 
 msgid "notebooksvendorpage_subtitle-all"
-msgstr "Alle {{VENDOR.NAME}} laptops en netbooks"
+msgstr "Alle {{VENDOR.NAME}} laptops and netbooks"
 
 msgid "patners-page-opera-title"
 msgstr "Waarom is Opera een partner van DriverPack?"
@@ -1277,13 +1272,13 @@ msgid "patners-page-opera-subtitle"
 msgstr "DriverPack werkt officieel samen met het Noorse bedrijf en helpt gebruikers over de hele wereld om een van de beste browsers beter te leren kennen"
 
 msgid "patners-page-opera-text"
-msgstr "Opera is een van de beste browsers met constant ontwikkelende technologieën. Ingebouwde advertentieblokkering, boodschappers en Turbomodus breiden deze browserfunctionaliteit uit zonder de bronnen van de computer te overbelasten."
+msgstr "Opera is een van de beste browsers met constant ontwikkelende technologieën. Ingebouwde advertentieblokkering, boodschappers en turbomodus breiden deze browserfunctionaliteit uit zonder de computerbronnen te overbelasten."
 
 msgid "patners-page-opera-pluses-title-support"
 msgstr "DriverPack is gratis verspreid en wordt dankzij de partners nu al 10 jaar ondersteund"
 
 msgid "patners-page-opera-pluses-subtitle-support"
-msgstr "DriverPack selecteert en installeert nu al bijna 10 jaar stuurprogramma's voor alle computers over de hele wereld. En het blijft nog steeds gratis"
+msgstr "DriverPack selecteert en installeert nu al bijna 10 jaar drivers voor alle computers over de hele wereld. En het blijft nog steeds gratis"
 
 msgid "patners-page-opera-pluses-title-opera-best"
 msgstr "Opera is een van de beste browsers met constant ontwikkelende technologieën"
@@ -1304,7 +1299,7 @@ msgid "reviewpage_title"
 msgstr "Feedback en suggesties om DriverPack te verbeteren"
 
 msgid "searchpage_show-more-link"
-msgstr "Zie meer"
+msgstr "Lees meer"
 
 msgid "softcategorypage_categories-title"
 msgstr "Alle categorieën"
@@ -1316,7 +1311,7 @@ msgid "softlandingpage_categories-title"
 msgstr "Software per categorie"
 
 msgid "softsearchpage_show-more-link"
-msgstr "Bekijk meer"
+msgstr "lees meer"
 
 msgid "softsearchpage_no-results"
 msgstr "Sorry, er is niets gevonden dat aan uw vraag voldoet"
@@ -1324,10 +1319,10 @@ msgstr "Sorry, er is niets gevonden dat aan uw vraag voldoet"
 #. i18n: EN: text for {{LINK}} is in key softthankyoupopup_download-link; RU:
 #. текст для {{LINK}} находится в ключе softthankyoupopup_download-link;
 msgid "softthankyoupopup_download-text"
-msgstr "Is de installatie nog niet begonnen? Klik op {{LINK}}, alstublieft."
+msgstr "De installatie is nog niet begonnen? Klik op {{LINK}}, alstublieft."
 
 msgid "softthankyoupopup_licence-text"
-msgstr "Lees eerst {{LINK}} alvorens te installeren"
+msgstr "Alstublieft lees {{LINK}} voor het installeren"
 
 msgid "softthankyoupopup_title"
 msgstr "Voer het installatiebestand uit"
@@ -1344,18 +1339,18 @@ msgstr "download"
 #. i18n: EN: text for {{LINK}} is in key thankyoupopup_download-link; RU:
 #. текст для {{LINK}} находится в ключе thankyoupopup_download-link;
 msgid "thankyoupopup_download-text"
-msgstr "Download is niet gestart? Klik hier om {{LINK}}"
+msgstr "Is de download niet begonnen? Klik hier om {{LINK}}"
 
 #. i18n: EN: text for {{LINK}} is in key thankyoupopup_licence-link; RU: текст
 #. для {{LINK}} находится в ключе thankyoupopup_licence-link;
 msgid "thankyoupopup_licence-text"
-msgstr "Door deze software te installeren, accepteert je de {{LINK}} voorwaarden "
+msgstr "Door deze software te installeren, accepteert u de {{LINK}} voorwaarden"
 
 msgid "thankyoupopup_antivirus-not-know"
-msgstr "Sommige antivirussoftware kunnen een valse reactie op het installatiebestand geven, zoals de volgende:"
+msgstr "Sommige antivirussen kunnen een valse reactie geven op het installatiebestand, zoals de volgende:"
 
 msgid "thankyoupopup_antivirus-know"
-msgstr "Hoewel de volgende antivirussoftware zeker weten dat DriverPack geen virus is:"
+msgstr "Hoewel de volgende antivirussen zeker weten dat DriverPack geen virus is:"
 
 msgid "thankyoupopup_title"
 msgstr "Start DriverPack"
@@ -1364,40 +1359,40 @@ msgid "thankyoupopup_download-link"
 msgstr "download"
 
 msgid "thankyoupopup_licence-link"
-msgstr "Licentieovereenkomst"
+msgstr "License Agreement"
 
 msgid "translate-feedback-header_caption"
-msgstr "Deze pagina is recentelijk vertaald. Heb je een fout gevonden? Markeer het en druk op {{HOTKEY}}"
+msgstr "Deze pagina is onlangs vertaald. Heeft u een fout gevonden? Markeer het en druk op {{HOTKEY}}"
 
 msgid "translate-feedback-form-popup_preview-title"
-msgstr "U hebt het volgende stuk tekst gemarkeerd:"
+msgstr "Je hebt het volgende stuk tekst gemarkeerd:"
 
 msgid "translate-feedback-form-popup_correct-title"
-msgstr "Leg alsjeblieft uit wat er precies mis is en geef de juiste variant:"
+msgstr "Leg uit wat er precies mis is en geef de juiste variant:"
 
 msgid "translate-feedback-form-popup_submit"
-msgstr "Versturen"
+msgstr "Verzenden"
 
 msgid "translate-feedback-popup_title-error"
 msgstr "Er is iets fout gegaan"
 
 msgid "translate-feedback-popup_description-error"
-msgstr "De gemarkeerde tekst is niet verstuurd door problemen op de server. <br />Probeer het later nog eens, alstublieft."
+msgstr "De gemarkeerde tekst is niet verzonden vanwege problemen met de server. <br />Probeer het later opnieuw."
 
 msgid "translate-feedback-popup_title-success"
-msgstr "Dank U"
+msgstr "Thank you"
 
 msgid "translate-feedback-popup_description-success"
-msgstr "De gemarkeerde tekst is naar de editor gestuurd."
+msgstr "De gemarkeerde tekst is naar de redacteur gestuurd."
 
 msgid "translate-feedback-popup_description-join-us"
-msgstr "Help ons bij het vertalen naar uw moedertaal."
+msgstr "Help ons alstublieft met vertalen naar uw moedertaal."
 
 msgid "translate-feedback-popup_description-join-link"
-msgstr "Word lid van ons vertalers team!"
+msgstr "Word lid van ons vertaalteam!"
 
 msgid "translationlandingpage_title"
-msgstr "DriverPack Vertaling"
+msgstr "DriverPack-vertaling"
 
 msgid "vendorpage_subtitle-popular"
 msgstr "Populaire {{VENDOR.NAME}} apparaten"

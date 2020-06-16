@@ -1,6 +1,6 @@
 # Translators:
 # danfong <danfong.hsieh@gmail.com>, 2017
-# Nadia Tegeneva <nadia@drp.su>, 2018
+# Nadia Tegeneva <nadia@drp.su>, 2020
 # 王晨旭 <wcxu21@126.com>, 2020
 # Leonid Beschasny <lbeschastny@iknow.travel>, 2017
 # Nadia Tegeneva <nadia@drp.su>, 2020
@@ -56,16 +56,16 @@ msgid "cloudpagefooter_license-link"
 msgstr "许可协议"
 
 msgid "breadcrumbs_main-text"
-msgstr ""
+msgstr "首页"
 
 msgid "breadcrumbs_catalog-main-text"
 msgstr "{{OS.NAME}} 驱动程序"
 
 msgid "breadcrumbs_softcategory-text"
-msgstr ""
+msgstr "{{CATEGORY.PLURAL.MAIN}}"
 
 msgid "breadcrumbs_soft-text"
-msgstr ""
+msgstr "{{SOFT.NAME}} {{SOFT.VERSION}}"
 
 msgid "breadcrumbs_uninstall-text"
 msgstr "移除"
@@ -120,7 +120,7 @@ msgid "devicecard_download-btn"
 msgstr "下载驱动程序"
 
 msgid "devicecard_download-repack-btn"
-msgstr ""
+msgstr "下载 ZIP"
 
 #. i18n: EN: Example: NAME=NVIDIA GeForce 210; OSVERSIONS=Windows 10 x86; Text
 #. for {{DOWNLOAD}} is in key drivercard_no-results_download-link; RU: Пример:
@@ -166,7 +166,7 @@ msgid "devicecard_details-content-label-section"
 msgstr "类别:"
 
 msgid "devicecard_details-download-links-repack"
-msgstr ""
+msgstr " 直接下载 ZIP 使用驱动程序"
 
 msgid "devicecard_details-links-merged_label"
 msgstr "如果在列表中找不到所需的 Device ID，你可以进行搜索"
@@ -272,7 +272,7 @@ msgid "drivercard_caption-btn"
 msgstr "下载驱动程序"
 
 msgid "drivercard_caption-repack-btn"
-msgstr ""
+msgstr "下载 ZIP"
 
 msgid "deviceidpage_all-systems"
 msgstr "所有系统"
@@ -368,7 +368,7 @@ msgid "landingheader_cta-btn"
 msgstr "安装所有驱动程序"
 
 msgid "landingheadernav_search-soft"
-msgstr ""
+msgstr "软件搜索"
 
 msgid "landingheadernav_search"
 msgstr "驱动程序搜索"
@@ -401,10 +401,10 @@ msgid "landingnotebookvendorslist_versions"
 msgstr "其他 DriverPack 版本"
 
 msgid "partners-link-text-opera"
-msgstr ""
+msgstr "Opera 为什么成为 DriverPack 的合作伙伴?"
 
 msgid "partners_landing-title"
-msgstr ""
+msgstr "合作伙伴"
 
 msgid "landingproducts_cta-title"
 msgstr "选择你的 DriverPack"
@@ -428,7 +428,7 @@ msgid "landingproducts_item-title-network"
 msgstr "DriverPack Offline Network"
 
 msgid "landingproducts_item-description-network"
-msgstr ""
+msgstr "它包含用于网络硬件（Lan / Wi-Fi）的驱动程序，不需要 Internet 连接即可运行 <span class='nobr'>({{SIZE}})</span>"
 
 msgid "landingproducts_item-title-offline"
 msgstr "DriverPack Offline Full"
@@ -482,7 +482,7 @@ msgid "landingwizard_item-caption-setup"
 msgstr "一个简单的操作配置您的计算机"
 
 msgid "landingwizard_item-caption-profit"
-msgstr ""
+msgstr "好极了！ 现在，计算机像全新的一样运行！"
 
 msgid "landingwizard_cta-btn"
 msgstr "安装所有需要的驱动程序"
@@ -845,64 +845,64 @@ msgid "sidebanner_caption"
 msgstr "DriverPack 将自动<span class='SideBanner__caption-marked'>选择并安装</span>所需的驱动程序"
 
 msgid "softdetails-rating"
-msgstr ""
+msgstr "评分："
 
 msgid "recommend-opera"
-msgstr ""
+msgstr "DriverPack 推荐！"
 
 msgid "softdetails_download-count"
-msgstr ""
+msgstr "下载次数："
 
 msgid "softdetails_package-size"
 msgstr "大小:"
 
 msgid "softdetails_added"
-msgstr ""
+msgstr "更新日期："
 
 msgid "softdetails_license"
-msgstr ""
+msgstr "分配方案："
 
 msgid "softdetails_license-free"
-msgstr ""
+msgstr "免费软件"
 
 msgid "softdetails_os"
-msgstr ""
+msgstr "操作系统："
 
 msgid "softdetails_uninstall-link"
-msgstr ""
+msgstr "移除"
 
 msgid "softdetails_download-link"
 msgstr "下载"
 
 msgid "soft-details_opera-descr"
-msgstr ""
+msgstr "快速，安全的 Opera 浏览器随附内置的广告拦截器，免费的 VPN，内置的 Messenger 和许多其他项。 <br /> <br /> 适用于 Windows，Mac 和 Linux 操作系统计算机的 Opera 浏览器将使您能够尽可能安全，方便，高效地使用所有 Internet 功能。"
 
 msgid "softdetails_uninstall-page-link"
-msgstr ""
+msgstr "如何移除 {{SOFT.TITLE}}"
 
 msgid "program-month-text"
-msgstr ""
+msgstr "本月软件："
 
 msgid "softlandingheader_search-title"
-msgstr ""
+msgstr "在庞大的数据库中<span class='bold'>搜索免费软件的最新版本</span> "
 
 msgid "softsearch_input-placeholder"
-msgstr ""
+msgstr "软件或类别名称"
 
 msgid "softsearchformitem_type-category"
-msgstr ""
+msgstr "类别"
 
 msgid "softsearchheader_title"
-msgstr ""
+msgstr "搜索结果"
 
 msgid "softsearchheader_subtitle"
-msgstr ""
+msgstr "这是根据您的查询找到的所有软件："
 
 msgid "softsearchresult_download-link"
 msgstr "下载"
 
 msgid "topsoft_item-download-count"
-msgstr ""
+msgstr "下载次数："
 
 msgid "topsoft_item-download-link"
 msgstr "下载"
@@ -944,121 +944,121 @@ msgid "softcategories_antivirus-single-main"
 msgstr "杀毒软件"
 
 msgid "softcategories_antivirus-plural-main"
-msgstr ""
+msgstr "防病毒软件"
 
 msgid "softcategories_audio-video-converter-single-main"
-msgstr ""
+msgstr "音频/视频转换器"
 
 msgid "softcategories_audio-video-converter-plural-main"
-msgstr ""
+msgstr "音频/视频转换器"
 
 msgid "softcategories_audio-video-editor-single-main"
-msgstr ""
+msgstr "音频/视频编辑器"
 
 msgid "softcategories_audio-video-editor-plural-main"
-msgstr ""
+msgstr "音频/视频编辑器"
 
 msgid "softcategories_book-reader-single-main"
-msgstr ""
+msgstr "电子书阅读器"
 
 msgid "softcategories_book-reader-plural-main"
-msgstr ""
+msgstr "电子书阅读器"
 
 msgid "softcategories_browser-single-main"
 msgstr "浏览器"
 
 msgid "softcategories_browser-plural-main"
-msgstr ""
+msgstr "浏览器"
 
 msgid "softcategories_cd-dvd-single-main"
-msgstr ""
+msgstr "CD/DVD"
 
 msgid "softcategories_cd-dvd-plural-main"
-msgstr ""
+msgstr "CDs/DVDs"
 
 msgid "softcategories_data-recovery-single-main"
-msgstr ""
+msgstr "数据恢复软件"
 
 msgid "softcategories_data-recovery-plural-main"
-msgstr ""
+msgstr "数据恢复软件"
 
 msgid "softcategories_data-storage-single-main"
-msgstr ""
+msgstr "数据存储软件"
 
 msgid "softcategories_data-storage-plural-main"
-msgstr ""
+msgstr "数据存储软件"
 
 msgid "softcategories_developer-tools-single-main"
-msgstr ""
+msgstr "开发工具"
 
 msgid "softcategories_developer-tools-plural-main"
-msgstr ""
+msgstr "开发工具"
 
 msgid "softcategories_file-manager-single-main"
-msgstr ""
+msgstr "文件管理器"
 
 msgid "softcategories_file-manager-plural-main"
-msgstr ""
+msgstr "文件管理器"
 
 msgid "softcategories_image-editor-single-main"
-msgstr ""
+msgstr "图形编辑器"
 
 msgid "softcategories_image-editor-plural-main"
-msgstr ""
+msgstr "图形编辑器"
 
 msgid "softcategories_image-viewer-single-main"
-msgstr ""
+msgstr "图像查看器"
 
 msgid "softcategories_image-viewer-plural-main"
-msgstr ""
+msgstr "图像查看器"
 
 msgid "softcategories_mail-client-single-main"
-msgstr ""
+msgstr "电子邮件客户端"
 
 msgid "softcategories_mail-client-plural-main"
-msgstr ""
+msgstr "电子邮件客户端"
 
 msgid "softcategories_messenger-single-main"
-msgstr ""
+msgstr "信息"
 
 msgid "softcategories_messenger-plural-main"
-msgstr ""
+msgstr "信息"
 
 msgid "softcategories_mp3-audio-player-single-main"
-msgstr ""
+msgstr "MP3 和音频播放器"
 
 msgid "softcategories_mp3-audio-player-plural-main"
-msgstr ""
+msgstr "MP3 和音频播放器"
 
 msgid "softcategories_other-single-main"
-msgstr ""
+msgstr "其它软件"
 
 msgid "softcategories_other-plural-main"
-msgstr ""
+msgstr "其它软件"
 
 msgid "softcategories_pdf-reader-single-main"
-msgstr ""
+msgstr "PDF 阅读器"
 
 msgid "softcategories_pdf-reader-plural-main"
-msgstr ""
+msgstr "PDF 阅读器"
 
 msgid "softcategories_text-editor-single-main"
-msgstr ""
+msgstr "文本编辑器"
 
 msgid "softcategories_text-editor-plural-main"
-msgstr ""
+msgstr "文本编辑器"
 
 msgid "softcategories_torrent-client-single-main"
-msgstr ""
+msgstr "BT 客户端"
 
 msgid "softcategories_torrent-client-plural-main"
-msgstr ""
+msgstr "BT 客户端"
 
 msgid "softcategories_video-player-single-main"
-msgstr ""
+msgstr "视频播放器"
 
 msgid "softcategories_video-player-plural-main"
-msgstr ""
+msgstr "视频播放器"
 
 msgid "landingPagePublications_rbk"
 msgstr "DriverPack 是由 Artur Kuzyakov 的团队全面选择和测试 Windows 驱动程序。 该应用程序分析用户的 并将 computer 其安装到所需的驱动程序上，从而可以解决两个问题：一是加快 computer 配置过程 (如果一个系统内有数十台计算机，则尤其重要);其次，为了提高其操作的能力。"
@@ -1124,13 +1124,13 @@ msgid "adminpagefaq_stable-a"
 msgstr "DriverPack 软件的操作稳定性是我们的主要优先事项之一，但是一些轻微的故障仍然很少发生。这就是为什么我们建立一个还原点，使您能够将所有内容还原到之前的状态。为了防止将来 出现类似的问题，我们建议您前往 DriverPack 应用程序菜单，并将报告发送给我们的技术服务。"
 
 msgid "partners_landing-text-opera"
-msgstr ""
+msgstr "Opera Software 是在 Internet 上运行的浏览器和软件的全球开发商。<br /><br />它的历史已经持续了 20 多年。Opera Software 参与 W3C 项目中的 Web 标准开发。 全世界有超过 350 million 人使用 Opera 产品。<br /><br />其总部位于挪威首都奥斯陆。"
 
 msgid "partners_landing-text-yandex"
-msgstr ""
+msgstr "Yandex 是搜索引擎和同名的流行 Internet 服务的全球开发商。<br /><br />在来自俄罗斯的 Yandex，其在搜索引擎中的份额为 56.4%（根据 Yandex.Radar 2018 年 3 月的数据）。 该公司是成功抵抗与搜索巨头 Google 竞争的少数几个公司之一。<br /><br />其总部位于俄罗斯首都莫斯科。"
 
 msgid "partners_landing-text-avast"
-msgstr ""
+msgstr "Avast Software 是信息安全领域的全球软件开发商。<br /><br />它发布了世界上最受欢迎的免费防病毒软件。 Avast 的软件每月可防止对计算机和 Web 的 1.5 billion 次攻击。<br /><br />其总部位于捷克共和国首都布拉格。"
 
 msgid "cloudpagefaq_remove_soft-q"
 msgstr "为什么 DriverPack Cloud 建议从我的电脑上删除一些软件?"
@@ -1268,34 +1268,34 @@ msgid "notebooksvendorpage_subtitle-all"
 msgstr "全部 {{VENDOR.NAME}} 笔记型电脑和迷你笔记型电脑"
 
 msgid "patners-page-opera-title"
-msgstr ""
+msgstr "Opera 为什么成为 DriverPack 的合作伙伴?"
 
 msgid "patners-page-opera-subtitle"
-msgstr ""
+msgstr "DriverPack 与挪威公司正式合作，帮助世界各地的用户更好地了解最好的浏览器之一"
 
 msgid "patners-page-opera-text"
-msgstr ""
+msgstr "Opera 是技术不断发展的最好的浏览器之一。 内置的广告拦截器，Messenger 和 Turbo 模式扩展了此浏览器功能，而不会导致计算机资源过载。"
 
 msgid "patners-page-opera-pluses-title-support"
-msgstr ""
+msgstr "DriverPack 已免费分发，并且由于合作伙伴的支持，至今已有 10 年"
 
 msgid "patners-page-opera-pluses-subtitle-support"
-msgstr ""
+msgstr "到目前为止，DriverPack 已经为全世界的任何计算机选择和安装驱动程序已有近 10 年的历史了。 而且仍然免费"
 
 msgid "patners-page-opera-pluses-title-opera-best"
-msgstr ""
+msgstr "Opera 是技术不断发展的最佳浏览器之一"
 
 msgid "patners-page-opera-pluses-subtitle-opera-best"
-msgstr ""
+msgstr "通过在配置计算机时安装 Opera，不仅可以获得快速且功能强大的浏览器，而且还支持 DriverPack。"
 
 msgid "patners-page-opera-pluses-title-ecosystem"
-msgstr ""
+msgstr "它不仅是台式机浏览器，而且是整个生态系统，使您的生活更方便"
 
 msgid "patners-page-opera-pluses-subtitle-ecosystem"
-msgstr ""
+msgstr "移动设备上的 Opera 完全与桌面版本同步，它具有内置的 VPN 和方便的一手管理功能。 我们强烈建议您尝试一下。"
 
 msgid "patners-page-opera-btn"
-msgstr ""
+msgstr "安装 Opera 浏览器"
 
 msgid "reviewpage_title"
 msgstr "改进 DriverPack 的意见反应与建议"
@@ -1304,33 +1304,33 @@ msgid "searchpage_show-more-link"
 msgstr "查看更多"
 
 msgid "softcategorypage_categories-title"
-msgstr ""
+msgstr "所有类别"
 
 msgid "softlandingpage_topsoft-title"
-msgstr ""
+msgstr "热门应用"
 
 msgid "softlandingpage_categories-title"
-msgstr ""
+msgstr "按类别分类软件"
 
 msgid "softsearchpage_show-more-link"
-msgstr ""
+msgstr "查看更多"
 
 msgid "softsearchpage_no-results"
-msgstr ""
+msgstr "抱歉，找不到符合您要求的内容"
 
 #. i18n: EN: text for {{LINK}} is in key softthankyoupopup_download-link; RU:
 #. текст для {{LINK}} находится в ключе softthankyoupopup_download-link;
 msgid "softthankyoupopup_download-text"
-msgstr ""
+msgstr "安装尚未开始? 请点击 {{LINK}}。"
 
 msgid "softthankyoupopup_licence-text"
-msgstr ""
+msgstr "安装前请先阅读 {{LINK}} "
 
 msgid "softthankyoupopup_title"
-msgstr ""
+msgstr "运行安装文件"
 
 msgid "softthankyoupopup_subtitle"
-msgstr ""
+msgstr "剩下要做的就是运行下载的文件以开始软件安装"
 
 msgid "softthankyoupopup_licence-link"
 msgstr "许可协议"
