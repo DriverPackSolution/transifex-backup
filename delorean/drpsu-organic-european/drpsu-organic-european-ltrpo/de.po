@@ -1,6 +1,7 @@
 # Translators:
 # Kai Borchert <kai.borchert@outlook.com>, 2017
-# Nadia Tegeneva <nadia@drp.su>, 2018
+# Nadia Tegeneva <nadia@drp.su>, 2020
+# Markus Lohaus <markus.lohaus@gmail.com>, 2020
 # Drafu <egor@4ek.ru>, 2016
 # Nadia Tegeneva <nadia@drp.su>, 2016
 # Артур Кузяков <artx@drp.su>, 2016
@@ -10,7 +11,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-04-24 00:43+0000\n"
 "PO-Revision-Date: 2017-07-06 15:55+0000\n"
-"Last-Translator: Nadia Tegeneva <nadia@drp.su>, 2018\n"
+"Last-Translator: Markus Lohaus <markus.lohaus@gmail.com>, 2020\n"
 "Language-Team: German (https://www.transifex.com/driverpack-solution/teams/75453/de/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,7 +20,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "seo_landingtopvendorslist_drivers-for"
-msgstr ""
+msgstr "Treiber für {{VENDOR}}"
 
 #. i18n: EN: Example: VENDOR.NAME=Asus; RU: Пример: VENDOR.NAME=Asus;
 msgid "seo_vendor-footer-anchor"
@@ -60,37 +61,37 @@ msgid "seo_main-keywords"
 msgstr "herunterladen driver pack windows 7 8 10 64 treibers laptop kostenlos treiber installer treiber installation software"
 
 msgid "seo_mainos-title"
-msgstr ""
+msgstr "Treiber herunterladen für Windows {{OS.VERSION}}"
 
 msgid "seo_mainos-description"
-msgstr ""
+msgstr "DriverPack Solution - aktualisieren Treiber für Windows {{OS.VERSION}}x64 und x86 gratis"
 
 msgid "seo_mainos-h1"
 msgstr "Windows {{OS.VERSION}} Treiber"
 
 msgid "seo_mainos-keywords"
-msgstr ""
+msgstr "Windows {{OS.VERSION}} Download installieren 64 86 Treiber DriverPack Solution gratis"
 
 msgid "seo_mainos-h3"
-msgstr ""
+msgstr "Die größte Treiber Sammlung für Windows {{OS.VERSION}}in einem einfachen gratis Programm"
 
 msgid "seo_mainlanding-title"
-msgstr ""
+msgstr "DriverPack Solution |  Lade gratis Treiber / aktualisiere Software"
 
 msgid "seo_mainlanding-description"
-msgstr ""
+msgstr "Treiber herunterladen für Windows XP, 7, 8, 8.1 und 10."
 
 msgid "seo_mainlanding-keywords"
 msgstr "herunterladen treiber auto-installation update Windows 7,XP, 10, 8, und 8.1 treiber update programm"
 
 msgid "seo_mainlanding-topvendorslist-title"
-msgstr ""
+msgstr "Verbreitete Hersteller"
 
 msgid "seo_mainlanding-topvendorslist-caption"
 msgstr ""
 
 msgid "seo_productonline_title"
-msgstr ""
+msgstr "DriverPack Online | Lade Treiber schnell und automatisch"
 
 msgid "seo_productonline_description"
 msgstr ""
@@ -198,14 +199,14 @@ msgstr ""
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendorlanding-h1"
-msgstr ""
+msgstr "{{VENDOR.NAME}} Treiber"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_vendorlanding-keywords"
-msgstr ""
+msgstr "{{VENDOR.NAME}} Treiber lade gratis aktualisiere Software"
 
 msgid "seo_vendorlandingpage_device-types-subtitle"
-msgstr ""
+msgstr "{{VENDOR.MARKED_NAME}}Gerätetypen"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|monitors; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.FOR=видеокарт|мониторов; VENDOR.NAME=Acer;
@@ -278,7 +279,7 @@ msgstr ""
 #. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
 #. GROUP.NAME=GeForce 210;
 msgid "seo_devicegroup-footer-description"
-msgstr ""
+msgstr "Lade Treiber für {{GROUP.VENDOR.NAME}}{{GROUP.NAME}}{{CLASS.PLURAL.FOR}}gratis"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
 #. GROUP.VENDOR.NAME=Nvidia; RU: Пример: CLASS.PLURAL.FOR=видеокарт|чипсетов;
@@ -634,7 +635,7 @@ msgid "seo_notebookdevicesos-footer-content"
 msgstr ""
 
 msgid "seo_promopage_title"
-msgstr ""
+msgstr "DriverPack – gratis Treiber Aktualisierung"
 
 msgid "seo_promo-description"
 msgstr ""
@@ -706,7 +707,7 @@ msgid "seo_cloudlanding-keywords"
 msgstr ""
 
 msgid "seo_cloudlicense_title"
-msgstr ""
+msgstr "Lizenzvereinbarung | DriverPack Cloud"
 
 msgid "seo_cloudlicense-description"
 msgstr ""
@@ -730,7 +731,7 @@ msgid "seo_softlanding-description"
 msgstr ""
 
 msgid "seo_softlanding-keywords"
-msgstr ""
+msgstr "DriverPack Solution"
 
 msgid "seo_soft-title"
 msgstr ""
@@ -739,13 +740,13 @@ msgid "seo_soft-description"
 msgstr ""
 
 msgid "seo_soft-h1"
-msgstr ""
+msgstr "{{SOFT.NAME}} {{SOFT.VERSION}}"
 
 msgid "seo_soft-keywords"
-msgstr ""
+msgstr "DriverPack Solution"
 
 msgid "seo_uninstaller-title"
-msgstr ""
+msgstr "Entferne {{SOFT.NAME}}mit einem Klick | DriverPack Solution"
 
 msgid "seo_uninstaller-description"
 msgstr ""
@@ -754,16 +755,16 @@ msgid "seo_uninstaller-h1"
 msgstr ""
 
 msgid "seo_uninstaller-keywords"
-msgstr ""
+msgstr "DriverPack Solution"
 
 msgid "seo_softsearch-title"
 msgstr ""
 
 msgid "seo_partner-opera-title"
-msgstr ""
+msgstr "Opera Browser | DriverPack Partner"
 
 msgid "seo_partner-opera-description"
-msgstr ""
+msgstr "Opera Browser ist DriverPack's offizieller Partner."
 
 msgid "seo_mainos-content-xp"
 msgstr ""

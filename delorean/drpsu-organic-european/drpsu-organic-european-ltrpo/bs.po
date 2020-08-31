@@ -1,6 +1,6 @@
 # Translators:
-# Studio 605 <svdt605@gmail.com>, 2019
 # Nadia Tegeneva <nadia@drp.su>, 2020
+# Studio 605 <svdt605@gmail.com>, 2020
 # Drafu <egor@4ek.ru>, 2016
 # Nadia Tegeneva <nadia@drp.su>, 2016
 # Артур Кузяков <artx@drp.su>, 2016
@@ -10,7 +10,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-04-24 00:43+0000\n"
 "PO-Revision-Date: 2017-07-06 15:55+0000\n"
-"Last-Translator: Nadia Tegeneva <nadia@drp.su>, 2020\n"
+"Last-Translator: Studio 605 <svdt605@gmail.com>, 2020\n"
 "Language-Team: Bosnian (https://www.transifex.com/driverpack-solution/teams/75453/bs/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -230,36 +230,36 @@ msgstr "{{CLASS.PLURAL.MAIN}} {{VENDOR.NAME}} drajveri windows 7 8 10 64 preuzmi
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|monitors; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.FOR=видеокарт|мониторов; VENDOR.NAME=Acer;
 msgid "seo_devicegroups-footer-description"
-msgstr ""
+msgstr "Preuzmi drajvere za {{VENDOR.NAME}} {{CLASS.PLURAL.FOR}}"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|monitors; RU: Пример:
 #. CLASS.PLURAL.MAIN=видеокарты|мониторы;
 msgid "seo_devicegroups-footer-application-category"
-msgstr ""
+msgstr "Kategorija: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|monitors; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.PLURAL.MAIN=видеокарты|мониторы; VENDOR.NAME=Acer;
 msgid "seo_devicegroups-footer-application-subcategory"
-msgstr ""
+msgstr "Podkategorija: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}}{{CLASS.PLURAL.MAIN}}</span>"
 
 #. i18n: EN: Example: CLASS.SINGLE.FOR=videocard|monitor; VENDOR.NAME=Acer;
 #. RU: Пример: CLASS.SINGLE.FOR=видеокарты|монитора; VENDOR.NAME=Acer;
 msgid "seo_devicegroups-footer-content"
-msgstr ""
+msgstr "Preuzmi drajvere za {{VENDOR.NAME}}{{CLASS.SINGLE.FOR}}, ili instaliraj DriverPack Solution software za automatsko skidanje i nadograđivanje drajvera"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
 #. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
 #. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
 #. GROUP.NAME=GeForce 210;
 msgid "seo_devicegroup-title"
-msgstr ""
+msgstr "{{GROUP.VENDOR.NAME}}{{GROUP.NAME}}{{CLASS.SINGLE.FOR}} drajveri | Preuzmi za Windows 7, XP, 10, 8, i 8.1"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
 #. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
 #. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
 #. GROUP.NAME=GeForce 210;
 msgid "seo_devicegroup-description"
-msgstr ""
+msgstr "Preuzmi {{GROUP.VENDOR.NAME}}{{GROUP.NAME}}{{CLASS.SINGLE.FOR}} drajvere ili instaliraj DriverPack Solution software za nadograđivanje drajvera"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
 #. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
@@ -271,39 +271,39 @@ msgstr "<span class='bold'>{{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.SINGLE.F
 #. i18n: EN: Example: GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU:
 #. Пример: GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210;
 msgid "seo_devicegroup-keywords"
-msgstr ""
+msgstr "{{GROUP.VENDOR.NAME}}{{GROUP.NAME}} drajveri Windows 7 8 10 64 preuzmi PC"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
 #. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
 #. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
 #. GROUP.NAME=GeForce 210;
 msgid "seo_devicegroup-footer-description"
-msgstr ""
+msgstr "Preuzmi drajvere za {{GROUP.VENDOR.NAME}}{{GROUP.NAME}}{{CLASS.PLURAL.FOR}} besplatno"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
 #. GROUP.VENDOR.NAME=Nvidia; RU: Пример: CLASS.PLURAL.FOR=видеокарт|чипсетов;
 #. GROUP.VENDOR.NAME=Nvidia;
 msgid "seo_devicegroup-footer-application-category"
-msgstr ""
+msgstr "Kategorija: <span itemprop='applicationCategory'>{{GROUP.VENDOR.NAME}}{{CLASS.PLURAL.MAIN}}</span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets;
 #. GROUP.NAME=GeForce 210; RU: Пример: CLASS.PLURAL.MAIN=видеокарты|чипсеты;
 #. GROUP.NAME=GeForce 210;
 msgid "seo_devicegroup-footer-application-subcategory"
-msgstr ""
+msgstr "Podkategorija: <span itemprop='applicationSubCategory'>{{GROUP.NAME}}{{CLASS.PLURAL.MAIN}}</span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.FOR=videocards|chipsets;
 #. GROUP.VENDOR.NAME=Nvidia; GROUP.NAME=GeForce 210; RU: Пример:
 #. CLASS.PLURAL.FOR=видеокарт|чипсетов; GROUP.VENDOR.NAME=Nvidia;
 #. GROUP.NAME=GeForce 210;
 msgid "seo_devicegroup-footer-content"
-msgstr ""
+msgstr "Preuzmi drajveer za {{GROUP.VENDOR.NAME}}{{GROUP.NAME}}{{CLASS.SINGLE.FOR}}, ili preuzmi DriverPack Solution software za automatsko skidanje i nadograđivanje drajvera"
 
 msgid "seo_hwids-title"
-msgstr ""
+msgstr "Preuzmi drajvere uređaja po njegovom Device_id | DriverPack Solution | Stranica {{PAGE}}"
 
 msgid "seo_hwids-description"
-msgstr ""
+msgstr "Preuzmi drajvere uređaja po njegovom device_id"
 
 msgid "seo_hwids-h1"
 msgstr "Svi drajveri za uređaje"
@@ -311,12 +311,12 @@ msgstr "Svi drajveri za uređaje"
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 msgid "seo_hwid-title"
-msgstr ""
+msgstr "{{DEVICE.DEVICEID}} drajver preuzmi besplatno"
 
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 msgid "seo_hwid-description"
-msgstr ""
+msgstr "{{DEVICE.DEVICEID}} drajveri uređaja za Windows 7, XP, 10, 8, i 8.1"
 
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
@@ -326,37 +326,37 @@ msgstr "<span class='bold'>{{DEVICE.DEVICEID}}</span>"
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 msgid "seo_hwid-keywords"
-msgstr ""
+msgstr "drajveri Windows 7 8 10 64 preuzmi preuzmi PC {{DEVICE.DEVICEID}}"
 
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 msgid "seo_hwid-footer-description"
-msgstr ""
+msgstr "Preuzmi drajvere za {{DEVICE.DEVICEID}} uređaj besplatno"
 
 #. i18n: EN: Example: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 #. RU: Пример: DEVICE.DEVICEID=PCI\VEN_102C&DEV_00E4&SUBSYS_00000000;
 msgid "seo_hwid-footer-content"
-msgstr ""
+msgstr "Preuzmi {{DEVICE.DEVICEID}} drajver, ili instaliraj DriverPack Solution software za automatsko skidanje i nadograđivanje drajvera"
 
 msgid "seo_notebooks-title"
-msgstr ""
+msgstr "Preuzmi drajvere svih laptop modela za Windows 7, XP, 10, 8, i 8.1"
 
 msgid "seo_notebooks-description"
-msgstr ""
+msgstr "Preuzmi drajvere za sve laptope i netbooke ili instaliraj DriverPack Solution software za automatsko nadograđivanje drajvera"
 
 msgid "seo_notebooks-h1"
 msgstr "Drajveri za laptope i netbook-e"
 
 msgid "seo_notebooks-keywords"
-msgstr ""
+msgstr "drajveri drajveri laptop notebook laptop netbook netbook Windows 7 8 10 64 preuzmi"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_notebookvendor-title"
-msgstr ""
+msgstr "{{VENDOR.NAME}} laptop drajveri | Preuzmi za Windows  7, XP, 10, 8, i 8.1 "
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_notebookvendor-description"
-msgstr ""
+msgstr "Preuzmi {{VENDOR.NAME}} laptop i netbook drajvere ili instaliraj DriverPack Solution za automatsko nadograđivanje drajvera"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_notebookvendor-h1"
@@ -364,28 +364,28 @@ msgstr "<span class='bold'>{{VENDOR.NAME}}</span> drajveri za laptope i netbook-
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_notebookvendor-keywords"
-msgstr ""
+msgstr "{{VENDOR.NAME}} drajveri laptop notebook laptop netbook windows 7 8 10 64 preuzmi"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_notebookvendor-footer-description"
-msgstr ""
+msgstr "Preuzmi drajvere za {{VENDOR.NAME}} laptope besplatno"
 
 msgid "seo_notebookvendor-footer-application-category"
-msgstr ""
+msgstr "Kategorija: <span itemprop='applicationCategory'>Laptopi</span>"
 
 #. i18n: EN: Example: VENDOR.NAME=Acer; RU: Пример: VENDOR.NAME=Acer;
 msgid "seo_notebookvendor-footer-application-subcategory"
-msgstr ""
+msgstr "Podkategorija: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} laptopi</span>"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebook-title"
-msgstr ""
+msgstr "{{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}} drajveri | Preuzmi za Windows  7, XP, 10, 8, i 8.1"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebook-description"
-msgstr ""
+msgstr "Preuzmi {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}} laptop drajvere ili instaliraj DriverPack Solution software za nadograđivanje drajvera"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
@@ -395,41 +395,41 @@ msgstr "<span class='bold'>{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}</span> lap
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebook-keywords"
-msgstr ""
+msgstr "drajveri laptop netbook Windows 7 8 10 64 preuzmi {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}}"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebook-footer-description"
-msgstr ""
+msgstr "Preuzmi drajvere za {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}} laptope besplatno"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; RU: Пример:
 #. NOTEBOOK.VENDOR.NAME=Acer;
 msgid "seo_notebook-footer-application-category"
-msgstr ""
+msgstr "Kategorija: <span itemprop='applicationCategory'>{{NOTEBOOK.VENDOR.NAME}} laptopi</span>"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebook-footer-application-subcategory"
-msgstr ""
+msgstr "Podkategorija: <span itemprop='applicationSubCategory'>{{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}} laptopi</span>"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebook-footer-content"
-msgstr ""
+msgstr "Ovdje možete preuzeti drajvere za {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptop, ili preuzeti software za automatsku instalaciju i nadograđivanje drajvera od DriverPack Solution"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 #. CLASS.SINGLE.FOR=videocart|soundcart; RU: Пример:
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 #. CLASS.SINGLE.FOR=видеокарты|звуковой карты;
 msgid "seo_notebookdevices-title"
-msgstr ""
+msgstr "{{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}}{{CLASS.SINGLE.FOR}} drajver | Preuzmi za Windows"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 #. CLASS.SINGLE.FOR=videocart|soundcart; RU: Пример:
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 #. CLASS.SINGLE.FOR=видеокарты|звуковой карты;
 msgid "seo_notebookdevices-description"
-msgstr ""
+msgstr "Preuzmi {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}}{{CLASS.SINGLE.FOR}} drajvere za Windows 7, XP, 10, 8, i 8.1, ili instaliraj DriverPack Solution software"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 #. CLASS.PLURAL.FOR=videocarts|soundcarts; RU: Пример:
@@ -443,231 +443,231 @@ msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptop {{CLASS.SINGLE.FOR}} d
 #. CLASS.PLURAL.MAIN=видеокарты|чипсеты; NOTEBOOK.VENDOR.NAME=Acer;
 #. NOTEBOOK.NAME=AO533;
 msgid "seo_notebookdevices-keywords"
-msgstr ""
+msgstr "drajveri laptop netbook {{CLASS.PLURAL.MAIN}} Windows 7 8 10 64 preuzmi {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}}"
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 #. CLASS.PLURAL.FOR=videocarts|soundcarts; RU: Пример:
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 #. CLASS.PLURAL.FOR=видеокарт|звуковых карт;
 msgid "seo_notebookdevices-footer-description"
-msgstr ""
+msgstr "Preuzmi drajvere za {{CLASS.PLURAL.FOR}} za {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptope besplatno."
 
 #. i18n: EN: Example: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU:
 #. Пример: NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533;
 msgid "seo_notebookdevices-footer-application-category"
-msgstr ""
+msgstr "Kategorija: <span itemprop='applicationCategory'>{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptopi</span>"
 
 #. i18n: EN: Example: CLASS.PLURAL.MAIN=videocards|chipsets;
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU: Пример:
 #. CLASS.PLURAL.MAIN=видеокарты|чипсеты; NOTEBOOK.VENDOR.NAME=Acer;
 #. NOTEBOOK.NAME=AO533;
 msgid "seo_notebookdevices-footer-application-subcategory"
-msgstr ""
+msgstr "Podkategorija: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}}{{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}}</span>"
 
 #. i18n: EN: Example: CLASS.SINGLE.FOR=videocard|chipset;
 #. NOTEBOOK.VENDOR.NAME=Acer; NOTEBOOK.NAME=AO533; RU: Пример:
 #. CLASS.SINGLE.FOR=видеокарты|чипсета; NOTEBOOK.VENDOR.NAME=Acer;
 #. NOTEBOOK.NAME=AO533;
 msgid "seo_notebookdevices-footer-content"
-msgstr ""
+msgstr "Preuzmi drajvere za {{CLASS.SINGLE.FOR}} za {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptop za Windows 7, XP, 10, 8, i 8.1, ili preuzmi DriverPack Solution software za nadogradu drajvera"
 
 msgid "seo_search-title"
-msgstr ""
+msgstr "Pronađeni rezultati za: {{QUERY}} | DriverPack Solution"
 
 msgid "seo_devicegroupos-title"
-msgstr ""
+msgstr "Preuzmi {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} drajvere za Windows {{OS}}"
 
 msgid "seo_devicegroupos-description"
-msgstr ""
+msgstr "Instaliraj {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} drajver za Windows {{OS}}, ili preuzmi DriverPack Solution software za automatsku instalaciju i nadogradu drajvera."
 
 msgid "seo_devicegroupos-h1"
 msgstr "{{GROUP.VENDOR.NAME}} {{GROUP.NAME}} drajveri za Windows {{OS}}"
 
 msgid "seo_devicegroupos-keywords"
-msgstr ""
+msgstr "drajveri Windows {{OS}} preuzmi preuzmi PC {{GROUP.NAME}} {{GROUP.VENDOR.NAME}}"
 
 msgid "seo_devicegroupos-footer-description"
-msgstr ""
+msgstr "Preuzmi {{CLASS.SINGLE.FOR}} drajvere za {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} za Windows {{OS}} besplatno"
 
 msgid "seo_devicegroupos-footer-application-category"
-msgstr ""
+msgstr "Kategorija: <span itemprop='applicationCategory'>{{GROUP.VENDOR.NAME}}{{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_devicegroupos-footer-application-subcategory"
-msgstr ""
+msgstr "Podkategorija: <span itemprop='applicationSubCategory'>{{GROUP.NAME}}{{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_devicegroupos-footer-content"
-msgstr ""
+msgstr "Preuzmi drajvere za {{GROUP.VENDOR.NAME}} {{GROUP.NAME}} {{CLASS.PLURAL.FOR}} (Windows {{OS}}), ili instaliraj DriverPack Solution software za automatsko skidanje i nadograđivanje drajvera"
 
 msgid "seo_notebookos-title"
-msgstr ""
+msgstr "Preuzmi {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptop drajvere za Windows {{OS}}"
 
 msgid "seo_notebookos-description"
-msgstr ""
+msgstr "Instaliraj {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptop drajvere za Windows {{OS}}, ili preuzmi DriverPack Solution software za automatsku instalaciju i nadogradnju drajvera"
 
 msgid "seo_notebookos-h1"
 msgstr "{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptop drajveri za Windows {{OS}}"
 
 msgid "seo_notebookos-keywords"
-msgstr ""
+msgstr "drajveri drajveri laptop notebook laptop netbook netbook Windows {{OS}} preuzmi preuzmi {{NOTEBOOK.NAME}} {{NOTEBOOK.VENDOR.NAME}}"
 
 msgid "seo_notebookos-footer-description"
-msgstr ""
+msgstr "Preuzmi drajvere za {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptope za Windows {{OS}} besplatno"
 
 msgid "seo_notebookos-footer-application-category"
-msgstr ""
+msgstr "Kategorija: <span itemprop='applicationCategory'>{{NOTEBOOK.VENDOR.NAME}} laptopi</span>"
 
 msgid "seo_notebookos-footer-application-subcategory"
-msgstr ""
+msgstr "Podkategorija: <span itemprop='applicationSubCategory'>{{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}} laptopi</span>"
 
 msgid "seo_notebookos-footer-content"
-msgstr ""
+msgstr "Ovdje možete preuzeti drajvere za {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptop (Windows{{OS}}), ili preuzeti software za automatsku instalaciju i nadograđivanje drajvera od DriverPack Solution"
 
 msgid "seo_deviceclassos-title"
-msgstr ""
+msgstr "Preuzmi {{CLASS.SINGLE.FOR}} drajvere za Windows {{OS}}"
 
 msgid "seo_deviceclassos-description"
-msgstr ""
+msgstr "Instaliraj {{CLASS.SINGLE.FOR}} drajvere za Windows {{OS}}, ili preuzmi DriverPack Solution software za automatsku instalaciju i nadogradnju drajvera"
 
 msgid "seo_deviceclassos-h1"
 msgstr "{{CLASS.SINGLE.FOR}} drajveri za Windows {{OS}}"
 
 msgid "seo_deviceclassos-keywords"
-msgstr ""
+msgstr "{{CLASS.SINGLE.FOR}} drajveri Windows {{OS}} preuzmi preuzmi"
 
 msgid "seo_deviceclassos-footer-description"
-msgstr ""
+msgstr "Preuzmi {{CLASS.SINGLE.FOR}} drajvere za Windows {{OS}} besplatno"
 
 msgid "seo_deviceclassos-footer-application-category"
-msgstr ""
+msgstr "Kategorija: <span itemprop='applicationCategory'>Uređaji</span>"
 
 msgid "seo_deviceclassos-footer-application-subcategory"
-msgstr ""
+msgstr "Podkategorija: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_devicegroupsos-title"
-msgstr ""
+msgstr "Preuzmi {{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} drajveri za Windows {{OS}}"
 
 msgid "seo_devicegroupsos-description"
-msgstr ""
+msgstr "Instaliraj {{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} drajvere za Windows {{OS}}, ili preuzmi DriverPack Solution software za automatsku instalaciju i nadogradnju drajvera"
 
 msgid "seo_devicegroupsos-h1"
 msgstr "{{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} drajveri za Windows {{OS}}"
 
 msgid "seo_devicegroupsos-keywords"
-msgstr ""
+msgstr "drajveri Windows {{OS}} preuzmi preuzmi PC {{CLASS.PLURAL.MAIN}} {{VENDOR.NAME}}"
 
 msgid "seo_devicegroupsos-footer-description"
-msgstr ""
+msgstr "Preuzmi {{VENDOR.NAME}} {{CLASS.SINGLE.FOR}} drajveri za Windows {{OS}}"
 
 msgid "seo_devicegroupsos-footer-application-category"
-msgstr ""
+msgstr "Kategorija: <span itemprop='applicationCategory'>{{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_devicegroupsos-footer-application-subcategory"
-msgstr ""
+msgstr "Podkategorija: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}}{{CLASS.PLURAL.MAIN}}</span>"
 
 msgid "seo_devicegroupsos-footer-content"
-msgstr ""
+msgstr "Preuzmi drajvere za  {{VENDOR.NAME}} {{CLASS.PLURAL.FOR}} (Windows {{OS}}), ili instaliraj DriverPack Solution software za automatsko skidanje i nadograđivanje drajvera"
 
 msgid "seo_notebookvendoros-title"
-msgstr ""
+msgstr "Preuzmi {{VENDOR.NAME}} laptop drajvere za Windows{{OS}}"
 
 msgid "seo_notebookvendoros-description"
-msgstr ""
+msgstr "Instaliraj {{VENDOR.NAME}} drajvere za Windows {{OS}}, ili preuzmi DriverPack Solution software za automatsku instalaciju i nadogradnju drajvera"
 
 msgid "seo_notebookvendoros-h1"
 msgstr "{{VENDOR.NAME}} laptop drajveri za Windows {{OS}}"
 
 msgid "seo_notebookvendoros-keywords"
-msgstr ""
+msgstr "drajveri drajveri laptop notebook laptop netbook netbook Windows {{OS}} preuzmi preuzmi {{VENDOR.NAME}}"
 
 msgid "seo_notebookvendoros-footer-description"
-msgstr ""
+msgstr "Preuzmi drajvere za {{VENDOR.NAME}} laptope za Windows {{OS}} besplatno"
 
 msgid "seo_notebookvendoros-footer-application-category"
-msgstr ""
+msgstr "Kategorija: <span itemprop='applicationCategory'>Laptopi</span>"
 
 msgid "seo_notebookvendoros-footer-application-subcategory"
-msgstr ""
+msgstr "Podkategorija: <span itemprop='applicationSubCategory'>{{VENDOR.NAME}} laptopi</span>"
 
 msgid "seo_notebookvendoros-footer-content"
-msgstr ""
+msgstr "Preuzmi {{VENDOR.NAME}} laptop drajvere za Windows {{OS}} besplatno, ili instaliraj DriverPack Solution software za automatsko preuzimanje i nadogradnju drajvera"
 
 msgid "seo_hwidos-title"
-msgstr ""
+msgstr "{{DEVICE.DEVICEID}} preuzmi drajver za Windows {{OS}}"
 
 msgid "seo_hwidos-description"
-msgstr ""
+msgstr "Preuzmi {{DEVICE.DEVICEID}} drajver u Windows {{OS}} verziji besplatno"
 
 msgid "seo_hwidos-h1"
 msgstr "{{DEVICE.DEVICEID}} drajveri uređaja za Windows {{OS}}"
 
 msgid "seo_hwidos-keywords"
-msgstr ""
+msgstr "drajveri Windows {{OS}} preuzmi preuzmi PC {{DEVICE.DEVICEID}}"
 
 msgid "seo_hwidos-footer-description"
-msgstr ""
+msgstr "Preuzmi {{DEVICE.DEVICEID}} drajvere uređaja za Windows {{OS}} besplatno"
 
 msgid "seo_hwidos-footer-content"
-msgstr ""
+msgstr "Preuzmi {{DEVICE.DEVICEID}} drajver za Windows {{OS}} ili instaliraj DriverPack Solution software za automatsko skidanje i nadograđivanje drajvera"
 
 msgid "seo_notebookdevicesos-title"
-msgstr ""
+msgstr "{{CLASS.SINGLE.FOR}} drajveri za {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptop | Preuzmi za Windows {{OS}}"
 
 msgid "seo_notebookdevicesos-description"
-msgstr ""
+msgstr "Instaliraj {{CLASS.SINGLE.FOR}} drajvere za {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptop za Windows {{OS}}, ili preuzmi DriverPack Solution software za automatsku instalaciju i nadogradnju drajvera"
 
 msgid "seo_notebookdevicesos-h1"
 msgstr "Drajveri za {{CLASS.PLURAL.FOR}} od {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptopa | Windows-a {{OS}}"
 
 msgid "seo_notebookdevicesos-keywords"
-msgstr ""
+msgstr "drajveri laptop netbook {{CLASS.PLURAL.MAIN}} Windows {{OS}} preuzmi {{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}}"
 
 msgid "seo_notebookdevicesos-footer-description"
-msgstr ""
+msgstr "Preuzmi {{CLASS.SINGLE.FOR}} drajvere za {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptope za Windows {{OS}} besplatno"
 
 msgid "seo_notebookdevicesos-footer-application-category"
-msgstr ""
+msgstr "Kategorija: <span itemprop='applicationCategory'>{{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptopi</span>"
 
 msgid "seo_notebookdevicesos-footer-application-subcategory"
-msgstr ""
+msgstr "Podkategorija: <span itemprop='applicationSubCategory'>{{CLASS.PLURAL.MAIN}}{{NOTEBOOK.VENDOR.NAME}}{{NOTEBOOK.NAME}}</span>"
 
 msgid "seo_notebookdevicesos-footer-content"
-msgstr ""
+msgstr "Preuzmi drajvere za {{CLASS.SINGLE.FOR}} za {{NOTEBOOK.VENDOR.NAME}} {{NOTEBOOK.NAME}} laptop (Windows{{OS}}), ili preuzmi DriverPack Solution software za nadogradnju drajvera"
 
 msgid "seo_promopage_title"
-msgstr ""
+msgstr "DriverPack – besplatna nadogradnja drajvera"
 
 msgid "seo_promo-description"
-msgstr ""
+msgstr "DriverPack Solution preporučuje instaliranje drajvera za Vaš uređaj besplatno, ili preuzimanje software-a za automatsku instalaciju i nadogradnju drajvera"
 
 msgid "seo_promo-keywords"
-msgstr ""
+msgstr "preuzmi driver pack drajveri Windows 7 8 10 64 laptop besplatno drajver instaler drajver instalacija software"
 
 msgid "seo_promodevice_title"
-msgstr ""
+msgstr "Preuzmi drajvere za usb, Bluetooth, printere, Wi-Fi, i grafičke kartice besplatno"
 
 msgid "seo_promodevice-description"
-msgstr ""
+msgstr "DriverPack Solution će nadograditi Vaš usb, Bluetooth printer, Wi-Fi, i drajvere grafičke kartice na najnoviju verziju"
 
 msgid "seo_promodevice-keywords"
-msgstr ""
+msgstr "drajver, Bluetooth, printer, zvučna kartica, web kamera, miš, grafička kartica"
 
 msgid "seo_promovendors_title"
-msgstr ""
+msgstr "Preuzmi drajvere za Lenovo, Samsung, Acer, Asus, i Dell besplatno"
 
 msgid "seo_promovendors-description"
-msgstr ""
+msgstr "DriverPack će nadograditi Lenovo, Samsung, Acer, Asus, i Dell drajvere na najnoviju verziju"
 
 msgid "seo_promovendors-keywords"
-msgstr ""
+msgstr "driver, dell, samsung, lenovo, asus, acer, toshiba, asus"
 
 msgid "seo_promodrivers_title"
-msgstr ""
+msgstr "Preuzmi i instaliraj drajvere za Windows XP, 7, 8, 8.1 i 10."
 
 msgid "seo_promodrivers-description"
-msgstr ""
+msgstr "DriverPack će nadograditi Windows 7, Windows 10, Windows XP, Windows 8 drajvere besplatno"
 
 msgid "seo_promodrivers-keywords"
-msgstr ""
+msgstr "windows 7 drajver, preuzmi drajver, windows 10 drajver, drajver nagorađivanje, windows drajver, drajveri besplatno"
 
 msgid "seo_forgamers-description"
 msgstr ""
@@ -739,7 +739,7 @@ msgid "seo_soft-description"
 msgstr ""
 
 msgid "seo_soft-h1"
-msgstr ""
+msgstr "{{SOFT.NAME}} {{SOFT.VERSION}}"
 
 msgid "seo_soft-keywords"
 msgstr "DriverPack Solution"
