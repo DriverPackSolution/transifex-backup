@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-04-22 12:58+0000\n"
+"POT-Creation-Date: 2021-03-24 14:47+0000\n"
 "PO-Revision-Date: 2016-10-06 15:15+0000\n"
 "Last-Translator: Sergei <serjsafarian@gmail.com>, 2020\n"
 "Language-Team: Armenian (https://www.transifex.com/driverpack-solution/teams/75452/hy/)\n"
@@ -566,10 +566,112 @@ msgstr "Մանրամասն"
 msgid "settings_collect-drivers-href"
 msgstr "https://vk.com/topic-29220845_34743007"
 
+msgid "softcategories_archiver-single-for"
+msgstr "Նիշքային պահոցավորիչի"
+
+msgid "softcategories_browser-single-for"
+msgstr "Դիտարկիչի"
+
+msgid "softcategories_viewer-single-for"
+msgstr "Նիշքերի դիտման ծրագրի"
+
+msgid "softcategories_messenger-single-for"
+msgstr "Հաղորդագրությունների փոխանակման ծրագրի"
+
+msgid "softcategories_internet-single-for"
+msgstr "Համացանցում աշխատելու ծրագրի"
+
+msgid "softcategories_player-single-for"
+msgstr "Մեդիա նվագարկիչի"
+
+msgid "softcategories_backup-single-for"
+msgstr "Պահուստային պատճենների ստեղծման գործիքի"
+
+msgid "softcategories_antivirus-single-for"
+msgstr "Հակավիրուսի"
+
+msgid "softcategories_system-plural-for"
+msgstr "Համակարգային օժանդակ ծրագրերի"
+
+msgid "softcategories_drivers-plural-for"
+msgstr "Սարքավարների ճիշտ աշխատանքի համար օժանդակ ծրագրեր"
+
 #. i18n: EN: default value for {{MODEL}} in start_title key; RU: значение по
 #. умолчанию для {{MODEL}} в ключе start_title
 msgid "start_title_default_model"
 msgstr "Ձեր համակարգչի"
+
+msgid "start_installation_option_title_something_wrong"
+msgstr ""
+
+msgid "start_installation_option_mouse"
+msgstr ""
+
+msgid "start_installation_option_keyboard"
+msgstr ""
+
+msgid "start_installation_option_printer"
+msgstr ""
+
+msgid "start_installation_option_video"
+msgstr ""
+
+msgid "start_installation_option_sound"
+msgstr ""
+
+msgid "start_installation_option_usb"
+msgstr ""
+
+msgid "start_installation_option_webcam"
+msgstr ""
+
+msgid "start_installation_option_bluetooth"
+msgstr ""
+
+msgid "start_installation_option_wifi"
+msgstr ""
+
+msgid "start_installation_option_hard-drive"
+msgstr ""
+
+msgid "start_installation_option_screen"
+msgstr ""
+
+msgid "start_installation_option_monitor-connection"
+msgstr ""
+
+msgid "start_installation_option_internet"
+msgstr ""
+
+msgid "start_installation_option_memory-card"
+msgstr ""
+
+msgid "start_installation_option_modem"
+msgstr ""
+
+msgid "start_installation_option_browser"
+msgstr ""
+
+msgid "start_installation_option_phone-connection"
+msgstr ""
+
+msgid "start_installation_option_tvtuner-connection"
+msgstr ""
+
+msgid "start_installation_option_title_soft_wrong"
+msgstr ""
+
+msgid "start_installation_option_launching-soft"
+msgstr ""
+
+msgid "start_installation_option_title_pc_slows"
+msgstr ""
+
+msgid "start_installation_option_games"
+msgstr ""
+
+msgid "start_installation_option_viruses"
+msgstr ""
 
 msgid "assistant-chat_off-caption"
 msgstr "Ձայնային օգնականը <br />անջատված է"
@@ -1038,158 +1140,11 @@ msgstr "Ստեղծում ենք վերականգնման կետը…"
 msgid "installation_header_title"
 msgstr "Կարգավորում ենք Ձեր համակարգիչը…"
 
-msgid "installation_item_category_restorepoint"
-msgstr "Վերականգման կետ"
-
-msgid "driver_class_bluetooth"
-msgstr "Bluetooth սարք"
-
-msgid "driver_class_cardreader"
-msgstr "Քարտի ընթերցիչ"
-
-msgid "driver_class_chipset"
-msgstr "Չիպսեթ"
-
-msgid "driver_class_inputdev"
-msgstr "Ներածման սարք"
-
-msgid "driver_class_lan"
-msgstr "Ցանցային քարտ"
-
-msgid "driver_class_massstorage"
-msgstr "Կոնտրոլեր"
-
-msgid "driver_class_modem"
-msgstr "Մոդեմ"
-
-msgid "driver_class_monitor"
-msgstr "Մոնիտոր"
-
-msgid "driver_class_phone"
-msgstr "Խելախոս"
-
-msgid "driver_class_printer"
-msgstr "Տպիչ"
-
-msgid "driver_class_sound"
-msgstr "Ձայնաքարտ"
-
-msgid "driver_class_tvtuner"
-msgstr "ՀՏ-ընդունիչ"
-
-msgid "driver_class_video"
-msgstr "Տեսաքարտ"
-
-msgid "driver_class_webcamera"
-msgstr "Վեբ-խցիկ"
-
-msgid "driver_class_wifi"
-msgstr "Wi-Fi սարք"
-
-msgid "driver_class_other"
-msgstr "Այլ սարքեր"
-
-msgid "soft_category_archiver"
-msgstr "Պահոցների հետ աշխատանք"
-
-msgid "soft_category_browser"
-msgstr "Արագ և անվտանգ աշխատանք համացանցում"
-
-msgid "soft_category_viewer"
-msgstr "Պատկերների և փաստաթղթերի դիտում"
-
-msgid "soft_category_messenger"
-msgstr "Անվճար զանգեր և հաղորդագրություններ"
-
-msgid "soft_category_internet"
-msgstr "Օժանդակ ծրագրեր համացանցի համար"
-
-msgid "soft_category_player"
-msgstr "Ֆիլմերի և տեսանյութերի դիտում"
-
-msgid "soft_category_backup"
-msgstr "Տվյալների պահուստավորում և վերականգնում"
-
-msgid "soft_category_antivirus"
-msgstr "Հակավիրուսային պաշտպանություն"
-
-msgid "soft_category_system"
-msgstr "Համակարգային օժանդակ ծրագրերի"
-
-msgid "soft_category_drivers"
-msgstr "Օժանդակ ծրագրեր սարքավարների աշխատանքի համար"
-
-msgid "installation_item_eula"
-msgstr "Թույլատրագրման պայմանագիր"
-
-msgid "installation_item_policy"
-msgstr "Գաղտնիության քաղաքականություն"
-
-msgid "installation_error_download"
-msgstr "Ներբեռնման սխալ"
-
-msgid "installation_error_unzip"
-msgstr "Ապափաթեթավորման սխալ"
-
-msgid "installation_error_install"
-msgstr "Տեղադրման սխալ"
-
-msgid "installation_error_restore_disabled"
-msgstr "Սխալ. արգելված է համակարգի կարգավորումներով"
-
-msgid "installation_error_restore_not_created"
-msgstr "Չի ստեղծվել"
-
-msgid "installation_progress_stage_creating"
-msgstr "Ստեղծվում է"
-
-msgid "installation_progress_stage_created"
-msgstr "Ստեղծվել է"
-
-msgid "installation_progress_stage_waiting"
-msgstr "Սպասում է ներբեռնման"
-
-msgid "installation_progress_downloading_speed"
-msgstr "արագություն՝"
-
-msgid "installation_progress_downloading_of"
-msgstr "՝"
-
-msgid "installation_progress_downloaded"
-msgstr "ներբեռնվել է"
-
-msgid "installation_progress_stage_downloading"
-msgstr "Ներբեռնում"
-
-msgid "installation_progress_stage_downloaded"
-msgstr "Սպասում է տեղադրման"
-
-msgid "installation_progress_stage_unzipping"
-msgstr "Ապափաթեթավորում"
-
-msgid "installation_progress_unzipping_unzipped"
-msgstr "ապափաթեթավորված է"
-
-msgid "installation_progress_stage_installing"
-msgstr "Տեղադրում"
-
-msgid "installation_progress_stage_done"
-msgstr "Պատրաստ է"
-
-msgid "installation_canceled"
-msgstr "Դուք չեղարկել եք"
-
 msgid "restart_popup_title"
-msgstr "Շարունակելու համար պահանջվում է վերամեկնարկել"
+msgstr ""
 
 msgid "restart_popup_button"
 msgstr "Վերամեկնարկել"
-
-msgid "installation_title_name"
-msgstr "Տեղադրվելիք տարրերը"
-
-msgid "installation_item_description_restorepoint"
-msgstr "Համակարգը նախկին վիճակի հետադարձելու նարավորություն է տալիս, եթե ինչ-որ բան սխալ ընթանա"
 
 msgid "loading_backup_drivers"
 msgstr "Ստեղծվում է սարքավարների պահուստային պատճենը"
@@ -1291,7 +1246,7 @@ msgid "menu_settings"
 msgstr "Կարգավորումներ"
 
 msgid "menu_bugreport"
-msgstr "Հայտնել սխալի մասին"
+msgstr ""
 
 msgid "no-internet_title"
 msgstr "Կարծես, բացակայում է համացանցային կապը"
@@ -1578,6 +1533,18 @@ msgstr "Կիրականացվի բոլոր հարկավոր սարքավարնե�
 msgid "start_slider_all-top"
 msgstr "Այս ռեժիմում կտեղադրվեն այն սարքավարները, որոնք չեն երաշխավորում որոշ սարքերի կայուն աշխատանքը։"
 
+msgid "new-assistant-turn-on"
+msgstr ""
+
+msgid "new-assistant-turn-off"
+msgstr ""
+
+msgid "new-assistant-volume-turn-off"
+msgstr ""
+
+msgid "new-assistant-volume-turn-on"
+msgstr ""
+
 msgid "delorean_use_remote_confirm"
 msgstr "Ձեր համակարգիչը կապակցված է համացանցին։ Սարքավարների ամբողջ շտեմարանը գտնվում է ցանցում և պարունակում է ավելի նոր տարբերակներ։ Ցանկանու՞մ եք օգտագործել առցանց շտեմարանը (հնարավոր է համացանցի սպառում)։"
 
@@ -1677,36 +1644,6 @@ msgstr "Սիրո՞ւմ եք նոր տեխնոլոգիաները։ Աջակցեք
 msgid "installation_header_promo_text_istart"
 msgstr "Դուք է՞լ եք կարծում եք, որ որոնողական համակարգերը հնացել են։ Եթե այդպես է, աջակցեք iStart-ի երիտասարդ մշակողների թիմին, որոնք ունեն իրենց տեսակետը բովանդակության որոնման վերաբերյալ. որոնման եզակի ժապավեն, գովազդի ինքնաշխատ հեռացում, անանունություն, էջանիշների համակարգ, և այդ ամենը միայն սկիզբն է։ Տեխնոլոգիան բաց ալֆա-փորձարկման փուլում է, սակայն այն արդեն կարելի է փորձել։"
 
-msgid "softcategories_archiver-single-for"
-msgstr "Նիշքային պահոցավորիչի"
-
-msgid "softcategories_browser-single-for"
-msgstr "Դիտարկիչի"
-
-msgid "softcategories_viewer-single-for"
-msgstr "Նիշքերի դիտման ծրագրի"
-
-msgid "softcategories_messenger-single-for"
-msgstr "Հաղորդագրությունների փոխանակման ծրագրի"
-
-msgid "softcategories_internet-single-for"
-msgstr "Համացանցում աշխատելու ծրագրի"
-
-msgid "softcategories_player-single-for"
-msgstr "Մեդիա նվագարկիչի"
-
-msgid "softcategories_backup-single-for"
-msgstr "Պահուստային պատճենների ստեղծման գործիքի"
-
-msgid "softcategories_antivirus-single-for"
-msgstr "Հակավիրուսի"
-
-msgid "softcategories_system-plural-for"
-msgstr "Համակարգային օժանդակ ծրագրերի"
-
-msgid "softcategories_drivers-plural-for"
-msgstr "Սարքավարների ճիշտ աշխատանքի համար օժանդակ ծրագրեր"
-
 msgid "installation_application_restart_confirm_text_1"
 msgstr "Սարքավարները տեղադրելու համար խորհուրդ ենք տալիս առժամապես փակել աշխատող բոլոր ծրագրերը"
 
@@ -1737,3 +1674,155 @@ msgstr "Ձայնաքարտը ճիշտ չէ միացված կամ նրա աշխա
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "Armenian"
+
+#~ msgid "start_caption_select_problems"
+#~ msgstr ""
+
+#~ msgid "installation_item_category_restorepoint"
+#~ msgstr "Վերականգման կետ"
+
+#~ msgid "driver_class_bluetooth"
+#~ msgstr "Bluetooth սարք"
+
+#~ msgid "driver_class_cardreader"
+#~ msgstr "Քարտի ընթերցիչ"
+
+#~ msgid "driver_class_chipset"
+#~ msgstr "Չիպսեթ"
+
+#~ msgid "driver_class_inputdev"
+#~ msgstr "Ներածման սարք"
+
+#~ msgid "driver_class_lan"
+#~ msgstr "Ցանցային քարտ"
+
+#~ msgid "driver_class_massstorage"
+#~ msgstr "Կոնտրոլեր"
+
+#~ msgid "driver_class_modem"
+#~ msgstr "Մոդեմ"
+
+#~ msgid "driver_class_monitor"
+#~ msgstr "Մոնիտոր"
+
+#~ msgid "driver_class_phone"
+#~ msgstr "Խելախոս"
+
+#~ msgid "driver_class_printer"
+#~ msgstr "Տպիչ"
+
+#~ msgid "driver_class_sound"
+#~ msgstr "Ձայնաքարտ"
+
+#~ msgid "driver_class_tvtuner"
+#~ msgstr "ՀՏ-ընդունիչ"
+
+#~ msgid "driver_class_video"
+#~ msgstr "Տեսաքարտ"
+
+#~ msgid "driver_class_webcamera"
+#~ msgstr "Վեբ-խցիկ"
+
+#~ msgid "driver_class_wifi"
+#~ msgstr "Wi-Fi սարք"
+
+#~ msgid "driver_class_other"
+#~ msgstr "Այլ սարքեր"
+
+#~ msgid "soft_category_archiver"
+#~ msgstr "Պահոցների հետ աշխատանք"
+
+#~ msgid "soft_category_browser"
+#~ msgstr "Արագ և անվտանգ աշխատանք համացանցում"
+
+#~ msgid "soft_category_viewer"
+#~ msgstr "Պատկերների և փաստաթղթերի դիտում"
+
+#~ msgid "soft_category_messenger"
+#~ msgstr "Անվճար զանգեր և հաղորդագրություններ"
+
+#~ msgid "soft_category_internet"
+#~ msgstr "Օժանդակ ծրագրեր համացանցի համար"
+
+#~ msgid "soft_category_player"
+#~ msgstr "Ֆիլմերի և տեսանյութերի դիտում"
+
+#~ msgid "soft_category_backup"
+#~ msgstr "Տվյալների պահուստավորում և վերականգնում"
+
+#~ msgid "soft_category_antivirus"
+#~ msgstr "Հակավիրուսային պաշտպանություն"
+
+#~ msgid "soft_category_system"
+#~ msgstr "Համակարգային օժանդակ ծրագրերի"
+
+#~ msgid "soft_category_drivers"
+#~ msgstr "Օժանդակ ծրագրեր սարքավարների աշխատանքի համար"
+
+#~ msgid "installation_item_eula"
+#~ msgstr "Թույլատրագրման պայմանագիր"
+
+#~ msgid "installation_item_policy"
+#~ msgstr "Գաղտնիության քաղաքականություն"
+
+#~ msgid "installation_error_download"
+#~ msgstr "Ներբեռնման սխալ"
+
+#~ msgid "installation_error_unzip"
+#~ msgstr "Ապափաթեթավորման սխալ"
+
+#~ msgid "installation_error_install"
+#~ msgstr "Տեղադրման սխալ"
+
+#~ msgid "installation_error_restore_disabled"
+#~ msgstr "Սխալ. արգելված է համակարգի կարգավորումներով"
+
+#~ msgid "installation_error_restore_not_created"
+#~ msgstr "Չի ստեղծվել"
+
+#~ msgid "installation_progress_stage_creating"
+#~ msgstr "Ստեղծվում է"
+
+#~ msgid "installation_progress_stage_created"
+#~ msgstr "Ստեղծվել է"
+
+#~ msgid "installation_progress_stage_waiting"
+#~ msgstr "Սպասում է ներբեռնման"
+
+#~ msgid "installation_progress_downloading_speed"
+#~ msgstr "արագություն՝"
+
+#~ msgid "installation_progress_downloading_of"
+#~ msgstr "՝"
+
+#~ msgid "installation_progress_downloaded"
+#~ msgstr "ներբեռնվել է"
+
+#~ msgid "installation_progress_stage_downloading"
+#~ msgstr "Ներբեռնում"
+
+#~ msgid "installation_progress_stage_downloaded"
+#~ msgstr "Սպասում է տեղադրման"
+
+#~ msgid "installation_progress_stage_unzipping"
+#~ msgstr "Ապափաթեթավորում"
+
+#~ msgid "installation_progress_unzipping_unzipped"
+#~ msgstr "ապափաթեթավորված է"
+
+#~ msgid "installation_progress_stage_installing"
+#~ msgstr "Տեղադրում"
+
+#~ msgid "installation_progress_stage_done"
+#~ msgstr "Պատրաստ է"
+
+#~ msgid "installation_canceled"
+#~ msgstr "Դուք չեղարկել եք"
+
+#~ msgid "installation_title_name"
+#~ msgstr "Տեղադրվելիք տարրերը"
+
+#~ msgid "installation_item_description_restorepoint"
+#~ msgstr ""
+#~ "Համակարգը նախկին վիճակի հետադարձելու նարավորություն է տալիս, եթե ինչ-որ բան "
+#~ "սխալ ընթանա"

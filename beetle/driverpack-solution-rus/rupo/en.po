@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-04-22 12:58+0000\n"
+"POT-Creation-Date: 2021-03-24 14:47+0000\n"
 "PO-Revision-Date: 2016-10-06 15:15+0000\n"
 "Last-Translator: Nadia Tegeneva <nadia@drp.su>, 2020\n"
 "Language-Team: English (https://www.transifex.com/driverpack-solution/teams/75452/en/)\n"
@@ -571,10 +571,112 @@ msgstr "Learn more"
 msgid "settings_collect-drivers-href"
 msgstr "https://vk.com/topic-29220845_34743007"
 
+msgid "softcategories_archiver-single-for"
+msgstr "file archiver"
+
+msgid "softcategories_browser-single-for"
+msgstr "browser"
+
+msgid "softcategories_viewer-single-for"
+msgstr "file view software"
+
+msgid "softcategories_messenger-single-for"
+msgstr "messaging software"
+
+msgid "softcategories_internet-single-for"
+msgstr "software to operate in the Internet network"
+
+msgid "softcategories_player-single-for"
+msgstr "media player"
+
+msgid "softcategories_backup-single-for"
+msgstr "backup creation tool"
+
+msgid "softcategories_antivirus-single-for"
+msgstr "antivirus"
+
+msgid "softcategories_system-plural-for"
+msgstr "system utilities"
+
+msgid "softcategories_drivers-plural-for"
+msgstr "tools for proper drivers operation"
+
 #. i18n: EN: default value for {{MODEL}} in start_title key; RU: значение по
 #. умолчанию для {{MODEL}} в ключе start_title
 msgid "start_title_default_model"
 msgstr "your computer"
+
+msgid "start_installation_option_title_something_wrong"
+msgstr ""
+
+msgid "start_installation_option_mouse"
+msgstr ""
+
+msgid "start_installation_option_keyboard"
+msgstr ""
+
+msgid "start_installation_option_printer"
+msgstr ""
+
+msgid "start_installation_option_video"
+msgstr ""
+
+msgid "start_installation_option_sound"
+msgstr ""
+
+msgid "start_installation_option_usb"
+msgstr ""
+
+msgid "start_installation_option_webcam"
+msgstr ""
+
+msgid "start_installation_option_bluetooth"
+msgstr ""
+
+msgid "start_installation_option_wifi"
+msgstr ""
+
+msgid "start_installation_option_hard-drive"
+msgstr ""
+
+msgid "start_installation_option_screen"
+msgstr ""
+
+msgid "start_installation_option_monitor-connection"
+msgstr ""
+
+msgid "start_installation_option_internet"
+msgstr ""
+
+msgid "start_installation_option_memory-card"
+msgstr ""
+
+msgid "start_installation_option_modem"
+msgstr ""
+
+msgid "start_installation_option_browser"
+msgstr ""
+
+msgid "start_installation_option_phone-connection"
+msgstr ""
+
+msgid "start_installation_option_tvtuner-connection"
+msgstr ""
+
+msgid "start_installation_option_title_soft_wrong"
+msgstr ""
+
+msgid "start_installation_option_launching-soft"
+msgstr ""
+
+msgid "start_installation_option_title_pc_slows"
+msgstr ""
+
+msgid "start_installation_option_games"
+msgstr ""
+
+msgid "start_installation_option_viruses"
+msgstr ""
 
 msgid "assistant-chat_off-caption"
 msgstr "Voice Assistant <br /> is disabled"
@@ -1043,158 +1145,11 @@ msgstr "We are creating the restore point..."
 msgid "installation_header_title"
 msgstr "We are configuring your computer…"
 
-msgid "installation_item_category_restorepoint"
-msgstr "Restore point"
-
-msgid "driver_class_bluetooth"
-msgstr "Bluetooth device"
-
-msgid "driver_class_cardreader"
-msgstr "Card reader"
-
-msgid "driver_class_chipset"
-msgstr "Chipset"
-
-msgid "driver_class_inputdev"
-msgstr "Input device"
-
-msgid "driver_class_lan"
-msgstr "Network card"
-
-msgid "driver_class_massstorage"
-msgstr "Controller"
-
-msgid "driver_class_modem"
-msgstr "Modem"
-
-msgid "driver_class_monitor"
-msgstr "Monitor"
-
-msgid "driver_class_phone"
-msgstr "Smartphone"
-
-msgid "driver_class_printer"
-msgstr "Printer"
-
-msgid "driver_class_sound"
-msgstr "Sound card"
-
-msgid "driver_class_tvtuner"
-msgstr "TV-tuner"
-
-msgid "driver_class_video"
-msgstr "Video card"
-
-msgid "driver_class_webcamera"
-msgstr "Webcam"
-
-msgid "driver_class_wifi"
-msgstr "Wi-Fi device"
-
-msgid "driver_class_other"
-msgstr "Other devices"
-
-msgid "soft_category_archiver"
-msgstr "Operations with archives"
-
-msgid "soft_category_browser"
-msgstr "Fast and safe operation on the Internet"
-
-msgid "soft_category_viewer"
-msgstr "Images and documents view"
-
-msgid "soft_category_messenger"
-msgstr "Free calls and messaging"
-
-msgid "soft_category_internet"
-msgstr "Internet utilities"
-
-msgid "soft_category_player"
-msgstr "Movie and video watch"
-
-msgid "soft_category_backup"
-msgstr "Backup and data restore"
-
-msgid "soft_category_antivirus"
-msgstr "Antivirus protection"
-
-msgid "soft_category_system"
-msgstr "System utilities"
-
-msgid "soft_category_drivers"
-msgstr "Toolkits for driver operation"
-
-msgid "installation_item_eula"
-msgstr "License Agreement"
-
-msgid "installation_item_policy"
-msgstr "Privacy Policy"
-
-msgid "installation_error_download"
-msgstr "Download error"
-
-msgid "installation_error_unzip"
-msgstr "Unpacking Error"
-
-msgid "installation_error_install"
-msgstr "Installation Error"
-
-msgid "installation_error_restore_disabled"
-msgstr "Error: forbidden by system settings"
-
-msgid "installation_error_restore_not_created"
-msgstr "Not Created"
-
-msgid "installation_progress_stage_creating"
-msgstr "Creating..."
-
-msgid "installation_progress_stage_created"
-msgstr "It has been created"
-
-msgid "installation_progress_stage_waiting"
-msgstr "It is waiting for its turn to be downloaded"
-
-msgid "installation_progress_downloading_speed"
-msgstr "speed"
-
-msgid "installation_progress_downloading_of"
-msgstr "of"
-
-msgid "installation_progress_downloaded"
-msgstr "downloaded: "
-
-msgid "installation_progress_stage_downloading"
-msgstr "Loading..."
-
-msgid "installation_progress_stage_downloaded"
-msgstr "It is waiting for its turn to be installed"
-
-msgid "installation_progress_stage_unzipping"
-msgstr "Unpacking..."
-
-msgid "installation_progress_unzipping_unzipped"
-msgstr "unpacked"
-
-msgid "installation_progress_stage_installing"
-msgstr "Installing..."
-
-msgid "installation_progress_stage_done"
-msgstr "Done"
-
-msgid "installation_canceled"
-msgstr "You have cancelled it"
-
 msgid "restart_popup_title"
-msgstr "Reboot is needed to go on"
+msgstr ""
 
 msgid "restart_popup_button"
 msgstr "Reboot"
-
-msgid "installation_title_name"
-msgstr "Installation items"
-
-msgid "installation_item_description_restorepoint"
-msgstr "It enables a system roll-back to its previous state if something goes wrong"
 
 msgid "loading_backup_drivers"
 msgstr "Driver backup is being created"
@@ -1296,7 +1251,7 @@ msgid "menu_settings"
 msgstr "Settings"
 
 msgid "menu_bugreport"
-msgstr "Report about error"
+msgstr ""
 
 msgid "no-internet_title"
 msgstr "It looks like there is no connection to the Internet"
@@ -1583,6 +1538,18 @@ msgstr "All available drivers will be completely installed and updated."
 msgid "start_slider_all-top"
 msgstr "The drivers that do not guarantee stable operation of some devices will be installed under this mode."
 
+msgid "new-assistant-turn-on"
+msgstr ""
+
+msgid "new-assistant-turn-off"
+msgstr ""
+
+msgid "new-assistant-volume-turn-off"
+msgstr ""
+
+msgid "new-assistant-volume-turn-on"
+msgstr ""
+
 msgid "delorean_use_remote_confirm"
 msgstr "An active Internet connection has been detected on your computer. The full driver database is available online, and it contains the latest versions. Do you want to use the database from the network? (traffic usage is possible)"
 
@@ -1682,36 +1649,6 @@ msgstr "Do you like new technologies? Support a good startup"
 msgid "installation_header_promo_text_istart"
 msgstr "Do you also think that the search engines are obsolete? If so, support a young iStart developers team who have their own view of content search: a unique search band, automatic ad removal, anonymity — and all this is just the beginning. This technology is undergoing through the stage of open Alpha-testing but it is already available for trying."
 
-msgid "softcategories_archiver-single-for"
-msgstr "file archiver"
-
-msgid "softcategories_browser-single-for"
-msgstr "browser"
-
-msgid "softcategories_viewer-single-for"
-msgstr "file view software"
-
-msgid "softcategories_messenger-single-for"
-msgstr "messaging software"
-
-msgid "softcategories_internet-single-for"
-msgstr "software to operate in the Internet network"
-
-msgid "softcategories_player-single-for"
-msgstr "media player"
-
-msgid "softcategories_backup-single-for"
-msgstr "backup creation tool"
-
-msgid "softcategories_antivirus-single-for"
-msgstr "antivirus"
-
-msgid "softcategories_system-plural-for"
-msgstr "system utilities"
-
-msgid "softcategories_drivers-plural-for"
-msgstr "tools for proper drivers operation"
-
 msgid "installation_application_restart_confirm_text_1"
 msgstr "We recommend that you close all other active software while drivers are installing"
 
@@ -1742,3 +1679,154 @@ msgstr "The sound card is connected incorrectly, or there are some problems with
 #. i18n: EN: Language name in ENGLISH; RU: Название языка на АНГЛИЙСКОМ;
 msgid "language_title"
 msgstr "English"
+
+#~ msgid "start_caption_select_problems"
+#~ msgstr ""
+
+#~ msgid "installation_item_category_restorepoint"
+#~ msgstr "Restore point"
+
+#~ msgid "driver_class_bluetooth"
+#~ msgstr "Bluetooth device"
+
+#~ msgid "driver_class_cardreader"
+#~ msgstr "Card reader"
+
+#~ msgid "driver_class_chipset"
+#~ msgstr "Chipset"
+
+#~ msgid "driver_class_inputdev"
+#~ msgstr "Input device"
+
+#~ msgid "driver_class_lan"
+#~ msgstr "Network card"
+
+#~ msgid "driver_class_massstorage"
+#~ msgstr "Controller"
+
+#~ msgid "driver_class_modem"
+#~ msgstr "Modem"
+
+#~ msgid "driver_class_monitor"
+#~ msgstr "Monitor"
+
+#~ msgid "driver_class_phone"
+#~ msgstr "Smartphone"
+
+#~ msgid "driver_class_printer"
+#~ msgstr "Printer"
+
+#~ msgid "driver_class_sound"
+#~ msgstr "Sound card"
+
+#~ msgid "driver_class_tvtuner"
+#~ msgstr "TV-tuner"
+
+#~ msgid "driver_class_video"
+#~ msgstr "Video card"
+
+#~ msgid "driver_class_webcamera"
+#~ msgstr "Webcam"
+
+#~ msgid "driver_class_wifi"
+#~ msgstr "Wi-Fi device"
+
+#~ msgid "driver_class_other"
+#~ msgstr "Other devices"
+
+#~ msgid "soft_category_archiver"
+#~ msgstr "Operations with archives"
+
+#~ msgid "soft_category_browser"
+#~ msgstr "Fast and safe operation on the Internet"
+
+#~ msgid "soft_category_viewer"
+#~ msgstr "Images and documents view"
+
+#~ msgid "soft_category_messenger"
+#~ msgstr "Free calls and messaging"
+
+#~ msgid "soft_category_internet"
+#~ msgstr "Internet utilities"
+
+#~ msgid "soft_category_player"
+#~ msgstr "Movie and video watch"
+
+#~ msgid "soft_category_backup"
+#~ msgstr "Backup and data restore"
+
+#~ msgid "soft_category_antivirus"
+#~ msgstr "Antivirus protection"
+
+#~ msgid "soft_category_system"
+#~ msgstr "System utilities"
+
+#~ msgid "soft_category_drivers"
+#~ msgstr "Toolkits for driver operation"
+
+#~ msgid "installation_item_eula"
+#~ msgstr "License Agreement"
+
+#~ msgid "installation_item_policy"
+#~ msgstr "Privacy Policy"
+
+#~ msgid "installation_error_download"
+#~ msgstr "Download error"
+
+#~ msgid "installation_error_unzip"
+#~ msgstr "Unpacking Error"
+
+#~ msgid "installation_error_install"
+#~ msgstr "Installation Error"
+
+#~ msgid "installation_error_restore_disabled"
+#~ msgstr "Error: forbidden by system settings"
+
+#~ msgid "installation_error_restore_not_created"
+#~ msgstr "Not Created"
+
+#~ msgid "installation_progress_stage_creating"
+#~ msgstr "Creating..."
+
+#~ msgid "installation_progress_stage_created"
+#~ msgstr "It has been created"
+
+#~ msgid "installation_progress_stage_waiting"
+#~ msgstr "It is waiting for its turn to be downloaded"
+
+#~ msgid "installation_progress_downloading_speed"
+#~ msgstr "speed"
+
+#~ msgid "installation_progress_downloading_of"
+#~ msgstr "of"
+
+#~ msgid "installation_progress_downloaded"
+#~ msgstr "downloaded: "
+
+#~ msgid "installation_progress_stage_downloading"
+#~ msgstr "Loading..."
+
+#~ msgid "installation_progress_stage_downloaded"
+#~ msgstr "It is waiting for its turn to be installed"
+
+#~ msgid "installation_progress_stage_unzipping"
+#~ msgstr "Unpacking..."
+
+#~ msgid "installation_progress_unzipping_unzipped"
+#~ msgstr "unpacked"
+
+#~ msgid "installation_progress_stage_installing"
+#~ msgstr "Installing..."
+
+#~ msgid "installation_progress_stage_done"
+#~ msgstr "Done"
+
+#~ msgid "installation_canceled"
+#~ msgstr "You have cancelled it"
+
+#~ msgid "installation_title_name"
+#~ msgstr "Installation items"
+
+#~ msgid "installation_item_description_restorepoint"
+#~ msgstr ""
+#~ "It enables a system roll-back to its previous state if something goes wrong"
